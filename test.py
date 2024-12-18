@@ -1,5 +1,13 @@
 import requests
 import json
+import threading
+import time
+
+searched = {}
+links = {}
+MAX_TIME = 2
+LAST_FETCH = time.time()
+RATE_LIMIT = 0.1
 
 def parse_title(raw):
     return raw.replace(" ", "_")
@@ -35,8 +43,22 @@ def parse_links(js):
 
 # main connections function
 def get_connections(title):
+    global LAST_FETCH
+    
+    if title in searched and searched[title]:
+        return []
+
     links = []
+
+    now = time.time()
+    while not (now - LAST_FETCH) > 0.1:
+        now = time.time()
+
+    LAST_FETCH = now
+    print(title)
     response = requests.get(format_link(title, False)).json()
+    print(f'{title} fetched!')
+    
 
     links.append(parse_links(response))
 
@@ -49,5 +71,37 @@ def get_connections(title):
 
 
 
-links = get_connections("Luigi Mangione")
-print(links)
+
+# search function
+def bfs(root):
+    now = time.time()
+    if (now - start) > MAX_TIME:
+        return
+    
+    initialLinks = get_connections(root)
+    if (len(initialLinks)==0):
+        return
+
+    initialLinks = initialLinks[0]
+    searched[root] = 1
+    links[root] = initialLinks
+    threads = []
+
+    for con in initialLinks:
+        # Fix: Create thread with target function
+        t1 = threading.Thread(target=bfs, args=(con,))
+        t1.start()
+        threads.append(t1)
+    
+    for thread in threads:
+        thread.join()
+
+
+
+    
+
+    
+    
+start = time.time()
+links = bfs("Luigi Mangione")
+print('lol')
