@@ -44,7 +44,7 @@ def parse_links(js):
 # main connections function
 def get_connections(title):
     global LAST_FETCH
-    
+
     if title in searched and searched[title]:
         return []
 
@@ -74,6 +74,8 @@ def get_connections(title):
 
 # search function
 def bfs(root):
+    global links
+
     now = time.time()
     if (now - start) > MAX_TIME:
         return
@@ -97,11 +99,13 @@ def bfs(root):
         thread.join()
 
 
-
-    
-
-    
-    
 start = time.time()
-links = bfs("Luigi Mangione")
-print('lol')
+bfs("Luigi Mangione")
+
+for title in links.keys():
+    f = open(f'data/{title}.txt', 'w')
+    out = ''
+    for con in links[title]:
+        out += con + '\n'
+    
+    f.write(out)
