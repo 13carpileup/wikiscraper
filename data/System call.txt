@@ -1,0 +1,140 @@
+AMD
+API
+Abstraction (computer science)
+Address space
+Application binary interface
+Application code
+Application programming interface
+Assembly language
+Binary-code compatibility
+C++
+CP-67
+CPU modes
+C (programming language)
+C standard library
+Call gate
+Call gate (Intel)
+Call stack
+Calling convention
+Close (system call)
+Complex instruction set computer
+Computer network
+Computer program
+Context switch
+DOS/360 and successors
+DOS API
+Data structure alignment
+Dynamic linker
+Dynamic memory allocation
+Embedded system
+Exec (operating system)
+Exec (system call)
+Exit (system call)
+Exokernel
+Foreign function interface
+Fork (operating system)
+Fork (system call)
+Frame buffer
+FreeBSD
+Ftrace
+Garbage collection (computer science)
+Glibc
+HP-UX
+Hard disk drive
+High-level programming language
+IA-32
+IA-64
+IBM System/360
+INT (x86 instruction)
+IOS
+IRIX
+ISBN (identifier)
+Instruction set
+Instruction set architecture
+Intel
+Interrupt
+KernelTrap
+Kernel (operating system)
+Kernel mode
+Kernel service
+Kill (command)
+Kill (system call)
+Language binding
+Library (computing)
+Linker (computing)
+Linux
+Linux distribution
+Linux kernel
+Linux kernel API
+Loader (computing)
+MVS/SP
+MacOS
+Machine code
+Macro (computer science)
+Memory segmentation
+Microsoft Windows
+Minicomputer
+Modularity
+Multics
+Multithreading (computer architecture)
+Name mangling
+Native API
+NetBSD
+OCLC (identifier)
+OS/360 and successors
+Object code
+Opaque pointer
+OpenBSD
+Open (system call)
+Operating system
+PDP-11
+POSIX
+Plan 9 from Bell Labs
+Portability (software)
+Position-independent code
+Process (computing)
+Process scheduling
+Processor register
+Procfs
+Ptrace
+RISC
+Read (system call)
+Relocation (computing)
+Resource (computer science)
+Ring (computer security)
+Service Request Block
+Signal (computing)
+Software interrupt
+Software portability
+Solaris (operating system)
+Static library
+Status register
+Strace
+Subroutine
+Subroutine call
+Supervisor Call instruction
+System command
+TSS/360
+Thread (computing)
+Thread pool
+Trap (computing)
+Truss (Unix)
+UNIX-like
+Unix
+Unix-like
+Userspace
+VAX
+VDSO
+VM (operating system)
+VSE (operating system)
+Virtual method table
+Wait (operating system)
+Wait (system call)
+Windows API
+Windows NT
+Wrapper function
+Write (system call)
+X86
+X86 memory segmentation
+Year 2038 problem
+Z/OS

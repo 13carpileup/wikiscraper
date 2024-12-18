@@ -1,0 +1,339 @@
+(p,q) shuffle
+1-form
+4-space
+4-vector
+Abelian category
+Absolute value
+Abstract algebra
+Abstract index notation
+Adhémar Jean Claude Barré de Saint-Venant
+Affine connection
+Affine space
+Albert Einstein
+Alfred North Whitehead
+Algebra homomorphism
+Algebraic topology
+Algebraic variety
+Alternating algebra
+Alternating map
+Alternating multilinear map
+Angular momentum
+Anticommutative
+Antisymmetric tensor
+Area
+Associative algebra
+Associative law
+Augustin-Louis Cauchy
+Basic Linear Algebra Subprograms
+Basis (linear algebra)
+Basis of a vector space
+Bernhard Riemann
+Bialgebra
+Bibcode (identifier)
+Bilinear map
+Binomial coefficient
+Bivector
+Blade (geometry)
+Block matrix
+Bryce DeWitt
+Carl Friedrich Gauss
+Cartan formalism (physics)
+Cartesian product
+Category (mathematics)
+Cauchy stress tensor
+Cauchy–Binet formula
+Chain complex
+Change of basis
+Characteristic of a field
+Clifford algebra
+Coalgebra
+Cochain complex
+Commutative ring
+Comparison of linear algebra libraries
+Computer vision
+Connection form
+Continuum mechanics
+Coordinate surface
+Coordinate system
+Coproduct
+Covariance and contravariance of vectors
+Covariant derivative
+Cramer's rule
+Cross product
+Cylinder set
+De Rham cohomology
+Degenerate (mathematics)
+Derivation (abstract algebra)
+Determinant
+Differentiable manifold
+Differential (mathematics)
+Differential form
+Differential forms
+Differential geometry
+Differential graded algebra
+Differential operator
+Dimension
+Dimension (linear algebra)
+Direct sum
+Direct sum of modules
+Displacement vector
+Distributive law
+Divergence
+Doi (identifier)
+Domain of a function
+Dot product
+Dual space
+Dual vector space
+Dyadics
+Eigenvalues and eigenvectors
+Einstein notation
+Einstein summation convention
+Einstein tensor
+Electromagnetic field
+Electromagnetic tensor
+Electromagnetism
+Ellipsoid
+Elwin Bruno Christoffel
+Encyclopedia of Mathematics
+Engineering
+Euclidean geometry
+Euclidean space
+Euclidean vector
+Euclidean vector space
+European Mathematical Society
+Exterior calculus
+Exterior calculus identities
+Exterior covariant derivative
+Exterior derivative
+Exterior form
+Exterior product
+Fermion
+Fiber bundle
+Field (mathematics)
+Filtration (mathematics)
+Finitely generated module
+Floating-point arithmetic
+Function (mathematics)
+Function space
+Functor
+Fundamental representation
+Garrett Birkhoff
+Gaston Darboux
+Gaussian elimination
+General linear group
+General relativity
+Geodesic
+Geometric algebra
+Geometry
+Germ (mathematics)
+Gilbert Strang
+Giuseppe Peano
+Glossary of linear algebra
+Glossary of tensor theory
+Gluon field strength tensor
+Graded algebra
+Graded derivation
+Graded module
+Gramian matrix
+Gram–Schmidt process
+Grassmann number
+Grassmannian
+Gregorio Ricci-Curbastro
+Hadamard product (matrices)
+Henri Poincaré
+Henry Forder
+Hermann Grassmann
+Hermann Weyl
+Hodge star operator
+Homological algebra
+Homology theory
+Hopf algebra
+Hypervolume
+ISBN (identifier)
+Ideal (ring theory)
+Igor Shafarevich
+Index notation
+Inner product
+Inner product space
+Integral
+Interior product
+Internet Archive
+Invertible matrix
+Irreducible representation
+JSTOR (identifier)
+Jacobi identity
+Jan Arnoldus Schouten
+Karl Weierstrass
+Kernel (linear algebra)
+Koszul complex
+Kronecker delta
+Kronecker product
+Leonhard Euler
+Leopold Kronecker
+Levi-Civita connection
+Levi-Civita symbol
+Lie algebra homology
+Lie derivative
+Lie superalgebra
+Line integral
+Line segment
+Linear algebra
+Linear combination
+Linear functional
+Linear independence
+Linear map
+Linear span
+Linear subspace
+Linear transformation
+Linearly dependent
+Lorentz metric
+Magnitude (mathematics)
+Manifold
+Mathematician
+Mathematics
+Matrix (mathematics)
+Matrix decomposition
+Matrix multiplication
+Metric signature
+Metric tensor
+Metric tensor (general relativity)
+Michael Spivak
+Minor (linear algebra)
+Minor (mathematics)
+Minor (matrix)
+Mixed tensor
+Module (mathematics)
+Moment of inertia
+Multi-index notation
+Multilinear algebra
+Multilinear form
+Multilinear map
+Multivariate calculus
+Multivector
+Musical isomorphism
+Natural transformation
+Nicolas Bourbaki
+Nonmetricity tensor
+Numerical linear algebra
+Numerical stability
+Open sets
+Operation (mathematics)
+Orientability
+Orientation (vector space)
+Orthogonality
+Orthonormal basis
+Outer product
+Outermorphism
+Outline of linear algebra
+P-vector
+Parallelepiped
+Parallelogram
+Partial differential equations
+Penrose graphical notation
+Permutation
+Permutation group
+Philip A. Griffiths
+Physics
+Plücker embedding
+Plücker relations
+Productive matrix
+Projection (linear algebra)
+Projective module
+Projective space
+Propositional calculus
+Pseudo-Euclidean space
+Pseudotensor
+Pullback (differential geometry)
+Quadratic form
+Quantum group
+Quotient ring
+Quotient space (linear algebra)
+Raising and lowering indices
+Rank (linear algebra)
+Rank of a matrix
+Real number
+Representation theory
+Ricci calculus
+Ricci curvature
+Richard L. Bishop
+Riemann curvature tensor
+Robert Bryant (mathematician)
+Row and column spaces
+Row and column vectors
+S2CID (identifier)
+Saunders Mac Lane
+Scalar (mathematics)
+Scalar multiplication
+Schur functor
+Serre–Swan theorem
+Seven-dimensional cross product
+Sheaf (mathematics)
+Shiing-Shen Chern
+Shlomo Sternberg
+Short exact sequence
+Signature of a permutation
+Signed area
+Simplex
+Skew-symmetric matrix
+Smooth function
+Sparse matrix
+Spin tensor
+Spinor
+Springer Science+Business Media
+Stokes's theorem
+Stress–energy tensor
+Superalgebra
+Superspace
+Supersymmetry
+Surface integral
+Symmetric algebra
+Symmetric group
+Symmetric tensor
+Symmetrization
+Symplectic form
+System of linear equations
+Tangent space
+Tensor
+Tensor (intrinsic definition)
+Tensor algebra
+Tensor bundle
+Tensor calculus
+Tensor contraction
+Tensor density
+Tensor field
+Tensor operator
+Tensor product
+Tensor rank
+Tensors in curvilinear coordinates
+Tetrad (index notation)
+The Road to Reality
+Theory of relativity
+Torsion tensor
+Transformation matrix
+Transport phenomena
+Transpose
+Triple product
+Tullio Levi-Civita
+Two-point tensor
+Unit vector
+Universal algebra
+Universal enveloping algebra
+Universal property
+Van der Waerden notation
+Vector (mathematics and physics)
+Vector bundle
+Vector field
+Vector projection
+Vector space
+Vector subspace
+Voigt notation
+Volume
+Volume form
+Weak topology
+Wedge product
+Wedge sum
+Weyl algebra
+Weyl tensor
+William Kingdon Clifford
+Woldemar Voigt
+Élie Cartan

@@ -1,0 +1,115 @@
+Abstract data type
+Algebraic data type
+Arbitrary-precision arithmetic
+Array data type
+Associative array
+Benjamin C. Pierce
+Bfloat16 floating-point format
+Bit
+Bit array
+Boolean data type
+Boxing (computer science)
+Byte
+Ceylon (programming language)
+Character (computing)
+Class (computer programming)
+Common Lisp
+Complex data type
+Composite data type
+Container (abstract data type)
+Contradiction
+Covariance and contravariance (computer science)
+Curry–Howard correspondence
+D (programming language)
+Dart (programming language)
+Data structure
+Data type
+Decimal data type
+Dependent type
+Double-precision floating-point format
+Empty type
+Enumerated type
+Exception handling
+Extended precision
+Fail-stop
+Fixed-point arithmetic
+Floating-point arithmetic
+Function type
+Generalized algebraic data type
+Generic programming
+Google Closure Tools
+Half-precision floating-point format
+Haskell (programming language)
+ISBN (identifier)
+Inductive type
+Integer (computer science)
+Interface (object-oriented programming)
+Intersection type
+Interval arithmetic
+Intuitionistic type theory
+JavaScript
+Java (programming language)
+Julia (programming language)
+Kind (type theory)
+Kotlin (programming language)
+List (abstract data type)
+Long double
+MIT Press
+Mathematical logic
+Memory address
+Metaclass
+Metaobject
+Minifloat
+NaN
+Null-terminated string
+Null pointer
+Object (computer science)
+Octuple-precision floating-point format
+Opaque data type
+Option type
+PHP
+Parametric polymorphism
+Physical address
+Plain text
+Pointer (computer programming)
+Primitive data type
+Product type
+Python (programming language)
+Quadruple-precision floating-point format
+Rational data type
+Record (computer science)
+Recursive data type
+Reference (computer science)
+Reference type
+Refinement type
+Rust (programming language)
+Scala (programming language)
+Semaphore (programming)
+Set (abstract data type)
+Signedness
+Single-precision floating-point format
+Stream (computing)
+String (computer science)
+Strongly typed identifier
+Subtyping
+Tagged union
+Ternary numeral system
+Top type
+TypeScript
+Type class
+Type constructor
+Type conversion
+Type inference
+Type inhabitation
+Type safety
+Type system
+Type theory
+Types and Programming Languages
+Union type
+Unit type
+Units of information
+Up tack
+Variable (computer science)
+Virtual address space
+Void type
+Word (computer architecture)

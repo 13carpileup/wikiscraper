@@ -1,0 +1,184 @@
+.NET Framework
+ABA problem
+API
+API-Calculus
+Ada (programming language)
+Algebra of Communicating Processes
+Ambient calculus
+Amdahl's law
+Analysis of parallel algorithms
+Application checkpointing
+Array (data structure)
+Asymmetric multiprocessing
+Ateji PX
+Automatic parallelization
+Barrier (computer science)
+Beowulf cluster
+Bit-level parallelism
+Boost (C++ libraries)
+Bulldozer (microarchitecture)
+Busy waiting
+C++ AMP
+CUDA
+Cache-only memory architecture
+Cache coherence
+Cache invalidation
+Calculus of communicating systems
+Chapel (programming language)
+Charm++
+Cigarette smokers problem
+Cilk
+Cloud computing
+Coarray Fortran
+Communicating sequential processes
+Compare-and-swap
+Computer cluster
+Computer hardware
+Computer multitasking
+Computer network
+Computer programming
+Computer science
+Concurrency (computer science)
+Concurrency control
+Concurrent computing
+Concurrent data structure
+Concurrent hash table
+Concurrent user
+Condition variable
+Context switch
+Cost efficiency
+Critical section
+Data parallelism
+Data synchronization
+Dataflow architecture
+Dataflow programming
+Deadlock (computer science)
+Deterministic algorithm
+Dining philosophers problem
+Distributed computing
+Distributed memory
+Distributed shared memory
+Doi (identifier)
+Dryad (programming)
+Dynamic dispatch
+Embarrassingly parallel
+Embedded software
+Event-driven architecture
+Event (computing)
+Event (synchronization primitive)
+Explicit parallelism
+Fiber (computer science)
+File locking
+Flynn's taxonomy
+Fork–join model
+Futures and promises
+GPUOpen
+General-purpose computing on graphics processing units
+Global Arrays
+Grid computing
+Gustafson's law
+HPX
+Handshake (computing)
+Hardware acceleration
+Hardware primitive
+Hardware scout
+High-performance computing
+History monoid
+ISBN (identifier)
+Implicit parallelism
+Indeterminacy in concurrent computation
+Instruction-level parallelism
+Instruction pipelining
+Instruction window
+Inter-process communication
+Interrupt
+Java (programming language)
+Join-calculus
+Karp–Flatt metric
+Language Of Temporal Ordering Specification
+Linearizability
+Linux
+Lock (computer science)
+Loop-level parallelism
+Manycore processor
+Massively parallel
+Memory-level parallelism
+Memory barrier
+Memory coherence
+Message Passing Interface
+Message queue
+Monitor (synchronization)
+Multiple instruction, multiple data
+Multiple instruction, single data
+Multiprocessing
+Multithreading (computer architecture)
+Mutual exclusion
+Non-blocking algorithm
+Non-uniform memory access
+OpenACC
+OpenCL
+OpenHMPP
+OpenMP
+PEPA
+Parallel Extensions
+Parallel RAM
+Parallel Virtual Machine
+Parallel computing
+Parallel external memory
+Parallel programming model
+Parallel slowdown
+Petri net
+Pipeline (computing)
+Preemption (computing)
+Priority inversion
+Process (computer science)
+Process (computing)
+Process calculi
+Process calculus
+Producer–consumer problem
+Pthreads
+ROCm
+Race condition
+RaftLib
+Read-copy-update
+Readers–writer lock
+Readers–writers problem
+Request–response
+Resource starvation
+S2CID (identifier)
+Scalability
+Semaphore (programming)
+Semiconductor memory
+Shared memory
+Simultaneous and heterogeneous multithreading
+Simultaneous multithreading
+Single instruction, multiple data
+Single instruction, multiple threads
+Single instruction, single data
+Sleeping barber problem
+Software lockout
+Solaris (operating system)
+Speculative multithreading
+Speedup
+Spinlock
+Starvation (computer science)
+Stream processing
+Superscalar processor
+Symmetric multiprocessing
+Synchronous programming language
+Systolic array
+Task parallelism
+Temporal multithreading
+Test-and-set
+Thread (computer science)
+Thread (computing)
+Threading Building Blocks
+Timer
+Turnstiles
+Unified Parallel C
+Uniform memory access
+Uniprocessor system
+Vector processor
+Windows
+ZPL (programming language)
+Π-calculus

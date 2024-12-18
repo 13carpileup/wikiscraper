@@ -1,0 +1,158 @@
+API
+Amdahl's law
+Analysis of parallel algorithms
+Application checkpointing
+Array (data structure)
+Asymmetric multiprocessing
+Ateji PX
+Automatic parallelization
+BSD License
+BSD licenses
+Barrier (computer science)
+Beowulf cluster
+Bit-level parallelism
+Boost (C++ libraries)
+Broadcasting (computing)
+Bulldozer (microarchitecture)
+C++
+C++ AMP
+CORBA
+CPU
+CUDA
+C (programming language)
+Cache-only memory architecture
+Cache coherence
+Cache invalidation
+Calculus of Broadcasting Systems
+Calculus of communicating systems
+Chapel (programming language)
+Charm++
+Cilk
+Cloud computing
+Coarray Fortran
+Compiler
+Computer
+Computer cluster
+Computer hardware
+Computer multitasking
+Computer network
+Computer programming
+Computer software
+Concurrency (computer science)
+Cost efficiency
+Cray
+Data parallelism
+Dataflow architecture
+Dataflow programming
+Deadlock (computer science)
+Deterministic algorithm
+Distributed computing
+Distributed memory
+Distributed processing
+Distributed shared memory
+Dryad (programming)
+Ease (programming language)
+Embarrassingly parallel
+Emory University
+Ethernet
+Executable
+Explicit parallelism
+Fault tolerance
+Fiber (computer science)
+Fiber Distributed Data Interface
+Flynn's taxonomy
+Fortran
+Free On-line Dictionary of Computing
+Free software
+GNU Free Documentation License
+GNU General Public License
+GPUOpen
+General-purpose computing on graphics processing units
+Global Arrays
+Grid computing
+Gustafson's law
+HPX
+Hardware acceleration
+Hardware scout
+High-performance computing
+Implicit parallelism
+Instruction-level parallelism
+Instruction pipelining
+Instruction window
+Karp–Flatt metric
+Laptop
+Linda (coordination language)
+Loop-level parallelism
+Manycore processor
+Massively parallel
+Memory-level parallelism
+Memory coherence
+Message Passing Interface
+Message passing
+Multiple instruction, multiple data
+Multiple instruction, single data
+Multiprocessing
+Multiprocessor
+Multithreading (computer architecture)
+Netlib
+Non-blocking algorithm
+Non-uniform memory access
+Oak Ridge National Laboratory
+Occam (programming language)
+OpenACC
+OpenCL
+OpenHMPP
+OpenMP
+Operating system
+PVM
+Parallel Extensions
+Parallel RAM
+Parallel computing
+Parallel external memory
+Parallel processor
+Parallel programming
+Parallel programming model
+Parallel slowdown
+Personal computer
+Pipeline (computing)
+Portability (computer science)
+Preemption (computing)
+Process (computing)
+Programmer
+Pthreads
+ROCm
+Race condition
+RaftLib
+Scalability
+Scalar processor
+Semiconductor memory
+Shared memory
+Simultaneous and heterogeneous multithreading
+Simultaneous multithreading
+Single instruction, multiple data
+Single instruction, multiple threads
+Single instruction, single data
+Software license
+Software lockout
+Software release life cycle
+Speculative multithreading
+Speedup
+Starvation (computer science)
+Stream processing
+Supercomputer
+Superscalar processor
+Symmetric multiprocessing
+Synchronization (computer science)
+Systolic array
+Task parallelism
+Temporal multithreading
+Thread (computing)
+Threading Building Blocks
+Unified Parallel C
+Uniform memory access
+University of Tennessee
+Vector processor
+Virtual machine
+Wayback Machine
+Workstation
+ZPL (programming language)

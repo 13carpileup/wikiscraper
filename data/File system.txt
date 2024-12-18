@@ -1,0 +1,500 @@
+.exe
+8.3 filename
+86-DOS
+9P (protocol)
+AFIPS
+ALGOL 68
+APFS
+API
+AXFS
+Abstraction layer
+Access-control list
+Access control list
+Addison-Wesley
+AdvFS
+Advanced Disc Filing System
+Alias (Mac OS)
+Allocation group
+Amazon.com
+Amazon S3
+Amiga Fast File System
+Amiga Old File System
+Andrew File System
+Andrew Tanenbaum
+Apache Hadoop
+Apple DOS
+Apple File System
+Apple Filing Protocol
+Apple Inc.
+Apple Macintosh
+Apple Partition Map
+Application programming interface
+Application software
+AtheOS File System
+Atomicity (programming)
+Audio cassette
+Aufs
+Automounter
+B+ tree
+BSD
+Backup
+Bad sector
+Bcachefs
+Be File System
+BeeGFS
+Binary file
+Block (data storage)
+Block availability map
+Block devices
+Blu-ray
+Boot File System
+Booting
+Btrfs
+Bus error
+Byte
+Bytes
+CD-ROM
+CDfs
+CHFS
+CMS file system
+CP/CMS
+CP/M
+CP/M-86
+CXFS
+Capability-based security
+Case preservation
+Case sensitivity
+Cengage Learning
+Ceph (software)
+Channel I/O
+Character devices
+Checksum
+Chmod
+Classic Mac OS
+Close (system call)
+Clustered file system
+Coda (file system)
+Code page
+Codepage
+Command-line interface
+Command Prompt
+Command line interface
+Commodore PET
+Communication protocol
+Compact Disc
+Compact Disc File System
+Comparison of distributed file systems
+Comparison of file managers
+Comparison of file systems
+Comparison of operating systems
+Comparison of user features of operating systems
+Computer
+Computer access control
+Computer architecture
+Computer data storage
+Computer file
+Computer hardware
+Computer multitasking
+Computer network
+Computer security
+Computer storage device
+Computing
+Concurrency control
+Concurrent DOS
+Configfs
+Context switch
+Conversational Monitor System
+Cooperative multitasking
+Copy-on-write
+Cramfs
+DIGITAL Command Language
+DOS/360
+DR-DOS
+DVD
+Data buffer
+Data compression
+Data corruption
+Data deduplication
+Data file
+Data loss
+Data scrubbing
+Database management system
+Datalight
+Davfs2
+Debugfs
+Defragmentation
+Devfs
+Device driver
+Device file
+Digital Press
+Digital Research
+Directory (computing)
+Directory structure
+Disc Filing System
+Disk encryption
+Disk image
+Disk operating system
+Disk partitioning
+Disk quota
+Distributed Data Management Architecture
+Distributed File System (Microsoft)
+Distributed file system
+Distributed operating system
+Doi (identifier)
+Drive letter
+ECryptfs
+EROFS
+Elliptics
+Embedded operating system
+EncFS
+Encrypting File System
+Episode filesystem
+ExFAT
+Executable
+Execute in place
+Exokernel
+Exponential growth
+Ext2
+Ext3
+Ext3cow
+Ext4
+Extended attribute
+Extended file attributes
+Extended file system
+Extent (file systems)
+Extent File System
+F2FS
+FAT12
+FAT16
+FAT32
+FAT filesystem and Linux
+FTPFS
+File-system permissions
+File Allocation Table
+File Explorer
+File Transfer Protocol
+File attribute
+File browser
+File change log
+File comparison
+File copying
+File descriptor
+File format
+File locking
+File manager
+File operation
+File permissions
+File sharing
+File size
+File synchronization
+File system API
+File system fragmentation
+File system overhead
+File system permissions
+File transfer
+File verification
+Filename
+Filename extension
+Filename mangling
+Files-11
+Filesystem-level encryption
+Filesystem Hierarchy Standard
+Filesystem in Userspace
+Finder (software)
+Fixed-priority pre-emptive scheduling
+Flash file system
+Flash memory
+Flash translation layer
+Flat file database
+Flex machine
+Floppy disk
+Forensic software engineering
+Fork (file system)
+Fossil (file system)
+Frans Kaashoek
+FreeBSD
+FreeNAS
+Free space bitmap
+Fstab
+GFS2
+GPFS
+GUI
+GUID Partition Table
+Geli (software)
+General protection fault
+Global file system
+Google File System
+Graphical user interface
+Grid file system
+Group ID
+HAMMER2
+HAMMER (file system)
+HFS+
+HFS Plus
+Hard disk drive
+Hard link
+Hard reboot
+Hardware abstraction
+Hidden file and hidden directory
+Hierarchical File System (Apple)
+Hierarchical File System (IBM MVS)
+Hierarchical file system
+High Performance File System
+High Sierra Format
+High Throughput File System
+History of operating systems
+Hobbyist operating system
+Home computer
+Hybrid kernel
+Hypervisor
+IBM
+IBM General Parallel File System
+IBM i
+ISBN (identifier)
+ISO 13490
+ISO 9660
+ISSN (identifier)
+Implementation
+Indirection
+Inferno (operating system)
+Inode
+Input/output
+Installable File System
+Inter-process communication
+Interface (computing)
+Internet socket
+Interrupt
+Ioctl
+Isolation (database systems)
+JFFS
+JFFS2
+JFS (file system)
+John Wiley & Sons
+Journaling file system
+Just enough operating system
+Kai Li
+Kansas City standard
+Kernel (operating system)
+Kernfs (BSD)
+Library classification
+Linear Tape File System
+Linux
+List of Unix commands
+List of cryptographic file systems
+List of default file systems
+List of file formats
+List of file signatures
+List of file systems
+List of filename extensions
+List of log-structured file systems
+List of operating systems
+Live CD
+Live File System
+Live USB
+Lnfs
+Loadable kernel module
+Log-structured File System (BSD)
+Log-structured file system
+LogFS
+Logical Volume Management
+Long File Name
+Long filename
+Long filenames
+Lustre (file system)
+MIDAS (operating system)
+MINIX file system
+MS-DOS
+MVS
+MacOS
+Mac OS X Leopard
+Mac OS X Lion
+Mac OS X Snow Leopard
+Macintosh File System
+Macintosh Finder
+Magic number (programming)
+Magnetic tape
+Margo Seltzer
+Mass storage
+Master Boot Record
+Memory Technology Device
+Memory buffer
+Memory management
+Memory management (operating systems)
+Memory paging
+Memory protection
+Metadata
+Metadata (computing)
+Metafile
+Michigan Terminal System
+Microcomputer
+Microkernel
+Microsoft Docs
+Microsoft Press
+Microsoft Windows
+Mmap
+Mobile operating system
+Monolithic kernel
+Moore's law
+Mount (computing)
+Mount Rainier (packet writing)
+Mount point
+Multics
+Multikernel
+Multilevel feedback queue
+NILFS
+NOVA (filesystem)
+NTFS
+NTFS links
+NeXTSTEP
+NetWare Core Protocol
+NetWare File System
+Network-attached storage
+Network File System
+Network File System (protocol)
+Network operating system
+Next3
+Non-Volatile File System
+Non-volatile memory
+Novell Storage Services
+O'Reilly Media
+OCFS2
+OCLC (identifier)
+OS/2
+OS/360
+Object-oriented operating system
+Object (IBM i)
+Object storage
+OneFS distributed file system
+OpenAFS
+OpenSolaris
+OpenVMS
+OpenZFS
+Open (system call)
+Open file format
+Operating system
+Optical disc
+Oracle ZFS
+OrangeFS
+OverlayFS
+PC-BSD
+PC DOS
+Parallel Virtual File System
+Partition (computing)
+Password cracking
+Path (computing)
+Plan 9 from Bell Labs
+PowerShell
+Preboot Execution Environment
+Preemption (computing)
+Prentice Hall
+Proceedings of the IEEE
+Process (computing)
+Process control block
+Process management (computing)
+Procfs
+Professional File System
+Proprietary file format
+Protection ring
+QFS
+QNX4FS
+Quantcast File System
+Quantum Corporation
+RAID-Z
+RAM disk
+Random-access memory
+Rational MultiVersion File System
+ReFS
+Read (system call)
+Real-time operating system
+Record-oriented filesystem
+Record (computer science)
+Red Hat
+Reiser4
+ReiserFS
+Relational database
+Remote File Sharing
+Removable media
+Resource contention
+Root directory
+Root user
+Round-robin scheduling
+Rubberhose (file system)
+Rump kernel
+S2CID (identifier)
+SAN File System
+SQL
+SSHFS
+Scheduling (computing)
+Seattle Computer Products
+Segmentation fault
+Self-certifying File System
+Semantic file system
+Serialization
+Server Message Block
+Service (systems architecture)
+Shadow (OS/2)
+Shared disk file system
+Shared resource
+Shell (computing)
+Shortcut (computing)
+Shortest job next
+Sidecar file
+Silicon Graphics International
+Single-level store
+Slack space
+Smart File System
+Soft updates
+Software architecture
+Software design
+Software incompatibility
+Solaris (operating system)
+Solaris 10
+Solaris 7
+Solaris Volume Manager
+Solid-state drive
+Solstice DiskSuite
+Soup (Apple)
+Sparse file
+SquashFS
+Standalone Disk BASIC
+Steganographic file system
+Sticky bit
+StorNext
+StorNext File System
+Storage area network
+Storage efficiency
+Subdirectory
+Sun Microsystems
+Supercomputer operating system
+Swap file
+Symbolic link
+Synthetic file system
+Sysfs
+System administrator
+System file
+System resource
+System time
+TOCTTOU
+TOPS-10
+Table of contents
+TempleOS
+Temporary file
+Temporary folder
+Text file
+Thread (computing)
+TiVo Media File System
+Time-sharing
+Timeline of operating systems
+Tmpfs
+Transaction-Safe FAT File System
+Transaction processing
+Transactional NTFS
+Tux3
+Type code
+UBIFS
+USB flash drive
+USENIX
+Udev
+Unicode
+Unikernel
+UnionFS

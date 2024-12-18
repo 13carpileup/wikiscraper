@@ -1,0 +1,373 @@
+.NET Framework
+8-bit clean
+ASCII
+AWK
+Abstract data type
+Abstract machine
+Address space
+Aho–Corasick algorithm
+Algebraic data type
+Algorithm
+Alice ter Meulen
+Alphabet (computer science)
+Alphabet (formal languages)
+Alphabetical order
+Analysis of algorithms
+Aperiodic finite state automaton
+Apostolico–Giancarlo algorithm
+Application programming interface
+Approximate string matching
+Arbitrary-precision arithmetic
+Array data structure
+Array data type
+Assembly language
+Associative
+Associative array
+Automata theory
+BLAST (biotechnology)
+Backslash
+Benjamin Eli Smith
+Bfloat16 floating-point format
+Binary-safe
+Binary data
+Binary operation
+Binary relation
+Bit
+Bit array
+Bit string
+Bitap algorithm
+Boolean data type
+Bottom type
+Bounds checking
+Boxing (computer science)
+Boyer–Moore string-search algorithm
+Boyer–Moore–Horspool algorithm
+Buffer (computer science)
+Buffer overflow
+Byte
+Byte string
+C++
+C++ string handling
+C.I. Lewis
+C. I. Lewis
+CJK characters
+COMIT
+C (programming language)
+C Sharp (programming language)
+C string handling
+Cantor set
+Character (computing)
+Character code
+Character encoding
+Chinese language
+Chomsky hierarchy
+Class (computer programming)
+Cocoa (API)
+Code injection
+Commentz-Walter algorithm
+Commutative
+Comparison of programming languages (string functions)
+Comparison of regular-expression engines
+Compile time
+Complete graph
+Complex data type
+Composite data type
+Composite type
+Compositor (typesetting)
+Compressed pattern matching
+Compressed suffix array
+Computer memory
+Computer programming
+Concatenation
+Connection string
+Container (abstract data type)
+Context-free grammar
+Context-free language
+Context-sensitive grammar
+Context-sensitive language
+Control Data Corporation
+Countably infinite
+DNA
+Damerau–Levenshtein distance
+Data structure
+Data type
+Database
+Decider (Turing machine)
+Decimal data type
+Dependent type
+Deterministic acyclic finite state automaton
+Deterministic context-free grammar
+Deterministic context-free language
+Deterministic pushdown automaton
+Doi (identifier)
+Double-precision floating-point format
+Dynamic allocation
+Dynamic memory allocation
+EBCDIC
+Edit distance
+Embedded SQL
+Embedded pushdown automaton
+Empty string
+Empty type
+End user
+Enumerated type
+Erlang (programming language)
+Escape character
+Exception handling
+Extended Unix Code
+Extended precision
+FM-index
+Finite-state machine
+Finite language
+Finite set
+Fixed-length code
+Fixed-point arithmetic
+Floating-point arithmetic
+Formal grammar
+Formal language
+Formal system
+Free monoid
+Function type
+Gap buffer
+Generalized algebraic data type
+Generalized suffix tree
+Generic programming
+Gestalt pattern matching
+Go (programming language)
+Hacker (computer security)
+Half-precision floating-point format
+Hamming coding
+Hamming distance
+Haskell (programming language)
+Hexadecimal
+Hexadecimal number
+Hirschberg's algorithm
+Hypercube
+IBM 1401
+INI file
+ISBN (identifier)
+ISO-2022
+ISO 8859
+Icon (programming language)
+Identity element
+Ideographs
+Immutable object
+Implicit data structure
+Improper input validation
+Incompressible string
+Indexed grammar
+Indexed language
+Inductive type
+Infinite string
+Information hiding
+Instruction set architecture
+Integer (computer science)
+Intel x86
+Interface (object-oriented programming)
+Intersection type
+Interval arithmetic
+Intuitionistic type theory
+Inverse limit
+Isomorphism
+Japanese language
+Jaro–Winkler distance
+JavaScript
+Java (programming language)
+Jean E. Sammet
+Joseph R. Shoenfield
+K-ary tree
+Kind (type theory)
+Kleene star
+Knuth–Morris–Pratt algorithm
+Korean language
+LCP array
+Least element
+Lee distance
+Length
+Levenshtein automaton
+Levenshtein distance
+Lexicographical order
+Lexicographically minimal string rotation
+Limit topology
+Linear bounded automaton
+Linear context-free rewriting language
+Linear context-free rewriting system
+Linguistic theory
+Linked list
+List (abstract data type)
+Literal (computer programming)
+Logograph
+Long double
+Longest common subsequence
+Longest common substring
+Lua (programming language)
+MUMPS
+Mathematical logic
+Memory address
+Memory management
+Metaclass
+Metaobject
+Microprocessor
+Milwaukee Journal Sentinel
+Minifloat
+Mojibake
+Monoid
+Monoid homomorphism
+Multimedia Control Interface
+Needleman–Wunsch algorithm
+Nested stack automaton
+Nested word
+Newline
+Non-negative integer
+Non-recursive grammar
+Nondeterministic finite automaton
+Null-terminated string
+Null character
+Object (computer science)
+Octuple-precision floating-point format
+Opaque data type
+Option type
+Order theory
+P-adic
+PHP
+PTIME
+Palindrome
+Parametric polymorphism
+Parser
+Parsing
+Partial order
+Pascal (programming language)
+Pattern matching
+Perl
+Perl Compatible Regular Expressions
+Physical address
+Piece table
+Plain text
+Pointer (computer programming)
+Prefix order
+Primitive data type
+Primitive type
+Printf
+Product type
+Programming language
+Programming languages
+Prolog
+Proper subset
+Pushdown automaton
+Python (programming language)
+Quadruple-precision floating-point format
+Query string
+Quotation mark
+Rabin–Karp algorithm
+Raita algorithm
+Randal Bryant
+Range concatenation grammars
+Range concatenation language
+Rational data type
+Record (computer science)
+Recursive data type
+Recursive language
+Recursively enumerable language
+Reference (computer science)
+Refinement type
+Regular expression
+Regular grammar
+Regular language
+Rexx
+Robert Burchfield
+Rope (data structure)
+Ruby (programming language)
+Run-length encoding
+S2CID (identifier)
+SNOBOL
+Scripting programming language
+Sed
+Semaphore (programming)
+Semi-Thue system
+Sequence
+Sequence alignment
+Sequence mining
+Sequential pattern mining
+Set (abstract data type)
+Set (mathematics)
+Shift-JIS
+Shortlex
+Signedness
+Single-precision floating-point format
+Smith–Waterman algorithm
+Social media
+Sorting algorithm
+Source code
+Star-free language
+Stream (computing)
+String-searching algorithm
+String (C++)
+String function
+String interpolation
+String length
+String literal
+String manipulation algorithm
+String metric
+String operations
+String searching algorithm
+String theory
+Stringology
+Strongly typed identifier
+Subset
+Substring
+Substring index
+Subtyping
+Succinct data structure
+Suffix array
+Suffix automaton
+Suffix tree
+Symbol (formal)
+Symbolic logic
+Syntax
+TTM (programming language)
+Tagged union
+Tcl
+Ternary numeral system
+Ternary search tree
+Text editor
+Theoretical computer science
+Thompson's construction
+Thread automaton
+Thread safety
+Top type
+Total order
+Tree-adjoining grammar
+Tree stack automaton
+Trie
+Trigram search
+Tuple
+Turing machine
+Two-way string-matching algorithm
+Type class
+Type constructor
+Type conversion
+Type system
+Type theory
+UTF-32
+UTF-8
+Unicode
+Union type
+Unit type
+Units of information
+Universal Character Set
+Unix
+Unrestricted grammar
+Variable (computer science)
+Variable (programming)
+Virtual address space
+Void type
+Wagner–Fischer algorithm
+Wayback Machine
+Well-founded
+William Dwight Whitney
+Word (computer architecture)
+Word (data type)
+Word mark (computer hardware)
+ZX80
+Zhu–Takaoka string matching algorithm
+Zvi Galil

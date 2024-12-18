@@ -1,0 +1,281 @@
+.NET Framework
+AA tree
+AVL tree
+Abstract data type
+Addison-Wesley
+Aggregate data
+Aho–Corasick algorithm
+Alfred Aho
+Algebraic data type
+Algebraic structure
+Algorithm
+Apostolico–Giancarlo algorithm
+Approximate string matching
+Arbitrary-precision arithmetic
+Arithmetic operations
+Array (data structure)
+Array data structure
+Array data type
+Assembly language
+Association list
+Associative array
+B-tree
+BCPL
+BLAST (biotechnology)
+Bfloat16 floating-point format
+Binary decision diagram
+Binary heap
+Binary search tree
+Binary tree
+Binomial heap
+Bit
+Bit array
+Bitap algorithm
+Blockchain
+Boolean data type
+Bottom type
+Boxing (computer science)
+Boyer–Moore string-search algorithm
+Boyer–Moore–Horspool algorithm
+Business process modeling
+Byte
+C++
+CRC Press
+C (programming language)
+Cambridge University Press
+Chapman and Hall
+Character (computing)
+Circular buffer
+Class (computer programming)
+Classes (computer science)
+Collection (abstract data type)
+Commentz-Walter algorithm
+Common data model
+Comparison of regular-expression engines
+Compiler
+Complex data type
+Composite data type
+Compressed pattern matching
+Compressed suffix array
+Computer
+Computer Science Press
+Computer data storage
+Computer science
+Conceptual schema
+Concurrent data structure
+Container (abstract data type)
+Core architecture data model
+Damerau–Levenshtein distance
+Data
+Data-flow diagram
+Data Format Description Language
+Data access
+Data architecture
+Data model
+Data model (GIS)
+Data modeling
+Data structure diagram
+Data type
+Database
+Database design
+Database model
+Decimal data type
+Dependent type
+Deterministic acyclic finite state automaton
+Dictionary of Algorithms and Data Structures
+Directed acyclic graph
+Disjoint-set data structure
+Doi (identifier)
+Donald Knuth
+Double-ended priority queue
+Double-ended queue
+Double-precision floating-point format
+Dynamic array
+Dynamization
+Edit distance
+Efficiency
+Ellis Horowitz
+Empty type
+Enhanced entity–relationship model
+Enterprise modelling
+Entity–relationship model
+Enumerated type
+Exception handling
+Extended precision
+FM-index
+Fermi National Accelerator Laboratory
+Fibonacci heap
+Fixed-point arithmetic
+Floating-point arithmetic
+Function (computer programming)
+Function model
+Function type
+Gaston Gonnet
+Generalized algebraic data type
+Generalized suffix tree
+Generic data model
+Generic programming
+Gestalt pattern matching
+Graph (abstract data type)
+Half-precision floating-point format
+Hamming distance
+Hash table
+Hash tree (persistent data structure)
+Hashed array tree
+Heap (data structure)
+High-level programming language
+Hilbert R-tree
+Hirschberg's algorithm
+ISBN (identifier)
+Identifier (computer languages)
+Implementation
+Inductive type
+Information model
+Integer (computer science)
+Interface (computing)
+Interface (object-oriented programming)
+Intersection type
+Interval arithmetic
+Intuitionistic type theory
+Jaro–Winkler distance
+Java (programming language)
+Java Collections Framework
+Jeffrey Ullman
+John Hopcroft
+Kind (type theory)
+Knuth–Morris–Pratt algorithm
+LCP array
+Lee distance
+Levenshtein automaton
+Levenshtein distance
+Library (computing)
+Linked data structure
+Linked list
+List (abstract data type)
+List of data structures
+Logical data model
+Long double
+Longest common subsequence
+Longest common substring
+Low-level programming language
+MASM
+Main memory
+Memory address
+Metaclass
+Metaobject
+Microsoft
+Minifloat
+Modular programming
+Multimap
+National Institute of Standards and Technology
+Needleman–Wunsch algorithm
+Niklaus Wirth
+Nondeterministic finite automaton
+Null-terminated string
+OCLC (identifier)
+Object-oriented programming
+Object-oriented programming language
+Object (computer science)
+Object model
+Object–role modeling
+Octuple-precision floating-point format
+Opaque data type
+Operator (computer programming)
+Option type
+Parametric polymorphism
+Parsing
+Pascal (programming language)
+Pattern matching
+Persistent data structure
+Physical address
+Physical schema
+Plain old data structure
+Plain text
+Pointer (computer programming)
+Prentice Hall
+Primitive data type
+Priority queue
+Process modeling
+Product type
+Programming language
+Python (programming language)
+Quadruple-precision floating-point format
+Queap
+Queue (abstract data type)
+R* tree
+R+ tree
+R-tree
+Rabin–Karp algorithm
+Raita algorithm
+Random access
+Rational data type
+Record (computer science)
+Recursive data type
+Red–black tree
+Reference (computer science)
+Refinement type
+Regular expression
+Regular grammar
+Relational database
+Retrieval Data Structure
+Ricardo Baeza-Yates
+Rope (data structure)
+Sartaj Sahni
+Self-balancing binary search tree
+Semantic data model
+Semaphore (programming)
+Semi-Thue system
+Sequence alignment
+Sequential pattern mining
+Set (abstract data type)
+Signedness
+Single-precision floating-point format
+Skip list
+Smalltalk
+Smith–Waterman algorithm
+Sparse matrix
+Splay tree
+Stack (abstract data type)
+Standard Template Library
+Stream (computing)
+String-searching algorithm
+String (computer science)
+String metric
+String operations
+Strongly typed identifier
+Subroutine
+Substring index
+Subtyping
+Succinct data structure
+Suffix array
+Suffix automaton
+Suffix tree
+Tagged union
+Ternary numeral system
+Ternary search tree
+The Art of Computer Programming
+Thompson's construction
+Top type
+Tree (data structure)
+Trie
+Trigram search
+Two-way string-matching algorithm
+Type class
+Type constructor
+Type conversion
+Type system
+Type theory
+Unified Modeling Language
+Union type
+Unit type
+Units of information
+Unrolled linked list
+Variable (computer science)
+Virtual address space
+Void type
+Wagner–Fischer algorithm
+Word (computer architecture)
+Wrox Press
+XML schema
+XOR linked list
+Zhu–Takaoka string matching algorithm

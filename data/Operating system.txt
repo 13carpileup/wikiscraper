@@ -1,0 +1,500 @@
+80286
+ACM Computing Classification System
+ACM SIGARCH
+API
+AT&T
+Abort (computing)
+Abstraction
+Abstraction layer
+Access-control list
+Address space layout randomization
+Algorithm
+Algorithm design
+Algorithmic efficiency
+Amortization (computer science)
+Analysis of algorithms
+Andrew S. Tanenbaum
+Android (operating system)
+Android Automotive
+Apple Inc.
+Application programming interface
+Application security
+Application software
+Artificial intelligence
+Assembly language
+Associative array
+Attack surface
+Automata theory
+Automated planning and scheduling
+Avionics
+BSD
+Backdoor (computing)
+Berkeley Software Distribution
+Bionic (software)
+Bitmap
+BlackBerry OS
+Booting
+Bounds checking
+Buffer overflow
+Bus error
+Busy waiting
+C++
+CIA triad
+CP/M
+CPU cache
+C (programming language)
+Cache (computing)
+Call stack
+Central processing unit
+Channel I/O
+Checksums
+ChromeOS
+Cloud computing
+Cluster computer
+Code review
+Command-line interface
+Command line
+Comparison of operating systems
+Comparison of user features of operating systems
+Compiler construction
+Computability theory
+Computational biology
+Computational chemistry
+Computational complexity
+Computational complexity theory
+Computational engineering
+Computational geometry
+Computational mathematics
+Computational physics
+Computational social science
+Computer accessibility
+Computer animation
+Computer architecture
+Computer data storage
+Computer graphics
+Computer hardware
+Computer memory
+Computer mouse
+Computer multitasking
+Computer network
+Computer program
+Computer science
+Computer security
+Computer terminal
+Computer vision
+Computing
+Computing platform
+Concurrency (computer science)
+Concurrent computing
+Context switch
+Control-C
+Control-flow integrity
+Control flow
+Control theory
+Control variable (programming)
+Cooperative multitasking
+Crash (computing)
+Cross-validation (statistics)
+Cryptography
+Cursor (user interface)
+Cyberwarfare
+DBOS
+DOS
+Daemon (computing)
+Data block
+Data center
+Data corruption
+Data mining
+Database
+Database index
+Decision support system
+Defragmentation
+Demand paging
+Denial of service attack
+Dependability
+Device driver
+Device drivers
+Device file
+Digital Equipment Corporation
+Digital art
+Digital library
+Digital marketing
+Direct memory access
+Directory (computing)
+Discrete mathematics
+Disk Operating System
+Disk operating system
+Disk partitioning
+Distributed artificial intelligence
+Distributed computing
+Distributed memory
+Distributed operating system
+Distributed shared memory
+Distributed system
+Division by zero
+Document management system
+Doi (identifier)
+Domain-specific language
+Dynamic device
+Dynamic random-access memory
+E-commerce
+ECos
+Educational technology
+Electronic design automation
+Electronic publishing
+Electronic voting
+Embedded Linux
+Embedded operating system
+Embedded system
+Energy efficiency in operating systems
+Enterprise information system
+Enterprise server
+Enterprise software
+Enterprise system
+Event (computing)
+Exception handling
+Exokernel
+File attribute
+File path
+File system
+File system fragmentation
+Filenames
+Fixed-priority pre-emptive scheduling
+Flash memory
+Forensic software engineering
+Form factor (design)
+Formal language
+Formal methods
+Formal verification
+Fortran Monitor System
+Free software
+GNU General Public License
+General protection fault
+Geographic information system
+Glossary of operating systems terms
+Graphical user interface
+Graphics processing unit
+Green computing
+Hard disk drive
+Hard drive
+Hardening (computing)
+Hardware abstraction
+Hardware acceleration
+Hardware security
+Health informatics
+Heap memory
+Hexadecimal
+History of operating systems
+Hobbyist operating system
+Home appliance
+Homebrew Computer Club
+Human–computer interaction
+Hybrid kernel
+Hypervisor
+IBM
+IBSYS
+IEEE
+INT (x86 instruction)
+IOS
+IPadOS
+IPhone
+ISBN (identifier)
+ISSN (identifier)
+Image compression
+Information retrieval
+Information security
+Information system
+Information theory
+Inline expansion
+Inode
+Input/output
+Input and output
+Institution of Engineering and Technology
+Instruction pipelining
+Integrated circuit
+Integrated development environment
+Intel
+Intel Corporation
+Inter-process communication
+Interaction design
+Internet of things
+Interpreter (computing)
+Interrupt
+Interrupt handler
+Interrupt request (PC architecture)
+Interrupt vector table
+Interruptible operating system
+Intrusion detection system
+Java (programming language)
+Java (software platform)
+John Wiley & Sons
+Journaling file system
+Just enough operating system
+Kernel (operating system)
+Keyboard technology
+Kilobytes
+Knowledge representation and reasoning
+Large scale integration
+Legal settlement
+Library (computing)
+Light-weight Linux distribution
+Linux
+Linux distribution
+Linux kernel
+List of computer size categories
+List of operating systems
+List of pioneers in computer science
+Live CD
+Live USB
+Loadable kernel module
+Logic in computer science
+MINIX
+MOS Technology 6502
+MS-DOS
+MULTICS
+MacOS
+Machine code
+Machine learning
+Macintosh
+Magnetic disk
+Magnetic tape
+Mainframe
+Malicious software
+Manufacturing
+Map (data structure)
+Market share
+Mass storage
+Mathematical analysis
+Mathematical optimization
+Mathematical software
+Medical devices
+Megabytes
+Memory (computing)
+Memory address
+Memory allocation
+Memory management
+Memory management (operating systems)
+Memory paging
+Memory protection
+Memory segmentation
+Metadata
+Microchips
+Microcomputer
+Microcontroller
+Microkernel
+Microsoft
+Microsoft Windows
+Middleware
+Mixed reality
+Mnemonic
+Mobile device
+Mobile operating system
+Model of computation
+Modeling language
+Monolithic kernel
+Motherboard
+Mouse (computing)
+Multi-task learning
+Multicomputer
+Multikernel
+Multilevel feedback queue
+Multimedia database
+Multiprocessing
+Multiprocessor
+Multiprogramming
+Multiqueue
+Multithreading (computer architecture)
+Multiuser
+NTFS
+Natural language processing
+Network architecture
+Network operating system
+Network packet
+Network performance
+Network protocol
+Network scheduler
+Network security
+Network service
+Networking hardware
+Non-volatile memory
+Numerical analysis
+OEM
+OS/360
+OS/360 and successors
+Object-oriented design
+Object-oriented operating system
+Object Manager (Windows)
+Open-source software
+Operating System Projects
+Operating system
+Operating system abstraction layer
+Operations research
+Outline of computer science
+POSIX
+Page fault
+Paging
+Parallel computing
+Peripheral
+Personal computer
+Philosophy of artificial intelligence
+Photograph manipulation
+Plugboard
+Polling (computer science)
+Ported
+Power failure
+Preboot Execution Environment
+Preemption (computing)
+Preemptive multitasking
+Prefetching
+Prentice Hall
+Principle of least authority
+Printed circuit board
+Priority queue
+Privilege (computing)
+Privilege separation
+Probability
+Procedural programming
+Process (computing)
+Process control
+Process control block
+Process identifier
+Process management (computing)
+Processor (computing)
+Processor register
+Program counter
+Programming language
+Programming language theory
+Programming paradigm
+Programming team
+Programming tool
+Proprietary
+Protected mode
+Protection ring
+Punch card
+QNX
+Qt (software)
+Quantum Computing
+RAM
+RIOT (operating system)
+Random-access memory
+Randomized algorithm
+Readers–writers problem
+Real-time computing
+Real-time operating system
+Record (computer science)
+Redundant array of inexpensive disks
+Reinforcement learning
+Remote direct memory access
+Remote procedure call
+Rendering (computer graphics)
+Requirements analysis
+Root directory
+Round-robin scheduling
+Rump kernel
+SCSI RDMA Protocol
+SIGBUS
+SIGSEGV
+Safety integrity level
+Scheduler (computing)
+Scheduling (computing)
+Security-focused operating system
+Security by obscurity
+Security domain
+Security hacker
+Security service (telecommunication)
+Segmentation fault
+Segmentation violation
+Semantics (computer science)
+Shell (computing)
+Shortest job next
+Signal (IPC)
+Single-board computer
+Single address space operating system
+Smart cards
+Smart watch
+Smartphone
+Smartphones
+Social computing
+Social software
+Software
+Software bug
+Software configuration management
+Software construction
+Software deployment
+Software design
+Software development
+Software development process
+Software distro
+Software engineering
+Software framework
+Software maintenance
+Software platform
+Software quality
+Software repository
+Solid-state drive
+Solid modeling
+Source code
+Speculative execution CPU vulnerabilities
+Stack-based memory allocation
+Statistics
+Status register
+Stochastic computing
+Subdirectories
+Supercomputer
+Supercomputer operating system
+Supervised learning
+Supervisor mode
+Syllable Desktop
+Symbian OS
+System/360
+System Commander
+System V
+System call
+System image
+System library
+System on a chip
+System resource
+System software
+System utilities
+Tablet computer
+Teleprinter
+TempleOS
+Theoretical computer science
+Theory of computation
+Thomas E. Anderson
+Thread (computing)
+Thread control block
+Time-sharing
+Timeline of operating systems
+TinyOS
+Touchscreen
+Trackpad
+Transistor
+Tree (data structure)
+Type checking
+UNIX
+UNIX System V
+USB flash drive
+USENIX
+Ubiquitous computing
+Unikernel
+University of California
+Unix-like
+Unsupervised learning
+Usage share of operating systems
+User (computing)
+User friendly
+User interface
+User mode
+User space and kernel space
+VAX VMS
+Very Large Scale Integration
+Video game
+Virtual file system
+Virtual machine
+Virtual memory
+Virtual reality
+Virtual tape library
+Virtualization
+Visualization (graphics)
+Vkernel

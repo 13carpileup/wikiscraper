@@ -1,0 +1,136 @@
+API
+Amdahl's law
+Analysis of parallel algorithms
+Application checkpointing
+Array (data structure)
+Asymmetric multiprocessing
+Ateji PX
+Automatic parallelization
+Barrier (computer science)
+Beowulf cluster
+Bit-level parallelism
+Boost (C++ libraries)
+Bulldozer (microarchitecture)
+C++ AMP
+CPU
+CUDA
+Cache-only memory architecture
+Cache coherence
+Cache invalidation
+Chapel (programming language)
+Charm++
+Cilk
+Cloud computing
+Coarray Fortran
+Communication channel
+Computer cluster
+Computer hardware
+Computer multitasking
+Computer network
+Computer programming
+Concurrency (computer science)
+Concurrency control
+Context switch
+Cost efficiency
+Critical race
+Critical section
+Data parallelism
+Data structure
+Database transaction schedule
+Dataflow architecture
+Dataflow programming
+Deadlock (computer science)
+Deterministic algorithm
+Device management
+Distributed computing
+Distributed memory
+Distributed shared memory
+Dryad (programming)
+Embarrassingly parallel
+Explicit parallelism
+Fiber (computer science)
+Flynn's taxonomy
+GPUOpen
+General-purpose computing on graphics processing units
+Global Arrays
+Grid computing
+Gustafson's law
+HPX
+Hardware acceleration
+Hardware scout
+Hierarchical protection domains
+High-performance computing
+ISSN (identifier)
+Implicit parallelism
+Inconsistency
+Instruction-level parallelism
+Instruction pipelining
+Instruction window
+Inter-process communication
+International Symposium on Computer Architecture
+Karp–Flatt metric
+Kernel (computer science)
+Lock (computer science)
+Loop-level parallelism
+Manycore processor
+Massively parallel
+Memory-level parallelism
+Memory coherence
+Message Passing Interface
+Microkernel
+Monolithic kernel
+Multiple instruction, multiple data
+Multiple instruction, single data
+Multiprocessing
+Multiprocessor
+Multithreading (computer architecture)
+Non-blocking algorithm
+Non-uniform memory access
+OpenACC
+OpenCL
+OpenHMPP
+OpenMP
+Parallel Extensions
+Parallel RAM
+Parallel Virtual Machine
+Parallel computing
+Parallel external memory
+Parallel programming model
+Parallel slowdown
+Pipeline (computing)
+Preemption (computing)
+Process (computing)
+Pthreads
+ROCm
+Race condition
+RaftLib
+Ready list
+Relative efficiency
+Scalability
+Scheduling (computing)
+Semiconductor memory
+Serializability
+Shared memory
+Simultaneous and heterogeneous multithreading
+Simultaneous multithreading
+Single instruction, multiple data
+Single instruction, multiple threads
+Single instruction, single data
+Speculative multithreading
+Speedup
+Starvation (computer science)
+Stream processing
+Superscalar
+Superscalar processor
+Symmetric multiprocessing
+Synchronization (computer science)
+Systolic array
+Task parallelism
+Temporal multithreading
+Thread (computing)
+Threading Building Blocks
+Unified Parallel C
+Uniform memory access
+Uniprocessor
+Vector processor
+ZPL (programming language)

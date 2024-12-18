@@ -1,0 +1,500 @@
+1-bit computing
+12-bit computing
+128-bit computing
+16-bit computing
+24-bit computing
+256-bit computing
+32-bit computing
+3D graphics
+3dfx
+4-bit computing
+48-bit computing
+512-bit computing
+64-bit computing
+8-bit computing
+ACPI
+AI accelerator
+API
+ARM architecture family
+Abstract machine
+Acer Laboratories Incorporated
+Ada Lovelace (microarchitecture)
+Adapteva
+Adder (electronics)
+Address decoder
+Address generation unit
+Addressing mode
+Advanced Micro Devices
+Advanced Power Management
+Ageia
+Algorithm
+Alternating Turing machine
+Amdahl's law
+Ampere (microarchitecture)
+Analogue electronics
+Analysis of parallel algorithms
+Apollo Guidance Computer
+Application-specific instruction set processor
+Application-specific integrated circuit
+Application checkpointing
+Application programming interface
+ArXiv (identifier)
+Arithmetic logic unit
+Array (data structure)
+Array programming
+Assaf Schuster
+Asymmetric multiprocessing
+Ateji PX
+Automatic parallelization
+Barrel processor
+Barrel shifter
+Barrier (computer science)
+Baseband processor
+Beowulf cluster
+Berkeley Open Infrastructure for Network Computing
+Bill Dally
+Binary decoder
+Binary multiplier
+Bioinformatics
+Bit-level parallelism
+Bit-serial architecture
+Bit slicing
+Blackwell (microarchitecture)
+Boolean circuit
+Boost (C++ libraries)
+Branch predictor
+Branch target predictor
+Bright Computing
+BrookGPU
+Bulldozer (microarchitecture)
+Bullet (software)
+Bus (computing)
+C++
+C++ AMP
+CPU cache
+CPU multiplier
+CUDA binary
+C (programming language)
+Cache-only memory architecture
+Cache (computing)
+Cache coherence
+Cache hierarchy
+Cache invalidation
+Cache performance measurement and metric
+Cache replacement policies
+Cellular architecture
+Cellular automaton
+Celsius (microarchitecture)
+Central processing unit
+Cg (programming language)
+Chapel (programming language)
+Charm++
+Chip carrier
+Chipset
+Chris Malachowsky
+Cilk
+Circuit (computer science)
+Classic RISC pipeline
+Clipper architecture
+Clock gating
+Clock rate
+Clock signal
+Cloud computing
+Coarray Fortran
+Cognitive computing
+Combinational logic
+Common Lisp (programming language)
+Comparison of Nvidia chipsets
+Comparison of instruction set architectures
+Complex instruction set computer
+Complex programmable logic device
+Computational biology
+Compute kernel
+Computer architecture
+Computer cluster
+Computer data storage
+Computer game
+Computer hardware
+Computer multitasking
+Computer network
+Computer performance
+Computer performance by orders of magnitude
+Computer programming
+Computing
+Computing platform
+Concurrency (computer science)
+Control hazard
+Control unit
+Cooperative multitasking
+Coprocessor
+Cost efficiency
+Counter (digital)
+Counter machine
+Cryptocurrencies
+Cryptographic hash function
+Cryptography
+CuPy
+Cumulus Networks
+Curie (microarchitecture)
+Curtis Priem
+Cycles per instruction
+Cypress PSoC
+DEC Alpha
+Data buffer
+Data cache
+Data compression
+Data dependency
+Data parallelism
+Dataflow architecture
+Dataflow programming
+Datapath
+David Kirk (scientist)
+Deadlock (computer science)
+Decryption
+DeepMap
+Demultiplexer
+Denormal number
+Deterministic algorithm
+Deterministic finite automaton
+Digital electronics
+Digital signal processor
+Direct3D
+DirectCompute
+Directive (programming)
+Distributed architecture
+Distributed computing
+Distributed memory
+Distributed shared memory
+Doi (identifier)
+Driver (computer)
+Dryad (programming)
+Dynamic frequency scaling
+Dynamic voltage scaling
+ETRAX CRIS
+Electronic circuit
+Embarrassingly parallel
+Embedded system
+Encryption
+Endianness
+Execution unit
+Explicit data graph execution
+Explicit parallelism
+Explicitly parallel instruction computing
+FIFO (computing and electronics)
+FLOPS
+Fabric computing
+Face recognition
+False sharing
+Fermi (microarchitecture)
+Fiber (computer science)
+Field-programmable gate array
+Field-programmable object array
+Finite-state machine
+Finite-state machine with datapath
+Floating-point unit
+Fluid dynamics
+Flynn's taxonomy
+Fortran
+Function (computer programming)
+GPGPU
+GPUOpen
+Gate array
+GeForce
+GeForce 100 series
+GeForce 10 series
+GeForce 16 series
+GeForce 200 series
+GeForce 20 series
+GeForce 256
+GeForce 2 series
+GeForce 300 series
+GeForce 30 series
+GeForce 3 series
+GeForce 400 series
+GeForce 40 series
+GeForce 4 series
+GeForce 500 series
+GeForce 600 series
+GeForce 6 series
+GeForce 700 series
+GeForce 7 series
+GeForce 800M series
+GeForce 8 series
+GeForce 900 series
+GeForce 9 series
+GeForce FX series
+GeForce Now
+General-purpose computing on graphics processing units
+GitHub
+Global Arrays
+Glue logic
+GoForce
+Graphics processing unit
+Graphics processing units
+Grid computing
+Gustafson's law
+HPX
+Hardware acceleration
+Hardware register
+Hardware scout
+Hardware security module
+Hardwired control unit
+Harvard architecture
+Haskell (programming language)
+Hazard (computer architecture)
+Heterogeneous System Architecture
+Heterogeneous computing
+Hierarchical state machine
+High-performance computing
+History of general-purpose CPUs
+Hopper (microarchitecture)
+Hyper-threading
+Hypercomputation
+IA-64
+IBM POWER architecture
+IBM System/360 architecture
+IBM System/370
+IBM System/390
+IDL (programming language)
+ISBN (identifier)
+ISSN (identifier)
+Icera
+Image processor
+Implicit parallelism
+Instruction-level parallelism
+Instruction cache
+Instruction cycle
+Instruction decoder
+Instruction pipelining
+Instruction set
+Instruction set architecture
+Instruction unit
+Instruction window
+Instructions per cycle
+Instructions per second
+Integrated circuit
+JPEG 2000
+Java (programming language)
+Jensen Huang
+Julia (programming language)
+Karp–Flatt metric
+Kelvin (microarchitecture)
+Kepler (microarchitecture)
+Khronos Group
+LLVM
+Large Language Model
+Linux
+List of Nvidia graphics processing units
+Little man computer
+Load–store architecture
+Load–store unit
+Logic gate
+Loop-level parallelism
+Lua (programming language)
+M32R
+MATLAB
+MIPS-X
+MIPS architecture
+MacOS
+Machine learning
+Magnetic resonance imaging
+Manycore processor
+Massive parallel sequencing
+Massively parallel
+Mathematica
+Maxwell (microarchitecture)
+Mellanox Technologies
+Memory-level parallelism
+Memory address register
+Memory buffer register
+Memory coherence
+Memory controller
+Memory dependence prediction
+Memory hierarchy
+Memory management unit
+Mental Images
+Message Passing Interface
+Michael Larabel
+MicroBlaze
+Microarchitecture
+Microcode
+Microcontroller
+Microprocessor
+Microprocessor chronology
+Microsoft Windows
+Minimal instruction set computer
+Mixed-signal integrated circuit
+Mobile PCI Express Module
+Mobile processor
+Model of computation
+Modified Harvard architecture
+Molecular dynamics
+Molecular modeling on GPUs
+Motorola 68000 series
+Multi-chip module
+Multi-core
+Multi-core processor
+Multiple instruction, multiple data
+Multiple instruction, single data
+Multiplexer
+Multiprocessing
+Multiprocessor system on a chip
+Multithreading (computer architecture)
+NV1
+NV2
+NVIDIA CUDA Compiler
+NVLink
+Network on a chip
+Network processor
+Neural network
+Neuromorphic engineering
+Nintendo Switch
+No instruction set computing
+Non-blocking algorithm
+Non-uniform memory access
+Nondeterministic Turing machine
+Numerical Library Collection
+Nvidia
+Nvidia 3D Vision
+Nvidia DGX
+Nvidia Drive
+Nvidia G-Sync
+Nvidia GameWorks
+Nvidia GeForce
+Nvidia Jetson
+Nvidia NVDEC
+Nvidia NVENC
+Nvidia Omniverse
+Nvidia Optimus
+Nvidia PureVideo
+Nvidia Quadro
+Nvidia Quadro Plex
+Nvidia RTX
+Nvidia Surround
+Nvidia System Tools
+Nvidia Tesla
+One-instruction set computer
+OneAPI (compute acceleration)
+Ontology (information science)
+OpenACC
+OpenCL
+OpenGL
+OpenHMPP
+OpenMP
+OpenRISC
+Operand forwarding
+Operating system
+OptiX
+Order of magnitude
+Original equipment manufacturer
+Orphan initialism
+Orthogonal instruction set
+Out-of-order execution
+PDP-11 architecture
+PMC (identifier)
+PMID (identifier)
+Package on a package
+Parallel Extensions
+Parallel RAM
+Parallel Thread Execution
+Parallel Virtual Machine
+Parallel computing
+Parallel external memory
+Parallel programming model
+Parallel slowdown
+Pascal (microarchitecture)
+Performance per watt
+Perl
+Phoronix
+Phoronix Test Suite
+PhysX
+Physics engine
+Physics processing unit
+Pin grid array
+Pipeline (computing)
+Pipeline stall
+Pixel shader
+PlayStation 3
+Pointer machine
+PortalPlayer
+Post–Turing machine
+PowerPC
+Power ISA
+Power Management Unit
+Power management
+Power management integrated circuit
+Preemption (computing)
+Probabilistic Turing machine
+Process (computing)
+Processor (computing)
+Processor design
+Processor register
+Program counter
+Programmable Array Logic
+Programmer
+Project Denver
+Proprietary software
+Proteins
+Pthreads
+Python (programming language)
+Quadro
+Quantum Turing machine
+Quantum cellular automaton
+Quantum circuit
+Quantum computing
+Quantum logic gate
+Queue automaton
+RCUDA
+RISC-V
+RIVA 128
+RIVA TNT
+RIVA TNT2
+ROCm
+ROM image
+RSX Reality Synthesizer
+R (programming language)
+Race condition
+RaftLib
+Random-access machine
+Random-access memory
+Random-access stored-program machine
+Rankine (microarchitecture)
+Ray tracing (graphics)
+Re-order buffer
+Real-time computer graphics
+Reduced instruction set computer
+Register file
+Register machine
+Register renaming
+Register–memory architecture
+Reservation station
+Reuters
+Rubin (microarchitecture)
+Ruby (programming language)
+Run-time type information
+S2CID (identifier)
+SETI@home
+SIMD instruction
+SPARC
+SUPS
+SWAR
+SXM (socket)
+SYCL
+Scalability
+Scalable Link Interface
+Scalar processor
+Scope (computer science)
+Scoreboarding
+Scratchpad memory
+Secondary storage
+Secure cryptoprocessor
+Semiconductor device fabrication
+Semiconductor memory
+Sequential logic
+Shared memory
+Shared memory (interprocess communication)
+Shield Android TV
+Shield Portable
+Shield Tablet
+Simultaneous and heterogeneous multithreading
+Simultaneous multithreading

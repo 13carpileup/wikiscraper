@@ -1,0 +1,330 @@
+2D computer graphics
+3D computer graphics
+AES instruction set
+AI accelerator
+AMD Instinct
+Adreno
+Analog signal processing
+Anti-spam techniques
+Apple silicon
+Application-specific integrated circuit
+ArXiv (identifier)
+Artificial intelligence
+Artificial neural network
+Asynchronous circuit
+Audio signal processing
+Bandwidth (computing)
+Bibcode (identifier)
+Binary representation
+Bit blit
+Blitter
+Boolean algebra
+Boolean circuit
+Boolean function
+Brain simulation
+CMOS
+CPU cache
+CUDA
+C to HDL
+Capacitor
+Central processing unit
+Circuit minimization for Boolean functions
+Circuit underutilization
+Clock rate
+Combinational logic
+Comparison of 3dfx graphics processing units
+Complex programmable logic device
+Computable function
+Computational physics
+Compute kernel
+Computer architecture
+Computer display standard
+Computer for operations with functions
+Computer graphics
+Computer hardware
+Computer memory
+Computer network
+Computer performance
+Computer performance by orders of magnitude
+Computer program
+Computer vision
+Concurrency (computer science)
+Conditional (computer programming)
+Control flow
+Coprocessor
+Cryptanalysis
+Cryptographic accelerator
+Cryptography
+Custom hardware attack
+Data (computing)
+Data compression
+Data processing
+Data processing unit
+Dataflow architecture
+Datapath
+Die (integrated circuit)
+Digital audio
+Digital cinematography
+Digital electronics
+Digital image processing
+Digital photography
+Digital radio
+Digital signal
+Digital signal (signal processing)
+Digital signal processing
+Digital signal processor
+Digital television
+Digital video
+DirectX Video Acceleration
+Direct memory access
+Distributed computing
+Doi (identifier)
+Electric energy consumption
+Electronic circuit
+Electronic component
+Electronic literature
+Electronics design
+Embedded system
+Emitter-coupled logic
+Encryption
+Erasable programmable logic device
+Execution (computing)
+Execution unit
+External GPU
+FLOPS
+Field-programmable RF
+Field-programmable analog array
+Field-programmable gate array
+Field-programmable object array
+Fillrate
+FinFET
+Finite-state machine
+Fixed-function
+Flip-flop (electronics)
+Flow to HDL
+Flynn's taxonomy
+Formal equivalence checking
+Frame rate
+Framebuffer
+Full custom
+Function (mathematics)
+Functional verification
+GDDR2
+GDDR3
+GDDR4
+GDDR5
+GDDR6
+GDDR7
+GDDR SDRAM
+GPU cluster
+GPU switching
+Gate equivalent
+GeForce
+General-purpose computing on graphics processing units
+Generic Array Logic
+Geometry pipelines
+Geometry processing
+Gigapixel image
+Glaze3D
+Global illumination
+Graphics library
+Graphics pipeline
+Graphics processing unit
+HBM-PIM
+HBM2
+HBM2E
+HBM3
+HBM3E
+Hardware-based encryption
+Hardware description language
+Hardware emulation
+Hardware random number generator
+Heterogeneous computing
+Hierarchical state machine
+High-dynamic-range rendering
+High-level synthesis
+High Bandwidth Memory
+Hybrid integrated circuit
+I/O Acceleration Technology
+ISBN (identifier)
+ISSN (identifier)
+Image compression
+Imageon
+In-memory processing
+Inductor
+InfiniteReality
+Input/output
+Input–output memory management unit
+Instruction-level parallelism
+Instruction cycle
+Instruction fetch
+Instruction set architecture
+Integrated circuit
+Integrated graphics
+Intel 2700G
+Intel Arc
+Intel Graphics Technology
+Intel Xe
+Latency (engineering)
+List of AMD graphics processing units
+List of Intel graphics processing units
+List of Nvidia graphics processing units
+Load/store architecture
+Load–store architecture
+Locality of reference
+Logic block
+Logic gate
+Logic in computer science
+Logic synthesis
+MOSFET
+MPEG-2
+Machine vision
+Macrocell array
+Mali (GPU)
+Manycore
+Manycore processor
+Massively parallel
+Matrox
+Memory bandwidth
+Memory cell (computing)
+Memory controller
+Memory hierarchy
+Memristor
+Metastability (electronics)
+Microcontroller
+Microprocessor
+Microprocessor chronology
+Mixed-signal integrated circuit
+Models of computation
+Modified Harvard architecture
+Motion estimation
+Multi-core processor
+Multicore
+Multilinear algebra
+Multiple instruction, multiple data
+Multiplexer
+Multiply–accumulate operation
+Multiprocessor system on a chip
+NEC µPD7220
+Netlist
+Network interface controller
+Network on a chip
+Network processor
+Neuromorphic engineering
+Non-recurring engineering
+Nvidia
+Nvidia Tegra
+Nvidia Tesla
+Opcode
+Overhead (computing)
+Parallel RAM
+Parallel computing
+Parallel processing (DSP implementation)
+Patch (computing)
+Performance per watt
+Physical neural network
+Physics processing unit
+Place and route
+Placement (electronic design automation)
+PowerVR
+Printed circuit board
+Printed electronics
+Processor (computing)
+Processor design
+Programmable Array Logic
+Programmable logic
+Programmable logic array
+Programmable logic device
+Programmable system-on-chip
+Quadro
+Radeon
+Radeon Pro
+Random number generation
+Rasterisation
+Ray-tracing hardware
+Ray tracing (graphics)
+ReDoS
+Reconfigurable computing
+Register-transfer level
+Register file
+Regular expression
+Render output unit
+Resistor
+Routing (electronic design automation)
+Runt pulse
+S2CID (identifier)
+S3 Graphics
+SGRAM
+Scrolling
+Scrypt
+Secure cryptoprocessor
+Seed accelerator
+Semantics (computer science)
+Semiconductor device fabrication
+Semiconductor intellectual property core
+Sequential logic
+Server (computing)
+Shader
+Shading
+Shared graphics memory
+Simultaneous multithreading
+Single instruction, multiple data
+Single instruction, multiple threads
+Soft microprocessor
+Software
+Software bug
+Software development process
+Software portability
+Software release life cycle
+Sound card
+Sound card mixer
+Speedup
+Sprite (computer graphics)
+Stored-program computer
+Stream processing
+Switching circuit theory
+Synchronous circuit
+System on a chip
+Systolic array
+TCP offload engine
+TLS acceleration
+Telephony
+Temporary variable
+Tensor
+Tensor Processing Unit
+Tessellation (computer graphics)
+Texel (graphics)
+Texture mapping
+Texture mapping unit
+Texture memory
+Three-dimensional integrated circuit
+Throughput
+Tile-based video game
+Tiled rendering
+Transaction-level modeling
+Transform, clipping, and lighting
+Transistor
+Transistor count
+Transmission Control Protocol
+Transport Layer Security
+Transport triggered architecture
+Turing machine
+Unified shader model
+Universal Turing machine
+VHDL
+Vector processor
+Verilog
+Vertex pipeline
+Very long instruction word
+VideoCore
+Video RAM (dual-ported DRAM)
+Video card
+Video codec
+Video coding format
+Video display controller
+Video processing unit
+Virtualization
+Vision processing unit
+Vivante Corporation
+Von Neumann architecture
+Wayback Machine

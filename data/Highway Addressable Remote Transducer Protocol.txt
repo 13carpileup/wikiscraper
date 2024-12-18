@@ -1,0 +1,104 @@
+1-Wire
+ARINC 429
+ARINC 825
+AS-Interface
+Automatic meter reading
+Avionics Full-Duplex Switched Ethernet
+BACnet
+BatiBUS
+Bell 202 modem
+Bit
+Bristol Standard Asynchronous Protocol
+Building automation
+C-Bus (protocol)
+CAN bus
+CANopen
+CC-Link Industrial Networks
+CEBus
+Checksum
+Common Industrial Protocol
+ControlNet
+Current loop
+Cyphal
+DF-1 Protocol
+DNP3
+DeviceNet
+Digital Addressable Lighting Interface
+Digital Serial Interface
+Digital current loop interface
+DirectNET Protocol
+DyNet
+EnOcean
+EtherCAT
+EtherNet/IP
+Ethernet Global Data Protocol
+Ethernet Powerlink
+European Home Systems Protocol
+European Installation Bus
+FOUNDATION fieldbus
+Factory Instrumentation Protocol
+Factory Interface Network Service
+Fleet Management System
+FlexRay
+Foundation Fieldbus H1
+Higher Speed Ethernet
+HostLink Protocol
+IEBus
+IEC 60870
+IEC 60870-5
+IEC 60870-6
+IEC 61850
+IEC 62056
+IEC 62351
+INTERBUS
+IO-Link
+Industrial control system
+KNX
+Keyword Protocol 2000
+List of automation protocols
+Local Interconnect Network
+LonTalk
+MECHATROLINK
+MOST Bus
+MTConnect
+MelsecNet
+Meter-Bus
+Modbus
+NMEA 2000
+OBIX
+OPC Data Access
+OPC Historical Data Access
+OPC Unified Architecture
+OSI model
+OpenTherm
+Open protocol
+Optomux
+PROFIBUS
+PROFINET
+PieP
+Polling (computer science)
+Power-system automation
+RAPIEnet
+Rosemount Inc.
+SAE J1587
+SAE J1708
+SAE J1939
+SDS Protocol
+SENT (protocol)
+SERCOS III
+SERCOS interface
+Service Request Transport Protocol
+Sinec H1
+Smart meter
+SynqNet
+TTEthernet
+Unified Diagnostic Services
+Vehicle Area Network
+Vehicle bus
+Very Simple Control Protocol
+Wayback Machine
+X10 (industry standard)
+XAP Home Automation protocol
+XPL Protocol
+Z-Wave
+Zigbee

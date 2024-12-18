@@ -1,0 +1,371 @@
+1-bit computing
+12-bit computing
+128-bit computing
+16-bit computing
+24-bit computing
+256-bit computing
+32-bit computing
+3D graphics
+4-bit computing
+48-bit computing
+512-bit computing
+64-bit computing
+8-bit computing
+80387
+ACPI
+AGEIA
+AI accelerator
+AI accelerator (computer hardware)
+ARM architecture
+ARM architecture family
+Abstract machine
+Acorn Computers
+Adapteva
+Adder (electronics)
+Address decoder
+Address generation unit
+Addressing mode
+Advanced Power Management
+Alternating Turing machine
+Amiga
+Analogue electronics
+Apollo Guidance Computer
+Apple M7
+Apple motion coprocessors
+Application-specific instruction set processor
+Application-specific integrated circuit
+Application software
+Arithmetic logic unit
+Artificial neural networks
+Asymmetric multiprocessing
+Atari 8-bit computers
+BBC Master
+BBC Micro
+BBC Micro expansion unit
+Barrel processor
+Barrel shifter
+Baseband processor
+Binary decoder
+Binary multiplier
+Bit-level parallelism
+Bit-serial architecture
+Bit slicing
+Bitmap
+Blitter
+Boolean circuit
+Branch predictor
+Branch target predictor
+Bus (computing)
+CPU cache
+CPU multiplier
+Cache (computing)
+Cache coherence
+Cache hierarchy
+Cache performance measurement and metric
+Cache replacement policies
+Cell (microprocessor)
+Cellular architecture
+Cellular automaton
+Central processing unit
+Channel I/O
+Chip carrier
+Circuit (computer science)
+Classic RISC pipeline
+Clipper architecture
+Clock gating
+Clock rate
+Clock signal
+Cognitive computing
+Combinational logic
+Command list
+Comparison of instruction set architectures
+Complex instruction set computer
+Complex programmable logic device
+Compute kernel
+Computer-aided design
+Computer architecture
+Computer data storage
+Computer graphics
+Computer hardware
+Computer performance
+Computer performance by orders of magnitude
+Computer processor
+Control hazard
+Control unit
+Cooperative multitasking
+Counter (digital)
+Counter machine
+Cryptographic accelerator
+Cycles per instruction
+Cypress PSoC
+DEC Alpha
+Data buffer
+Data cache
+Data dependency
+Data parallelism
+Dataflow architecture
+Datapath
+Demultiplexer
+Desktop computer
+Deterministic finite automaton
+Digital electronics
+Digital signal processor
+Direct memory access
+Distributed architecture
+Dynamic frequency scaling
+Dynamic voltage scaling
+ETRAX CRIS
+Electronic circuit
+Embedded system
+Emotion Engine
+Endianness
+Execution unit
+Explicit data graph execution
+Explicitly parallel instruction computing
+FIFO (computing and electronics)
+FLOPS
+Fabric computing
+False sharing
+Field-programmable gate array
+Field-programmable object array
+Finite-state machine
+Finite-state machine with datapath
+Floating-point
+Floating-point arithmetic
+Floating-point unit
+Flynn's taxonomy
+Gate array
+General-purpose computing on graphics processing units
+Glue logic
+Graphics card
+Graphics processing unit
+Gravis Ultrasound
+Hardware acceleration
+Hardware register
+Hardware security module
+Hardwired control unit
+Harvard architecture
+Hazard (computer architecture)
+Heterogeneous System Architecture
+Heterogeneous computing
+Hierarchical state machine
+History of general-purpose CPUs
+Hyper-threading
+Hypercomputation
+IA-64
+IBM PC
+IBM POWER architecture
+IBM System/360 architecture
+IBM System/370
+IBM System/390
+ISBN (identifier)
+Image processor
+Input/output
+Instruction-level parallelism
+Instruction cache
+Instruction cycle
+Instruction decoder
+Instruction pipelining
+Instruction set
+Instruction set architecture
+Instruction unit
+Instructions per cycle
+Instructions per second
+Integrated circuit
+Intel
+Intel 80386
+Intel 8086
+Intel 8087
+Intel 8089
+Intel 8231/8232
+Intel Xeon Phi
+Khronos Group
+Little man computer
+Load–store architecture
+Load–store unit
+Logic gate
+M32R
+MIPS-X
+MIPS architecture
+MSX
+Machine code
+Mainframe computer
+Manycore processor
+Matrix 2000
+Memory-level parallelism
+Memory address register
+Memory buffer register
+Memory controller
+Memory dependence prediction
+Memory hierarchy
+Memory management unit
+MicroBlaze
+Microarchitecture
+Microcode
+Microcontroller
+Microprocessor
+Microprocessor chronology
+Minimal instruction set computer
+Mixed-signal integrated circuit
+Mobile processor
+Model of computation
+Modified Harvard architecture
+Motorola 68000
+Motorola 68000 series
+Motorola 68881
+Multi-chip module
+Multi-core (computing)
+Multi-core processor
+Multiple instruction, multiple data
+Multiple instruction, single data
+Multiplexer
+Multiprocessing
+Multiprocessor system on a chip
+Multithreading (computer architecture)
+National 32081
+Network Processing Unit
+Network on a chip
+Network processor
+Neuromorphic engineering
+No instruction set computing
+Non-uniform memory access
+Nondeterministic Turing machine
+One-instruction set computer
+OpenCL
+OpenRISC
+Operand forwarding
+Original Amiga chipset
+Orthogonal instruction set
+Out-of-order execution
+PDP-11 architecture
+Package on a package
+Parallel computing
+Performance per watt
+PhysX
+Physics processing unit
+Pin grid array
+Pipeline stall
+PlayStation 2
+Pointer machine
+Post–Turing machine
+PowerPC
+PowerQUICC
+Power ISA
+Power Management Unit
+Power management
+Power management integrated circuit
+Preemption (computing)
+Probabilistic Turing machine
+Process (computing)
+Processor (computing)
+Processor design
+Processor register
+Program counter
+Programmable Array Logic
+Qualcomm Hexagon
+Qualcomm Snapdragon
+Quantum Turing machine
+Quantum cellular automaton
+Quantum circuit
+Quantum computing
+Quantum logic gate
+Queue automaton
+RISC-V
+ROM image
+Random-access machine
+Random-access stored-program machine
+Re-order buffer
+Reduced instruction set computer
+Register file
+Register machine
+Register renaming
+Register–memory architecture
+Reservation station
+SPARC
+SUPS
+SWAR
+Scalar processor
+Scoreboarding
+Scratchpad memory
+Secondary storage
+Secure cryptoprocessor
+Semiconductor device fabrication
+Sensor hub
+Sequential logic
+Server (computing)
+Signal processing
+Simultaneous and heterogeneous multithreading
+Simultaneous multithreading
+Single-core
+Single instruction, multiple data
+Single instruction, multiple threads
+Single instruction, single data
+Single program, multiple data
+Soft microprocessor
+Sound Blaster AWE32
+Sound Blaster Audigy
+Sound Blaster X-Fi
+Sound card
+Speculative execution
+Speculative multithreading
+SpursEngine
+Stack machine
+Stack register
+Stanford MIPS
+Status register
+Stored-program computer
+Stream processing
+String processing
+Structural hazard
+Sum-addressed decoder
+Sunway TaihuLight
+SuperH
+Superscalar processor
+Switch
+System in a package
+System on a chip
+TI-99/4A
+TLS acceleration
+TRIPS architecture
+Task parallelism
+Temporal multithreading
+Tensor Processing Unit
+Thread (computing)
+Three-dimensional integrated circuit
+Tianhe-2
+Tick–tock model
+Tile processor
+Tomasulo's algorithm
+Torrenza
+Transactions per second
+Transistor count
+Translation lookaside buffer
+Transport triggered architecture
+TrueNorth
+Tube (BBC Micro)
+Turing machine
+Ultra-low-voltage processor
+Unicore
+Uniform memory access
+Universal Turing machine
+VAX
+VISC architecture
+Vector processor
+Very long instruction word
+Video Display Controller
+Video game
+Virtual memory
+Vision processing unit
+Von Neumann architecture
+Weitek
+Wide-issue
+Windows Holographic
+Word (computer architecture)
+Write buffer
+X86
+X87
+Z/Architecture
+Zeno machine
+Zero instruction set computer
+Zeroth (software)
+Zynq

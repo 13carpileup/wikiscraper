@@ -1,0 +1,429 @@
+API
+Abiquo Enterprise Edition
+Abstraction (computer science)
+Adobe Creative Cloud
+Alibaba Cloud
+Amazon Elastic Compute Cloud
+Amazon S3
+Amazon Web Services
+Amdahl's law
+Analysis of parallel algorithms
+Analytics
+Apache CloudStack
+AppScale
+Application checkpointing
+Application programming interface
+Application software
+ArXiv (identifier)
+Array (data structure)
+As a service
+Asymmetric multiprocessing
+Ateji PX
+Audit log
+Automatic parallelization
+Backend as a service
+Bare-metal server
+Barrier (computer science)
+Barriers to entry
+Beowulf cluster
+Bibcode (identifier)
+Big data
+Bit-level parallelism
+Block-level storage
+Block storage
+Boost (C++ libraries)
+Box (company)
+Browser-based computing
+Bulldozer (microarchitecture)
+Business
+Business continuity
+Business plan
+C++ AMP
+CNET News
+CUDA
+Cache-only memory architecture
+Cache coherence
+Cache invalidation
+Capital expenditure
+Carrier cloud
+Cgroups
+Change control
+Chapel (programming language)
+Charm++
+Cilk
+Citrix Cloud
+Client–server model
+Cloud-based integration
+Cloud-computing comparison
+Cloud-native computing
+Cloud-to-cloud integration
+CloudBioLinux
+CloudBolt
+Cloud Computing
+Cloud Computing (horse)
+Cloud Foundry
+Cloud broker
+Cloud bursting
+Cloud collaboration
+Cloud computing architecture
+Cloud computing issues
+Cloud computing security
+Cloud database
+Cloud engineering
+Cloud gaming
+Cloud infrastructure
+Cloud management
+Cloud research
+Cloud robotics
+Cloud storage
+Cloud storage gateway
+Cloudlet
+Cluster (computing)
+Clustered file system
+Coarray Fortran
+Cocaine (PaaS)
+Code on demand
+Community cloud
+Company
+Compaq Computer Corporation
+Comparison of structured storage software
+Computational resource
+Computer bureau
+Computer cluster
+Computer hardware
+Computer multitasking
+Computer network
+Computer programming
+Computer security
+Computing platform
+Concurrency (computer science)
+Container (virtualization)
+Content as a service
+Contract
+Cooperative storage cloud
+Cost efficiency
+Costing
+Data as a service
+Data breach
+Data center
+Data centers
+Data parallelism
+Data portability
+Data visualization
+Databases
+Dataflow architecture
+Dataflow programming
+Deadlock (computer science)
+Decentralized computing
+Deft (company)
+Desktop as a service
+Desktop virtualization
+Deterministic algorithm
+Dew computing
+DigitalOcean
+Digital single market
+Directory (computing)
+Disk image
+Distributed application
+Distributed computing
+Distributed data store
+Distributed database
+Distributed file system
+Distributed file system for cloud
+Distributed memory
+Distributed networking
+Distributed shared memory
+Doi (identifier)
+Dropbox
+Dryad (programming)
+E-Science
+EMC Atmos
+Edge computing
+Edge device
+Embarrassingly parallel
+Engine Yard
+Engineering
+Environmentally sustainable
+Eucalyptus (software)
+Eugene Schultz
+Explicit parallelism
+FUJITSU Cloud IaaS Trusted Public S5
+Fallacies of distributed computing
+Fiber (computer science)
+File hosting service
+File system
+Flexera
+Flynn's taxonomy
+Fog computing
+Fog robotics
+Force majeure
+Fortune 500
+Function as a service
+GDPR
+GPUOpen
+Gartner
+General-purpose computing on graphics processing units
+General Magic
+Geospatial analysis
+Global Arrays
+Google
+Google App Engine
+Google Assistant
+Google Cloud
+Google Cloud Platform
+Google Docs
+Google Drive
+Google Workspace
+GreenButton
+GreenQloud
+Green computing
+Grid computing
+Gustafson's law
+HIPAA
+HPE Helion
+HPX
+HP Cloud
+Hardware acceleration
+Hardware scout
+Hardware virtualization
+Hdl (identifier)
+Heroku
+High-performance computing
+History of cloud computing
+Human error
+Hybrid cloud storage
+Hypervisor
+IBM
+IBM Cloud
+IP address
+ISBN (identifier)
+ISSN (identifier)
+IT disaster recovery
+IT infrastructure
+Identity management systems
+Iland
+Implicit parallelism
+In-memory database
+In-memory processing
+Information privacy
+Information technology
+Information technology engineering
+Infrastructure as a service
+Inktank Storage
+Instruction-level parallelism
+Instruction pipelining
+Instruction window
+Intelligent personal assistant
+International Data Corporation
+International Organization for Standardization
+Internet
+Internet of things
+Internet service provider
+IoT security device
+JSTOR (identifier)
+Jelastic
+Joyent
+Karlsruher Institut für Technologie
+Karp–Flatt metric
+Kernel (operating system)
+Knowledge as a service
+Laptop
+Leaky abstraction
+Legal jurisdictions
+Libguestfs
+Libvirt
+Linode
+Linux kernel
+Load balancer
+Load balancing (computing)
+Loop-level parallelism
+Loose coupling
+Lunacloud
+Malware
+Man-in-the-middle attack
+Manycore processor
+Massively parallel
+McKinsey & Company
+Memory-level parallelism
+Memory coherence
+Message Passing Interface
+Metaphor
+Microservices
+Microsoft
+Microsoft 365
+Microsoft Azure
+MindSphere
+Mirantis
+Mobile app
+Mobile cloud computing
+Multi-access edge computing
+Multicloud
+Multiple instruction, multiple data
+Multiple instruction, single data
+Multiprocessing
+Multisite cloud
+Multitenant
+Multithreading (computer architecture)
+NASA
+NIST
+Namespace
+National Institute of Standards and Technology
+Native cloud application
+Natural disaster
+Netlify
+Network as a service
+Nextcloud
+Nimbula
+Nimbus (cloud computing)
+Non-blocking algorithm
+Non-uniform memory access
+Noumenon
+Numinous
+OVirt
+Object storage
+Office Online
+On-premises software
+OneDrive
+Open-source software
+OpenACC
+OpenCL
+OpenHMPP
+OpenIO
+OpenMP
+OpenNebula
+OpenQRM
+OpenShift
+OpenStack
+Operating system–level virtualization
+Operational expenditure
+Oracle Cloud
+Oracle Corporation
+Organization
+OrionVM
+OutSystems
+Outsourcing
+Owncloud
+PandoDaily
+Panorama9
+Parallel Extensions
+Parallel RAM
+Parallel Virtual Machine
+Parallel computing
+Parallel external memory
+Parallel programming model
+Parallel slowdown
+Peer-to-peer
+Performance engineering
+Performance metric
+Personal cloud
+Phishing
+Pipeline (computing)
+PlateSpin
+Platform as a service
+Platform engineering
+Pooling (resource management)
+Predix (software)
+Preemption (computing)
+Prepayment for service
+Private cloud computing infrastructure
+Process (computing)
+Proton Drive
+Pthreads
+Public Cloud
+Push technology
+PythonAnywhere
+Quality control
+ROCm
+Race condition
+Rackspace Cloud
+Rackspace Technology
+RaftLib
+Reliability (computer networking)
+Remote job entry
+Rental utilization
+Request for Comments
+RightScale
+Risk analysis (engineering)
+Robot as a service
+S2CID (identifier)
+SAP Cloud Platform
+Safe Swiss Cloud
+Sales
+Salesforce
+Sandbox (Cloud)
+Scalability
+Scalr
+Seafile
+Security
+Security as a service
+Security engineering
+Semiconductor memory
+Server (computing)
+Serverless computing
+Service-level agreement
+Service-oriented architecture
+Service bureau
+Shared memory
+Silicon Graphics International
+Simultaneous and heterogeneous multithreading
+Simultaneous multithreading
+Single instruction, multiple data
+Single instruction, multiple threads
+Single instruction, single data
+Siri
+Social networking service
+Software architecture
+Software as a service
+Software development kit
+Software engineering
+Software lockout
+Software systems
+Speculative multithreading
+Speedup
+Splunk
+Startup company
+Starvation (computer science)
+Stream processing
+Superscalar processor
+Symmetric multiprocessing
+Synchronization (computer science)
+Systems architecture
+Systems engineering
+Systolic array
+Task parallelism
+Telescript (programming language)
+Temporal multithreading
+Thread (computing)
+Threading Building Blocks
+Time-sharing
+Trojan horse (computing)
+Ubiquitous computing
+Unified Parallel C
+Uniform memory access
+Univa
+User (computing)
+Utility computing
+VCloud Air
+VLAN
+Vector processor
+Vercel
+Virt-manager
+Virtual Private Cloud OnDemand
+Virtual appliance
+Virtual machine
+Virtual private cloud
+Virtual private network
+Virtualization
+Wakame-vdc
+WaveMaker
+Wayback Machine
+Web API
+Web app
+Web engineering
+Web services
+Wide area network
+Workday, Inc.
+ZPL (programming language)
+Zadara
+Ziff Davis
+Zoho Corporation

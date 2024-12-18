@@ -1,0 +1,157 @@
+Bit-level parallelism
+Barrier (computer science)
+IEEE Transactions on Computers
+Doi (identifier)
+Speculative multithreading
+Computer multitasking
+Bulldozer (microarchitecture)
+Grid computing
+SWAR
+Personal computer
+Shared memory
+General-purpose computing on graphics processing units
+Multi-core
+Chapel (programming language)
+Array (data structure)
+Instruction window
+GNU Free Documentation License
+Dataflow programming
+Cache-only memory architecture
+Pipeline (computing)
+Multiple instruction, single data
+Altivec
+Gustafson's law
+Parallel slowdown
+Parallel RAM
+Amdahl's law
+Content-addressable memory
+Loop-level parallelism
+Parallel computing
+Erlangen Classification System
+Manycore processor
+OpenCL
+GPUOpen
+S2CID (identifier)
+Global Arrays
+Deadlock (computer science)
+Hardware acceleration
+High-performance computing
+Distributed computing
+Distributed memory
+Computer network
+Supercomputer
+Proceedings of the IEEE
+Central processing unit
+RaftLib
+Advanced Vector Extensions
+Frederica Darema
+Concurrency (computer science)
+Springer Science+Business Media
+Non-blocking algorithm
+Speedup
+Ateji PX
+Distributed shared memory
+Memory-level parallelism
+Cell (microprocessor)
+Data parallelism
+OpenACC
+Michael J. Flynn
+HPX
+SPMD
+Implicit parallelism
+Non-uniform memory access
+Starvation (computer science)
+Embarrassingly parallel
+Uniform memory access
+ILLIAC IV
+Coarray Fortran
+Lockstep (computing)
+Beowulf cluster
+Parallel programming model
+Threading Building Blocks
+Make (software)
+Mainframe computer
+OpenMP
+Analysis of parallel algorithms
+Instruction-level parallelism
+Superscalar
+Cost efficiency
+Feng's classification
+Parallel Extensions
+Cloud computing
+Computer cluster
+Dryad (programming)
+Single instruction, single data
+Stream processing
+Duncan's taxonomy
+Karp–Flatt metric
+Task parallelism
+Computer programming
+Scalability
+TOP500
+Cilk
+Race condition
+Pthreads
+Application checkpointing
+Semiconductor memory
+ISBN (identifier)
+Multiprogramming
+Thread (computing)
+ZPL (programming language)
+Massively parallel
+Multiple instruction, multiple data
+GPU
+Hardware scout
+Computer (magazine)
+Vector processing
+Synchronization (computer science)
+Charm++
+Hdl (identifier)
+Asymmetric multiprocessing
+Single program, multiple data
+NEON (instruction set)
+CUDA
+Space Shuttle
+MPMD
+Symmetric multiprocessing
+Fiber (computer science)
+Message Passing Interface
+Cache invalidation
+Distributed system
+Explicit parallelism
+Parallel Virtual Machine
+Multiprocessing
+Temporal multithreading
+Cray-1
+Single instruction, multiple data
+AVX-512
+Preemption (computing)
+API
+Vector processor
+Uniprocessor
+Computer architecture
+Simultaneous multithreading
+Wolfgang Händler
+Memory coherence
+Automatic parallelization
+Software lockout
+Single instruction, multiple threads
+Predication (computer architecture)
+Instruction pipelining
+Boost (C++ libraries)
+OpenHMPP
+Systolic array
+Multithreading (computer architecture)
+Computer hardware
+Unified Parallel C
+Dataflow architecture
+Free On-line Dictionary of Computing
+Cache coherence
+Deterministic algorithm
+Process (computing)
+Simultaneous and heterogeneous multithreading
+Superscalar processor
+Parallel external memory
+C++ AMP
+ROCm
+IEEE Micro

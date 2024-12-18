@@ -1,0 +1,78 @@
+ALGOL
+Automatic Reference Counting
+Block (programming)
+Boehm garbage collector
+Buffer over-read
+Buffer overflow
+C++
+C++11
+C99
+C dynamic memory allocation
+C syntax
+Call stack
+Cheney's algorithm
+Compiler optimization
+Computer programming
+Concurrent mark sweep collector
+Dangling pointer
+Demand paging
+Dlmalloc
+Dynamic scoping
+Execution thread
+Finalizer
+Fragmentation (computing)
+Garbage-first collector
+Garbage (computer science)
+Garbage collection (computer science)
+Hoard memory allocator
+Input–output memory management unit
+International Symposium on Memory Management
+Jemalloc
+LISP
+Libumem
+Local variable
+Manual memory management
+Mark–compact algorithm
+Mebibyte
+Memory allocator
+Memory leak
+Memory management
+Memory management (operating systems)
+Memory management unit
+Memory paging
+Memory pool
+Memory safety
+Memory segmentation
+Mimalloc
+Nested function
+New and delete (C++)
+Object lifetime
+Page table
+Processor register
+Protected mode
+Ptmalloc
+Real mode
+Recursion
+Recursion (computer science)
+Reentrant (subroutine)
+Reference counting
+Region-based memory management
+Resource Acquisition Is Initialization
+Scope (computer science)
+Scope (programming)
+Stack-based memory allocation
+Stack overflow
+Static local variable
+Static variable
+Tracing garbage collection
+Translation lookaside buffer
+Type inference
+Undefined behavior
+Unreachable memory
+Variable-length array
+Variable (programming)
+Virtual 8086 mode
+Virtual memory
+Virtual memory compression
+Weak reference
+X86 memory segmentation

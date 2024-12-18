@@ -1,0 +1,249 @@
+A* algorithm
+A* search algorithm
+A-star algorithm
+A Discipline of Programming
+A Method of Programming
+A Note on Two Problems in Connexion with Graphs
+A Primer of ALGOL 60 Programming
+Active-set method
+Adjacency list
+Adjacency matrix
+Adriaan van Wijngaarden
+Affine scaling
+Algorithm
+Algorithm design
+Alpha–beta pruning
+Amsterdam
+Approximation algorithm
+ArXiv (identifier)
+Artificial intelligence
+Asymptotic computational complexity
+Augmented Lagrangian method
+B*
+Barrier function
+Beam search
+Bellman equation
+Bellman–Ford algorithm
+Berndt–Hall–Hall–Hausman algorithm
+Best, worst and average case
+Best-first search
+Bibcode (identifier)
+Bidirectional search
+Big-O notation
+Binary heap
+Borůvka's algorithm
+Branch and bound
+Branch and cut
+Breadth-first search
+Brodal queue
+Broyden–Fletcher–Goldfarb–Shanno algorithm
+Bucket queue
+Carel S. Scholten
+Centrum Wiskunde & Informatica
+Charles Babbage Institute
+Charles E. Leiserson
+CiteSeerX (identifier)
+Clifford Stein
+Combinatorial optimization
+Communications of the ACM
+Comparison of optimization software
+Comparison sort
+Computer science
+Computer scientist
+Concurrent computing
+Consistent heuristic
+Contraction hierarchy
+Convex minimization
+Convex optimization
+Cooperating Sequential Process
+Correctness (computer science)
+Criss-cross algorithm
+Cutting-plane method
+D*
+David Parnas
+Davidon–Fletcher–Powell formula
+Depth-first search
+Dinic's algorithm
+Directed graph
+Distributed computing
+Doi (identifier)
+Donald Knuth
+Dover Publications
+Dykstra's projection algorithm
+Dynamic programming
+EWDs
+Edmonds–Karp algorithm
+Edsger W. Dijkstra
+Ellipsoid method
+Euclidean shortest path
+Evolutionary algorithm
+Exchange algorithm
+FIFO (computing and electronics)
+Fast marching method
+Fibonacci heap
+Flow network
+Floyd–Warshall algorithm
+Ford–Fulkerson algorithm
+Formal methods
+Francis & Taylor
+Frank–Wolfe algorithm
+Fringe search
+Function (mathematics)
+Gauss–Newton algorithm
+Go To Statement Considered Harmful
+Golden-section search
+Gradient
+Gradient descent
+Graph (abstract data type)
+Graph (data structure)
+Graph algorithm
+Graph labeling
+Graph theory
+Graph traversal
+Greedy algorithm
+Groningen
+Hdl (identifier)
+Heap (data structure)
+Hessian matrix
+Heuristic algorithm
+Hill climbing
+How Do We Tell Truths That Might Hurt?
+IEEE
+IS-IS
+ISBN (identifier)
+Information Processing Letters
+Integer programming
+Intersection (road)
+Introduction to Algorithms
+Iterative deepening A*
+Iterative deepening depth-first search
+Iterative method
+Johnson's algorithm
+Jump point search
+Karmarkar's algorithm
+Kruskal's algorithm
+Kurt Mehlhorn
+Lemke's algorithm
+Leslie Lamport
+Levenberg–Marquardt algorithm
+Lexicographic breadth-first search
+Lifelong Planning A*
+Limited-memory BFGS
+Line search
+Linear programming
+Link-state routing protocol
+List of algorithms
+Local convergence
+Local search (optimization)
+Longest path problem
+MIT Press
+Mathematical induction
+Mathematical optimization
+Matroid
+McGraw–Hill
+Metaheuristic
+Michael Fredman
+Min-priority queue
+Minimum spanning tree
+Mirror descent
+Monotonic function
+Monte Carlo tree search
+Motion planning
+Negative cycle
+Neighbourhood (graph theory)
+Nelder–Mead method
+Newton's method in optimization
+Niklaus Wirth
+Nonlinear conjugate gradient method
+Nonlinear programming
+Notes on Structured Programming
+OSPF
+Ole-Johan Dahl
+On the Cruelty of Really Teaching Computer Science
+On the Role of Scientific Thought
+Open Shortest Path First
+Optimization algorithm
+Pairing heap
+Parallel all-pairs shortest path algorithm
+Parallel breadth-first search
+Parallel metaheuristic
+Partially ordered set
+Penalty method
+Per Brinch Hansen
+Peter Norvig
+Peter Sanders (computer scientist)
+Philosophy of computer science
+Powell's dog leg method
+Powell's method
+Predicate Calculus and Program Semantics
+Prim's algorithm
+Priority queue
+Probability distribution
+Programming Considered as a Human Activity
+Programming language research
+Programming methodology
+Pseudocode
+Push–relabel maximum flow algorithm
+Quadratic programming
+Quasi-Newton method
+Radix heap
+Reverse-delete algorithm
+Revised simplex method
+Richard Bellman
+Road network
+Robert C. Prim
+Robert Cecil Martin
+Robert Endre Tarjan
+Robert Tarjan
+Robotics
+Ron Rivest
+Ronald L. Rivest
+Rotterdam
+Routing protocol
+S2CID (identifier)
+SMA*
+SSS*
+Search algorithm
+Self-balancing binary search tree
+Self-stabilizing Systems in Spite of Distributed Control
+Sequential quadratic programming
+Set (abstract data type)
+Shlomi Dolev
+Shortest Path Faster Algorithm
+Shortest path faster algorithm
+Shortest path problem
+Simplex algorithm
+Simulated annealing
+Software architecture
+Software design
+Software development
+Software engineering
+Solution of a Problem in Concurrent Programming Control
+Sparse graph
+Spiral optimization algorithm
+Structured Programming (book)
+Stuart J. Russell
+Subgradient method
+Subroutine
+Successive linear programming
+Successive parabolic interpolation
+Symmetric rank-one
+Systems science
+Tabu search
+The Humble Programmer
+The Structure of the 'THE'-Multiprogramming System
+Theoretical computer science
+Thomas H. Cormen
+Time complexity
+Tony Hoare
+Transit Node Routing
+Transportation Science
+Tree traversal
+Truncated Newton method
+Trust region
+Van Emde Boas tree
+Vertex (graph theory)
+Vojtěch Jarník
+Wavefront
+Wolfe conditions
+Yen's algorithm

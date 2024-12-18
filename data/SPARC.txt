@@ -1,0 +1,499 @@
+1-bit computing
+12-bit computing
+128-bit computing
+16-bit computing
+24-bit computing
+256-bit computing
+32-bit computing
+4-bit computing
+48-bit computing
+512-bit computing
+64-bit computing
+8-bit computing
+80386
+ACPI
+AI accelerator
+AMD 29000
+AMD Am29000
+ARC (processor)
+ARM architecture family
+AT&T Hobbit
+AVR32
+AVR microcontrollers
+Abstract machine
+Acquisition of Sun Microsystems by Oracle Corporation
+Adapteva
+Adder (electronics)
+Address decoder
+Address generation unit
+Addressing mode
+Advanced Power Management
+Afara Websystems
+Alternating Turing machine
+Amdahl Corporation
+Analog Devices
+Analogue electronics
+Andy Bechtolsheim
+Apollo Guidance Computer
+Apollo PRISM
+Application-specific instruction set processor
+Application-specific integrated circuit
+Arithmetic logic unit
+Ashlee Vance
+Assembler language
+Atmel
+BEA Systems
+BSD licenses
+Barrel processor
+Barrel shifter
+Baseband processor
+Berkeley DB
+Berkeley RISC
+Bi-endian
+Bill Joy
+Binary decoder
+Binary multiplier
+Bipolar Integrated Technology
+Bit-level parallelism
+Bit-serial architecture
+Bit slicing
+Blackfin
+BlueJ
+Boolean circuit
+Branch (computer science)
+Branch delay slot
+Branch predictor
+Branch target predictor
+Bus (computing)
+Byte (magazine)
+CC-NUMA
+CPU cache
+CPU multiplier
+Cache (computing)
+Cache coherence
+Cache hierarchy
+Cache performance measurement and metric
+Cache replacement policies
+Call stack
+Cellular architecture
+Cellular automaton
+Central processing unit
+Cerner
+Chip carrier
+Circuit (computer science)
+Classic RISC pipeline
+Clipper architecture
+Clock gating
+Clock rate
+Clock signal
+Cobalt Networks
+Cobalt Qube
+Cobalt RaQ
+Cobham plc
+Cognitive computing
+Combinational logic
+Common Development and Distribution License
+CompactRISC
+Comparison of instruction set architectures
+Complex instruction set computer
+Complex programmable logic device
+Computer architecture
+Computer data storage
+Computer memory
+Computer performance
+Computer performance by orders of magnitude
+Computerworld
+Conformance testing
+Control hazard
+Control unit
+Cooperative multitasking
+Coprocessor
+Counter (digital)
+Counter machine
+Cycles per instruction
+Cypress PSoC
+Cypress Semiconductor
+DEC Alpha
+DEC PRISM
+Data buffer
+Data cache
+Data dependency
+Data parallelism
+Dataflow architecture
+Datapath
+Demultiplexer
+Deterministic finite automaton
+Digital electronics
+Digital signal processor
+Distributed architecture
+Doi (identifier)
+Donald L. Lucas
+Double-precision floating-point format
+Dynamic frequency scaling
+Dynamic voltage scaling
+ERC32
+ESi-RISC
+ETRAX CRIS
+Electronic circuit
+Embedded system
+Endianness
+Essbase
+European Space Research and Technology Center
+Execution unit
+Explicit data graph execution
+Explicitly parallel instruction computing
+FIFO (computing and electronics)
+FLOPS
+Fabric computing
+False sharing
+FeiTeng
+Field-programmable gate array
+Field-programmable object array
+Finite-state machine
+Finite-state machine with datapath
+Fireplane
+Floating-point arithmetic
+Floating-point unit
+Floating point
+Flynn's taxonomy
+Fortress (programming language)
+FreeBSD
+Fujitsu
+GNU
+GNU General Public License
+Gaisler Research
+Gate array
+General-purpose computing on graphics processing units
+General-purpose register
+GlassFish
+Glue logic
+Graphics processing unit
+Green500
+Gridware
+H. Raymond Bingham
+HAL Computer Systems
+HAL SPARC64
+Hardware acceleration
+Hardware register
+Hardware security module
+Hardwired control unit
+Harris Corporation
+Harvard architecture
+Hazard (computer architecture)
+Heterogeneous System Architecture
+Heterogeneous computing
+Hierarchical state machine
+History of general-purpose CPUs
+Hyper-threading
+HyperSPARC
+Hypercomputation
+Hyperion Solutions
+Hyundai Group
+Héctor García-Molina
+IA-64
+IBM 801
+IBM POWER architecture
+IBM ROMP
+IBM System/360 architecture
+IBM System/370
+IBM System/390
+IEEE
+IEEE 754
+IPlanet
+ISBN (identifier)
+Illumos
+Image processor
+Imagination META
+InnoDB
+Instruction-level parallelism
+Instruction cache
+Instruction cycle
+Instruction decoder
+Instruction pipelining
+Instruction set
+Instruction set architecture
+Instruction unit
+Instructions per cycle
+Instructions per second
+Integrated circuit
+Intel
+Intel i860
+Intel i960
+Intergraph
+International Computers Limited
+Interrupt
+JD Edwards
+JDeveloper
+Jack Kemp
+JavaOS
+JavaStation
+Java (programming language)
+Java (software platform)
+Java Community Process
+Java Desktop System
+Jeffrey Berg
+Jeffrey O. Henley
+Joseph Grundfest
+K computer
+LEON
+LINPACK
+LOM port
+LSI Logic
+Larry Ellison
+LatticeMico32
+LatticeMico8
+Lighthouse Design
+Linux
+Lisp (programming language)
+List of Sun Microsystems employees
+List of acquisitions by Oracle
+Little man computer
+Load/store instructions
+Load–store
+Load–store architecture
+Load–store unit
+Logic gate
+Logical Domains
+Lustre (file system)
+M32R
+MAJC
+MB86900
+MBus (SPARC)
+MCST-4R
+MCST-R1000
+MCST-R2000
+MIPS-X
+MIPS architecture
+ML (programming language)
+Mainframe computer
+Manycore processor
+Marc Tremblay
+Mark Hurd
+McGraw-Hill
+Meiko Scientific
+Memory-level parallelism
+Memory address register
+Memory barrier
+Memory buffer register
+Memory controller
+Memory dependence prediction
+Memory hierarchy
+Memory management unit
+Metaflow Technologies
+Michael Boskin
+MicroBlaze
+MicroSPARC
+Microarchitecture
+Microcode
+Microcontroller
+Microprocessor
+Microprocessor chronology
+Minimal instruction set computer
+Mixed-signal integrated circuit
+Mobile processor
+Model of computation
+Modified Harvard architecture
+Montalvo Systems
+Moscow Center of SPARC Technologies
+Motorola 68000 series
+Motorola 88000
+Mp4
+Multi-chip module
+Multi-core processor
+Multiple instruction, multiple data
+Multiple instruction, single data
+Multiplexer
+Multiprocessing
+Multiprocessor system on a chip
+Multithreading (computer architecture)
+MySQL
+MySQL AB
+M·CORE
+NIS+
+National University of Defense Technology
+NeWS
+NeXTSTEP
+NetBSD
+NetBeans
+NetSuite
+Network File System
+Network Information Service
+Network on a chip
+Network processor
+Neuromorphic engineering
+No instruction set computing
+Non-uniform memory access
+Nondeterministic Turing machine
+Nvidia
+OSNews
+One-instruction set computer
+Open-source hardware
+Open-source software
+OpenBSD
+OpenIndiana
+OpenJDK
+OpenOffice.org
+OpenRISC
+OpenSPARC
+OpenSolaris
+OpenWindows
+Open Source University Meetup
+Operand forwarding
+Operating system
+Oracle Application Express
+Oracle Big Data Appliance
+Oracle Certification Program
+Oracle Coherence
+Oracle Corporation
+Oracle Database
+Oracle Developer Studio
+Oracle Exadata
+Oracle Exalogic
+Oracle Forms
+Oracle Fusion Middleware
+Oracle Grid Engine
+Oracle Labs
+Oracle Linux
+Oracle Rdb
+Oracle SOA Suite
+Oracle SQL Developer
+Oracle Secure Global Desktop
+Oracle Solaris
+Oracle WebCenter
+Oracle WebLogic Server
+Oracle ZFS
+Orthogonal instruction set
+Out-of-order execution
+PA-RISC
+PDP-11 architecture
+PL/SQL
+PRIMEHPC FX10
+Package on a package
+Paging
+Panasonic
+Parallel computing
+PeopleSoft
+Performance per watt
+Philips
+Philips Electronics
+Physics processing unit
+PicoBlaze
+PicoJava
+Pin grid array
+Pipeline stall
+Pixo
+Pointer machine
+Post–Turing machine
+PowerPC
+Power ISA
+Power Management Unit
+Power management
+Power management integrated circuit
+Preemption (computing)
+Prentice Hall
+Probabilistic Turing machine
+Process (computing)
+Processor (computing)
+Processor design
+Processor register
+Procom Technology
+Program counter
+Programmable Array Logic
+Project Looking Glass
+QFS
+Quadruple-precision floating-point format
+Quantum Turing machine
+Quantum cellular automaton
+Quantum circuit
+Quantum computing
+Quantum logic gate
+Queue automaton
+RAD750
+RISC-V
+ROM image
+RTEMS
+Radiation hardening
+Random-access machine
+Random-access stored-program machine
+Re-order buffer
+Reduced instruction set computer
+Register file
+Register machine
+Register renaming
+Register window
+Register–memory architecture
+Renesas Electronics
+Reservation station
+RightNow Technologies
+Rock (processor)
+Ross Technology
+Ross Technology, Inc.
+Run-time system
+S1 Core
+SBus
+SPARC64 V
+SPARC64 VI
+SPARC64 VII
+SPARC64 VII+
+SPARC64 VIIIfx
+SPARC64 X
+SPARC64 X+
+SPARC Enterprise
+SPARC M7
+SPARC M8
+SPARC T-Series
+SPARC T3
+SPARC T4
+SPARC T5
+SPARC T series
+SPARCclassic
+SPARClite
+SPARCstation
+SPARCstation 1
+SPARCstation 10
+SPARCstation 2
+SPARCstation 20
+SPARCstation 4
+SPARCstation 5
+SPARCstation IPC
+SPARCstation IPX
+SPARCstation LX
+SPARCstation ZX
+SUPS
+SWAR
+Safra Catz
+SavaJe
+Scalar processor
+Scoreboarding
+Scott McNealy
+Scratchpad memory
+Secondary storage
+Secure cryptoprocessor
+Semiconductor device fabrication
+Sequential logic
+Server (computing)
+Siebel Systems
+Simultaneous and heterogeneous multithreading
+Simultaneous multithreading
+Single-core
+Single-precision floating-point format
+Single instruction, multiple data
+Single instruction, multiple threads
+Single instruction, single data
+Single program, multiple data
+Soft microprocessor
+Software license agreement
+Solaris (operating system)
+Solbourne Computer
+Sole source
+Source code
+Sparcle
+Speculative execution
+Speculative multithreading
+Stack (abstract data type)
+Stack machine
+Stack register
+Standard Performance Evaluation Corporation
+Stanford MIPS
+StarOffice
+Status register

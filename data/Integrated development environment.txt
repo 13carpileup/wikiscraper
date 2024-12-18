@@ -1,0 +1,454 @@
+.NET
+.NET Framework
+ACM Computing Classification System
+Acceptance test–driven development
+ActiveState Komodo
+AdaGIDE
+Ada (programming language)
+Adaptive software development
+Adobe Flash
+Adobe Flash Builder
+Agile software development
+Algorithm
+Algorithm design
+Algorithmic efficiency
+Analysis of algorithms
+Android Studio
+Anjuta
+AppCode
+Application-release automation
+Application security
+Application software
+Aptana
+Arduino IDE
+Artificial intelligence
+Assembly language
+Atom (text editor)
+Autocomplete
+Automata theory
+Automated planning and scheduling
+BASIC
+Basic-256
+Basic4GL
+Behavior-driven development
+BlueJ
+Borland Kylix
+Borland Turbo C
+Build automation
+C++
+C++Builder
+CA-Realizer
+CLion
+C (programming language)
+C Sharp (programming language)
+Capability Maturity Model Integration
+Chromium (web browser)
+Class browser
+Class diagram
+Classic Mac OS
+Cleanroom software engineering
+Cloud9 IDE
+CodeLite
+CodeWarrior
+Code analysis
+Code completion
+Codelobster
+Collaborative development environment
+Command-line
+Common Language Infrastructure
+Comparison of integrated development environments
+Compiler
+Compiler construction
+Computability theory
+Computational biology
+Computational chemistry
+Computational complexity
+Computational complexity theory
+Computational engineering
+Computational geometry
+Computational mathematics
+Computational physics
+Computational social science
+Computer-aided software engineering
+Computer accessibility
+Computer animation
+Computer architecture
+Computer data storage
+Computer graphics
+Computer hardware
+Computer network
+Computer science
+Computer security
+Computer terminal
+Computer vision
+Computing
+Computing platform
+Concurrency (computer science)
+Concurrent computing
+Continuous delivery
+Continuous integration
+Control theory
+Control variable (programming)
+Cross-validation (statistics)
+Cryptography
+Cyberwarfare
+Dartmouth BASIC
+Dartmouth Time-Sharing System
+Data Display Debugger
+Data mining
+Data modeling
+Database
+Dataflow programming
+Debugger
+Debugging
+Decision support system
+Delphi (software)
+Dependability
+Deployment management
+Dev-C++
+Dev-Pascal
+DevEco Studio
+DevOps
+Digital art
+Digital library
+Digital marketing
+Disciplined agile delivery
+Discrete mathematics
+Distributed artificial intelligence
+Distributed computing
+Distributed programming
+Document management system
+Doi (identifier)
+Domain-driven design
+Domain-specific language
+DrJava
+Dynamic systems development method
+E-commerce
+Eclipse (software)
+Eclipse Che
+Educational technology
+Electronic design automation
+Electronic publishing
+Electronic voting
+Emacs
+Emacs Lisp
+Embedded system
+Enterprise information system
+Enterprise software
+Eric (software)
+Extreme programming
+Extreme programming practices
+Feature-driven development
+Flycheck
+Form factor (design)
+Formal language
+Formal methods
+FreeBASIC
+Free Pascal
+Freeware
+FutureBASIC
+GLBasic
+GNAT
+GNOME Builder
+GNU Compiler Collection
+GNU Debugger
+GNU Emacs
+GNU make
+GNU toolchain
+Gambas
+Game integrated development environment
+Geany
+Generative artificial intelligence
+Geographic information system
+German language
+Glossary of artificial intelligence
+Glossary of computer science
+Glossary of electrical and electronics engineering
+Go (programming language)
+Google Search
+Graphical user interface
+Graphical user interface builder
+Graphics processing unit
+Green computing
+Greenfoot
+Hardware acceleration
+Hardware security
+Haxe
+Health informatics
+Human–computer interaction
+IDLE
+IEEE Standards Association
+ISBN (identifier)
+ISO/IEC JTC 1/SC 7
+ISO 9001
+ISSN (identifier)
+ITIL
+Image compression
+Incremental build model
+Information retrieval
+Information security
+Information system
+Information theory
+Infrastructure as code
+Integrated circuit
+IntelliJ IDEA
+Intelligent code completion
+Interaction design
+International Requirements Engineering Board
+Interpreter (computing)
+Intrusion detection system
+Iterative and incremental development
+JBuilder
+JDeveloper
+JGRASP
+JavaScript
+Java (programming language)
+Java (software platform)
+JetBrains
+KDevelop
+KTechlab
+Kakoune
+Kanban (development)
+Keyboard shortcut
+Knowledge representation and reasoning
+Komodo Edit
+Komodo IDE
+LabVIEW
+LabWindows/CVI
+Language Server Protocol
+Lazarus (software)
+Lean software development
+Lego Mindstorms
+Liberty BASIC
+Library (computing)
+Light Table (software)
+Linker (computing)
+Linux kernel
+List of computer size categories
+Logic in computer science
+MacOS
+Machine learning
+Macintosh
+Macintosh Programmer's Workshop
+Maestro I
+Make (software)
+Makefile
+Mathematical analysis
+Mathematical optimization
+Mathematical software
+Max (software)
+Method (computer science)
+Microsoft
+Microsoft Pascal
+Microsoft Small Basic
+Microsoft Solutions Framework
+Microsoft Visual Studio Express
+Microsoft Windows
+Middleware
+Mixed reality
+Model-driven development
+Model of computation
+Modeling language
+MonoDevelop
+Mozilla
+Multi-task learning
+Multimedia database
+Multiple document interface
+Multiprocessing
+Multithreading (computer architecture)
+MyEclipse
+NS Basic
+Natural language processing
+NetBeans
+Netbeans
+Network architecture
+Network performance
+Network protocol
+Network scheduler
+Network security
+Network service
+Networking hardware
+Ninja-IDE
+Nmake
+Notebook interface
+Numerical analysis
+Object-oriented programming
+Object Management Group
+Object Pascal
+Object browser
+Online integrated development environment
+Open-source software
+Operating system
+Operations research
+Oracle Developer Studio
+Outline of computer science
+Outline of software development
+PHP
+PHPEdit
+POP-11
+POSIX
+Pair programming
+Paper tape
+Parallel computing
+PascalABC.NET
+Pascal (programming language)
+Peripheral
+Perl
+Personal software process
+Philosophy of artificial intelligence
+Photograph manipulation
+PhpStorm
+Platform SDK
+Plug-in (computing)
+Poplog
+PostgreSQL
+Powerflasher FDT
+Printed circuit board
+Probability
+Process control
+Processor (computing)
+Profiling (computer programming)
+Programming language
+Programming language theory
+Programming paradigm
+Programming team
+Programming tool
+Prograph
+Project Management Body of Knowledge
+Proprietary software
+Punched card
+PureBasic
+PyCharm
+PyDev
+PythonAnywhere
+Python (programming language)
+QB64
+QBasic
+QDevelop
+Qfix robot kits
+Qt Creator
+Quantum Computing
+QuickBASIC
+QuickC
+RStudio
+R (programming language)
+R Tools for Visual Studio
+Randomized algorithm
+RapidQ
+Rapid application development
+Rational Software Architect
+Rational Unified Process
+Read the Docs
+Read–eval–print loop
+Real-time computing
+Reinforcement learning
+Rendering (computer graphics)
+Requirements analysis
+Retail software
+Ruby (programming language)
+S2CID (identifier)
+SEMAT
+Scaled agile framework
+Scrum (software development)
+SdlBasic
+Security hacker
+Security service (telecommunication)
+Semantics (computer science)
+SharpDevelop
+SlickEdit
+Social computing
+Social software
+Softbench
+Software Engineering Body of Knowledge
+Software configuration management
+Software construction
+Software deployment
+Software design
+Software development
+Software development methodology
+Software development process
+Software documentation
+Software engine
+Software engineering
+Software framework
+Software maintenance
+Software project management
+Software prototyping
+Software quality
+Software quality assurance
+Software repository
+Software testing
+Solid modeling
+Source-code editor
+Source-to-source compiler
+SourceLair
+Specification by example
+Spiral model
+Spyder (software)
+Stand-up meeting
+Static program analysis
+Statistics
+Stochastic computing
+Structured Programming Facility
+Sublime Text
+Subroutine
+Sun Java Studio Creator
+Supervised learning
+Syntax highlighting
+Synthesizer
+System console
+System on a chip
+THINK C
+Team software process
+Test-driven development
+Theoretical computer science
+Theory of computation
+Thonny
+Transportable Applications Environment
+Turbo C++
+Turbo Pascal
+UML tool
+Ubiquitous computing
+Ultimate++
+Understand (software)
+Unified Modeling Language
+Unified Process
+Unix
+Unix-like
+Unsupervised learning
+User experience
+User interface
+V-model (software development)
+VS Code
+Variable (programming)
+Version control
+Version control system
+Very Large Scale Integration
+Vi (text editor)
+Video game
+Vim (text editor)
+Virtual Pascal
+Virtual machine
+Virtual reality
+VisualAge
+Visual Basic (classic)
+Visual C++
+Visual Café
+Visual J++
+Visual Studio
+Visual Studio Code
+Visual programming
+Visualization (graphics)
+Watcom C/C++
+Waterfall model
+Web browser
+West Germany
+Wing IDE
+Word processor
+World Wide Web
+X Window System
+Xamarin Studio
+Xcode
+Xelfi
+Xojo
+Zend Studio

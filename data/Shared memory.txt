@@ -1,0 +1,190 @@
+Single address space operating system
+Configuration file
+ISBN (identifier)
+Bit-level parallelism
+Instruction window
+Omega network
+Parallel slowdown
+Preemption (computing)
+OpenBinder
+Analysis of parallel algorithms
+Component Object Model
+Doi (identifier)
+Bulldozer (microarchitecture)
+Apple event
+Parallel Virtual Machine
+Global Arrays
+Speedup
+High-performance computing
+Computer hardware
+RaftLib
+CORBA
+CPU
+Loop-level parallelism
+IOMMU
+Kernel.org
+Boost (C++ libraries)
+Common Object Request Broker Architecture
+Inter-process communication
+Distributed shared memory
+Karp–Flatt metric
+Thread (computing)
+Speculative multithreading
+RAM disk
+Message queue
+Amdahl's law
+Scalability
+Hardware scout
+Dataflow architecture
+Random-access memory
+Deterministic algorithm
+Microsoft Windows
+Starvation (computer science)
+Library (computing)
+D-Bus
+Pthreads
+GPU
+Massively parallel
+Computer multitasking
+GPUOpen
+Libevent
+Shared library
+Apache Thrift
+Qt (framework)
+Input–output memory management unit
+Barrier (computer science)
+Message Passing Interface
+Message passing
+Nano-threads
+Task parallelism
+Process (computing)
+Memory management unit
+Deadlock (computer science)
+Synchronization (computer science)
+Overlay (programming)
+Heterogeneous System Architecture
+Cilk
+Non-blocking algorithm
+Semaphore (programming)
+Dataflow programming
+Instruction pipelining
+Data Distribution Service
+Application checkpointing
+Ateji PX
+Cache-only memory architecture
+Unified Parallel C
+ROCm
+Execute in place
+False sharing
+Software lockout
+Beowulf cluster
+HyperTransport
+Shared graphics memory
+OpenCL
+Charm++
+Race condition
+Simultaneous and heterogeneous multithreading
+Thread (computer science)
+SOAP
+Cache coherence
+Network socket
+Global variable
+Parallel external memory
+Front-side bus
+Symmetric multiprocessing
+Copy-on-write
+OpenMP
+LINX (IPC)
+Distributed computing
+Distributed memory
+ZPL (programming language)
+Debian
+X Window System
+Virtual memory
+Manycore processor
+Non-uniform memory access
+Grid computing
+SIMPL
+Random access memory
+Von Neumann architecture
+Computer science
+Memory coherence
+Anonymous pipe
+Signal (IPC)
+CUDA
+Multiple instruction, multiple data
+Communication protocol
+XML-RPC
+Gustafson's law
+Parallel computing
+Implicit parallelism
+OpenHMPP
+Computer file
+Technical standard
+Overlapping code
+Temporal multithreading
+Multiple instruction, single data
+Shared snapshot objects
+Coarray Fortran
+Mmap
+Vector processor
+Multithreading (computer architecture)
+Distributed Computing Environment
+Shared register
+Simultaneous multithreading
+Chapel (programming language)
+REST
+Parallel programming model
+Pipeline (computing)
+Instruction-level parallelism
+Explicit parallelism
+Computer cluster
+Cache memory
+Red Hat Linux
+Single instruction, multiple data
+Single instruction, multiple threads
+Internet Communications Engine
+Computer program
+OpenACC
+Central processing unit
+Data parallelism
+Sun RPC
+Hardware acceleration
+API
+Multiprocessing
+Unix domain socket
+Computer programming
+HPX
+Flynn's taxonomy
+Embarrassingly parallel
+Fiber (computer science)
+Superscalar processor
+Systolic array
+Semiconductor memory
+Cost efficiency
+Uniform memory access
+Crossbar switch
+Array (data structure)
+POSIX
+PHP
+C++ AMP
+Stream processing
+Computer network
+Resource contention
+Pipeline (Unix)
+Parallel Extensions
+Memory-level parallelism
+General-purpose computing on graphics processing units
+Automatic parallelization
+Transparent Inter-process Communication
+Cache invalidation
+Named pipe
+Concurrency (computer science)
+Asymmetric multiprocessing
+Dryad (programming)
+Cloud computing
+Software framework
+Data
+Parallel RAM
+Single instruction, single data
+Threading Building Blocks

@@ -1,0 +1,500 @@
+28 nm
+AC power plugs and sockets
+AI accelerator
+AMD
+AN/PRC-117
+AN/PRC-148
+AND gate
+ARC (processor)
+ARM Cortex-A9
+ARM Cortex-M
+ASIC
+Accellera
+Access key
+Achronix
+Acorn tube
+Actel
+Adder (electronics)
+Advanced Boolean Expression Language
+Advanced Encryption Standard
+Aldec
+Altera
+Altera Hardware Description Language
+Altium
+Analog-to-digital converter
+AnandTech
+Antifuse
+Application-specific integrated circuit
+ArVid
+Arm Holdings
+Artificial neural network
+Asynchronous circuit
+Atmel
+Atmel AVR
+Audio and video interfaces and connectors
+Audion
+Authentication
+Avalanche diode
+BSD license
+Back annotation
+Backdoor (computing)
+Backward-wave oscillator
+Ball grid array
+Beam deflection tube
+Beam tetrode
+BiCMOS
+Bibcode (identifier)
+Binary multiplier
+Bing (search engine)
+Bing search engine
+Bio-FET
+Bipolar junction transistor
+Bitstream
+Boolean algebra
+Boolean circuit
+Boolean function
+Boost converter
+Booting
+Buck converter
+Buck–boost converter
+Bug (computer programming)
+Bus (computing)
+CMOS
+CPU
+CRUVI FPGA Card
+C programming language
+C to HDL
+Cadence Design Systems
+Canonical normal form
+Capacitor
+Capacitor types
+Cathode-ray tube
+Cavity magnetron
+Ceramic resonator
+Charactron
+Charge pump
+Chemical field-effect transistor
+Chip-scale package
+Chisel (programming language)
+Circuit diagram
+Circuit minimization for Boolean functions
+Circuit underutilization
+Circuit utilization
+Clock domain
+Clock domain crossing
+Clock frequencies
+Clock signal
+Clock skew
+Cloud computing
+Cold cathode
+Combinational logic
+Communications subsystem
+Compactron
+Comparator
+Compile
+Complex programmable logic device
+Computable
+Computer architecture
+Computer configuration
+Computer hardware
+Computer memory
+Computer network
+Computer software
+Constant-current diode
+Conventional PCI
+Coupling (electronics)
+Crossatron
+Crossbar switch
+Crossed-field amplifier
+Cryptographic accelerator
+Crystal oscillator
+Custom hardware attack
+Cypress PSoC
+D-type flip-flop
+DIAC
+DO-201
+DO-204
+DO-214
+Darlington transistor
+Data center
+Data processing unit
+Data stream
+Dataflow architecture
+Dekatron
+Delay-locked loop
+Depletion-load NMOS logic
+Design flow
+Die (integrated circuit)
+Differential signaling
+Diffused junction transistor
+Digital-to-analog converter
+Digital audio
+Digital cinematography
+Digital electronics
+Digital photography
+Digital potentiometer
+Digital radio
+Digital signal
+Digital signal (signal processing)
+Digital signal processing
+Digital signal processor
+Digital television
+Digital video
+Diode
+DirectX Video Acceleration
+Distributed computing
+Doi (identifier)
+Dual-core
+Dual in-line package
+Dual port RAM
+EEPROM
+EFUSE
+ELLA (programming language)
+EPROM
+Efinix
+Electrical reactance
+Electrical resonance
+Electrolytic detector
+Electromagnetic radiation
+Electronic Systems Center
+Electronic circuit
+Electronic component
+Electronic design automation
+Electronic literature
+Electronic packaging
+Electronics design
+Embedded Wafer Level Ball Grid Array
+Embedded system
+Emitter-coupled logic
+Encryption
+Erasable programmable logic device
+Ethernet
+FIFO (computing and electronics)
+FPGA
+FPGA Mezzanine Card
+FPGA prototyping
+Ferrite core
+Field-effect transistor
+Field-programmable analog array
+Field-programmable object array
+FinFET
+Finite-state machine
+Flash memory
+Flatpack (electronics)
+Fleming valve
+Flip-chip pin grid array
+Flip-flop (electronics)
+Flip chip
+Floating-gate MOSFET
+Floorplan (microelectronics)
+Flow to HDL
+Formal equivalence checking
+Free and open source
+Full adder
+Functional unit
+Fuse (electrical)
+GHz
+GOWIN Semiconductors
+GPL
+Gas-filled tube
+Gate array
+Gate equivalent
+General-purpose computing on graphics processing units
+Generic Array Logic
+Generic array logic
+Gigabyte Technology
+Glue logic
+Graphics processing unit
+Gunn diode
+Gyrotron
+H tree
+Handel-C
+Hardware acceleration
+Hardware description language
+Hardware design
+Hardware emulation
+Hardware random number generator
+Hardware security
+Hardware security module
+Harris Corporation
+Hdl (identifier)
+Heterogeneous computing
+Heterostructure barrier varactor
+Hierarchical state machine
+High-level synthesis
+Hot-wire barretter
+Hybrid integrated circuit
+I-RAM
+I/O address
+ICE (FPGA)
+ISBN (identifier)
+ISFET
+ISSN (identifier)
+Iconoscope
+Ignitron
+In-memory processing
+Inductive output tube
+Inductor
+Infineon Technologies
+Instant-on
+Insulated-gate bipolar transistor
+Integrated circuit
+Integrated circuit packaging
+Intel
+Intel Quartus Prime
+Intellectual property
+Interposer
+JFET
+JTAG
+JTRS
+Java Optimized Processor
+Jitter
+Joint Tactical Radio System
+Klystron
+Krytron
+L3Harris Technologies
+LDMOS
+LEON
+LabVIEW
+Land grid array
+Laser diode
+Latency (engineering)
+LatticeMico32
+LatticeMico8
+Lattice Semiconductor
+Libre-SOC
+Light-emitting diode
+Light-emitting transistor
+Light emitting capacitor
+Line coding
+Linear regulator
+Linux
+List of HDL simulators
+List of electronic component packaging types
+Logic block
+Logic gate
+Logic in computer science
+Logic optimization
+Logic synthesis
+Lola (computing)
+Lookup table
+Low-dropout regulator
+Low-level
+Low-power electronics
+MOSFET
+MOS integrated circuit
+Machine learning
+Macrocell array
+Magic eye tube
+Manycore
+Maser
+Medium access control
+Memistor
+Memory cell (computing)
+Memory controller
+Memristor
+Memtransistor
+Mercury-arc valve
+Mercury relay
+Metal-oxide varistor
+Metal electrode leadless face
+Metastability (electronics)
+MiSTer
+Mico32
+MicroBlaze
+Microchip Technology
+Microprocessor
+Microprocessor chronology
+Microsemi
+Microsoft Azure
+Mini Small Outline Package
+Mixed-signal
+Mixed-signal integrated circuit
+Mixed signal
+ModelSim
+Models of computation
+Modular programming
+Monoscope
+Multi-gigabit transceiver
+Multicore
+Multigate device
+Multiplexer
+MyHDL
+NMOS logic
+NXP Semiconductors
+National Instruments
+Naval Surface Warfare Center
+Neon lamp
+Netlist
+Network on a chip
+Network processor
+Neuromorphic engineering
+Neutron generator
+Nios II
+Nios embedded processor
+Nixie tube
+Non-recurring engineering
+Non-volatile memory
+Nonode
+Nuvistor
+OLED
+Open-source hardware
+OpenCL
+OpenCores
+OpenPOWER Microwatt
+OpenRISC
+OpenRISC 1200
+Organic field-effect transistor
+Organic light-emitting transistor
+Organic semiconductor
+PALASM
+PCI Express
+PIN diode
+PMC (identifier)
+PMID (identifier)
+PMOS logic
+Package on package
+Parallel computing
+Parametron
+Partial re-configuration
+Pentagrid converter
+Pentode
+Pentode transistor
+Performance per watt
+Peripheral
+Phase-locked loop
+Photodetector
+Photodiode
+Photomultiplier tube
+Phototube
+Physical unclonable function
+PicoBlaze
+Pin grid array
+Place and route
+Placement (electronic design automation)
+Plastic leaded chip carrier
+Point-contact transistor
+Potentiometer
+Power ISA
+Power MOSFET
+Printed circuit board
+Printed electronics
+Processor (computing)
+Processor core
+Processor design
+Programmable Array Logic
+Programmable SoC
+Programmable logic
+Programmable logic array
+Programmable logic device
+Programmable logic devices
+Programmable read-only memory
+Programmable unijunction transistor
+Propagation delay
+Property Specification Language
+Proprietary hardware
+Proprietary software
+Quad Flat No-leads package
+Quad Flat Package
+Quad in-line package
+Quantum circuit
+Quilt packaging
+RC oscillator
+RF CMOS
+RF connector
+RISC-V
+Radiation hardening
+Reconfigurable computing
+Reed relay
+Register-transfer level
+Register (computing)
+Relay
+Rent's rule
+Reset (computing)
+Resettable fuse
+Resistor
+Retrocomputing
+Routing (electronic design automation)
+Runt pulse
+S2CID (identifier)
+SSD drive
+Schematic
+Schottky diode
+Scrypt
+Selectron tube
+Semiconductor device
+Semiconductor device fabrication
+Semiconductor intellectual property core
+Semiconductor package
+Sequential logic
+SerDes
+Serial communication
+Shannon expansion
+Siemens
+Signal conditioning
+SiliconBlue Technologies
+Silicon controlled rectifier
+Simulate
+Simulation
+Single-ended primary-inductor converter
+Single event upset
+Single in-line package
+Slew rate
+Small-outline transistor
+Small Outline Diode
+Small Outline Integrated Circuit
+SmartFusion
+Soft microprocessor
+Soft processor
+Software-defined radio
+Solaristor
+Sound card
+Split-pi topology
+Static induction thyristor
+Static induction transistor
+Static random-access memory
+Static timing analysis
+Step recovery diode
+Storage tube
+Stratix
+Stratix (FPGA)
+Surface-mount technology
+Sutton tube
+Switch
+Switched capacitor
+Switching circuit theory
+Switching regulator
+Synchronous circuit
+Synopsys
+SystemC
+SystemVerilog
+SystemVerilog DPI
+System on a chip
+Systems on chip
+Systolic array
+TLS acceleration
+TO-126
+TO-18
+TO-202
+TO-220
+TO-247
+TO-251
+TO-252
+TO-262
+TO-263
+TO-268
+TO-273
+TO-274
+TO-277
+TO-3
+TO-39
+TO-5
+TO-66
+TO-8
+TO-92
+TRIAC
+Tabula (company)
+Telecommunications
+Telephony
+Tensor Processing Unit
+Test bench

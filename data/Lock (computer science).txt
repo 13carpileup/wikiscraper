@@ -1,0 +1,183 @@
+Abstract factory pattern
+Action–domain–responder
+Active object
+Active record pattern
+Ada (programming language)
+Adapter pattern
+Anti-pattern
+Application programming interface
+Architectural pattern
+Asynchronous method invocation
+Atomic (computer science)
+Atomic operation
+Balking pattern
+Barrier (computer science)
+Behavioral pattern
+Binding properties pattern
+Blackboard design pattern
+Blocking (computing)
+Bridge pattern
+Broker pattern
+Builder pattern
+Business delegate pattern
+C++
+C++0x
+C++11
+C11 (C standard revision)
+C (programming language)
+C Sharp (programming language)
+Chain-of-responsibility pattern
+Christopher Alexander
+Class (computer programming)
+Command pattern
+Compare-and-swap
+Composite entity pattern
+Composite pattern
+Computer science
+Concurrency control
+Concurrency pattern
+Concurrent user
+Creational pattern
+Critical section
+Data access object
+Data transfer object
+Database management system
+Deadlock (computer science)
+Decorator pattern
+Dekker's algorithm
+Delegation pattern
+Dependency injection
+Design Patterns
+Double-checked locking
+Douglas C. Schmidt
+Encapsulation (object-oriented programming)
+Enterprise Integration Patterns
+Entity component system
+Erich Gamma
+Exception handling
+Execution (computers)
+Facade pattern
+Factory method pattern
+Fetch-and-add
+File locking
+Flyweight pattern
+Fortran
+Front controller
+Function composition (computer science)
+Funnel (Concurrent computing)
+Go (programming language)
+Grady Booch
+Granularity (parallel computing)
+Guarded suspension
+Haskell
+ISBN (identifier)
+Identity map pattern
+Intercepting filter pattern
+Interceptor pattern
+Interpreter pattern
+Interrupt
+Inversion of control
+Iterator pattern
+JSP model 2 architecture
+Java (programming language)
+Jim Coplien
+John Vlissides
+Join-pattern
+Kent Beck
+Lazy loading
+Linda Rising
+Livelock
+Lock-free and wait-free algorithms
+Lock (database)
+Lock convoy
+Lock strategy
+Martin Fowler (software engineer)
+Mediator pattern
+Memento pattern
+Method (computer programming)
+Method chaining
+Microsoft
+Microsoft Windows
+Mock object
+Model–view–controller
+Model–view–presenter
+Model–view–viewmodel
+Monitor (synchronization)
+Multiprocessor
+Multitier architecture
+Mutex
+Mutual exclusion
+Naked objects
+Non-blocking synchronization
+Null object pattern
+Object (computer science)
+Object pool pattern
+Objective-C
+Observer pattern
+OpenMP
+Optimistic locking
+O’Reilly Media
+PHP
+POSIX Threads
+Peterson's algorithm
+Portland Pattern Repository
+Power cycling
+Priority ceiling protocol
+Priority inheritance
+Priority inversion
+Proactor pattern
+Prototype pattern
+Proxy pattern
+Publish–subscribe pattern
+Python (programming language)
+Race condition
+Ralph Johnson (computer scientist)
+Reactor pattern
+Read/write lock pattern
+Readers–writer lock
+Real-time operating system
+Reentrant mutex
+Resource contention
+Robert C. Martin
+Ruby (programming language)
+Run time (program lifecycle phase)
+Rust (programming language)
+Scheduled-task pattern
+Scheduler pattern
+Semaphore (programming)
+Serializing tokens
+Servant (design pattern)
+Service locator pattern
+Simon Marlow
+Simon Peyton Jones
+Singleton pattern
+Software design pattern
+Software transactional memory
+Specification pattern
+Spinlock
+State pattern
+Strategy pattern
+Structural pattern
+Sun Microsystems
+Synchronization (computer science)
+Synchronization primitive
+Task (computing)
+Template method pattern
+Test-and-set
+The Hillside Group
+Thread-local storage
+Thread (computer science)
+Thread pool
+Threads (computer science)
+Transactional memory
+Twin pattern
+Two-phase locking
+Type Tunnel pattern
+Uninterruptible sequence
+Uniprocessor
+Visitor pattern
+Visual Basic (.NET)
+Visual C++
+Wait-for graph
+Ward Cunningham
+X86 assembly language

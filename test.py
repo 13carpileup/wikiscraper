@@ -56,7 +56,7 @@ def get_connections(title):
     links = []
 
     now = time.time()
-    while not (now - LAST_FETCH) > 0.1:
+    while not (now - LAST_FETCH) > 0.01:
         now = time.time()
 
     LAST_FETCH = now
@@ -126,7 +126,7 @@ searched = {}
 links = {}
 MAX_TIME = 1200
 LAST_FETCH = time.time()
-RATE_LIMIT = 0.3
+RATE_LIMIT = 0.05
 MAX_WORKERS = 20
 MAX_LINKS_PER_PAGE = 50
 start = time.time()

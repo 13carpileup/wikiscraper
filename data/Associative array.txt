@@ -1,0 +1,233 @@
+.NET Framework
+AA tree
+AVL tree
+AWK
+Abstract data type
+Algebraic data type
+Arbitrary-precision arithmetic
+Array (data structure)
+Array data structure
+Array data type
+Association list
+Associative container
+Associative containers (C++)
+Associative entity
+Associative property
+Associative table
+Attribute–value pair
+B-tree
+Bfloat16 floating-point format
+Bidirectional map
+Big O notation
+Binary decision diagram
+Binary heap
+Binary search tree
+Binomial heap
+Bit
+Bit array
+Boolean data type
+Bottom type
+Boxing (computer science)
+Byte
+C++
+CPU cache
+C Sharp (programming language)
+Cache miss
+Character (computing)
+Charles E. Leiserson
+Circular buffer
+Class (computer programming)
+Clifford Stein
+Clojure
+Cloud computing
+Collection (abstract data type)
+Common Lisp
+Comparison of programming languages (associative array)
+Complex data type
+Composite data type
+Computer file
+Computer science
+Container (abstract data type)
+Content-addressable memory
+D (programming language)
+Data dictionary
+Data structure
+Data type
+Database management system
+Decimal data type
+Decorator pattern
+Delphi (programming language)
+Dependent type
+Deterministic acyclic finite state automaton
+Dictionary (data structure)
+Directed acyclic graph
+Disjoint-set data structure
+Doi (identifier)
+Domain of a function
+Donald Knuth
+Double-ended priority queue
+Double-ended queue
+Double-precision floating-point format
+Doubly linked list
+Dynamic array
+Empty type
+Enumerated type
+Exception handling
+Extended precision
+F. Klammer
+Fibonacci heap
+Fixed-point arithmetic
+Floating-point arithmetic
+Flynn's taxonomy
+Function (mathematics)
+Function type
+Generalized algebraic data type
+Generic programming
+Go (programming language)
+Graph (abstract data type)
+Half-precision floating-point format
+Hash collision
+Hash function
+Hash table
+Hash tree (persistent data structure)
+Hashed array tree
+Haskell (programming language)
+Heap (data structure)
+Hilbert R-tree
+ISBN (identifier)
+Inductive type
+Integer (computer science)
+Interface (object-oriented programming)
+Intersection type
+Interval arithmetic
+Introduction to Algorithms
+Intuitionistic type theory
+Iterator
+JSON
+JavaScript
+Java (programming language)
+Judy array
+Key–value database
+Key–value store
+Kind (type theory)
+Kurt Mehlhorn
+L. Mazzolini
+Linear probing
+Linear search
+Linked data structure
+Linked list
+List (abstract data type)
+List of data structures
+Locality of reference
+Long double
+Lua (programming language)
+MIT Press
+MUMPS
+Map (C++)
+Map (computer science)
+Map (higher-order function)
+Maple (software)
+McGraw-Hill
+Memoization
+Memory address
+Metaclass
+Metaobject
+Michael T. Goodrich
+Minifloat
+Multimap
+Null-terminated string
+OCaml
+Object-relational impedance mismatch
+Object (computer science)
+Objective-C
+Octuple-precision floating-point format
+Opaque data type
+Open addressing
+Option type
+PHP
+Parametric polymorphism
+Perl
+Peter Sanders (computer scientist)
+Physical address
+Plain text
+Pointer (computer programming)
+Primitive data type
+Priority queue
+Product type
+Python (programming language)
+Quadruple-precision floating-point format
+Queue (abstract data type)
+R
+R* tree
+R+ tree
+R-tree
+REALbasic
+Radix tree
+Rational data type
+Record (computer science)
+Recursive data type
+Red–black tree
+Reference (computer science)
+Refinement type
+Relational database
+Retrieval Data Structure
+Rexx
+Roberto Tamassia
+Ron Rivest
+Ruby (programming language)
+S2CID (identifier)
+SETL
+SNOBOL
+Scala (programming language)
+Search tree
+Seed7
+Self-balancing binary search tree
+Semaphore (programming)
+Sentinel value
+Separate chaining
+Serialization
+Set (abstract data type)
+Signedness
+Single-precision floating-point format
+Skip list
+Smalltalk
+Software design pattern
+Software library
+Sparse matrix
+Splay tree
+Stack (abstract data type)
+Stream (computing)
+String (computer science)
+Strongly typed identifier
+Subtyping
+Swift (programming language)
+TMG (language)
+Tagged union
+Tcl
+Ternary numeral system
+Thomas H. Cormen
+Top type
+Tree (data structure)
+Trie
+Tuple
+Type class
+Type constructor
+Type conversion
+Type system
+Type theory
+Union type
+Unit type
+Units of information
+Unordered map (C++)
+Unrolled linked list
+Van Emde Boas tree
+Variable (computer science)
+Virtual address space
+Visual Basic for Applications
+Visual FoxPro
+Void type
+Wayback Machine
+Windows PowerShell
+Wolfram Language
+Word (computer architecture)
+XOR linked list

@@ -1,0 +1,500 @@
+1-bit computing
+12-bit computing
+128-bit computing
+16-bit computing
+19-inch rack
+2-in-1 laptop
+24-bit computing
+256-bit computing
+32-bit computing
+4-bit computing
+48-bit computing
+512-bit computing
+64-bit computing
+78K
+8-bit computing
+8052
+ACPI
+AI accelerator
+AMD Am2900
+AMD Am29000
+ARC (processor)
+ARM Cortex-M
+ARM Cortex-R
+ARM architecture
+ARM architecture family
+AT91CAP
+AT91SAM
+AVR32
+AVR microcontrollers
+Abstract machine
+Actuator
+Adapteva
+Adder (electronics)
+Address decoder
+Address generation unit
+Addressing mode
+Advanced Power Management
+All-in-one computer
+Alternating Turing machine
+Analog-to-digital converter
+Analogue electronics
+Apollo Guidance Computer
+Application-specific instruction set processor
+Application-specific integrated circuit
+Arcade cabinet
+Arithmetic logic unit
+Assembly language
+Atmel
+Atmel ARM-based processors
+Atmel AVR
+Aurix
+BASIC Stamp
+BASIC programming language
+Barrel processor
+Barrel shifter
+Baseband processor
+Binary decoder
+Binary multiplier
+Bit-level parallelism
+Bit-serial architecture
+Bit manipulation
+Bit slicing
+Blade PC
+Blade server
+Blockchain
+Boolean circuit
+Branch predictor
+Branch target predictor
+Bus (computing)
+Busicom
+C166 family
+CMOS
+CNET
+COP400
+COP8
+CPU cache
+CPU multiplier
+CPython
+C (programming language)
+Cache (computing)
+Cache coherence
+Cache hierarchy
+Cache performance measurement and metric
+Cache replacement policies
+Calculator
+Calculator watch
+Camera phone
+Cellular architecture
+Cellular automaton
+Central processing unit
+Chip carrier
+Chipset
+CircuitPython
+Circuit (computer science)
+Classes of computers
+Classic RISC pipeline
+Clipper architecture
+Clock gating
+Clock generator
+Clock rate
+Clock signal
+Cloudbook
+Cognitive computing
+Combinational logic
+CompactRISC
+Comparison of instruction set architectures
+Compiler
+Complex instruction set computer
+Complex programmable logic device
+Computer
+Computer-on-module
+Computer History Museum
+Computer appliance
+Computer architecture
+Computer data storage
+Computer memory
+Computer performance
+Computer performance by orders of magnitude
+Computer program
+Computer tower
+Consumer Electronics Control
+Context switch
+Control hazard
+Control system
+Control unit
+Controller Area Network
+Cooperative multitasking
+Coprocessor
+Counter (digital)
+Counter machine
+Critical section
+Cubic millimetre
+Cycles per instruction
+Cypress PSoC
+Cypress Semiconductor
+DEC Alpha
+Data buffer
+Data cache
+Data collection
+Data dependency
+Data parallelism
+Dataflow architecture
+Datapath
+Debug
+DebugWIRE
+Debugger
+Demultiplexer
+Deskside computer
+Desktop computer
+Deterministic finite automaton
+Die (integrated circuit)
+Digital-to-analog converter
+Digital electronics
+Digital signal processor
+Diskless node
+Distributed architecture
+Doi (identifier)
+Dynamic frequency scaling
+Dynamic voltage scaling
+E-reader
+EEPROM
+EFM32
+EPROM
+ETRAX CRIS
+Edge device
+Electric energy consumption
+Electric motor
+Electrical resistance
+Electronic circuit
+Electronic organizer
+Embedded system
+Embedded systems
+Endianness
+Ethernet
+Event-driven architecture
+Execution unit
+Explicit data graph execution
+Explicitly parallel instruction computing
+FIFO (computing and electronics)
+FLOPS
+FR-V (microprocessor)
+Fabric computing
+False sharing
+Feature phone
+Federico Faggin
+Ferroelectric RAM
+Field-programmable gate array
+Field-programmable object array
+Fingerprint (computing)
+Finite-state machine
+Finite-state machine with datapath
+Firmware
+Fitness tracker
+Flash memory
+Floating-point arithmetic
+Floating-point unit
+Flynn's taxonomy
+Foldable smartphone
+Forth (programming language)
+Fortune (magazine)
+Four-Phase Systems AL1
+Freescale 68HC11
+Freescale 68HC12
+Freescale 68HC16
+Freescale ColdFire
+Freescale RS08
+Freescale S08
+Fujitsu FR
+GPS watch
+Gaming computer
+Garrett AiResearch
+Gate array
+General-purpose computing on graphics processing units
+General-purpose input/output
+General-purpose language
+Glue logic
+Graphics processing unit
+Graphing calculator
+Grid computing
+H8 Family
+Handheld PC
+Handheld game console
+Hardware acceleration
+Hardware register
+Hardware security module
+Hardwired control unit
+Harvard architecture
+Hazard (computer architecture)
+Hertz
+Heterogeneous System Architecture
+Heterogeneous computing
+Hierarchical state machine
+High-level programming language
+History of general-purpose CPUs
+Home computer
+Home server
+Home video game console
+Hyper-threading
+Hypercomputation
+IA-64
+IBM POWER architecture
+IBM System/360 architecture
+IBM System/370
+IBM System/390
+ISBN (identifier)
+Image processor
+In-car entertainment
+In-circuit debugging
+In-circuit emulation
+In-circuit emulator
+In-circuit programming
+In-system programming
+In-target probe
+Industrial PC
+Infineon TriCore
+Infineon XMC
+Infineon XMC4000
+Information appliance
+Input/output
+Instruction-level parallelism
+Instruction cache
+Instruction cycle
+Instruction decoder
+Instruction pipelining
+Instruction set architecture
+Instruction unit
+Instructions per cycle
+Instructions per second
+Integrated circuit
+Intel
+Intel 4004
+Intel 4040
+Intel 8008
+Intel 80186
+Intel 8048
+Intel 8051
+Intel 8080
+Intel MCS-48
+Intel MCS-51
+Intel microprocessor
+Intelligent terminal
+Interactive kiosk
+Interactive programming
+Interface (computer science)
+Internet appliance
+Internet of things
+Interpreter (computing)
+Interrupt
+Interrupt handler
+Interrupt latency
+Interrupt service routine
+I²C
+JTAG
+JavaScript
+Kilobyte
+Laptop
+Light-emitting diode
+Liquid-crystal display
+List of Freescale products
+List of Wi-Fi microcontrollers
+List of applications of ARM cores
+List of common microcontrollers
+List of computer size categories
+List of microprocessors
+List of open-source hardware projects
+List of system on a chip suppliers
+Little man computer
+Load-link/store-conditional
+Load–store architecture
+Load–store unit
+Logic gate
+Logic simulation
+M32R
+MIPS-X
+MIPS architecture
+MN103
+MOSTEK
+MOS Technology
+MOS Technology 6502
+MOS integrated circuit
+MP944
+MPC5xx
+MSP430
+Machine code
+Mainframe computer
+Manycore processor
+Marcian Hoff
+Masatoshi Shima
+Mask ROM
+Math coprocessor
+Maxim Integrated
+Media processor
+Memory-level parallelism
+Memory address register
+Memory buffer register
+Memory controller
+Memory dependence prediction
+Memory hierarchy
+Memory management unit
+MicroBlaze
+MicroPython
+Microarchitecture
+Microbotics
+Microchip Technology
+Microcode
+Microcomputer
+Microconsole
+Microprocessor
+Microprocessor chronology
+Midrange computer
+Mini PC
+Minicomputer
+Minimal instruction set computer
+Minisupercomputer
+Mitsubishi 740
+Mixed-signal integrated circuit
+Mobile computing
+Mobile data terminal
+Mobile device
+Mobile phone
+Mobile processor
+Mobile workstation
+Model of computation
+Modified Harvard architecture
+Motor controller
+Motorola 6800
+Motorola 68000
+Motorola 68000 series
+Motorola 68HC05
+Motorola 68HC08
+Motorola 68HC11
+Multi-chip module
+Multi-core processor
+Multiple instruction, multiple data
+Multiple instruction, single data
+Multiplexer
+Multiprocessing
+Multiprocessor system on a chip
+Multithreading (computer architecture)
+NVRAM
+NXP ColdFire
+NXP LPC
+NXP Semiconductors
+Nanocomputer
+Nanometer
+Nanowatt
+Netbook
+Network interface controller
+Network on a chip
+Network processor
+Neuromorphic engineering
+Nexus (standard)
+No instruction set computing
+Non-uniform memory access
+Non-volatile memory
+Nondeterministic Turing machine
+Notebook (laptop)
+One-instruction set computer
+OpenRISC
+Operand forwarding
+Operating system
+Orthogonal instruction set
+Out-of-order execution
+PDP-11 architecture
+PIC16x84
+PIC microcontroller
+PIC microcontrollers
+Package on a package
+Palmtop PC
+Panel PC
+Parallax Propeller
+Parallel computing
+Performance per watt
+Peripheral
+Peripherals
+Personal computer
+Personal digital assistant
+Personal supercomputer
+Phablet
+Photovoltaics
+Physics processing unit
+Pin grid array
+Pipeline stall
+Pizza-box form factor
+Plug computer
+Pocket computer
+Pointer machine
+Portable computer
+Portable data terminal
+Portable media player
+Post–Turing machine
+PowerPC
+Power ISA
+Power Management Unit
+Power management
+Power management integrated circuit
+Preemption (computing)
+Printed circuit board
+Probabilistic Turing machine
+Process (computing)
+Processor (computing)
+Processor core
+Processor design
+Processor register
+Program counter
+Program loops
+Programmable Array Logic
+Programmable calculator
+Programmable interval timer
+Programmable logic controller
+Programmable read-only memory
+Programmable system on a chip
+Public computer
+Pulse-width modulation
+Python (programming language)
+Quad Flat Package
+Quantum Turing machine
+Quantum cellular automaton
+Quantum circuit
+Quantum computing
+Quantum logic gate
+Queue automaton
+R8C
+RAM
+RC circuit
+RISC-V
+RL78
+ROM image
+RX Microcontroller Family
+RX microcontroller family
+Rabbit 2000
+Random-access machine
+Random-access memory
+Random-access stored-program machine
+Re-order buffer
+Read-only memory
+Read–write memory
+Real-time computing
+Reduced instruction set computer
+Reduced instruction set computing
+Register file
+Register machine
+Register renaming
+Register–memory architecture
+Relay
+Renesas Electronics
+Reservation station
+Rich client
+Rockwell PPS-4
+Rugged computer
+Rugged smartphone
+S1C6x
+SPARC
+ST10
+ST6 and ST7
+STM32
+STM8
+STMicroelectronics
+SUPS
+SWAR

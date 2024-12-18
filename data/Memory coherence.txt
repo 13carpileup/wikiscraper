@@ -1,0 +1,128 @@
+Synchronization (computer science)
+Instruction pipelining
+Cache (computing)
+Computer programming
+Parallel Virtual Machine
+Cost efficiency
+Vector processor
+Non-uniform memory access
+Computer system
+GPUOpen
+Computer multitasking
+OpenCL
+Cilk
+Non-blocking algorithm
+Coarray Fortran
+Superscalar processor
+Shared memory
+MOESI protocol
+Thread (computing)
+Gustafson's law
+Doi (identifier)
+Preemption (computing)
+Computer hardware
+Cache-only memory architecture
+Central processing unit
+Embarrassingly parallel
+Consistency model
+Threading Building Blocks
+Fiber (computer science)
+Parallel Extensions
+Asymmetric multiprocessing
+Speedup
+Race condition
+Uniform memory access
+Dataflow programming
+Cache coherence
+Computer cluster
+Data parallelism
+Bus sniffing
+Simultaneous and heterogeneous multithreading
+Task parallelism
+MESI protocol
+Deterministic algorithm
+OpenACC
+Ateji PX
+Karp–Flatt metric
+CUDA
+Boost (C++ libraries)
+RaftLib
+Multi core
+Memory-level parallelism
+Charm++
+Message Passing Interface
+Parallel external memory
+Semiconductor memory
+Pipeline (computing)
+Processing element
+Distributed shared memory
+API
+Bulldozer (microarchitecture)
+Systolic array
+Computer network
+Automatic parallelization
+Implicit parallelism
+Multiprocessor
+S2CID (identifier)
+Scalability
+Concurrency (computer science)
+Parallel slowdown
+Distributed computing
+Barrier (computer science)
+Chapel (programming language)
+Pthreads
+Bit-level parallelism
+Hardware acceleration
+Multiple instruction, multiple data
+MOSI protocol
+Directory-based coherence protocols
+Software lockout
+Grid computing
+Flynn's taxonomy
+Simultaneous multithreading
+Uniprocessor
+Parallel programming model
+Symmetric multiprocessing
+Instruction window
+Cloud computing
+Multiprocessing
+Array (data structure)
+Explicit parallelism
+Deadlock (computer science)
+Process (computing)
+ZPL (programming language)
+Multithreading (computer architecture)
+Application checkpointing
+Parallel computing
+Speculative multithreading
+High-performance computing
+ROCm
+Parallel RAM
+Single instruction, multiple data
+Memory (computers)
+Global Arrays
+Single instruction, multiple threads
+OpenMP
+Analysis of parallel algorithms
+Loop-level parallelism
+Massively parallel
+Amdahl's law
+MSI protocol
+HPX
+Cache invalidation
+Unified Parallel C
+Dryad (programming)
+Beowulf cluster
+Multiple instruction, single data
+Single instruction, single data
+Temporal multithreading
+General-purpose computing on graphics processing units
+Stream processing
+OpenHMPP
+Manycore processor
+C++ AMP
+Hardware scout
+Starvation (computer science)
+Instruction-level parallelism
+Dataflow architecture
+Distributed memory

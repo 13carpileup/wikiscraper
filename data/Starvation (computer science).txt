@@ -1,0 +1,58 @@
+Aging (scheduling)
+Andrew Tanenbaum
+Brain Fuck Scheduler
+CPU time
+Completely Fair Scheduler
+Computer multitasking
+Computer science
+Concurrent algorithm
+Concurrent computing
+Correctness (computer science)
+Critical section
+Deadline-monotonic scheduling
+Deadlock (computer science)
+Denial-of-service attack
+Dining philosophers problem
+Earliest deadline first scheduling
+Earliest eligible virtual deadline first scheduling
+Fair-share scheduling
+Fixed-priority pre-emptive scheduling
+Foreground-background
+Fork bomb
+Gang scheduling
+Generalized foreground-background
+Highest response ratio next
+ISBN (identifier)
+Kernel (operating system)
+Lottery scheduling
+Maurice Herlihy
+Maximum throughput scheduling
+Michel Raynal
+Multilevel feedback queue
+Mutual exclusion
+Nir Shavit
+O(1) scheduler
+O(n) scheduler
+Priority inversion
+Process (computing)
+Process Contention Scope
+Processor affinity
+Proportional share scheduling
+Rate-monotonic scheduling
+Resource leak
+Round-robin scheduling
+SCHED DEADLINE
+SCHED FIFO
+SCHED NORMAL
+Safety and liveness properties
+Scheduling (computing)
+Scheduling algorithm
+Shared resource
+Shortest job next
+Shortest remaining time
+Statistical time-division multiplexing
+Stride scheduling
+System resource
+Two-level scheduling
+Windows NT processor scheduling
+YDS algorithm

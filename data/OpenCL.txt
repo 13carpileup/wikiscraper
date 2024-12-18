@@ -1,0 +1,367 @@
+.NET Framework
+64-bit
+AMD
+AMD APU
+AMD FireStream
+AMD Fusion
+AMD Stream SDK
+API
+ARM Mali
+ARM architecture
+ARM architecture family
+ARMv7
+ARMv8
+ATI Stream
+Ada Lovelace (microarchitecture)
+Adapteva Epiphany
+Advanced Simulation Library
+Advanced Vector Extensions
+Alder Lake
+AltiVec
+Amazon Web Services
+Amdahl's law
+Ampere (microarchitecture)
+Analysis of parallel algorithms
+Android (operating system)
+Apple Inc.
+Application checkpointing
+Application programming interface
+ArXiv (identifier)
+Arm (company)
+Arm Ltd.
+Array (data structure)
+Array programming
+Asymmetric multiprocessing
+Ateji PX
+Auto-tuning
+Automatic parallelization
+Barrier (computer science)
+Beowulf cluster
+Bibcode (identifier)
+Bit-level parallelism
+Bit field
+Bobcat (microarchitecture)
+Boost (C++ libraries)
+Botan (programming library)
+Broadwell (microarchitecture)
+BrookGPU
+Bulldozer (microarchitecture)
+C++
+C++14
+C++17
+C++ AMP
+C11 (C standard revision)
+C99
+COLLADA
+CPU
+CUDA
+C (programming language)
+C standard library
+Cache-only memory architecture
+Cache coherence
+Cache invalidation
+Cadence
+Cell (microprocessor)
+Central processing unit
+Chapel (programming language)
+Charm++
+Cilk
+CiteSeerX (identifier)
+Clang
+Close to Metal
+Cloud computing
+Coarray Fortran
+Coffee Lake
+Comet Lake
+Compiler
+Complex number
+Compute kernel
+Computer cluster
+Computer hardware
+Computer multitasking
+Computer network
+Computer programming
+Computing platform
+Concurrency (computer science)
+Consistency model
+Cost efficiency
+D (programming language)
+Data parallelism
+Dataflow architecture
+Dataflow programming
+David R. Kaeli
+Deadlock (computer science)
+Delft University
+Deterministic algorithm
+Digital signal processor
+DirectCompute
+DirectX Video Acceleration
+Distributed computing
+Distributed memory
+Distributed shared memory
+Doi (identifier)
+Dot product
+Dryad (programming)
+EDSL
+EGL (API)
+Embarrassingly parallel
+Entry point
+Excavator (microarchitecture)
+Execution model
+Explicit parallelism
+Fast Fourier transform
+Fermi (microarchitecture)
+Fiber (computer science)
+Field-programmable gate array
+Filename extension
+Firefox
+Flynn's taxonomy
+FreeBSD
+Function pointer
+GPGPU
+GPUOpen
+Gallium3D
+Game Developers Conference
+GeForce
+General-purpose computing on graphics processing units
+Generic programming
+GitHub
+GlTF
+Global Arrays
+Google
+Graphics Core Next
+Graphics processing unit
+Grid computing
+Gustafson's law
+HPX
+Handle (computing)
+Hardware acceleration
+Hardware accelerator
+Hardware scout
+Haswell (microarchitecture)
+Havok (company)
+Havok (software)
+Heterogeneous-compute Interface for Portability
+Heterogeneous System Architecture
+Heterogeneous computing
+High-performance computing
+IA-32
+IBM
+IBM Power Systems
+IBM Power microprocessors
+IEEE 754
+ISBN (identifier)
+IWOCL
+Ice Lake (microprocessor)
+Imagination Technologies
+Imperative programming
+Implicit parallelism
+Instruction-level parallelism
+Instruction pipelining
+Instruction window
+Intel
+Intel Arc
+Intel Core
+Intel Core (microarchitecture)
+Intel Core 2
+Intel Core i3
+Intel Core i5
+Intel Core i7
+Intermediate representation
+Ivy Bridge (microarchitecture)
+Jack Dongarra
+Jaguar (microarchitecture)
+JavaScript
+Java (programming language)
+Just-in-time compilation
+K10 (microarchitecture)
+Kaby Lake
+Karp–Flatt metric
+Kepler (microarchitecture)
+Khronos Group
+LLVM
+Larrabee (microarchitecture)
+Lib Sh
+Library (computing)
+Linux
+List of C-based programming languages
+List of OpenCL applications
+Loop-level parallelism
+MacOS
+Mac OS X Snow Leopard
+Machine learning
+Manifest typing
+Manycore processor
+Map (parallel pattern)
+Massively parallel
+Matrix–vector multiplication
+Maxwell (microarchitecture)
+Memory-level parallelism
+Memory barrier
+Memory coherence
+Memory hierarchy
+Mesa (computer graphics)
+Message Passing Interface
+Metal (API)
+Meteor Lake
+Michael Larabel
+Microsoft
+Microsoft Windows
+Movidius Myriad 2
+Multi-core processor
+Multiple instruction, multiple data
+Multiple instruction, single data
+Multiprocessing
+Multithreading (computer architecture)
+Neural Network Exchange Format
+Nominative type system
+Non-blocking algorithm
+Non-profit organization
+Non-uniform memory access
+Nvidia
+Nvidia Ion
+Nvidia Tesla
+Object oriented programming
+OpenACC
+OpenCL compute devices
+OpenGL
+OpenGL ES
+OpenGL SC
+OpenHMPP
+OpenKODE
+OpenMAX
+OpenMP
+OpenSL ES
+OpenVG
+OpenVX
+OpenWF
+OpenXR
+Operating system
+PERCS
+PMC (identifier)
+PMID (identifier)
+Parallel Extensions
+Parallel RAM
+Parallel Thread Execution
+Parallel Virtual Machine
+Parallel computing
+Parallel external memory
+Parallel programming model
+Parallel slowdown
+Pascal (microarchitecture)
+Perl
+Phoronix
+Piledriver (microarchitecture)
+Pipeline (computing)
+Pointer (computer programming)
+PowerVR
+Power 775
+Preemption (computing)
+Procedural programming
+Process (computing)
+Processing element
+Processor core
+Processor register
+Programmer
+Programming language
+Programming language implementation
+Programming paradigm
+Programming productivity
+Pthreads
+Puma (microarchitecture)
+Python (programming language)
+Quadro
+Qualcomm
+ROCm
+Race condition
+Radeon
+Radeon HD 5000 series
+Radeon R700
+RaftLib
+RapidMind
+Raptor Lake
+Raspberry Pi
+Recursion (computer science)
+Red Hat
+RenderScript
+Rocket Lake
+Rust (programming language)
+S2CID (identifier)
+S3 Graphics
+SIGGRAPH
+SIMD lanes
+SPIR-V
+SSE2
+SSE3
+SYCL
+Samsung
+Scalability
+Semiconductor memory
+SequenceL
+Shared memory
+Shared object
+Simultaneous and heterogeneous multithreading
+Simultaneous multithreading
+Single instruction, multiple data
+Single instruction, multiple threads
+Single instruction, single data
+Skylake (microarchitecture)
+Software categories
+Software development kit
+Software framework
+Software in the Public Interest
+Software license
+Software lockout
+Software release life cycle
+Speculative multithreading
+Speedup
+Standard Portable Intermediate Representation
+Starvation (computer science)
+Steamroller (microarchitecture)
+Stream processing
+Streaming SIMD Extensions
+Structured programming
+Superscalar processor
+Support-vector machine
+Symmetric multiprocessing
+Synchronization (computer science)
+Systolic array
+Task parallelism
+Temporal multithreading
+TeraScale (microarchitecture)
+Tesla (microarchitecture)
+The Portland Group
+Thread (computing)
+Threading Building Blocks
+Tiger Lake
+Trademark
+Turing (microarchitecture)
+Type system
+Unified Parallel C
+Uniform memory access
+VIA Technologies
+Variable-length array
+Vector processor
+Verisilicon
+VideoCore
+Vienna
+Volta (microarchitecture)
+Vulkan
+Vulkan (API)
+Wayback Machine
+Weak typing
+WebCL
+WebGL
+Web browser
+Windows
+Windows 11
+Wolfram Mathematica
+Wolfram Research
+X86
+X86-64
+XL compilers
+Xeon
+YouTube
+ZPL (programming language)
+Zen (microarchitecture)
+ZiiLABS

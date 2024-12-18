@@ -1,0 +1,231 @@
+2003 North America blackout
+ABA problem
+AND gate
+API
+API-Calculus
+Alberto Sangiovanni-Vincentelli
+Algebra of Communicating Processes
+Ambient calculus
+Amdahl's law
+Analog delay line
+Analysis of parallel algorithms
+Application checkpointing
+Array (data structure)
+Asymmetric multiprocessing
+Ateji PX
+Atomic operation
+Authentication
+Automatic parallelization
+Barrier (computer science)
+Beowulf cluster
+Berkeley sockets
+Bit-level parallelism
+Boost (C++ libraries)
+Bulldozer (microarchitecture)
+C++11
+C++ AMP
+C11 (C standard revision)
+CPAN
+CUDA
+Cache-only memory architecture
+Cache coherence
+Cache invalidation
+Calculus of communicating systems
+Call collision
+Chapel (programming language)
+Charm++
+Cigarette smokers problem
+Cilk
+Clang
+Clock signal
+Cloud computing
+Coarray Fortran
+Communicating sequential processes
+Computer bug
+Computer cluster
+Computer hardware
+Computer multitasking
+Computer network
+Computer programming
+Computer security
+Concurrency (computer science)
+Concurrency control
+Concurrent computing
+Concurrent data structure
+Concurrent hash table
+Concurrent user
+Cost efficiency
+Critical race
+Critical race theory
+Critical section
+Daemon (computing)
+Data parallelism
+Dataflow architecture
+Dataflow programming
+David A. Huffman
+Deadlock (computer science)
+Denial of service
+Deterministic algorithm
+Dining philosophers problem
+Distributed computing
+Distributed memory
+Distributed shared memory
+Doi (identifier)
+Dryad (programming)
+Dynamic program analysis
+Electronics
+Embarrassingly parallel
+Energy management system
+Explicit parallelism
+Fiber (computer science)
+File locking
+FirstEnergy Corp
+Flynn's taxonomy
+GE Energy
+GPUOpen
+General-purpose computing on graphics processing units
+Glitch
+Global Arrays
+Grid computing
+Gustafson's law
+HPX
+Happens-before
+Hardware acceleration
+Hardware random number generator
+Hardware scout
+Hazard (logic)
+Heisenbug
+High-performance computing
+IEEE Transactions on Software Engineering
+IRC
+ISBN (identifier)
+ISSN (identifier)
+Iff
+Implicit parallelism
+Indeterminacy in computation
+Indeterminacy in concurrent computation
+Instruction-level parallelism
+Instruction pipelining
+Instruction window
+Intel Advisor
+Intel Inspector
+Internet Relay Chat
+Internet Systems Consortium
+John Regehr
+Join-calculus
+Karnaugh map
+Karp–Flatt metric
+Kevin Poulsen
+LLVM
+Language Of Temporal Ordering Specification
+Life-critical system
+Lighttpd
+Linearizability
+Logic circuit
+Logic gate
+Logic redundancy
+Loop-level parallelism
+Manycore processor
+Massively parallel
+Memory-level parallelism
+Memory coherence
+Memory model (programming)
+Message Passing Interface
+Metastability (electronics)
+Multiple instruction, multiple data
+Multiple instruction, single data
+Multiprocessing
+Multithreading (computer architecture)
+Mutual exclusion
+Negation
+Network latency
+Neuroskeptic
+Non-blocking algorithm
+Non-uniform memory access
+Nondeterministic algorithm
+Ohio
+OpenACC
+OpenCL
+OpenHMPP
+OpenMP
+PEPA
+PMC (identifier)
+PMID (identifier)
+Parallel Extensions
+Parallel RAM
+Parallel Virtual Machine
+Parallel computing
+Parallel external memory
+Parallel programming model
+Parallel slowdown
+Physically unclonable function
+Pipeline (computing)
+Preemption (computing)
+Privilege escalation
+Process (computing)
+Process calculus
+Processor Consistency
+Producer–consumer problem
+Propagation delay
+Pthreads
+ROCm
+Racetrack problem
+Radiation therapy
+RaftLib
+Readers–writers problem
+Release Consistency
+Robert K. Brayton
+Rule 55
+S2CID (identifier)
+Scalability
+SecurityFocus
+Security vulnerability
+Semaphore (programming)
+Semiconductor memory
+Sequential logic
+Sequentially consistent
+Shared memory
+Shared resource
+Simultaneous and heterogeneous multithreading
+Simultaneous multithreading
+Single instruction, multiple data
+Single instruction, multiple threads
+Single instruction, single data
+Sleeping barber problem
+Software
+Software bug
+Software lockout
+Speculative multithreading
+Speedup
+Starvation (computer science)
+State machine
+Static program analysis
+Stream processing
+Superscalar processor
+Symlink race
+Symmetric multiprocessing
+Synchronization (computer science)
+Synchronization operations
+System
+Systolic array
+Task parallelism
+Temporal multithreading
+Test-and-set
+Therac-25
+Thread (computing)
+Threading Building Blocks
+Time-of-check-to-time-of-use
+Time of check to time of use
+Timeline of Spirit
+Torn write
+Total Store Order
+UK railway signalling
+Undefined behavior
+Unified Parallel C
+Uniform memory access
+Valgrind
+Vector processor
+Wayback Machine
+Winwick rail crash
+ZPL (programming language)
+Π-calculus

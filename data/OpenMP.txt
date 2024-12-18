@@ -1,0 +1,209 @@
+ACCU (organisation)
+AMD
+API
+Absoft Fortran Compilers
+Allinea Distributed Debugging Tool
+Allinea MAP
+Amdahl's law
+Analysis of parallel algorithms
+Application checkpointing
+Application programming interface
+Arm (company)
+Array (data structure)
+Asymmetric multiprocessing
+Ateji PX
+Automatic parallelization
+Barrier (computer science)
+Beowulf cluster
+Bibcode (identifier)
+Bit-level parallelism
+Boost (C++ libraries)
+Bulk synchronous parallel
+Bulldozer (microarchitecture)
+C++
+C++ AMP
+CFD-DEM
+CUDA
+C (programming language)
+C preprocessor
+Cache-only memory architecture
+Cache coherence
+Cache invalidation
+Chapel (programming language)
+Charm++
+Cilk
+CiteSeerX (identifier)
+Cloud computing
+Coarray Fortran
+Compare-and-swap
+Compiler directive
+Computer cluster
+Computer hardware
+Computer multitasking
+Computer network
+Computer programming
+Computing platform
+Concurrency (computer science)
+Concurrent computing
+Consortium
+Cost efficiency
+Cray
+Cross-platform
+Data parallelism
+Dataflow architecture
+Dataflow programming
+Deadlock (computer science)
+Desktop computer
+Deterministic algorithm
+Differential equation
+Distributed computing
+Distributed memory
+Distributed shared memory
+Doi (identifier)
+Dryad (programming)
+Embarrassingly parallel
+Environment variable
+Explicit parallelism
+False sharing
+Fiber (computer science)
+Field-programmable gate array
+Flynn's taxonomy
+Fold (higher-order function)
+Fork (system call)
+Fork–join model
+Fortran
+Fortran 2003
+FreeBSD
+Fujitsu
+Function (computer science)
+GNU Compiler Collection
+GPGPU
+GPUOpen
+General-purpose computing on graphics processing units
+Global Arrays
+Granularity (parallel computing)
+Grid computing
+Gustafson's law
+HP-UX
+HPX
+Hardware acceleration
+Hardware scout
+Hdl (identifier)
+Header file
+Heterogeneous System Architecture
+Hewlett-Packard
+High-performance computing
+IBM
+IBM AIX
+ISBN (identifier)
+Implicit parallelism
+Instruction-level parallelism
+Instruction pipelining
+Instruction set architecture
+Instruction window
+Intel
+Intel Advisor
+Intel C++ Compiler
+Intel Parallel Studio
+Intel Xe
+Karp–Flatt metric
+Library (computing)
+Linearizability
+Linux
+Load balancing (computing)
+Loop-level parallelism
+MacOS
+Manycore processor
+Map (parallel pattern)
+Massively parallel
+Memory-level parallelism
+Memory bandwidth
+Memory coherence
+Message Passing Interface
+Microsoft Windows
+Multiple instruction, multiple data
+Multiple instruction, single data
+Multiprocessing
+Multithreading (computer architecture)
+NEC
+Non-blocking algorithm
+Non-uniform memory access
+Nonprofit organization
+Numerical integration
+Numerical programming
+Nvidia
+OpenACC
+OpenCL
+OpenHMPP
+Open MPI
+Operating system
+Oracle Corporation
+Oracle Solaris Studio
+POSIX Threads
+Parallel Extensions
+Parallel RAM
+Parallel Virtual Machine
+Parallel computing
+Parallel external memory
+Parallel programming
+Parallel programming model
+Parallel slowdown
+Parallware
+Partitioned global address space
+Pipeline (computing)
+Preemption (computing)
+Process (computing)
+Processor affinity
+Programmer
+Pthreads
+ROCm
+ROSE (compiler framework)
+Race condition
+RaftLib
+Red Hat
+Rogue Wave Software
+Runtime environment
+S2CID (identifier)
+SIMD
+SPMD
+Scalability
+Semiconductor memory
+SequenceL
+Shared memory
+Shared memory architecture
+Simultaneous and heterogeneous multithreading
+Simultaneous multithreading
+Single instruction, multiple data
+Single instruction, multiple threads
+Single instruction, single data
+Software categories
+Software license
+Software lockout
+Software portability
+Software release life cycle
+Solaris (operating system)
+Speculative multithreading
+Speedup
+Standard output
+Starvation (computer science)
+Stream processing
+Supercomputer
+Superscalar processor
+Symmetric multiprocessing
+Synchronization (computer science)
+Systolic array
+Task parallelism
+Temporal multithreading
+Texas Instruments
+The Portland Group
+Thread (computer science)
+Thread (computing)
+Threading Building Blocks
+Unified Parallel C
+Uniform memory access
+VTune
+Vector processor
+Wayback Machine
+X10 (programming language)
+X86
+ZPL (programming language)

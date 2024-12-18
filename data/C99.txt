@@ -1,0 +1,498 @@
+110 film
+126 film
+135 film
+A440 (pitch standard)
+ALGOL 60
+ANSI
+ANSI C
+ANSI escape code
+ASMO 449
+Accuracy and precision
+Acorn C/C++
+Ada Semantic Interface Specification
+Advanced Video Coding
+Alef (programming language)
+Amsterdam Compiler Kit
+Anjuta
+Antimagnetic watch
+ArmSCII
+Ars Technica
+BCPL
+Bionic (software)
+Boolean data type
+Borland Turbo C
+Bounds checking
+British Standard Pipe
+Business Process Model and Notation
+C++
+C++03
+C++11
+C++14
+C++17
+C++20
+C++23
+C++98
+C++ Builder
+C++ Technical Report 1
+C11 (C standard revision)
+C17 (C standard revision)
+C23 (C standard revision)
+C89 (C version)
+C90 (C version)
+CAN bus
+CHILL
+CLion
+COBOL
+COLLADA
+C (programming language)
+C POSIX library
+C Sharp (programming language)
+C character classification
+C data types
+C date and time functions
+C dynamic memory allocation
+C file input/output
+C mathematical functions
+C preprocessor
+C standard library
+C string handling
+C syntax
+Cc65
+Ch (computer programming)
+Clang
+Cloud Infrastructure Management Interface
+CodeLite
+Comment (programming)
+Common Criteria
+Common Language Infrastructure
+Common Logic
+Common Object Request Broker Architecture
+CompCert
+Comparison of Pascal and C
+Compatibility of C and C++
+Complex.h
+Complex number
+Computer Graphics Metafile
+DICOM
+D (programming language)
+Data type
+Delivery Multimedia Integration Framework
+Dennis Ritchie
+Dietlibc
+Digital Mars
+Digital object identifier
+Document Style Semantics and Specification Language
+Double-precision floating-point format
+Dr. Dobb's Journal
+Duff's device
+Dynamic Adaptive Streaming over HTTP
+Dynamic memory allocation
+ECMAScript
+ECMAScript for XML
+EXPRESS (data modeling language)
+Eclipse (software)
+Embedded C
+Embedded GLIBC
+Equal-loudness contour
+Essential Video Coding
+Extended precision
+FDI World Dental Federation notation
+FORTRAN
+FTAM
+Fiber Distributed Data Interface
+File Allocation Table
+Film speed
+Flexible array member
+Floating-point
+Floating-point arithmetic
+Floating point
+Flowchart
+Fuel oil
+Full BASIC
+Fuse (automotive)
+GNOME Builder
+GNU Compiler Collection
+Geany
+Geography Markup Language
+Geospatial metadata
+Glibc
+Go (programming language)
+Graph Query Language
+Graphical Kernel System
+Green Hills Software
+Guidelines for the Definition of Managed Objects
+HTML
+Han Xin code
+Hazard symbol
+Header file
+Hole punch
+Horsepower
+Hot shoe
+Hybris (software)
+IAR Systems
+IATF 16949
+IBM
+IBM Rational
+IBM XL C++
+IEEE
+IEEE 754-1985
+IEEE floating point
+IS-IS
+ISBN
+ISLISP
+ISO-8859-8-I
+ISO-TimeML
+ISO/IEC 10116
+ISO/IEC 10967
+ISO/IEC 11179
+ISO/IEC 11404
+ISO/IEC 11801
+ISO/IEC 12207
+ISO/IEC 14443
+ISO/IEC 14651
+ISO/IEC 15288
+ISO/IEC 15504
+ISO/IEC 15693
+ISO/IEC 15897
+ISO/IEC 17024
+ISO/IEC 17025
+ISO/IEC 18014
+ISO/IEC 19752
+ISO/IEC 19770
+ISO/IEC 19794-5
+ISO/IEC 20000
+ISO/IEC 2022
+ISO/IEC 21827
+ISO/IEC 27000
+ISO/IEC 27000-series
+ISO/IEC 27001
+ISO/IEC 27002
+ISO/IEC 27005
+ISO/IEC 27006
+ISO/IEC 38500
+ISO/IEC 42010
+ISO/IEC 4909
+ISO/IEC 5218
+ISO/IEC 646
+ISO/IEC 6523
+ISO/IEC 7064
+ISO/IEC 7810
+ISO/IEC 7811
+ISO/IEC 7812
+ISO/IEC 7813
+ISO/IEC 7816
+ISO/IEC 80000
+ISO/IEC 8652
+ISO/IEC 8859
+ISO/IEC 8859-1
+ISO/IEC 8859-10
+ISO/IEC 8859-11
+ISO/IEC 8859-12
+ISO/IEC 8859-13
+ISO/IEC 8859-14
+ISO/IEC 8859-15
+ISO/IEC 8859-16
+ISO/IEC 8859-2
+ISO/IEC 8859-3
+ISO/IEC 8859-4
+ISO/IEC 8859-5
+ISO/IEC 8859-6
+ISO/IEC 8859-7
+ISO/IEC 8859-8
+ISO/IEC 8859-9
+ISO/IEC 9126
+ISO/IEC 9529
+ISO/IEC 9797-1
+ISO/IEC 9995
+ISO/IEC TR 12182
+ISO/IEEE 11073
+ISO/TR 11941
+ISO 1
+ISO 1000
+ISO 10006
+ISO 10007
+ISO 10160
+ISO 10161
+ISO 10218
+ISO 10303
+ISO 10303-21
+ISO 10303-22
+ISO 10303-28
+ISO 10628
+ISO 10962
+ISO 11170
+ISO 11783
+ISO 11784 and ISO 11785
+ISO 11940
+ISO 11940-2
+ISO 11992
+ISO 12006
+ISO 128
+ISO 13399
+ISO 13406-2
+ISO 13485
+ISO 13490
+ISO 13567
+ISO 13584
+ISO 14000
+ISO 14031
+ISO 14224
+ISO 14617
+ISO 14644
+ISO 14698
+ISO 14971
+ISO 15022
+ISO 15189
+ISO 15398
+ISO 15686
+ISO 15919
+ISO 15924
+ISO 15926
+ISO 15926 WIP
+ISO 1629
+ISO 16750
+ISO 17100
+ISO 1745
+ISO 18245
+ISO 19011
+ISO 19092-1
+ISO 19092-2
+ISO 19114
+ISO 19439
+ISO 19600
+ISO 2
+ISO 20022
+ISO 20121
+ISO 2014
+ISO 2015
+ISO 2033
+ISO 20400
+ISO 2047
+ISO 21001
+ISO 2145
+ISO 2146
+ISO 21500
+ISO 216
+ISO 217
+ISO 22000
+ISO 22300
+ISO 22301
+ISO 22395
+ISO 233
+ISO 25178
+ISO 259
+ISO 25964
+ISO 26000
+ISO 26262
+ISO 2709
+ISO 2711
+ISO 2788
+ISO 28000
+ISO 2848
+ISO 2852
+ISO 2921
+ISO 31
+ISO 31-0
+ISO 31-1
+ISO 31-10
+ISO 31-11
+ISO 31-12
+ISO 31-13
+ISO 31-3
+ISO 31-4
+ISO 31-5
+ISO 31-6
+ISO 31-7
+ISO 31-8
+ISO 31-9
+ISO 31000
+ISO 3103
+ISO 3166
+ISO 3166-1
+ISO 3166-2
+ISO 3166-3
+ISO 3307
+ISO 37001
+ISO 3864
+ISO 3977
+ISO 4
+ISO 4031
+ISO 4157
+ISO 4165
+ISO 4217
+ISO 45001
+ISO 50001
+ISO 5426
+ISO 5427
+ISO 5428
+ISO 55000
+ISO 56000
+ISO 5775
+ISO 5776
+ISO 5964
+ISO 6344
+ISO 6346
+ISO 6385
+ISO 639
+ISO 639-1
+ISO 639-2
+ISO 639-3
+ISO 639-5
+ISO 639-6
+ISO 6438
+ISO 657
+ISO 668
+ISO 6709
+ISO 690
+ISO 6943
+ISO 7001
+ISO 7002
+ISO 7010
+ISO 7027
+ISO 704
+ISO 7200
+ISO 732
+ISO 7637
+ISO 7736
+ISO 8000
+ISO 8178
+ISO 8373
+ISO 843
+ISO 8501-1
+ISO 8583
+ISO 860
+ISO 8601
+ISO 8691
+ISO 898
+ISO 9
+ISO 9000
+ISO 9241
+ISO 9362
+ISO 9564
+ISO 965
+ISO 9660
+ISO 9897
+ISO 999
+ISO base media file format
+ISO metric screw thread
+Include directive
+Inline function
+Integrated development environment
+Intel C++ Compiler
+Intel C++ compiler
+International Bank Account Number
+International Organization for Standardization
+International Securities Identification Number
+International Standard Atmosphere
+International Standard Audiovisual Number
+International Standard Identifier for Libraries and Related Organizations
+International Standard Music Number
+International Standard Musical Work Code
+International Standard Name Identifier
+International Standard Recording Code
+International Standard Serial Number
+International Standard Text Code
+Inttypes.h
+Isofix
+JBIG
+JPEG 2000
+JPEG XL
+JPEG XR
+JPEG XS
+JPIP
+Java (programming language)
+K&R C
+KDevelop
+Kappa number
+Klibc
+Knowledge Discovery Metamodel
+Kunrei-shiki romanization
+LCC (compiler)
+LCEVC
+LWN.net
+Language Of Temporal Ordering Specification
+Legal Entity Identifier
+Lexical Markup Framework
+Library function
+Limbo (programming language)
+Linguistic categories
+Linux Standard Base
+List of C compilers
+List of IEC standards
+List of ISO romanizations
+List of ISO standards
+Long double
+Longitudinal redundancy check
+MISRA C
+MOS Technology 6502
+MP4 file format
+MPEG-1
+MPEG-2
+MPEG-21
+MPEG-4
+MPEG-4 Part 11
+MPEG-4 Part 2
+MPEG-4 Part 3
+MPEG-7
+MPEG-A
+MPEG-D
+MPEG-G
+MPEG-H
+Magnetic ink character recognition
+Manufacturing Message Specification
+Market Identifier Code
+Math library
+MaxiCode
+Memory model (programming)
+Meta-Object Facility
+MicroPDF417
+Microsoft
+Microsoft Visual C++
+Microsoft Visual Studio Express
+Microsoft Windows library files
+Minimal BASIC
+Mixed raster content
+Motion JPEG 2000
+Multibus
+Musl
+NaN
+NetBeans
+Newlib
+Norcroft C compiler
+O-ring
+OCR-A
+OCR-B
+OSI model
+Object Constraint Language
+Objective-C
+Office Open XML
+On-board diagnostics
+Open64
+OpenDocument
+Open Data Protocol
+Open Document Architecture
+Open Virtualization Format
+Open Watcom
+Open standard
+Operators in C and C++
+Optimization (computer science)
+PDF
+PDF/A
+PDF/E
+PDF/UA
+PDF/VT
+PDF/X
+PDF417
+PHIGS
+POSIX
+Pascal (programming language)
+Pelles C
+Photographic Activity Test
+Pinyin
+Portable C Compiler
+Portable C compiler
+Power take-off
+Process Specification Language
+Prolog
+Prontor-Compur
+QR code

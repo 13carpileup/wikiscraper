@@ -1,0 +1,305 @@
+.*
+.NET Framework
+ASCII
+AWK
+Abstract machine
+Agrep
+Aho–Corasick algorithm
+Alfred Aho
+Algorithm
+Alphabet (computer science)
+Alternation (formal language theory)
+American Standard Code for Information Interchange
+Apache HTTP Server
+Aperiodic finite state automaton
+Apostolico–Giancarlo algorithm
+Approximate string matching
+ArXiv (identifier)
+Asterisk
+Automata theory
+BLAST (biotechnology)
+Backtracking
+Backus–Naur form
+Backward compatibility
+Basic Multilingual Plane
+Bell Labs
+Ben Forta
+Big O notation
+Binary string
+Bitap algorithm
+Boost C++ Libraries
+Boyer–Moore string-search algorithm
+Boyer–Moore–Horspool algorithm
+Bradley Horowitz
+Brian Kernighan
+Byte order mark
+Case sensitivity
+Central processing unit
+Character (computing)
+Character set
+Chomsky hierarchy
+CiteSeerX (identifier)
+Closure (mathematics)
+Code point
+Command line
+Commentz-Walter algorithm
+Comparison of regular-expression engines
+Comparison of regular expression engines
+Compatible Time-Sharing System
+Compiler
+Compressed pattern matching
+Compressed suffix array
+Computational learning theory
+Computer keyboard
+Concatenation
+Context-free grammar
+Context-free language
+Context-sensitive grammar
+Context-sensitive language
+Control character
+Damerau–Levenshtein distance
+Damian Conway
+Data element
+Data scraping
+Data structure
+Data validation
+Data wrangling
+Decider (Turing machine)
+Delimiter
+Delimiter collision
+Dennis Ritchie
+Deprecation
+Desktop publishing
+Deterministic acyclic finite state automaton
+Deterministic context-free grammar
+Deterministic context-free language
+Deterministic finite automata
+Deterministic finite automaton
+Deterministic pushdown automaton
+Devanāgarī
+Dexter Kozen
+Document Type Definition
+Doi (identifier)
+Double exponential function
+Douglas T. Ross
+ECMAScript
+Ed (text editor)
+Edit distance
+Emacs
+Embedded pushdown automaton
+Empty string
+Eric S. Raymond
+Escape character
+Escape sequence
+Exalead
+Exponential growth
+Expr
+Extended Backus–Naur form
+FM-index
+FPGA
+Finite-state machine
+Finite language
+Formal grammar
+Formal language
+GNU
+GPU
+Gawk (GNU package)
+General-purpose programming language
+Generalized suffix tree
+Gestalt pattern matching
+GitHub
+Glob (programming)
+Google Blog
+Google Code Search
+Grammar induction
+Greedy algorithm
+Grep
+Hamming distance
+Hdl (identifier)
+Henry Spencer
+Hiragana
+Hirschberg's algorithm
+Horn clause
+IBM 7094
+IMFI
+ISBN
+ISBN (identifier)
+Indexed grammar
+Indexed language
+Induction of regular languages
+Institute of Electrical and Electronics Engineers
+Isomorphism
+Jan van Leeuwen
+Jaro–Winkler distance
+JavaScript
+Java (programming language)
+Jeffrey Ullman
+Julia (programming language)
+Just-in-time compilation
+Katakana
+Ken Thompson
+Kleene's algorithm
+Kleene algebra
+Kleene plus
+Kleene star
+Knuth–Morris–Pratt algorithm
+LCP array
+Language identification in the limit
+Larry Wall
+Leaning toothpick syndrome
+Lee distance
+Levenshtein automaton
+Levenshtein distance
+Lex programming tool
+Lexer
+Lexical analysis
+Library (computing)
+Linear bounded automaton
+Linear context-free rewriting language
+Linear context-free rewriting system
+Linux
+Literal (computer programming)
+Longest common subsequence
+Longest common substring
+Matching wildcards
+McCulloch-Pitts neuron
+Metacharacter
+Michael Sipser
+Mini-language
+Minimal deterministic finite state machine
+NP-complete
+Needleman–Wunsch algorithm
+Nested stack automaton
+Nested word
+New Mexico State University
+Newline
+Non-recursive grammar
+Nondeterministic finite automata
+Nondeterministic finite automaton
+O'Reilly Media
+Operator (programming)
+Oracle Corporation
+PCRE
+PHP
+POSIX
+POSIX.2
+PTIME
+Parentheses
+Parsing
+Parsing expression grammar
+Pattern matching
+Perceptron
+Perl
+Perl Compatible Regular Expressions
+Philip Hazel
+Plus sign
+Pointer (computer science)
+PostgreSQL
+Powerset construction
+Programming language
+Proper subset
+Pumping lemma for context-free languages
+Pushdown automaton
+Python (programming language)
+Python Software Foundation
+QED (text editor)
+Qt (software)
+Quantifier (linguistics)
+Question mark
+RE2 (software)
+Rabin–Karp algorithm
+Raita algorithm
+Raku (programming language)
+Raku rules
+Range concatenation grammars
+Range concatenation language
+Recursion (computer science)
+Recursive descent parser
+Recursive language
+Recursively enumerable language
+Regex
+Regular expression Denial of Service
+Regular grammar
+Regular language
+Regular tree grammar
+Request for Comments
+Rope (data structure)
+Ruby (programming language)
+S2CID (identifier)
+SNOBOL
+SQL
+Search engine
+Search engine (computing)
+Sed
+Semi-Thue system
+Sequence alignment
+Sequential pattern mining
+Set (computer science)
+Set complement
+Set union
+Small caps
+Smith–Waterman algorithm
+Software engine
+Software versioning
+Standard Generalized Markup Language
+Standard library
+Star-free language
+Star height problem
+Stephen Cole Kleene
+String-searching algorithm
+String (computer science)
+String (computing)
+String literal
+String metric
+String operations
+String processing
+Style sheet (desktop publishing)
+Subset
+Substring index
+Suffix array
+Suffix automaton
+Suffix tree
+Syntax
+Syntax (programming languages)
+Syntax highlighting
+Tcl
+Ternary search tree
+Text editor
+Text file
+Text processing
+Theoretical computer science
+Thompson's construction
+Thompson's construction algorithm
+Thread automaton
+Tree-adjoining grammar
+Tree stack automaton
+Trie
+Trigram search
+Turing machine
+Two-way string-matching algorithm
+UTF-16
+UTF-32
+UTF-8
+Unicode
+Union (set theory)
+Unix
+Unrestricted grammar
+Vertical bar
+Vi (text editor)
+Vim (text editor)
+Wagner–Fischer algorithm
+Wayback Machine
+Web scraping
+Whitespace character
+Wikipedia
+Wildcard character
+Word processor
+Wrox Press
+XML Schema (W3C)
+XML schema
+Zhu–Takaoka string matching algorithm
+\f
+\n
+\r
+\t
+\v

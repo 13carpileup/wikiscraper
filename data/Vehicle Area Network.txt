@@ -1,0 +1,223 @@
+SAE J1587
+Digital Control Bus
+SATA
+MelsecNet
+Address bus
+IEEE 1394
+SBus
+DyNet
+Technical standard
+Low Pin Count
+InfiniBand
+Amiga Zorro III
+PROFIBUS
+Compute Express Link
+System bus
+Modbus
+Control bus
+Bus and Tag
+Smart meter
+IEC 61030
+TOSLINK
+Industrial control system
+S/PDIF
+Service Request Transport Protocol
+RS-485
+Ultra Port Architecture
+OPC Data Access
+LonTalk
+CoreConnect
+Vehicle bus
+Power-system automation
+BACnet
+MBus (SPARC)
+VAXBI bus
+Amiga Zorro II
+VPX
+Digital Addressable Lighting Interface
+SERCOS III
+Non-return-to-zero
+PROFINET
+Foundation Fieldbus H1
+AES3
+RS-423
+European Home Systems Protocol
+Local Interconnect Network
+RS-232
+Enhanced Small Disk Interface
+IEEE 1284
+Camera Link
+VXS
+SDS Protocol
+OpenTherm
+I²C
+HP Precision Bus
+Bus contention
+Parallel ATA
+ARINC 429
+European Installation Bus
+Serial Attached SCSI
+RapidIO
+Extended Industry Standard Architecture
+List of automation protocols
+Avionics Full-Duplex Switched Ethernet
+MOST Bus
+NVLink
+Advanced Microcontroller Bus Architecture
+SATA Express
+Serial Storage Architecture
+IEC 61850
+Higher Speed Ethernet
+IEC 60870-6
+Serial Peripheral Interface
+KNX
+ControlNet
+Intel QuickPath Interconnect
+IO-Link
+Network on a chip
+Back-side bus
+Europe Card Bus
+ARINC 825
+Atari SIO
+FOUNDATION fieldbus
+OBIX
+MECHATROLINK
+Ethernet Global Data Protocol
+Power Management Bus
+ISO 11519-3
+Infinity Fabric
+MADI
+Intel Ultra Path Interconnect
+FlexRay
+HostLink Protocol
+Ethernet
+NVM Express
+ExpressCard
+Bus (computing)
+System Management Bus
+VESA Local Bus
+Parallel SCSI
+SENT (protocol)
+DMX512
+Factory Interface Network Service
+RAPIEnet
+S-100 bus
+ISBN (identifier)
+I3C (bus)
+DeviceNet
+DNP3
+IEC 62056
+Front-side bus
+Bristol Standard Asynchronous Protocol
+Building automation
+EtherNet/IP
+NMEA 2000
+Profibus
+RS-422
+PCI-X
+PCI eXtensions for Instrumentation
+CEBus
+OPC Unified Architecture
+HyperTransport
+Advanced eXtensible Interface
+HP-IL
+McASP
+Meter-Bus
+STEbus
+Q-Bus
+Sinec H1
+Unibus
+Z-Wave
+De facto standard
+MTConnect
+Fibre Channel
+Automatic meter reading
+PCI Express
+Coherent Accelerator Processor Interface
+Advanced Host Controller Interface
+Accelerated Graphics Port
+Intelligent Peripheral Interface
+Multibus
+NuBus
+Industry Standard Architecture
+Keyword Protocol 2000
+TURBOchannel
+ADAT Lightpipe
+Very Simple Control Protocol
+IEEE-488
+DF-1 Protocol
+Highway Addressable Remote Transducer Protocol
+INTERBUS
+Optomux
+TTEthernet
+Bus mastering
+Cyphal
+PieP
+SynqNet
+Manchester code
+SCSI
+BatiBUS
+X10 (industry standard)
+Ethernet Powerlink
+STD Bus
+Micro Channel architecture
+Peripheral Component Interconnect
+Wishbone (computer bus)
+EnOcean
+PC Card
+List of interface bit rates
+CANopen
+VME eXtensions for Instrumentation
+SAE J1939
+UNI/O
+AS-Interface
+SpaceWire
+Commodore bus
+DirectNET Protocol
+CAN bus
+SS-50 bus
+GSC bus
+IEBus
+EtherCAT
+FASTBUS
+Unified Diagnostic Services
+XAP Home Automation protocol
+Renault
+1-Wire
+Lightning (connector)
+Digital Storage Systems Interconnect
+Fleet Management System
+VMEbus
+C-Bus (protocol)
+IEC 60870-5
+CC-Link Industrial Networks
+Factory Instrumentation Protocol
+SAE J1708
+SERCOS interface
+Direct Media Interface
+Intel High Definition Audio
+I²S
+PSA Peugeot Citroën
+IEC 62351
+XPL Protocol
+Computer Automated Measurement and Control
+ESCON
+Digital Serial Interface
+Wired communication
+Thunderbolt (interface)
+ACCESS.bus
+SLIMbus
+OPC Historical Data Access
+USB
+ST-506/ST-412
+Apple Desktop Bus
+HIPPI
+Storage Module Device
+MIDI
+Multidrop bus
+Daisy chain (electrical engineering)
+HIL bus
+Plug and play
+Common Industrial Protocol
+IEC 60870
+Zigbee

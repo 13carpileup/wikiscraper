@@ -1,0 +1,500 @@
+Distributed memory
+Probabilistic Turing machine
+MasPar
+Scoreboarding
+Package on a package
+Counter (digital)
+ILLIAC IV
+Noise reduction
+Parallel Virtual Machine
+Speculative execution
+Hdl (identifier)
+Ateji PX
+Out-of-order execution
+Heterogeneous computing
+128-bit computing
+Computer data storage
+Motorola 68000 series
+Binary decoder
+Data buffer
+LibSIMD
+DirectX
+Symmetric multiprocessing
+Cellular architecture
+Bit slicing
+Program counter
+MicroBlaze
+ACPI
+Transactions per second
+Application checkpointing
+3DNow!
+Cache (computing)
+Hypercomputation
+Instruction pipelining
+Chip carrier
+Superscalar processor
+Computer performance
+Subroutine
+Duncan's Taxonomy
+512-bit computing
+Sum-addressed decoder
+Personal computer
+Register file
+Cloud computing
+Virtual memory
+Field-programmable gate array
+High-performance computing
+PAL
+Computer cluster
+ROM image
+Control hazard
+LLVM
+Intrinsic function
+Non-uniform memory access
+Adapteva
+Instructions per cycle
+Parsing
+FIFO (computing and electronics)
+Cray
+C++ AMP
+Datapath
+Stack register
+Memory buffer register
+Fabric computing
+Branch predictor
+Boost (C++ libraries)
+OpenACC
+Demultiplexer
+Explicit data graph execution
+OpenRISC
+Pixel
+Parallel RAM
+32-bit computing
+Predication (computer architecture)
+GPUOpen
+Parallel slowdown
+Operand forwarding
+History of general-purpose CPUs
+Boolean circuit
+Implicit parallelism
+SPARC
+General-purpose computing on graphics processing units
+Parallel external memory
+GNU
+Deterministic algorithm
+Cilk
+Random-access stored-program machine
+GitHub
+Deterministic finite automaton
+Connection Machine
+Barrel shifter
+Switch
+Hewlett-Packard
+Cellular automaton
+Semiconductor memory
+ARC (processor)
+Speculative multithreading
+Loop-level parallelism
+Goodyear MPP
+Signal Processing Engine
+Pipeline stall
+Nondeterministic Turing machine
+Digital signal processor
+Stored-program computer
+Parallel computer
+SWAR
+Stanford MIPS
+Barrel processor
+Massively parallel
+Automatic vectorization
+CPU cache
+Uniform memory access
+Video card
+Advanced Vector Extensions
+MDMX
+Stream processing
+Tomasulo's algorithm
+Speedup
+Circuit (computer science)
+V8 (JavaScript engine)
+Microcontroller
+Threading Building Blocks
+Application-specific instruction set processor
+DEC Alpha
+Multiple processing elements
+Multimedia
+Automatic parallelization
+Microarchitecture
+.NET Core
+Bus (computing)
+Application-specific integrated circuit
+Counter machine
+System on a chip
+Processor (computing)
+8-bit computing
+SpiderMonkey (JavaScript engine)
+SuperH
+Rust programming language
+Martin Marietta
+Floating-point unit
+Electronic circuit
+GPGPU
+High-definition television
+Race condition
+IBM System/390
+Beowulf cluster
+Gate array
+SUPS
+Embedded system
+Hierarchical state machine
+Thread (computing)
+Explicitly parallel instruction computing
+Instruction decoder
+Memory controller
+Systolic array
+Reduced instruction set computer
+History of video game consoles (sixth generation)
+Harvard architecture
+Queue automaton
+Load–store architecture
+CUDA
+ClearSpeed
+24-bit computing
+Reservation station
+Multi-chip module
+Cypress PSoC
+Performance per watt
+Parallel Extensions
+Tile processor
+Memory-level parallelism
+Data cache
+Clock rate
+Multiprocessor system on a chip
+GNU C Compiler
+Coarray Fortran
+Single program, multiple data
+Pyxsys, Inc.
+Classic RISC pipeline
+AltiVec
+SIMD (hash function)
+Secure cryptoprocessor
+ICL Distributed Array Processor
+Multi-core processor
+Philips
+System in a package
+Instruction-level parallelism
+Cache replacement policies
+MMX (instruction set)
+Thinking Machines Corporation
+Network processor
+Register renaming
+Goddard Space Flight Center
+VAX
+False sharing
+Video compression
+Comparison of instruction set architectures
+Starvation (computer science)
+IA-64
+Analogue electronics
+Swift (programming language)
+TI Advanced Scientific Computer
+Digital signal processing
+AI accelerator
+Power ISA
+Status register
+Distributed architecture
+Unified Parallel C
+Synchronization (computer science)
+Execution unit
+Structural hazard
+Bit-level parallelism
+Manycore processor
+Microprocessor
+Vector processing
+Software lockout
+OpenJDK
+Dart (programming language)
+Quantum Turing machine
+Finite-state machine with datapath
+Image processor
+Vector processor
+Tensor Processing Unit
+Teranex
+Doi (identifier)
+1-bit computing
+Non-blocking algorithm
+SSE3
+Karp–Flatt metric
+QuickTime
+Multithreading (computer architecture)
+Orthogonal instruction set
+Very long instruction word
+Cell (microprocessor)
+Motorola
+Sony
+ARM architecture family
+Vision processing unit
+Clang
+Grid computing
+Register–memory architecture
+Cache hierarchy
+Memory coherence
+Central processing unit
+Multiplexer
+Soft microprocessor
+Power management integrated circuit
+Model of computation
+S2CID (identifier)
+Non-Uniform Memory Access
+Instruction cycle
+Alternating Turing machine
+Barrier (computer science)
+Mandelbrot set
+Binary multiplier
+Quantum computing
+Hardware acceleration
+MIPS-X
+Assembly language
+Video game
+Digital image processing
+Hardware security module
+OpenCL
+Abstract machine
+Concurrent computing
+48-bit computing
+Pipeline (computing)
+Cooperative multitasking
+Computer programming
+OpenMP
+Streaming SIMD Extensions
+Fiber (computer science)
+Power management
+Permute instruction
+Instruction cache
+Parallel computing
+Quantum circuit
+Memory management unit
+Single instruction, multiple threads
+Data dependency
+Asymmetric multiprocessing
+ECMAScript
+Glibc
+CPU multiplier
+Hazard (computer architecture)
+Dynamic frequency scaling
+Network on a chip
+Instruction unit
+SLEEF
+Message Passing Interface
+ITunes
+SSSE3
+Single instruction, single data
+Glue logic
+4-bit computing
+Massive parallel processing
+Temporal multithreading
+Apollo Guidance Computer
+PA-RISC
+Preemption (computing)
+MIPS-3D
+Cache-only memory architecture
+IBM POWER architecture
+Graphics processing unit
+Finite-state machine
+4×4 matrix
+Shared memory
+Complex programmable logic device
+Task parallelism
+Clipper architecture
+Computer network
+Complex instruction set computer
+Cost efficiency
+Scratchpad memory
+16-bit computing
+ISBN (identifier)
+Gustafson's law
+Charm++
+Distributed shared memory
+Post–Turing machine
+AVX2
+64-bit computing
+Lockheed Martin
+Toshiba
+Processor design
+Sequential logic
+Video game console
+Processor register
+256-bit computing
+Endianness
+Stack machine
+Multiple instruction, multiple data
+Microsoft Corporation
+Turing machine
+CDC STAR-100
+Integrated circuit
+Cognitive computing
+Transport triggered architecture
+MIPS architecture
+Advanced Micro Devices
+Bill Dally
+RISC-V
+Scottish index of multiple deprivation
+Clock gating
+Cache coherence
+Analysis of parallel algorithms
+Visual Instruction Set
+Dryad (programming)
+Universal Turing machine
+Scalability
+Adder (electronics)
+Matrix multiplication
+Synergistic Processing Unit
+Dynamic voltage scaling
+Microprocessor chronology
+12-bit computing
+NASA
+PDP-11 architecture
+ETRAX CRIS
+Memory dependence prediction
+Secondary storage
+Data structure alignment
+Baseband processor
+RaftLib
+Embarrassingly parallel
+Cache invalidation
+Modified Harvard architecture
+Instruction window
+HPX
+Array (data structure)
+Quantum cellular automaton
+MAJC
+Computer hardware
+No instruction set computing
+TRIPS architecture
+Register machine
+Memory hierarchy
+Computer performance by orders of magnitude
+UltraSPARC
+Supercomputer
+Sun Microsystems
+Dynamic dispatch
+Translation lookaside buffer
+NXP Semiconductors
+Operator overloading
+Silicon Optix
+VISC architecture
+Clock signal
+Field-programmable object array
+Scalable Vector Extension
+Instructions per second
+Minimal instruction set computer
+FLOPS
+Application programming interface
+Burroughs Scientific Processor
+Concurrency (computer science)
+Bit-serial architecture
+Arithmetic logic unit
+ARM Holdings
+C (programming language)
+Intel Corporation
+IEEE Transactions on Computers
+Little man computer
+Multiprocessing
+Three-dimensional integrated circuit
+Microcode
+Intel i860
+ROCm
+Scalar processor
+SSE2
+Digital electronics
+Advanced Power Management
+Heterogeneous System Architecture
+Global Arrays
+IBM System/360 architecture
+Quantum logic gate
+Transistor count
+One-instruction set computer
+Ultra-low-voltage processor
+Hyper-threading
+Freescale Semiconductor
+Intel C++ Compiler
+Multiple instruction, single data
+Instruction set architecture
+Cache performance measurement and metric
+Computer architecture
+Memory address register
+Cray-1
+Deadlock (computer science)
+Mixed-signal integrated circuit
+M32R
+Hardware scout
+SIMD
+SIMDx86
+Hardware register
+Pin grid array
+Hardwired control unit
+IBM Power microprocessors
+Physics processing unit
+Unicore
+PlayStation 2
+Programmable Array Logic
+Library (computing)
+Deinterlacing
+SPMD
+IBM System/370
+Mobile processor
+3D vertex transformation
+Integrated development environment
+Simultaneous and heterogeneous multithreading
+Digital audio
+Explicit parallelism
+GNU Compiler Collection
+Logic gate
+Computer multitasking
+Coprocessor
+Address decoder
+Dataflow programming
+Simultaneous multithreading
+Semiconductor device fabrication
+Neuromorphic engineering
+API
+Libm
+Tick–tock model
+Microsoft
+Branch target predictor
+Load–store unit
+Chapel (programming language)
+Flynn's Taxonomy
+Bulldozer (microarchitecture)
+IBM
+Addressing mode
+ARM architecture
+Re-order buffer
+Cycles per instruction
+Pointer machine
+Data parallelism
+AVX-512
+Geometric-Arithmetic Parallel Processor
+Process (computing)
+NTSC
+Digital image
+Michael J. Flynn
+Amdahl's law
+Parallel programming model
+Random-access machine
+MPMD
+Pthreads
+Address generation unit
+PowerPC
+OpenHMPP
+Dataflow architecture
+Apple Inc.
+Single-core
+Cache memory
+Power Management Unit
+SSE4
+Distributed computing
+Combinational logic
+Flynn's taxonomy
+Multimedia Acceleration eXtensions
+Control unit

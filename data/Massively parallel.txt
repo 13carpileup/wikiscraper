@@ -1,0 +1,134 @@
+Implicit parallelism
+Boost (C++ libraries)
+Temporal multithreading
+Simultaneous and heterogeneous multithreading
+Scalability
+OpenACC
+Netezza
+OpenMP
+Non-uniform memory access
+Task parallelism
+Vector processor
+Speculative multithreading
+Deterministic algorithm
+Threading Building Blocks
+Process (computing)
+Distributed computing
+Software lockout
+Pthreads
+Explicit parallelism
+Volunteer computing
+Ateji PX
+High-performance computing
+Thread (computing)
+Microsoft
+Cellular automaton
+General-purpose computing on graphics processing units
+Superscalar processor
+BOINC
+Connection Machine
+Fiber (computer science)
+Multiprocessing
+Dataflow programming
+Flynn's taxonomy
+Systolic array
+Hardware scout
+GPUOpen
+Cilk
+Massively parallel processor array
+Parallel slowdown
+Global Arrays
+Shared memory
+Supercomputer
+Parallel computing
+Race condition
+Computer cluster
+Karp–Flatt metric
+Preemption (computing)
+Computer network
+ZPL (programming language)
+Memory coherence
+Hardware acceleration
+Distributed shared memory
+HPX
+Cloud computing
+Asymmetric multiprocessing
+Unified Parallel C
+Random-access memory
+Teradata
+Manycore processor
+CUDA
+Embarrassingly parallel
+Gustafson's law
+Dryad (programming)
+Central processing units
+API
+Loop-level parallelism
+Cache coherence
+Symmetric multiprocessing
+Interconnect (computing)
+Starvation (computer science)
+GPU
+Synchronization (computer science)
+Single instruction, multiple data
+Computer hardware
+Multithreading (computer architecture)
+Goodyear MPP
+Single instruction, single data
+Message Passing Interface
+Barrier (computer science)
+Automatic parallelization
+Dataflow architecture
+Bit-level parallelism
+Bulldozer (microarchitecture)
+Distributed memory
+InfiniBand
+Grid computing
+Parallel programming model
+Parallel Virtual Machine
+Parallel external memory
+Cache-only memory architecture
+Multiple instruction, multiple data
+Parallel Extensions
+Chapel (programming language)
+Instruction window
+Data parallelism
+Computer multitasking
+Concurrency (computer science)
+Cache invalidation
+OpenHMPP
+Parallel RAM
+Coarray Fortran
+Data warehouse appliance
+Beowulf cluster
+Single instruction, multiple threads
+Charm++
+Semiconductor memory
+Process-oriented programming
+Processing power
+Simultaneous multithreading
+Processor (computing)
+Shared-nothing architecture
+Cost efficiency
+RaftLib
+Instruction pipelining
+Uniform memory access
+Computer programming
+Stream processing
+Speedup
+Administrative domain
+C++ AMP
+Multiple instruction, single data
+Instruction-level parallelism
+Application checkpointing
+OpenCL
+Pipeline (computing)
+Array (data structure)
+ISBN (identifier)
+Amdahl's law
+Torus interconnect
+Non-blocking algorithm
+Deadlock (computer science)
+ROCm
+Analysis of parallel algorithms
+Memory-level parallelism

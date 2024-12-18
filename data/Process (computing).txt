@@ -1,0 +1,243 @@
+Massively parallel
+Zombie process
+Parallel RAM
+Temporal multithreading
+Embedded operating system
+Computer network
+Operating system
+Vector processor
+Child process
+Multilevel feedback queue
+Exit (system call)
+Intel
+Call stack
+Communications protocol
+CUDA
+Cooperative multitasking
+Process states
+Round-robin scheduling
+Scheduling (computing)
+Real-time operating system
+OpenHMPP
+Speedup
+Implicit parallelism
+Execution (computing)
+GPUOpen
+Cloud computing
+Dataflow programming
+High-performance computing
+Subroutine
+Instance (computer science)
+Superscalar processor
+Fiber (computer science)
+Process control block
+Distributed memory
+Auxiliary memory
+Multikernel
+Application checkpointing
+Computer programming
+Processor register
+Background process
+Memory protection
+Explicit parallelism
+Shared memory
+IBM 7090/94 IBSYS
+Process calculus
+Multiple instruction, single data
+Multiprocessing
+User space and kernel space
+Usage share of operating systems
+Computer security
+Instruction window
+Ateji PX
+Parallel computing
+Grid computing
+Distributed operating system
+Machine code
+Computing
+Memory management (operating systems)
+Orphan process
+Light-weight process
+ISBN (identifier)
+Address space
+Central processing unit
+Wayback Machine
+Input/output
+Bulldozer (microarchitecture)
+Coarray Fortran
+Virtual machine
+Instruction pipelining
+Virtual tape library
+Race condition
+Amdahl's law
+ZPL (programming language)
+Deterministic algorithm
+John Wiley & Sons
+Timeline of operating systems
+Multi-core processor
+Object-oriented operating system
+Non-uniform memory access
+Manycore processor
+Barrier (computer science)
+Embarrassingly parallel
+Beowulf cluster
+Parallel slowdown
+Hardware scout
+Software lockout
+Non-volatile memory
+Loop-level parallelism
+Preboot Execution Environment
+Cilk
+Memory paging
+Comparison of user features of operating systems
+Analysis of parallel algorithms
+Cache invalidation
+Exokernel
+Heap memory
+Command-line interface
+Message Passing Interface
+Starvation (computer science)
+Asynchrony (computer programming)
+State diagram
+Forensic software engineering
+Single instruction, multiple threads
+History of operating systems
+Parent process
+OpenMP
+Inter-process communication
+Scalability
+Systolic array
+OpenCL
+Global Arrays
+Shortest job next
+Completely Fair Scheduler
+Reentrancy (computing)
+Array (data structure)
+Bit-level parallelism
+List of operating systems
+Live CD
+Automatic parallelization
+Unified Parallel C
+Unikernel
+Supercomputer operating system
+Computer architecture
+Dryad (programming)
+Stream processing
+Linux kernel
+Parallel Virtual Machine
+Embedded system
+File attribute
+Time-sharing
+Karp–Flatt metric
+Hyper-threading
+Hard disk drive
+Hardware abstraction
+Disk operating system
+User interface
+Live USB
+Htop
+Instruction set
+Semiconductor memory
+Kernel (operating system)
+System resource
+Process group
+Monolithic kernel
+Virtual memory
+Device driver
+Thrashing (computer science)
+RaftLib
+Computer program
+OpenACC
+C++ AMP
+Memory-level parallelism
+Wait (system call)
+Pipeline (computing)
+Virtual file system
+Loadable kernel module
+Inode
+Shell (computing)
+Uniprocessor system
+Simultaneous multithreading
+Distributed computing
+Cost efficiency
+Distributed shared memory
+Synchronization (computer science)
+Mobile operating system
+Parallel programming model
+Charm++
+Working directory
+Network operating system
+Process management (computing)
+Thread (computer science)
+Context (computing)
+CD-ROM
+Comparison of operating systems
+Asymmetric multiprocessing
+Instruction-level parallelism
+Main memory
+Protection ring
+Dataflow architecture
+Microkernel
+Just enough operating system
+Single instruction, multiple data
+Gustafson's law
+Disk partitioning
+Single instruction, single data
+Device file
+HPX
+Unix
+Handle (computing)
+Computer data storage
+Abraham Silberschatz
+Computer hardware
+Interrupt
+Preemption (computing)
+Computer cluster
+Non-blocking algorithm
+Multithreading (computer architecture)
+Cache coherence
+Defragmentation
+Pthreads
+Cache-only memory architecture
+Segmentation fault
+Process state
+Microsoft Windows
+File descriptor
+Speculative multithreading
+KDE System Guard
+Data parallelism
+Parallel Extensions
+Hobbyist operating system
+Memory coherence
+Executive control software
+ROCm
+Simultaneous and heterogeneous multithreading
+Hardware acceleration
+Bus error
+Parallel external memory
+Rump kernel
+General protection fault
+Threading Building Blocks
+Booting
+Thread (computing)
+Uniform memory access
+Vkernel
+Journaling file system
+Concurrency (computer science)
+Symmetric multiprocessing
+Monitor control software
+Flynn's taxonomy
+Multiple instruction, multiple data
+Fixed-priority pre-emptive scheduling
+Task parallelism
+Deadlock (computer science)
+Chapel (programming language)
+Code cave
+File system
+Boost (C++ libraries)
+Hybrid kernel
+API
+General-purpose computing on graphics processing units
+Context switch
+Computer multitasking
+Fork (system call)

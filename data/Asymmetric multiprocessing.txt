@@ -1,0 +1,129 @@
+Parallel RAM
+Threading Building Blocks
+Cost efficiency
+Vector processor
+Operating system
+ROCm
+Bulldozer (microarchitecture)
+IBM System/360
+General-purpose computing on graphics processing units
+HPX
+Hardware scout
+Computer multitasking
+Symmetric multiprocessing
+Speculative multithreading
+Embarrassingly parallel
+Barrier (computer science)
+Speedup
+Manycore processor
+Analysis of parallel algorithms
+Shared memory
+Dryad (programming)
+Thread (computing)
+Dataflow programming
+Multiple instruction, single data
+GPUOpen
+IBM System/370 Model 168
+Multiprocessor
+Cellular multiprocessing
+Array (data structure)
+Concurrency (computer science)
+Parallel Virtual Machine
+Wayback Machine
+Coarray Fortran
+Hardware acceleration
+Unified Parallel C
+Multi-core (computing)
+Pthreads
+OpenACC
+OpenHMPP
+OpenCL
+Fiber (computer science)
+Process (computing)
+C++ AMP
+Computer programming
+Distributed shared memory
+Synchronization (computer science)
+Automatic parallelization
+Task parallelism
+CUDA
+Global Arrays
+Instruction-level parallelism
+Cilk
+Heterogeneous computing
+Ateji PX
+Burroughs B5000
+Loop-level parallelism
+Flynn's taxonomy
+Scalability
+Giant lock
+Explicit parallelism
+Application checkpointing
+PDP-11
+Preemption (computing)
+Message Passing Interface
+Single instruction, single data
+Distributed computing
+Stream processing
+Charm++
+Superscalar processor
+Parallel computing
+Gustafson's law
+Cloud computing
+Boost (C++ libraries)
+Memory-level parallelism
+Cache invalidation
+ZPL (programming language)
+Simultaneous multithreading
+CDC 6000 series
+Bit-level parallelism
+ISBN (identifier)
+Chapel (programming language)
+3B20C
+Memory coherence
+OpenMP
+Grid computing
+Single instruction, multiple data
+Massively parallel
+Pipeline (computing)
+Non-uniform memory access
+Instruction window
+RaftLib
+Software lockout
+Instruction pipelining
+Race condition
+Deterministic algorithm
+Parallel Extensions
+Computer network
+High-performance computing
+Uniform memory access
+Semiconductor memory
+API
+Multiprocessing
+Multithreading (computer architecture)
+DECsystem-10
+Simultaneous and heterogeneous multithreading
+Temporal multithreading
+Parallel external memory
+Cache-only memory architecture
+Starvation (computer science)
+Computer hardware
+Dataflow architecture
+Parallel programming model
+Deadlock (computer science)
+Karp–Flatt metric
+Non-blocking algorithm
+Single instruction, multiple threads
+Systolic array
+Data parallelism
+VAX
+Beowulf cluster
+Multiple instruction, multiple data
+RSX-11M
+Cache coherence
+Implicit parallelism
+Computer cluster
+Distributed memory
+Parallel slowdown
+Amdahl's law
+Digital Equipment Corporation

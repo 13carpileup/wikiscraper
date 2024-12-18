@@ -1,0 +1,500 @@
+ABICOMP character set
+AIX
+ANSEL
+ANSI escape code
+ARIB STD B24 character set
+ASCII
+ASMO 449
+AST Premium Exec DOS 5.0
+ATASCII
+Aaron R. Reynolds
+Adobe Dingbats
+Adobe Latin-1
+Adobe Symbols
+Adobe Systems
+Alternative code page (Russian)
+Amstrad CP/M Plus character set
+Amstrad CPC character set
+Andries Evert Brouwer
+Apocrypha
+Apple II character set
+Arabic MS-DOS
+Arabic alphabet
+Arabic language
+ArmSCII
+Atari ST character set
+BCD (character encoding)
+BIOS
+Back slash
+Baltic languages
+Baudot code
+Big-endian
+Big5
+Bill Gates
+Binary Ordered Compression for Unicode
+Bitstream International Character Set
+Bob O'Rear
+BraSCII
+Bulgarian language
+C0 and C1 control codes
+CCSID
+CDC display code
+CER-GS
+CESU-8
+CJK characters
+CNS 11643
+CP 1009
+CP 866
+CSX+ Indic character set
+CSX Indic character set
+CS Indic character set
+CWI-2
+Casio calculator character sets
+Central Europe
+Character (computing)
+Character encoding
+Character encodings in HTML
+Charles Petzold
+Charset detection
+Chinese Character Code for Information Interchange
+Chinese telegraph code
+Code Page 1287
+Code Page 1288
+Code page 100
+Code page 10000
+Code page 10001
+Code page 10002
+Code page 10003
+Code page 10004
+Code page 10005
+Code page 10006
+Code page 10007
+Code page 10008
+Code page 1001
+Code page 10010
+Code page 10017
+Code page 10021
+Code page 10029
+Code page 1004
+Code page 1006
+Code page 10079
+Code page 1008
+Code page 10081
+Code page 10082
+Code page 1009
+Code page 1010
+Code page 1011
+Code page 1012
+Code page 1013
+Code page 1014
+Code page 1015
+Code page 1016
+Code page 1017
+Code page 1018
+Code page 1019
+Code page 1020
+Code page 1021
+Code page 1023
+Code page 1027
+Code page 1029
+Code page 1030
+Code page 1031
+Code page 1032
+Code page 1033
+Code page 1034
+Code page 1036
+Code page 1038
+Code page 1040
+Code page 1041
+Code page 1042
+Code page 1043
+Code page 1044
+Code page 1046
+Code page 1050
+Code page 1051
+Code page 1052
+Code page 1053
+Code page 1054
+Code page 1055
+Code page 1056
+Code page 1058
+Code page 1086
+Code page 1088
+Code page 1089
+Code page 1090
+Code page 1092
+Code page 1098
+Code page 1101
+Code page 1102
+Code page 1103
+Code page 1104
+Code page 1105
+Code page 1106
+Code page 1107
+Code page 1108
+Code page 1109
+Code page 111
+Code page 1111
+Code page 1114
+Code page 1115
+Code page 1116
+Code page 1117
+Code page 1118
+Code page 1119
+Code page 112
+Code page 1124
+Code page 1125
+Code page 1126
+Code page 1127
+Code page 1129
+Code page 113
+Code page 1131
+Code page 1133
+Code page 1136
+Code page 1139
+Code page 1161
+Code page 1162
+Code page 1163
+Code page 1167
+Code page 1168
+Code page 1169
+Code page 1174
+Code page 1200
+Code page 1201
+Code page 1202
+Code page 1203
+Code page 1208
+Code page 1209
+Code page 1250
+Code page 1251
+Code page 1252
+Code page 1253
+Code page 1254
+Code page 1255
+Code page 1256
+Code page 1257
+Code page 1258
+Code page 1261
+Code page 1270
+Code page 1275
+Code page 1276
+Code page 1277
+Code page 1280
+Code page 1281
+Code page 1282
+Code page 1283
+Code page 1284
+Code page 1285
+Code page 1286
+Code page 1287
+Code page 1288
+Code page 1300
+Code page 1350
+Code page 1351
+Code page 1361
+Code page 1362
+Code page 1363
+Code page 1364
+Code page 1370
+Code page 1372
+Code page 1373
+Code page 1374
+Code page 1375
+Code page 1380
+Code page 1381
+Code page 1382
+Code page 1383
+Code page 1385
+Code page 1386
+Code page 1390
+Code page 1391
+Code page 1392
+Code page 1393
+Code page 1394
+Code page 1399
+Code page 1400
+Code page 1401
+Code page 1402
+Code page 1414
+Code page 1445
+Code page 1446
+Code page 1447
+Code page 1448
+Code page 1449
+Code page 151
+Code page 152
+Code page 161
+Code page 162
+Code page 163
+Code page 164
+Code page 165
+Code page 166
+Code page 210
+Code page 290
+Code page 293
+Code page 298
+Code page 300
+Code page 301
+Code page 310
+Code page 351
+Code page 353
+Code page 354
+Code page 355
+Code page 357
+Code page 358
+Code page 359
+Code page 360
+Code page 367
+Code page 371
+Code page 3846
+Code page 437
+Code page 437-Latvian
+Code page 489
+Code page 500
+Code page 5039
+Code page 620
+Code page 667
+Code page 668
+Code page 706
+Code page 707
+Code page 708
+Code page 709
+Code page 710
+Code page 711
+Code page 714
+Code page 715
+Code page 720
+Code page 721
+Code page 737
+Code page 768
+Code page 770
+Code page 771
+Code page 772
+Code page 773
+Code page 774
+Code page 775
+Code page 776
+Code page 777
+Code page 778
+Code page 790
+Code page 806
+Code page 808
+Code page 813
+Code page 819
+Code page 848
+Code page 849
+Code page 850
+Code page 851
+Code page 852
+Code page 853
+Code page 854
+Code page 855
+Code page 856
+Code page 857
+Code page 858
+Code page 859
+Code page 860
+Code page 861
+Code page 862
+Code page 863
+Code page 864
+Code page 865
+Code page 866
+Code page 866-Latvian
+Code page 867
+Code page 868
+Code page 869
+Code page 872
+Code page 874
+Code page 876
+Code page 877
+Code page 878
+Code page 881
+Code page 882
+Code page 883
+Code page 884
+Code page 885
+Code page 887
+Code page 891
+Code page 895
+Code page 896
+Code page 897
+Code page 898
+Code page 899
+Code page 900
+Code page 901
+Code page 902
+Code page 903
+Code page 904
+Code page 906
+Code page 907
+Code page 909
+Code page 910
+Code page 911
+Code page 912
+Code page 913
+Code page 914
+Code page 915
+Code page 916
+Code page 919
+Code page 920
+Code page 921
+Code page 922
+Code page 923
+Code page 926
+Code page 927
+Code page 928
+Code page 929
+Code page 930
+Code page 931
+Code page 932 (IBM)
+Code page 932 (Microsoft Windows)
+Code page 933
+Code page 934
+Code page 936 (IBM)
+Code page 936 (Microsoft Windows)
+Code page 938
+Code page 939
+Code page 941
+Code page 942
+Code page 943
+Code page 944
+Code page 946
+Code page 947
+Code page 948
+Code page 949 (IBM)
+Code page 950
+Code page 951
+Code page 952
+Code page 953
+Code page 954
+Code page 955
+Code page 956
+Code page 957
+Code page 958
+Code page 959
+Code page 960
+Code page 961
+Code page 963
+Code page 964
+Code page 965
+Code page 966
+Code page 970
+Code page 971
+Code page 991
+Code page 999
+Code page ASMO449+
+Comparison of Unicode encodings
+Compucolor II character set
+Computing
+Console terminal
+Control character
+Cooke and Wheatstone telegraph
+Cork encoding
+Cyrillic script
+Czech alphabet
+DEC Hebrew
+DEC RADIX 50
+DEC Special Graphics
+DEC Technical Character Set
+DG International
+DIN 66003
+DIN 91379
+DKOI
+DOS
+Danish language
+Digital Equipment Corporation
+Digital encoding of APL symbols
+Display adapter
+Double-byte character set
+EBCDIC
+EBCDIC 881
+EBCDIC 882
+EBCDIC 883
+EBCDIC 884
+EBCDIC 885
+ELOT 927
+EPROM
+EUC-JP
+Euro
+Euro sign
+Extended ASCII
+Extended Latin-8
+Extended Unix Code
+FOCAL character set
+Fieldata
+French language
+GBK (character encoding)
+GB 12052
+GB 12345
+GB 18030
+GB 2312
+GEM character set
+GOST 10859
+GSM 03.38
+Galaksija (computer)
+Gordon Letwin
+Greek alphabet
+Greek language
+HP-UX
+HP Roman
+HZ (character encoding)
+Han unification
+Hangul
+Hardware code page
+Hebrew MS-DOS
+Hebrew alphabet
+Hebrew language
+Hewlett-Packard
+Hong Kong Supplementary Character Set
+Hungarian language
+IBM
+IBM AIX
+IBM CDRA
+IBM Character Data Representation Architecture
+IBM Corporation
+IBM PC
+IBM mainframe
+IEC-P27-1
+INIS-8
+INIS character set
+ISBN (identifier)
+ISO
+ISO-646-IRV
+ISO-8859-1
+ISO-8859-10
+ISO-8859-11
+ISO-8859-12
+ISO-8859-13
+ISO-8859-14
+ISO-8859-15
+ISO-8859-16
+ISO-8859-2
+ISO-8859-3
+ISO-8859-4
+ISO-8859-5
+ISO-8859-6
+ISO-8859-7
+ISO-8859-8
+ISO-8859-9
+ISO-IR-111
+ISO-IR-169
+ISO-IR-182
+ISO-IR-197
+ISO-IR-200
+ISO-IR-68
+ISO/IEC 10367
+ISO/IEC 2022
+ISO/IEC 646
+ISO/IEC 8859
+ISO/IEC 8859-1
+ISO/IEC 8859-10
+ISO/IEC 8859-11
+ISO/IEC 8859-12
+ISO/IEC 8859-13
+ISO/IEC 8859-14
+ISO/IEC 8859-15
+ISO/IEC 8859-16
+ISO/IEC 8859-2
+ISO/IEC 8859-3
+ISO/IEC 8859-4

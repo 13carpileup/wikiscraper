@@ -1,0 +1,136 @@
+ACL2
+Abstract interpretation
+Abstract rewriting system
+Agda (programming language)
+Alias analysis
+Aliasing (computing)
+Alloy (specification language)
+Assertion (computing)
+Assertion (software development)
+Axiom
+Axiomatic semantics
+Big Step Semantics
+Binary decision diagram
+C.A.R. Hoare
+Categorical semantics
+Chain (order theory)
+Communications of the ACM
+Completeness (logic)
+Concolic execution
+Concurrency (computer science)
+Constrained Horn clauses
+Constraint solver
+Control-flow graph
+Control flow analysis
+Coq (software)
+Correctness (computer science)
+Correctness of computer programs
+Curry–Howard correspondence
+Data-flow analysis
+Denotational semantics
+Dependence analysis
+Design by contract
+Disjoint-set data structure
+Doi (identifier)
+Dynamic data-flow analysis
+Dynamic logic (modal logic)
+Dynamic program analysis
+E-graph
+Effect system
+Escape analysis
+F*
+Flowchart
+Formal methods
+Formal specification
+Formal system
+Formal verification
+Free variables and bound variables
+Fuzzing
+GitHub
+Glossary of program analysis
+HOL4
+HOL Light
+Hashcons
+Hyperproperty
+ISBN (identifier)
+Idris (programming language)
+Imperative programming
+Incorrectness logic
+Inference rule
+Integer
+Invariant (computer science)
+Invariant inference
+Isabelle/HOL
+Isabelle (proof assistant)
+John C. Reynolds
+Jump (computer science)
+KCFA (program analysis)
+KeY
+LEGO (proof assistant)
+Lambda calculus
+Lean (proof assistant)
+Linear logic
+Loop invariant
+Loop variant
+Mathematical logic
+Minimal element
+Mizar system
+Model checking
+Model of computation
+NOP (code)
+Natural deduction
+Nuprl
+Operational semantics
+Outline of program analysis
+Partial correctness
+Path explosion
+Petri net
+Pointer (computer programming)
+Pointer analysis
+Polyvariance
+Positive real numbers
+Postcondition
+Precondition
+Predicate logic
+Predicate transformer semantics
+Procedure (computer science)
+Process calculus
+Program analysis
+Program refinement
+Program slicing
+Program transformation
+Proof assistant
+Prototype Verification System
+Rice's theorem
+Robert W. Floyd
+Runtime verification
+S2CID (identifier)
+SAT solver
+SMT solver
+Safety and liveness properties
+Semantics (computer science)
+Separation logic
+Shape analysis (program analysis)
+Side effect (computer science)
+Small Step Semantics
+Software testing
+Soundness
+SourceForge
+Specification language
+State Machine
+Static program analysis
+Substitution (logic)
+Symbolic execution
+TLA+
+Taint tracking
+Temporal logic
+Termination analysis
+Termination proof
+Tony Hoare
+Total correctness
+Turing machine
+Twelf
+Type system
+Typestate analysis
+Undefined behavior
+Well-founded relation

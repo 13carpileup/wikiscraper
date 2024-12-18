@@ -1,0 +1,151 @@
+Cache invalidation
+CUDA
+Global Arrays
+Starvation (computer science)
+OpenMP
+Simultaneous and heterogeneous multithreading
+Speculative multithreading
+Unified Parallel C
+Grid computing
+General-purpose computing on graphics processing units
+Parallel computing
+Chip carrier
+Time-sharing system
+Pipeline (computing)
+Data consistency
+Parallel RAM
+Explicit parallelism
+Distributed shared memory
+Computer hardware
+Computer cluster
+Instruction pipelining
+Loose coupling
+Depreciation
+Single instruction, single data
+ISBN (identifier)
+Preemption (computing)
+Parallel Virtual Machine
+Multiprogramming
+Concurrency (computer science)
+Xeon
+Bull Gamma 60
+Process (computing)
+Cache-only memory architecture
+Hyper-threading
+Software lockout
+HPX
+High-performance computing
+Computer programming
+Shared memory
+Uniform Memory Access
+Cloud computing
+Memory-level parallelism
+Flynn's taxonomy
+Threading Building Blocks
+Message passing
+Single instruction, multiple threads
+AMD
+Bulldozer (microarchitecture)
+Chapel (programming language)
+System unit
+Computer network
+Burroughs Large Systems
+Central processing unit
+Uniform memory access
+BMDFM
+Hardware scout
+Burroughs Corporation
+TRS-80 Model 16
+Gustafson's law
+Parallel external memory
+Dataflow programming
+Multiple instruction, multiple data
+Multiprocessor system architecture
+Deadlock (computer science)
+Memory coherence
+Vector processing
+Instruction-level parallelism
+Opteron
+Stream processing
+Dryad (programming)
+Computer system
+Karp–Flatt metric
+Parallel programming model
+Non-uniform memory access
+Embarrassingly parallel
+Thread (computing)
+RaftLib
+API
+Multiple instruction, single data
+Vector processor
+Semiconductor memory
+Speedup
+Hardware acceleration
+Race condition
+Array (data structure)
+Xenix
+Commodity computer
+Main memory
+Distributed memory
+Automatic parallelization
+Gigabit Ethernet
+Loop-level parallelism
+Shared nothing architecture
+Beowulf cluster
+GPUOpen
+Dataflow architecture
+OpenCL
+Cache coherence
+Simultaneous multithreading
+ZPL (programming language)
+Temporal multithreading
+OpenACC
+Application checkpointing
+Cost efficiency
+Single instruction, multiple data
+OpenHMPP
+Motorola 68000
+IBM p690
+Distributed computing
+Bit-level parallelism
+Implicit parallelism
+Parallel Extensions
+Message Passing Interface
+Boost (C++ libraries)
+Synchronization (computer science)
+Operating system
+C++ AMP
+Random-access memory
+Fiber (computer science)
+Barrier (computer science)
+Amdahl's law
+Conflict resolution
+Data parallelism
+Computer multitasking
+Coarray Fortran
+Multi-core (computing)
+Zilog Z80
+Redundancy (engineering)
+TRS-80 Model II
+Ateji PX
+Scalability
+Asymmetric multiprocessing
+Symmetric multiprocessing
+Systolic array
+Massively parallel
+Superscalar processor
+Instruction window
+Multi-core processor
+Parallel slowdown
+Non-blocking algorithm
+Analysis of parallel algorithms
+Multithreading (computer architecture)
+Manycore processor
+Pthreads
+Intel
+Die (integrated circuit)
+ROCm
+Task parallelism
+Charm++
+Cilk
+Deterministic algorithm

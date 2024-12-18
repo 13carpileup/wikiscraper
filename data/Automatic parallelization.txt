@@ -1,0 +1,105 @@
+Alias analysis
+Aliasing (computing)
+Analyzer
+Array-access analysis
+Automatic parallelization tool
+Automatic vectorization
+Available expression
+BMDFM
+BYTE (magazine)
+Bounds-checking elimination
+COFDM
+C (programming language)
+Code generation (compiler)
+Common subexpression elimination
+Compile-time function execution
+Compiler
+Computer configuration
+Constant folding
+Control-flow analysis
+Control flow
+Data-flow analysis
+Dead-code elimination
+Dead store
+Deforestation (computer science)
+Dependence analysis
+Distributed memory
+Doi (identifier)
+Escape analysis
+Expression templates
+Fortran
+Global value numbering
+High Performance Fortran
+ISBN (identifier)
+ISSN (identifier)
+Induction variable
+Induction variable recognition and elimination
+Inline expansion
+Instruction scheduling
+Instruction selection
+Interprocedural optimization
+Iteration
+Jump threading
+Lecture Notes in Computer Science
+Live-variable analysis
+Local value numbering
+Loop-invariant code motion
+Loop fusion
+Loop interchange
+Loop inversion
+Loop nest optimization
+Loop optimization
+Loop splitting
+Loop unrolling
+Loop unswitching
+McGraw-Hill, Inc.
+Message passing
+Microprocessor
+Morgan Kaufmann
+Motion compensation
+Multi-threaded
+Multiprocessor
+Occam (programming language)
+OpenHMPP
+OpenMP
+Optimizing compiler
+Parallel processing (computing)
+Parallel rendering
+Parallelization contract
+Partial evaluation
+Peephole optimization
+Pipes and filters
+Pleasingly parallel
+Pointer analysis
+Polytope model
+Pre-processor
+Profile-guided optimization
+Program analysis (computer science)
+Reaching definition
+Register allocation
+Rematerialization
+Run time (program lifecycle phase)
+SUIF
+Scalable parallelism
+Scheduling (computing)
+SequenceL
+Shape analysis (program analysis)
+Shared memory (interprocess communication)
+Software pipelining
+Source-to-source compiler
+Source code
+Sparse conditional constant propagation
+Speculative multithreading
+Springer Verlag
+Static single-assignment form
+Strength reduction
+Symmetric multiprocessing
+Systolic array
+Tail call
+Thomas Seiller
+Token (parser)
+Transputer
+Upwards exposed uses
+Use-define chain
+Value range analysis
+Vector Fabrics, B.V.

@@ -1,0 +1,253 @@
+Abstract syntax tree
+Active-set method
+Aerospace engineering
+Affine scaling
+Algorithm
+Algorithmic paradigm
+Approximation algorithm
+Array (data structure)
+Associative array
+Augmented Lagrangian method
+Backtracking
+Backward induction
+Barrier function
+Bellman equation
+Bellman–Ford algorithm
+Berndt–Hall–Hall–Hausman algorithm
+Big-O notation
+Binary search
+Binary search tree
+Borůvka's algorithm
+Bottom-up parsing
+Branch and bound
+Branch and cut
+Breadth-first search
+Broyden–Fletcher–Goldfarb–Shanno algorithm
+Brute-force search
+Bulletin of the American Mathematical Society
+CYK algorithm
+Call-by-name
+Call-by-need
+Canonical LR parser
+Capital (economics)
+Charles DeLisi
+Charles E. Leiserson
+Charles Erwin Wilson
+Chart parser
+Checkerboard
+Clifford Stein
+Combinatorial optimization
+Common Lisp
+Comparison of optimization software
+Comparison of parser generators
+Compiler-compiler
+Computational biology
+Control theory
+Convex minimization
+Convex optimization
+Convexity in economics
+Cost-to-go function
+Criss-cross algorithm
+Cutting-plane method
+D (programming language)
+Data structure
+Davidon–Fletcher–Powell formula
+Definite clause grammar
+Depth-first search
+Deterministic parsing
+Dijkstra's algorithm
+Dinic's algorithm
+Discounting
+Divide-and-conquer algorithm
+Divide and conquer algorithm
+Doi (identifier)
+Dover Publications
+Dynamic problem
+Dynamic programming language
+Earley parser
+Economics
+Edit distance
+Edmonds–Karp algorithm
+Edsger W. Dijkstra
+Edward Prescott
+Ellipsoid method
+Engineering
+Evolutionary algorithm
+Exchange algorithm
+Fenwick tree
+Fibonacci sequence
+Flow network
+Floyd–Warshall algorithm
+Fold (higher-order function)
+Ford–Fulkerson algorithm
+Frank–Wolfe algorithm
+Function (mathematics)
+GLR parser
+Gauss–Newton algorithm
+Genetics
+George Dantzig
+Golden-section search
+Gradient
+Gradient descent
+Graph (abstract data type)
+Graph algorithm
+Graph traversal
+Greedy algorithm
+Hamilton–Jacobi–Bellman equation
+Hanoi
+Harold J. Kushner
+Hash function
+Hash table
+Heap (data structure)
+Hessian matrix
+Heuristic algorithm
+Hill climbing
+History of compiler construction
+IEEE
+ISBN (identifier)
+Inada conditions
+Integer programming
+Intertemporal choice
+Introduction to Algorithms
+Iterative method
+J (programming language)
+Karmarkar's algorithm
+Kruskal's algorithm
+LALR parser
+LALR parser generator
+LL parser
+LR parser
+Left corner parser
+Lemke's algorithm
+Levenberg–Marquardt algorithm
+Limited-memory BFGS
+Line search
+Linear programming
+Linked list
+List of algorithms
+List of data structures
+Local convergence
+Local search (optimization)
+Loss function
+MR (identifier)
+Mathematical game
+Mathematical optimization
+Matrix chain multiplication
+Matrix multiplication algorithm
+Matroid
+Memoization
+Memoize
+Mergesort
+Metaheuristic
+Minimax
+Minimum spanning tree
+Mirror descent
+Morton Kamien
+Nancy Schwartz
+Nancy Stokey
+Needleman–Wunsch algorithm
+Nelder–Mead method
+Newton's method in optimization
+Non-convexity (economics)
+Nonlinear conjugate gradient method
+Nonlinear programming
+Nucleosome
+Numerical partial differential equations
+On-Line Encyclopedia of Integer Sequences
+Online algorithm
+Operator-precedence grammar
+Operator-precedence parser
+Optimal substructure
+Optimization algorithm
+Overlapping subproblem
+PMID (identifier)
+Parallel metaheuristic
+Parse tree
+Parser combinator
+Parsing
+Parsing expression grammar
+Partial differential equation
+Penalty method
+Perl
+Physical capital
+Powell's dog leg method
+Powell's method
+Prim's algorithm
+Principle of Optimality
+Production function
+Programming language
+Prolog
+Protein folding
+Push–relabel maximum flow algorithm
+Puzzle
+Quadratic programming
+Quasi-Newton method
+Queue (abstract data type)
+Quicksort
+RAND Corporation
+Ramsey–Cass–Koopmans model
+Randomized algorithm
+Recursion
+Recursion (computer science)
+Recursive ascent parser
+Recursive descent parser
+Referentially transparent
+Reinforcement learning
+Revised simplex method
+Richard Bellman
+Robert E. Lucas
+Ronald L. Rivest
+Root-finding algorithms
+S2CID (identifier)
+Scannerless parsing
+Scheme (programming language)
+Sean Eddy
+Segment tree
+Sequence alignment
+Sequential quadratic programming
+Shift-reduce parser
+Shortest Path Faster Algorithm
+Shortest path problem
+Shunting yard algorithm
+Simple LR parser
+Simple precedence parser
+Simplex algorithm
+Simulated annealing
+Smith–Waterman algorithm
+Social welfare function
+Sorting algorithm
+Soviet Union
+Spiral optimization algorithm
+Stack (abstract data type)
+State variable
+Stochastic dynamic programming
+Stochastic programming
+Streaming algorithm
+String-searching algorithm
+String (computer science)
+Subgradient method
+Successive linear programming
+Successive parabolic interpolation
+Sweep line algorithm
+Symmetric rank-one
+Systems analysis
+Tabu search
+Tail recursive parser
+Taylor & Francis
+The Mathematical Association of America
+Thomas H. Cormen
+Top-down and bottom-up design
+Top-down parsing
+Topological sorting
+Tower of Hanoi
+Transcription factor
+Tree (data structure)
+Tree structure
+Trie
+Truncated Newton method
+Trust region
+U.S. English
+Utility
+Wayback Machine
+Wolfe conditions
+Wolfram Language

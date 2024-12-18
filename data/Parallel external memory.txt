@@ -1,0 +1,131 @@
+Gustafson's law
+List ranking
+Race condition
+Simultaneous and heterogeneous multithreading
+Computer cluster
+Karp–Flatt metric
+GPUOpen
+Cost efficiency
+Chapel (programming language)
+Random-access machine
+Parallel computing
+Synchronization (computer science)
+External memory algorithm
+Multiple instruction, single data
+Abstract machine
+Hardware scout
+Computer network
+Flynn's taxonomy
+Semiconductor memory
+Computer multitasking
+Message Passing Interface
+Multithreading (computer architecture)
+High-performance computing
+Pipeline (computing)
+Instruction window
+Cache invalidation
+Dryad (programming)
+ZPL (programming language)
+Parallel Extensions
+Fiber (computer science)
+Distributed shared memory
+ROCm
+Distributed memory
+Data parallelism
+Computer programming
+Non-uniform memory access
+Coarray Fortran
+Parallel RAM
+Distribution sort
+Analysis of parallel algorithms
+Minimum spanning tree
+CUDA
+Preemption (computing)
+Application checkpointing
+Cache-only memory architecture
+Grid computing
+Parallel Virtual Machine
+Pthreads
+Single instruction, multiple threads
+Merge sort
+Memory hierarchy
+Parallel slowdown
+Parallel random-access machine
+Dataflow architecture
+Superscalar processor
+Deadlock (computer science)
+Boost (C++ libraries)
+Memory-level parallelism
+Scalability
+Unified Parallel C
+Parallel programming model
+Charm++
+OpenACC
+C++ AMP
+Speculative multithreading
+S2CID (identifier)
+Software lockout
+Threading Building Blocks
+Selection problem
+Stream processing
+Doi (identifier)
+ISBN (identifier)
+Hardware acceleration
+Bulldozer (microarchitecture)
+Explicit parallelism
+Programming complexity
+HPX
+Thread (computing)
+Global Arrays
+Expression tree
+Massively parallel
+Task parallelism
+Embarrassingly parallel
+API
+OpenMP
+Ateji PX
+OpenCL
+Cache-aware model
+Cloud computing
+Beowulf cluster
+Dataflow programming
+Single instruction, multiple data
+Loop-level parallelism
+Deterministic algorithm
+Process (computing)
+OpenHMPP
+Distributed computing
+Automatic parallelization
+RaftLib
+Non-blocking algorithm
+Reduce (parallel pattern)
+Speedup
+Vector processor
+Amdahl's law
+Asymmetric multiprocessing
+Implicit parallelism
+Prefix sum
+Concurrency (computer science)
+Euler tour
+Cache coherence
+Shared memory
+Multiprocessing
+Simultaneous multithreading
+Cache (computing)
+Instruction-level parallelism
+Memory coherence
+Systolic array
+Symmetric multiprocessing
+Manycore processor
+Instruction pipelining
+Cilk
+Starvation (computer science)
+Computer hardware
+Multiple instruction, multiple data
+Single instruction, single data
+Temporal multithreading
+General-purpose computing on graphics processing units
+Barrier (computer science)
+Bit-level parallelism
+Array (data structure)
+Uniform memory access

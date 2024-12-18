@@ -1,0 +1,404 @@
+"Hello, World!" program
+68HC11
+A29K
+AArch64
+ARC (processor)
+ARM architecture family
+AVR32
+Abstract syntax tree
+Academic Free License
+Ada (programming language)
+Adapteva
+Alternative terms for free software
+Amsterdam Compiler Kit
+Andrew S. Tanenbaum
+Android (operating system)
+Apache License
+Apple Public Source License
+Artistic License
+Assembly language
+Assembly language assembler
+Atmel AVR
+Automatic parallelization
+Automatic vectorization
+BSD licenses
+Back end (Compiler)
+Bash (Unix shell)
+Beerware
+Benjamin Mako Hill
+Berkeley Software Distribution
+Binary code
+Blackfin
+Bootstrapping (compilers)
+Bradley M. Kuhn
+Brian Fox (programmer)
+Buffer overflow
+C++
+C++03
+C++11
+C++17
+C++20
+C++23
+C++ Standard Library
+C11 (C standard revision)
+C166
+C167
+C6x
+CHILL
+CR16
+C (Programming Language)
+C (programming language)
+Central processing unit
+Christopher W. Fraser
+Cilk Plus
+Clang
+Code generation (compiler)
+Command-line argument
+Common Development and Distribution License
+Common subexpression elimination
+Community of practice
+Comparison of free and open-source software licenses
+Comparison of free software for audio
+Comparison of open-source and closed-source software
+Comparison of open-source configuration management software
+Comparison of open-source operating systems
+Comparison of open-source wireless drivers
+Comparison of shopping cart software
+Comparison of source-code-hosting facilities
+Compiler
+Compiler optimization
+Computer architecture
+Computer programming
+Computing platform
+Contributor License Agreement
+Copyleft
+Cortus APS3
+Creative Commons license
+Cross-platform
+D10V
+D30V
+DEC Alpha
+DOS
+DSP16xx
+D (programming language)
+Dead-code elimination
+Debian Free Software Guidelines
+Defective by Design
+Definition of Free Cultural Works
+Destructor (computer science)
+Device driver
+Digital rights management
+Dreamcast
+EBPF
+EISC
+ESi-RISC
+ETRAX CRIS
+Eclipse Public License
+Electric (software)
+Embedded system
+Eric S. Raymond
+Executable
+Expression (programming)
+FORTRAN 77
+FR-V
+Federico Heinz
+File Transfer Protocol
+File size
+Flex lexical analyser
+Fork (software development)
+Fortran
+Fortran 2003
+Fortran 2008
+Fortran 95
+Free-software license
+FreeBSD
+Free Software Foundation
+Free Software Foundation Europe
+Free Software Foundation Latin America
+Free Software Foundation anti-Windows campaigns
+Free Software Foundation of India
+Free Software Movement of India
+Free and open-source graphics device driver
+Free and open-source software
+Free license
+Free software
+Free software movement
+Front end (compiler)
+Fujitsu FR
+GIMP
+GIMPLE
+GNAT
+GNAT Modified General Public License
+GNU
+GNU/Linux naming controversy
+GNU Affero General Public License
+GNU Archimedes
+GNU Autotools
+GNU Binutils
+GNU Bison
+GNU Chess
+GNU Compiler for Java
+GNU Core Utilities
+GNU Debugger
+GNU Emacs
+GNU Find Utilities
+GNU Fortran
+GNU Free Documentation License
+GNU GRUB
+GNU General Public License
+GNU Go
+GNU Guix
+GNU Health
+GNU Hurd
+GNU IceCat
+GNU Lesser General Public License
+GNU Manifesto
+GNU Multi-Precision Library
+GNU Multiple Precision Arithmetic Library
+GNU Octave
+GNU Pascal
+GNU Privacy Guard
+GNU Project
+GNU Scientific Library
+GNU Taler
+GNU TeXmacs
+GNU bison
+GNU operating system
+GNU toolchain
+GNU variants
+GNUmed
+GNUnet
+GNUstep
+GPL font exception
+GPL linking exception
+Generic programming
+Georg C. F. Greve
+Gfortran
+GitHub
+Glibc
+Global value numbering
+Gnash (software)
+Gnuzilla
+Go (programming language)
+Gratis versus libre
+Groklaw
+HC12
+HP-UX
+HP Saturn
+Heinz Heise
+Hexagon (processor)
+History of free and open-source software
+Hitachi H8
+IA-32
+IA-64
+IBM AIX
+IBM ROMP
+IOS
+IP2000
+ISBN (identifier)
+ISC license
+Identifier (computer languages)
+Imperative programming
+Instruction scheduling
+Instruction set architecture
+Intel i960
+Intermediate representation
+Jami (software)
+Java (programming language)
+Java bytecode
+Java virtual machine
+Jump threading
+LALR parser
+LLVM
+LatticeMico32
+LatticeMico8
+Lawrence Livermore National Laboratory
+Leonard H. Tower Jr.
+Lexical analysis
+License proliferation
+LilyPond
+Link-time optimization
+Linker (computing)
+Linux
+Linux-libre
+Linux kernel
+Lisp (programming language)
+List of GNU packages
+List of commercial open-source applications and services
+List of compilers
+List of formerly free and open-source software
+List of formerly proprietary software
+List of free-software events
+List of free and open-source Android applications
+List of free and open-source iOS applications
+List of free and open-source software organizations
+List of free and open-source software packages
+List of free and open-source web applications
+List of free software project directories
+List of free television software
+List of office suites
+List of open-source bioinformatics software
+List of open-source codecs
+List of open-source health software
+List of open-source routing platforms
+List of open-source software for mathematics
+List of open-source video games
+Long-term support
+Loop optimization
+Lowering (computer science)
+M16C
+M32C
+M32R
+M68k
+MCORE
+MIL-STD-1750A
+MIPS architecture
+MIT License
+MMIX
+MN10200
+MN10300
+MPFR
+MSP430
+MacOS
+Machine code
+Massachusetts Institute of Technology
+MeP
+MicroBlaze
+Microsoft Open Specification Promise
+Microsoft Windows
+MinGW
+Modula-2
+Modula-3
+Motorola 68000
+Motorola 6809
+Motorola 88000
+Mozilla Public License
+Mozilla software rebranded by Debian
+Multiple Precision Complex
+NEC SX architecture
+NS320xx
+Nested function
+Nios II
+Nios embedded processor
+Nvidia GPU
+Nvidia PTX
+Objective-C
+Objective-C++
+Open-core model
+Open-source-software movement
+Open-source hardware
+Open-source license
+Open-source software
+Open-source software advocacy
+Open-source software development
+Open-source software security
+OpenACC
+OpenMP
+OpenRISC
+Operating system
+Optimization (computer science)
+Optimizing compiler
+Outline of free software
+P5 (microarchitecture)
+PA-RISC
+PDP-10
+PDP-11
+PIC30
+Parallax Propeller
+Parsing
+Partial-redundancy elimination
+Pascal (programming language)
+Pastel (programming language)
+Pattern matching
+Pentium
+Perl
+Permissive software license
+Peter H. Salus
+PlayStation 2
+Plug-in (computing)
+Porting
+PowerPC
+Power ISA
+Preprocessor
+Profile-guided optimization
+Program optimization
+Programmer
+Programming language
+Proprietary device driver
+Proprietary firmware
+Proprietary software
+Public domain
+Python License
+Python Software Foundation License
+R8C
+RISC-V
+RL78
+R (programming language)
+Recursive descent parser
+Red Hat
+Register transfer language
+Repository (version control)
+Retargetable compiler
+Revolution OS
+Richard Stallman
+Rust (programming language)
+SCO–Linux disputes
+SPARC
+Scalar replacement of aggregates
+Semantic analysis (compilers)
+Shared Source Initiative
+Simson Garfinkel
+Sleepycat License
+Software categories
+Software license
+Software patents and free software
+Software release life cycle
+Software transactional memory
+Solaris (operating system)
+Source-available software
+Source code
+Source file
+Source lines of code
+Sparse conditional constant propagation
+Static code analysis
+Static single-assignment form
+Stormy16
+SunOS
+Sun Microsystems
+SuperH
+Symbian
+System/370
+System/390
+TMS9900
+Temporary variable
+The Cathedral and the Bazaar
+The Free Software Definition
+The Open Source Definition
+Three-address code
+Timeline of free and open-source software
+Tivoization
+TriCore
+Trusted Computing
+Typeof
+UTF-8
+Unicode characters
+Unified Parallel C
+Unix
+Unix-like
+Unlicense
+Usenet newsgroup
+V850
+VAX
+VHDL
+Video game console
+Vrije Universiteit Amsterdam
+WTFPL
+William John Sullivan
+X86
+X86-64
+X86 64
+Xtensa
+Z8000
+ZPU (microprocessor)
+ZSeries
+Zlib License

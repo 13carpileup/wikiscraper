@@ -1,0 +1,500 @@
+0
+1
+110 film
+126 film
+135 film
+2
+3
+4
+5
+6
+7
+8
+9
+@
+A
+A440 (pitch standard)
+ABICOMP character set
+ALGOL 60
+ANSEL
+ANSI C
+ANSI escape code
+ARIB STD B24 character set
+ASCII
+ASMO 449
+ATASCII
+Accuracy and precision
+Acute accent
+Ada Semantic Interface Specification
+Advanced Video Coding
+Ampersand
+Amstrad CP/M Plus character set
+Amstrad CPC character set
+Antimagnetic watch
+Apostrophe
+Apple II character set
+ArmSCII
+Asterisk
+Atari ST character set
+B
+BCD (character encoding)
+Backslash
+Baudot code
+Big5
+Binary Ordered Compression for Unicode
+Bitstream International Character Set
+BraSCII
+Breve
+British Standard Pipe
+Business Process Model and Notation
+C
+C++
+C0 and C1 control codes
+CAN bus
+CCSID
+CDC display code
+CER-GS
+CESU-8
+CHILL
+CNS 11643
+COBOL
+COLLADA
+CSX+ Indic character set
+CSX Indic character set
+CS Indic character set
+CWI-2
+C Sharp (programming language)
+Caret
+Casio calculator character sets
+Cedilla
+Character encoding
+Character encodings in HTML
+Charset detection
+Chinese Character Code for Information Interchange
+Chinese telegraph code
+Cloud Infrastructure Management Interface
+Code page
+Code page 1006
+Code page 1008
+Code page 1009
+Code page 1010
+Code page 1012
+Code page 1013
+Code page 1014
+Code page 1015
+Code page 1016
+Code page 1017
+Code page 1018
+Code page 1019
+Code page 1020
+Code page 1021
+Code page 1023
+Code page 1034
+Code page 1040
+Code page 1042
+Code page 1043
+Code page 1044
+Code page 1046
+Code page 1052
+Code page 1053
+Code page 1054
+Code page 1055
+Code page 1056
+Code page 1058
+Code page 1098
+Code page 1101
+Code page 1102
+Code page 1103
+Code page 1104
+Code page 1105
+Code page 1106
+Code page 1107
+Code page 1115
+Code page 1116
+Code page 1117
+Code page 1118
+Code page 1124
+Code page 1127
+Code page 1133
+Code page 1169
+Code page 1287
+Code page 1288
+Code page 3846
+Code page 437
+Code page 668
+Code page 708
+Code page 720
+Code page 737
+Code page 770
+Code page 773
+Code page 775
+Code page 776
+Code page 777
+Code page 778
+Code page 850
+Code page 851
+Code page 852
+Code page 853
+Code page 855
+Code page 856
+Code page 857
+Code page 858
+Code page 859
+Code page 860
+Code page 861
+Code page 862
+Code page 863
+Code page 864
+Code page 865
+Code page 866
+Code page 867
+Code page 868
+Code page 869
+Code page 895
+Code page 896
+Code page 897
+Code page 899
+Code page 903
+Code page 904
+Code page 912
+Code page 915
+Code page 921
+Code page 922
+Code page 932 (IBM)
+Code page 932 (Microsoft Windows)
+Code page 936 (IBM)
+Code page 936 (Microsoft Windows)
+Code page 942
+Code page 949 (IBM)
+Code page 950
+Code page 951
+Colon (punctuation)
+Comma (punctuation)
+Common Criteria
+Common Language Infrastructure
+Common Logic
+Common Object Request Broker Architecture
+Comparison of Unicode encodings
+Compucolor II character set
+Computer Graphics Metafile
+Control character
+Cooke and Wheatstone telegraph
+Cork encoding
+Curly brackets
+Currency sign (generic)
+D
+DEC Hebrew
+DEC RADIX 50
+DEC Special Graphics
+DEC Technical Character Set
+DG International
+DICOM
+DIN 66003
+DIN 91379
+DKOI
+Degree symbol
+Delivery Multimedia Integration Framework
+Diaeresis (diacritic)
+Digital Equipment Corporation
+Digital encoding of APL symbols
+Digital object identifier
+Division sign
+Document Style Semantics and Specification Language
+Dollar sign
+Dot (diacritic)
+Dotless I
+Dynamic Adaptive Streaming over HTTP
+E
+EBCDIC
+ECMA-94
+ECMAScript
+ECMAScript for XML
+ELOT 927
+EXPRESS (data modeling language)
+English language
+Equal-loudness contour
+Equals sign
+Esperanto
+Essential Video Coding
+Exclamation mark
+Extended Latin-8
+Extended Unix Code
+F
+FDI World Dental Federation notation
+FOCAL character set
+FTAM
+Fiber Distributed Data Interface
+Fieldata
+File Allocation Table
+Film speed
+Flowchart
+Fuel oil
+Full BASIC
+Full stop
+Fuse (automotive)
+G
+GBK (character encoding)
+GB 12052
+GB 12345
+GB 18030
+GB 2312
+GEM character set
+GOST 10859
+GSM 03.38
+Galaksija (computer)
+Geography Markup Language
+Geospatial metadata
+German language
+Graph Query Language
+Graphical Kernel System
+Greater-than sign
+Guidelines for the Definition of Managed Objects
+H
+HP Roman
+HTML
+HZ (character encoding)
+Han Xin code
+Han unification
+Hardware code page
+Hazard symbol
+Hole punch
+Hong Kong Supplementary Character Set
+Horsepower
+Hot shoe
+Hyphen-minus
+I
+IATF 16949
+IBM AIX
+IEC-P27-1
+INIS-8
+INIS character set
+IS-IS
+ISBN
+ISLISP
+ISO-8859-1
+ISO-8859-8-I
+ISO-IR
+ISO-IR-111
+ISO-IR-169
+ISO-IR-182
+ISO-IR-197
+ISO-IR-200
+ISO-IR-68
+ISO-TimeML
+ISO/IEC 10116
+ISO/IEC 10367
+ISO/IEC 10967
+ISO/IEC 11179
+ISO/IEC 11404
+ISO/IEC 11801
+ISO/IEC 12207
+ISO/IEC 14443
+ISO/IEC 14651
+ISO/IEC 15288
+ISO/IEC 15504
+ISO/IEC 15693
+ISO/IEC 15897
+ISO/IEC 17024
+ISO/IEC 17025
+ISO/IEC 18014
+ISO/IEC 19752
+ISO/IEC 19770
+ISO/IEC 19794-5
+ISO/IEC 20000
+ISO/IEC 2022
+ISO/IEC 21827
+ISO/IEC 27000
+ISO/IEC 27000-series
+ISO/IEC 27001
+ISO/IEC 27002
+ISO/IEC 27005
+ISO/IEC 27006
+ISO/IEC 38500
+ISO/IEC 42010
+ISO/IEC 4909
+ISO/IEC 5218
+ISO/IEC 6429
+ISO/IEC 646
+ISO/IEC 6523
+ISO/IEC 7064
+ISO/IEC 7810
+ISO/IEC 7811
+ISO/IEC 7812
+ISO/IEC 7813
+ISO/IEC 7816
+ISO/IEC 80000
+ISO/IEC 8652
+ISO/IEC 8859
+ISO/IEC 8859-1
+ISO/IEC 8859-10
+ISO/IEC 8859-11
+ISO/IEC 8859-12
+ISO/IEC 8859-13
+ISO/IEC 8859-14
+ISO/IEC 8859-15
+ISO/IEC 8859-16
+ISO/IEC 8859-2
+ISO/IEC 8859-4
+ISO/IEC 8859-5
+ISO/IEC 8859-6
+ISO/IEC 8859-7
+ISO/IEC 8859-8
+ISO/IEC 8859-9
+ISO/IEC 9126
+ISO/IEC 9529
+ISO/IEC 9797-1
+ISO/IEC 9995
+ISO/IEC TR 12182
+ISO/IEEE 11073
+ISO/TR 11941
+ISO 1
+ISO 1000
+ISO 10006
+ISO 10007
+ISO 10160
+ISO 10161
+ISO 10218
+ISO 10303
+ISO 10303-21
+ISO 10303-22
+ISO 10303-28
+ISO 10628
+ISO 10962
+ISO 11170
+ISO 11783
+ISO 11784 and ISO 11785
+ISO 11940
+ISO 11940-2
+ISO 11992
+ISO 12006
+ISO 128
+ISO 13399
+ISO 13406-2
+ISO 13485
+ISO 13490
+ISO 13567
+ISO 13584
+ISO 14000
+ISO 14031
+ISO 14224
+ISO 14617
+ISO 14644
+ISO 14698
+ISO 14971
+ISO 15022
+ISO 15189
+ISO 15398
+ISO 15686
+ISO 15919
+ISO 15924
+ISO 15926
+ISO 15926 WIP
+ISO 1629
+ISO 16750
+ISO 17100
+ISO 1745
+ISO 18245
+ISO 19011
+ISO 19092-1
+ISO 19092-2
+ISO 19114
+ISO 19439
+ISO 19600
+ISO 2
+ISO 20022
+ISO 20121
+ISO 2014
+ISO 2015
+ISO 2033
+ISO 20400
+ISO 2047
+ISO 21001
+ISO 2145
+ISO 2146
+ISO 21500
+ISO 216
+ISO 217
+ISO 22000
+ISO 22300
+ISO 22301
+ISO 22395
+ISO 233
+ISO 25178
+ISO 259
+ISO 25964
+ISO 26000
+ISO 26262
+ISO 2709
+ISO 2711
+ISO 2788
+ISO 28000
+ISO 2848
+ISO 2852
+ISO 2921
+ISO 31
+ISO 31-0
+ISO 31-1
+ISO 31-10
+ISO 31-11
+ISO 31-12
+ISO 31-13
+ISO 31-3
+ISO 31-4
+ISO 31-5
+ISO 31-6
+ISO 31-7
+ISO 31-8
+ISO 31-9
+ISO 31000
+ISO 3103
+ISO 3166
+ISO 3166-1
+ISO 3166-2
+ISO 3166-3
+ISO 3307
+ISO 37001
+ISO 3864
+ISO 3977
+ISO 4
+ISO 4031
+ISO 4157
+ISO 4165
+ISO 4217
+ISO 45001
+ISO 50001
+ISO 5426
+ISO 5427
+ISO 5428
+ISO 55000
+ISO 56000
+ISO 5775
+ISO 5776
+ISO 5964
+ISO 6344
+ISO 6346
+ISO 6385
+ISO 639
+ISO 639-1
+ISO 639-2
+ISO 639-3
+ISO 639-5
+ISO 639-6
+ISO 6438
+ISO 657
+ISO 668
+ISO 6709
+ISO 6862
+ISO 690
+ISO 6943
+ISO 7001
+ISO 7002
+ISO 7010
+ISO 7027
+ISO 704
+ISO 7200
+ISO 732
+ISO 7637
+ISO 7736
+ISO 8000
+ISO 8178
+ISO 8373

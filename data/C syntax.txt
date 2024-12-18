@@ -1,0 +1,222 @@
+ANSI C
+Alef (programming language)
+Amsterdam Compiler Kit
+Anjuta
+Automatic variable
+BCPL
+Basic Multilingual Plane
+Ben Klemens
+Bionic (software)
+Bit field
+Block (programming)
+Blocks (C language extension)
+Borland Turbo C
+Bounds checking
+Branch (computer science)
+Brian W. Kernighan
+Byte
+C++
+C11 (C standard revision)
+C17 (C standard revision)
+C23 (C standard revision)
+C89 (C version)
+C99
+CLion
+C (programming language)
+C POSIX library
+C Sharp (programming language)
+C character classification
+C data types
+C date and time functions
+C dynamic memory allocation
+C file input/output
+C mathematical functions
+C preprocessor
+C standard library
+C string handling
+C trigraph
+Central processing unit
+Character set
+Character string
+Clang
+CodeLite
+Command line
+Comment (computer programming)
+Comparison of Pascal and C
+Compatibility of C and C++
+Compiler
+Complex data type
+Computer program
+Computer programming
+Const (computer programming)
+Coroutine
+D (programming language)
+Dangling pointer
+Data abstraction
+Data hiding
+Data padding
+Data structure alignment
+Data type
+Decimal
+Decimal notation
+Decimal scientific notation
+Dennis Ritchie
+Dereference operator
+Dietlibc
+Duff's device
+Dynamic allocation
+EBCDIC
+E notation
+Eclipse (software)
+Embedded C
+Embedded GLIBC
+Entry point
+Enumerated type
+Escape character
+Escape sequences in C
+Examples of anonymous functions
+Expression (mathematics)
+Extended ASCII
+External variable
+Float.h
+Floating-point arithmetic
+Fortran
+Free-form language
+Function (programming)
+Function pointer
+GNOME Builder
+GNU Compiler Collection
+GOTO
+Geany
+Glibc
+Go (programming language)
+Grand Central Dispatch
+Header file
+Hexadecimal
+Hexadecimal floating-point constant
+Hybris (software)
+IBM System z10
+IEEE floating-point
+ISBN (identifier)
+ISO C standard library
+Identifier
+If statement
+Iliffe vector
+Include directive
+Indentation style
+Instruction set
+Integer
+Integer (computer science)
+Integral type
+Integrated development environment
+Intel C++ Compiler
+Iteration
+Jump table
+KDevelop
+Klibc
+LCC (compiler)
+Label (programming language)
+Lexical analysis
+Limbo (programming language)
+Limits.h
+Linker (computing)
+Linux
+List of C-family programming languages
+List of C compilers
+MISRA C
+Malloc
+Maximal munch
+Memory-mapped I/O
+Microsoft Visual C++
+Microsoft Visual Studio Express
+Microsoft Windows
+Microsoft Windows library files
+Musl
+Nested function
+NetBeans
+Newlib
+Norcroft C compiler
+Null pointer
+Null terminating character
+O'Reilly Media
+OSType
+Object code
+Objective-C
+Octal
+Ones' complement
+Operating system
+Operators in C and C++
+Optimizing compiler
+Parameter
+Pascal (programming language)
+Pass by reference
+Pass by value
+Plan 9 from Bell Labs
+Pointer arithmetic
+Portable C Compiler
+Preprocessing directive
+Printf
+Printf format string
+Putty (SSH)
+Read-only memory
+Real data type
+Real number
+Realloc
+Recursion (computer science)
+Register (computing)
+Register (keyword)
+Reserved word
+Return statement
+Return type
+Rodata
+Row-major order
+Scanf
+Scope (programming)
+Selection statement
+Sequence point
+Sign-and-magnitude
+Signal (computing)
+Signed number representations
+Signedness
+Simon Tatham
+Sizeof
+Small Device C Compiler
+Standard library
+Static analyzer
+Static variable
+Stdarg.h
+Stdbool.h
+Stdint.h
+Stdlib.h
+String (computer science)
+String literal
+String literal concatenation
+Struct (C programming language)
+Subroutine
+Surrogate pair
+Switch statement
+Syntactic sugar
+Syntax (programming languages)
+Thread-local storage
+Tiny C Compiler
+Two's complement
+Type qualifier
+Typedef
+UClibc
+UTF-16
+UTF-32
+UTF-8
+Undefined behavior
+Union type
+Unix
+Vala (programming language)
+Variable-length array
+Variable-width encoding
+Variable (programming)
+Visual C++
+Visual Studio
+Volatile (computer programming)
+Watcom C/C++
+While loop
+Wide character
+Zero-based indexing

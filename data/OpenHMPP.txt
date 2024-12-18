@@ -1,0 +1,128 @@
+Heterogeneous computing
+Amdahl's law
+Unified Parallel C
+Fortran
+C (programming language)
+Ateji PX
+Grid computing
+Cache-only memory architecture
+Temporal multithreading
+Dataflow architecture
+Static variable
+Pure function
+Data parallelism
+Pointer aliasing
+National Institute for Research in Computer Science and Control
+Explicit parallelism
+Parallel programming model
+Remote procedure call
+Single instruction, multiple data
+Hardware accelerator
+Bulldozer (microarchitecture)
+Simultaneous and heterogeneous multithreading
+ROCm
+Loop-level parallelism
+Beowulf cluster
+Embarrassingly parallel
+OpenACC
+HPX
+Computer network
+Massively parallel
+Simultaneous multithreading
+Analysis of parallel algorithms
+Regular expression
+Charm++
+Global Arrays
+Computer programming
+Uniform memory access
+Variadic function
+Multiple instruction, single data
+Pipeline (computing)
+Hardware acceleration
+Manycore processor
+Multithreading (computer architecture)
+Memory coherence
+Non-blocking algorithm
+Parallel Virtual Machine
+Chapel (programming language)
+French National Centre for Scientific Research
+Array (data structure)
+Vector processor
+RaftLib
+Synchronization (computer science)
+Gustafson's law
+Barrier (computer science)
+Superscalar processor
+Stream processing
+Implicit parallelism
+Instruction-level parallelism
+Instruction window
+Speedup
+High-performance computing
+Stdarg.h
+Parallel computing
+GPGPU
+Cost efficiency
+Computer hardware
+Dryad (programming)
+Parallel external memory
+Hardware scout
+Pthreads
+Multiprocessing
+Message Passing Interface
+Computer cluster
+OpenCL
+Instruction pipelining
+Flynn's taxonomy
+Process (computing)
+General-purpose computing on graphics processing units
+Bit-level parallelism
+Single instruction, multiple threads
+Thread (computing)
+University of Rennes 1
+Fiber (computer science)
+CUDA
+Cache invalidation
+Computer multitasking
+Cilk
+Semiconductor memory
+Multiple instruction, multiple data
+Task parallelism
+Deadlock (computer science)
+Distributed computing
+Concurrency (computer science)
+Parallel slowdown
+Starvation (computer science)
+Speculative multithreading
+Boost (C++ libraries)
+Symmetric multiprocessing
+Preemption (computing)
+Memory-level parallelism
+Cache coherence
+Shared memory
+Volatile variable
+Non-uniform memory access
+Systolic array
+Coarray Fortran
+Distributed shared memory
+OpenMP
+Parallel RAM
+Race condition
+C++ AMP
+Application checkpointing
+Software lockout
+Scalability
+Automatic parallelization
+Asymmetric multiprocessing
+Threading Building Blocks
+Distributed memory
+Single instruction, single data
+Aliasing (computing)
+Cloud computing
+ZPL (programming language)
+Deterministic algorithm
+Karp–Flatt metric
+GPUOpen
+API
+Dataflow programming
+Parallel Extensions

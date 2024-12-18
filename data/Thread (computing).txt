@@ -1,0 +1,314 @@
+.NET Framework
+ACCU (organisation)
+AMD
+API
+Abraham Silberschatz
+Address space
+Amdahl's law
+Analysis of parallel algorithms
+Andrew S. Tanenbaum
+Application checkpointing
+Application programming interface
+Array (data structure)
+Asymmetric multiprocessing
+Ateji PX
+Athlon 64 X2
+Automatic parallelization
+Await
+Barrier (computer science)
+Beginthread
+Beowulf cluster
+Birkhäuser Verlag
+Bit-level parallelism
+Blocking (computing)
+Boost (C++ libraries)
+Booting
+Bulldozer (microarchitecture)
+Bus error
+C++
+C++ AMP
+CPython
+CUDA
+C (programming language)
+Cache-only memory architecture
+Cache coherence
+Cache invalidation
+Call stack
+Central processing unit
+Chapel (programming language)
+Charm++
+Cilk
+Clone (Linux system call)
+Cloud computing
+Coarray Fortran
+Command-line interface
+Command (computing)
+Communicating sequential processes
+Comparison of operating systems
+Comparison of user features of operating systems
+Compute kernel
+Computer architecture
+Computer cluster
+Computer hardware
+Computer multitasking
+Computer network
+Computer program
+Computer programming
+Computer science
+Computer storage
+Concurrency (computer science)
+Concurrent computation
+Condition variables
+Context switch
+Context switching
+Cooperative multitasking
+Cooperative multithreading
+Coroutine
+Cost efficiency
+Coupling (computer science)
+Cray MTA-2
+Critical section
+Cross-platform
+Data parallel computation
+Data parallelism
+Dataflow architecture
+Dataflow programming
+Deadlock (computer science)
+Defragmentation
+Deterministic algorithm
+Device driver
+Device file
+Disk operating system
+Disk partitioning
+Distributed computing
+Distributed memory
+Distributed operating system
+Distributed shared memory
+Doi (identifier)
+Dr. Dobb's Journal
+DragonFly BSD
+Dryad (programming)
+Edward A. Lee
+Embarrassingly parallel
+Embedded operating system
+Execution (computing)
+Exokernel
+Explicit parallelism
+Fiber (computer science)
+File attribute
+File system
+Fixed-priority pre-emptive scheduling
+Flynn's taxonomy
+Forensic software engineering
+FreeBSD
+Functional programming
+GNU C Library
+GNU Portable Threads
+GPUOpen
+General-purpose computing on graphics processing units
+General protection fault
+Glasgow Haskell Compiler
+Global Arrays
+Global interpreter lock
+Global variable
+Green threads
+Grid computing
+Gustafson's law
+HPX
+Handle (computing)
+Hardware abstraction
+Hardware acceleration
+Hardware description language
+Hardware scout
+Hardware thread
+Haskell (programming language)
+Herb Sutter
+High-level programming language
+High-performance computing
+History of operating systems
+Hobbyist operating system
+Hybrid kernel
+Hyper-threading
+IOS
+ISBN (identifier)
+Implicit parallelism
+Inode
+Instruction-level parallelism
+Instruction pipelining
+Instruction window
+Intel
+Inter-process communication
+Interprocess communication
+Interrupt
+Java (programming language)
+Jerry Saltzer
+Journaling file system
+Just enough operating system
+Karp–Flatt metric
+Kernel (operating system)
+Leslie Lamport
+Light-weight process
+Linux
+LinuxThreads
+List of operating systems
+Live CD
+Live USB
+Loadable kernel module
+Lock (computer science)
+Lock convoy
+Loop-level parallelism
+MacOS
+Manycore
+Manycore processor
+Massively parallel
+Memory-level parallelism
+Memory coherence
+Memory management
+Memory management (operating systems)
+Memory paging
+Memory protection
+Message Passing Interface
+Message passing
+Microkernel
+Mobile operating system
+Monitor (synchronization)
+Monolithic kernel
+Multi-core
+Multi-core (computing)
+Multikernel
+Multilevel feedback queue
+Multiple instruction, multiple data
+Multiple instruction, single data
+Multiprocessing
+Multiprocessor
+Multithreading (computer architecture)
+Multithreading (computer hardware)
+Mutex
+Mutual exclusion
+Native POSIX Thread Library
+NetBSD
+Network operating system
+Non-blocking I/O
+Non-blocking algorithm
+Non-uniform memory access
+Non-volatile memory
+OS/2
+OS/360
+OS/360 and successors
+Object-oriented operating system
+OpenACC
+OpenCL
+OpenHMPP
+OpenMP
+Operating system
+Overload (magazine)
+PL/I
+PM2
+POSIX Threads
+Parallel Extensions
+Parallel RAM
+Parallel Virtual Machine
+Parallel computing
+Parallel external memory
+Parallel programming model
+Parallel slowdown
+Pentium 4
+Pentium D
+Pipeline (computing)
+Preboot Execution Environment
+Preemption (computing)
+Preemptive multithreading
+Priority inversion
+Process.h
+Process (computing)
+Process control block
+Process isolation
+Process management (computing)
+Processor (computing)
+Processor register
+Program counter
+Programmer
+Protection ring
+Protothreads
+Pthreads
+Python (programming language)
+ROCm
+Race condition
+RaftLib
+Real-time operating system
+Rendezvous problem
+Resource (computer science)
+Round-robin scheduling
+Ruby MRI
+Rump kernel
+Run to completion scheduling
+Runtime system
+S2CID (identifier)
+Scalability
+Scheduler activations
+Scheduling (computing)
+Segmentation fault
+Semantics (computer science)
+Semaphore (programming)
+Semiconductor memory
+Shared memory
+Shared memory (interprocess communication)
+Shell (computing)
+Shortest job next
+Simultaneous and heterogeneous multithreading
+Simultaneous multithreading
+Single instruction, multiple data
+Single instruction, multiple threads
+Single instruction, single data
+Software lockout
+Solaris (operating system)
+Speculative multithreading
+Speedup
+Spinlock
+Starvation (computer science)
+State (computer science)
+State Threads
+Stream processing
+Subroutine
+SunOS
+Supercomputer operating system
+Superscalar processor
+Symmetric multiprocessing
+Synchronization (computer science)
+Synchronization primitive
+System resource
+Systolic array
+Task parallelism
+Tcl
+Temporal multithreading
+Thread-local storage
+Thread pool pattern
+Thread safety
+Threaded code
+Threading Building Blocks
+Time-sharing
+Timeline of operating systems
+Translation lookaside buffer
+Unified Parallel C
+Uniform memory access
+Unikernel
+Unix
+Unix signals
+Usage share of operating systems
+User interface
+User space
+User space and kernel space
+Vector processor
+Verilog
+Victor A. Vyssotsky
+Virtual file system
+Virtual machine
+Virtual memory
+Virtual tape library
+Vkernel
+Win32
+Win32 Thread Information Block
+Windows NT
+X86
+Yield (multithreading)
+ZPL (programming language)

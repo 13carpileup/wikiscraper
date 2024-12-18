@@ -1,0 +1,318 @@
+.X (Human68K)
+.exe
+A.out
+ACM Computing Classification System
+Address space layout randomization
+Algorithm
+Algorithm design
+Algorithmic efficiency
+Amiga Hunk
+Analysis of algorithms
+Analytical Engine
+Application Programming Interface
+Application binary interface
+Application security
+Application server
+Ar (file format)
+Arm Image Format
+Artificial intelligence
+Aspect-oriented programming
+Automata theory
+Automated planning and scheduling
+BSD
+Binary-code compatibility
+Bundle (macOS)
+Byte code
+C++ Standard Library
+CMD file (CP/M)
+COBOL
+COFF
+COM file
+CORBA
+C (programming language)
+C standard library
+Call stack
+Calling convention
+Charles Babbage
+Class (computer programming)
+Class (computer science)
+Code reuse
+Comparison of executable file formats
+Compile time
+Compiled language
+Compiler
+Compiler construction
+Component Library for Cross Platform
+Component Object Model
+Component object model
+Computability theory
+Computational biology
+Computational chemistry
+Computational complexity
+Computational complexity theory
+Computational engineering
+Computational geometry
+Computational mathematics
+Computational physics
+Computational social science
+Computer accessibility
+Computer animation
+Computer architecture
+Computer data storage
+Computer graphics
+Computer hardware
+Computer network
+Computer program
+Computer science
+Computer security
+Computer vision
+Computing
+Computing platform
+Concurrency (computer science)
+Concurrent computing
+Control theory
+Control variable (programming)
+Cross-validation (statistics)
+Cryptography
+Cyberwarfare
+DOS MZ executable
+Data mining
+Data set (IBM mainframe)
+Data structure alignment
+Database
+David Wheeler (computer scientist)
+Decision support system
+Dependability
+Digital Equipment Corporation
+Digital art
+Digital library
+Digital marketing
+Discrete mathematics
+Distributed Objects Everywhere
+Distributed artificial intelligence
+Distributed computing
+Document management system
+Doi (identifier)
+Domain-specific language
+Dynamic-link library
+Dynamic library
+Dynamic linker
+E-commerce
+ECOFF
+EDSAC
+Educational technology
+Electronic design automation
+Electronic publishing
+Electronic voting
+Embedded system
+Enterprise JavaBean
+Enterprise information system
+Enterprise software
+Executable
+Executable and Linkable Format
+Executable files
+FORTRAN
+Filing cabinet
+Foreign function interface
+Form factor (design)
+Formal language
+Formal methods
+Framework Class Library
+GOFF
+Generic programming
+Geographic information system
+Graphics processing unit
+Green computing
+Harcourt Brace
+Hardware acceleration
+Hardware security
+Health informatics
+Herman Goldstine
+Human–computer interaction
+IAS machine
+IBM
+IBM System/360
+ISBN (identifier)
+Image
+Image compression
+Information retrieval
+Information security
+Information system
+Information theory
+Instance (computer science)
+Integrated circuit
+Integrated development environment
+Interaction design
+Interface (computing)
+Interpreter (computing)
+Intrusion detection system
+JOVIAL
+Jar (file format)
+Java (programming language)
+Java Class Library
+Jean E. Sammet
+John R. Levine
+John von Neumann
+Knowledge representation and reasoning
+Language binding
+Library software
+Libtool
+Link time
+Linker (computing)
+List of computer size categories
+Load-time
+Load time
+Loader (computing)
+Logic in computer science
+MacOS
+Mach-O
+Machine code
+Machine learning
+Magnetic wire recording
+Mainframe computer
+Mathematical analysis
+Mathematical optimization
+Mathematical software
+Maurice Wilkes
+Memory segment
+Memory segmentation
+Method (computer science)
+Method stub
+Microsoft Windows
+Middleware
+Minicomputer
+Mixed reality
+Model of computation
+Modeling language
+Modular programming
+Morgan Kaufmann
+Multi-task learning
+Multimedia database
+Multiprocessing
+Multithreading (computer architecture)
+Name mangling
+Natural language processing
+NeXT
+Network architecture
+Network performance
+Network protocol
+Network scheduler
+Network security
+Network service
+Networking hardware
+New Executable
+Numerical analysis
+OCLC (identifier)
+OS/360 Object File Format
+OS/360 and successors
+Object-oriented programming
+ObjectBroker
+Object Linking and Embedding
+Object code
+Object file
+Ogg Vorbis
+Opaque pointer
+Open-source software
+Operating system
+Operations research
+Outline of computer science
+Package repository
+Parallel computing
+Peripheral
+Persistence (computer science)
+Philosophy of artificial intelligence
+Photograph manipulation
+Plug-in (computing)
+Portable Distributed Objects
+Portable Executable
+Position-independent code
+Preferred Executable Format
+Prelink
+Printed circuit board
+Probability
+Process control
+Processor (computing)
+Program lifecycle phase
+Programming language
+Programming language theory
+Programming paradigm
+Programming team
+Programming tool
+Punched tape
+Quantum Computing
+Randomized algorithm
+Real-time computing
+Reinforcement learning
+Relocatable Object Module Format
+Relocation (computer science)
+Relocation (computing)
+Remote procedure call
+Rendering (computer graphics)
+Requirements analysis
+Runtime (program lifecycle phase)
+Runtime library
+S2CID (identifier)
+Security hacker
+Security service (telecommunication)
+Semantics (computer science)
+Shared library
+Simula
+Smalltalk
+Social computing
+Social software
+Software build
+Software configuration management
+Software construction
+Software deployment
+Software design
+Software development
+Software development process
+Software engineering
+Software framework
+Software library
+Software maintenance
+Software quality
+Software repository
+Solid modeling
+Soname
+Source Forge
+Source code
+Standard library
+Stanley Gill
+Static build
+Static library
+Statistics
+Stochastic computing
+Subprogram
+Subroutine
+Sun Microsystems
+Supervised learning
+Symbolic links
+System Object Model
+System call
+System image
+System on a chip
+System resource
+Text string
+The Preparation of Programs for an Electronic Digital Computer
+Theoretical computer science
+Theory of computation
+Type checking
+UNIX
+Ubiquitous computing
+University of Arizona
+Unix-like
+Unsupervised learning
+Very Large Scale Integration
+Video game
+Virtual machine
+Virtual memory
+Virtual method table
+Virtual reality
+Visual Component Library
+Visualization (graphics)
+Wayback Machine
+Word processor
+World Wide Web
+XCOFF
+Year 2038 problem

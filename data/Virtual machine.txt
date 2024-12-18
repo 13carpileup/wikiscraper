@@ -1,0 +1,439 @@
+.NET Framework
+86Box
+ACM Comput. Surv.
+ACM Computing Classification System
+ACM Queue
+Abstraction layer
+Adaptive Domain Environment for Operating Systems
+Adaptive optimization
+Addison-Wesley
+Adele Goldberg (computer scientist)
+Advanced Micro Devices
+Ahead-of-time compilation
+Alan Curtis Kay
+Algorithm
+Algorithm design
+Algorithmic efficiency
+Amazon Machine Image
+Amazon Web Services
+Analysis of algorithms
+Android Runtime
+Application security
+Application virtual machine
+Application virtualization
+Artificial intelligence
+Association for Computing Machinery
+Automata theory
+Automated planning and scheduling
+BCPL
+BEAM (Erlang virtual machine)
+BIOS
+Backup
+Basilisk II
+Bhyve
+BlueStacks
+Bochs
+Bytecode
+CP-40
+CP-67
+CP/CMS
+CPU
+CPython
+C (programming language)
+Ceedo
+Cgroups
+Chroot
+Citrix Virtual Apps
+Citrix Virtual Desktops
+Clang
+Common Language Runtime
+Communications of the ACM
+Comparison of application virtualization software
+Comparison of platform virtualization software
+Compatible Time-Sharing System
+Compile and go system
+Compile time
+Compiler
+Compiler construction
+Computability theory
+Computational biology
+Computational chemistry
+Computational complexity
+Computational complexity theory
+Computational engineering
+Computational geometry
+Computational mathematics
+Computational physics
+Computational social science
+Computer (magazine)
+Computer accessibility
+Computer animation
+Computer architecture
+Computer cluster
+Computer data storage
+Computer graphics
+Computer hardware
+Computer network
+Computer program
+Computer science
+Computer security
+Computer system
+Computer vision
+Computing
+Computing platform
+Concurrency (computer science)
+Concurrent computing
+Container Linux
+Control theory
+Control variable (programming)
+Conversational Monitor System
+Cooperative Linux
+Cross-validation (statistics)
+Crt0
+Cryptography
+Cyberwarfare
+DOSBox
+DOSEMU
+Dalvik (software)
+Daniel Henry Holmes Ingalls Jr.
+Data mining
+Database
+David Michael Ungar
+Decision support system
+Dependability
+Desktop virtualization
+Digital art
+Digital library
+Digital marketing
+Dis virtual machine
+Discrete mathematics
+Disk image
+Distributed Overlay Virtual Ethernet
+Distributed artificial intelligence
+Distributed computing
+Docker (software)
+Document management system
+Doi (identifier)
+Domain-specific language
+Dynamic recompilation
+E-commerce
+EBPF
+Educational technology
+Egenera
+Electronic design automation
+Electronic publishing
+Electronic voting
+Embedded system
+Emerson W. Pugh
+Emulator
+Enterprise information system
+Enterprise software
+Ethernet VPN
+Euler (programming language)
+Executable
+Execution (computing)
+Failover
+Fedora (operating system)
+Flat file
+Form factor (design)
+Formal language
+Formal methods
+Fortran
+FreeBSD jail
+Full virtualization
+GNU Compiler Collection
+Ganeti
+Generic Network Virtualization Encapsulation
+Geographic information system
+Gerald J. Popek
+Gigabyte
+Gilad Bracha
+Graham A. Nelson
+Graham Nelson
+Graphics processing unit
+Green computing
+Hard disk drive
+Hardware-assisted virtualization
+Hardware acceleration
+Hardware security
+Hardware virtualization
+Haswell (microarchitecture)
+Health informatics
+High-level programming language
+History of CP/CMS
+HotSpot (virtual machine)
+Human–computer interaction
+Hyper-V
+Hypervisor
+IBM CP-40
+IBM M44/44X
+IBM System/360
+ISBN (identifier)
+ISSN (identifier)
+Image compression
+Incremental backup
+Infocom
+Information retrieval
+Information security
+Information system
+Information theory
+Infrastructure as a Service
+InstallFree
+Instruction set
+Integrated circuit
+Integrated development environment
+Intel
+Interaction design
+Intermediate language
+Intermediate representation
+Interpreter (computing)
+Intrusion detection system
+Java (programming language)
+Java virtual machine
+Just-in-time compilation
+Kernel-based Virtual Machine
+Kernel (operating system)
+Kernel same-page merging
+Knowledge representation and reasoning
+KubeVirt
+Kubernetes
+L. Peter Deutsch
+LLVM
+LXC
+Library (computing)
+Limbo (programming language)
+Linux
+Linux-VServer
+Linux containers
+Linux namespaces
+List of computer size categories
+List of computer system emulators
+List of emulators
+Lmctfy
+Logic in computer science
+Logical partition
+LuaJIT
+LynxSecure
+META II
+Machine code
+Machine learning
+Macro assembler
+Mathematical analysis
+Mathematical optimization
+Mathematical software
+Memory overcommitment
+Message Passing Interface
+Microcode
+Microsoft App-V
+Microsoft Virtual PC
+Microsoft Virtual Server
+Microsoft Visual C++
+Microsoft Windows
+Middleware
+Migration (virtualization)
+Mixed reality
+Model of computation
+Modeling language
+Mono (software)
+Multi-task learning
+Multimedia database
+Multiprocessing
+Multithreading (computer architecture)
+Native code
+Native development kit
+Natural language processing
+Network Virtualization using Generic Routing Encapsulation
+Network architecture
+Network performance
+Network protocol
+Network scheduler
+Network security
+Network service
+Network virtualization
+Networking hardware
+Niklaus Emil Wirth
+Node.js
+Numerical analysis
+O-code
+O-code machine
+OS-level virtualization
+OVirt
+Object code
+Objective-C
+Open-source software
+OpenShift
+OpenVZ
+Open vSwitch
+Operating system
+Operating system kernel
+Operations research
+Optimizing compiler
+Oracle Corporation
+Oracle VM
+Oracle VM Server for SPARC
+Outline of computer science
+P-code machine
+PCem
+Parallel Virtual Machine
+Parallel computing
+Parallels Desktop for Mac
+Parallels Server for Mac
+Parallels Workstation
+Parallels Workstation Extreme
+Paravirtualization
+Parrot virtual machine
+Partial virtualization
+Pascal-P
+Pascal-S
+Pascal (programming language)
+PearPC
+Peripheral
+Philosophy of artificial intelligence
+Photograph manipulation
+PikeOS
+Podman
+Popek and Goldberg virtualization requirements
+Precompilation
+Printed circuit board
+Probability
+Process control
+Processor (computing)
+Programming language
+Programming language theory
+Programming paradigm
+Programming team
+Programming tool
+Proxmox Virtual Environment
+PyPy
+Pyramid 2000
+QEMU
+QNX
+Quantum Computing
+Ralph E. Griswold
+Random-access memory
+Randomized algorithm
+Real-time computing
+Real-time operating system
+Red Hat
+Reinforcement learning
+Remote Desktop Services
+Rendering (computer graphics)
+Requirements analysis
+Robert P. Goldberg
+Rump kernel
+Runtime system
+S2CID (identifier)
+SIMH
+SIMMON
+SNOBOL4
+SPARC T3
+Sandbox (software development)
+Save state
+Seccomp
+Security hacker
+Security service (telecommunication)
+Self (programming language)
+Semantics (computer science)
+SheepShaver
+Smalltalk
+Snapshot (computer storage)
+Social computing
+Social software
+Software configuration management
+Software construction
+Software deployment
+Software design
+Software development
+Software development process
+Software engineering
+Software framework
+Software maintenance
+Software quality
+Software repository
+Solaris Containers
+Solid modeling
+Source-to-source compiler
+Source code
+Springer Science+Business Media
+Squeak Virtual Machine
+Statistics
+Steve Bennett (software entrepreneur)
+Stochastic computing
+Storage hypervisor
+Strongtalk
+Supervised learning
+Swift (programming language)
+Symantec Workspace Virtualization
+System Center Virtual Machine Manager
+System on a chip
+System platform
+System virtual machine
+Theoretical computer science
+Theory of computation
+Time-sharing
+Time sharing
+Timeline of virtualization development
+Tiny BASIC
+Tracing garbage collection
+Tracing just-in-time compilation
+Translator (computing)
+Turbo (software)
+UCSD Pascal
+Ubiquitous computing
+Ubuntu (operating system)
+Universal Turing machine
+Unsupervised learning
+Urs Hölzle
+User-mode Linux
+V8 (JavaScript engine)
+VCloud Air
+VMCS shadowing
+VM (Operating system)
+VM (operating system)
+VMware
+VMware ESXi
+VMware Fusion
+VMware Horizon
+VMware Infrastructure
+VMware Server
+VMware ThinApp
+VMware Workstation
+VMware Workstation Player
+VMware vSphere
+Very Large Scale Integration
+Video game
+Video game console emulator
+Virt-manager
+VirtualBox
+Virtual DOS machine
+Virtual Extensible LAN
+Virtual Iron
+Virtual PC
+Virtual appliance
+Virtual backup appliance
+Virtual disk image
+Virtual machine escape
+Virtual memory
+Virtual reality
+Virtual security switch
+Virtualization
+Virtuozzo (company)
+VisualWorks
+Visualization (graphics)
+Vkernel
+Win4Lin
+Windows 7
+Windows Virtual PC
+Windows XP
+Windows on Windows
+Word processor
+Workload Partitions
+World Wide Web
+XCP-ng
+Xen
+XenServer
+XtratuM
+Z-machine
+Z/VM
+Zend Engine
+ZeroVM

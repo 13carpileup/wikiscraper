@@ -1,0 +1,500 @@
+16-bit computing
+4-bit computing
+64-bit computing
+8-bit computing
+AMD
+AMD FireStream
+API
+ARM big.LITTLE
+Abductive logic programming
+Action language
+Actor model
+Address space
+Agent-oriented programming
+Algebraic modeling language
+Algorithm
+Algorithmic skeleton
+AltiVec
+Amdahl's law
+Analysis of parallel algorithms
+Analytic Engine
+Anonymous function
+Answer set programming
+Apple Inc.
+Application-specific integrated circuit
+Application checkpointing
+Application programming interface
+Applicative programming language
+Array (data structure)
+Array programming
+Asanovic, Krste
+Aspect-oriented programming
+Asymmetric multiprocessing
+Ateji PX
+Atomic lock
+Atomic operation
+Attribute-oriented programming
+Automata-based programming
+Automatic mutual exclusion
+Automatic parallelization
+Automatic programming
+Automatic vectorization
+Bandwidth (computing)
+Barnes–Hut simulation
+Barrier (computer science)
+Bayesian network
+Bayesian program synthesis
+Beowulf (computing)
+Beowulf cluster
+Berkeley Open Infrastructure for Network Computing
+Bibcode (identifier)
+Bioinformatics
+Bit-level parallelism
+Block (programming)
+Blue Gene
+Boost (C++ libraries)
+Branch and bound
+BrookGPU
+Brute force attack
+Bull Gamma 60
+Bulldozer (microarchitecture)
+Burroughs Corporation
+Burst buffer
+Bus (computing)
+Bus contention
+Bus sniffing
+C++ AMP
+C.mmp
+COVID-19
+CPU bound
+CPU cache
+CPU socket
+CUDA
+C programming language
+C to HDL
+Cache-only memory architecture
+Cache coherence
+Cache coherency
+Cache invalidation
+Capacitance
+Carnegie Mellon University
+Carry bit
+Cell (microprocessor)
+Central processing unit
+Chapel (programming language)
+Charles Babbage
+Charm++
+Choreographic programming
+Cilk
+Class-based programming
+Cloud computing
+Coarray Fortran
+Combinational logic
+Command language
+Commercial off-the-shelf
+Compagnie des Machines Bull
+Comparison of functional programming languages
+Comparison of multi-paradigm programming languages
+Comparison of programming languages (object-oriented programming)
+Compiler
+Component-based software engineering
+Compute kernel
+Compute shader
+Computer architecture
+Computer cluster
+Computer graphics
+Computer hardware
+Computer industry
+Computer multitasking
+Computer network
+Computer networking
+Computer performance
+Computer programming
+Computer science
+Computer software
+Computerworld
+Computing
+Concatenative programming language
+Concurrency (computer science)
+Concurrent computing
+Concurrent constraint logic programming
+Concurrent logic programming
+Concurrent object-oriented programming
+Constraint logic programming
+Constraint programming
+Content Addressable Parallel Processor
+Control unit
+Cooley–Tukey FFT algorithm
+Core dump
+Cost efficiency
+Cray
+Cray-1
+Critical path method
+Critical section
+Crossbar switch
+Daniel Slotnick
+Data-driven programming
+Data-oriented design
+Data dependency
+Data parallelism
+Dataflow architecture
+Dataflow programming
+David A. Patterson (scientist)
+David Patterson (computer scientist)
+Deadlock (computer science)
+Declarative programming
+Dependent type
+Design by contract
+Desktop computers
+Deterministic algorithm
+Differentiable programming
+Directive (programming)
+Distributed computing
+Distributed memory
+Distributed shared memory
+Doi (identifier)
+Domain-specific language
+Domain-specific programming language
+Donald Becker
+Dryad (programming)
+Dynamic programming
+Dynamic programming language
+Embarrassingly parallel
+End-user development
+Engineering sciences
+Ernest Hilgard
+Error correction
+Error detection
+Ethernet
+Event-driven programming
+Execution unit
+Explicit parallelism
+Expression-oriented programming language
+Extensible programming
+FPGA
+Fault-tolerant computer system
+Feature-oriented programming
+Fiber (computer science)
+Field-programmable gate array
+Filter (software)
+Finite-state machine
+Finite element analysis
+Floating-point
+Flow-based programming
+Flynn's taxonomy
+Fork–join model
+Freescale Semiconductor
+Frequency scaling
+Function-level programming
+Functional logic programming
+Functional programming
+Functional reactive programming
+Futures and promises
+GPGPU
+GPUOpen
+General-purpose computing on graphics processing units
+Generalized algebraic data type
+Generic programming
+George Gurdjieff
+Gigabit Ethernet
+Global Arrays
+Grammar-oriented programming
+Graph rewriting
+Graph traversal
+Graphical model
+Graphics processing unit
+Grid computing
+Gustafson's law
+HBJ model
+HPX
+Handel-C
+Hardware acceleration
+Hardware description language
+Hardware scout
+Haskell (programming language)
+Hdl (identifier)
+Hidden Markov model
+High-performance computing
+High performance computing
+Higher-order programming
+History of computing
+Homoiconicity
+Honeywell
+Hygienic macro
+Hyper-Threading
+HyperTransport
+Hypercube graph
+IBM
+IEEE Transactions on Computers
+ILLIAC IV
+ISBN (identifier)
+ISSN (identifier)
+Immutable object
+Imperative programming
+Implicit parallelism
+Impulse C
+Inductive logic programming
+Inductive programming
+Inferential programming
+InfiniBand
+Infiniband
+Inline code
+Instruction-level parallelism
+Instruction pipelining
+Instruction set
+Instruction window
+Instructions per cycle
+Integer
+Intel
+Intentional programming
+Inter-process communication
+Interactive programming
+Interface description language
+Internet
+Invariant-based programming
+Jackson structured programming
+James Larus
+John Cocke (computer scientist)
+John L. Hennessy
+Joseph E. LeDoux
+Karp–Flatt metric
+Krste Asanović
+Language-oriented programming
+Latency (engineering)
+Lattice Boltzmann methods
+Lawrence Livermore National Laboratory
+Library (computing)
+Linear algebra
+List comprehension
+List of concurrent and parallel programming languages
+List of distributed computing conferences
+List of object-oriented programming languages
+Literate programming
+Load balancing (computing)
+Local area network
+Lock-free and wait-free algorithms
+Lock (computer science)
+Lockstep (computing)
+Logic programming
+Loop-level parallelism
+Loop unwinding
+Low-code development platform
+Luigi Federico Menabrea
+MIT Computer Science and Artificial Intelligence Laboratory
+MPMD
+Macro (computer science)
+Macroprogramming
+Manycore
+Manycore processor
+Marvin Minsky
+Massively parallel
+Massively parallel (computing)
+Matrix (mathematics)
+Mean time between failures
+Memory-level parallelism
+Memory coherence
+Memory latency
+Memory virtualization
+Mesh networking
+Message Passing Interface
+Message passing
+Metalinguistic abstraction
+Metaprogramming
+Meteorology
+Michael Gazzaniga
+Michael J. Flynn
+Michael S. Gazzaniga
+Michio Kaku
+Middleware
+Mitrion-C
+Mitrionics
+Modeling language
+Modular programming
+Molecular dynamics
+Monte Carlo method
+Moore's law
+Multi-core processor
+Multi-stage programming
+Multics
+Multiple instruction, multiple data
+Multiple instruction, single data
+Multiplexing
+Multiprocessing
+Multithreading (computer architecture)
+Multitier programming
+Mutual exclusion
+Myrinet
+N-body problem
+Natural-language programming
+Neil J. Gunther
+Nested function
+Network topology
+Non-English-based programming languages
+Non-blocking algorithm
+Non-structured programming
+Non-uniform memory access
+Non-volatile memory
+Nondeterministic programming
+Nvidia
+Nvidia Tesla
+Object-based language
+Object-oriented programming
+Object (computer science)
+Ontology language
+OpenACC
+OpenCL
+OpenHMPP
+OpenMP
+Operating system
+Organic computing
+Out-of-order execution
+PMID (identifier)
+POSIX Threads
+Page description language
+Parallel Extensions
+Parallel RAM
+Parallel Virtual Machine
+Parallel algorithm
+Parallel external memory
+Parallel programming model
+Parallel slowdown
+Parallelism (computing)
+Parallelization
+Parallelization (mathematics)
+Parallelization contract
+Partial application
+Partitioned global address space
+Pattern matching
+PeakStream
+Pentium 4
+Persistent programming language
+Photolithography
+Pipeline (computing)
+Pipeline (software)
+PlayStation 3
+Preemption (computing)
+Probabilistic logic programming
+Probabilistic programming
+Procedural programming
+Process-oriented programming
+Process (computing)
+Processing element
+Production system (computer science)
+Program synthesis
+Programming by demonstration
+Programming by example
+Programming in the large and programming in the small
+Programming paradigm
+Propagation delay
+Protein folding
+Prototype-based programming
+Pthreads
+Purely functional programming
+Pyotr Demianovich Ouspenskii
+Quantum programming
+Query language
+RIKEN MDGRAPE-3
+RISC
+ROCm
+Race condition
+RaftLib
+RapidMind
+Reactive programming
+Reconfigurable computing
+Recursion (computer science)
+Redundancy (engineering)
+Reflective programming
+Register renaming
+Regular grid
+Relativistic programming
+Remote procedure call
+Resource management (computing)
+Ring network
+Robert E. Ornstein
+Robert Ornstein
+Role-oriented programming
+Routing
+Run time (program lifecycle phase)
+S2CID (identifier)
+SISAL
+Scalability
+Scientific programming language
+Scoreboarding
+Scripting language
+Self-modifying code
+Semaphore (programming)
+Semiconductor memory
+Separation of concerns
+SequenceL
+Sequence analysis
+Sequential algorithm
+Serial computation
+Serializability
+Server (computing)
+Service-oriented programming
+Set theoretic programming
+Seymour Papert
+Shared memory
+Shared memory (interprocess communication)
+Signal processing
+Signal programming
+Simulation language
+Simultaneous and heterogeneous multithreading
+Simultaneous multithreading
+Single instruction, multiple data
+Single instruction, multiple threads
+Single instruction, single data
+Single program, multiple data
+Society of Mind
+Software bug
+Software lockout
+Software quality
+Sony
+Sorting algorithm
+Spacecraft command language
+Speculative multithreading
+Speedup
+Stack-oriented programming
+Star network
+Starvation (computer science)
+Stream processing
+Streaming SIMD Extensions
+Strict programming language
+Structured concurrency
+Structured programming
+Subject-oriented programming
+Supercomputer
+Supercomputers
+Superscalar
+Superscalar processor
+Symbolic programming
+Symmetric multiprocessing
+Synchronization (computer science)
+Synchronous programming
+Synchronous programming language
+SystemC
+System programming language
+Systolic array
+TCP/IP
+TOP500
+Tacit programming
+Tactile programming language
+Taiwan
+Task parallelism
+Tejas and Jayhawk
+Template metaprogramming
+Template processor
+Temporal multithreading
+The Future of the Mind
+Thomas Sterling (computing)
+Thread (computing)
+Threading Building Blocks
+Tomasulo algorithm
+Total functional programming
+Transformation language
+Transistor
+Transputer
+Tree (graph theory)
+US Air Force
+Unified Parallel C
+Uniform Function Call Syntax

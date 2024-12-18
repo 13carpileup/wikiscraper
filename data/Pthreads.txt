@@ -1,0 +1,161 @@
+Interix
+Pipeline (computing)
+Function (computer science)
+Operating system
+Third-party software component
+High-performance computing
+Thread (computing)
+Simultaneous and heterogeneous multithreading
+Solaris (operating system)
+MacOS
+Explicit parallelism
+Instruction-level parallelism
+Deterministic algorithm
+Parallel computing
+Computing
+Distributed computing
+Message Passing Interface
+Concurrency (computer science)
+Preemption (computing)
+Barrier (computer science)
+Memory coherence
+Readers–writer lock
+Unix-like
+Race condition
+Massively parallel
+Process (computing)
+Embarrassingly parallel
+Cost efficiency
+Single instruction, multiple threads
+Software lockout
+Syscall
+RaftLib
+Parallel external memory
+Mingw-w64
+Synchronization (computer science)
+Speculative multithreading
+AUTOSAR
+Loop-level parallelism
+Execution model
+Speedup
+Unified Parallel C
+Memory-level parallelism
+Android (operating system)
+Asymmetric multiprocessing
+Parallel RAM
+Institute of Electrical and Electronics Engineers
+Native POSIX Thread Library
+Computer programming
+Library (computing)
+FreeBSD
+OpenHMPP
+Data parallelism
+Single instruction, multiple data
+Parallel Extensions
+Analysis of parallel algorithms
+Data type
+Amdahl's law
+Programming language
+Array (data structure)
+Symmetric multiprocessing
+HPX
+Condition variable
+Implicit parallelism
+Bulldozer (microarchitecture)
+Windows API
+Scalability
+Superscalar processor
+Beowulf cluster
+Non-uniform memory access
+Dataflow programming
+Spinlock
+Spurious wakeup
+Grid computing
+OpenMP
+Cache invalidation
+C++ AMP
+Karp–Flatt metric
+Multiple instruction, single data
+Threading Building Blocks
+Grand Central Dispatch
+Cloud computing
+Multithreading (computer architecture)
+Gustafson's law
+ISBN (identifier)
+Single instruction, single data
+Semiconductor memory
+OpenCL
+Deadlock (computer science)
+GNU Portable Threads
+Multiprocessing
+Microsoft Windows
+Charm++
+ZPL (programming language)
+Coarray Fortran
+Hardware scout
+Parallel slowdown
+Computer multitasking
+Temporal multithreading
+GPUOpen
+Simultaneous multithreading
+Global Arrays
+NetBSD
+C (programming language)
+Cilk
+Thread-local storage
+GNU Compiler Collection
+ROCm
+Distributed shared memory
+Cilk Plus
+Wrapper library
+Cache coherence
+Flynn's taxonomy
+Task parallelism
+DR-DOS
+General-purpose computing on graphics processing units
+Uniform memory access
+Semaphore (programming)
+Unix
+CUDA
+Mutex
+Vector processor
+Multiple instruction, multiple data
+Computer cluster
+POSIX
+API
+Shared memory
+Ateji PX
+Bit-level parallelism
+Automatic parallelization
+Dryad (programming)
+Windows Services for UNIX
+Instruction window
+Global variable
+Runtime system
+OpenACC
+Parallel Virtual Machine
+DCEThreads
+OpenBSD
+Beginthread
+Starvation (computer science)
+Chapel (programming language)
+Application checkpointing
+Manycore processor
+Systolic array
+Cache-only memory architecture
+Distributed memory
+Boost (C++ libraries)
+Fiber (computer science)
+Hardware acceleration
+Non-blocking algorithm
+Parallel programming model
+Clone (Linux system call)
+Instruction pipelining
+State Threads
+Dataflow architecture
+Computer network
+Stream processing
+Computer program
+Linux
+Computer hardware
+Redox (operating system)

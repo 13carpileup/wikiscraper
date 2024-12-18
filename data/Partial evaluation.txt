@@ -1,0 +1,76 @@
+Alias analysis
+ArXiv (identifier)
+Array-access analysis
+Automatic parallelization
+Automatic vectorization
+Available expression
+Bounds-checking elimination
+CiteSeerX (identifier)
+Code generation (compiler)
+Common subexpression elimination
+Compile-time function execution
+Computer program
+Computing
+Constant folding
+Control-flow analysis
+Data-flow analysis
+Dead-code elimination
+Dead store
+Deforestation (computer science)
+Dependence analysis
+Doi (identifier)
+Escape analysis
+Evaluation strategy
+Expression templates
+Global value numbering
+Hdl (identifier)
+ISBN (identifier)
+Induction variable
+Induction variable recognition and elimination
+Inline expansion
+Instruction scheduling
+Instruction selection
+Interpreter (computing)
+Interprocedural optimization
+Jump threading
+Lazy evaluation
+Live-variable analysis
+Local value numbering
+Loop-invariant code motion
+Loop fusion
+Loop interchange
+Loop inversion
+Loop nest optimization
+Loop optimization
+Loop splitting
+Loop unrolling
+Loop unswitching
+Map (mathematics)
+Memoization
+Olivier Danvy
+Optimization (computer science)
+Optimizing compiler
+Partial application
+Peephole optimization
+Pointer analysis
+Profile-guided optimization
+Programming language
+Reaching definition
+Register allocation
+Rematerialization
+Remote evaluation
+Run-time algorithm specialisation
+S2CID (identifier)
+Shape analysis (program analysis)
+Short-circuit evaluation
+Smn theorem
+Software pipelining
+Sparse conditional constant propagation
+Specialization (logic)
+Static single-assignment form
+Strength reduction
+Tail call
+Template metaprogramming
+Upwards exposed uses
+Use-define chain
+Value range analysis

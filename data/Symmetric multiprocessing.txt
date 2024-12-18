@@ -1,0 +1,168 @@
+API
+Aberdeen Proving Grounds
+Amdahl's law
+Analysis of parallel algorithms
+Application checkpointing
+Array (data structure)
+Asymmetric multiprocessing
+Ateji PX
+Automatic parallelization
+B5000
+Ballistic Research Laboratories
+Barrier (computer science)
+Beowulf (computing)
+Beowulf cluster
+Bibcode (identifier)
+Binary Modular Dataflow Machine
+Bit-level parallelism
+Boost (C++ libraries)
+Bulldozer (microarchitecture)
+C++ AMP
+CUDA
+Cache-only memory architecture
+Cache coherence
+Cache coherency
+Cache invalidation
+Cache memory
+Cellular multiprocessing
+Chapel (programming language)
+Charm++
+Cilk
+Cloud computing
+Coarray Fortran
+Computer cluster
+Computer hardware
+Computer multitasking
+Computer network
+Computer programming
+Concurrency (computer science)
+Cost efficiency
+Crossbar switch
+Data parallelism
+Dataflow architecture
+Dataflow programming
+David Culler
+David Patterson (computer scientist)
+Deadlock (computer science)
+Deterministic algorithm
+Digital Equipment Corporation
+Distributed computing
+Distributed memory
+Distributed shared memory
+Doi (identifier)
+Dryad (programming)
+Embarrassingly parallel
+Explicit parallelism
+Fiber (computer science)
+Flynn's taxonomy
+GE-600 series
+GECOS
+GPUOpen
+General-purpose computing on graphics processing units
+General Electric
+Global Arrays
+Grid computing
+Gustafson's law
+HPX
+Hardware acceleration
+Hardware scout
+High-performance computing
+IBM System/360
+IBM System/360 Model 65
+IBM System/360 Model 67
+ISBN (identifier)
+Implicit parallelism
+Instruction-level parallelism
+Instruction pipelining
+Instruction window
+Interrupts
+John L. Hennessy
+Karp–Flatt metric
+Kernel (operating system)
+Locale (computer hardware)
+Loop-level parallelism
+Main memory
+Manycore processor
+Massively parallel
+Memory-level parallelism
+Memory coherence
+Message Passing Interface
+Michigan Terminal System
+Morgan Kaufmann
+Multi-core processor
+Multics
+Multiple instruction, multiple data
+Multiple instruction, single data
+Multiprocessing
+Multiprocessor
+Multithreading (computer architecture)
+NS320xx
+National Semiconductor
+Naval Postgraduate School
+Non-Uniform Memory Access
+Non-blocking algorithm
+Non-uniform memory access
+OS/360
+OpenACC
+OpenCL
+OpenHMPP
+OpenMP
+Operating system
+PDP-10
+Parallel Extensions
+Parallel RAM
+Parallel Virtual Machine
+Parallel computing
+Parallel external memory
+Parallel programming
+Parallel programming model
+Parallel slowdown
+Partitioned global address space
+Personal computer
+Pipeline (computing)
+Preemption (computing)
+Process (computing)
+Pthreads
+ROCm
+Race condition
+RaftLib
+S2CID (identifier)
+Scalability
+Semiconductor memory
+Sequent Computer Systems
+Server (computing)
+Shared memory
+Shared memory architecture
+Simultaneous and heterogeneous multithreading
+Simultaneous multithreading
+Single instruction, multiple data
+Single instruction, multiple threads
+Single instruction, single data
+Software
+Software lockout
+Speculative multithreading
+Speedup
+Starvation (computer science)
+Stream processing
+Superscalar processor
+Synchronization (computer science)
+System bus
+Systolic array
+TOPS-10
+TSS/360
+Task parallelism
+Tegra 3
+Temporal multithreading
+Thread (computer science)
+Thread (computing)
+Threading Building Blocks
+Time-sharing
+UNIVAC 1100/2200 series
+Unified Parallel C
+Uniform memory access
+Usenet (identifier)
+Usenet newsgroup
+VAX
+Vector processor
+Xeon Phi
+ZPL (programming language)

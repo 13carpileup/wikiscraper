@@ -1,0 +1,394 @@
+1-bit computing
+12-bit computing
+128-bit computing
+16-bit computing
+24-bit computing
+256-bit computing
+32-bit computing
+4-bit computing
+48-bit computing
+512-bit computing
+64-bit computing
+8-bit computing
+ACPI
+AI accelerator
+API
+ARM architecture family
+Abstract machine
+Adapteva
+Adder (electronics)
+Address decoder
+Address generation unit
+Addressing mode
+Advanced Power Management
+Alternating Turing machine
+Amdahl's law
+Analogue electronics
+Analysis of parallel algorithms
+Apollo Guidance Computer
+Application-specific instruction set processor
+Application-specific integrated circuit
+Application checkpointing
+Arithmetic logic unit
+Array (data structure)
+Array data structure
+Asymmetric multiprocessing
+Ateji PX
+Atomic operation
+Automatic parallelization
+Barrel processor
+Barrel shifter
+Barrier (computer science)
+Baseband processor
+Beowulf cluster
+Binary decoder
+Binary multiplier
+Bit-level parallelism
+Bit-serial architecture
+Bit slicing
+Boolean circuit
+Boost (C++ libraries)
+Brain
+Branch predictor
+Branch target predictor
+Bulldozer (microarchitecture)
+Bus (computing)
+C++ AMP
+CPU cache
+CPU multiplier
+CUDA
+Cache-only memory architecture
+Cache (computing)
+Cache coherence
+Cache hierarchy
+Cache invalidation
+Cache performance measurement and metric
+Cache replacement policies
+Cellular architecture
+Cellular automaton
+Central processing unit
+Chapel (programming language)
+Charles E. Leiserson
+Charm++
+Chip carrier
+Cilk
+Circuit (computer science)
+Classic RISC pipeline
+Clipper architecture
+Clock gating
+Clock rate
+Clock signal
+Cloud computing
+Coarray Fortran
+Cognitive computing
+Combinational logic
+Comparison of instruction set architectures
+Complex instruction set computer
+Complex programmable logic device
+Computer architecture
+Computer cluster
+Computer data storage
+Computer hardware
+Computer multitasking
+Computer network
+Computer performance
+Computer performance by orders of magnitude
+Computer programming
+Computing
+Concurrency (computer science)
+Control hazard
+Control unit
+Convolution
+Cooperative multitasking
+Coprocessor
+Correlation
+Cost efficiency
+Counter (digital)
+Counter machine
+Cycles per instruction
+Cypress PSoC
+DEC Alpha
+Data
+Data buffer
+Data cache
+Data dependency
+Data parallelism
+Dataflow architecture
+Dataflow programming
+Datapath
+Deadlock (computer science)
+Demultiplexer
+Deterministic algorithm
+Deterministic finite automaton
+Digital electronics
+Digital signal processor
+Distributed architecture
+Distributed computing
+Distributed memory
+Distributed shared memory
+Doi (identifier)
+Dryad (programming)
+Dynamic frequency scaling
+Dynamic voltage scaling
+ETRAX CRIS
+Electronic circuit
+Embarrassingly parallel
+Embedded system
+Endianness
+Execution unit
+Explicit data graph execution
+Explicit parallelism
+Explicitly parallel instruction computing
+FIFO (computing and electronics)
+FLOPS
+Fabric computing
+False sharing
+Fault tolerance
+Fiber (computer science)
+Field-programmable gate array
+Field-programmable object array
+Finite-state machine
+Finite-state machine with datapath
+Floating-point unit
+Flynn's taxonomy
+GPUOpen
+Gate array
+General-purpose computing on graphics processing units
+Global Arrays
+Glue logic
+Graphics processing unit
+Grid computing
+Gustafson's law
+H. T. Kung
+HPX
+Hardware acceleration
+Hardware register
+Hardware scout
+Hardware security module
+Hardwired control unit
+Harvard architecture
+Hazard (computer architecture)
+Heterogeneous System Architecture
+Heterogeneous computing
+Hierarchical state machine
+High-performance computing
+History of general-purpose CPUs
+Hyper-threading
+Hypercomputation
+IA-64
+IBM POWER architecture
+IBM System/360 architecture
+IBM System/370
+IBM System/390
+IEEE Transactions on Computers
+Image processor
+Implicit parallelism
+Independence
+Input (computer science)
+Instruction-level parallelism
+Instruction cache
+Instruction cycle
+Instruction decoder
+Instruction pipelining
+Instruction set architecture
+Instruction unit
+Instruction window
+Instructions per cycle
+Instructions per second
+Integrated circuit
+Karp–Flatt metric
+Little man computer
+Load–store architecture
+Load–store unit
+Logic gate
+Loop-level parallelism
+M32R
+MIPS-X
+MIPS architecture
+MPMD
+Manycore processor
+Massively parallel
+Matrix multiplication
+Memory-level parallelism
+Memory address register
+Memory buffer register
+Memory coherence
+Memory controller
+Memory dependence prediction
+Memory hierarchy
+Memory management unit
+Merge algorithm
+Message Passing Interface
+Michael J. Flynn
+MicroBlaze
+Microarchitecture
+Microcode
+Microcontroller
+Microprocessor
+Microprocessor chronology
+Minimal instruction set computer
+Misnomer
+Mixed-signal integrated circuit
+Mobile processor
+Model of computation
+Modified Harvard architecture
+Motorola 68000 series
+Multi-chip module
+Multi-core processor
+Multiple instruction, multiple data
+Multiplexer
+Multiprocessing
+Multiprocessor system on a chip
+Multithreading (computer architecture)
+Network on a chip
+Network processor
+Neuromorphic engineering
+No instruction set computing
+Node (computer science)
+Node (networking)
+Non-blocking algorithm
+Non-uniform memory access
+Nondeterministic Turing machine
+One-instruction set computer
+OpenACC
+OpenCL
+OpenHMPP
+OpenMP
+OpenRISC
+Operand forwarding
+Orthogonal instruction set
+Out-of-order execution
+PDP-11 architecture
+Package on a package
+Parallel Extensions
+Parallel RAM
+Parallel Virtual Machine
+Parallel computing
+Parallel external memory
+Parallel programming model
+Parallel slowdown
+Performance per watt
+Physics processing unit
+Pin grid array
+Pipeline (computing)
+Pipeline stall
+Pointer machine
+Post–Turing machine
+PowerPC
+Power ISA
+Power Management Unit
+Power management
+Power management integrated circuit
+Preemption (computing)
+Probabilistic Turing machine
+Process (computing)
+Processor (computing)
+Processor design
+Processor register
+Program counter
+Programmable Array Logic
+Pthreads
+Pulse
+Quantum Turing machine
+Quantum cellular automaton
+Quantum circuit
+Quantum computing
+Quantum logic gate
+Queue automaton
+RISC-V
+ROCm
+ROM image
+Race condition
+RaftLib
+Random-access machine
+Random-access stored-program machine
+Re-order buffer
+Reduced instruction set computer
+Register file
+Register machine
+Register renaming
+Register–memory architecture
+Replication (computer science)
+Reservation station
+S2CID (identifier)
+SPARC
+SUPS
+SWAR
+Scalability
+Scalar processor
+Scoreboarding
+Scratchpad memory
+Secondary storage
+Secure cryptoprocessor
+Semiconductor device fabrication
+Semiconductor memory
+Sequential logic
+Shared memory
+Simultaneous and heterogeneous multithreading
+Simultaneous multithreading
+Single-core
+Single instruction, multiple data
+Single instruction, multiple threads
+Single instruction, single data
+Single program, multiple data
+Soft microprocessor
+Software lockout
+Sorting algorithm
+Space Shuttle
+Speculative execution
+Speculative multithreading
+Speedup
+Stack machine
+Stack register
+Stanford MIPS
+Starvation (computer science)
+Status register
+Stored-program computer
+Stream processing
+Structural hazard
+Sum-addressed decoder
+SuperH
+Superscalar processor
+Swarm
+Switch
+Symmetric multiprocessing
+Synchronization (computer science)
+System in a package
+System on a chip
+Systolic array
+TRIPS architecture
+Task parallelism
+Temporal multithreading
+Tensor Processing Unit
+Thread (computing)
+Threading Building Blocks
+Three-dimensional integrated circuit
+Tick–tock model
+Tile processor
+Tomasulo's algorithm
+Transactions per second
+Transistor count
+Translation lookaside buffer
+Transport triggered architecture
+Turing machine
+Ultra-low-voltage processor
+Unicore
+Unified Parallel C
+Uniform memory access
+Universal Turing machine
+VAX
+VISC architecture
+Vector processor
+Very long instruction word
+Virtual memory
+Vision processing unit
+Von Neumann architecture
+Wave
+Wide-issue
+Word (computer architecture)
+Write buffer
+X86
+Z/Architecture
+ZPL (programming language)
+Zeno machine
+Zero instruction set computer

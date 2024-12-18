@@ -1,0 +1,500 @@
+1-bit computing
+12-bit computing
+128-bit computing
+16-bit computing
+24-bit computing
+256-bit computing
+2D computer graphics
+32-bit computing
+3D computer graphics
+3D optical data storage
+4-bit computing
+48-bit computing
+512-bit computing
+64-bit computing
+8-bit computing
+ACPI
+AI accelerator
+AMD
+AMD Instinct
+API
+ARM architecture family
+ATI Technologies
+Abalone (molecular mechanics)
+Abstract machine
+Accelerating change
+Adapteva
+Adder (electronics)
+Address decoder
+Address generation unit
+Addressing mode
+Adreno
+Advanced Encryption Standard
+Advanced Power Management
+Advanced Simulation Library
+Algorithm
+Alpha compositing
+Alternating Turing machine
+Altimesh
+Ambient intelligence
+Amdahl's law
+Analog signal processing
+Analogue electronics
+Analysis of parallel algorithms
+Android (operating system)
+Antivirus software
+Apollo Guidance Computer
+Apple Inc.
+Apple silicon
+Application-specific instruction set processor
+Application-specific integrated circuit
+Application checkpointing
+Application programming interface
+Applications of artificial intelligence
+ArXiv (identifier)
+Arithmetic logic unit
+Array (data structure)
+Array data structure
+Artificial intelligence
+Astrophysics
+Asymmetric multiprocessing
+Ateji PX
+Atomtronics
+Audio processing unit
+Audio signal processing
+Automatic parallelization
+Automation
+Barrel processor
+Barrel shifter
+Barrier (computer science)
+Baseband processor
+Beowulf cluster
+Bibcode (identifier)
+Binary decoder
+Binary multiplier
+Binary search
+Bioethics
+Bioinformatics
+Biomolecule
+Bit-level parallelism
+Bit-serial architecture
+Bit blit
+Bit slicing
+Bitcoin
+Bitcoin network
+Blitter
+Boolean circuit
+Boolean function
+Boost (C++ libraries)
+Branch predictor
+Branch target predictor
+BrookGPU
+Bulldozer (microarchitecture)
+Bus (computing)
+C++
+C++ AMP
+CABAC
+CAVLC
+CHARMM
+CMOS
+CPU cache
+CPU multiplier
+CUDA
+C (programming language)
+C Sharp (programming language)
+Cache-only memory architecture
+Cache (computing)
+Cache coherence
+Cache hierarchy
+Cache invalidation
+Cache performance measurement and metric
+Cache replacement policies
+Carbon nanotube field-effect transistor
+Cellular architecture
+Cellular automaton
+Central processing unit
+Chapel (programming language)
+Charm++
+Chip carrier
+Chipless RFID
+Cilk
+Circuit (computer science)
+CiteSeerX (identifier)
+Classic RISC pipeline
+Climate research
+Clinical decision support system
+Clipper architecture
+Clock gating
+Clock rate
+Clock signal
+Close to Metal
+Cloth simulation
+Cloud computing
+Coarray Fortran
+Cognitive computing
+Collingridge dilemma
+Collision detection
+Combinational logic
+Common Intermediate Language
+Comparison of 3dfx graphics processing units
+Comparison of instruction set architectures
+Comparison of software for molecular mechanics modeling
+Complex instruction set computer
+Complex programmable logic device
+Computational Fluid Dynamics
+Computational finance
+Computational physics
+Compute kernel
+Computed tomography
+Computer architecture
+Computer cluster
+Computer data storage
+Computer display standard
+Computer graphics
+Computer hardware
+Computer multitasking
+Computer network
+Computer performance
+Computer performance by orders of magnitude
+Computer programming
+Computer vision
+Concurrency (computer science)
+Constructive solid geometry
+Control engineering
+Control hazard
+Control unit
+Convolution
+Conway's Game of Life
+Cooperative multitasking
+Coprocessor
+Cost efficiency
+Counter (digital)
+Counter machine
+Cross-platform
+Cryptanalysis
+Cryptocurrency
+Cryptography
+Cyberethics
+Cybermethodology
+Cycles per instruction
+Cypress PSoC
+DEC Alpha
+Data Encryption Standard
+Data buffer
+Data cache
+Data dependency
+Data mining
+Data parallelism
+Database
+Dataflow architecture
+Dataflow programming
+Datapath
+Deadlock (computer science)
+Deep learning processor
+Deinterlacing
+Demultiplexer
+Deterministic algorithm
+Deterministic finite automaton
+Differential technological development
+Digital electronics
+Digital image processing
+Digital signal processing
+Digital signal processor
+DirectCompute
+DirectX
+DirectX 11
+Direct memory access
+Discrete cosine transform
+Display device
+Disruptive innovation
+Distributed architecture
+Distributed computing
+Distributed memory
+Distributed shared memory
+Doi (identifier)
+Dryad (programming)
+Duplex (telecommunications)
+Dynamic frequency scaling
+Dynamic voltage scaling
+ETRAX CRIS
+Edge detection
+Einstein@home
+Electrochemical RAM
+Electronic circuit
+Electronic design automation
+Elliptic curve cryptography
+Embarrassingly parallel
+Embedded system
+Emerging technologies
+Endianness
+Ephemeralization
+Ethics of technology
+Euler equations (fluid dynamics)
+European Journal of Operational Research
+Execution unit
+Explicit data graph execution
+Explicit parallelism
+Explicitly parallel instruction computing
+Exploratory engineering
+Extended reality
+External GPU
+FIFO (computing and electronics)
+FLOPS
+F Sharp (programming language)
+Fabric computing
+False sharing
+Fast Fourier transform
+Fastra II
+Fermi (microarchitecture)
+Ferroelectric RAM
+Fiber (computer science)
+Field-programmable gate array
+Field-programmable object array
+Fillrate
+FinFET
+Finite-state machine
+Finite-state machine with datapath
+Fixed-function
+Floating-point
+Floating-point unit
+Floating point
+Flynn's taxonomy
+Fold (higher-order function)
+Frame rate
+Framebuffer
+Framebuffer object
+Functional completeness
+Future-oriented technology analysis
+Fuzzy logic
+GDDR2
+GDDR3
+GDDR4
+GDDR5
+GDDR6
+GDDR7
+GDDR SDRAM
+GPU
+GPUOpen
+GPU cluster
+GPU switching
+GROMACS
+Gate array
+Gather (vector addressing)
+GeForce
+GeForce 200 series
+GeForce 8 series
+GeForce FX
+Genome mapping
+Geometry pipelines
+Geometry processing
+Georgia Tech Research Institute
+Gigapixel image
+Glaze3D
+Global Arrays
+Global illumination
+Glue logic
+Google
+Graphics library
+Graphics pipeline
+Graphics processing
+Graphics processing unit
+Grid computing
+Gustafson's law
+HBM-PIM
+HBM2
+HBM2E
+HBM3
+HBM3E
+HPX
+Hard drive
+Hardware acceleration
+Hardware register
+Hardware scout
+Hardware security module
+Hardwired control unit
+Harvard architecture
+Havok (software)
+Hazard (computer architecture)
+Hdl (identifier)
+Heterogeneous System Architecture
+Heterogeneous computing
+Hierarchical state machine
+High-Level Shading Language
+High-dynamic-range imaging
+High-dynamic-range rendering
+High-performance computing
+High Bandwidth Memory
+History of general-purpose CPUs
+Holographic data storage
+Horizon scanning
+Huffman coding
+Hybrid Monte Carlo
+Hyper-threading
+Hypercomputation
+IA-64
+IBM POWER architecture
+IBM System/360 architecture
+IBM System/370
+IBM System/390
+IEEE floating-point standard
+IOS
+ISBN (identifier)
+ISSN (identifier)
+Image compression
+Image processing
+Image processor
+Imageon
+Implicit parallelism
+Incompressible flow
+InfiniteReality
+Information and communications technology
+Input–output memory management unit
+Instruction-level parallelism
+Instruction cache
+Instruction cycle
+Instruction decoder
+Instruction pipelining
+Instruction set architecture
+Instruction unit
+Instruction window
+Instructions per cycle
+Instructions per second
+Integer
+Integrated circuit
+Integrated graphics
+Intel 2700G
+Intel Arc
+Intel Graphics Technology
+Intel Xe
+Intelligence Quotient
+Internet of things
+Intrusion detection
+Ising model
+Jack Dongarra
+Jacket (software)
+James Demmel
+K-nearest neighbor algorithm
+Karp–Flatt metric
+Kepler (microarchitecture)
+Kernel (image processing)
+Khronos Group
+LAMMPS
+Larrabee (microarchitecture)
+Lattice Boltzmann methods
+Lattice gauge theory
+Level set methods
+Lib Sh
+Lighting
+List of AMD graphics processing units
+List of Intel graphics processing units
+List of Nvidia graphics processing units
+List of emerging technologies
+Little man computer
+Load–store architecture
+Load–store unit
+Logic gate
+Loop-level parallelism
+Loop (computing)
+M32R
+MATLAB
+MD6
+MIPS-X
+MIPS architecture
+MOSFET
+Machine learning
+Machine translation
+Machine vision
+Magnetoresistive RAM
+Mali (GPU)
+Manycore processor
+Map (parallel pattern)
+Massively parallel
+Matrix (mathematics)
+Matrox
+Maxwell (microarchitecture)
+Medical imaging
+Memory-level parallelism
+Memory address register
+Memory bandwidth
+Memory buffer register
+Memory coherence
+Memory controller
+Memory dependence prediction
+Memory hierarchy
+Memory management unit
+Merge sort
+Message Passing Interface
+Metal (API)
+MicroBlaze
+Microarchitecture
+Microcode
+Microcontroller
+Microprocessor
+Microprocessor chronology
+Microsoft
+Millipede memory
+Minimal instruction set computer
+Mixed-signal integrated circuit
+Mobile operating system
+Mobile processor
+Mobile translation
+Model of computation
+Modified Harvard architecture
+Molecular modeling on GPU
+Molecular modeling on GPUs
+Monoid
+Monte Carlo simulation
+Moore's law
+Motion compensation
+Motorola 68000 series
+Multi-chip module
+Multi-core processor
+Multiple instruction, multiple data
+Multiple instruction, single data
+Multiplexer
+Multiplier (coefficient)
+Multiply–accumulate operation
+Multiprocessing
+Multiprocessor system on a chip
+Multithreading (computer architecture)
+NAMD
+NBC News
+NEC µPD7220
+NVIDIA Parabricks
+Nano-RAM
+Navier–Stokes equations
+Network on a chip
+Network processor
+Neural network
+Neuroethics
+Neuromorphic engineering
+Newtonian physics
+No instruction set computing
+Non-blocking algorithm
+Non-uniform memory access
+Nondeterministic Turing machine
+Nurse scheduling problem
+Nvidia
+Nvidia DGX
+Nvidia Tegra
+Nvidia Tesla
+One-instruction set computer
+OpenACC
+OpenCL
+OpenGL
+OpenHMPP
+OpenMP
+OpenRISC
+Operand forwarding
+Operations research
+Optical computing
+Optical disc
+Organic chemistry
+Orthogonal instruction set
+Out-of-order execution
+PDP-11 architecture
+PMC (identifier)
+PMID (identifier)
+Package on a package
+Palette (computing)
+Parallel Extensions

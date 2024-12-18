@@ -1,0 +1,269 @@
+1-Wire
+4K Disk Monitor System
+ACCESS.bus
+ADAT Lightpipe
+AES3
+Accelerated Graphics Port
+Address bus
+AdvFS
+Advanced Host Controller Interface
+Advanced Microcontroller Bus Architecture
+Advanced eXtensible Interface
+Alpha 21064
+Alpha 21164
+Alpha 21264
+Alpha 21364
+Alpha 21464
+AltaVista
+Amiga Zorro II
+Amiga Zorro III
+Apple Desktop Bus
+Atari SIO
+BASIC-8
+Back-side bus
+Backplane
+Bus (computing)
+Bus and Tag
+Bus contention
+Bus mastering
+CPU Wars
+CVAX
+Camera Link
+Character encoding
+Code page 1287
+Code page 1288
+Coherent Accelerator Processor Interface
+Commercial Operating System
+Commodore bus
+Compaq
+Compute Express Link
+Computer Automated Measurement and Control
+Computer bus
+Computer hardware
+Computer terminal
+Control bus
+CoreConnect
+DECUS
+DEC Alpha
+DEC BATCH-11/DOS-11
+DEC GT40
+DEC Hebrew
+DEC J-11
+DEC MICA
+DEC PRISM
+DEC RADIX 50
+DEC Special Graphics
+DEC Systems Research Center
+DEC T-11
+DEC Technical Character Set
+DEC V-11
+DECnet
+DECsystem
+DECtalk
+DECtape
+DECwriter
+DIBOL
+DIGITAL Command Language
+DMX512
+Daisy chain (electrical engineering)
+De facto standard
+Digital Control Bus
+Digital Equipment Corporation
+Digital Federal Credit Union
+Digital Linear Tape
+Digital Storage Systems Interconnect
+Digital UNIX
+Direct Media Interface
+Dynamic debugging technique
+Dynamically Redefined Character Set
+ESCON
+Enhanced Small Disk Interface
+Error-correcting code
+Ethernet
+Europe Card Bus
+Expansion card
+ExpressCard
+Extended Industry Standard Architecture
+FASTBUS
+FOCAL (programming language)
+FX!32
+Fibre Channel
+Firefly (cache coherence protocol)
+Flip-Chip module
+Front-side bus
+GSC bus
+Gold key (DEC)
+Gordon Bell
+HIL bus
+HIPPI
+HP-IL
+HP-Interex
+HP Precision Bus
+Harlan Anderson
+HyperTransport
+I3C (bus)
+IEC 61030
+IEEE-488
+IEEE 1284
+IEEE 1394
+Industry Standard Architecture
+InfiniBand
+Infinity Fabric
+Instruction set architecture
+Intel High Definition Audio
+Intel QuickPath Interconnect
+Intel Ultra Path Interconnect
+Intelligent Peripheral Interface
+Interactive Application System
+I²C
+I²S
+Ken Olsen
+LED
+LK201
+LK421
+Lightning (connector)
+List of interface bit rates
+Local Area Transport
+Low Pin Count
+MACRO-10
+MACRO-11
+MADI
+MBus (SPARC)
+MIDI
+MIPS architecture
+MUMPS
+Maintenance Operations Protocol
+Mass Storage Control Protocol
+Massbus
+Maynard, Massachusetts
+McASP
+Memory-mapped I/O
+MicroVAX 78032
+Micro Channel architecture
+Minicomputer
+Multibus
+Multidrop bus
+Multinational Character Set
+NVAX
+NVLink
+NVM Express
+National Replacement Character Set
+Network on a chip
+NuBus
+OS/8
+On-line Debugging Tool
+OpenVMS
+Open standards
+Operating system
+PALcode
+PCI-X
+PCI Express
+PCI eXtensions for Instrumentation
+PC Card
+PDP-11
+PDP-11 architecture
+PDP-7
+Parallel ATA
+Parallel SCSI
+Peripheral Component Interconnect
+Plug and play
+Power Management Bus
+Printed wiring board
+Processor (computing)
+Profibus
+Programming language
+Q-Bus
+RA90
+RK05
+RL02
+RS-232
+RS-422
+RS-423
+RS-485
+RSTS/E
+RSX-11
+RSX-15
+RT-11
+RapidIO
+ReGIS
+Record Management Services
+Rigel (microprocessor)
+Robert Palmer (computer businessman)
+S-100 bus
+S/PDIF
+SATA
+SATA Express
+SBus
+SCSI
+SLIMbus
+SS-50 bus
+ST-506/ST-412
+STD Bus
+STEbus
+Serial Attached SCSI
+Serial Peripheral Interface
+Serial Storage Architecture
+Sixel
+SpaceWire
+Standard Disk Interconnect
+Star coupler
+Storage Module Device
+StrongARM
+Synchronous Backplane Interconnect
+System Management Bus
+System Module
+System Reference Manual
+System bus
+TD/SMP
+TOPS-10
+TOPS-20
+TOSLINK
+TSS/8
+TU81
+TURBOchannel
+Technical standard
+The Ultimate Entrepreneur
+Thunderbolt (interface)
+UNI/O
+USB
+Ultra Port Architecture
+Ultrix
+Unibus
+VAX
+VAXELN
+VAX 6000
+VAX 8000
+VAX 9000
+VAX MACRO
+VESA Local Bus
+VME eXtensions for Instrumentation
+VMEbus
+VPX
+VT05
+VT100
+VT1000
+VT101
+VT102
+VT103
+VT105
+VT131
+VT180
+VT220
+VT240
+VT241
+VT320
+VT330
+VT340
+VT420
+VT510
+VT52
+VT520
+VT525
+VT55
+VT62
+VT640
+VXS
+WPS-8
+Wired communication
+Wishbone (computer bus)
+Zero insertion force
