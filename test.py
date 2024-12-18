@@ -9,7 +9,6 @@ from queue import Queue
 
 def update_file(title, cons):
     f = open(f'data/{title.replace("/", "%2F")}.txt', 'w')
-    cons = cons[0]
     out = ''
     for con in cons:
         out += con + '\n'
@@ -24,6 +23,7 @@ def format_link(title, cont):
     link = f'https://en.wikipedia.org/w/api.php?action=query&titles={parse_title(title)}&prop=links&pllimit=max&format=json'
     if (cont):
         link += f'&plcontinue={cont}'
+    
     return link
 
 def filter_links(title):
@@ -68,17 +68,16 @@ def get_connections(title):
         print(f'Error: {e}')
         return []
 
-    links.append(parse_links(response))
+    links = parse_links(response)
 
     try:
         while 'continue' in response:
             contString = response['continue']['plcontinue'] 
             response = requests.get(format_link(title, contString), timeout=10).json()
-            links.append(parse_links(response))
+            links = links + parse_links(response)
     except Exception as e:
         print(f'Connection error for {title}: {e}')
         retry.append(title)
-    
     return links
 
 def process_links(root, queue):
@@ -95,12 +94,12 @@ def process_links(root, queue):
     update_file(root, initialLinks)
     print(f"Updated {root}")
 
-    initialLinks = initialLinks[0]
+    initialLinks = initialLinks
     searched[root] = 1
     links[root] = initialLinks
 
     # Add new links to queue
-    for link in random.sample(initialLinks, min(len(initialLinks), MAX_LINKS_PER_PAGE)):
+    for link in initialLinks:
         if link not in searched:
             queue.put(link)
 
@@ -112,14 +111,14 @@ def bfs_worker(queue, executor):
             if root is None:  # Poison pill
                 break
             
-            executor.submit(process_links, root, queue)
+            process_links(root, queue)
             queue.task_done()
+            
         except TimeoutError:
             break
         except Exception as e:
             print(f"Worker error: {e}")
             queue.task_done()
-            continue
 
 # Constants
 searched = {}
@@ -128,7 +127,7 @@ MAX_TIME = 1200
 LAST_FETCH = time.time()
 RATE_LIMIT = 0.3
 MAX_WORKERS = 20
-MAX_LINKS_PER_PAGE = 50  # Limit links processed per page
+MAX_LINKS_PER_PAGE = 50
 start = time.time()
 retry = []
 
@@ -158,29 +157,22 @@ for word in retryWords:
     if word:
         work_queue.put(word)
 
-for f in toCheck:
-    for con in links[f]:
-        if con and con not in searched:
-            work_queue.put(con)
-
 # Create thread pool and worker threads
 with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-    workers = []
-    for _ in range(MAX_WORKERS):
-        worker = threading.Thread(target=bfs_worker, args=(work_queue, executor))
-        worker.start()
-        workers.append(worker)
-    
-    # Wait for queue to be processed
-    work_queue.join()
-    
-    # Send poison pills to stop workers
-    for _ in range(MAX_WORKERS):
-        work_queue.put(None)
-    
-    # Wait for all workers to finish
-    for worker in workers:
-        worker.join()
+    while not work_queue.empty():
+        workers = []
+        for _ in range(MAX_WORKERS):
+            worker = threading.Thread(target=bfs_worker, args=(work_queue, executor))
+            worker.start()
+            workers.append(worker)
+        
+        # Send poison pills to stop workers
+        for _ in range(MAX_WORKERS):
+            work_queue.put(None)
+        
+        # Wait for all workers to finish
+        for worker in workers:
+            worker.join()
 
 # Store data
 for title in links.keys():
@@ -189,3 +181,5 @@ for title in links.keys():
 f = open('retry.txt', 'w')
 for r in retry:
     f.write(f'{r}\n')
+
+print(work_queue.qsize())
