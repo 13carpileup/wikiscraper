@@ -4,31 +4,35 @@ import threading
 import time
 from os import listdir
 import random
+from concurrent.futures import ThreadPoolExecutor, TimeoutError
+from queue import Queue
 
-
+def update_file(title, cons):
+    f = open(f'data/{title.replace("/", "%2F")}.txt', 'w')
+    cons = cons[0]
+    out = ''
+    for con in cons:
+        out += con + '\n'
+    
+    out = out.strip()
+    f.write(out)
 
 def parse_title(raw):
     return raw.replace(" ", "_").replace("&", "%26").replace("/", "%2F")
 
 def format_link(title, cont):
     link = f'https://en.wikipedia.org/w/api.php?action=query&titles={parse_title(title)}&prop=links&pllimit=max&format=json'
-
     if (cont):
         link += f'&plcontinue={cont}'
-
     return link
 
-# filter out links that you don't like
 def filter_links(title):
     blockedChars = [':', 'disambiguation']
     allowed = True
-
     for banned in blockedChars:
         if banned in title:
-            allowed = False
-    
+            allowed = False    
     return allowed
-    
 
 def parse_links(js):
     js = js['query']['pages']
@@ -37,14 +41,12 @@ def parse_links(js):
     try:
         links = js[pageid]['links']
         newLinks = [i['title'] for i in links]
-        
         return list(filter(filter_links, newLinks))
     except:
         print("FAILURE: LINKS...")
         print(js)
         return []
 
-# main connections function
 def get_connections(title):
     global LAST_FETCH
 
@@ -58,65 +60,79 @@ def get_connections(title):
         now = time.time()
 
     LAST_FETCH = now
-    #print(title)
     try:
-        response = requests.get(format_link(title, False)).json()
-    except:
+        response = requests.get(format_link(title, False), timeout=10).json()
+    except Exception as e:
         print(f"ERROR!!! TITLE: {title}")
         print(f'LINK: {format_link(title, False)}')
+        print(f'Error: {e}')
         return []
-    #print(f'{title} fetched!')
-    
 
     links.append(parse_links(response))
 
-    while 'continue' in response:
-        contString = response['continue']['plcontinue'] 
-        response = requests.get(format_link(title, contString)).json()
-        links.append(parse_links(response))
+    try:
+        while 'continue' in response:
+            contString = response['continue']['plcontinue'] 
+            response = requests.get(format_link(title, contString), timeout=10).json()
+            links.append(parse_links(response))
+    except Exception as e:
+        print(f'Connection error for {title}: {e}')
+        retry.append(title)
     
     return links
 
+def process_links(root, queue):
+    """Process a single root and add its connections to the queue"""
+    global links, searched
 
-
-
-# search function
-def bfs(root):
-    global links
-
-    now = time.time()
-    if (now - start) > MAX_TIME:
+    if root in searched:
         return
     
     initialLinks = get_connections(root)
-    if (len(initialLinks)==0):
+    if not initialLinks:
         return
+
+    update_file(root, initialLinks)
+    print(f"Updated {root}")
 
     initialLinks = initialLinks[0]
     searched[root] = 1
     links[root] = initialLinks
-    threads = []
 
-    random.shuffle(initialLinks)
+    # Add new links to queue
+    for link in random.sample(initialLinks, min(len(initialLinks), MAX_LINKS_PER_PAGE)):
+        if link not in searched:
+            queue.put(link)
 
-    for con in initialLinks:
-        # Fix: Create thread with target function
-        t1 = threading.Thread(target=bfs, args=(con,))
-        t1.start()
-        threads.append(t1)
-    
-    for thread in threads:
-        thread.join()
+def bfs_worker(queue, executor):
+    """Worker function that processes items from the queue"""
+    while True:
+        try:
+            root = queue.get(timeout=5)  # 5 second timeout
+            if root is None:  # Poison pill
+                break
+            
+            executor.submit(process_links, root, queue)
+            queue.task_done()
+        except TimeoutError:
+            break
+        except Exception as e:
+            print(f"Worker error: {e}")
+            queue.task_done()
+            continue
 
-# consts
+# Constants
 searched = {}
 links = {}
-MAX_TIME = 40
+MAX_TIME = 1200
 LAST_FETCH = time.time()
-RATE_LIMIT = 0.2
+RATE_LIMIT = 0.3
+MAX_WORKERS = 20
+MAX_LINKS_PER_PAGE = 50  # Limit links processed per page
 start = time.time()
+retry = []
 
-# initialize based on data
+# Initialize based on data
 allFiles = [f for f in listdir('data/')]
 toCheck = []
 for file in allFiles:
@@ -130,22 +146,46 @@ for file in allFiles:
     links[file[:-4]] = connections
     toCheck.append(file[:-4])
 
-# main loop
+# Create work queue
+work_queue = Queue()
+
+# Add initial work to queue
+f = open('retry.txt', 'r')
+retryWords = f.read().strip().split('\n')
+random.shuffle(retryWords)
+random.shuffle(toCheck)
+for word in retryWords:
+    if word:
+        work_queue.put(word)
+
 for f in toCheck:
     for con in links[f]:
-        if not (con):
-            continue
+        if con and con not in searched:
+            work_queue.put(con)
 
-        bfs(con)
-
-
-# store data
-for title in links.keys():
-    f = open(f'data/{title.replace('/', '%2F')}.txt', 'w')
-    out = ''
-    for con in links[title]:
-        out += con + '\n'
+# Create thread pool and worker threads
+with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+    workers = []
+    for _ in range(MAX_WORKERS):
+        worker = threading.Thread(target=bfs_worker, args=(work_queue, executor))
+        worker.start()
+        workers.append(worker)
     
-    out = out.strip()
+    # Wait for queue to be processed
+    work_queue.join()
+    
+    # Send poison pills to stop workers
+    for _ in range(MAX_WORKERS):
+        work_queue.put(None)
+    
+    # Wait for all workers to finish
+    for worker in workers:
+        worker.join()
 
-    f.write(out)
+# Store data
+for title in links.keys():
+    update_file(title, [links[title]])
+
+f = open('retry.txt', 'w')
+for r in retry:
+    f.write(f'{r}\n')
