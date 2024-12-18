@@ -8,7 +8,7 @@ import random
 
 
 def parse_title(raw):
-    return raw.replace(" ", "_").replace("&", "%26")
+    return raw.replace(" ", "_").replace("&", "%26").replace("/", "%2F")
 
 def format_link(title, cont):
     link = f'https://en.wikipedia.org/w/api.php?action=query&titles={parse_title(title)}&prop=links&pllimit=max&format=json'
@@ -141,7 +141,7 @@ for f in toCheck:
 
 # store data
 for title in links.keys():
-    f = open(f'data/{title}.txt', 'w')
+    f = open(f'data/{title.replace('/', '%2F')}.txt', 'w')
     out = ''
     for con in links[title]:
         out += con + '\n'
