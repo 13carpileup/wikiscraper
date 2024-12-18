@@ -99,6 +99,7 @@ def process_links(root, queue):
     links[root] = initialLinks
 
     # Add new links to queue
+    random.shuffle(initialLinks)
     for link in initialLinks:
         if link not in searched:
             queue.put(link)
