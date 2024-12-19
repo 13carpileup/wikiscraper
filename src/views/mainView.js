@@ -7,7 +7,7 @@ function renderMainPage() {
             <link rel="stylesheet" href="/css/main.css">
         </head>
         <body>
-            <h1>Path Finder</h1>
+            <h1>Wikipedia Path Finder</h1>
             <form action="/" method="POST">
                 <div class="input-container">
                     <input type="text" name="from" id="fromInput" placeholder="From" required autocomplete="off">
