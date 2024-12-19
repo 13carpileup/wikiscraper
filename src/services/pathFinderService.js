@@ -3,7 +3,7 @@ const DBCache = require('./dbCache');
 
 
 class PathFinderService {
-    static async findPaths(initial, target) {
+    static async findPaths(initial, target, pathCount=3) {
         await DBCache.initDB();
 
         await FileService.logRequest(initial, target);
@@ -22,7 +22,7 @@ class PathFinderService {
             const currentPath = next[0];
             const connections = next[1];
 
-            if (foundLength != -1 && foundLength < currentPath.length || foundPaths.length > 5) break;
+            if (foundLength != -1 && foundLength < currentPath.length || foundPaths.length > pathCount) break;
 
             for (const con of connections) {
                 let res = await DBCache.checkCache(con, target);
@@ -62,7 +62,7 @@ class PathFinderService {
     }
 
     static async philosophyGame(initial) {
-        const result = await PathFinderService.findPaths(initial, "Philosophy");
+        const result = await PathFinderService.findPaths(initial, "Philosophy", 1);
         DBCache.addPhiloResults(initial, result[0].length);
         return result[0];
     }
