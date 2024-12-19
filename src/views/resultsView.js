@@ -17,7 +17,7 @@ function renderResultsPage(foundPaths) {
                    `).join('')}`
                 : '<p>No paths found.</p>'
             }
-            <a href="/" class="back-button">Try Another Search</a>
+            <a href="/search" class="back-button">Try Another Search</a>
         </body>
         </html>
     `;

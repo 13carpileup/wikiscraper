@@ -60,6 +60,11 @@ class PathFinderService {
 
         return foundPaths;
     }
+
+    static async philosophyGame(initial) {
+        const result = await PathFinderService.findPaths(initial, "Philosophy");
+        return result[0];
+    }
 }
 
 module.exports = PathFinderService;

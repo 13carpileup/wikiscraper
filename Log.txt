@@ -80,3 +80,6 @@ FROM ||Cover version|| TO ||Philosophy||
 FROM ||CNBC|| TO ||Iranian interference in the 2024 United States elections||
 FROM ||CNBC|| TO ||Iranian interference in the 2024 United States elections||
 FROM ||Chicken McNuggets|| TO ||Iranian interference in the 2024 United States elections||
+FROM ||Philosophy|| TO ||Chicken McNuggets||
+FROM ||asd|| TO ||asd||
+FROM ||Dwayne Johnson|| TO ||Philosophy||

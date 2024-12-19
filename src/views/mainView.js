@@ -20,6 +20,8 @@ function renderMainPage() {
                 <button type="submit">Find Path</button>
                 <i>NOTE: Some very obscure paths will throw 502 errors because my droplet isn't powerful enough to search for a complete path. Forgive me!</i>
             </form>
+            <br>
+            <a href="/">Return to main page</a>
             <script src="/js/autocomplete.js"></script>
         </body>
         </html>
