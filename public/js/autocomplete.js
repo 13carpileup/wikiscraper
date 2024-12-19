@@ -3,29 +3,48 @@ function setupAutocomplete(inputId, autocompleteId) {
     const autocompleteDiv = document.getElementById(autocompleteId);
     let currentFocus = -1;
 
+    let timeout = null;
+    autocompleteDiv.setAttribute("id", "autocomplete-list");
+    autocompleteDiv.setAttribute("class", "autocomplete-items");
+    input.parentNode.insertBefore(autocompleteDiv, input.nextSibling);
+
+
+    function closeAllLists() {
+        const autocompleteItems = document.getElementsByClassName('autocomplete-items');
+        Array.from(autocompleteItems).forEach(item => {
+            item.innerHTML = '';
+        });
+    }
+
     input.addEventListener('input', async function(e) {
-        closeAllLists();
         const val = this.value;
-        if (!val) return;
-
-        try {
+        if (!val) {
             closeAllLists();
-            const response = await fetch('/autocomplete?q=' + encodeURIComponent(val));
-            const items = await response.json();
-
-            items.forEach(item => {
-                const div = document.createElement('div');
-                div.innerHTML = item;
-                div.addEventListener('click', function(e) {
-                    input.value = item;
-                    closeAllLists();
-                });
-                autocompleteDiv.appendChild(div);
-            });
-        } catch (error) {
-            console.error('Error fetching autocomplete suggestions:', error);
+            return;
         }
+
+        clearTimeout(timeout);
+        timeout = setTimeout(async () => {
+            try {
+                const response = await fetch('/autocomplete?q=' + encodeURIComponent(val));
+                const items = await response.json();
+                closeAllLists();  // Clear only right before adding new items
+
+                items.forEach(item => {
+                    const div = document.createElement('div');
+                    div.innerHTML = item;
+                    div.addEventListener('click', function(e) {
+                        input.value = item;
+                        closeAllLists();
+                    });
+                    autocompleteDiv.appendChild(div);
+                });
+            } catch (error) {
+                console.error('Error fetching autocomplete suggestions:', error);
+            }
+        }, 150); // 150ms debounce
     });
+
 
     input.addEventListener('keydown', function(e) {
         const x = autocompleteDiv;
@@ -55,13 +74,6 @@ function setupAutocomplete(inputId, autocompleteId) {
         for (let i = 0; i < items.length; i++) {
             items[i].classList.remove('autocomplete-active');
         }
-    }
-}
-
-function closeAllLists() {
-    const autocompleteItems = document.getElementsByClassName('autocomplete-items');
-    for (let i = 0; i < autocompleteItems.length; i++) {
-        autocompleteItems[i].innerHTML = '';
     }
 }
 
