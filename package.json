@@ -1,0 +1,22 @@
+{
+  "name": "wikiscraper",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/13carpileup/wikiscraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/13carpileup/wikiscraper/issues"
+  },
+  "homepage": "https://github.com/13carpileup/wikiscraper#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

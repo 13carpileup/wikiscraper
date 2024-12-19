@@ -2,3 +2,4 @@
 .clang-format
 .clang-tidy
 .editorconfig
+node_modules
