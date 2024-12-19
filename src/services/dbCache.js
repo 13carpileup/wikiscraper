@@ -22,6 +22,7 @@ class DBCache {
     }
 
     static async getPhiloResults() {
+        await DBCache.initPhiloDB();
         let query = {
             text: 'SELECT initial, length FROM philo_game',
         };
