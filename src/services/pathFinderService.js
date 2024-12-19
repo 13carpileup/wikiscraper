@@ -4,8 +4,9 @@ class PathFinderService {
     static cache = new Map();
 
     static checkCache(initial, target) {
-        if (PathFinderService.cache.has([initial, target])) {
-            let res = PathFinderService.cache.get([initial, target]);
+        const key = `${initial}-${target}`;
+        if (PathFinderService.cache.has(key)) {
+            let res = PathFinderService.cache.get(key);
 
             if (res.length > 0) {
                 console.log("Found cache!")
@@ -16,29 +17,32 @@ class PathFinderService {
             return false;
         }
 
-        PathFinderService.cache.set([initial, target], []);
+        PathFinderService.cache.set(key, []);
         return false;
     }
 
     static addCache(initial, target, path) {
         PathFinderService.checkCache(initial, target);
+        const key = `${initial}-${target}`;
 
         for (let i = 0; i < path.length - 1; i++) {
             for (let j = i + 1; j < path.length; j++) {
-                const spliceArray = (res, i, j) => [...arr.slice(0, i), ...arr.slice(j)]
+                const subPath = (arr, i, j) => [...arr.slice(0, i), ...arr.slice(j)];
+                const spliceArray = subPath(path, i, j);
+
                 const newFrom = spliceArray[0];
                 const newTo = spliceArray[spliceArray.length - 1];
 
-                let res = PathFinderService.cache.get([newTo, newFrom]);
+                let res = PathFinderService.cache.get(key);
                 if (!res) {
-                    PathFinderService.cache.set([newFrom, newTo, [spliceArray]]);
+                    PathFinderService.cache.set(key, [spliceArray]);
                     continue;
                 }
 
                 if (res.includes(spliceArray)) continue;
 
                 res.push(spliceArray);
-                PathFinderService.cache.set([newFrom, newTo, res]);
+                PathFinderService.cache.set(key, res);
             }
         }
 
