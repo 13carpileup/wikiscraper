@@ -11,7 +11,35 @@ class DBCache {
         port: 5432,
     });
 
-    static cache = new Map();
+    static async initPhiloDB() {
+        const result = await DBCache.pool.query(`
+            CREATE TABLE IF NOT EXISTS philo_game (
+                id SERIAL PRIMARY KEY,
+                initial TEXT,
+                length BIGINT
+            )
+        `);
+    }
+
+    static async getPhiloResults() {
+        let query = {
+            text: 'SELECT initial, length FROM philo_game',
+        };
+
+        let result = await DBCache.pool.query(query);
+
+        return result.rows;
+    }
+
+    static async addPhiloResults(initial, length) {
+        await DBCache.initPhiloDB();
+        let query = {
+            text: 'INSERT INTO philo_game (initial, length) VALUES ($1, $2);',
+            values: [initial, length],
+        };
+
+        let result = await DBCache.pool.query(query);
+    }
 
     static async initDB() {
         // console.log("dropping...")

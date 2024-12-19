@@ -2,11 +2,13 @@ const express = require('express');
 const router = express.Router();
 const FileService = require('../services/fileService');
 const PathFinderService = require('../services/pathFinderService');
+const DBCache = require('../services/dbCache');
 const { renderHomePage } = require('../views/homeView');
 const { renderMainPage } = require('../views/mainView');
 const { renderResultsPage } = require('../views/resultsView');
 const { renderPhilosophyPage } = require('../views/philosophyView');
 const { renderPhiloResultsPage } = require('../views/philoResultsView');
+
 
 
 router.get('/', (req, res) => {
@@ -15,6 +17,18 @@ router.get('/', (req, res) => {
 
 router.get('/philo', (req, res) => {
     res.send(renderPhilosophyPage());
+});
+
+function compare(a, b) {
+    if (a.length > b.length) return -1;
+    else if (b.length > a.length) return 1;
+    return 0;
+}
+
+router.get('/philo/results', async (req, res) => {
+    const results = await DBCache.getPhiloResults();
+    results.sort(compare).slice(0, 10);
+    res.json(results);
 });
 
 router.post('/philo', async (req, res) => {

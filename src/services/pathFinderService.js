@@ -63,6 +63,7 @@ class PathFinderService {
 
     static async philosophyGame(initial) {
         const result = await PathFinderService.findPaths(initial, "Philosophy");
+        DBCache.addPhiloResults(initial, result[0].length);
         return result[0];
     }
 }
