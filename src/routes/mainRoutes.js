@@ -26,7 +26,7 @@ function compare(a, b) {
 }
 
 router.get('/philo/results', async (req, res) => {
-    const results = await DBCache.getPhiloResults();
+    let results = await DBCache.getPhiloResults();
     results.sort(compare).slice(0, 10);
     res.json(results);
 });

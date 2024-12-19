@@ -34,12 +34,22 @@ class DBCache {
 
     static async addPhiloResults(initial, length) {
         await DBCache.initPhiloDB();
+
         let query = {
+            text: 'SELECT * FROM philo_game WHERE initial = $1;',
+            values: [initial],
+        };
+
+        let result = await DBCache.pool.query(query);
+
+        if (result.rows.length != 0) return;
+
+        query = {
             text: 'INSERT INTO philo_game (initial, length) VALUES ($1, $2);',
             values: [initial, length],
         };
 
-        let result = await DBCache.pool.query(query);
+        result = await DBCache.pool.query(query);
     }
 
     static async initDB() {
