@@ -155,7 +155,7 @@ function renderPhilosophyPage() {
             <div class="container">
                 <h1>The Philosophy Game</h1>
                 <p class="description">
-                    Choose a page that is the <strong>furthest</strong> away from the Wikipedia page for Philosophy as possible.
+                    Choose a page that is as <strong>far</strong> away from the Wikipedia page for Philosophy as possible.
                 </p>
 
                 <div class="form-container">
