@@ -1,0 +1,524 @@
+ACM Computing Classification System
+Abhijit Gosavi
+Action selection
+Activation function
+Active learning (machine learning)
+Adversarial machine learning
+Alan Turing
+AlexNet
+Alex Graves (computer scientist)
+Alex Krizhevsky
+Algorithm
+Algorithm design
+Algorithmic efficiency
+Allen Newell
+AlphaFold
+AlphaGo
+AlphaZero
+Analysis of algorithms
+Andrej Karpathy
+Andrew Barto
+Andrew G. Barto
+Andrew Ng
+Andrew W. Moore
+Anomaly detection
+Application security
+Apprenticeship learning
+ArXiv (identifier)
+Artificial general intelligence
+Artificial intelligence
+Artificial neural network
+Association rule learning
+Attention (machine learning)
+Aurora (text-to-image model)
+AutoGPT
+Autoencoder
+Automata theory
+Automated machine learning
+Automated planning and scheduling
+Autoregressive model
+BERT (language model)
+BIRCH
+BLOOM (language model)
+Backgammon
+Backpropagation
+Bart De Schutter
+Basal ganglia
+Batch learning
+Batch normalization
+Bayesian network
+Bellman equation
+Bernard Widrow
+Bias–variance tradeoff
+Bibcode (identifier)
+Boltzmann machine
+Boosting (machine learning)
+Bootstrap aggregating
+Brute-force search
+CURE algorithm
+Canonical correlation
+ChatGPT
+Checkers
+Chinchilla (language model)
+Christopher J.C.H. Watkins
+CiteSeerX (identifier)
+Claude (language model)
+Claude Shannon
+Cliff Shaw
+Closed-form expression
+Cluster analysis
+Coefficient of determination
+Compiler construction
+Computability theory
+Computational biology
+Computational chemistry
+Computational complexity
+Computational complexity theory
+Computational engineering
+Computational geometry
+Computational learning theory
+Computational mathematics
+Computational physics
+Computational social science
+Computer accessibility
+Computer animation
+Computer architecture
+Computer data storage
+Computer graphics
+Computer hardware
+Computer network
+Computer science
+Computer security
+Computer vision
+Computing
+Computing platform
+Concurrency (computer science)
+Concurrent computing
+Conditional random field
+Conference on Neural Information Processing Systems
+Confusion matrix
+Conjugate gradient method
+Control theory
+Control variable (programming)
+Convolution
+Convolutional neural network
+Cross-entropy method
+Cross-validation (statistics)
+Crowdsourcing
+Cryptography
+Curriculum learning
+Cyberwarfare
+DALL-E
+DBSCAN
+Data augmentation
+Data cleaning
+Data mining
+Database
+David Silver (computer scientist)
+Decision support system
+Decision tree learning
+DeepDream
+DeepMind
+Deep learning
+Deep learning speech synthesis
+Deep reinforcement learning
+Demis Hassabis
+Density estimation
+Dependability
+Differentiable neural computer
+Diffusion model
+Diffusion process
+Digital art
+Digital library
+Digital marketing
+Dimensionality reduction
+Discrete mathematics
+Distributed artificial intelligence
+Distributed computing
+Distributional Soft Actor Critic
+Document management system
+Doi (identifier)
+Domain-specific language
+Dopamine
+Dopaminergic
+Double descent
+Dream Machine (text-to-video model)
+Dynamic programming
+E-commerce
+ECML PKDD
+Echo state network
+Educational technology
+Electrochemical RAM
+Electronic design automation
+Electronic publishing
+Electronic voting
+ElevenLabs
+Embedded system
+Empirical risk minimization
+End-to-end reinforcement learning
+Energy storage
+Ensemble learning
+Enterprise information system
+Enterprise software
+Error-driven learning
+Evolutionary computation
+Expectation–maximization algorithm
+Expected shortfall
+Exploration-exploitation dilemma
+Facial recognition system
+Factor analysis
+Feature engineering
+Feature learning
+Feedforward neural network
+Fei-Fei Li
+Flux (text-to-image model)
+Form factor (design)
+Formal language
+Formal methods
+Frank Rosenblatt
+Fuzzy clustering
+Fuzzy control system
+Fuzzy rule
+GPT-1
+GPT-2
+GPT-3
+GPT-4
+GPT-4o
+GPT-J
+Game theory
+Gated recurrent unit
+Gating mechanism
+Gemini (chatbot)
+Gemini (language model)
+Generative adversarial network
+Generative model
+Generative pre-trained transformer
+Geoffrey Hinton
+Geographic information system
+Gerhard Neumann
+GloVe
+Glossary of artificial intelligence
+Go (game)
+Gradient
+Gradient descent
+Grammar induction
+Graph neural network
+Graphical model
+Graphics processing unit
+Green computing
+Grok (chatbot)
+Hallucination (artificial intelligence)
+Handwriting recognition
+Hardware acceleration
+Hardware security
+Hdl (identifier)
+Health informatics
+Herbert A. Simon
+Hidden Markov model
+Hierarchical clustering
+Highway network
+Huawei PanGu
+Human-in-the-loop
+Human image synthesis
+Human–computer interaction
+Hyperparameter (machine learning)
+I.i.d
+IBM Granite
+IBM Watson
+IBM Watsonx
+ISBN (identifier)
+ISSN (identifier)
+I (newspaper)
+Ian Goodfellow
+Ideogram (text-to-image model)
+Ilya Sutskever
+Image compression
+Imagen (Google Brain)
+Imitation learning
+Independent component analysis
+Information retrieval
+Information security
+Information system
+Information theory
+Integrated circuit
+Integrated development environment
+Intelligent agent
+Interaction design
+International Conference on Learning Representations
+International Conference on Machine Learning
+International Joint Conference on Artificial Intelligence
+Interpreter (computing)
+Intrinsic motivation (artificial intelligence)
+Intrusion detection system
+Isolation forest
+JSTOR (identifier)
+Jan Peters (computer scientist)
+John Hopfield
+John McCarthy (computer scientist)
+John von Neumann
+Joseph Weizenbaum
+Journal of Machine Learning Research
+Jürgen Schmidhuber
+K-means clustering
+K-nearest neighbors algorithm
+Kernel machines
+Kling (text-to-video model)
+Knowledge representation and reasoning
+LaMDA
+Language model
+Large language model
+Latent diffusion model
+LeNet
+Learning curve (machine learning)
+Learning to rank
+Leslie P. Kaelbling
+Library (computing)
+Linear discriminant analysis
+Linear regression
+List of artificial intelligence companies
+List of artificial intelligence projects
+List of computer size categories
+List of datasets for machine-learning research
+List of datasets in computer vision and image processing
+Llama (language model)
+Local outlier factor
+Local search (optimization)
+Logic in computer science
+Logistic regression
+Long short-term memory
+Loss functions for classification
+Lotfi A. Zadeh
+Machine Learning (journal)
+Machine learning
+Mamba (deep learning architecture)
+Marc Peter Deisenroth
+Markov chain
+Markov decision process
+Marvin Minsky
+Mathematical analysis
+Mathematical optimization
+Mathematical software
+Mathematics of Operations Research
+Mean shift
+Memtransistor
+Meta-learning (computer science)
+Michael L. Littman
+Michael N. Katehakis
+Middleware
+Midjourney
+Mixed reality
+Model-free (reinforcement learning)
+Model of computation
+Model predictive control
+Modeling language
+Monte Carlo method
+Monte Carlo sampling
+Monte Carlo tree search
+MuZero
+Multi-agent reinforcement learning
+Multi-agent system
+Multi-armed bandit
+Multi-task learning
+Multilayer perceptron
+Multimedia database
+Multimodal learning
+Multiprocessing
+Multithreading (computer architecture)
+Music and artificial intelligence
+Naive Bayes classifier
+Nathaniel Rochester (computer scientist)
+Natural language processing
+Network architecture
+Network performance
+Network protocol
+Network scheduler
+Network security
+Network service
+Networking hardware
+Neural Turing machine
+Neural machine translation
+Neural network (machine learning)
+Neural radiance field
+Neuro-symbolic AI
+Neuromorphic engineering
+Non-negative matrix factorization
+Non-stationary
+Nonparametric statistics
+Normalization (machine learning)
+Numerical analysis
+OCLC (identifier)
+OPTICS algorithm
+Occam learning
+Oliver Selfridge
+Online machine learning
+Ontology learning
+Open-source software
+OpenAI Five
+OpenAI o1
+Operant conditioning
+Operating system
+Operations research
+Optical character recognition
+Optimal control
+Optimal control theory
+Outline of computer science
+Outline of machine learning
+Overfitting
+PMC (identifier)
+PMID (identifier)
+PaLM
+Parallel computing
+Parameter
+Partially observable Markov decision process
+Paul Werbos
+Perceptron
+Peripheral
+Permutation test
+Peter Auer
+Philosophy of artificial intelligence
+Photograph manipulation
+Photovoltaic system
+Policy iteration
+Predictive state representation
+Principal component analysis
+Printed circuit board
+Probability
+Probably approximately correct learning
+Process control
+Processor (computing)
+Programming language
+Programming language theory
+Programming paradigm
+Programming team
+Programming tool
+Project Debater
+Prompt engineering
+Proper generalized decomposition
+Proximal Policy Optimization
+Q-learning
+Quantum Computing
+Quantum machine learning
+Quasi-Newton method
+Random forest
+Random sample consensus
+Random sampling
+Random utility model
+Randomized algorithm
+Real-time computing
+Receiver operating characteristic
+Rectifier (neural networks)
+Recurrent neural network
+Regression analysis
+Regret (decision theory)
+Regularization (mathematics)
+Reinforcement
+Reinforcement learning from human feedback
+Relevance vector machine
+Rendering (computer graphics)
+Requirements analysis
+Reservoir computing
+Residual neural network
+Restricted Boltzmann machine
+Retrieval-augmented generation
+Reward-based selection
+Richard S. Sutton
+Robot control
+Robotics
+Ronald J. Williams
+Rule-based machine learning
+S2CID (identifier)
+SSRN (identifier)
+Santa Claus
+Security hacker
+Security service (telecommunication)
+Self-driving car
+Self-organizing map
+Self-play (reinforcement learning technique)
+Self-supervised learning
+Semantic analysis (machine learning)
+Semantics (computer science)
+Semi-supervised learning
+Seppo Linnainmaa
+Seq2seq
+Sethu Vijayakumar
+Seymour Papert
+Sigmoid function
+Simulated annealing
+Simulation
+Simulation-based optimization
+Social computing
+Social software
+Softmax function
+Software configuration management
+Software construction
+Software deployment
+Software design
+Software development
+Software development process
+Software engineering
+Software framework
+Software maintenance
+Software quality
+Software repository
+Solid modeling
+Sora (text-to-video model)
+Sparse dictionary learning
+Speech recognition
+Spiking neural network
+Stable Diffusion
+State–action–reward–state–action
+Statistical classification
+Statistical learning theory
+Statistics
+Stefan Schaal
+Stephen Grossberg
+Steven J. Bradtke
+Stochastic computing
+Stochastic gradient descent
+Stochastic optimization
+Structured prediction
+Student's t-test
+Substantia nigra
+Suno AI
+Supervised learning
+Support vector machine
+Swarm intelligence
+System on a chip
+T-distributed stochastic neighbor embedding
+T5 (language model)
+Temporal difference
+Temporal difference learning
+Text-to-image model
+Text-to-video model
+Theoretical computer science
+Theory of computation
+Training, validation, and test data sets
+Transfer learning
+Transformer (deep learning architecture)
+Transformer (machine learning model)
+U-Net
+Ubiquitous computing
+Udio
+Unsupervised learning
+Value function
+Value iteration
+Vapnik–Chervonenkis theory
+Variational autoencoder
+Very Large Scale Integration
+VideoPoet
+Video game
+Virtual machine
+Virtual reality
+Vision transformer
+Visualization (graphics)
+Walter Pitts
+Warren Sturgis McCulloch
+WaveNet
+Weight initialization
+Whisper (speech recognition system)
+Word2vec
+Word embedding
+Word processor
+World Wide Web
+Yann LeCun
+Yoshua Bengio

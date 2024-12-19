@@ -1,0 +1,321 @@
+ACM Computing Classification System
+AWK
+ActionScript
+Algorithm
+Algorithm design
+Algorithmic efficiency
+Analysis of algorithms
+Apache Thrift
+Application security
+Architecture description language
+Artificial intelligence
+Assembly language
+Automata theory
+Automated planning and scheduling
+Automated theorem prover
+BASIC
+Bayesian inference using Gibbs sampling
+Business rules engine
+Byte-code
+C++
+C (programming language)
+C Sharp (programming language)
+CiteSeerX (identifier)
+Code generation (compiler)
+ColdFusion
+ColdFusion Markup Language
+Compiled language
+Compiler construction
+Computability theory
+Computational biology
+Computational chemistry
+Computational complexity
+Computational complexity theory
+Computational engineering
+Computational geometry
+Computational mathematics
+Computational physics
+Computational social science
+Computer accessibility
+Computer algebra
+Computer animation
+Computer architecture
+Computer data storage
+Computer graphics
+Computer hardware
+Computer language
+Computer network
+Computer science
+Computer security
+Computer vision
+Computing
+Computing platform
+Concurrency (computer science)
+Concurrent computing
+Configuration language
+Consistency checker
+Control theory
+Control variable (programming)
+Cross-validation (statistics)
+Cryptography
+Csound
+Cucumber (software)
+Cyberwarfare
+Data definition language
+Data mining
+Database
+Decision support system
+Decision table
+Delphi (programming language)
+Dependability
+Digital art
+Digital library
+Digital marketing
+Discrete mathematics
+Distributed artificial intelligence
+Distributed computing
+Document management system
+Doi (identifier)
+Domain-specific entertainment language
+Domain-specific modeling
+Domain (software engineering)
+Domain engineering
+Drools
+E-commerce
+Eclipse Modeling Framework
+Educational technology
+Electronic design automation
+Electronic publishing
+Electronic voting
+Embedded system
+Enterprise information system
+Enterprise software
+Eric S. Raymond
+Esoteric programming language
+Fifth-generation programming language
+First-generation programming language
+Form factor (design)
+Formal language
+Formal methods
+Format string
+Fourth-generation programming language
+Functional language
+GIF
+GNU Octave
+GameMaker Studio
+Game Description Language
+General-purpose language
+Generic Eclipse Modeling System
+Geographic information system
+GrGen
+Gradle
+GraphViz
+Graph layout
+Graph rewriting
+Graphics processing unit
+Green computing
+Grep
+HTML
+Hardware acceleration
+Hardware security
+HashiCorp
+Hashicorp Configuration Language
+Health informatics
+High-level programming language
+Human–computer interaction
+ILOG
+ISBN (identifier)
+ISSN (identifier)
+Id Tech 2
+Image compression
+Information retrieval
+Information security
+Information system
+Information theory
+Integrated Development Environment
+Integrated circuit
+Integrated development environment
+Interaction design
+Interface description language
+International Thomson Publishing
+Interpreted language
+Interpreter (computing)
+Intrusion detection system
+JPEG
+James Larus
+Jargon
+Java (programming language)
+Java Object Oriented Querying
+JetBrains MPS
+Just another Gibbs sampler
+Knowledge representation and reasoning
+Kotlin (programming language)
+LINQ
+Language-oriented programming
+Language for specific purposes
+Language workbench
+Lexical analysis
+Library (computing)
+List of computer size categories
+Logic in computer science
+Logo (programming language)
+Low-level programming language
+Lua (programming language)
+MATLAB
+META II
+MUSH
+Machine code
+Machine learning
+Makefile
+Maple (software)
+Markup language
+Martin Fowler (software engineer)
+Mathematica
+Mathematical analysis
+Mathematical optimization
+Mathematical software
+Maxima (software)
+MediaWiki
+Metacompiler
+Metalanguage
+Metalinguistic abstraction
+Metaprogramming
+Methodology (software engineering)
+Middleware
+Mixed reality
+Model-driven engineering
+Model checker
+Model of computation
+Modeling language
+MontiCore
+Multi-task learning
+Multimedia database
+Multiprocessing
+Multithreading (computer architecture)
+Natural language processing
+Network architecture
+Network performance
+Network protocol
+Network scheduler
+Network security
+Network service
+Networking hardware
+Numerical analysis
+Object Constraint Language
+Off-side rule
+Open-source software
+OpenGL Shading Language
+Operating system
+Operating system shell
+Operations research
+Oracle Policy Automation
+Outline of computer science
+POV-Ray
+Page description language
+Parallel computing
+Parser
+Parsers
+Peripheral
+Perl
+Philosophy of artificial intelligence
+Photograph manipulation
+Photoshop
+PostScript
+Printed circuit board
+Probability
+Process control
+Processor (computing)
+Program transformation
+Programming domain
+Programming idiom
+Programming language
+Programming language generations
+Programming language theory
+Programming library
+Programming paradigm
+Programming team
+Programming tool
+Protocol Buffers
+Puppet (software)
+Python (programming language)
+QVT
+Quake (video game)
+Quantum Computing
+Queueing Networks
+R (programming language)
+Racket (programming language)
+Randomized algorithm
+Real-time computing
+Redundant code
+Regular expression
+Regular expressions
+Reinforcement learning
+Relational database
+Rendering (computer graphics)
+Requirements analysis
+S2CID (identifier)
+SQL
+SQLAlchemy
+S (programming language)
+Scripting language
+Second-generation programming language
+Security hacker
+Security service (telecommunication)
+Sed
+Semantics (computer science)
+Shell script
+Social computing
+Social software
+Software Requirements Specification
+Software configuration management
+Software construction
+Software deployment
+Software design
+Software development
+Software development process
+Software engineering
+Software framework
+Software maintenance
+Software quality
+Software repository
+Solid modeling
+Specification and Description Language
+Specification language
+Spreadsheet
+Stan (software)
+Statistics
+Stochastic computing
+Structure editor
+Subject-matter expert
+Supervised learning
+System on a chip
+TREE-META
+Terraform (software)
+The Art of Unix Programming
+Theoretical computer science
+Theory of computation
+Third-generation programming language
+Transclusion
+Turing-complete
+Type safety
+Ubiquitous computing
+Unified Modeling Language
+UnrealScript
+Unreal (1998 video game)
+Unreal Tournament
+Unsupervised learning
+VHSIC hardware description language
+Verilog
+Very Large Scale Integration
+Very high-level programming language
+Video game
+Virtual machine
+Virtual reality
+Visualization (graphics)
+Wayback Machine
+Well-formed formula
+Word processor
+World Wide Web
+XSLT
+Xtext
+Yacc

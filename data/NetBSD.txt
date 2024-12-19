@@ -1,0 +1,448 @@
+2.5GBASE-T
+32-bit computing
+386BSD
+501(c)
+64-bit computing
+68k
+A/UX
+AArch64
+ALTQ
+AMD64
+AMD Geode
+ARM Cortex-A8
+ARM architecture
+ARM big.LITTLE
+ARMv7-A
+ASLR
+ATAPI
+Access-control list
+Address space layout randomization
+Adiantum (cipher)
+Advanced Power Management
+Affinity mask
+AirPort Extreme
+Allwinner
+Amiga
+AmigaOS
+Amiga Fast File System
+Android (operating system)
+Apache HTTP Server
+Apple Inc.
+Apple M1
+Apple Macintosh
+Application software
+Applied Micro Circuits Corporation
+Apropos (Unix)
+Arch Linux
+Argon2
+Assembly language assembler
+Asus Tinker Board
+Atari Falcon030
+Atari TT
+AudioOS
+BSD
+BSD/OS
+BSD Daemon
+BSD disklabel
+BSD licenses
+Banana Pi
+BeagleBoard
+BeagleBone
+BeagleBone Black
+Berkeley Packet Filter
+Berkeley Software Design
+Berkeley Software Distribution
+Big.LITTLE
+Bill Joy
+Bio(4)
+Bioctl
+BlackBerry 10
+Bluetooth
+Bluetooth stack
+Bob Fabry
+BridgeOS
+Bus (computing)
+Busdma
+CHFS
+CTWM
+ChromeOS
+Clang
+Coherent (operating system)
+Columbia University
+Common Address Redundancy Protocol
+Comparison of BSD operating systems
+Comparison of open-source wireless drivers
+Comparison of operating system kernels
+Comparison of operating systems
+Compatibility layer
+Compiler
+Computer Systems Research Group
+Computer architecture
+Computer data storage
+Computer network
+Concurrent Versions System
+Content delivery network
+Cross-compiling
+Cross compiler
+Cubieboard2
+Cubietruck
+Cygwin
+DEC Alpha
+DTrace
+DYNIX
+Darling (software)
+Darwin (operating system)
+Debian
+Dell
+Dell Force10
+Device driver
+Device tree
+Direct Rendering Manager
+Direct memory access
+Dirhash
+Disk quota
+Domain/OS
+DragonFly BSD
+Dreamcast
+Embedded system
+Envsys
+Ethernet
+Eunice (software)
+Executable and Linkable Format
+Exokernel
+Explicit Congestion Notification
+Ext2fs
+Extent File System
+FAT32
+Fastly
+Fdisk
+Fedora Linux
+Fiber Distributed Data Interface
+File Allocation Table
+File system
+Filesystem
+Filesystem in Userspace
+Fine-grained locking
+Firewall (computing)
+Flash Memory
+Flash memory
+Floating-point arithmetic
+Fork (software development)
+FreeBSD
+Free and open-source
+Freescale
+Fsck
+GNOME
+GNU
+GNU Compiler Collection
+GNU General Public License
+GNU Hurd
+Gentoo Linux
+GhostBSD
+Giant lock
+Google Summer of Code
+HIPPI
+HP-UX
+HP 9000
+Hardware Accelerated Execution Manager
+Hardware abstraction layer
+Hardware monitoring
+Hdl (identifier)
+Hierarchical File System (Apple)
+History of Unix
+History of the Berkeley Software Distribution
+Hungary
+Hw.sensors
+Hyperthreading
+Hypervisor
+I2C
+I386
+IA-32
+IBM AIX
+IBM i
+IOS
+IPFilter
+IPadOS
+IPsec
+IPv6
+IRIX
+ISA Plug and Play
+ISBN (identifier)
+ISCSI
+IXsystems
+Illumos
+Industry Standard Architecture
+Instruction set
+Integrated Services Digital Network
+Intel
+Interix
+International Space Station
+Internet
+Internet2
+Interrupt
+Ioctl
+John Wiley & Sons
+Jordan Hubbard
+Journaling file system
+Journaling filesystem
+Junos OS
+Just-in-time compilation
+KDE
+Kaby Lake
+Keith Bostic (software engineer)
+Kerberos (protocol)
+Kernel-based Virtual Machine
+Kernel (operating system)
+Kernel preemption
+Kqueue
+Ktruss
+Large language model
+Lemote Yeeloong
+Linker (computing)
+Linux
+List of BSD operating systems
+List of Freescale products
+List of Linux distributions
+List of Unix systems
+Loadable kernel module
+Loadable kernel modules
+Locale (computer software)
+Logical Volume Manager (Linux)
+Logical volume management
+Loongson
+Lua (programming language)
+Lumina (desktop environment)
+Lynne Jolitz
+LynxOS
+MIPS architecture
+MKS Toolkit
+MOS (operating system)
+MVME68k
+MacOS
+MachTen
+Makefile
+Malloc
+Marshall Kirk McKusick
+Master of Mathematics
+Matthew Dillon
+Matthew Dillon (computer scientist)
+Meltdown (security vulnerability)
+Memory management unit
+Memory page
+Michael J. Karels
+Microsoft POSIX subsystem
+MidnightBSD
+Minicomputer
+Minix
+MirOS BSD
+Monolithic kernel
+Multiprotocol Label Switching
+NAND flash
+NASA
+NFSv3
+NPF (firewall)
+NTFS
+NVM Express
+NeXTSTEP
+NeXTcube
+NeXTstation
+Network Address Translation
+Network Time Protocol
+Non-uniform memory access
+Nouveau (software)
+O'Reilly Media
+ODROID-C1
+OSF/1
+OS X
+Open-source software
+OpenBSD
+OpenSSH
+OpenSSL
+OpenServer
+OpenSolaris
+OpenVMS
+OpenZFS
+Operating system
+Oracle Solaris
+Ozalp Babaoglu
+P.I.P.S.
+PA-RISC
+PC532
+PCMCIA
+PC Card
+PC compatible
+PF (firewall)
+POSIX
+PUFFS (NetBSD)
+PWS/VSE-AF
+PaX
+Package manager
+Packet Filter
+Paravirtualization
+Peripheral Component Interconnect
+Perl
+Permissive free software licence
+Personal Digital Assistant
+Pfsync
+Phase-locked loop
+Pkgsrc
+Platform independence
+PlayStation 3 system software
+PlayStation 4 system software
+PlayStation Vita system software
+Pluggable Authentication Modules
+Pocket PC
+Portable C Compiler
+Position-independent code
+Poul-Henning Kamp
+PowerPC
+PowerPC 400
+PowerQUICC
+Power Macintosh
+Processor-sets
+Processor affinity
+Programmer
+Property list
+Proplib(3)
+Protocol (computing)
+Pthread
+QEMU
+QNX
+QNX Software Systems
+RAID
+RISC-V
+RISC OS
+Radix tree
+Raising the Flag on Iwo Jima
+Raspberry Pi
+Raspberry Pi 2
+Raspberry Pi 3
+Raspberry Pi 4
+Real-time operating system
+Realtek
+Red Hat Enterprise Linux
+Red–black tree
+Repository (version control)
+Reproducible builds
+Research Unix
+Rump kernel
+SAMS-II Project
+SCSI
+SMBFS
+SPARC
+SPARCstation
+SUNET
+SUSE Linux
+Samuel Leffler
+Satellite
+Scheduler activations
+Scheduling (computing)
+Semantic versioning
+SerenityOS
+Server Base System Architecture
+Shared libraries
+Simplified BSD License
+Slab allocation
+Slab allocator
+Sleepycat Software
+Smartphone
+Soft updates
+Software license
+Software release life cycle
+Solaris (operating system)
+Source code
+Spectre (security vulnerability)
+Stack-smashing protection
+Stateful Firewall
+SunOS
+Sun Microsystems
+SuperH
+Symmetric multiprocessing
+Symmetrical multiprocessing
+Synchronization (computer science)
+System-on-a-Chip
+System call
+T-Mobile Sidekick
+TCP/IP
+Tcsh
+Terabyte
+Theo de Raadt
+Thread-local storage
+Thread (computer science)
+Time Capsule (Apple)
+Time t
+Tmpfs
+Tnftp
+Toaster
+Token Ring
+Transmission Control Protocol
+Trap (computing)
+Tru64 UNIX
+TrueOS
+TvOS
+Twm
+UEFI
+UNIX
+UNIX System Services
+UNIX System V
+USB
+USB 3.0
+USL v BSDi
+Ubuntu
+Ultrix
+Unified Buffer Cache
+Unified Extensible Firmware Interface
+Universal Disk Format
+University of California, Berkeley
+University of Szeged
+University of Waterloo
+Unix
+Unix-like
+UnixWare
+Unix File System
+Unix architecture
+Unix filesystem
+Unix philosophy
+Unix security
+Unix shell
+Usenet (identifier)
+Usenet newsgroup
+UserLAnd Technologies
+User interface
+User space and kernel space
+Userland (computing)
+VAX
+Veriexec
+Version 7 Unix
+Virtual file system
+Virtual memory
+Void Linux
+WAPBL
+W^X
+Walnut Creek CDROM
+Wasabi Systems
+WatchOS
+Western Washington University
+Wii
+William Jolitz
+Windows Services for UNIX
+Windows Subsystem for Linux
+WireGuard
+World War II
+Write Ahead Physical Block Logging
+X.Org Server
+X68k
+X86
+X86-64
+XDM (display manager)
+XFree86
+XScale
+X window manager
+Xen
+Xen (virtual machine monitor)
+Xenix
+Xilinx
+Year 2038 problem
+ZFS
+Zero-copy
+ΜClinux

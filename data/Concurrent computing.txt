@@ -1,0 +1,342 @@
+ABA problem
+API-Calculus
+Abductive logic programming
+Action language
+Actor model
+Actor model theory
+Ada (programming language)
+Agent-oriented programming
+Alef (programming language)
+Algebra of Communicating Processes
+Algebraic modeling language
+Alice (programming language)
+Ambient calculus
+Anonymous function
+Answer set programming
+Applicative programming language
+Array programming
+Aspect-oriented programming
+Assembly language
+Asynchronous I/O
+Ateji PX
+Atomic commit
+Attribute-oriented programming
+Automata-based programming
+Automatic mutual exclusion
+Automatic programming
+Axum (programming language)
+BMDFM
+Batch processing
+Bayesian program synthesis
+Block (programming)
+C++
+C.A.R. Hoare
+C Sharp (programming language)
+Cache coherence
+Calculus of Communicating Systems
+Calculus of communicating systems
+Callback (computer programming)
+Central processing unit
+Channel (programming)
+Choreographic programming
+Chu space
+Cigarette smokers problem
+Cilk
+Class-based programming
+Clojure
+Coarray Fortran
+Command language
+Communicating Sequential Processes
+Communicating sequential processes
+Communications of the ACM
+Comparison of functional programming languages
+Comparison of multi-paradigm programming languages
+Comparison of programming languages (object-oriented programming)
+Compiled language
+Component-based software engineering
+Computation
+Computer
+Computer data storage
+Computer multitasking
+Computer network
+Computer program
+Computing
+Concatenative programming language
+Concurrency (computer science)
+Concurrency control
+Concurrent Clean
+Concurrent Collections
+Concurrent Computer Corporation
+Concurrent Haskell
+Concurrent ML
+Concurrent Pascal
+Concurrent constraint logic programming
+Concurrent data structure
+Concurrent hash table
+Concurrent logic programming
+Concurrent object-oriented programming
+Concurrent user
+Consistency model
+Constraint logic programming
+Constraint programming
+Cooperative multitasking
+Coprocessor
+Coroutine
+Curry (programming language)
+Cω
+D (programming language)
+Data-driven programming
+Data-oriented design
+Database management system
+Dataflow architecture
+Dataflow programming
+Deadlock (computer science)
+Declarative programming
+Decomposition (computer science)
+Dependent type
+Design by contract
+Differentiable programming
+Dining philosophers problem
+Distributed computing
+Doi (identifier)
+Domain-specific language
+Dynamic programming language
+ECMAScript
+E (programming language)
+Edsger Dijkstra
+Edsger W. Dijkstra
+Eiffel (programming language)
+Elixir (programming language)
+End-user development
+Erlang (programming language)
+Esoteric programming language
+Event-driven programming
+Expression-oriented programming language
+Extensible programming
+FAUST (programming language)
+Feature-oriented programming
+Fifth-generation programming language
+Filter (software)
+First-generation programming language
+Flow-based programming
+Fortran
+Fourth-generation programming language
+Function-level programming
+Functional logic programming
+Functional programming
+Functional reactive programming
+Future (programming)
+Futures and promises
+Generalized algebraic data type
+Generic programming
+Go (programming language)
+Grammar-oriented programming
+Graph rewriting
+Gustafson's law
+Haskell (programming language)
+Haskell programming language
+High-level programming language
+Higher-order programming
+Homoiconicity
+Hume (programming language)
+Hygienic macro
+ISBN (identifier)
+Immutable object
+Imperative programming
+Indeterminacy in concurrent computation
+Inductive logic programming
+Inductive programming
+Inferential programming
+Inferno (operating system)
+Input/output automaton
+Intentional programming
+Interactive programming
+Interface description language
+Interpreted language
+Invariant-based programming
+Io (programming language)
+Jackson structured programming
+Janus (concurrent constraint programming language)
+JavaScript
+Java (programming language)
+Java (software platform)
+Java ConcurrentMap
+JoCaml
+Join-calculus
+Join Java
+Joule (programming language)
+Joyce (programming language)
+Julia (programming language)
+Kleene algebra
+LabVIEW
+Language-oriented programming
+Language Of Temporal Ordering Specification
+Leslie Lamport
+Limbo (programming language)
+Linearizability
+Lisp (programming language)
+List comprehension
+List of concurrent programming languages
+List of object-oriented programming languages
+Literate programming
+Locomotive BASIC
+Logic programming
+Low-code development platform
+Low-level programming language
+Machine code
+Macro (computer science)
+Macroprogramming
+Message passing
+Message passing programming
+Metalinguistic abstraction
+Metaprogramming
+Modeling language
+Modula-2
+Modula-3
+Modular programming
+Monitor (synchronization)
+Multi-core processor
+Multi-paradigm programming language
+Multi-processor
+Multi-stage programming
+MultiLisp
+Multitier programming
+Mutual exclusion
+Natural-language programming
+Nested function
+Newsqueak
+Non-English-based programming languages
+Non-blocking algorithm
+Non-structured programming
+Nondeterministic programming
+OCaml
+Object-based language
+Object-oriented programming
+Object REXX
+Occam-π
+Occam (programming language)
+Ontology language
+OpenMP
+Open MPI
+Orc (programming language)
+Organic computing
+Oz (programming language)
+PEPA
+PHP
+Page description language
+ParaSail (programming language)
+Parallel Random Access Machine
+Parallel computing
+Parallel programming model
+Partial application
+Partitioned global address space
+Pattern matching
+Per Brinch Hansen
+Persistent programming language
+Petri net
+Pi calculus
+Pict (programming language)
+Pipeline (software)
+Plan 9 from Bell Labs
+Preemptive multitasking
+Probabilistic logic programming
+Probabilistic programming
+Procedural programming
+Process-oriented programming
+Process (computer science)
+Process (computing)
+Process calculi
+Process calculus
+Producer–consumer problem
+Production system (computer science)
+Program synthesis
+Programming by demonstration
+Programming by example
+Programming in the large and programming in the small
+Programming language generations
+Programming paradigm
+Prototype-based programming
+Ptolemy Project
+Purely functional programming
+Python (programming language)
+Quantum programming
+Query language
+Race condition
+Raku (programming language)
+Reactive programming
+Readers–writers problem
+Rebol
+Recursion (computer science)
+Red (programming language)
+Reflective programming
+Reia (programming language)
+Relativistic programming
+Relaxed sequential
+Resource starvation
+Rob Pike
+Role-oriented programming
+Rust (programming language)
+S2CID (identifier)
+SCOOP (software)
+SR language
+Scala (programming language)
+Scheduling (computing)
+Scheme (programming language)
+Scientific programming language
+Scripting language
+Second-generation programming language
+Self-modifying code
+Semaphore (programming)
+Separation of concerns
+SequenceL
+Sequential consistency
+Serializability
+Service-oriented programming
+Set theoretic programming
+Shared memory (interprocess communication)
+Sharing
+Signal programming
+Simulation language
+Sleeping barber problem
+Software transactional memory
+Spacecraft command language
+Stack-oriented programming
+Standard ML
+Stream processing
+Strict programming language
+Structured concurrency
+Structured programming
+Subject-oriented programming
+SuperPascal
+Swift (programming language)
+Symbolic programming
+Symmetric multiprocessing
+Synchronous programming language
+System programming language
+TNSDL
+Tacit programming
+Tactile programming language
+Telegraphy
+Template metaprogramming
+Template processor
+Temporal logic of actions
+Third-generation programming language
+Thread (computer science)
+Thread (computing)
+Thread safety
+Time-division multiplexing
+Time-sharing
+Total functional programming
+Trace theory
+Transaction processing
+Transformation language
+Unicon (programming language)
+Uniform Function Call Syntax
+VHDL
+Value-level programming
+Very high-level programming language
+Visual programming language
+Web worker
+XC (programming language)
+XMOS
+Π-calculus

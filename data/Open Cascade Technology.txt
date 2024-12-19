@@ -1,0 +1,265 @@
+.dwg
+3D Manufacturing Format
+ABViewer
+ACIS
+ADINA
+Abaqus
+Actran
+Additive manufacturing file format
+Advanced Simulation Library
+Alibre Design
+Allegro (CAD software)
+Altair Engineering
+Altium Designer
+Android (operating system)
+Ansys
+ArchiCAD
+Areva
+AutoCAD
+AutoCAD DXF
+AutoCAD Electrical
+AutoTURN
+Autodesk Alias
+Autodesk Inventor
+Autodesk Revit
+Autodesk Simulation
+Autotrax
+B-spline
+BRL-CAD
+BoardStation
+Boundary representation
+Bounding volume hierarchy
+BricsCAD
+Bugtracker
+Building Information Modeling
+Building information modeling
+Bézier curve
+Bézier surface
+C++
+C3D Toolkit
+CADKEY
+CADSTAR
+CATIA
+CMake
+COMSOL Multiphysics
+CONSELF
+CR-2000
+CR-3000
+CR-5000
+CR-8000
+Calculix
+Cimatron
+Circle
+CircuitMaker
+Cobalt (CAD program)
+Code Saturne
+Comparison of computer-aided design software
+Computer-aided design
+Computer-aided engineering
+Computer-aided manufacturing
+Computer Simulation Technology
+Cone
+Contributor License Agreement
+Cylinder
+DAC-1
+DIANA FEA
+Dassault Systèmes
+Deal.II
+Delta Design
+DesignSpark Mechanical
+DesignSpark PCB
+Design Web Format
+DipTrace
+EAGLE (program)
+EasyCAD
+EasyEDA
+Easymill
+Easytrax
+Electric (software)
+Electronic design automation
+Ellipse
+Elmer FEM solver
+Euclid (computer program)
+Euriware
+FEATool Multiphysics
+FEBio
+FEniCS Project
+FINE MEP
+FORAN System
+FastCAD
+Fedora Project
+Femap
+File format
+Fillet (mechanics)
+Finite element method
+Fluent, Inc.
+FreeBSD
+FreeCAD
+FreeFem++
+FreePCB
+FreeStyle (CAD software)
+FreeType
+Free and open-source software
+Free hardware
+Fritzing
+Fusion 360
+GEDA
+GNU Lesser General Public License
+GPL
+Geometric modeling kernel
+Gerris (software)
+GetFEM++
+GitHub
+Git (software)
+GlTF
+Gmsh
+Grasshopper 3D
+GstarCAD
+HeeksCAD
+History of CAD software
+Horizon EDA
+IGES
+IOS
+IRONCAD
+ISO 10303
+Industry Foundation Classes
+IntegraStation
+IntelliCAD
+JCMsuite
+JMAG
+KIVA (software)
+KTechLab
+KernelCAD
+KeyCreator
+KiCad
+LS-DYNA
+LTspice
+LibreCAD
+License compatibility
+Linear algebra
+Linux
+LinuxCNC
+List of CAx companies
+MEDUSA4
+MOOSE (software)
+MSC Adams
+MSC Marc
+Mac OS X
+Magic (software)
+Mantis Bug Tracker
+Mastercam
+Matra
+MazaCAM
+Mechanical systems drawing
+Micro-Cap
+MicroStation
+Microsoft Windows
+Midas Civil
+NC-CAM
+NI Multisim
+NI Ultiboard
+Nastran
+Nek5000
+Nektar++
+Ngspice
+Onshape
+Open-source software
+OpenCL
+OpenFOAM
+OpenGL
+OpenGL ES
+OpenGL Shading Language
+OpenSCAD
+Open Cascade
+Open Design Alliance
+Open Packaging Conventions
+Operating system
+OrCAD
+Order-independent transparency
+Oregano (software)
+P-CAD
+PADS (CAD software)
+PCB (software)
+PDMS (software)
+PLY (file format)
+PSpice circuit file
+PTC Creo
+PTC Creo Elements/Direct Drafting
+PTC Creo Elements/Pro
+Parabola
+Parasolid
+Path Tracing
+Path tracing
+Phong shading
+Physically based rendering
+PowerMILL
+Pro/DESKTOP
+Product and manufacturing information
+Programmer
+Proprietary software
+Protel (CAD software)
+Proteus Design Suite
+Pulsonix
+Python (programming language)
+QBlade
+QCAD
+Quite Universal Circuit Simulator
+RFEM
+RUCAPS
+RattleCAD
+Ray tracing (graphics)
+Repository (version control)
+Rhinoceros 3D
+Romulus (modelling kernel)
+Russian Geometric Kernel
+SENER
+SESAM (FEM)
+STL (file format)
+Salome (software)
+ShapeManager
+Siemens NX
+SimScale
+Simcenter STAR-CCM+
+Sketchpad
+SmartCAM
+Software categories
+Software license
+Software release life cycle
+SolidWorks
+Solid Edge
+Solid Modeling Solutions
+SolveSpace
+SpaceClaim
+Specctra
+Sphere
+SprutCAM
+Stanford University Unstructured
+Stereo display
+Surface of revolution
+Surface triangulation
+T-FLEX CAD
+TARGET (CAD software)
+TangoPCB
+Tcl
+Tech Soft 3D
+Teigha
+Threading Building Blocks
+Tinkercad
+TopoR
+Torus
+TurboCAD
+UNISURF
+UTF-8
+Upverter
+VRML
+VTK
+VariCAD
+Vertex buffer object
+VoluMill
+Wavefront .obj file
+Wayback Machine
+WebAssembly
+WebGL
+WorkNC
+XCircuit
+Xpedition (CAD software)

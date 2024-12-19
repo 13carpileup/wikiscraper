@@ -1,0 +1,243 @@
+386BSD
+ATTRIB
+Active partition
+Address Resolution Protocol
+Apple Computer, Inc
+Apple Inc.
+ArcaOS
+At (command)
+Auditpol
+BSD
+BSD disklabel
+Background Intelligent Transfer Service
+Bcdedit
+BitLocker
+Bootcfg
+Bootsect
+Break (command)
+CHCP (command)
+CHKDSK
+COMMAND.COM
+CP/M-86
+CURL
+Cabinet (file format)
+Cacls
+Cd (command)
+Cfdisk
+Choice (command)
+Clipboard (computing)
+Cls (command)
+Cmd.exe
+Cmdkey
+Command-line interface
+Command-line utility
+Command (computing)
+Comment (computer programming)
+Commercial software
+Comp (command)
+Compact (computing)
+Conditional (computer programming)
+Convert (command)
+Copy (command)
+DATE (command)
+DOS
+DOSKEY
+DR DOS
+DR DOS 6.0
+Datalight
+Debug (command)
+Del (command)
+Deltree
+Device Manager
+Digital Research
+Dir (command)
+Disk Defragmenter (Windows)
+Disk Management
+Disk partitioning
+Diskcomp
+Diskcopy
+Diskpart
+Diskraid
+Dispdiag
+Dpath
+DragonFly BSD
+Drvspace
+EComStation
+Echo (command)
+Edlin
+Encrypting File System
+Environment variable
+Event Viewer
+Exe2bin
+Exit (command)
+FAT12
+FAT16
+FAT16B
+FAT32
+File Compare
+File association
+Find (Windows)
+Findstr
+Fixboot
+Fixmbr
+FlexOS
+For loop
+Forfiles
+Format (command)
+FreeBSD
+FreeDOS
+Fsutil
+Ftype
+GNU GPLv2
+GUI
+GUID Partition Table
+Goto
+Graftabl
+Group Policy
+Hard disk
+Help (command)
+High Performance File System
+Hostname
+IBM
+IBM Journaled File System 2 (JFS2)
+IBM PC/XT
+IBM PC DOS
+ISBN (identifier)
+Ipconfig
+Kill (command)
+Label (command)
+List of DOS commands
+List of disk partitioning software
+Logical Volume Manager (Linux)
+Logical drive
+Logman
+MAC address
+MS-DOS
+MS-DOS Editor
+MSCDEX
+MacOS
+Mach (kernel)
+Master boot record
+Microsoft
+Microsoft Press
+Microsoft ScanDisk
+Microsoft Windows
+Microsoft Windows 95
+Mkdir
+Mklink
+Mode (command)
+Mofcomp
+More (command)
+Move (command)
+NTBackup
+Nbtstat
+Ncurses
+NetBSD
+Net (command)
+Netsh
+Netstat
+Novell
+Nslookup
+O'Reilly Media
+OS/2
+OpenBSD
+OpenSSH
+Openfiles
+Operating system
+Osborne McGraw-Hill
+PATH (variable)
+PRINT (command)
+PTS-DOS
+Paragon Technology GmbH
+PathPing
+Pause (command)
+Pax (command)
+Pentium FDIV bug
+Ping (networking utility)
+Pnpunattend
+Pnputil
+PowerShell
+Powercfg
+Programmer
+Proprietary software
+Pushd and popd
+QBasic
+REAgentC
+ROM-DOS
+Recover (command)
+Recovery Console
+Refsutil
+Regsvr32
+Relog
+Ren (command)
+Replace (command)
+Rmdir
+Robocopy
+Route (command)
+Rpcping
+Runas
+SISNE plus
+SUBST
+SYS (command)
+Scripting language
+Secure copy protocol
+Secure file transfer program
+Setspn
+Setver
+Shadow Copy
+Shell builtin
+Shutdown (computing)
+Software categories
+Software development
+Software license
+Ssh-agent
+Ssh-keygen
+Start (command)
+Sxstrace
+SysV
+System File Checker
+Systeminfo
+TIME (command)
+TYPE (DOS command)
+Takeown
+Tar (computing)
+Taskkill
+Tasklist
+Text-based user interface
+Text mode
+Timeout (computing)
+Title (command)
+Tpmtool
+Tpmvscmgr
+Traceroute
+Tracerpt
+Tree (command)
+Typeperf
+Util-linux
+Ver (command)
+Vol (command)
+W32tm
+WBAdmin
+Wayback Machine
+Wecutil
+Wevtutil
+Where (command)
+Whoami
+Windows 2000
+Windows 95
+Windows 98
+Windows Assessment and Deployment Kit
+Windows Installer
+Windows ME
+Windows Management Instrumentation Command-line
+Windows Registry
+Windows Remote Management
+Windows Script Host
+Windows Subsystem for Linux
+Windows Support Tools
+Windows System Assessment Tool
+Windows Task Scheduler
+Windows service
+Winmgmt
+XCOPY
+Xenix

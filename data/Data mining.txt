@@ -1,0 +1,593 @@
+ACM Computing Classification System
+ADVISE
+AI
+A priori probability
+Academic Press
+Academic journal
+Active learning (machine learning)
+Agent mining
+Aggregate (data warehouse)
+Aggregate function
+AlexNet
+Algorithm
+Algorithm design
+Algorithmic efficiency
+Amazon.com
+Amazon SageMaker
+Analysis of algorithms
+Analytics
+Anchor modeling
+Angoss
+Anomaly detection
+Application security
+Applied statistics
+Apprenticeship learning
+Artificial intelligence
+Artificial neural network
+Association for Computing Machinery
+Association rule learning
+Association rule mining
+Autoencoder
+Automata theory
+Automated machine learning
+Automated planning and scheduling
+Automatic number plate recognition in the United Kingdom
+Automatic summarization
+BIRCH
+Batch learning
+Bayes' theorem
+Bayesian network
+Behavior informatics
+Bias–variance tradeoff
+Big data
+Bill Inmon
+Bing Liu (computer scientist)
+Bioinformatics
+Boltzmann machine
+Boosting (machine learning)
+Bootstrap aggregating
+Business intelligence
+Business intelligence software
+Buzzword
+C++
+CIKM Conference
+CJEU
+CURE algorithm
+Cambridge University Press
+Canonical correlation
+Carrot2
+Chemicalize.org
+Cluster analysis
+Coefficient of determination
+Column-oriented DBMS
+Comparison of OLAP servers
+Compiler construction
+Computability theory
+Computational biology
+Computational chemistry
+Computational complexity
+Computational complexity theory
+Computational engineering
+Computational geometry
+Computational learning theory
+Computational mathematics
+Computational physics
+Computational social science
+Computer accessibility
+Computer animation
+Computer architecture
+Computer data storage
+Computer graphics
+Computer hardware
+Computer network
+Computer science
+Computer security
+Computer vision
+Computing
+Computing platform
+Concurrency (computer science)
+Concurrent computing
+Conditional random field
+Conference on Information and Knowledge Management
+Conference on Knowledge Discovery and Data Mining
+Conference on Neural Information Processing Systems
+Confidentiality
+Confusion matrix
+Control theory
+Control variable (programming)
+Convolutional neural network
+Copyright law of the European Union
+Corporate information factory
+Cross-industry standard process for data mining
+Cross-validation (statistics)
+Cross Industry Standard Process for Data Mining
+Crowdsourcing
+Cryptocurrency
+Cryptography
+Curriculum learning
+Customer analytics
+Cyberwarfare
+DATADVANCE
+DBSCAN
+Dan Linstedt
+Dashboard (business)
+Data
+Data Mining Extensions
+Data acquisition
+Data aggregation
+Data analysis
+Data and information visualization
+Data anonymization
+Data archaeology
+Data augmentation
+Data cleaning
+Data cleansing
+Data collection
+Data compression
+Data cooperative
+Data corruption
+Data curation
+Data degradation
+Data dictionary
+Data dredging
+Data ecosystem
+Data editing
+Data ethics
+Data extraction
+Data farming
+Data format management
+Data fusion
+Data governance
+Data hub
+Data infrastructure
+Data integration
+Data integrity
+Data library
+Data lineage
+Data loading
+Data loss
+Data management
+Data mart
+Data mesh
+Data migration
+Data philanthropy
+Data pre-processing
+Data preservation
+Data privacy
+Data processing
+Data publishing
+Data quality
+Data recovery
+Data reduction
+Data retention
+Data science
+Data scraping
+Data scrubbing
+Data security
+Data set
+Data snooping
+Data steward
+Data storage
+Data synchronization
+Data transformation
+Data type
+Data validation
+Data vault modeling
+Data warehouse
+Data warehouse automation
+Data wrangling
+Database
+Database Directive
+Database management
+Database system
+Decision rules
+Decision support system
+Decision tree
+Decision tree learning
+DeepDream
+Deep learning
+Degenerate dimension
+Density estimation
+Dependability
+Dependency (computer science)
+Diffusion model
+Digital art
+Digital library
+Digital marketing
+Dimension (data warehouse)
+Dimension table
+Dimensional modeling
+Dimensionality reduction
+Discrete mathematics
+Distributed artificial intelligence
+Distributed computing
+Document management system
+Doi (identifier)
+Domain-specific language
+Domain driven data mining
+Drug discovery
+E-commerce
+ECML PKDD
+ELKI
+Early-arriving fact
+Echo state network
+Educational data mining
+Educational technology
+Edward Snowden
+Electrochemical RAM
+Electronic design automation
+Electronic discovery
+Electronic publishing
+Electronic voting
+Embedded system
+Empirical risk minimization
+Ensemble learning
+Enterprise bus matrix
+Enterprise information system
+Enterprise software
+Ethics
+European Commission
+European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases
+European Union
+Examples of data mining
+Expectation–maximization algorithm
+Exploratory data analysis
+Extract, load, transform
+Extract, transform, load
+Fact (data warehouse)
+Fact table
+Factor analysis
+Fair use
+Family Educational Rights and Privacy Act
+Feature engineering
+Feature learning
+Feedforward neural network
+Focal point modeling
+Form factor (design)
+Formal language
+Formal methods
+Fuzzy clustering
+GNU Project
+Gated recurrent unit
+General Architecture for Text Engineering
+Generative adversarial network
+Generative model
+Genetic algorithms
+Geographic information system
+Global surveillance disclosure
+Glossary of artificial intelligence
+Google
+Google Book Search Settlement Agreement
+Google Cloud Platform
+Google Scholar
+Grammar induction
+Graphical model
+Graphics processing unit
+Green computing
+Gregory Piatetsky-Shapiro
+HOLAP
+Hardware acceleration
+Hardware security
+Hargreaves review
+Health Insurance Portability and Accountability Act
+Health informatics
+Hewlett-Packard
+Hidden Markov model
+Hierarchical clustering
+Human-in-the-loop
+Human–computer interaction
+IBM
+ISBN (identifier)
+ISSN (identifier)
+Ian H. Witten
+Image compression
+Independent component analysis
+InformationWeek
+Information Society Directive
+Information extraction
+Information integration
+Information privacy
+Information retrieval
+Information security
+Information system
+Information theory
+Integrated circuit
+Integrated development environment
+Intellectual property
+Intention mining
+Interaction design
+Interdisciplinary
+International Conference on Learning Representations
+International Conference on Machine Learning
+International Conference on Very Large Data Bases
+International Joint Conference on Artificial Intelligence
+International Journal of Data Warehousing and Mining
+International Safe Harbor Privacy Principles
+Interpreter (computing)
+Intrusion detection system
+Isolation forest
+JSTOR (identifier)
+Java (programming language)
+Java Data Mining
+Jerome H. Friedman
+Jiawei Han
+Journal of Machine Learning Research
+K-means clustering
+K-nearest neighbors algorithm
+KDD Conference
+KDnuggets
+KNIME
+Kernel machines
+Kluwer Academic Publishers
+Knowledge discovery
+Knowledge extraction
+Knowledge representation and reasoning
+LIONsolver
+Law enforcement
+LeNet
+Learning classifier system
+Learning curve (machine learning)
+Learning to rank
+Library (computing)
+Limitations and exceptions to copyright
+Linear discriminant analysis
+Linear regression
+List of computer science conferences
+List of computer size categories
+List of datasets for machine-learning research
+List of datasets in computer vision and image processing
+List of reporting software
+Local outlier factor
+Logic in computer science
+Logistic regression
+Long short-term memory
+Lua (programming language)
+MOA (Massive Online Analysis)
+MOLAP
+Machine Learning (journal)
+Machine learning
+Mamba (deep learning architecture)
+Marketing campaign
+Mass surveillance
+Mathematical analysis
+Mathematical optimization
+Mathematical software
+Mean shift
+Measure (data warehouse)
+Memtransistor
+Meta-learning (computer science)
+Metadata
+Michael Lovell
+Microsoft
+Microsoft Academic Search
+Microsoft Analysis Services
+Middleware
+Misnomer
+Missing data
+Mixed reality
+Mlpack
+Model of computation
+Modeling language
+Morgan Kaufmann
+Multi-agent reinforcement learning
+Multi-task learning
+MultiDimensional eXpressions
+Multi expression programming
+Multilinear subspace learning
+Multimedia database
+Multimodal learning
+Multiprocessing
+Multithreading (computer architecture)
+Multivariate statistics
+NLTK
+Naive Bayes classifier
+Named-entity recognition
+National Security Agency
+National security
+Natural Language Toolkit
+Natural language processing
+NetOwl
+Network architecture
+Network performance
+Network protocol
+Network scheduler
+Network security
+Network service
+Networking hardware
+Neural radiance field
+Neuro-symbolic AI
+Neuromorphic engineering
+Non-negative matrix factorization
+Numerical analysis
+OCLC (identifier)
+OLAP cube
+OPTICS algorithm
+Occam learning
+Online algorithm
+Online analytical processing
+Online machine learning
+Ontology learning
+Open-source
+Open-source software
+OpenNN
+Open access
+Open data
+Operating system
+Operational data store
+Operations research
+Oracle Corporation
+Oracle Data Mining
+Orange (software)
+Outlier detection
+Outline of computer science
+Outline of machine learning
+Overfitting
+PMID (identifier)
+PSPP
+PSeven
+Parallel computing
+Pattern
+Perceptron
+Peripheral
+Personally identifiable information
+Philip S. Yu
+Philosophy of artificial intelligence
+Photograph manipulation
+PolyAnalyst
+Predictive Model Markup Language
+Predictive analytics
+Prentice Hall
+Principal component analysis
+Printed circuit board
+Privacy
+Privacy violation
+Probability
+Probably approximately correct learning
+Process control
+Processor (computing)
+Profiling (information science)
+Programming language
+Programming language theory
+Programming paradigm
+Programming team
+Programming tool
+Proper generalized decomposition
+Psychometrics
+Python (programming language)
+Q-learning
+Qlucore
+Quantitative structure–activity relationship
+Quantum Computing
+Quantum machine learning
+ROLAP
+R (programming language)
+Ralph Kimball
+Random forest
+Random sample consensus
+Randomized algorithm
+RapidMiner
+Real-time computing
+Real-time data
+Receiver operating characteristic
+Recurrent neural network
+Regression analysis
+Reinforcement learning
+Reinforcement learning from human feedback
+Relevance vector machine
+Rendering (computer graphics)
+Reproducibility
+Requirements analysis
+Reservoir computing
+Restricted Boltzmann machine
+Reverse star schema
+Review of Economic Studies
+Robert Tibshirani
+Rule-based machine learning
+S2CID (identifier)
+SAS (software)
+SAS Institute
+SEMMA
+SIGKDD
+SIGMOD
+SPSS
+SPSS Modeler
+SSRN (identifier)
+STATISTICA
+San Diego
+Scientific computing
+Scikit-learn
+Security hacker
+Security service (telecommunication)
+Self-organizing map
+Self-play (reinforcement learning technique)
+Self-supervised learning
+Semantic analysis (machine learning)
+Semantics (computer science)
+Semi-supervised learning
+Sequence mining
+Sequential pattern mining
+Single version of the truth
+Sixth normal form
+Slowly changing dimension
+Snowflake schema
+Social computing
+Social media mining
+Social software
+Software configuration management
+Software construction
+Software deployment
+Software design
+Software development
+Software development process
+Software engineering
+Software framework
+Software maintenance
+Software quality
+Software repository
+Solid modeling
+Sparse dictionary learning
+Spatial index
+Spiking neural network
+Spreadsheets
+Springer Verlag
+Star schema
+StatSoft
+State–action–reward–state–action
+Statistical
+Statistical classification
+Statistical hypothesis testing
+Statistical inference
+Statistical learning theory
+Statistical model
+Statistical noise
+Statistics
+Stellar Wind
+Stochastic computing
+Structured data analysis (statistics)
+Structured prediction
+Subspace clustering
+Supervised learning
+Support vector machine
+Support vector machines
+Surrogate key
+Surveillance
+Surveillance capitalism
+System deployment
+System on a chip
+T-distributed stochastic neighbor embedding
+Tanagra (machine learning)
+Temporal difference learning
+Test set
+Text mining
+Theoretical computer science
+Theory of computation
+Time series analysis
+Torch (machine learning)
+Total Information Awareness
+Training set
+Transformer (machine learning model)
+Trevor Hastie
+U-Net
+UIMA
+US Congress
+US copyright law
+Ubiquitous computing
+Unsupervised learning
+Usama Fayyad
+User behavior analytics
+Vapnik–Chervonenkis theory
+Vertica
+Very Large Scale Integration
+Video game
+Virtual machine
+Virtual reality
+Vision transformer
+Visualization (graphics)
+Wayback Machine
+Web mining
+Web scraping
+Weka (machine learning)
+Word processor
+World Wide Web
+XML
+XML for Analysis

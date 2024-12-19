@@ -1,0 +1,218 @@
+ACM Computing Classification System
+ALTQ
+Active queue management
+Algorithm
+Algorithm design
+Algorithmic efficiency
+Analysis of algorithms
+Application security
+Arbiter (electronics)
+Artificial intelligence
+Automata theory
+Automated planning and scheduling
+BSD
+Berkeley Packet Filter
+Buffer (telecommunication)
+Bufferbloat
+CAKE (queue management algorithm)
+Class-based queueing
+CoDel
+Compiler construction
+Computability theory
+Computational biology
+Computational chemistry
+Computational complexity
+Computational complexity theory
+Computational engineering
+Computational geometry
+Computational mathematics
+Computational physics
+Computational social science
+Computer accessibility
+Computer animation
+Computer architecture
+Computer data storage
+Computer graphics
+Computer hardware
+Computer network
+Computer science
+Computer security
+Computer vision
+Computing
+Computing platform
+Concurrency (computer science)
+Concurrent computing
+Control theory
+Control variable (programming)
+Credit-based fair queuing
+Cross-validation (statistics)
+Cryptography
+Cyberwarfare
+Data buffer
+Data mining
+Database
+Decision support system
+Deficit round robin
+Dependability
+Differentiated services
+Digital art
+Digital library
+Digital marketing
+Discrete mathematics
+Distributed artificial intelligence
+Distributed computing
+Document management system
+Domain-specific language
+E-commerce
+EBPF
+Educational technology
+Electronic design automation
+Electronic publishing
+Electronic voting
+Embedded system
+Enhanced Transmission Selection
+Enterprise information system
+Enterprise software
+FIFO (computing and electronics)
+FQ-CoDel
+Fair queuing
+Form factor (design)
+Formal language
+Formal methods
+Free and open-source software
+Generic cell rate algorithm
+Geographic information system
+Graphics processing unit
+Green computing
+Hardware acceleration
+Hardware security
+Health informatics
+Hierarchical Token Bucket
+Hierarchical fair-service curve
+Human–computer interaction
+Ifconfig
+Image compression
+Information retrieval
+Information security
+Information system
+Information theory
+Integrated circuit
+Integrated development environment
+Integrated services
+Interaction design
+Interpreter (computing)
+Intrusion detection system
+Iproute2
+Kernel.org
+Knowledge representation and reasoning
+LLVM
+LWN.net
+Library (computing)
+Linux kernel module
+List of computer size categories
+Logic in computer science
+Machine learning
+Mathematical analysis
+Mathematical optimization
+Mathematical software
+Middleware
+Mixed reality
+Model of computation
+Modeling language
+Multi-task learning
+Multimedia database
+Multiprocessing
+Multithreading (computer architecture)
+Natural language processing
+Netem
+Netfilter
+Network architecture
+Network congestion
+Network interface controller
+Network latency
+Network packet
+Network performance
+Network protocol
+Network security
+Network service
+Network traffic control
+Networking hardware
+Nftables
+Node (networking)
+Numerical analysis
+Open-source software
+OpenWrt
+Operating system
+Operations research
+Outline of computer science
+Packet delay variation
+Packet loss
+Packet switching
+Parallel computing
+Peripheral
+Philosophy of artificial intelligence
+Photograph manipulation
+Printed circuit board
+Probability
+Process control
+Processor (computing)
+Programming language
+Programming language theory
+Programming paradigm
+Programming team
+Programming tool
+Protocol stack
+Quality of service
+Quantum Computing
+Queue (abstract data type)
+Queueing theory
+Random early detection
+Randomized algorithm
+Real-time computing
+Reinforcement learning
+Rendering (computer graphics)
+Requirements analysis
+Ring buffer
+Scheduling (computing)
+Scheduling algorithm
+Security hacker
+Security service (telecommunication)
+Semantics (computer science)
+Social computing
+Social software
+Software configuration management
+Software construction
+Software deployment
+Software design
+Software development
+Software development process
+Software engineering
+Software framework
+Software maintenance
+Software quality
+Software repository
+Solid modeling
+Statistical time-division multiplexing
+Statistics
+Stochastic computing
+Stochastic fair Blue
+Supervised learning
+System on a chip
+Systemd
+Tc (Linux)
+Theoretical computer science
+Theory of computation
+Token Bucket Filter
+Traffic classification
+Traffic flow (computer networking)
+Traffic shaping
+Type of service
+Ubiquitous computing
+Unsupervised learning
+Very Large Scale Integration
+Video game
+Virtual machine
+Virtual reality
+Visualization (graphics)
+Word processor
+World Wide Web

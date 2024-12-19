@@ -1,0 +1,284 @@
+ATTRIB
+AWK
+Address Resolution Protocol
+Alias (command)
+Ar (Unix)
+At (command)
+Auditpol
+Background Intelligent Transfer Service
+Basename
+Bc (programming language)
+Bcdedit
+BitLocker
+Bootcfg
+Bootsect
+Break (command)
+CHCP (command)
+CHKDSK
+COMMAND.COM
+CURL
+Cabinet (file format)
+Cacls
+Cal (command)
+Cat (Unix)
+Cd (command)
+Chattr
+Chgrp
+Chmod
+Choice (command)
+Chown
+Cksum
+Clipboard (computing)
+Cls (command)
+Cmd.exe
+Cmdkey
+Cmp (Unix)
+Comm
+Command-line interface
+Command-line interpreter
+Comment (computer programming)
+Comp (command)
+Compact (computing)
+Computing
+Conditional (computer programming)
+Convert (command)
+Copy (command)
+Cp (Unix)
+Cron
+Csplit
+Ctags
+Cut (Unix)
+DATE (command)
+DOS
+DOSKEY
+Dd (Unix)
+Debug (command)
+Del (command)
+Deltree
+Device Manager
+Df (Unix)
+Diff
+Dir (command)
+Directory tree
+Dirname
+Disk Defragmenter (Windows)
+Diskcomp
+Diskcopy
+Diskpart
+Diskraid
+Dispdiag
+Dpath
+Drvspace
+Du (Unix)
+Echo (command)
+Ed (text editor)
+Edlin
+Encrypting File System
+Env
+Environment variable
+Event Viewer
+Ex (text editor)
+Exe2bin
+Exit (command)
+Expr
+Expression (computer science)
+FOLDOC
+Fdisk
+File (command)
+File Compare
+File association
+Filesystem Hierarchy Standard
+Find (Unix)
+Find (Windows)
+Findstr
+Fixboot
+Fixmbr
+Fold (Unix)
+For loop
+Forfiles
+Formal grammar
+Format (command)
+Fsutil
+Ftype
+Function (computer programming)
+Fuser (Unix)
+Gesture recognition
+Goto
+Graftabl
+Graphical user interface
+Grep
+Group Policy
+Head (Unix)
+Help (command)
+Hostname
+Iconv
+Imperative mood
+Imperative programming
+Ipconfig
+Job control (Unix)
+Join (Unix)
+Kill (command)
+Label (command)
+Lex (software)
+List of DOS commands
+List of POSIX commands
+List of Unix commands
+Ln (Unix)
+Logman
+Logname
+Ls
+M4 (computer language)
+MAC address
+MS-DOS Editor
+MSCDEX
+Make (software)
+Man page
+Mesg
+Microsoft ScanDisk
+Microsoft Windows
+Mkdir
+Mklink
+Mode (command)
+Mofcomp
+More (command)
+Move (command)
+Mv (Unix)
+NTBackup
+Natural language
+Nbtstat
+Net (command)
+Netsh
+Netstat
+Network protocol
+Nice (Unix)
+Nl (Unix)
+Nm (Unix)
+Nslookup
+OS/2
+Object (grammar)
+Od (Unix)
+OpenSSH
+Openfiles
+PATH (variable)
+PRINT (command)
+Parameter (computer science)
+Paste (Unix)
+Patch (Unix)
+PathPing
+Pause (command)
+Pax (command)
+Pentium FDIV bug
+Ping (networking utility)
+Pnpunattend
+Pnputil
+PowerShell
+Powercfg
+Predicate (grammar)
+Printf (Unix)
+Ps (Unix)
+Pushd and popd
+Pwd
+QBasic
+REAgentC
+Read (Unix)
+Recover (command)
+Recovery Console
+Refsutil
+Regsvr32
+Relog
+Ren (command)
+Replace (command)
+Rm (Unix)
+Rmdir
+Robocopy
+Route (command)
+Rpcping
+Runas
+SUBST
+SYS (command)
+Scripting language
+Secure copy protocol
+Secure file transfer program
+Sed
+Setspn
+Setver
+Shadow Copy
+Shell builtin
+Shutdown (computing)
+Sleep (command)
+Software development
+Sort (Unix)
+Split (Unix)
+Ssh-agent
+Ssh-keygen
+Standard output
+Standard streams
+Start (command)
+Statement (computer science)
+Statement (programming)
+Strings (Unix)
+Strip (Unix)
+Sxstrace
+System File Checker
+System V printing system
+System call
+System command
+Systeminfo
+TIME (command)
+TYPE (DOS command)
+Tail (Unix)
+Takeown
+Talk (software)
+Tar (computing)
+Taskkill
+Tasklist
+Tee (command)
+Test (Unix)
+Time (Unix)
+Timeout (computing)
+Title (command)
+Touch (command)
+Tpmtool
+Tpmvscmgr
+Tput
+Tr (Unix)
+Traceroute
+Tracerpt
+Tree (command)
+Troff
+True and false (commands)
+Type (Unix)
+Typeperf
+Umask
+Uname
+Uniq
+Unix
+Unix shell
+Ver (command)
+Vi (text editor)
+Vol (command)
+W32tm
+WBAdmin
+Wait (command)
+Wc (Unix)
+Wecutil
+Wevtutil
+Where (command)
+Who (Unix)
+Whoami
+Windows Assessment and Deployment Kit
+Windows Installer
+Windows Management Instrumentation Command-line
+Windows Registry
+Windows Remote Management
+Windows Script Host
+Windows Subsystem for Linux
+Windows Support Tools
+Windows System Assessment Tool
+Windows Task Scheduler
+Windows service
+Winmgmt
+Write (Unix)
+XCOPY
+Xargs
+Yacc

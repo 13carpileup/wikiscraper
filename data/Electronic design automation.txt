@@ -1,0 +1,398 @@
+.dwg
+3D Manufacturing Format
+ABViewer
+ACIS
+ACM Computing Classification System
+Additive manufacturing file format
+Algorithm
+Algorithm design
+Algorithmic efficiency
+Alibre Design
+Allegro (CAD software)
+Altium
+Altium Designer
+Analysis of algorithms
+Ansys
+Application security
+ArchiCAD
+Artificial intelligence
+Asia and South Pacific Design Automation Conference
+AutoCAD
+AutoCAD DXF
+AutoCAD Electrical
+AutoTURN
+Autodesk Alias
+Autodesk Inventor
+Autodesk Revit
+Automata theory
+Automated planning and scheduling
+Automatic test pattern generation
+Autotrax
+BRL-CAD
+BoardStation
+Boolean algebra
+BricsCAD
+Built-in self-test
+C3D Toolkit
+CADKEY
+CADSTAR
+CATIA
+CR-2000
+CR-3000
+CR-5000
+CR-8000
+Cadence Design Systems
+Calma
+Carver Mead
+Cimatron
+CircuitMaker
+Circuit (computer science)
+Circuit design
+Clock domain
+Clock domain crossing
+Cobalt (CAD program)
+Comparison of EDA software
+Comparison of computer-aided design software
+Compiler construction
+Computability theory
+Computational biology
+Computational chemistry
+Computational complexity
+Computational complexity theory
+Computational engineering
+Computational geometry
+Computational mathematics
+Computational physics
+Computational social science
+Computer-aided design
+Computer accessibility
+Computer animation
+Computer architecture
+Computer data storage
+Computer graphics
+Computer hardware
+Computer network
+Computer science
+Computer security
+Computer vision
+Computing
+Computing platform
+Concurrency (computer science)
+Concurrent computing
+Control theory
+Control variable (programming)
+Cross-validation (statistics)
+Cryptography
+Cyberwarfare
+DAC-1
+Daisy Systems
+Data loss
+Data mining
+Database
+Deadlock (computer science)
+Decision support system
+Delta Design
+Dependability
+DesignSpark Mechanical
+DesignSpark PCB
+Design Automation Conference
+Design Automation and Test in Europe
+Design Web Format
+Design closure
+Design flow (EDA)
+Design for manufacturability (IC)
+Diffraction
+Digital art
+Digital circuitry
+Digital library
+Digital marketing
+DipTrace
+Discrete mathematics
+Distributed artificial intelligence
+Distributed computing
+Document management system
+Doi (identifier)
+Domain-specific language
+E-commerce
+EAGLE (program)
+ECAD
+ECAD (Brazil)
+EDA database
+EasyCAD
+EasyEDA
+Easytrax
+Educational technology
+Electric (software)
+Electromagnetic field solver
+Electronic Design (magazine)
+Electronic circuit simulation
+Electronic design
+Electronic publishing
+Electronic voting
+Electronics
+Embedded system
+Enterprise information system
+Enterprise software
+Espresso heuristic logic minimizer
+FINE MEP
+FORAN System
+FPGA
+Failures In Time
+FastCAD
+File format
+Form factor (design)
+Formal equivalence checking
+Formal language
+Formal methods
+Formal verification
+Foundations and Trends in Electronic Design Automation
+Foundry (electronics)
+FreeCAD
+FreePCB
+FreeStyle (CAD software)
+Free and open-source software
+Fritzing
+Functional safety
+Functional verification
+Fusion 360
+GDSII
+GEDA
+Gateway Design Automation
+Geographic information system
+Geometric modeling kernel
+Gerber format
+Graphics processing unit
+Grasshopper 3D
+Green computing
+GstarCAD
+Hardware acceleration
+Hardware emulation
+Hardware security
+Health informatics
+HeeksCAD
+Hewlett-Packard
+High-level synthesis
+History of CAD software
+Horizon EDA
+Human–computer interaction
+IBM
+IBM 700/7000 series
+IGES
+IRONCAD
+ISBN (identifier)
+ISO 10303
+Image compression
+In-circuit emulation
+Information retrieval
+Information security
+Information system
+Information theory
+IntegraStation
+Integrated circuit
+Integrated circuit design
+Integrated development environment
+Intel
+IntelliCAD
+Interaction design
+Interference (wave propagation)
+International Conference on Computer-Aided Design
+Interpreter (computing)
+Intrusion detection system
+Inverse lithography technology
+KTechLab
+KernelCAD
+KeyCreator
+KiCad
+Knowledge representation and reasoning
+LTspice
+Layout extraction
+Library (computing)
+LibreCAD
+Lint programming tool
+List of EDA companies
+List of computer size categories
+Logic in computer science
+Logic simulation
+Logic synthesis
+Lynn Conway
+MEDUSA4
+MOSIS
+Machine learning
+Magic (software)
+Magma Design Automation
+Market capitalization
+Mask data preparation
+Mask generation
+Mathematical analysis
+Mathematical optimization
+Mathematical software
+Mechanical systems drawing
+Mentor Graphics
+Metastability in electronics
+Micro-Cap
+MicroStation
+Middleware
+Mixed reality
+Model checking
+Model of computation
+Modeling language
+Multi-task learning
+Multimedia database
+Multiprocessing
+Multithreading (computer architecture)
+NI Multisim
+NI Ultiboard
+Natural language processing
+Netlist
+Network architecture
+Network performance
+Network protocol
+Network scheduler
+Network security
+Network service
+Networking hardware
+Ngspice
+Numerical analysis
+Onshape
+Open-source software
+OpenSCAD
+Open Cascade Technology
+Open Design Alliance
+Open Packaging Conventions
+Operating system
+Operations research
+Optical proximity correction
+OrCAD
+Oregano (software)
+Outline of computer science
+P-CAD
+PADS (CAD software)
+PCB (software)
+PDMS (software)
+PLY (file format)
+PSpice circuit file
+PTC Creo Elements/Direct Drafting
+PTC Creo Elements/Pro
+Parallel computing
+Parasolid
+Peripheral
+Philosophy of artificial intelligence
+Photograph manipulation
+Photolithography
+Photomask
+Photoplotter
+Physical verification
+Place and route
+Placement (EDA)
+Platform-based design
+Printed circuit board
+Pro/DESKTOP
+Probability
+Process control
+Processor (computing)
+Productivity-improving technologies
+Programming language
+Programming language theory
+Programming paradigm
+Programming team
+Programming tool
+Proprietary software
+Protel (CAD software)
+Proteus Design Suite
+Pulsonix
+QCAD
+Quantum Computing
+Quite Universal Circuit Simulator
+RTLinux
+RUCAPS
+Randomized algorithm
+RattleCAD
+Real-time computing
+Register-transfer level
+Reinforcement learning
+Rendering (computer graphics)
+Requirements analysis
+Resolution enhancement techniques
+Rhinoceros 3D
+Romulus (modelling kernel)
+Russian Geometric Kernel
+S2CID (identifier)
+SPICE
+STL (file format)
+Salome (software)
+Schematic-driven layout
+Schematic capture
+Security hacker
+Security service (telecommunication)
+Semantics (computer science)
+Semiconductor
+Semiconductor fabrication
+ShapeManager
+Siemens
+Siemens NX
+Signoff (electronic design automation)
+Silicon compiler
+Sketchpad
+Social computing
+Social software
+Software configuration management
+Software construction
+Software deployment
+Software design
+Software development
+Software development process
+Software engineering
+Software framework
+Software maintenance
+Software quality
+Software repository
+Software tools
+SolidWorks
+Solid Edge
+Solid Modeling Solutions
+Solid modeling
+SolveSpace
+SpaceClaim
+Specctra
+SpringSoft
+Static timing analysis
+Statistics
+Stochastic computing
+Supervised learning
+Symposia on VLSI Technology and Circuits
+Synopsys
+System on a chip
+T-FLEX CAD
+TARGET (CAD software)
+TangoPCB
+Technology CAD
+Teigha
+Tektronix
+Theoretical computer science
+Theory of computation
+Tinkercad
+TopoR
+TurboCAD
+U.S. Department of Defense
+UNISURF
+UNIX
+Ubiquitous computing
+Unsupervised learning
+Upverter
+VHDL
+Valid Logic Systems
+VariCAD
+Verilog
+Very-large-scale integration
+Very Large Scale Integration
+Video game
+Virtual machine
+Virtual reality
+Visualization (graphics)
+Wafer (electronics)
+Wavefront .obj file
+Word processor
+World Wide Web
+XCircuit
+Xpedition (CAD software)
+Zuken

@@ -1,0 +1,376 @@
+4680 OS
+4690 Operating System
+AI accelerator
+Adam Dunkels
+Analog Devices
+Apache Mynewt
+ArkData
+ArkTS
+ArkUI
+Ark Compiler
+Assembly language
+Atmel
+BSD licenses
+Base station subsystem
+BeRTOS
+BetaNews
+BiSheng Compiler
+Bluetooth Low Energy
+CPU
+C (programming language)
+Cangjie (programming language)
+Capability-based security
+Celia (virtual assistant)
+ChibiOS/RT
+ChorusOS
+Comparison of real-time operating systems
+Concurrent DOS
+Contiki
+Criticism of Huawei
+DNIX
+DOS
+DSOS
+Dan Dodge
+Dave Cutler
+David Cheriton
+DevEco Studio
+Digital Equipment Corporation
+Digital subscriber line
+DioneOS
+ECos
+EKA2
+EMUI
+ERIKA Enterprise
+EROFS
+EROS (microkernel)
+Embedded operating system
+Ethernet
+EulerOS
+Find Device
+FlexOS
+FreeRTOS
+GaussDB
+GigaDevice
+Gordon Bell (QNX)
+Green Hills Software
+HarmonyOS
+HarmonyOS NEXT
+HarmonyOS Sans
+HarmonyOS kernel
+HarmonyOS version history
+Harmony (operating system)
+Harmony Intelligent Mobility Alliance
+HiSilicon
+Honor (brand)
+Honor 4X
+Honor 5X
+Honor 6X
+Huawei
+Huawei 4G eLTE
+Huawei AppGallery
+Huawei Ascend
+Huawei Ascend (phone)
+Huawei Ascend G300
+Huawei Ascend G330
+Huawei Ascend G600
+Huawei Ascend Mate
+Huawei Ascend Mate 2 4G
+Huawei Ascend Mate 7
+Huawei Ascend P1
+Huawei Ascend P2
+Huawei Ascend P6
+Huawei Ascend P7
+Huawei Ascend W1
+Huawei Ascend W2
+Huawei Ascend Y300
+Huawei Cloud Services
+Huawei Developer Conference
+Huawei E220
+Huawei E5
+Huawei FreeBuds
+Huawei G6600 Passport
+Huawei G8
+Huawei GR3
+Huawei GT3
+Huawei GameCenter
+Huawei Health
+Huawei HiCar
+Huawei Honor 3X
+Huawei Honor 4C
+Huawei Honor Tablet 5
+Huawei IDEOS U8150
+Huawei Ideos Tablet S7
+Huawei Intelligent Automotive Solution
+Huawei M835
+Huawei MateBook
+Huawei MateBook X Pro
+Huawei MateBook series
+Huawei MatePad Pro
+Huawei MateStation
+Huawei MateView
+Huawei Mate 10
+Huawei Mate 20
+Huawei Mate 30
+Huawei Mate 40
+Huawei Mate 50
+Huawei Mate 60
+Huawei Mate 70
+Huawei Mate 8
+Huawei Mate 9
+Huawei Mate S
+Huawei Mate X
+Huawei Mate X2
+Huawei Mate X3
+Huawei Mate X5
+Huawei Mate X6
+Huawei Mate XT
+Huawei Mate Xs 2
+Huawei Mate series
+Huawei Mediapad M5
+Huawei Mediapad M6
+Huawei Mobile Services
+Huawei Music
+Huawei Nova
+Huawei Nova 10
+Huawei Nova 10 Pro
+Huawei Nova 10 SE
+Huawei Nova 10z
+Huawei Nova 11
+Huawei Nova 11 Pro
+Huawei Nova 11 SE
+Huawei Nova 11i
+Huawei Nova 12
+Huawei Nova 12 Pro
+Huawei Nova 12 SE
+Huawei Nova 12i
+Huawei Nova 12s
+Huawei Nova 13
+Huawei Nova 13 Pro
+Huawei Nova 2
+Huawei Nova 2 Plus
+Huawei Nova 2 lite
+Huawei Nova 2s
+Huawei Nova 3
+Huawei Nova 3e
+Huawei Nova 3i
+Huawei Nova 4
+Huawei Nova 4e
+Huawei Nova 5
+Huawei Nova 5T
+Huawei Nova 5 Pro
+Huawei Nova 5i
+Huawei Nova 5i Pro
+Huawei Nova 5z
+Huawei Nova 6
+Huawei Nova 7
+Huawei Nova 7 Pro
+Huawei Nova 7 SE
+Huawei Nova 7 SE 5G Youth
+Huawei Nova 7i
+Huawei Nova 8
+Huawei Nova 8 Pro
+Huawei Nova 8 SE
+Huawei Nova 8 SE Youth
+Huawei Nova 8i
+Huawei Nova 9
+Huawei Nova 9 SE
+Huawei Nova Flip
+Huawei Nova Smart
+Huawei Nova Y60
+Huawei Nova Y61
+Huawei Nova Y70
+Huawei Nova Y90
+Huawei Nova Youth
+Huawei Nova lite
+Huawei Nova lite+
+Huawei Nova lite 2017
+Huawei Ox Horn Campus
+Huawei P10
+Huawei P20
+Huawei P30
+Huawei P40
+Huawei P50
+Huawei P50 Pocket
+Huawei P60
+Huawei P8
+Huawei P8 Max
+Huawei P8 lite 2017
+Huawei P9
+Huawei P9 Plus
+Huawei P9 lite
+Huawei PanGu
+Huawei Pocket 2
+Huawei Pocket S
+Huawei Premia
+Huawei Pura 70
+Huawei Pura series
+Huawei STREAM X GL07S
+Huawei SingleRAN
+Huawei Sonic
+Huawei Sound Joy
+Huawei Sound X
+Huawei Symantec
+Huawei T156
+Huawei T158
+Huawei T161L
+Huawei T201
+Huawei T208
+Huawei T211
+Huawei T261L
+Huawei T330
+Huawei Themes
+Huawei U1000
+Huawei U1100
+Huawei U120
+Huawei U121
+Huawei U1250
+Huawei U1270
+Huawei U2801
+Huawei U3300
+Huawei U7310
+Huawei U7510
+Huawei U8100
+Huawei U8110
+Huawei U8230
+Huawei U8800
+Huawei U9130 Compass
+Huawei U9150
+Huawei Video
+Huawei Vision
+Huawei Watch
+IBM
+IP Multimedia Subsystem
+ITRON project
+Integrity (operating system)
+Internet Of Things
+Internet of Things
+Internet of things
+JavaOS
+Java virtual machine
+Junos OS
+Ken Sakamura
+Kilobyte
+Kirin 990
+Kunpeng 920
+L4Linux
+L4 microkernel family
+Li Hongyuan incident
+Liang Hua
+List of Huawei phones
+LynxOS
+MQX
+MediaTek
+Meng Wanzhou
+MetaERP
+Micro-Controller Operating Systems
+Micro T-Kernel
+Microchip Technology
+Microcontroller
+Microkernel
+Microsoft
+Microware
+MindSpore
+Multi-Environment Real-Time
+Multiuser DOS
+NXP
+Nano-RK
+Nano Memory
+Narrowband IoT
+NearLink
+Network switch
+Network switching subsystem
+New IP
+Nexus 6P
+Nordic Semi
+Nucleus RTOS
+NuttX
+Nuvoton
+OS-9
+OS2000
+Object storage
+Open-source software
+OpenComRTOS
+OpenGauss
+OpenHarmony
+Operating System Embedded
+Operating system
+PDP-11
+POSIX
+PSOS (real-time operating system)
+PX5 RTOS
+Passive optical network
+Petal Maps
+Phantom OS
+PikeOS
+Programmer
+Programming language
+Psion (company)
+QNX
+REAL/32
+REX OS
+RIOT (operating system)
+RMX (operating system)
+RSX-11
+RT-11
+RT-Thread
+RTAI
+RTEMS
+RTLinux
+Real-Time Linux
+Real-time operating system
+Ren Zhengfei
+Repository (version control)
+Robot Operating System
+STMicroelectronics
+ScreenOS
+Scripting language
+SeL4
+Segger Microcontroller Systems
+Service delivery platform
+Silicon Labs
+Sintran III
+Smartwatch
+Smartwatches
+Softswitch
+Software development kit
+Software framework
+Software license
+Software release life cycle
+Sun Yafang
+Symbian
+System integration
+T-Engine Forum
+T-Kernel
+T-License
+T-Mobile Pulse
+T-Mobile Tap
+THEOS
+TI-RTOS
+TRON project
+Texas Instruments
+The Verge
+Thoth (operating system)
+ThreadX
+Transaction Processing Facility
+UNOS (operating system)
+Unix
+Unix-like
+VAX
+VAXELN
+Versatile Real-Time Executive
+VxWorks
+Watch Fit
+Watch GT 2
+Watch GT 2 Pro
+Watch GT 2e
+WearOS
+Wi-Fi
+Windows Embedded Compact
+Wombat (operating system)
+XDA Developers
+X Gentle Monster Eyewear
+X Gentle Monster Eyewear II
+Xenomai
+Xu Zhijun
+Zephyr (operating system)
+Zigbee

@@ -1,0 +1,672 @@
+ACID
+ACID (computer science)
+ACM Computing Classification System
+ACM Transactions on Database Systems
+ACNielsen
+ADO.NET
+API
+Abraham Silberschatz
+Abstract interpretation
+Academia
+Academic conference
+Academic journal
+Access control
+Active database
+Aggregate (data warehouse)
+Algorithm
+Algorithm design
+Algorithmic efficiency
+American National Standards Institute
+Analysis of algorithms
+Anchor modeling
+Apollo program
+Application-Level Profile Semantics (ALPS)
+Application program interface
+Application programming interface
+Application security
+Application server
+Application software
+Armstrong's axioms
+Array DBMS
+Array data structure
+Artificial intelligence
+Association for Computing Machinery
+Atomicity (database systems)
+Automata theory
+Automated planning and scheduling
+B-tree
+Backup
+Batch processing
+Bibliographic database
+Bill Inmon
+Blockchain-based database
+Britton Lee, Inc.
+Business intelligence
+Business intelligence software
+Business process modeling
+C. Wayne Ratliff
+CAP theorem
+COBOL
+CODASYL
+Candidate key
+Cardinality (data modeling)
+Central processing unit
+Character encoding
+Charles Bachman
+Christopher J. Date
+Cincom Systems
+Client–server architecture
+Cloud computing
+Cloud database
+Cloud storage
+Codd's 12 rules
+Collective intelligence
+Column-oriented DBMS
+Column (database)
+Common Logic
+Comparison of OLAP servers
+Comparison of database tools
+Comparison of multi-model databases
+Comparison of object database management systems
+Comparison of object–relational database management systems
+Comparison of relational database management systems
+Compiler construction
+Computability theory
+Computational biology
+Computational chemistry
+Computational complexity
+Computational complexity theory
+Computational engineering
+Computational geometry
+Computational mathematics
+Computational physics
+Computational social science
+Computer accessibility
+Computer animation
+Computer architecture
+Computer cluster
+Computer clusters
+Computer data storage
+Computer graphics
+Computer hardware
+Computer memory
+Computer multitasking
+Computer network
+Computer programming
+Computer science
+Computer scientists
+Computer security
+Computer terminal
+Computer vision
+Computing
+Computing platform
+Conceptual data model
+Concurrency (computer science)
+Concurrency control
+Concurrent computing
+Consistency (database systems)
+Consistency model
+Content Addressable File Store
+Content management system
+Content store
+Control theory
+Control variable (programming)
+Corporate information factory
+Correlation database
+Crash (computing)
+Create, read, update and delete
+Cross-validation (statistics)
+Cryptography
+Cursor (databases)
+Customer relationship management
+Cyberwarfare
+DBASE
+DBMS
+DBOS
+DOAP
+Dan Linstedt
+Dashboard (business)
+Data
+Data (computing)
+Data Base Task Group
+Data Mining Extensions
+Data Source Name
+Data access
+Data and Knowledge Engineering
+Data bank
+Data control language
+Data definition language
+Data dictionary
+Data encryption
+Data extraction
+Data hierarchy
+Data hub
+Data independence
+Data integrity
+Data loading
+Data manipulation language
+Data mart
+Data mesh
+Data migration
+Data mining
+Data model
+Data modeling
+Data processing
+Data query language
+Data security
+Data storage
+Data store
+Data structure
+Data transformation
+Data vault modeling
+Data virtualization
+Data warehouse
+Data warehouse automation
+Database-as-IPC
+Database-centric architecture
+Database abstraction layer
+Database activity monitoring
+Database administration
+Database administrator
+Database application
+Database audit
+Database caching
+Database connection
+Database design
+Database engine
+Database forensics
+Database index
+Database integrity
+Database language
+Database log
+Database machine
+Database management system
+Database model
+Database normalization
+Database object
+Database preservation
+Database publishing
+Database refactoring
+Database schema
+Database security
+Database server
+Database storage structures
+Database testing
+Database theory
+Database transaction
+Database transactions
+Database trigger
+Database tuning
+Database virtualization
+Datalog
+Dataphor
+Datasource
+Dataspaces
+David L. Childs
+Decision support system
+Deductive database
+Degenerate dimension
+Denormalization
+Dependability
+Description logic
+Desktop Computer
+DevOps
+Digital art
+Digital humanities
+Digital library
+Digital marketing
+Dimension (data warehouse)
+Dimension table
+Dimensional modeling
+Discrete mathematics
+Distributed artificial intelligence
+Distributed computing
+Distributed database
+Distributed transaction
+Document-oriented database
+Document management system
+Doi (identifier)
+Domain-specific language
+Dublin Core
+Durability (database systems)
+E-commerce
+EJB QL
+EXist
+Early-arriving fact
+Edgar F. Codd
+Educational technology
+Electronic design automation
+Electronic publishing
+Electronic voting
+Email
+Embedded RDF
+Embedded database
+Embedded system
+End user
+Enhanced entity–relationship model
+Enterprise bus matrix
+Enterprise information system
+Enterprise resource planning
+Enterprise software
+Entity
+Entity–attribute–value model
+Entity–relationship model
+Event store
+Eventual consistency
+Exadata
+Extract, load, transform
+Extract, transform, load
+FOAF
+Facebook Platform
+Fact (data warehouse)
+Fact table
+Fault tolerance
+Federated database system
+File system
+First-order predicate calculus
+Flat-file database
+Flat file database
+Flight reservation system
+Focal point modeling
+Folksonomy
+Foreign key
+Form factor (design)
+Formal language
+Formal methods
+Fuzzy logic
+GRDDL
+Geographic information system
+Geotagging
+Graph (data structure)
+Graph database
+Graphics processing unit
+Green computing
+HAtom
+HCalendar
+HCard
+HOLAP
+HProduct
+HRecipe
+HReview
+HTTP
+Halloween Problem
+Hard disk
+Hard disk drive
+Hardware acceleration
+Hardware security
+Hash function
+Health informatics
+Henry F. Korth
+Heterogeneous database system
+Hierarchical database
+Hierarchical database model
+Honeywell
+Horizontal scaling
+Human resources
+Human–computer interaction
+Hyperdata
+Hyperlink
+Hypermedia
+Hypertext
+IBM
+IBM Business System 12
+IBM Db2
+IBM Information Management System
+IBM Research
+IBM System/38
+IBM System R
+IEEE
+INGRES
+INP (database)
+ISBN (identifier)
+ISSN (identifier)
+IXBRL
+Image compression
+In-memory database
+Index (database)
+Information architecture
+Information privacy
+Information retrieval
+Information retrieval query language
+Information security
+Information system
+Information technology
+Information theory
+Integrated Data Store
+Integrated circuit
+Integrated development environment
+Intelligent database
+Interaction design
+International Computers Limited
+International Organization for Standardization
+Internationalized Resource Identifier
+Internet
+Interpreter (computing)
+Intrusion detection system
+Inverted index
+Isolation (database systems)
+JDBC
+JDOQL
+JSON-LD
+Java Database Connectivity
+Johannes Gehrke
+Journal of Database Management
+Kernel (operating system)
+Key–value database
+Key–value store
+Knowledge
+Knowledge base
+Knowledge extraction
+Knowledge management
+Knowledge representation and reasoning
+Larry Ellison
+Library
+Library (computing)
+Library 2.0
+Ling Liu (computer scientist)
+Linked data
+Linked list
+List of academic databases and search engines
+List of biodiversity databases
+List of biological databases
+List of column-oriented DBMSes
+List of computer size categories
+List of facial expression databases
+List of in-memory databases
+List of online databases
+List of online music databases
+List of online real estate databases
+List of relational database management systems
+List of reporting software
+Lists of databases
+Load file
+Lock (database)
+Locks with ordered sharing
+Log shipping
+Logic in computer science
+Logic programming
+Logical data model
+Lotus 1-2-3
+MICRO Relational Database Management System
+MOLAP
+Machine learning
+Magnetic tape
+Main memory
+MariaDB
+MarkLogic
+Market (economics)
+Materialized view
+Mathematical analysis
+Mathematical optimization
+Mathematical software
+Measure (data warehouse)
+Metadata
+Michael Stonebraker
+Michigan Terminal System
+Microdata (HTML)
+Microformat
+Microsoft Access
+Microsoft SQL Server
+Middleware
+Middleware (distributed applications)
+Mimer SQL
+Mixed reality
+Mobile database
+Mobile phone
+Model of computation
+Modeling language
+Multi-model database
+Multi-task learning
+MultiDimensional eXpressions
+Multics
+Multics Relational Data Store
+Multidimensional database
+Multimedia database
+Multiprocessing
+Multiprocessor
+Multithreading (computer architecture)
+Multitier architecture
+Multivalue model
+MySQL
+N-Triples
+Natural language processing
+Navigational database
+Negative database
+Netezza
+Network architecture
+Network database model
+Network model
+Network performance
+Network protocol
+Network scheduler
+Network security
+Network service
+Networking hardware
+NewSQL
+NoSQL
+Notation3
+Null (SQL)
+Numerical analysis
+OCLC (identifier)
+ODBC
+OLAP cube
+Object-oriented database
+Object-oriented programming
+Object (computer science)
+Object Data Management Group
+Object Query Language
+Object database
+Object model
+Object–relational database
+Object–relational impedance mismatch
+Object–relational mapping
+Online analytical processing
+Online encyclopedia
+Ontology (computer science)
+Open-source software
+Open API
+Open Database Connectivity
+Operating system
+Operational data store
+Operational database
+Operations research
+Oracle Database
+Oracle database
+Outline of computer science
+Outline of databases
+Oxford English Dictionary
+PACELC theorem
+PRTV
+Parallel computing
+Parallel database
+Partition (database)
+Parts inventory system
+Peripheral
+Philosophy of artificial intelligence
+Photograph manipulation
+Physical data model
+Physical security
+Pointer (computer programming)
+PostgreSQL
+Preprocessor
+Primary key
+Printed circuit board
+Privilege (Computing)
+Probabilistic database
+Probability
+Process control
+Processor (computing)
+Programmer
+Programming language
+Programming language theory
+Programming paradigm
+Programming team
+Programming tool
+Property (programming)
+Prototype
+QUEL query languages
+Quantum Computing
+Query Rewriting
+Query language
+Query optimization
+Query optimizer
+Query plan
+RAID
+RDF/XML
+RDF Schema
+RDFa
+ROLAP
+Raghu Ramakrishnan
+Ralph Kimball
+Randomized algorithm
+Real-time computing
+Real-time database
+Redundant array of independent disks
+Reference (computer science)
+Referential integrity
+Reinforcement learning
+Relation (database)
+Relational algebra
+Relational calculus
+Relational database
+Relational model
+Rendering (computer graphics)
+Replication (computing)
+Requirements analysis
+Research Resource Identifier
+Resource Description Framework
+Reverse star schema
+Row (database)
+Rule-based system
+Rule Interchange Format
+S2CID (identifier)
+SAWSDL
+SHACL
+SIGMOD
+SPARQL
+SQL
+SQL/XML
+San Jose, California
+Saxon XSLT
+Scalability
+Schema.org
+Security hacker
+Security service (telecommunication)
+Semantic HTML
+Semantic Web
+Semantic Web Rule Language
+Semantic analytics
+Semantic broker
+Semantic computing
+Semantic data model
+Semantic mapper
+Semantic matching
+Semantic network
+Semantic publishing
+Semantic reasoner
+Semantic search
+Semantic service-oriented architecture
+Semantic triple
+Semantic wiki
+Semantically Interlinked Online Communities
+Semantics (computer science)
+Server (computing)
+Shard (database architecture)
+Shared-nothing architecture
+Shared memory architecture
+Simple Knowledge Organization System
+Single version of the truth
+Sixth normal form
+Slowly changing dimension
+Snowflake schema
+Social computing
+Social software
+Software
+Software configuration management
+Software construction
+Software deployment
+Software design
+Software development
+Software development process
+Software engineering
+Software framework
+Software maintenance
+Software quality
+Software repository
+Solid (web decentralization project)
+Solid modeling
+Spatial database
+Spreadsheet
+Spreadsheets
+Star schema
+Statistics
+Stochastic computing
+Stored procedure
+Sublanguage
+Superkey
+Supervised learning
+Surrogate key
+Symposium on Principles of Database Systems
+Synonym (database)
+System/360
+System Development Corporation
+System on a chip
+Table (database)
+Temporal database
+Teradata
+Terminology-oriented database
+Theoretical computer science
+Theory of computation
+Time series database
+Topic map
+Total cost of ownership
+Transaction (database)
+Transaction log
+Transaction processing
+Transaction processing system
+TriG (syntax)
+TriX (serialization format)
+Triplestore
+Turing Award
+Turtle (syntax)
+Two-phase commit protocol
+Two-phase locking
+U.S. Environmental Protection Agency
+US Department of Labor
+Ubiquitous computing
+Unified Modeling Language
+Uniform Resource Identifier
+Unique key
+Universal Product Code
+University of Alberta
+University of Michigan
+Unstructured data
+Unsupervised learning
+Uppsala University
+User (computing)
+User interface
+VLDB conference
+Very Large Scale Integration
+Video game
+View (SQL)
+Virtual machine
+Virtual reality
+Visualization (graphics)
+Wayback Machine
+Wayne State University
+Web 2.0
+Web Ontology Language
+Web Science Trust
+Web browser
+Web engineering
+Web server
+Website
+Wide-column store
+Word processor
+Workflow
+World Wide Web
+XML
+XML database
+XML for Analysis
+XQuery
+XQuery API for Java

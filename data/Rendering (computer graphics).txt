@@ -1,0 +1,715 @@
+2.5D
+2D computer graphics
+3D computer graphics
+3D model
+3D modeling
+3D projection
+3D reconstruction
+3D rendering
+A-buffer
+ACM Computing Classification System
+API
+Aaron Koblin
+Absorption cross section
+Ade Olufeko
+Adolphe Quetelet
+Affine transformation
+Alan MacEachren
+Albedo
+Alex Keller
+Alfred Inselberg
+Algorithm
+Algorithm design
+Algorithmic efficiency
+Aliasing
+Alpha compositing
+Ambient occlusion
+Amy Ashurst Gooch
+Analysis of algorithms
+Analysis of parallel algorithms
+Andrew Glassner
+Andries van Dam
+André-Michel Guerry
+Animation
+Anisotropic filtering
+Application security
+Application software
+Approximation
+ArXiv (identifier)
+Arcade video game
+Architectural rendering
+Arthur Appel
+Arthur H. Robinson
+Arthur Lyon Bowley
+Artificial intelligence
+Artificial intelligence art
+Artificial intelligence in video games
+Artificial neural network
+Artistic rendering
+August Kekulé
+Autodesk Arnold
+Automata theory
+Automated planning and scheduling
+BSP trees
+Back-face culling
+Bandwidth (computing)
+Bang Wong
+Barycentric coordinate system
+Beam tracing
+Ben Fry
+Ben Shneiderman
+Bennett Battaile
+Bibcode (identifier)
+Bidirectional reflectance distribution function
+Bilinear interpolation
+Binary file
+Binary space partitioning
+Biological data visualization
+Bitmap
+Black hole
+Blender (software)
+Blinn-Phong shading model
+Borden Dent
+Bounding volume
+Bounding volume hierarchy
+Bresenham's line algorithm
+Browser engine
+Bruce F. Naylor
+Bruce H. McCormick
+Bui Tuong Phong
+Bump mapping
+Bus (computing)
+Bézier curve
+CPK coloring
+CPU
+CT scan
+Calculus
+Cartesian coordinate system
+Cartography
+Catherine Plaisant
+Cathode ray
+Caustic (optics)
+Cel shading
+Central processing unit
+Charles-René de Fourcroy
+Charles Booth (social reformer)
+Charles Dupin
+Charles Joseph Minard
+Chart
+Chartjunk
+Checkerboard rendering
+Chemical imaging
+Christopher R. Johnson
+Chromatic aberration
+Cindy M. Goral
+Circle
+Circular arc
+CiteSeerX (identifier)
+Claudio Silva (computer scientist)
+Clifford A. Pickover
+Clipping (computer graphics)
+Closed-form expression
+Collision detection
+Color coding in data visualization
+Color gradient
+Color space
+Compact disc
+Comparison of vector graphics editors
+Compiler construction
+Component-based software engineering
+Compositing
+Computability theory
+Computational biology
+Computational chemistry
+Computational complexity
+Computational complexity theory
+Computational engineering
+Computational geometry
+Computational mathematics
+Computational physics
+Computational social science
+Computer-aided design
+Computer accessibility
+Computer animation
+Computer architecture
+Computer cluster
+Computer data storage
+Computer graphics
+Computer graphics (computer science)
+Computer graphics lighting
+Computer hardware
+Computer network
+Computer program
+Computer representation of surfaces
+Computer science
+Computer security
+Computer simulation
+Computer vision
+Computing
+Computing platform
+Concurrency (computer science)
+Concurrent computing
+Cone tracing
+Constructive solid geometry
+Continuous function
+Control theory
+Control variable (programming)
+Coprocessor
+Crime mapping
+Cross-validation (statistics)
+Cross section (physics)
+Cryptography
+Curvature
+Curved spacetime
+Cyberwarfare
+Cynthia Brewer
+DVD
+Data mining
+Data structure
+Data visualization
+Database
+Database index
+David Goodsell
+David McCandless
+David Salzman
+Decision support system
+Deep learning
+Deep learning anti-aliasing
+Deferred shading
+Dependability
+Depth of field
+Desktop publishing
+Diagram
+Diffraction
+Diffuse reflection
+Diffusion curve
+Digistar
+Digital art
+Digital asset
+Digital differential analyzer (graphics algorithm)
+Digital illustration
+Digital library
+Digital marketing
+Digital signal processing
+DirectX Raytracing
+Discrete mathematics
+Displacement mapping
+Distance fog
+Distributed artificial intelligence
+Distributed computing
+Distributed ray tracing
+Document management system
+Doi (identifier)
+Domain-specific language
+Donald P. Greenberg
+E-commerce
+Edgar Anderson
+Edmond Halley
+Educational technology
+Edward Tufte
+Edward Walter Maunder
+Edwin Catmull
+Ejnar Hertzsprung
+Electronic design automation
+Electronic publishing
+Electronic voting
+Ellipse
+Embedded system
+Engineering drawing
+Enterprise information system
+Enterprise software
+Environment artist
+Environment mapping
+Eric Veach
+Erwin Raisz
+Euclidean vector
+Evans & Sutherland
+Extremely Large Telescope
+Fast approximate anti-aliasing
+Fernanda Viégas
+Field of view
+Film frame
+Finite element method
+Floating-point arithmetic
+Florence Nightingale
+Flow visualization
+Fluid animation
+Focal length
+Font rasterization
+Form factor (design)
+Formal language
+Formal methods
+Fractal
+Framebuffer
+Francis Amasa Walker
+Francis Galton
+Franklin C. Crow
+Fritz Kahn
+GDDR SDRAM
+GPU
+Gaspard Monge
+Gaussian elimination
+Gaussian splatting
+Gauss–Seidel method
+Geographic information system
+Geometric optics
+Geometric primitive
+Geometric transformation
+Geometrical optics
+Georg von Mayr
+George Furnas
+George G. Robertson
+Geovisualization
+Global illumination
+Golden age of arcade video games
+Google
+Gordon Kindlmann
+Gouraud shading
+Graph drawing
+Graph of a function
+Graphic design
+Graphic organizer
+Graphics card
+Graphics pipeline
+Graphics processing unit
+Graphics software
+Green computing
+Hadley Wickham
+Hans Rosling
+Hanspeter Pfister
+Hardware acceleration
+Hardware security
+Harry Beck
+Health informatics
+Heightmap
+Hemicube (computer graphics)
+Henri Gouraud (computer scientist)
+Henrik Wann Jensen
+Henry Fuchs
+Henry Gantt
+Henry Norris Russell
+Hidden-surface determination
+High-dynamic-range rendering
+High dynamic range
+Holly Rushmeier
+Holography
+Home computer
+Howard G. Funkhouser
+Howard T. Fisher
+Howard Wainer
+Human visual perception
+Human–computer interaction
+ISBN (identifier)
+ISSN (identifier)
+Ideogram
+Image-based lighting
+Image-based modeling and rendering
+Image-based rendering
+Image and object order rendering
+Image compression
+Image plane
+Image resolution
+Image synthesis
+Imaging science
+Importance sampling
+Infographic
+Information art
+Information retrieval
+Information science
+Information security
+Information system
+Information theory
+Information visualization
+Integrated circuit
+Integrated development environment
+Interaction design
+Interpolation
+Interpreter (computing)
+Intrusion detection system
+Irradiance
+Isometric video game graphics
+JPEG
+Jack Tumblin
+Jacobi method
+Jacques Bertin
+Jaggies
+James Arvo
+James D. Foley
+James F. Blinn
+James H. Clark
+Jan Kautz
+Jeffrey Heer
+Jessica Hullman
+Jim Blinn
+Jim Kajiya
+Jock D. Mackinlay
+John B. Peddle
+John Maeda
+John Snow
+John Snyder (computer scientist)
+John Tukey
+John Venn
+John Warnock
+Joseph Priestley
+K-d tree
+Karl Wilhelm Pohlke
+Kenneth E. Torrance
+Kludge
+Knowledge representation and reasoning
+Kwan-Liu Ma
+Lambertian reflectance
+Lance Williams (graphics researcher)
+Larry Aupperle
+Lawrence J. Rosenblum
+Layers (digital image editing)
+Leland Wilkinson
+Leonidas J. Guibas
+Letterform
+Level set
+Library (computing)
+Lidar
+Light field
+Line (geometry)
+Line Drawing System-1
+Line segment
+Line segments
+Linear algebra
+Liquid-crystal display
+List of 3D animation software
+List of 3D computer graphics software
+List of 3D modeling software
+List of 3D rendering software
+List of computer graphics algorithms
+List of computer size categories
+Logic in computer science
+Loren Carpenter
+Low-pass filter
+Luigi Perozzo
+M. E. Newell
+Machine learning
+Magnetic resonance imaging
+Mandelbulb
+Manuel Lima
+Map
+Marc Hannah
+Marching cubes
+Martin Krzywinski
+Martin M. Wattenberg
+Mary Eleanor Spear
+Mathematical analysis
+Mathematical diagram
+Mathematical optimization
+Mathematical software
+Mathematics
+Matrix (mathematics)
+Matt Pharr
+Matthew Henry Phineas Riall Sankey
+Mauro Martino
+Max O. Lorenz
+Medical imaging
+Memory bandwidth
+Memory latency
+Mesh generation
+Metal (API)
+Metropolis light transport
+Michael F. Cohen
+Michael Friendly
+Michael J. Black
+Michael Maltz
+Middleware
+Midpoint circle algorithm
+Minimum bounding rectangle
+Mipmap
+Miriah Meyer
+Misleading graph
+Mitsubishi Electric Research Laboratories
+Mixed reality
+Mobile processor
+Mode 7
+Model of computation
+Modeling language
+Molecular graphics
+Monster House (film)
+Monsters University
+Monte Carlo integration
+Monte Carlo method
+Monte Carlo methods
+Moritz Stefaner
+Motion blur
+Multi-task learning
+Multimedia database
+Multiprocessing
+Multisample anti-aliasing
+Multithreading (computer architecture)
+Natural language processing
+Network architecture
+Network performance
+Network protocol
+Network scheduler
+Network security
+Network service
+Networking hardware
+Neural network (machine learning)
+Neural radiance field
+Neuroimaging
+Newton's method
+Niels Jørgen Christensen
+Nigel Holmes
+Noise reduction
+Non-photorealistic rendering
+Normal (geometry)
+Normal mapping
+Numerical analysis
+Nvidia
+Nvidia RTX
+Nyquist–Shannon sampling theorem
+Octree
+Oliver Byrne (mathematician)
+Opacity (optics)
+Open-source software
+OpenEXR
+OpenVDB
+Operating system
+Operations research
+OptiX
+Optics
+Oren–Nayar reflectance model
+Otto Neurath
+Outline of computer science
+PDF
+PDP-10
+PNG
+POV-Ray
+Page layout
+Paint sheen
+Painter's algorithm
+Panorama
+Parallax scrolling
+Parallel computing
+Pat Hanrahan
+Patent drawing
+Path tracing
+Per-pixel lighting
+Peripheral
+Peter Pike Sloan
+Peter Shirley
+Philippe Bekaert
+Philosophy of artificial intelligence
+Phong reflection model
+Phong shading
+Photogrammetry
+Photograph
+Photograph manipulation
+Photon
+Photon mapping
+Physically-based rendering
+Physically based rendering
+Pictogram
+Pixar
+Pixar RenderMan
+Pixel
+Planar projection
+Planetarium
+Plot (graphics)
+Plotter
+Point cloud
+Polo Chau
+Polygon
+Polygon mesh
+Polyhedron
+PostScript
+Pre-rendering
+Precomputed Radiance Transfer
+Printed circuit board
+Probability
+Probability distribution
+Procedural generation
+Process control
+Processor (computing)
+Programming language
+Programming language theory
+Programming paradigm
+Programming team
+Programming tool
+Quantum Computing
+Quasi-Monte Carlo method
+RGB color model
+Radiosity (computer graphics)
+Radiosity (radiometry)
+Randomized algorithm
+Raster graphics
+Raster graphics editor
+Raster image processor
+Rasterisation
+Rasterization
+Ray (optics)
+Ray casting
+Ray marching
+Ray tracing (graphics)
+Real-time computer graphics
+Real-time computing
+Rectangle
+Recursion
+Recursion (computer science)
+Reflectance
+Reflection (computer graphics)
+Reflection mapping
+Refraction
+Refractive index
+Reinforcement learning
+Render farm
+Rendering equation
+Requirements analysis
+Research and development
+Reservoir sampling
+Reyes rendering
+Robert L. Cook
+Root-finding algorithm
+Rotation (mathematics)
+Rudolf Modley
+S2CID (identifier)
+SVG
+Sampling (statistics)
+Sankey diagram
+Scaling (geometry)
+Scanline rendering
+Schematic
+Scientific modelling
+Scientific visualization
+Security hacker
+Security service (telecommunication)
+Semantics (computer science)
+Shader
+Shading
+Shadow
+Shadow mapping
+Shadow volume
+Shear matrix
+Sheelagh Carpendale
+Shrek 2
+Signed distance function
+Silicon Graphics
+Simulation
+Single instruction, multiple threads
+Skeletal formula
+Skybox (video games)
+Snell's law
+Social computing
+Social software
+Social visualization
+Soft shadows
+Software configuration management
+Software construction
+Software deployment
+Software design
+Software development
+Software development process
+Software engine
+Software engineering
+Software framework
+Software maintenance
+Software quality
+Software rendering
+Software repository
+Software visualization
+Solid modeling
+Sparse matrix
+Spatial analysis
+Spatial anti-aliasing
+Special relativity
+Spectral rendering
+Specular highlight
+Specular reflection
+Sphere
+Spherical harmonics
+Sprite (computer graphics)
+Statistical graphics
+Statistics
+Stochastic
+Stochastic computing
+Stratified sampling
+Structured-light 3D scanner
+Stuart Card
+Subdivision surface
+Subpixel rendering
+Subsurface scattering
+Supercomputer
+Supervised learning
+Surface triangulation
+System of linear equations
+System on a chip
+Table (information)
+Tamara Munzner
+Technical drawing
+Technical illustration
+Tessellation (computer graphics)
+Texel (graphics)
+Text-to-image model
+Text file
+Texture mapping
+Theoretical computer science
+Theory of computation
+Thermal radiation
+Thomas A. DeFanti
+Thread (computing)
+Three-dimensional space
+Tom Duff
+Tone mapping
+Toussaint Loua
+Training, validation, and test data sets
+Translation (geometry)
+Translucency
+Transparency (graphic)
+Transparency (optics)
+Tree (data structure)
+Triangle mesh
+Turner Whitted
+Ubiquitous computing
+Umbra, penumbra and antumbra
+Unbiased rendering
+Unsupervised learning
+Usage (language)
+User interface
+User interface design
+VRML
+Variance
+Vector graphics
+Vector monitor
+Vertex (computer graphics)
+Vertex (geometry)
+Very-large-scale integration
+Very Large Scale Integration
+Video game
+Video game console
+View factor
+Viewport
+VirtualGL
+Virtual machine
+Virtual model
+Virtual reality
+Virtual studio
+Visible spectrum
+Visual analytics
+Visual culture
+Visual effects
+Visual perception
+Visualization (graphics)
+Volume cartography
+Volume ray casting
+Volume rendering
+Voxel
+Vulkan
+W. E. B. Du Bois
+W. Jack Bouknight
+Warnock algorithm
+Wayback Machine
+William Playfair
+William S. Cleveland
+Wire-frame model
+Wolfgang Krueger
+Word processor
+World Wide Web
+X3D
+Xiaolin Wu's line algorithm
+Z-buffering
+Zvi M. Kedem

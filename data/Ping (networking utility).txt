@@ -1,0 +1,331 @@
+4.3BSD
+ASCII
+ATTRIB
+AWK
+Active sonar
+Addison-Wesley
+Address Resolution Protocol
+Alias (command)
+Ar (Unix)
+At (command)
+Auditpol
+BSD License
+BSD license
+Background Intelligent Transfer Service
+Backronym
+Ballistic Research Laboratory
+Basename
+Bc (programming language)
+Bcdedit
+Bit
+BitLocker
+Bob Braden
+Bootcfg
+Bootsect
+Break (command)
+CHCP (command)
+CHKDSK
+COMMAND.COM
+CURL
+Cabinet (file format)
+Cacls
+Cal (command)
+Cat (Unix)
+Cd (command)
+Chattr
+Chgrp
+Chmod
+Choice (command)
+Chown
+Cksum
+Clipboard (computing)
+Cls (command)
+Cmd.exe
+Cmdkey
+Cmp (Unix)
+Comm
+Command-line interface
+Command-line option
+Command (computing)
+Comment (computer programming)
+Commercial software
+Comp (command)
+Compact (computing)
+Computer network
+Computing platform
+Conditional (computer programming)
+Convert (command)
+Copy (command)
+Cp (Unix)
+Cron
+Cross-platform
+Csplit
+Ctags
+Cut (Unix)
+DATE (command)
+DOSKEY
+David L. Mills
+Dd (Unix)
+Debug (command)
+Del (command)
+Deltree
+Denial-of-service attack
+Device Manager
+Df (Unix)
+Diff
+Dir (command)
+Dirname
+Disk Defragmenter (Windows)
+Diskcomp
+Diskcopy
+Diskpart
+Diskraid
+Dispdiag
+Doi (identifier)
+Dpath
+Drvspace
+Du (Unix)
+Echo
+Echo (command)
+Ed (text editor)
+Edlin
+Encrypting File System
+Env
+Environment variable
+Event Viewer
+Ex (text editor)
+Exe2bin
+Exit (command)
+Expr
+Fdisk
+File (command)
+File Compare
+File association
+Find (Unix)
+Find (Windows)
+Findstr
+Fixboot
+Fixmbr
+Fold (Unix)
+For loop
+Forfiles
+Format (command)
+Fping
+FreeBSD
+FreeDOS
+Fsutil
+Ftype
+Fuser (Unix)
+GPL
+Goto
+Graftabl
+Grep
+Group Policy
+Head (Unix)
+Help (command)
+Host (network)
+Hostname
+Hping
+ICMPv6
+IETF
+IP fragmentation
+IP header
+ISBN (identifier)
+Iconv
+Internet Control Message Protocol
+Internet Protocol
+Internet Protocol version 6
+Ipconfig
+Job control (Unix)
+John Wiley & Sons
+Join (Unix)
+Keepalive
+Kill (command)
+Label (command)
+Lex (software)
+Linux
+List of DOS commands
+List of POSIX commands
+Ln (Unix)
+Logman
+Logname
+Ls
+M4 (computer language)
+MAC address
+MIT License
+MS-DOS Editor
+MSCDEX
+Make (software)
+Man page
+Maximum transmission unit
+Mean (average)
+Mesg
+Microsoft Docs
+Microsoft ScanDisk
+Microsoft Windows
+Mike Muuss
+Mkdir
+Mklink
+Mode (command)
+Mofcomp
+More (command)
+Move (command)
+Mv (Unix)
+NTBackup
+Nbtstat
+Net (command)
+Netsh
+Netstat
+Network packet
+Nice (Unix)
+Nl (Unix)
+Nm (Unix)
+Nping
+Nslookup
+Octet (computing)
+Od (Unix)
+Ones' complement
+Open-source software
+OpenSSH
+Openfiles
+PATH (variable)
+PRINT (command)
+Packet loss
+Paste (Unix)
+Patch (Unix)
+PathPing
+Pause (command)
+Pax (command)
+Pentium FDIV bug
+Peter Salus
+Ping-pong scheme
+Ping flood
+Ping of death
+Ping sweep
+Pnpunattend
+Pnputil
+PowerShell
+Powercfg
+Printf (Unix)
+Programmer
+Ps (Unix)
+Public-domain software
+Public domain software
+Pulse (signal processing)
+Pushd and popd
+Pwd
+QBasic
+REAgentC
+ReactOS
+Read (Unix)
+Recover (command)
+Recovery Console
+Refsutil
+Regsvr32
+Relog
+Ren (command)
+Replace (command)
+Request for Comments
+Rm (Unix)
+Rmdir
+Robocopy
+Round-trip time
+Route (command)
+Rpcping
+Runas
+SUBST
+SYS (command)
+Scripting language
+Secure copy protocol
+Secure file transfer program
+Sed
+Setspn
+Setver
+Shadow Copy
+Shell builtin
+Shutdown (computing)
+Sleep (command)
+Smurf attack
+Software categories
+Software development
+Software license
+Software utility
+Solaris (operating system)
+Sonar
+Sort (Unix)
+Split (Unix)
+Ssh-agent
+Ssh-keygen
+Standard deviation
+Start (command)
+Stateless server
+Steve Deering
+Strings (Unix)
+Strip (Unix)
+Sxstrace
+Sybex
+System File Checker
+System V printing system
+Systeminfo
+TIME (command)
+TYPE (DOS command)
+Tail (Unix)
+Takeown
+Talk (software)
+Tar (computing)
+Taskkill
+Tasklist
+Tcpdump
+Tee (command)
+Test (Unix)
+Time (Unix)
+Time to live
+Timeout (computing)
+Title (command)
+Touch (command)
+Tpmtool
+Tpmvscmgr
+Tput
+Tr (Unix)
+Traceroute
+Tracerpt
+Tree (command)
+Troff
+True and false (commands)
+Type (Unix)
+Type of service
+Typeperf
+US Army Research Laboratory
+Umask
+Uname
+Uniq
+Unix
+Ver (command)
+Vi (text editor)
+Vol (command)
+W32tm
+WBAdmin
+Wait (command)
+Wake-on-LAN
+Wc (Unix)
+Wecutil
+Wevtutil
+Where (command)
+Who (Unix)
+Whoami
+Windows Assessment and Deployment Kit
+Windows Installer
+Windows Management Instrumentation Command-line
+Windows Registry
+Windows Remote Management
+Windows Script Host
+Windows Subsystem for Linux
+Windows Support Tools
+Windows System Assessment Tool
+Windows Task Scheduler
+Windows service
+Winmgmt
+Write (Unix)
+XCOPY
+Xargs
+Yacc

@@ -1,0 +1,219 @@
+.sys
+16550 UART
+API
+ARM (processor)
+Abstraction (computer science)
+Advanced Linux Sound Architecture
+Advanced Technology Attachment
+Apple Inc.
+Application software
+Ars Technica
+Automaton
+Bandwidth (computing)
+Bluetooth Low Energy
+Booting
+Bus error
+Bus mastering
+Byte
+CD-ROM
+CPU modes
+CUPS
+Class driver
+Command-line interface
+Commit (version control)
+Comparison of operating systems
+Comparison of user features of operating systems
+Compile time
+Computer
+Computer architecture
+Computer bug
+Computer bus
+Computer engineer
+Computer hardware
+Computer keyboard
+Computer mouse
+Computer multitasking
+Computer network
+Computer printer
+Computer program
+Computer security
+Computer storage
+Computing platform
+Context switch
+Cooperative multitasking
+DOS
+Daemon Tools
+Defragmentation
+Device control register
+Device driver synthesis and verification
+Device file
+Digital camera
+Digital signal processor
+Digital terrestrial television
+Direct Rendering Infrastructure
+Disk operating system
+Disk partitioning
+Distributed operating system
+Driver (software)
+Driver wrapper
+Embedded operating system
+Embedded software
+Erroneous program
+Exokernel
+Exploit (computer security)
+FTDI
+Fault tolerance
+File attribute
+File system
+Filesystem API
+Firmware
+Fixed-priority pre-emptive scheduling
+Floppy disk
+Forensic software engineering
+Free and open-source graphics device driver
+Free and open source
+Free software
+Function call
+General protection fault
+Hard disk
+Hard disk drive
+Hardware abstraction
+History of operating systems
+Hobbyist operating system
+Hybrid kernel
+I/O
+ISBN (identifier)
+ISCSI
+Image scanner
+Inode
+Input-output
+Input/output
+Installable File System
+Inter-process communication
+Interface (computer science)
+Interface (computing)
+Interrupt
+IrDA
+Journaling file system
+Just enough operating system
+Kernel-Mode Driver Framework
+Kernel (operating system)
+Linux
+Linux kernel
+List of operating systems
+Live CD
+Live USB
+Loadable kernel module
+Logical Device Driver
+MacOS
+Makedev
+Manufacturer
+Memory management
+Memory management (operating systems)
+Memory paging
+Memory protection
+Message-based protocol
+Microcontroller
+Microkernel
+Microsoft
+Microsoft Windows
+Minix
+Mobile operating system
+Monolithic kernel
+Multikernel
+Multilevel feedback queue
+Music sequencer
+Network Driver Interface Specification
+Network adapter
+Network card
+Network cards
+Network interface card
+Network operating system
+Non-volatile memory
+Object-oriented operating system
+Open-source hardware
+Open Data-Link Interface
+Operating system
+PCI bus
+PC chipset
+Parallel port
+Pennsylvania State University
+Peripheral
+Personal area network
+Peter J. Denning
+Physical Device Driver
+Pointing device
+PostScript
+Preboot Execution Environment
+Preemption (computing)
+Primitive (computer science)
+Printer driver
+Privilege (computing)
+Process (computing)
+Process control block
+Process management (computing)
+Protection ring
+Real-time operating system
+Replicant (operating system)
+Reverse engineering
+Round-robin scheduling
+Rump kernel
+Runtime (program lifecycle phase)
+SATA
+SCSI
+Sandbox (computer security)
+Scanner Access Now Easy
+Scheduling (computing)
+Segmentation fault
+Separation of protection and security
+Serial Attached SCSI
+Serial port
+Shell (computing)
+Shortest job next
+Software engineer
+Solaris (operating system)
+Sound card
+Sound card mixer
+SourceForge
+Subroutine
+Supercomputer operating system
+System call
+System resource
+TWAIN
+Thread (computing)
+Thread (network protocol)
+Time-sharing
+Timeline of operating systems
+Udev
+Uniform Driver Interface
+Unikernel
+Universal Windows Platform
+Usage share of operating systems
+User-Mode Driver Framework
+User (computing)
+User interface
+User mode
+User space
+User space and kernel space
+VLM (NetWare)
+Video BIOS
+Video adapters
+Vidix
+Virtual file system
+Virtual machine
+Virtual memory
+Virtual private network
+Virtual tape library
+Vkernel
+Vulnerability (computing)
+VxD
+Windows Display Driver Model
+Windows Driver Foundation
+Windows Driver Frameworks
+Windows Driver Model
+Windows NT
+Windows Vista
+X86
+Xen
+Z-Wave
+Zigbee

@@ -1,0 +1,262 @@
+4690 Operating System
+86-DOS
+ATTRIB
+Action Center
+Address Resolution Protocol
+ArcaOS
+At (command)
+Auditpol
+Autochk
+Background Intelligent Transfer Service
+Bad sector
+Bcdedit
+BitLocker
+Bootcfg
+Bootsect
+Break (command)
+Btrfs
+CBS Interactive
+CHCP (command)
+COMMAND.COM
+CURL
+C (programming language)
+Cabinet (file format)
+Cacls
+Cd (command)
+Choice (command)
+Clipboard (computing)
+Cls (command)
+Cmd.exe
+Cmdkey
+Command-line interface
+Command (computing)
+Comment (computer programming)
+Comp (command)
+Compact (computing)
+Computing platform
+Conditional (computer programming)
+Convert (command)
+Copy (command)
+Crash (computing)
+Cross-platform
+DATE (command)
+DOS
+DOSKEY
+DR-DOS
+DR DOS 6.0
+Data backup
+Data scrubbing
+Datalight
+Debug (command)
+Defragmentation
+Del (command)
+Deltree
+Device Manager
+Digital Equipment Corporation
+Digital Research
+Dir (command)
+Dirty bit
+Disk Defragmenter (Windows)
+Diskcomp
+Diskcopy
+Diskpart
+Diskraid
+Dispdiag
+Dpath
+Drvspace
+E2fsprogs
+EComStation
+Echo (command)
+Ed Bott
+Edlin
+Encrypting File System
+Environment variable
+Event Viewer
+Exe2bin
+Exit (command)
+FAT32
+Fdisk
+File Compare
+File allocation table
+File association
+File system
+Find (Windows)
+Findstr
+Fixboot
+Fixmbr
+FlexOS
+For loop
+Forfiles
+Format (command)
+FreeDOS
+Free software
+Fsck
+Fsutil
+Ftype
+GNU GPL 2
+GPLv2
+Goto
+Graftabl
+Group Policy
+Help (command)
+Hostname
+IBM
+IBM PC DOS
+ISBN (identifier)
+InfoWorld
+International Data Group
+Ipconfig
+Kill (command)
+Label (command)
+List of DOS commands
+List of file systems
+Logman
+MAC address
+MIT License
+MS-DOS
+MS-DOS Editor
+MSCDEX
+MSX-DOS
+Mark Russinovich
+Memory leak
+Microsoft
+Microsoft Press
+Microsoft ScanDisk
+Microsoft Windows
+Mkdir
+Mklink
+Mode (command)
+Mofcomp
+More (command)
+Move (command)
+Multiboot
+NTBackup
+Native mode
+Nbtstat
+Neowin
+Net (command)
+Netsh
+Netstat
+Novell
+Nslookup
+O'Reilly Media
+OS/2
+OpenSSH
+Openfiles
+Operating system
+Osborne McGraw-Hill
+PATH (variable)
+PRINT (command)
+PTS-DOS
+PathPing
+Pause (command)
+Pax (command)
+Pentium FDIV bug
+PhysTechSoft
+Ping (networking utility)
+Pnpunattend
+Pnputil
+PowerShell
+Powercfg
+Programmer
+Pushd and popd
+QBasic
+RAID
+RAID-1
+RAID-5
+REAgentC
+ROM-DOS
+ReactOS
+Recover (command)
+Recovery Console
+Refsutil
+Regsvr32
+Relog
+Ren (command)
+Replace (command)
+Rmdir
+Robocopy
+Route (command)
+Rpcping
+Runas
+SISNE plus
+SMSS.EXE
+SUBST
+SYS (command)
+Scripting language
+Seattle Computer Products
+Secure copy protocol
+Secure file transfer program
+Setspn
+Setver
+Shadow Copy
+Shell builtin
+Shutdown (computing)
+Software categories
+Software development
+Software license
+Ssh-agent
+Ssh-keygen
+Start (command)
+Steven Sinofsky
+Sxstrace
+Sysinternals
+System File Checker
+System partition and boot partition
+System software
+Systeminfo
+TENEX (operating system)
+TIME (command)
+TOPS-20
+TYPE (DOS command)
+Takeown
+Tar (computing)
+Taskkill
+Tasklist
+Tim Paterson
+Timeout (computing)
+Title (command)
+Toshiba
+Tpmtool
+Tpmvscmgr
+Traceroute
+Tracerpt
+Tree (command)
+Typeperf
+Unix
+Ver (command)
+Vol (command)
+Volume (computing)
+W32tm
+WBAdmin
+Weasel word
+Wecutil
+Wevtutil
+Where (command)
+Whoami
+Windows 7
+Windows 9x
+Windows Assessment and Deployment Kit
+Windows Command Prompt
+Windows Explorer
+Windows Installer
+Windows Management Instrumentation Command-line
+Windows NT
+Windows PowerShell
+Windows Registry
+Windows Remote Management
+Windows Script Host
+Windows Server
+Windows Server 2008
+Windows Subsystem for Linux
+Windows Support Tools
+Windows System Assessment Tool
+Windows Task Scheduler
+Windows Vista
+Windows XP
+Windows service
+Windows startup process
+Winmgmt
+X86 assembly language
+XCOPY
+ZDNet

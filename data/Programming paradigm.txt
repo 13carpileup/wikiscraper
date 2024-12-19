@@ -1,0 +1,509 @@
+ACM Computing Classification System
+ALGOL
+APL (programming language)
+AT&T Bell Labs
+Abductive logic programming
+Abstraction (computer science)
+Action language
+Actor model
+Ada (programming language)
+Agent-oriented programming
+Agile software development
+Alexander Stepanov
+Algebraic modeling language
+Algorithm
+Algorithm design
+Algorithmic efficiency
+Analysis of algorithms
+Anonymous function
+Answer set programming
+Application security
+Applicative programming language
+Architecture description language
+Array programming
+Artificial intelligence
+Aspect-oriented programming
+Assembly language
+Assignment (computer science)
+Attribute-oriented programming
+Automata-based programming
+Automata theory
+Automated planning and scheduling
+Automated reasoning
+Automated theorem proving
+Automatic differentiation
+Automatic mutual exclusion
+Automatic programming
+BASIC
+Backward compatibility
+Bayesian program synthesis
+Block (programming)
+C++
+CI/CD
+COBOL
+C (programming language)
+C Sharp (programming language)
+Capability Maturity Model Integration
+Choreographic programming
+Class-based programming
+Class (computer programming)
+Command language
+Comparison of functional programming languages
+Comparison of multi-paradigm programming languages
+Comparison of programming languages
+Comparison of programming languages (object-oriented programming)
+Compatibility layer
+Compatibility mode
+Compiled language
+Compiler construction
+Component-based software engineering
+Computability theory
+Computational biology
+Computational chemistry
+Computational complexity
+Computational complexity theory
+Computational engineering
+Computational geometry
+Computational mathematics
+Computational physics
+Computational social science
+Computer accessibility
+Computer animation
+Computer architecture
+Computer compatibility
+Computer data storage
+Computer engineering
+Computer file
+Computer graphics
+Computer hardware
+Computer language
+Computer network
+Computer program
+Computer programming
+Computer science
+Computer security
+Computer vision
+Computing
+Computing platform
+Concatenative programming language
+Concurrency (computer science)
+Concurrent computing
+Concurrent constraint logic programming
+Concurrent logic programming
+Concurrent object-oriented programming
+Concurrent programming language
+Constraint logic programming
+Constraint programming
+Control flow
+Control theory
+Control variable (programming)
+Copy (command)
+Cross-validation (statistics)
+Cryptography
+Cyberwarfare
+Data
+Data-driven programming
+Data-oriented design
+Data exchange
+Data mining
+Data model
+Data modeling
+Data structure
+Database
+Dataflow
+Dataflow programming
+Decision support system
+Declarative programming
+Dennis Ritchie
+Dependability
+Dependent type
+Design by contract
+DevOps
+Differentiable programming
+Differentiation (mathematics)
+Digital art
+Digital library
+Digital marketing
+Discrete mathematics
+Distributed artificial intelligence
+Distributed computing
+Distributed memory
+Document management system
+Doi (identifier)
+Domain-specific language
+Domain (software engineering)
+Dynamic programming language
+E-commerce
+Educational technology
+Efficacy
+Eiffel (programming language)
+Electronic design automation
+Electronic publishing
+Electronic voting
+Embedded system
+Empirical software engineering
+Encapsulation (computer programming)
+End-user development
+Enterprise architecture
+Enterprise information system
+Enterprise software
+Enterprise unified process
+Entity–relationship model
+Erlang (programming language)
+Esoteric programming language
+Essential systems analysis
+Event-driven programming
+Executable UML
+Execution model
+Experimental software engineering
+Expert system
+Expression-oriented programming language
+Extensible programming
+Extreme programming
+FORTRAN
+Feature-oriented programming
+Fifth-generation programming language
+Filter (software)
+First-generation programming language
+Flow-based programming
+Form factor (design)
+Formal grammar
+Formal language
+Formal methods
+Forth (programming language)
+Fortran
+Forward compatibility
+Fourth-generation programming language
+Function-level programming
+Function (computer programming)
+Function (mathematics)
+Function model
+Functional logic programming
+Functional programming
+Functional reactive programming
+Functional specification
+Futures and promises
+Generalized algebraic data type
+Generational list of programming languages
+Generic programming
+Geographic information system
+Go (programming language)
+Goto
+Grammar-oriented programming
+Graph rewriting
+Graphics processing unit
+Green computing
+Hardware acceleration
+Hardware description language
+Hardware security
+Haskell
+Health informatics
+Hierarchical relationship
+High-level programming language
+High Level Assembly
+Higher-order programming
+History of programming languages
+Homoiconicity
+Human–computer interaction
+Hygienic macro
+Hypertext
+IDEF
+ISBN (identifier)
+ISO/IEC 15504
+Image compression
+Immutable object
+Imperative programming
+Incremental build model
+Inductive logic programming
+Inductive programming
+Inference rule
+Inferential programming
+Information model
+Information retrieval
+Information science
+Information security
+Information system
+Information theory
+Instruction set
+Integrated circuit
+Integrated development environment
+Intentional programming
+Interaction design
+Interactive programming
+Interface description language
+Interpreted language
+Interpreter (computing)
+Intrusion detection system
+Invariant-based programming
+Iterative and incremental development
+Jackson structured programming
+JavaScript
+Java (programming language)
+Julia (programming language)
+Knowledge representation and reasoning
+Knowledge representation language
+Kotlin (programming language)
+Language-oriented programming
+Library (computing)
+Lisp (programming language)
+List comprehension
+List of computer size categories
+List of object-oriented programming languages
+List of programming languages
+List of programming languages by type
+Literate programming
+Logic in computer science
+Logic programming
+Low-code development platform
+Low-level programming language
+Lua (programming language)
+MATLAB
+ML (programming language)
+Machine code
+Machine learning
+Macro (computer science)
+Macroprogramming
+Markup language
+Mathematical
+Mathematical analysis
+Mathematical optimization
+Mathematical software
+Meme
+Memory address
+Message passing
+Metalinguistic abstraction
+Metamodeling
+Metaprogramming
+Method (computer programming)
+Methodology
+Middleware
+Mixed reality
+Model-driven engineering
+Model of computation
+Modeling language
+Modular programming
+Move (command)
+Mozilla Foundation
+Multi-stage programming
+Multi-task learning
+Multimedia database
+Multiprocessing
+Multithreading (computer architecture)
+Multitier programming
+Natural-language processing
+Natural-language programming
+Natural language processing
+Nested function
+Network architecture
+Network performance
+Network protocol
+Network scheduler
+Network security
+Network service
+Networking hardware
+Non-English-based programming languages
+Non-structured programming
+Nondeterministic programming
+Numerical analysis
+Object-based language
+Object-oriented programming
+Object (computer science)
+Object (programming)
+Object Pascal
+Object model
+Ontology (information science)
+Ontology language
+Open-source software
+Operating system
+Operations research
+Organic computing
+Outline of computer science
+PHP
+PL/I
+Page description language
+Parallel computing
+Parallel programming model
+Partial application
+Partitioned global address space
+Pascal (programming language)
+Pattern matching
+Peripheral
+Perl
+Persistent programming language
+Philosophy of artificial intelligence
+Photograph manipulation
+Pipeline (software)
+Pipeline programming
+Pointer (computer programming)
+Polymorphism (computer science)
+Printed circuit board
+Probabilistic logic programming
+Probabilistic programming
+Probability
+Procedural language
+Procedural programming
+Process
+Process-oriented programming
+Process control
+Processor (computing)
+Production system (computer science)
+Program synthesis
+Programming by demonstration
+Programming by example
+Programming domain
+Programming in the large and programming in the small
+Programming language
+Programming language generations
+Programming language theory
+Programming model
+Programming team
+Programming tool
+Project management
+Prolog
+Prototype-based programming
+Purely functional programming
+Python (programming language)
+Quantum Computing
+Quantum programming
+Query language
+R (programming language)
+Randomized algorithm
+Rapid application development
+Reactive programming
+Real-time computing
+Recursion (computer science)
+Reflection (computer programming)
+Reflective programming
+Reinforcement learning
+Relativistic programming
+Rendering (computer graphics)
+Requirements analysis
+Requirements engineering
+Research
+Richard Stallman
+Risk management
+Robert W. Floyd
+Role-oriented programming
+Round-trip engineering
+Ruby (programming language)
+Rule-based programming
+Rust (programming language)
+S2CID (identifier)
+SQL
+Scientific programming language
+Scratch (programming language)
+Scripting language
+Scrum (software development)
+Search-based software engineering
+Second-generation programming language
+Security hacker
+Security service (telecommunication)
+Self-modifying code
+Semantics (computer science)
+Separation of concerns
+Service-oriented architecture
+Service-oriented programming
+Set theoretic programming
+Shading language
+Shared memory
+Shell script
+Side-effect (computer science)
+Side effect (computer science)
+Signal programming
+Simplex algorithm
+Simula
+Simulation language
+Simulink
+Site reliability engineering
+Smalltalk
+Social computing
+Social software
+Social software engineering
+Software
+Software archaeology
+Software architecture
+Software bloat
+Software configuration management
+Software construction
+Software deployment
+Software design
+Software development
+Software development process
+Software engineering
+Software framework
+Software incompatibility
+Software maintenance
+Software prototyping
+Software quality
+Software quality assurance
+Software repository
+Software system
+Software testing
+Software verification and validation
+Solid modeling
+Source code
+Spacecraft command language
+Spaghetti code
+Specification language
+Spiral model
+Spreadsheet
+Stack-oriented programming
+Statistics
+Stochastic computing
+Stream processing
+Strict programming language
+Structured analysis
+Structured concurrency
+Structured programming
+Style sheet language
+Subject-oriented programming
+Subroutine
+Supervised learning
+Swift (programming language)
+Symbolic programming
+Synchronous programming language
+Syntax (programming languages)
+System on a chip
+System programming language
+Systems analysis
+Systems development life cycle
+Systems engineering
+Systems modeling
+Systems modeling language
+Tacit programming
+Tactile programming language
+Template metaprogramming
+Template processor
+The Structure of Scientific Revolutions
+Theoretical computer science
+Theory of computation
+Third-generation programming language
+Thomas Kuhn
+Timeline of programming languages
+Total functional programming
+Transformation language
+Turing Award
+Turing completeness
+Ubiquitous computing
+Unified Modeling Language
+Unified Process
+Uniform Function Call Syntax
+Universal Systems Language
+Unsupervised learning
+V-model (software development)
+Value-level programming
+Very Large Scale Integration
+Very high-level programming language
+Video game
+View model
+Virtual machine
+Virtual reality
+Visual Basic
+Visual Basic (.NET)
+Visual Basic (classic)
+Visual programming language
+Visualization (graphics)
+Von Neumann programming languages
+Waterfall model
+Word processor
+World Wide Web

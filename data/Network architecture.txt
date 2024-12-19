@@ -1,0 +1,266 @@
+ACM Computing Classification System
+ASCII
+ASN.1
+Abstraction layer
+Address Resolution Protocol
+Algorithm
+Algorithm design
+Algorithmic efficiency
+Analysis of algorithms
+AppleTalk
+Application layer
+Application security
+Applications architecture
+Artificial intelligence
+Asynchronous Transfer Mode
+Automata theory
+Automated planning and scheduling
+Bluetooth
+Communication protocol
+Communications system
+Compiler construction
+Computability theory
+Computational biology
+Computational chemistry
+Computational complexity
+Computational complexity theory
+Computational engineering
+Computational geometry
+Computational mathematics
+Computational physics
+Computational social science
+Computer accessibility
+Computer animation
+Computer architecture
+Computer data storage
+Computer graphics
+Computer hardware
+Computer network
+Computer science
+Computer security
+Computer vision
+Computing
+Computing platform
+Concurrency (computer science)
+Concurrent computing
+Control theory
+Control variable (programming)
+Copyright status of works by the federal government of the United States
+Cross-validation (statistics)
+Cryptography
+Cyberwarfare
+Data link layer
+Data mining
+Database
+Datagram Congestion Control Protocol
+Decision support system
+Dependability
+Digital art
+Digital library
+Digital marketing
+Digital subscriber line
+Discrete mathematics
+Distributed artificial intelligence
+Distributed computing
+Document management system
+Domain-specific language
+Domain Name System
+Dumb network
+Dynamic Host Configuration Protocol
+E-commerce
+Educational technology
+Electronic design automation
+Electronic publishing
+Electronic voting
+Embedded system
+Enterprise information system
+Enterprise software
+External Data Representation
+File Transfer Protocol
+Form factor (design)
+Formal language
+Formal methods
+Frame Relay
+G.hn
+General Services Administration
+Generic Framing Procedure
+Geographic information system
+Gopher (protocol)
+Graphics processing unit
+Green computing
+HTTP/3
+Hardware acceleration
+Hardware security
+Health informatics
+High-Level Data Link Control
+Human–computer interaction
+Hypertext Transfer Protocol
+I.430
+I.431
+ICMPv6
+IEEE 1394
+IEEE 802.11
+IEEE 802.15
+IEEE 802.16
+IEEE 802.2
+IEEE 802.3
+IPX/SPX
+IPsec
+IPv4
+IPv6
+IS-IS
+Image compression
+Information retrieval
+Information security
+Information system
+Information theory
+Integrated circuit
+Integrated development environment
+Intelligent Network
+Interaction design
+Internet
+Internet Control Message Protocol
+Internet Group Management Protocol
+Internet Protocol
+Internet protocol suite
+Internetwork Packet Exchange
+Interpreter (computing)
+Intrusion detection system
+Knowledge representation and reasoning
+LAPB
+Layer 2 Tunneling Protocol
+Library (computing)
+Link Access Procedure for Frame Relay
+List of ITU-T V-series recommendations
+List of computer size categories
+Logic in computer science
+Logical link control
+MIL-STD-188
+MIME
+Machine learning
+Mathematical analysis
+Mathematical optimization
+Mathematical software
+Medium access control
+Middleware
+Mixed reality
+Model of computation
+Modeling language
+Multi-task learning
+Multimedia database
+Multiprocessing
+Multithreading (computer architecture)
+NETCONF
+Named pipe
+Natural language processing
+NetBIOS
+Network File System
+Network News Transfer Protocol
+Network Time Protocol
+Network layer
+Network performance
+Network protocol
+Network scheduler
+Network security
+Network service
+Network topology
+Networking hardware
+Numerical analysis
+OCLC (identifier)
+OSI model
+Open-source software
+Open Systems Interconnection model
+Operating system
+Operations research
+Optical Transport Network
+Outline of computer science
+Overlay network
+P2P network
+Packet Layer Protocol
+Parallel Line Internet Protocol
+Parallel computing
+Passive optical network
+Peripheral
+Permanent virtual circuit
+Philosophy of artificial intelligence
+Photograph manipulation
+Physical layer
+Plesiochronous digital hierarchy
+Point-to-Point Protocol
+Point-to-Point Tunneling Protocol
+Presentation layer
+Pretty Good Privacy
+Printed circuit board
+Probability
+Process control
+Processor (computing)
+Programming language
+Programming language theory
+Programming paradigm
+Programming team
+Programming tool
+Public switched telephone network
+QUIC
+Quantum Computing
+RS-232
+RS-449
+Randomized algorithm
+Real-time Transport Protocol
+Real-time computing
+Reinforcement learning
+Rendering (computer graphics)
+Requirements analysis
+SOCKS
+Secure Shell
+Security hacker
+Security service (telecommunication)
+Semantics (computer science)
+Serial Line Internet Protocol
+Session Announcement Protocol
+Session Initiation Protocol
+Session layer
+Short Message Peer-to-Peer
+Simple Mail Transfer Protocol
+Simple Network Management Protocol
+Simple Sensor Interface protocol
+Social computing
+Social software
+Software configuration management
+Software construction
+Software deployment
+Software design
+Software development
+Software development process
+Software engineering
+Software framework
+Software maintenance
+Software quality
+Software repository
+Solid modeling
+Spawning networks
+Statistics
+Stochastic computing
+Stream Control Transmission Protocol
+Supervised learning
+Synchronous Data Link Control
+Synchronous optical networking
+System on a chip
+Telecommunications
+Telnet
+Theoretical computer science
+Theory of computation
+Transmission Control Protocol
+Transport Layer Security
+Transport layer
+USB
+Ubiquitous computing
+Unsupervised learning
+User Datagram Protocol
+Very Large Scale Integration
+Video game
+Virtual machine
+Virtual reality
+Visualization (graphics)
+Word processor
+World Wide Web
+X.25

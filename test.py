@@ -12,7 +12,7 @@ def update_file(title, cons):
     out = ''
     for con in cons:
         out += con + '\n'
-    
+
     out = out.strip()
     f.write(out)
 
@@ -23,7 +23,7 @@ def format_link(title, cont):
     link = f'https://en.wikipedia.org/w/api.php?action=query&titles={parse_title(title)}&prop=links&pllimit=max&format=json'
     if (cont):
         link += f'&plcontinue={cont}'
-    
+
     return link
 
 def filter_links(title):
@@ -31,7 +31,7 @@ def filter_links(title):
     allowed = True
     for banned in blockedChars:
         if banned in title:
-            allowed = False    
+            allowed = False
     return allowed
 
 def parse_links(js):
@@ -72,7 +72,7 @@ def get_connections(title):
 
     try:
         while 'continue' in response:
-            contString = response['continue']['plcontinue'] 
+            contString = response['continue']['plcontinue']
             response = requests.get(format_link(title, contString), timeout=10).json()
             links = links + parse_links(response)
     except Exception as e:
@@ -86,7 +86,7 @@ def process_links(root, queue):
 
     if root in searched:
         return
-    
+
     initialLinks = get_connections(root)
     if not initialLinks:
         return
@@ -111,10 +111,10 @@ def bfs_worker(queue, executor):
             root = queue.get(timeout=5)  # 5 second timeout
             if root is None:  # Poison pill
                 break
-            
+
             process_links(root, queue)
             queue.task_done()
-            
+
         except TimeoutError:
             break
         except Exception as e:
@@ -166,11 +166,11 @@ with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
             worker = threading.Thread(target=bfs_worker, args=(work_queue, executor))
             worker.start()
             workers.append(worker)
-        
+
         # Send poison pills to stop workers
         for _ in range(MAX_WORKERS):
             work_queue.put(None)
-        
+
         # Wait for all workers to finish
         for worker in workers:
             worker.join()

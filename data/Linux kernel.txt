@@ -1,0 +1,809 @@
+/sys
+0 A.D. (video game)
+64-bit
+AArch64
+AMD Catalyst
+AMD Radeon Software
+ANSI C
+AOL
+ARM architecture
+Access-control list
+Addison-Wesley
+Advanced Linux Sound Architecture
+Alan Cox (computer programmer)
+Alcatel-Lucent
+AlliedWare Plus
+Allison Randal
+Alpha AXP
+Amazon Kindle
+Andrew Morton (computer programmer)
+Andrew S. Tanenbaum
+Andries Brouwer
+Android (operating system)
+Android Go
+AppArmor
+Apple Inc.
+Application binary interface
+Application programming interface
+Application software
+Ars Technica
+Assembly language
+Asymmetric multiprocessing
+Atomic (computer science)
+B.A.T.M.A.N.
+B2G OS
+Babel (protocol)
+Backporting
+Backward compatibility
+Bada (operating system)
+Balkanization
+Bash (Unix shell)
+Bcache
+Benjamin Mako Hill
+Benson Leung
+Berkeley Packet Filter
+Big O notation
+Binary Runtime Environment for Wireless
+Binary blob
+Bionic (software)
+Bird Internet routing daemon
+BitKeeper
+BlackBerry 10
+BlackBerry OS
+BlackBerry Tablet OS
+Blender (software)
+BlueZ
+Bluetooth
+Board support package
+Bob Young (businessman)
+Booting process of Linux
+Bradley M. Kuhn
+Brain Fuck Scheduler
+BridgeOS
+Bruce Perens
+Btrfs
+Bzip2
+C11 (C standard revision)
+C89 (C version)
+CBS Interactive
+CNET
+COCOMO
+CPU
+CPU architecture
+CRIU
+C (programming language)
+C standard library
+Captive portal
+Central processing unit
+Cgroups
+Chris Wright (programmer)
+ChromeOS
+ChromeOS Flex
+Cisco IOS
+Cisco NX-OS
+Clang
+Clone (Linux system call)
+Close (system call)
+Code of conduct
+Communication protocol
+CompTIA Linux+
+Comparison of Linux distributions
+Comparison of firewalls
+Comparison of mobile operating systems
+Comparison of netbook-oriented Linux distributions
+Comparison of open-source wireless drivers
+Comparison of operating system kernels
+Comparison of operating systems
+Compiler
+Compiling
+Completely Fair Scheduler
+Compute Node Linux
+Computer History Museum
+Computer data storage
+Computer science
+Computer systems
+Con Kolivas
+Concurrent computing
+Configfs
+Context switch
+Contributor Covenant
+Cooperative Linux
+Criticism of Linux
+Criticism of desktop Linux
+Crypto API (Linux)
+DD-WRT
+DEC Alpha
+DMA-BUF
+Daemon (computing)
+Daniel Robbins (computer programmer)
+Dave Sifry
+Dave Taylor (game programmer)
+David S. Miller
+Debconf
+Debian
+Debugfs
+Denial-of-service attack
+Deployment environment
+Derivative work
+Devfs
+Device driver
+Device drivers
+Device mapper
+Device tree
+Devpts
+Dice Holdings
+Dietlibc
+Digital Equipment Corporation
+Digital rights management
+Digital video recorder
+Direct Rendering Infrastructure
+Direct Rendering Manager
+Direct memory access
+Discretionary access control
+DistroWatch
+Dm-cache
+Dm-crypt
+Dnotify
+Doi (identifier)
+Donna Benjamin
+Downstream (software development)
+Dracut (software)
+Dup (system call)
+Dynamic linker
+Düsseldorf
+EDAC (Linux)
+ELinOS
+EMUI
+EPOC (operating system)
+Earliest deadline first scheduling
+Earliest eligible virtual deadline first scheduling
+Egham
+Embeddable Linux Kernel Subset
+Embedded GLIBC
+Emulator
+Endian Firewall
+Engadget
+Enlightenment Foundation Libraries
+Epoll
+Eric S. Raymond
+Ethernet
+Evdev
+Exec (system call)
+Exec Shield
+Executable and Linkable Format
+Exit (system call)
+Ext3
+Ext4
+ExtremeXOS
+Extreme Networks
+F2FS
+FIFO (computing and electronics)
+FLTK
+FRRouting
+FUNET
+Federico Heinz
+Fedora Linux
+File Allocation Table
+File system
+File systems
+Filesystem Hierarchy Standard
+Filesystem in Userspace
+Firefox
+Firefox OS
+Floppyfw
+Fopen
+Fork (software)
+Fork (software development)
+Framingham, Massachusetts
+FreeBSD
+FreeRTOS
+FreeSync
+Free Software Magazine
+Free and open-source graphics device driver
+Free and open-source software
+Free software
+Fritz!Box
+Ftrace
+Fuchsia (operating system)
+Full Circle (magazine)
+Function (programming)
+Futex
+GEOS (16-bit operating system)
+GIMP
+GNU
+GNU/Linux naming controversy
+GNU Assembler
+GNU Binary Utilities
+GNU C Library
+GNU Compiler Collection
+GNU Debugger
+GNU General Public License
+GNU Hurd
+GNU Project
+GNU Zebra
+GNU compiler collection
+GNU linker
+GNU toolchain
+GNU zip
+GNUstep
+GPL compatibility
+GTK
+Gartner
+Gaël Duval
+Git
+GitHub
+Git (software)
+Glibc
+Global variable
+Google
+Graphics card
+Graphics processing unit
+Greg Kroah-Hartman
+Grub2
+H. Peter Anvin
+HMD Global
+Hacker Public Radio
+Hans Reiser
+Harald Hoyer
+Harald Welte
+Hardware-assisted virtualization
+Hardware interrupt
+HarmonyOS
+HarmonyOS NEXT
+HarperBusiness
+Havoc Pennington
+Header files
+High-performance computing
+High Precision Event Timers
+History of Linux
+HotWired
+Huawei
+Hypervisor
+I.MX
+I386
+I486
+IA-64
+IBM
+IBM Personal Computer/AT
+IBM System/390
+IIO Framework
+INK (operating system)
+IOS
+IPFire
+IPadOS
+IPhone
+IPod
+IPodLinux
+IRIX
+ISACA
+ISBN (identifier)
+Ian Murdock
+Ice Lake (microprocessor)
+Inclusive language
+Industry Standard Architecture
+InfiniBand
+Ingo Molnár
+Init
+Initramfs
+Initrd
+Inline assembler
+Inotify
+Instruction set architecture
+Intel
+Intel C++ Compiler
+Intel Management Engine
+Intelligent design
+Inter-process communication
+InterMezzo (file system)
+International Data Corporation
+International Data Group
+Internet protocol suite
+Interrupt
+Interrupt handler
+Io uring
+Ioctl
+It's FOSS
+Itanium
+JFS (file system)
+Jane Silber
+Jeff Waugh
+Jens Axboe
+Jim Gettys
+Jon Hall (programmer)
+Jono Bacon
+Junos OS
+Just for Fun (book)
+KGDB
+KGraft
+KMS driver
+KaiOS
+Karen Sandler
+Kay Sievers
+Kdump (Linux)
+Keith Bergelt
+Keith Packard
+Ken Coar
+Kernel-based Virtual Machine
+Kernel.org
+KernelCare
+KernelTrap
+Kernel (operating system)
+Kernel Mode Setting
+Kernel mode
+Kernel panic
+Kernel preemption
+Kernel same-page merging
+Kernel space
+Kernfs (Linux)
+Kexec
+Klibc
+Kmscon
+Kpatch
+Ksplice
+L4Linux
+LAMP (software bundle)
+LEDE
+LIO (SCSI target)
+LKML
+LLVM
+LWN.net
+LXC
+LYME (software bundle)
+Latency (engineering)
+Lennart Poettering
+Lguest
+LibATA
+Libhybris
+LibreCMC
+LibreOffice
+Libusb
+Light-weight Linux distribution
+Linaro
+Linearizability
+Linked list
+Linus's law
+Linus Torvalds
+Linux
+Linux-VServer
+Linux-libre
+Linux-powered device
+Linux.com
+LinuxChix
+LinuxUser
+Linux Counter
+Linux Documentation Project
+Linux Format
+Linux Foundation
+Linux Foundation Linux Certification
+Linux Gazette
+Linux Journal
+Linux Kernel
+Linux Magazine
+Linux Mark Institute
+Linux Network Scheduler
+Linux Outlaws
+Linux PAM
+Linux Security Modules
+Linux Standard Base
+Linux Terminal Server Project
+Linux Voice
+Linux adoption
+Linux boot
+Linux conference
+Linux console
+Linux desktop environments
+Linux distribution
+Linux distributions
+Linux for mobile devices
+Linux framebuffer
+Linux gaming
+Linux kernel API
+Linux kernel interfaces
+Linux kernel mailing list
+Linux kernel oops
+Linux kernel version history
+Linux malware
+Linux on embedded systems
+Linux range of use
+Linux user group
+List of Linux-supported computer architectures
+List of Linux adopters
+List of Linux distributions
+List of Linux distributions that run from RAM
+List of computer security certifications
+List of custom Android distributions
+List of mobile app distribution platforms
+List of open-source mobile phones
+List of router and firewall distributions
+List of router firmware projects
+List of software package management systems
+LiteOS
+Live patching
+Loadable kernel module
+Localtime
+Logical Volume Manager (Linux)
+Long-term support
+LugRadio
+Luis Villa
+LuneOS
+M0n0wall
+M68k
+MINIX
+MIPS architecture
+MS-DOS
+Mac80211
+MacOS
+Macro (computer science)
+Maemo
+Magic Cap
+Mainframe computer
+Mainline Linux
+Make (Unix)
+Malloc
+Man page
+Mandatory access control
+Manjaro
+Marc Ewing
+Mark Galassi
+Mark Shuttleworth
+Mary Gardiner
+Matthew Garrett
+Matthias Ettrich
+McGraw-Hill Osborne Media
+MeeGo
+Memcpy
+Memory barrier
+Memory management
+Memory management unit
+Memory ordering
+Memory paging
+Memory protection
+Menuconfig
+Mer (software distribution)
+Mesa (computer graphics)
+Mesa 3D
+Michael Kerrisk
+Michael Larabel
+Michael Tiemann
+Microcontroller
+Microkernel
+Microsoft
+Microsoft Windows
+Miguel de Icaza
+MikroTik
+Minix 3
+MkLinux
+Mmap
+Mobian
+Mobile app development
+Mobile operating system
+Mobilinux
+Moblin
+Modular programming
+Module (Linux)
+Monolithic kernel
+MontaVista
+MotoMagx
+Motorola 68000
+Musl
+Mutex
+Mutual exclusion
+NTFS
+NVIDIA
+NXP Semiconductors
+National Security Agency
+Native POSIX Thread Library
+Neighbornode
+NetBSD
+Netfilter
+Netlink
+Network interface controller
+Network operating system
+Network scheduler
+New API
+Newlib
+News.com
+Nexus 7
+Nftables
+Nintendo
+Nintendo 3DS system software
+Nintendo DSi system software
+Nintendo Switch system software
+Nokia
+Nokia Asha platform
+Non-blocking algorithm
+Non-uniform memory access
+Noop scheduler
+Nvidia
+Nvidia Optimus
+O'Reilly Media
+O(1) scheduler
+O(n) scheduler
+OCLC (identifier)
+OPNsense
+OS-level virtualization
+OSADL
+Object file
+Olivier Fourdan
+OpenBGPD
+OpenEZX
+OpenEmbedded
+OpenHarmony
+OpenOSPFD
+OpenRC
+OpenSSH
+OpenVZ
+OpenWrt
+Open (system call)
+Open Handset Alliance
+Open Mobile Alliance
+Openmoko Linux
+Operating system
+Optimizing compiler
+PA-RISC
+PC Card
+POSIX
+PREEMPT RT
+PSXLinux
+Package format
+Package manager
+Packt Publishing
+Page frame
+Page table
+PalmDOS
+Palm OS
+Pamela Jones
+Parallel computing
+Paravirtualization
+Patrick Volkerding
+Pentium 4
+Perf (Linux)
+Peter MacDonald (computer programmer)
+PfSense
+Phoronix
+Phoronix Test Suite
+Physical Address Extension
+Pia Andrews
+Pixel (1st generation)
+Pixel 2
+PlayStation Portable system software
+PlayStation Vita system software
+Plug and Play
+Polkit
+Porting
+PostmarketOS
+PowerPC
+Preemption (computing)
+Preemptive multitasking
+Printk
+Priority inheritance
+Privilege escalation
+Process (computing)
+Process management (computing)
+Process scheduler
+Procfs
+Programmer
+Proprietary software
+Pseudo terminal
+Pthread create
+PureOS
+QEMU
+QNX
+QtMoko
+Qt (software)
+Quagga (software)
+Queue (abstract data type)
+RAID
+RPMsg
+RTAI
+RTLinux
+Radeon
+Radix tree
+Random-access memory
+Raw device
+Read-copy-update
+Read (system call)
+Readahead
+Real-time computing
+Real-time operating system
+Red Hat
+Red Hat Certification Program
+Red–black tree
+Regression tests
+Repository (version control)
+Reverse-engineer
+Revolution OS
+Richard Stallman
+Ring (computer security)
+Ring 0 (computer security)
+Robert Love
+Round-robin scheduling
+Runit
+Rust (programming language)
+Rust for Linux
+Rusty Russell
+Ryan C. Gordon
+Rémy Card
+S60 (software platform)
+SCHED DEADLINE
+SCHED FIFO
+SCHED RR
+SCO–Linux disputes
+SCSI
+SHR (operating system)
+SLUB (software)
+SPARC
+SR-IOV
+Sage Sharp
+Sage Weil
+Sailfish OS
+Samba (software)
+Samsung
+Sankey diagram
+Scheduling (computing)
+Seccomp
+Security-Enhanced Linux
+Security-focused operating system
+Select (Unix)
+Self-hosting (compilers)
+Semaphore (programming)
+Serial cable
+Series 30
+Series 30+
+Series 40
+Series 80 (software platform)
+Series 90 (software platform)
+Shuah Khan
+Sic
+Simple DirectMedia Layer
+Simple and Fast Multimedia Library
+Single UNIX Specification
+Slashdot
+Slurm Workload Manager
+Smack (Linux security module)
+Smack (software)
+SmoothWall
+Software bug
+Software component
+Software license
+Software release life cycle
+Solar Designer
+Solaris (operating system)
+Sony Ericsson Java Platform
+Source code
+Source files
+Source lines of code
+Special file
+Spinlock
+Splice (system call)
+Stat (system call)
+SteamOS
+Stephen Tweedie
+Subroutine
+Summit (supercomputer)
+SurfaceFlinger
+Symbian
+Symmetric multiprocessing
+Sync (Unix)
+Synchronization (computer science)
+Synthetic file system
+Sysfs
+System.map
+SystemTap
+System V
+System V Interface Definition
+System call
+System software
+Systemd
+TOMOYO Linux
+TOP500
+Tanenbaum–Torvalds debate
+Task struct
+TechCrunch
+Terabyte
+The Code (2001 film)
+The Linux Programming Interface
+The New Yorker
+The Register
+Theodore Ts'o
+ThreadX
+Thread (computing)
+TiVo
+Time complexity
+Timothee Besset
+TinyLinux
+Tivoization
+Tizen
+Tmpfs
+Tomato (firmware)
+Tomoyo Linux
+Tor (network)
+Trademark
+Troubleshoot
+Tty (Unix)
+Tux (mascot)
+Type qualifier
+UBports
+UClibc
+UIQ
+UNIX-like
+Ubiquiti Networks
+Ubuntu Professional Certification
+Ubuntu Touch
+Ubuntu User
+Udev
+Udevd
+Universal Serial Bus
+University of Helsinki
+University of Minnesota
+Unix
+Usage share of desktop operating systems
+Usage share of operating systems
+Usenet
+Usenet (identifier)
+Usenet newsgroup
+User-mode Linux
+User mode
+User space
+User space and kernel space
+Userspace
+Utility software
+VFIO
+VMware
+VU University Amsterdam
+Valerie Aurora
+Version control
+Version control system
+Video4Linux
+Video games and Linux
+Virtual file system
+Virtual memory
+Virtualization
+Vmlinux
+Volatile (computer programming)
+VyOS
+Vyatta
+WatchOS
+Wayland (display server protocol)
+Wayland (protocol)
+Wear OS
+WebOS
+Windowing system
+Windows 10
+Windows 10 Mobile
+Windows 11
+Windows 8
+Windows 8.1
+Windows Mobile
+Windows Phone
+Windows Phone 7
+Windows Phone 8
+Windows Phone 8.1
+Windows RT
+Windows XP editions
+Wrapper library
+Write (system call)
+X.Org Foundation
+X32 ABI
+X86
+X86-64
+X86 assembly language
+X86 instruction listings
+XFS
+XNU
+XORP
+X Window System
+Xen
+Xenix
+Xenomai
+Yocto Project
+YouTube
+YouTube video (identifier)
+Z/Architecture
+ZDNet
+Zeroshell
+Zircon (microkernel)
+Zram
+Zswap
+Ångström distribution
+ΜClinux

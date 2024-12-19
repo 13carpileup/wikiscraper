@@ -1,0 +1,425 @@
+/e/ (operating system)
+4MLinux
+86Box
+ALT Linux
+API
+Adaptive Domain Environment for Operating Systems
+Alex Polvi
+AlmaLinux
+Alpine Linux
+Amazon EC2 Container Service
+Amazon Elastic Compute Cloud
+Amazon Web Services
+Android-x86
+Android (operating system)
+Antergos
+AntiX
+Apache License 2.0
+Apache Mesos
+Application virtualization
+ArchBang
+ArchLabs
+Arch Linux
+Artix Linux
+Asahi Linux
+Astra Linux
+Asturix
+Austrumi Linux
+BLAG Linux and GNU
+BackBox
+BackTrack
+Basilisk II
+Beta software
+Bharat Operating System Solutions
+Bhyve
+BioSLAX
+BlackArch
+Black Lab Linux
+BlankOn Linux
+BlueStacks
+Bochs
+Bodhi Linux
+CHAOS (operating system)
+CP/CMS
+CPU
+CRUX
+CURL
+Calculate Linux
+Caldera OpenLinux
+CalyxOS
+Ceedo
+CentOS
+CentOS Stream
+Cgroups
+Chakra (operating system)
+Chimera Linux
+ChromeOS
+ChromiumOS
+Chroot
+Citrix Virtual Apps
+Citrix Virtual Desktops
+ClearOS
+Clear Linux OS
+ColorOS
+Command-line utility
+Commodore OS
+Communications protocol
+Comparison of Linux distributions
+Comparison of application virtualization software
+Comparison of platform virtualization software
+Compiler
+Computer cluster
+Consensus (computer science)
+Cooperative Linux
+CoreOS
+Corel Linux
+CrDroid
+CrunchBang Linux
+Cub Linux
+CyanogenMod
+D-Bus
+DOSBox
+DOSEMU
+Daemon (computing)
+Dalvik (software)
+Damn Small Linux
+Damn Vulnerable Linux
+Dashboard (management information systems)
+Debian
+Deepin
+DemoLinux
+Deployment system
+Desktop virtualization
+Devuan
+DigitalOcean
+Digital signature
+Disk partition
+Distributed Overlay Virtual Ethernet
+Distributed computing
+DistroWatch
+DivestOS
+Docker (software)
+Docker Inc.
+DoudouLinux
+Dreamlinux
+EBPF
+EMUI
+Ebuild
+Edubuntu
+Elementary OS
+Elive
+Emmabuntüs
+End-of-life (product)
+EndeavourOS
+Endless OS
+Ethernet VPN
+EulerOS
+Failover
+Familiar Linux
+Feather Linux
+Fedora (operating system)
+Fedora Linux
+Fire OS
+Firefox OS
+Floppyfw
+Forbes
+Foresight Linux
+FreeBSD jail
+FreedomBox
+Freespire
+Frugalware Linux
+GNU Guix System
+GNewSense
+GOS (operating system)
+Ganeti
+Garuda Linux
+GeckoLinux
+Generic Network Virtualization Encapsulation
+Gentoo Linux
+GitHub
+Go language
+GoboLinux
+Gobuntu
+Google
+Google Compute Engine
+GrapheneOS
+HTTP
+HandyLinux
+Hard disk drive
+Hardware virtualization
+Hyper-V
+Hyperbola GNU/Linux-libre
+Hypervisor
+I/O
+IPXE
+Immunix
+InfoWorld
+Init
+InstallFree
+Interface (computing)
+IodéOS
+JSON
+Jurix
+KDE neon
+KaOS
+KaiOS
+Kaisen Linux
+Kali Linux
+Kanotix
+KateOS
+Kernel-based Virtual Machine
+Kernel (operating system)
+Kexec
+Key–value data
+Knoppix
+Kongoni (operating system)
+Korora (operating system)
+KubeVirt
+Kubernetes
+Kubuntu
+Kwort Linux
+LWN.net
+LXC
+LXLE Linux
+Libranet
+LinHES
+LineageOS
+Linpus Linux
+Linux
+Linux-VServer
+Linux.com
+LinuxTLE
+Linux Caixa Mágica
+Linux Lite
+Linux Mint
+Linux Router Project
+Linux distribution
+Linux for PlayStation 2
+Linux kernel
+Linux namespaces
+List of Linux distributions
+List of computer system emulators
+List of emulators
+Lmctfy
+Logical partition
+Lubuntu
+LynxSecure
+MCC Interim Linux
+MIUI
+MX Linux
+Mageia
+Mandrake Linux
+Mandriva Linux
+Manjaro
+Master election
+MeeGo
+Mer (software distribution)
+Microsoft App-V
+Microsoft Azure
+Microsoft Virtual Server
+Miracle Linux
+Mobilinux
+Monolithic kernel
+Mount (computing)
+Musix GNU+Linux
+Network Security Toolkit
+Network Virtualization using Generic Routing Encapsulation
+Network booting
+Network virtualization
+NimbleX
+Nitix
+NixOS
+Nobara Linux
+Nomad (software)
+Nova (operating system)
+OS-level virtualization
+OVirt
+OmniROM
+One UI
+Open-source software
+OpenELEC
+OpenMandriva Lx
+OpenSUSE
+OpenShift
+OpenStack
+OpenVZ
+Open Enterprise Server
+Open vSwitch
+Operating-system-level virtualization
+Operating-system-level virtualization implementations
+Operating system
+Oracle Linux
+Oracle VM Server for SPARC
+Overlay network
+PCLinuxOS
+PCem
+Package manager
+Parabola GNU/Linux-libre
+Parallels Desktop for Mac
+Parallels Server for Mac
+Parallels Workstation
+Parallels Workstation Extreme
+Paranoid Android (operating system)
+Parrot OS
+Parsix
+PearPC
+Pentoo
+Peppermint OS
+Phoronix
+PikeOS
+Pinguy OS
+PixelExperience
+Platypux
+Podman
+Pop! OS
+Porteus (operating system)
+Preboot Execution Environment
+Process (computing)
+Programmer
+Proxmox Virtual Environment
+Public SSH key
+Puppy Linux
+PureOS
+Q4OS
+QEMU
+QNX
+Qubes OS
+REST
+ROSA Linux
+Raft (computer science)
+Rancher Labs
+Raspberry Pi OS
+Reboot (computing)
+Red Hat
+Red Hat Enterprise Linux
+Red Hat Linux
+Red Star OS
+Redundancy (engineering)
+Remix OS
+Remote Desktop Services
+Replicant (operating system)
+Replication (computing)
+Request–response
+Resource (computer science)
+Resurrection Remix OS
+Rkt (software)
+Rocks Cluster Distribution
+Rocky Linux
+Root file system
+Rump kernel
+Runtime environment
+SIMH
+SIMMON
+SSH tunnel
+SUSE Linux
+SUSE Linux Enterprise
+SUSE Studio
+Sabayon Linux
+Sabily
+Sailfish OS
+Salix OS
+Scalability
+Scientific Linux
+Seccomp
+Server (computing)
+Service discovery
+SheepShaver
+Slackware
+Slax
+Softlanding Linux System
+Software as a service
+Software container
+Software development kit
+Software license
+Software release life cycle
+Software update
+Solaris Containers
+Solid-state drive
+Solus (operating system)
+SolydXK
+Source Mage
+SparkyLinux
+Splashtop OS
+Stable release
+StackEngine
+SteamOS
+Sunwah Linux
+Symantec Workspace Virtualization
+SystemRescue
+System Center Virtual Machine Manager
+Systemd
+T2 SDE
+Tails (operating system)
+TechCrunch
+The Register
+Think Blue Linux
+Tiny Core Linux
+Tizen
+TopologiLinux
+Trisquel
+Turbo (software)
+Turbolinux
+Turkix
+Tutum
+Ubuntu
+Ubuntu Budgie
+Ubuntu Cinnamon
+Ubuntu GNOME
+Ubuntu Kylin
+Ubuntu MATE
+Ubuntu Studio
+Ubuntu Touch
+Ubuntu Unity
+Ultramarine Linux
+Unity Operating System
+Unix domain socket
+Uruk GNU/Linux
+User-mode Linux
+Userspace
+VCloud Air
+VMware
+VMware ESXi
+VMware Fusion
+VMware Horizon
+VMware Infrastructure
+VMware Server
+VMware ThinApp
+VMware Workstation
+VMware Workstation Player
+VMware vSphere
+Vagrant (software)
+VectorLinux
+Vine Linux
+Virt-manager
+VirtualBox
+Virtual DOS machine
+Virtual Extensible LAN
+Virtual Iron
+Virtual PC
+Virtual machine
+Virtual security switch
+Virtualization
+Virtuozzo (company)
+Vkernel
+Void Linux
+Wget
+Whonix
+Win4Lin
+Windows on Windows
+Wired (magazine)
+Workload Partitions
+Wubuntu
+X86-64
+XB Machine
+XCP-ng
+XML
+Xen
+XenServer
+XtratuM
+Xubuntu
+Yellow Dog Linux
+Z/VM
+ZDNet
+Zenwalk
+ZeroVM
+Zorin OS

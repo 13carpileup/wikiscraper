@@ -1,0 +1,769 @@
+AAAI Press
+ACM Press
+Accelerated failure time model
+Action selection
+Activation function
+Active learning (machine learning)
+Actuarial science
+Adaptive clinical trial
+Adjusted Rand index
+Adjusted mutual information
+Adversarial machine learning
+Affinity propagation
+Akaike information criterion
+Alan Turing
+AlexNet
+Alex Graves (computer scientist)
+Alex Krizhevsky
+Algorithm
+Allen Newell
+AlphaFold
+AlphaGo
+AlphaZero
+Analysis of covariance
+Analysis of variance
+Anderson–Darling test
+Andrej Karpathy
+Andrew Ng
+Animal
+Anomaly detection
+Apprenticeship learning
+ArXiv (identifier)
+Arithmetic mean
+Arithmetic–geometric mean
+Arthur Zimek
+Artificial general intelligence
+Artificial intelligence
+Artificial neural network
+Association for Computing Machinery
+Association rule learning
+Asymptotic theory (statistics)
+Attention (machine learning)
+Aurora (text-to-image model)
+AutoGPT
+Autocorrelation
+Autoencoder
+Automated machine learning
+Automatic clustering algorithms
+Autoregressive conditional heteroskedasticity
+Autoregressive model
+Autoregressive–moving-average model
+Average absolute deviation
+BERT (language model)
+BIRCH
+BLOOM (language model)
+Backpropagation
+Balance theory
+Balanced clustering
+Bar chart
+Batch learning
+Batch normalization
+Bayes estimator
+Bayes factor
+Bayesian inference
+Bayesian information criterion
+Bayesian linear regression
+Bayesian network
+Bayesian probability
+Belief propagation
+Bernard Widrow
+Bias of an estimator
+Bias–variance tradeoff
+Bibcode (identifier)
+Biclustering
+Big data
+Binomial regression
+Bioinformatics
+Biostatistics
+Biplot
+Birch (data clustering)
+Blocking (statistics)
+Boltzmann machine
+Boosting (machine learning)
+Bootstrap aggregating
+Bootstrapping (statistics)
+Border detection
+Box plot
+Box–Jenkins method
+Breusch–Godfrey test
+CURE algorithm
+Canonical correlation
+Canopy clustering algorithm
+Cartography
+Categorical variable
+Census
+Central limit theorem
+Central tendency
+Centroid
+Centroids
+ChatGPT
+Chemometrics
+Chi-squared test
+Chinchilla (language model)
+CiteSeerX (identifier)
+Claude (language model)
+Claude Shannon
+Cliff Shaw
+Climatology
+Clinical study design
+Clinical trial
+Clique (graph theory)
+Cluster-weighted modeling
+Cluster sampling
+Clustering high-dimensional data
+Clusty
+Cochran–Mantel–Haenszel statistics
+Coefficient of determination
+Coefficient of variation
+Cohen's kappa
+Cohort study
+Cointegration
+Communities
+Community structure
+Complete linkage clustering
+Completeness (statistics)
+Computational learning theory
+Computer graphics
+Computer science
+Conceptual clustering
+Conditional random field
+Conference on Neural Information Processing Systems
+Confidence interval
+Confounding
+Confusion matrix
+Conjugate gradient method
+Consensus clustering
+Constrained clustering
+Consumer
+Contingency table
+Continuous probability distribution
+Contraharmonic mean
+Control chart
+Convolution
+Convolutional neural network
+Correlation
+Correlation and dependence
+Correlation clustering
+Correlogram
+Count data
+Credible interval
+Crime analysis
+Crime statistics
+Cross-correlation
+Cross-sectional study
+Cross-validation (statistics)
+Crowdsourcing
+Cubic mean
+Curriculum learning
+Curse of dimensionality
+Customers
+Cycle (graph theory)
+DALL-E
+DBSCAN
+DNA microarray
+Data analysis
+Data augmentation
+Data cleaning
+Data collection
+Data compression
+Data mining
+Data preprocessing
+Data set
+Data stream clustering
+David Silver (computer scientist)
+Davies–Bouldin index
+Decision tree learning
+Decomposition of time series
+DeepDream
+Deep learning
+Deep learning speech synthesis
+Degrees of freedom (statistics)
+Demis Hassabis
+Demographic statistics
+Dendrogram
+Density estimation
+Descriptive statistics
+Design of experiments
+Determining the number of clusters in a data set
+Deterministic algorithm
+DevOps
+Dickey–Fuller test
+Differentiable neural computer
+Diffusion model
+Diffusion process
+Digital data
+Dimension reduction
+Dimensionality reduction
+Distance function
+Distance matrices in phylogeny
+Divergence (statistics)
+Divisive clustering
+Doi (identifier)
+Double descent
+Dream Machine (text-to-video model)
+Dunn index
+Durbin–Watson statistic
+ECML PKDD
+Echo state network
+Ecology
+Econometrics
+Educational data mining
+Effect size
+Efficiency (statistics)
+Eigenvalue decomposition
+Electrochemical RAM
+ElevenLabs
+Elliptical distribution
+Empirical distribution function
+Empirical risk minimization
+Engineering statistics
+Ensemble learning
+Environmental statistics
+Enzyme
+Epidemiology
+Errors and residuals
+Estimating equations
+Evolutionary algorithms
+Evolutionary biology
+Expectation-maximization algorithm
+Expectation–maximization algorithm
+Experiment
+Exploratory data analysis
+Exponential family
+Exponential smoothing
+Expressed sequence tag
+F-measure
+F-test
+Facial recognition system
+Factor analysis
+Factorial experiment
+Failure rate
+False negative
+False negatives
+False positive
+False positives
+Fan chart (statistics)
+Feature engineering
+Feature learning
+Feedforward neural network
+Fei-Fei Li
+First-hitting-time model
+Flickr
+Flux (text-to-image model)
+Forest plot
+Fourier analysis
+Fowlkes–Mallows Index
+Frank Rosenblatt
+Frequency distribution
+Frequency domain
+Frequentist inference
+Friedman test
+Fuzzy clustering
+G-measure
+G-test
+GPT-1
+GPT-2
+GPT-3
+GPT-4
+GPT-4o
+GPT-J
+Gated recurrent unit
+Gating mechanism
+Gaussian distribution
+Gemini (chatbot)
+Gemini (language model)
+Gene duplication
+General linear model
+Generalized linear model
+Generalized mean
+Generative adversarial network
+Generative model
+Generative pre-trained transformer
+Genes
+Genome annotation
+Genomics
+Genotype
+Geoffrey Hinton
+Geographic information system
+Geometric mean
+Geostatistics
+GloVe
+Glossary of artificial intelligence
+Gold standard (test)
+Goodness of fit
+Google
+Gradient descent
+Grammar induction
+Granger causality
+Graph (discrete mathematics)
+Graph neural network
+Graphical model
+Greek language
+Grok (chatbot)
+Grouped data
+HCS clustering algorithm
+Hallucination (artificial intelligence)
+Handwriting recognition
+Hans-Peter Kriegel
+Harmonic mean
+Hdl (identifier)
+Heidelberg University
+Heinz mean
+Herbert A. Simon
+Heronian mean
+Hidden Markov model
+Hierarchical clustering
+High-dimensional data
+Highway network
+Histogram
+Hodges–Lehmann estimator
+Homoscedasticity and heteroscedasticity
+Hopkins statistic
+Huawei PanGu
+Human-in-the-loop
+Human Relations
+Human genetic clustering
+Human image synthesis
+Hyperparameter (machine learning)
+IBM Granite
+IBM Watson
+IBM Watsonx
+ISBN (identifier)
+ISSN (identifier)
+Ian Goodfellow
+Ideogram (text-to-image model)
+Ilya Sutskever
+Image
+Image analysis
+Image segmentation
+Imagen (Google Brain)
+Imitation learning
+Independent Component Analysis
+Independent component analysis
+Index of dispersion
+Information retrieval
+Information theory
+Informedness
+Interaction (statistics)
+International Conference on Learning Representations
+International Conference on Machine Learning
+International Joint Conference on Artificial Intelligence
+Interquartile range
+Interval estimation
+Isolation forest
+Isotonic regression
+JSTOR (identifier)
+Jaccard coefficient
+Jackknife resampling
+James A. Davis
+Jarque–Bera test
+Jennifer Dy
+Johansen test
+John Hopfield
+John McCarthy (computer scientist)
+John von Neumann
+Jonckheere's trend test
+Joseph Weizenbaum
+Joseph Zubin
+Journal of Machine Learning Research
+Journal of the American Statistical Association
+Jurimetrics
+Jürgen Schmidhuber
+K-means++
+K-means algorithm
+K-means clustering
+K-medians clustering
+K-medoids
+K-nearest neighbors algorithm
+Kaplan–Meier estimator
+Kendall rank correlation coefficient
+Kernel density estimation
+Kernel machines
+Kling (text-to-video model)
+Knowledge discovery
+Kolmogorov–Smirnov test
+Kriging
+Kruskal–Wallis test
+Kurtosis
+L-moment
+LaMDA
+Language model
+Large language model
+Latent class model
+Latent diffusion model
+LeNet
+Learning curve (machine learning)
+Learning to rank
+Least-squares spectral analysis
+Lehmann–Scheffé theorem
+Lehmer mean
+Lexical ambiguity
+Likelihood-ratio test
+Likelihood function
+Likelihood interval
+Lilliefors test
+Linear discriminant analysis
+Linear regression
+Linear separability
+List of algorithms
+List of artificial intelligence companies
+List of artificial intelligence projects
+List of datasets for machine-learning research
+List of datasets in computer vision and image processing
+List of fields of application of statistics
+List of gene families
+List of statistical tests
+List of statistics articles
+Ljung–Box test
+Llama (language model)
+Lloyd's algorithm
+Local optimum
+Local outlier factor
+Location parameter
+Location–scale family
+Log-rank test
+Logistic regression
+Long short-term memory
+Loss function
+Loss functions for classification
+Lotfi A. Zadeh
+Lp space
+M-estimator
+Machine Learning (journal)
+Machine learning
+Mamba (deep learning architecture)
+Mann–Whitney U test
+Markedness
+Market research
+Market segmentation
+Markov chain Monte Carlo
+Marvin Minsky
+Mathematical chemistry
+Matthews correlation coefficient
+Maximum a posteriori estimation
+Maximum likelihood
+McNemar's test
+Mean
+Mean-shift
+Mean shift
+Median
+Median-unbiased estimator
+Medical imaging
+Medical statistics
+Medicine
+Memtransistor
+Meta-learning (computer science)
+Metabolic pathway
+Method of moments (statistics)
+Methods engineering
+Metric (mathematics)
+Midjourney
+Minimum-variance unbiased estimator
+Minimum distance estimation
+Missing data
+Mixed model
+Mode (statistics)
+Model-based clustering
+Model selection
+Model specification
+Moment (mathematics)
+Monotone likelihood ratio
+MuZero
+Multi-agent reinforcement learning
+Multi-objective optimization
+Multidimensional scaling
+Multilayer perceptron
+Multimodal distribution
+Multimodal learning
+Multiple comparisons
+Multivariate adaptive regression splines
+Multivariate analysis of variance
+Multivariate distribution
+Multivariate normal distribution
+Multivariate statistics
+Music and artificial intelligence
+Mutual information
+NP-hard
+Naive Bayes classifier
+Nathaniel Rochester (computer scientist)
+National accounts
+Natural experiment
+Natural language processing
+Nearest neighbor search
+Neighbourhood components analysis
+Nelson–Aalen estimator
+Neural Turing machine
+Neural machine translation
+Neural network
+Neural network (machine learning)
+Neural radiance field
+Neuro-symbolic AI
+Neuromorphic engineering
+New product development
+Non-negative matrix factorization
+Nonlinear regression
+Nonparametric regression
+Nonparametric statistics
+Normalization (machine learning)
+Numerical taxonomy
+OCLC (identifier)
+OPTICS
+OPTICS algorithm
+Object recognition
+Observational study
+Occam learning
+Official statistics
+Oliver Selfridge
+One- and two-tailed tests
+Online machine learning
+Ontology learning
+OpenAI Five
+OpenAI o1
+Opinion poll
+Optical character recognition
+Optimal decision
+Optimal design
+Optimal facility location
+Order statistic
+Ordinary least squares
+Outline of machine learning
+Outline of statistics
+Overfitting
+PET scan
+PMC (identifier)
+PMID (identifier)
+PaLM
+Parallel coordinates
+Parameter
+Parametric statistics
+Partial autocorrelation function
+Partial correlation
+Partition of sums of squares
+Path (graph theory)
+Pattern recognition
+Paul Werbos
+Pearson correlation coefficient
+Pearson product-moment correlation coefficient
+Percentile
+Perceptron
+Permutation test
+Personality psychology
+Phylogeny
+Pie chart
+Pivotal quantity
+Plant
+Plug-in principle
+Point estimation
+Poisson regression
+Population
+Population (statistics)
+Population statistics
+Positioning (marketing)
+Posterior probability
+Power (statistics)
+Precision (information retrieval)
+Prediction interval
+Principal Component Analysis
+Principal component analysis
+Prior probability
+Probabilistic design
+Probability distribution
+Probably approximately correct learning
+Project Debater
+Prompt engineering
+Proper generalized decomposition
+Proportional hazards model
+Psychometrics
+Q-learning
+Quality control
+Quantum machine learning
+Quasi-Newton method
+Quasi-experiment
+Questionnaire
+Q–Q plot
+R-tree
+Radar chart
+Rand index
+Random assignment
+Random forest
+Random sample consensus
+Randomization test
+Randomized controlled trial
+Randomized experiment
+Range (statistics)
+Rank correlation
+Rank statistics
+Rao–Blackwell theorem
+Raymond Cattell
+Recall (information retrieval)
+Receiver operating characteristic
+Recommender systems
+Rectifier (neural networks)
+Recurrent neural network
+Regression analysis
+Regression validation
+Regularization (mathematics)
+Reinforcement learning
+Reinforcement learning from human feedback
+Relevance vector machine
+Reliability engineering
+Replication (statistics)
+Resampling (statistics)
+Reservoir computing
+Residual neural network
+Restricted Boltzmann machine
+Retrieval-augmented generation
+Robert Tryon
+Robot control
+Robust regression
+Robust statistics
+Rule-based machine learning
+Run chart
+S2CID (identifier)
+SIGKDD
+SUBCLU
+Sample median
+Sample size determination
+Sampling (statistics)
+Sampling distribution
+Santa Claus
+Scale parameter
+Scatter plot
+Scientific control
+Score test
+Seasonal adjustment
+Self-driving car
+Self-organizing map
+Self-play (reinforcement learning technique)
+Self-supervised learning
+Semantic analysis (machine learning)
+Semi-supervised learning
+Semiparametric regression
+Seppo Linnainmaa
+Seq2seq
+Sequence analysis
+Sequence analysis in social sciences
+Sequence clustering
+Seymour Papert
+Shape of the distribution
+Shape parameter
+Shapiro–Wilk test
+Sigmoid function
+Sign (mathematics)
+Sign test
+Signed graph
+Silhouette (clustering)
+Similarity measure
+Simple linear regression
+Simultaneous equations model
+Single-linkage clustering
+Skewness
+Social network
+Social statistics
+Softmax function
+Software evolution
+Sora (text-to-video model)
+Sparse dictionary learning
+Spatial analysis
+Spearman's rank correlation coefficient
+Spectral clustering
+Spectral density estimation
+Speech recognition
+Spiking neural network
+Stable Diffusion
+Standard deviation
+Standard error
+State–action–reward–state–action
+Stationary process
+Statistic
+Statistical classification
+Statistical dispersion
+Statistical distance
+Statistical distribution
+Statistical graphics
+Statistical hypothesis testing
+Statistical inference
+Statistical learning theory
+Statistical model
+Statistical parameter
+Statistical physics
+Statistical population
+Statistical power
+Statistical process control
+Statistical survey
+Statistical theory
+Statistics
+Stem-and-leaf display
+Stephen Grossberg
+Stochastic approximation
+Stochastic gradient descent
+Stock-keeping unit
+Stratified sampling
+Structural break
+Structural equation modeling
+Structured data analysis (statistics)
+Structured prediction
+Student's t-test
+Subspace clustering
+Sufficient statistic
+Suno AI
+Supervised learning
+Support vector machine
+Survey methodology
+Survival analysis
+Survival function
+System identification
+Systematics
+Sørensen–Dice coefficient
+T-distributed stochastic neighbor embedding
+T5 (language model)
+Temporal difference learning
+Text-to-image model
+Text-to-video model
+Time domain
+Time series
+Tissue (biology)
+Tolerance interval
+Topological index
+Training, validation, and test data sets
+Transcriptomics
+Transformer (deep learning architecture)
+Transformer (machine learning model)
+Trend estimation
+True negative
+True positive
+U-Net
+U-statistic
+UPGMA
+Udio
+Uniformly most powerful test
+Unsupervised learning
+Up-and-Down Designs
+V-statistic
+Van der Waerden test
+Vapnik–Chervonenkis theory
+Variance
+Variation of information
+Variational autoencoder
+Vector autoregression
+VideoPoet
+Violin plot
+Vision transformer
+Voronoi diagram
+WPGMA
+Wald test
+Walter Pitts
+Warren Sturgis McCulloch
+WaveNet
+Wavelet
+Wayback Machine
+Weight initialization
+Whisper (speech recognition system)
+Whittle likelihood
+Wilcoxon signed-rank test
+Word2vec
+Word embedding
+World Wide Web
+Yann LeCun
+Yoshua Bengio
+Z-test
