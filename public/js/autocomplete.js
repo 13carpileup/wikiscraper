@@ -4,11 +4,12 @@ function setupAutocomplete(inputId, autocompleteId) {
     let currentFocus = -1;
 
     input.addEventListener('input', async function(e) {
-        const val = this.value;
         closeAllLists();
+        const val = this.value;
         if (!val) return;
 
         try {
+            closeAllLists();
             const response = await fetch('/autocomplete?q=' + encodeURIComponent(val));
             const items = await response.json();
 
