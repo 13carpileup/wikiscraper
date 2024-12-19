@@ -34,6 +34,13 @@ class FileService {
             return [];
         }
     }
+
+    static async logRequest(from, to) {
+        let data = `FROM ||${from}|| TO ||${to}||\n`;
+        fs.appendFile('Log.txt', data, (err) => {
+            if (err) throw err;
+        })
+    }
 }
 
 module.exports = FileService;

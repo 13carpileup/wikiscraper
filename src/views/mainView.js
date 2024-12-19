@@ -3,7 +3,7 @@ function renderMainPage() {
         <!DOCTYPE html>
         <html>
         <head>
-            <title>Path Finder</title>
+            <title>Wikipedia Path Finder</title>
             <link rel="stylesheet" href="/css/main.css">
         </head>
         <body>
@@ -18,6 +18,7 @@ function renderMainPage() {
                     <div id="toAutocomplete" class="autocomplete-items"></div>
                 </div>
                 <button type="submit">Find Path</button>
+                <i>NOTE: Some very obscure paths will throw 502 errors because my droplet isn't powerful enough to search for a complete path. Forgive me!</i>
             </form>
             <script src="/js/autocomplete.js"></script>
         </body>
