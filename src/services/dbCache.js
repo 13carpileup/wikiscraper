@@ -14,8 +14,8 @@ class DBCache {
     static cache = new Map();
 
     static async initDB() {
-        // console.log("dropping...")
-        // const query = await DBCache.pool.query(`DROP TABLE IF EXISTS path_cache;`)
+        console.log("dropping...")
+        const query = await DBCache.pool.query(`DROP TABLE IF EXISTS path_cache;`)
         const result = await DBCache.pool.query(`
             CREATE TABLE IF NOT EXISTS path_cache (
                 id SERIAL PRIMARY KEY,

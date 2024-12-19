@@ -22,9 +22,26 @@ class PathFinderService {
             const currentPath = next[0];
             const connections = next[1];
 
-            if (foundLength != -1 && foundLength < currentPath.length) break;
+            if (foundLength != -1 && foundLength < currentPath.length || foundPaths.length > 5) break;
 
             for (const con of connections) {
+                let res = await DBCache.checkCache(con, target);
+                if (res && res.length > 0) {
+                    let pathLen = res.length;
+                    for (let i = 0; i < pathLen; i++) {
+                        let p = res[i];
+                        let fullNewPath = currentPath.concat(p);
+                        await DBCache.addCache(initial, target, fullNewPath);
+                        foundPaths.push(fullNewPath);
+                    };
+
+                    foundLength = res[0].length;
+
+
+
+                    continue;
+                }
+
                 if (visited.has(con)) continue;
                 visited.set(con, true);
 
