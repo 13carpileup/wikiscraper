@@ -9,11 +9,9 @@ class PathFinderService {
             let res = PathFinderService.cache.get(key);
 
             if (res.length > 0) {
-                console.log("Found cache!")
                 return res;
             }
 
-            console.log("no cache!")
             return false;
         }
 
@@ -22,18 +20,18 @@ class PathFinderService {
     }
 
     static addCache(initial, target, path) {
-        PathFinderService.checkCache(initial, target);
-        const key = `${initial}-${target}`;
-
         for (let i = 0; i < path.length - 1; i++) {
             for (let j = i + 1; j < path.length; j++) {
-                const subPath = (arr, i, j) => [...arr.slice(0, i), ...arr.slice(j)];
-                const spliceArray = subPath(path, i, j);
 
-                const newFrom = spliceArray[0];
-                const newTo = spliceArray[spliceArray.length - 1];
+                let spliceArray = path.slice(i, j + 1);
 
-                let res = PathFinderService.cache.get(key);
+                let newFrom = spliceArray[0];
+                let newTo = spliceArray[spliceArray.length - 1];
+
+                let key = `${newFrom}-${newTo}`;
+                console.log(key)
+
+                let res = PathFinderService.checkCache(newFrom, newTo);;
                 if (!res) {
                     PathFinderService.cache.set(key, [spliceArray]);
                     continue;
