@@ -72,7 +72,7 @@ router.post('/', async (req, res) => {
     let finalPaths = []
     firstPaths.forEach(p1 => {
         secondPaths.forEach(p2 => {
-            p2 = p2.slice(1, p2.length  );
+            p2 = p2.slice(1, p2.length);
             finalPaths.push(p1.concat(p2));
         })
     });
