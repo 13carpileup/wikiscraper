@@ -179,7 +179,7 @@ function renderPhilosophyPage() {
                     <h2>Longest Paths Found</h2>
                     <div id="leaderboardContent"></div>
                 </div>
-
+                <i>NOTE: Some very obscure paths will throw 502 errors because my droplet isn't powerful enough to search for a complete path. Forgive me!</i>
                 <a href="/" class="back-link">← Return to main page</a>
             </div>
 
