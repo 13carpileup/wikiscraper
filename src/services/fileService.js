@@ -35,8 +35,10 @@ class FileService {
         }
     }
 
-    static async logRequest(from, to) {
-        let data = `FROM ||${from}|| TO ||${to}||\n`;
+    static async logRequest(from, to, through=false) {
+        let data = 'EMPTY LOG\n';
+        if (!through) data = `FROM ||${from}|| TO ||${to}||\n`;
+        else data = `FROM ||${from} || TO ||${to}|| THROUGH ||${through}||`;
         fs.appendFile('Log.txt', data, (err) => {
             if (err) throw err;
         })
