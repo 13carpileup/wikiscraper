@@ -67,7 +67,6 @@ router.post('/', async (req, res) => {
         return;
     }
 
-
     const firstPaths = await PathFinderService.findPaths(initial, through);
     const secondPaths = await PathFinderService.findPaths(through, target);
     let finalPaths = []
