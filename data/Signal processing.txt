@@ -1,193 +1,34 @@
-ASIC
-A Mathematical Theory of Communication
-Active filter
-Adaptive filter
-Addison–Wesley
-Advanced z-transform
-Alan V. Oppenheim
-Algebraic signal processing
-Ali H. Sayed
-Aliasing
-Altimeter
-Analog-to-digital conversion
-Analog-to-digital converter
-Analog delay line
-Analog feedback shift register
-Analog signal processing
-Anti-aliasing filter
 ArXiv (identifier)
-Array processing
-Audio compression (data)
-Audio filter
-Audio signal processing
-Babak Hassibi
-Bell System Technical Journal
 Bibcode (identifier)
-Bifurcation theory
-Bilinear transform
 Boston
-Bounded variation
 Calculus
 Cambridge University Press
-Chaos theory
-Circular buffer
 Claude Shannon
-Code
-Companding
-Compandor
 Complex analysis
-Complex frequency
 Computer
-Constant-Q transform
-Continuous signal
-Control system
-Control systems
-Current loop
-Data acquisition
 Data compression
-Data link layer
 Data mining
-Data storage
-Detection theory
-Differential equations
-Digital image processing
-Digital signal processing
-Digital signal processor
-Discrete-time Fourier transform
-Discrete-time signal
-Discrete Fourier transform
 Discrete cosine transform
-Discrete time and continuous time
 Doi (identifier)
-Downsampling (signal processing)
-Dynamic range compression
-Echo cancellation
 Electric current
 Electrical engineering
 Electromagnetic wave
-Electronic mixer
-Equalization (communications)
-Estimation theory
-FIR filter
-Fast Fourier transform
-Feature extraction
 Field-programmable gate array
-Filter (signal processing)
-Finite impulse response
-Fixed-point arithmetic
-Floating-point
-Forward error correction
-Fourier transform
 Frequency
-Frequency domain
-Frequency mixer
 Function (mathematics)
 Functional analysis
-Genomic
-Geophysics
-Harmonics
-IIR filter
 ISBN (identifier)
 Image compression
-Image enhancement
-Image processing
-Image understanding
-Impulse invariance
-Infinite impulse response
 Information theory
-Integral transform
-Integrator
-Kalman filter
-Laplace transform
-Least-squares spectral analysis
-Limiting
 Linear algebra
-Linear time-invariant system
-Lookup table
-Matched Z-transform method
 Modulation
-Multiplexer
-Multiplexing
-Noise gating
-Noise reduction
-Non-local means
-Nonlinear system
-Nonlinear systems
 Numerical analysis
-Numerical methods
-Nyquist frequency
-Nyquist rate
-Nyquist–Shannon sampling theorem
 OCLC (identifier)
-OSI model
-Optimization
-Oversampling
 PMID (identifier)
-Passive filter
-Phase-locked loop
-Physical layer
 Polynomial
-Polynomial signal processing
-Post's inversion formula
-Prentice Hall
-Presentation layer
 Probability
-Probability distribution
 Process control
-Quantization (signal processing)
-Quantization error
 Radio
-Recurrence relation
-Reverberation
-Ronald W. Schafer
 S2CID (identifier)
-Sample and hold
-Sampling (signal processing)
-Sampling rate
-Scalar potential
-Scientific measurements
-Seismic tomography
-Seismology
-Sensitivity (electronics)
-Signal
-Signal theory
-Signalling (economics)
-Signalling theory
-Similarity (signal processing)
-Spectral density estimation
-Spectral estimation
-Speech processing
-Speech recognition
-Speech signal processing
-Starred transform
-Statistical
-Statistical signal processing
-Stochastic filter
-Stochastic process
-Stochastic processes
-Subharmonics
-Subjective video quality
-System identification
-Thomas Kailath
-Time-frequency analysis
-Time-series
-Time domain
-Time series
-Transducer
-Transform theory
-Undersampling
-Upper Saddle River, New Jersey
-Upsampling
-Vector spaces
-Video compression
-Video processing
 Voltage
-Voltage-controlled amplifier
-Voltage-controlled filter
-Voltage-controlled oscillator
 Waveform
-Wiener filter
-Wiley-Blackwell
-Wireless communication
-Z-transform
-Zak transform

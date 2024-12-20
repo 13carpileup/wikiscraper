@@ -1,248 +1,59 @@
-1-Wire
-6LoWPAN
-ANT (network)
 ARINC 429
-ARINC 825
-AS-Interface
-Academic conference
-Academic journal
-Actuator
-Ad hoc On-Demand Distance Vector Routing
-Aeotec
-Alarm.com
-AllJoyn
-Amazon Sidewalk
-Amy Westervelt
-Application software
-Arduino
-Assa Abloy
-Automatic meter reading
-Avionics Full-Duplex Switched Ethernet
-BACnet
-BatiBUS
-Bessemer Venture Partners
 Bibcode (identifier)
 Bluetooth
-Bluetooth LE
-Bluetooth Low Energy
-Bridging (networking)
-Bristol Standard Asynchronous Protocol
-Building automation
-Bus SCS
-C-Bus (protocol)
-CAN bus
-CANopen
-CC-Link Industrial Networks
-CEBus
 C (programming language)
 Cisco Systems
-Common Industrial Protocol
 Communication protocol
 Computer hardware
-Conference on Embedded Networked Sensor Systems
-Connectivity Standards Alliance
-Consumer Electronics Show
-Consumer IR
-Contiki
-ControlNet
-Copenhagen
-Cordless telephone
-Cyphal
-DASH7
-DF-1 Protocol
 DNP3
-Danfoss
 DeviceNet
 Digital Addressable Lighting Interface
-Digital Enhanced Cordless Telecommunications
-Digital Serial Interface
-Digital subscriber line
-DirectNET Protocol
 Doi (identifier)
-DyNet
-Dynamic Source Routing
-ERIKA Enterprise
-EnOcean
-EtherCAT
-EtherNet/IP
 Ethernet
-Ethernet Global Data Protocol
 Ethernet Powerlink
-European Conference of Postal and Telecommunications Administrations
-European Conference on Wireless Sensor Networks
-European Home Systems Protocol
-European Installation Bus
-FOUNDATION fieldbus
-Factory Instrumentation Protocol
 Factory Interface Network Service
-Fleet Management System
 FlexRay
-Floor plan
-Foundation Fieldbus H1
-Fremont, California
-Frequency-shift keying
-GFSK
-General Packet Radio Service
 GitHub
 Heating, ventilation, and air conditioning
-Higher Speed Ethernet
 Highway Addressable Remote Transducer Protocol
-HomePNA
-HomePlug
-Home automation
-Home energy monitor
-Home network
-Home of the future
-Home server
-HostLink Protocol
-House for the Future, Cardiff
 IEBus
 IEC 60870
 IEC 60870-5
 IEC 60870-6
 IEC 61850
 IEC 62056
-IEC 62351
-IEEE 1394
-IEEE 802.11
 IEEE 802.15.4
-INTEGER Millennium House
-INTERBUS
 IO-Link
-IP500 Alliance
-ISA100.11a
 ISBN (identifier)
-ISM band
 ITU-T
-Industrial control system
 Infrared
-Infrared Data Association
-Ingersoll-Rand
-Insteon
-Intel Capital
-Intel MCS-51
-International Conference on Information Processing in Sensor Networks
 International Telecommunication Union
-Iris Mote
-KNX
-KNX (standard)
-Key distribution in wireless sensor networks
-Keyfob
 Keyword Protocol 2000
-LabVIEW
-Leviton
-Lighting control system
-LinuxMCE
-List of automation protocols
 LiteOS
 Local Interconnect Network
-Location estimation in sensor networks
-LonTalk
-LonWorks
-Luxom
-MECHATROLINK
-MOST Bus
-MTConnect
-Manchester code
-Matter (connectivity protocol)
-Matter (standard)
 MelsecNet
-Mesh networking
 Meter-Bus
-MiWi
 Microcontroller
-Milpitas, California
 Modbus
 Modulation
-Multi-source
-Multifamily residential
 Multipath propagation
-MyriaNed
-NMEA 2000
-Nano-RK
-Near-field communication
-Ns (simulator)
-OBIX
-OCARI
-OPC Data Access
-OPC Historical Data Access
-OPC Unified Architecture
-OPNET
-OSIAN
-One-Net
-OpenTag
-OpenTherm
-OpenWSN
-OpenWebNet
 Operating system
 Optical fiber
 Optomux
-PLCBUS
-PROFIBUS
-PROFINET
 Panasonic
 PieP
-Power-line communication
 Power-system automation
-Programmable communicating thermostat
-Programmable logic controller
 Programming language
-QR codes
-RAPIEnet
-RIOT (operating system)
 Radio frequency
-Residential gateway
 Ring (company)
-Robotic mapping
-Routing protocol
 S2CID (identifier)
-SAE J1587
-SAE J1708
-SAE J1939
-SDS Protocol
-SENT (protocol)
 SERCOS III
-SERCOS interface
-Sensor
-Sensor network query processor
-Sensor web
-Service Request Transport Protocol
-Sigma Designs
-Silicon Labs
 Sinec H1
-Smart grid
-Smart home
-Smart home hub
-Smart meter
 Software
 Source code
-Standards development organization
-Sun SPOT
-SynqNet
 System on a chip
-TSMP
-TTEthernet
-Telemetry
-Thread (network protocol)
-TinyOS
-UMTS
 USB
 Ubiquitous computing
-Unified Diagnostic Services
-Universal powerline bus
 Vehicle Area Network
-Vehicle bus
-Very Simple Control Protocol
-Wi-Fi
-Wire
 Wireless
-WirelessHART
-Wireless LAN
-Wireless powerline sensor
-Wireless sensor network
-X10 (industry standard)
 XAP Home Automation protocol
-XBee
-XPL Protocol
-Xanadu Houses
-Zigbee

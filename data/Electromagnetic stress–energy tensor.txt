@@ -1,5 +1,4 @@
 AC motor
-Abraham–Minkowski controversy
 Albert Einstein
 Alessandro Volta
 Alfred-Marie Liénard
@@ -16,7 +15,6 @@ Charles Proteus Steinmetz
 Classical electromagnetism
 Classical electromagnetism and special relativity
 Computational electromagnetics
-Conservation laws
 Coulomb's law
 Covariant formulation of classical electromagnetism
 Current density
@@ -26,13 +24,9 @@ Dielectric
 Direct current
 Displacement current
 Eddy current
-Einstein field equations
-Einstein summation convention
 Electret
 Electric charge
-Electric charge density
 Electric current
-Electric current density
 Electric dipole moment
 Electric field
 Electric flux
@@ -63,13 +57,10 @@ Emil Wiechert
 Energy
 Faraday's law of induction
 Four-current
-Four-momentum
 Franz Ernst Neumann
 Félix Savart
 Gauss's law
 Gauss's law for magnetism
-Gaussian units
-General relativity
 Georg Ohm
 George Singer
 Gustav Kirchhoff
@@ -81,12 +72,10 @@ Hermann von Helmholtz
 Hippolyte Fizeau
 History of electromagnetic theory
 Humphry Davy
-Hyperplane
 ISBN (identifier)
 Inductance
 Induction motor
 Insulator (electricity)
-International System of Quantities
 J. J. Thomson
 James Clerk Maxwell
 James Prescott Joule
@@ -107,8 +96,6 @@ Liénard–Wiechert potential
 London equations
 Lord Kelvin
 Lorentz force
-Lorentz scalar
-Lorentz transformation
 Magnetic circuit
 Magnetic complex reluctance
 Magnetic field
@@ -119,54 +106,38 @@ Magnetic scalar potential
 Magnetic vector potential
 Magnetism
 Magnetization
-Magnetohydrodynamics
 Magnetomotive force
 Magnetostatics
 Mathematical descriptions of the electromagnetic field
-Matter
 Maxwell's equations
 Maxwell's equations in curved spacetime
 Maxwell stress tensor
-Metric signature
-Metric tensor (general relativity)
 Michael Faraday
-Momentum
 Network analysis (electrical circuits)
 Nikola Tesla
 Ohm's law
 Oleg D. Jefimenko
 Oliver Heaviside
 Optics
-Pascal (unit)
 Permeability (electromagnetism)
-Permeability of free space
 Permeance
 Permittivity
-Permittivity of free space
 Photon
 Polarization density
-Positive-definite function
 Poynting vector
 Relativistic electromagnetism
-Relativistic physics
 Resonator
-Ricci calculus
 Right-hand rule
 Rotor (electric)
-SI
 Series and parallel circuits
 Siméon Denis Poisson
-Spacetime
 Speed of light
 Static electricity
 Stator
-Stress–energy tensor
-Symmetric tensor
 Synchrotron radiation
 Trace (linear algebra)
 Transformer
 Triboelectric effect
-Vector calculus
 Voltage
 Watt
 Waveguide (radio frequency)

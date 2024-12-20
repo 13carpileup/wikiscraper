@@ -1,45 +1,26 @@
-Function model
-Dynamic systems development method
-Software Engineering Body of Knowledge
-Designing
 Systems analysis
 Graphical user interface builder
-Entity–relationship model
-Scaled agile framework
-Compatibility testing
 Marketing
-Extreme programming
-Open-source
 Logic in computer science
 Computational social science
-Adaptive software development
 Software repository
 Form factor (design)
 Computer vision
-Service-oriented architecture
 Concurrent computing
-Software incompatibility
 Printed circuit board
 Rendering (computer graphics)
 Enterprise software
 Software development effort estimation
-Iterative
-Social software engineering
 Electronic publishing
 Wayback Machine
-UML tool
 Computer network
 Doi (identifier)
-Debugger
 Digital library
-ISO 9001
 Software
 Security hacker
 Network performance
-Microsoft Solutions Framework
 Continuous integration
 Mathematical analysis
-Software requirements
 Distributed artificial intelligence
 Intellectual property
 Data mining
@@ -47,24 +28,17 @@ Educational technology
 Information system
 Processor (computing)
 Automated planning and scheduling
-Web application
 Network security
 Operations research
-Aspect-oriented programming
 Image compression
 Machine learning
 Photograph manipulation
-V-model (software development)
 Health informatics
-Software tools
-Continuous deployment
 Intrusion detection system
 Software engineering
-ISO/IEC 15504
 Cyberwarfare
 Process control
 Software release life cycle
-Code refactoring
 Semantics (computer science)
 Integrated development environment
 Algorithm design
@@ -72,12 +46,8 @@ Programming language theory
 Statistics
 Embedded system
 Abstraction (computer science)
-Build automation
-Software development methodology
 Cross-validation (statistics)
 Requirements analysis
-DevOps
-Bug (computer programming)
 Software framework
 Graphic design
 Real-time computing
@@ -85,77 +55,47 @@ Computational complexity
 Incremental build model
 Computer accessibility
 Engineering
-Stand-up meeting
-Compatibility mode
-Empirical software engineering
 Computing
 Social computing
-Unified Process
-Software verification and validation
 Computability theory
-Data modeling
 E-commerce
-Pseudocode
 Glossary of electrical and electronics engineering
 Graphical user interface
 Agile software development
-Systems modeling
-Systems development life cycle
 Stochastic computing
 Interaction design
-Entity relationship diagram
-Kanban (development)
 Network scheduler
 Unified Modeling Language
-Rational Unified Process
-Demographics
 Essential systems analysis
 Analysis of algorithms
-Application software
 Knowledge representation and reasoning
 Computational physics
 Green computing
 Management
-Search-based software engineering
-Acceptance tests
 Computer data storage
 Information theory
 List of computer size categories
-Evolutionary prototyping model
 Geographic information system
 Project management
-Data dictionary
 Graphics processing unit
 Enterprise architecture
 Operating system
 Computer architecture
-Software documentation
 Hardware acceleration
-Model–view–controller
 Object Management Group
 Software project management
 Model of computation
-Rapid application development
-User support
 Modeling language
 Business model
-ISO/IEC JTC 1/SC 7
-Legacy software
 World Wide Web
 Programming tool
-Environment (systems)
 Information security
 Word processor
 Software testing
-Reverse engineer
-Software test
 Very Large Scale Integration
 Mathematical software
-Object model
 Software construction
 Networking hardware
-Return on investment
-View model
 Network protocol
 Software maintenance
 Source code
@@ -164,25 +104,15 @@ Enterprise information system
 Algorithmic efficiency
 Compiling
 Database
-DevSecOps
 Control theory
-Model-driven engineering
 Iterative and incremental development
-Team software process
 Mathematical optimization
-Multiprocessor
 Software configuration management
 Randomized algorithm
 ACM Computing Classification System
 Application programming interface
-Forward compatibility
-Experimental software engineering
 Automata theory
-Metamodeling
-Software architecture
 Information science
-Open-source software development
-Backup
 Computer security
 Computational biology
 Numerical analysis
@@ -190,51 +120,34 @@ Compiler
 Ubiquitous computing
 Philosophy of artificial intelligence
 Digital art
-Open-source licenses
-Standards (software)
-Infrastructure as code
 Computational chemistry
 Software design
 Test-driven development
 John Wiley & Sons
-Data-flow diagram
 Computer-aided software engineering
 Application security
 Integrated circuit
 Algorithm
-Version control
-Application-release automation
-Method (programming)
 Library (computing)
 Outline of computer science
-Behavior-driven development
 Solid modeling
 Computational complexity theory
 Complex system
-Glossary of artificial intelligence
 Artificial intelligence
-Data model
-Glossary of computer science
 Multithreading (computer architecture)
 Multiprocessing
-Mobile application
 ISBN (identifier)
 Multi-task learning
 Automation
 Virtual machine
-Frontend and backend
 Programming paradigm
 Computer programming
-Database design
-Syntax highlighting
 Mixed reality
 Object-oriented programming
 Round-trip engineering
 Capability Maturity Model Integration
-Universal Systems Language
 User experience
 Computing platform
-SEMAT
 Computer compatibility
 Cryptography
 Computer engineering
@@ -246,59 +159,34 @@ Dependability
 Information retrieval
 Risk management
 Computational mathematics
-Fundraising
 Programming language
-Expertise
 Component-based software engineering
 Natural language processing
 Distributed computing
 Formal methods
 Requirements engineering
 Waterfall model
-Scrum (software development)
-Outline of software development
-Project Management Body of Knowledge
-Software design patterns
-IEEE Standards Association
 Network service
 OCLC (identifier)
-Disciplined agile delivery
 System
 Hardware security
 Computational engineering
-Trial and error
-Ontology (information science)
-IEEE Software
 Software quality assurance
 Theory of computation
-Code review
-Model-driven development
-Domain-driven design
 ITIL
-Software programmer
 Visualization (graphics)
-Text editor
-Integration testing
 Human–computer interaction
 Social software
-Fitness function
-Cleanroom software engineering
-Profiling (computer programming)
 Anjuta
 Digital marketing
 Software archaeology
 Quantum Computing
 Domain-specific language
-Class (programming)
 Shift-left testing
-TEAF
-Computer user satisfaction
 Network architecture
 Computational geometry
 Open-source software
-Personal software process
 Programming team
-Software system
 Electronic design automation
 Computer animation
 Quality assurance
@@ -306,46 +194,22 @@ Document management system
 Emergence
 Peripheral
 Parallel computing
-IDEF
-Information model
 Configuration management
 Concurrency (computer science)
-Site reliability engineering
-Continuous testing
-Software development life cycle
-Code comment
-Security vulnerabilities
 Systems engineering
 Computer hardware
 Security service (telecommunication)
 Software development process
-Extreme programming practices
-Compatibility layer
-Software prototyping
-Acceptance test–driven development
 Computer science
 Probability
-Pair programming
 ProQuest
-Software feature
-Systems modeling language
 Market research
 Discrete mathematics
 Compiler construction
 Theoretical computer science
-Functional specification
-Multi-threaded
-CI/CD
 System on a chip
-Decomposition (computer science)
-International Requirements Engineering Board
-Lean software development
-Implementation
-Continuous delivery
 Virtual reality
 Decision support system
-Executable UML
-Technical writing
 Software quality
 Electronic voting
 Unsupervised learning
@@ -353,15 +217,7 @@ Reinforcement learning
 Interpreter (computing)
 Control variable (programming)
 Information technology
-Feature-driven development
-Specification by example
-Enterprise unified process
-Deployment management
 Multimedia database
-Debugging
 Software deployment
-Spiral model
 Supervised learning
-Structured analysis
-State transition diagram
 Formal language

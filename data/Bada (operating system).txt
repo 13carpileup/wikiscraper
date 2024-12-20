@@ -1,61 +1,39 @@
-AR Zone
 Accelerometer
-AdGear
 Adobe Flash
 Amazon Kindle
 Android (operating system)
 Android Go
-Android OS
-Apple Inc. v. Samsung Electronics Co.
 Application programming interface
-Asphalt 5
 B2G OS
 Barcelona
-Berlin
 Binary Runtime Environment for Wireless
-Bixby (software)
 BlackBerry 10
 BlackBerry OS
 BlackBerry Tablet OS
-Blockbuster Inc.
 BridgeOS
 C++
-Calendar year
 Capcom
-ChatON
-Choi Gee-sung
 ChromeOS
 ChromeOS Flex
-Commonwealth of Independent States
 Comparison of mobile operating systems
-Cut, copy, and paste
-Drag and drop
-EA
 EMUI
 EPOC (operating system)
 EWeek
 Eclipse (software)
-Eric B. Kim
-Exynos
-Face detection
 Fedora Linux
 Firefox OS
 Fiscal year
 FreeBSD
 FreeRTOS
-Free and open source software
 Fuchsia (operating system)
 GEOS (16-bit operating system)
 GNU
 Gameloft
-Gartner
-Global Positioning System
 Google
 Graphical user interface
 HMD Global
 HTML5
 Hangul
-Harman International
 HarmonyOS
 HarmonyOS NEXT
 IOS
@@ -63,14 +41,8 @@ IPadOS
 ITunes
 Integrated development environment
 Intel Management Engine
-Joyent
 KaiOS
 Kernel (operating system)
-Korean language
-Kwon Oh-hyun
-Lee Byung-chul
-Lee Jae-yong (businessman)
-Lee Kun-hee
 Linux
 Linux Kernel
 Linux kernel
@@ -81,12 +53,8 @@ LiteOS
 LuneOS
 Maemo
 Magic Cap
-Magnetometer
 Manjaro
-Market analysis
-McCune–Reischauer
 MeeGo
-Mentor Graphics
 Mer (software distribution)
 Microsoft
 Microsoft Windows
@@ -98,42 +66,29 @@ Mobile app development
 Mobile operating system
 Mobilinux
 Moblin
-Monolithic Kernel
 MontaVista
 MotoMagx
 Multi-touch
-Multilingual
 Natural language
-Near-field communication
 NetBSD
 Nintendo
 Nintendo 3DS system software
 Nintendo DSi system software
 Nintendo Switch system software
 Nokia Asha platform
-Nucleus RTOS
-OS kernel
 Ocean
 One UI
-Open-source license
-OpenAL
-OpenBSD
 OpenEZX
 OpenEmbedded
-OpenGL ES
 OpenHarmony
 Open Handset Alliance
 Open Mobile Alliance
 Openmoko Linux
-Orsay (operating system)
-PENUP
 Package manager
 PalmDOS
 Palm OS
-Pinch-to-zoom
 PlayStation Portable system software
 PlayStation Vita system software
-Point of interest
 PostmarketOS
 Programmer
 Programming language
@@ -141,119 +96,34 @@ Proprietary software
 PureOS
 QNX
 QtMoko
-Quick Share
-Real-time operating system
-Revised Romanization of Korean
 S60 (software platform)
-SEMES
 SHR (operating system)
-SMS
-SRBD
-STECO
-S Pen
-S Voice
 Sailfish OS
-Samsung Anycall
-Samsung Apps
-Samsung Ativ
-Samsung DeX
-Samsung Display
 Samsung Electronics
-Samsung Experience
-Samsung Flip
-Samsung Galaxy
-Samsung Galaxy (esports)
-Samsung Galaxy Store
-Samsung Gear
-Samsung Global Scholarship Program
-Samsung Group
-Samsung India Software Centre
-Samsung Internet
-Samsung Kies
-Samsung Knox
-Samsung Link
-Samsung Medison
-Samsung NX series
-Samsung Notes
-Samsung Papyrus
-Samsung Pay
-Samsung Pebble
-Samsung R&D Institute Brazil
-Samsung R&D Institute China, Beijing
-Samsung R&D Institute China, Guangzhou
-Samsung R&D Institute China, Nanjing
-Samsung R&D Institute China, Tianjin
-Samsung R&D Institute China-Xian
-Samsung R&D Institute India, Bangalore
-Samsung R&D Institute India, Noida
-Samsung R&D Institute Indonesia
-Samsung R&D Institute Israel
-Samsung R&D Institute Japan, Osaka
-Samsung R&D Institute Jordan
-Samsung R&D Institute Philippines
-Samsung R&D Institute Poland
-Samsung R&D Institute Russia
-Samsung R&D Institute U.K.
-Samsung R&D Institute Ukraine
-Samsung Research America
-Samsung Research America, Dallas
-Samsung Research America, Silicon Valley
-Samsung Research China
-Samsung S8500
-Samsung Sens
-Samsung Strategy and Innovation Center
-Samsung TV Plus
-Samsung Telecommunications
-Samsung Wallet
-Samsung WatchON
-Samsung Wave III s8600
-Samsung Wave II S8530
-Samsung Wave S8500
-Samsung Wave Y
-Samsung YEPP
-Samsung and unions
-San Jose Lab
-Seoul Samsung Thunders
 Series 30
 Series 30+
 Series 40
 Series 80 (software platform)
 Series 90 (software platform)
-Simband
-SmartThings
 Smart TV
-Smartphone operating system
 Software development kit
 Software license
 Software release life cycle
 Sony Ericsson Java Platform
 SteamOS
-Suwon Samsung Bluewings
 Symbian
-Tab (GUI)
-Tablet computer
-The Inquirer
 ThreadX
 Tizen
-TouchWiz
-Touchscreen mobile device
 Twitter
 UBports
 UIQ
 Ubuntu Touch
-Upday
 User interface
-Viv (software)
-Vlingo
-VoIP
 WatchOS
 Wayback Machine
 Wear OS
-WebKit
 WebOS
 Web browser
-Wholesale Applications Community
-Wi-Fi
 Windows 10
 Windows 10 Mobile
 Windows 11
@@ -267,6 +137,5 @@ Windows Phone 8.1
 Windows RT
 Windows XP editions
 XNU
-Young Sohn
 Zircon (microkernel)
 Ångström distribution

@@ -1,500 +1,182 @@
-1-bit computing
-12-bit computing
-128-bit computing
-16-bit computing
-18-bit computing
-24-bit computing
-256-bit computing
-32-bit computing
-36-bit computing
 4-bit computing
-4.3BSD
-48-bit computing
-4K Disk Monitor System
-512-bit computing
-64-bit
 64-bit computing
-8-bit computing
-ACPI
-AI accelerator
-AMD Am2900
-ARM architecture family
 Abstract machine
 Acronym
-Adapteva
-Adder (electronics)
-Address decoder
-Address generation unit
-Addressing mode
 AdvFS
-Advanced Power Management
-AlphaServer
-AlphaStation
 Alpha 21064
 Alpha 21164
 Alpha 21264
 Alpha 21364
 Alpha 21464
 AltaVista
-Alternating Turing machine
-American Institute of Aeronautics and Astronautics
-Analogue electronics
-Apollo Guidance Computer
-Application-specific instruction set processor
-Application-specific integrated circuit
 ArXiv (identifier)
-Arithmetic logic unit
 Assembly language
 BASIC-8
-BRL-CAD
 Backward compatibility
-Banská Bystrica
-Barrel processor
-Barrel shifter
-Baseband processor
-Benchmark (computing)
-Berkeley Software Distribution
 Bibcode (identifier)
-Binary decoder
-Binary multiplier
 Bit-level parallelism
-Bit-serial architecture
-Bit-slice
-Bit slicing
 Bloomberg News
-Boolean circuit
-Branch (computer science)
-Branch predictor
-Branch target predictor
 Bus (computing)
-C. Gordon Bell
 CPU Wars
-CPU cache
-CPU multiplier
 CVAX
 Cache (computing)
 Cache coherence
-Cache hierarchy
-Cache performance measurement and metric
-Cache replacement policies
-Call stack
-Carnegie Mellon University
-Cellular architecture
 Cellular automaton
 Central processing unit
 Character encoding
-Charon (software)
-Chip carrier
-Circuit (computer science)
-Classic RISC pipeline
-Clipper architecture
-Clock gating
-Clock rate
-Clock signal
 Code page 1287
 Code page 1288
-Cognitive computing
-Combinational logic
 Commercial Operating System
 Compaq
-Compaq Professional Workstation
-Comparison of instruction set architectures
-Complex instruction set computer
-Complex programmable logic device
 Computer architecture
 Computer data storage
 Computer hardware
-Computer performance
-Computer performance by orders of magnitude
 Computer terminal
-Concurrent Engineering
-Control hazard
-Control unit
-Cooperative multitasking
 Coprocessor
-Counter (digital)
-Counter machine
-Cycles per instruction
-Cypress PSoC
-Czechoslovakia
-DECSYSTEM-20
 DECUS
-DEC 3000 AXP
-DEC 4000 AXP
-DEC 7000 AXP and DEC 10000 AXP
 DEC Alpha
-DEC BATCH-11/DOS-11
-DEC Firefly
 DEC GT40
 DEC Hebrew
 DEC J-11
 DEC MICA
-DEC Multia
 DEC PRISM
-DEC Professional
 DEC RADIX 50
 DEC Special Graphics
 DEC Systems Research Center
 DEC T-11
 DEC Technical Character Set
 DEC V-11
-DECmate
 DECnet
-DECpc
-DECpc AXP 150
-DECstation
-DECsystem
 DECtalk
 DECtape
 DECwriter
-DEMOS
 DIBOL
 DIGITAL Command Language
-Data buffer
-Data cache
 Data dependency
 Data parallelism
 Dataflow architecture
-Datapath
-Demultiplexer
-Deterministic finite automaton
 Digital Equipment Corporation
 Digital Federal Credit Union
-Digital HiNote
 Digital Linear Tape
-Digital Personal Workstation
 Digital Storage Systems Interconnect
-Digital UNIX
-Digital electronics
-Digital signal processor
-Direct memory access
-Distributed architecture
 Doi (identifier)
 Dynamic debugging technique
-Dynamic frequency scaling
-Dynamic voltage scaling
 Dynamically Redefined Character Set
-ETRAX CRIS
-Electronic circuit
 Embedded system
-Emitter-coupled logic
-Endianness
-Execution unit
-Explicit data graph execution
-Explicitly parallel instruction computing
-FIFO (computing and electronics)
-FLOPS
 FOCAL (programming language)
 FX!32
-Fabric computing
-False sharing
 Fault tolerance
 Field-programmable gate array
-Field-programmable object array
 File system
 Finite-state machine
-Finite-state machine with datapath
 Firefly (cache coherence protocol)
 Flip-Chip module
-Floating-point unit
-Floating point
 Flynn's taxonomy
-Gate array
 General-purpose computing on graphics processing units
-General-purpose register
-Glue logic
 Gold key (DEC)
 Gordon Bell
 Graphics processing unit
-HARDCOPY
 HP-Interex
-HPE Integrity Servers
-Hallmark Cards
 Hardware acceleration
-Hardware register
 Hardware security module
-Hardwired control unit
 Harlan Anderson
-Harvard architecture
-Hazard (computer architecture)
-Heterogeneous System Architecture
-Heterogeneous computing
-Hierarchical state machine
-High-level programming language
-History of general-purpose CPUs
-Hyper-threading
-Hypercomputation
-Hypervisor
-IA-64
-IBM POWER architecture
-IBM System/360
-IBM System/360 architecture
-IBM System/370
-IBM System/390
 ISBN (identifier)
 ISSN (identifier)
-Image processor
 Instruction-level parallelism
-Instruction cache
-Instruction cycle
-Instruction decoder
 Instruction pipelining
-Instruction set
 Instruction set architecture
-Instruction unit
 Instructions per cycle
-Instructions per second
-Integer overflow
 Integrated circuit
 Interactive Application System
-Itsy Pocket Computer
-Jupiter project
 Ken Olsen
-LINC
-LINC-8
 LK201
 LK421
 Linux
-List of VAX computers
-Little man computer
-Load–store architecture
-Load–store unit
 Local Area Transport
 Logic gate
-M32R
 MACRO-10
 MACRO-11
-MIPS-X
-MIPS Computer Systems
 MIPS architecture
-MOSFET
 MUMPS
-Macrocell array
-Mainframe
 Mainframe computer
 Maintenance Operations Protocol
 Manycore processor
 Mass Storage Control Protocol
 Massbus
 Memory-level parallelism
-Memory address register
-Memory buffer register
-Memory controller
-Memory dependence prediction
 Memory hierarchy
-Memory management unit
-MicroBlaze
-MicroVAX
 MicroVAX 78032
 Microarchitecture
-Microcode
 Microcontroller
 Microprocessor
-Microprocessor chronology
-Million instructions per second
 Minicomputer
-Minimal instruction set computer
-Mixed-signal integrated circuit
-Mobile processor
 Model of computation
-Modified Harvard architecture
-Motorola 68000 series
-Multi-chip module
-Multi-core processor
 Multinational Character Set
 Multiple instruction, multiple data
 Multiple instruction, single data
-Multiplexer
 Multiprocessing
-Multiprocessor system on a chip
 Multithreading (computer architecture)
 NVAX
 National Replacement Character Set
 NetBSD
-Network on a chip
-Network processor
-Neuromorphic engineering
-No instruction set computing
 Non-uniform memory access
-Nondeterministic Turing machine
-OS/8
-Office of Technology Assessment
 On-line Debugging Tool
-One-instruction set computer
-OpenBSD
-OpenRISC
 OpenVMS
-Operand forwarding
 Operating system
-Orthogonal instruction set
-Out-of-order execution
 PALcode
-PDP-1
-PDP-10
-PDP-11
 PDP-11 architecture
-PDP-12
-PDP-14
-PDP-15
-PDP-4
-PDP-5
-PDP-6
 PDP-7
-PDP-8
-PDP-8/e
-PDP-9
 POSIX
-Package on a package
-Paging
 Parallel computing
-Performance per watt
-Physics processing unit
-Pin grid array
-Pipeline stall
-Pointer machine
 Polynomial
 Porting
-Post–Turing machine
-PowerPC
-Power ISA
-Power Management Unit
 Power management
-Power management integrated circuit
 Preemption (computing)
-Prime Computer
-Privilege level
-Probabilistic Turing machine
 Process (computing)
 Processor (computing)
-Processor design
-Processor register
-Program counter
-Programmable Array Logic
-Programmed Data Processor
 Programming language
 Q-Bus
-Quantum Turing machine
-Quantum cellular automaton
-Quantum circuit
-Quantum computing
-Quantum logic gate
-Queue (data structure)
-Queue automaton
 RA90
-RISC
-RISC-V
 RK05
 RL02
-ROM image
-RSTS/E
 RSX-11
-RSX-15
 RT-11
-Rainbow 100
 Random-access machine
-Random-access stored-program machine
-Re-order buffer
 ReGIS
 Record Management Services
 Reduced instruction set computer
-Register file
-Register machine
-Register renaming
-Register–memory architecture
-Reservation station
 Reverse engineering
 Rigel (microprocessor)
 Robert Palmer (computer businessman)
-Robotron K 1820
-Robotron K 1840
 S2CID (identifier)
-SIMACS
-SIMD
-SIMH
 SPARC
-SUPS
-SWAR
-Scalar processor
 Scoreboarding
-Scratchpad memory
-Secondary storage
-Secure cryptoprocessor
-Semaphore (computing)
-Semiconductor device fabrication
-Sequential logic
 Simultaneous and heterogeneous multithreading
 Simultaneous multithreading
-Single-core
 Single instruction, multiple data
 Single instruction, multiple threads
 Single instruction, single data
-Single program, multiple data
 Sixel
-Slovakia
-Soft microprocessor
-Speculative execution
 Speculative multithreading
-Stack machine
-Stack register
 Standard Disk Interconnect
-Stanford MIPS
 Star coupler
-Status register
-Stored-program computer
 Stream processing
 StrongARM
-Structural hazard
-Sum-addressed decoder
-SuperH
-Superminicomputer
 Superscalar processor
-Switch
 Synchronous Backplane Interconnect
-System Industries
 System Module
-System Reference Manual
-System in a package
 System on a chip
-Systime Computers Ltd
-TD/SMP
 TOPS-10
 TOPS-20
-TRIPS architecture
-TSS/8
 TU81
 TURBOchannel
 Task parallelism
 Temporal multithreading
-Tensor Processing Unit
 The Ultimate Entrepreneur
 Thread (computing)
-Three-dimensional integrated circuit
-Tick–tock model
-Tile processor
-Tomasulo's algorithm
-Transactions per second
-Transistor-transistor logic
-Transistor count
-Translation lookaside buffer
-Transport triggered architecture
-Trusted Computer System Evaluation Criteria
 Turing machine
-U.S. Congress
-U.S. Government Printing Office
-UNIX
-Ultra-low-voltage processor
 Ultrix
 Unibus
-Unicore
 Uniform memory access
-Universal Turing machine
-VAX-11
-VAX-11/780
 VAXBI bus
 VAXELN
-VAX 4000
-VAX 6000
-VAX 7000
-VAX 7000/10000
-VAX 7000 and VAX 10000
-VAX 8000

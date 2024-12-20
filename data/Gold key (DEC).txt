@@ -1,43 +1,29 @@
-4K Disk Monitor System
-ALL-IN-1
 AdvFS
 Alpha 21064
 Alpha 21164
 Alpha 21264
 Alpha 21364
 Alpha 21464
-AltGr key
-Alt key
 AltaVista
-Any key
-Apple keyboards
-Arrow keys
 BASIC-8
 Backspace
-Break key
 Bus (computing)
 CPU Wars
 CRC Press
 CVAX
-Caps Lock
 Carriage return
 Character encoding
 Code page 1287
 Code page 1288
-Command key
 Commercial Operating System
 Compaq
-Compose key
 Computer History Museum
 Computer hardware
 Computer keyboard
 Computer terminal
 Computerworld
-Control key
-Copilot key
 DECUS
 DEC Alpha
-DEC BATCH-11/DOS-11
 DEC GT40
 DEC Hebrew
 DEC J-11
@@ -55,117 +41,65 @@ DECtape
 DECwriter
 DIBOL
 DIGITAL Command Language
-Dead key
-Delete key
 Digital Equipment Corporation
 Digital Federal Credit Union
 Digital Linear Tape
 Digital Storage Systems Interconnect
-Digital UNIX
 Dynamic debugging technique
 Dynamically Redefined Character Set
-EDT (Digital)
-Emacs
-End key
-Enter key
-Esc key
-F-Lock
 FOCAL (programming language)
 FX!32
 Firefly (cache coherence protocol)
 Flip-Chip module
-Fn key
-Free Software Foundation
-Function key
 Gordon Bell
 HP-Interex
 Harlan Anderson
-Home key
-IDG Enterprise
-IEEE Press
 ISBN (identifier)
-Insert key
 Instruction set architecture
-IntelliType
 Interactive Application System
 Ken Olsen
-Keyboard layout
-Keyboard mapping
-Keyboard shortcut
-Keyboard technology
 LK201
 LK421
-Language input keys
 Local Area Transport
-Lock key
 MACRO-10
 MACRO-11
 MUMPS
-Macro key
 Maintenance Operations Protocol
 Mass Storage Control Protocol
 Massbus
-Menu key
-Meta key
 MicroVAX 78032
-Modifier key
 Multinational Character Set
 NVAX
 National Replacement Character Set
-Num Lock
-Num lock
-Numeric keypad
-OS/8
 On-line Debugging Tool
 OpenVMS
 Operating system
-Option key
 PALcode
 PC Magazine
-PDP-11
 PDP-11 architecture
 PDP-7
-PDP-8
-Page Up and Page Down keys
-Power key
-Print Screen
 Processor (computing)
 Programming language
 Q-Bus
 RA90
-RISC
 RK05
 RL02
-RSTS/E
 RSX-11
-RSX-15
 RT-11
-Rainbow 100
 ReGIS
 Record Management Services
 Rigel (microprocessor)
-Robert Everett (computer scientist)
 Robert Palmer (computer businessman)
-Scroll Lock
-Shift key
 Sixel
-Space-cadet keyboard
-Space bar
 Standard Disk Interconnect
 Star coupler
 StrongARM
-Super key (keyboard button)
 Synchronous Backplane Interconnect
 System Module
-System Reference Manual
-System request
-TD/SMP
 TOPS-10
 TOPS-20
-TSS/8
 TU81
 TURBOchannel
-Tab key
 The Ultimate Entrepreneur
 Ultrix
 Unibus
@@ -177,31 +111,13 @@ VAX MACRO
 VT05
 VT100
 VT1000
-VT101
-VT102
-VT103
-VT105
-VT131
 VT180
 VT220
-VT240
-VT241
 VT320
-VT330
-VT340
 VT420
-VT50
-VT510
 VT52
 VT520
-VT525
-VT55
-VT62
 VT640
 WPS-8
-WPS-Plus
 Wayback Machine
-Windows key
-X.Org Server
-Xterm
 Ziff Davis

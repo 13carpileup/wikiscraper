@@ -1,149 +1,18 @@
-Abstract syntax tree
-Accessor method
-Ada programming language
-Alias analysis
-Array-access analysis
 Automatic parallelization
-Automatic vectorization
-Available expression
-Binary file
-Bjarne Stroustrup
-Bounds-checking elimination
-Brad Calder
-Branch (computer science)
-Brandon Bray
 C++
 C99
-C (computer language)
 C (programming language)
-Call by address
-Call by reference
-Call by sharing
-Call graph
-Call site
-Code duplication
-Code generation (compiler)
-Code outlining
-Command-line option
-Common Lisp
-Common Lisp HyperSpec
-Common subexpression elimination
-Compile-time function execution
 Compiler
-Compiler directive
-Compiler optimization
 Computing
-Conditional branch
 Constant (mathematics)
-Constant (programming)
-Constant folding
-Control-flow analysis
-Control flow
-Copy and paste programming
-Data-flow analysis
-Dead-code elimination
-Dead code elimination
-Dead store
-Deforestation (computer science)
-Dependence analysis
 Directive (programming)
-Dirk Grumwald
 Doi (identifier)
 Embedded system
-Enabling transformation
-Escape analysis
-Executable
-Expression templates
-Fast path
-Function call
-Function epilogue
-Function prologue
-Functional language
-Functional programming
-Functional programming language
-Gerald Aigner
-Glasgow Haskell Compiler
-Global value numbering
-Haskell (programming language)
 Hdl (identifier)
-Henry G. Baker
-Heuristics
-Induction variable
-Induction variable elimination
-Induction variable recognition and elimination
-Inline function
-Instruction cache
-Instruction scheduling
-Instruction selection
-Intermediate representation
-Interprocedural optimization
 Java (programming language)
-Java Hotspot compiler
-Jikes RVM
-John R. Levine
-Jump threading
-Just-in-time compiler
-Knapsack problem
-L1 cache
 Lambda calculus
-Lazy evaluation
-Link-time optimization
-Linker (computing)
-Live-variable analysis
-Load forwarding
-Local value numbering
-Locality of reference
-Loop-invariant code motion
-Loop fusion
-Loop interchange
-Loop inversion
-Loop nest optimization
-Loop optimization
-Loop splitting
-Loop unrolling
-Loop unswitching
 Macro (computer science)
-Macro assembler
-Macro expansion
-Mutator method
-Object-oriented programming language
-Optimization (computer science)
-Optimizing compiler
-Order of operations
-Page fault
-Parameter
-Parameterized macro
 Partial evaluation
-Peephole optimization
-Pointer analysis
-Profile-guided optimization
-Reaching definition
-Recursion (computer science)
-Register allocation
-Register spilling
-Rematerialization
-Return statement
 Rule of thumb
-Run-time system
-Run time (program lifecycle phase)
-Self (programming language)
-Shape analysis (program analysis)
-Simon Peyton Jones
-Software pipelining
 Source code
-Sparse conditional constant propagation
-Statement (computer science)
-Static single-assignment form
-Strength reduction
-Subroutine
-Tail-call elimination
-Tail call
-Tail duplication
-Thrashing (computer science)
-Type checking
-Upwards exposed uses
-Urs Hölzle
-Use-define chain
-Value range analysis
 Wayback Machine
-Working set

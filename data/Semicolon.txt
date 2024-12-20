@@ -1,244 +1,84 @@
-8.3 filename
-;
-; (CONFIG.SYS directive)
 ALGOL 60
-APL (programming language)
 ASCII
-Aldine Press
-Aldus Manutius
-Aldus Manutius the Younger
 Ampersand
 Apostrophe
 Arabic
 Arabic script
 Assembly language
 Asterisk
-Asterism (typography)
-At sign
-BBC World Service
-BCPL
 Backslash
-Balanced sentences
 Bamum script
-Bartolomeo Sanvito
 Basis point
-Ben Jonson
-Ben Macintyre
-Bertrand Meyer
 Bracket
-British Broadcasting Corporation
-British Library
-Bullet (typography)
-Busy waiting
-Butchness
 CNS 11643
 C (programming language)
-Calculus of relations
-California Office of Legislative Counsel
-California Penal Code
 Caret
-Cascading Style Sheets
-Cecelia Watson
-Character entity reference
-Chinese punctuation
-Church Slavonic language
-Cicero
-Clause
 Colon (punctuation)
-Colophon (publishing)
-Coming Up for Air
 Comma
-Comma-separated values
-Comma operator
-Comment (computer programming)
 Completing the square
-Composition of relations
-Compound sentences
 Computer programming
-Consiglio Nazionale delle Ricerche
-Coordinate
 Copyright symbol
-Covariant derivative
 Currency symbol
 Dagger (mark)
-Dangling else
-Dash
-De Aetna
-Decimal point
-Degree symbol
-Delimiter
-Delimiter-separated values
 Diacritic
 Diameter
 Differential geometry
-Dinkus
-Ditto mark
-Division sign
 Doi (identifier)
-Double hyphen
 Duodecimal
 Eiffel (programming language)
-Eighth note
-Ellipsis
-Emoticon
 English language
-English punctuation
-English speakers
-Epistulae ad Familiares
-Erlang (programming language)
-Ernest Hemingway
 Exclamation mark
-Files-11
-Fleuron (typography)
 Formal grammar
 Full stop
 Function (mathematics)
-GNU Octave
 George Orwell
 Geʽez script
 Go (programming language)
-Grammatical conjunction
 Greek language
-Greek question mark
-Gregorian calendar
 Guillemet
 HTML
-Hair space
-Half note
-Hebrew punctuation
-Henry Denham
-Homerow
-Humphrey point
-Hungarian Runic
-Hyphen
 Hyphen-minus
-INI file
 ISBN (identifier)
-ISO 8859-1
-Independent clause
-Indexed family
-Infix notation
 International Phonetic Alphabet
 Internet Archive
 Interpunct
-Interrobang
-Inverted question and exclamation marks
-Irony punctuation
 JSTOR (identifier)
-James Joyce
 Japanese punctuation
 JavaScript
 Java (programming language)
 Kanji
-Keyboard layout
-Korean punctuation
-Lindley Murray
-Linz, Austria
 Lisp (programming language)
 List of logic symbols
-List of mathematical symbols
-List of typographical symbols and punctuation marks
-Long filename
-Lower case
-Lozenge (shape)
-Lua (programming language)
-Lynne Truss
 MATLAB
-MDN Web Docs
-Malcolm Parkes
-Manicule
-Martin Amis
 Microsoft Excel
 Microsoft Windows
-Minus-plus sign
-Money (novel)
-More veneto
-Multiplication sign
-NOP (code)
 NTFS
 Number sign
 Numero sign
-Object-Oriented Software Construction
 OpenVMS
-Ordinal indicator
-Orthography
-P. G. Wodehouse
-PL/I
-Parameter
 Pascal (programming language)
-Paul Collins (American writer)
-Per mille
 Percent sign
 Perl
-Piecewise functions
-Pietro Bembo
-Pilcrow
 Plus and minus signs
-Plus–minus sign
-Prime (symbol)
 Programming language
-Project Semicolon
-Proper noun
-Punctuation
 Python (programming language)
-QWERTY
-Quarter note
 Question mark
 Quotation mark
 RSX-11
-R (programming language)
-Radical symbol
-Raymond Chandler
-Reference mark
-Registered trademark symbol
-Rest (music)
-Robert Lowth
 Roman numerals
-Romanization of Greek
 SQL
-Sam Roberts (newspaper journalist)
-Samuel Beckett
 Section sign
-Semicolon (EP)
-Serial comma
-Service mark symbol
-Shift key
-Sindhi language
 Slash (punctuation)
 Slate (magazine)
-Small Form Variants
-Sound recording copyright symbol
 Space (punctuation)
-Statement (programming)
-Stephen King
-Style guide
 Suicide
 Synchronization
-Syntax error
-Tags (Unicode block)
 Tattoo
-Tensor analysis
-The Bedford Handbook
-The Chicago Manual of Style
 The Guardian
-The Name of the Rose
 The New York Times
 The Times
-Tie (typography)
 Tilde
-Trademark symbol
-Trailing comma
-Truman Capote
-Typography
-Umberto Eco
 Underscore
-VFAT
 Variable (mathematics)
-Venetian calendar
-Versioning file system
 Vertical bar
-W3Schools
 Whitespace character
-Whole note
-Wink
-Wrist

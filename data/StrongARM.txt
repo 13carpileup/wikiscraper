@@ -1,63 +1,29 @@
-16-bit computing
-32-bit computing
 4-bit computing
-4K Disk Monitor System
 64-bit computing
-8-bit computing
-ARM architecture family
-Acorn Computers
 AdvFS
-Alchemy (processor)
 Alpha 21064
 Alpha 21164
 Alpha 21264
 Alpha 21364
 Alpha 21464
 AltaVista
-Aluminium interconnect
-Apple, Inc.
-Apple Computer
 Apple Inc.
-Apple Newton
-Arithmetic logic unit
-Arm Holdings
-Asad Abidi
-Atom (system on a chip)
-Atom (system on chip)
 Austin, Texas
 BASIC-8
-Ball grid array
-Barrel shifter
-Behzad Razavi
-Binary-coded decimal
-Binary multiplier
-Bonnell (microarchitecture)
-Branch prediction
-Broadwell (microarchitecture)
 Bus (computing)
-CMOS
 CNet
 CPU Wars
-CPU cache
 CVAX
-Cannon Lake (microprocessor)
-Celeron
 Character encoding
-Classic RISC pipeline
-Clock signal
 Code page 1287
 Code page 1288
 Commercial Operating System
 Compaq
-Comparator
-Complex instruction set computer
 Computer hardware
 Computer terminal
 Coprocessor
-Cypress Cove (microarchitecture)
 DECUS
 DEC Alpha
-DEC BATCH-11/DOS-11
 DEC GT40
 DEC Hebrew
 DEC J-11
@@ -75,124 +41,30 @@ DECtape
 DECwriter
 DIBOL
 DIGITAL Command Language
-Dan Dobberpuhl
-Daniel W. Dobberpuhl
 Digital Equipment Corporation
 Digital Federal Credit Union
 Digital Linear Tape
 Digital Storage Systems Interconnect
-Digital UNIX
 Doi (identifier)
 Dynamic debugging technique
 Dynamically Redefined Character Set
-EE Times
 Eidos Interactive
-Explicitly parallel instruction computing
 FOCAL (programming language)
 FX!32
 Firefly (cache coherence protocol)
 Flip-Chip module
-Flip-flop (electronics)
-Floating-point unit
 Gold key (DEC)
-Golden Cove
-Goldmont
-Goldmont Plus
 Gordon Bell
-Gracemont (microarchitecture)
 HP-Interex
 Harlan Anderson
-Haswell (microarchitecture)
-Hot Chips
-Hudson, Massachusetts
-I/O Controller Hub
-I386
-I486
-I486SL
-I486SX
-I486 OverDrive
-IA-32
-IEEE Micro
-IPAQ
 ISBN (identifier)
-InfoWorld
 Institute of Electrical and Electronics Engineers
 Instruction set architecture
 Intel
-Intel 4004
-Intel 4040
-Intel 8008
-Intel 80186
-Intel 80188
-Intel 80286
-Intel 80287
-Intel 80376
-Intel 80386EX
-Intel 80386SX
-Intel 80387
-Intel 80387SX
-Intel 80487
-Intel 8080
-Intel 8085
-Intel 8086
-Intel 8087
-Intel 8088
-Intel 80C187
-Intel Arc
-Intel Atom
-Intel Core
-Intel Core (microarchitecture)
-Intel Core 2
-Intel DX2
-Intel DX4
-Intel GMA
-Intel Graphics Technology
-Intel Quark
-Intel Xe
-Intel i860
-Intel i960
-Intel iAPX 432
 Interactive Application System
-IrDA
-Itanium
-Ivy Bridge (microarchitecture)
-Jornada (PDA)
 Ken Olsen
 LK201
 LK421
-Larrabee (microarchitecture)
-List of Intel Atom processors
-List of Intel CPU microarchitectures
-List of Intel Celeron processors
-List of Intel Core-based Xeon microprocessors
-List of Intel Core 2 processors
-List of Intel Core M processors
-List of Intel Core i3 processors
-List of Intel Core i5 processors
-List of Intel Core i7 processors
-List of Intel Core i9 processors
-List of Intel Core processors
-List of Intel Itanium processors
-List of Intel NetBurst-based Xeon microprocessors
-List of Intel P6-based Xeon microprocessors
-List of Intel Pentium 4 processors
-List of Intel Pentium D processors
-List of Intel Pentium III processors
-List of Intel Pentium II processors
-List of Intel Pentium M processors
-List of Intel Pentium Pro processors
-List of Intel Pentium processors
-List of Intel Xeon processors
-List of Intel Xeon processors (Broadwell-based)
-List of Intel Xeon processors (Haswell-based)
-List of Intel Xeon processors (Ivy Bridge-based)
-List of Intel Xeon processors (Nehalem-based)
-List of Intel Xeon processors (Sandy Bridge-based)
-List of Intel Xeon processors (Skylake-based)
-List of Intel chipsets
-List of Intel codenames
-List of Intel graphics processing units
-List of Intel processors
 Local Area Transport
 MACRO-10
 MACRO-11
@@ -202,123 +74,46 @@ Maintenance Operations Protocol
 Mass Storage Control Protocol
 Massachusetts
 Massbus
-Memory management unit
-MessagePad
 MicroVAX 78032
 Microarchitecture
 Microprocessor
-Microprocessor Report
-Motorola
 Multinational Character Set
-Multiply–accumulate operation
 NVAX
 National Replacement Character Set
-Nehalem (microarchitecture)
-NetBurst
-Neuchâtel
-OS/8
 On-line Debugging Tool
 OpenVMS
 Operating system
-Out-of-order execution
-P5 (microarchitecture)
-P6 (microarchitecture)
 PALcode
-PBGA
-PCI IDE ISA Xcelerator
-PCMCIA
 PDP-11 architecture
 PDP-7
 PR Newswire
-PS/2 connector
-Page (computer science)
-Palo Alto, California
-Penryn (microarchitecture)
-Pentium
-Pentium (original)
-Pentium 4
-Pentium D
-Pentium Dual-Core
-Pentium II
-Pentium III
-Pentium M
-Pentium OverDrive
-Pentium Pro
-Personal digital assistant
-Phase-locked loop
-Platform Controller Hub
 Processor (computing)
-Process–architecture–optimization model
-Program counter
 Programming language
-Psion Series 7
-Psion netBook
 Q-Bus
-Quad flat package
 RA90
 RK05
 RL02
-RSTS/E
 RSX-11
-RSX-15
 RT-11
-RapidCAD
 ReGIS
 Record Management Services
 Reduced instruction set computer
-Register file
 Rigel (microprocessor)
-Risc PC
 Robert Palmer (computer businessman)
 S2CID (identifier)
-SA-110
-SDRAM
-Saltwell (microarchitecture)
-Sandy Bridge
-Scalar processor
-Semiconductor
-Semiconductor fabrication plant
-Sense amplifier
-Set-associative
-Set-top box
-SiByte
-Silicon Valley
-Silvermont
-Simputer
-Single-precision floating-point format
 Single instruction, multiple data
-Sisu SA-110
 Sixel
-Skylake (microarchitecture)
 Standard Disk Interconnect
 Star coupler
-Stealey
-Stratix
-Sunny Cove (microarchitecture)
 Switzerland
 Synchronous Backplane Interconnect
-Synchronous Data Link Control
-Synchronous Serial Port
 System-on-a-chip
-System Controller Hub
 System Module
-System Reference Manual
-TD/SMP
 TOPS-10
 TOPS-20
-TSS/8
 TU81
 TURBOchannel
 The Ultimate Entrepreneur
-Thin Quad Flat Pack
-Thin client
-Tick–tock model
-Tolapai
-Toshiba
-Translation lookaside buffer
-Tremont (microarchitecture)
-UART
-Ultra-low-voltage processor
 Ultrix
 Unibus
 VAX
@@ -328,34 +123,14 @@ VAX MACRO
 VT05
 VT100
 VT1000
-VT101
-VT102
-VT103
-VT105
-VT131
 VT180
 VT220
-VT240
-VT241
 VT320
-VT330
-VT340
 VT420
-VT510
 VT52
 VT520
-VT525
-VT55
-VT62
 VT640
 Volt
 WPS-8
 Wayback Machine
-Westmere (microarchitecture)
-Willow Cove
 X86
-X86-64
-X87
-XScale
-Xeon
-Yonah (microprocessor)

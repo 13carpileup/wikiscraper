@@ -1,5 +1,4 @@
 AC motor
-Absolute electrode potential
 Acceleration
 Albert Einstein
 Alessandro Volta
@@ -11,39 +10,30 @@ Biot–Savart law
 Bremsstrahlung
 Capacitance
 Carl Friedrich Gauss
-Centimetre–gram–second system of units
 Charge density
 Charged particle
 Charles-Augustin de Coulomb
 Charles Proteus Steinmetz
 Classical electromagnetism
 Classical electromagnetism and special relativity
-Classical mechanics
 Computational electromagnetics
-Conservative force
 Conservative vector field
-Continuous function
-Conversion of units
 Coulomb
 Coulomb's law
-Coulomb Gauge
 Covariant formulation of classical electromagnetism
 Curl (mathematics)
 Current density
 Cyclotron radiation
 DC motor
-Dimensional analysis
 Direct current
 Displacement current
 Divergence
-Earth (electricity)
 Eddy current
 Electret
 Electric charge
 Electric current
 Electric dipole moment
 Electric field
-Electric field vector
 Electric flux
 Electric machine
 Electric motor
@@ -54,9 +44,6 @@ Electrical impedance
 Electrical network
 Electrical resistance and conductance
 Electricity
-Electrochemical potential
-Electrode potential
-Electrodynamics
 Electrolysis
 Electromagnetic field
 Electromagnetic four-potential
@@ -74,31 +61,18 @@ Emil Lenz
 Emil Wiechert
 Energy
 Faraday's law of induction
-Fermi level
-Field line
-Force (physics)
 Four-current
-Four vector
 Franz Ernst Neumann
-Fundamental theorem of vector calculus
 Félix Savart
-Galvani potential
-Gauge Transformation
-Gauge fixing
 Gauss's law
 Gauss's law for magnetism
-Gaussian units
 Georg Ohm
 George Singer
-Gradient theorem
-Gravitational potential energy
-Gravity
 Gustav Kirchhoff
 Gyrator–capacitor model
 Hans Christian Ørsted
 Heinrich Hertz
 Hendrik Lorentz
-Herbert Goldstein
 Hermann von Helmholtz
 Hippolyte Fizeau
 History of electromagnetic theory
@@ -106,10 +80,7 @@ Humphry Davy
 ISBN (identifier)
 Inductance
 Induction motor
-Infinity
-Inhomogeneous electromagnetic wave equation
 Insulator (electricity)
-Intensive and extensive properties
 J. J. Thomson
 James Clerk Maxwell
 James Prescott Joule
@@ -125,7 +96,6 @@ Kinetic energy
 Kirchhoff's circuit laws
 Larmor formula
 Lenz's law
-Line integral
 Linear motor
 List of electrical phenomena
 List of textbooks in electromagnetism
@@ -133,14 +103,11 @@ Liénard–Wiechert potential
 London equations
 Lord Kelvin
 Lorentz force
-Lorentz transformation
-Lorenz gauge condition
 Magnetic circuit
 Magnetic complex reluctance
 Magnetic field
 Magnetic flux
 Magnetic moment
-Magnetic monopole
 Magnetic reluctance
 Magnetic scalar potential
 Magnetic vector potential
@@ -152,9 +119,7 @@ Mass
 Mathematical descriptions of the electromagnetic field
 Maxwell's equations
 Maxwell's equations in curved spacetime
-Maxwell-Faraday equation
 Maxwell stress tensor
-Maxwell–Faraday equation
 Michael Faraday
 National Institute of Standards and Technology
 Network analysis (electrical circuits)
@@ -166,39 +131,22 @@ Optics
 Permeability (electromagnetism)
 Permeance
 Permittivity
-Permittivity of vacuum
-Point charge
-Poisson's equation
 Polarization density
-Potential
-Potential energy
 Poynting vector
 Relativistic electromagnetism
 Resonator
-Retarded potential
 Right-hand rule
 Rotor (electric)
-SI base unit
-SI derived unit
-SI unit
-SI units
-Scalar (physics)
-Scalar potential
 Series and parallel circuits
 Siméon Denis Poisson
 Static electricity
 Stator
-Statvolt
-Surface charge
 Synchrotron radiation
-Test charge
 Transformer
 Triboelectric effect
 Volt
 Voltage
-Voltmeter
 Watt
 Waveguide (radio frequency)
 Wilhelm Eduard Weber
 William Ritchie (physicist)
-Work (physics)

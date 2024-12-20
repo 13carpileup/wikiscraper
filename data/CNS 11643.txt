@@ -5,8 +5,6 @@ ARIB STD B24 character set
 ASCII
 ASMO 449
 ATASCII
-Adobe Inc
-Amstrad CP/M Plus character set
 Amstrad CPC character set
 Apple II character set
 ArmSCII
@@ -19,14 +17,10 @@ Bitstream International Character Set
 Bopomofo
 BraSCII
 C0 and C1 control codes
-CCCII character set
 CCSID
 CDC display code
 CER-GS
 CESU-8
-CJK Compatibility Forms
-CJK Unified Ideographs
-CJK characters
 CSX+ Indic character set
 CSX Indic character set
 CS Indic character set
@@ -36,7 +30,6 @@ Character encoding
 Character encodings in HTML
 Charset detection
 Chinese Character Code for Information Interchange
-Chinese radical
 Chinese telegraph code
 Code page
 Code page 1006
@@ -54,17 +47,10 @@ Code page 1019
 Code page 1020
 Code page 1021
 Code page 1023
-Code page 1034
 Code page 1040
 Code page 1042
 Code page 1043
-Code page 1044
 Code page 1046
-Code page 1052
-Code page 1053
-Code page 1054
-Code page 1055
-Code page 1056
 Code page 1058
 Code page 1098
 Code page 1101
@@ -103,7 +89,6 @@ Code page 853
 Code page 855
 Code page 856
 Code page 857
-Code page 858
 Code page 859
 Code page 860
 Code page 861
@@ -120,7 +105,6 @@ Code page 896
 Code page 897
 Code page 899
 Code page 903
-Code page 904
 Code page 912
 Code page 915
 Code page 921
@@ -148,12 +132,9 @@ DIN 91379
 DKOI
 Digital Equipment Corporation
 Digital encoding of APL symbols
-Double-byte character set
 EBCDIC
 ELOT 927
-EUC-TW
 Ecma International
-Euro sign
 Extended Latin-8
 Extended Unix Code
 FOCAL character set
@@ -167,48 +148,22 @@ GEM character set
 GOST 10859
 GSM 03.38
 Galaksija (computer)
-HKSCS
 HP Roman
 HZ (character encoding)
 Han unification
-Hanzi
 Hardware code page
 Hong Kong Supplementary Character Set
 IBM
 IBM AIX
-IEC-P27-1
-IETF
 INIS-8
 INIS character set
 ISBN (identifier)
-ISO-IR
 ISO-IR-111
 ISO-IR-169
 ISO-IR-182
 ISO-IR-197
 ISO-IR-200
 ISO-IR-68
-ISO/IEC 10367
-ISO/IEC 2022
-ISO/IEC 646
-ISO/IEC 8859
-ISO/IEC 8859-1
-ISO/IEC 8859-10
-ISO/IEC 8859-11
-ISO/IEC 8859-12
-ISO/IEC 8859-13
-ISO/IEC 8859-14
-ISO/IEC 8859-15
-ISO/IEC 8859-16
-ISO/IEC 8859-2
-ISO/IEC 8859-3
-ISO/IEC 8859-4
-ISO/IEC 8859-5
-ISO/IEC 8859-6
-ISO/IEC 8859-7
-ISO/IEC 8859-8
-ISO/IEC 8859-9
-ISO 2022
 ISO 2033
 ISO 5426
 ISO 5427
@@ -216,11 +171,8 @@ ISO 5428
 ISO 6438
 ISO 6862
 ITU T.61
-Ideographic Research Group
 Indian Script Code for Information Interchange
 Information Processing Society of Japan
-Intecolor/Compucolor 8001 character set
-International Components for Unicode
 Iran System encoding
 JIS X 0201
 JIS X 0208
@@ -238,10 +190,6 @@ KS X 1001
 KS X 1002
 Kamenický encoding
 Kana
-Kangxi Radicals (Unicode block)
-Kangxi radicals
-Ken Lunde
-Kuten
 LST 1564
 LST 1590-4
 LY1 encoding
@@ -268,7 +216,6 @@ Mac OS Hebrew
 Mac OS Icelandic encoding
 Mac OS Inuit
 Mac OS Keyboard encoding
-Mac OS Maltese/Esperanto encoding
 Mac OS Ogham
 Mac OS Roman
 Mac OS Romanian encoding
@@ -288,7 +235,6 @@ Multinational Character Set
 NEC APC character set
 National Replacement Character Set
 NeXT character set
-O'Reilly Media
 OML encoding
 OMS encoding
 OT1 encoding
@@ -296,13 +242,10 @@ PETSCII
 Perso-Arabic Script Code for Information Interchange
 PostScript Latin 1 Encoding
 PostScript Standard Encoding
-Private Use Areas
 Prosigns for Morse code
 RISC OS character set
 RPL character set
-Roman alphabet
 Russian Morse code
-SAM Coupé character set
 SI 960
 SQUOZE
 Sega SC-3000 character set
@@ -311,10 +254,8 @@ Sharp pocket computer character sets
 Shift JIS
 Sinclair QL character set
 Standard Compression Scheme for Unicode
-Stanford/ITS character set
 Stanford Extended ASCII
 Symbol (typeface)
-T.51/ISO/IEC 6937
 TI calculator character sets
 TRON (encoding)
 TRS-80 character set
@@ -327,8 +268,6 @@ Teletex
 Teletext
 Teletext character set
 Thai Industrial Standard 620-2533
-Traditional Chinese
-Traditional Chinese characters
 Transcode (character encoding)
 UTF-1
 UTF-16
@@ -338,17 +277,14 @@ UTF-8
 UTF-EBCDIC
 Unicode
 Unicode Consortium
-Unicode Technical Committee
 Unicode control characters
 Unified Hangul Code
-Unihan
 Universal Coded Character Set
 VISCII
 VSCII
 VT100 encoding
 VT220
 Variable-width encoding
-Variant Chinese characters
 Ventura International
 Videotex
 Videotex character set
@@ -365,9 +301,6 @@ Windows-1256
 Windows-1257
 Windows-1258
 Windows-1270
-Windows Cyrillic + Finnish
-Windows Cyrillic + French
-Windows Cyrillic + German
 Windows Polytonic Greek
 Windows code page
 World System Teletext

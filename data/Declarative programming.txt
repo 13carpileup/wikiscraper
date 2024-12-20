@@ -1,247 +1,61 @@
 Abductive logic programming
-Action language
-Actor model
-Agent-oriented programming
 Algebraic modeling language
 Algorithm
-Alonzo Church
-Analytica (software)
 Anonymous function
-Answer set programming
-Applicative programming language
 ArXiv (identifier)
-Array programming
-Aspect-oriented programming
 Assembly language
-Attribute-oriented programming
-Automata-based programming
 Automatic mutual exclusion
-Automatic programming
-Backward chaining
-Bayesian program synthesis
-Block (programming)
-Boolean SAT solver
 C (programming language)
-Choreographic programming
-Class-based programming
 Cloud computing
 Codomain
-Command language
-Common Lisp
-Comparison of functional programming languages
-Comparison of multi-paradigm programming languages
 Comparison of programming languages (object-oriented programming)
-Compiled language
 Component-based software engineering
-Computation
 Computer network
 Computer science
-Concatenative programming language
 Concurrent computing
-Concurrent constraint logic programming
-Concurrent logic programming
-Concurrent object-oriented programming
-Configuration management database
-Constraint logic programming
-Constraint programming
-Control flow
-DPLL algorithm
 Data-driven programming
-Data-oriented design
-Data integration
 Dataflow programming
-Datalog
 Dependent type
 Design by contract
-Differentiable programming
 Distributed computing
 Doi (identifier)
 Domain-specific language
-Domain knowledge
 Domain of a function
-Dynamic programming language
-End-user development
-Erlang (programming language)
-Esoteric programming language
-Event-driven programming
-Expression-oriented programming language
-Extensible programming
-Factorial
-Feature-oriented programming
-Fifth-generation programming language
-Filter (software)
-First-class citizen
-First-generation programming language
-Flow-based programming
-Forward chaining
-Fourth-generation programming language
-Function-level programming
-Function composition (computer science)
-Functional logic programming
-Functional programming
-Functional reactive programming
 Generalized algebraic data type
-Generic programming
-Grammar-oriented programming
-Graph rewriting
 HTML
-Haskell (programming language)
-High-level programming language
-Higher-order function
-Higher-order programming
-Homoiconicity
-Human-computer interaction
-Hygienic macro
 ISBN (identifier)
 ISSN (identifier)
-Immutable object
 Imperative programming
-Inductive logic programming
-Inductive programming
-Inferential programming
-Information extraction
-Intentional programming
-Interactive programming
-Interface description language
-Interpreted language
-Invariant-based programming
-Jackson structured programming
-Knowledge representation
 Lambda calculus
-Language-oriented programming
-Language primitive
 Lisp (programming language)
 List comprehension
-List of object-oriented programming languages
-List of programming languages by type
 Literate programming
-Logic programming
-Low-code development platform
-Low-level programming language
-ML (programming language)
-MXML
-Machine code
 Machine learning
 Macro (computer science)
-Macroprogramming
-Make (software)
-Map (higher-order function)
 Mathematical logic
 Mathematical model
-Metalinguistic abstraction
 Metaprogramming
-Michael J. C. Gordon
-Modelica
 Modeling language
 Modular programming
-Multi-paradigm programming language
 Multi-stage programming
-Multitier programming
 Natural-language programming
-Nested function
-Non-English-based programming languages
 Non-structured programming
-Nondeterministic programming
 OCLC (identifier)
-OCaml
-Object-based language
 Object-oriented programming
-Ontology language
-Organic computing
-Page description language
 Parallel computing
 Parallel programming model
 Partial application
-Partitioned global address space
 Pattern matching
-Persistent programming language
-Pipeline (software)
-Probabilistic logic programming
-Probabilistic programming
 Procedural programming
-Process-oriented programming
-Production system (computer science)
-Program (machine)
-Program synthesis
-Programming by demonstration
-Programming by example
-Programming in the large and programming in the small
-Programming language generations
-Programming language implementation
 Programming paradigm
 Prolog
-Prototype-based programming
-Puppet (software)
 Pure function
-Pure functional language
-Purely functional programming
-QML
-Quantum programming
-Query language
-Query languages
 Question answering
-Racket (programming language)
-Reactive programming
-Recursion (computer science)
-Referential transparency
-Reflective programming
 Regular expression
-Relativistic programming
-Representational state transfer
-Robert Harper (computer scientist)
-Role-oriented programming
-SLD resolution
-SOAP
 SQL
-Scheme (programming language)
 Scientific programming language
 Scripting language
-Search algorithm
-Second-generation programming language
-Security
 Self-modifying code
-Separation of concerns
-Service-oriented programming
-Set theoretic programming
-Side effect (computer science)
-Signal programming
-Simile (computing)
-Simulation language
-Solver (computer science)
 Spacecraft command language
-Square number
-Stable model semantics
-Stack-oriented programming
-Standard ML
 Stream processing
-Strict programming language
-Structured concurrency
-Structured programming
-Subject-oriented programming
-Symbolic programming
-Synchronous programming language
-Syntax and semantics of logic programming
-System programming language
-Tacit programming
-Tactile programming language
-Technische Universität Berlin
-Template metaprogramming
-Template processor
-Third-generation programming language
-Total functional programming
-Transformation language
-Turing-complete
-Turing completeness
-Umbrella term
-Unification (computer science)
-Uniform Function Call Syntax
-User-interface markup language
-Value-level programming
-Very high-level programming language
-Visual programming language
 Wayback Machine
-XAML
-XML namespace
-XQuery
-XSLT
-Yacc

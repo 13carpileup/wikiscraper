@@ -1,213 +1,61 @@
-2-functor
-2-group
-2-ring
-3-category
-Abelian category
-Additive category
-Adjoint functor
-Adjoint functors
-Alexander Grothendieck
-Algebraic category
 Algebraic geometry
-Algebraic stack
 Algebraic structure
 American English
-Anabelian geometry
 Axiom of choice
 Axiom of reducibility
 Axiomatic system
-Barry Mazur
-Bicategory
 British English
-Cartesian closed category
-Categorification
 Category (mathematics)
-Category of abelian groups
-Category of groups
-Category of magmas
-Category of modules
-Category of relations
-Category of rings
 Category of sets
 Category theory
-Charles Wells (mathematician)
-Classifying topos
-Coequalizer
-Coherent sheaf
-Cokernel
-Colimit
-Colin McLarty
-Comma category
-Commutative diagram
 Concrete category
 Constructive set theory
-Contravariant functor
-Coproduct
-Crystal (mathematics)
 Dependent type
 Descriptive set theory
 Determinacy
-Direct limit
 Doi (identifier)
-En-ring
-End (category theory)
-Enriched category
-Equaliser (mathematics)
 Equivalence relation
-Equivalent categories
-Eric Friedlander
-Exponential object
-F. William Lawvere
-Fiber product
 First-order logic
-Flat topology
 Formal system
 Foundations of mathematics
-Frames and locales
-Free category
 Function (mathematics)
-Functor
-Functor category
-Generalized space
-Generator (category theory)
-Geometric logic
-Geometrically unibranch
-Girard's paradox
-Giraud's theorem
 Glossary of category theory
-Grothendieck
-Grothendieck site
 Group (mathematics)
-Group action
-Group action (mathematics)
-Groupoid
-Higher-dimensional algebra
 Higher category theory
 Hilbert system
-History of topos theory
 History of type theory
 Homomorphism
-Homotopy
-Homotopy category
-Homotopy hypothesis
 Homotopy type theory
-Huawei
 ISBN (identifier)
-Ieke Moerdijk
 Image (mathematics)
-Initial and terminal objects
 Intuitionistic type theory
-Inverse limit
-Inverse system
 JSTOR (identifier)
-Jean-Louis Verdier
-Jean Giraud (mathematician)
-John Baez
-John Lane Bell
-Kan extension
-Kernel (category theory)
-Kleisli category
-Laurent Lafforgue
-Law of excluded middle
-Left adjoint
-Limit (category theory)
-List of category theory topics
 List of mathematical logic topics
 List of set theory topics
-Luc Illusie
-Mathematical constructivism
 Mathematical induction
 Mathematical logic
 Mathematical proof
 Mathematics
-Michael Artin
-Michael Barr (mathematician)
 Modal logic
-Model category
 Model theory
 Module (mathematics)
-Monoidal category
-Monomorphism
-Morphism
-Multidigraph
-N-group (category theory)
-N-monoid
 Naive set theory
 Natural deduction
-Natural transformation
-Nisnevich topology
-Noetherian scheme
-Olivia Caramello
-Opposite category
-Outline of category theory
-Pathological (mathematics)
 Peano axioms
-Peter Johnstone (mathematician)
-Pierre Deligne
-Point-set topology
-Pointed set
-Powerset
-Pre-abelian category
-Preadditive category
-Preorder
-Presheaf (category theory)
-Princeton University Press
-Pro-finite
-Pro-simplicial set
-Product (category theory)
-Product category
-Pseudo-functor
-Pullback (category theory)
-Pushout (category theory)
-Quasi-category
-Quasitopos
-Quotient category
-Regular category
-Ring object
-Ringed space
-Ringed topos
-Robert Goldblatt
 Russell's paradox
-Saunders Mac Lane
 Scheme (mathematics)
 Second-order logic
 Set (mathematics)
 Set theory
-Sheaf (mathematics)
-Simplex category
-Site (mathematics)
-Springer-Verlag
-Stack (mathematics)
-Steve Vickers (computer scientist)
-Strict 2-category
-Strict n-category
-String diagram
 Structuralism (philosophy of mathematics)
 Subalgebra
-Subcategory
-Subgroup
-Subobject classifier
-Subset
-Symmetric monoidal category
-Tetracategory
 The Guardian
 Topological space
 Traced monoidal category
-Tricategory
 Type theory
 Univalent foundations
 Universal algebra
-Universal construction
-Universal property
-Weak n-category
-Yoneda Lemma
-Yoneda lemma
 Zermelo set theory
 Zermelo–Fraenkel set theory
-Étale fundamental group
-Étale homotopy theory
-Étale morphism
-Étale topology
-Étale topos
 ∞-groupoid
 ∞-topos

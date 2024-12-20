@@ -1,9 +1,7 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
 AlmaLinux
 Alpine Linux
-Alsaconf
 Android-x86
 Android (operating system)
 Antergos
@@ -27,7 +25,6 @@ BlankOn Linux
 Bodhi Linux
 CHAOS (operating system)
 CRUX
-CUPS
 Calculate Linux
 Caldera OpenLinux
 CalyxOS
@@ -53,9 +50,7 @@ Damn Vulnerable Linux
 Debian
 Deepin
 DemoLinux
-Dependency hell
 Devuan
-DistroWatch
 DivestOS
 DoudouLinux
 Dreamlinux
@@ -77,11 +72,9 @@ Foresight Linux
 FreedomBox
 Freespire
 Frugalware Linux
-GIMP
 GNU Guix System
 GNewSense
 GOS (operating system)
-GUI
 Garuda Linux
 GeckoLinux
 Gentoo Linux
@@ -89,14 +82,10 @@ GoboLinux
 Gobuntu
 GrapheneOS
 HandyLinux
-Hyperbola GNU/Linux-libre
-I486
-IceWM
 Immunix
 IodéOS
 Java (programming language)
 Jurix
-KDE
 KDE neon
 KaOS
 KaiOS
@@ -110,10 +99,8 @@ Kongoni (operating system)
 Korora (operating system)
 Kubuntu
 Kwort Linux
-LXDE
 LXLE Linux
 Libranet
-LibreOffice
 LinHES
 LineageOS
 Linpus Linux
@@ -127,9 +114,7 @@ Linux Router Project
 Linux distribution
 Linux for PlayStation 2
 List of Linux distributions
-LiveCD
 Lubuntu
-Lzma
 MCC Interim Linux
 MIUI
 MX Linux
@@ -142,8 +127,6 @@ Mer (software distribution)
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Musix GNU+Linux
-Netconfig
 Network Security Toolkit
 NimbleX
 Nitix
@@ -157,10 +140,8 @@ OpenELEC
 OpenMandriva Lx
 OpenSUSE
 Open Enterprise Server
-Openbox
 Oracle Linux
 PCLinuxOS
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
@@ -195,7 +176,6 @@ Sailfish OS
 Salix OS
 Scientific Linux
 Slackware
-Slapt-get
 Slax
 Softlanding Linux System
 Software license
@@ -207,7 +187,6 @@ SparkyLinux
 Splashtop OS
 SteamOS
 Sunwah Linux
-SuperGamer
 SystemRescue
 T2 SDE
 Tails (operating system)
@@ -229,20 +208,13 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 User interface
 Vine Linux
 Void Linux
 Whonix
 Wubuntu
-X.Org Server
 X86
-X86-64
 XB Machine
-Xara Xtreme
-Xfce
-Xsane
 Xubuntu
 Yellow Dog Linux
 Zenwalk

@@ -1,288 +1,39 @@
-IEEE 802.21
-Exponential backoff
-WirelessHART
-802.3by
-IEEE 1584
-IEEE 802.10
-IEEE-488
-IEEE 802.2
-Wi-Fi 8
-802.3dd
 SystemC
-IEEE 802.1Qav
-6LoWPAN
 IEEE 802.3
-Wi-Fi 4
-Audio Video Bridging
-Logical link control
-Gaussian frequency-shift keying
-IEEE 802.8
-Internet Protocol
-IEEE 802.18
-802.3cq
 IEEE 802.1ad
-IEEE 802.1AS
 Software configuration management
-Multi-hop routing
-802.3cc
-IEEE 754-1985
-Universal Power Adapter for Mobile Devices
 IEEE 802.11w-2009
 IEEE 802.11i-2004
-Zephyr (operating system)
-MiWi
-Distributed Interactive Simulation
-Rosetta-lang
 IEEE 802.11y-2008
 Amplitude-shift keying
-IEEE 802.1X
-WiMAX
-Inter-Access Point Protocol
-Phase-shift keying
-IEEE P802.1p
-IEEE 802.22
-Property Specification Language
-Verilog
-802.3ah
 Ethernet
-IEEE 802.15.3
-IEEE 1901
-IEEE 802.11c
 Embedded system
-IEEE 802.11af
-Concept of operations
-OpenWSN
-IEEE 802.11bn
-802.3cm
-802.3ck
-Cable modem
-CSMA/CA
-IEEE 802.11ax
 IEEE 802.11u
 VHDL
-IEEE 693
-IPv6
-802.3cp
-IEEE 802.15.6
-IEEE 802.1ag
-IEEE 802.11aj
-Contention (telecommunications)
-IEEE 802.1AE
-Media access control
-IEEE 802.6
-802.3z
-802.3da
-802.3af
-802.3cd
-OSI model
 Requirements engineering
-TinyOS
-Chirp Spread Spectrum
-IEEE 802.11h-2003
-802.3cz
-Transfer rate
-802.3cr
-IEEE 802.15.1
-Resilient Packet Ring
-Timeout (telecommunication)
-IEEE 1849
-IEEE 802.11ah
-802.3cs
-Ultra-wideband
-IEEE 802.11g-2003
-IEEE 802.11n-2009
-IEEE 1547
-Software test documentation
-IEEE 802.11p
-RuBee
-Thread (network protocol)
-ISA100.11a
-IEEE 802.24
-IEEE 802.11 (legacy mode)
-IEEE 802.1ah-2008
-IEEE P1363
-Software requirements specification
-Software design description
-IEEE 1284
 IEEE 802.11e-2005
-Token Ring
-802.3ba
-IEEE 802.7
-IEEE 802.15.4e
-IEEE 802.15.4g
-Mesh network
-802.3ce
-IEEE 754-2008 revision
-802.3a
-Futurebus
-Open Firmware
-802.3cy
-802.3cx
-LPWAN
-IEEE 802.1aq
-802.3df
-IEEE 802.1Q
-Link Layer Discovery Protocol
-802.3ab
-Micro T-Kernel
-Service Interoperability in Ethernet Passive Optical Networks
-IEEE 802.9
-Subnetwork Access Protocol
-IEEE 802.11-1997
 IEEE 802.11b-1999
-802.3an
-IEEE 802.16
-IEEE 802.11z
 JTAG
 Wireless network
-Precision Time Protocol
-IEEE 802.15.4z
-IEEE 1667
-Wi-Fi
-IEEE 802.1Qbb
-Stream Reservation Protocol
-802.3b
-802.3ae
-VMEbus
-High-level architecture
-IEEE 1855
-802.3cg
-802.3at
-Transceiver
-PILOT
-Star network
-802.3cb
 IEEE 802.11r-2008
-802.3i
-Zigbee
-802.3bu
-IEEE 802.15.4c
-IEEE 802.15.5
-IEEE 1219
-Time-division multiple access
-EnOcean
-IEEE 802.11ad
-Spanning Tree Protocol
-IEEE 802.15.4f
-Multiple Registration Protocol
-ISO/IEEE 11073
-Protocol stack
-LoRa
-Frequency allocation
-IEEE 802.1
-Symmetric key
 Peer-to-peer
-802.3bt
-Access control list
-ISO/IEC 12207
 Project management
-IEEE 1905
-IEEE 1722
-802.3cw
-IEEE 802.11
-IEEE 802.15
-IEEE 1733
-Acknowledgement (data networks)
-Ad hoc network
-Contiki
 Line-of-sight propagation
-Matter (standard)
-IEEE 802.11be
-ISO/IEC 42010
-IEEE 1541-2002
-RIOT (operating system)
-802.3j
-802.3d
-802.3av
-IEEE 802.3x
-802.3cn
-Single UNIX Specification
-Data center bridging
-Wi-Fi 6
 Software quality assurance
-802.3aq
-INSTEON
-DASH7
 IEEE P1906.1
-802.3ad
 IP-XACT
-802.3ct
-IEEE 802.11v
-802.3cv
-IEEE 802.15.7
 IEEE 802.11k-2008
-802.3e
-802.3au
 Radio frequency
-Link aggregation
-IEEE 1394
-IEEE 1355
 Bluetooth
-Medium access control
 IEEE 854-1987
-802.3ac
 Risk management
 IEEE 2030
-Routing
-UWB ranging
-IEEE 1619
-IEEE P1619
-IEEE 1164
-Advanced Library Format
-Ethernet frame
-802.3u
-802.3az
-IEEE 802.11bb
-IEEE 802.11ay
-WiGig
-802.3bz
 Modulation
-IEEE 1471
-Wi-Fi 5
 Real-time computing
-100BaseVG
-Beacon frame
-IEEE 1675-2008
-10BASE5
-Standard Delay Format
-Unified Power Format
-802.3y
-IEEE 802.11s
 IEEE 754
 Software maintenance
-802.3ca
-Scalable Coherent Interface
-IEEE 802.15.4b
-IEEE 802.11ai
-Sigfox
-SystemVerilog
-802.3ak
 IEEE 802.20
-Time-division multiplexing
-Direct-sequence spread spectrum
-802.3ch
-IEEE 802.11ac
-Provider Backbone Bridge Traffic Engineering
-Wi-Fi 7
 Token bus network
-Link Aggregation Control Protocol
-IEEE 802.11d-2001
-IEEE Standards Association
-Data frame
-IEEE 802.11j-2004
-IEEE 1613
-IEEE 802.15.4d
-IEEE 802.15.2
-NeuRFon
-IEEE 1451
-Personal area network
-IEEE 802.1D
-802.3cu
-IEEE 802.11a-1999
-Physical layer
-DySPAN
 DNP3
-802.3de
 IEEE 802
-802.3db
 IEEE 802.15.4a

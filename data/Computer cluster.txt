@@ -1,26 +1,17 @@
 API
-ARCnet
-Amdahl's Law
 Amdahl's law
 Amsterdam
 Analysis of parallel algorithms
-Apache Hadoop
 Application checkpointing
 ArXiv (identifier)
 Array (data structure)
 Asymmetric multiprocessing
 Ateji PX
 Automatic parallelization
-B5700
-BOINC
 Barrier (computer science)
-Beowulf (computing)
 Beowulf cluster
 Bit-level parallelism
-Boost (C++ libraries)
 Bulldozer (microarchitecture)
-C++ AMP
-CDC 6600
 CUDA
 C (programming language)
 Cache-only memory architecture
@@ -28,19 +19,10 @@ Cache coherence
 Cache invalidation
 Chapel (programming language)
 Charm++
-Chemnitz University of Technology
-Cherri M. Pancake
 Cilk
-CiteSeerX (identifier)
-Close Coupled Cooling
 Cloud computing
-Cluster Computing (journal)
-Cluster Shared Volumes
-Cluster computing
-Clustered file system
 Coarray Fortran
 Commercial off-the-shelf
-Compile farm
 Computer
 Computer hardware
 Computer multitasking
@@ -49,119 +31,66 @@ Computer programming
 Computer simulation
 Concurrency (computer science)
 Cost efficiency
-Cray 1
-Cubieboard
-DARPA
-DEGIMA (computer cluster)
-Data cluster
 Data parallelism
 Dataflow architecture
 Dataflow programming
-Datapoint
-David Bader (computer scientist)
 Deadlock (computer science)
-Degree of parallelism
 Deterministic algorithm
 Digital Equipment Corporation
-Distcc
 Distributed computing
-Distributed data store
 Distributed memory
-Distributed operating system
 Distributed shared memory
 Doi (identifier)
 Dryad (programming)
 Embarrassingly parallel
-Enabling Grids for E-sciencE
 Explicit parallelism
-Failover
-Fault tolerant
-Fencing (computing)
 Fiber (computer science)
-Fibre channel
 File system
-Flash mob computing
 Flynn's taxonomy
-Fortran
 Free software
-GLite
 GPUOpen
-Game console
-Gene Amdahl
 General-purpose computing on graphics processing units
 Georgia Institute of Technology College of Computing
 Global Arrays
-Global network block device
 Grid computing
 Gustafson's law
 HPX
 Hardware acceleration
 Hardware scout
-Heartbeat private network
-High-availability cluster
 High-performance computing
-History of computer clusters
-History of supercomputing
 IBM
-IBM General Parallel File System
-IBM Sequoia
 ISBN (identifier)
 ISSN (identifier)
 Implicit parallelism
-Input/output
 Instruction-level parallelism
 Instruction pipelining
 Instruction window
-K computer
 Karp–Flatt metric
-Kernel (computer science)
-Kerrighed
 Linux
-Linux-HA
-LinuxPMI
-Linux Virtual Server
-Load balancing (computing)
 Local area network
 Loop-level parallelism
 Lubuntu
-MOSIX
-MPICH
-Mainframes
 Manycore processor
-MapReduce
 Massively parallel
 Memory-level parallelism
 Memory coherence
 Message Passing Interface
-Message passing in computer clusters
 Microsoft
-Microsoft Cluster Server
 Microsoft Windows
 Multiple instruction, multiple data
 Multiple instruction, single data
 Multiprocessing
 Multithreading (computer architecture)
 NEC
-National Science Foundation
-Nehalem (microarchitecture)
 Netherlands
-Node (networking)
 Non-blocking algorithm
 Non-uniform memory access
-Norman Jouppi
-Nvidia Tesla Personal Supercomputer
-Oak Ridge National Laboratory
 OpenACC
 OpenCL
 OpenHMPP
 OpenMP
-OpenMosix
-OpenSSI
 OpenVMS
-Open MPI
-Open Source Cluster Application Resources
 Operating system
-Oracle Cluster File System
 Parallel Extensions
 Parallel RAM
 Parallel Virtual Machine
@@ -172,75 +101,42 @@ Parallel slowdown
 Peer-to-peer
 Peripheral
 Pipeline (computing)
-PlayStation 3 cluster
 Preemption (computing)
 Process (computing)
 Pthreads
 Python (programming language)
-RAID
 ROCm
 Race condition
 RaftLib
 Raspberry Pi
-Red Hat Cluster Suite
-Render farm
 Rocks Cluster Distribution
-Rogue Wave Software
-Round-robin scheduling
 S2CID (identifier)
-SCSI3
-STONITH
 Scalability
 Scientific American
 Semiconductor memory
-Server farm
 Shared memory
-Shared memory architecture
-Simple Linux Utility for Resource Management
 Simultaneous and heterogeneous multithreading
 Simultaneous multithreading
-Single-system image
 Single instruction, multiple data
 Single instruction, multiple threads
 Single instruction, single data
-Single point of failure
-Single system image
 Software lockout
-Solaris Cluster
 Speculative multithreading
 Speedup
-Stack Overflow
 Starvation (computer science)
-Stone Soupercomputer
 Stream processing
-Supercomputer
-Supercomputing
 Superscalar processor
 Symmetric multiprocessing
 Synchronization (computer science)
 Systolic array
-TCP/IP
-TOP500
-Taiwania (supercomputer)
-Tandem Computers
 Task parallelism
-Task scheduling
 Temporal multithreading
-Thomas Sterling (computing)
 Thread (computing)
 Threading Building Blocks
-Triple modular redundancy
 Unified Parallel C
 Uniform memory access
 University of California, Berkeley
 VAX
-VAXcluster
 Vector processor
-Veritas Cluster Server
 Virtual machine
-Virtualization
-Volunteer computing
-Windows Server
 Xbox (console)
-Xen
-ZPL (programming language)

@@ -1,4 +1,3 @@
-ANXA2
 ATC code A
 ATC code B
 ATC code C
@@ -7,87 +6,52 @@ ATC code G
 ATC code H
 ATC code J
 ATC code L
-ATC code L02
-ATC code L03
-ATC code L04
 ATC code M
 ATC code N
 ATC code P
 ATC code R
 ATC code S
 ATC code V
-ATCvet code
 ATCvet code QI
 Abemaciclib
-Abiraterone
 Acalabrutinib
 Aclarubicin
 Adagrasib
-Adenosine deaminase inhibitor
-Adipotide
 Afatinib
 Aflibercept
 Alectinib
 Alemtuzumab
-Alitretinoin
-Alkyl sulfonate
 Alkylating antineoplastic agent
 Alpelisib
-Altretamine
-Alvocidib
-Aminolevulinic acid
-Aminopterin
 Amivantamab
-Amrubicin
-Amsacrine
-Anagrelide
 Anaplastic lymphoma kinase
 Anatomical Therapeutic Chemical Classification System
 Anthracycline
-Anthraquinone
 Antifolate
 Antimetabolite
 Antineoplastic
-Antineoplastic agents
-Arsenic trioxide
 Asciminib
-Asparaginase
-Asparagine
 Atezolizumab
-Atezolizumab/hyaluronidase
-Atrasentan
 Aumolertinib
 Avapritinib
 Avelumab
 Axatilimab
-Axicabtagene ciloleucel
 Axitinib
 Azacitidine
-Aziridine
 BRAF (gene)
 Baricitinib
-Bcr-abl fusion protein
 Belantamab mafodotin
-Belinostat
-Belotecan
-Belzutifan
-Bendamustine
 Bermekimab
 Bevacizumab
-Bexarotene
 Binimetinib
-Bisantrene
 Bleomycin
 Blinatumomab
 Bortezomib
 Bosutinib
 Brentuximab vedotin
-Brexucabtagene autoleucel
 Brigatinib
 Bruton's tyrosine kinase
 Busulfan
-C-Met
-CD117
 CD135
 CD20
 CD30
@@ -95,406 +59,93 @@ CD33
 CD3 (immunology)
 CD52
 CDK inhibitor
-Cabazitaxel
 Cabozantinib
-Camptotheca
 Camptothecin
 Cancer immunotherapy
 Capecitabine
-Capivasertib
 Capmatinib
 Carboplatin
-Carboquone
-Carfilzomib
-Carmofur
 Carmustine
 Catumaxomab
 Cediranib
-Celecoxib
-Cell-cycle nonspecific antineoplastic agents
 Cemiplimab
 Ceritinib
 Cetuximab
 Chemotherapy
 Chlorambucil
 Chlormethine
-Ciltacabtagene autoleucel
 Cisplatin
 Cladribine
-Clinical trial
 Clofarabine
 Cobimetinib
 Copanlisib
 Cosibelimab
-Cositecan
-Crisnatol
 Crizotinib
-Crosslinking of DNA
 Cyclin-dependent kinase
 Cyclophosphamide
 Cytarabine
-Cytarabine/daunorubicin
-DNA polymerase inhibitor
 DNA replication
 Dabrafenib
 Dacarbazine
 Dacomitinib
-Dactinomycin
 Dalpiciclib
 Daratumumab
 Dasatinib
 Daunorubicin
-Daunorubicin/cytarabine
 Decitabine
-Demecolcine
 Denileukin diftitox
-Deoxyribonucleotide
-Dicycloplatin
-Dihydrofolate reductase inhibitor
-Dinutuximab beta
 Docetaxel
 Dostarlimab
-Doxifluridine
 Doxorubicin
 Durvalumab
 Duvelisib
 EML4
 Edrecolomab
-Efaproxiral
-Eflornithine
-Elesclomol
 Elotuzumab
 Elranatamab
-Elsamitrucin
-Enasidenib
-Encequidar
 Encorafenib
-Endocrine
-Endothelin receptor antagonist
 Enfortumab vedotin
-Entinostat
 Entrectinib
-Enzyme inhibitor
-EpCAM
-Epacadostat
 Epcoritamab
 Epidermal growth factor receptor
 Epirubicin
 Epothilone
 ErbB
 Erdafitinib
-Eribulin
 Erlotinib
-Estramustine
-Estramustine phosphate
-Etirinotecan pegol
-Etoglucid
 Etoposide
 Everolimus
-Exatecan
 Exotoxin
-Farnesyltransferase inhibitor
 Fedratinib
 Fibroblast growth factor receptor
 Filgotinib
-Floxuridine
 Fludarabine
 Fluorouracil
 Fotemustine
 Fruquintinib
 Fusion protein
 Futibatinib
-Fuzuloparib
 Gefitinib
 Gemcitabine
 Gemtuzumab ozogamicin
 Gilteritinib
-Gimatecan
 Glasdegib
 Glofitamab
-HER2/neu
-Halogenation
 Hedgehog signaling pathway
-Histone deacetylase inhibitor
-Hydrazine
-Hydroxycarbamide
-Hypomethylating agent
-IMP dehydrogenase
 Ibritumomab tiuxetan
 Ibrutinib
 Icotinib
 Idarubicin
-Idecabtagene vicleucel
 Idelalisib
 Ifosfamide
 Imatinib
-Imetelstat
-Immunostimulator
-Immunosuppressant
 Inavolisib
 Infigratinib
 Inotuzumab ozogamicin
-Intercalation (biochemistry)
 Interleukin 2
 Ipilimumab
 Irinotecan
 Isatuximab
-Isocitrate dehydrogenase
-Ivosidenib
-Ixabepilone
-Ixazomib
 Janus kinase
 KRAS
 Lapatinib
-Larotaxel
-Larotrectinib
-Lazertinib
-Lenvatinib
-Lestaurtinib
-Leukemia
-Lifileucel
-Lipoxygenase inhibitor
-Lisocabtagene maraleucel
-List of withdrawn drugs
-Lomustine
-Loncastuximab tesirine
-Lonidamine
-Lorlatinib
-Losoxantrone
-Lucanthone
-Lurbinectedin
-Lurtotecan
-Lymphatic system
-Lymphoma
-MEN1
-MTOR inhibitor
-M phase
-Mannosulfan
-Margetuximab
-Masitinib
-Masoprocol
-Melphalan
-Melphalan flufenamide
-Menogaril
-Mercaptopurine
-Methotrexate
-Methyl aminolevulinate
-Microtubule
-Midostaurin
-Mirvetuximab soravtansine
-Mitobronitol
-Mitogen-activated protein kinase kinase
-Mitoguazone
-Mitomycin
-Mitomycins
-Mitotane
-Mitotic inhibitor
-Mitoxantrone
-Mitozolomide
-Mobocertinib
-Mogamulizumab
-Momelotinib
-Monoclonal antibody therapy
-Mosunetuzumab
-Moxetumomab pasudotox
-Myeloid
-Nadofaragene firadenovec
-National Institutes of Health
-Navitoclax
-Naxitamab
-Necitumumab
-Nedaplatin
-Nelarabine
-Neratinib
-Nilotinib
-Nimustine
-Nintedanib
-Niraparib
-Niraparib/abiraterone acetate
-Nitrogen mustard
-Nitrosourea
-Nivolumab
-Nivolumab/relatlimab
-Non-receptor tyrosine kinase
-Nurulimab
-Obecabtagene autoleucel
-Obinutuzumab
-Oblimersen
-Odronextamab
-Ofatumumab
-Olaparib
-Olaratumab
-Olmutinib
-Olutasidenib
-Omacetaxine mepesuccinate
-Oportuzumab monatox
-Oprozomib
-Orelabrutinib
-Ortataxel
-Osimertinib
-Oxaliplatin
-PARP inhibitor
-Paclitaxel
-Paclitaxel poliglumex
-Pacritinib
-Padeliporfin
-Palbociclib
-Pamiparib
-Panitumumab
-Panobinostat
-Parsaclisib
-Pazopanib
-Pegaspargase
-Pembrolizumab
-Pemetrexed
-Pemigatinib
-Pentostatin
-Pertuzumab
-Pertuzumab/trastuzumab
-Pexidartinib
-Pharmaceutical drug
-Phases of clinical research
-Phosphodiesterase inhibitor
-Phosphoinositide 3-kinase inhibitor
-Photodynamic therapy
-Photosensitizer
-Pi3K inhibitor
-Pipobroman
-Pirarubicin
-Pirtobrutinib
-Pixantrone
-Platelet-derived growth factor receptor
-Platinum-based antineoplastic
-Plicamycin
-Plitidepsin
-Podophyllum peltatum
-Polatuzumab vedotin
-Polyplatillen
-Ponatinib
-Porfimer sodium
-Porphyrin
-Pralatrexate
-Pralsetinib
-Prednimustine
-Proapoptotic
-Procarbazine
-Prohibitin
-Prolgolimab
-Proteasome inhibitor
-Protein kinase inhibitor
-Purine analogue
-Pyrimidine analogue
-Quizartinib
-RET proto-oncogene
-RTK class III
-Rabacfosadine
-Radotinib
-Raltitrexed
-Ramucirumab
-Ranimustine
-Receptor antagonist
-Receptor tyrosine kinase
-Regorafenib
-Repotrectinib
-Retifanlimab
-Retinoid
-Retinoid X receptor
-Revumenib
-Ribociclib
-Ribonucleotide reductase inhibitor
-Ridaforolimus
-Ripretinib
-Rituximab
-Rociletinib
-Romidepsin
-Rubitecan
-Rucaparib
-Ruxolitinib
-S phase
-Sabatolimab
-Sacituzumab govitecan
-Satraplatin
-Seliciclib
-Selinexor
-Selpercatinib
-Selumetinib
-Semaxanib
-Semustine
-Serplulimab
-Sex steroid
-Silatecan
-Sirolimus
-Sitimagene ceradenovec
-Sitravatinib
-Sonidegib
-Sorafenib
-Sotorasib
-Spindle poison
-Src (gene)
-Streptomyces
-Streptozocin
-Streptozotocin
-Sugemalimab
-Sunitinib
-Surufatinib
-Tabelecleucel
-Tafasitamab
-Tagraxofusp
-Talaporfin
-Talazoparib
-Talimogene laherparepvec
-Talquetamab
-Targeted cancer therapy
-Tarlatamab
-Taxane
-Tazemetostat
-Tebentafusp
-Teclistamab
-Tegafur
-Tegafur/gimeracil/oteracil
-Temoporfin
-Temozolomide
-Temsirolimus
-Teniposide
-Tepotinib
-Tesetaxel
-Testolactone
-Thiopurine
-Thiotepa
-Thymidylate synthase inhibitor
-Tiazofurin
-Tiazofurine
-Tigilanol tiglate
-Tioguanine
-Tipifarnib
-Tisagenlecleucel
-Tislelizumab
-Tisotumab vedotin
-Tivozanib
-Toceranib
-Topoisomerase inhibitor
-Topotecan
-Toripalimab
-Tositumomab
-Trabectedin
-Trametinib
-Trastuzumab
-Trastuzumab/hyaluronidase
-Trastuzumab deruxtecan
-Trastuzumab duocarmazine
-Trastuzumab emtansine
-Tremelimumab
-Treosulfan
-Tretinoin
-Triazene
-Triaziquone
-Triethylenemelamine
-Trifluridine
-Trilaciclib
-Trofosfamide
-Tucatinib
-Type II topoisomerase
-Type I topoisomerase
-Tyrosine kinase inhibitor
-Umbralisib
-Uramustine

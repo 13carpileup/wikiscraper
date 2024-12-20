@@ -2,21 +2,12 @@ ACM Computing Classification System
 Algorithm
 Algorithm design
 Algorithmic efficiency
-Amplitude
 Analysis of algorithms
 Application security
 Artificial intelligence
 Automata theory
 Automated planning and scheduling
-Bandwidth-delay product
 Bandwidth (computing)
-Bit
-Bit error rate
-Bit synchronization
-Bitrate
-Clock recovery
-Clock signal
-Communication channel
 Compiler construction
 Computability theory
 Computational biology
@@ -48,18 +39,13 @@ Cross-validation (statistics)
 Cryptography
 Cyberwarfare
 Data mining
-Data stream
 Database
 Decision support system
-Deep Space Network
-Delay-tolerant networking
 Dependability
 Digital art
 Digital library
 Digital marketing
-Digital transmission
 Discrete mathematics
-Distortion
 Distributed artificial intelligence
 Distributed computing
 Document management system
@@ -74,11 +60,9 @@ Electronics
 Embedded system
 Enterprise information system
 Enterprise software
-Expectation value
 Form factor (design)
 Formal language
 Formal methods
-Forward error correction
 Frequency
 Geographic information system
 Graphics processing unit
@@ -96,10 +80,8 @@ Information theory
 Integrated circuit
 Integrated development environment
 Interaction design
-Interference (communication)
 Interpreter (computing)
 Intrusion detection system
-Jitter
 Knowledge representation and reasoning
 Latency (engineering)
 Library (computing)
@@ -109,7 +91,6 @@ Machine learning
 Mathematical analysis
 Mathematical optimization
 Mathematical software
-Measuring network throughput
 Middleware
 Mixed reality
 Model of computation
@@ -124,17 +105,13 @@ Network protocol
 Network scheduler
 Network security
 Network service
-Network traffic measurement
 Networking hardware
-Noise (telecommunications)
 Numerical analysis
-OC-48
 Open-source software
 Operating system
 Operations research
 Optical fiber
 Outline of computer science
-PCI-e
 Parallel computing
 Percentage
 Peripheral
@@ -156,15 +133,9 @@ Real-time computing
 Reinforcement learning
 Rendering (computer graphics)
 Requirements analysis
-Round-trip delay
-Round-trip delay time
-SATA
 Security hacker
 Security service (telecommunication)
 Semantics (computer science)
-Service quality
-Shannon-Hartley Theorem
-Signal
 Social computing
 Social software
 Software configuration management
@@ -184,17 +155,12 @@ Statistics
 Stochastic computing
 Supervised learning
 System on a chip
-TCP acceleration
 Telecommunications
 Theoretical computer science
 Theory of computation
-Throughput
-Transmission Control Protocol
 USB
 Ubiquitous computing
 Unsupervised learning
-User Datagram Protocol
-Velocity factor
 Very Large Scale Integration
 Video game
 Virtual machine

@@ -1,46 +1,30 @@
 3D-Coat
 3D Movie Maker
 3D computer graphics
-3D computer graphics software
 3D model
 3D modeling
-3D rendering
 AC3D
-ACIS
 Amapi
 Arnold (software)
 Autodesk 3ds Max
 Autodesk Alias
-Autodesk Maya
 Autodesk Mudbox
-Autodesk Softimage
 Blackmagic Fusion
 Blender (software)
 Bryce (software)
-C3D Toolkit
 Carrara (software)
 Cinema 4D
 Closed-source
 CloudCompare
-Collaborative real-time editor
-Collada
-Comparison of 3D computer graphics software
-Constructive solid geometry
-Creative Commons
 Cyber Studio
 Daz Studio
 Dynamation (software)
 E-on Vue
 Electric Image Animation System
-FBX
 FreeCAD
-Freemium
 GigaMesh Software Framework
-Gnomon School of Visual Effects
 Golaem Crowd
-HOOPS 3D Graphics System
 HTML5
-HTML element
 Hexagon (software)
 Houdini (software)
 Imagine (3D modeling software)
@@ -48,8 +32,6 @@ IntelliCAD
 JavaScript
 Kerkythea
 KernelCAD
-Key frame
-LightWave 3D
 List of 3D computer graphics software
 List of 3D modeling software
 List of 3D rendering software
@@ -57,38 +39,22 @@ LuxCoreRender
 MASSIVE (software)
 MakeHuman
 MeshLab
-Messiah (software)
-Modo (software)
 MoonRay
 N-World
-Nuke (software)
 Octane Render
 Oculus Medium
 Open-source software
 OpenFX (software)
-OpenSCAD
 Open Cascade Technology
-Ottawa Business Journal
 POV-Ray
-Paint 3D
 Parasolid
-Pixar RenderMan
 Point Cloud Library
-Polygonal modeling
 Poser (software)
-PowerAnimator
 Presto (animation software)
 Registered user
 Remo 3D
-Representational state transfer
-Revision control
-Rhinoceros 3D
-Romulus (modelling kernel)
 Russian Geometric Kernel
 SIGGRAPH
-STL (file format)
-Scene graph
-Sculpt 3D
 Seamless3d
 Shade 3D
 ShapeManager
@@ -96,11 +62,9 @@ Shark 3D
 Silo (software)
 Skeletal animation
 SketchUp
-Sketchfab
 Softimage 3D
 Software
 Source Filmmaker
-Sponza Atrium
 StrataVision 3D
 Strata 3D
 Sweet Home 3D
@@ -108,12 +72,9 @@ Swift 3D
 Teigha
 Terragen
 Texture mapping
-Three.js
 TrueSpace
 TurboSilver
-V-Ray
 VistaPro
-Wavefront .obj file
 Wayback Machine
 WebGL
 Wings 3D

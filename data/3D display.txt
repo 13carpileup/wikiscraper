@@ -1,7 +1,6 @@
 2D-plus-depth
 2D plus Delta
 2D to 3D conversion
-35mm format
 360-degree video
 3D audio effect
 3D camcorder
@@ -10,25 +9,17 @@
 3D television
 4D film
 AMD HD3D
-AMOLED
 ARCore
 ARKit
 ARToolKit
 Accel World
-Accommodation (eye)
 Active shutter 3D system
-Additive color
-Alternate-frame sequencing
-Alternate lighting of surfaces
 AltspaceVR
-Aluminized screen
-Always-on display
 Anaglyph 3D
 Android XR
 AntVR
 Apple Inc.
 Apple Vision Pro
-Asthenopia
 Asynchronous reprojection
 Attack of the Killer App
 Augmented reality
@@ -36,16 +27,11 @@ Autostereogram
 Autostereoscopy
 Avatar (computing)
 Bakelite
-Baraboo, Wisconsin
 Bibcode (identifier)
-Binocular disparity
 Binocular rivalry
 Binocular vision
-Bionic contact lens
 Black Mirror
-Black level
 Blu-ray 3D
-Blue phase mode LCD
 Bob Sproull
 Boštjan Burger
 Brain–computer interface
@@ -54,7 +40,6 @@ Brendan Bradley (actor)
 Brendan Iribe
 Brilliant Labs
 Bubblegram
-CEA-861
 Carolina Cruz-Neira
 CastAR
 Cathode-ray tube
@@ -62,16 +47,8 @@ Char Davies
 Chromostereopsis
 Cinematic virtual reality
 Code Lyoko
-ColorCode 3-D
-Color Light Output
-Comparison of CRT, LCD, plasma, and OLED displays
-Comparison of display technology
-Complementary color
-Computed tomography
-Computer-generated holography
 Computer-mediated reality
 Computer stereo vision
-Convergence (eye)
 Convergence insufficiency
 Correspondence problem
 Cyberith Virtualizer
@@ -81,40 +58,20 @@ Depth perception
 Dieter Schmalstieg
 Digimon
 Digital 3D
-Digital Light Processing
-DisplayID
 Display device
-Display technology
 Doi (identifier)
 Dolby 3D
-Dot-matrix display
-Dynamic range
-E Ink
-Eidophor
-Eight-segment display
 Ela Darling
-Electroluminescent display
 Electromechanics
-Electronic paper
 Elia Petridis
-Emerging technologies
 Epipolar geometry
 Eric Howlett
-Extended Display Identification Data
 Extended reality
 EyeTap
 Eye tracking
 Face tracking
-Ferroelectric liquid crystal display
-Fiber-optic display
-Field-emission display
 Field of view
 Finger tracking
-Flexible display
-Flip-disc display
-Focal length
-Fog display
-Fourteen-segment display
 Foveated rendering
 Fred Brooks
 Free viewpoint television
@@ -129,70 +86,42 @@ Google Glass
 Gundam Build Divers
 Gundam Build Metaverse
 Gunpei Yokoi
-Gyricon
 HTC
 HTC Vive
 Haptic suit
 Head-mounted display
 Head-up display
 Henry Fuchs
-High-dynamic-range television
-History of display technology
 HoloLens 2
 Holodeck
-Holograms
-Holographic display
 Holography
 Horizon Worlds
-IMAX
-IPS panel
 Image-based modeling and rendering
 Immersion (virtual reality)
 Infitec
 Integral imaging
-Integral photography
 Interactive art
-Interferometric modulator display
 Ivan Sutherland
 Jaron Lanier
 Jerome Foster II
 Jetpack Compose
 John Carmack
-Jumbotron
-KMQ viewer
 Khronos Group
 Kinetic depth effect
 Kiss Me First (TV series)
 Kodachrome
 LCD
-LCD shutter glasses
-LED-backlit LCD
-LED display
-LEIA Inc
-Large-screen television technology
-Laser-powered phosphor display
-Laser TV
-Laser lighting display
 Lawrence J. Rosenblum
 Leap Motion
 Lenticular lens
-Light-emitting electrochemical cell
-Light field
-Light field display
-Lightguide display
 Liquid-crystal display
-Liquid-crystal laser
 Liquid Image
-Liquid crystal
-Liquid crystal display
-Liquid crystal on silicon
 List of 3D-enabled mobile phones
 List of HTC Vive games
 List of Meta Quest games
 List of Oculus Rift games
 List of PlayStation VR2 games
 List of PlayStation VR games
-List of emerging technologies
 List of software related to augmented reality
 List of virtual reality headsets
 Magic Leap
@@ -208,33 +137,21 @@ Meta Quest 3S
 Meta Quest Pro
 Metaverse
 Michelle and Uri Kranot
-MicroLED
-Microelectromechanical systems
-Microlens
 Microsoft Corporation
 Microsoft HoloLens
 Ming C. Lin
 Mixed reality
-Monoscope
 Morton Heilig
-Motion parallax
-Movie projector
-Multi-primary color display
 Multiscopy
 Multiview Video Coding
 Myron W. Krueger
-Neon sign
 NeosVR
 Netrunner
 Neuromancer
 New Nintendo 3DS
-Next generation of display technology
 Niantic, Inc.
 Nicole Stenger
-Nine-segment display
 Nintendo 3DS
-Nixie tube
-Non-negative matrix factorization
 Nonny de la Peña
 Nosedive (Black Mirror)
 Nvidia 3D Vision
@@ -252,95 +169,67 @@ OpenVR
 OpenXR
 Open Source Virtual Reality
 Optical head-mounted display
-Optimum HDTV viewing distance
-Organic light-emitting diode
-Organic light-emitting transistor
 PMID (identifier)
 Palmer Luckey
 Panavision 3D
 Pancake lens
-Parallax
 Parallax barrier
 Parallax scanning
 Parallax scrolling
-Percept
 Peripheral vision
 Persistent world
-Perspective (visual)
 Pervasive game
 Philippe Bekaert
 Pico 4
-Pico projector
 Pimax
 Pixel
-Plasma display
 PlayStation Move
 PlayStation VR
 PlayStation VR2
 Playtest (Black Mirror)
 Polarized 3D system
-Polarizing filter
 Pose tracking
-Prism (optics)
 Project Iris
 Projection augmented model
 Pseudoscope
-Psychophysics
-Pulfrich effect
 Quantified self
-Quantum dot display
-Quantum dot laser
 Quest 2
 R. Bowen Loftin
 Razer Hydra
 Ready Player One
 Ready Player One (film)
 Ready Player Two
-RealD
 RealD 3D
 Real life
 Reality Labs
-Rear-projection television
 Rec Room (video game)
-Red Hydrogen One
 Resonite
-Retroreflective sheeting
-Robinzon Kruzo
 Rokoko (company)
 Room-scale
 S2CID (identifier)
 SSSS.Gridman
-Samsung
 Samsung Electronics
 Samsung Gear VR
 Sansar (video game)
 Satya Nadella
-Scan line
 Scott Fisher (technologist)
 Screen-door effect
-Screenless video
-See-through display
 Sega VR
 Sensorama
 Sensorium Corporation
-Seven-segment display
 Sharp Actius RD3D Notebook
-Silver screen
 Simon Birrell
 Simulation hypothesis
 Simultaneous localization and mapping
 Sinespace
 Sir Charles Wheatstone
 Six degrees of freedom
-Sixteen-segment display
 SixthSense
-Slide projector
 Slide viewer
 Smartglasses
 Snow Crash
 Spatial computing
 Specular holography
-Split-flap display
 Stereo camera
 Stereo microscope
 Stereo photography techniques
@@ -350,7 +239,6 @@ Stereographer
 Stereopsis
 Stereopsis recovery
 Stereoscope
-Stereoscopic
 Stereoscopic Displays and Applications
 Stereoscopic acuity
 Stereoscopic depth rendition
@@ -360,39 +248,27 @@ Stereoscopic video coding
 Stereoscopic video game
 Stereoscopy
 Steven K. Feiner
-Subtractive color
 Sundar Pichai
 Superhot
 Superhuman Samurai Syber-Squad
-Superimposed
-Surface-conduction electron-emitter display
 Susumu Tachi
 SwiftUI
 Sword Art Online
-TFT LCD
 Telepresence
-Telescopic pixel display
-Teleview
 Tensor
-Text display
 The Dreamland Chronicles
 The Entire History of You
 The Matrix
 The Matrix (franchise)
 The Sword of Damocles (virtual reality)
-Thick-film dielectric electroluminescent technology
 Thomas A. DeFanti
 Thomas A. Furness III
 Three-dimensional space
-Three dimensional space
 Tim Cook
-Time-multiplexed optical shutter
 Tony Parisi (software developer)
 Transhumanism
 Transparency (projection)
 Tru-Vue
-Twisted nematic field effect
-Ultra-high-definition television
 Unity (game engine)
 Unreal Engine
 VFX1 Headgear
@@ -402,11 +278,9 @@ VRChat
 VR photography
 VTime XR
 VTuber
-Vacuum fluorescent display
 Valve Index
 Varjo
 Vectograph
-Vergence
 Vergence-accommodation conflict
 View-Master
 Virtual Boy
@@ -423,13 +297,11 @@ Virtuality (product)
 Virtuix Omni
 VisionOS
 VisionOS 2
-Visual cortex
 Volumetric display
 Voxel
 Vuforia Augmented Reality SDK
 Vuzix
 Warren Robinett
-Wavefront
 Wayback Machine
 Wearable computer
 WebXR

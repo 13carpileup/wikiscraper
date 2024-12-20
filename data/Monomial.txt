@@ -1,10 +1,6 @@
-Abuse of notation
 Algebraic geometry
-Algebraic group
-Algebraic torus
 Basis (linear algebra)
 Binomial (polynomial)
-Binomial coefficient
 Bivariate polynomial
 Coefficient
 Complex number
@@ -14,69 +10,33 @@ Cubic function
 Degree of a polynomial
 Diagonal matrix
 Discriminant
-Empty product
 Encyclopedia of Mathematics
 European Mathematical Society
 Factorization of polynomials
-Formal power series
-Generalized permutation matrix
-Group action (mathematics)
 Gröbner basis
-Haplology
-Hilbert series
-Homogeneous function
 Homogeneous polynomial
 Horner's method
 ISBN (identifier)
 Irreducible polynomial
-Laurent polynomial
-Laurent series
-Linear combination
 Linear equation
 Linear function (calculus)
-Log-log plot
 Mathematical analysis
 Mathematics
-Monomial basis
-Monomial order
-Monomial ordering
-Monomial representation
-Multi-index notation
-Multicombination
-Multilinear form
-Multiset coefficient
 Multivariate polynomial
-Nonnegative integer
-Pochhammer symbol
 Polynomial
-Polynomial expression
-Polynomial function
 Polynomial greatest common divisor
 Polynomial identity testing
 Polynomial long division
-Polynomial resultant
 Polynomial ring
-Power law
-Prefix
-Puiseux series
 Quadratic equation
 Quadratic function
 Quartic equation
 Quartic function
 Quasi-homogeneous polynomial
 Quintic function
-Rational number
 Septic equation
 Sextic equation
-Sparse polynomial
 Square-free polynomial
-Summand
-Syncope (phonetics)
-Taylor series
-Toric geometry
-Triangular number
 Trinomial
-Univariate polynomial
 Variable (mathematics)
 Vector space
-Zero polynomial

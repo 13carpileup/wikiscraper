@@ -1,84 +1,44 @@
-1000000000 (number)
 AC motor
 AC power
 Albert Einstein
 Alessandro Volta
 Alfred-Marie Liénard
 Alternating current
-Ampere
 Ampère's circuital law
 André-Marie Ampère
-Angular velocity
-Apparent power
-Arc-fault circuit interrupter
-Automatic generation control
-Availability factor
-Backfeeding
-Base load
-Battery (electricity)
-Biofuel
 Biogas
-Biomass
 Biot–Savart law
-Black start
 Bremsstrahlung
-Brownout (electricity)
 Button cell
 Capacitance
-Capacity factor
 Carbon offsets and credits
 Carl Friedrich Gauss
-Cascading failure
 Charge density
 Charles-Augustin de Coulomb
 Charles Proteus Steinmetz
-Chemical energy
-Circuit breaker
 Classical electromagnetism
 Classical electromagnetism and special relativity
-Coal
 Cogeneration
-Combined cycle power plant
-Combustion
 Computational electromagnetics
-Conventional current
-Cooling tower
-Cost of electricity by source
 Coulomb
 Coulomb's law
 Covariant formulation of classical electromagnetism
-Cross product
 Current density
 Cyclotron radiation
 DC motor
-Daniell cell
 Data center
-Demand factor
-Demand response
-Dimensional analysis
 Direct current
 Displacement current
-Distributed generation
 Doi (identifier)
-Donald G. Fink
-Droop speed control
-Dynamic demand (electric power)
-EGRID
-Earth-leakage circuit breaker
 Eddy current
 Electret
-Electric arc furnace
 Electric battery
 Electric charge
-Electric circuit
 Electric current
 Electric dipole moment
-Electric energy consumption
 Electric field
 Electric flux
 Electric generator
-Electric heat
-Electric heater
 Electric light
 Electric machine
 Electric motor
@@ -86,29 +46,15 @@ Electric potential
 Electric potential energy
 Electric power distribution
 Electric power industry
-Electric power quality
-Electric power system
 Electric power transmission
-Electric utility
-Electrical appliance
-Electrical busbar system
-Electrical component
 Electrical conductor
-Electrical efficiency
 Electrical energy
-Electrical fault
-Electrical generator
-Electrical grid
 Electrical impedance
 Electrical network
 Electrical resistance
 Electrical resistance and conductance
 Electrical substation
 Electricity
-Electricity delivery
-Electricity generation
-Electricity retailing
-Electrochemical cell
 Electrolysis
 Electromagnetic field
 Electromagnetic four-potential
@@ -125,50 +71,30 @@ Electrostatics
 Emil Lenz
 Emil Wiechert
 Energy
-Energy demand management
-Energy return on investment
-Energy subsidy
 Environmental tax
 Faraday's law of induction
 Feed-in tariff
-Force
-Fossil fuel phase-out
-Fossil fuel power station
 Four-current
 Franz Ernst Neumann
 Félix Savart
 Gauss's law
 Gauss's law for magnetism
-Generator interlock kit
 Georg Ohm
 George Singer
-Geothermal power
-Grid code
-Grid connection
-Grid energy storage
-Grid strength
 Gustav Kirchhoff
 Gyrator–capacitor model
 Hans Christian Ørsted
-Hearing aid
-Heat engine
 Heinrich Hertz
 Hendrik Lorentz
 Hermann von Helmholtz
-High-voltage cable
 High-voltage direct current
-High-voltage shore connection
 Hippolyte Fizeau
 History of electromagnetic theory
-Home energy storage
 Humphry Davy
-Hydroelectricity
 ISBN (identifier)
 Inductance
-Induction generator
 Induction motor
 Insulator (electricity)
-Interconnector
 J. J. Thomson
 James Clerk Maxwell
 James Prescott Joule
@@ -185,19 +111,13 @@ Kinetic energy
 Kirchhoff's circuit laws
 Larmor formula
 Lenz's law
-Light bulb
 Linear motor
 List of electrical phenomena
-List of electricity sectors
 List of textbooks in electromagnetism
 Liénard–Wiechert potential
-Load-following power plant
-Load factor (electrical)
-Load management
 London equations
 Lord Kelvin
 Lorentz force
-Magnet
 Magnetic circuit
 Magnetic complex reluctance
 Magnetic field
@@ -210,130 +130,52 @@ Magnetism
 Magnetization
 Magnetomotive force
 Magnetostatics
-Mains electricity
 Mains electricity by country
-Marine current power
-Marine energy
 Mathematical descriptions of the electromagnetic field
 Maxwell's equations
 Maxwell's equations in curved spacetime
 Maxwell stress tensor
 McGraw Hill
-Mechanical energy
-Mechanical work
-Merit order
 Metre
 Michael Faraday
-Micro combined heat and power
-Microgeneration
-Nameplate capacity
 Natural gas
-Net metering
 Network analysis (electrical circuits)
 Nikola Tesla
-Non-renewable resource
 Nuclear fission
-Nuclear power
-Numerical relay
-Ocean thermal energy conversion
 Ohm's law
-Oil shale
 Oleg D. Jefimenko
 Oliver Heaviside
 Optics
-Osmotic power
-Overhead power line
-Passive sign convention
-Passivity (engineering)
-Peak demand
 Permeability (electromagnetism)
 Permeance
 Permittivity
-Petawatt-hour
-Petroleum
 Phase (waves)
-Photovoltaic
-Pigouvian tax
 Polarization density
 Positive charge
-Potential energy
-Power-flow study
-Power (physics)
 Power engineering
-Power factor
-Power outage
-Power station
-Power system protection
 Poynting vector
-Primary battery
-Protective relay
-Public utility
-Pumped-storage hydroelectricity
-Pythagorean Theorem
-Rankine cycle
-Reactive power
-Real power
-Rechargeable battery
 Relativistic electromagnetism
-Renewable Energy Certificate (United States)
-Renewable Energy Payments
-Renewable energy
-Renewable energy commercialization
-Repowering
-Residual-current device
-Resistive
 Resonator
 Right-hand rule
-Rolling blackout
-Root-mean-square
 Rotor (electric)
-Routledge
-Rural electrification
-SI
-SI base unit
-SI unit
 Second
-Secondary battery
 Series and parallel circuits
 Siméon Denis Poisson
 Sine wave
-Single-wire earth return
-Smart grid
-Solar power
-Spark spread
 Static electricity
 Stator
-Sulfur hexafluoride circuit breaker
-Super grid
-Surface integral
-Sustainable biofuel
 Synchrotron radiation
-Telephone exchange
 Three-phase electric power
-Tidal power
-Time
-Torque
 Transformer
-Transmission system operator
 Transmission tower
 Triboelectric effect
 United States dollar
 Utility frequency
-Utility pole
-Variable renewable energy
-Vector (geometric)
-Vehicle-to-grid
 Velocity
-Virtual power plant
 Volt
 Voltage
-Voltaic pile
 Watt
-Wave power
 Waveguide (radio frequency)
 Wayback Machine
 Wilhelm Eduard Weber
 William Ritchie (physicist)
-Wind power
-Work (electrical)
-World energy supply and consumption

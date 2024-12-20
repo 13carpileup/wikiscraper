@@ -3,69 +3,44 @@ MPEG-21
 EN 62262
 MPEG-D
 Open Data Protocol
-ISO/IEC 9995
-ISO/IEC 11404
-ISO/IEC 646
 IEC 61131
 MPEG-A
 IEC 60309
 IEC 60929
 IEC 60364
 Universal Coded Character Set
-ISO/IEC 14443
-ISO/IEC 20000
-ECl@ss
 Digital Addressable Lighting Interface
-ISO/IEC 80000
 IEC 62455
 USB
-ISO/IEC 11179
-ISO/IEC 15288
 IEC 60269
 Compact Disc Digital Audio
 IEC 62379
 IO-Link
 Common Logic
-IEC Common Data Dictionary
 IEC 62366
-ISO/IEC 38500
 RKM code
 IEC 60068
 MPEG-7
 Battery nomenclature
 IEC 60601
-ISO/IEC 19788
 19-inch rack
-Industrie 4.0
 IEC 81346
 ECMAScript
 MPEG-H
 IEC 61511
-ISO/IEC 14651
-ISO/IEC 9126
-ISO/IEC 15504
-Ontology (information science)
 OpenDocument
 Graph Query Language
 C Sharp (programming language)
-ISO/IEC 27002
-ISO/IEC 18014
 JPEG 2000
-ISO/IEC 27000-series
 IEC 61030
-ISO/IEC 15693
-ISO/IEC 10967
-ISO/IEC 7811
 IEC 61850
 MPEG-1
-ISO/IEC 9529
 ECMAScript for XML
 Z notation
 AES47
 IEC 60320
 IEC 63110
 Linux Standard Base
-ISO/IEC 8652
 IEC 61162
 Electrical engineering
 Universal Disk Format
@@ -73,15 +48,9 @@ ANSI C
 JBIG
 Common Criteria
 IEC 61334
-ISO/IEC 6523
 RELAX NG
-ISO/IEC 42010
-ISO/IEC 19770
 IEC 61508
 IEC 61883
-ISO/IEC 4909
-IEC 60980-344
-ISO/IEC 7810
 IEC 62682
 IEC 62196
 Fieldbus
@@ -92,47 +61,33 @@ Comparative Tracking Index
 IEC 63382
 PHIGS
 Graphical Kernel System
-ISO/IEC 24744
-ISO/IEC 17025
 IEC 63119
 MPEG-2
-ISO/IEC 21827
 IEC 62304
 IEC 61499
 IEC 61131-3
-ISO/IEC 19752
 Open Document Architecture
 File Allocation Table
 Standardization
 Ada Semantic Interface Specification
 Full BASIC
-ISO/IEC 10021
-ISO/IEC 7816
 IEC 61851
 IEC 62325
 POSIX
-ISO/IEC 17024
-ISO/IEC 10116
-ISO/IEC 29119
 QR code
 Document Style Semantics and Specification Language
 JPEG XL
-ISO/IEC 7812
 Computer Graphics Metafile
 COBOL
 Guidelines for the Definition of Managed Objects
 IEC 62056
-ISO/IEC 5218
 IEC 60870
 IP-XACT
 Mixed raster content
-ISO/IEC 7813
 IEC 61355
 IEC 60027
-ISO/IEC 8859
 IEC 61970
 Universal Remote Console
-Technical standard
 International Standard Identifier for Libraries and Related Organizations
 IEC 61400
 E series of preferred numbers
@@ -143,25 +98,16 @@ IEC 62264
 MPEG-4
 Measurement
 ANSI escape code
-ISO/IEC 27040
 HTML
 CHILL
-ISO/IEC 12207
-ISO/IEC 15897
 ISLISP
 IEC 61968
 IEC 60038
 IEC 60446
-ISO/IEC 2022
 C++
 IEC 62061
 IEC 60870-6
-ISO/IEC 24727
-ISO/IEC 11801
 MHEG-5
 IEC 60906-1
 AES3
-ISO/IEC 33001
-IEC 62351
 IEC 62700
-ISO/IEC 27000

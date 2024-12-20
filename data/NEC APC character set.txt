@@ -13,13 +13,11 @@ A
 ABICOMP character set
 ANSEL
 ANSI escape code
-APC series
 ARIB STD B24 character set
 ASCII
 ASMO 449
 ATASCII
 Ampersand
-Amstrad CP/M Plus character set
 Amstrad CPC character set
 Apostrophe
 Apple II character set
@@ -42,7 +40,6 @@ CDC display code
 CER-GS
 CESU-8
 CNS 11643
-CP/M-86
 CSX+ Indic character set
 CSX Indic character set
 CS Indic character set
@@ -70,17 +67,10 @@ Code page 1019
 Code page 1020
 Code page 1021
 Code page 1023
-Code page 1034
 Code page 1040
 Code page 1042
 Code page 1043
-Code page 1044
 Code page 1046
-Code page 1052
-Code page 1053
-Code page 1054
-Code page 1055
-Code page 1056
 Code page 1058
 Code page 1098
 Code page 1101
@@ -119,7 +109,6 @@ Code page 853
 Code page 855
 Code page 856
 Code page 857
-Code page 858
 Code page 859
 Code page 860
 Code page 861
@@ -136,7 +125,6 @@ Code page 896
 Code page 897
 Code page 899
 Code page 903
-Code page 904
 Code page 912
 Code page 915
 Code page 921
@@ -166,18 +154,12 @@ DG International
 DIN 66003
 DIN 91379
 DKOI
-Dash
-Data link escape
-Delete character
-Device Control 1
 Digital Equipment Corporation
 Digital encoding of APL symbols
 Dollar sign
 E
 EBCDIC
 ELOT 927
-Earth Simulator
-End of transmission character
 Equal sign
 Escape character
 Exclamation mark
@@ -187,8 +169,6 @@ Extended Unix Code
 F
 FOCAL character set
 Fieldata
-File separator
-Form feed
 Fraction (mathematics)
 Full stop
 G
@@ -203,7 +183,6 @@ GSM 03.38
 Galaksija (computer)
 Grave accent
 Greater-than sign
-Group separator
 H
 HP Roman
 HZ (character encoding)
@@ -214,7 +193,6 @@ Hyphen-minus
 I
 IBM AIX
 IBM PC
-IEC-P27-1
 INIS-8
 INIS character set
 ISBN (identifier)
@@ -224,26 +202,6 @@ ISO-IR-182
 ISO-IR-197
 ISO-IR-200
 ISO-IR-68
-ISO/IEC 10367
-ISO/IEC 2022
-ISO/IEC 646
-ISO/IEC 8859
-ISO/IEC 8859-1
-ISO/IEC 8859-10
-ISO/IEC 8859-11
-ISO/IEC 8859-12
-ISO/IEC 8859-13
-ISO/IEC 8859-14
-ISO/IEC 8859-15
-ISO/IEC 8859-16
-ISO/IEC 8859-2
-ISO/IEC 8859-3
-ISO/IEC 8859-4
-ISO/IEC 8859-5
-ISO/IEC 8859-6
-ISO/IEC 8859-7
-ISO/IEC 8859-8
-ISO/IEC 8859-9
 ISO 2033
 ISO 5426
 ISO 5427
@@ -253,7 +211,6 @@ ISO 6862
 ITU T.61
 Indian Script Code for Information Interchange
 Inequality (mathematics)
-Intecolor/Compucolor 8001 character set
 Iran System encoding
 J
 JIS X 0201
@@ -305,7 +262,6 @@ Mac OS Hebrew
 Mac OS Icelandic encoding
 Mac OS Inuit
 Mac OS Keyboard encoding
-Mac OS Maltese/Esperanto encoding
 Mac OS Ogham
 Mac OS Roman
 Mac OS Romanian encoding
@@ -324,26 +280,6 @@ Morse code for non-Latin alphabets
 Multinational Character Set
 N
 NEC
-NEC APC
-NEC Corporation
-NEC Information Systems, Inc.
-NEC PC-100
-NEC PC-9800 series
-NEC ProSpeed
-NEC SX
-NEC SX-1
-NEC SX-2
-NEC SX-3
-NEC SX-4
-NEC SX-5
-NEC SX-6
-NEC SX-7
-NEC SX-8
-NEC SX-9
-NEC SX-ACE
-NEC SX-Aurora TSUBASA
-NEC UltraLite
-NEC Versa
 National Replacement Character Set
 NeXT character set
 Null character
@@ -353,12 +289,6 @@ OML encoding
 OMS encoding
 OT1 encoding
 P
-PC-6000 series
-PC-6600 series
-PC-8000 series
-PC-8800 series
-PC-98
-PC-compatible
 PETSCII
 Percent sign
 Perso-Arabic Script Code for Information Interchange
@@ -373,36 +303,28 @@ Quotation mark
 R
 RISC OS character set
 RPL character set
-Record separator
 Right curly bracket
 Right parenthesis
 Right square bracket
 Russian Morse code
 S
-SAM Coupé character set
 SI 960
 SQUOZE
-SUPER-UX
 Sega SC-3000 character set
 Semicolon
 Sharp MZ character set
 Sharp pocket computer character sets
 Shift JIS
-Shift in
 Sinclair QL character set
 Slash (punctuation)
 Space character
 Standard Compression Scheme for Unicode
-Stanford/ITS character set
 Stanford Extended ASCII
 Substitute character
 Symbol (typeface)
 T
-T.51/ISO/IEC 6937
 TI calculator character sets
-TK-80
 TRON (encoding)
-TRS-80 Model 100
 TRS-80 character set
 Tamil All Character Encoding
 Tamil Script Code for Information Interchange
@@ -450,9 +372,6 @@ Windows-1256
 Windows-1257
 Windows-1258
 Windows-1270
-Windows Cyrillic + Finnish
-Windows Cyrillic + French
-Windows Cyrillic + German
 Windows Polytonic Greek
 Windows code page
 World System Teletext
@@ -465,36 +384,8 @@ ZX80 character set
 ZX81 character set
 ZX Spectrum character set
 ¢
-¯
 °
 ±
-²
-³
-¹
 ½
 ×
 ÷
-˙
-Α
-Β
-Γ
-Δ
-Ε
-Ζ
-Η
-Θ
-Ι
-Κ
-Λ
-Μ
-Ν
-Ξ
-Ο
-Ρ
-Σ
-Τ
-Υ
-Φ
-Χ
-Ψ
-Ω

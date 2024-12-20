@@ -18,7 +18,6 @@ Baggage
 Bail handle
 Banana box
 Bandolier bag
-Barcode printer
 Barcode reader
 Barrel
 Bayong
@@ -37,22 +36,15 @@ Blow molding
 BoPET
 Body bag
 Boil-in-bag
-Book bag
 Bota bag
 Bottle
-Bottling line
 Box
 Box wine
 Briefcase
-Bubble wrap
-Bug-out bag
-Bugout bag
 Bulk box
-Bung
 Burn bag
 Cage
 Calender
-Can collecting
 Can seamer
 Canning
 Canoe pack
@@ -70,18 +62,14 @@ Check weigher
 Child-resistant packaging
 Chub (container)
 Clamshell (container)
-Closed-loop box reuse
 Closure (container)
 Coated paper
-Coating
-Coextrusion
 Coffee bag
 Coin purse
 Container
 Container glass
 Containerization
 Contract packager
-Converting
 Conveyor system
 Corona treatment
 Corrugated box design
@@ -91,8 +79,6 @@ Cosmetic packaging
 Cowboy bedroll
 Crate
 Currency packaging
-Curtain coating
-Cushioning
 Desiccant
 Diaper bag
 Die cutting (web)
@@ -101,12 +87,9 @@ Dillybag
 Diplomatic bag
 Disposable cup
 Disposable food packaging
-Doggy bag
 Dosage form
 Double seam
-Dow Chemical Company
 Drink can
-Dromedary bag
 Drum (container)
 Drum pump
 Dry bag
@@ -120,7 +103,6 @@ Endcap
 Envelope
 Environmental engineering
 Euro container
-Evening bag
 Evidence packaging
 Extended core stretch wrapper
 Extrusion
@@ -138,23 +120,18 @@ Flour sack
 Foam food container
 Foam peanut
 Folding carton
-Food packaging
 Fuel bladder
 Fuel container
 Gaji bag
-Gamow bag
 Garment bag
 Gas cylinder
-Gel pack
 Gig bag
 Gladstone bag
 Glass bottle
 Glass milk bottle
 Glass production
 Glass recycling
-Golf bag
 Graphic design
-Grocery bag
 Growler (jug)
 Gucci Diana
 Gunny sack
@@ -179,10 +156,8 @@ Injection moulding
 Insulated shipping container
 Intermediate bulk container
 It bag
-Jar
 Jerrycan
 Jug
-Juicebox (container)
 Keg
 Kelly bag
 Kinchaku
@@ -197,38 +172,30 @@ Life-cycle assessment
 Lightweight Rucksack
 Linear low-density polyethylene
 Lineshaft roller conveyor
-Liquid packaging board
 Litter
-Living hinge
 Logistics automation
 Low-density polyethylene
 Low plastic water bottle
 Luxury packaging
 Mail bag
-Mail pouch
-Mail sack
-Mail satchel
 Mashk
 Material-handling equipment
 Meat absorbent pad
 Mechanical brake stretch wrapper
 Medical bag
 Medicine bag
-Mesh bag
 Messenger bag
 Metallised film
 Microwave popcorn
 Milk bag
 Minaudière
 Modified atmosphere
-Modified atmosphere/modified humidity packaging
 Molded pulp
 Molding (process)
 Money bag
 Multi-pack
 Multihead weigher
 Multilayered packaging
-Nomadic bag
 Nonwoven fabric
 Norfolk cases
 Nuclear briefcase
@@ -237,13 +204,10 @@ Orbital stretch wrapper
 Overpackaging
 Overwrap
 Oxygen scavenger
-Oyster pail
 PET bottle recycling
 Pack basket
 Package delivery
 Package handle
-Package pilferage
-Package testing
 Package theft
 Package tracking
 Packaging
@@ -255,27 +219,22 @@ Packet (container)
 Padded envelope
 Pail (container)
 Pallet
-Pallet inverter
 Palletizer
 Paper
 Paper bag
 Paper pallet
 Paper recycling
-Paper sack
 Paperboard
 Papermaking
 Parfleche
 Pasiking
 Pastry bag
-Pharmaceutical packaging
 Pipe bag
-Plastic-coated paper
 Plastic bag
 Plastic bottle
 Plastic extrusion
 Plastic film
 Plastic milk container
-Plastic pallet
 Plastic recycling
 Plastic shopping bag
 Plastic welding
@@ -284,12 +243,9 @@ Polyester
 Polyethylene
 Polypropylene
 Pony Express mochila
-Poop bag
 Portmanteau (luggage)
-Portmanteau (mail)
 Pressure-sensitive tape
 Printing
-Product development
 Production control
 Pump dispenser
 Purdue Improved Crop Storage bags
@@ -312,7 +268,6 @@ Sabretache
 Sachet
 Saddlebag
 Salvage drum
-Sand bag
 Sandbag
 Satchel
 Schultüte
@@ -324,7 +279,6 @@ Security printing
 Security tape
 Seed-counting machine
 Self-heating food packaging
-Shearing (manufacturing)
 Shelf-ready packaging
 Shelf-stable food
 Shelf life
@@ -342,7 +296,6 @@ Single-serve coffee container
 Skin pack
 Sleeping bag
 Slip sheet
-Source reduction
 Sporran
 Spray bottle
 Spray paint
@@ -352,18 +305,15 @@ Staple (fastener)
 Staple gun
 Steel and tin cans
 Strapping
-Stretch wrap
 String bag
 Stuff sack
 Suitcase
-Survival bag
 Susceptor
 Sustainable packaging
 Swag (bedroll)
 Takiding
 Tamper-evident band
 Tamper-evident technology
-Tamper resistance
 Tape dispenser
 Tear tape
 Temperature data logger
@@ -379,7 +329,6 @@ Toothpaste pump dispenser
 Tote bag
 Track and trace
 Train case
-Trash bag
 Travel pack
 Trunk (luggage)
 Tub (container)
@@ -403,5 +352,3 @@ Wineskin
 Wired (magazine)
 Wooden box
 Wrap rage
-Ziploc
-Zipper

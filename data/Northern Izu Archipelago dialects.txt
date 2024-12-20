@@ -10,12 +10,10 @@ Bingo dialect
 Bonin English
 Braille kanji
 Chikuzen dialect
-Chūgoku dialect
 Classical Japanese
 Cyrillization of Japanese
 Early Middle Japanese
 Early Modern Japanese
-Eastern Japanese
 Eastern Old Japanese
 Enclosed CJK Letters and Months
 Enclosed Ideographic Supplement
@@ -23,13 +21,11 @@ Engrish
 Extended Unix Code
 Extended shinjitai
 Furigana
-Gairaigo
 Gender differences in Japanese
 Glossary of Japanese words of Dutch origin
 Glossary of Japanese words of Portuguese origin
 Go-on
 Gojūon
-Grammar
 Gunma dialect
 Hachijō grammar
 Hachijō language
@@ -43,17 +39,11 @@ Hiragana
 Hiragana (Unicode block)
 Historical kana orthography
 Hokkaido dialects
-Hokuriku dialect
 Honorific speech in Japanese
-Honshu
-Hōnichi dialect
-ISO/IEC 2022
 ISO 639-3
 Ibaraki dialect
 Inshū dialect
 Iyo dialect
-Izu Islands
-Izu Ōshima
 JIS X 0201
 JIS X 0208
 JIS X 0211
@@ -64,7 +54,6 @@ Japan
 Japanese-based creole languages
 Japanese Braille
 Japanese adjectives
-Japanese books
 Japanese counter word
 Japanese dialects
 Japanese dictionary
@@ -85,7 +74,6 @@ Japanese pronouns
 Japanese punctuation
 Japanese script reform
 Japanese sound symbolism
-Japanese verb conjugation
 Japanese writing system
 Japonic languages
 Jōdai Tokushu Kanazukai
@@ -102,7 +90,6 @@ Kanazukai
 Kanbun
 Kanji
 Kansai dialect
-Kantō dialect
 Katakana
 Katakana (Unicode block)
 Katakana Phonetic Extensions
@@ -114,21 +101,16 @@ Kumamoto dialect
 Kunigami language
 Kunrei-shiki romanization
 Kyowa-go
-Kōzu-shima
-Language family
 Late Middle Japanese
 List of Japanese speculative fiction writers
 List of Japanese writers
 List of classical Japanese texts
-List of kanji by stroke count
 List of kanji radicals by frequency
 List of kanji radicals by stroke count
 Logogram
 Man'yōgana
 Mikawa dialect
-Mikura-jima
 Mino dialect
-Miyake-jima
 Miyakoan language
 Modern kana usage
 Nagaoka dialect
@@ -138,12 +120,10 @@ Nairiku dialect
 Nanbu dialect
 Narada dialect
 Nihon-shiki romanization
-Nii-jima
 Northern Ryukyuan languages
 Nyōbō kotoba
 Okinawan Japanese
 Okinawan language
-Okinoerabu language
 Okurigana
 Okuyoshino dialect
 Old Japanese
@@ -156,17 +136,14 @@ Ryukyuan languages
 Saga dialect
 Sanuki dialect
 Shift JIS
-Shikine-jima
 Shikoku dialect
 Shizuoka dialect
 Sino-Japanese vocabulary
 Small Kana Extension
 Southern Amami Ōshima language
 Southern Ryukyuan languages
-Standard Japanese
 Sōgana
 Tarama language
-To-shima, Tokyo
 Tochigi dialect
 Tokunoshima language
 Tokyo
@@ -179,14 +156,12 @@ Tsugaru dialect
 Tsushima dialect
 Tō-on
 Tōhoku dialect
-Tōkai–Tōsan dialect
 Umpaku dialect
 Wasei-eigo
 Wasei-kango
 Wāpuro rōmaji
 Yaeyama language
 Yakuwarigo
-Yamato kotoba
 Yilan Creole Japanese
 Yokohama Pidgin Japanese
 Yonaguni language

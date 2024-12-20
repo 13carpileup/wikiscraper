@@ -1,759 +1,151 @@
-1-bit computing
-12-bit computing
-128-bit computing
-16-bit computing
-24-bit computing
-256-bit computing
-32-bit computing
 4-bit computing
-48-bit computing
-512-bit computing
 64-bit computing
-8-bit computing
-ACPI
 AC power plugs and sockets
-AFIPS
-AI accelerator
-AMD
-AMD Accelerated Processing Unit
-AMULET microprocessor
-ARM architecture family
 Abstract machine
-Acorn tube
-Adapteva
-Adder (electronics)
-Address decoder
-Address generation unit
-Addressing mode
-Advanced Power Management
-Alternating Turing machine
-AltiVec
-Analogue electronics
-Antifuse
-Apollo Guidance Computer
-Application-specific instruction set processor
-Application-specific integrated circuit
-Arbitrary-precision arithmetic
 Arithmetic
-Arithmetic logic unit
-Arithmetic operation
-Arithmetic–logic unit
-Arm Holdings
-Array element
-Asynchronous circuit
-Athlon 64 X2
-Atmel AVR
-Audio and video interfaces and connectors
-Audion
-Avalanche diode
-Backward-wave oscillator
-Balanced ternary
-Ballistic Research Laboratory
-Bank switching
-Barrel processor
-Barrel shifter
-Baseband processor
-Beam deflection tube
-Beam tetrode
-Benchmark (computing)
-BiCMOS
-Binary decoder
-Binary multiplier
-Binary numeral system
-Bio-FET
-Bipolar junction transistor
-Bit
 Bit-level parallelism
-Bit-serial architecture
-Bit shift
-Bit slicing
-Bitwise logic
 Bitwise operation
-Blu-ray
 Boolean algebra
-Boolean circuit
-Boost converter
-Branch prediction
-Branch predictor
-Branch target predictor
-Buck converter
-Buck–boost converter
 Bus (computing)
-CMOS
 CPU
-CPU cache
-CPU cooling
-CPU core voltage
-CPU cycle
-CPU design
-CPU modes
-CPU multiplier
-CPU power dissipation
-CPU socket
 Cache (computing)
 Cache coherence
-Cache hierarchy
-Cache performance measurement and metric
-Cache replacement policies
 Capacitor
-Capacitor types
 Cathode-ray tube
-Cavity magnetron
-Cell (microprocessor)
-Cellular architecture
 Cellular automaton
-Ceramic resonator
-Charactron
-Charge pump
-Chemical field-effect transistor
-Chip carrier
-Circuit (computer science)
-Circuit minimization for Boolean functions
-Classic RISC pipeline
-Clipper architecture
-Clock gating
-Clock rate
-Clock signal
 Cloud computing
-Cognitive computing
-Cold cathode
-Combinational logic
 Compact disc
-Compactron
-Comparison of instruction set architectures
-Complex instruction set computer
-Complex programmable logic device
 Computer
 Computer History Museum
 Computer architecture
-Computer case
 Computer cluster
 Computer data storage
 Computer engineering
 Computer hardware
 Computer keyboard
 Computer memory
-Computer monitor
-Computer mouse
-Computer performance
-Computer performance by orders of magnitude
-Computer port (hardware)
 Computer program
-Computer speakers
-Constant-current diode
-Control flow
-Control hazard
-Control unit
-Cooperative multitasking
 Coprocessor
-Counter (digital)
-Counter machine
 Cray
-Cray-1
-Crossatron
-Crossed-field amplifier
 Cryptography
-Crystal oscillator
-Cycles per instruction
-Cypress PSoC
 DEC Alpha
-DIAC
 DVD
-Darlington transistor
-Data (computing)
-Data buffer
-Data cache
 Data dependency
 Data parallelism
-Data processing unit
 Dataflow architecture
-Datapath
-Datapoint
 Decimal
-Dekatron
-Demultiplexer
-Depletion-load NMOS logic
-Deterministic finite automaton
-Die (integrated circuit)
-Diffused junction transistor
 Digital Equipment Corporation
-Digital Visual Interface
 Digital audio
-Digital cinematography
-Digital electronics
-Digital photography
-Digital potentiometer
-Digital radio
-Digital signal
-Digital signal (signal processing)
-Digital signal processing
-Digital signal processor
 Digital television
-Digital video
-Diode
-Direct memory access
-Directory-based coherence protocols
-Discrete components
-Disk pack
-DisplayPort
-Distributed architecture
 Doi (identifier)
 Dot product
-Dynamic frequency scaling
-Dynamic random-access memory
-Dynamic voltage scaling
-EDVAC
-EFUSE
-ENIAC
-ETRAX CRIS
-Electrical reactance
-Electrolytic detector
 Electromagnetic radiation
-Electromigration
-Electronic circuit
 Electronic component
-Electronic literature
-Electronic oscillator
-Electronic visual display
-Electronics design
 Embarrassingly parallel
-Embedded computer
 Embedded system
-Emitter-coupled logic
-Endianness
-Erasable programmable logic device
 Ethernet
-Execution unit
-Expansion card
-Explicit data graph execution
-Explicitly parallel instruction computing
-External bus
-FIFO (computing and electronics)
-FLOPS
-Fabric computing
-False sharing
-Fax modem
-Federico Faggin
-Ferrite core
-Field-effect transistor
 Field-programmable gate array
-Field-programmable object array
-FinFET
 Finite-state machine
-Finite-state machine with datapath
-First Draft of a Report on the EDVAC
-Flash memory
-Fleming valve
-Flip-flop (electronics)
-Floating-gate MOSFET
-Floating-point arithmetic
-Floating-point unit
 Floppy disk
 Flynn's taxonomy
-Formal equivalence checking
 Fred Brooks
-Fujitsu
-Fuse (electrical)
-Game controller
-Game port
-Gas-filled tube
-Gate array
-Gate equivalent
-Gene Amdahl
 General-purpose computing on graphics processing units
-Generic Array Logic
-Gerrit Blaauw
-Glue logic
-Gordon Moore
-Granularity (parallel computing)
-Graphics card
 Graphics processing unit
-Graphics tablet
-Gunn diode
-Gyrotron
-HDMI
 Hard disk drive
 Hardware acceleration
-Hardware cache
-Hardware description language
-Hardware performance counter
-Hardware register
 Hardware security module
-Hardwired control unit
-Harvard Mark I
-Harvard architecture
-Haswell (microarchitecture)
-Hazard (computer architecture)
-Heat dissipation
-Heat pipe
 Hertz
-Heterogeneous System Architecture
-Heterogeneous computing
-Heterostructure barrier varactor
-Hierarchical state machine
-High-level synthesis
-History of computing hardware
-History of computing hardware (1960s–present)
-History of general-purpose CPUs
-Hot-wire barretter
 HowStuffWorks
-Hybrid integrated circuit
-Hyper-threading
-Hypercomputation
-IA-32
-IA-64
 IBM
-IBM POWER architecture
-IBM System/360
-IBM System/360 Model 30
-IBM System/360 Model 40
-IBM System/360 architecture
-IBM System/370
-IBM System/390
-IBM System z
-IBM z13 (microprocessor)
-IEEE 1394
-IEEE Transactions on Computers
 ISBN (identifier)
-ISFET
 ISSN (identifier)
-Iconoscope
-Ignitron
-Image processor
-Image scanner
-Inductive output tube
 Inductor
-Input/output
-Input device
 Institute of Electrical and Electronics Engineers
 Instruction-level parallelism
-Instruction (computing)
-Instruction cache
-Instruction cycle
-Instruction decoder
 Instruction pipelining
 Instruction set architecture
-Instruction unit
 Instructions per cycle
-Instructions per second
-Insulated-gate bipolar transistor
-Integer arithmetic operation
 Integrated circuit
 Intel
-Intel 4004
-Intel 80486DX2
-Intel 8080
-J. Presper Eckert
-JFET
-John William Mauchly
-John von Neumann
-Kibibyte
-Klystron
-Konrad Zuse
-Krytron
-LDMOS
-Large-scale integration
-Laser diode
-Light-emitting diode
-Light-emitting transistor
-Light emitting capacitor
-Light pen
-Linear regulator
-List of Intel Xeon processors (Core-based)
-List of pioneers in computer science
-Little man computer
-Load–store architecture
-Load–store unit
 Logic gate
 Logic in computer science
-Logic synthesis
-Low-dropout regulator
-M32R
-MIPS-X
 MIPS architecture
-MMX (instruction set)
-MOSFET
-MOS integrated circuit
-Machine instruction
-Macrocell array
-Magic eye tube
-Magnetic-core memory
-Main memory
 Mainframe computer
-Manchester Baby
-Manchester Mark 1
 Manycore processor
 Maser
-Mebibyte
-Memistor
 Memory-level parallelism
-Memory (computers)
-Memory address
-Memory address register
-Memory buffer register
 Memory card
-Memory cell (computing)
-Memory controller
-Memory dependence prediction
 Memory hierarchy
-Memory location
-Memory management unit
-Memory protection
-Memristor
-Memtransistor
-Mercury-arc valve
-Mercury relay
-Metal-oxide varistor
-Metastability (electronics)
-Michael J. Flynn
-MicroBlaze
 Microarchitecture
-Microcode
 Microcontroller
-Microelectronic
 Microphone
 Microprocessor
-Microprocessor chronology
-Microprogram
 Minicomputer
-Minimal instruction set computer
-Mixed-signal integrated circuit
-Mobile processor
 Model of computation
-Modified Harvard architecture
-Modulo operation
-Monoscope
-Moore's law
-Moore School of Electrical Engineering
-Motherboard
-Motorola 68000
-Motorola 68000 series
-Motorola 68010
-Multi-chip module
-Multi-core processor
-Multigate device
-Multimedia
-Multimedia Acceleration eXtensions
 Multiple instruction, multiple data
 Multiple instruction, single data
-Multiplexer
 Multiprocessing
-Multiprocessor system on a chip
 Multithreading (computer architecture)
-NMOS logic
 NOR gate
-NVM Express
-Nanometre
-Neon lamp
-Network interface controller
-Network on a chip
-Network processor
-Neuromorphic engineering
-Neutron generator
-Nixie tube
-No instruction set computing
 Non-uniform memory access
-Nondeterministic Turing machine
-Nonode
-Nonvolatile BIOS memory
-Numeral system
-Nuvistor
 OLED
-One-instruction set computer
-Opcode
-OpenRISC
-Operand
-Operand forwarding
-Operands
 Operating system
-Opteron
 Optical disc
-Optical mouse
-Optical trackpad
-Organic field-effect transistor
-Organic light-emitting transistor
-Organic semiconductor
-Orthogonal instruction set
-Out-of-order execution
-Output device
-P5 (microarchitecture)
-P6 (microarchitecture)
-PDP-10
-PDP-11
 PDP-11 architecture
-PDP-8
-PIN diode
-PMOS logic
-POWER4
-POWER5
-PS/2 port
-Package on a package
-Paging
 Parallel computing
-Parallel port
-Parametron
-Parasitic capacitance
-Pentagrid converter
-Pentium
-Pentium 4
-Pentode
-Pentode transistor
-Perf (Linux)
-Performance per watt
 Peripheral
 Personal computer
-Phone connector (audio)
-Photodetector
-Photodiode
-Photomultiplier tube
-Phototube
-Physics processing unit
-Pin grid array
-Pipeline stall
-Place and route
-Placement (electronic design automation)
 PlayStation 3
-Plotter
-Point-contact transistor
-Pointer machine
-Pointing device
 Pointing stick
-Pool (computer science)
-Post–Turing machine
-Potentiometer
-PowerPC
-Power ISA
-Power MOSFET
-Power Management Unit
 Power management
-Power management integrated circuit
-Power supply unit (computer)
 Preemption (computing)
 Printed circuit board
-Printed electronics
 Printer (computing)
-Probabilistic Turing machine
 Process (computing)
 Processor (computing)
-Processor core
-Processor design
-Processor register
-Program counter
-Programmable Array Logic
-Programmable logic array
-Programmable logic device
-Programmable unijunction transistor
-Propagation delay
-Protection ring
-Punched card
-Punched tape
-Quantum Turing machine
-Quantum cellular automaton
-Quantum circuit
 Quantum computer
-Quantum computing
-Quantum logic gate
-Queue automaton
-RF CMOS
-RF connector
-RISC-V
-ROM image
 Random-access machine
-Random-access memory
-Random-access stored-program machine
-Re-order buffer
 Reduced instruction set computer
-Reed relay
 Refreshable braille display
-Register-transfer level
-Register file
-Register machine
-Register renaming
-Register–memory architecture
-Relay
 Removable media
-Reservation station
-Resettable fuse
-Resistor
-Return-oriented programming
-Routing (electronic design automation)
-Runt pulse
 S2CID (identifier)
-SATA
-SIMD
 SPARC
-SPECint
-SUPS
-SWAR
-Sandy Bridge (microarchitecture)
 Scalar (mathematics)
-Scalar processor
-Schottky diode
-Scientific computing
 Scoreboarding
-Scratchpad memory
-Secondary storage
-Secure cryptoprocessor
-Selectron tube
-Semiconductor
 Semiconductor device
-Semiconductor device fabrication
-Semiconductor manufacturing process
-Sequential logic
 Serial ATA
 Serial port
-Sigreturn-oriented programming
-Silicon-gate
-Silicon controlled rectifier
 Simultaneous and heterogeneous multithreading
 Simultaneous multithreading
-Single-core
-Single-ended primary-inductor converter
 Single instruction, multiple data
 Single instruction, multiple threads
 Single instruction, single data
-Single program, multiple data
-Soft microprocessor
-Softcam
 Software
-Solaristor
 Solid-state drive
-Solid-state hybrid drive
-Solid Logic Technology
-Sony Vaio E series
-Sound card
-Sound chip
-Speculative execution
 Speculative multithreading
-Split-pi topology
 Square wave
-Stack machine
-Stack register
-Stanford MIPS
-Static induction thyristor
-Static induction transistor
-Static random-access memory
-Status register
-Step recovery diode
-Storage tube
-Stored-program computer
 Stream processing
-Streaming SIMD Extensions
-Structural hazard
-Subroutine
-Subthreshold leakage
-Sum-addressed decoder
-SuperH
-Supercomputer
-Superscalar
 Superscalar processor
-Supervisor mode
-Sutton tube
-Switch
-Switched-mode power supply
-Switched capacitor
-Switching circuit theory
-Switching regulator
 Symmetric multiprocessing
-Synchronous circuit
-System/360
-System/370
-System in a package
 System on a chip
-TRIAC
-TRIPS architecture
-Task-level parallelism
 Task parallelism
-Telephony
 Temporal multithreading
-Tensor Processing Unit
-Tetrode
-Tetrode transistor
-The Johns Hopkins University Press
-Thermistor
-Thin-film transistor
 Thread (computing)
-Three-dimensional integrated circuit
-Throughput
-Thunderbolt (interface)
-Thyratron
-Thyristor
-Tick–tock model
-Tile processor
-Tomasulo's algorithm
-Touchpad
-Touchscreen
-Tracing (software)
-Trackball
-Trancitor
-Transaction-level modeling
-Transaction processing
-Transactional memory
-Transactions per second
 Transformer
-Transistor
-Transistor computer
-Transistor count
-Transistor–transistor logic
-Translation lookaside buffer
-Transport triggered architecture
-Traveling-wave tube
-Trigatron
-Triode
-Trochotron
-True Performance Index
 Turing machine
 USB
 USB flash drive
-Ultra-low-voltage processor
-UltraSPARC T1
-Uncore
-Unicore
 Uniform memory access
-Unijunction transistor
-Universal Turing machine
 University of Manchester
 University of Pennsylvania
 VAX
-VGA connector
-VISC architecture
-VMOS
-Vacuum-tube computer
-Vacuum diode
 Vacuum tube
-Variable capacitor
-Varicap
-Varistor
-Vector (geometric)
 Vector processor
-Very long instruction word
-Video camera tube
 Video game console
-Virtual memory
-Virtualization
-Vision processing unit
 Volt
 Voltage
-Voltage-regulator tube
-Voltage regulator
-Voltage regulator module
-Von Neumann architecture
-Wait state
-Webcam
-Wide-issue
-Williams tube
-Wire
-Wollaston wire
 Word (computer architecture)
-Word (data type)
-Write buffer
 X-ray tube
 X86
-X86-64
 Xbox 360
-Xenon (processor)
-Z/Architecture
 Zener diode
-Zeno machine
-Zero instruction set computer
-Ćuk converter

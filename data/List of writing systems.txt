@@ -1,147 +1,74 @@
 1829 braille
 ASCII
-ASL-phabet
 ASLwrite
 Abjad
 Abjad numerals
-Abkhaz language
 Abkhazia
 Abugida
 Accessible publishing
 Adinkra symbols
 Adlam script
 Afaka syllabary
-Afar language
 Afghanistan
 Africa
-Ahom alphabet
 Ahom script
-Ainu language
-Akkadian cuneiform
 Akkadian language
-Alak language
 Albanian Braille
-Albanian language
 Algeria
 Algerian Braille
-Algonquian languages
 Alphabet
-Alphabets of Asia Minor
 American Braille
-American Manual Alphabet
-American Morse code
 American Printing House for the Blind
 American Sign Language
-American manual alphabet
-Americanist phonetic notation
-Amharic
-Amharic language
-Anatolian hieroglyph
 Anatolian hieroglyphs
 Ancient Egypt
 Ancient North Arabian
 Ancient South Arabian script
-Ancient text corpora
 Anglo-Saxon runes
 Arabic
 Arabic Braille
 Arabic alphabet
 Arabic diacritics
 Arabic script
-Aramaic
 Aramaic alphabet
-Aramaic language
-Arcadocypriot Greek
 Archaic Greek alphabets
 Ariyaka script
-Armenia
 Armenian Braille
 Armenian alphabet
 Armenian language
-Armenian script
-Asomtavruli
 Assamese alphabet
-Assamese language
-Assyrian Neo-Aramaic
-Assyrian cuneiform
-Ath (alphabet)
-Athabaskan languages
 Attic numerals
-Augmentative and Alternative Communication
-Aurebesh
 Australia
 Austria
-Austroasiatic language
-Austronesian languages
-Avar language
-Avestan
 Avestan alphabet
-Avestan language
 Avoiuli
-Azerbaijan
-Azerbaijani language
-Azeri Braille
-Azeri language
 Aztec script
 Back vowel
-Badaga language
 Bagam script
-Bahnaric languages
 Bahrain
-Balinese alphabet
 Balinese script
-Balochi language
 Baltic languages
-Baluchi language
-Bambara language
-Bamum language
 Bamum script
 Bangladesh
-Banpo symbols
-Bantawa language
-Bantu languages
-Bassa Vah script
-Bassa language
-Bassa script
-Batak (Indonesia)
 Batak script
 Baybayin
-Belarus
 Belarusian Braille
 Belarusian language
 Beneventan script
 Bengali Braille
 Bengali alphabet
-Bengali language
 Bengali–Assamese script
-Berber languages
-Bhaiksuki alphabet
 Bhaiksuki script
 Bharati Braille
 Bharati script
 Bhattiprolu script
-Bhojpuri language
 Bhujimol script
-Bhumij language
-Bhutan
-Bikol languages
-Bilabial consonant
 Bird-worm seal script
-Bishnupriya Manipuri language
 Blackfoot language
 Blackletter
 Blissymbols
-Bohol
-Book Pahlavi
 Bopomofo
-Borama script
-Bosnia
-Bosnia and Herzegovina
 Bosnian Cyrillic
-Bosnian cyrillic
-Bosnian language
-Bowen script
-Boyd's Syllabic Shorthand
 Boyd's syllabic shorthand
 Brahmi script
 Brahmic scripts
@@ -159,93 +86,48 @@ Braille music
 Braille technology
 Braille translator
 Braille watch
-Brunei
-Brythonic languages
-Brāhmī script
 Buda script
-Buginese language
 Buhid script
-Bulgaria
 Bulgarian Braille
 Bulgarian language
 Burmese Braille
 Burmese alphabet
-Burmese language
-Burmese script
-Byblos
 Byblos syllabary
 Bété syllabary
-Cambodia
-Camunic language
-Canaan
 Canada
 Canadian Aboriginal syllabics
 Canadian currency tactile feature
 Cantonese Braille
 Carian alphabets
-Carian language
 Carolingian minuscule
-Carrier language
 Carrier syllabics
 Catalan Braille
-Catalan manual alphabet
-Caucasian Albanian alphabet
-Caucasian Albanian language
 Caucasian Albanian script
-Celtiberian language
 Celtiberian script
 Celtic languages
 Central Asia
-Chad
-Chakma alphabet
-Chakma language
 Chakma script
-Chaldean Neo-Aramaic
-Cham alphabet
 Cham script
 Charles Barbier
-Chechen language
-Cherokee language
 Cherokee syllabary
-Chichewa
-Chilean manual alphabet
 China
 Chinese bronze inscriptions
-Chinese character
 Chinese characters
 Chinese family of scripts
 Chinese language
-Chinese manual alphabet
-Chipewyan language
-Chittagonian language
-Chorasmian (Unicode block)
-Chorti language
-Chu Han
-Chu Nom
 Chữ Nôm
-Cia-Cia language
 Cipher runes
 Cirth
-Classic Maya language
 Clear Script
 Coelbren y Beirdd
 Commonwealth of Nations
 Comoros
 Computer Braille Code
 Consonant
-Constructed script
 Coorgi–Cox alphabet
-Coptic alphabet
-Cree language
-Cree syllabics
 Cretan hieroglyphs
-Croatian language
-Cued speech
 Cuneiform
-Cuneiform Luwian
-Cuneiform script
 Cursive Hebrew
-Cushitic languages
 Cypriot syllabary
 Cypro-Minoan syllabary
 Cyprus
@@ -253,60 +135,31 @@ Cyrillic
 Cyrillic alphabets
 Cyrillic script
 Czech Braille
-Czech language
-D'ni language
-Dadanitic
-Dai people
 Dalecarlian runes
 Decapoint
 Demotic (Egyptian)
-Demotic Egyptian
 Denmark
 Deseret alphabet
 Devanagari
 Devanagari Braille
 Dham script
-Dhimal language
-Dhivehi language
 Dhives Akuru
 Diacritic
 Diacritical mark
-Diacritics
 Ditema tsa Dinoko
 Djibouti
 Dogri script
-Dongba script
 Dongba symbols
-Dorabella cipher
-Dravidian language
-Dumaitic
 Dunging script
-Duployan Shorthand
 Duployan shorthand
 Dutch Braille
 Dutch language
-Dutch manual alphabet
-Dyula language
-Dzongkha
 Dzongkha Braille
 Early Cyrillic alphabet
-Eastern Asia
-Eastern Pwo language
-Eastern Slavic languages
-Eastern South Slavic
 Eclectic shorthand
-Education in Burma
-Efik language
-Eghap script
 Egypt
-Egyptian hieroglyph
 Egyptian hieroglyphs
-Egyptian language
-Ekoid languages
-Elam
 Elamite cuneiform
-Elamite language
-Elbasan script
 Elder Futhark
 Elifba alphabet
 Elymaic
@@ -316,184 +169,98 @@ English language
 Enochian
 Eritrea
 Ersu Shaba script
-Ersu language
 Eskayan script
 Espanca script
 Esperanto Braille
 Estonian Braille
-Estonian language
-Eteocretan
 Ethiopia
-Ethiopian manual alphabet
-Ethnic Groups of Palawan
 Etruscan alphabet
-Etruscan language
-Evenki alphabet
-Eveyla Akuru
 Fakkham script
 Faroese Braille
-Featural alphabet
-Featural writing system
 Fiji
-Filipino language
-Fingerspelling
 Finland
-Finnish Language
 Flag semaphore
 Fox language
 Fraktur
-Fraser alphabet
 Fraser script
 French Braille
 French language
-French manual alphabet
-Fricative consonant
-Fula alphabets
-Fula language
 Gabelsberger shorthand
-Gadabuursi Somali script
 Gaelic type
 Galik alphabet
-Gan Chinese
-Gandhari language
 Garay alphabet
 Gardner–Salinas braille codes
-Ge'ez Braille
-Ge'ez language
-Ge'ez script
-Geba script
 Geba syllabary
 George Psalmanazar
 Georgia (country)
 Georgian Braille
-Georgian language
-Georgian script
 Georgian scripts
 German Braille
 German language
 Germanic languages
 Germany
-Geʽez
 Geʽez script
 Ghanaian braille
-Gjirokastër alphabet
-Glagolitic alphabet
 Glagolitic script
 Glyph
-Goidelic languages
-Golmol script
 Gondi writing
 Gothic alphabet
-Gothic language
 Gothic runic inscriptions
 Goykanadi
-Grantha alphabet
 Grantha script
 Grapheme
 Great Lakes Algonquian syllabics
 Greco-Iberian alphabet
-Greece
 Greek Braille
 Greek alphabet
 Greek language
-Greek manual alphabet
-Gregg Shorthand
 Gregg shorthand
 Guarani Braille
 Gujarati Braille
-Gujarati language
 Gujarati script
 Gunjala Gondi script
 Gupta script
 Gurmukhi
-Gurmukhi script
-Gurung language
 Hachijō language
-Hadramautic language
-Hakka Chinese
-Hamburg Notation System
 Hangul
 Hanifi Rohingya script
 Hanja
 Hanunoo script
 Harris Mowbray
-Hasaitic dialect
-Hatran Aramaic
-Hatran alphabet
 Hawaiian Braille
 Hebrew
 Hebrew Braille
 Hebrew alphabet
-Hebrew diacritics
 Hebrew language
-Hebrew script
 Hentaigana
 Hieratic
-Himmol script
-Himyaritic language
-Hindi
 Hindu–Arabic numeral system
 Hiragana
-Hismaic
 History of the alphabet
 History of writing
 History of writing in Vietnam
 Hittite cuneiform
-Hittite language
-Hmong language
-Hmong writing
-Hoax
 Hong Kong
-Horizontal square script
 Hungarian Braille
-Hungarian language
-Hurrian language
-ICAO spelling alphabet
-IConji
 IPA Braille
 ISO 15924
 Iban language
-Iberian language
 Icelandic Braille
-Icelandic manual alphabet
 Ideogram
-Ideographic script
 Idu script
-Igbo language
-Ilokano language
-Inca Empire
-Incung script
-Index of language articles
 India
-Indian manual alphabet
-Indigenous languages of the Americas
-Indo-Iranian languages
 Indonesia
 Indonesian language
-Indus Valley civilization
-Indus script
-Initial Teaching Alphabet
-Innu language
 Inscriptional Pahlavi
 Inscriptional Parthian
 Insular script
-Interlac
 International Phonetic Alphabet
-International manual alphabet
 International maritime signal flags
 International uniformity of braille alphabets
-Inuit language
-Inuktitut
 Inuktitut Braille
-Inuktitut language
-Inuktitut syllabics
 Iran
-Iranian manual alphabet
-Iraq
 Irish Braille
 Irish language
-Isan language
 Isotype (picture language)
 Israel
-Israeli manual alphabet
 Isthmian script

@@ -1,92 +1,37 @@
-2-in-1 laptop
-64-bit
-AI accelerator
 API
-APK file
-ARM architecture
-Abstraction layer
-Activity tracker
 Aerospace
 Amazon Kindle
-Amoeba (operating system)
 Android (operating system)
-Android 10
-Android App Bundle
 Android Go
-Android Open Source Project
-Android Studio
-Apk (file format)
-App (file format)
-Apple iOS
 Applet
-Application binary interface
-Application store
-ArkData
-ArkTS
-ArkUI
-Ark Compiler
 Ars Technica
 Assembly language
-Augmented reality headset
 B2G OS
 Bada (operating system)
-Barrelfish (operating system)
-Base station subsystem
-Beijing Intellectual Property Court
-BiSheng Compiler
-Big business
 Binary Runtime Environment for Wireless
 BlackBerry 10
 BlackBerry OS
 BlackBerry Tablet OS
-BlueOS
 Bluetooth
 Bopomofo
 BridgeOS
-Business-to-business
 C++
 CPU
 CSS
 C (programming language)
-Cairo (operating system)
-Cambridge Distributed Computing System
-Cangjie (programming language)
 Cantonese
-Cars
-Celia (virtual assistant)
 China
-China National Intellectual Property Administration
-China–United States trade war
-ChorusOS
 ChromeOS
 ChromeOS Flex
-Commercial software
 Comparison of mobile operating systems
-Criticism of Huawei
-DevEco Studio
-Digital subscriber line
-Direct-to-consumer
-Distributed object communication
-Distributed operating system
-Domain/OS
-Dongguan
-E-reader
 EMUI
 EPOC (operating system)
-EROFS
 Earphone
-Easter egg (media)
-Edge computing
-Embedded operating system
 Embedded system
-Entity List
 EulerOS
-European Union Intellectual Property Office
 Fedora Linux
 File system
-Find Device
 Firefox OS
-Flat design
 Fork (software development)
 FreeBSD
 FreeRTOS
@@ -94,251 +39,36 @@ Free software
 Fuchsia (operating system)
 GEOS (16-bit operating system)
 GNU
-GUI
-GaussDB
-Google Android
 HMD Global
-Hanyu Pinyin
 HarmonyOS NEXT
-HarmonyOS Sans
-HarmonyOS kernel
-HarmonyOS version history
-Harmony (operating system)
-Harmony Intelligent Mobility Alliance
 Headphones
-HeliOS
-HiSilicon
-Hong Meng
-Honor (brand)
-Honor 4X
-Honor 5X
-Honor 6X
-Huawei
-Huawei 4G eLTE
 Huawei AppGallery
-Huawei Ascend
-Huawei Ascend (phone)
-Huawei Ascend G300
-Huawei Ascend G330
-Huawei Ascend G600
-Huawei Ascend Mate
-Huawei Ascend Mate 2 4G
-Huawei Ascend Mate 7
-Huawei Ascend P1
-Huawei Ascend P2
-Huawei Ascend P6
-Huawei Ascend P7
-Huawei Ascend W1
-Huawei Ascend W2
-Huawei Ascend Y300
-Huawei Cloud Services
-Huawei Developer Conference
-Huawei E220
-Huawei E5
-Huawei FreeBuds
-Huawei G6600 Passport
-Huawei G8
-Huawei GR3
-Huawei GT3
-Huawei GameCenter
-Huawei Health
-Huawei HiCar
-Huawei Honor 3X
-Huawei Honor 4C
-Huawei Honor Tablet 5
-Huawei IDEOS U8150
-Huawei Ideos Tablet S7
-Huawei Intelligent Automotive Solution
-Huawei M835
-Huawei MateBook
-Huawei MateBook X Pro
-Huawei MateBook series
-Huawei MatePad Pro
-Huawei MateStation
-Huawei MateView
-Huawei Mate 10
-Huawei Mate 20
-Huawei Mate 30
-Huawei Mate 40
-Huawei Mate 50
-Huawei Mate 60
-Huawei Mate 70
-Huawei Mate 8
-Huawei Mate 9
-Huawei Mate S
-Huawei Mate X
-Huawei Mate X2
-Huawei Mate X3
-Huawei Mate X5
-Huawei Mate X6
-Huawei Mate XT
-Huawei Mate Xs 2
-Huawei Mate series
-Huawei Mediapad M5
-Huawei Mediapad M6
-Huawei Mobile Services
-Huawei Music
-Huawei Nova
-Huawei Nova 10
-Huawei Nova 10 Pro
-Huawei Nova 10 SE
-Huawei Nova 10z
-Huawei Nova 11
-Huawei Nova 11 Pro
-Huawei Nova 11 SE
-Huawei Nova 11i
-Huawei Nova 12
-Huawei Nova 12 Pro
-Huawei Nova 12 SE
-Huawei Nova 12i
-Huawei Nova 12s
-Huawei Nova 13
-Huawei Nova 13 Pro
-Huawei Nova 2
-Huawei Nova 2 Plus
-Huawei Nova 2 lite
-Huawei Nova 2s
-Huawei Nova 3
-Huawei Nova 3e
-Huawei Nova 3i
-Huawei Nova 4
-Huawei Nova 4e
-Huawei Nova 5
-Huawei Nova 5T
-Huawei Nova 5 Pro
-Huawei Nova 5i
-Huawei Nova 5i Pro
-Huawei Nova 5z
-Huawei Nova 6
-Huawei Nova 7
-Huawei Nova 7 Pro
-Huawei Nova 7 SE
-Huawei Nova 7 SE 5G Youth
-Huawei Nova 7i
-Huawei Nova 8
-Huawei Nova 8 Pro
-Huawei Nova 8 SE
-Huawei Nova 8 SE Youth
-Huawei Nova 8i
-Huawei Nova 9
-Huawei Nova 9 SE
-Huawei Nova Flip
-Huawei Nova Smart
-Huawei Nova Y60
-Huawei Nova Y61
-Huawei Nova Y70
-Huawei Nova Y90
-Huawei Nova Youth
-Huawei Nova lite
-Huawei Nova lite+
-Huawei Nova lite 2017
-Huawei Ox Horn Campus
-Huawei P10
-Huawei P20
-Huawei P30
-Huawei P40
-Huawei P50
-Huawei P50 Pocket
-Huawei P60
-Huawei P8
-Huawei P8 Max
-Huawei P8 lite 2017
-Huawei P9
-Huawei P9 Plus
-Huawei P9 lite
-Huawei PanGu
-Huawei Pocket 2
-Huawei Pocket S
-Huawei Premia
-Huawei Pura 70
-Huawei Pura series
-Huawei STREAM X GL07S
-Huawei SingleRAN
-Huawei Sonic
-Huawei Sound Joy
-Huawei Sound X
-Huawei Symantec
-Huawei T156
-Huawei T158
-Huawei T161L
-Huawei T201
-Huawei T208
-Huawei T211
-Huawei T261L
-Huawei T330
-Huawei Themes
-Huawei U1000
-Huawei U1100
-Huawei U120
-Huawei U121
-Huawei U1250
-Huawei U1270
-Huawei U2801
-Huawei U3300
-Huawei U7310
-Huawei U7510
-Huawei U8100
-Huawei U8110
-Huawei U8230
-Huawei U8800
-Huawei U9130 Compass
-Huawei U9150
-Huawei Video
-Huawei Vision
-Huawei Watch
 IOS
-IP Multimedia Subsystem
 IPadOS
 ISSN (identifier)
-In-car entertainment
-Industrial sector
-Inferno (operating system)
 Integrated development environment
 Intel Management Engine
-IntelliJ IDEA
-Interactive whiteboard
-Internet of Things
-Internet of things
-Internet of vehicles
-JSON
 JavaScript
-JetBrains
-Jyutping
-KFC in China
 KaiOS
 Kernel (operating system)
-Kirin 990
-Kunpeng 920
-LOCUS (operating system)
 Laptop
-Large language model
-Layer (object-oriented design)
-Li Hongyuan incident
-Liang Hua
 Linux
 Linux Kernel
 Linux kernel
-List of Huawei phones
 List of custom Android distributions
 List of mobile app distribution platforms
 List of open-source mobile phones
 LiteOS
 LuneOS
-MOSIX
 MacOS
 Maemo
 Magic Cap
 Manjaro
 McDonald's
 MeeGo
-Memory management
-Meng Wanzhou
 Mer (software distribution)
-MetaERP
 Meta Platforms
-Microkernel
 Microsoft Windows
-MindSpore
 Minix 3
 Mixed reality
 Mobian
@@ -349,44 +79,29 @@ Moblin
 MontaVista
 MotoMagx
 Multi-touch
-Nano Memory
 Native (computing)
 Natural language
-NearLink
 NetBSD
 Network management
-Network switch
-Network switching subsystem
-Neumorphism
-New IP
-Nexus 6P
 Nintendo
 Nintendo 3DS system software
 Nintendo DSi system software
 Nintendo Switch system software
 Nokia Asha platform
-Object storage
-OpenAtom Foundation
 OpenEZX
 OpenEmbedded
-OpenGauss
 OpenHarmony
 Open Handset Alliance
 Open Mobile Alliance
 Open source
 Openmoko Linux
 Operating system
-Over-the-air programming
 Package manager
 PalmDOS
 Palm OS
-Passive optical network
 Peripheral
 Personal computer
-Personal computers
-Petal Maps
 Pinyin
-Plan 9 from Bell Labs
 PlayStation Portable system software
 PlayStation Vita system software
 PostmarketOS
@@ -398,13 +113,7 @@ Proprietary software
 PureOS
 QNX
 QtMoko
-RISC-V
-RTOS
-Ren Zhengfei
 Reuters
-Richard Yu
-Rooting (Android)
-Rust (programming language)
 S60 (software platform)
 SHR (operating system)
 Sailfish OS
@@ -413,69 +122,33 @@ Series 30+
 Series 40
 Series 80 (software platform)
 Series 90 (software platform)
-Service delivery platform
 Sideloading
 Simplified Chinese characters
-Sina Corporation
-Single-page application
-Skeuomorphism
 Smart TV
-Smart device
-Smart home
-Smart speaker
-Smart watch
 Smartphone
-Smartwatch
-Softswitch
-Software architecture
-Software bus
 Software development kit
 Software license
 Software release life cycle
-Software widget
 Sony Ericsson Java Platform
-Sport utility vehicle
-Sprite (operating system)
 Standard Chinese
 SteamOS
-Sun Yafang
 Symbian
-System integration
 System on a chip
-T-Mobile Pulse
-T-Mobile Tap
-Tablet computer
 TechRadar
 The Verge
 ThreadX
 Thread (computing)
 Tizen
-Tongyong Pinyin
 Trademark
-Traditional Chinese characters
-Trusted execution environment
 UBports
 UIQ
 Ubuntu Touch
-United States Department of Commerce
-United States sanctions against China
-United States sanctions against Iran
 User interface
 User space and kernel space
-V (operating system)
 Virtual reality headset
-Visual Studio Code
 WatchOS
-Watch Fit
-Watch GT 2
-Watch GT 2 Pro
-Watch GT 2e
 Wear OS
-Wearable device
-Wearable devices
 WebOS
-Weibo.com
-Wi-Fi
 Windows 10
 Windows 10 Mobile
 Windows 11
@@ -489,14 +162,6 @@ Windows Phone 8.1
 Windows RT
 Windows XP editions
 Wireless
-Wireless router
-Wireless routers
-X86-64
-XDA Developers
 XNU
-X Gentle Monster Eyewear
-X Gentle Monster Eyewear II
-Xu Zhijun
-Yale romanization of Cantonese
 Zircon (microkernel)
 Ångström distribution

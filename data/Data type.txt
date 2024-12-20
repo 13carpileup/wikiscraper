@@ -1,190 +1,55 @@
-Count data
-ACM Computing Surveys
 S2CID (identifier)
-Machine code
-Single-precision floating-point format
-Peter Wegner
-Ternary numeral system
 Computer programming
 Semantics (computer science)
-Fixed point (computing)
 Compiler
 Union (set theory)
-Floating-point arithmetic
-Sum type
 Semaphore (programming)
-Array data type
 Real number
-Integer (computer science)
-Long double
-Statistical data type
 Intuitionistic type theory
-Instruction set
 Hebrew language
 Value (computer science)
-Sparse array
-Ada (programming language)
-Disjoint union
 Alphabet
-C programming language
 Half-precision floating-point format
-Interval arithmetic
 Reference (computer science)
-Operator (computer programming)
-Void type
-Unit type
-Recursive data type
-Tree (data structure)
-Function (computer science)
-Signedness
-Random tree
-Stream (computing)
-Simula
-Character (computing)
 Bit array
-Computational
-Option type
-Pointer (computer programming)
-Luca Cardelli
-Type conversion
-David Parnas
-Fixed-point arithmetic
 Type theory
 Java (programming language)
-Quadruple-precision floating-point format
-Physical address
-Markup languages
-Real-valued
-Union type
-Metaobject
-Virtual address space
-Octet (computing)
-Integer overflow
 Interface (object-oriented programming)
 Type constructor
 ASCII
-Double-precision floating-point format
 Type (model theory)
-Structured programming
-Kind (type theory)
-Stack (abstract data type)
-Algebraic data type
-Function type
-Class (computer programming)
-Empty type
-Object-oriented
-Real numbers
-Plain old data structure
 Variable (computer science)
-Type introspection
-Ratio scale
 Intersection (set theory)
-Parametric polymorphism
-Enumerated type
 Record (computer science)
-Octuple-precision floating-point format
-Word (data type)
 Generalized algebraic data type
-Product type
-Bfloat16 floating-point format
-Integer (computing)
-Method (computer programming)
-Inductive type
-Plain text
 Exception handling
 Logical truth
-Composite data type
-Rust (programming language)
 C (programming language)
-Type systems
-Substructural type system
-Boolean data type
-Set (abstract data type)
-Type class
 String (computer science)
-Units of information
-List (abstract data type)
-Categorical data
-Floating-point
-Floating point
-IEEE 754-2008
-Systems programming
 Data structure
-Numerical digit
-ALGOL
-ISO/IEC 11404
-Random access
-Top type
-Memory address
-Composite type
-Generic programming
-Random vector
-Rational numbers
 Complex number
 Word (computer architecture)
-Function pointer
 Metaclass
-Expression (computer science)
-Queue (abstract data type)
-CLU (programming language)
-Data dictionary
-Formatted text
-Arbitrary precision
-Abstract data type
 JavaScript
 32-bit
-Bignum
-Functional programming
-Intersection type
 Chinese language
-Reflection (computer programming)
-Correctness of computer programs
-Free On-line Dictionary of Computing
-Type system
-Boolean type
 Decimal
-Null-terminated string
-Container (abstract data type)
 Bottom type
-Syntax
-Predicate logic
 Computer memory
-Binary data
-Minifloat
-Union (computer science)
-Extended precision
 Rational data type
 Cartesian product
 Computer science
-Decimal data type
-Tagged union
-CiteSeerX (identifier)
 Byte
 C data types
 Interpreter (computing)
 ISBN (identifier)
-Subtyping
 Primitive data type
 ISSN (identifier)
-Boxing (computer science)
 Doi (identifier)
-Bit
-Low-level programming language
-Interval scale
-Complex data type
-Variant type
 False (logic)
-Opaque data type
 Pascal (programming language)
 Formal verification
-Arbitrary-precision arithmetic
-Object (computer science)
-Singly linked list
 Python (programming language)
-Strongly typed identifier
 Design
-Binary tree
 Associative array
 Dependent type
-Refinement type
-Random matrix

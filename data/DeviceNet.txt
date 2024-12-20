@@ -1,103 +1,29 @@
-Smart meter
 FlexRay
-CAN bus
-I/O Controller Hub
-OpenTherm
-OBIX
-Foundation Fieldbus H1
-FOUNDATION fieldbus
-ARINC 825
-KNX
-SENT (protocol)
-Common Industrial Protocol
-DirectNET Protocol
-SAE J1939
-ODVA (company)
 Cyclic redundancy check
-SAE J1587
-DyNet
-TTEthernet
-DF-1 Protocol
-MOST Bus
-PROFIBUS
-HostLink Protocol
-XPL Protocol
-OPC Data Access
-Automatic meter reading
 IEC 60870
-Controller Area Network
-CANopen
-Avionics Full-Duplex Switched Ethernet
-INTERBUS
-SERCOS interface
-Higher Speed Ethernet
-Factory Instrumentation Protocol
-List of automation protocols
 Sinec H1
-BACnet
-SDS Protocol
-Digital Serial Interface
 SERCOS III
-AS-Interface
 Optomux
-1-Wire
-EnOcean
-Cyphal
 MelsecNet
-NMEA 2000
 Power-system automation
-Vehicle bus
 Vehicle Area Network
 Wayback Machine
-X10 (industry standard)
-C-Bus (protocol)
 IEC 62056
 Keyword Protocol 2000
 Meter-Bus
 Modbus
-CEBus
-CC-Link Industrial Networks
-ControlNet
 Z-Wave
-RAPIEnet
-Unified Diagnostic Services
-EtherNet/IP
-Fleet Management System
 IEC 60870-6
-OPC Unified Architecture
-European Home Systems Protocol
-Industrial control system
-Ethernet Global Data Protocol
 Highway Addressable Remote Transducer Protocol
-European Installation Bus
 IEC 61850
 Factory Interface Network Service
-IEC 62351
-OPC Historical Data Access
-Zigbee
-Very Simple Control Protocol
-Building automation
 Local Interconnect Network
-MECHATROLINK
 ARINC 429
 PieP
 IEBus
-LonTalk
 DNP3
 Digital Addressable Lighting Interface
 IEC 60870-5
-Service Request Transport Protocol
-Unconnected Message Manager
-Allen-Bradley
 IO-Link
-PROFINET
 XAP Home Automation protocol
-Conformance testing
-Rockwell Automation
-Bristol Standard Asynchronous Protocol
-MTConnect
-SAE J1708
 Ethernet Powerlink
-SynqNet
-BatiBUS
-EtherCAT

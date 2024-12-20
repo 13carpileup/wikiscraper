@@ -1,58 +1,38 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
-APT (Debian)
-ARM architecture family
-Adobe Flash Player
-Albanian language
 AlmaLinux
 Alpine Linux
-Amd64
 Android-x86
 Android (operating system)
 Antergos
 AntiX
-Arabic language
-Aranese dialect
 ArchBang
 ArchLabs
 Arch Linux
-Arianrhod
-Armhf
 Artix Linux
 Asahi Linux
 Astra Linux
-Asturian language
 Asturix
 Austrumi Linux
-Awen
 BLAG Linux and GNU
 BackBox
 BackTrack
-Basque language
-Belenos
 Bharat Operating System Solutions
-Binary blob
 BioSLAX
 BlackArch
 Black Lab Linux
 BlankOn Linux
 Bodhi Linux
-Bokmål
-Brigantia (goddess)
 Bulgarian language
 CHAOS (operating system)
 CRUX
 Calculate Linux
 Caldera OpenLinux
 CalyxOS
-Catalan language
-Celts
 CentOS
 CentOS Stream
 Chakra (operating system)
 Chimera Linux
-Chipset
 ChromeOS
 ChromiumOS
 ClearOS
@@ -66,69 +46,47 @@ CrDroid
 CrunchBang Linux
 Cub Linux
 CyanogenMod
-Czech language
-Dagda
 Damn Small Linux
 Damn Vulnerable Linux
 Danish language
 Debian
 Deepin
 DemoLinux
-Desktop environment
 Devuan
-DistroWatch
 DivestOS
 DoudouLinux
-Dpkg
 Dreamlinux
 Dutch language
-Dwyn
 EMUI
 Edubuntu
-El Comercio (Ecuador)
-El Progreso (Spain)
 Elementary OS
 Elive
 Emmabuntüs
 EndeavourOS
 Endless OS
 English language
-Esperanto
-Estonian language
 EulerOS
 Familiar Linux
 Feather Linux
 Fedora Linux
 Finnish language
 Fire OS
-Firefox
 Firefox OS
-Firmware
-Flidas
 Floppyfw
 Foresight Linux
-Free Software Foundation
 Free software
 FreedomBox
 Freespire
 French language
 Frugalware Linux
-GNOME
-GNOME Fallback
-GNOME Panel
-GNOME Shell
 GNU Core Utilities
 GNU Guix System
-GNU Project
 GNewSense
 GOS (operating system)
-GTK+
-Galician language
 Garuda Linux
 GeckoLinux
 Gentoo Linux
 German language
-Gnash (software)
 GoboLinux
 Gobuntu
 GrapheneOS
@@ -136,22 +94,13 @@ Graphical user interface
 Greek language
 HandyLinux
 Hebrew language
-Hindi language
-Hungarian language
-Hyperbola GNU/Linux-libre
-I386
-IA-32
-IBM POWER architecture
-ITALC
 Immunix
 Indonesian language
 IodéOS
 Irish language
 Italian language
 Japanese language
-Jupiter Broadcasting
 Jurix
-KDE
 KDE neon
 KaOS
 KaiOS
@@ -163,23 +112,15 @@ Kernel (operating system)
 Khmer language
 Knoppix
 Kongoni (operating system)
-Korean language
 Korora (operating system)
 Kubuntu
 Kwort Linux
-LXDE
 LXLE Linux
-La Voz de Galicia
-Latvian language
-Legacy system
-Lemote Yeeloong
 Libranet
-Libreboot
 LinHES
 LineageOS
 Linpus Linux
 Linux
-Linux-libre
 LinuxTLE
 Linux Caixa Mágica
 Linux Lite
@@ -189,11 +130,7 @@ Linux distribution
 Linux for PlayStation 2
 Linux kernel
 List of Linux distributions
-Lithuanian language
-Long-term support
-Low German
 Lubuntu
-MATE (software)
 MCC Interim Linux
 MIUI
 MX Linux
@@ -206,16 +143,12 @@ Mer (software distribution)
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Musix GNU+Linux
-Netbook
 Network Security Toolkit
 NimbleX
 Nitix
 NixOS
 Nobara Linux
 Nova (operating system)
-Nynorsk
-Occitan language
 OmniROM
 One UI
 OpenELEC
@@ -225,9 +158,7 @@ Open Enterprise Server
 Operating system
 Oracle Linux
 PCLinuxOS
-POWER9
 Package manager
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
@@ -237,19 +168,13 @@ Pinguy OS
 PixelExperience
 Platypux
 Plug-in (computing)
-Polish language
 Pop! OS
 Porteus (operating system)
-Portuguese language
-Power user
 Programmer
 Proprietary software
-Province of Ourense
-Punjabi language
 Puppy Linux
 PureOS
 Q4OS
-Qt (software)
 Qubes OS
 ROSA Linux
 Raspberry Pi OS
@@ -258,18 +183,13 @@ Red Hat Linux
 Red Star OS
 Remix OS
 Replicant (operating system)
-Repository (version control)
 Resurrection Remix OS
-Richard Stallman
-Robor
 Rocks Cluster Distribution
 Rocky Linux
-Romanian language
 Russian language
 SUSE Linux
 SUSE Linux Enterprise
 SUSE Studio
-SWF
 Sabayon Linux
 Sabily
 Sailfish OS
@@ -278,10 +198,7 @@ Scientific Linux
 Serbo-Croatian
 Simplified Chinese characters
 Slackware
-Slaine
 Slax
-Slovak language
-Slovene language
 Softlanding Linux System
 Software release life cycle
 Solus (operating system)
@@ -291,29 +208,16 @@ Spanish language
 SparkyLinux
 Splashtop OS
 SteamOS
-Sugar (desktop environment)
-Sugar (software)
 Sunwah Linux
-Swedish language
-Synaptic (software)
 SystemRescue
 T2 SDE
 Tails (operating system)
-Tamil language
-Taranis
-Thai language
-The Linux Action Show!
-ThinkPad X Series
 Think Blue Linux
 Tiny Core Linux
 Tizen
 TopologiLinux
-Toutatis
 Trademark
-Traditional Chinese characters
-Triskelion
 Turbolinux
-Turkish language
 Turkix
 Ubuntu
 Ubuntu Budgie
@@ -324,24 +228,17 @@ Ubuntu MATE
 Ubuntu Studio
 Ubuntu Touch
 Ubuntu Unity
-Ubuntu version history
 Ultramarine Linux
 Unity Operating System
-University of Vigo
-Unix-like
-Uruk GNU/Linux
 User interface
 User space and kernel space
-Valencian language
 VectorLinux
 Vietnamese language
 Vine Linux
 Void Linux
 Whonix
 Wubuntu
-X86-64
 XB Machine
-X Window System
 Xubuntu
 Yellow Dog Linux
 Zenwalk

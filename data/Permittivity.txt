@@ -1,8 +1,5 @@
-2019 revision of the SI
 AC motor
-Ab initio
 Absorption (electromagnetic radiation)
-Acoustic attenuation
 Albert Einstein
 Alessandro Volta
 Alfred-Marie Liénard
@@ -12,13 +9,10 @@ André-Marie Ampère
 Angular frequency
 Anisotropic
 Anisotropy
-Arthur R. von Hippel
 Atom
 Bibcode (identifier)
 Biot–Savart law
-Birefringence
 Bremsstrahlung
-Brillouin zone
 Capacitance
 Capacitor
 Carl Friedrich Gauss
@@ -28,45 +22,25 @@ Charles-Augustin de Coulomb
 Charles Proteus Steinmetz
 Classical electromagnetism
 Classical electromagnetism and special relativity
-Clausius-Mossotti relation
 Complex number
 Computational electromagnetics
-Continuous Fourier transform
-Convolution
-Convolution theorem
 Coulomb
 Coulomb's law
-Coulomb force constant
 Covariant formulation of classical electromagnetism
-Cryostat
 Current density
 Cyclotron radiation
 DC motor
-Debye relaxation
-Density functional theory
-Density of states
 Dielectric
-Dielectric constant
-Dielectric loss
-Dielectric relaxation
-Dielectric spectroscopy
-Dipole
-Dirac delta function
 Direct current
 Dispersion (optics)
 Displacement current
 Doi (identifier)
-Drude model
-Dual polarisation interferometry
 Eddy current
 Eigenvalues and eigenvectors
 Electret
-Electric-field screening
 Electric charge
-Electric conductivity
 Electric current
 Electric dipole moment
-Electric displacement
 Electric displacement field
 Electric field
 Electric flux
@@ -75,21 +49,16 @@ Electric motor
 Electric potential
 Electric potential energy
 Electric power
-Electric susceptibility
-Electrical conduction
 Electrical conductivity
 Electrical conductor
-Electrical current
 Electrical impedance
 Electrical network
 Electrical resistance and conductance
 Electricity
 Electrolysis
-Electrolytic capacitor
 Electromagnetic field
 Electromagnetic four-potential
 Electromagnetic induction
-Electromagnetic propagation
 Electromagnetic pulse
 Electromagnetic radiation
 Electromagnetic stress–energy tensor
@@ -100,30 +69,21 @@ Electron
 Electrostatic discharge
 Electrostatic induction
 Electrostatics
-Ellipsometry
 Emil Lenz
 Emil Wiechert
 Epsilon
-Farad
 Faraday's law of induction
-Farads
 Four-current
 Franz Ernst Neumann
 Frequency
-Frequency domain
 Félix Savart
 Gauss's law
 Gauss's law for magnetism
-Gaussian surface
 Georg Ohm
 George Singer
-Green's function (many-body theory)
-Green–Kubo relations
 Gustav Kirchhoff
 Gyrator–capacitor model
-Hakki–Coleman method
 Hans Christian Ørsted
-Heat
 Heinrich Hertz
 Hendrik Lorentz
 Hermann von Helmholtz
@@ -131,14 +91,11 @@ Hertz
 Hippolyte Fizeau
 History of electromagnetic theory
 Humphry Davy
-Hydrogen bond
 IEEE
 ISBN (identifier)
-Imaginary unit
 Inductance
 Induction motor
 Insulator (electricity)
-International Bureau of Weights and Measures
 International System of Units
 Ion
 Ionizing radiation
@@ -154,27 +111,20 @@ Joseph Henry
 Joseph Larmor
 Joule heating
 Kirchhoff's circuit laws
-Kramers–Kronig relation
 Larmor formula
 Lenz's law
 Linear motor
-Linear response function
 List of electrical phenomena
 List of textbooks in electromagnetism
-List of things named after Carl Friedrich Gauss
 Liénard–Wiechert potential
 London equations
 Lord Kelvin
 Lorentz force
-Lorentz model
-Lorentzian function
-Loss angle
 Magnetic circuit
 Magnetic complex reluctance
 Magnetic field
 Magnetic flux
 Magnetic moment
-Magnetic permeability
 Magnetic reluctance
 Magnetic scalar potential
 Magnetic vector potential
@@ -182,69 +132,45 @@ Magnetism
 Magnetization
 Magnetomotive force
 Magnetostatics
-Mathematical descriptions of opacity
 Mathematical descriptions of the electromagnetic field
 Maxwell's equations
 Maxwell's equations in curved spacetime
 Maxwell stress tensor
-Meter
 Michael Faraday
 Microwave
 Molecule
-NIST
 National Institute of Standards and Technology
-Nature Materials
 Network analysis (electrical circuits)
 Nikola Tesla
-Nonlinear optics
 OCLC (identifier)
 Ohm's law
 Oleg D. Jefimenko
 Oliver Heaviside
 Optics
 Perfect conductor
-Perfect dielectric
 Permeability (electromagnetism)
 Permeance
 Phase velocity
 Photon
-Plasma frequency
-Polarizability
-Polarization (electrostatics)
 Polarization density
 Poynting vector
 Quantum mechanics
-Quasi-optical
-Relative imaginary permittivity
-Relative permittivity
-Relative real permittivity
 Relativistic electromagnetism
 Resonance
 Resonator
 Right-hand rule
-Rotational Brownian motion
 Rotor (electric)
 S2CID (identifier)
-Scalar (physics)
 Series and parallel circuits
 Siméon Denis Poisson
 Speed of light
-Square meter
-Standard temperature and pressure
-State function
 Static electricity
 Stator
-Supercapacitor
 Synchrotron radiation
 Tensor
-Terahertz time-domain spectroscopy
-Time domain
 Transformer
 Triboelectric effect
 Ultraviolet
-Uniaxial crystal
-Vacuum
-Vacuum permeability
 Vacuum permittivity
 Viscosity
 Volt
@@ -253,4 +179,3 @@ Watt
 Waveguide (radio frequency)
 Wilhelm Eduard Weber
 William Ritchie (physicist)
-William Thomson, 1st Baron Kelvin

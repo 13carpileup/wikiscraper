@@ -1,79 +1,36 @@
-1-Wire
 19-inch rack
-ACCESS.bus
-ADAT Lightpipe
 AES3
 AES47
 ANSI C
 ANSI escape code
-Accelerated Graphics Port
 Ada Semantic Interface Specification
-Address bus
-Advanced Host Controller Interface
 Advanced Microcontroller Bus Architecture
-Advanced eXtensible Interface
-Amiga Zorro II
-Amiga Zorro III
-Apple Desktop Bus
-Atari SIO
-Back-side bus
 Battery nomenclature
 Bus (computing)
-Bus and Tag
-Bus contention
-Bus mastering
 C++
 CHILL
 COBOL
 C Sharp (programming language)
-Camera Link
-Coherent Accelerator Processor Interface
-Commodore bus
 Common Criteria
 Common Logic
 Compact Disc Digital Audio
 Comparative Tracking Index
-Compute Express Link
-Computer Automated Measurement and Control
 Computer Graphics Metafile
-Control bus
-CoreConnect
-DMX512
-Daisy chain (electrical engineering)
-De facto standard
 Digital Addressable Lighting Interface
-Digital Control Bus
 Digital Storage Systems Interconnect
-Direct Media Interface
 Document Style Semantics and Specification Language
 ECMAScript
 ECMAScript for XML
 EN 62262
-ESCON
 E series of preferred numbers
-Enhanced Small Disk Interface
 Ethernet
-Europe Card Bus
-ExpressCard
-Extended Industry Standard Architecture
-FASTBUS
-Fibre Channel
 Fieldbus
 File Allocation Table
-Front-side bus
 Full BASIC
-GSC bus
 Graph Query Language
 Graphical Kernel System
 Guidelines for the Definition of Managed Objects
-HIL bus
-HIPPI
-HP-IL
-HP Precision Bus
 HTML
-Home automation
-HyperTransport
-I3C (bus)
 IEC 60027
 IEC 60034
 IEC 60038
@@ -90,7 +47,6 @@ IEC 60870-5
 IEC 60870-6
 IEC 60906-1
 IEC 60929
-IEC 60980-344
 IEC 61131
 IEC 61131-3
 IEC 61162
@@ -112,7 +68,6 @@ IEC 62196
 IEC 62264
 IEC 62304
 IEC 62325
-IEC 62351
 IEC 62366
 IEC 62379
 IEC 62455
@@ -122,82 +77,18 @@ IEC 63110
 IEC 63119
 IEC 63382
 IEC 81346
-IEEE-488
-IEEE 1284
-IEEE 1394
 IEEE 754
 IO-Link
 IP-XACT
 ISLISP
-ISO/IEC 10021
-ISO/IEC 10116
-ISO/IEC 10967
-ISO/IEC 11179
-ISO/IEC 11404
-ISO/IEC 11801
-ISO/IEC 12207
-ISO/IEC 14443
-ISO/IEC 14651
-ISO/IEC 15288
-ISO/IEC 15504
-ISO/IEC 15693
-ISO/IEC 15897
-ISO/IEC 17024
-ISO/IEC 17025
-ISO/IEC 18014
-ISO/IEC 19752
-ISO/IEC 19770
-ISO/IEC 19788
-ISO/IEC 20000
-ISO/IEC 2022
-ISO/IEC 21827
-ISO/IEC 24727
-ISO/IEC 24744
-ISO/IEC 27000
-ISO/IEC 27000-series
-ISO/IEC 27002
-ISO/IEC 27040
-ISO/IEC 29119
-ISO/IEC 33001
-ISO/IEC 38500
-ISO/IEC 42010
-ISO/IEC 4909
-ISO/IEC 5218
-ISO/IEC 646
-ISO/IEC 6523
-ISO/IEC 7810
-ISO/IEC 7811
-ISO/IEC 7812
-ISO/IEC 7813
-ISO/IEC 7816
-ISO/IEC 80000
-ISO/IEC 8652
-ISO/IEC 8859
-ISO/IEC 9126
-ISO/IEC 9529
-ISO/IEC 9995
-ISO/IEC JTC 1
-Industry Standard Architecture
-InfiniBand
-Infinity Fabric
-Intel High Definition Audio
-Intel QuickPath Interconnect
-Intel Ultra Path Interconnect
-Intelligent Peripheral Interface
 International Electrotechnical Commission
 International Standard Identifier for Libraries and Related Organizations
 I²C
-I²S
 JBIG
 JPEG 2000
 JPEG XL
-Lightning (connector)
 Linux Standard Base
 List of IEC standards
-List of interface bit rates
-Low Pin Count
-MADI
-MBus (SPARC)
 MHEG-5
 MIDI
 MPEG-1
@@ -208,79 +99,25 @@ MPEG-7
 MPEG-A
 MPEG-D
 MPEG-H
-McASP
-Micro Channel architecture
 Mixed raster content
-Multi-master bus
 Multibus
-Multidrop bus
-NVLink
-NVM Express
-Network on a chip
-NuBus
 OpenDocument
 Open Data Protocol
 Open Document Architecture
-PCI-X
-PCI Express
-PCI eXtensions for Instrumentation
-PC Card
 PHIGS
 POSIX
-Parallel ATA
-Parallel SCSI
-Peripheral Component Interconnect
 Philips
-Plug and play
-Power Management Bus
-Profibus
 Q-Bus
 QR code
 RELAX NG
 RKM code
 RS-232
-RS-422
-RS-423
-RS-485
-RapidIO
-S-100 bus
-S/PDIF
-SATA
-SATA Express
-SBus
-SCART
-SCSI
-SLIMbus
-SS-50 bus
-ST-506/ST-412
-STD Bus
-STEbus
-Serial Attached SCSI
-Serial Peripheral Interface
-Serial Storage Architecture
-Serial communication bus
-SpaceWire
-Storage Module Device
-System Management Bus
-System bus
-TOSLINK
 TURBOchannel
-Technical standard
-Thunderbolt (interface)
 Topic map
-UNI/O
 USB
-Ultra Port Architecture
 Unibus
 Universal Coded Character Set
 Universal Disk Format
 Universal Remote Console
 VAXBI bus
-VESA Local Bus
-VME eXtensions for Instrumentation
-VMEbus
-VPX
-VXS
-Wired communication
-Wishbone (computer bus)
 Z notation

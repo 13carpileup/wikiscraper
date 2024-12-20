@@ -1,5 +1,3 @@
-1-850
-2-Thiouracil
 ACE inhibitor
 ATC code A
 ATC code B
@@ -8,7 +6,6 @@ ATC code D
 ATC code D09
 ATC code G
 ATC code H
-ATC code H03
 ATC code J
 ATC code L
 ATC code M
@@ -19,35 +16,25 @@ ATC code S
 ATC code V
 ATCvet code QI
 Addiction medicine
-Agranulocytosis
 Alkylating antineoplastic agent
 Anabolic steroid
 Analgesic
 Anatomical Therapeutic Chemical Classification System
 Anesthetic
-Angiotensin II receptor antagonist
 Anorectic
 Antacid
-Antagonist 1-850
 Anthelmintic
 Anti-inflammatory
 Anti-obesity medication
 Antianginal
 Antiarrhythmic agent
-Antibacterial
-Antibodies
 Anticoagulant
 Anticonvulsant
-Antidementia drug
 Antidepressant
-Antidiarrhoeal
 Antidote
 Antiemetic
 Antifibrinolytic
-Antifungal drug
 Antihemorrhagic
-Antihyperkinetic
-Antihypertensive drug
 Antimetabolite
 Antimicrobial
 Antimigraine drug
@@ -56,16 +43,12 @@ Antineoplastic
 Antiparasitic
 Antiplatelet drug
 Antipropulsive
-Antiprotozoal agent
 Antipruritic
-Antipsoriatic
 Antipsychotic
 Antithrombotic
 Antiviral drug
 Anxiolytic
 Aphrodisiac
-Aplastic anemia
-Benzylthiouracil
 Beta blocker
 Beta radiation
 Bibcode (identifier)
@@ -73,200 +56,50 @@ Bile acid sequestrant
 Bisphosphonate
 Blood
 Bone
-Breast milk
 Bronchodilator
 Calcium channel blocker
-Carbimazole
 Cardiac glycoside
 Cardiac stimulant
 Chemotherapy
-Cicatrizant
 Circulatory system
-Clinical trial
-Coactivator
 Coagulation
-Contrast medium
 Corticosteroid
-Cough medicine
-Cyanogenic glycoside
-Cytolytic
-DIMIT
-DITPA
 Decongestant
 Deliriant
 Depressant
-Desiccated thyroid extract
-Dexpropranolol
-Dextrothyroxine
-Diabetes insipidus
 Diabetes medication
-Dibromotyrosine
-Dietary mineral
-Diiodotyrosine
 Disease-modifying antirheumatic drug
 Dissociative
 Diuretic
 Doi (identifier)
 Dressing (medicine)
 Ectoparasiticide
-Emollient
 Endocrine system
-Entactogen
 Entheogen
 Enzyme
-Enzyme inhibitor
-Eprotirome
 Euphoria
-Euthyroidism
 Fertility medication
 Fibrate
 General anaesthetic
-Genistein
 Genitourinary system
 Glucocorticoid
-Graves' disease
 H1 antagonist
-H2 antagonist
 Hormonal contraception
 Hormone
 Human brain
-Human gastrointestinal tract
 Human skin
 Hypnotic
-Hypolipidemic agent
 Hypothalamic–pituitary hormone
-Hypothyroidism
 ISSN (identifier)
-Idiosyncratic reaction
-Imidazole
 Immune system
-Immunomodulator
 Immunostimulant
 Immunosuppressive drug
 Infection
-Intravenous immunoglobulin
-Iodide
-Iodination
-Iodine
-Iodine-123
-Iodine-131
-Iodothyronine deiodinase
-Iopanoic acid
-Ipodate sodium
-Isotopes of iodine
 Joint
-KB-130015
-KB-141
-KB-2611
-Laxative
-Levothyroxine
-Ligand (biochemistry)
-Liothyronine
-Liotrix
-List of withdrawn drugs
-Lithium (medication)
-Lithium toxicity
-Local anesthetic
-Lugol's iodine
-MB-07344
-MB-07811
-Malignant
-Management of Parkinson's disease
 Medical Subject Headings
-Membrane transport protein
 Metabolism
-Methimazole
-Methylthiouracil
-Mineralocorticoid
-Mood stabilizer
-Motivation-enhancing drug
-Muscle
-Muscle relaxant
-NH3 (THR antagonist)
 Nervous system
-Neuroprotective
-Neurotoxin
-Neutropenia
-Nitrate
-Non-steroidal anti-inflammatory drug
-Nootropic
-Nuclear hormone receptor coregulator
-Nuclear imaging
-Ophthalmology
-Orexigenic
-Otology
 PMC (identifier)
 PMID (identifier)
-Perchlorate
-Peripheral neuritis
-Pertechnetate
-Phases of clinical research
-Placenta
-Platelet
-Potassium perchlorate
-Prodrug
-Propranolol
-Propylthiouracil
-Proton-pump inhibitor
-Psychedelic drug
-Psychedelics, dissociatives and deliriants
-Radioisotopes
-Radiopharmaceutical
-Radiopharmacology
-Randomized control trial
-Receptor (biochemistry)
-Receptor modulator
-Renin inhibitor
-Renin–angiotensin system
-Resmetirom
-Respiratory system
 S2CID (identifier)
-Secretion
-Sedative
-Selective estrogen receptor modulator
-Selenium
-Senotherapeutics
-Sense
-Sensitivity and specificity
-Serenic
-Sex steroid
-Sobetirome
-Sodium-iodide symporter
-Sodium pertechnetate
-Spindle poison
-Statin
-Stimulant
 Sulfur
-TR receptor
-Tetraiodothyroacetic acid
-Thioamide
-Thiocyanate
-Thiourea
-Thrombolytic drug
-Thyroglobulin
-Thyroid
-Thyroid follicular cell
-Thyroid gland
-Thyroid hormone
-Thyroid hormone receptor
-Thyroid peroxidase
-Thyroid tumor
-Thyroidectomy
-Thyromimetic
-Thyrotropin receptor
-Thyroxine
-Tiratricol
-Topoisomerase inhibitor
-Transporter blocker
-Transporter protein
-Triiodothyronine
-Tyrosine
-VK-0214
-VK-2809
-Vaccine
-Vasodilation
-Vitamin
-WHO Model List of Essential Medicines
-Wakefulness-promoting agent
-Wolff-Chaikoff effect
-ZYT1

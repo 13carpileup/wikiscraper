@@ -5,15 +5,11 @@ ARIB STD B24 character set
 ASCII
 ASMO 449
 ATASCII
-Adjaran dialect
-Amstrad CP/M Plus character set
 Amstrad CPC character set
-Ani (letter)
 Apple II character set
 ArmSCII
 Atari ST character set
 BCD (character encoding)
-Bani (letter)
 Baudot code
 Big5
 Binary Ordered Compression for Unicode
@@ -30,13 +26,11 @@ CSX Indic character set
 CS Indic character set
 CWI-2
 Casio calculator character sets
-Ch'ari
 Character encoding
 Character encodings in HTML
 Charset detection
 Chinese Character Code for Information Interchange
 Chinese telegraph code
-Chini (letter)
 Code page
 Code page 1006
 Code page 1008
@@ -53,17 +47,10 @@ Code page 1019
 Code page 1020
 Code page 1021
 Code page 1023
-Code page 1034
 Code page 1040
 Code page 1042
 Code page 1043
-Code page 1044
 Code page 1046
-Code page 1052
-Code page 1053
-Code page 1054
-Code page 1055
-Code page 1056
 Code page 1058
 Code page 1098
 Code page 1101
@@ -102,7 +89,6 @@ Code page 853
 Code page 855
 Code page 856
 Code page 857
-Code page 858
 Code page 859
 Code page 860
 Code page 861
@@ -119,7 +105,6 @@ Code page 896
 Code page 897
 Code page 899
 Code page 903
-Code page 904
 Code page 912
 Code page 915
 Code page 921
@@ -147,16 +132,12 @@ DIN 91379
 DKOI
 Digital Equipment Corporation
 Digital encoding of APL symbols
-Doni (letter)
-Dzili
 EBCDIC
 ELOT 927
-Eni (letter)
 Extended ASCII
 Extended Latin-8
 Extended Unix Code
 FOCAL character set
-Fi (letter)
 Fieldata
 GBK (character encoding)
 GB 12052
@@ -167,32 +148,14 @@ GEM character set
 GOST 10859
 GSM 03.38
 Galaksija (computer)
-Gani (letter)
-Georgian (Unicode block)
 Georgian Braille
-Georgian Extended
-Georgian Orthodox Church
-Georgian Supplement
-Georgian Wikipedia
-Georgian calligraphy
-Georgian conjugation
-Georgian dialects
-Georgian grammar
-Georgian keyboard
-Georgian language
-Georgian numerals
 Georgian scripts
-Ghani (letter)
 HP Roman
 HZ (character encoding)
-Hae (letter)
 Han unification
 Hardware code page
-He (Georgian letter)
-Hoe (letter)
 Hong Kong Supplementary Character Set
 IBM AIX
-IEC-P27-1
 INIS-8
 INIS character set
 ISO-IR-111
@@ -201,26 +164,6 @@ ISO-IR-182
 ISO-IR-197
 ISO-IR-200
 ISO-IR-68
-ISO/IEC 10367
-ISO/IEC 2022
-ISO/IEC 646
-ISO/IEC 8859
-ISO/IEC 8859-1
-ISO/IEC 8859-10
-ISO/IEC 8859-11
-ISO/IEC 8859-12
-ISO/IEC 8859-13
-ISO/IEC 8859-14
-ISO/IEC 8859-15
-ISO/IEC 8859-16
-ISO/IEC 8859-2
-ISO/IEC 8859-3
-ISO/IEC 8859-4
-ISO/IEC 8859-5
-ISO/IEC 8859-6
-ISO/IEC 8859-7
-ISO/IEC 8859-8
-ISO/IEC 8859-9
 ISO 2033
 ISO 5426
 ISO 5427
@@ -228,20 +171,14 @@ ISO 5428
 ISO 6438
 ISO 6862
 ITU T.61
-Ie (letter)
 Indian Script Code for Information Interchange
-Ini (Georgian letter)
-Intecolor/Compucolor 8001 character set
 Iran System encoding
 JIS X 0201
 JIS X 0208
 JIS X 0211
 JIS X 0212
 JIS X 0213
-Jani (letter)
 Japanese language in EBCDIC
-Judaeo-Georgian
-K'ani
 KOI-7
 KOI8-R
 KOI8-RU
@@ -251,17 +188,9 @@ KPS 9566
 KS X 1001
 KS X 1002
 Kamenický encoding
-Kani (letter)
-Karto-Zan languages
-Kartvelian languages
-Khani (letter)
-Khari (letter)
 LST 1564
 LST 1590-4
 LY1 encoding
-Lasi (letter)
-Laz grammar
-Laz language
 Lotus International Character Set
 Lotus Multi-Byte Character Set
 MARC-8
@@ -284,7 +213,6 @@ Mac OS Hebrew
 Mac OS Icelandic encoding
 Mac OS Inuit
 Mac OS Keyboard encoding
-Mac OS Maltese/Esperanto encoding
 Mac OS Ogham
 Mac OS Roman
 Mac OS Romanian encoding
@@ -295,64 +223,43 @@ Mac OS Ukrainian encoding
 Macintosh Font X encoding
 Macintosh Latin encoding
 Magnetic ink character recognition
-Mani (letter)
 Mazovia encoding
-Mingrelian grammar
-Mingrelian language
 Mojibake
 Mojikyō
 Morse code
 Morse code for non-Latin alphabets
 Multinational Character Set
 NEC APC character set
-Nari (letter)
 National Replacement Character Set
 NeXT character set
 Non-breaking space
 OML encoding
 OMS encoding
 OT1 encoding
-Old Georgian
-Oni (letter)
-P'ari
 PETSCII
-Pari (letter)
 Perso-Arabic Script Code for Information Interchange
 PostScript Latin 1 Encoding
 PostScript Standard Encoding
 Prosigns for Morse code
-Proto-Georgian–Zan language
-Proto-Kartvelian language
-Q'ari
 RISC OS character set
 RPL character set
-Rae (letter)
 Romanization of Georgian
 Russian Morse code
-SAM Coupé character set
 SI 960
 SQUOZE
-Sani (letter)
-Screeve
 Sega SC-3000 character set
 Sharp MZ character set
 Sharp pocket computer character sets
 Shift JIS
-Shini
 Sinclair QL character set
 Standard Compression Scheme for Unicode
-Stanford/ITS character set
 Stanford Extended ASCII
-Svan language
 Symbol (typeface)
-T'ari
-T.51/ISO/IEC 6937
 TI calculator character sets
 TRON (encoding)
 TRS-80 character set
 Tamil All Character Encoding
 Tamil Script Code for Information Interchange
-Tani (letter)
 TeX
 Telegraph code
 Teletex
@@ -360,15 +267,12 @@ Teletext
 Teletext character set
 Thai Industrial Standard 620-2533
 Transcode (character encoding)
-Ts'ili
-Tsani
 UTF-1
 UTF-16
 UTF-32
 UTF-7
 UTF-8
 UTF-EBCDIC
-Uni (letter)
 Unicode
 Unicode control characters
 Unified Hangul Code
@@ -381,8 +285,6 @@ Variable-width encoding
 Ventura International
 Videotex
 Videotex character set
-Vie (letter)
-Vini (letter)
 Wabun code
 Wang International Standard Code for Information Interchange
 Whitespace character
@@ -396,9 +298,6 @@ Windows-1256
 Windows-1257
 Windows-1258
 Windows-1270
-Windows Cyrillic + Finnish
-Windows Cyrillic + French
-Windows Cyrillic + German
 Windows Polytonic Greek
 Windows code page
 World System Teletext
@@ -407,6 +306,3 @@ YUSCII
 ZX80 character set
 ZX81 character set
 ZX Spectrum character set
-Zan languages
-Zeni (letter)
-Zhani

@@ -1,11 +1,5 @@
-"Hello, World!" program
-4K Disk Monitor System
-ALGOL
-APL (programming language)
 ASCII
-Ada (programming language)
 AdvFS
-Allscripts
 Alpha 21064
 Alpha 21164
 Alpha 21264
@@ -13,18 +7,9 @@ Alpha 21364
 Alpha 21464
 AltaVista
 American National Standards Institute
-Array data type
-Artronix
 Assembly language
-Atomicity (database systems)
-Awk
-B-tree
 BASIC
 BASIC-8
-BBN Technologies
-Backward compatible
-Bank of England
-Barclays Bank
 Boston
 Bus (computing)
 C++
@@ -33,27 +18,18 @@ CPU Wars
 CVAX
 C (programming language)
 C Sharp (programming language)
-C language
-Caché ObjectScript
-Centricity
 Character encoding
 Classic Mac OS
 Code page 1287
 Code page 1288
-Comma-separated values
 Commercial Operating System
 Compaq
-Comparison of programming languages
 Compiler
-Composite Health Care System
 Computer hardware
 Computer multitasking
 Computer terminal
-Coventry Health Care
-Cross-platform
 DECUS
 DEC Alpha
-DEC BATCH-11/DOS-11
 DEC GT40
 DEC Hebrew
 DEC J-11
@@ -71,242 +47,122 @@ DECtape
 DECwriter
 DIBOL
 DIGITAL Command Language
-Data General
-Data General Nova
 Data type
-Database management system
-Decentralized Hospital Computer Program
 Digital Equipment Corporation
 Digital Federal Credit Union
 Digital Linear Tape
 Digital Storage Systems Interconnect
-Digital UNIX
-Document-oriented database
 Doi (identifier)
 Dynamic debugging technique
 Dynamically Redefined Character Set
-EMIS Health
-Electronic health record
-Epic Systems
-Erlang (programming language)
-FIS (company)
-FOCAL-69
 FOCAL (programming language)
 FX!32
-Fidelity National Information Services
 Firefly (cache coherence protocol)
 Flip-Chip module
-Forth (programming language)
-Fortran
-GE Healthcare
 GNU General Public License
-GT.M
-GUI
-Gaia (spacecraft)
-Generational list of programming languages
 Go (programming language)
 Gold key (DEC)
-Google Groups
 Gordon Bell
 HP-Interex
 Harlan Anderson
 Harvard University
 Haskell
-Hierarchical database
-Hierarchical database model
-History of programming languages
 Houston
 IBM
-IDX Systems
-IEEE Annals of the History of Computing
 ISBN (identifier)
 Imperative programming
 Indian Health Service
 Instruction set architecture
-InterSystems
-InterSystems Caché
 Interactive Application System
 International Organization for Standardization
 Internet Archive
-Interpreted language
 Interpreter (computing)
-JOSS
 JavaScript
 Java (programming language)
-John F. Kennedy School of Government
-Julia (programming language)
 Ken Olsen
-Key–value database
-Kotlin (programming language)
-LCCN (identifier)
 LK201
 LK421
-Lazy evaluation
 Linux
 Lisp (programming language)
-List of programming languages
-List of programming languages by type
 Local Area Transport
-Lua (programming language)
 MACRO-10
 MACRO-11
 MATLAB
-MEDITECH
-MIIS (programming language)
-ML (programming language)
 MS-DOS
-MUMPS syntax
 Mac OS X
 Mainframe computer
 Maintenance Operations Protocol
 Mass Storage Control Protocol
-Massachusetts General Hospital
 Massbus
-Memory management (operating systems)
 MicroVAX 78032
 Microsoft Windows
-Middleware (distributed applications)
-Milky Way
-Multics
 Multinational Character Set
-Mumps
 NVAX
 National Replacement Character Set
-Neil Pappalardo
-Network database
-Niklaus Wirth
-Non-English-based programming languages
 OCLC (identifier)
 OL (identifier)
-OS/8
 Object-oriented programming
-Object Pascal
 On-line Debugging Tool
 OpenVMS
 Operating system
-Operator associativity
 PALcode
-PC12 minicomputer
-PDP-11
 PDP-11 architecture
-PDP-15
 PDP-7
-PDP-8
-PDP-9
 PHP
 PMID (identifier)
 Pascal (programming language)
 Perl
-Persistence (computer science)
-Phillip Ragon
 Procedural programming
 Processor (computing)
-Profile Scripting Language
 Programming language
 Programming paradigm
 Prolog
 Python (programming language)
 Q-Bus
-Query language
-Quest Diagnostics
 RA90
 RAND Corporation
 RK05
 RL02
-RSTS/E
 RSX-11
-RSX-15
 RT-11
-R (programming language)
 ReGIS
 Record Management Services
 Rigel (microprocessor)
-Robert A. Greenes
 Robert Palmer (computer businessman)
 Ruby (programming language)
-Rust (programming language)
 SQL
-STRINGCOMP
 Scope (computer science)
-Scratch (programming language)
-Shell script
-Simula
 Sixel
-Skunkworks project
-SlideShare
-Smalltalk
-Smithsonian Award
 Software design
 Software release life cycle
-SourceForge
-Sparse array
-Sparse matrix
 Standard Disk Interconnect
 Star coupler
 StrongARM
-Sunquest Information Systems
-Swift (programming language)
 Synchronous Backplane Interconnect
 System Module
-System Reference Manual
-TD/SMP
-TELCOMP
 TOPS-10
 TOPS-20
-TSS/8
 TU81
 TURBOchannel
-Tandem Computers
 The Ultimate Entrepreneur
-Time-sharing
-Timeline of programming languages
-Tiny BASIC
-Tru64 UNIX
-Type conversion
-Type system
 UK
-UNIX
 Ultrix
 Unibus
-United States Department of Defense
-University of Northern Iowa
-University of Texas Southwestern Medical Center
-Unix
-Usenet (identifier)
-Usenet newsgroup
 VAX
 VAXBI bus
 VAXELN
 VAX MACRO
-VM/370
 VT05
 VT100
 VT1000
-VT101
-VT102
-VT103
-VT105
-VT131
 VT180
 VT220
-VT240
-VT241
 VT320
-VT330
-VT340
 VT420
-VT510
 VT52
 VT520
-VT525
-VT55
-VT62
 VT640
 Veterans Health Administration
 Virtual machine
-VistA
-Visual Basic
-Visual Basic (.NET)
 Visual Basic (classic)
 WPS-8
-X11.1-1995

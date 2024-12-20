@@ -1,14 +1,7 @@
 !
-"
 $
-%
-&
 '
 (
-)
-+
-,
--
 0 (number)
 1829 braille
 1 (number)
@@ -20,7 +13,6 @@ $
 7 (number)
 8 (number)
 9 (number)
-;
 =
 ?
 @
@@ -36,18 +28,14 @@ Arabic script
 Armenian Braille
 Arrow (symbol)
 Asterisk
-Azeri Braille
 B
 Backslash
 Belarusian Braille
 Bengali Braille
 Bharati Braille
-Braces (punctuation)
 Braigo
 Braille
 Braille ASCII
-Braille Authority of North America
-Braille Authority of the United Kingdom
 Braille Institute of America
 Braille Patterns
 Braille Without Borders
@@ -62,7 +50,6 @@ Braille watch
 Bulgarian Braille
 Burmese Braille
 C
-CP437
 Canadian currency tactile feature
 Cantonese Braille
 Catalan Braille
@@ -85,8 +72,6 @@ French Braille
 Full stop
 G
 Gardner–Salinas braille codes
-Ge'ez Braille
-Gender symbol
 Georgian Braille
 German Braille
 Ghanaian braille
@@ -126,7 +111,6 @@ M
 Mainland Chinese Braille
 Malayalam Braille
 Maltese Braille
-Miscellaneous Technical (Unicode block)
 Mongolian Braille
 Moon type
 Mountbatten Brailler
@@ -170,8 +154,6 @@ Slovak Braille
 South African braille
 Space character
 Spanish Braille
-Square brackets
-Suit (cards)
 T
 Tactile alphabet
 Taiwanese Braille
@@ -179,45 +161,19 @@ Tamil Braille
 Tatar Braille
 Telugu Braille
 Thai and Lao Braille
-Thakur Vishva Narain Singh
-Tibetan Braille
-Turkish Braille
-Two-cell Chinese Braille
 U
-Ukrainian Braille
 Underscore
-Unified English Braille
-Urdu Braille
 V
-Valentin Haüy
 Vertical bar
-Vibratese
-Vietnamese Braille
 W
-Welsh Braille
-William Bell Wait
 X
 Y
-Yugoslav Braille
 Z
-Zambian Braille
 ^
 `
 ~
 §
 ¶
 •
-∟
-▬
 ▲
-►
 ▼
-◄
-○
-◘
-◙
-☺
-☻
-☼
-♪
-♫

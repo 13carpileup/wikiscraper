@@ -1,68 +1,41 @@
-ANXA2
 ATC code L01
-ATC code V09
-ATC code V10
-Abagovomab
 Abemaciclib
-Abituzumab
 Acalabrutinib
-Actinium-225
 Adagrasib
-Adecatumumab
-Adipotide
-Adrenergic
 Afatinib
 Aflibercept
 Alectinib
 Alemtuzumab
 Alpelisib
 Alpha particle
-Amatuximab
 American Society of Health-System Pharmacists
 Amivantamab
 Anaplastic lymphoma kinase
 Anatomical Therapeutic Chemical Classification System
-Anatumomab mafenatox
 Antibody
-Antibody-dependent cell-mediated cytotoxicity
-Antigen
 Antineoplastic
 Apoptosis
 Asciminib
-Ascrinvacumab
 Atezolizumab
-Atezolizumab/hyaluronidase
 Aumolertinib
 Avapritinib
 Avelumab
 Axatilimab
 Axitinib
 BRAF (gene)
-B cell
-Balstilimab
 Baricitinib
-Bavituximab
-Bcr-abl fusion protein
-Bectumomab
 Belantamab mafodotin
 Bermekimab
 Beta particle
 Beta radiation
 Bevacizumab
 Binimetinib
-Biogen Idec
-Bismuth-213
-Bivatuzumab mertansine
 Blinatumomab
 Bosutinib
-Botensilimab
 Brentuximab vedotin
 Brigatinib
-Brontictuzumab
 Bruton's tyrosine kinase
-C-Met
 CAS Registry Number
-CD117
 CD135
 CD20
 CD30
@@ -72,357 +45,75 @@ CD52
 CDK inhibitor
 Cabozantinib
 Cancer immunotherapy
-Cantuzumab mertansine
-Cantuzumab ravtansine
 Capmatinib
-Carotuximab
 Catumaxomab
 Cediranib
 Cemiplimab
 Ceritinib
 Cetuximab
-ChEMBL
-Chelator
 ChemSpider
 Chemotherapy
-Chimeric antibody
-Cirmtuzumab
-Citatuzumab bogatox
-Cixutumumab
-Clinical trial
 Cobimetinib
-Cofetuzumab pelidotin
-Complement-dependent cytotoxicity
-Conatumumab
 Copanlisib
 Cosibelimab
 Crizotinib
-DTPA
 Dabrafenib
-Dacetuzumab
 Dacomitinib
 DailyMed
-Dalotuzumab
 Dalpiciclib
 Daratumumab
 Dasatinib
-Demcizumab
 Denileukin diftitox
-Denintuzumab mafodotin
-Depatuxizumab mafodotin
-Detumomab
-Dinutuximab
-Dinutuximab beta
 Doi (identifier)
 Dostarlimab
-Drozitumab
-DrugBank
-Drug nomenclature
-Drugs.com
-Duligotumab
 Durvalumab
-Dusigitumab
 Duvelisib
-Duvortuxizumab
-Dysprosium-165
 EML4
-Ecromeximab
 Edrecolomab
 Elotuzumab
 Elranatamab
-Emactuzumab
-Emibetuzumab
 Encorafenib
 Enfortumab vedotin
-Enoblituzumab
-Enoticumab
-Ensituximab
 Entrectinib
-EpCAM
 Epcoritamab
 Epidermal growth factor receptor
 ErbB
-Erbium-169
 Erdafitinib
 Erlotinib
-Ertumaxomab
-Etaracizumab
-European Medicines Agency
 Everolimus
 Exotoxin
-Farletuzumab
 Fedratinib
 Fibroblast growth factor receptor
-Ficlatuzumab
-Figitumumab
 Filgotinib
-First-line therapy
-Flanvotumab
-Flotetuzumab
-Follicular lymphoma
 Food and Drug Administration
 Fruquintinib
 Fusion protein
 Futibatinib
-Futuximab
-Gamma camera
-Ganitumab
 Gefitinib
 Gemtuzumab ozogamicin
 Generic drug
 Gilteritinib
-Girentuximab
 Glasdegib
-Glembatumumab vedotin
 Glofitamab
-Gold-198
-HER2/neu
 Hedgehog signaling pathway
-Humanized antibody
-Ibritumomab tiuxetan (data page)
 Ibrutinib
 Icotinib
-Icrucumab
 Idelalisib
 Imatinib
-Imgatuzumab
-Immunoglobulin G
 Inavolisib
-Indatuximab ravtansine
-Indium-111
-Indium (111In) altumomab pentetate
-Indium (111In) capromab pendetide
-Indium (111In) igovomab
-Indium (111In) satumomab pendetide
 Infigratinib
 Inotuzumab ozogamicin
 Interleukin 2
-Intetumumab
-Intravenous
-Iobenguane
-Iodine-131
-Iodine (131 I) derlotuximab biotin
 Ipilimumab
-Iratumumab
 Isatuximab
 Isotope
-Istiratumab
 Janus kinase
-KEGG
 KRAS
-Labetuzumab
 Lapatinib
-Larotrectinib
-Lazertinib
-Lenvatinib
-Lestaurtinib
-Leukemia
-Lexatumumab
-Lifastuzumab vedotin
-Lilotomab
-Lintuzumab
-List of withdrawn drugs
-Loncastuximab tesirine
-Lorlatinib
-Lorvotuzumab mertansine
-Lucatumumab
-Lumretuzumab
-Lutetium-177
-Lutetium (177Lu) oxodotreotide
-Lymphatic system
-Lymphoid
-Lymphoma
-Lymphoproliferative disorder
-MEN1
-MTOR inhibitor
-Mapatumumab
-Margetuximab
-Marketing authorization
-Masitinib
-Matuzumab
-Methyl
-Midostaurin
-Milatuzumab
-Minretumomab
-Mirvetuximab soravtansine
-Mitogen-activated protein kinase kinase
-Mitumomab
-Mobocertinib
-Mogamulizumab
-Momelotinib
-Monoclonal antibody
-Monoclonal antibody therapy
-Mosunetuzumab
 Mouse
-Moxetumomab pasudotox
-Myeloid
-Nacolomab tafenatox
-Naptumomab estafenatox
-Narnatumab
-Naxitamab
-Necitumumab
-Neoplasm
-Neratinib
-Nesvacumab
-Nilotinib
-Nimotuzumab
-Nintedanib
-Nivolumab
-Non-Hodgkin's lymphoma
-Non-receptor tyrosine kinase
-OSTI (identifier)
-Obinutuzumab
-Ocaratuzumab
-Odronextamab
-Ofatumumab
-Olaratumab
-Olmutinib
-Onartuzumab
-Ontuxizumab
-Oportuzumab monatox
-Oregovomab
-Orelabrutinib
-Osimertinib
-Otlertuzumab
 PMC (identifier)
 PMID (identifier)
-Pacritinib
-Palbociclib
-Palliative care
-Panitumumab
-Parsaclisib
-Parsatuzumab
-Patritumab
-Pazopanib
-Pembrolizumab
-Pemigatinib
-Pemtumomab
-Pertuzumab
-Pexidartinib
-Phases of clinical research
 Phosphorus-32
-Pi3K inhibitor
-Pinatuzumab vedotin
-Pirtobrutinib
-Platelet-derived growth factor receptor
-Polatuzumab vedotin
-Ponatinib
-Pralsetinib
-Prescription drug
-Pritumumab
-Proapoptotic
-Prohibitin
-Prolgolimab
-Quizartinib
-RET proto-oncogene
-RTK class III
-Racotumomab
-Radioimmunotherapy
 Radionuclide
-Radiopharmacology
 Radium-223
-Radium chloride
-Radotinib
-Radretumab
-Ramucirumab
-Receptor tyrosine kinase
-Refractory disease
-Regorafenib
-Regulation of therapeutic goods
-Repotrectinib
-Retifanlimab
-Revumenib
-Rhenium-186
-Ribociclib
-Ridaforolimus
-Rilotumumab
-Ripretinib
-Rituximab
-Robatumumab
-Rociletinib
-Rosmantuzumab
-Route of administration
-Rovalpituzumab tesirine
-Ruxolitinib
 S2CID (identifier)
-Sabatolimab
-Sacituzumab govitecan
-Samarium-153
-Samarium (153Sm) lexidronam
-Selpercatinib
-Selumetinib
-Semaxanib
-Seribantumab
-Serplulimab
-Sibrotuzumab
-Siltuximab
-Simtuzumab
-Sirolimus
-Sofituzumab vedotin
-Solitomab
-Sonidegib
-Sorafenib
-Sotorasib
-Src (gene)
-Stem cell
-Strontium-89
-Sugemalimab
-Sunitinib
-Tafasitamab
-Talquetamab
-Taplitumomab paptox
-Tarextumab
-Targeted cancer therapy
-Tarlatamab
-Tebentafusp
-Technetium (99mTc) arcitumomab
-Technetium (99mTc) nofetumomab merpentan
-Technetium (99mTc) pintumomab
-Technetium (99mTc) votumumab
-Teclistamab
-Temsirolimus
-Tenatumomab
-Tepotinib
-Teprotumumab
-Tigatuzumab
-Tislelizumab
-Tisotumab vedotin
-Tivozanib
-Toceranib
-Toripalimab
-Tositumomab
-Tovetumab
-Trametinib
-Trastuzumab
-Trastuzumab/hyaluronidase
-Trastuzumab deruxtecan
-Trastuzumab emtansine
-Tremelimumab
-Trifunctional antibody
-Trilaciclib
-Tucatinib
-Tucotuzumab celmoleukin
-Tyrosine kinase inhibitor
-Ublituximab
-Unique Ingredient Identifier
-VEGF receptors
-Vandetanib
-Vandortuzumab vedotin
-Vantictumab
-Vanucizumab
-Vascular endothelial growth factor
-Vascular endothelial growth factor A
-Veltuzumab
-Vemurafenib
-Venetoclax
-Vismodegib
-Vorsetuzumab mafodotin
-WHO Model List of Essential Medicines
-Yttrium-90
-Yttrium (90Y) clivatuzumab tetraxetan
-Yttrium (90Y) tacatuzumab tetraxetan
-Zalutumumab
-Zanidatamab
-Zanubrutinib
-Zenocutuzumab
-Zolbetuximab

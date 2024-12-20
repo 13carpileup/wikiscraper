@@ -2,7 +2,6 @@ ATM card
 ATM usage fees
 Access (credit card)
 Acquiring bank
-Altyn Asyr (payment system)
 American Express
 Armenian Card
 Automated teller machine
@@ -17,17 +16,12 @@ Bankcard
 Brand
 CB Bank Card Group
 Cabcharge
-Card acquirer
 Card association
-Card issuer
-Card not present transaction
 Card security code
 Carte Bleue
-Cash advance
 Charge-off
 Charge card
 Chargeback
-Chargeback fraud
 Chipknip
 Choice (credit card)
 Cirrus (interbank network)
@@ -39,17 +33,14 @@ Credit card
 Credit card balance transfer
 Credit card debt
 Credit card fraud
-Credit card hijacking
 Credit card imprinter
 Credit card interest
 Credit limit
-Customer
 Dankort
 Debit Mastercard
 Debit card
 Debt-lag
 Deposit account
-Diners Club
 Diners Club International
 Discover Card
 Dispute (credit card)
@@ -58,18 +49,13 @@ EMV
 Electronic Payment Services
 Elo (card association)
 EnRoute (credit card)
-Eurocard (payment card)
 European Payments Initiative
-Fee
 Financial institution
 Forbrugsforeningen
-Four Corners Model for Payment Security
-Franchisee
 Franchising
 Fraud
 Girocard
 Grace period
-Guideline
 Hardware security module
 Hyundai Card
 Installment loan
@@ -82,24 +68,15 @@ Issuing bank
 JCB (credit card company)
 Laser (debit card)
 Maestro (debit card)
-Magnetic stripe card
 Malaysian Electronic Payment System
 Mastercard
 Meeza
 Mir (payment system)
 Mondex
-Network for Electronic Transfers
-Online payment
-Online transactions
 Organization
 PIN (debit card)
-POS terminal
 PayPak
-Payment
 Payment card number
-Payment cards
-Payment gateway
-Payment method
 Payment processor
 Payment terminal
 Personal identification number
@@ -108,25 +85,5 @@ Proton (debit card)
 Pulse (interbank network)
 Rail Travel Card
 Revolution Money
-Revolving account
-RuPay
-Savings account
-Secure cryptoprocessor
 Smart card
-Solo (debit card)
-Surcharge (payment systems)
-Switch (debit card)
-The Everything Card
-Transaction account
-Transaction fee
-Troy (card scheme)
-UnionPay
-Universal Air Travel Plan
-Universal default
-V Pay
-Verve Card
-Visa Cash
-Visa Debit
-Visa Electron
-Visa Inc.
 Website

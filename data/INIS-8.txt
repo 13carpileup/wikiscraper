@@ -17,7 +17,6 @@ ASCII
 ASMO 449
 ATASCII
 A (Cyrillic)
-Amstrad CP/M Plus character set
 Amstrad CPC character set
 Apostrophe
 Apple II character set
@@ -35,13 +34,11 @@ Bitstream International Character Set
 BraSCII
 C
 C0 and C1 control codes
-C0 control codes
 CCSID
 CDC display code
 CER-GS
 CESU-8
 CNS 11643
-CPAN
 CSX+ Indic character set
 CSX Indic character set
 CS Indic character set
@@ -69,17 +66,10 @@ Code page 1019
 Code page 1020
 Code page 1021
 Code page 1023
-Code page 1034
 Code page 1040
 Code page 1042
 Code page 1043
-Code page 1044
 Code page 1046
-Code page 1052
-Code page 1053
-Code page 1054
-Code page 1055
-Code page 1056
 Code page 1058
 Code page 1098
 Code page 1101
@@ -118,7 +108,6 @@ Code page 853
 Code page 855
 Code page 856
 Code page 857
-Code page 858
 Code page 859
 Code page 860
 Code page 861
@@ -135,7 +124,6 @@ Code page 896
 Code page 897
 Code page 899
 Code page 903
-Code page 904
 Code page 912
 Code page 915
 Code page 921
@@ -200,7 +188,6 @@ Greater-than sign
 H
 HP Roman
 HZ (character encoding)
-Ha (Cyrillic)
 Han unification
 Hard sign
 Hardware code page
@@ -208,36 +195,13 @@ Hong Kong Supplementary Character Set
 Hyphen-minus
 I
 IBM AIX
-IEC-P27-1
 INIS character set
-ISO-IR
 ISO-IR-111
 ISO-IR-169
 ISO-IR-182
 ISO-IR-197
 ISO-IR-200
 ISO-IR-68
-ISO/IEC 10367
-ISO/IEC 2022
-ISO/IEC 646
-ISO/IEC 8859
-ISO/IEC 8859-1
-ISO/IEC 8859-10
-ISO/IEC 8859-11
-ISO/IEC 8859-12
-ISO/IEC 8859-13
-ISO/IEC 8859-14
-ISO/IEC 8859-15
-ISO/IEC 8859-16
-ISO/IEC 8859-2
-ISO/IEC 8859-3
-ISO/IEC 8859-4
-ISO/IEC 8859-5
-ISO/IEC 8859-6
-ISO/IEC 8859-7
-ISO/IEC 8859-8
-ISO/IEC 8859-9
-ISO 2022
 ISO 2033
 ISO 5426
 ISO 5427
@@ -248,10 +212,6 @@ ITU T.61
 I (Cyrillic)
 Indian Script Code for Information Interchange
 Information Processing Society of Japan
-Intecolor/Compucolor 8001 character set
-International Atomic Energy Agency
-International Nuclear Information System
-Internet Assigned Numbers Authority
 Iran System encoding
 J
 JIS X 0201
@@ -303,7 +263,6 @@ Mac OS Hebrew
 Mac OS Icelandic encoding
 Mac OS Inuit
 Mac OS Keyboard encoding
-Mac OS Maltese/Esperanto encoding
 Mac OS Ogham
 Mac OS Roman
 Mac OS Romanian encoding
@@ -347,9 +306,7 @@ RPL character set
 Right parenthesis
 Right square bracket
 Russian Morse code
-Russian alphabet
 S
-SAM Coupé character set
 SI 960
 SQUOZE
 Sega SC-3000 character set
@@ -359,17 +316,14 @@ Sharp MZ character set
 Sharp pocket computer character sets
 Shcha
 Shift JIS
-Short I
 Sinclair QL character set
 Slash (punctuation)
 Soft sign
 Space character
 Standard Compression Scheme for Unicode
-Stanford/ITS character set
 Stanford Extended ASCII
 Symbol (typeface)
 T
-T.51/ISO/IEC 6937
 TI calculator character sets
 TRON (encoding)
 TRS-80 character set
@@ -422,9 +376,6 @@ Windows-1256
 Windows-1257
 Windows-1258
 Windows-1270
-Windows Cyrillic + Finnish
-Windows Cyrillic + French
-Windows Cyrillic + German
 Windows Polytonic Greek
 Windows code page
 World System Teletext
@@ -433,7 +384,6 @@ Xerox Character Code Standard
 Y
 YUSCII
 Ya (Cyrillic)
-Ya (letter)
 Ye (Cyrillic)
 Yery
 Yu (Cyrillic)
@@ -443,37 +393,5 @@ ZX81 character set
 ZX Spectrum character set
 Ze (Cyrillic)
 Zhe (Cyrillic)
-²
-³
-¹
-Α
-Β
-Γ
-Δ
-Λ
-Μ
-Ν
-Ξ
-Σ
-Ω
-⁰
-⁴
-⁵
-⁶
-⁷
-⁸
-⁹
-⁺
-⁻
-₀
-₁
-₂
-₃
-₄
-₅
-₆
-₇
-₈
-₉
 √
 ∫

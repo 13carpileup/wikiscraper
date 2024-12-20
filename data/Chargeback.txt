@@ -2,7 +2,6 @@ ATM card
 ATM usage fees
 Access (credit card)
 Acquiring bank
-Altyn Asyr (payment system)
 American Express
 Armenian Card
 Automated teller machine
@@ -15,27 +14,21 @@ Bankcard
 CB Bank Card Group
 Cabcharge
 Card association
-Card not present transaction
 Card scheme
 Card security code
 Carte Bleue
-Cash advance
 Charge-off
 Charge card
-Chargeback fraud
-Chargeback insurance
 Chipknip
 Choice (credit card)
 Cirrus (interbank network)
 Consumer
-Consumer protection
 Contactless payment
 Controlled payment number
 Credit card
 Credit card balance transfer
 Credit card debt
 Credit card fraud
-Credit card hijacking
 Credit card imprinter
 Credit card interest
 Credit limit
@@ -49,21 +42,17 @@ Discover Card
 Dispute (credit card)
 EFTPOS
 EMV
-Electronic Fund Transfer Act
 Electronic Payment Services
 Electronic funds transfer
 Elo (card association)
 EnRoute (credit card)
-Eurocard (payment card)
 European Payments Initiative
-Financial transaction
 Forbrugsforeningen
 Friendly fraud
 Girocard
 Grace period
 Hardware security module
 Hyundai Card
-IT chargeback and showback
 Identity theft
 Installment loan
 Interac
@@ -76,22 +65,16 @@ JCB (credit card company)
 Laser (debit card)
 Line of credit
 Maestro (debit card)
-Magnetic stripe card
 Malaysian Electronic Payment System
-MasterCard
 Mastercard
 Meeza
 Mir (payment system)
 Mondex
-Network for Electronic Transfers
-Non-sufficient funds
 PIN (debit card)
 PayPak
 PayPal
-Payment
 Payment card
 Payment card number
-Payment service provider
 Payment terminal
 Personal identification number
 Plus (interbank network)
@@ -99,25 +82,4 @@ Proton (debit card)
 Pulse (interbank network)
 Rail Travel Card
 Revolution Money
-Revolving account
-RuPay
-Savings account
-Secure cryptoprocessor
 Smart card
-Solo (debit card)
-Solvency
-Surcharge (payment systems)
-Switch (debit card)
-The Everything Card
-Transaction account
-Troy (card scheme)
-Truth in Lending Act
-UnionPay
-Universal Air Travel Plan
-Universal default
-V Pay
-Verve Card
-Visa Cash
-Visa Debit
-Visa Electron
-Visa Inc.

@@ -1,64 +1,33 @@
 Compiler
-Executable
 Maintainability
-Arithmetic shift
 C (programming language)
 Microprocessor
 Computing platform
-UNIX/32V
 List of system quality attributes
-Instruction set
 Non-functional requirement
 Linux distribution
 Computer programming
 Porting
 Understandability
-Cross-platform software
 CPU
 Reliability engineering
 Accuracy and precision
 Source code
-Installation (computer programs)
-Linker (computing)
-Conditional compilation
 X86
-Mass storage
-ISO/IEC 9126
 Operating system
-Hardware-dependent software
-Portable application
 Adaptability
 Usability
-Logical shift
 Software quality
-Bourne shell
 Software testability
-Data portability
 Reusability
-Windows registry
 Loose coupling
-Configuration file
-Integer (computer science)
-Interface (computer science)
 Software quality management
 Abstraction (computer science)
-Logical drive
-Make (software)
 Robustness (computer science)
 Software quality control
-Web application
 C++
 Microsoft Windows
-USB stick
-Software development security
 Open-source software
-Software system safety
-Write once, compile anywhere
-Endianness
-Portability testing
-ARM architecture
-Directory (file systems)
-Language interoperability
 Algorithmic efficiency
 Device driver
 Software quality assurance
@@ -67,8 +36,5 @@ Software sizing
 Interoperability
 Scalability
 Orthogonality (programming)
-Web applications
-Source-to-source compiler
 Correctness (computer science)
-Application portability
 JavaScript

@@ -1,4 +1,3 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
 AlmaLinux
@@ -15,7 +14,6 @@ Asahi Linux
 Astra Linux
 Asturix
 Austrumi Linux
-Azerbaijani language
 BLAG Linux and GNU
 BackBox
 BackTrack
@@ -54,7 +52,6 @@ Debian
 Deepin
 DemoLinux
 Devuan
-DistroWatch
 DivestOS
 DoudouLinux
 Dreamlinux
@@ -88,14 +85,10 @@ Gentoo Linux
 GoboLinux
 Gobuntu
 GrapheneOS
-Graphics
 HandyLinux
-Hyperbola GNU/Linux-libre
-IA-32
 Immunix
 IodéOS
 Jurix
-KDE
 KDE neon
 KaOS
 KaiOS
@@ -129,7 +122,6 @@ MIUI
 MX Linux
 Mageia
 Mandrake Linux
-Mandriva
 Mandriva Linux
 Manjaro
 MeeGo
@@ -137,7 +129,6 @@ Mer (software distribution)
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Musix GNU+Linux
 Natural language
 Network Security Toolkit
 NimbleX
@@ -155,7 +146,6 @@ Open Enterprise Server
 Oracle Linux
 PCLinuxOS
 Package manager
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
@@ -175,7 +165,6 @@ Python (programming language)
 Q4OS
 Qubes OS
 ROSA Linux
-RPM Package Manager
 Raspberry Pi OS
 Red Hat Enterprise Linux
 Red Hat Linux
@@ -185,7 +174,6 @@ Replicant (operating system)
 Resurrection Remix OS
 Rocks Cluster Distribution
 Rocky Linux
-Rpmdrake
 SUSE Linux
 SUSE Linux Enterprise
 SUSE Studio
@@ -215,7 +203,6 @@ Tizen
 TopologiLinux
 Trisquel
 Turbolinux
-Turkish language
 Ubuntu
 Ubuntu Budgie
 Ubuntu Cinnamon
@@ -227,19 +214,13 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Urpmi
-Uruk GNU/Linux
 User interface
 User space and kernel space
 VectorLinux
 Vine Linux
 Void Linux
 Whonix
-Windows XP
-Wizard (software)
 Wubuntu
-X86-64
 XB Machine
 Xubuntu
 Yellow Dog Linux

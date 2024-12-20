@@ -1,394 +1,130 @@
-AC-to-AC converter
-AC/DC receiver design
-AC adapter
 AC power
 AC power plugs and sockets
 Acoustical engineering
-Active rectification
-Actuator
-Adaptive control
-Additive white Gaussian noise
-Adjustable-speed drive
-Admittance
-Advanced z-transform
 Aerospace engineering
-Affinity laws
 Agricultural engineering
-Alpha–beta transformation
 Alternating current
 Alternator
-Alternator synchronization
 Aluminium smelting
-American Institute of Electrical Engineers
-Ammeter
-Amorphous metal transformer
-Ampacity
-Ampere
-Amplidyne
-Amplifier
-Amplitude modulation
 Ampère's circuital law
-Ampère's force law
-Ampère's law
-Analog-to-digital converter
-Analog circuit
-Analog filter
-Analog signal
-Analog signal processing
-Anode
 Antenna (radio)
-Apparent power
 Apple Inc.
-Arbitrary waveform generator
-Arc converter
-Arc furnace
 Arc lamp
-Arc welder
 Architectural engineering
-Armature (electrical engineering)
 Artificial intelligence
 Artificial intelligence engineering
-Artificial neural network
-Asymptotic stability
-Asynchronous circuit
-Audio and video connector
 Audio engineer
-Audio equipment
-Audio filter
 Audio frequency
-Audio noise reduction
-Audio signal processing
-Audion tube
-Austin transformer
-Automatic gain control
-Automatic transfer switch
 Automation
 Automation engineering
 Automotive engineering
-Autorecloser
-Autotransformer
-Availability factor
-Avalanche diode
-Average rectified value
-BIBO stability
 Bachelor of Engineering
 Bachelor of Science
-Backward wave oscillator
 Balanced line
-Ball bearing motor
-Balun
-Band-pass filter
-Band-stop filter
-Bandwidth (signal processing)
-Bang-bang control
-Barlow's wheel
-Bartlett's bisection theorem
-Base load power plant
-Battery eliminator
-Bayer filter
-Beam tetrode
-Beat frequency
-Bell Telephone Laboratories
-Biasing
-Bilinear transform
-Bimetallic strip
 Biochemical engineering
 Bioinformatics
 Biological engineering
-Biological neural network
 Biomaterial
 Biomechanical engineering
 Biomedical engineering
 Bioresource engineering
 Biot–Savart law
-Bipolar junction transistor
-Blocked rotor test
-Blu-ray
-Bode plot
-Boolean algebra (logic)
-Boost converter
-Booster (electric power)
-Bound charge
-Braking chopper
-Branch circuit
-Breakdown voltage
-Bridge rectifier
 Broadcast engineering
 Broadcasting
-Brush (electric)
-Brushed DC electric motor
-Brushless DC electric motor
-Buchholz relay
-Buck converter
-Buck–boost converter
-Buck–boost transformer
 Building services engineering
-Busbar
-Bushing (electrical)
-Butterworth filter
-Buzzer
-CATV
 CD
-CMOS
 CPU
-Canadian Electrical Code
-Canadian Standards Association
 Capacitance
 Capacitor
-Capacitor-input filter
-Capacitor voltage transformer
-Capacity factor
-Carrier current
-Carrier wave
-Cat's-whisker detector
-Category 3 cable
-Category 5e cable
-Category 6 cable
-Catenary
-Cathode
-Cathode ray oscilloscope
-Cathode ray tube
-Cavity magnetron
-Center tap
 Ceramic engineering
-Ceramic resonator
-Channel (communications)
-Channel capacity
-Charactron
-Charge-coupled device
-Charge pump
-Charge transfer switch
-Chebyshev filter
 Chemical engineering
 Chemical reaction engineering
-Choke (electronics)
-Chopper (electronics)
-Circle diagram
-Circuit Total Limitation
-Circuit breaker
-Circuit breaker panel
-Circuit theory
 Civil engineering
-Clamp meter
-Clapp oscillator
-Class of accuracy in electrical measurements
 Climate engineering
 Clinical engineering
-Closed-loop controller
 Coastal engineering
 Coaxial cable
-Cockcroft–Walton generator
 Cogeneration
-Cold cathode
-Colossus (computer)
-Combined cycle
-Communication system
 Communications satellite
-Commutation cell
 Commutator (electric)
-Compact fluorescent lamp
-Compactron
-Compensation winding
 Complex number
-Computed tomography
 Computer-aided design
 Computer engineering
 Computer hardware
 Computer network engineering
 Computer programming
-Conduction band
-Constant k filter
 Construction engineering
 Consumer electronics
-Contactor
-Continuous Fourier transform
-Continuous signal
 Control engineering
-Control system
 Control theory
-Controllability
-Controller (control theory)
-Copper cable certification
-Copper loss
-Corona ring
 Corrosion engineering
 Coulomb
 Coulomb's law
 Crest factor
-Crossed-field amplifier
-Crosstalk
-Crystal oscillator
-Current-to-voltage converter
-Current (electricity)
 Current density
-Current source
-Current source inverter
-Current transformer
 Cybernetics
 Cybersecurity engineering
-Cycloconverter
-DC-to-DC converter
-DC injection braking
-DIAC
 DVD
-Damping ratio
-Darlington transistor
 Data compression
 Data engineering
-Data networks
 Degaussing
-Delta-wye transformer
-Demand factor
-Demand response
-Demodulation
-Describing function
 Design engineer
-Detector (radio)
 Dielectric
-Digital-to-analog converter
-Digital audio broadcasting
-Digital circuit
-Digital computers
-Digital control
-Digital filter
-Digital image processing
-Digital micromirror device
-Digital protective relay
-Digital signal controller
-Digital signal processing
 Digital television
-Diode
-Diode bridge
 Dipole antenna
 Direct current
-Direct on line starter
-Direct torque control
-Discrete-time signal
-Discrete Fourier transform
 Discrete cosine transform
 Displacement current
 Display device
 Dissipation
-Dissolved gas analysis
-Distributed-element model
-Distributed control system
-Distributed generation
-Distribution board
-Distribution transformer
 Doctorate
-Dolby
-Dot convention
-Doubly fed electric machine
-Downsampling
-Dqo transformation
-Droop speed control
-Dual control theory
-Dual loop
-Dynamic braking
-Dynamic demand (electric power)
 Dynamic programming
-Dynamic random-access memory
-Dynamo
-ENIAC
-Earth leakage circuit breaker
 Earthquake engineering
 Ecological engineering
 Eddy current
-Edge detection
-Edison effect
 Electret
-Electric Power Research Institute
-Electric arc
 Electric battery
 Electric charge
-Electric circuit
 Electric current
 Electric displacement field
-Electric distribution systems
 Electric field
-Electric field gradient
 Electric generator
 Electric motor
-Electric multiple unit
 Electric potential
 Electric power
-Electric power conversion
 Electric power distribution
 Electric power transmission
 Electric shock
 Electrical cable
-Electrical code
 Electrical conductivity
 Electrical conductor
-Electrical contact
-Electrical discharge machining
-Electrical element
 Electrical engineering
-Electrical equipment
-Electrical grid
 Electrical impedance
-Electrical insulation
 Electrical insulation paper
 Electrical load
-Electrical machine
-Electrical measurements
 Electrical network
-Electrical polarity
 Electrical resistance and conductance
-Electrical steel
 Electrical substation
-Electrical technologist
 Electrical wiring
-Electrical wiring regulations
 Electricity
 Electricity meter
-Electricity pylon
-Electrification
-Electro-diesel locomotive
-Electroactive polymers
-Electrocardiograph
 Electrochemical engineering
-Electrodes
-Electrodynamics
-Electrolyte
-Electromagnet
-Electromagnetic compatibility
 Electromagnetic field
 Electromagnetic induction
 Electromagnetic radiation
 Electromagnetic spectrum
 Electromagnetic wave equation
 Electromagnetism
-Electromechanical
 Electromechanics
-Electromote
 Electromotive force
-Electron microscope
-Electronic amplifier
-Electronic circuit
 Electronic component
-Electronic control unit
 Electronic design automation
 Electronic engineering
-Electronic filter
-Electronic speed control
 Electronics
-Electronics engineering
-Electrophorus
-Electrostatic motor
 Electrostatics
-Embedded operating system
-Embedded software
 Embedded system
-Enameled wire
 Energy
-Energy demand management
-Energy economics
-Energy efficient transformer
 Energy engineering
-Energy returned on energy invested
-Energy subsidies
-Engine-generator
 Engineer
 Engineer's degree
 Engineering
@@ -398,822 +134,210 @@ Engineering management
 Engineering mathematics
 Engineering physics
 Environmental engineering
-Epstein frame
-Equalization (audio)
-Equalization (communications)
-Equivalent circuit
-Equivalent impedance transforms
-Error correction and detection
 Explosives engineering
-Exponential stability
-Extended Kalman filter
 Facilities engineering
-Farad
 Faraday's law of induction
-Faraday shield
-Faraday–Lenz law
-Fast Fourier transform
 Fault (power engineering)
 Fax
 Feed-in tariff
-Feedback
-Feedback amplifier
-Ferrite core
-Ferroelectricity
-Fiber-optic cable
-Field-oriented control
-Field effect transistor
-Filter (signal processing)
-Filter capacitor
-Finite impulse response
 Fire protection engineering
-Firmware
-Fleming's left-hand rule for motors
-Fleming's right-hand rule
-Fleming valve
-Fluorescent lamp
-Flux linkage
-Flyback converter
-Flyback transformer
 Food engineering
-Force
 Forensic engineering
-Forward converter
-Fossil-fuel phase-out
-Fossil-fuel power station
-Fourier series
-Fourier transform
-Free space optical communications
-Frequency changer
 Frequency modulation
-Frequency response
-Full-wave rectifier
-Full load current
-Fuse (electrical)
-Fuzzy control
-GSM
-Gain scheduling
-Galvanic corrosion
-Galvanometer
 Gamma ray
-Gas-filled tube
-Gate turn-off thyristor
 Gauss's law
-Generator (circuit theory)
 Genetic engineering
 Geological engineering
 Geomatics engineering
 Geotechnical engineering
 Glossary
-Glossary of Arabic toponyms
-Glossary of Hebrew toponyms
 Glossary of aerospace engineering
-Glossary of agriculture
-Glossary of archaeology
-Glossary of architecture
-Glossary of areas of mathematics
-Glossary of artificial intelligence
-Glossary of astronomy
-Glossary of biology
-Glossary of bird terms
-Glossary of botanical terms
-Glossary of calculus
-Glossary of cell biology
-Glossary of cellular and molecular biology (0–L)
-Glossary of cellular and molecular biology (M–Z)
-Glossary of chemistry terms
 Glossary of civil engineering
-Glossary of clinical research
-Glossary of computer hardware terms
-Glossary of computer science
-Glossary of developmental biology
-Glossary of ecology
-Glossary of economics
-Glossary of engineering
-Glossary of entomology terms
-Glossary of environmental science
-Glossary of genetics and evolutionary biology
-Glossary of geography terms (A–M)
-Glossary of geography terms (N–Z)
-Glossary of geology
 Glossary of ichthyology
-Glossary of machine vision
 Glossary of mechanical engineering
-Glossary of medicine
-Glossary of meteorology
-Glossary of mycology
-Glossary of nanotechnology
-Glossary of physics
-Glossary of probability and statistics
-Glossary of psychiatry
-Glossary of quantum computing
-Glossary of robotics
-Glossary of scientific naming
 Glossary of structural engineering
-Glossary of virology
-Governor (device)
 Graduate certificate
-Grid-tie inverter
-Grid energy storage
-Ground-level power supply
-Ground (electricity)
 Ground and neutral
-Growler (electrical device)
-Gunn diode
-Gyrotron
-H-bridge
-HDTV
-HVAC
-HVDC
-HVDC converter
-HVDC converter station
-H infinity
-Hall effect sensor
-Harmonic
-Harmonic distortion
-Harmonic oscillator
-Harmonics (electrical power)
-Headphone
 Health technology
 Heat transfer
-Heatsink
-Heaviside step function
-Helmholtz coil
-Henry (unit)
 Hertz
-Heterodyne
-Heterostructure
-Hi-Fi
-High-pass filter
-High-voltage cable
 High-voltage direct current
-High-voltage switchgear
 High voltage
-Hilbert transform
-History of electrical engineering
 History of engineering
 Holography
 Home appliance
-Homopolar generator
-Homopolar motor
 Horsepower
-Hot wire barretter
-Humidistat
-Hybrid coil
 Hydraulic engineering
-Hydroelectricity
-Hydropower
-Hysteresis
-IGBT
 ISBN (identifier)
-Image impedance
-Image noise reduction
-Image processing
-Impulse response
 Incandescent light bulb
-Induction coil
-Induction cooker
-Induction generator
 Induction motor
-Induction regulator
 Inductive coupling
-Inductive output tube
 Inductor
 Industrial and multiphase power plugs and sockets
-Industrial automation
 Industrial engineering
-Infinite impulse response
 Information
-Information appliance
 Information engineering
 Information theory
-Input/output
-Inrush current
 Institute of Electrical and Electronics Engineers
-Institution of Engineering and Technology
 Instrumentation
 Instrumentation and control engineering
 Instrumentation engineering
-Insulation monitoring device
-Insulator (electrical)
 Integrated circuit
-Intelligent control
-Intelligent transportation system
 Interdisciplinarity
-Intermittent energy source
-International Bureau of Weights and Measures
 International Electrotechnical Commission
 International Organization for Standardization
 International System of Units
-Interrupter
-Inverter (electrical)
-Isolated-phase bus
-Isolation transformer
-Iterative learning control
-JFET
 James Prescott Joule
-Jedlik's dynamo
-Jitter
 Joule
 Joule heating
-Kalman filter
-Kelvin–Stokes theorem
-Kilovolt-ampere
 Kirchhoff's circuit laws
-Klystron
-LAN
 LORAN
-LTI system theory
-Ladder network
-Laplace transform
-Laser diode
-Leakage inductance
-Light-emitting diode
-Line isolation transformer
 Linear alternator
 Linear motor
-Linear variable differential transformer
-Lineman (technician)
 List of engineering branches
 Litz wire
-Load-loss factor
-Load flow study
-Load following power plant
-Load management
-Load profile
-Local positioning system
 Logistics engineering
-Lorentz force law
-Lossless data compression
-Lossy data compression
 Loudspeaker
-Low-noise amplifier
-Low-noise block downconverter
-Low-pass filter
-Lumen (unit)
-Lumped parameters
-Lyapunov stability
-MOSFET
 MP3
-MRI
 Machine learning
-Magnet wire
-Magnetic blowout
 Magnetic circuit
-Magnetic constant
-Magnetic core
-Magnetic core memory
 Magnetic field
 Magnetic flux
-Magnetic flux density
 Magnetic moment
 Magnetism
 Magnetization
-Magnetization current
 Magnetostatics
-Magnetostriction
-Magnifying transmitter
-Main distribution frame
 Mainframe computer
-Mains electricity
-Mains hum
 Manufacturing engineering
-Marginal stability
-Marine energy
 Marine engineering
-Marx generator
 Maser
 Master's degree
 Materials science
-Maximum prospective short-circuit current
 Maxwell's equations
 Mechanical, electrical, and plumbing
 Mechanical engineering
-Mechanical rectifier
 Mechatronics
-Memristor
-Mercury-arc rectifier
-Mercury vapor lamp
-Mesh analysis
-Mesh networking
-Metadyne
-Metal rectifier
 Metallurgy
 Metre
-Micro combined heat and power
 Microcontroller
-Microelectromechanical systems
-Microelectronics
-Microgeneration
 Microphone
 Microprocessor
-Microstrip
-Microstrip antenna
 Microwave
 Microwave engineering
 Microwave oven
-Microwave radio
 Military engineering
-Millman's theorem
-Mineral-insulated copper-clad cable
 Mining engineering
 Mobile phone
 Modbus
-Model predictive control
 Modem
 Modulation
-Modulation transformer
 Molecular engineering
-Monolithic microwave integrated circuit
-Monoscope
-Moore's law
 Morse code
 Motion control
-Motor controller
-Motor soft starter
-Multics
-Multimeter
-Multisim
 Municipal or urban engineering
-NTSC
-Nameplate capacity
-Nanoinverter
 Nanotechnology
-National Electric Code
-National Electrical Manufacturers Association
 Naval architecture
 Negative feedback
-Negative resistance
-Negawatt power
-Neon-sign transformer
-Neon sign
-Net metering
-Network analyzer (AC power)
-Network cable
-Network protector
 Newton (unit)
-Nodal analysis
-Node (circuits)
-Noise cancelling
-Noise reduction
-Noisy-channel coding theorem
-Nominal impedance
-Nonlinear control
-Nonode
-Norton's theorem
-Notch filter
 Nuclear engineering
-Nuclear power
 Numerical control
-Nuvistor
-Nyquist frequency
-Nyquist stability criterion
-Nyquist–Shannon sampling theorem
-Observability
-Oersted
 Offshore engineering
-Ohm
 Ohm's law
-Ohmmeter
-Oikonyms in Western and South Asia
-On-premises wiring
-One-line diagram
 Ontology engineering
-Open-circuit test
-Open-circuit time constant method
-Open-circuit voltage
-Operational amplifier
 Optical engineering
 Optical fiber
 Optimal control
-Oscillation
-Oscilloscope
-Oudin coil
 Out of phase
 Outline of computer engineering
-Outline of electrical engineering
 Outline of engineering
-Overhead line
-Oversampling
-Overshoot (signal)
-Overvoltage
-Oxygen-free copper
-P-N junction
-PID controller
-PIN diode
 Packaging engineering
-Padmount transformer
-Pantograph (rail)
 Paper engineering
-Paraformer
-Parameter estimation
-Park transform
-Partial discharge
-Passivity (engineering)
-Patch cables
-Peak demand
-Peltier–Seebeck effect
-Pentagrid converter
-Pentode
-Permanent magnet
-Permanent magnet synchronous generator
 Permeability (electromagnetism)
 Petroleum engineering
 Pharmaceutical engineering
-Phase-fired controllers
-Phase converter
-Phase locked loop
-Phase modulation
-Phasor (electronics)
-Phasor measurement unit
-Phonograph
-Photocell
-Photodetector
-Photodiode
-Photometer
-Photonics
-Photoresistor
-Phototransistor
-Piezoelectric effect
-Piezoelectric motor
-Planar graph
 Plasma (physics)
-Plenum cable
-Plug-in hybrid
 Polarization density
 Polymer engineering
-Polyphase coil
-Polyphase system
-Pontryagin's minimum principle
-Port (circuit theory)
 Positive feedback
-Potential difference
-Potentiometer
-Power-factor correction
-Power-flow study
-Power-line communication
 Power-system automation
-Power-system protection
-Power BJT
-Power MOSFET
-Power cable
-Power conditioner
-Power consumption
-Power converter
-Power distribution
-Power electronics
 Power engineering
-Power factor
-Power generation
-Power grid
-Power inverter
 Power plant
-Power quality
-Power rating
-Power storage
 Power supply
 Printed circuit board
 Printer (computing)
 Privacy engineering
 Process control
 Process engineering
-Programmable logic controller
 Programming language
-Protective relay
-Proximity effect (electromagnetism)
-Pulse-amplitude modulation
-Pulse-code modulation
-Pulse-width modulation
-Pulse transformer
-Pumped-storage hydroelectricity
-Push switch
-Push–pull converter
-Quadrature booster
 Quality factor
-Quantization (signal processing)
-RF connector
-RF engineering
-RLC circuit
 Radar
-Radar cross section
 Radio
 Radio-frequency engineering
 Radio frequency
 Radio transmitter
-Railway electrification system
 Railway engineering
-Rankine cycle
-Reactive power
-Real-time operating system
-Receiver (radio)
-Rechargeable battery
-Reciprocity (electrical networks)
-Reciprocity (electromagnetism)
-Record player
 Rectifier
-Rectiformer
-Recursive least squares filter
-Reed switch
-Regenerative braking
-Regenerative circuit
 Regulation and licensure in engineering
 Rehabilitation engineering
-Relaxation oscillator
-Relay
-Reluctance motor
-Remanence
-Remote racking system
-Remote sensing
-Renewable electricity
-Renewable energy payments
-Renewable energy policy
-Repeating coil
-Repowering
-Repulsion motor
-Resettable fuse
-Residual current circuit breaker
-Resistive circuit
 Resistivity
-Resistor
-Resolver (electrical)
-Resonant cavity
-Resonant inductive coupling
-Return loss
-Rheoscope
-Rheostat
 Right-hand rule
 Ripple (electrical)
 River engineering
 Robotics
 Robotics engineering
-Robust control
-Rogowski coil
-Root locus
 Root mean square
-Rotary converter
-Rotary encoder
-Rotary switch
-Rotary transformer
-Rotary variable differential transformer
 Rotor (electric)
-Routh–Hurwitz stability criterion
-S-domain
-SCADA
-SDTV
-SI derived unit
-SPICE
 Safety engineering
-Sallen–Key filter
-Sample and hold
-Sampling (information theory)
-Sampling frequency
 Sanitary engineering
-Satellite
 Satellite radio
-Saturation (magnetic)
-Scattering parameters
-Schmitt trigger
-Schottky diode
 Science
-Scott-T transformer
 Security engineering
-Segmentation (image processing)
-Selenium rectifiers
-Semiconductor
 Semiconductor device
-Semiconductor fabrication
-Sensor
-Serial communication
 Series and parallel circuits
-Shaded-pole motor
-Shaft voltage
-Shielded twisted pair
-Short-circuit test
-Short circuit
 Shunt (electrical)
-Siemens (unit)
-Signal
-Signal-flow graph
-Signal-to-noise ratio
 Signal processing
-Signal strength
-Silicon Valley
-Silicon controlled rectifier
 Sine wave
 Single-phase electric power
-Single-sideband modulation
 Skin effect
-Sliding mode control
-Slip ring
-Small-signal model
-Smart grid
-Smith chart
 Software
 Software engineering
-Solar cell
-Solar energy
-Solar micro-inverter
-Soldering
-Solenoid
-Solid state (electronics)
-Solid state physics
-Sound recording
-Space vector modulation
-Spark-gap transmitter
-Spark spread
-Spectrum analyzer
-Speech processing
-Split phase
 Sports engineering
 Square wave
-Stability theory
-Stable polynomial
-Stacking factor
-Standing wave ratio
-Star-mesh transform
-State observer
-State space representation
-Static VAR compensator
 Stator
-Steady-state
-Steam turbine
-Step response
-Stepper motor
 Stereophonic sound
-Stokes' theorem
-Storage tube
-Stray capacitance
 Structural engineering
-Structured cabling
-Submarine communications cable
-Sulfur hexafluoride circuit breaker
-Super grid
-Supercomputer
-Superconducting electric machine
-Superconductivity
-Superheterodyne receiver
-Superposition theorem
 Surface engineering
-Surge arrester
-Surge protection
 Survey engineering
 Sustainable engineering
-Switch
-Switched-mode power supply
-Switched reluctance motor
-Switchgear
-Symbolic circuit analysis
 Symmetrical components
-Synchro
-Synchronization (alternating current)
-Synchronous circuit
-Synchronous motor
-Synchronous rectification
-Synchroscope
-System identification
 System on a chip
-System on module
 Systems engineering
-TRIAC
-Tachometer
-Tap (transformer)
-Tap changer
-Technical drawing
-Telecommunication
-Telecommunications Industry Association
 Telecommunications engineering
-Telegraph
-Telegrapher's equations
 Telephone
-Telephone balance unit
-Telephone line
 Television
-Tellegen's theorem
-Tesla (unit)
-Tesla coil
-Tetrode
 Textile engineering
 Thermal engineering
-Thermionic emission
-Thermistor
-Thermocouple
-Thermoelectric effect
-Thermostat
-Third rail
-Three-phase AC railway electrification
 Three-phase electric power
-Thyristor
-Thyristor drive
-Thévenin theorem
-Tidal power
-Time-invariant system
-Time sharing
 Tissue engineering
-Topology (electrical circuits)
-Toroidal inductors and transformers
-Total harmonic distortion
-Traction battery
-Traction current
 Traction motor
-Traction substation
 Traffic engineering (transportation)
-Transatlantic communications cable
-Transceiver
-Transconductance
-Transducer
-Transfer function
 Transformer
-Transformer oil
-Transformer oil testing
-Transformerboard
-Transient response
-Transil
-Transistor
-Transmission (telecommunications)
 Transmission line
-Transmission system operator
 Transmission tower
 Transmitter
 Transportation engineering
-Traveling-wave tube
-Trembler coil
 Triangle wave
 Tribology
-Trigger transformer
-Triode
-Trolley pole
-Trolleybus
 Tuned circuit
 Twisted pair
-Two-phase electric power
-Two-port network
-Two-sided Laplace transform
 Ubiquitous computing
-Ultrasonic motor
-Ultrasonics
-Ultrasound
-Undersampling
-Unijunction transistor
-Unipolar motor
-Unshielded twisted pair
-Upsampling
 Utility frequency
-Utility pole
-VLSI
-Vacuum capacitor
 Vacuum tube
-Variable-frequency drive
-Variable capacitor
-Variac
-Varicap
-Varistor
-Vector control (motor)
-Vector group
-Vehicle-to-grid
-Vehicular automation
-Versorium
-Vibrator (electronic)
-Video camera tube
-Video processing
-Virtual instrumentation
-Virtual power plant
 Volt
-Volt-ampere
 Voltage
-Voltage-controlled amplifier
-Voltage-to-current converter
-Voltage compensation
-Voltage controller
-Voltage converter
-Voltage division
-Voltage doubler
-Voltage regulation
-Voltage regulator
-Voltage source
-Voltage spike
-Voltmeter
 War of the currents
-Ward Leonard control
 Watt
-Wattmeter
 Waveguide (electromagnetism)
-Weber (unit)
-Wien bridge oscillator
-Wiener filter
-Williams tube
-Wind farm
-Wind power
-Wind turbine
-Wire
 Wireless network
-Wireless telegraphy
-Work (physics)
 X-ray
-X-ray lithography
-Y-Δ transform
-Yagi antenna
-Z-transform
 Zener diode
-Ziegler-Nichols tuning method
-Zigzag transformer
-Ćuk converter

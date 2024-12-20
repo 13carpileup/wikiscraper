@@ -1,272 +1,38 @@
-0 A.D. (video game)
-AMD Radeon Software
-Alsamixer
 Android (operating system)
-AppArmor
 Application programming interface
-Bash (Unix shell)
-Bcache
-Berkeley Packet Filter
 Bionic (software)
 Blender (software)
-BlueZ
-Booting process of Linux
-Brain Fuck Scheduler
-CRIU
 C (programming language)
 C standard library
-Case sensitivity
 Central processing unit
-Cgroups
-Close (system call)
-Comparison of open-source wireless drivers
-Completely Fair Scheduler
-Compute Node Linux
 Computer data storage
-Configfs
-Cooperative Linux
-Criticism of Linux
-Crypto API (Linux)
-Daemon (computing)
-Debugfs
-Devfs
 Device driver
-Device mapper
-Devpts
 Dietlibc
-Direct Rendering Infrastructure
-Direct Rendering Manager
-Disposable Soft Synth Interface
-Dm-cache
-Dm-crypt
-Dnotify
-Dolby Digital
-Dracut (software)
-Dup (system call)
-EDAC (Linux)
-ELinOS
-Earliest eligible virtual deadline first scheduling
-Embedded GLIBC
 Embedded system
-Endianness
-Enlightenment Foundation Libraries
-Epoll
-Evdev
-Exec (system call)
-Exec Shield
-Exit (system call)
-FLTK
-Filesystem in Userspace
-Firefox
-Fopen
-Free and open-source graphics device driver
-Freedesktop.org
-Ftrace
-Full-duplex
-Futex
-GIMP
 GNU
-GNU C Library
 GNU General Public License
-GNU Lesser General Public License
-GNUstep
-GTK
 GitHub
 Glibc
-Gravis Ultrasound
-Hardware mixing
-High- and low-level
 High-performance computing
-Hypervisor
-I/O Controller Hub
-IEC958
-IIO Framework
-INK (operating system)
-Init
-Initramfs
-Initrd
-Inotify
 Inter-process communication
 Io uring
-Ioctl
-JACK Audio Connection Kit
-Jaroslav Kysela
-KGraft
-KMS driver
-KMid
-Kdump (Linux)
-Kernel-based Virtual Machine
-Kernel.org
-KernelCare
-Kernel same-page merging
-Kernfs (Linux)
-Kexec
 Klibc
-Kmscon
-Kpatch
-Ksplice
-L4Linux
-LADSPA
-LAMP (software bundle)
-LIO (SCSI target)
-LXC
-LYME (software bundle)
-Lguest
-Libhybris
-Library (computer science)
-LibreOffice
-Libusb
-Linaro
-Linus's law
 Linux
-Linux-VServer
-Linux-libre
-Linux-powered device
-Linux API
-Linux Foundation
-Linux Mark Institute
-Linux Network Scheduler
-Linux PAM
-Linux Security Modules
 Linux Standard Base
-Linux Terminal Server Project
-Linux adoption
-Linux conference
-Linux console
-Linux desktop environments
-Linux framebuffer
 Linux kernel
-Linux kernel interfaces
-Linux kernel mailing list
-Linux kernel oops
-Linux kernel version history
-Linux on embedded systems
-Linux range of use
-Linux user group
-List of Linux-supported computer architectures
-List of Linux adopters
-Loadable kernel module
-Localtime
-Logical Volume Manager (Linux)
-Mainline Linux
-Malloc
-Memcpy
-Memory barrier
-Memory management
-Memory management unit
-Menuconfig
-Mesa (computer graphics)
-MkLinux
-Mmap
-Music sequencer
-Musical Instrument Digital Interface
 Musl
-Ncurses
-Netfilter
-Netlink
 Network scheduler
-New API
 Newlib
-Nftables
-Noop scheduler
-O(1) scheduler
-O(n) scheduler
-OS-level virtualization
-Ohloh
-OpenAL
-OpenRC
-OpenSSH
-OpenVZ
-Open (system call)
-Open Sound System
 Operating system
 POSIX
-PREEMPT RT
-PSXLinux
-Perf (Linux)
-PipeWire
 Plug-in (computing)
-Polkit
-Procfs
 Programmer
-Pthread create
-Pulse-code modulation
-PulseAudio
 QNX
-Qt (software)
-RTAI
-RTLinux
-Random-access memory
-Raw device
-Read-copy-update
-Read (system call)
-Readahead
 Real-time computing
-Runit
-SCHED DEADLINE
-SCHED FIFO
-SCHED RR
-SCO–Linux disputes
-SLUB (software)
-Samba (software)
-Scheduling (computing)
-Seccomp
-Security-Enhanced Linux
-Select (Unix)
-Simple DirectMedia Layer
-Simple and Fast Multimedia Library
-Single UNIX Specification
-Slurm Workload Manager
-Smack (Linux security module)
-Smack (software)
-Sndio
-Softvol
 Software categories
 Software framework
 Software license
 Software release life cycle
-Sound card
-Splice (system call)
-Stat (system call)
-Subroutine
-SurfaceFlinger
-Sync (Unix)
-Sysfs
-System-on-chip
-System.map
-SystemTap
 System call
-Systemd
-TOMOYO Linux
-Tanenbaum–Torvalds debate
-Text-based user interface
-The Linux Programming Interface
-Third party developer
-Thread-safe
-Tmpfs
-Tomoyo Linux
-Tux (mascot)
 UClibc
-Udev
-Udevd
-User-mode Linux
-User-space
 User space and kernel space
-Video4Linux
-Video games and Linux
-Virtual file system
-Virtualization
-Vmlinux
-Wayland (protocol)
-Windowing system
-Wrapper library
-Write (system call)
-X32 ABI
-X Window System
-Xen
-Xenomai
-Yoshimi (synthesizer)
-Zram
-Zswap
-ZynAddSubFX
-ΜClinux

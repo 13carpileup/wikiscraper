@@ -1,271 +1,115 @@
-.NET
-.NET Framework
-.NET Remoting
-.exe
 360-degree video
 3D audio effect
-ADO.NET
 API
 ARCore
 ARKit
 ARToolKit
-ASP.NET
 Accel World
-Access Database Engine
-Acer Inc.
-Action Center
-ActiveMovie
-ActiveX
-ActiveX Data Objects
-ActiveX Document
-Active Directory
-Active Directory Rights Management Services
-Active Scripting
-Active Template Library
-Alex Kipman
 AltspaceVR
 Android (operating system)
 Android XR
 AntVR
-AppLocker
-App Installer
 Apple Inc.
 Apple Vision Pro
-Application software
-Architecture of Windows 9x
-Architecture of Windows NT
-Asus
 Asynchronous reprojection
 Attack of the Killer App
 Augmented reality
-AutoPlay
-AutoRun
 Avatar (computing)
-Background Intelligent Transfer Service
-Backup and Restore
-BitLocker
 Black Mirror
 Bluetooth
-Bluetooth 4.0
-Bluetooth Low Energy
 Bob Sproull
-Booting process of Windows
 Boštjan Burger
 Brain–computer interface
 Brenda Laurel
 Brendan Bradley (actor)
 Brendan Iribe
 Brilliant Labs
-Broadcast Driver Architecture
-Browser Helper Object
-CAPICOM
-CD Player (Windows)
-COMMAND.COM
-COM Structured Storage
-Calendar (Windows)
-Cardfile
 Carolina Cruz-Neira
 CastAR
 Char Davies
-Character Map (Windows)
-Chess Titans
 Cinematic virtual reality
-City Art Search
-ClearType
-Client/Server Runtime Subsystem
-Clipchamp
-Cmd.exe
 Code Lyoko
-Common Log File System
-Comparison of virtual reality headsets
 Component-based software engineering
-Component Object Model
-Composite UI Application Block
 Computer-mediated reality
-Consumer Electronics Show
-Control Panel (Windows)
-Cortana (virtual assistant)
-Credential Guard
-Criticism of Windows 10
-Cross-platform Audio Creation Tool
 Cyberith Virtualizer
-D3DX
-DVD Player (Windows)
 Daniel J. Sandin
-Daqri
-Data Execution Prevention
-Data Protection API
 Dell
 Den-noh Coil
-Desktop Cleanup Wizard
-Desktop Window Manager
-Device Manager
 Device driver
 Dieter Schmalstieg
 Digimon
-Direct2D
-Direct3D
-DirectInput
-DirectMusic
-DirectPlay
-DirectShow
-DirectSound
-DirectWrite
 DirectX
-DirectX 12
-DirectX Diagnostic Tool
-DirectX Graphics Infrastructure
-DirectX Media Objects
-DirectX Video Acceleration
-DirectX plugin
-Disk Cleanup
-DisplayPort
-Distributed Component Object Model
-Distributed File System (Microsoft)
-DriveSpace
-Driver Verifier
-Dynamic-link library
-Dynamic Data Exchange
 Ela Darling
 Elia Petridis
-Encrypting File System
-Enhanced Write Filter
-Entity Framework
 Eric Howlett
-Event Viewer
-ExFAT
 Extended reality
-Extensible Storage Engine
 EyeTap
 Eye tracking
 Face tracking
-Features new to Windows 10
-Feedback Hub
 File Allocation Table
-File Explorer
-File Replication Service
 File system
 Finger tracking
-Fluent Design System
-Folder redirection
 Foveated rendering
-Framework Class Library
 Fred Brooks
 Free viewpoint television
 Front-end (computing)
-Full Tilt! Pinball
 Futurama
 Game Developers Conference
 Games for Windows
-Get Help
 Godot (game engine)
 Golden-i
 Google
 Google Cardboard
 Google Daydream
 Google Glass
-Graphics Device Interface
-Groove Music
-Group Policy
 Gundam Build Divers
 Gundam Build Metaverse
 Gunpei Yokoi
-HP Inc.
 HTC
 HTC Vive
 Haptic suit
-Hard link
 Head-mounted display
 Head-up display
-Help and Support Center
 Henry Fuchs
-High Performance File System
 HoloLens 2
 Holodeck
 Holography
 Horizon Worlds
-Hover!
-Hyper-V
-HyperACCESS
-I/O request packet
 IDG
-IEEE 802.11ac
-IExpress
-IFilter
 ISO 9660
 ISSN (identifier)
 Image-based modeling and rendering
-Image Mastering API
-Imaging for Windows
 Immersion (virtual reality)
-Indexing Service
-InkBall
-Input method
-Installable File System
-Intel HD Graphics
 Inter-process communication
 Interactive art
-Interix
-Internet Explorer
-Internet Information Services
 Ivan Sutherland
-JScript
 Jaron Lanier
 Jerome Foster II
 Jetpack Compose
 John Carmack
-Kernel-Mode Driver Framework
-Kernel Patch Protection
-Kernel Transaction Manager
 Khronos Group
 Kinect
 Kiss Me First (TV series)
-Language Interface Pack
 Lawrence J. Rosenblum
-Layered Service Provider
 Leap Motion
-Lenovo
 Library (computing)
 Liquid Image
 List of HTC Vive games
 List of Meta Quest games
-List of Microsoft Windows application programming interfaces and frameworks
-List of Microsoft Windows components
 List of Oculus Rift games
 List of PlayStation VR2 games
 List of PlayStation VR games
-List of features removed in Windows 10
 List of games included with Windows
 List of software related to augmented reality
 List of virtual reality headsets
-List price
-Local Security Authority Subsystem Service
-Logical Disk Manager
-MAPI
-MS-DOS 7
-MSConfig
 MSN
-MSN Dial-up
-MSN Food & Drink
-MSN Health & Fitness
-MSXML
 Magic Leap
-Magnifier (Windows)
-Mail (Windows)
-Make Compatible
-Managed DirectX
-Mandatory Integrity Control
 Mark Bolas
 Mark Stephen Meadows
 Mark Zuckerberg
 Maurice Benayoun
-Media Control Interface
-Media Foundation
-Medion
-Meta (augmented reality company)
 Meta Horizon OS
 Meta Platforms
-Meta Quest
 Meta Quest 2
 Meta Quest 3
 Meta Quest 3S
@@ -273,94 +117,25 @@ Meta Quest Pro
 Metaverse
 Michelle and Uri Kranot
 Microsoft
-Microsoft 3D Viewer
-Microsoft Active Accessibility
-Microsoft Connected Services Framework
-Microsoft Copilot
 Microsoft Corporation
-Microsoft CryptoAPI
-Microsoft Customer Care Framework
-Microsoft DNS
-Microsoft Data Access Components
-Microsoft Defender Antivirus
-Microsoft Diagnostics
-Microsoft Distributed Transaction Coordinator
-Microsoft Drive Optimizer
-Microsoft Edge
-Microsoft Enterprise Library
-Microsoft Fax
-Microsoft Foundation Class Library
-Microsoft FreeCell
-Microsoft Gadgets
-Microsoft Hearts
 Microsoft HoloLens
-Microsoft Mahjong
-Microsoft Management Console
-Microsoft Mesh
-Microsoft Message Queuing
-Microsoft Messaging
-Microsoft Messaging Passing Interface
-Microsoft Minesweeper
-Microsoft Movies & TV
-Microsoft NetMeeting
-Microsoft OneNote
-Microsoft POSIX subsystem
-Microsoft Paint
-Microsoft Pay
-Microsoft Personal Web Server
-Microsoft RPC
-Microsoft ScanDisk
-Microsoft Silverlight
-Microsoft Solitaire
-Microsoft Solitaire Collection
-Microsoft Speech API
-Microsoft Spider Solitaire
-Microsoft Start
 Microsoft Store
-Microsoft Store (digital)
-Microsoft Sync Framework
-Microsoft Tinker
-Microsoft Tips
-Microsoft Transaction Server
-Microsoft UI Automation
 Microsoft Windows
 Microsoft Windows library files
-Microsoft Write
 Microsoft XNA
-Microsoft family features
-MinWin
 Ming C. Lin
 Mixed reality
 Morton Heilig
 Motion controller
-Multilingual User Interface
-Multimedia Class Scheduler Service
 Myron W. Krueger
-NTBackup
 NTFS
-NTFS links
-NTFS reparse point
-NTFS volume mount point
-NTLDR
-Narrator (Windows)
-Natural user interface
 NeosVR
 Netrunner
-Netsh
-Network Access Protection
-Network Driver Interface Specification
 Neuromancer
-Next-Generation Secure Computing Base
 Niantic, Inc.
 Nicole Stenger
 Nonny de la Peña
 Nosedive (Black Mirror)
-Ntoskrnl.exe
-ODBC
-OLE Automation
-OLE DB
-Object Linking and Embedding
-Object Manager
 Oculus Go
 Oculus Quest
 Oculus Rift
@@ -370,132 +145,68 @@ Oculus Touch
 Omnidirectional (360-degree) camera
 Omnidirectional treadmill
 On-set virtual production
-OneDrive
 OpenVR
 OpenXR
-Open Packaging Conventions
 Open Source Virtual Reality
-Open XML Paper Specification
-Operating environment
 Operating system
 Optical head-mounted display
-Outlook Express
-PCWorld
-Paint 3D
 Palmer Luckey
 Pancake lens
-People (Windows)
-Performance Monitor
 Persistent world
 Pervasive game
 Philippe Bekaert
-Phone Companion
-Phone Link
-Photos (Windows)
 Pico 4
 Pimax
 PlayStation Move
 PlayStation VR
 PlayStation VR2
 Playtest (Black Mirror)
-Portable Executable
 Pose tracking
-Positional tracking
-PowerShell
-Print Services for UNIX
-Problem Steps Recorder
-Program Manager
 Project Iris
 Projection augmented model
-Protected Media Path
-Purble Place
 Quantified self
 Quest 2
-Quick Assist
 R. Bowen Loftin
 Razer Hydra
-ReFS
 Ready Player One
 Ready Player One (film)
 Ready Player Two
 Real life
 Reality Labs
 Rec Room (video game)
-Recovery Console
-Remote Desktop Connection
-Remote Desktop Services
-Remote Differential Compression
-Remote Installation Services
 Resonite
-Resource Monitor
-Roaming user profile
 Rokoko (company)
 Room-scale
 SSSS.Gridman
-Samsung
 Samsung Electronics
 Samsung Gear VR
 Sansar (video game)
 Satya Nadella
 Scott Fisher (technologist)
 Screen-door effect
-Security Account Manager
-Security Support Provider Interface
-Security and Maintenance
 Sega VR
 Sensorama
 Sensorium Corporation
 Server (computing)
-Server Core
-Server Message Block
-Service Control Manager
-Session Manager Subsystem
-Settings (Windows)
-Shadow Copy
-SharePoint
 Simon Birrell
 Simulation hypothesis
 Simultaneous localization and mapping
 Sinespace
 Six degrees of freedom
 SixthSense
-Skype
 Smartglasses
-Snipping Tool
 Snow Crash
-Software Factory (Microsoft .NET)
-Software architecture
 Software categories
-Sound Recorder (Windows)
 Spatial computing
-Special folder
-Start menu
 SteamVR
-Steam VR
 Steven K. Feiner
-Sticky Notes
 Sundar Pichai
 Superhot
 Superhuman Samurai Syber-Squad
-Surf (video game)
 Susumu Tachi
 SwiftUI
 Sword Art Online
-Syskey
-Sysprep
-System File Checker
-System Idle Process
-System Information (Windows)
-System Policy Editor
-System Restore
-Task Manager (Windows)
-Task Parallel Library
-Task View
-Taskbar
-Telephony Application Programming Interface
 Telepresence
-Text Object Model
-Text Services Framework
 The Dreamland Chronicles
 The Entire History of You
 The Matrix
@@ -505,23 +216,10 @@ Thomas A. DeFanti
 Thomas A. Furness III
 Tim Cook
 Tony Parisi (software developer)
-Transactional NTFS
 Transhumanism
-Travel (Windows)
-Trident (software)
-TypeScript
-USB 3.0
-Uniscribe
 Unity (game engine)
-Universal Audio Architecture
 Universal Disk Format
-Universal Windows Platform
-Universal Windows Platform app
 Unreal Engine
-User-Mode Driver Framework
-User Account Control
-User Interface Privilege Isolation
-VBScript
 VFX1 Headgear
 VPL Research
 VR-1
@@ -531,13 +229,9 @@ VTime XR
 VTuber
 Valve Index
 Varjo
-Video for Windows
 Video game
 Virtual Boy
-Virtual DOS machine
-Virtual desktop
 Virtual fixture
-Virtual folder
 Virtual graffiti
 Virtual reality
 Virtual reality applications
@@ -552,122 +246,15 @@ VisionOS
 VisionOS 2
 Vuforia Augmented Reality SDK
 Vuzix
-VxD
 Warren Robinett
 Wearable computer
 WebXR
 White Christmas (Black Mirror)
-Wi-Fi
-Win32 console
-WinFS
-WinG
-WinHelp
-WinUSB
 Windows 10
-Windows 10 Fall Creators Update
 Windows 10 Mobile
-Windows 10 editions
-Windows 10 version history
 Windows API
-Windows Address Book
-Windows Advanced Rasterization Platform
-Windows Aero
-Windows Anytime Upgrade
-Windows Boot Manager
-Windows Calculator
-Windows Camera
-Windows CardSpace
-Windows Chat
-Windows Clock
-Windows Color System
-Windows Communication Foundation
-Windows Console
-Windows Contacts
-Windows DVD Maker
-Windows Deployment Services
-Windows Desktop Gadgets
-Windows Display Driver Model
-Windows Driver Frameworks
-Windows Driver Model
-Windows Easy Transfer
-Windows Error Reporting
-Windows Fax and Scan
-Windows File Manager
-Windows File Protection
-Windows Filtering Platform
-Windows Firewall
-Windows Hardware Error Architecture
-Windows Image Acquisition
-Windows Imaging Component
-Windows Imaging Format
-Windows Ink
-Windows Insider
-Windows Installer
-Windows Journal
-Windows Management Instrumentation
-Windows Maps
-Windows Media
-Windows Media Center
-Windows Media Player
-Windows Media Player (2022)
-Windows Media Services
-Windows Meeting Space
-Windows Messaging
-Windows Messenger
-Windows Mobile Device Center
-Windows Mobility Center
-Windows Movie Maker
-Windows Native API
-Windows Notepad
-Windows Photo Gallery
-Windows Photo Viewer
-Windows Preinstallation Environment
-Windows Presentation Foundation
-Windows RSS Platform
-Windows Rally
-Windows Registry
-Windows Resource Protection
-Windows Runtime
-Windows Script Host
-Windows Search
-Windows Server 2016
-Windows Server 2019
-Windows Server 2022
-Windows Server Update Services
-Windows Services for UNIX
-Windows Shell namespace
-Windows SideShow
-Windows Speech Recognition
-Windows Spotlight
-Windows Subsystem for Linux
-Windows System Assessment Tool
-Windows System Resource Manager
-Windows Task Scheduler
-Windows Template Library
-Windows To Go
-Windows UI Library
-Windows USER
-Windows Ultimate Extras
-Windows Update
-Windows Vista I/O technologies
-Windows Vista networking technologies
-Windows Workflow Foundation
-Windows XP visual styles
-Windows domain
-Windows on Windows
-Windows service
-Windows shell
-Winlogon
-Winsock
 Wired glove
-Wireless Zero Configuration
 Wizdish ROVR
-WoW64
-WordPad
-XAudio2
-XMLHttpRequest
 Xbox
 Xbox (app)
 Xbox One
-Xbox One X
-Xinput

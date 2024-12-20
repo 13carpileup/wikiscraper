@@ -1,252 +1,114 @@
 2.5D
 2D computer graphics
-3-D computer graphics
 3D computer graphics
 3D projection
-3D rendering
-3ds max
 Absorption (electromagnetic radiation)
-Academic Press
-Adobe Systems
 Affine transformation
-AfterEffects
-Albrecht Dürer
-Aliasing
 Alpha compositing
 Ambient occlusion
-AnandTech
 Anisotropic filtering
-Anti-aliasing
-Aperture
-Apple A17
-Apress
-Arm (company)
-Arthur Appel
 Aspect ratio
 Autodesk
-Autodesk Maya
-BRL-CAD
 Back-face culling
-Battlefield V
-Beam tracing
 Bob Sproull
-Bounding volume
-Bounding volume hierarchy
-CDC 6600
-California Institute of Technology
 Camera
-Caustic (optics)
-CeBIT
-Cel shading
-Checkerboard rendering
-Chromatic aberration
-CiteSeerX (identifier)
 Clipping (computer graphics)
-Cloudy with a Chance of Meatballs (film)
-Cobalt (CAD program)
 Collision detection
 Comparison of vector graphics editors
-Computation time
 Computer
 Computer-generated imagery
 Computer graphics
-Computer graphics (computer science)
 Computer graphics lighting
-Cone (geometry)
 Cone tracing
-Constructive solid geometry
-Cross product
 Deferred shading
 Demo (computer programming)
 Demoscene
-Denoising
-Depth of field
-Diffuse interreflection
-Diffuse surface
 Diffusion curve
-Digistar
 Digital image
 DirectX
-DirectX Raytracing
 Dispersion (optics)
-Distributed ray tracing
 Doi (identifier)
-Echo
 Electromagnetism
 Electronic Arts
-Erlangen University
-Euclidean vector
-Evans & Sutherland
-Exynos
 Field of view
-Film frame
 Fluid animation
 Fluorescence
 Frame rate
-Fresnel reflection
-Fujitsu
 GPUOpen
 Game engine
-GeForce 20 series
-General relativity
 Global illumination
-Gouraud shading
 Graphics software
 Hdl (identifier)
-Hexagon
 Hidden-surface determination
-IAPX 86
 ISBN (identifier)
 Image-based modeling and rendering
-Image noise
-Imagination Technologies
 Information Processing Society of Japan
 Intel
 Internet Archive
-Intersection (Euclidean geometry)
 Isometric video game graphics
-J. Turner Whitted
 Japan Studio
 Layers (digital image editing)
-Light scattering
 Light transport theory
-Line (mathematics)
-Line–sphere intersection
-List of 3D animation software
 List of 3D computer graphics software
 List of 3D modeling software
 List of 3D rendering software
-List of Qualcomm Snapdragon systems on chips
 List of computer graphics algorithms
-List of ray tracing software
-Mali (processor)
 Massively parallel
-Mathematical Applications Group
-Metal (API)
-Metropolis light transport
 Microprocessor
-Mike Muuss
 Mode 7
-Monster House (film)
-Monsters University
-Motion blur
 Ninth generation of video game consoles
-Nvidia GameWorks
 Open-source software
 OpenCL
-OpenGL
-OptiX
 Optics
-Osaka University
-Output-sensitive algorithm
-PCWorld
-PDP-10
-PSPACE
 Parallax scrolling
 Parallel computing
-Parallelization
 Particle
 Path tracing
-Per-pixel lighting
-Peter Shirley
-Phong shading
 Photon
-Photon mapping
-Photorealistic rendering
 Pixel
 Planar projection
-Planetarium
 PlayStation 4
 PlayStation 5
-PlayStation Blog
 Polygon mesh
-Progressive meshes
-Q-Games
 Quadratic equation
-Quake III
-Quake IV
-Qualcomm
 Quantum electrodynamics
 RDNA 2
-Radeon Pro
-Radeon RX 6000 series
 Raster graphics editor
-Rasterisation
-Rasterization
-Ray-tracing hardware
-Ray Processing Unit
-Ray casting
-Ray marching
-Ray tracing (physics)
 Real-time computer graphics
 Reflection (computer graphics)
-Reflection (mathematics)
 Reflection (physics)
 Refraction
 Rendering (computer graphics)
-Rendering equation
-Reverberation
 Rotation (mathematics)
 S2CID (identifier)
 SIGGRAPH
-Saarland University
 Scaling (geometry)
 Scanline rendering
-Screen space ambient occlusion
 Shader
 Shading
-Shadow
 Shadow mapping
-Shadow volume
 Shear matrix
-Signed distance function
 Skybox (video games)
-Soft shadows
 Solid modeling
 Sound
-Spatial anti-aliasing
 Spectral rendering
-Specular reflection
 Sphere
-Springer Nature Switzerland
-Supercomputing in Japan
-Surface normal
 Surface triangulation
-Tektronix
-Tessellation
 Texel (graphics)
-Text-to-image model
-The Tomorrow Children
 The Verge
-Tom's Hardware
-Torchiere
-Translation (geometry)
-Transparency (optics)
 Transparency and translucency
 Triangle mesh
-Tsukuba
-Turing (microarchitecture)
-Turner Whitted
-USENIX
 Unbiased rendering
 Undecidable problem
-Unit vector
 Universe
 University of Utah
-V-Ray
-Vector graphics
 Vector notation
 VentureBeat
 Video game
 Visible spectrum
 Visual effects
-Volume ray casting
-Volume rendering
 Voxel
-Vulkan
-Wave
 Wayback Machine
 Wire-frame model
 Wired (magazine)
 Xbox Series X and Series S
-Zilog Z8000

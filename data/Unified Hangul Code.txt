@@ -1,14 +1,7 @@
 !
-"
 $
-%
-&
 '
 (
-)
-+
-,
--
 0 (number)
 1 (number)
 2 (number)
@@ -19,7 +12,6 @@ $
 7 (number)
 8 (number)
 9 (number)
-;
 =
 ?
 @
@@ -31,11 +23,7 @@ ARIB STD B24 character set
 ASCII
 ASMO 449
 ATASCII
-A (hangul)
-Ae (hangul)
-Amstrad CP/M Plus character set
 Amstrad CPC character set
-Anne van Kesteren
 Apple II character set
 ArmSCII
 Arrow (symbol)
@@ -45,19 +33,16 @@ B
 BCD (character encoding)
 Backslash
 Baudot code
-Bieup
 Big5
 Binary Ordered Compression for Unicode
 Bitstream International Character Set
 BraSCII
-Braces (punctuation)
 C
 C0 and C1 control codes
 CCSID
 CDC display code
 CER-GS
 CESU-8
-CJK characters
 CNS 11643
 CSX+ Indic character set
 CSX Indic character set
@@ -67,7 +52,6 @@ Casio calculator character sets
 Character encoding
 Character encodings in HTML
 Charset detection
-Chieut
 Chinese Character Code for Information Interchange
 Chinese telegraph code
 Code page
@@ -86,17 +70,10 @@ Code page 1019
 Code page 1020
 Code page 1021
 Code page 1023
-Code page 1034
 Code page 1040
 Code page 1042
 Code page 1043
-Code page 1044
 Code page 1046
-Code page 1052
-Code page 1053
-Code page 1054
-Code page 1055
-Code page 1056
 Code page 1058
 Code page 1098
 Code page 1101
@@ -135,7 +112,6 @@ Code page 853
 Code page 855
 Code page 856
 Code page 857
-Code page 858
 Code page 859
 Code page 860
 Code page 861
@@ -152,7 +128,6 @@ Code page 896
 Code page 897
 Code page 899
 Code page 903
-Code page 904
 Code page 912
 Code page 915
 Code page 921
@@ -162,7 +137,6 @@ Code page 932 (Microsoft Windows)
 Code page 936 (IBM)
 Code page 936 (Microsoft Windows)
 Code page 942
-Code page 949
 Code page 949 (IBM)
 Code page 950
 Code page 951
@@ -181,17 +155,11 @@ DG International
 DIN 66003
 DIN 91379
 DKOI
-Digeut
 Digital Equipment Corporation
 Digital encoding of APL symbols
-Double-byte character set
 E
 EBCDIC
 ELOT 927
-EUC-KR
-E (hangul)
-Eo (hangul)
-Eu (hangul)
 Exclamation mark
 Extended ASCII
 Extended Latin-8
@@ -210,30 +178,18 @@ GEM character set
 GOST 10859
 GSM 03.38
 Galaksija (computer)
-Gender symbol
-Giyeok
 Greater-than sign
 H
 HP Roman
 HTML5
 HZ (character encoding)
-Halfwidth and Fullwidth Forms (Unicode block)
 Han unification
 Hangul
-Hangul Compatibility Jamo
-Hangul Jamo (Unicode block)
-Hangul Jamo Extended-A
-Hangul Jamo Extended-B
-Hangul Syllables
-Hangul consonant and vowel tables
 Hardware code page
-Hexadecimal
-Hieut
 Hong Kong Supplementary Character Set
 I
 IBM
 IBM AIX
-IEC-P27-1
 INIS-8
 INIS character set
 ISBN (identifier)
@@ -243,40 +199,14 @@ ISO-IR-182
 ISO-IR-197
 ISO-IR-200
 ISO-IR-68
-ISO/IEC 10367
-ISO/IEC 2022
-ISO/IEC 646
-ISO/IEC 8859
-ISO/IEC 8859-1
-ISO/IEC 8859-10
-ISO/IEC 8859-11
-ISO/IEC 8859-12
-ISO/IEC 8859-13
-ISO/IEC 8859-14
-ISO/IEC 8859-15
-ISO/IEC 8859-16
-ISO/IEC 8859-2
-ISO/IEC 8859-3
-ISO/IEC 8859-4
-ISO/IEC 8859-5
-ISO/IEC 8859-6
-ISO/IEC 8859-7
-ISO/IEC 8859-8
-ISO/IEC 8859-9
 ISO 2033
 ISO 5426
 ISO 5427
 ISO 5428
 ISO 6438
-ISO 646
 ISO 6862
 ITU T.61
-I (hangul)
-Ieung
 Indian Script Code for Information Interchange
-Intecolor/Compucolor 8001 character set
-International Components for Unicode
-Internet Assigned Numbers Authority
 Iran System encoding
 J
 JIS X 0201
@@ -285,9 +215,6 @@ JIS X 0211
 JIS X 0212
 JIS X 0213
 Japanese language in EBCDIC
-Jeju language
-Jieut
-Johab - Korean Standard Symbol
 K
 KOI-7
 KOI8-R
@@ -295,19 +222,14 @@ KOI8-RU
 KOI8-U
 KOI character encodings
 KPS 9566
-KS C 5601
 KS X 1001
 KS X 1002
 Kamenický encoding
-Kieuk
-Korean language
 L
 LST 1564
 LST 1590-4
 LY1 encoding
 Less-than sign
-List of Hangul jamo
-List of modern Hangul characters in ISO/IEC 2022–compliant national character set standards
 Lotus International Character Set
 Lotus Multi-Byte Character Set
 M
@@ -332,7 +254,6 @@ Mac OS Hebrew
 Mac OS Icelandic encoding
 Mac OS Inuit
 Mac OS Keyboard encoding
-Mac OS Maltese/Esperanto encoding
 Mac OS Ogham
 Mac OS Roman
 Mac OS Romanian encoding
@@ -345,8 +266,6 @@ Macintosh Latin encoding
 Magnetic ink character recognition
 Mazovia encoding
 Microsoft Windows
-Mieum (hangul)
-Miscellaneous Technical (Unicode block)
 Mojibake
 Mojikyō
 Morse code
@@ -356,20 +275,15 @@ N
 NEC APC character set
 National Replacement Character Set
 NeXT character set
-Nieun
 Null character
 Number sign
 O
-O'Reilly Media
 OML encoding
 OMS encoding
 OT1 encoding
-O (hangul)
-Oe (hangul)
 P
 PETSCII
 Perso-Arabic Script Code for Information Interchange
-Pieup
 PostScript Latin 1 Encoding
 PostScript Standard Encoding
 Prosigns for Morse code
@@ -378,12 +292,8 @@ Q
 R
 RISC OS character set
 RPL character set
-Revised Romanization of Korean
-Rieul (hangul)
 Russian Morse code
 S
-SAM Coupé character set
-SBCS
 SI 960
 SQUOZE
 Sega SC-3000 character set
@@ -391,16 +301,12 @@ Sharp MZ character set
 Sharp pocket computer character sets
 Shift JIS
 Sinclair QL character set
-Siot
 Slash (punctuation)
 Space character
-Square brackets
 Standard Compression Scheme for Unicode
-Stanford/ITS character set
 Stanford Extended ASCII
 Symbol (typeface)
 T
-T.51/ISO/IEC 6937
 TI calculator character sets
 TRON (encoding)
 TRS-80 character set
@@ -412,7 +318,6 @@ Teletex
 Teletext
 Teletext character set
 Thai Industrial Standard 620-2533
-Tieut
 Tilde
 Transcode (character encoding)
 U
@@ -422,8 +327,6 @@ UTF-32
 UTF-7
 UTF-8
 UTF-EBCDIC
-U (hangul)
-Ui (hangul)
 Underscore
 Unicode
 Unicode Consortium
@@ -440,15 +343,9 @@ Vertical bar
 Videotex
 Videotex character set
 W
-W3C
-WHATWG
-Wa (hangul)
 Wabun code
-Wae (hangul)
 Wang International Standard Code for Information Interchange
-We (hangul)
 Whitespace character
-Wi (hangul)
 Windows-1250
 Windows-1251
 Windows-1252
@@ -459,24 +356,13 @@ Windows-1256
 Windows-1257
 Windows-1258
 Windows-1270
-Windows Cyrillic + Finnish
-Windows Cyrillic + French
-Windows Cyrillic + German
 Windows Polytonic Greek
 Windows code page
-Wo (hangul)
-Won sign
 World System Teletext
 X
 Xerox Character Code Standard
 Y
 YUSCII
-Ya (hangul)
-Yae (hangul)
-Ye (hangul)
-Yeo (hangul)
-Yo (hangul)
-Yu (hangul)
 Z
 ZX80 character set
 ZX81 character set
@@ -485,16 +371,3 @@ ZX Spectrum character set
 `
 ~
 ¶
-ᄓ
-ᄖ
-ᄗ
-ᄘ
-ᄙ
-ᄛ
-ᄟ
-ᄤ
-ᄥ
-ᄦ
-ᄨ
-ᄪ
-ᄰ

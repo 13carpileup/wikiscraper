@@ -2,163 +2,79 @@
 2D computer graphics
 3D computer graphics
 3D projection
-3D rendering
-3ds Max
-Academy Award
-Aerosol
 Affine transformation
-Albedo
-Aliasing
 Alpha compositing
 Ambient occlusion
-Angle of view
 Anisotropic filtering
-Approximation
-Atmosphere
-Autodesk Maya
-Babylon.js
 Back-face culling
-Beam tracing
-Bidirectional reflectance distribution function
-Bidirectional scattering distribution function
 Blender (software)
-Bricks
-Brikl
-Caustic (optics)
-Cel shading
-Checkerboard rendering
 Cinema 4D
 Clipping (computer graphics)
-Cloud
 Collision detection
 Comparison of vector graphics editors
 Computer graphics
-Computer graphics (computer science)
 Computer graphics lighting
-Concrete
 Cone tracing
 Conservation of energy
 Cornell University
-CryEngine
-Curve fitting
-Daytime
 Deferred shading
-Depth of field
-Diamond plate
 Diffuse reflection
 Diffusion curve
 Doi (identifier)
 E-on Vue
-Elevation
-Enscape
 Fluid animation
-Fog
-Fresnel equations
-GLSL
 Global illumination
-Gloss (optics)
 Godot (game engine)
-Gonioreflectometer
 Graphical user interface
 Graphics software
-HLSL
-Haze
-Heightmap
 Hidden-surface determination
 Houdini (software)
 ISBN (identifier)
 Image-based modeling and rendering
 Isometric video game graphics
-JMonkey Engine
-Killzone Shadow Fall
 Layers (digital image editing)
-Lens (optics)
-LightWave 3D
-Light scattering
 Liquid
-List of 3D animation software
 List of 3D computer graphics software
 List of 3D modeling software
 List of 3D rendering software
 List of computer graphics algorithms
-Matt Pharr
 Mesh
 Metal
-Microstation
 Minecraft
 Mode 7
-Moon
-Night
 Non-photorealistic rendering
 Normal mapping
-O3DE
-OGRE
-Opacity (optics)
 Optics
 Parallax scrolling
-Participating media
-Pat Hanrahan
 Path tracing
 Photogrammetry
-Photorealism
 Pixel
 Planar projection
 Point cloud
 Polygon mesh
-Precipitation
 Raster graphics editor
-Ray casting
 Ray tracing (graphics)
 Reflection (computer graphics)
-Reflectivity
-Remember Me (video game)
 Rendering (computer graphics)
-Rendering equation
-Rhinoceros 3D
-Roblox Studio
 Rotation (mathematics)
 Scaling (geometry)
 Scanline rendering
 Second Life
 Shader
 Shading
-Shading language
 Shadow mapping
-Shadow volume
 Shear matrix
-Sketchfab
-Sky
 Skybox (video games)
-Source 2 (game engine)
 Special effects
 Spectral rendering
-Specular highlight
-Specular highlights
-Stephen Hill (programmer)
-Stephen McAuley
-Stride (game engine)
-Subsurface scattering
 Sun
-Surface
 Surface triangulation
-Tessellation (computer graphics)
 Texel (graphics)
-Text-to-image model
-Three.js
-Translation (geometry)
-Translucency
 Triangle mesh
 Unbiased rendering
-Unigine
 Unity (game engine)
 Unreal Engine
 Unreal Engine 3
-VTK
-Vector graphics
-Volume rendering
 Voxel
 Wayback Machine
-Weather
-Webots
 Wire-frame model
-Yoshiharu Gotanda

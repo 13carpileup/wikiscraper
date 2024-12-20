@@ -1,7 +1,6 @@
 Accounting
 Advisory board
 Annual general meeting
-Application performance management
 Asset management
 Audit
 Audit committee
@@ -18,16 +17,12 @@ Business operations
 Business plan
 Business process
 Business process management
-Business statistics
 Capability management in business
-Capacity planning
 Capital budgeting
 Capital management
 Cash conversion cycle
-Central processing units
 Chairman
 Change management
-Chief brand officer
 Chief business officer
 Chief executive officer
 Chief financial officer
@@ -77,7 +72,6 @@ Encryption
 Enterprise legal management
 Enterprise resource planning
 Environmental economics
-FCAPS
 Factoring (finance)
 Financial accounting
 Financial institution
@@ -86,28 +80,20 @@ Financial market
 Financial risk
 Financial statement
 Financial statement analysis
-Gartner
 Hierarchical organization
 Holding company
 Human resource management
 Human resources
-IPFIX
 ISBN (identifier)
 ITIL
-IT infrastructure
-IT operations analytics
-Ian Head
 Incident management
 Innovation management
-Insider dealing
-Insolvency law
 Insurance
 International business
 International economics
 International finance
 International trade
 International trade law
-Jitter
 Joint-stock company
 Knowledge economy
 Knowledge management
@@ -127,14 +113,8 @@ Materials management
 Mergers and acquisitions
 Microeconomics
 Mixed economy
-NetFlow
-NetQoS
-NetSim
 Network administrator
 Network management
-Network monitoring
-Network planning and design
-OPNET
 Office management
 Open economy
 Operations management
@@ -149,37 +129,21 @@ Organizational engineering
 Organizational patterns
 Organizational space
 Organizational structure
-Out-of-order delivery
-PacketTrap
-Packet analyzer
-Packet loss
 Partnership
-Performance Engineering
-Performance management
-Performance tuning
 Planned economy
 Power management
 Privately held company
-Product life-cycle management
 Product management
-Profiling (computer programming)
 Project management
 Property management
 Public economics
 Public finance
 Quality management
-Quality of experience
-RMON
-Real user monitoring
 Records management
-Resource (computer science)
 Resource management
-Retransmission (data networks)
 Risk management
-Round-trip time
 Sales management
 Security management
-Server log
 Service management
 Sole proprietorship
 State-owned enterprise
@@ -187,15 +151,12 @@ Stock market
 Strategic management
 Supervisory board
 Supply chain management
-Synthetic monitoring
 System administrator
 Systems management
 Talent management
 Tax
 Technology management
-Throughput
 Trade
 Trade route
-Traffic Shaping
 Venture capital
 Virtual machine

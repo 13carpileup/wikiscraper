@@ -1,200 +1,79 @@
-Abraham Fraenkel
 Absolute value
-Absorbing element
 Abstract algebra
 Algebraic structure
-Almost
-Alternative set theory
-Amorphous set
 Associative
 Automation
 Axiom
-Axiom of adjunction
 Axiom of choice
-Axiom of constructibility
-Axiom of countable choice
-Axiom of dependent choice
-Axiom of determinacy
-Axiom of extensionality
-Axiom of global choice
-Axiom of infinity
-Axiom of limitation of size
-Axiom of pairing
-Axiom of power set
-Axiom of projective determinacy
-Axiom of regularity
-Axiom of union
 Axiom schema
-Axiom schema of replacement
-Axiom schema of specification
 Bertrand Russell
 Bijection
-Binary entropy function
 Bioinformatics
-Boltzmann constant
-Boundary (topology)
-Bounded set
-Burali-Forti paradox
 Cantor's diagonal argument
 Cantor's theorem
-Cardinal number
 Cardinality
 Cartesian product
 Category theory
-CiteSeerX (identifier)
 Class (set theory)
-Closed set
 Cluster analysis
-Commutative
 Complement (set theory)
 Computable set
-Conditional probability
 Constructible universe
-Constructive analysis
 Constructive set theory
 Continuum hypothesis
-Convex set
 Countable set
 De Morgan's laws
-Decision making
-Dedekind-infinite set
-Defuzzification
-Degree of truth
-Description logic
-Dialetheism
-Disjoint sets
-Disjoint union
 Doi (identifier)
 Dynamic semantics
-E (mathematical constant)
 Element (mathematics)
 Empty set
 Engineering
-Ernst Zermelo
 Existential quantification
-Family of sets
-Filter (set theory)
 Finite set
 Forcing (mathematics)
-Four-valued logic
 Function composition
-Funfair
-Fuzzy Sets and Systems
-Fuzzy concept
-Fuzzy finite element
-Fuzzy logic
-Fuzzy mathematics
-Fuzzy number
-Fuzzy relation equation
-Fuzzy rule
-Fuzzy set operations
-Fuzzy subalgebra
 General set theory
-Georg Cantor
-Hereditarily finite set
-Heyting arithmetic
-IEEE 1164
 ISBN (identifier)
-Idempotence
 Identity element
-Iff
 Image (mathematics)
-Indexed family
-Indicator function
-Infimum and supremum
 Infinite set
 Inquisitive semantics
 Integer
-Intermediate logic
 Intersection (set theory)
-Interval finite element
-Intuitionism
 Intuitionistic logic
 Intuitionistic type theory
-John von Neumann
-Joseph Goguen
-Kaufmann, Arnold
-Knowledge engineering
-Krassimir Atanassov
 Kripke–Platek set theory
-Kurt Gödel
-L-relation
 Large cardinal
 Lattice (order)
-Lebesgue integration
-Linear logic
-Linear partial information
 Linguistics
 List of set identities and relations
-Logic synthesis
-Lotfi Asker Zadeh
 Many-valued logic
-Martin's axiom
 Mathematics
 Measure (mathematics)
-Membership function (mathematics)
-Metric space
-Monotonic
 Morse–Kelley set theory
-Multi-valued logic
-Multiset
 Naive set theory
-Neuro-fuzzy
 New Foundations
-Non-classical logic
-Non-monotonic logic
 Norm (mathematics)
-Normalizing constant
-Ontology (computer science)
-Ontology language
-Ordered pair
 Ordinal number
 PMC (identifier)
 PMID (identifier)
 Paraconsistent logic
 Paradoxes of set theory
-Paul Bernays
-Paul Cohen
-Poset
 Power set
 Predicate (mathematical logic)
-Premise
 Principia Mathematica
-Principle of bivalence
 Propositional variable
 Real number
-Relevance logic
-Richard Dedekind
-Rough fuzzy hybridization
-Rough set
 Russell's paradox
 S2CID (identifier)
-Set-builder notation
 Set (mathematics)
 Set theory
-Siegfried Gottwald
 Singleton (mathematics)
-Springer Verlag
-Structural rule
 Structure (mathematical logic)
-Subset
-Substructural logic
-Suslin's problem
-Symmetric difference
-Sørensen similarity index
-T-norm
 Tarski–Grothendieck set theory
-Thomas Jech
-Thoralf Skolem
-Three-state logic
 Three-valued logic
 Topological space
-Transfinite induction
 Transitive set
-Tri-state buffer
-Tuple
-Type-2 fuzzy sets and systems
-Ultrafilter on a set
 Uncertainty
 Uncountable set
 Union (set theory)
@@ -203,10 +82,7 @@ Universal quantification
 Universal set
 VHDL
 Venn diagram
-Verilog
 Von Neumann–Bernays–Gödel set theory
 Wayback Machine
-Willard Van Orman Quine
 Zermelo set theory
 Zermelo–Fraenkel set theory
-Łukasiewicz logic

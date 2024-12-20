@@ -1,28 +1,15 @@
 AC motor
-A History of the Theories of Aether and Electricity
-Abraham–Lorentz force
 Albert Einstein
 Alessandro Volta
 Alfred-Marie Liénard
 Alternating current
-Ampere
 Ampère's circuital law
-Ampère's force law
 André-Marie Ampère
-Angular momentum
-Arclength
 Biot–Savart law
-Bivector
-Boltzmann equation
 Bremsstrahlung
-Bubble chamber
-Calculus of variations
 Capacitance
 Carl Friedrich Gauss
-Cathode ray
-Central force
 Charge density
-Charge distribution
 Charged particle
 Charles-Augustin de Coulomb
 Charles Proteus Steinmetz
@@ -31,23 +18,18 @@ Classical electromagnetism and special relativity
 Clifford algebra
 Computational electromagnetics
 Conservation of energy
-Conventional current
-Cornelius Lanczos
 Coulomb's law
-Covariant differential
 Covariant formulation of classical electromagnetism
 Curl (mathematics)
 Current density
 Cyclotron
 Cyclotron radiation
 DC motor
-David Hestenes
 Direct current
 Displacement current
 Divergence
 Doi (identifier)
 Dot product
-E. T. Whittaker
 Eddy current
 Electret
 Electric charge
@@ -61,15 +43,11 @@ Electric potential
 Electric potential energy
 Electric power
 Electrical conductor
-Electrical field
-Electrical generator
 Electrical impedance
 Electrical network
 Electrical resistance and conductance
 Electricity
-Electrohydrodynamics
 Electrolysis
-Electromagnetic buoyancy
 Electromagnetic field
 Electromagnetic four-potential
 Electromagnetic induction
@@ -82,94 +60,57 @@ Electromotive force
 Electron
 Electrostatic discharge
 Electrostatic induction
-Electrostatic potential
 Electrostatics
 Elementary particle
 Emil Lenz
 Emil Wiechert
-Energy flux
 Faraday's law of induction
-Faraday paradox
-Field line
-Fluid dynamics
-Fokker–Planck equation
-Force
-Formulation of Maxwell's equations in special relativity
 Four-current
-Four-momentum
-Four-velocity
 Franz Ernst Neumann
 Félix Savart
 Gauss's law
 Gauss's law for magnetism
-Gauss (unit)
-Gaussian units
-General relativity
-General theory of relativity
 Georg Ohm
 George Singer
-Gradient theorem
-Gravitomagnetism
-Green's function (many-body theory)
-Green–Kubo relations
-Guiding center
 Gustav Kirchhoff
 Gyrator–capacitor model
-Hall effect
-Hamiltonian mechanics
 Hans Christian Ørsted
 Heinrich Hertz
-Helmholtz decomposition
 Hendrik Lorentz
-Henry Cavendish
 Hermann von Helmholtz
 Hippolyte Fizeau
 History of electromagnetic theory
-Homopolar generator
 Humphry Davy
 ISBN (identifier)
 ISSN (identifier)
 Inductance
 Induction motor
-Infinitesimal
 Insulator (electricity)
-Integration (calculus)
 International System of Units
-Inverse-square law
 Ion
 J. J. Thomson
 James Clerk Maxwell
 James Prescott Joule
 Jean-Baptiste Biot
 Jefimenko's equations
-Johann Tobias Mayer
 John Henry Poynting
 John Hopkinson
 Joseph Henry
 Joseph Larmor
 Joule heating
-Kelvin–Stokes theorem
 Kinetic energy
 Kirchhoff's circuit laws
-Lagrangian mechanics
 Larmor formula
-Leibniz integral rule
 Lenz's law
-Levi-Civita connection
 Linear alternator
 Linear motor
-Lines of force
 List of electrical phenomena
 List of textbooks in electromagnetism
 Liénard–Wiechert potential
 London equations
 Lord Kelvin
-Lorentz covariance
 Lorentz factor
-Lorentz force velocimetry
-Lorentz transformation
 Loudspeaker
-Luminiferous aether
 Magnetic circuit
 Magnetic complex reluctance
 Magnetic field
@@ -180,103 +121,53 @@ Magnetic scalar potential
 Magnetic vector potential
 Magnetism
 Magnetization
-Magnetohydrodynamics
 Magnetomotive force
-Magnetoplasmadynamic thruster
-Magnetoresistance
 Magnetostatics
-Magnetron
-Mass spectrometer
 Mathematical descriptions of the electromagnetic field
 Matrix calculus
 Maxwell's equations
 Maxwell's equations in curved spacetime
-Maxwell Equations
-Maxwell equations
 Maxwell stress tensor
-Metric signature
 Michael Faraday
-Momentum
 Moving magnet and conductor problem
-Nabla symbol
-Navier–Stokes equations
 Network analysis (electrical circuits)
-Newton's laws of motion
 Nikola Tesla
 Norm (mathematics)
 OCLC (identifier)
-Oersted
 Ohm's law
 Oleg D. Jefimenko
 Oliver Heaviside
 Optics
-Oriented line segment
-Orthogonal
 Particle accelerator
 Permeability (electromagnetism)
 Permeance
 Permittivity
 Phase (waves)
-Phenomenon
 Physics
 Plasma (physics)
-Point charge
 Polarization density
-Potential energy
-Potential momentum
 Poynting vector
-Proper time
-Pseudo-Euclidean space
-Quantum Mechanics
 Quantum superposition
-Quasistatic approximation
-Railgun
-Relative velocity
 Relativistic electromagnetism
 Resonator
 Richard Feynman
 Right-hand rule
-Roger F. Harrington
 Rotor (electric)
-SI
 Scalar (mathematics)
-Scalar field
-Scalar potential
 Series and parallel circuits
 Siméon Denis Poisson
-Solenoidal vector field
-Spacetime
-Spacetime algebra
 Special theory of relativity
 Speed of light
 Static electricity
 Stator
-Stellar evolution
-Superconductivity
 Synchrotron radiation
-Teltron tube
-Tensor field
-Tesla (unit)
-Test charge
-Torque
-Torsion balance
-Total derivative
 Transformer
 Triboelectric effect
-Triple product
-Vacuum permeability
 Vacuum permittivity
-Vector area
-Vector calculus
-Vector calculus identities
 Vector field
 Voltage
-Volume element
-Volume integral
 Watt
 Waveguide (radio frequency)
 Wayback Machine
-Weber electrodynamics
 Wilhelm Eduard Weber
 William Ritchie (physicist)
-William Thomson, 1st Baron Kelvin

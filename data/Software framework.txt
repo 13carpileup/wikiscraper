@@ -1,24 +1,14 @@
 ACM Computing Classification System
-Abstract class
-Abstract method
 Abstraction (computer science)
 Algorithm
 Algorithm design
 Algorithmic efficiency
 Analysis of algorithms
-Application framework
 Application programming interface
 Application security
 Artificial intelligence
 Automata theory
 Automated planning and scheduling
-Boilerplate code
-Cactus Framework
-CiteSeerX (identifier)
-Class (computer programming)
-Class (computer science)
-Code bloat
-Code refactoring
 Compiler construction
 Computability theory
 Computational biology
@@ -46,7 +36,6 @@ Computing
 Computing platform
 Concurrency (computer science)
 Concurrent computing
-Control flow
 Control theory
 Control variable (programming)
 Cross-validation (statistics)
@@ -56,7 +45,6 @@ Data mining
 Database
 Decision support system
 Dependability
-Design Patterns
 Digital art
 Digital library
 Digital marketing
@@ -66,51 +54,37 @@ Distributed computing
 Document management system
 Doi (identifier)
 Domain-specific language
-Don't repeat yourself
 E-commerce
-ESMF
-ETH Zurich
 Educational technology
 Electronic design automation
 Electronic publishing
 Electronic voting
-Elegance
 Embedded system
-Enterprise Architecture framework
 Enterprise information system
 Enterprise software
-Erich Gamma
-Extensibility
 Form factor (design)
 Formal language
 Formal methods
-Framework (computer science)
 Geographic information system
 Graphics processing unit
 Green computing
 Hardware acceleration
 Hardware security
 Health informatics
-Hollywood Principle
 Human–computer interaction
 ISBN (identifier)
 Image compression
-Implicit invocation
 Information retrieval
 Information security
 Information system
 Information theory
-Instance (computer science)
 Integrated circuit
 Integrated development environment
 Interaction design
 Interpreter (computing)
 Intrusion detection system
-Inversion of control
-John Vlissides
 John Wiley & Sons
 Knowledge representation and reasoning
-Laravel
 Library (computing)
 List of computer size categories
 Logic in computer science
@@ -137,20 +111,14 @@ Network service
 Networking hardware
 Numerical analysis
 Object-oriented programming
-Object composition
 Open-source software
-Open/closed principle
 Operating system
 Operations research
-Oracle Application Development Framework
 Outline of computer science
 Parallel computing
 Peripheral
 Philosophy of artificial intelligence
 Photograph manipulation
-Php4delphi
-Pipedream (toolkit)
-Prentice Hall
 Printed circuit board
 Probability
 Process control
@@ -161,13 +129,11 @@ Programming paradigm
 Programming team
 Programming tool
 Quantum Computing
-Ralph Johnson (computer scientist)
 Randomized algorithm
 Real-time computing
 Reinforcement learning
 Rendering (computer graphics)
 Requirements analysis
-Richard Helm
 S2CID (identifier)
 Security hacker
 Security service (telecommunication)
@@ -176,32 +142,21 @@ Social computing
 Social software
 Software
 Software application
-Software component
 Software configuration management
 Software construction
 Software deployment
 Software design
-Software design pattern
 Software development
 Software development process
-Software engine
 Software engineering
 Software maintenance
-Software platform
-Software project
 Software quality
 Software repository
-Software system
 Solid modeling
-Springer-Verlag
-State management
 Statistics
 Stochastic computing
-Subclass (computer science)
-Superclass (computer science)
 Supervised learning
 System on a chip
-Template method pattern
 Theoretical computer science
 Theory of computation
 Ubiquitous computing
@@ -211,6 +166,5 @@ Video game
 Virtual machine
 Virtual reality
 Visualization (graphics)
-Web framework
 Word processor
 World Wide Web

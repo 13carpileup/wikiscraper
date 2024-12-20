@@ -1,15 +1,11 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
-ARM64
-ARM architecture
 AlmaLinux
 Alpine Linux
 Android-x86
 Android (operating system)
 Antergos
 AntiX
-App (file format)
 ArchBang
 ArchLabs
 Arch Linux
@@ -32,7 +28,6 @@ CRUX
 Calculate Linux
 Caldera OpenLinux
 CalyxOS
-Canaima (operating system)
 CentOS
 CentOS Stream
 Chakra (operating system)
@@ -57,9 +52,7 @@ Damn Vulnerable Linux
 Debian
 Deepin
 DemoLinux
-Desktop computer
 Devuan
-DigiTimes
 DivestOS
 DoudouLinux
 Dreamlinux
@@ -87,17 +80,12 @@ GNewSense
 GOS (operating system)
 Garuda Linux
 GeckoLinux
-GendBuntu
 Gentoo Linux
 GoboLinux
 Gobuntu
 GrapheneOS
 HandyLinux
-Host (network)
-Hyperbola GNU/Linux-libre
 Immunix
-In house
-Inspur
 IodéOS
 Jurix
 KDE neon
@@ -113,9 +101,7 @@ Kongoni (operating system)
 Korora (operating system)
 Kubuntu
 Kwort Linux
-Kylin (operating system)
 LXLE Linux
-LiMux
 Libranet
 LinHES
 LineageOS
@@ -129,10 +115,8 @@ Linux Router Project
 Linux distribution
 Linux for PlayStation 2
 List of Linux distributions
-Loongson
 Lubuntu
 MCC Interim Linux
-MIPS64
 MIUI
 MX Linux
 Mageia
@@ -145,7 +129,6 @@ Microsoft Windows
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Musix GNU+Linux
 Network Security Toolkit
 NimbleX
 Nitix
@@ -160,7 +143,6 @@ OpenSUSE
 Open Enterprise Server
 Oracle Linux
 PCLinuxOS
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
@@ -194,7 +176,6 @@ Sabily
 Sailfish OS
 Salix OS
 Scientific Linux
-Semiconductor
 Slackware
 Slax
 Softlanding Linux System
@@ -207,15 +188,12 @@ SparkyLinux
 Splashtop OS
 SteamOS
 Sunwah Linux
-Sunway (processor)
 SystemRescue
 T2 SDE
 Tails (operating system)
-The South China Morning Post
 Think Blue Linux
 Tiny Core Linux
 Tizen
-Tom's Hardware
 TopologiLinux
 Trisquel
 Turbolinux
@@ -230,19 +208,13 @@ Ubuntu Studio
 Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
-Unity (user interface)
-Unix-like
-Uruk GNU/Linux
-VIT, C.A.
 VectorLinux
 Vine Linux
 Void Linux
 Whonix
 Wubuntu
-X86-64
 XB Machine
 Xubuntu
 Yellow Dog Linux
 Zenwalk
-Zhaoxin
 Zorin OS

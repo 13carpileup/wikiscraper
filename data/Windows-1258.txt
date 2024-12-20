@@ -17,13 +17,8 @@ ARIB STD B24 character set
 ASCII
 ASMO 449
 ATASCII
-Acknowledge character
-Acute accent
-Albanian language
 Ampersand
-Amstrad CP/M Plus character set
 Amstrad CPC character set
-Angle quotes
 Apostrophe
 Apple II character set
 ArmSCII
@@ -39,8 +34,6 @@ Big5
 Binary Ordered Compression for Unicode
 Bitstream International Character Set
 BraSCII
-Broken bar
-Bullet (typography)
 C
 C0 and C1 control codes
 CCSID
@@ -56,8 +49,6 @@ Cancel character
 Caret
 Carriage return
 Casio calculator character sets
-Cedilla
-Cent (currency)
 Character encoding
 Character encodings in HTML
 Charset detection
@@ -80,17 +71,10 @@ Code page 1019
 Code page 1020
 Code page 1021
 Code page 1023
-Code page 1034
 Code page 1040
 Code page 1042
 Code page 1043
-Code page 1044
 Code page 1046
-Code page 1052
-Code page 1053
-Code page 1054
-Code page 1055
-Code page 1056
 Code page 1058
 Code page 1098
 Code page 1101
@@ -129,7 +113,6 @@ Code page 853
 Code page 855
 Code page 856
 Code page 857
-Code page 858
 Code page 859
 Code page 860
 Code page 861
@@ -146,7 +129,6 @@ Code page 896
 Code page 897
 Code page 899
 Code page 903
-Code page 904
 Code page 912
 Code page 915
 Code page 921
@@ -160,7 +142,6 @@ Code page 949 (IBM)
 Code page 950
 Code page 951
 Colon (punctuation)
-Combining diacritical mark
 Comma (punctuation)
 Comparison of Unicode encodings
 Compucolor II character set
@@ -168,9 +149,6 @@ Control character
 Cooke and Wheatstone telegraph
 Copyright symbol
 Cork encoding
-Curly brackets
-Currency (typography)
-Curved quotes
 D
 DEC Hebrew
 DEC RADIX 50
@@ -180,16 +158,7 @@ DG International
 DIN 66003
 DIN 91379
 DKOI
-Dagger (typography)
 Danish language
-Data link escape
-Degree (symbol)
-Delete character
-Devanagari transliteration
-Device Control 1
-Device Control 2
-Device Control 3
-Device Control 4
 Digital Equipment Corporation
 Digital encoding of APL symbols
 Dollar sign
@@ -197,19 +166,10 @@ Dutch language
 E
 EBCDIC
 ELOT 927
-Ellipsis
-Em Dash
-En Dash
-End of medium
-End of text
-End of transmission block
-End of transmission character
 English language
 Enquiry character
 Equals sign
 Escape character
-Estonian language
-Euro sign
 Exclamation mark
 Extended ASCII
 Extended Latin-8
@@ -217,10 +177,7 @@ Extended Unix Code
 F
 FOCAL character set
 Fieldata
-File separator
 Finnish language
-Florin sign
-Form feed
 Fraction (mathematics)
 French language
 Full stop
@@ -236,8 +193,6 @@ GSM 03.38
 Galaksija (computer)
 German language
 Greater-than sign
-Group separator
-Guarani language
 Guillemet
 H
 HP Roman
@@ -248,7 +203,6 @@ Hong Kong Supplementary Character Set
 I
 IBM
 IBM AIX
-IEC-P27-1
 INIS-8
 INIS character set
 ISBN (identifier)
@@ -258,26 +212,6 @@ ISO-IR-182
 ISO-IR-197
 ISO-IR-200
 ISO-IR-68
-ISO/IEC 10367
-ISO/IEC 2022
-ISO/IEC 646
-ISO/IEC 8859
-ISO/IEC 8859-1
-ISO/IEC 8859-10
-ISO/IEC 8859-11
-ISO/IEC 8859-12
-ISO/IEC 8859-13
-ISO/IEC 8859-14
-ISO/IEC 8859-15
-ISO/IEC 8859-16
-ISO/IEC 8859-2
-ISO/IEC 8859-3
-ISO/IEC 8859-4
-ISO/IEC 8859-5
-ISO/IEC 8859-6
-ISO/IEC 8859-7
-ISO/IEC 8859-8
-ISO/IEC 8859-9
 ISO 2033
 ISO 5426
 ISO 5427
@@ -285,12 +219,8 @@ ISO 5428
 ISO 6438
 ISO 6862
 ITU T.61
-Igbo language
 Indian Script Code for Information Interchange
-Intecolor/Compucolor 8001 character set
 Interpunct
-Inverted exclamation mark
-Inverted question mark
 Iran System encoding
 Irish language
 Italian language
@@ -316,11 +246,8 @@ LST 1564
 LST 1590-4
 LY1 encoding
 Less-than sign
-Line feed
-Logical not
 Lotus International Character Set
 Lotus Multi-Byte Character Set
-Luxembourgish language
 M
 MARC-8
 MIK (character set)
@@ -343,7 +270,6 @@ Mac OS Hebrew
 Mac OS Icelandic encoding
 Mac OS Inuit
 Mac OS Keyboard encoding
-Mac OS Maltese/Esperanto encoding
 Mac OS Ogham
 Mac OS Roman
 Mac OS Romanian encoding
@@ -353,28 +279,21 @@ Mac OS Turkish encoding
 Mac OS Ukrainian encoding
 Macintosh Font X encoding
 Macintosh Latin encoding
-Macron (diacritic)
 Magnetic ink character recognition
-Masculine ordinal indicator
 Mazovia encoding
-Micro sign
 Microsoft
 Microsoft Windows
-Minus sign
 Mojibake
 Mojikyō
 Morse code
 Morse code for non-Latin alphabets
 Multinational Character Set
-Multiplication sign
 N
 NEC APC character set
 National Replacement Character Set
 Nauruan language
 NeXT character set
-Negative acknowledge character
 Non-breaking space
-Norwegian language
 Null character
 Number sign
 O
@@ -385,17 +304,10 @@ Obelus
 One half
 P
 PETSCII
-Parenthesis
 Percent sign
-Permille
 Perso-Arabic Script Code for Information Interchange
-Pilcrow
-Plus-minus sign
-Plus sign
-Portuguese language
 PostScript Latin 1 Encoding
 PostScript Standard Encoding
-Pound sign
 Prosigns for Morse code
 Q
 Question mark
@@ -403,11 +315,8 @@ Quotation mark
 R
 RISC OS character set
 RPL character set
-Record separator
-Round-trip format conversion
 Russian Morse code
 S
-SAM Coupé character set
 SI 960
 SQUOZE
 Section sign
@@ -416,31 +325,21 @@ Semicolon
 Sharp MZ character set
 Sharp pocket computer character sets
 Shift JIS
-Shift in
-Shift out
 Sinclair QL character set
 Slash (punctuation)
 Soft hyphen
 Space character
 Spanish language
-Square brackets
 Standard Compression Scheme for Unicode
-Stanford/ITS character set
 Stanford Extended ASCII
 Start of heading
 Start of text
 Substitute character
-Superscript
-Swedish language
 Symbol (typeface)
-Synchronous idle
 T
-T.51/ISO/IEC 6937
-TCVN 5712
 TI calculator character sets
 TRON (encoding)
 TRS-80 character set
-Tab character
 Tamil All Character Encoding
 Tamil Script Code for Information Interchange
 TeX
@@ -450,9 +349,7 @@ Teletext
 Teletext character set
 Thai Industrial Standard 620-2533
 Tilde
-Trademark symbol
 Transcode (character encoding)
-Trema (diacritic)
 U
 UTF-1
 UTF-16
@@ -463,28 +360,20 @@ UTF-EBCDIC
 Underscore
 Unicode
 Unicode control characters
-Unicode normalization
 Unified Hangul Code
-Unit separator
 Universal Coded Character Set
 V
 VISCII
-VNI Character Set
-VPS character encoding
 VSCII
 VT100 encoding
 VT220
 Variable-width encoding
 Ventura International
 Vertical bar
-Vertical tab
 Videotex
 Videotex character set
-Vietnamese alphabet
 Vietnamese language
-Vietnamese đồng
 W
-WHATWG
 Wabun code
 Wang International Standard Code for Information Interchange
 Whitespace character
@@ -496,5 +385,4 @@ Windows-1254
 Windows-1255
 Windows-1256
 Windows-1257
-Windows-125x
 Windows-1270

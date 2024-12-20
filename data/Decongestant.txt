@@ -12,47 +12,29 @@ ATC code M
 ATC code N
 ATC code P
 ATC code R
-ATC code R01
 ATC code S
 ATC code V
 ATCvet code QI
 Addiction medicine
-Adrenergic
-Adrenergic receptor
-Agonists
 Alkylating antineoplastic agent
-Allergen
-Allergy
-Amidephrine
-Amphetamine
 Anabolic steroid
 Analgesic
 Anatomical Therapeutic Chemical Classification System
 Anesthetic
-Angiotensin II receptor antagonist
 Anorectic
-Anosmia
 Antacid
-Antazoline
 Anthelmintic
 Anti-inflammatory
 Anti-obesity medication
 Antianginal
 Antiarrhythmic agent
-Antibacterial
 Anticoagulant
 Anticonvulsant
-Antidementia drug
 Antidepressant
-Antidiarrhoeal
 Antidote
 Antiemetic
 Antifibrinolytic
-Antifungal drug
 Antihemorrhagic
-Antihistamine
-Antihyperkinetic
-Antihypertensive drug
 Antimetabolite
 Antimicrobial
 Antimigraine drug
@@ -61,218 +43,60 @@ Antineoplastic
 Antiparasitic
 Antiplatelet drug
 Antipropulsive
-Antiprotozoal agent
 Antipruritic
-Antipsoriatic
 Antipsychotic
 Antithrombotic
 Antithyroid agent
 Antiviral drug
 Anxiolytic
 Aphrodisiac
-Azatadine/pseudoephedrine
-Azelastine
-Azelastine/fluticasone
-Beclometasone dipropionate
-Beclomethasone dipropionate
-Benzedrine
 Beta blocker
-Betamethasone
 Bile acid sequestrant
 Bisphosphonate
 Blood
-Blood pressure
 Blood vessel
 Bone
 Bronchodilator
-Budesonide
-Cafaminol
 Calcium channel blocker
-Calcium hexamine thiocyanate
-Carbinoxamine/pseudoephedrine
 Cardiac glycoside
 Cardiac stimulant
 Central nervous system
-Cetirizine/pseudoephedrine
 Chemotherapy
-Cicatrizant
-Ciclesonide
 Circulatory system
-Clinical trial
 Coagulation
-Cochrane (organisation)
-Common cold
-Contrast medium
-Corbadrine
 Corticosteroid
-Cough medicine
-Cromoglicate
-Cyclopentamine
 Deliriant
 Depressant
 Dexamethasone
-Dexbrompheniramine/pseudoephedrine
 Diabetes medication
-Dietary mineral
 Disease-modifying antirheumatic drug
 Dissociative
 Diuretic
 Doi (identifier)
 Dressing (medicine)
 Ectoparasiticide
-Emollient
 Endocrine system
-Entactogen
 Entheogen
-Ephedrine
-Epinephrine
-Eucalyptus oil
 Euphoria
-Expectorant
-Fenoxazoline
 Fertility medication
-Fexofenadine/pseudoephedrine
 Fibrate
-Flunisolide
-Fluticasone
-Fluticasone furoate
-Fluticasone propionate
-Framycetin
 General anaesthetic
 Genitourinary system
 Glucocorticoid
-Guaifenesin
 H1 antagonist
-H2 antagonist
-Hexamidine
-Histamine antagonist
 Hormonal contraception
 Human brain
-Human gastrointestinal tract
-Human nose
 Human skin
-Hyaluronan
-Hypertension
-Hypertensive crisis
 Hypnotic
-Hypolipidemic agent
 Hypothalamic–pituitary hormone
 ISBN (identifier)
 Immune system
-Immunomodulator
 Immunostimulant
 Immunosuppressive drug
 Infection
-Inflammation
 Influenza
 Inhaler
-Intravenous immunoglobulin
-Ipratropium bromide
-Iproheptine
 Joint
-Laxative
-Levocabastine
-Levomethamphetamine
-List of withdrawn drugs
-Local anesthetic
-Lodoxamide
-Loratadine
-Malignant
-Management of Parkinson's disease
-Mast cell stabilizer
-Mephentermine
 Metabolism
-Methylephedrine
-Methylhexanamine
-Metizoline
-Mineralocorticoid
-Mometasone furoate
-Monoamine oxidase inhibitor
-Mood stabilizer
-Motivation-enhancing drug
-Mucus
-Mupirocin
-Muscle
-Muscle relaxant
-Naphazoline
-Naproxen/pseudoephedrine
-Nasal congestion
-Nasal polyp
-Nasal spray
-Nedocromil
 Nervous system
-Neuroprotective
-Neurotoxin
-Non-steroidal anti-inflammatory drug
-Nootropic
-Norepinephrine
-Norepinephrine releasing agent
-Olopatadine
-Olopatadine/mometasone
-Ophthalmology
-Orexigenic
-Otology
-Oxymetazoline
 PMID (identifier)
-Paranasal sinuses
-Pharmaceutical drug
-Phases of clinical research
-Phenylephrine
-Phenylpropanolamine
-Platelet
-Prednisolone
-Propylhexedrine
-Proton-pump inhibitor
-Pseudoephedrine
-Pseudoephedrine/loratadine
-Psychedelic drug
-Psychedelics, dissociatives and deliriants
-Radiopharmacology
-Renin inhibitor
-Renin–angiotensin system
-Respiratory system
-Retinol
-Rhinitis
-Ritiometan
-Runny nose
-Saline (medicine)
-Sedative
-Selective estrogen receptor modulator
-Senotherapeutics
-Sense
-Serenic
-Sex steroid
-Sinusitis
-Sneeze
-Spaglumic acid
-Spindle poison
-Statin
-Stimulant
-Swelling (medical)
-Sympathomimetic
-Synephrine
-Systematic review
-Tachyphylaxis
-Tetryzoline
-Thonzylamine
-Throat
-Thrombolytic drug
-Thyroid hormone
-Tixocortol
-Topical administration
-Topical decongestant
-Topoisomerase inhibitor
-Tramazoline
-Triamcinolone
-Triamcinolone acetonide
-Tuaminoheptane
-Tymazoline
-Upper respiratory tract
-Vaccine
-Vasoconstriction
-Vasodilation
-Vitamin
-WHO Model List of Essential Medicines
-Wakefulness-promoting agent
-Xylometazoline
-Α-Adrenergic receptor agonist

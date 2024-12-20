@@ -1,4 +1,3 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
 AlmaLinux
@@ -7,7 +6,6 @@ Android-x86
 Android (operating system)
 Antergos
 AntiX
-AppArmor
 ArchBang
 ArchLabs
 Arch Linux
@@ -85,7 +83,6 @@ GoboLinux
 Gobuntu
 GrapheneOS
 HandyLinux
-Hyperbola GNU/Linux-libre
 IodéOS
 Jurix
 KDE neon
@@ -129,14 +126,12 @@ Mer (software distribution)
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Musix GNU+Linux
 Network Security Toolkit
 NimbleX
 Nitix
 NixOS
 Nobara Linux
 Nova (operating system)
-Novell
 OmniROM
 One UI
 OpenELEC
@@ -146,7 +141,6 @@ Open Enterprise Server
 Operating system
 Oracle Linux
 PCLinuxOS
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
@@ -180,7 +174,6 @@ Sabily
 Sailfish OS
 Salix OS
 Scientific Linux
-Security-focused operating system
 Slackware
 Slax
 Softlanding Linux System
@@ -213,8 +206,6 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 VectorLinux
 Vine Linux
 Void Linux

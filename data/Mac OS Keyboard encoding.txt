@@ -8,7 +8,6 @@
 7
 8
 9
-? ⃝
 ABICOMP character set
 ANSEL
 ANSI escape code
@@ -16,7 +15,6 @@ ARIB STD B24 character set
 ASCII
 ASMO 449
 ATASCII
-Amstrad CP/M Plus character set
 Amstrad CPC character set
 Apple II character set
 ArmSCII
@@ -62,17 +60,10 @@ Code page 1019
 Code page 1020
 Code page 1021
 Code page 1023
-Code page 1034
 Code page 1040
 Code page 1042
 Code page 1043
-Code page 1044
 Code page 1046
-Code page 1052
-Code page 1053
-Code page 1054
-Code page 1055
-Code page 1056
 Code page 1058
 Code page 1098
 Code page 1101
@@ -111,7 +102,6 @@ Code page 853
 Code page 855
 Code page 856
 Code page 857
-Code page 858
 Code page 859
 Code page 860
 Code page 861
@@ -128,7 +118,6 @@ Code page 896
 Code page 897
 Code page 899
 Code page 903
-Code page 904
 Code page 912
 Code page 915
 Code page 921
@@ -156,7 +145,6 @@ DIN 91379
 DKOI
 Digital Equipment Corporation
 Digital encoding of APL symbols
-Down arrow (symbol)
 EBCDIC
 ELOT 927
 Extended Latin-8
@@ -164,7 +152,6 @@ Extended Unix Code
 F
 FOCAL character set
 Fieldata
-Fonts on Macintosh
 GBK (character encoding)
 GB 12052
 GB 12345
@@ -180,7 +167,6 @@ Han unification
 Hardware code page
 Hong Kong Supplementary Character Set
 IBM AIX
-IEC-P27-1
 INIS-8
 INIS character set
 ISO-IR-111
@@ -189,26 +175,6 @@ ISO-IR-182
 ISO-IR-197
 ISO-IR-200
 ISO-IR-68
-ISO/IEC 10367
-ISO/IEC 2022
-ISO/IEC 646
-ISO/IEC 8859
-ISO/IEC 8859-1
-ISO/IEC 8859-10
-ISO/IEC 8859-11
-ISO/IEC 8859-12
-ISO/IEC 8859-13
-ISO/IEC 8859-14
-ISO/IEC 8859-15
-ISO/IEC 8859-16
-ISO/IEC 8859-2
-ISO/IEC 8859-3
-ISO/IEC 8859-4
-ISO/IEC 8859-5
-ISO/IEC 8859-6
-ISO/IEC 8859-7
-ISO/IEC 8859-8
-ISO/IEC 8859-9
 ISO 2033
 ISO 5426
 ISO 5427
@@ -217,7 +183,6 @@ ISO 6438
 ISO 6862
 ITU T.61
 Indian Script Code for Information Interchange
-Intecolor/Compucolor 8001 character set
 Iran System encoding
 JIS X 0201
 JIS X 0208
@@ -237,7 +202,6 @@ Kamenický encoding
 LST 1564
 LST 1590-4
 LY1 encoding
-Left arrow (symbol)
 Lotus International Character Set
 Lotus Multi-Byte Character Set
 MARC-8
@@ -260,7 +224,6 @@ Mac OS Gurmukhi
 Mac OS Hebrew
 Mac OS Icelandic encoding
 Mac OS Inuit
-Mac OS Maltese/Esperanto encoding
 Mac OS Ogham
 Mac OS Roman
 Mac OS Romanian encoding
@@ -288,15 +251,10 @@ PETSCII
 Perso-Arabic Script Code for Information Interchange
 PostScript Latin 1 Encoding
 PostScript Standard Encoding
-Private Use (Unicode)
-Private Use Area
-Private Use Areas
 Prosigns for Morse code
 RISC OS character set
 RPL character set
-Right arrow (symbol)
 Russian Morse code
-SAM Coupé character set
 SI 960
 SQUOZE
 Sega SC-3000 character set
@@ -306,10 +264,8 @@ Shift JIS
 Sinclair QL character set
 Space character
 Standard Compression Scheme for Unicode
-Stanford/ITS character set
 Stanford Extended ASCII
 Symbol (typeface)
-T.51/ISO/IEC 6937
 TI calculator character sets
 TRON (encoding)
 TRS-80 character set
@@ -332,7 +288,6 @@ Unicode
 Unicode control characters
 Unified Hangul Code
 Universal Coded Character Set
-Up arrow (symbol)
 VISCII
 VSCII
 VT100 encoding
@@ -354,9 +309,6 @@ Windows-1256
 Windows-1257
 Windows-1258
 Windows-1270
-Windows Cyrillic + Finnish
-Windows Cyrillic + French
-Windows Cyrillic + German
 Windows Polytonic Greek
 Windows code page
 World System Teletext
@@ -367,28 +319,3 @@ ZX81 character set
 ZX Spectrum character set
 ↖
 ↘
-↩
-↪
-⇞
-⇟
-⇠
-⇡
-⇢
-⇣
-⇤
-⇥
-⇧
-⇪
-⌃
-⌘
-⌤
-⌥
-⌦
-⌧
-⌫
-⎋
-⏏
-␣
-◆
-✓
-❘⃝

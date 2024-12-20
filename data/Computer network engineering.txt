@@ -1,10 +1,3 @@
-2.4 GHz
-3G
-4G
-5G
-5G network slicing
-60-meter band
-6G
 Acoustical engineering
 Aerospace engineering
 Agricultural engineering
@@ -17,7 +10,6 @@ Automation engineering
 Automotive engineering
 Bachelor of Engineering
 Bachelor of Science
-Base station subsystem
 Bibcode (identifier)
 Biochemical engineering
 Bioinformatics
@@ -36,8 +28,6 @@ Civil engineering
 Climate engineering
 Clinical engineering
 Cloud computing
-Cloud computing security
-Cloud engineering
 Coastal engineering
 Communication protocol
 Computer engineering
@@ -46,31 +36,20 @@ Computer security
 Construction engineering
 Content delivery network
 Control engineering
-Copper conductor
 Corrosion engineering
-Cryptographic protocol
-Cyberattack
 Cybersecurity engineering
-Data breach
 Data center
-Data center interconnect
 Data engineering
-Data in transit
-Deep packet inspection
 Design
 Design engineer
-Digital transformation
 Doctorate
 Doi (identifier)
 Earthquake engineering
 Ecological engineering
-Edge computing
 Electrical engineering
 Electrochemical engineering
 Electromechanics
 Electronic engineering
-End user
-Endpoint detection and response
 Energy engineering
 Engineer
 Engineer's degree
@@ -80,17 +59,12 @@ Engineering education
 Engineering management
 Engineering mathematics
 Engineering physics
-Enhanced Interior Gateway Routing Protocol
 Environmental engineering
-Ethernet over twisted pair
 Explosives engineering
 Facilities engineering
-Fiber-optic cable
 Fire protection engineering
-Firewall (computing)
 Food engineering
 Forensic engineering
-Generic routing encapsulation
 Genetic engineering
 Geological engineering
 Geomatics engineering
@@ -108,31 +82,20 @@ High-definition video
 History of engineering
 Holography
 Hydraulic engineering
-IEEE 802.11
-IPsec
 ISBN (identifier)
 ISSN (identifier)
-Identity management
 Industrial engineering
 Information engineering
 Infrared
-Infrastructure as code
 Instrumentation and control engineering
 Instrumentation engineering
-Intent-based network
-Inter-domain routing
 Interdisciplinarity
 Internet
-Internet Protocol Security
-Internet of things
 Internet service provider
 Intrusion detection system
 List of engineering branches
-Lists of network protocols
-Load balancing (computing)
 Local area network
 Logistics engineering
-Low Earth orbit
 Machine learning
 Manufacturing engineering
 Marine engineering
@@ -141,87 +104,51 @@ Materials science
 Mechanical, electrical, and plumbing
 Mechanical engineering
 Mechatronics
-Mesh networking
 Metallurgy
 Microwave engineering
 Military engineering
 Mining engineering
 Molecular engineering
-Multipath TCP
-Multiprotocol Label Switching
 Municipal or urban engineering
-NC-SI
 Nanotechnology
 Naval architecture
-Network Virtualization using Generic Routing Encapsulation
-Network congestion
-Network function virtualization
 Network security
-Network segmentation
 Network service
-Network switch
-Network throughput
-Network topology
-Network virtualization
-Next-generation firewall
 Nuclear engineering
-OSI model
 Offshore engineering
-On-premises software
 Online game
 Ontology engineering
-Open Shortest Path First
 Optical engineering
 Outline of computer engineering
 Outline of engineering
-Overhead (computing)
 PMC (identifier)
 PMID (identifier)
 Packaging engineering
 Paper engineering
 Petroleum engineering
 Pharmaceutical engineering
-Point-to-point (telecommunications)
 Polymer engineering
 Power engineering
-Predictive maintenance
 Privacy engineering
 Process engineering
-QUIC
 Quality of service
-Quantum cryptography
-Quantum key distribution
-Quantum network
 Radio-frequency engineering
 Radio frequency
 Railway engineering
-Real-time Transport Protocol
 Regulation and licensure in engineering
 Rehabilitation engineering
-Repeater
 River engineering
 Robotics engineering
 Router (computing)
-SD-WAN
 Safety engineering
 Sanitary engineering
-Satellite constellation
 Security engineering
-Security information and event management
-Segment routing
-Self-healing ring
 Semiconductor device
 Signal processing
 Software
 Software engineering
-SpaceX
-Spectral band
-Spectrum management
 Sports engineering
-Star network
-Starlink
 Structural engineering
-Subnet
 Surface engineering
 Survey engineering
 Sustainable engineering
@@ -230,23 +157,10 @@ Telecommunications
 Telecommunications engineering
 Textile engineering
 Thermal engineering
-Threat (computer security)
 Tissue engineering
 Traffic engineering (transportation)
-Transmission Control Protocol/Internet Protocol
 Transport Layer Security
 Transportation engineering
-Tree network
 Tribology
-VLAN
-Video conferencing
-Video on demand
-Virtual Extensible LAN
-Virtual private cloud
-Virtual private network
-WebRTC
-Wi-Fi
 Wide area network
-Wireless access point
 Wireless network
-Zero trust security model

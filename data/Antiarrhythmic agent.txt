@@ -2,8 +2,6 @@ ACE inhibitor
 ATC code A
 ATC code B
 ATC code C
-ATC code C01
-ATC code C01B
 ATC code D
 ATC code D09
 ATC code G
@@ -17,42 +15,26 @@ ATC code R
 ATC code S
 ATC code V
 ATCvet code QI
-AV node
-Acebutolol
-Acetylcholine
-Action potential
 Addiction medicine
 Adenosine
-Adenosine A1 receptor
-Adrenergic receptor
-Agonist
-Ajmaline
 Alkylating antineoplastic agent
-Amiodarone
 Anabolic steroid
 Analgesic
 Anatomical Therapeutic Chemical Classification System
 Anesthetic
-Angiotensin II receptor antagonist
 Anorectic
 Antacid
 Anthelmintic
 Anti-inflammatory
 Anti-obesity medication
 Antianginal
-Antibacterial
 Anticoagulant
 Anticonvulsant
-Antidementia drug
 Antidepressant
-Antidiarrhoeal
 Antidote
 Antiemetic
 Antifibrinolytic
-Antifungal drug
 Antihemorrhagic
-Antihyperkinetic
-Antihypertensive drug
 Antimetabolite
 Antimicrobial
 Antimigraine drug
@@ -61,220 +43,63 @@ Antineoplastic
 Antiparasitic
 Antiplatelet drug
 Antipropulsive
-Antiprotozoal agent
 Antipruritic
-Antipsoriatic
 Antipsychotic
 Antithrombotic
 Antithyroid agent
 Antiviral drug
 Anxiolytic
 Aphrodisiac
-Aprindine
-Arrhythmia
-Asystole
-Atenolol
-Atrial fibrillation
-Atrial flutter
-Atropine
-Barbiturate
-Benzodiazepine
 Beta blocker
-Beta blockers
 Bile acid sequestrant
-Biological target
-Bisoprolol
 Bisphosphonate
 Blood
 Bone
-Bramah N. Singh
-Bretylium
 Bronchodilator
-Bunaftine
 Calcium
-Calcium channel
 Calcium channel blocker
-Cardiac Arrhythmia Suppression Trial
-Cardiac action potential
 Cardiac glycoside
 Cardiac stimulant
-Carvedilol
-Catecholamine
-Celivarone
-Channel blocker
 Chemotherapy
-Cicatrizant
 Circulatory system
-Clinical trial
 Coagulation
-Contrast medium
 Corticosteroid
-Cough medicine
 Decongestant
 Deliriant
 Depressant
 Diabetes medication
-Dietary mineral
-Digitoxin
-Digoxin
-Dihydroquinidine
-Diltiazem
-Diphenylhydantoin
 Disease-modifying antirheumatic drug
-Disopyramide
 Dissociative
 Diuretic
-Dofetilide
 Doi (identifier)
 Dressing (medicine)
-Dronedarone
-Drug
-Drug class
-Drugs.com
-E-4031
 Ectoparasiticide
-Electrical conduction system of the heart
-Electrocardiogram
-Emollient
-Encainide
 Endocrine system
-Entactogen
-Enteral
 Entheogen
-Esmolol
-Ethacizine
 Euphoria
 Fertility medication
 Fibrate
-Flecainide
 General anaesthetic
 Genitourinary system
 Glucocorticoid
 H1 antagonist
-H2 antagonist
-Hertford College
 Hormonal contraception
 Human brain
-Human gastrointestinal tract
 Human skin
 Hypnotic
-Hypolipidemic agent
 Hypothalamic–pituitary hormone
 ISBN (identifier)
-Ibutilide
 Immune system
-Immunomodulator
 Immunostimulant
 Immunosuppressive drug
-Indecainide
 Infection
-Intravenous immunoglobulin
 Intravenous therapy
-Ion transporter
 Joint
-Landiolol
-Laxative
-Lidocaine
-List of withdrawn drugs
-Local anesthetic
-Lorajmine
-Lorcainide
-Magnesium sulfate
-Magnesium sulfate (medical use)
-Malignant
-Management of Parkinson's disease
-Management of atrial fibrillation
 Medical Subject Headings
-Membrane stabilizing effect
 Metabolism
-Metoprolol
-Mexiletine
-Miles Vaughan Williams
-Mineralocorticoid
-Mood stabilizer
-Moracizine
-Moricizine
-Motivation-enhancing drug
-Muscarinic acetylcholine receptor M2
-Muscarinic agonist
-Muscarinic antagonist
-Muscle
-Muscle relaxant
-Myocardial infarction
-Na+/K+-ATPase
-Nadolol
-Nebivolol
 Nervous system
-Neuroprotective
-Neurotoxin
-Nifekalant
-Non-steroidal anti-inflammatory drug
-Nootropic
-Ophthalmology
-Orexigenic
-Otology
-Ouabain
 PMC (identifier)
 PMID (identifier)
-Paroxysmal supraventricular tachycardia
-Phases of clinical research
-Phenytoin
-Pindolol
-Platelet
-Potassium
-Potassium channel blocker
-Prajmaline
-Proarrhythmic agent
-Procainamide
-Propafenone
-Propranolol
-Proton-pump inhibitor
-Psychedelic drug
-Psychedelics, dissociatives and deliriants
-Quinidine
-Radiopharmacology
-Receptor (biochemistry)
-Receptor antagonist
-Renin inhibitor
-Renin–angiotensin system
-Respiratory system
 S2CID (identifier)
-Sedative
-Selective estrogen receptor modulator
-Senotherapeutics
-Sense
-Serenic
-Sex steroid
-Skeletal formula
 Sodium
-Sodium channel
-Sodium channel blocker
-Sotalol
-Sparteine
-Spindle poison
-Statin
-Stimulant
-Supraventricular tachycardia
-Sympathetic nervous system
 Synonym
-Tachycardia
-Tedisamil
-Thrombolytic drug
-Thyroid hormone
-Thyroidectomy
-Timolol
-Tocainide
-Topoisomerase inhibitor
-Torsades de pointes
-Vaccine
-Vagus nerve
-Vasodilation
-Ventricular rate
-Ventricular tachycardia
-Verapamil
-Vernakalant
-Vitamin
-WHO Model List of Essential Medicines
-Wakefulness-promoting agent
-Wolff-Parkinson-White syndrome
-Wolff–Parkinson–White syndrome

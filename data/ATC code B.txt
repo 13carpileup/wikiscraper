@@ -1,11 +1,5 @@
-1,3-Indandione
 ACE inhibitor
 ATC code A
-ATC code B01
-ATC code B02
-ATC code B03
-ATC code B05
-ATC code B06
 ATC code C
 ATC code D
 ATC code D09
@@ -19,54 +13,28 @@ ATC code P
 ATC code R
 ATC code S
 ATC code V
-ATCvet code
 ATCvet code QI
-Abciximab
-Abelacimab
-Absorbable gelatin sponge
-Acenocoumarol
-Acetylsalicylic acid/dipyridamole
 Addiction medicine
-Adenosine diphosphate receptor inhibitor
-Adrenalone
-Alanyl glutamine
 Alkylating antineoplastic agent
-Aloxiprin
-Alpha 1-antitrypsin
-Alteplase
-Amino acid
-Aminocaproic acid
-Aminomethylbenzoic acid
-Ammonium chloride
 Anabolic steroid
 Analgesic
 Anatomical Therapeutic Chemical Classification System
-Ancrod
 Anemia
 Anesthetic
-Angiotensin II receptor antagonist
-Anistreplase
 Anorectic
 Antacid
 Anthelmintic
 Anti-inflammatory
 Anti-obesity medication
-Antianemic
 Antianginal
 Antiarrhythmic agent
-Antibacterial
 Anticoagulant
 Anticonvulsant
-Antidementia drug
 Antidepressant
-Antidiarrhoeal
 Antidote
 Antiemetic
 Antifibrinolytic
-Antifungal drug
 Antihemorrhagic
-Antihyperkinetic
-Antihypertensive drug
 Antimetabolite
 Antimicrobial
 Antimigraine drug
@@ -75,385 +43,58 @@ Antineoplastic
 Antiparasitic
 Antiplatelet drug
 Antipropulsive
-Antiprotozoal agent
 Antipruritic
-Antipsoriatic
 Antipsychotic
-Antithrombin
 Antithrombotic
 Antithyroid agent
 Antiviral drug
 Anxiolytic
 Aphrodisiac
-Apixaban
-Aprotinin
-Argatroban
-Arginine
-Aspirin
-Avatrombopag
-Batroxobin
-Bemiparin sodium
-Beraprost
-Berotralstat
 Beta blocker
-Beta thalassemia
-Betibeglogene autotemcel
-Betrixaban
 Bile acid sequestrant
 Bisphosphonate
-Bivalirudin
 Blood
-Blood plasma
-Blood substitute
-Blood substitutes
 Bone
-Brinase
-Bromelain
 Bronchodilator
-C1-inhibitor
-Calcium alginate
 Calcium channel blocker
-Calcium chloride
-Camostat
-Cangrelor
-Carbamide
-Carbasalate calcium
-Carbazochrome
 Carbohydrate
 Cardiac glycoside
 Cardiac stimulant
-Cardioplegia
-Catridecacog
-Certoparin sodium
-Cetylpyridinium
 Chemotherapy
-Chlorhexidine
-Chymotrypsin
-Cicatrizant
-Cilostazol
 Circulatory system
-Citrate
-Clinical trial
-Clopidogrel
-Cloricromen
-Clorindione
 Coagulation
-Cobamamide
-Collagen
-Concizumab
-Conestat alfa
-Contrast medium
 Corticosteroid
-Cough medicine
-Coumarin
-Coumatetralyl
-Crizanlizumab
-Cyanocobalamin
-Cyanocobalamin tannin complex
-Dabigatran
-Dalteparin sodium
-Damoctocog alfa pegol
-Danaparoid
-Daprodustat
-Darbepoetin alfa
-Darexaban
 Decongestant
-Defibrotide
 Deliriant
 Depressant
-Dermatan sulfate
-Desidustat
-Desirudin
-Desmoteplase
-Desoxyribonuclease
-Dextran
 Diabetes medication
-Dicoumarol
-Dietary mineral
-Diphenadione
-Dipyridamole
-Direct factor Xa inhibitors
-Direct thrombin inhibitor
 Disease-modifying antirheumatic drug
 Dissociative
-Ditazole
 Diuretic
 Dressing (medicine)
-Drotrecogin alfa
-Ecallantide
 Ectoparasiticide
-Edoxaban
-Efanesoctocog alfa
-Efegatran
-Efmoroctocog alfa
-Electrolyte
-Elinogrel
-Eltrombopag
-Emollient
-Enarodustat
 Endocrine system
-Enoxaparin sodium
-Entactogen
 Entheogen
-Epinephrine
-Eptifibatide
-Erythrocytes
 Erythropoietin
-Etamsylate
-Ethacridine lactate
-Ethyl biscoumacetate
-Ethylenediaminetetraacetic acid
 Euphoria
-Exagamglogene autotemcel
-Factor IX
-Factor VII
-Factor VIII
-Factor VIII (medication)
-Factor X
-Factor XIII
-Factor Xa
-Ferric derisomaltose
-Ferric maltol
-Ferrous ascorbate
-Ferrous aspartate
-Ferrous glycine sulfate
-Ferrous iodine
-Ferrous succinate
-Ferrous tartrate
 Fertility medication
 Fibrate
-Fibrin glue
-Fibrinogen
-Fibrinolysin
-Fibrinolysin/desoxyribonuclease
-Fibrinolytic
-Fidanacogene elaparvovec
-Folic acid
-Fondaparinux
-Fostamatinib
-Gelatin agent
 General anaesthetic
 Genitourinary system
 Glucocorticoid
-Glucose
-Glycine
-Glycoprotein IIb/IIIa inhibitors
-Glycosaminoglycan
 H1 antagonist
-H2 antagonist
-HIF prolyl-hydroxylase inhibitor
-Haematopoiesis
-Hematological
-Hemin
-Hemoglobin crosfumaril
-Hemoglobin raffimer
-Hemostatic Powder Spray TC-325
 Heparin
-Heparinoid
-Hereditary angioedema
-Hirudin
 Hormonal contraception
 Human brain
-Human gastrointestinal tract
 Human skin
-Hyaluronidase
-Hydrochloric acid
-Hydroxocobalamin
-Hydroxyethyl starch
 Hypnotic
-Hypolipidemic agent
 Hypothalamic–pituitary hormone
-Icatibant
-Idraparinux
-Iloprost
 Immune system
-Immunomodulator
 Immunostimulant
 Immunosuppressive drug
-Indobufen
 Infection
-Inogatran
-Intravenous
-Intravenous immunoglobulin
-Iron(II) carbonate
-Iron(II) chloride
-Iron(II) fumarate
-Iron(II) gluconate
-Iron(II) sulfate
-Iron(III) oxide-hydroxide
-Iron sucrose
 Iron supplement
 Joint
-Lanadelumab
-Laxative
-Lepirudin
-Lipid emulsion
-List of withdrawn drugs
-Local anesthetic
-Lovotibeglogene autotemcel
-Low-molecular-weight heparin
-Luspatercept
-Lusutrombopag
-Lysine
-Magnesium chloride
-Magnesium citrate
-Magnesium phosphate
-Magnesium sulfate
-Malignant
-Management of Parkinson's disease
-Mandelic acid
-Mannitol
-Marstacimab
-Mechanism of action of aspirin
-Mecobalamin
-Melagatran
-Menadione
 Metabolism
-Methoxy polyethylene glycol-epoetin beta
-Mineralocorticoid
-Mitapivat
-Molidustat
-Monteplase
-Mood stabilizer
-Moroctocog alfa
-Motivation-enhancing drug
-Muscle
-Muscle relaxant
-Nadroparin calcium
-Nafamostat
-National Institutes of Health
-Neomycin
 Nervous system
-Neuroprotective
-Neurotoxin
-Nitrofural
-Non-steroidal anti-inflammatory drug
-Nonacog alfa
-Nootropic
-Noxytiolin
-Nucleoside
-Nucleotide
-Oligosaccharide
-Ophthalmology
-Orbofiban
-Orexigenic
-Otamixaban
-Otology
-Oxalate
-Oxidized cellulose
-P2Y12
-Parnaparin sodium
-Peginesatide
-Perfusion
-Peritoneal dialysis
-Pharmaceutical drug
-Phases of clinical research
-Phenindione
-Phenprocoumon
-Phosphodiesterase inhibitor
-Phylloquinone
-Picotamide
-Plasminogen activator
-Platelet
-Potassium acetate
-Potassium chloride
-Potassium lactate
-Potassium phosphate
-Prasugrel
-Prostacyclin
-Prostaglandin analogue
-Protein C
-Protein hydrolysate
-Prothrombin complex concentrate
-Proton-pump inhibitor
-Psychedelic drug
-Psychedelics, dissociatives and deliriants
-REG1
-Radiopharmacology
-Rafutrombopag
-Ramatroban
-Recombinant factor VIIa
-Recombinant tissue plasminogen activators
-Renin inhibitor
-Renin–angiotensin system
-Respiratory system
-Reteplase
-Reviparin sodium
-Rivaroxaban
-Romiplostim
-Roxadustat
-Roxifiban
-Saruplase
-Sedative
-Selective estrogen receptor modulator
-Senotherapeutics
-Sense
-Serenic
-Serine endopeptidase
-Serpin
-Serum albumin
-Sex steroid
-Sibrafiban
-Sickle cell disease
-Sodium acetate
 Sodium bicarbonate
-Sodium chloride
-Sodium citrate
-Sodium ferric gluconate complex
-Sodium glycerophosphate
-Sorbitol
-Spindle poison
-Statin
-Stem cells
-Stimulant
-Streptokinase
-Sulfamethizole
-Sulodexide
-Susoctocog alfa
-Taurolidine
-Tenecteplase
-Terbogrel
-Terutroban
-Tetragalacturonic acid hydroxymethylester
-Thienopyridine
-Thrombin
-Thrombocytes
-Thrombolytic drug
-Thrombopoietin receptor agonist
-Thromboxane inhibitors
-Thromboxane receptor antagonist
-Thromboxane synthase inhibitors
-Thyroid hormone
-Ticagrelor
-Ticlopidine
-Tinzaparin sodium
-Tioclomarol
-Tirofiban
-Topoisomerase inhibitor
-Tranexamic acid
-Treprostinil
-Triflusal
-Trisodium phosphate
-Trometamol
-Trypsin
-Turoctocog alfa
-Ulinastatin
-Umbilical cord blood
-Urokinase
-Vaccine
-Vadadustat
-Valoctocogene roxaparvovec
-Vasodilation
-Veterinary
-Vitamin
-Vitamin B12
-Vitamin K
-Vitamin K antagonist
-Vorapaxar
-Voxelotor
-WHO Model List of Essential Medicines
-Wakefulness-promoting agent
-Warfarin
-World Health Organization
-Ximelagatran
-Zinc chloride

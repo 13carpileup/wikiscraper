@@ -1,14 +1,7 @@
 !
-"
 $
-%
-&
 '
 (
-)
-+
-,
--
 0 (number)
 1 (number)
 2 (number)
@@ -19,7 +12,6 @@ $
 7 (number)
 8 (number)
 9 (number)
-;
 =
 ?
 @
@@ -31,15 +23,10 @@ ARIB STD B24 character set
 ASCII
 ASMO 449
 ATASCII
-Abeno-ku, Osaka
-Abenobashi Terminal Building
-Acknowledge character
 Ampersand
-Amstrad CP/M Plus character set
 Amstrad CPC character set
 Apostrophe
 Apple II character set
-Arithmetic mean
 ArmSCII
 Arrow (symbol)
 Asterisk
@@ -54,21 +41,17 @@ Big5
 Binary Ordered Compression for Unicode
 Bitstream International Character Set
 BraSCII
-Braces (punctuation)
 C
 C0 and C1 control codes
 CCSID
 CDC display code
 CER-GS
 CESU-8
-CHIP (magazine)
 CNS 11643
 CSX+ Indic character set
 CSX Indic character set
 CS Indic character set
 CWI-2
-Calculator
-Calculator character sets
 Cancel character
 Carriage return
 Casio calculator character sets
@@ -95,17 +78,10 @@ Code page 1019
 Code page 1020
 Code page 1021
 Code page 1023
-Code page 1034
 Code page 1040
 Code page 1042
 Code page 1043
-Code page 1044
 Code page 1046
-Code page 1052
-Code page 1053
-Code page 1054
-Code page 1055
-Code page 1056
 Code page 1058
 Code page 1098
 Code page 1101
@@ -144,7 +120,6 @@ Code page 853
 Code page 855
 Code page 856
 Code page 857
-Code page 858
 Code page 859
 Code page 860
 Code page 861
@@ -161,7 +136,6 @@ Code page 896
 Code page 897
 Code page 899
 Code page 903
-Code page 904
 Code page 912
 Code page 915
 Code page 921
@@ -186,28 +160,16 @@ DEC Hebrew
 DEC RADIX 50
 DEC Special Graphics
 DEC Technical Character Set
-DEL (control code)
 DG International
 DIN 66003
 DIN 91379
 DKOI
-Data Becker
-Data link escape
-Device Control 1
-Device Control 2
-Device Control 3
-Device Control 4
 Digital Equipment Corporation
 Digital encoding of APL symbols
 Dollar sign
-Dynabook Inc.
 E
 EBCDIC
 ELOT 927
-End of medium
-End of text
-End of transmission block
-End of transmission character
 Enquiry character
 Equal sign
 Escape character
@@ -217,10 +179,7 @@ Extended Latin-8
 Extended Unix Code
 F
 FOCAL character set
-Famicom Titler
 Fieldata
-File separator
-Form feed
 Fraction (mathematics)
 Full stop
 G
@@ -235,20 +194,16 @@ GSM 03.38
 Galaksija (computer)
 Grave accent
 Greater-than sign
-Group separator
 H
 HP Roman
 HZ (character encoding)
 Han unification
 Hardware code page
 Hong Kong Supplementary Character Set
-Horizontal tabulation
-Hotbit
 Hyphen-minus
 I
 IBM AIX
 IBM PC
-IEC-P27-1
 INIS-8
 INIS character set
 ISO-IR-111
@@ -257,26 +212,6 @@ ISO-IR-182
 ISO-IR-197
 ISO-IR-200
 ISO-IR-68
-ISO/IEC 10367
-ISO/IEC 2022
-ISO/IEC 646
-ISO/IEC 8859
-ISO/IEC 8859-1
-ISO/IEC 8859-10
-ISO/IEC 8859-11
-ISO/IEC 8859-12
-ISO/IEC 8859-13
-ISO/IEC 8859-14
-ISO/IEC 8859-15
-ISO/IEC 8859-16
-ISO/IEC 8859-2
-ISO/IEC 8859-3
-ISO/IEC 8859-4
-ISO/IEC 8859-5
-ISO/IEC 8859-6
-ISO/IEC 8859-7
-ISO/IEC 8859-8
-ISO/IEC 8859-9
 ISO 2033
 ISO 5426
 ISO 5427
@@ -286,10 +221,8 @@ ISO 6862
 ITU T.61
 Indian Script Code for Information Interchange
 Inequality (mathematics)
-Intecolor/Compucolor 8001 character set
 Iran System encoding
 J
-J-SH04
 JIS X 0201
 JIS X 0208
 JIS X 0211
@@ -315,9 +248,6 @@ Left curly bracket
 Left parenthesis
 Left square bracket
 Less-than sign
-Line feed
-List of Sharp mobile phones
-List of X68000 games
 Lotus International Character Set
 Lotus Multi-Byte Character Set
 M
@@ -342,7 +272,6 @@ Mac OS Hebrew
 Mac OS Icelandic encoding
 Mac OS Inuit
 Mac OS Keyboard encoding
-Mac OS Maltese/Esperanto encoding
 Mac OS Ogham
 Mac OS Roman
 Mac OS Romanian encoding
@@ -354,18 +283,15 @@ Macintosh Font X encoding
 Macintosh Latin encoding
 Magnetic ink character recognition
 Mazovia encoding
-Miscellaneous Technical (Unicode block)
 Mojibake
 Mojikyō
 Morse code
 Morse code for non-Latin alphabets
 Multinational Character Set
 N
-NBSP
 NEC APC character set
 National Replacement Character Set
 NeXT character set
-Negative acknowledge character
 Non-breaking space
 Null character
 Number sign
@@ -373,106 +299,46 @@ O
 OML encoding
 OMS encoding
 OT1 encoding
-Optonica
 P
 PETSCII
 Percent sign
 Perso-Arabic Script Code for Information Interchange
 Pi (letter)
-Pioneer Corporation
 Plus and minus signs
-Pocket computer
 PostScript Latin 1 Encoding
 PostScript Standard Encoding
 Prosigns for Morse code
 Q
-Quattron
 Question mark
 Quotation mark
 R
 RISC OS character set
 RPL character set
-Record separator
 Right curly bracket
 Right parenthesis
 Right square bracket
 Russian Morse code
 S
-SAM Coupé character set
 SI 960
 SQUOZE
 Sega SC-3000 character set
 Semicolon
-Sharp Actius
-Sharp Actius MM10 Muramasas
-Sharp Actius RD3D
-Sharp Aquos
-Sharp CE-126P
-Sharp Corporation
-Sharp EL-500W series
-Sharp EL-5120
-Sharp EL-8
-Sharp Electronics
-Sharp Electronics Corporation
-Sharp GX15
-Sharp GX25
-Sharp GX29
-Sharp GX33
-Sharp MZ
 Sharp MZ character set
-Sharp NEC Display Solutions
-Sharp Nintendo Television
-Sharp PC-1211
-Sharp PC-1251
-Sharp PC-1350
-Sharp PC-1401
-Sharp PC-1403
-Sharp PC-1403H
-Sharp PC-1475
-Sharp PC-1500
-Sharp PC-1600
-Sharp PC-3000
-Sharp PC-4500
-Sharp PC-5000
-Sharp PC-7000
-Sharp PC-E220
-Sharp PC-E500
-Sharp PC-E500S
-Sharp QT-8B
-Sharp QT-8D
-Sharp SH906i
-Sharp SX862
-Sharp Solar
-Sharp WideNote
-Sharp Wizard
-Sharp X1
-Sharp Zaurus
 Shift JIS
-Shift in
-Shift out
 Sigma
 Sinclair QL character set
 Slash (punctuation)
-Slashed zero
 Space character
-Spanish peseta
-Square brackets
-Square root
 Standard Compression Scheme for Unicode
-Stanford/ITS character set
 Stanford Extended ASCII
 Start of heading
 Start of text
 Substitute character
-Super Famicom Naizou TV SF1
 Symbol (typeface)
-Synchronous idle
 T
-T.51/ISO/IEC 6937
 TI calculator character sets
 TRON (encoding)
 TRS-80 character set
-Takaya
 Tamil All Character Encoding
 Tamil Script Code for Information Interchange
 TeX
@@ -482,10 +348,8 @@ Teletext
 Teletext character set
 Thai Industrial Standard 620-2533
 Tilde
-Tokuji Hayakawa
 Transcode (character encoding)
 Triple bar
-Twin Famicom
 U
 UTF-1
 UTF-16
@@ -497,4 +361,3 @@ Underscore
 Unicode
 Unicode control characters
 Unified Hangul Code
-Unit separator

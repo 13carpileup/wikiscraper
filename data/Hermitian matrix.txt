@@ -1,217 +1,43 @@
-Adjacency matrix
 Adjugate matrix
-Alternant matrix
-Alternating sign matrix
-Anti-diagonal matrix
-Arrowhead matrix
-Augmented matrix
-Band matrix
-Biadjacency matrix
-Bidiagonal matrix
-Bisymmetric matrix
-Block-diagonal matrix
 Block matrix
-Block tridiagonal matrix
-Boolean matrix
-Bézout matrix
-Cabibbo–Kobayashi–Maskawa matrix
-California Institute of Technology
 Cambridge University Press
-Carleman matrix
-Cartan matrix
-Cauchy matrix
-Centering matrix
-Centrosymmetric matrix
-Charles Hermite
-Circulant matrix
-Cofactor matrix
-Communications system
-Commutation matrix
 Commutator
-Companion matrix
-Complex Hadamard matrix
 Complex conjugate
 Complex number
-Complex symmetric matrix
-Conference matrix
-Confusion matrix
-Conjugate transpose
-Convergent matrix
-Copositive matrix
-Correlation matrix
-Covariance matrix
-Coxeter matrix
-DFT matrix
-Defective matrix
-Definite matrix
-Degree matrix
-Density matrix
-Design matrix
 Diagonal matrix
-Diagonalizable matrix
-Diagonally dominant matrix
-Dimension of a vector space
-Distance matrix
 Doi (identifier)
 Dot product
-Doubly stochastic matrix
-Duplication and elimination matrices
-Edmonds matrix
-Eigendecomposition of a matrix
-Eigenvalue decomposition
 Eigenvalues and eigenvectors
-Eigenvector
-Eigenvectors
-Elementary matrix
 Encyclopedia of Mathematics
-Equivalent matrix
-Euclidean distance matrix
 European Mathematical Society
-Exchange matrix
-Fisher information matrix
-Fourier analysis
-Frobenius matrix
-Fundamental matrix (computer vision)
-Fundamental matrix (linear differential equation)
-Fuzzy associative matrix
-Gamma matrices
-Gell-Mann matrices
-Generalized permutation matrix
-Generator matrix
-Gram matrix
 Graph theory
-Hadamard matrix
-Hamiltonian matrix
-Hankel matrix
-Haynsworth inertia additivity formula
-Hermitian adjoint
-Hermitian form
-Hessenberg matrix
-Hessian matrix
-Hilbert matrix
-Hollow matrix
-Householder transformation
-Hurwitz-stable matrix
 ISBN (identifier)
 Idempotent matrix
 Identity matrix
 If and only if
-Imaginary number
-Imaginary unit
-Incidence matrix
-Integer matrix
-Inverse matrix
-Inverse of a matrix
-Invertible matrix
-Involutory matrix
-Irregular matrix
-Jacobian matrix and determinant
-Jordan normal form
-Lanczos algorithm
-Laplacian matrix
-Lehmer matrix
 Linear algebra
-Linear independence
-List of matrices
-Logical matrix
-Lord Rayleigh
 Machine learning
 Main diagonal
 Mathematics
 Matrix (mathematics)
-Matrix congruence
 Matrix exponential
 Matrix multiplication
-Matrix of ones
-Matrix product
-Matrix representation of conic sections
-Matrix unit
-Metzler matrix
-Moment matrix
-Moore matrix
-Multiple-input multiple-output
 Nilpotent matrix
-Nonnegative matrix
-Normal matrix
 Numerical analysis
 OCLC (identifier)
-Off-diagonal element
-Orthogonal
-Orthogonal basis
-Orthogonal matrix
-Overlap matrix
-Pascal matrix
 Pauli matrices
-Payoff matrix
-Pentadiagonal matrix
-Perfect matrix
 Permutation matrix
-Persymmetric matrix
-Pick matrix
-Polynomial matrix
-Positive-definite matrix
-Positive semi-definite matrix
-Precision (statistics)
 Projection (linear algebra)
-Projection matrix
-Pseudoinverse
 Quantum mechanics
-Quaternionic matrix
-Random matrix
-Rayleigh quotient
 Real number
-Real numbers
-Redheffer matrix
-Rotation matrix
-Routh–Hurwitz matrix
-Row echelon form
-S-matrix
-SIAM
-Schur–Horn theorem
-Seidel adjacency matrix
-Seifert matrix
-Self-adjoint operator
 Shear matrix
-Shift matrix
 Signal processing
-Signature matrix
-Similarity matrix
 Singular value decomposition
-Skew-Hermitian matrix
-Skew-symmetric matrix
-Skyline matrix
-Sparse matrix
-Spectral graph theory
-Spectral theorem
 Spin (physics)
 Square matrix
-State-transition matrix
 Statistics
-Stieltjes matrix
-Stochastic matrix
-Substitution matrix
-Sylvester matrix
 Symmetric matrix
-Symplectic matrix
-Theodore Frankel
 Theoretical physics
-Toeplitz matrix
-Totally positive matrix
-Totally unimodular matrix
-Transformation matrix
 Triangular matrix
-Tridiagonal matrix
-Tutte matrix
-Unimodular matrix
-Unipotent
-Unitary matrix
-Vandermonde matrix
 Vector space
-Walsh matrix
-Walther Ritz
 Wayback Machine
-Weighing matrix
-Wronskian
-Z-matrix (chemistry)
-Z-matrix (mathematics)
-Zero matrix

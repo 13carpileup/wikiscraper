@@ -1,8 +1,4 @@
-4K Disk Monitor System
-ADM-3A
-APL (programming language)
 ASCII
-ASR-33
 AdvFS
 Alpha 21064
 Alpha 21164
@@ -11,15 +7,11 @@ Alpha 21364
 Alpha 21464
 AltaVista
 BASIC-8
-Bitmapped graphics
-Block-oriented terminal
 Bus (computing)
 CPU Wars
 CVAX
 Carbon paper
 Carbonless copy paper
-Centronics
-Centronics port
 Character encoding
 Character set
 Code page 1287
@@ -27,14 +19,10 @@ Code page 1288
 Commercial Operating System
 Compaq
 Computer hardware
-Computer interface
-Computer printer
 Computer terminal
 Control character
-Current loop
 DECUS
 DEC Alpha
-DEC BATCH-11/DOS-11
 DEC GT40
 DEC Hebrew
 DEC J-11
@@ -51,32 +39,22 @@ DECtalk
 DECtape
 DIBOL
 DIGITAL Command Language
-Data buffer
-De facto standard
 Device driver
 Digital Equipment Corporation
 Digital Federal Credit Union
 Digital Linear Tape
 Digital Storage Systems Interconnect
-Digital UNIX
-Dot matrix printer
 Dynamic debugging technique
 Dynamically Redefined Character Set
-Electric typewriter
 FOCAL (programming language)
 FX!32
-Fanfold paper
-Fill characters
 Firefly (cache coherence protocol)
 Flip-Chip module
 Glyph
 Gold key (DEC)
 Gordon Bell
-Graphics terminal
 HP-Interex
 Harlan Anderson
-IBM Selectric
-IBM Selectric typewriter
 Instruction set architecture
 Interactive Application System
 Katakana
@@ -84,11 +62,9 @@ Ken Olsen
 LK201
 LK421
 Local Area Transport
-Lower case
 MACRO-10
 MACRO-11
 MUMPS
-Mainframe
 Maintenance Operations Protocol
 Mass Storage Control Protocol
 Massbus
@@ -98,31 +74,23 @@ Modem
 Multinational Character Set
 NVAX
 National Replacement Character Set
-OS/8
 On-line Debugging Tool
 OpenVMS
 Operating system
 PALcode
-PDP-11
-PDP-11/40
 PDP-11 architecture
 PDP-7
-Printable character
 Processor (computing)
 Programming language
-Punched tape
 Q-Bus
 RA90
 RK05
 RL02
 ROM cartridge
 RS-232
-RSTS/E
 RSX-11
-RSX-15
 RT-11
 ReGIS
-Read only memory
 Record Management Services
 Rigel (microprocessor)
 Robert Palmer (computer businessman)
@@ -132,16 +100,11 @@ Star coupler
 StrongARM
 Synchronous Backplane Interconnect
 System Module
-System Reference Manual
-TD/SMP
 TOPS-10
 TOPS-20
-TSS/8
 TU81
 TURBOchannel
-Teletype
 The Ultimate Entrepreneur
-Tractor feed
 Ultrix
 Unibus
 VAX
@@ -151,24 +114,11 @@ VAX MACRO
 VT05
 VT100
 VT1000
-VT101
-VT102
-VT103
-VT105
-VT131
 VT180
 VT220
-VT240
-VT241
 VT320
-VT330
-VT340
 VT420
-VT510
 VT52
 VT520
-VT525
-VT55
-VT62
 VT640
 WPS-8

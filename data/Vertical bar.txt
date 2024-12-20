@@ -1,281 +1,100 @@
-/
 ANSI C
-ANSI SQL
-APL (programming language)
 ASCII
 Absolute value
 Allograph
-AltGr
-Alternate graphic
-Alternation (formal language theory)
-Alveolar lateral click
-American Standards Association
 Ampersand
 Apostrophe
 Asterisk
-Asterism (typography)
-At sign
 Backslash
-Backtick
-Backus–Naur form
-Bar (diacritic)
 Basis point
 Bitwise operation
-Boolean data type
-Bosonic dimensions
-Box-drawing characters
 Bracket
 Bra–ket notation
-Bullet (typography)
 C++
-CP1250
-CP1251
-CP1252
-CP1253
-CP1254
-CP1255
-CP1256
-CP1257
-CP1258
-CP437
-CP667
-CP720
-CP737
-CP775
-CP790
-CP819
-CP850
-CP852
-CP855
-CP857
-CP858
-CP860
-CP861
-CP862
-CP863
-CP864
-CP865
-CP866
-CP867
-CP869
-CP872
-CP895
-CP991
 C (programming language)
 C Sharp (programming language)
 C syntax
-C trigraph
-Caesura
 Cardinality
 Caret
-Cell notation
-Chinese punctuation
 Circumflex
-CiteSeerX (identifier)
-Click consonant
 Code page
 Code page 437
 Code page 932 (IBM)
 Colon (punctuation)
 Comma
-Command-line interface
-Compose key
 Computing
-Concatenation
-Conditional probability
 Copyright symbol
 Cryptography
 Currency symbol
 Cyrillic script
 DOS
 Dagger (mark)
-Danda
-Dash
-Degree symbol
-Delimiter
-Dental click
 Determinant
 Diacritic
 Diameter
-Dinkus
-Distance
-Ditto mark
-Divisibility
-Division sign
-Divisor
-Dot-matrix printers
-Dot matrix printer
-Double hyphen
 Dual space
 EBCDIC
-EUC-JP
-Ejective consonant
-Ellipsis
-Elliptic integrals
-Em dash
-Erlang (programming language)
 Exclamation mark
 Extended ASCII
-Flat file
-Fleuron (typography)
-Footnote
-Forward slash
 Full stop
 Function (mathematics)
-Geneva Bible
 Glyph
-Grassmann dimensions
-Grep
 Group (mathematics)
 Guillemet
-HL7
 Halfwidth and fullwidth forms
-Haskell (programming language)
-Hebrew punctuation
-Hexadecimal
 Homotopy type theory
-Hyphen
 Hyphen-minus
 IBM
-IBM Monochrome Display Adapter
 IBM PC compatible
-ISO-2022-JP
-ISO/IEC 8859
-ISO/IEC 8859-1
-ISO/IEC 8859-10
-ISO/IEC 8859-11
-ISO/IEC 8859-13
-ISO/IEC 8859-14
-ISO/IEC 8859-15
-ISO/IEC 8859-16
-ISO/IEC 8859-2
-ISO/IEC 8859-3
-ISO/IEC 8859-4
-ISO/IEC 8859-5
-ISO/IEC 8859-6
-ISO/IEC 8859-7
-ISO/IEC 8859-8
-ISO/IEC 8859-9
 Image (mathematics)
 Inner product
 Inter-process communication
 International Phonetic Alphabet
-International Standards Organisation
 Interpunct
-Interrobang
-Inverted question and exclamation marks
-Irony punctuation
 JIS X 0208
 JIS X 0213
 Japanese punctuation
 Java (programming language)
-Khoisan languages
-King James Version
-Korean punctuation
-Kuten
-LEDES
 LaTeX
-Languages of India
-Latin Extended-B
-Less than
-Lightweight markup language
-List comprehensions
 List of logic symbols
-List of mathematical symbols
-List of typographical symbols and punctuation marks
 Literal translation
 Literary criticism
 Logic
-Logical OR
 Logical disjunction
-Lozenge (shape)
-Manicule
-Marginalia
 Mathematical logic
 Mathematics
 Matrix (mathematics)
 MediaWiki
 Merriam-Webster
-Minimal evaluation
-Minus-plus sign
-More (command)
-Multiplication sign
 Negation
 Norm (mathematics)
-Northeast Caucasian languages
-Northwest Caucasian languages
-Note (typography)
 Number sign
 Numero sign
-Object REXX
-Old English poetry
-Order (group theory)
-Ordinal indicator
 Oxford University Press
-PL/I
 Palochka
-Parallel (geometry)
-Per mille
 Percent sign
 Perl
-Pi-calculus
-Pilcrow
-Pipe (Unix)
-Pipe delimited
-Pipeline (Unix)
 Plus and minus signs
-Plus–minus sign
 Poetry
-Prime (symbol)
 Probability
-Proposition (logic)
-Prosody (linguistics)
-Punctuation
-QWERTZ keyboard layout
-Quantum physics
 Question mark
 Quotation mark
-Radical symbol
-Reference mark
-Registered trademark symbol
 Regular expression
-Relational operator
-Restriction (mathematics)
-Rexx
-SHARE (computing)
 Sanskrit
 Section sign
-Sed
 Semicolon
-Service mark symbol
-Set-builder notation
 Set (mathematics)
-Sheet music
 Sheffer stroke
 Shift JIS
-Shift key
 Slash (punctuation)
-Sound recording copyright symbol
 Space (punctuation)
-Stanza
 String (computer science)
 Subtraction
-Supergroup (physics)
-Table of mathematical symbols
 TeX
-Tie (typography)
 Tilde
-Trademark symbol
 Triple bar
 Type theory
-Typography
-UNIX shell script
-URN (identifier)
 Underscore
 Unicode
-Unix
-Unix shell
 Vector space
-Video Graphics Array
 Whitespace character
-Wikitext

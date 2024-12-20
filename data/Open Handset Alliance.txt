@@ -1,720 +1,194 @@
-/e/ (operating system)
-1G
-2G
-3G
-3G adoption
-4G
-5G
-6G
-AKM Semiconductor
-AOKP
 API
-ARM Holdings
 Accenture
-Access (company)
-Acer Inc
-Acer Inc.
-AdMob
 Advanced Linux Sound Architecture
-Airplane mode
-Alcatel Mobile Phones
-AliOS
 Amazon Kindle
 Android-x86
 Android (operating system)
-Android 10
 Android 11
-Android 12
-Android 13
-Android 14
-Android 15
-Android 16
-Android App Bundle
-Android Automotive
-Android Cupcake
-Android Debug Bridge
-Android Developer Challenge
-Android Developer Lab
-Android Donut
-Android Eclair
-Android Froyo
 Android Gingerbread
 Android Go
-Android Honeycomb
 Android Ice Cream Sandwich
 Android Jelly Bean
 Android KitKat
 Android Lollipop
-Android Marshmallow
-Android NDK
 Android Nougat
-Android One
-Android Open Accessory Development Kit
-Android Open Source Project
-Android Oreo
 Android Pie
-Android Runtime
-Android SDK
-Android Studio
-Android TV
-Android Things
-Android lawn statues
-Android recovery mode
-Android software development
-Android version history
-Androidland
-Apache Harmony
-Apk (file format)
-AppArmor
-App Inventor for Android
 Apple Inc.
-Application software
-Arm (company)
-Ascender Corporation
-Asus
-Asus ZenUI
-Atheros Communications
-Audience (company)
-Audience (telecom company)
-Automotive Grade Linux
 B2G OS
 Bada (operating system)
-Baidu Yi
-Barnes & Noble Nook
-Bcache
-Berkeley Packet Filter
 Binary Runtime Environment for Wireless
 Bionic (software)
 BlackBerry 10
 BlackBerry OS
 BlackBerry Tablet OS
-BlueStacks
-BlueZ
-Booting process of Android devices
-Booting process of Linux
-Borqs
-Bouygues Telecom
-Box breaker
-Brain Fuck Scheduler
 BridgeOS
-Broadcom Corporation
 C++
-CRIU
-CSR Plc.
-CSR plc
 C (programming language)
 C standard library
 California
 CalyxOS
-Camera phone
-Car phone
-Carrier IQ
-Cell phone novel
-Cellular frequencies
 Cellular network
-Cgroups
-Channel capacity
-Chaudhary Group
-China Mobile
-China Telecommunications Corporation
-China Unicom
 ChromeOS
 ChromeOS Flex
-Chromecast
-Clamshell design
-ClockworkMod
-Close (system call)
 ColorOS
-Common external power supply
-Community of practice
-CompTIA Linux+
-Compal Communications
-Compal Electronics
-Comparison of Android Go products
-Comparison of Java and Android API
 Comparison of Linux distributions
-Comparison of Symbian devices
 Comparison of mobile operating systems
-Comparison of mobile phone standards
-Comparison of netbook-oriented Linux distributions
-Comparison of open-source wireless drivers
-Comparison of smartphones
-Completely Fair Scheduler
-Compute Node Linux
-Configfs
-Consortium
 Contactless payment
-Cooliris
-Cooperative Linux
-CopperheadOS
 CrDroid
-Criticism of Linux
-Criticism of desktop Linux
-Crypto API (Linux)
 CyanogenMod
-Cypress Semiconductor
-Cypress Semiconductor Corporation
-Daemon (computing)
-Dalvik (software)
 Database
-De Quervain syndrome
-Debugfs
 Dell
-Deutsche Telekom
-Devfs
 Device driver
-Device mapper
-Devpts
 Dietlibc
-Digital media use and mental health
-Direct Rendering Manager
-DistroWatch
 DivestOS
-Dm-cache
-Dm-crypt
-Dnotify
-Dracut (software)
-Droid (typeface)
-Dual SIM
 EBay
-EDAC (Linux)
-ELinOS
 EMUI
 EPOC (operating system)
-ESIM
-Earliest eligible virtual deadline first scheduling
 Eclipse (software)
 Electronic waste
-Embedded GLIBC
-Entity List
-Epoll
-Ericsson Mobile Platforms
-Evdev
-Exec Shield
-Fastboot
-Feature phone
 Federal Communications Commission
 Fedora Linux
-Filesystem in Userspace
 Fire OS
-Firebase
-Firebase Cloud Messaging
 Firefox OS
-Flex Comix
-Foldable smartphone
-Font
 Fork (software development)
-Form factor (mobile phones)
-Foxconn
 FreeBSD
 FreeRTOS
-Free Software Magazine
-Free and open-source graphics device driver
-Freescale Semiconductor
-Ftrace
 Fuchsia (operating system)
-Full Circle (magazine)
-Futex
 GEOS (16-bit operating system)
 GNU
-GNU/Linux naming controversy
 GNU General Public License
-GSM
-GSM services
-Galaxy Nexus
-Garmin
-Gemalto
 Glibc
 Google
 Google Cardboard
-Google Cloud Messaging
 Google Daydream
-Google Developers
-Google I/O
-Google LLC v. Oracle America, Inc.
 Google Maps
 Google Mobile Services
-Google Nexus
-Google Pixel
-Google Play Services
-Google Search
-Gradle
 GrapheneOS
-Gruppo TIM
 HMD Global
 HTC
-HTC Dream
-HTC One (M7)
-HTC One (M8)
-HTC Sense
-Hacker Public Radio
-Haier
 HarmonyOS
 HarmonyOS NEXT
 High-performance computing
-High Speed Packet Access
-History of Linux
-History of mobile phones
-Hive UI
-Honor (brand)
-Huawei
-Huawei Technologies
-Hypervisor
-IIO Framework
-INK (operating system)
 IOS
-IOS jailbreaking
 IPadOS
 IPhone
-Index of Android OS articles
-Initramfs
-Initrd
-Inotify
 Instant messaging
 Integrated development environment
 Intel
 Intel Management Engine
-IntelliJ IDEA
 Io uring
-Ioctl
 IodéOS
-Japanese mobile phone culture
 Java (programming language)
-KDDI
-KDDI Corporation
-KGraft
-KMS driver
 KaiOS
-Kali NetHunter
-Kdump (Linux)
-Kernel-based Virtual Machine
-Kernel.org
-KernelCare
-Kernel same-page merging
-Kernfs (Linux)
-Kexec
-Kingo Root
 Klibc
-Kmscon
-Kotlin (programming language)
-Kpatch
-Ksplice
-Kyocera
-L4Linux
-LAMP (software bundle)
-LG
-LG Electronics
-LG G Pad 8.3
-LG UX
-LIO (SCSI target)
-LTE Advanced Pro
-LWN.net
-LXC
-LYME (software bundle)
-Larsen & Toubro Infotech
-Law
-LeWa OS
-Legality of recording by civilians
-Lenovo
-Lenovo smartphones
-Lguest
-Libhybris
-Libusb
-Light-weight Linux distribution
-Linaro
 LineageOS
-Linus's law
 Linux
-Linux-VServer
-Linux-libre
-Linux-powered device
-Linux.com
-LinuxChix
-LinuxUser
-Linux Counter
-Linux Documentation Project
-Linux Format
-Linux Foundation
-Linux Foundation Linux Certification
-Linux Gazette
-Linux Journal
 Linux Kernel
-Linux Magazine
-Linux Mark Institute
-Linux Outlaws
-Linux PAM
-Linux Security Modules
 Linux Standard Base
-Linux Terminal Server Project
-Linux Voice
-Linux adoption
-Linux conference
-Linux console
-Linux desktop environments
 Linux distribution
-Linux for mobile devices
-Linux framebuffer
-Linux gaming
 Linux kernel
-Linux kernel interfaces
-Linux kernel mailing list
-Linux kernel oops
-Linux kernel version history
-Linux malware
-Linux on embedded systems
-Linux range of use
-Linux user group
 List of 3D-enabled mobile phones
-List of Android TV devices
-List of Android apps by Google
 List of Android launchers
-List of Android smartphones
-List of Google Play edition devices
-List of Linux-supported computer architectures
-List of Linux adopters
 List of Linux distributions
-List of Linux distributions that run from RAM
-List of Windows phones
-List of computer security certifications
 List of custom Android distributions
-List of features in Android
-List of free and open-source Android applications
 List of mobile app distribution platforms
-List of mobile network operators
-List of mobile phone generations
 List of open-source mobile phones
-List of software package management systems
 LiteOS
-LivingImage
-Loadable kernel module
-Logical Volume Manager (Linux)
-LugRadio
 LuneOS
-M-learning
-MHealth
-MIPS Technologies
 MIUI
 Maemo
 Magic Cap
-Magisk (software)
-Mainline Linux
 Manjaro
 Marketing
-Marvell Technology Group
-Material Design
 MediaTek
 MeeGo
-Meizu
-Memory barrier
-Memory management unit
-Menuconfig
 Mer (software distribution)
 Meta Horizon OS
-MicroG
 Microsoft Windows
 Minix 3
-MkLinux
 Mobian
-Mobile VoIP
-Mobile advertising
 Mobile app
 Mobile app development
-Mobile application management
 Mobile banking
 Mobile blogging
-Mobile campaign
-Mobile cloud computing
 Mobile comic
-Mobile commerce
-Mobile content
-Mobile dating
 Mobile device
-Mobile donating
-Mobile gambling
 Mobile game
-Mobile local search
-Mobile marketing
-Mobile music
-Mobile network operator
-Mobile news
 Mobile operating system
 Mobile payment
 Mobile phone
-Mobile phone charm
-Mobile phone feature
 Mobile phone operator
-Mobile phone recycling
-Mobile phone signal
-Mobile phone spam
-Mobile phone tracking
-Mobile phones and driving safety
-Mobile phones in prison
-Mobile radio telephone
-Mobile search
-Mobile security
-Mobile social address book
-Mobile social network
-Mobile telephony
-Mobile television
-Mobile ticketing
-Mobile web
 Mobilinux
 Moblin
 MontaVista
 MotoMagx
-Moto G (1st generation)
-Motoblur
-Motorola
-Motorola Mobility
-Mountain View, California
-Multi-band device
-Multimedia Messaging Service
 Musl
-Myriad Group
 NEC
-NTT DoCoMo
-NTT Docomo
-NXP Semiconductors
-NXP Software
-Nepal Telecom
 NetBSD
-Netfilter
-Netlink
 Network scheduler
-New API
 Newlib
-Nexus 10
-Nexus 4
-Nexus 5
-Nexus 5X
-Nexus 6
-Nexus 6P
-Nexus 7 (2012)
-Nexus 7 (2013)
-Nexus 9
-Nexus One
 Nexus Player
-Nexus Q
-Nexus S
-Nftables
 Nintendo
 Nintendo 3DS system software
 Nintendo DSi system software
 Nintendo Switch system software
 Nokia Asha platform
-Nokia X family
-Noop scheduler
-Noto fonts
-Nuance Communications
 Nvidia
-O(1) scheduler
-O(n) scheduler
-OMRON
-OPhone
-OS-level virtualization
 OmniROM
-Omron
 One UI
-Open-source license
 Open-source software
-OpenBinder
 OpenEZX
 OpenEmbedded
 OpenHarmony
-OpenJDK
-OpenVZ
-Open (system call)
 Open Mobile Alliance
-Open standard
 Openmoko Linux
-Optimus UI
-OxygenOS
-POCO (company)
 POSIX
-PREEMPT RT
-PSXLinux
-Package format
 Package manager
-PacketVideo
 PalmDOS
 Palm OS
-Perf (Linux)
 Phablet
-Phantom vibration syndrome
-Phone cloning
-Phoronix Test Suite
-Photography and the law
 PixelExperience
-Pixel (1st generation)
-Pixel 2
-Pixel 3
-Pixel 3a
-Pixel 4
-Pixel 4a
-Pixel 5
-Pixel 5a
-Pixel 6
-Pixel 6a
-Pixel 7
-Pixel 7a
-Pixel 8
-Pixel 8a
-Pixel 9 Pro Fold
-Pixel C
-Pixel Fold
-Pixel Tablet
 PlayStation Portable system software
 PlayStation Vita system software
 PostmarketOS
-Procfs
 Programming language
 Programming tool
-Projector phone
 PureOS
-Push email
 QNX
 QtMoko
-Qualcomm
-Qualcomm Atheros
-RTAI
-RTLinux
-Raw device
-Read-copy-update
-Read (system call)
-Readahead
 Real-time computing
-Realme
-Red Hat Certification Program
 Remix OS
-RenderScript
-Renesas Electronics
-Renesas Electronics Corporation
 Replicant (operating system)
-Restrictions on cell phone use while driving in the United States
 Resurrection Remix OS
-Revolution OS
-Rich Communication Services
-Ringtone
-Roaming
-Roboto
-Rooting (Android)
 S60 (software platform)
-SCHED DEADLINE
-SCHED FIFO
-SCHED RR
-SCO–Linux disputes
 SHR (operating system)
-SIM card
-SIM lock
-SLUB (software)
-SMS language
-SONiVOX
-SQL Star
-SQLite
-ST-Ericsson
-SafetyNet API
 Sailfish OS
 Samsung Electronics
-Samsung Experience
-Samsung Galaxy S4
-Sasken Communication Technologies
-Sasken Communication Technologies Limited
-Satellite phone
-Saygus
-Scheduling (computing)
-Seccomp
-Security-Enhanced Linux
-Security-focused operating system
-Select (Unix)
-Selfie
-Semiconductor
 Series 30
 Series 30+
 Series 40
 Series 80 (software platform)
 Series 90 (software platform)
-Sharp Corporation
-Short Message Service
-SiRF
-Silent mode
-Skia Graphics Engine
-SkyPop
-SlimRoms
-Slurm Workload Manager
-Smack (software)
 Smartphone
-Smartphone patent wars
-Smartwatch
-SoftBank Group
-Softbank
 Software
 Sony
-Sony Ericsson
 Sony Ericsson Java Platform
 Sony Mobile
-Sony Xperia Z Ultra
-Splice (system call)
-Sprint Nextel
 SteamOS
-SuperSU
 Symbian
-Symbian Foundation
-Synaptics
-Sync (Unix)
-Sysfs
-System.map
-SystemTap
-Systemd
-T-Mobile International AG
-TCL Technology
-TWRP (software)
-Tanenbaum–Torvalds debate
-Teleca
-Telecom Italia
-Telefónica
-Telephone tapping
-Telus
-Tethering
-Texas Instruments
-Text messaging
-Texting while driving
-The Astonishing Tribe
-The Code (2001 film)
-The Linux Programming Interface
 ThreadX
 Tizen
-Tizen Association
-Tmpfs
-Tomoyo Linux
-Toshiba
-TouchWiz
-Tux (mascot)
 UBports
 UClibc
 UIQ
-Ubuntu Professional Certification
 Ubuntu Touch
-Ubuntu User
-Ubuntu for Android
-Udev
 United States
-User-mode Linux
 User interface
 User space and kernel space
-Via Technologies
-Video4Linux
-Video games and Linux
-Virtual file system
 Virtual reality
-Virtualization
-VisualOn
-Vmlinux
-Vodafone
-Wallpaper (computing)
 WatchOS
 Wear OS
 WebOS
-Wind River Systems
 Windows 10
 Windows 10 Mobile
 Windows 11
@@ -727,22 +201,8 @@ Windows Phone 8
 Windows Phone 8.1
 Windows RT
 Windows XP editions
-Wipro Technologies
-Wireless Application Protocol
 Wireless device radiation and health
-Wrapper library
-X32 ABI
-XHTML Mobile Profile
 XML
 XNU
-Xen
-Xenomai
-Xiaomi HyperOS
-XobotOS
-ZTE
-ZTE Corporation
 Zircon (microkernel)
-Zram
-Zswap
 Ångström distribution
-ΜClinux

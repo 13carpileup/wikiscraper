@@ -7,30 +7,19 @@ Analysis of parallel algorithms
 Anjuta
 Application checkpointing
 Array (data structure)
-Array programming
-Array slicing
-Associative operation
 Asymmetric multiprocessing
 Ateji PX
-Atomic (computer science)
 Automatic parallelization
-Automatic vectorization
-BSD license
 Barrier (computer science)
-Basic Linear Algebra Subprograms
 Beowulf cluster
 Bionic (software)
 Bit-level parallelism
-Boost (C++ libraries)
-Borland Turbo C
 Bulldozer (microarchitecture)
 C++
-C++ AMP
 C11 (C standard revision)
 C17 (C standard revision)
 C23 (C standard revision)
 C99
-CLion
 CUDA
 C (programming language)
 C POSIX library
@@ -39,7 +28,6 @@ C character classification
 C data types
 C date and time functions
 C dynamic memory allocation
-C file input/output
 C mathematical functions
 C preprocessor
 C standard library
@@ -48,37 +36,26 @@ C syntax
 Cache-only memory architecture
 Cache coherence
 Cache invalidation
-Call stack
 Chapel (programming language)
-Charles E. Leiserson
 Charm++
-Cilk Plus
-CiteSeerX (identifier)
 Clang
 Cloud computing
 Coarray Fortran
-Coarsening
 CodeLite
 Comparison of Pascal and C
-Compatibility of C and C++
-Computer chess
 Computer cluster
 Computer hardware
 Computer multitasking
 Computer network
 Computer programming
 Concurrency (computer science)
-Concurrent C
-Continuation-passing style
 Cost efficiency
 D (programming language)
-Data Analytics Library
 Data parallelism
 Dataflow architecture
 Dataflow programming
 Deadlock (computer science)
 Dennis Ritchie
-Deque
 Deterministic algorithm
 Dietlibc
 Directive (programming)
@@ -90,74 +67,47 @@ Dryad (programming)
 Eclipse (software)
 Embarrassingly parallel
 Embedded C
-Embedded GLIBC
 Explicit parallelism
 Fiber (computer science)
-Fibonacci number
 Filename extension
 Flynn's taxonomy
 Fork (software development)
-Fork–join model
-Fortran 90
 GNOME Builder
-GNU C Compiler
 GNU Compiler Collection
 GPUOpen
 Geany
 General-purpose computing on graphics processing units
-General-purpose programming language
 GitHub
 Glibc
 Global Arrays
 Go (programming language)
-Grand Central Dispatch
 Grid computing
 Gustafson's law
 HPX
 Hardware acceleration
 Hardware scout
-Havok (company)
-Havok (software)
 High-performance computing
-Hybris (software)
-INTERP/80
 Identity element
 Imperative programming
 Implicit parallelism
 Include directive
-Indeterminacy in concurrent computation
 Instruction-level parallelism
 Instruction pipelining
 Instruction window
-Integrated Performance Primitives
 Integrated development environment
 Intel
-Intel Advisor
-Intel Array Building Blocks
-Intel C++ Compiler
-Intel Concurrent Collections
-Intel Developer Zone
-Intel Fortran Compiler
-Intel Inspector
-Intel Parallel Building Blocks
-Intel Parallel Studio
-Intel Research
 KDevelop
 Karp–Flatt metric
 Klibc
 LCC (compiler)
 Limbo (programming language)
 Linked list
-List of C compilers
 Loop-level parallelism
 MISRA C
 MacOS
-Manifest typing
 Manycore processor
-Map (parallel programming)
 Massachusetts Institute of Technology
 Massively parallel
-Math Kernel Library
 Memory-level parallelism
 Memory coherence
 Message Passing Interface
@@ -171,27 +121,22 @@ Multiple instruction, single data
 Multiprocessing
 Multithreading (computer architecture)
 Musl
-NESL
 NetBeans
 Newlib
 Non-blocking algorithm
 Non-uniform memory access
 Norcroft C compiler
-OOPSLA
 Objective-C
 OpenACC
 OpenCL
 OpenHMPP
 OpenMP
-OpenVINO
 Operating system
-Operators in C and C++
 Parallel Extensions
 Parallel RAM
 Parallel Virtual Machine
 Parallel computing
 Parallel external memory
-Parallel programming
 Parallel programming model
 Parallel slowdown
 Pipeline (computing)
@@ -207,14 +152,9 @@ ROCm
 Race condition
 RaftLib
 Recursion
-Rust (programming language)
-SYCL
 Scalability
-Scheduling (computing)
 Semiconductor memory
 Shared memory
-Sieve C++ Parallel Programming System
-Silk
 Simultaneous and heterogeneous multithreading
 Simultaneous multithreading
 Single instruction, multiple data
@@ -226,40 +166,25 @@ Software developer
 Software license
 Software lockout
 Software release life cycle
-Spawn (computing)
 Speculative multithreading
 Speedup
-Stack frame
 Starvation (computer science)
 Stdarg.h
 Stream processing
-Structured programming
-Subroutine
-Summation
 Superscalar processor
 Symmetric multiprocessing
-Symposium on Principles and Practice of Parallel Programming
 Synchronization (computer science)
 Systolic array
 Task parallelism
 Temporal multithreading
-Thread (computer science)
 Thread (computing)
 Threading Building Blocks
 Tiny C Compiler
 Tizen
-Type system
 UClibc
 Unified Parallel C
 Uniform memory access
-Unix-like
-VTune
 Vala (programming language)
 Vector processor
-Vision (game engine)
 Visual Studio
-Watcom C/C++
 Wayback Machine
-Weak typing
-Work stealing
-ZPL (programming language)

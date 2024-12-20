@@ -2,93 +2,50 @@
 ACM Computing Classification System
 Abacus
 Abstraction (computer science)
-Ada Lovelace
 Aerospace engineering
 Affective computing
 Agile software development
 Alan Turing
 Algebra
-Algebraic data types
 Algorithm
 Algorithm design
 Algorithmic efficiency
-Algorithmic game theory
-Algorithmic information theory
-Algorithmics
-Allen Newell
-Alonzo Church
 Analysis of algorithms
-Analytical Engine
-Anthony Ralston
 Application security
 Applied mathematics
-Applied science
-Arithmometer
 Artificial intelligence
-Artificial neural network
-Aspect-oriented programming
-Association for Computing Machinery
-Atanasoff–Berry computer
 Automata theory
 Automated planning and scheduling
 Automated theorem proving
 Automation
-Autonomic computing
 Axiomatic system
 Backward compatibility
-Bernoulli number
-Binary number
-Bio-inspired computing
 Bioinformatics
 Biology
-Bit
 Blockchain
 Brain–computer interface
-Brian Randell
-CI/CD
-CSAB (professional organization)
-Cambridge Diploma in Computer Science
 Cambridge University Press
 Capability Maturity Model Integration
 Category theory
-Cellular automata
-Channel capacity
-Charles Babbage
-Circuit (computer science)
-CiteSeerX (identifier)
 Civil engineering
 Claude Shannon
-Code
 Coding theory
-Cognitive science
 Columbia University
-Combinatorial optimization
 Communications of the ACM
-Compatibility layer
-Compatibility mode
 Compiler construction
-Compiler design
 Complex system
 Component-based software engineering
 Computability theory
-Computation
 Computational biology
 Computational chemistry
 Computational complexity
 Computational complexity theory
 Computational engineering
-Computational finance
 Computational geometry
-Computational learning theory
 Computational linguistics
-Computational logic
 Computational mathematics
-Computational musicology
 Computational physics
-Computational problem
-Computational science
 Computational social science
-Computational statistics
 Computer
 Computer accessibility
 Computer animation
@@ -97,219 +54,89 @@ Computer compatibility
 Computer data storage
 Computer engineering
 Computer graphics
-Computer graphics (computer science)
 Computer hardware
 Computer network
 Computer programming
-Computer science education
-Computer scientist
 Computer security
-Computer system
 Computer vision
 Computing
-Computing Machinery and Intelligence
 Computing platform
 Concurrency (computer science)
 Concurrent computing
-Conference papers
 Control theory
 Control variable (programming)
-Corrado Böhm
 Correctness (computer science)
 Cross-validation (statistics)
-Cryptographic hash function
 Cryptography
 Cybernetics
 Cyberwarfare
 Data compression
 Data mining
-Data model
-Data modeling
-Data processing
-Data science
 Data structure
-Data structures
-Data transmission
 Database
-Database model
-David Parnas
 Decision support system
 Deductive reasoning
 Dependability
-DevOps
-Difference Engine
 Digital art
-Digital computer
 Digital library
 Digital marketing
-Digital physics
-Digital signature
 Discrete mathematics
 Distributed artificial intelligence
 Distributed computing
 Document management system
 Doi (identifier)
 Domain-specific language
-Domain theory
-Donald Knuth
 E-commerce
-ENIAC
-Earth science
-Edsger Dijkstra
 Edsger W. Dijkstra
 Educational technology
 Electrical engineering
-Electroencephalography
 Electronic design automation
 Electronic publishing
 Electronic voting
 Embedded system
-Emotion
-Empirical software engineering
 Encryption
 Engineering
 Enterprise architecture
 Enterprise information system
 Enterprise software
-Enterprise unified process
-Entity–relationship model
-Epistemologist
 Error detection and correction
 Essential systems analysis
-Evolutionary computation
-Executable UML
-Experimental software engineering
-Extreme programming
-Fast Fourier transform
-Floating-point arithmetic
-Fluid dynamics
 Form factor (design)
 Formal language
 Formal methods
-Formal specification
 Formal verification
-Forward compatibility
-Frederick P. Brooks Jr.
-Function model
-Functional programming
-Functional specification
-Garbled circuit
 Geographic information system
 George Boole
-George Forsythe
-Glossary of Arabic toponyms
-Glossary of Hebrew toponyms
 Glossary of aerospace engineering
-Glossary of agriculture
-Glossary of archaeology
-Glossary of architecture
-Glossary of areas of mathematics
-Glossary of artificial intelligence
-Glossary of astronomy
-Glossary of biology
-Glossary of bird terms
-Glossary of botanical terms
-Glossary of calculus
-Glossary of cell biology
-Glossary of cellular and molecular biology (0–L)
-Glossary of cellular and molecular biology (M–Z)
-Glossary of chemistry terms
 Glossary of civil engineering
-Glossary of clinical research
-Glossary of computer hardware terms
-Glossary of computer science
-Glossary of developmental biology
-Glossary of ecology
-Glossary of economics
 Glossary of electrical and electronics engineering
-Glossary of entomology terms
-Glossary of environmental science
-Glossary of genetics and evolutionary biology
-Glossary of geography terms (A–M)
-Glossary of geography terms (N–Z)
-Glossary of geology
 Glossary of ichthyology
-Glossary of machine vision
 Glossary of mechanical engineering
-Glossary of medicine
-Glossary of meteorology
-Glossary of mycology
-Glossary of nanotechnology
-Glossary of physics
-Glossary of probability and statistics
-Glossary of psychiatry
-Glossary of quantum computing
-Glossary of robotics
-Glossary of scientific naming
 Glossary of structural engineering
-Glossary of virology
-Goto
-Gottfried Leibniz
-Gottfried Wilhelm Leibniz
 Graphics processing unit
 Greek language
 Green computing
 Halting problem
 Hardware acceleration
 Hardware security
-Harvard Business School
-Harvard Mark I
 Health informatics
 Herbert A. Simon
-Herman Hollerith
-History of Unix
-History of artificial intelligence
-History of cloud computing
-History of compiler construction
-History of computer hardware in Bulgaria
-History of computer hardware in Eastern Bloc countries
-History of computer hardware in Yugoslavia
 History of computer science
-History of computing
-History of computing hardware (1960s–present)
-History of computing in Poland
-History of computing in Romania
-History of computing in South America
-History of computing in the Soviet Union
-History of free and open-source software
-History of general-purpose CPUs
-History of informatics
-History of laptops
-History of operating systems
-History of personal computers
-History of programming languages
-History of software
-History of software configuration management
-History of software engineering
-History of the Internet
-History of the World Wide Web
-History of the graphical user interface
-History of video games
-Howard Aiken
-Human
-Human-centered design
 Human–computer interaction
-Hungarian language
 IBM
-IDEF
-IEEE Computer Society
 ISBN (identifier)
-ISO/IEC 15504
 ISSN (identifier)
 Image compression
-Image processing
 Imperative programming
 Incremental build model
 Informatics
 Information
 Information engineering
-Information model
 Information retrieval
 Information science
 Information security
 Information system
 Information theory
-Input/output
 Integrated circuit
 Integrated development environment
 Interaction design
@@ -318,122 +145,66 @@ Interpreter (computing)
 Intrusion detection system
 Iterative and incremental development
 JSTOR (identifier)
-Jacquard loom
-John von Neumann
-Key-agreement protocol
 Knowledge representation and reasoning
 Kolmogorov complexity
-Kurt Gödel
-Leonardo Torres Quevedo
-Leonardo Torres y Quevedo
 Library (computing)
-Life-critical system
 Linguistics
-List of computer-aided engineering software
-List of computer science awards
-List of computer science conferences
-List of computer scientists
 List of computer size categories
-List of pioneers in computer science
-List of unsolved problems in computer science
 Logic
 Logic in computer science
 Machine learning
-Management science
 Mathematical analysis
 Mathematical logic
 Mathematical optimization
 Mathematical software
 Mathematics
-Mechanical calculator
-Medical image computing
-Medical informatics
-Metamodeling
 Microarchitecture
 Microcontroller
 Middleware
-Millennium Prize Problems
-Minds and Machines
-Mission critical
 Mixed reality
-Model-driven engineering
 Model of computation
 Modeling language
-Models of computation
-Mozilla Foundation
-Multi-disciplinary
 Multi-task learning
 Multimedia database
 Multiprocessing
 Multithreading (computer architecture)
 Natural language processing
-Natural science
 Network architecture
-Network coding
 Network performance
 Network protocol
 Network scheduler
 Network security
 Network service
 Networking hardware
-Neuroinformatics
-Neurophysiology
 New York City
 Numerical analysis
-Numerical analyst
 OCLC (identifier)
 Object-oriented programming
-Object model
-Oikonyms in Western and South Asia
-Ontology (information science)
 Open-source software
 Operating system
 Operations research
 Outline of computer science
 Oxford University Press
-P = NP?
 Parallel computing
-Parallel random access machine
-Pattern recognition
-Percy Ludgate
 Peripheral
 Personal computer
-Peter J. Denning
-Peter Naur
-Peter Wegner
-Petri net
 Philosophy
 Philosophy of artificial intelligence
-Philosophy of computer science
-Philosophy of mind
 Photograph manipulation
-Physical computing
 Physics
-Planning and scheduling
 Printed circuit board
 Probability
-Process calculi
 Process control
-Processing unit
 Processor (computing)
-Processor design
-Program semantics
 Programming language
 Programming language theory
 Programming paradigm
 Programming team
 Programming tool
 Project management
-Psychoinformatics
-Punched card
-Purdue University
 Quantum Computing
 Quantum computer
-Query language
-R. Anthony Hyman
 Randomized algorithm
-Randomized algorithms
-Rapid application development
 Real-time computing
 Reinforcement learning
 Rendering (computer graphics)
@@ -442,37 +213,18 @@ Requirements engineering
 Risk management
 Robotics
 Round-trip engineering
-Rózsa Péter
 S2CID (identifier)
-Samuel Morse
-School of Informatics, University of Edinburgh
 Science
-Scientific
-Scientific computing
-Scientific modelling
-Scrum (software development)
-Search-based software engineering
 Security hacker
 Security service (telecommunication)
-Security vulnerabilities
 Semantics (computer science)
-Semiotics
-Service-oriented architecture
-Service-oriented programming
-Signal
-Signal detection theory
 Signal processing
 Simulation
-Site reliability engineering
 Slavic languages
-Social behavior
 Social computing
-Social intelligence
 Social software
-Social software engineering
 Software
 Software archaeology
-Software architecture
 Software configuration management
 Software construction
 Software deployment
@@ -481,16 +233,9 @@ Software development
 Software development process
 Software engineering
 Software framework
-Software incompatibility
 Software maintenance
-Software prototyping
 Software quality
 Software quality assurance
 Software repository
-Software system
 Software testing
-Software verification and validation
 Solid modeling
-Speech recognition
-Speech synthesis
-Spiral model

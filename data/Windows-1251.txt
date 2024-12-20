@@ -13,18 +13,11 @@ A
 ABICOMP character set
 ANSEL
 ANSI escape code
-ANSI escape sequence
 ARIB STD B24 character set
 ASCII
 ASMO 449
 ATASCII
-Academic version
-Acknowledge character
-Alt code
-Alternative code page (Russian)
-Amiga OS
 Ampersand
-Amstrad CP/M Plus character set
 Amstrad CPC character set
 Apostrophe
 Apple II character set
@@ -41,7 +34,6 @@ Bell character
 Big5
 Binary Ordered Compression for Unicode
 Bitstream International Character Set
-Bosnian language
 BraSCII
 Bulgarian language
 C
@@ -51,7 +43,6 @@ CDC display code
 CER-GS
 CESU-8
 CNS 11643
-CROSCII
 CSX+ Indic character set
 CSX Indic character set
 CS Indic character set
@@ -66,8 +57,6 @@ Charset detection
 Chinese Character Code for Information Interchange
 Chinese telegraph code
 Code page
-Code page 10007
-Code page 10017
 Code page 1006
 Code page 1008
 Code page 1009
@@ -83,17 +72,10 @@ Code page 1019
 Code page 1020
 Code page 1021
 Code page 1023
-Code page 1034
 Code page 1040
 Code page 1042
 Code page 1043
-Code page 1044
 Code page 1046
-Code page 1052
-Code page 1053
-Code page 1054
-Code page 1055
-Code page 1056
 Code page 1058
 Code page 1098
 Code page 1101
@@ -107,22 +89,12 @@ Code page 1115
 Code page 1116
 Code page 1117
 Code page 1118
-Code page 1119
 Code page 1124
-Code page 1125
 Code page 1127
-Code page 1131
 Code page 1133
-Code page 1167
-Code page 1168
 Code page 1169
-Code page 1251
-Code page 1283
 Code page 1287
 Code page 1288
-Code page 20866
-Code page 21866
-Code page 28595
 Code page 3846
 Code page 437
 Code page 668
@@ -130,16 +102,12 @@ Code page 708
 Code page 720
 Code page 737
 Code page 770
-Code page 771
-Code page 772
 Code page 773
 Code page 775
 Code page 776
 Code page 777
 Code page 778
 Code page 808
-Code page 848
-Code page 849
 Code page 850
 Code page 851
 Code page 852
@@ -147,7 +115,6 @@ Code page 853
 Code page 855
 Code page 856
 Code page 857
-Code page 858
 Code page 859
 Code page 860
 Code page 861
@@ -159,16 +126,12 @@ Code page 866
 Code page 867
 Code page 868
 Code page 869
-Code page 872
-Code page 878
-Code page 885
 Code page 895
 Code page 896
 Code page 897
 Code page 899
 Code page 900
 Code page 903
-Code page 904
 Code page 912
 Code page 915
 Code page 921
@@ -188,7 +151,6 @@ Compucolor II character set
 Control character
 Cooke and Wheatstone telegraph
 Cork encoding
-Curly brackets
 Cyrillic script
 Cyrillic script in Unicode
 D
@@ -200,15 +162,6 @@ DG International
 DIN 66003
 DIN 91379
 DKOI
-DKOI K1
-DKOI K2
-Data link escape
-Degree (symbol)
-Delete character
-Device Control 1
-Device Control 2
-Device Control 3
-Device Control 4
 Digital Equipment Corporation
 Digital encoding of APL symbols
 Dollar sign
@@ -216,15 +169,10 @@ Dotted I (Cyrillic)
 E
 EBCDIC
 ELOT 927
-End-of-Text character
-End-of-Transmission character
-End of medium
-End of transmission block
 English language
 Enquiry character
 Equals sign
 Escape character
-Euro sign
 Exclamation mark
 Extended ASCII
 Extended Latin-8
@@ -232,8 +180,6 @@ Extended Unix Code
 F
 FOCAL character set
 Fieldata
-File separator
-Form feed
 Fraction (mathematics)
 Full stop
 G
@@ -247,7 +193,6 @@ GOST 10859
 GSM 03.38
 Galaksija (computer)
 Greater-than sign
-Group separator
 H
 HP Roman
 HZ (character encoding)
@@ -258,11 +203,8 @@ I
 IANA
 IBM
 IBM AIX
-IEC-P27-1
 INIS-8
 INIS character set
-ISO-8859-1
-ISO-8859-15
 ISO-IR-111
 ISO-IR-153
 ISO-IR-169
@@ -270,38 +212,14 @@ ISO-IR-182
 ISO-IR-197
 ISO-IR-200
 ISO-IR-68
-ISO/IEC 10367
-ISO/IEC 10646
-ISO/IEC 2022
-ISO/IEC 646
-ISO/IEC 8859
-ISO/IEC 8859-1
-ISO/IEC 8859-10
-ISO/IEC 8859-11
-ISO/IEC 8859-12
-ISO/IEC 8859-13
-ISO/IEC 8859-14
-ISO/IEC 8859-15
-ISO/IEC 8859-16
-ISO/IEC 8859-2
-ISO/IEC 8859-3
-ISO/IEC 8859-4
-ISO/IEC 8859-5
-ISO/IEC 8859-6
-ISO/IEC 8859-7
-ISO/IEC 8859-8
-ISO/IEC 8859-9
 ISO 2033
 ISO 5426
 ISO 5427
 ISO 5428
 ISO 6438
 ISO 6862
-ISO 8859-1
-ISO 8859-5
 ITU T.61
 Indian Script Code for Information Interchange
-Intecolor/Compucolor 8001 character set
 Iran System encoding
 J
 JIS X 0201
@@ -313,14 +231,9 @@ JIS encoding
 Japanese language in EBCDIC
 K
 KOI-7
-KOI-7 N0
-KOI-7 N1
-KOI-7 N2
 KOI-8
 KOI8-B
-KOI8-C
 KOI8-F
-KOI8-K1
 KOI8-O
 KOI8-R
 KOI8-RU
@@ -331,19 +244,14 @@ KPS 9566
 KS X 1001
 KS X 1002
 Kamenický encoding
-Kazakh language
-Kazakhstan
 L
 LST 1564
 LST 1590-4
 LY1 encoding
-Latin script in Unicode
 Less-than sign
-Line feed
 Lotus International Character Set
 Lotus Multi-Byte Character Set
 M
-MAKSCII
 MARC-8
 MIK (character set)
 MSX character set
@@ -365,7 +273,6 @@ Mac OS Hebrew
 Mac OS Icelandic encoding
 Mac OS Inuit
 Mac OS Keyboard encoding
-Mac OS Maltese/Esperanto encoding
 Mac OS Ogham
 Mac OS Roman
 Mac OS Romanian encoding
@@ -374,16 +281,12 @@ Mac OS Turkic Cyrillic
 Mac OS Turkish encoding
 Mac OS Ukrainian encoding
 Macedonian language
-Macintosh Cyrillic encoding
 Macintosh Font X encoding
 Macintosh Latin encoding
-Macintosh Ukrainian encoding
 Magnetic ink character recognition
 Main code page (Russian)
 Mazovia encoding
-Micro sign
 Microsoft
-Minus sign
 Mojibake
 Mojikyō
 Morse code
@@ -393,7 +296,6 @@ N
 NEC APC character set
 National Replacement Character Set
 NeXT character set
-Negative acknowledge character
 Non-breaking space
 Null character
 Number sign
@@ -402,14 +304,10 @@ O
 OML encoding
 OMS encoding
 OT1 encoding
-Old Cyrillic
 P
 PETSCII
-Parenthesis
 Percent sign
 Perso-Arabic Script Code for Information Interchange
-Plus sign
-Plus–minus sign
 PostScript Latin 1 Encoding
 PostScript Standard Encoding
 Prosigns for Morse code
@@ -419,46 +317,31 @@ Quotation mark
 R
 RISC OS character set
 RPL character set
-Record separator
-Rotokas alphabet
 Russian Morse code
-Russian alphabet
 Russian language
-Rusyn language
 S
-SAM Coupé character set
 SI 960
-SLOSCII
 SQUOZE
-SRPSCII
 Sega SC-3000 character set
 Semicolon
-Serbian Cyrillic alphabet
 Sharp MZ character set
 Sharp pocket computer character sets
 Shha
 Shift JIS
-Shift in
-Shift out
 Sinclair QL character set
 Slash (punctuation)
 Soft hyphen
 Space character
-Square brackets
 Standard Compression Scheme for Unicode
-Stanford/ITS character set
 Stanford Extended ASCII
 Start of heading
 Start of text
 Substitute character
 Symbol (typeface)
-Synchronous idle
 T
-T.51/ISO/IEC 6937
 TI calculator character sets
 TRON (encoding)
 TRS-80 character set
-Tab character
 Tajik language
 Tamil All Character Encoding
 Tamil Script Code for Information Interchange
@@ -471,7 +354,6 @@ Thai Industrial Standard 620-2533
 Tilde
 Transcode (character encoding)
 U
-U-Code
 UTF-1
 UTF-16
 UTF-32
@@ -484,8 +366,6 @@ Unicode
 Unicode Consortium
 Unicode control characters
 Unified Hangul Code
-Unit separator
-Universal Character Set
 Universal Coded Character Set
 V
 VISCII
@@ -495,6 +375,5 @@ VT220
 Variable-width encoding
 Ventura International
 Vertical bar
-Vertical tab
 Videotex
 Videotex character set

@@ -1,415 +1,80 @@
-AAAI Press
-ABSA Group Limited
-AI-complete
-AI boom
 AOL Instant Messenger
-Active learning (machine learning)
-Aeroméxico
-Agence Nationale de la Recherche
-Air pollution
 Alan Turing
-Alaska Airlines
-AlexNet
 Algorithm
-Alicebot
 Android (operating system)
-Anomaly detection
-Anthropomorphise
-Applications of artificial intelligence
-Apprenticeship learning
 ArXiv (identifier)
-Argument mining
-Artificial Linguistic Internet Computer Entity
-Artificial human companion
-Artificial intelligence and elections
-Artificial intelligence in healthcare
-Artificial neural network
-Artificial neural networks
-Association rule learning
 Authentication
-Autoencoder
-Automated essay scoring
-Automated machine learning
 Automatic identification and data capture
-Automatic summarization
-Autonomous agent
-Autoresponder
-B2C
-BERT (language model)
-BIRCH
-BabelNet
-Bag-of-words model
-Bank of English
 Barbie
-Batch learning
-Bayesian network
-Bias–variance tradeoff
-Bigram
-Biomedical
 Bluetooth
-Boltzmann machine
-Boosting (machine learning)
-Bootstrap aggregating
 Business Insider
-Business Line
-CNBC TV18
-CNN Money
-CNRS
-CURE algorithm
-Call centre
-Call centres
-Canonical correlation
-Case-based reasoning
-ChatBot
-ChatGPT
-Chat room
 Chat rooms
-Citroën
 Cluster analysis
-Coefficient of determination
-Collocation extraction
 Communications of the ACM
-Compound-term processing
-Computational learning theory
 Computational linguistics
-Computer-assisted reviewing
-Computer-assisted translation
 Computer History Museum
 Computer program
-Computing Machinery and Intelligence
-Concept mining
-Concordancer
-Conditional random field
-Conference on Neural Information Processing Systems
-Confusion matrix
-Conversational user interface
-Convolutional neural network
-Coreference
-Coronavirus disease 2019
-Corpus linguistics
-Crowdsourcing
-Curriculum learning
-Customer engagement
 Customer service
-Customer support
-Cyrus Vance
-DBSCAN
-DBpedia
-Danish Realm
 Data center
-Data cleaning
 Data mining
 Data security
 Database
 Dead Internet theory
-Decision tree learning
-DeepDream
-Deep learning
-Deep linguistic processing
-Density estimation
-Dialogue system
-Diffusion model
-Dimensionality reduction
-Distant reading
 Distributional semantics
-Document-term matrix
-Document classification
 Doi (identifier)
 E-commerce
-ECML PKDD
 ELIZA
-Echo state network
-Edmund Muskie
-Electric energy consumption
-Electricity generation
-Electrochemical RAM
-Empirical risk minimization
-End-to-end encryption
-Ensemble learning
-Environmental impacts of artificial intelligence
-Evolutionary algorithm
-Example-based machine translation
-Expectation–maximization algorithm
-Expedia
-Explicit semantic analysis
 Facebook
-Factor analysis
-FastText
-Feature engineering
-Feature learning
-Feedforward neural network
-Fine-tuning (machine learning)
 Formal semantics (natural language)
 Fossil fuel
-Foundation models
-FrameNet
-Friendly artificial intelligence
-Fuzzy clustering
-GPT-4
-Gartner
-Gated recurrent unit
-Gemini (chatbot)
-Gemini (language model)
-Generative adversarial network
-Generative artificial intelligence
-Generative model
-Generative pre-trained transformer
-GloVe
-Glossary of artificial intelligence
-Goldman Sachs
 Google
-Google Ngram Viewer
-Google Summer of Code
-Government by algorithm
-Government of India
-Grammar checker
-Grammar induction
-Graphical model
-Greenhouse gas emissions
 Hallucination (artificial intelligence)
 Hdl (identifier)
-Helpline
-Hidden Markov model
-Hierarchical clustering
 Hindustan Times
-Human-in-the-loop
 Human–computer interaction
-Hybrid intelligent system
-IBM Watson
 IOS
 IRC bot
 ISBN (identifier)
 ISSN (identifier)
-Independent component analysis
 India
-Information extraction
 Instant messaging
-Intelligence
-Intelligent agent
 Interactive fiction
-International Conference on Learning Representations
-International Conference on Machine Learning
-International Joint Conference on Artificial Intelligence
-Internet Engineering Task Force
-Internet Society
 Internet bot
-Internet of Things
-Isolation forest
-Jabberwacky
-Janet Kolodner
-John Searle
-Jonathan Grudin
 Joseph Weizenbaum
-Journal of Machine Learning Research
-Juniper Research
-Jyllands-Posten
-K-means clustering
-K-nearest neighbors algorithm
-KLM
-Kernel machines
-Language model
-Language resource
-Large language model
-Large language models
-Latent Dirichlet allocation
-Latent semantic analysis
-LeNet
-Learning curve (machine learning)
-Learning to rank
-Lemmatisation
-Lexical analysis
-Lexical resource
-Linear discriminant analysis
-Linear regression
-Linguistic Linked Open Data
-List of chatbots
-List of datasets for machine-learning research
-List of datasets in computer vision and image processing
-Lloyds Banking Group
-Local outlier factor
-Loebner Prize
 Logical reasoning
-Logistic regression
-London Review of Books
-Long short-term memory
-Machine-readable dictionary
-Machine Learning (journal)
 Machine learning
-Machine translation
-Mamba (deep learning architecture)
 Market research
-Markup language
-Master of Code Global
-Mean shift
-Memtransistor
-Messaging apps
-Messenger (software)
-Meta-learning (computer science)
 Microsoft
-Microsoft Copilot
-Mint (newspaper)
-Misinformation
 Multi-agent reinforcement learning
 Multi-agent system
-Multi-document summarization
-Multimodal learning
 My Friend Cayla
-N-gram
-Naive Bayes classifier
-Named-entity recognition
-National Eating Disorders Association
-Natural-language user interface
-Natural Language Toolkit
 Natural language
-Natural language generation
 Natural language processing
-Natural language understanding
-Neural machine translation
-Neural radiance field
-Neuro-symbolic AI
-Neuromorphic engineering
-Non-negative matrix factorization
 OCLC (identifier)
-OPTICS algorithm
-Occam learning
-Online
 Online machine learning
-Ontology learning
 OpenAI
-Optical character recognition
-Outline of machine learning
-Overstock.com
-PARRY
 PMC (identifier)
 PMID (identifier)
-Pachinko allocation
-Parallel text
-Parsing
-Part-of-speech tagging
 Pattern matching
-Perceptron
-Political party
-Predictive text
-Principal component analysis
 Probably approximately correct learning
-Prompt engineering
-Pronunciation assessment
-PropBank
-Proper generalized decomposition
-Q-learning
-Quantum machine learning
 Question answering
-Racter
-Random forest
-Random sample consensus
 Real-time computing
-Receiver operating characteristic
-Recurrent neural network
-Regression analysis
 Reinforcement learning
-Reinforcement learning from human feedback
-Relevance vector machine
-Renault
-Request for Comments
-Reservoir computing
-Restricted Boltzmann machine
-Robert Epstein
-Royal Bank of Scotland
-Rule-based machine learning
-Rule-based machine translation
 S2CID (identifier)
-SMS
-Sapience
 Search engine
-Self-organizing map
-Self-play (reinforcement learning technique)
-Self-supervised learning
-Semantic analysis (machine learning)
-Semantic decomposition (natural language processing)
-Semantic network
 Semantic parsing
-Semantic role labeling
-Semantic similarity
-Semi-supervised learning
-Sentence extraction
-Sentiment analysis
-Seq2seq
-Shallow parsing
-Simple Knowledge Organization System
-Small and medium enterprises
 Social bot
-Social proof
 Software
 Software agent
 Software bot
-SpaCy
-Sparse dictionary learning
-Speech corpus
-Speech recognition
-Speech segmentation
-Speech synthesis
-Spell checker
-Spiking neural network
 Stanford University
-State–action–reward–state–action
 Statistical classification
-Statistical learning theory
-Statistical machine translation
-Stemming
-Stochastic parrot
-Stop word
-Structured prediction
 Supervised learning
-Support vector machine
-Syntactic parsing (computational linguistics)
-Syntax guessing
-T-distributed stochastic neighbor embedding
-TRT World
-TWiT.tv
-Tay (bot)
-Technological unemployment
-Temporal difference learning
-Terminology extraction
-Text corpus
 Text mining
-Text processing
-Text segmentation
-Text simplification
-Textual entailment
-The Synthetic Party
-Thesaurus (information retrieval)
-Topic model
-Transfer-based machine translation
-Transformer (deep learning architecture)
-Transformer (machine learning model)
-Treebank
-Trigram
-Truecasing
 Turing test
 Twitterbot
-U-Net
-UBY
 United Press International
-United States Secretary of State
-Universal Dependencies
 Unsupervised learning
-Vaccination
-Vapnik–Chervonenkis theory
 Vice (magazine)
-Virtual assistant
-Vision transformer
-Voice user interface
-Water pollution
-Watson (computer)
 Wayback Machine
-Weak artificial intelligence
-WhatsApp
 Wikidata
-Windows Live Messenger
-Word
-Word-sense induction
-Word2vec
-WordNet
-Word embedding
-World Health Organization
-Yahoo! Messenger

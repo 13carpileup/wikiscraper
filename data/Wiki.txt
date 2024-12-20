@@ -1,349 +1,80 @@
-.NET
-.wiki
-Academic conference
-Ad hoc
 Alexa Internet
-Alice's Adventures in Wonderland
 American Civil Liberties Union
-Apache Allura
-Apache Bloodhound
 Apple Inc.
-Application server
 Asterisk
-Asynchronous conferencing
-Atlassian
 Authentication
-Backlink
-Ballotpedia
-Barter
 Bibcode (identifier)
-Bicycle-sharing system
-Biographicon
-BlaBlaCar
-Blacklist (computing)
-Blaster Worm
 Blog
-Blog software
-BlueSpice
-Bo Leuf
-BookStack
-Book Drum
-Book swapping
-Borrowing center
 Browser extension
-Bug tracking system
-Bullet (typography)
-Bulletin board system
-C2.com
-CLiki
-CURIE
-Camel case
-Capital letter
-Carpool
-Carsharing
-Cascading Style Sheets
 Central Intelligence Agency
-Chalo Chatu
-Circular economy
-CiteSeerX (identifier)
-Clothing swap
-Co-living
-CoffeeScript
-Collaborative consumption
-Collaborative editing
-Collaborative software
-Common Lisp
-Communication software
-Comparison of crowdfunding services
-Comparison of wiki hosting services
-Comparison of wiki software
-Computer-mediated communication
-Confluence (software)
-Conservapedia
-Content management system
-Cornell Law School
-Corporate wiki
-CouchSurfing
-Craigslist
-Creative Commons
-Creole (markup)
 Crowdfunding
-Crowdsourcing
-Cybervandalism
-DKosopedia
-Dachgeber
-Daniel K. Inouye International Airport
-Data conferencing
-Database index
-DavisWiki
 Decentralization
-Defamation
-Diff
-Diplopedia
-Dispersed knowledge
-Distributed version control
 Doi (identifier)
-DokuWiki
-Domain name
-Edit conflict
-Edit summary
-Edit war
-Electronic mailing list
 Email
-Encyclopedia Dramatica
 Encyclopædia Britannica
-Encyclopædia Britannica, Inc.
-Engineering and Technology History Wiki
-English Wikipedia
 Enterprise software
-Family History Research Wiki
 Fan wiki
 Fandom (website)
-Federated Wiki
 FidoNet
-Flat file database
-FlexWiki
-Flight sharing
-Foswiki
-Free and open-source
-Full text search
-GNU Free Documentation License
-Ganfyd
-Garden sharing
-Gene Wiki
-Geo-Wiki
 Geography
 Giant Bomb
-Gig economy
-Gig worker
 GitHub
-Gollum (software)
-Good Samaritan
-Grant writing
-Group learning
-Guantánamo Bay
-Guestbook
-Gynopedia
 Haskell
-Hawaiian language
-Hawaiian phonology
-HelpX
-History of wikis
-Hoax
-HomeExchange.com
-Home exchange
-Homestay
-Hospitality Club
-Hospitality exchange service
-HyperCard
-Hypertext
-Hypertext Markup Language
 ISBN (identifier)
 ISSN (identifier)
-Ikiwiki
-Imageboard
-Index (publishing)
 Instant messaging
-Intelligence assessment
-Intellipedia
-Intentional community
 Internet
 Internet Relay Chat
 Internet bot
 Internet forum
 Internet service provider
-Intranet
 JavaScript
 Java (programming language)
-Jive (software)
 John Wiley & Sons
-Kallithea (software)
-Kingdom of France
-Knowledge base
 Knowledge management
-Kuma (software)
-LAN messenger
-Lightweight markup language
-List of LocalWikis
-List of Wikipedias
-List of Wiktionaries
 List of fan wikis
-List of gig economy companies
-List of medical wikis
-List of most visited websites
-List of wiki software
-List of wikis
-LocalWiki
-Logging (computing)
 Machine learning
 Malware
-Mass Collaboration
-Mass collaboration
 MediaWiki
-MediaWiki markup language
 Memory Alpha
 Metadata
 Microblogging
-Moegirlpedia
-MoinMoin
-Namuwiki
-Notetaking software
-Olio (app)
-Online advertising
 Online chat
-Online community
-Online discussion
-Online rich-text editor
-Open content
-Open protein structure annotation network
 Oxford English Dictionary
-PBworks
 PHP
 PMC (identifier)
 PMID (identifier)
-Pasporta Servo
-Pattern language
-Peer-to-Patent
-Peer-to-peer banking
-Peer-to-peer carsharing
-Peer-to-peer lending
 Peer review
 Perl
-Personal wiki
-Phabricator
 Phoneme
-PhpWiki
-Platform cooperative
-Platform economy
-PmWiki
-Prior art
 Privilege (computing)
 Project management
 Proprietary software
-PukiWiki
 Python (programming language)
-Qiuwen Baike
-Queens
-RationalWiki
-RecentChangesCamp
-Redmine
-Relational database
-Remote monitoring and management
-Resistance Manual
-Reuse
-Revision control
-Ridesharing company
-Rigveda Wiki
 Ruby (programming language)
-Ruwiki (Wikipedia fork)
 S2CID (identifier)
 SSRN (identifier)
-Scooter-sharing system
 Scripting language
-Section 230
 Semantic MediaWiki
-Semantic wiki
-Servas International
-Server-side
-SharePoint
-Sharing economy
-Sky-Map.org
 Social network
-Social network service
 Social peer-to-peer processes
-Soft security
 Springer Science+Business Media
-Static site generator
-Strategic planning
-Streetbank
-Susning.nu
-Synchronous conferencing
-Syntax (programming languages)
-TV Tropes
-TWiki
-Table of contents
-Tag (metadata)
 Talker
-Taxonomy
 Tea
-Tenants in common
-Textboard
-The Cutting Room Floor (website)
-The Drivers Cooperative
-The Freecycle Network
-The Hidden Wiki
 The Verge
-The Wiki Way
-TiddlyWiki
-Tiki Wiki CMS Groupware
-Tool library
-Toolbar
-Trac
-Traction TeamPage
-Transparency (human–computer interaction)
-Troll (Internet)
 Tweet (social media)
 Twitter
-Two-sided market
-Unconference
 Uncyclopedia
-United States Court of Appeals for the Seventh Circuit
-United States Patent and Trademark Office
-Universal Edit Button
 University of California
-Upcycling
-UseModWiki
 Usenet
 User interface
 Vanilla software
-Vannevar Bush
-Videoconferencing
-Virtual learning environment
 VisualEditor
 Voice chat in online gaming
-Voice over IP
-WIKY
-Ward Cunningham
-Warm Showers
 Wayback Machine
-Web application
 Web browser
-Web chat
-Web community
-Web conferencing
-Web page
 Web server
-Webring
-Wetpaint
-Wex
-Wiiki
-Wiki.js
-WikiArt
-WikiFactor
-WikiHow
-WikiNode
-WikiNodes
-WikiProfessional
-WikiStage
-WikiTribune
-WikiWikiWeb
-Wiki Wiki Shuttle
-Wiki hosting service
-Wiki software
-Wikifonia
-Wikiloc
 Wikimania
-Wikimedia Foundation
-Wikipedia
-Wikiprogress
-Wikirating
-Wikis and education
-Wikistrat
-Wikitext
-Wikivoyage
-Wingly (company)
 Wired (magazine)
 World Wide Web
 Wowpedia
-XWiki
-Zim (software)

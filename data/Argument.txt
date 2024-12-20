@@ -1,209 +1,92 @@
 Abductive reasoning
 Abstract logic
-Accident (fallacy)
 Ackermann set theory
-Ad hominem
-Ad nauseam
-Affirmative conclusion from a negative premise
-Affirming a disjunct
-Affirming the consequent
 Aleph number
 Algebraic logic
 Alphabet (formal languages)
 Ambiguity
-Analogy
-Anecdotal evidence
-Animistic fallacy
-Antithesis
-Appeal to accomplishment
-Appeal to consequences
-Appeal to emotion
-Appeal to fear
-Appeal to flattery
-Appeal to loyalty
-Appeal to motive
-Appeal to nature
-Appeal to novelty
-Appeal to pity
-Appeal to ridicule
-Appeal to spite
-Appeal to the law
-Appeal to the stone
-Appeal to tradition
-Argument form
-Argument from analogy
-Argument from anecdote
-Argument from authority
-Argument from fallacy
-Argument from silence
-Argument map
-Argument mining
-Argument scheme
-Argument to moderation
-Argumentation
-Argumentation scheme
-Argumentum ad baculum
-Argumentum ad crumenam
-Argumentum ad lazarum
-Argumentum ad populum
 Arity
 Association fallacy
 Atomic formula
 Atomic sentence
-Attacking Faulty Reasoning
 Automata theory
 Automated theorem proving
 Axiom
 Axiom of choice
 Axiom schema
 Axiomatic system
-Axiomatization of Boolean algebras
 Banach–Tarski paradox
-Base rate fallacy
-Bayes' theorem
-Begging the question
 Belief
-Belief bias
-Bias
 Bibcode (identifier)
 Bijection
 Binary operation
 Boolean algebra
 Boolean algebras canonically defined
 Boolean function
-Boolean logic
-Brian Martin (social scientist)
-Bulverism
 Cantor's diagonal argument
 Cantor's paradox
 Cantor's theorem
 Cardinality
 Cartesian product
-Catarina Dutilh Novaes
 Categorical theory
 Category (mathematics)
 Category of sets
 Category theory
-Charles Taylor (philosopher)
-Chaïm Perelman
-Cherry picking
-Chronological snobbery
 Church encoding
 Church–Turing thesis
 Circular reasoning
-Claim (logic)
 Class (set theory)
 Classical logic
-Cliché
 Codomain
 Compactness theorem
 Complement (set theory)
 Complete theory
-Complex question
 Computability theory
 Computable function
 Computable set
 Computably enumerable set
 Computer science
 Concrete category
-Conjunction fallacy
 Conservative extension
 Consistency
 Constructible universe
 Construction of the real numbers
 Constructive set theory
-Constructivism (philosophy of mathematics)
 Continuum hypothesis
-Converse accident
-Correlation does not imply causation
-Correlative-based fallacies
-Corresponding conditional (logic)
-Cosmological argument
 Countable set
-Counter argument
-Credibility
-Critical thinking
 Decidability (logic)
 Decision problem
-Deductive argument
-Deductive logic
 Deductive reasoning
-Deductive system
-Defeasible reasoning
-Denying the antecedent
-Denying the correlative
 Diagram (mathematical logic)
-Dialectic
-Dialetheism
-Discourse
 Doi (identifier)
 Domain of a function
-Double-barreled question
-Double counting (fallacy)
-Douglas Harper
-Douglas N. Walton
-Ecological fallacy
 Edward N. Zalta
 Element (mathematics)
 Elementary diagram
 Elementary equivalence
 Elementary function arithmetic
 Empty set
-Entailment
-Enthymeme
 Enumeration
 Equiconsistency
 Equivalence relation
-Equivocation
-Etymological fallacy
 Euclid's Elements
 Euclidean geometry
-Evidence
-Evidence-based policy
-Existential fallacy
-Existential import
 Existential quantification
-Explanation
-Explanatory power
 Expression (mathematics)
 Extension by definitions
 Extension by new constant and function names
 Extensionality
-Fact
-Fallacies of illicit transference
-Fallacy
-Fallacy of accent
-Fallacy of composition
-Fallacy of division
-Fallacy of exclusive premises
-Fallacy of four terms
-Fallacy of relevance
-Fallacy of the single cause
-Fallacy of the undistributed middle
-Fallible
-False attribution
-False dilemma
-False equivalence
-False precision
-Faulty generalization
-Fictionalism
 Finitary relation
 Finite-valued logic
 Finite model theory
 Finite set
-Finitism
 First-order logic
 Fixed-point logic
-Flag-waving
 Forcing (mathematics)
-Formal fallacy
 Formal grammar
 Formal language
-Formal logic
 Formal proof
-Formal semantics (logic)
 Formal system
-Formalism (mathematics)
 Formation rule
 Foundations of geometry
 Foundations of mathematics
@@ -211,92 +94,50 @@ Free logic
 Free variables and bound variables
 Function (mathematics)
 Functional predicate
-Furtive fallacy
 Fuzzy set
-Gambler's fallacy
 General set theory
-Genetic fallacy
-Godwin's law
 Grothendieck universe
 Ground expression
-Ground formula
 Gödel's completeness theorem
 Gödel's incompleteness theorems
 Gödel numbering
 Halting problem
 Hdl (identifier)
-Henri Poincaré
 Hereditary set
 Higher-order logic
 Hilbert's axioms
 Hilbert system
 History of logic
-History of mathematical logic
-How to Do Things With Words
-Hypothesis
-I'm entitled to my opinion
 ISBN (identifier)
 ISSN (identifier)
 If and only if
-Illicit major
-Illicit minor
 Image (mathematics)
-In-group favoritism
 Inaccessible cardinal
 Independence (mathematical logic)
-Indiana Philosophy Ontology Project
-Inductive argument
-Inductive arguments
-Inductive inference
-Inductive logic
-Inductive reasoning
 Inference
 Infinite-valued logic
 Infinite set
-Informal fallacy
-Informal logic
-Information systems
 Information theory
 Inhabited set
 Injective function
-Inquiry
-Internet Encyclopedia of Philosophy
 Interpretation (logic)
 Interpretation (model theory)
-Interpretation function
 Intersection (set theory)
-Intuitionism
-Invented here
-Inverse gambler's fallacy
-Invincible ignorance fallacy
-Ipse dixit
-Irrelevant conclusion
-Island mentality
 Isomorphism
 JSTOR (identifier)
-K. R. Popper
-Knowledge-based systems
 Kolmogorov complexity
-Kripke's theory of truth
 Kripke–Platek set theory
-L. S. Stebbing
 Lambda calculus
 Large cardinal
-Leading question
 Lemma (mathematics)
 Lindström's theorem
-List of Hilbert systems
 List of axioms
-List of fallacies
 List of first-order theories
 List of formal systems
 List of mathematical theories
 List of set identities and relations
 List of statements independent of ZFC
-Loaded language
-Loaded question
 Logic
-Logical atomism
 Logical biconditional
 Logical conjunction
 Logical connective
@@ -308,139 +149,71 @@ Logical equivalence
 Logical reasoning
 Logical truth
 Logicism
-Loki's Wager
 Löwenheim–Skolem theorem
 Many-valued logic
 Map (mathematics)
-Masked-man fallacy
 Material conditional
-Mathematical fallacy
 Mathematical induction
 Mathematical logic
 Mathematical object
 Mathematics
-McNamara fallacy
 Metalanguage
-Michel Foucault
-Military budget of the United States
 Minimal axioms for Boolean algebra
-Modal scope fallacy
 Model complete theory
 Model theory
 Monadic predicate calculus
 Monadic second-order logic
-Moralistic fallacy
 Morse–Kelley set theory
-Motte-and-bailey fallacy
-Moving the goalposts
 NP (complexity)
 Naive set theory
 Natural deduction
 Natural language
-Naturalistic fallacy
 Negation
-Negative conclusion from affirmative premises
 New Foundations
-Nikolas Kompridis
-Nirvana fallacy
-No true Scotsman
-Nominalism
 Non-Euclidean geometry
 Non-logical symbol
-Non-monotonic reasoning
 Non-standard model
 Non-standard model of arithmetic
-Not invented here
-Occam's razor
-Online Etymology Dictionary
-Ontology
 Open formula
 Operation (mathematics)
-Opinion
 Ordinal analysis
 Ordinal number
-Ordinary language
-Overwhelming exception
 P (complexity)
 P versus NP problem
-Parade of horribles
 Paradoxes of set theory
 Partition of a set
 Peano axioms
-Persuasion
-PhilPapers
-Philosophical analysis
-Philosophical logic
-Philosophical realism
 Philosophy of mathematics
-Platonic realism
-Poisoning the well
-Post hoc ergo propter hoc
 Power set
-Practical arguments
-Pragmatism
 Predicate (mathematical logic)
-Predicate logic
 Predicate variable
-Premise
 Primitive recursive arithmetic
 Primitive recursive function
 Principia Mathematica
-Problem of induction
-Proof by assertion
-Proof by example
 Proof of impossibility
-Proof procedure
 Proof theory
 Propaganda
 Proposition
 Propositional calculus
 Propositional formula
 Propositional variable
-Proto-Indo-European
-Prudence
-Psychologist's fallacy
 Quantifier (logic)
 Quantifier rank
-Quantifier shift
-Questionable cause
-Quoting out of context
-Rationalization (psychology)
-Reason
-Reason (argument)
 Recursion
-Recursive set
-Red-baiting
-Red herring
-Reductio ad Hitlerum
-Regression fallacy
-Reification (fallacy)
 Relation (mathematics)
-Relevance
-Retroduction
 Reverse mathematics
-Rhetoric
-Rigour
-Rob Grootendorst
-Robert Audi
 Robinson arithmetic
-Ronald Loui
 Rule of inference
 Russell's paradox
 S2CID (identifier)
-Sampling bias
 Satisfiability
 Saturated model
 Schröder–Bernstein theorem
-Sealioning
 Second-order arithmetic
 Second-order logic
-Secundum quid
 Self-verifying theories
-Semantic argument
 Semantic theory of truth
 Semantics of logic
-Sentence (linguistics)
 Sentence (mathematical logic)
 Sequent calculus
 Set (mathematics)
@@ -449,50 +222,30 @@ Signature (logic)
 Singleton (mathematics)
 Skolem arithmetic
 Slippery slope
-Slothful induction
-Socratic method
-Sorites paradox
 Soundness
-Special pleading
 Spectrum of a sentence
 Spectrum of a theory
 Square of opposition
-Stanford Encyclopedia of Philosophy
 Statement (logic)
-Statistical syllogism
-Straw man
 Strength (mathematical logic)
-String (formal languages)
 Structure (mathematical logic)
 Substitution (logic)
 Substructure (mathematics)
 Supertask
-Suppressed correlative
 Surjective function
 Syllogism
-Syllogistic fallacy
 Symbol (formal)
-Syntactic ambiguity
 Syntax (logic)
 T-schema
-T. Edward Damer
-Tacit knowledge
 Tarski's axiomatization of the reals
 Tarski's axioms
-Tarski's theory of truth
 Tarski's undefinability theorem
 Tarski–Grothendieck set theory
 Tautology (logic)
 Term (logic)
 Term logic
-Texas sharpshooter fallacy
-The Four Great Errors
 Theorem
-Theories of truth
 Theory
 Theory (mathematical logic)
-Think of the children
 Three-valued logic
 Timeline of mathematical logic
-Tone policing
-Transcendental arguments

@@ -1,5 +1,4 @@
 AND gate
-Boolean algebra (logic)
 Contradiction
 Converse (logic)
 Converse nonimplication
@@ -11,10 +10,8 @@ Institute of Electrical and Electronics Engineers
 Inverter (logic gate)
 List of logic symbols
 Logic gate
-Logic gates
 Logical NOR
 Logical biconditional
-Logical conditional
 Logical conjunction
 Logical connective
 Logical disjunction
@@ -29,5 +26,3 @@ OR gate
 Sheffer stroke
 Statement (logic)
 Tautology (logic)
-XNOR gate
-XOR gate

@@ -1,12 +1,6 @@
 !
-%
-&
 '
 (
-)
-+
-,
--
 0
 1
 2
@@ -17,7 +11,6 @@
 7
 8
 9
-;
 =
 ?
 A
@@ -25,37 +18,26 @@ ABICOMP character set
 ANSEL
 ANSI escape code
 ARIB STD B24 character set
-ARQ-M
 ASCII
 ASMO 449
 ATASCII
-Amateur radio
-American Radio Relay League
-American Teletypewriter code
 Ampersand
-Amstrad CP/M Plus character set
 Amstrad CPC character set
 Apostrophe
 Apple II character set
 ArmSCII
 Asterisk
-Asynchronous serial communication
 Atari ST character set
 B
 BCD (character encoding)
-Bacon's cipher
 Baud
-Bell (instrument)
 Bell character
 Big5
 Binary Ordered Compression for Unicode
-Bit
 Bitstream International Character Set
 BraSCII
 C
 C0 and C1 control codes
-CCIR 476
-CCITT
 CCSID
 CDC display code
 CER-GS
@@ -68,7 +50,6 @@ CWI-2
 Carl Friedrich Gauss
 Carriage return
 Casio calculator character sets
-Character (symbol)
 Character encoding
 Character encodings in HTML
 Charset detection
@@ -90,17 +71,10 @@ Code page 1019
 Code page 1020
 Code page 1021
 Code page 1023
-Code page 1034
 Code page 1040
 Code page 1042
 Code page 1043
-Code page 1044
 Code page 1046
-Code page 1052
-Code page 1053
-Code page 1054
-Code page 1055
-Code page 1056
 Code page 1058
 Code page 1098
 Code page 1101
@@ -139,7 +113,6 @@ Code page 853
 Code page 855
 Code page 856
 Code page 857
-Code page 858
 Code page 859
 Code page 860
 Code page 861
@@ -156,7 +129,6 @@ Code page 896
 Code page 897
 Code page 899
 Code page 903
-Code page 904
 Code page 912
 Code page 915
 Code page 921
@@ -170,16 +142,12 @@ Code page 949 (IBM)
 Code page 950
 Code page 951
 Colon (punctuation)
-Colon (typography)
 Comma
-Communication channel
 Comparison of Unicode encodings
 Compucolor II character set
 Control character
 Cooke and Wheatstone telegraph
 Cork encoding
-Creed & Company
-Cyrillic letter
 D
 DEC Hebrew
 DEC RADIX 50
@@ -189,32 +157,20 @@ DG International
 DIN 66003
 DIN 91379
 DKOI
-David Edward Hughes
-Delete character
-Deutsche Börse
 Digital Equipment Corporation
 Digital encoding of APL symbols
 Dollar sign
-Donald Murray (inventor)
 E
 EBCDIC
 ELOT 927
-Edward Davy
 Enquiry character
 Equals sign
-Etaoin shrdlu
-Exclamation Mark
 Exclamation mark
 Extended Latin-8
 Extended Unix Code
 F
-FIELDATA
 FOCAL character set
 Fieldata
-Forward slash
-Francis Bacon
-Free On-line Dictionary of Computing
-Frequency-shift keying
 Full stop
 G
 GBK (character encoding)
@@ -223,22 +179,17 @@ GB 12345
 GB 18030
 GB 2312
 GEM character set
-GNU Free Documentation License
 GOST 10859
 GSM 03.38
 Galaksija (computer)
-General Post Office
-Gray code
 H
 HP Roman
 HZ (character encoding)
 Han unification
 Hardware code page
-Hexadecimal
 Hong Kong Supplementary Character Set
 I
 IBM AIX
-IEC-P27-1
 INIS-8
 INIS character set
 ISBN (identifier)
@@ -248,41 +199,15 @@ ISO-IR-182
 ISO-IR-197
 ISO-IR-200
 ISO-IR-68
-ISO/IEC 10367
-ISO/IEC 2022
-ISO/IEC 646
-ISO/IEC 8859
-ISO/IEC 8859-1
-ISO/IEC 8859-10
-ISO/IEC 8859-11
-ISO/IEC 8859-12
-ISO/IEC 8859-13
-ISO/IEC 8859-14
-ISO/IEC 8859-15
-ISO/IEC 8859-16
-ISO/IEC 8859-2
-ISO/IEC 8859-3
-ISO/IEC 8859-4
-ISO/IEC 8859-5
-ISO/IEC 8859-6
-ISO/IEC 8859-7
-ISO/IEC 8859-8
-ISO/IEC 8859-9
 ISO 2033
 ISO 5426
 ISO 5427
 ISO 5428
 ISO 6438
-ISO 646
 ISO 6862
-ISO Basic Latin alphabet
 ITU-T
-ITU T.50
 ITU T.61
 Indian Script Code for Information Interchange
-Institut National de la Propriété Industrielle
-Institution of Engineering and Technology
-Intecolor/Compucolor 8001 character set
 Iran System encoding
 J
 JIS X 0201
@@ -290,9 +215,7 @@ JIS X 0208
 JIS X 0211
 JIS X 0212
 JIS X 0213
-Jack Copeland
 Japanese language in EBCDIC
-Jean-Maurice-Émile Baudot
 K
 KOI-7
 KOI8-R
@@ -303,25 +226,17 @@ KPS 9566
 KS X 1001
 KS X 1002
 Kamenický encoding
-Karl W. Steinbuch
 L
-LCCN (identifier)
 LST 1564
 LST 1590-4
 LY1 encoding
-Least significant bit
 Left parenthesis
-Letter frequencies
-Line feed
-Linotype machine
-List of information system character sets
 Lotus International Character Set
 Lotus Multi-Byte Character Set
 M
 MARC-8
 MIK (character set)
 MSX character set
-MTK-2
 MacArabic encoding
 MacFarsi encoding
 MacGreek encoding
@@ -340,7 +255,6 @@ Mac OS Hebrew
 Mac OS Icelandic encoding
 Mac OS Inuit
 Mac OS Keyboard encoding
-Mac OS Maltese/Esperanto encoding
 Mac OS Ogham
 Mac OS Roman
 Mac OS Romanian encoding
@@ -352,7 +266,6 @@ Macintosh Font X encoding
 Macintosh Latin encoding
 Magnetic ink character recognition
 Mazovia encoding
-Minus sign
 Mojibake
 Mojikyō
 Morse code
@@ -362,7 +275,6 @@ N
 NEC APC character set
 National Replacement Character Set
 NeXT character set
-Newline
 Null character
 Number sign
 O
@@ -372,64 +284,46 @@ OT1 encoding
 P
 PETSCII
 Perso-Arabic Script Code for Information Interchange
-Plus sign
 PostScript Latin 1 Encoding
 PostScript Standard Encoding
-Pound sign
 Prosigns for Morse code
-Punched tape
 Q
 Question mark
 Quotation mark
 R
 RISC OS character set
 RPL character set
-RY (test signal)
 Radio signal
-Radioteletype
 Right parenthesis
 Russian Morse code
-Russian alphabet
 Russian language
 S
-SAM Coupé character set
 SI 960
 SQUOZE
 Sega SC-3000 character set
 Semicolon
 Sharp MZ character set
 Sharp pocket computer character sets
-Shift In
 Shift JIS
-Shift Out
 Sinclair QL character set
 Slash (punctuation)
 Space (punctuation)
-Springer Verlag
 Standard Compression Scheme for Unicode
-Stanford/ITS character set
 Stanford Extended ASCII
-State (computer science)
 Symbol (typeface)
-Symbol rate
 T
-T.51/ISO/IEC 6937
 TI calculator character sets
 TRON (encoding)
 TRS-80 character set
 Tamil All Character Encoding
 Tamil Script Code for Information Interchange
 TeX
-Telecommunications devices for the deaf
 Telegraph code
-Telegraphy
-Teleprinter
 Teletex
 Teletext
 Teletext character set
 Telex
 Thai Industrial Standard 620-2533
-Tom Jennings
 Transcode (character encoding)
 U
 UTF-1
@@ -451,11 +345,9 @@ Variable-width encoding
 Ventura International
 Videotex
 Videotex character set
-Vulgar fraction
 W
 Wabun code
 Wang International Standard Code for Information Interchange
-Western Union
 Whitespace character
 Wilhelm Eduard Weber
 Windows-1250
@@ -468,13 +360,8 @@ Windows-1256
 Windows-1257
 Windows-1258
 Windows-1270
-Windows Cyrillic + Finnish
-Windows Cyrillic + French
-Windows Cyrillic + German
 Windows Polytonic Greek
 Windows code page
-Wire
-World's Work
 World System Teletext
 X
 Xerox Character Code Standard
@@ -486,12 +373,4 @@ ZX80 character set
 ZX81 character set
 ZX Spectrum character set
 £
-²
-¹
-º
 É
-Émile Baudot
-Ъ
-Ṯ
-№
-−

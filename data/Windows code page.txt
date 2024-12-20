@@ -5,11 +5,8 @@ ARIB STD B24 character set
 ASCII
 ASMO 449
 ATASCII
-Alt code
 American National Standards Institute
-Amstrad CP/M Plus character set
 Amstrad CPC character set
-AppLocale
 Apple II character set
 Application program interfaces
 Arabic alphabet
@@ -17,24 +14,17 @@ ArmSCII
 Atari ST character set
 BCD (character encoding)
 Baltic languages
-Basic Multilingual Plane
 Baudot code
 Big5
 Binary Ordered Compression for Unicode
-Bit
 Bitstream International Character Set
-Box-drawing character
 BraSCII
 Byte
-Byte oriented
 C0 and C1 control codes
-C0 control codes
-C1 control codes
 CCSID
 CDC display code
 CER-GS
 CESU-8
-CJK characters
 CNS 11643
 CSX+ Indic character set
 CSX Indic character set
@@ -42,33 +32,14 @@ CS Indic character set
 CWI-2
 Cantonese
 Casio calculator character sets
-Central Europe
-Character (computing)
 Character encoding
 Character encodings in HTML
 Charset detection
 Chinese Character Code for Information Interchange
 Chinese telegraph code
-Code Page 1252
 Code page
-Code page 10000
-Code page 10001
-Code page 10002
-Code page 10003
-Code page 10004
-Code page 10005
-Code page 10006
-Code page 10007
-Code page 10008
-Code page 10010
-Code page 10017
-Code page 10021
-Code page 10029
 Code page 1006
-Code page 10079
 Code page 1008
-Code page 10081
-Code page 10082
 Code page 1009
 Code page 1010
 Code page 1012
@@ -82,17 +53,10 @@ Code page 1019
 Code page 1020
 Code page 1021
 Code page 1023
-Code page 1034
 Code page 1040
 Code page 1042
 Code page 1043
-Code page 1044
 Code page 1046
-Code page 1052
-Code page 1053
-Code page 1054
-Code page 1055
-Code page 1056
 Code page 1058
 Code page 1098
 Code page 1101
@@ -110,73 +74,10 @@ Code page 1124
 Code page 1127
 Code page 1133
 Code page 1169
-Code page 1200
-Code page 12000
-Code page 12001
-Code page 1201
 Code page 1287
 Code page 1288
-Code page 1361
-Code page 1386
-Code page 20000
-Code page 20001
-Code page 20002
-Code page 20003
-Code page 20004
-Code page 20005
-Code page 20105
-Code page 20106
-Code page 20107
-Code page 20108
-Code page 20127
-Code page 20261
-Code page 20269
-Code page 20273
-Code page 20277
-Code page 20278
-Code page 20280
-Code page 20284
-Code page 20285
-Code page 20290
-Code page 20297
-Code page 20420
-Code page 20423
-Code page 20424
-Code page 20833
-Code page 20838
-Code page 20866
-Code page 20871
-Code page 20880
-Code page 20905
-Code page 20924
-Code page 20932
-Code page 20936
-Code page 20949
-Code page 21025
-Code page 21027
-Code page 21866
-Code page 28591
-Code page 28592
-Code page 28593
-Code page 28594
-Code page 28595
-Code page 28596
-Code page 28597
-Code page 28598
-Code page 28599
-Code page 28600
-Code page 28601
-Code page 28602
-Code page 28603
-Code page 28604
-Code page 28605
-Code page 28606
 Code page 3846
-Code page 38596
-Code page 38598
 Code page 437
-Code page 65000
-Code page 65001
 Code page 668
 Code page 708
 Code page 720
@@ -194,7 +95,6 @@ Code page 853
 Code page 855
 Code page 856
 Code page 857
-Code page 858
 Code page 859
 Code page 860
 Code page 861
@@ -211,7 +111,6 @@ Code page 896
 Code page 897
 Code page 899
 Code page 903
-Code page 904
 Code page 912
 Code page 915
 Code page 921
@@ -224,16 +123,13 @@ Code page 942
 Code page 949 (IBM)
 Code page 950
 Code page 951
-Code pages
 Code point
-Combining diacritic
 Common Language Infrastructure
 Comparison of Unicode encodings
 Compucolor II character set
 Control character
 Cooke and Wheatstone telegraph
 Cork encoding
-Country Extended Code Page
 Cyrillic script
 DEC Hebrew
 DEC RADIX 50
@@ -248,11 +144,8 @@ Digital Equipment Corporation
 Digital encoding of APL symbols
 EBCDIC
 ELOT 927
-EUC-JP
-EUC-KR
 East Asia
 Emoji
-Euro sign
 Europe
 Extended ASCII
 Extended Latin-8
@@ -279,80 +172,26 @@ Hardware code page
 Hebrew alphabet
 Hong Kong Supplementary Character Set
 IBM
-IBM-932
-IBM 5550
 IBM AIX
 IBM PC
-IEC-P27-1
 INIS-8
 INIS character set
-ISO-646-IRV
-ISO-8859-1
-ISO-8859-10
-ISO-8859-11
-ISO-8859-12
-ISO-8859-13
-ISO-8859-14
-ISO-8859-15
-ISO-8859-16
-ISO-8859-2
-ISO-8859-3
-ISO-8859-4
-ISO-8859-5
-ISO-8859-6
-ISO-8859-7
-ISO-8859-8
 ISO-8859-8-I
-ISO-8859-9
 ISO-IR-111
 ISO-IR-169
 ISO-IR-182
 ISO-IR-197
 ISO-IR-200
 ISO-IR-68
-ISO/IEC 10367
-ISO/IEC 2022
-ISO/IEC 646
-ISO/IEC 8859
-ISO/IEC 8859-1
-ISO/IEC 8859-10
-ISO/IEC 8859-11
-ISO/IEC 8859-12
-ISO/IEC 8859-13
-ISO/IEC 8859-14
-ISO/IEC 8859-15
-ISO/IEC 8859-16
-ISO/IEC 8859-2
-ISO/IEC 8859-3
-ISO/IEC 8859-4
-ISO/IEC 8859-5
-ISO/IEC 8859-6
-ISO/IEC 8859-7
-ISO/IEC 8859-8
-ISO/IEC 8859-9
 ISO 2033
 ISO 5426
 ISO 5427
 ISO 5428
 ISO 6438
 ISO 6862
-ISO 8859
-ISO 8859-1
-ISO 8859-11
-ISO 8859-13
-ISO 8859-4
-ISO 8859-6
-ISO 8859-7
-ISO 8859-8
-ISO 8859-9
-ITU T.50
 ITU T.61
-Ideographic
 Indian Script Code for Information Interchange
-Intecolor/Compucolor 8001 character set
-International Components for Unicode
 International Organization for Standardization
-Internet Assigned Numbers Authority
 Iota subscript
 Iran System encoding
 JIS X 0201
@@ -362,7 +201,6 @@ JIS X 0212
 JIS X 0213
 Japanese language in EBCDIC
 Japanese writing system
-Johab
 KOI-7
 KOI-8
 KOI8-R
@@ -373,19 +211,15 @@ KPS 9566
 KS X 1001
 KS X 1002
 Kamenický encoding
-Kludge
 LST 1564
 LST 1590-4
 LY1 encoding
 Latin script
-Left-to-right mark
-Legacy system
 List of writing systems
 Lotus International Character Set
 Lotus Multi-Byte Character Set
 MARC-8
 MIK (character set)
-MSDN
 MSX character set
 MacArabic encoding
 MacFarsi encoding
@@ -405,7 +239,6 @@ Mac OS Hebrew
 Mac OS Icelandic encoding
 Mac OS Inuit
 Mac OS Keyboard encoding
-Mac OS Maltese/Esperanto encoding
 Mac OS Ogham
 Mac OS Roman
 Mac OS Romanian encoding
@@ -420,12 +253,10 @@ Mazovia encoding
 Microsoft
 Microsoft Developer Network
 Microsoft Windows
-Modern drachma
 Mojibake
 Mojikyō
 Morse code
 Morse code for non-Latin alphabets
-Mozilla Foundation
 Multinational Character Set
 NEC APC character set
 National Replacement Character Set
@@ -440,15 +271,10 @@ POSIX
 Perso-Arabic Script Code for Information Interchange
 PostScript Latin 1 Encoding
 PostScript Standard Encoding
-Precomposed character
 Prosigns for Morse code
 RISC OS character set
 RPL character set
-Replacement character
-Right-to-left mark
 Russian Morse code
-SAM Coupé character set
-SBCS
 SI 960
 SQUOZE
 Section sign
@@ -458,13 +284,9 @@ Sharp pocket computer character sets
 Shift JIS
 Simplified Chinese characters
 Sinclair QL character set
-South Slavic languages
 Standard Compression Scheme for Unicode
-Stanford/ITS character set
 Stanford Extended ASCII
 Symbol (typeface)
-T.51/ISO/IEC 6937
-TIS-620
 TI calculator character sets
 TRON (encoding)
 TRS-80 character set
@@ -476,25 +298,15 @@ Teletex
 Teletext
 Teletext character set
 Thai Industrial Standard 620-2533
-Thai alphabet
-Thai language
 Thai script
-Traditional Chinese characters
 Transcode (character encoding)
-Turkish alphabet
-Typography
-UCS-2
 UTF-1
 UTF-16
-UTF-16BE
-UTF-16LE
 UTF-32
 UTF-7
 UTF-8
 UTF-EBCDIC
 Unicode
 Unicode control characters
-Unicode in Microsoft Windows
 Unified Hangul Code
 Universal Coded Character Set
-Unix-like

@@ -1,492 +1,121 @@
 !
-"
 $
-%
-&
 '
 (
-)
-*
-+
-,
-/
-;
 =
-=⃥
 ?
 @
-Acute accent
-Afrikaans language
 Aleph number
-Alphabetic Presentation Forms
-American Mathematical Society
 Ampersand
-Angle
-Angstrom
-Angzarr
 Apostrophe
-Arcminute
-Arcsecond
 Arrow (symbol)
-Arrows (Unicode block)
-Assignment (computer science)
 Asterisk
-Basic Latin (Unicode block)
 Basis point
-Because sign
-Bernoulli polynomials
-Beth number
-Bidirectional text
-Billion laughs
-Block Elements
-Box Drawing (Unicode block)
-Breve
-Bullet (typography)
 Caret
-Caron
-Catalan language
-Cedilla
-Cent (currency)
-Character (symbol)
 Character encoding
 Character encodings in HTML
-Chinese yuan
 Circumflex
 Code page 1102
-Combining Diacritical Marks
-Combining Diacritical Marks for Symbols
-Commercial at
 Complement (set theory)
 Complex number
-Contour integration
-Control Pictures
-Copyright sign
-Currency Symbols (Unicode block)
-Currency sign (generic)
-Cyrillic (Unicode block)
-Dagger (typography)
-Dash
-Data URI
 Debian
 Decimal
-Degree sign
 Del
 Diameter
-Diamond operator
-Digraph (computing)
-Dingbat
-Division sign
-Divisor
-Document Type Definition
-Document type definition
 Dollar sign
-Dot (diacritic)
-Dotless I
-Dotless j
-Double acute accent
-Down tack
 Dutch language
-Ellipsis
-Em (typography)
-Em dash
 Empty set
-En (typography)
-En dash
-Enclosed Alphanumerics
-Eng (letter)
 Equals sign
 Escape character
-Eszett
-Eth
-Euro sign
 Exclamation mark
 Exclusive or
-Expected value
-Ffl
-Figure space
-Firefox
-Font
-Foot (length)
-Formal public identifier
-Fourier transform
-Fraction
 Fraction (mathematics)
 Function (mathematics)
 Function application
 Function composition
-General Punctuation
-Geometric Shapes (Unicode block)
-Geometric proportion
-Germanic umlaut
-Gimel function
-Glyphs
 Grave accent
 Greater-than sign
-Greek and Coptic
 Guillemet
 HTML
 HTML5
-HTML decimal character rendering
-Hair space
-Hamiltonian mechanics
-Hermitian conjugate matrix
-Hexadecimal
 Hilbert space
-Homothetic transformation
-Hyphen
 I
-IJ (digraph)
-ISO/IEC 6937
-ISO 646
-ISO 8879
 If and only if
 Inch
 Inequation
-Infinity
 Integer
 Integral
 Interpunct
 Intersection (set theory)
 Inverted breve
-Inverted question and exclamation marks
-JSON
 Japanese yen
-Kra (letter)
-Latin-1 Supplement (Unicode block)
-Latin Extended-A
-Latin Extended-B
-Left-to-right mark
-Left tack
 Less-than sign
-Letterlike Symbols
-Linear logic
 List of logic symbols
 Logical NOR
 Logical conjunction
 Logical consequence
 Logical disjunction
-Lozenge (shape)
-Macron (diacritic)
 Material conditional
-MathML
 Mathematical Alphanumeric Symbols
-Mathematical Operators
 Mathematical notation
-Mellin transform
-Miscellaneous Mathematical Symbols-A
-Miscellaneous Mathematical Symbols-B
-Miscellaneous Symbols
-Miscellaneous Technical
-Monus
-Multiple integral
 Multiplication
-Multiplication sign
-Multiset
-Nabla symbol
-Natural number
 Non-breaking space
-Normal subgroup
 Nth root
-Number Forms
 Number sign
 Numeric character reference
 Numero sign
-Ogonek
-Ohm
-Ordinal indicator
 Overline
-Parallel (geometry)
-Parser
-Per mille
-Percent-encoding
 Percent sign
 Perpendicular
 Pi (letter)
-Pilcrow
 Planck constant
-Plus–minus sign
-Poincare plane
-Pound sign
-Prime (symbol)
-Prime number
-Private Use Area
-Proportionality (mathematics)
 Quaternion
 Question mark
 Quotation mark
-Ratio
-Rational number
 Real number
-Registered trademark symbol
 Relational algebra
-Riemann integral
-Right-to-left mark
-Right angle
-Right tack
-Right triangle
-Ring (diacritic)
-SGML
-SGML entity
 Section sign
 Semicolon
-Semiotics
-Series (mathematics)
-Siemens (unit)
 Sine wave
 Soft hyphen
-Solidus (punctuation)
-Sound recording copyright symbol
 Space (punctuation)
-Spacing Modifier Letters
-Spherical angle
-Suit (cards)
-Supplemental Arrows-A
-Supplemental Arrows-B
-Supplemental Mathematical Operators
-Surface integral
-Symbols
-Tailed z
-Therefore sign
-Thin space
-Thorn (letter)
 Tilde
-Trademark symbol
-Transversality theorem
-Trema (diacritic)
-Trigraph (computing)
-Turned a
 Unicode
 Unicode Consortium
 Union (set theory)
-Universal Character Set
-Up tack
-Variation Selectors (Unicode block)
-Volume integral
-W3C
-WHATWG
 Wayback Machine
-Weierstrass p
-Wolfram Language
-Wolfram Research
-Word joiner
-World Wide Web Consortium
-Wreath product
-XHTML
 XML
-XNOR gate
-Zero width joiner
-Zero width non-joiner
-Zero width space
 \
 ^
 `
-¡
 ¢
 £
 ¤
-¥
-¦
 §
-¨
 ©
-ª
-«
 ¬
-®
-¯
 °
 ±
-²
-³
-´
 ¶
 ·
-¸
-¹
-º
-»
 ½
-¿
 À
 Á
 Â
-Ã
-Ä
-Å
-Æ
 Ç
 È
 É
 Ê
-Ë
-Ì
-Í
 Î
 Ï
-Ð
-Ñ
-Ò
-Ó
-Ô
-Õ
-Ö
 ×
-Ø
-Ù
-Ú
 Û
-Ü
-Ý
-Þ
 ß
 ÷
-Ā
-Ă
-Ą
 Ć
-Ĉ
-Ċ
 Č
-Ď
-Đ
-Ē
-Ė
-Ę
-Ě
-Ĝ
-Ğ
-Ġ
 Ģ
-Ĥ
-Ħ
-Ĩ
-Ī
-Į
-İ
-Ĳ
-Ĵ
 Ķ
-ĸ
-Ĺ
-Ļ
-Ľ
-Ŀ
-Ł
-Ń
-Ņ
-Ň
-Ŋ
-Ō
-Ő
-Œ
-Ŕ
-Ŗ
-Ř
 Ś
-Ŝ
-Ş
-Š
-Ţ
 Ť
-Ŧ
-Ũ
-Ū
-Ŭ
-Ů
-Ű
-Ų
-Ŵ
-Ŷ
-Ÿ
-Ź
-Ż
-Ž
 Ƒ
-Ƶ
-Ǵ
-ȷ
-ʼN
-ˆ
-ˇ
-˘
-˙
-˚
-˛
-˜
-˝
-̑
-Α
-Β
-Γ
-Δ
-Ε
-Ζ
-Η
-Θ
-Ι
-Κ
-Λ
-Μ
-Ν
-Ξ
-Ο
-Ρ
-Σ
-Τ
-Υ
-Φ
-Χ
-Ψ
-Ω
-ϒ
-Ϝ
-϶
-Ё
-Ђ
-Ѓ
-Є
-Ѕ
-І
-Ї
-Ј
-Љ
-Њ
-Ћ
-Ќ
-Ў
-Џ
-А
-Б
-В
-Г
-Д
-Е
-Ж
-З
-И
-Й
-К
-Л
-М
-Н
-О
-П
-Р
-С
-Т
-У
-Ф
-Х
-Ц
-Ч
-Ш
-Щ
-Ъ
-Ы
-Ь
-Э
-Ю
-Я
-‐
-–
-—

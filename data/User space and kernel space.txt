@@ -1,174 +1,38 @@
-0 A.D. (video game)
-AMD Radeon Software
 API
-Address space
 Advanced Linux Sound Architecture
 Android (operating system)
-AppArmor
-Application software
 BIOS
-Bash (Unix shell)
 Bionic (software)
 Blender (software)
 Booting
-Bus error
-CPU modes
 C standard library
 Central processing unit
-Close (system call)
-Command-line interface
-Comparison of operating systems
-Comparison of user features of operating systems
 Computer architecture
 Computer data storage
 Computer multitasking
 Computer network
-Context switch
-Cooperative multitasking
 DOS
-Daemon (computing)
-Debugger
-Defragmentation
 Device driver
-Device file
-Device mapper
-Direct Rendering Infrastructure
-Disk operating system
 Disk partitioning
-Distributed operating system
-Dup (system call)
-Early user space
-Embedded operating system
-Enlightenment Foundation Libraries
 Eric S. Raymond
-Evdev
-Exec (system call)
-Exit (system call)
-Exokernel
-FLTK
-File attribute
 File system
-Firefox
-Fixed-priority pre-emptive scheduling
-Fopen
-Forensic software engineering
-GIMP
-GNUstep
-GTK
-General protection fault
 Glibc
-Hardware abstraction
-History of operating systems
-Hobbyist operating system
-Hybrid kernel
-Init
-Inode
-Input/output
 Inter-process communication
-Interrupt
-Ioctl
-JX (operating system)
-Jargon File
-Journaling file system
-Just enough operating system
 Kernel (operating system)
-Kernel mode
-Kernel space
 Klibc
 Library (computing)
-LibreOffice
-Linux Network Scheduler
-Linux Security Modules
 Linux kernel
-List of operating systems
-Live CD
-Live USB
-Loadable kernel module
-Localtime
-Logical Volume Manager (Linux)
-Malloc
-Memcpy
-Memory management
-Memory management (operating systems)
-Memory paging
-Memory protection
-Mesa (computer graphics)
-Microkernel
-Mmap
 Mobile operating system
 Monolithic kernel
-Multikernel
-Multilevel feedback queue
 Musl
-Netfilter
-Network operating system
-Non-volatile memory
-Null space
-OS-level virtualization
-Object-oriented operating system
-OpenRC
-OpenSSH
-Open (system call)
 Operating system
-Operating system kernel
 POSIX
-Polkit
-Popek and Goldberg virtualization requirements
-Preboot Execution Environment
 Preemption (computing)
-Privilege separation
 Process (computing)
-Process control block
 Process management (computing)
-Protection ring
-Pthread create
-Qt (software)
-Random-access memory
-Read (system call)
-Real-time operating system
 Reference (computer science)
-Round-robin scheduling
-Rump kernel
-Runit
-Samba (software)
-Scheduling (computing)
-Security-Enhanced Linux
-Segmentation fault
-Shared memory (interprocess communication)
-Shell (computing)
-Shortest job next
-Simple DirectMedia Layer
-Simple and Fast Multimedia Library
-Single UNIX Specification
-Single address space operating system
-Singularity (operating system)
-Smack (Linux security module)
-Splice (system call)
-Stat (system call)
-Subroutine
-Supercomputer operating system
-Supervisor mode
-SurfaceFlinger
 System call
-System resource
-Systemd
-TOMOYO Linux
 Thread (computing)
-Time-sharing
-Timeline of operating systems
 UClibc
-Udevd
-Unikernel
-Usage share of operating systems
 User interface
-User space
-Virtual file system
-Virtual memory
-Virtual tape library
-Vkernel
 Wayback Machine
-Wayland (protocol)
-Windowing system
-Windows 3.1x
-Write (system call)
-X Window System

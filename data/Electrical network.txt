@@ -1,53 +1,33 @@
-ABCD-parameters
 AC motor
-Active component
-Admittance
-Admittance parameters
 Albert Einstein
 Alessandro Volta
 Alfred-Marie Liénard
 Alternating current
 Ampère's circuital law
-Analogue electronics
 André-Marie Ampère
-Battery (electricity)
 Bibcode (identifier)
 Biot–Savart law
 Bremsstrahlung
-Bridge circuit
 Capacitance
 Capacitor
-Capacitors in parallel
-Capacitors in series
 Carl Friedrich Gauss
 Charge density
 Charles-Augustin de Coulomb
 Charles Proteus Steinmetz
-Circuit diagram
 Classical electromagnetism
 Classical electromagnetism and special relativity
-Combline filter
 Complex number
 Computational electromagnetics
 Computer program
-Continuity test
 Coulomb's law
 Covariant formulation of classical electromagnetism
 Current density
-Current source
 Cyclotron radiation
 DC motor
-Dependent source
-Digital circuit
-Diode modelling
 Direct current
 Displacement current
-Distributed-element circuit
-Distributed-element model
 Doi (identifier)
-Dual impedance
 Eddy current
-Elastance
 Electret
 Electric battery
 Electric charge
@@ -62,14 +42,9 @@ Electric potential
 Electric potential energy
 Electric power
 Electric power transmission
-Electrical component
-Electrical conductance
 Electrical conductor
-Electrical element
 Electrical engineering
-Electrical grid
 Electrical impedance
-Electrical reactance
 Electrical resistance
 Electrical resistance and conductance
 Electricity
@@ -83,7 +58,6 @@ Electromagnetic stress–energy tensor
 Electromagnetic tensor
 Electromagnetism
 Electromotive force
-Electronic circuit
 Electronic component
 Electronics
 Electrostatic discharge
@@ -91,23 +65,17 @@ Electrostatic induction
 Electrostatics
 Emil Lenz
 Emil Wiechert
-Equivalent impedance transforms
-External electric load
 Faraday's law of induction
 Four-current
 Franz Ernst Neumann
-Frequency domain
 Félix Savart
-GNU Circuit Analysis Package
 Gauss's law
 Gauss's law for magnetism
 Gaussian elimination
 Georg Ohm
 George Singer
-Ground (electricity)
 Gustav Kirchhoff
 Gyrator–capacitor model
-HSPICE
 Hans Christian Ørsted
 Heinrich Hertz
 Hendrik Lorentz
@@ -115,17 +83,10 @@ Hermann von Helmholtz
 Hippolyte Fizeau
 History of electromagnetic theory
 Humphry Davy
-Hybrid parameters
-Hydraulic analogy
-Impedance analogy
-Impedance parameters
 Inductance
 Induction motor
 Inductor
-Inductors in parallel
-Inductors in series
 Insulator (electricity)
-Inverse hybrid parameters
 J. J. Thomson
 James Clerk Maxwell
 James Prescott Joule
@@ -137,15 +98,8 @@ Joseph Henry
 Joseph Larmor
 Joule heating
 Kirchhoff's circuit laws
-Kirchhoff's current law
-Kirchhoff's voltage law
-Kirchoff's current law
-Kirchoff's voltage law
-LC circuit
-Laplace transform
 Larmor formula
 Lenz's law
-Linear circuit
 Linear motor
 List of electrical phenomena
 List of textbooks in electromagnetism
@@ -153,7 +107,6 @@ Liénard–Wiechert potential
 London equations
 Lord Kelvin
 Lorentz force
-Lumped-element model
 Magnetic circuit
 Magnetic complex reluctance
 Magnetic field
@@ -167,83 +120,35 @@ Magnetization
 Magnetomotive force
 Magnetostatics
 Mathematical descriptions of the electromagnetic field
-Mathematical methods in electronics
 Maxwell's equations
 Maxwell's equations in curved spacetime
 Maxwell stress tensor
-Mechanical–electrical analogies
-Memristor
-Mesh analysis
 Michael Faraday
-Millman's theorem
-Mobility analogy
-Netlist
 Network analysis (electrical circuits)
-Network analyzer (AC power)
-Network analyzer (electrical)
 Nikola Tesla
-Nodal analysis
-Norton's theorem
 Ohm's law
 Oleg D. Jefimenko
 Oliver Heaviside
-Open-circuit voltage
-Operating point
 Optics
-PLECS
-Passivity (engineering)
 Permeability (electromagnetism)
 Permeance
 Permittivity
-Piecewise linear function
 Polarization density
-Potential divider
 Poynting vector
-Prototype filter
-RC circuit
-RLC circuit
-RL circuit
 Relativistic electromagnetism
-Resistor
-Resistors in parallel
-Resistors in series
 Resonator
 Right-hand rule
 Rotor (electric)
-SPICE
-SapWin
-Saturation (magnetic)
-Scattering parameters
-Schematic
 Series and parallel circuits
-Short circuit
-Simulink
 Siméon Denis Poisson
 Static electricity
 Stator
-Steady state
-Superposition principle
-Superposition theorem
-Susceptance
-Switch
 Synchrotron radiation
-Tellegen's theorem
-Through and across analogy
-Thévenin's theorem
-Topology (electronics)
 Transformer
-Transient response
-Transistor
 Triboelectric effect
-Two-port network
-VHDL-AMS
-Verilog-AMS
 Voltage
-Voltage drop
-Voltage source
 Watt
 Waveguide (radio frequency)
 Wavelength
 Wilhelm Eduard Weber
 William Ritchie (physicist)
-Y-Δ transform

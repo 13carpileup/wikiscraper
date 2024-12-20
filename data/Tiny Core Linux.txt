@@ -1,7 +1,5 @@
-/e/ (operating system)
 32-bit
 4MLinux
-64-bit
 ALT Linux
 AlmaLinux
 Alpine Linux
@@ -12,7 +10,6 @@ AntiX
 ArchBang
 ArchLabs
 Arch Linux
-Armv7
 Artix Linux
 Asahi Linux
 Astra Linux
@@ -27,14 +24,12 @@ BlackArch
 Black Lab Linux
 BlankOn Linux
 Bodhi Linux
-BusyBox
 CHAOS (operating system)
 CPU
 CRUX
 Calculate Linux
 Caldera OpenLinux
 CalyxOS
-Cdrom
 CentOS
 CentOS Stream
 Chakra (operating system)
@@ -44,7 +39,6 @@ ChromiumOS
 ClearOS
 Clear Linux OS
 ColorOS
-Command-line interface
 Commodore OS
 Comparison of Linux distributions
 Container Linux
@@ -58,10 +52,7 @@ Damn Vulnerable Linux
 Debian
 Deepin
 DemoLinux
-Desktop environment
 Devuan
-Disk partition
-DistroWatch
 DivestOS
 DoudouLinux
 Dreamlinux
@@ -73,8 +64,6 @@ Emmabuntüs
 EndeavourOS
 Endless OS
 EulerOS
-FLTK
-FLWM
 Familiar Linux
 Feather Linux
 Fedora Linux
@@ -82,7 +71,6 @@ Fire OS
 Firefox OS
 Floppyfw
 Foresight Linux
-Free and open-source software
 FreedomBox
 Freespire
 Frugalware Linux
@@ -90,7 +78,6 @@ GNU General Public License
 GNU Guix System
 GNewSense
 GOS (operating system)
-GUI
 Garuda Linux
 GeckoLinux
 Gentoo Linux
@@ -100,9 +87,7 @@ GrapheneOS
 Graphical user interface
 HandyLinux
 Hard drive
-Hyperbola GNU/Linux-libre
 Immunix
-Intel 80486
 IodéOS
 Jurix
 KDE neon
@@ -120,7 +105,6 @@ Kubuntu
 Kwort Linux
 LXLE Linux
 Libranet
-Lightweight Linux distribution
 LinHES
 LineageOS
 Linpus Linux
@@ -134,8 +118,6 @@ Linux distribution
 Linux for PlayStation 2
 Linux kernel
 List of Linux distributions
-List of Linux distributions that run from RAM
-Loadable kernel module
 Lubuntu
 MCC Interim Linux
 MIUI
@@ -145,12 +127,10 @@ Mandrake Linux
 Mandriva Linux
 Manjaro
 MeeGo
-Megabyte
 Mer (software distribution)
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Musix GNU+Linux
 Natural language
 Network Security Toolkit
 NimbleX
@@ -168,14 +148,10 @@ Open Enterprise Server
 Operating system
 Oracle Linux
 PCLinuxOS
-Package format
 Package manager
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
-Pendrive
-Pentium II
 Pentoo
 Peppermint OS
 Pinguy OS
@@ -188,7 +164,6 @@ PureOS
 Q4OS
 Qubes OS
 ROSA Linux
-Random-access memory
 Raspberry Pi
 Raspberry Pi OS
 Red Hat Enterprise Linux
@@ -219,11 +194,9 @@ SparkyLinux
 Splashtop OS
 SteamOS
 Sunwah Linux
-Symbolic link
 SystemRescue
 T2 SDE
 Tails (operating system)
-Telikin
 Think Blue Linux
 Tizen
 TopologiLinux
@@ -241,10 +214,7 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 User interface
-User space
 User space and kernel space
 VectorLinux
 Vine Linux
@@ -253,8 +223,6 @@ Wayback Machine
 Whonix
 Wubuntu
 X86
-X86-64
-X86 64
 XB Machine
 Xubuntu
 Yellow Dog Linux

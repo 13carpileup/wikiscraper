@@ -4,7 +4,6 @@ ARCore
 ARKit
 ARToolKit
 Accel World
-Airsickness
 AltspaceVR
 Android XR
 AntVR
@@ -16,7 +15,6 @@ Attack of the Killer App
 Augmented reality
 Avatar (computing)
 Black Mirror
-Boarding Ring
 Bob Sproull
 Boštjan Burger
 Brain–computer interface
@@ -24,22 +22,17 @@ Brenda Laurel
 Brendan Bradley (actor)
 Brendan Iribe
 Brilliant Labs
-Bárány chair
 Carolina Cruz-Neira
 CastAR
 Char Davies
 Cinematic virtual reality
-Cinnarizine
-CiteSeerX (identifier)
 Code Lyoko
 Computer-mediated reality
 Cyberith Virtualizer
-Cyclizine
 Daniel J. Sandin
 Den-noh Coil
 Dieter Schmalstieg
 Digimon
-Dimenhydrinate
 Doi (identifier)
 Ela Darling
 Elia Petridis
@@ -47,20 +40,14 @@ Eric Howlett
 Extended reality
 EyeTap
 Eye tracking
-Eyestrain
 Face tracking
-Field dependence
 Field of view
-Field of view in video games
 Finger tracking
-Flight simulator
 Foveated rendering
 Frame rate
 Fred Brooks
 Free viewpoint television
 Futurama
-Galvanic vestibular stimulation
-Ginger
 Godot (game engine)
 Golden-i
 Google
@@ -80,13 +67,10 @@ Henry Fuchs
 HoloLens 2
 Holodeck
 Horizon Worlds
-Hyoscine hydrobromide
 ISBN (identifier)
 ISSN (identifier)
-Illusions of self-motion
 Image-based modeling and rendering
 Immersion (virtual reality)
-Input lag
 Interactive art
 Ivan Sutherland
 Jaron Lanier
@@ -110,8 +94,6 @@ Mark Bolas
 Mark Stephen Meadows
 Mark Zuckerberg
 Maurice Benayoun
-Meclizine
-Mental rotation
 Meta Horizon OS
 Meta Platforms
 Meta Quest 3
@@ -126,7 +108,6 @@ Mixed reality
 Morton Heilig
 Motion sickness
 Myron W. Krueger
-Nausea
 NeosVR
 Netrunner
 Neuromancer
@@ -134,7 +115,6 @@ Niantic, Inc.
 Nicole Stenger
 Nonny de la Peña
 Nosedive (Black Mirror)
-Oculomotor
 Oculus Go
 Oculus Quest
 Oculus Rift
@@ -162,11 +142,8 @@ PlayStation VR
 PlayStation VR2
 Playtest (Black Mirror)
 Pose tracking
-Postural instability
 Project Iris
 Projection augmented model
-Promethazine
-Proprioceptors
 Quantified self
 Quest 2
 R. Bowen Loftin
@@ -177,36 +154,29 @@ Ready Player Two
 Real life
 Reality Labs
 Rec Room (video game)
-Refresh rate
 Resonite
-Retching
 Rokoko (company)
 Room-scale
 S2CID (identifier)
 SSSS.Gridman
-Samsung
 Samsung Electronics
 Samsung Gear VR
 Sansar (video game)
 Satya Nadella
 Scott Fisher (technologist)
 Screen-door effect
-Seasickness
 Sega VR
 Sensorama
 Sensorium Corporation
 Sickness bag
 Simon Birrell
 Simulation hypothesis
-Simulator sickness
 Simultaneous localization and mapping
 Sinespace
 Six degrees of freedom
 SixthSense
-Ski sickness
 Smartglasses
 Snow Crash
-Space adaptation syndrome
 Spatial computing
 Steven K. Feiner
 Sundar Pichai
@@ -237,11 +207,7 @@ VTime XR
 VTuber
 Valve Index
 Varjo
-Vergence-accommodation-conflict
-Vestibular system
-Vestibulo–ocular reflex
 Virtual Boy
-Virtual environment
 Virtual fixture
 Virtual graffiti
 Virtual reality
@@ -263,4 +229,3 @@ White Christmas (Black Mirror)
 Windows Mixed Reality
 Wired glove
 Wizdish ROVR
-Zero G

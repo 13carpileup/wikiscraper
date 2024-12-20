@@ -1,166 +1,72 @@
 2Fort
-3D GameStudio
-4A Engine
-Adventure Game Studio
 Alien Swarm
 Amazon Lumberyard
 Android (operating system)
 Aperture Desk Job
 Aperture Hand Lab
 Artifact (video game)
-Away3D
 Bay Raitt
-Beta test
-Bitsquid
-Blender Game Engine
-Bork3D Game Engine
 Brad Muir
-Build (game engine)
-Buildbox
 C++
-C4 Engine
 Campo Santo (company)
 Chet Faliszek
 Chris Remo
-Chrome Engine
-Clickteam
-Cobra (game engine)
-Cocos2d
-Construct (game engine)
 Counter-Strike
 Counter-Strike (video game)
 Counter-Strike 2
-Creation Engine
-CryEngine
-Crystal Space
-Crystal Tools
-Dark Engine
 Day of Defeat
 Deadlock (video game)
-Decima (game engine)
-Defold
-Delta3D
-Diesel (game engine)
-Dim3
-Doom engine
 Dota
 Dota 2
-Dota 2 Reborn
 Dota Underlords
 Doug Church
 Dust II
 Early access
 Ego (game engine)
 Erik Wolpaw
-Essence Engine
-Euphoria (software)
 Eurogamer
 ExtremeTech
-Facepunch
-Facepunch Studios
-Felgo
-Filmation (game engine)
-First-person shooter engine
-Flare3D
-Fox Engine
-Free and open-source software
-Freescape
 Frostbite (game engine)
-GDevelop
 GPUOpen
 Gabe Newell
-Game-Maker
-GameMaker
-GameSalad
 Game Developers Conference
-Game Editor
-Game creation system
 Game engine
-Game engine recreation
-Game integrated development environment
-Gamebryo
-Gamepressure
-Garry's Mod
 Genie Engine
 Godot (game engine)
 GoldSrc
-Gold Box
 Gunman Chronicles
 Half-Life (series)
 Half-Life (video game)
 Half-Life 2
-Havok (software)
-HeroEngine
-Horde3D
 IGN
 IOS
-IW (game engine)
-Id Tech
 Id Tech 3
-Id Tech 4
-Id Tech 5
-Id Tech 6
-Id Tech 7
 Ignite (game engine)
 Inferno (Counter-Strike)
-Irrlicht Engine
-JMonkeyEngine
 Jake Rodkin
 Jane Ng
 Jay Pinkerton
-Jedi (game engine)
 Jeri Ellsworth
 Jess Cliffe
 Kelly Bailey (composer)
 Kim Swift
-Kynapse
-Leadwerks
 Left 4 Dead
 Left 4 Dead (series)
 Left 4 Dead 2
-LibGDX
-Lightweight Java Game Library
 List of Valve games
-List of first-person shooter engines
-List of game engine recreations
-List of game engines
-List of visual novel engines
-LithTech
-Luminous Engine
-Löve (game engine)
-MT Framework
 Marc Laidlaw
-Marmalade (software)
 Michael Abrash
 Mike Ambinder
 Mike Harrington
 Mike Morasky
 Minh Le
 Mirage (Counter-Strike)
-Moai (software)
-Mugen (game engine)
 Nuke (Counter-Strike)
-Nvidia GameWorks
-OGRE
-OHRRPGCE
-ORX
 Olly Moss
-OpenFL
 OpenVR
-Open 3D Engine
-Open Wonderland
 PCGamesN
 PC Gamer
-Panda3D
-Panta Rhei (game engine)
-Papervision3D
-PhyreEngine
 Physics engine
-Pie in the Sky (game engine)
-Pixel Game Maker MV
-Plasma (game engine)
-Platinum Arts Sandbox
-PlayCanvas
 Polygon (website)
 Portal (series)
 Portal (video game)
@@ -168,41 +74,18 @@ Portal 2
 Programmer
 Proprietary software
 Proton (software)
-Pygame
-Q (game engine)
-Quake II engine
 Quake engine
-RE Engine
-RPG Maker
-Raylib
-Reality Lab
-Ren'Py
 RenderWare
-Retro Engine
 Robin Walker (game designer)
-Robot Repair
 Rock Paper Shotgun
-Rockstar Advanced Game Engine
-SAGE (game engine)
-SCUMM
 Sam Lantinga
-Sandbox (video game)
 Saxxy Awards
-Scratch (programming language)
 Sean Vanaman
 Shark 3D
-Silent Storm engine
-Sim RPG Maker
-Snap! (programming language)
-Snowdrop (game engine)
 Software development kit
 Software license
-Solar2D
 Source (game engine)
 Source Filmmaker
-Source engine
-Source port
-Spring Engine
 SteamOS
 SteamVR
 Steam (service)
@@ -211,10 +94,6 @@ Steam Deck
 Steam Link
 Steam Machine (computer)
 Steam Trading Cards
-Steam Workshop
-Stencyl
-Stratagus
-Stride (game engine)
 Team Fortress 2
 Team Fortress Classic
 The Crossing (video game)
@@ -222,18 +101,10 @@ The Lab (video game)
 The Orange Box
 The Steam Awards
 The Verge
-Thousand Parsec
-Titan (game engine)
-Torque (game engine)
 UbiArt Framework
-Ubisoft Anvil
-Unigine
 Unity (game engine)
 Unreal Engine
-Unreal Engine 1
-Unreal Engine 2
 Unreal Engine 3
-Unreal Engine 4
 Unreal Engine 5
 Unreleased Half-Life games
 UploadVR
@@ -241,20 +112,8 @@ VG247
 Valve Anti-Cheat
 Valve Corporation
 Valve Index
-Vassal Engine
-Vicious Engine
-Video game engine
 Viktor Antonov (art director)
-Virtual Theatre
 Virtual reality
 Virtual reality headset
-Vision (game engine)
-Visual3D Game Engine
-Voxel Space
-Vulkan (API)
-Wintermute Engine
 World Opponent Network
 Yanis Varoufakis
-Z-machine
-Zero (game engine)
-Zillions of Games

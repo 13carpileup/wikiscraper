@@ -1,13 +1,3 @@
-2-Pyridylethylamine
-4-Methyldiphenhydramine
-4-Methylhistamine
-5-HT3 antagonist
-5-HT receptor
-8-chlorotheophylline
-A-349821
-A-423579
-ABT-239
-ABT-652
 ACE inhibitor
 ATC code A
 ATC code B
@@ -22,71 +12,31 @@ ATC code M
 ATC code N
 ATC code P
 ATC code R
-ATC code R06
 ATC code S
 ATC code V
 ATCvet code QI
-AZD5213
-Acetylcholine receptor
-Acrivastine
 Addiction medicine
-Adelaide
-Adenosine reuptake inhibitor
-Adrenergic
-Adrenergic agonist
-Adrenergic antagonist
-Adverse drug reaction
-Agonist
-Alimemazine
-Alinastine
 Alkylating antineoplastic agent
-Allergen
-Allergic rhinitis
-Allergy
-Alpha-1 blocker
-Alpha-2 blocker
-Alpha-Methylhistamine
-Alpha-adrenergic agonist
-Alpha adrenergic receptor
-Alpha blocker
 Amine
-Amino acid
-Amitriptyline
-Amoxapine
-Ampakine
-Amthamine
 Anabolic steroid
 Analgesic
-Anaphylaxis
 Anatomical Therapeutic Chemical Classification System
 Anesthetic
-Angioedema
-Angiotensin II receptor antagonist
 Anorectic
 Antacid
-Antazoline
 Anthelmintic
 Anti-inflammatory
 Anti-obesity medication
 Antianginal
 Antiarrhythmic agent
-Antibacterial
 Antibody
-Anticholinergic
 Anticoagulant
 Anticonvulsant
-Antidementia drug
 Antidepressant
-Antidiarrhoeal
 Antidote
 Antiemetic
 Antifibrinolytic
-Antifungal drug
-Antigen
 Antihemorrhagic
-Antihistamine
-Antihyperkinetic
-Antihypertensive drug
 Antimetabolite
 Antimicrobial
 Antimigraine drug
@@ -95,406 +45,69 @@ Antineoplastic
 Antiparasitic
 Antiplatelet drug
 Antipropulsive
-Antiprotozoal agent
 Antipruritic
-Antipsoriatic
 Antipsychotic
 Antithrombotic
 Antithyroid agent
 Antiviral drug
-Anxiety
 Anxiolytic
 Aphrodisiac
-Aripiprazole
-Asenapine
-Astemizole
-Atopic dermatitis
-Atypical antipsychotic
-Australian Medicines Handbook
-Autoinjector
-Azanator
-Azatadine
-Azelastine
-Bamipine
-Bamirastine
-Barmastine
-Basophil
-Bavisant
-Belarizine
-Benzatropine
-Benzimidazole
-Bepiastine
-Bepotastine
-Beta-adrenergic agonist
-Beta1-adrenergic agonist
-Beta2-adrenergic agonist
 Beta blocker
-Betahistine
-Betamethasone/dexchlorpheniramine
-Betazole
-Bilastine
 Bile acid sequestrant
-Biogenic amine
-Bisfentidine
 Bisphosphonate
 Blood
 Blood–brain barrier
 Bone
-Bradycardia
-Brexpiprazole
-Brilaroxazine
-Bromazine
-Brompheniramine
-Bronchoconstriction
 Bronchodilator
-Buclizine
-Burimamide
-Butriptyline
-Cabastinen
 Calcium channel blocker
-Cannabinoid
-Cannabinoid receptor antagonist
-Captodiame
-Carbinoxamine
 Cardiac glycoside
 Cardiac stimulant
-Carebastine
 Central nervous system
-Cetirizine
-Channel blocker
-Channel opener
 Chemotherapy
-Chlorcyclizine
-Chloropyramine
-Chlorothen
-Chlorphenamine
-Chlorpheniramine
-Chlorphenoxamine
-Chlorpromazine
-Cholinergic
-Cholinergic receptors
-Cholinesterase inhibitor
-Cicatrizant
-Cimetidine
-Cinnarizine
-Cipralisant
-Ciproxifan
 Circulatory system
-Clemastine
-Clemizole
-Clobenpropit
-Clobenzepam
-Clobenztropine
-Clocinizine
-Clomipramine
-Cloperastine
-Clozapine
 Coagulation
-Cofactor (biochemistry)
-Conessine
-Conjunctivitis
 Constipation
-Contact dermatitis
-Contrast medium
 Corticosteroid
-Cough medicine
-Cyclizine
-Cyproheptadine
-Dacemazine
-Dalcotidine
-Daniel Bovet
-Decloxizine
 Decongestant
-Degranulation
 Deliriant
 Depressant
-Deptropine
-Desipramine
-Desloratadine
-Dexbrompheniramine
-Dexbrompheniramine/pseudoephedrine
-Dexchlorpheniramine
 Diabetes medication
 Diarrhea
-Dibenzocycloheptene
-Dietary mineral
-Dimaprit
-Dimenhydrinate
-Dimetindene
-Diphenhydramine
-Diphenylmethane
-Diphenylmethanolpiperidine
-Diphenylmethylpiperazine
-Diphenylpyraline
 Disease-modifying antirheumatic drug
 Dissociative
 Diuretic
 Doi (identifier)
-Donetidine
-Dopamine agonist
-Dopamine antagonist
-Dopamine reuptake inhibitor
-Dopaminergic
-Dorastine
-Dosulepin
-Doxepin
-Doxylamine
 Dressing (medicine)
-Ebastine
-Ebrotidine
 Ectoparasiticide
-Efletirizine
-Elbanizine
-Embramine
-Emedastine
-Emollient
-Endocannabinoid enhancer
-Endocannabinoid reuptake inhibitor
-Endocannabinoid system
 Endocrine system
-Endothelin receptor antagonist
-Enerisant
-Enkephalinase inhibitor
-Entactogen
 Entheogen
 Enzyme
-Enzyme inducer
-Enzyme inhibitor
-Epinastine
-Epinephrine
-Erectile dysfunction
-Ernest Fourneau
-Ethanolamines
-Ethylenediamine
-Ethylenediamines
-Etintidine
-Etodroxizine
-Etybenzatropine
-Etymemazine
 Euphoria
-Euphoria (emotion)
-Excitatory amino acid agonist
-Excitatory amino acid antagonist
-Excitatory amino acid reuptake inhibitor
-Famotidine
-Fenethazine
 Fertility medication
-Fexofenadine
 Fibrate
-Flezelastine
-Flotrenizine
-Flunarizine
-Flupenthixol
-Fluphenazine
-Flushing (physiology)
-GABA agonist
-GABA antagonist
-GABA reuptake inhibitor
-GABAergic
-GSK-189254
-GSK1004723
-Ganglionic blocker
 General anaesthetic
 Genitourinary system
 Glucocorticoid
-Glutamatergic
 Guinea pig
-H2 antagonist
-H3 antagonist
-H3 receptor antagonist
-Hagerstown, Maryland
-Hallucination
-Headache
 Histamine
-Histamine H1 receptor
-Histamine H2 receptor
-Histamine H3 receptor
-Histamine H4 receptor
-Histamine agonist
-Histamine antagonist
-Histamine receptor
-Histamine trifluoromethyl toluidide
-Histaminergic
-Histapyrrodine
-Homochlorcyclizine
 Hormonal contraception
 Human brain
 Human eye
-Human gastrointestinal tract
-Human nose
 Human skin
-Hydroxyethylpromethazine
-Hydroxynefazodone
-Hydroxyzine
 Hypnotic
-Hypolipidemic agent
-Hypotension
 Hypothalamic–pituitary hormone
 ISBN (identifier)
 ISSN (identifier)
-Iloperidone
-Imetit
-Imipramine
-Immepip
-Immethridine
 Immune system
-Immunoglobulin E
-Immunomodulator
 Immunostimulant
 Immunosuppressive drug
-Impentamine
-Impromidine
 Infection
-Insomnia
-Intravenous immunoglobulin
-Inverse agonist
-Iodophenpropit
-Ion channel
-Iprindole
-Irdabisant
-Isolamtidine
-Isomer
-Isopromethazine
-Isothipendyl
-Itch
-JNJ-5207852
-JNJ-7777120
 Joint
-Ketotifen
-L-Histidine
-Lafutidine
-Lamtidine
-Latrepirdine
-Lavoltidine
-Laxative
-Levocabastine
-Levocetirizine
-Linetastine
-Lippincott Williams & Wilkins
-Local anesthetic
-Lofepramine
-Loratadine
-Loxapine
-Lupitidine
-Malignant
-Management of Parkinson's disease
-Mapinastine
-Maprotiline
-Mast cell
-Mast cell stabilizer
-Mebhydrolin
-Meclizine
-Meclozine
 Medical Subject Headings
-Medrylamine
-Membrane transport protein
-Mepyramine
-Mequitazine
 Metabolism
-Methafurylene
-Methapyrilene
-Methdilazine
-Methimepip
-Metiamide
-Mianserin
-Mifentidine
-Mineralocorticoid
-Mirtazapine
-Mizolastine
-Monoamine neurotransmitter
-Mood stabilizer
-Motivation-enhancing drug
-Moxastine
-Muscarinic acetylcholine receptor
-Muscarinic agonist
-Muscarinic antagonist
-Muscle
-Muscle relaxant
-NK1 receptor antagonist
-NMDA receptor antagonist
-NNC 38-1049
-Napactadine
-Naproxen/diphenhydramine
-Nausea
-Nefazodone
-Negative allosteric modulator
 Nervous system
-Neuromuscular-blocking drug
-Neuroprotective
-Neurotoxin
-Nicotinic agonist
-Nicotinic antagonist
-Niperotidine
-Nizatidine
-Nobel Prize in Physiology or Medicine
-Noberastine
-Non-steroidal anti-inflammatory drug
-Nootropic
-Norepinephrine reuptake inhibitor
-Nortriptyline
 OCLC (identifier)
-OUP-16
-Octastine
-Olanzapine
-Olopatadine
-Ophthalmology
-Opioid
-Opioid antagonist
-Opioid modulator
-Opioidergic
-Orexigenic
-Orphenadrine
-Osutidine
-Otology
-Over-the-counter
-Over-the-counter substance
-Oxaprotiline
-Oxatomide
-Oxmetidine
-Oxomemazine
-PF-03654746
 PMC (identifier)
 PMID (identifier)
-Paliperidone
-Palpitation
-Parasympathomimetic drug
 Paris
-Partial agonist
-Pasteur Institute
-Perastine
-Perlapine
-Perphenazine
-Pharmaceutical drug
-Pharmacology
-Phenbenzamine
-Phenindamine
-Pheniramine
-Phenothiazine
-Phenylpiperazine
-Phenyltoloxamine
-Pibaxizine
-Pibutidine
-Piclopastine
-Pimethixene
-Piperazines
-Piperoxan
-Pipoxizine
-Pitolisant
-Platelet
-Positive allosteric modulator
-Precursor (chemistry)
-Prochlorperazine
-Promethazine
-Propiomazine
-Proton-pump inhibitor
-Protriptyline
-Proxyfan
-Pruritus
-Psychedelic drug
-Psychedelics, dissociatives and deliriants
 Psychosis
-Pyrilamine
-Pyrrobutamine
-Quetiapine
-Quifenadine
-Quisultazine

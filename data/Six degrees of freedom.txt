@@ -1,12 +1,9 @@
 360-degree video
 3D audio effect
-3Dconnexion
 ARCore
 ARKit
 ARToolKit
 Accel World
-Aileron
-Aircraft principal axes
 AltspaceVR
 Android XR
 AntVR
@@ -16,9 +13,7 @@ Asynchronous reprojection
 Attack of the Killer App
 Augmented reality
 Avatar (computing)
-Biomechanics
 Black Mirror
-Boat
 Bob Sproull
 Boštjan Burger
 Brain–computer interface
@@ -26,54 +21,36 @@ Brenda Laurel
 Brendan Bradley (actor)
 Brendan Iribe
 Brilliant Labs
-CAD
 Carolina Cruz-Neira
 CastAR
 Char Davies
 Cinematic virtual reality
 Code Lyoko
 Computer-mediated reality
-Coordinate axis
 Cyberith Virtualizer
-DARPA
 Daniel J. Sandin
-Dead Space 2
-Dean Kamen
-Degrees of freedom
-Degrees of freedom (mechanics)
-Degrees of freedom problem
 Den-noh Coil
-Descent (video game)
 Dieter Schmalstieg
 Digimon
 Ela Darling
 Elia Petridis
 Elite Dangerous
 Eric Howlett
-Euler angles
-Everspace
 Extended reality
 EyeTap
 Eye tracking
 Face tracking
 Finger tracking
 First-person shooter
-Flight dynamics
-Flight simulators
-Forsaken (video game)
-Forward kinematics
 Foveated rendering
 Fred Brooks
 Free viewpoint television
 Futurama
-Geometric terms of location
-Glider (aircraft)
 Godot (game engine)
 Golden-i
 Google
 Google Cardboard
 Google Daydream
-Google Developers
 Google Glass
 Gundam Build Divers
 Gundam Build Metaverse
@@ -83,14 +60,10 @@ HTC Vive
 Haptic suit
 Head-mounted display
 Head-up display
-Head bobble
-Head shake
 Henry Fuchs
 HoloLens 2
 Holodeck
-Homeworld
 Horizon Worlds
-Humanoid robot
 ISBN (identifier)
 Image-based modeling and rendering
 Immersion (virtual reality)
@@ -103,7 +76,6 @@ Jetpack Compose
 John Carmack
 Khronos Group
 Kiss Me First (TV series)
-Labtec
 Lawrence J. Rosenblum
 Leap Motion
 Liquid Image
@@ -115,8 +87,6 @@ List of PlayStation VR games
 List of software related to augmented reality
 List of virtual reality headsets
 Logitech
-Low Earth orbit
-MIT Press
 Magic Leap
 Mark Bolas
 Mark Stephen Meadows
@@ -131,18 +101,15 @@ Metaverse
 Michelle and Uri Kranot
 Microsoft Corporation
 Microsoft HoloLens
-Miner Wars
 Ming C. Lin
 Mixed reality
 Morton Heilig
 Myron W. Krueger
-Neck
 NeosVR
 Netrunner
 Neuromancer
 Niantic, Inc.
 Nicole Stenger
-Nod (gesture)
 Nonny de la Peña
 Nosedive (Black Mirror)
 OCLC (identifier)
@@ -159,11 +126,8 @@ OpenVR
 OpenXR
 Open Source Virtual Reality
 Optical head-mounted display
-Orientation (geometry)
-Overload (video game)
 Palmer Luckey
 Pancake lens
-Parallel manipulator
 Perpendicular
 Persistent world
 Pervasive game
@@ -175,15 +139,12 @@ PlayStation VR
 PlayStation VR2
 Playtest (Black Mirror)
 Pose tracking
-Position (geometry)
 Project Iris
 Projection augmented model
 Quantified self
 Quest 2
 R. Bowen Loftin
 Razer Hydra
-Reaction control thruster
-Reaction wheels
 Ready Player One
 Ready Player One (film)
 Ready Player Two
@@ -191,16 +152,10 @@ Real life
 Reality Labs
 Rec Room (video game)
 Resonite
-Retrovirus (PC game)
-Rigid body
-Road to VR
-Robot
-Robot end effector
 Rokoko (company)
 Room-scale
 Rotation
 SSSS.Gridman
-Samsung
 Samsung Electronics
 Samsung Gear VR
 Sansar (video game)
@@ -208,25 +163,16 @@ Satya Nadella
 Scott Fisher (technologist)
 Screen-door effect
 Sega VR
-Segway PT
 Sensorama
 Sensorium Corporation
-Serial manipulator
-Shattered Horizon
-Ship motions
 Simon Birrell
 Simulation hypothesis
 Simultaneous localization and mapping
 Sinespace
-Six axis
-Six degrees of separation
 Sixaxis
 SixthSense
 Smartglasses
 Snow Crash
-SpaceOrb 360
-Space Engineers
-Space Shuttle
 Spatial computing
 Steven K. Feiner
 Sundar Pichai
@@ -235,24 +181,18 @@ Superhuman Samurai Syber-Squad
 Susumu Tachi
 SwiftUI
 Sword Art Online
-Ted.com
 Telepresence
 The Dreamland Chronicles
 The Entire History of You
 The Matrix
 The Matrix (franchise)
 The Sword of Damocles (virtual reality)
-The Twilight Zone (2019 TV series)
 Thomas A. DeFanti
 Thomas A. Furness III
 Three-dimensional space
-Thrust reversal
 Tim Cook
 Tony Parisi (software developer)
-Torso
-TrackIR
 Transhumanism
-Translation (physics)
 Unity (game engine)
 Unreal Engine
 VFX1 Headgear
@@ -264,7 +204,6 @@ VTime XR
 VTuber
 Valve Index
 Varjo
-Vendetta Online
 Virtual Boy
 Virtual fixture
 Virtual graffiti
@@ -289,4 +228,3 @@ Wii Remote
 Windows Mixed Reality
 Wired glove
 Wizdish ROVR
-Zone of the Enders (series)

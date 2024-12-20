@@ -1,185 +1,33 @@
-EN 55011
-EN 1991
-Modular connector
-TTEthernet
-EN 10080
 Highway Addressable Remote Transducer Protocol
-Net metering
-EN 15838
-List of CEN technical committees
-C-Bus (protocol)
-Gas meter
 IO-Link
 Factory Interface Network Service
-Virtual power plant
-European Installation Bus
-EN 13432
-EN 14214
-Network layer
-RAPIEnet
-Session layer
-SAE J1708
 Ethernet Powerlink
-INTERBUS
-EN 1996
-XPL Protocol
-Eurocodes
-EN 16034
-EN 10025
-EN 166
-OpenTherm
 Modem
-University of Paderborn
-EN 1998
-Least significant bit
 FlexRay
-Industrial control system
-EN 13537
 Feed-in tariff
-Current loop
-EN 13940
-Baudrate
-Horst Ziegler
-Physical layer
 Keyword Protocol 2000
 Digital Addressable Lighting Interface
-SynqNet
-CEN Workshop Agreement
-EN 15038
-EN 54
-EN 13402
-SERCOS interface
-OBIX
-Diode bridge
-EN 1994
 Sinec H1
-HostLink Protocol
-EN 28601
-Factory Instrumentation Protocol
-OPC Data Access
-Keymark
-EN 50436
-Smart meter
-EN 590
-OPC Historical Data Access
-Texas Instruments Deutschland GmbH
-CEN/CENELEC Guide 6
-EN 1993
-List of automation protocols
-CEBus
-CANopen
-EN 1078
-MOST Bus
-SAE J1939
 IEC 60870-5
 IEC 61850
-Utility submeter
-EN 12255
-SAE J1587
-Application layer
-ARINC 825
 SERCOS III
-Presentation layer
-EN 50090
-EN 16114
-Digital Serial Interface
 DNP3
 Local Interconnect Network
 European Committee for Standardization
-X10 (industry standard)
-Foundation Fieldbus H1
-Techem GmbH
-EN 71
 Optomux
-Autobauding
-CC-Link Industrial Networks
-EN 13445
-ControlNet
-EN 301 549
-EnOcean
-Fleet Management System
-Common Industrial Protocol
-EN 50022
 IEC 62056
-Avionics Full-Duplex Switched Ethernet
 Modbus
 Power-system automation
 IEC 62061
-Datex II
-EN 1995
-EN 1063
-KNX
-Zigbee
-EN 1997
-Vehicle bus
 EN 62262
-EN 12566
-PROFINET
-List of EN standards
 MelsecNet
-SDS Protocol
 DeviceNet
-EN 3
-DyNet
-Unified Diagnostic Services
-EtherNet/IP
-Bristol Standard Asynchronous Protocol
-EN 45554
-ISO-OSI Reference Model
-Cyphal
-NMEA 2000
-Automatic meter reading
-Binary-coded decimal
 Z-Wave
-DirectNET Protocol
-Wattmeter
-IEC 62351
-BACnet
-BatiBUS
-OpenHAN
-Transport layer
-EN 61000-4-5
-EN 1090
 PieP
-EN 13757
 IEC 60870-6
-EN 50155
-Parity bit
-Very Simple Control Protocol
 IEC 60870
-SENT (protocol)
-EN 61000-3-2
-Service Request Transport Protocol
-1-Wire
 IEBus
-EN 417
-EN 206-1
-DF-1 Protocol
 Electricity meter
-Water meter
-EN 10034
-CAN bus
-Data link layer
-OPC Unified Architecture
-European Home Systems Protocol
-EN 50075
-MECHATROLINK
-EN 10027
-Ethernet Global Data Protocol
-OLE for process control
-EN 1992
-EN 207
-MTConnect
-LonTalk
-Building automation
-Water metering
-Higher Speed Ethernet
-PROFIBUS
-FOUNDATION fieldbus
 ARINC 429
 Vehicle Area Network
 XAP Home Automation protocol
-EN 50102
-EN 1999
-AS-Interface
-EtherCAT

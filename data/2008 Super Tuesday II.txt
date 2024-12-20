@@ -14,7 +14,6 @@
 1860 Democratic National Conventions
 1860 Republican National Convention
 1864 Democratic National Convention
-1864 Republican National Convention
 1868 Democratic National Convention
 1868 Republican National Convention
 1872 Democratic National Convention
@@ -29,7 +28,6 @@
 1884 Greenback National Convention
 1884 Republican National Convention
 1888 Democratic National Convention
-1888 Greenback National Convention
 1888 Republican National Convention
 1892 Democratic National Convention
 1892 Republican National Convention
@@ -53,12 +51,10 @@
 1916 Republican Party presidential primaries
 1920 Democratic National Convention
 1920 Democratic Party presidential primaries
-1920 Progressive National Convention
 1920 Republican National Convention
 1920 Republican Party presidential primaries
 1924 Democratic National Convention
 1924 Democratic Party presidential primaries
-1924 Progressive National Convention
 1924 Republican National Convention
 1924 Republican Party presidential primaries
 1928 Democratic National Convention
@@ -88,7 +84,6 @@
 1948 Republican Party presidential primaries
 1952 Democratic National Convention
 1952 Democratic Party presidential primaries
-1952 Progressive National Convention
 1952 Republican National Convention
 1952 Republican Party presidential primaries
 1956 Democratic National Convention
@@ -159,23 +154,14 @@
 2004 Republican Party presidential primaries
 2004 United States presidential election
 2008 Alabama Democratic presidential primary
-2008 Alabama Republican presidential primary
 2008 Alaska Democratic presidential caucuses
-2008 Alaska Republican presidential caucuses
 2008 American Samoa Democratic presidential caucuses
-2008 American Samoa Republican caucuses
 2008 Arizona Democratic presidential primary
-2008 Arizona Republican presidential primary
 2008 Arkansas Democratic presidential primary
-2008 Arkansas Republican presidential primary
 2008 California Democratic presidential primary
-2008 California Republican presidential primary
 2008 Colorado Democratic presidential caucuses
-2008 Colorado Republican presidential caucuses
 2008 Connecticut Democratic presidential primary
-2008 Connecticut Republican presidential primary
 2008 Delaware Democratic presidential primary
-2008 Delaware Republican presidential primary
 2008 Democratic National Convention
 2008 Democratic Party presidential candidates
 2008 Democratic Party presidential debates and forums
@@ -183,76 +169,42 @@
 2008 Democratic Party vice presidential candidate selection
 2008 Democrats Abroad presidential primary
 2008 District of Columbia Democratic presidential primary
-2008 District of Columbia Republican primary
 2008 Florida Democratic presidential primary
-2008 Florida Republican presidential primary
 2008 Georgia Democratic presidential primary
-2008 Georgia Republican presidential primary
 2008 Green National Convention
 2008 Green Party presidential primaries
 2008 Guam Democratic presidential caucuses
-2008 Guam Republican caucuses
 2008 Hawaii Democratic presidential caucuses
-2008 Hawaii Republican presidential caucuses
 2008 Idaho Democratic presidential caucuses
-2008 Idaho Republican presidential primary
 2008 Illinois Democratic presidential primary
-2008 Illinois Republican presidential primary
 2008 Indiana Democratic presidential primary
-2008 Indiana Republican presidential primary
 2008 Iowa Democratic presidential caucuses
-2008 Iowa Republican presidential caucuses
 2008 Kansas Democratic presidential caucuses
-2008 Kansas Republican presidential caucuses
 2008 Kentucky Democratic presidential primary
-2008 Kentucky Republican presidential primary
 2008 Libertarian National Convention
 2008 Libertarian Party presidential primaries
 2008 Louisiana Democratic presidential primary
-2008 Louisiana Republican presidential caucuses and primary
 2008 Maine Democratic presidential caucuses
-2008 Maine Republican presidential caucuses
 2008 Maryland Democratic presidential primary
-2008 Maryland Republican presidential primary
 2008 Massachusetts Democratic presidential primary
-2008 Massachusetts Republican presidential primary
 2008 Michigan Democratic presidential primary
-2008 Michigan Republican presidential primary
 2008 Minnesota Democratic presidential caucuses
-2008 Minnesota Republican presidential caucuses
 2008 Mississippi Democratic presidential primary
-2008 Mississippi Republican presidential primary
 2008 Missouri Democratic presidential primary
-2008 Missouri Republican presidential primary
 2008 Montana Democratic presidential primary
-2008 Montana Republican presidential caucuses and primary
 2008 Nebraska Democratic presidential caucuses
-2008 Nebraska Republican presidential primary
 2008 Nevada Democratic presidential caucuses
-2008 Nevada Republican presidential caucuses
 2008 New Hampshire Democratic presidential primary
-2008 New Hampshire Republican presidential primary
 2008 New Jersey Democratic presidential primary
-2008 New Jersey Republican presidential primary
 2008 New Mexico Democratic presidential primary
-2008 New Mexico Republican presidential primary
 2008 New York Democratic presidential primary
-2008 New York Republican presidential primary
 2008 North Carolina Democratic presidential primary
-2008 North Carolina Republican presidential primary
 2008 North Dakota Democratic presidential caucuses
-2008 North Dakota Republican presidential caucuses
-2008 Northern Mariana Islands Republican caucuses
 2008 Ohio Democratic presidential primary
-2008 Ohio Republican presidential primary
 2008 Oklahoma Democratic presidential primary
-2008 Oklahoma Republican presidential primary
 2008 Oregon Democratic presidential primary
-2008 Oregon Republican presidential primary
 2008 Pennsylvania Democratic presidential primary
-2008 Pennsylvania Republican presidential primary
 2008 Puerto Rico Democratic presidential primary
-2008 Puerto Rico Republican caucuses
 2008 Reform Party presidential primaries
 2008 Republican National Convention
 2008 Republican Party presidential candidates
@@ -260,36 +212,23 @@
 2008 Republican Party presidential primaries
 2008 Republican Party vice presidential candidate selection
 2008 Rhode Island Democratic presidential primary
-2008 Rhode Island Republican presidential primary
 2008 South Carolina Democratic presidential primary
-2008 South Carolina Republican presidential primary
 2008 South Dakota Democratic presidential primary
-2008 South Dakota Republican presidential primary
 2008 Tennessee Democratic presidential primary
-2008 Tennessee Republican presidential primary
 2008 Texas Democratic presidential primary and caucuses
-2008 Texas Republican presidential primary
 2008 U.S. Virgin Islands Democratic presidential convention
 2008 United States House of Representatives elections
 2008 United States Senate elections
-2008 United States Virgin Islands Republican caucuses
 2008 United States gubernatorial elections
 2008 United States presidential debates
 2008 United States presidential election
 2008 Utah Democratic presidential primary
-2008 Utah Republican presidential primary
 2008 Vermont Democratic presidential primary
-2008 Vermont Republican presidential primary
 2008 Virginia Democratic presidential primary
-2008 Virginia Republican presidential primary
 2008 Washington Democratic presidential caucuses
-2008 Washington Republican presidential caucuses and primary
 2008 West Virginia Democratic presidential primary
-2008 West Virginia Republican presidential caucuses and primary
 2008 Wisconsin Democratic presidential primary
-2008 Wisconsin Republican presidential primary
 2008 Wyoming Democratic presidential caucuses
-2008 Wyoming Republican presidential caucuses
 2010 Libertarian National Convention
 2012 Democratic National Convention
 2012 Democratic Party presidential primaries
@@ -330,7 +269,6 @@
 2020 Republican National Convention
 2020 Republican Party presidential debates
 2020 Republican Party presidential primaries
-2024 Constitution Party presidential primaries
 2024 Democratic National Convention
 2024 Democratic Party presidential debates and forums
 2024 Democratic Party presidential primaries
@@ -342,15 +280,12 @@
 2024 Republican National Convention
 2024 Republican Party presidential debates and forums
 2024 Republican Party presidential primaries
-2028 Democratic Party presidential primaries
 2028 Republican National Convention
-2028 Republican Party presidential primaries
 Al Gore
 Alan Keyes
 Alan Keyes 2008 presidential campaign
 Alyson Kennedy
 BBC News
-Ballot access for the 2008 United States presidential election
 Barack Obama
 Barack Obama 2008 presidential campaign
 Bill Richardson
@@ -362,139 +297,30 @@ Boston Tea Party (political party)
 Bradford Lyttle
 Brian Moore (political activist)
 Brian Moore 2008 presidential campaign
-Burlington, North Carolina
-Burlington Times News
 CNN
-California Democratic Party v. Jones
-Caucus
-Charles Jay
-Chris Dodd
-Chris Dodd 2008 presidential campaign
 Chuck Baldwin
-Chuck Baldwin 2008 presidential campaign
-Comparison of the 2008 United States presidential candidates
 Condoleezza Rice
-Congressional endorsements for the 2008 United States presidential election
 Conservative Party of New York State
-Conservative Political Action Conference
 Constitution Party (United States)
-Constitution Party National Convention
-Cynthia McKinney
-Cynthia McKinney 2008 presidential campaign
-Daily News (New York)
-Daniel Imperato
-Delaware Plan
-Delegate (American politics)
-Democratic National Convention
 Democratic Party (United States)
-Democratic Party (United States) presidential primaries, 2008
 Democratic Party presidential debates
-Democratic and liberal support for John McCain in 2008
-Dennis Kucinich
-Dennis Kucinich 2008 presidential campaign
-Doug Stanhope
-Draft (politics)
-Draft Bloomberg movement
-Draft Condi movement
-Draft Mark Warner movement
-Duncan L. Hunter
-Duncan L. Hunter 2008 presidential campaign
-Earl Dodge
-Elaine Brown
-Eric Chester
 Eugene Puryear
-Evan Bayh
-Evan Bayh 2008 presidential campaign
-Fox News Channel
-Frank Moore (performance artist)
-Fred Thompson
-Fred Thompson 2008 presidential campaign
-Fundraising for the 2008 United States presidential election
-Fundraising for the 2012 United States presidential election
-Fundraising in the 2016 United States presidential election
-Fundraising in the 2020 United States presidential election
 Fundraising in the 2024 United States presidential election
-Gary, Indiana
-Gene Amondson
-Gloria La Riva
-Graduated Random Presidential Primary System
-Green National Convention
 Green Party of the United States
-Greenback Party
 Hillary Clinton
-Hillary Clinton 2008 presidential campaign
-Independence Party of New York
 Independent politician
 Indiana
-Indiana Democratic primary, 2008
-Indiana Republican primary, 2008
-International opinion polling for the 2008 United States presidential election
-Interregional Primary Plan
-Iowa State Fair Straw Poll
-Iowa Straw Poll (1979–2011)
-Iowa caucuses
-James Harris (Socialist Workers Party politician)
-Jeff Boss
-Jeremiah Wright
-Jeremiah Wright controversy
-Jim Gilmore
-Jim Gilmore 2008 presidential campaign
 Joe Biden
 Joe Biden 2008 presidential campaign
 Joe Schriner
 John Edwards
-John Edwards 2008 presidential campaign
-John H. Cox
 John McCain
-John McCain 2008 presidential campaign
-Jonathon Sharkey
-Libertarian National Convention
 Libertarian Party (United States)
-List of Barack Obama 2008 presidential campaign endorsements
-List of Democratic Party presidential primaries
-List of Hillary Clinton 2008 presidential campaign endorsements
-List of John McCain 2008 presidential campaign endorsements
-List of Republican Party presidential primaries
-List of United States presidential candidates by number of primary votes received
-List of Whig National Conventions
-List of candidates in the 2008 United States presidential election
-List of superdelegates at the 2008 Democratic National Convention
 MSNBC
-Mark Warner
-Mary Ruwart
-Matt Gonzalez
 Michael Bloomberg
-Mike Gravel
-Mike Gravel 2008 presidential campaign
-Mike Huckabee
-Mike Huckabee 2008 presidential campaign
-Mike Huckabee presidential campaign, 2008
-Mini-Tuesday
 Mitt Romney
-Mitt Romney 2008 presidential campaign
-National Primary
-Nationwide opinion polling for the 2008 Democratic Party presidential primaries
-Nationwide opinion polling for the 2008 Republican Party presidential primaries
-Nationwide opinion polling for the 2008 United States presidential election
-Nationwide opinion polling for the 2012 Republican Party presidential primaries
-Nationwide opinion polling for the 2016 Democratic Party presidential primaries
-Nationwide opinion polling for the 2016 Republican Party presidential primaries
-Nationwide opinion polling for the 2020 Democratic Party presidential primaries
-Nationwide opinion polling for the 2024 Democratic Party presidential primaries
-Nationwide opinion polling for the 2024 Republican Party presidential primaries
-Nevada caucuses
-New Hampshire primary
 New York City
 Newsweek
 Newt Gingrich
 North Carolina
-North Carolina Democratic primary, 2008
-North Carolina Republican primary, 2008
-Objectivist Party
 Ohio
-Ohio Democratic primary, 2008
-Ohio Republican primary, 2008
-Opinion polling for the 2004 Democratic Party presidential primaries
-Opinion polling for the 2020 Republican Party presidential primaries
-Opinion polling for the 2024 Democratic Party presidential primaries
-Oxford Analytica

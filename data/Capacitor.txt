@@ -1,500 +1,114 @@
-AC coupling
 AC power plugs and sockets
 Accelerometer
-Acorn tube
-Aerogel
-Airbag
 Airplane
 Alessandro Volta
-Alkaline battery
-Allied Electronics
 Alternating current
 Aluminum
-Aluminum electrolytic capacitor
-Amplifier
-Analog circuit
-Analog filter
-Analog sampled filter
 Angular frequency
-Antiderivative
-Antifuse
-Application-specific integrated circuit
-Applications of capacitors
 ArXiv (identifier)
-Arrhenius equation
-Artillery battery
-Asynchronous circuit
-Audio and video interfaces and connectors
-Audio crossover
-Audion
-Avalanche breakdown
-Avalanche diode
-BS 1852
-Backward-wave oscillator
-Battery (electricity)
-Beam deflection tube
-Beam tetrode
 Bell Laboratories
-Benjamin Franklin
-BiCMOS
 Bibcode (identifier)
-Bio-FET
-Bipolar junction transistor
-Bode magnitude plot
 Boolean algebra
-Boolean circuit
-Boost converter
-Breakdown voltage
-Brinkley stick
-Buck converter
-Buck–boost converter
-Bypass capacitor
-CMOS
 CRC Press
 Cambridge University Press
 Capacitance
-Capacitance meter
-Capacitive
-Capacitive coupling
-Capacitive displacement sensor
-Capacitive sensing
-Capacitor plague
-Capacitor types
-Car audio
-Car battery
-Catastrophic failure
 Cathode-ray tube
-Cavity magnetron
 Ceramic
-Ceramic capacitor
-Ceramic resonator
-Charactron
-Charge-coupled device
-Charge carrier
 Charge density
-Charge pump
-Chemical field-effect transistor
-Circuit breaker
-Circuit minimization for Boolean functions
-Coilgun
-Cold cathode
-Combinational logic
-Compactron
-Complex function
-Complex programmable logic device
 Computer architecture
 Computer hardware
-Condenser microphone
-Constant-current diode
-Constant of integration
-Contact breaker
 Coulomb
 Coulomb's law
-Critically damped
-Crossatron
-Crossed-field amplifier
-Crystal oscillator
-Curie point
 DC component
-DIAC
-DRAM
-Damping
-Damping ratio
-Daniel Gralath
-Darlington transistor
-Debye relaxation
-Decimal separator
-Decoupling capacitor
-Deep-level transient spectroscopy
-Defibrillator
-Dekatron
-Depletion-load NMOS logic
-Depletion region
-Dichroism
 Dielectric
-Dielectric absorption
-Dielectric breakdown
-Dielectric dispersion
-Dielectric loss
-Dielectric relaxation
-Dielectric strength
-Diffused junction transistor
 Digital audio
-Digital cinematography
-Digital electronics
-Digital photography
-Digital potentiometer
-Digital radio
-Digital signal
-Digital signal (signal processing)
-Digital signal processing
 Digital television
-Digital video
-Diode
 Direct current
-Disposable camera
-Dissipation factor
 Doi (identifier)
-Duality (electrical circuits)
-Dye laser
-E12 series (preferred numbers)
-E24 series (preferred numbers)
-E3 series (preferred numbers)
-E6 series (preferred numbers)
-EFUSE
-EIA Class 1 dielectric
-EIA Class 2 dielectric
-Elasticity (physics)
 Electric charge
-Electric circuit
 Electric displacement field
-Electric double-layer capacitor
 Electric field
 Electric motor
 Electric potential
 Electric power transmission
 Electric shock
-Electric susceptibility
-Electrical Conductance
-Electrical circuit
 Electrical conductor
 Electrical energy
 Electrical engineering
 Electrical impedance
 Electrical insulation paper
 Electrical load
-Electrical reactance
 Electrical resistance
 Electrical substation
 Electricity
-Electroluminescence
-Electrolyte
-Electrolytic capacitor
-Electrolytic detector
-Electromagnetic armour
-Electromagnetic forming
 Electromagnetic radiation
-Electronic circuit
 Electronic component
-Electronic literature
-Electronic symbol
 Electronics
-Electronics design
-Electrophorus
-Electrostatic generator
-Emitter-coupled logic
 Energy density
-Equivalent series inductance
-Equivalent series resistance
-Erasable programmable logic device
-Ewald Georg von Kleist
-Exploding-bridgewire detonator
-Exponential decay
-Farad
-Fatigue (material)
-Feedthrough
-Ferrite core
-Ferroelectric
-Fibrillation
-Field-effect transistor
 Field-programmable gate array
-Field-programmable object array
-Film capacitor
-Filter capacitor
-FinFET
-Fingerprint authentication
 Finite-state machine
-First-order differential equation
-Flash (photography)
-Flash tube
-Flashtube
-Fleming valve
-Flip-flop (electronics)
-Floating-gate MOSFET
-Fluorescent lamp
-Formal equivalence checking
-Fourier analysis
-Free space
 Frequency
-Fuse (electrical)
-Fusion power
-Gas-filled tube
-Gate equivalent
 Gauss's law
-Generic Array Logic
 Glass
-Glow discharge
-Groundwater
-Gunn diode
-Gyrotron
-HVAC
 Hardware acceleration
-Hardware description language
-Harmonic oscillator
-Hartley oscillator
-Henry (unit)
-Heterostructure barrier varactor
-Hierarchical state machine
-High-level synthesis
-High-pass filter
 High voltage
-Hot-wire barretter
-Hybrid integrated circuit
-Hydraulic accumulator
-Hydraulic analogy
 IBM
-IEC 60062
-IEEE Transactions on Dielectrics and Electrical Insulation
 ISBN (identifier)
-ISFET
 ISSN (identifier)
-Iconoscope
-Ignition system
-Ignitron
-Image sensor
-Imaginary unit
 Inductance
 Induction motor
-Inductive output tube
 Inductor
 Information
-Insulated-gate bipolar transistor
 Insulator (electricity)
 Integral
 Integrated circuit
-J. Wiley & Sons
-JFET
-Jar (unit)
-John Vincent Atanasoff
 John Wiley & Sons
 Joule
-Karol Pollak
-Kirchhoff's voltage law
-Klystron
-Krytron
-LC circuit
-LDMOS
 Landfill
-Laplace transform
 Laser
-Laser diode
-Lead (electronics)
-Lead–acid battery
-Leiden
 Leiden University
-Leyden jar
-Light-emitting diode
-Light-emitting transistor
-Light emitting capacitor
 Lightning
-Line integral
-Linear regulator
-Linear response function
-List of capacitor manufacturers
 Logic gate
 Logic in computer science
-Logic synthesis
-Low-dropout regulator
-Low-pass filter
-MEMS
-MOSFET
-MOS integrated circuit
-Macrocell array
-Magic eye tube
 Magnetic field
-Marconi
-Marx generator
 Maser
-McGraw Hill Professional
-Megohmmeter
-Memistor
-Memory cell (computing)
-Memory chip
-Memristor
-Memtransistor
-Mercury-arc valve
-Mercury relay
-Metal-oxide varistor
-Metastability (electronics)
-Mica
-Microfarad
-Microphonic
 Microwave oven
-Mixed-signal integrated circuit
-Monoscope
-Motor capacitor
-Multigate device
-Museum Boerhaave
-NMOS logic
-Natural frequency
 Negative feedback
-Neon lamp
 Netherlands
 Network analysis (electrical circuits)
-Neutron generator
-Nixie tube
-Nonode
 Nuclear weapon
-Nuvistor
 OLED
-Operating temperature
-Order of integration (calculus)
-Organic field-effect transistor
-Organic light-emitting transistor
-Organic semiconductor
-Overdamped
-Oxide
-PIN diode
 PMC (identifier)
 PMID (identifier)
-PMOS logic
 Paper
-Parametron
-Parasitic capacitance
 Particle accelerator
-Passivity (engineering)
-Pearson Education
-Pentagrid converter
-Pentode
-Pentode transistor
-Perfect dielectric
 Permittivity
 Phase (waves)
-Phase locked loop
 Phosphorescence
-Photodetector
-Photodiode
-Photoflash capacitor
-Photomultiplier tube
-Phototube
-Picofarad
-Pieter van Musschenbroek
-Piezoelectricity
-Place and route
-Placement (electronic design automation)
 Plastic
 Plastic film
-Point-contact transistor
-Polychlorinated biphenyls
-Polymer capacitor
 Polystyrene
 Polysulfone
-Pomerania
 Porcelain
-Potential energy
-Potentiometer
-Power-factor correction
-Power MOSFET
 Power supply
-Pre-charge
-Prentice Hall
 Printed circuit board
-Printed circuit boards
-Printed electronics
 Process control
-Programmable Array Logic
-Programmable logic array
-Programmable logic device
-Programmable unijunction transistor
-Pulse forming network
-Pulsed power
-Q factor
-Quantum circuit
-RC circuit
-RF CMOS
-RF connector
 RKM code
-RLC circuit
-RLC circuits
 Radar
 Radio
 Radio frequency
-Radio frequency interference
 Radio receiver
-Railgun
-Rainer Waser
-Reactance (electronics)
-Reactive power
 Real number
-Rechargeable battery
-Rechargeable energy storage system
 Rectifier
-Reed relay
-Register-transfer level
-Relay
-Reservoir capacitor
-Resettable fuse
-Resistor
 Resonance
 Resonant frequency
-Reverse-biased
-Ringing (signal)
 Ripple (electrical)
-Robert Dennard
 Root mean square
 Root mean square voltage
-Routing (electronic design automation)
-Runt pulse
 S2CID (identifier)
-SI
-Sample and hold
-Schottky diode
 Second World War
-Selectron tube
-Semiconductor
 Semiconductor device
-Semiconductor devices
-Semiconductor diode
-Sensor
-Sequential logic
 Series and parallel circuits
-Short circuit
-Signal (information theory)
-Silicon controlled rectifier
-Silver mica capacitor
-Simon Sze
-Single-ended primary-inductor converter
-Sintered
-Slapper detonator
-Snubber
-Solaristor
-Spark-gap transmitter
-Specific energy
 Spectrum
-Split-pi topology
-Squirrel-cage rotor
-Starting capacitor
-Static induction thyristor
-Static induction transistor
-Steam condenser
-Step recovery diode
-Storage tube
-Supercapacitor
-Surface-mount technology
-Surface charge
-Surface mount
-Sutton tube
-Switch
-Switched-mode power supply
-Switched capacitor
-Switching circuit theory
-Switching regulator
-Synchronous circuit
-TEA laser
-TRIAC
-Tantalum
-Tantalum capacitor
-Teflon
-Telephony
 Television set
-Tensor Processing Unit
-Terminal (electronics)
-Tetrode
-Tetrode transistor
-The Radio Times
-Theremin
-Thermistor
-Thin-film transistor
-Three-dimensional integrated circuit
 Three-phase electric power
-Through-hole

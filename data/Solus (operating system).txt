@@ -1,4 +1,3 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
 AlmaLinux
@@ -8,7 +7,6 @@ Android (operating system)
 Antergos
 AntiX
 Apache License
-AppArmor
 ArchBang
 ArchLabs
 Arch Linux
@@ -26,10 +24,8 @@ BlackArch
 Black Lab Linux
 BlankOn Linux
 Bodhi Linux
-Budgie (desktop environment)
 CHAOS (operating system)
 CRUX
-Calamares (software)
 Calculate Linux
 Caldera OpenLinux
 CalyxOS
@@ -56,9 +52,7 @@ Damn Vulnerable Linux
 Debian
 Deepin
 DemoLinux
-Desktop environment
 Devuan
-DistroWatch
 DivestOS
 DoudouLinux
 Dreamlinux
@@ -67,49 +61,36 @@ Edubuntu
 Elementary OS
 Elive
 Emmabuntüs
-Encryption software
-End-of-life (product)
 EndeavourOS
 Endless OS
 EulerOS
 Familiar Linux
 Feather Linux
-Fedora (operating system)
 Fedora Linux
 Fire OS
 Firefox OS
-Firmware
-Flatpak
 Floppyfw
 Forbes
 Foresight Linux
 Free software
 FreedomBox
-Freedom of choice
 Freespire
 Frugalware Linux
-GNOME
 GNU Core Utilities
 GNU Guix System
 GNewSense
 GOS (operating system)
-GPLv2
-GTK
 Garuda Linux
 GeckoLinux
 Gentoo Linux
 GoboLinux
 Gobuntu
-Google+
 GrapheneOS
 HandyLinux
-Hyperbola GNU/Linux-libre
 Immunix
 Intel
 IodéOS
 Jurix
-KDE
-KDE Plasma 5
 KDE neon
 KaOS
 KaiOS
@@ -125,7 +106,6 @@ Kubuntu
 Kwort Linux
 LXLE Linux
 Libranet
-LibreOffice
 LinHES
 LineageOS
 Linpus Linux
@@ -140,7 +120,6 @@ Linux for PlayStation 2
 Linux kernel
 List of Linux distributions
 Lubuntu
-MATE (software)
 MCC Interim Linux
 MIUI
 MX Linux
@@ -154,10 +133,6 @@ Microsoft Windows
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Mozilla Firefox
-Mozilla Thunderbird
-Mpv (media player)
-Musix GNU+Linux
 Natural language
 Network Security Toolkit
 NimbleX
@@ -176,24 +151,18 @@ Operating system
 Oracle Linux
 PCLinuxOS
 Package manager
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
-Pardus (operating system)
 Parrot OS
 Parsix
 Pentoo
 Peppermint OS
 Personal computer
-Phoronix
 Pinguy OS
-PipeWire
 PixelExperience
 Platypux
-Point release
 Pop! OS
 Porteus (operating system)
 Programmer
-PulseAudio
 Puppy Linux
 PureOS
 Q4OS
@@ -206,11 +175,8 @@ Red Star OS
 Remix OS
 Replicant (operating system)
 Resurrection Remix OS
-River Shannon
 Rocks Cluster Distribution
 Rocky Linux
-Rolling release
-SELinux
 SUSE Linux
 SUSE Linux Enterprise
 SUSE Studio
@@ -221,13 +187,10 @@ Salix OS
 Scientific Linux
 Slackware
 Slax
-Snappy (package manager)
 Softlanding Linux System
-Softpedia
 Software license
 Software release life cycle
 Software repository
-Soluntum
 SolydXK
 Source Mage
 SparkyLinux
@@ -241,8 +204,6 @@ Think Blue Linux
 Tiny Core Linux
 Tizen
 TopologiLinux
-Tor (anonymity network)
-Transmission (BitTorrent client)
 Transport Layer Security
 Trisquel
 Turbolinux
@@ -250,7 +211,6 @@ Turkix
 Tweet (social media)
 Twitter
 Ubuntu
-Ubuntu (operating system)
 Ubuntu Budgie
 Ubuntu Cinnamon
 Ubuntu GNOME
@@ -261,19 +221,14 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 User interface
 User space and kernel space
 VectorLinux
-VeraCrypt
 Vine Linux
 Void Linux
 Whonix
 Wubuntu
-X86-64
 XB Machine
-Xfce
 Xubuntu
 Yellow Dog Linux
 Zenwalk

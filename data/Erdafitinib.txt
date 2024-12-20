@@ -1,9 +1,7 @@
-ANXA2
 ATC code L01
 Abemaciclib
 Acalabrutinib
 Adagrasib
-Adipotide
 Afatinib
 Aflibercept
 Alectinib
@@ -14,12 +12,9 @@ Amivantamab
 Anaplastic lymphoma kinase
 Anatomical Therapeutic Chemical Classification System
 Angiogenesis
-Anti-cancer medication
 Antineoplastic
 Asciminib
-Astex Pharmaceuticals
 Atezolizumab
-Atezolizumab/hyaluronidase
 Aumolertinib
 Avapritinib
 Avelumab
@@ -27,7 +22,6 @@ Axatilimab
 Axitinib
 BRAF (gene)
 Baricitinib
-Bcr-abl fusion protein
 Belantamab mafodotin
 Bermekimab
 Bevacizumab
@@ -35,13 +29,10 @@ Binimetinib
 Bladder cancer
 Blinatumomab
 Bosutinib
-Breakthrough therapy
 Brentuximab vedotin
 Brigatinib
 Bruton's tyrosine kinase
-C-Met
 CAS Registry Number
-CD117
 CD135
 CD20
 CD30
@@ -54,17 +45,12 @@ Cancer immunotherapy
 Capmatinib
 Catumaxomab
 Cediranib
-Cell differentiation
 Cemiplimab
 Ceritinib
 Cetuximab
-ChEMBL
 ChemSpider
 Chemical formula
-Cholangiocarcinoma
-ClinicalTrials.gov
 Cobimetinib
-Committee for Medicinal Products for Human Use
 CompTox Chemicals Dashboard
 Copanlisib
 Cosibelimab
@@ -76,18 +62,10 @@ Dalpiciclib
 Daratumumab
 Dasatinib
 Denileukin diftitox
-Dinutuximab beta
 Doi (identifier)
 Dostarlimab
-DrugBank
-Drug class
-Drug development
-Drug discovery
-Drug nomenclature
-Drugs.com
 Durvalumab
 Duvelisib
-ECHA InfoCard
 EML4
 Edrecolomab
 Elotuzumab
@@ -95,184 +73,41 @@ Elranatamab
 Encorafenib
 Enfortumab vedotin
 Entrectinib
-EpCAM
 Epcoritamab
 Epidermal growth factor receptor
 ErbB
-Erdafitinib (data page)
 Erlotinib
-Esophageal cancer
-European Medicines Agency
 Everolimus
 Exotoxin
 Fedratinib
 Fibroblast growth factor receptor
 Filgotinib
-First-in-class medication
 Food and Drug Administration
 Fruquintinib
 Fusion protein
 Futibatinib
-Gastric cancer
 Gefitinib
 Gemtuzumab ozogamicin
 Gilteritinib
 Glasdegib
 Glofitamab
-HER2/neu
 Hdl (identifier)
-Health Canada
 Hedgehog signaling pathway
-IUPAC nomenclature of chemistry
 Ibritumomab tiuxetan
 Ibrutinib
 Icotinib
 Idelalisib
 Imatinib
 Inavolisib
-Indicated
 Infigratinib
 Inotuzumab ozogamicin
 Interleukin 2
-International Chemical Identifier
 Ipilimumab
 Isatuximab
-JSmol
-Janssen Pharmaceuticals
 Janus kinase
-KEGG
 KRAS
 Lapatinib
-Larotrectinib
-Lazertinib
-Lenvatinib
-Lestaurtinib
-Leukemia
-Loncastuximab tesirine
-Lorlatinib
-Lymphatic system
-Lymphoma
-MEN1
-MTOR inhibitor
-Masitinib
-MedlinePlus
-Midostaurin
-Mirvetuximab soravtansine
-Mitogen-activated protein kinase kinase
-Mobocertinib
-Mogamulizumab
 Molar mass
-Momelotinib
-Monoclonal antibody therapy
-Mosunetuzumab
-Moxetumomab pasudotox
-Myeloid
-Naxitamab
-Necitumumab
-Neratinib
-Nilotinib
-Nintedanib
-Nivolumab
-Non-receptor tyrosine kinase
-Non-small cell lung cancer
-Obinutuzumab
-Odronextamab
-Ofatumumab
-Olaratumab
-Olmutinib
-Oportuzumab monatox
-Oral administration
-Orelabrutinib
-Osimertinib
 PMID (identifier)
-Pacritinib
-Palbociclib
-Panitumumab
-Parsaclisib
-Pazopanib
-Pembrolizumab
-Pemigatinib
-Pertuzumab
-Pexidartinib
-Pi3K inhibitor
-Pirtobrutinib
-Platelet-derived growth factor receptor
-Polatuzumab vedotin
-Ponatinib
-Pralsetinib
-Prescription drug
-Proapoptotic
-Prohibitin
-Prolgolimab
-PubChem
 Public domain
-Quizartinib
-RET proto-oncogene
-RTK class III
-Radotinib
-Ramucirumab
-Receptor tyrosine kinase
-Regorafenib
-Regulation of therapeutic goods
-Repotrectinib
-Retifanlimab
-Revumenib
-Ribociclib
-Ridaforolimus
-Ripretinib
-Rituximab
-Rociletinib
-Route of administration
-Ruxolitinib
 S2CID (identifier)
-Sabatolimab
-Sacituzumab govitecan
-Selpercatinib
-Selumetinib
-Semaxanib
-Serplulimab
-Simplified molecular-input line-entry system
-Sirolimus
-Sonidegib
-Sorafenib
-Sotorasib
-Src (gene)
-Sugemalimab
-Sunitinib
-Tafasitamab
-Talquetamab
-Targeted cancer therapy
-Tarlatamab
-Tebentafusp
-Teclistamab
-Temsirolimus
-Tepotinib
-Tislelizumab
-Tisotumab vedotin
-Tivozanib
-Toceranib
-Toripalimab
-Tositumomab
-Trametinib
-Trastuzumab
-Trastuzumab/hyaluronidase
-Trastuzumab deruxtecan
-Trastuzumab emtansine
-Tremelimumab
-Trilaciclib
-Tucatinib
-Tyrosine kinase inhibitor
-Tyrosine kinases
-Unique Ingredient Identifier
-Urothelial cancer
-VEGF receptors
-Vandetanib
-Vascular endothelial growth factor
-Vascular endothelial growth factor A
-Vemurafenib
-Venetoclax
-Vismodegib
-Zanidatamab
-Zanubrutinib
-Zenocutuzumab
-Zolbetuximab

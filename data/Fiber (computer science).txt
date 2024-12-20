@@ -1,5 +1,4 @@
 Parallel Virtual Machine
-Virtual threads
 High-performance computing
 Speedup
 OpenACC
@@ -9,7 +8,6 @@ Process (computing)
 Ateji PX
 OpenHMPP
 Automatic parallelization
-Setcontext
 Karp–Flatt metric
 PHP
 Shared memory
@@ -18,7 +16,6 @@ Cache invalidation
 Single instruction, multiple threads
 Application checkpointing
 Multithreading (computer architecture)
-Thread of execution
 Array (data structure)
 Memory-level parallelism
 Speculative multithreading
@@ -26,7 +23,6 @@ Charm++
 Parallel Extensions
 Manycore processor
 Message Passing Interface
-Non-blocking I/O
 Software lockout
 Systolic array
 HPX
@@ -38,17 +34,13 @@ Asymmetric multiprocessing
 RaftLib
 Grid computing
 Parallel RAM
-MSDN Library
-Green threads
 Cache-only memory architecture
 Chapel (programming language)
-Crystal (programming language)
 Multiprocessing
 Instruction pipelining
 Ruby (programming language)
 Operating system
 Unified Parallel C
-GNU Portable Threads
 Temporal multithreading
 Cloud computing
 Deadlock (computer science)
@@ -56,7 +48,6 @@ Non-uniform memory access
 Computer multitasking
 Flynn's taxonomy
 Embarrassingly parallel
-Thread (computer science)
 Computer programming
 Race condition
 Superscalar processor
@@ -67,27 +58,20 @@ Analysis of parallel algorithms
 Stream processing
 Hardware acceleration
 Implicit parallelism
-Spinlock
 OpenMP
 Gustafson's law
 Microsoft Windows
 Dataflow architecture
 Parallel programming model
-ZPL (programming language)
-Active object (Symbian OS)
 Thread (computing)
 Computer cluster
-Netscape Portable Runtime
 Instruction-level parallelism
 Single instruction, single data
 Simultaneous multithreading
 Cilk
 ROCm
-Multiprocessor
 Bit-level parallelism
-Call-with-current-continuation
 Non-blocking algorithm
-Address space
 Multiple instruction, multiple data
 Dataflow programming
 Simultaneous and heterogeneous multithreading
@@ -95,16 +79,13 @@ Synchronization (computer science)
 Parallel external memory
 Distributed memory
 Concurrency (computer science)
-Preemptive multitasking
 Semiconductor memory
 CUDA
 Data parallelism
 Pthreads
 Parallel computing
-Symbian OS
 Instruction window
 Computer science
-C++ AMP
 Barrier (computer science)
 Symmetric multiprocessing
 Preemption (computing)
@@ -112,7 +93,6 @@ Computer network
 Hardware scout
 Distributed computing
 Pipeline (computing)
-Unix
 Dryad (programming)
 Coarray Fortran
 Single instruction, multiple data
@@ -120,21 +100,14 @@ Bulldozer (microarchitecture)
 Vector processor
 Starvation (computer science)
 Deterministic algorithm
-Boost (C++ libraries)
 Memory coherence
 API
-Atomic operation
-Thread safety
 Task parallelism
 Cost efficiency
 Computer hardware
 Massively parallel
 Scalability
 Amdahl's law
-Coroutine
 Loop-level parallelism
 Cache coherence
 GPUOpen
-Freecode
-Cooperative multitasking
-Thread-local storage

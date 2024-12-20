@@ -1,118 +1,18 @@
-1-Wire
-ACCESS.bus
-ADAT Lightpipe
 AES3
 ARINC 429
-ARINC 825
-AS-Interface
-Accelerated Graphics Port
-Address bus
-Advanced Host Controller Interface
 Advanced Microcontroller Bus Architecture
-Advanced eXtensible Interface
-Amiga Zorro II
-Amiga Zorro III
-Apple Desktop Bus
-Atari SIO
-Audi A4
-Audi A5
-Audi A6 C7
-Audi A7
-Audi A8 D4
-Audi Q7
 Audi R8
-Audi TT Mk3
-Automatic meter reading
-Avionics Full-Duplex Switched Ethernet
-BACnet
-BMW
-BMW 5 Series (F10)
-BMW 6 Series
-BMW 7 Series (F01)
-BMW F01
-BMW F20
-BMW F30
-BMW X5
-BMW X5 (E70)
-BMW X6
-Back-side bus
-BatiBUS
-Bentley Flying Spur (2005)
-Bentley Mulsanne (2010)
-Bristol Standard Asynchronous Protocol
-Building automation
 Bus (computing)
 Bus analyzer
-Bus and Tag
-Bus contention
-Bus mastering
-C-Bus (protocol)
-CAN bus
-CANopen
-CC-Link Industrial Networks
-CEBus
-Camera Link
-Clock drift
-Coherent Accelerator Processor Interface
-Commodore bus
-Common Industrial Protocol
-Compute Express Link
-Computer Automated Measurement and Control
-ControlNet
-Control bus
-Controller Area Network
-CoreConnect
-Cyphal
-DF-1 Protocol
-DMX512
 DNP3
-Daimler AG
-Daisy chain (electrical engineering)
-De facto standard
 DeviceNet
 Digital Addressable Lighting Interface
-Digital Control Bus
-Digital Serial Interface
 Digital Storage Systems Interconnect
-DirectNET Protocol
-Direct Media Interface
 Doi (identifier)
-DyNet
-EE Times
-ESCON
-Electronic control unit
-EnOcean
-Enhanced Small Disk Interface
-EtherCAT
-EtherNet/IP
 Ethernet
-Ethernet Global Data Protocol
 Ethernet Powerlink
-Europe Card Bus
-European Home Systems Protocol
-European Installation Bus
-ExpressCard
-Extended Industry Standard Architecture
-FASTBUS
-FOUNDATION fieldbus
-Factory Instrumentation Protocol
 Factory Interface Network Service
-Fibre Channel
-Fleet Management System
-Foundation Fieldbus H1
-Freescale Semiconductor
-Front-side bus
-GSC bus
-General Motors
-HIL bus
-HIPPI
-HP-IL
-HP Precision Bus
-Higher Speed Ethernet
 Highway Addressable Remote Transducer Protocol
-HostLink Protocol
-HyperTransport
-I3C (bus)
 IEBus
 IEC 60870
 IEC 60870-5
@@ -120,147 +20,30 @@ IEC 60870-6
 IEC 61030
 IEC 61850
 IEC 62056
-IEC 62351
-IEEE-488
-IEEE 1284
-IEEE 1394
-INTERBUS
 IO-Link
 ISBN (identifier)
 ISSN (identifier)
-Industrial control system
-Industry Standard Architecture
-InfiniBand
-Infinity Fabric
-Intel High Definition Audio
-Intel QuickPath Interconnect
-Intel Ultra Path Interconnect
-Intelligent Peripheral Interface
 I²C
-I²S
-KNX
 Keyword Protocol 2000
-Lamborghini Huracán
 Land Rover
-Lightning (connector)
-List of automation protocols
-List of interface bit rates
 Local Interconnect Network
-Logic analyzers
-LonTalk
-Low Pin Count
-MADI
-MBus (SPARC)
-MECHATROLINK
 MIDI
-MOST Bus
-MTConnect
-McASP
-Megabit
 MelsecNet
-Mercedes-Benz C-Class (W205)
-Mercedes-Benz C-Class (W206)
-Mercedes-Benz E-Class (W213)
-Mercedes-Benz S-Class (C217)
-Mercedes-Benz S-Class (W222)
-Mercedes-Benz S-Class (W223)
 Meter-Bus
-Micro Channel architecture
 Modbus
 Multibus
-Multidrop bus
-NMEA 2000
-NVLink
-NVM Express
-NXP Semiconductors
-Network on a chip
-NuBus
-OBIX
-OPC Data Access
-OPC Historical Data Access
-OPC Unified Architecture
-OpenTherm
 Optomux
-PCI-X
-PCI Express
-PCI eXtensions for Instrumentation
-PC Card
-PROFIBUS
-PROFINET
-Parallel ATA
-Parallel SCSI
-Peripheral Component Interconnect
 PieP
-Plug and play
 Power-system automation
-Power Management Bus
-Profibus
 Q-Bus
-RAPIEnet
 RS-232
-RS-422
-RS-423
-RS-485
-RapidIO
-Robert Bosch GmbH
-Rolls-Royce Ghost
-S-100 bus
-S/PDIF
 S2CID (identifier)
-SAE J1587
-SAE J1708
-SAE J1939
-SATA
-SATA Express
-SBus
-SCSI
-SDS Protocol
-SENT (protocol)
 SERCOS III
-SERCOS interface
-SLIMbus
-SS-50 bus
-ST-506/ST-412
-STD Bus
-STEbus
-Serial Attached SCSI
-Serial Peripheral Interface
-Serial Storage Architecture
-Service Request Transport Protocol
 Sinec H1
-Single-pair Ethernet
-Smart meter
-SpaceWire
-Storage Module Device
-SynqNet
-System Management Bus
-System bus
-TOSLINK
-TTEthernet
 TURBOchannel
-Technical standard
-Thunderbolt (interface)
-Time-Triggered Protocol
-UNI/O
 USB
-Ultra Port Architecture
 Unibus
-Unified Diagnostic Services
 VAXBI bus
-VESA Local Bus
-VME eXtensions for Instrumentation
-VMEbus
-VPX
-VXS
 Vehicle Area Network
-Vehicle bus
-Very Simple Control Protocol
-Volkswagen Group
-Volvo XC90
-Wired communication
-Wishbone (computer bus)
-X10 (industry standard)
 XAP Home Automation protocol
-XPL Protocol
 Z-Wave
-Zigbee

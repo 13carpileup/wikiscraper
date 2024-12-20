@@ -1,14 +1,7 @@
-/e/ (operating system)
-4Dwm
 4MLinux
-AArch64
 ALT Linux
-ARM64
-Advanced Packaging Tool
-AfterStep
 AlmaLinux
 Alpine Linux
-Amiwm
 Android-x86
 Android (operating system)
 Antergos
@@ -21,7 +14,6 @@ Asahi Linux
 Astra Linux
 Asturix
 Austrumi Linux
-Awesome (window manager)
 BLAG Linux and GNU
 BackBox
 BackTrack
@@ -29,15 +21,11 @@ Bharat Operating System Solutions
 BioSLAX
 BlackArch
 Black Lab Linux
-Blackbox
 BlankOn Linux
 Bodhi Linux
-Budgie (desktop environment)
 C++
 CHAOS (operating system)
-COSMIC (desktop environment)
 CRUX
-CTWM
 Calculate Linux
 Caldera OpenLinux
 CalyxOS
@@ -47,38 +35,25 @@ Chakra (operating system)
 Chimera Linux
 ChromeOS
 ChromiumOS
-Cinnamon (desktop environment)
 ClearOS
 Clear Linux OS
 ColorOS
 Commodore OS
-Common Desktop Environment
 Comparison of Linux distributions
-Comparison of X Window System desktop environments
-Comparison of X window managers
-Compiz
-Compositing window manager
 Container Linux
 Corel Linux
 CrDroid
-CrossOver (software)
 CrunchBang Linux
 Cub Linux
-Cwm (window manager)
 CyanogenMod
 Damn Small Linux
 Damn Vulnerable Linux
 Debian
 DemoLinux
-Desktop environment
-Desktop metaphor
 Devuan
-Display server
 DivestOS
 DoudouLinux
-Dpkg
 Dreamlinux
-Dwm
 EMUI
 Edubuntu
 Elementary OS
@@ -86,66 +61,34 @@ Elive
 Emmabuntüs
 EndeavourOS
 Endless OS
-Enlightenment (software)
 EulerOS
-FLWM
-FVWM
 Familiar Linux
 Feather Linux
-Fedora (operating system)
 Fedora Linux
 Fire OS
 Firefox OS
 Floppyfw
-Fluxbox
 Foresight Linux
 Free software
 FreedomBox
 Freespire
 Frugalware Linux
-GNOME
-GNOME 1
-GNOME 2
-GNOME 3
-GNOME Shell
 GNU Guix System
 GNewSense
 GOS (operating system)
-GPE Palmtop Environment
 GPL
-GTK
 Garuda Linux
 GeckoLinux
 Gentoo Linux
 GoboLinux
 Gobuntu
-Google Analytics
-Google Chrome
 GrapheneOS
 Graphical user interface
 HandyLinux
-Huawei
-Hyperbola GNU/Linux-libre
-I3 (window manager)
-IRIX Interactive Desktop
-IceWM
 Immunix
 IodéOS
-Ion (window manager)
-Java Desktop System
 Jurix
-KDE Plasma
-KDE Plasma 4
-KDE Plasma 5
-KDE Plasma 6
-KDE Software Compilation
-KDE Software Compilation 4
 KDE neon
-KDesktop
-KWin
-K Desktop Environment 1
-K Desktop Environment 2
-K Desktop Environment 3
 KaOS
 KaiOS
 Kaisen Linux
@@ -158,20 +101,14 @@ Kongoni (operating system)
 Korora (operating system)
 Kubuntu
 Kwort Linux
-LXDE
 LXLE Linux
-LXQt
-Larswm
 Libranet
 LinHES
 LineageOS
-Linpus
 Linpus Linux
 Linux
-Linux.com
 LinuxTLE
 Linux Caixa Mágica
-Linux Foundation
 Linux Lite
 Linux Mint
 Linux Router Project
@@ -179,12 +116,7 @@ Linux distribution
 Linux for PlayStation 2
 Linux kernel
 List of Linux distributions
-Looking Glass (desktop environment)
-LoongArch
-Loongson
 Lubuntu
-Lumina (desktop environment)
-MATE (desktop environment)
 MCC Interim Linux
 MIUI
 MX Linux
@@ -192,22 +124,12 @@ Mageia
 Mandrake Linux
 Mandriva Linux
 Manjaro
-Manjaro Linux
-Matchbox (window manager)
 MeeGo
 Mer (software distribution)
-Metacity
-Metisse
 Microsoft Windows
-Mir (software)
 Miracle Linux
 Mobilinux
-Moksha (window manager)
 Monolithic kernel
-Motif (software)
-Motif Window Manager
-Musix GNU+Linux
-Mutter (software)
 Natural language
 Network Security Toolkit
 NimbleX
@@ -215,58 +137,40 @@ Nitix
 NixOS
 Nobara Linux
 Nova (operating system)
-OLIT
-Olwm
 OmniROM
 One UI
 Open-source software
 OpenELEC
 OpenMandriva Lx
 OpenSUSE
-OpenWindows
 Open Enterprise Server
-Openbox
 Oracle Linux
 PCLinuxOS
 Package manager
-Painter's algorithm
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
 Pentoo
 Peppermint OS
-Phosh
 Pinguy OS
 Pinyin
 PixelExperience
-Plasma Bigscreen
-Plasma Mobile
 Platypux
 Pop! OS
 Porteus (operating system)
 Programmer
-Project Looking Glass
 Proprietary software
 Puppy Linux
 PureOS
 Q4OS
-Qt (software)
 Qubes OS
-Qvwm
-RISC-V
 ROSA Linux
-ROX Desktop
-Radware
 Raspberry Pi OS
-Ratpoison
-Razor-qt
 Red Hat Enterprise Linux
 Red Hat Linux
 Red Star OS
 Remix OS
 Replicant (operating system)
-Resolution independence
 Resurrection Remix OS
 Rocks Cluster Distribution
 Rocky Linux
@@ -277,9 +181,7 @@ Sabayon Linux
 Sabily
 Sailfish OS
 Salix OS
-Sawfish (window manager)
 Scientific Linux
-Shell (computing)
 Simplified Chinese characters
 Slackware
 Slax
@@ -289,37 +191,23 @@ Software release life cycle
 Solus (operating system)
 SolydXK
 Source Mage
-South China Morning Post
 SparkyLinux
 Splashtop OS
 Spotify
-Stacking window manager
 SteamOS
 Steam (service)
-StumpWM
-Sugar (desktop environment)
 Sunwah Linux
-Sunway (processor)
-Sway (window manager)
-Swm
 SystemRescue
 T2 SDE
 Tails (operating system)
 TechRepublic
-Technical support
 Think Blue Linux
-Tiling window manager
 Tiny Core Linux
 Tizen
 TopologiLinux
-Trinity Desktop Environment
 Trisquel
 Turbolinux
 Turkix
-Tvtwm
-Twm
-UDE
-UKUI (desktop environment)
 Ubuntu
 Ubuntu Budgie
 Ubuntu Cinnamon
@@ -330,42 +218,14 @@ Ubuntu Studio
 Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
-Unity (user interface)
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 User interface
 VectorLinux
 Vine Linux
-Virtual desktop
-Visual User Environment
 Void Linux
-Vtwm
-WIMP (computing)
-WPS Office
-Wayland (protocol)
-Wayland compositor
 Whonix
-Widget (GUI)
-Widget toolkit
-WindowLab
-Window Maker
-Window manager
-Windowing system
-Wm2
-Wmii
 Wubuntu
-Wuhan
-X.desktop
-X11
-X86-64
 XB Machine
-XCB
-XView
-X window manager
-Xfce
-Xlib
-Xmonad
 Xubuntu
 Yellow Dog Linux
 Zenwalk

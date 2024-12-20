@@ -1,420 +1,115 @@
-100 Gigabit Ethernet
-10 Gigabit Ethernet
-128-QAM
-4-QAM
-64-QAM
 ARPANET
 AT&T
-AT&T U-verse
 Absorption (electromagnetic radiation)
-Acrylate polymers
-Alcatel-Lucent
 Alexander Graham Bell
 Alexander Stepanovich Popov
 Alfred Vail
 Almon Brown Strowger
 Amos Dolbear
-Amplifier
 Antonio Meucci
 ArXiv (identifier)
-Arcing
-Army Missile Command
-Arrayed waveguide grating
-Attenuation
-Attenuation (electromagnetic radiation)
 Audio coding format
 BITNET
-BT Group
-Backbone network
-Backplane
 Bandwidth (computing)
-Baud Rate
 Beacon
-Bell Labs
 Bibcode (identifier)
-Birefringence
 Bob Kahn
-Broadband PON
-CSELT
 CYCLADES
 Cable protection system
 Cable television
 Camille Tissot
-Carrier generation and recombination
-Carrier wave
 Cellular network
-Channel capacity
 Charles Bourseul
 Charles Grafton Page
 Charles K. Kao
 Charles Sumner Tainter
 Charles Wheatstone
-Chirp
-Chromatic dispersion
 Circuit switching
-Cisco Press
-Cladding (fiber optics)
 Claude Chappe
 Claude Shannon
-Clock recovery
 Coaxial cable
 Code-division multiple access
 Coherence (physics)
 Communication protocol
 Communications satellite
 Computer network
-Consolidation (business)
-Consumer IR
 Continuous wave
 Copper
-Corning Glass Works
-Corning Inc.
-Cross-correlation
-Crosstalk
 DK (publisher)
 Daniel Davis Jr.
-Dark fiber
 Data communication
 Data compression
 Dawon Kahng
 Decibel
-Dense WDM
-Deutsche Telekom
-Developed world
-Digital-to-analog converter
 Digital audio
-Digital communications
 Digital media
-Digital signal processor
-Digital telephony
 Digital television
 Discrete cosine transform
-Dispersion-shifted fiber
 Dispersion (optics)
-Dispersion compensator
-Distributed-feedback laser
 Doi (identifier)
 Donald Davies
-Dopant
-Doping (semiconductors)
 Dot-com bubble
 Drums in communication
-Earth potential rise
 Edholm's law
 Edwin Howard Armstrong
-Eindhoven University of Technology
 Electrical resistance
-Electrical signal
 Electrical telegraph
-Electro-absorption modulator
-Electroluminescence
 Electromagnetic interference
 Electromagnetic pulse
 Elisha Gray
-Emerald Atlantis
 Emile Berliner
-Emmanuel Desurvire
-Erbium
-Erbium-doped fiber amplifier
 Erna Schneider Hoover
 Ethernet
-Ethernet passive optical network
-Fabry–Pérot
 Fax
-FiOS
-Fiber-optic cable
-Fiber fuse
-Fiber splice
-Fiber to the home
-Fiber to the node
-Fiber to the premises
-Fibre Channel
 FidoNet
-Forward error correction
 Francis Blake (inventor)
 Free-space optical communication
 Frequency-division multiplexing
-Frequency response
-Fujikura
-Full Service Access Network
-Fusion splicing
-G.652
-GBIC
-GBd
-GaAs
-Gallium arsenide
-Gardiner Greene Hubbard
-General Telephone and Electronics
-George Hockham
 Gigabit Ethernet
-Gigabit PON
-Gordon Gould
 Guglielmo Marconi
-HIPPI
-Halifax Chronicle Herald
-Harold Hopkins (physicist)
-Hedy Lamarr
 Heliograph
-Henry Sutton (inventor)
-Hibernia Atlantic
-History of broadcasting
-History of mobile phones
-History of prepaid mobile phones
 History of radio
-History of telecommunication
-History of television
-History of the Internet
-History of the telephone
-History of the transistor
-History of videotelephony
-Huawei
-Hybrid fiber-coaxial
-Hydraulic telegraph
 ISBN (identifier)
 ISSN (identifier)
 Image compression
-Incumbent local exchange carrier
-Indirect-learning architecture
-Indium gallium arsenide
-Indium gallium arsenide phosphide
-Information Age
-Information revolution
 Infrared
-Innocenzo Manzetti
-Integrated Services Digital Network
 Integrated circuit
-Intensity modulation
-Intermodal dispersion
 International Telecommunication Union
 International maritime signal flags
 Internet
-Internet2
-Internet Protocol
-Internet video
-JANET
-Jagadish Chandra Bose
-Jane McIntosh
-Johann Philipp Reis
-John Bardeen
-John Logie Baird
 John Wiley & Sons
-Jun-ichi Nishizawa
-KDDI Research
-Karlsruhe Institute of Technology
-Laser communication in space
-Laser diode
-Laser pumping
-Last mile (telecommunications)
-Lee de Forest
-Li-Fi
-Light-emitting diode
-Linewidth
-List of Internet pioneers
-List of telecommunications regulatory bodies
 Local area network
-Longitudinal mode
-MHz
-MOSFET
-Mach–Zehnder interferometer
-Mach–Zehnder modulator
 Mass media
-Mechanical splice
-Metal-semiconductor-metal
 Micrometre
-Mie scattering
-Mobile telephony
-Modulated
-Modulating retro-reflector
 Modulation
-Mohamed M. Atalla
-Molecular communication
-Moore's Law
-Multi-mode fiber
-Multi-mode optical fiber
-Multimode distortion
-Multimode fibre
-Multiplexing
 NEC
-NICT
-NPL network
-Nanometer
-Narinder Singh Kapany
-Nasir Ahmed (engineer)
 Nature (journal)
-Network switch
-Network topology
-Next-generation network
 Nikola Tesla
-Nippon Telegraph and Telephone
-Node (networking)
-Nokia Bell Labs
-Nokia Networks
-Nonlinear optics
 OCLC (identifier)
-OFDM
-Offshoring
 Oliver Heaviside
-Online video platform
-Optelecom
-Optical Carrier transmission rates
-Optical Society of America
-Optical Transport Network
-Optical amplification
-Optical amplifier
-Optical band
-Optical communication
-Optical communications repeater
 Optical fiber
-Optical fiber cable
-Optical fiber connector
-Optical ground wire
-Optical modulator
-Optical networking
-Optical solitons
-Optical spectrum
-Optical telegraph
-Optical transport network
-Optical wireless communications
-Optoelectronic
-Orbital angular momentum multiplexing
-Outline of telecommunication
-PIN diode
 PMC (identifier)
 PMID (identifier)
-Packet switching
-Pager
-Parasitic oscillation
-Passive optical network
-Paul Baran
-Petabit
 Peter Chrisp
-Phase-locked loop
-Philo Farnsworth
-Photodetector
-Photodiode
-Photoelectric effect
-Photophone
-Phryctoria
-Pirelli
-Plastic optical fiber
-Polarization-division multiplexing
-Polarization-maintaining optical fiber
-Polarization mode dispersion
 Power line
-Power transmission
-Predistortion
-Public switched telephone network
-QAM
-QPSK
-Quantum well
-RAM Photonics
-Radia Perlman
 Radio network
 Radio wave
-Radiotelephone
-Rayleigh scattering
-Receiver (radio)
-Refractive index
-Reginald Fessenden
-Robert Hooke
 Robert Metcalfe
-Roberto Landell de Moura
 S2CID (identifier)
-Samuel Morse
-Semaphore
-Semiconductor
 Semiconductor device
-Semiconductor lasers
-Signal lamp
-Signal regeneration
-Silica
-Single-mode fiber
-Single-mode optical fiber
-Single mode fibre
-Smart grid
 Smartphone
-Smithsonian
-Smoke signal
 Social media
-Soliton (optics)
-Space-division multiple access
-Spectral efficiency
-Spectrometer
-Spontaneous emission
-Standard Telecommunication Laboratories
-Static induction transistor
-Stealth Communications
-Stimulated emission
-Store and forward
 Streaming media
-Streaming television
-Submarine communications cable
-Sumitomo Electric
-Synchronous Digital Hierarchy
-Synchronous Optical Networking
-TAT-8
-TOSLINK
-Tb/s
-Technical University of Denmark
-Technical University of Munich
-Telautograph
-Telecommunication circuit
 Telecommunications
-Telecommunications equipment
-Telecommunications link
-Telecommunications network
-Telegraphy
 Telephone
-Telephone exchange
-Teleprinter
 Television broadcasting
 Telex
-Terabit
-Terabit per second
-Terminal (telecommunication)
-The Telephone Cases
-Thomas A. Watson
 Thomas Edison
-Tim Berners-Lee
-Time-division multiplexing
-Timing skew
-Tivadar Puskás
-Toasternet
-Tohoku University
-Total internal reflection
-Transatlantic communications cable
-Transatlantic telephone cable
-Transceiver
-Transimpedance amplifier
-Transmission (telecommunications)
 Transmission line
-Transmission medium
 Transmitter
-Transverse mode
 Turin
-U-verse
-UUCP
-University of Central Florida
-University of Southampton
 Usenet
-Verizon Communications
-Verizon FiOS
-Vertical-cavity surface-emitting laser
-Video coding format
-Video on demand
-Vint Cerf
-Visible light
-Visible light communication
-Vladimir K. Zworykin
-Volta Laboratory
-Volterra series
-Walter Houser Brattain
 Washington, D.C.
-Wavelength-division multiplexing
-Whistled language
 Wide area network
-Wiener series
 Wireless
 Wireless network
-Wireless revolution
-Yogen Dalal

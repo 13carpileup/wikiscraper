@@ -1,25 +1,16 @@
-A.out
-ALGOL
 ANSI C
 API
-ARM architecture
-Ada (programming language)
 Alef (programming language)
-Andrew Tanenbaum
 Anjuta
 Apple Pascal
 BASIC
-BSD licenses
 Bionic (software)
-Borland Kylix
-Borland Turbo C
 Bytecode
 C++
 C11 (C standard revision)
 C17 (C standard revision)
 C23 (C standard revision)
 C99
-CLion
 C (programming language)
 C POSIX library
 C Sharp (programming language)
@@ -27,143 +18,59 @@ C character classification
 C data types
 C date and time functions
 C dynamic memory allocation
-C file input/output
 C mathematical functions
 C preprocessor
 C standard library
 C string handling
 C syntax
-Ceriel Jacobs
 Clang
-Clascal
 CodeLite
 Comparison of Pascal and C
-Comparison of Pascal and Delphi
-Comparison of programming languages
-Compatibility of C and C++
 Compiler
-Component Library for Cross Platform
-Component Pascal
-Concurrent Pascal
 D (programming language)
-David Given
-Delphi (software)
 Dennis Ritchie
 Dietlibc
 Doi (identifier)
 Eclipse (software)
 Embedded C
-Embedded GLIBC
-Executable
-FireMonkey
-Free Component Library
-Free Pascal
-Free Pascal Runtime Library
-Free and open-source software
 GNOME Builder
 GNU Compiler Collection
-GNU Pascal
 Geany
-Generic programming
 GitHub
 Glibc
 Go (programming language)
 Hdl (identifier)
-History of Delphi (software)
-Hybris (software)
-I386
-IP Pascal
 ISBN (identifier)
 Include directive
 Integrated development environment
-Intel 8080
-Intel 8086
-Intel C++ Compiler
-Intermediate language
-JRT Pascal
-Joyce (programming language)
 KDevelop
 Klibc
 LCC (compiler)
-Lazarus (software)
-Lazarus Component Library
 Limbo (programming language)
-List of C compilers
-MINIX
 MISRA C
-MOS Technology 6502
-Machine code
-Microcomputer
-Microsoft Pascal
 Microsoft Visual C++
 Microsoft Visual Studio Express
 Microsoft Windows library files
-Minix
-Modula-2
-Modula-3
-Motorola 6800
-Motorola 68000
-Motorola 68020
-Motorola 68040
-Motorola 6809
 Musl
-NS320xx
 NetBSD
 NetBeans
 Newlib
-Niklaus Wirth
 Norcroft C compiler
-Oberon-2
-Oberon (programming language)
-Object Pascal
-Object Windows Library
-Object file
 Objective-C
-Occam (programming language)
-OpenWire (library)
 Operating system
-Operators in C and C++
-Oxygene (programming language)
-PDP-11
-Pascal/MT+
-PascalABC.NET
 Pascal (programming language)
-Pascal MicroEngine
-Pascal Script
-Pic Micro Pascal
 Portable C Compiler
-Portable C compiler
 Programmer
 Programming language
-Repository (version control)
-Retargetable compiler
-Retargeting
 S2CID (identifier)
 SPARC
-Signetics 2650
 Small Device C Compiler
 Software categories
 Software license
 Software release life cycle
 Stdarg.h
-Subroutine
-SuperPascal
 Tiny C Compiler
-Toolchain
-Turbo51
-Turbo Pascal
-Turbo Vision
-UCSD Pascal
 UClibc
-Unix-like
-User space
-VAX 4000
 Vala (programming language)
-VideoCore
-Virtual Pascal
-Visual Component Library
 Visual Studio
-Watcom C/C++
-Western Design Center
 Zilog Z80
-Zilog Z8000

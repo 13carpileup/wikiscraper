@@ -15,7 +15,6 @@
 1860 Democratic National Conventions
 1860 Republican National Convention
 1864 Democratic National Convention
-1864 Republican National Convention
 1868 Democratic National Convention
 1868 Republican National Convention
 1872 Democratic National Convention
@@ -30,7 +29,6 @@
 1884 Greenback National Convention
 1884 Republican National Convention
 1888 Democratic National Convention
-1888 Greenback National Convention
 1888 Republican National Convention
 1892 Democratic National Convention
 1892 Republican National Convention
@@ -54,12 +52,10 @@
 1916 Republican Party presidential primaries
 1920 Democratic National Convention
 1920 Democratic Party presidential primaries
-1920 Progressive National Convention
 1920 Republican National Convention
 1920 Republican Party presidential primaries
 1924 Democratic National Convention
 1924 Democratic Party presidential primaries
-1924 Progressive National Convention
 1924 Republican National Convention
 1924 Republican Party presidential primaries
 1928 Democratic National Convention
@@ -79,151 +75,10 @@
 1940 Republican National Convention
 1940 Republican Party presidential primaries
 1940 United States presidential election
-1942 United States elections
-1944 Arizona gubernatorial election
-1944 Arkansas gubernatorial election
-1944 Colorado's 1st congressional district special election
-1944 Colorado gubernatorial election
-1944 Connecticut gubernatorial election
-1944 Delaware gubernatorial election
 1944 Democratic National Convention
-1944 Florida gubernatorial election
-1944 Idaho gubernatorial election
-1944 Illinois's 19th congressional district special election
-1944 Illinois gubernatorial election
-1944 Indiana gubernatorial election
-1944 Iowa Senate election
-1944 Iowa gubernatorial election
-1944 Kansas gubernatorial election
-1944 Louisiana gubernatorial election
-1944 Maine gubernatorial election
-1944 Massachusetts gubernatorial election
-1944 Michigan gubernatorial election
-1944 Minnesota gubernatorial election
-1944 Minnesota lieutenant gubernatorial election
-1944 Missouri gubernatorial election
-1944 Missouri lieutenant gubernatorial election
-1944 Montana gubernatorial election
-1944 Nebraska gubernatorial election
-1944 Nebraska lieutenant gubernatorial election
-1944 New Hampshire gubernatorial election
-1944 New Mexico gubernatorial election
-1944 New York's 11th congressional district special election
-1944 New York's 21st congressional district special election
-1944 New York's 4th congressional district special election
-1944 North Carolina gubernatorial election
-1944 North Carolina lieutenant gubernatorial election
-1944 North Dakota gubernatorial election
-1944 Ohio gubernatorial election
-1944 Oklahoma's 2nd congressional district special election
-1944 Pennsylvania's 17th congressional district special election
-1944 Pennsylvania's 2nd congressional district special election
 1944 Republican National Convention
 1944 Republican Party presidential primaries
-1944 Rhode Island gubernatorial election
-1944 South Carolina's 2nd congressional district special election
-1944 South Dakota gubernatorial election
-1944 Tennessee gubernatorial election
-1944 Texas gubernatorial election
-1944 United States House of Representatives election in Alaska Territory
-1944 United States House of Representatives election in Arizona
-1944 United States House of Representatives election in Delaware
-1944 United States House of Representatives election in Hawaii Territory
-1944 United States House of Representatives election in Nevada
-1944 United States House of Representatives election in New Mexico
-1944 United States House of Representatives election in North Dakota
-1944 United States House of Representatives election in Puerto Rico
-1944 United States House of Representatives election in Vermont
-1944 United States House of Representatives election in Wyoming
-1944 United States House of Representatives elections
-1944 United States House of Representatives elections in Alabama
-1944 United States House of Representatives elections in Arkansas
-1944 United States House of Representatives elections in California
-1944 United States House of Representatives elections in Colorado
-1944 United States House of Representatives elections in Connecticut
-1944 United States House of Representatives elections in Florida
-1944 United States House of Representatives elections in Georgia
-1944 United States House of Representatives elections in Idaho
-1944 United States House of Representatives elections in Illinois
-1944 United States House of Representatives elections in Indiana
-1944 United States House of Representatives elections in Iowa
-1944 United States House of Representatives elections in Kansas
-1944 United States House of Representatives elections in Kentucky
-1944 United States House of Representatives elections in Louisiana
-1944 United States House of Representatives elections in Maine
-1944 United States House of Representatives elections in Maryland
-1944 United States House of Representatives elections in Massachusetts
-1944 United States House of Representatives elections in Michigan
-1944 United States House of Representatives elections in Minnesota
-1944 United States House of Representatives elections in Mississippi
-1944 United States House of Representatives elections in Missouri
-1944 United States House of Representatives elections in Montana
-1944 United States House of Representatives elections in Nebraska
-1944 United States House of Representatives elections in New Hampshire
-1944 United States House of Representatives elections in New Jersey
-1944 United States House of Representatives elections in New York
-1944 United States House of Representatives elections in North Carolina
-1944 United States House of Representatives elections in Ohio
-1944 United States House of Representatives elections in Oklahoma
-1944 United States House of Representatives elections in Oregon
-1944 United States House of Representatives elections in Pennsylvania
-1944 United States House of Representatives elections in Rhode Island
-1944 United States House of Representatives elections in South Carolina
-1944 United States House of Representatives elections in South Dakota
-1944 United States House of Representatives elections in Tennessee
-1944 United States House of Representatives elections in Texas
-1944 United States House of Representatives elections in Utah
-1944 United States House of Representatives elections in Virginia
-1944 United States House of Representatives elections in Washington
-1944 United States House of Representatives elections in West Virginia
-1944 United States House of Representatives elections in Wisconsin
-1944 United States Senate election in Alabama
-1944 United States Senate election in Arizona
-1944 United States Senate election in Arkansas
-1944 United States Senate election in California
-1944 United States Senate election in Colorado
-1944 United States Senate election in Connecticut
-1944 United States Senate election in Florida
-1944 United States Senate election in Georgia
-1944 United States Senate election in Idaho
-1944 United States Senate election in Illinois
-1944 United States Senate election in Iowa
-1944 United States Senate election in Kansas
-1944 United States Senate election in Kentucky
-1944 United States Senate election in Louisiana
-1944 United States Senate election in Maryland
-1944 United States Senate election in Missouri
-1944 United States Senate election in Nevada
-1944 United States Senate election in New Hampshire
-1944 United States Senate election in New York
-1944 United States Senate election in North Carolina
-1944 United States Senate election in North Dakota
-1944 United States Senate election in Ohio
-1944 United States Senate election in Oklahoma
-1944 United States Senate election in Oregon
-1944 United States Senate election in Pennsylvania
-1944 United States Senate election in South Carolina
-1944 United States Senate election in South Dakota
-1944 United States Senate election in Utah
-1944 United States Senate election in Vermont
-1944 United States Senate election in Washington
-1944 United States Senate election in Wisconsin
-1944 United States Senate elections
-1944 United States Senate elections in Indiana
-1944 United States Senate special election in Indiana
-1944 United States Senate special election in Massachusetts
-1944 United States Senate special election in New Jersey
-1944 United States Senate special election in Oregon
-1944 United States elections
-1944 United States gubernatorial elections
 1944 United States presidential election
-1944 Utah gubernatorial election
-1944 Vermont gubernatorial election
-1944 Virginia's 2nd congressional district special election
-1944 Washington gubernatorial election
-1944 West Virginia gubernatorial election
-1944 Wisconsin gubernatorial election
-1946 United States elections
 1948 Democratic National Convention
 1948 Democratic Party presidential primaries
 1948 Progressive National Convention
@@ -232,7 +87,6 @@
 1948 United States presidential election
 1952 Democratic National Convention
 1952 Democratic Party presidential primaries
-1952 Progressive National Convention
 1952 Republican National Convention
 1952 Republican Party presidential primaries
 1956 Democratic National Convention
@@ -355,7 +209,6 @@
 2020 Republican Party presidential debates
 2020 Republican Party presidential primaries
 2021 Democratic National Committee chairmanship election
-2024 Constitution Party presidential primaries
 2024 Democratic National Convention
 2024 Democratic Party presidential debates and forums
 2024 Democratic Party presidential primaries
@@ -368,9 +221,7 @@
 2024 Republican Party presidential debates and forums
 2024 Republican Party presidential primaries
 2025 Democratic National Committee chairmanship election
-2028 Democratic Party presidential primaries
 2028 Republican National Convention
-2028 Republican Party presidential primaries
 Abram Hewitt
 Adlai Stevenson I
 Adlai Stevenson II
@@ -382,7 +233,6 @@ Alaska Democratic Party
 Alben W. Barkley
 Allen G. Thurman
 Alton B. Parker
-America First Party (1943)
 American Samoa Democratic Party
 Andrew Jackson
 Andrew Stevenson
@@ -396,105 +246,14 @@ Barack Obama
 Benjamin F. Hallett
 Bill Clinton
 Blue Dog Coalition
-California Democratic Party
-California Democratic Party v. Jones
-Calvin S. Brice
-Carl Albert
-Caucus
-Champ Clark
-Charles A. Culberson
-Charles Frederick Crisp
-Charles Manatt
-Charles W. Bryan
-Chris Dodd
 Chuck Schumer
-Claude A. Watson
-Claude Kitchin
-Clem L. Shaver
-College Democrats of America
-Colorado Democratic Party
-Congressional Progressive Caucus
-Conservative Political Action Conference
-Cordell Hull
-Darlington Hoopes
-David Allen Smalley
-David B. Culberson
-David Turpie
-David Wilhelm
-Debbie Wasserman Schultz
-Debra DeLee
-Delaware Democratic Party
-Delaware Plan
-Delegate (American politics)
-Democratic Attorneys General Association
-Democratic Congressional Campaign Committee
-Democratic Governors Association
-Democratic Legislative Campaign Committee
-Democratic National Committee
-Democratic National Convention
-Democratic Party (Northern Mariana Islands)
-Democratic Party (Puerto Rico)
 Democratic Party (United States)
-Democratic Party (United States) organizations
-Democratic Party of Arkansas
-Democratic Party of Connecticut
-Democratic Party of Georgia
-Democratic Party of Guam
-Democratic Party of Hawaii
-Democratic Party of Illinois
-Democratic Party of New Mexico
-Democratic Party of Oregon
-Democratic Party of Virginia
-Democratic Party of Wisconsin
-Democratic Party of the Virgin Islands
 Democratic Party presidential debates
-Democratic Senatorial Campaign Committee
-Democrats Abroad
-Dick Gephardt
-District of Columbia Democratic State Committee
-Donald Fowler
 Douglas MacArthur
-Ed Rendell
-Edmund Muskie
-Edward J. Flynn
 Elections in the United States
-Ernest McFarland
-Estes Kefauver
-Everett Dirksen
-Factions in the Democratic Party (United States)
-Fifth Party System
-Finis J. Garrett
-Florida Democratic Party
-Fourth Party System
-Francis Preston Blair Jr.
-Frank C. Walker
-Frank E. McKinney
 Franklin D. Roosevelt
 Franklin Pierce
-Fred R. Harris
-Fundraising for the 2008 United States presidential election
-Fundraising for the 2012 United States presidential election
-Fundraising in the 2016 United States presidential election
-Fundraising in the 2020 United States presidential election
 Fundraising in the 2024 United States presidential election
 George B. McClellan
-George H. Pendleton
 George J. Mitchell
-George M. Dallas
-George McGovern
-George S. Houston
-George Washington Jones (Tennessee politician)
-George White (Ohio politician)
-Gerald L. K. Smith
-Geraldine Ferraro
-Gilbert Hitchcock
-Graduated Random Presidential Primary System
-Green National Convention
-Greenback Party
-Grover Cleveland
-Hakeem Jeffries
-Harold Stassen
-Harry F. Byrd
 Harry Reid
-Harry S. Truman
-Henry A. Wallace

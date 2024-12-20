@@ -1,113 +1,28 @@
-Application-Level Profile Semantics (ALPS)
-Bing (search engine)
-Breadcrumb navigation
-Collective intelligence
-Comma-separated values
 Common Logic
-Creative Commons license
-DOAP
 Database
-Dataspaces
-Description logic
-Digital humanities
 Digital library
 Dublin Core
-Embedded RDF
-FOAF
-FOAF (software)
-Facebook Platform
-Folksonomy
-GRDDL
 Geotagging
-GoodRelations
 Google
-Google Knowledge Graph
-Google Search Console
-HAtom
-HCalendar
-HCard
-HProduct
-HRecipe
-HReview
 HTML
 HTML5
-HTTP
-Hyperdata
-Hypertext
 ISO 8601
-IXBRL
-Information architecture
-Internationalized Resource Identifier
 Internet
-JSON
-JSON-LD
-Knowledge extraction
 Knowledge management
 Knowledge representation and reasoning
-Library 2.0
 Linked data
-Mailing list
 Metadata
-Microdata (HTML)
-Microformat
 Microsoft
-N-Triples
-Notation3
-Ontology
-Ontology (computer science)
-OpenCyc
-Parsers
-RDF/XML
-RDFS
-RDF Schema
 RDFa
 Reference (computer science)
-Research Resource Identifier
 Resource Description Framework
-Rule-based system
-Rule Interchange Format
 Russia
-SAWSDL
-SHACL
-SPARQL
 Search engine
 Search engine spider
-Semantic HTML
-Semantic Web
-Semantic Web Rule Language
-Semantic analytics
-Semantic broker
-Semantic computing
-Semantic mapper
-Semantic matching
-Semantic network
-Semantic publishing
-Semantic reasoner
-Semantic search
-Semantic service-oriented architecture
-Semantic triple
-Semantic wiki
-Semantically Interlinked Online Communities
 Semantics (computer science)
-Simple Knowledge Organization System
-Solid (web decentralization project)
-Structured data
 Topic map
-TriG (syntax)
-TriX (serialization format)
-Turtle (syntax)
-URI
-URL
-Uniform Resource Identifier
-Validator
 Validity (logic)
-Web 2.0
-Web Ontology Language
-Web Science Trust
-Web engineering
 World Wide Web
-World Wide Web Consortium
 XML
 Yahoo!
-Yandex
 YouTube

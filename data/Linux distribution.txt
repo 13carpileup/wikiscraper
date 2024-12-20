@@ -1,349 +1,163 @@
-/e/ (operating system)
 4MLinux
-AFUL
 ALT Linux
-Academic Free License
 AlmaLinux
 Alpine Linux
-Alternative terms for free software
 Amazon (company)
 Amazon Kindle
-Anaconda (installer)
-Anaconda installer
 Android-x86
 Android (operating system)
 Antergos
 AntiX
 Apache License
 Apple Inc.
-Apple Macintosh
-Apple Public Source License
-Application binary interface
 Application security
 ArchBang
 ArchLabs
 Arch Linux
-Artistic License
 Artix Linux
 Asahi Linux
 Astra Linux
 Asturix
 Austrumi Linux
-Azure Sphere
 BLAG Linux and GNU
-BSD licenses
 BackBox
 BackTrack
-Beerware
 Bharat Operating System Solutions
-Binary blob
 BioSLAX
 BlackArch
 Black Lab Linux
 BlankOn Linux
 Bodhi Linux
-Booting process of Linux
-Budgie (desktop environment)
 CHAOS (operating system)
-CPU Architecture
 CRUX
 Calculate Linux
 Caldera OpenLinux
 CalyxOS
-Canonical Ltd.
 CentOS
 CentOS Stream
 Chakra (operating system)
 Chimera Linux
-Chris DiBona
 ChromeOS
-Chromebook
-Chromebox
 ChromiumOS
-Cinnamon (user interface)
 Classic Mac OS
 ClearOS
 Clear Linux OS
 ColorOS
 Commodore OS
-Common Development and Distribution License
-Community of practice
-CompTIA Linux+
 Comparison of Linux distributions
-Comparison of free and open-source software licenses
-Comparison of free software for audio
-Comparison of netbook-oriented Linux distributions
-Comparison of open-source and closed-source software
-Comparison of open-source configuration management software
-Comparison of open-source operating systems
-Comparison of open-source wireless drivers
-Comparison of shopping cart software
-Comparison of source-code-hosting facilities
 Computer cluster
 Computer security
 Container Linux
-Contributor License Agreement
-Cooperative Linux
-Copyleft
 Corel Linux
 CrDroid
-Creative Commons license
-Criticism of Linux
-Criticism of desktop Linux
-Cross-compilation
-CrossOver
 CrunchBang Linux
 Cub Linux
 CyanogenMod
-Cyanogenmod
-DGCCRF
 DOS
 Damn Small Linux
 Damn Vulnerable Linux
 Debian
-Debian-Installer
-Debian Free Software Guidelines
 Deepin
-Definition of Free Cultural Works
 Dell
 DemoLinux
-Dependency (computer science)
-Desktop Linux adoption
-Desktop computer
-Desktop environment
-Development branch
 Device driver
 Devuan
-Digital forensics
 Digital rights management
 DirectX
 Disk partitioning
 Distribution (marketing)
-DistroWatch
 DivestOS
 DoudouLinux
 Download
 Dreamlinux
-Dual-boot
 EMUI
-Eclipse Public License
 Edubuntu
 Elementary OS
 Elive
-Embedded device
 Embedded systems
 Emmabuntüs
-Emulator
 EndeavourOS
 Endless OS
 EulerOS
-Executable
 Familiar Linux
 Feather Linux
-Fedora (operating system)
 Fedora Linux
-Fedora Media Writer
-File archiver
-Filesystem Hierarchy Standard
 Fire OS
 Firefox OS
-Firmware
-Fixstars Solutions
 Floppy disk
 Floppyfw
 Foresight Linux
 Fork (software development)
-Free-software license
-FreeBSD Ports
-Free Software Foundation
-Free Software Magazine
-Free Software Movement of India
-Free Standards Group
-Free and open-source graphics device driver
-Free and open-source software
-Free license
-Free of charge
 Free software
-Free software movement
 FreedomBox
 Freespire
 Frugalware Linux
-Full Circle (magazine)
-GNOME
-GNOME 2
 GNU
-GNU/Linux naming controversy
-GNU Affero General Public License
 GNU General Public License
 GNU Guix System
-GNU Lesser General Public License
-GNU Manifesto
-GNU project
 GNewSense
 GOS (operating system)
 Garuda Linux
 GeckoLinux
 Gentoo Linux
-Getty (Unix)
 Glibc
 GoboLinux
 Gobuntu
 Google Play
-Google Workspace
 GrapheneOS
-Gratis versus libre
-Guesstimate
-HJ Lu
-Hacker Public Radio
 HandyLinux
 Hard disk drive
-Hewlett-Packard
-History of Linux
-History of free and open-source software
-Home theater PC
-Hyperbola GNU/Linux-libre
 IBM PC compatible
 ISBN (identifier)
-ISC license
-Ian Murdock
 Immunix
-Init
-Installed base
-Instruction set
-Internationalization and localization
-Internet Protocol
-Internet of things
 IodéOS
 Jurix
-KDE
-KDE Plasma
 KDE neon
-KWin
 KaOS
 KaiOS
 Kaisen Linux
 Kali Linux
 Kanotix
-Karoshi (operating system)
 KateOS
 Kernel (operating system)
-KnoppMyth
 Knoppix
-Kodi (software)
 Kongoni (operating system)
 Korora (operating system)
 Kubuntu
 Kwort Linux
-LWN.net
 LXLE Linux
-LXQT
 Laptop
-Lenovo
 Libranet
 Library (computing)
-License proliferation
-Light-weight Linux distribution
-Lightweight Linux distribution
 LinHES
 LineageOS
 Linpus Linux
-Linus's law
-Linus Torvalds
 Linux
-Linux-libre
-Linux.com
-LinuxChix
 LinuxTLE
-LinuxUser
 Linux Caixa Mágica
-Linux Counter
-Linux Documentation Project
-Linux Format
-Linux Foundation
-Linux Foundation Linux Certification
-Linux From Scratch
-Linux Gazette
-Linux Journal
 Linux Lite
-Linux Magazine
-Linux Mark Institute
 Linux Mint
-Linux Outlaws
 Linux Router Project
 Linux Standard Base
-Linux Voice
-Linux adoption
-Linux desktop environments
 Linux for PlayStation 2
-Linux for mobile devices
-Linux gaming
 Linux kernel
-Linux kernel oops
-Linux malware
-Linux on embedded systems
-Linux package formats
-Linux range of use
-Linux user group
-List of Linux adopters
 List of Linux distributions
-List of Linux distributions that run from RAM
-List of commercial open-source applications and services
-List of computer security certifications
-List of formerly free and open-source software
-List of formerly proprietary software
-List of free-software events
-List of free and open-source Android applications
-List of free and open-source iOS applications
-List of free and open-source software organizations
-List of free and open-source software packages
-List of free and open-source web applications
-List of free software project directories
-List of free television software
-List of office suites
-List of open-source bioinformatics software
-List of open-source codecs
-List of open-source health software
-List of open-source routing platforms
-List of open-source software for mathematics
-List of open-source video games
-List of software package management systems
-Live CD
-Live USB
-Long-term support
 Lubuntu
-LugRadio
-MATE (desktop environment)
-MATE (software)
 MCC Interim Linux
-MEPIS
-MIT License
 MIUI
 MX Linux
 MacOS
-Mac (computer)
 Mageia
 Mandrake Linux
 Mandriva Linux
 Manjaro
-Manjaro Linux
 MeeGo
-Memory management unit
 Mer (software distribution)
-Mesa (computer graphics)
 Microcontroller
-Microsoft Open Specification Promise
 Microsoft Windows
 Miracle Linux
 Mobile device
 Mobilinux
-Mozilla Public License
-Mozilla software rebranded by Debian
-Music production
-Musix GNU+Linux
-Mutter (software)
-Mythbuntu
-NSLU2
-Netbook
 Network Security Toolkit
 NimbleX
 Nintendo Switch
@@ -353,123 +167,67 @@ Nobara Linux
 Nova (operating system)
 OmniROM
 One UI
-Open-core model
-Open-source-software movement
-Open-source hardware
-Open-source license
 Open-source software
-Open-source software advocacy
-Open-source software development
-Open-source software security
 OpenELEC
 OpenMandriva Lx
-OpenRC
 OpenSUSE
-OpenWrt
 Open Enterprise Server
 Operating system
 Optical disc
 Oracle Linux
-Orange County, California
 Original equipment manufacturer
-Outline of free software
 PCLinuxOS
-PKGBUILD
-Package format
-Package management system
 Package manager
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
-Parrot Security OS
 Parsix
 Patch (computing)
-Patrick Volkerding
-Penetration testing
 Pentoo
 Peppermint OS
-Permissive software license
 Personal computer
-Phoronix Test Suite
-Pine64
 Pinguy OS
-PipeWire
 PixelExperience
 Platypux
 PlayStation
 PlayStation 3
 Pop! OS
-Portable Network Graphics
 Porteus (operating system)
-Power user
-Proprietary device driver
-Proprietary firmware
 Proprietary software
 Public domain
-PulseAudio
 Puppy Linux
 PureOS
-Purism (company)
-Python License
-Python Software Foundation License
 Q4OS
 Qubes OS
 ROSA Linux
-Racket (crime)
 Raspberry Pi
 Raspberry Pi OS
 Red Hat
-Red Hat Certification Program
 Red Hat Enterprise Linux
 Red Hat Linux
 Red Star OS
 Remix OS
 Replicant (operating system)
 Resurrection Remix OS
-Revision control
-Revolution OS
-Roberto Di Cosmo
 Rocks Cluster Distribution
 Rocky Linux
-Rolling release
-Runit
-SCO–Linux disputes
 SPARC
 SUSE Linux
 SUSE Linux Enterprise
-SUSE S.A.
 SUSE Studio
 Sabayon Linux
 Sabily
 Sailfish OS
 Salix OS
 Scientific Linux
-Scientific computing
-Security-focused operating system
-Security bug
-Self-hosting (compilers)
 Server (computing)
-Shared Source Initiative
 Slackware
 Slax
-Sleepycat License
-SliTaz GNU/Linux
-Slitaz
 Softlanding Linux System
 Software bug
-Software build
-Software development methodologies
 Software development process
-Software patents and free software
-Software release
-Software release cycle
 Software repository
-Software security
-Solaris (operating system)
 Solus (operating system)
 SolydXK
-Sound server
-Source-available software
 Source Mage
 Source code
 SparkyLinux
@@ -478,95 +236,48 @@ SteamOS
 Steam (service)
 Sun Microsystems
 Sunwah Linux
-SuperGamer
-Supercomputer
-Sway (window manager)
-System76
 SystemRescue
-Systemd
 T2 SDE
-Tablet computer
 Tails (operating system)
-Tanenbaum–Torvalds debate
-The Cathedral and the Bazaar
-The Code (2001 film)
-The Free Software Definition
-The Open Source Definition
-The Register
 Think Blue Linux
-TiVo
-Timeline of free and open-source software
 Tiny Core Linux
-Tivoization
 Tizen
 TopologiLinux
 Trisquel
-Trusted Computing
 Turbolinux
 Turkix
-Tux (mascot)
-UNetbootin
 USB flash drive
-USB memory stick
-Ubiquity (software)
 Ubuntu
-Ubuntu (operating system)
 Ubuntu Budgie
 Ubuntu Cinnamon
 Ubuntu GNOME
 Ubuntu Kylin
 Ubuntu MATE
-Ubuntu Professional Certification
 Ubuntu Studio
 Ubuntu Touch
 Ubuntu Unity
-Ubuntu User
 Ultramarine Linux
 United States
 Unity Operating System
-Unix
-Unlicense
-Upstream (software development)
-Uruk GNU/Linux
 Usability
-User Agent
 User experience
-VMware
-VMware Workstation
 VectorLinux
 Video game console
 Vine Linux
-VirtualBox
 Virtual machine
 Void Linux
 Vulnerability (computing)
-WTFPL
 Wayback Machine
-Wayland (display server protocol)
 Web browser
-Web traffic
 Website
 Whonix
 Wii
-Wikimedia Foundation
-Win32
-Win32-loader (Debian)
-WinLinux
-Windowing system
-Windows key
 Wine (software)
-Wubi (installer)
 Wubuntu
-X.org Server
 XB Machine
-XFCE
 Xbox
-Xfce
 Xubuntu
 Yellow Dog Linux
-Yggdrasil Linux/GNU/X
 ZDNet
 Zenwalk
-Zlib License
 Zorin OS
-ΜClinux

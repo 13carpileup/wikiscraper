@@ -1,37 +1,18 @@
-.NET
 AAA (video game industry)
-AArch64
-AIX
 ANSI C
-Actor model
 Alef (programming language)
-Amd64
 Amsterdam Compiler Kit
-Andrei Alexandrescu
 Android (operating system)
 Anjuta
 Anonymous function
-Anonymous functions
-Apple Safari
-Application binary interface
-Array data type
-Array slicing
 Assembly language
 BASIC
 Bionic (software)
-Boost Software License
-Borland Turbo C
-Breaking changes
 C++
-C++11
-C++14
-C++17
-C++20
 C11 (C standard revision)
 C17 (C standard revision)
 C23 (C standard revision)
 C99
-CLion
 C (programming language)
 C POSIX library
 C Sharp (programming language)
@@ -39,213 +20,96 @@ C character classification
 C data types
 C date and time functions
 C dynamic memory allocation
-C file input/output
 C mathematical functions
 C preprocessor
 C standard library
 C string handling
 C syntax
-Callback (computer programming)
 Central processing unit
 Clang
-Class (computer programming)
-Class invariant
-Closure (computer programming)
-Closure (computer science)
 CodeLite
-Code completion
 Common Intermediate Language
 Common Language Infrastructure
 Comparison of Pascal and C
-Compatibility of C and C++
-Compile-time function execution
 Compiler
-Component Object Model
 Computer hardware
-Computer performance
-Concurrent programming language
-Const-correctness
-Covariance and contravariance (computer science)
-Currying
 DEC Alpha
-D Language Foundation
-Ddoc
 Dennis Ritchie
 Design by contract
 Device driver
 Dietlibc
-Digital Mars
 Directive (programming)
 Domain-specific language
-Dynamic dispatch
 EBay
-ESA/390
 Eclipse (software)
 Eiffel (programming language)
-Emacs
 Embedded C
-Embedded GLIBC
 Facebook
-Factorial
 Filename extension
-Filter (higher-order function)
-First-class citizen
-Fluent interface
-Fold (higher-order function)
-Foreach
-Forward declaration
 FreeBSD
-Free content
-Function (computer programming)
-Function overloading
-Functional programming
 GNOME Builder
 GNU Compiler Collection
-GNU Debugger
 Garbage collection (computer science)
 Geany
 GitHub
-Github.com
 Glibc
 Go (programming language)
-Google Chrome
 Graphical user interface
 Graphics processing unit
-Hacker News
-Heap (data structure)
-High-level programming language
-Higher-order function
-Hybris (software)
-IA-32
 ISBN (identifier)
 Imperative programming
 Include directive
-Inferred typing
-Inheritance (object-oriented programming)
-Inline assembler
 Integrated development environment
-Intel C++ Compiler
-Intelligent code completion
-Interface (Java)
-Interface (computer science)
 Java (programming language)
 KDevelop
 Kernel (operating system)
 Klibc
 LCC (compiler)
-LLVM
-Language binding
-Lazarus Group
-Lazy evaluation
-Library (computer science)
 Limbo (programming language)
 Linux
-List of C compilers
-Local variable
-Log4Shell
-Low-level programming language
-Lua (programming language)
-M68k
-MIPS64
 MISRA C
 MacOS
 Mac OS X
-Machine code
-Malloc
 Malware
-Map (higher-order function)
-Memory safety
 Metaprogramming
-Microsoft Edge
 Microsoft Visual C++
 Microsoft Visual Studio Express
 Microsoft Windows
 Microsoft Windows library files
-Mixin
-MonoDevelop
-Mozilla Firefox
-Multi-paradigm programming language
-Multiple inheritance
 Musl
-Nested function
 NetBSD
 NetBeans
 Netflix
 Newlib
 Norcroft C compiler
-NortonLifeLock
 Numerical analysis
 Object-oriented programming
-Object Pascal
 Objective-C
 Open-source software
-Open Source Definition
 Operating system
-Operator overloading
-Operators in C and C++
-Passenger information system
-Pipeline (Unix)
 Portable C Compiler
-PowerPC
 Printf
 Programming language
-Programming language implementation
 Programming paradigm
 Pure function
 Python (programming language)
-Qore (programming language)
-Refactoring
-Reference implementation
-Reference type
-Reflective programming
 Ruby (programming language)
-Runtime library
-Rust (programming language)
 SPARC
-SciTE
-SlickEdit
 Small Device C Compiler
-Smultron
 Software design
 Software developer
 Software license
 Software release life cycle
-Software relicensing
-Solaris (operating system)
-Source-code compatibility
-Source available
-Stack frame
-Standard library
-Static typing
 Stdarg.h
-Strong typing
-Subroutine
-Swift (programming language)
-Syntax
-Syntax highlighting
-System programming language
-TextMate
 Tiny C Compiler
-Tuple
-Type inference
-Type introspection
-Type system
 UClibc
 UTF-32
 UTF-8
-Union type
 Vala (programming language)
 Variable (computer science)
-Vim (text editor)
 Virtual machine
 Visual Studio
-Visual Studio Code
-Walter Bright
-Watcom C/C++
 Wayback Machine
 WebAssembly
-Web development
-WinDbg
 Windows
-Xcode 3
 YouTube

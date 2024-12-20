@@ -1,11 +1,7 @@
-/e/ (operating system)
 32-bit
 4MLinux
 64-bit computing
 ALT Linux
-AMD
-APT (software)
-Advanced Packaging Tool
 AlmaLinux
 Alpine Linux
 Android-x86
@@ -19,19 +15,15 @@ Artix Linux
 Asahi Linux
 Astra Linux
 Asturix
-Auditor Security Collection
-Aufs
 Austrumi Linux
 BLAG Linux and GNU
 BackBox
 BackTrack
-Backronym
 Bharat Operating System Solutions
 BioSLAX
 BlackArch
 Black Lab Linux
 BlankOn Linux
-Blindness
 Bodhi Linux
 Brazilian Portuguese
 CD
@@ -40,7 +32,6 @@ CRUX
 Calculate Linux
 Caldera OpenLinux
 CalyxOS
-CeBIT
 CentOS
 CentOS Stream
 Chakra (operating system)
@@ -49,7 +40,6 @@ ChromeOS
 ChromiumOS
 ClearOS
 Clear Linux OS
-ClusterKnoppix
 ColorOS
 Commodore OS
 Comparison of Linux distributions
@@ -66,19 +56,12 @@ Damn Small Linux
 Damn Vulnerable Linux
 Data compression
 Debian
-Debian Live
 Deepin
 DemoLinux
-Desktop environment
 Devuan
-Digital forensics
-Dirk Eddelbuettel
-DistroWatch
 DivestOS
 DoudouLinux
-Dpkg
 Dreamlinux
-Dual boot
 EMUI
 Edubuntu
 Elementary OS
@@ -95,14 +78,10 @@ Fire OS
 Firefox OS
 Floppyfw
 Foresight Linux
-Free and open source software
 Free software
 FreedomBox
 Freespire
 Frugalware Linux
-GIMP
-GNOME
-GNU C Library
 GNU Core Utilities
 GNU Guix System
 GNewSense
@@ -112,49 +91,35 @@ Garuda Linux
 GeckoLinux
 Gentoo Linux
 German language
-Gigabyte
 GoboLinux
 Gobuntu
 GrapheneOS
 HandyLinux
-Hentzenwerke
-Hyperbola GNU/Linux-libre
 ISBN (identifier)
 Immunix
-Integrated Services Digital Network
 Intel
-Internet access
 IodéOS
 John Wiley & Sons
 Jurix
-KDE
-KDE 3
 KDE neon
 KaOS
-Kaella
 KaiOS
 Kaisen Linux
 Kali Linux
 Kanotix
 KateOS
 Kernel (operating system)
-Klaus Knopper
-KnoppMyth
-KnoppiXMAME
 Kongoni (operating system)
 Korora (operating system)
 Kubuntu
 Kwort Linux
-LXDE
 LXLE Linux
 Libranet
-LibreOffice
 LinHES
 LineageOS
 Linpus Linux
 Linux
 LinuxTLE
-LinuxTag
 Linux Caixa Mágica
 Linux Lite
 Linux Mint
@@ -163,31 +128,20 @@ Linux distribution
 Linux for PlayStation 2
 Linux kernel
 List of Linux distributions
-Live CD
-Live USB
-Long-term support
 Lubuntu
 MCC Interim Linux
 MIUI
 MP3
-MPlayer
 MX Linux
 Mageia
 Mandrake Linux
 Mandriva Linux
 Manjaro
 MeeGo
-Megabyte
 Mer (software distribution)
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Mount point
-Mozilla Firefox
-Mozilla Thunderbird
-Musix GNU+Linux
-MythTV
-National Institute of Advanced Industrial Science and Technology
 Natural language
 Network Security Toolkit
 NimbleX
@@ -195,29 +149,20 @@ Nitix
 NixOS
 Nobara Linux
 Nova (operating system)
-O'Reilly Media
-Office suite
-Ogg Vorbis
 OmniROM
-On the fly
 One UI
 Open-source software
 OpenELEC
 OpenMandriva Lx
-OpenMosix
 OpenSUSE
 Open Enterprise Server
 Operating system
 Oracle Linux
 PCLinuxOS
-PS/2 port
 Package manager
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
-PelicanHPC
-Penetration test
 Pentoo
 Peppermint OS
 Phoneme
@@ -226,19 +171,13 @@ PixelExperience
 Platypux
 Pop! OS
 Porteus (operating system)
-Poseidon Linux
 Programmer
 Proprietary software
 Puppy Linux
 PureOS
 Q4OS
-Quantian
 Qubes OS
-RAM drive
-RCIS
 ROSA Linux
-Ramdisk
-Random-access memory
 Raspberry Pi OS
 Red Hat Enterprise Linux
 Red Hat Linux
@@ -257,8 +196,6 @@ Sabily
 Sailfish OS
 Salix OS
 Scientific Linux
-Scott Granneman
-Screen reader
 Slackware
 Slax
 Softlanding Linux System
@@ -272,23 +209,16 @@ Splashtop OS
 SteamOS
 Sunwah Linux
 SystemRescue
-Systemd
 T2 SDE
 Tails (operating system)
-TechUSB
-Terminal server
 Think Blue Linux
 Tiny Core Linux
 Tizen
 TopologiLinux
-Transparency (human-computer interaction)
 Trisquel
 Turbolinux
 Turkix
-Twm
-UEFI
 USB flash drive
-USENIX
 Ubuntu
 Ubuntu Budgie
 Ubuntu Cinnamon
@@ -299,26 +229,17 @@ Ubuntu Studio
 Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
-UnionFS
-Union mount
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 User interface
 User space and kernel space
 VectorLinux
 Vine Linux
-Visual impairment
 Void Linux
-WHAX
 Wayback Machine
 Whonix
 Wubuntu
-WvDial
-X11
 XB Machine
 Xubuntu
 Yellow Dog Linux
-Yggdrasil Linux/GNU/X
 Zenwalk
 Zorin OS

@@ -1,448 +1,67 @@
-123Movies
-1337x
 API
 AT&T
-AXXo
-Abiquo Enterprise Edition
-Academic Torrents
-Alias (TV Show)
-Alibaba Cloud
 Amazon S3
 Amazon Web Services
-Anonymous P2P
-Anti-Counterfeiting Trade Agreement
-Apache CloudStack
-AppScale
 ArXiv (identifier)
-Ashwin Navin
-Audiogalaxy
-BOINC
-BTDigg
-BTJunkie
-Babyshambles
-Backend as a service
-Backup
 Bandwidth (computing)
 Battle.net
-Bencode
-BitComet
-BitLord
-BitTorrent (company)
-BitTorrent (software)
-BitTorrent Open Source License
-BitTorrent index
-BitTorrent protocol encryption
-BitTorrent tracker
 Blizzard Entertainment
 Boing Boing
-Box (company)
-Bram Cohen
-Brave (web browser)
-Broadcast flag
 Broadcatching
 Browser extension
-Butter Project
-Byte serving
 CCP Games
 CRC Press
-Cache Discovery Protocol
-Canada's Next Great Prime Minister
 Canadian Broadcasting Corporation
-Chris Pirillo
-Citrix Cloud
-Clearnet (networking)
 Client (computing)
-Cloud-based integration
-Cloud-native computing
-CloudBolt
-Cloud Foundry
 Cloud computing
-Cloud computing security
-Cloud database
-Cloud storage
-Cloud storage gateway
-Cocaine (PaaS)
-Colocation centre
-Combined Online Information System
 Comcast
 Communication protocol
 Communications protocol
-Comparison of ADC Software
-Comparison of BitTorrent clients
-Comparison of BitTorrent sites
-Comparison of BitTorrent tracker software
-Comparison of Direct Connect software
-Comparison of Internet Relay Chat clients
-Comparison of Usenet newsreaders
-Comparison of eDonkey software
-Comparison of structured storage software
 Computer network
-Content as a service
 Cornell University
-Creative Commons
-Cryptographic hash
-Cryptographic hash function
 Cryptography
-CuteMX
-DC++
-Dailymotion
-Darknet
-Darknet (networking)
-Darkweb
-Dat (software)
-Data as a service
 Data center
-Decentralised system
-Deft (company)
-Deluge (BitTorrent client)
-Deluge (software)
-Demonoid
 Denial-of-service attack
-Desktop as a service
-Dew computing
 Diablo III
-DigitalOcean
 Digital audio
 Digital rights management
-Digital video
-Direct Connect (file sharing)
-Direct Connect (protocol)
-Discipline Global Mobile
 Distributed computing
-Distributed file system for cloud
-Distributed hash table
 Doi (identifier)
-Downstream (networking)
-Dropbox
-EDonkey network
-EMC Atmos
-EMule
-EXeem
-EZTV
-Ed2k URI scheme
-Engine Yard
-Eric Klinker
-Etree
-Eucalyptus (software)
 Eve Online
-ExtraTorrent
-FTP
-FUJITSU Cloud IaaS Trusted Public S5
-FastTrack
-File Transfer Protocol
-File hosting service
-File sharing
-File sharing in Canada
-File sharing in Japan
-File sharing in Singapore
-File sharing in the United Kingdom
-Filetopia
-FitGirl Repacks
-FlashGet
-Flooding algorithm
-Florida State University
-Fopnu
-Free Download Manager
 Free software
-Freenet
-Friend-to-friend
-FrostWire
-Frostwire
-Function as a service
-GNUnet
-GetRight
-GiFT
-Glossary of BitTorrent terms
-Gnutella
-Gnutella2
-Go!Zilla
 Google
-Google App Engine
-Google Cloud Platform
-Google Drive
-Google Workspace
-Gossip protocol
-GreenButton
-GreenQloud
-HPE Helion
-HP Cloud
-HTTP
-Hardware virtualization
-Hash Function
-Hash code
-Hash function
-Heroku
-High Court of Justice
-Human Connectome Project
-Hypertext Transfer Protocol
-Hyphanet
-I2P
-I2p
-IBM Cloud
-ICanHazPDF
 IP address
 ISBN (identifier)
-ISP
 ISSN (identifier)
-Iland
-ImageShack
-Image sharing
 Independent music
-Industrial rock
-Infrastructure as a service
-Inktank Storage
 Instant messaging
-InterPlanetary File System
 Internet
 Internet Archive
-Internet Protocol
-Internet Wayback Machine
-Internet hosting service
 Internet service provider
-Internet traffic
-IsoHunt
-Java applet
-Jelastic
-Joyent
-Juice (podcasting)
-KTorrent
-Kad network
-Kademlia
 Kazaa
-KickassTorrents
-Kodi (software)
-LBRY
-Leech (computing)
-Legal aspects of file sharing
-Legal issues with BitTorrent
-Libguestfs
-Library Genesis
-Libtorrent
-Libvirt
-LimeWire
-Linode
-List of websites blocked in the United Kingdom
-Load balancing (computing)
-Local Peer Discovery
-LokiTorrent
-Lunacloud
-MLDonkey
-Magnet URI scheme
-Mainline DHT
 Malware
-Merkle tree
 Metadata
-Metalink
-Metasearch engine
-Micro Transport Protocol
 Microsoft
-Microsoft 365
-Microsoft Azure
-MindSphere
-Mininova
-Mirantis
-Miro (video software)
-Miro Media Player
-Mobile cloud computing
-Morpheus (software)
 Music download
-NAT traversal
-Napster
-Native cloud application
-Net neutrality in the United States
-Netlify
-Network address translation
-Network as a service
-Nextcloud
 Niche market
-Nimbula
-Nimbus (cloud computing)
 Nine Inch Nails
-Norwegian Broadcasting Corporation
-Nyaa Torrents
-OVirt
-Oink's Pink Palace
-OneDrive
-OnionShare
-Onion routing
-Online video platform
 Open-source software
-OpenBitTorrent
-OpenIO
-OpenNebula
-OpenQRM
-OpenShift
-OpenStack
-OpenWrt
-Open music model
 Open source software
-Opentracker
-Opera (web browser)
-Operating systems
-Oracle Cloud
-OrionVM
-OutSystems
-Owncloud
 PHP
-Pando (application)
-Peer-to-peer file sharing
-Peer-to-peer web hosting
-PeerTracker
-PeerTube
-Peer exchange
 Peercasting
-Perfect Dark (P2P)
-Personal cloud
-Pete Doherty
-PlateSpin
-Platform as a service
 Podcast
-Popcorn Time
-Predix (software)
-Privacy in file sharing networks
-Private P2P
-Private peer-to-peer
 Programmer
-Programming languages
-Protocol (computing)
-Proton Drive
-Proxy server
-Putlocker
-PythonAnywhere
-QBittorrent
-RARBG
 RSS
-RSS (file format)
-RTorrent
-Rackspace Cloud
-Rackspace Technology
-Rainberry, Inc.
-Really Simple Syndication
-Representational State Transfer
-Resilio Sync
-Retroshare
-RightScale
-Ross Cohen
-Rtorrent
-RuTracker.org
-Rutracker.org
 S2CID (identifier)
-SAP Cloud Platform
-SHA-1
-SHA-2
-SHA-256
-SHA-3
-SSRN
 SSRN (identifier)
-Safe Swiss Cloud
-Salesforce
-Sandvine
-Scalr
-Sci-Hub
-Scour Inc.
-Seafile
-Security as a service
-Seedbox
 Server (computing)
-Serverless computing
-Share (P2P)
-Shareaza
-Shared resource
-Sharing
-Simple file verification
 Slashdot effect
-Slyck.com
-Software as a service
 Software categories
-Soribada
-Soulseek
-Splunk
 Stanford University
-StarCraft II
-Sub Pop
-Super-seeding
-Suprnova.org
-T411
-Tamil Rockers
 TechRepublic
-Technical standard
-Terminology of BitTorrent
-The Libertines
-The Pirate Bay
-The Tor Project
-TiVo
-Timeline of file sharing
-Tit for tat
-Tixati
-Tor (anonymity network)
-Tor (network)
-TorrentFreak
-TorrentSpy
-Torrent Project
-Torrent file
-Torrent poisoning
-Torrents-Time
-Torrentz
-Traffic analysis
-Transient (computer programming)
-Transmission (BitTorrent client)
-Transmission Control Protocol
-Tribler
-Tunneling protocol
-UDP flood attack
-UDP hole punching
-Uniform Resource Locator
-University at Buffalo
-University of Iowa
-Upstream (networking)
-Usage share of BitTorrent clients
 Usenet
-User Datagram Protocol
-VCloud Air
-VODO
-VPRO
-Vercel
-Virt-manager
-Virtual Private Cloud OnDemand
-Virtual appliance
-Virtual private cloud
-Virtual private network
-Vuze
-Vuze, Inc.
-WASTE
-Wakame-vdc
-Wargaming (company)
-WaveMaker
-WebRTC
-WebTorrent
-WebTorrent Desktop
-Web 2.0
 Web API
 Web browser
-Web feeds
-Web search engine
-What.CD
-What.cd
-WinMX
-Winny
-Workday, Inc.
-World of Tanks
 World of Warcraft
-World of Warplanes
-World of Warships
-XDCC
 XML
-Xunlei
-YIFY
-YggTorrent
-YouTorrent
 YouTube
-YourBittorrent
-Z-Library
-Zadara
-Zero-day attack
-ZeroNet
-Ziff-Davis
-Zoho Corporation
-ΜTP
-ΜTorrent

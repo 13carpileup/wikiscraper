@@ -1,4 +1,3 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
 AlmaLinux
@@ -83,7 +82,6 @@ GoboLinux
 Gobuntu
 GrapheneOS
 HandyLinux
-Hyperbola GNU/Linux-libre
 IBM
 Immunix
 IodéOS
@@ -128,7 +126,6 @@ MeeGo
 Mer (software distribution)
 Miracle Linux
 Mobilinux
-Musix GNU+Linux
 Network Security Toolkit
 NimbleX
 Nitix
@@ -143,7 +140,6 @@ OpenSUSE
 Open Enterprise Server
 Oracle Linux
 PCLinuxOS
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
@@ -159,7 +155,6 @@ PureOS
 Q4OS
 Qubes OS
 ROSA Linux
-RPM Package Manager
 Raspberry Pi OS
 Red Hat Enterprise Linux
 Red Hat Linux
@@ -169,7 +164,6 @@ Replicant (operating system)
 Resurrection Remix OS
 Rocks Cluster Distribution
 Rocky Linux
-S/390
 SUSE Linux
 SUSE Linux Enterprise
 SUSE Studio
@@ -208,7 +202,6 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Uruk GNU/Linux
 VectorLinux
 Vine Linux
 Void Linux

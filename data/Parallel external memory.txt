@@ -25,7 +25,6 @@ Pipeline (computing)
 Instruction window
 Cache invalidation
 Dryad (programming)
-ZPL (programming language)
 Parallel Extensions
 Fiber (computer science)
 Distributed shared memory
@@ -36,7 +35,6 @@ Computer programming
 Non-uniform memory access
 Coarray Fortran
 Parallel RAM
-Distribution sort
 Analysis of parallel algorithms
 Minimum spanning tree
 CUDA
@@ -50,23 +48,19 @@ Single instruction, multiple threads
 Merge sort
 Memory hierarchy
 Parallel slowdown
-Parallel random-access machine
 Dataflow architecture
 Superscalar processor
 Deadlock (computer science)
-Boost (C++ libraries)
 Memory-level parallelism
 Scalability
 Unified Parallel C
 Parallel programming model
 Charm++
 OpenACC
-C++ AMP
 Speculative multithreading
 S2CID (identifier)
 Software lockout
 Threading Building Blocks
-Selection problem
 Stream processing
 Doi (identifier)
 ISBN (identifier)
@@ -77,7 +71,6 @@ Programming complexity
 HPX
 Thread (computing)
 Global Arrays
-Expression tree
 Massively parallel
 Task parallelism
 Embarrassingly parallel
@@ -85,7 +78,6 @@ API
 OpenMP
 Ateji PX
 OpenCL
-Cache-aware model
 Cloud computing
 Beowulf cluster
 Dataflow programming
@@ -98,7 +90,6 @@ Distributed computing
 Automatic parallelization
 RaftLib
 Non-blocking algorithm
-Reduce (parallel pattern)
 Speedup
 Vector processor
 Amdahl's law
@@ -106,7 +97,6 @@ Asymmetric multiprocessing
 Implicit parallelism
 Prefix sum
 Concurrency (computer science)
-Euler tour
 Cache coherence
 Shared memory
 Multiprocessing

@@ -1,132 +1,71 @@
-ACM Transactions on Mathematical Software
 Abstract algebra
 Algebra
-Algebra of physical space
 Algebraic geometry
 Algebraic number theory
-Algebraic structures
 Algebraic topology
 Algorithm
 Algorithm design
-Algorithmic game theory
-Algorithmic information theory
 Analysis of algorithms
 Analytic geometry
 Analytic number theory
-Analytical mechanics
 Applied mathematics
-Approximation theory
-Areas of mathematics
 Arithmetic
 Arithmetic geometry
 Automata theory
 Automated theorem proving
 Blockchain
-Bosonic string theory
 Calculus
-Calculus of variations
 Category theory
-Chaos theory
-Classical field theory
 Clifford algebra
-Clifford analysis
 Coding theory
 Combinatorics
 Commutative algebra
 Complex analysis
-Computational algebraic geometry
-Computational anatomy
-Computational astrophysics
 Computational biology
 Computational chemistry
-Computational cognition
 Computational complexity
 Computational complexity theory
-Computational economics
 Computational electromagnetics
 Computational engineering
-Computational finance
-Computational fluid dynamics
-Computational genomics
 Computational geometry
-Computational geophysics
-Computational group theory
-Computational lexicology
 Computational linguistics
-Computational materials science
-Computational mechanics
-Computational neuroscience
-Computational number theory
-Computational particle physics
-Computational phylogenetics
 Computational physics
-Computational politics
-Computational science
 Computational semantics
-Computational semiotics
 Computational social science
-Computational sociology
-Computational statistics
-Computational thermodynamics
-Computational topology
-Computational transportation science
 Computer
 Computer algebra
-Computer algebra system
 Computer science
 Computer security
 Computer simulation
-Conformal field theory
-Conjecture
-Constraint programming
-Constraint satisfaction problem
 Control theory
 Cryptography
-Decision theory
 Differential equation
-Differential form
 Differential geometry
 Differential topology
 Diophantine geometry
 Discrete geometry
 Discrete mathematics
 Dynamical system
-Effective field theory
-Electronic structure
 Elementary algebra
-Elliptic curve cryptography
 Engineering
 Engineering mathematics
 Euclidean geometry
-European Community on Computational Methods in Applied Sciences
-Experimental mathematics
 Exterior algebra
-Exterior calculus
 Factorization
-Field theory (physics)
 Finite geometry
 Foundations of mathematics
-Four color theorem
-Fourier analysis
 Functional analysis
-Functional integration
 Future of mathematics
 Game theory
 Gauge theory
-Gauge theory (mathematics)
 General topology
-Geomathematics
 Geometric algebra
-Geometric analysis
-Geometric calculus
 Geometric topology
 Geometry
 Glossary of mathematical symbols
 Graph theory
 Group theory
-Hamiltonian mechanics
 Harmonic analysis
-Harmonic analysis (mathematics)
 History of mathematics
 Homological algebra
 Homotopy theory
@@ -134,22 +73,10 @@ Hypercomplex analysis
 ISBN (identifier)
 Informal mathematics
 Information theory
-International Council for Industrial and Applied Mathematics
-Japan Society for Industrial and Applied Mathematics
-Lagrangian mechanics
 Linear algebra
-List of arbitrary-precision arithmetic software
 List of films about mathematicians
-List of finite element software packages
-List of interactive geometry software
-List of mathematicians
-List of mathematics topics
-List of numerical-analysis software
-List of optimization software
-List of statistical software
 Lists of mathematics topics
 Logic in computer science
-Malliavin calculus
 Mathematical analysis
 Mathematical and theoretical biology
 Mathematical chemistry
@@ -162,87 +89,34 @@ Mathematical psychology
 Mathematical sociology
 Mathematical software
 Mathematical statistics
-Mathematicians
 Mathematics
 Mathematics and art
 Mathematics education
-Mathematics of Computation
 Measure (mathematics)
-Modelling biological systems
-Molecular mechanics
-Monte Carlo methods
 Multilinear algebra
-Multivariable calculus
-National Science Foundation
 Natural language
 Number theory
 Numerical analysis
-Numerical linear algebra
-Numerical methods
-Numerical methods for ordinary differential equations
-Numerical methods for partial differential equations
-Numerical solution
 Operations research
-Operator algebra
-Operator theory
 Order theory
-Ordinary differential equation
 Partial differential equation
-Partial differential equations
-Particle physics and representation theory
 Path integral formulation
-Perturbation theory
-Perturbation theory (quantum mechanics)
 Philosophy of mathematics
-Poisson algebra
-Potential theory
-Primality testing
 Probability
-Probability distribution
 Probability theory
-Proof assistant
-Quantum field theory
-Quantum group
 Quantum mechanics
-Random variable
 Real analysis
 Recreational mathematics
-Renormalization group
-SIAM Journal on Numerical Analysis
-SIAM Journal on Scientific Computing
 Science
 Set theory
-Social choice theory
-Society for Industrial and Applied Mathematics
-Société de Mathématiques Appliquées et Industrielles
-Solver
-Spacetime algebra
-Statistical field theory
 Statistics
-Stochastic
-Stochastic calculus
-Stochastic differential equation
-Stochastic process
-String theory
 Superalgebra
-Supersymmetric quantum mechanics
-Supersymmetric theory of stochastic dynamics
-Supersymmetry
-Supersymmetry algebra
 Systems engineering
 Systems science
 Tensor
-Tensor calculus
-Tensor software
-The Unreasonable Effectiveness of Mathematics in the Natural Sciences
 Theory of computation
 Timeline of mathematics
-Topic outline of mathematics
-Topological field theory
-Topological string theory
 Topology
 Type theory
 Uncertainty
 Universal algebra
-Validated numerics
-Vector calculus

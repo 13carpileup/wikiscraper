@@ -1,75 +1,17 @@
-A* search algorithm
 Algorithm
-Alpha–beta pruning
-Any-angle path planning
-B*
-Beam search
 Bellman–Ford algorithm
-Best-first search
-Bidirectional search
-Borůvka's algorithm
 Breadth-first search
-Brute-force search
-CPU time
-Cellular automata
-Chebyshev distance
-Chris Crawford (game designer)
-CiteSeerX (identifier)
 Cluster analysis
-Collaborative diffusion
-Contraction hierarchies
-D*
-Depth-first search
 Dijkstra's algorithm
 Doi (identifier)
-Dorothea Wagner
 Dynamic programming
 Edge (graph theory)
 Embarrassingly parallel
-Euclidean distance
-Floyd–Warshall algorithm
-Fringe search
-Glossary of graph theory
-Graph (data structure)
 Graph theory
 Graph traversal
-Guided Local Search
 Hdl (identifier)
-Heuristic (computer science)
 ISBN (identifier)
-Incremental heuristic search
-Intelligent agent
-Iterative deepening A*
-Iterative deepening depth-first search
-Johnson's algorithm
-Jump point search
-Kruskal's algorithm
-Lexicographic breadth-first search
-Lifelong Planning A*
-List of algorithms
-Maze-solving algorithm
 Mini-map
 Minimum spanning tree
-Monte Carlo tree search
-Motion planning
-Multi-agent pathfinding
-Navigation mesh
-Node (computer science)
-Parallel breadth-first search
-Peter Sanders (computer scientist)
 Plane (mathematics)
-Prim's algorithm
-Quadtree
-Reverse-delete algorithm
-SMA*
-SSS*
-Shortest path faster algorithm
-Shortest path problem
-Stanford Research Institute Problem Solver
-Tanktics
-Transportation planning
-Travelling salesman problem
-Tree traversal
-Vertex (graph theory)
 Video game industry
-Yen's algorithm

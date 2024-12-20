@@ -1,59 +1,38 @@
-ARM architecture
 Alpine Linux
 Amazon Kindle
-Anbox
 Android (operating system)
 Android Go
-Android rooting
-AsteroidOS
-Asus ZenFone
 B2G OS
-BQ (company)
-BQ Aquaris
 Bada (operating system)
 Binary Runtime Environment for Wireless
 BlackBerry 10
 BlackBerry OS
 BlackBerry Tablet OS
 BridgeOS
-Cgroups
 ChromeOS
 ChromeOS Flex
 Comparison of mobile operating systems
-Cross compilation
-Docker (software)
 EMUI
 EPOC (operating system)
 Exploit (computer security)
-Fairphone
 Fedora Linux
 Firefox OS
 FreeBSD
 FreeRTOS
 Fuchsia (operating system)
 GEOS (16-bit operating system)
-GNOME
 GNU
-GPLv2
 GitHub
-GitLab
 Google Glass
 Graphics processing unit
 HMD Global
 HarmonyOS
 HarmonyOS NEXT
-Hildon
 IOS
 IPadOS
-Init
-Initramfs
 Intel Management Engine
 KaiOS
 Kernel (operating system)
-LG G Watch
-LG G Watch R
-LWN.net
-Librem 5
 LineageOS
 Linux
 Linux Kernel
@@ -63,10 +42,8 @@ List of mobile app distribution platforms
 List of open-source mobile phones
 LiteOS
 LuneOS
-MATE (software)
 Maemo
 Magic Cap
-Mali (GPU)
 Manjaro
 MeeGo
 Mer (software distribution)
@@ -80,25 +57,17 @@ Moblin
 Monolithic kernel
 MontaVista
 MotoMagx
-Moto G4 Play
-Moto G (1st generation)
 Natural language
 NetBSD
-Nexus 5
-Nexus 7 (2013)
 Nintendo
 Nintendo 3DS system software
 Nintendo DSi system software
 Nintendo Switch system software
 Nokia Asha platform
-Nokia N9
-Nokia N900
-OnePlus 6
 Open-source software
 OpenEZX
 OpenEmbedded
 OpenHarmony
-OpenRC
 Open Handset Alliance
 Open Mobile Alliance
 Openmoko Linux
@@ -106,56 +75,36 @@ Operating system
 Package manager
 PalmDOS
 Palm OS
-Phosh
-PinePhone
-Plasma Mobile
 PlayStation Portable system software
 PlayStation Vita system software
-Poco X3
-Power user
 Programmer
 PureOS
 QNX
 QtMoko
 Replicant (operating system)
-Repository (version control)
 S60 (software platform)
 SHR (operating system)
 Sailfish OS
-Samsung Galaxy A3
-Samsung Galaxy A5
 Series 30
 Series 30+
 Series 40
 Series 80 (software platform)
 Series 90 (software platform)
 Smartphone
-Smartwatches
 Software release life cycle
 Sony Ericsson Java Platform
 Source code
 SteamOS
-Sway (window manager)
-Sxmo
 Symbian
-Systemd
 ThreadX
 Tizen
 UBports
 UIQ
 Ubuntu Touch
-Unity8
-Unix-like
 User interface
-User space
-Virtual keyboard
-Voice over LTE
 WatchOS
-Waydroid
-Wayland (display server protocol)
 Wear OS
 WebOS
-Wileyfox
 Windows 10
 Windows 10 Mobile
 Windows 11
@@ -168,11 +117,7 @@ Windows Phone 8
 Windows Phone 8.1
 Windows RT
 Windows XP editions
-Work in process
-X11
 X86
-X86-64
-XFCE
 XNU
 Zircon (microkernel)
 Ångström distribution

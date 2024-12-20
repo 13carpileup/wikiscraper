@@ -2,16 +2,12 @@ ANSI C
 Alef (programming language)
 Amsterdam Compiler Kit
 Anjuta
-BSD licenses
 Bionic (software)
-Borland Turbo C
-BusyBox
 C++
 C11 (C standard revision)
 C17 (C standard revision)
 C23 (C standard revision)
 C99
-CLion
 C (programming language)
 C POSIX library
 C Sharp (programming language)
@@ -19,7 +15,6 @@ C character classification
 C data types
 C date and time functions
 C dynamic memory allocation
-C file input/output
 C mathematical functions
 C preprocessor
 C standard library
@@ -28,73 +23,44 @@ C syntax
 Clang
 CodeLite
 Comparison of Pascal and C
-Compatibility of C and C++
 Computing
-Cpio
 D (programming language)
 Debian
-Debian Almquist shell
 Dennis Ritchie
 Dietlibc
-Early user space
 Eclipse (software)
 Embedded C
-Embedded GLIBC
-Embedded software
 GNOME Builder
-GNU C Library
 GNU Compiler Collection
 GNU General Public License
 Geany
 Glibc
 Go (programming language)
-H. Peter Anvin
-Historical Permission Notice and Disclaimer
-Hybris (software)
 Include directive
-Initramfs
 Integrated development environment
-Intel C++ Compiler
-Jonathan Corbet
 KDevelop
-Kernel mode
 KornShell
 LCC (compiler)
-LWN.net
 Limbo (programming language)
 Linux
-Linux startup process
-List of C compilers
 MISRA C
 Microsoft Visual C++
 Microsoft Visual Studio Express
 Microsoft Windows library files
-Mkdir
-Mknod
 Musl
 NetBeans
 Newlib
 Norcroft C compiler
 Objective-C
 Operating system
-Operators in C and C++
-Peter Anvin
 Portable C Compiler
 Programmer
-Repository (version control)
-Runtime library
 Small Device C Compiler
 Software categories
 Software license
 Software release life cycle
 Stdarg.h
-Subroutine
-Symbolic link
 Tiny C Compiler
-Tmpfs
 UClibc
-Ubuntu (operating system)
-Userspace
 Vala (programming language)
 Visual Studio
-Watcom C/C++

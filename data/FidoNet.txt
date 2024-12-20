@@ -1,34 +1,20 @@
-.arc
-16550 UART
-ANSI art
 ANSI escape code
-ARC (file format)
 ARPANET
 Africa
 Alexander Graham Bell
 Alexander Stepanovich Popov
 Alfred Vail
 Almon Brown Strowger
-AlterNet
 Amos Dolbear
 Antonio Meucci
-Area code
-Asynchronous conferencing
 Audio coding format
 Australasia
 BITNET
 Baltimore
 Bandwidth (computing)
-Batch file
 Beacon
-Binkd
-Binkp
 Blog
-Boardwatch
 Bob Kahn
-Bulletin board system
-CBBS
-CP/M
 CYCLADES
 Cable protection system
 Cable television
@@ -41,272 +27,93 @@ Charles Grafton Page
 Charles K. Kao
 Charles Sumner Tainter
 Charles Wheatstone
-Chat room
-Chuck Forsberg
 Circuit switching
 Claude Chappe
 Claude Shannon
-Closed source
 Coaxial cable
 Code-division multiple access
-Collaborative software
 Commodore 64
 Communication protocol
-Communication software
 Communications satellite
-Comparison of file transfer protocols
-Computer-mediated communication
 Computer Shopper (US magazine)
 Computer network
-DOSEMU
 Daniel Davis Jr.
 Data communication
 Data compression
-Data conferencing
 Dawon Kahng
-Dial-up Internet access
-Diff
 Digital Equipment Corporation
 Digital media
 Digital television
 Discrete cosine transform
 Donald Davies
-Door (bulletin board system)
 Drums in communication
-E-mail spam
 Edholm's law
 Edwin Howard Armstrong
 Electrical telegraph
-Electronic mailing list
 Elisha Gray
 Email
-Email attachment
 Emile Berliner
 Erna Schneider Hoover
 Ethernet
 FIDO Alliance
-FMail
-FOSSIL
-FastEcho
 Fax
 Fiber-optic communication
-File sharing
 France
 Francis Blake (inventor)
 Free-space optical communication
-Free and open source software
 Freeware
 Frequency-division multiplexing
-FrontDoor
-Gardiner Greene Hubbard
-GoldED+
-Guestbook
 Guglielmo Marconi
-Handshake (computing)
-Harold Hopkins (physicist)
-Hedy Lamarr
 Heliograph
-Henry Sutton (inventor)
-History of broadcasting
-History of mobile phones
-History of prepaid mobile phones
 History of radio
-History of telecommunication
-History of television
-History of the Internet
-History of the telephone
-History of the transistor
-History of videotelephony
-Hydraulic telegraph
-I/O port
 IEEE
 ISBN (identifier)
 ISSN (identifier)
 Image compression
-Imageboard
-Information Age
-Information revolution
-Innocenzo Manzetti
 Instant messaging
-Integrated Services Digital Network
-Intel 8088
 Internet
-Internet2
 Internet Relay Chat
 Internet forum
-Internet outdial
-Internet video
-JANET
-Jagadish Chandra Bose
 Japan
-Jason Scott
-Jason Scott Sadofsky
-Johann Philipp Reis
-John Bardeen
-John Logie Baird
-Jun-ichi Nishizawa
-LAN messenger
 Latin America
-Lee de Forest
 Lingua franca
-List of Internet pioneers
-List of bulletin board system software
-List of bulletin board systems
-List of telecommunications regulatory bodies
 Local area network
-Long-distance calling
-M+NetMail
-MOSFET
 MS-DOS
 Mass media
-McDonnell Douglas
 Microblogging
-Minitel
-Mobile telephony
 Modem
-Mohamed M. Atalla
-Molecular communication
 Multi-user dungeon
-Multiplexing
-NPL network
-Narinder Singh Kapany
-Nasir Ahmed (engineer)
-NetFoss
-Netmail
-Network address
-Network switch
-Network topology
-Next-generation network
 Nikola Tesla
-Node (networking)
 OCLC (identifier)
-Offline mail reader
-Offline reader
 Oliver Heaviside
 Online chat
-Online discussion
-Online journal
-Online service
-Online video platform
-Optical communication
 Optical fiber
-Optical telegraph
-Orbital angular momentum multiplexing
-Outline of telecommunication
-PCBoard
-PKZIP
-PODSnet
-Packet-switched
-Packet switching
-Pager
-Paul Baran
-Philo Farnsworth
-Photophone
-Phryctoria
 Plain old telephone service
-Polarization-division multiplexing
 Porting
-Power user
-Public switched telephone network
-Puerto Rico
-QWK (file format)
-RBBSNet
-Radia Perlman
 Radio network
 Radio wave
-Radiotelephone
-Rainbow 100
-Randy Suess
-Reginald Fessenden
-RelayNet
-Remote Imaging Protocol
-Retrocomputing
-Robert Hooke
 Robert Metcalfe
-Roberto Landell de Moura
 Russia
-Samuel Morse
 San Francisco
-Semaphore
-Semiconductor
 Semiconductor device
 Shareware
-Shell script
-Skypix
 Smartphone
-Smoke signal
 Social media
-Social network service
 Soviet Union
-Space-division multiple access
-Special interest group
-St. Louis
-Steve Punter
-Store-and-forward
-Store and forward
 Streaming media
-Streaming television
-Submarine communications cable
-Synchronous conferencing
-Sysop
 Talker
-Telautograph
-Telecommunication circuit
 Telecommunications
-Telecommunications equipment
-Telecommunications link
-Telecommunications network
-Telegraphy
 Telephone
-Telephone exchange
-Telephone line
-Teleprinter
 Television broadcasting
 Telex
-Telnet
-Terminal (telecommunication)
-Textboard
-Textfiles.com
-The Telephone Cases
-Thomas A. Watson
 Thomas Edison
-Tim Berners-Lee
-Time-division multiplexing
-Timeline of file sharing
-Tivadar Puskás
-Toasternet
-Tom Jennings
-TosScan
 Transmission line
-Transmission medium
-Tulsa, Oklahoma
-USRobotics
-UUCP
 United States
-Unix-like
 Usenet
-Video coding format
-Videoconferencing
-Vint Cerf
-Virtual community
-Virtual learning environment
-Vladimir K. Zworykin
 Voice chat in online gaming
-Voice over IP
-WWIVnet
-Walter Houser Brattain
-Ward Christensen
 Wayback Machine
-Web chat
-Web conferencing
-Whistled language
 Wide area network
 Wiki
 Wireless
 Wireless network
-Wireless revolution
-XMODEM
-Y2K bug
-Yogen Dalal
-ZIP (file format)
 Zilog Z80

@@ -1,97 +1,20 @@
-AA tree
-AVL tree
-Abstract data type
-Adversary (online algorithm)
-Apache Portable Runtime
 Array (data structure)
-Array data structure
-Association list
 Associative array
-Average-case complexity
-B-tree
-Balanced tree
-Big O notation
-Binary decision diagram
-Binary heap
-Binary search tree
-Binomial heap
 Bit array
-Bloom filter
-Circular buffer
-CiteSeerX (identifier)
-Collection (abstract data type)
 Communications of the ACM
 Computer science
-Container (abstract data type)
-Count sketch
-Count–min sketch
-Cyrus IMAP server
 Data structure
-Deterministic acyclic finite state automaton
-Dictionary of Algorithms and Data Structures
-Directed acyclic graph
 Discord
-Disjoint-set data structure
 Doi (identifier)
-Double-ended priority queue
-Double-ended queue
-Dynamic array
-Fibonacci heap
 GitHub
 Graph (abstract data type)
-Hash table
-Hash tree (persistent data structure)
-Hashed array tree
-Heap (data structure)
 Hilbert R-tree
-HyperLogLog
 ISBN (identifier)
-Ian Munro (computer scientist)
-Linked data structure
 Linked list
 Linux kernel
-List (abstract data type)
-List of data structures
-Lock-free
-Lucene
-MemSQL
-MuQSS
-Multimap
 Non-blocking algorithm
-Ordered sequence
 Parallel computing
-Pat Morin
-Priority queue
-Qt (framework)
-Queue (abstract data type)
-Quotient filter
-R* tree
-R+ tree
-R-tree
-Random access
-Random binary tree
-Random tree
 Randomized algorithm
-Rapidly exploring random tree
-Redis
-Red–black tree
-Retrieval Data Structure
-Robert Sedgewick (computer scientist)
-RocksDB
 S2CID (identifier)
-Scheduling (computing)
-Self-balancing binary search tree
-Set (abstract data type)
-Skip graph
-Space complexity
-Sparse matrix
-Splay tree
-Stack (abstract data type)
-Time complexity
-Treap
-Tree (data structure)
-Trie
 Unrolled linked list
-William Pugh (computer scientist)
 Wireless network
-XOR linked list

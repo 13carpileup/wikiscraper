@@ -24,13 +24,10 @@ ASCII
 ASMO 449
 ATASCII
 Accuracy and precision
-Acute accent
 Ada Semantic Interface Specification
 Advanced Video Coding
 Ampersand
-Amstrad CP/M Plus character set
 Amstrad CPC character set
-Anne van Kesteren
 Antimagnetic watch
 Apostrophe
 Apple II character set
@@ -50,8 +47,6 @@ Business Process Model and Notation
 C
 C++
 C0 and C1 control codes
-C1 control codes
-CAN bus
 CCSID
 CDC display code
 CER-GS
@@ -67,8 +62,6 @@ CWI-2
 C Sharp (programming language)
 Caret
 Casio calculator character sets
-Cedilla
-Cent (currency)
 Character encoding
 Character encodings in HTML
 Charset detection
@@ -91,17 +84,10 @@ Code page 1019
 Code page 1020
 Code page 1021
 Code page 1023
-Code page 1034
 Code page 1040
 Code page 1042
 Code page 1043
-Code page 1044
 Code page 1046
-Code page 1052
-Code page 1053
-Code page 1054
-Code page 1055
-Code page 1056
 Code page 1058
 Code page 1098
 Code page 1101
@@ -140,7 +126,6 @@ Code page 853
 Code page 855
 Code page 856
 Code page 857
-Code page 858
 Code page 859
 Code page 860
 Code page 861
@@ -157,7 +142,6 @@ Code page 896
 Code page 897
 Code page 899
 Code page 903
-Code page 904
 Code page 912
 Code page 915
 Code page 921
@@ -183,8 +167,6 @@ Control character
 Cooke and Wheatstone telegraph
 Copyright symbol
 Cork encoding
-Curly brackets
-Currency sign (generic)
 D
 DEC Hebrew
 DEC RADIX 50
@@ -195,7 +177,6 @@ DICOM
 DIN 66003
 DIN 91379
 DKOI
-Degree symbol
 Delivery Multimedia Integration Framework
 Diaeresis (diacritic)
 Digital Equipment Corporation
@@ -203,7 +184,6 @@ Digital encoding of APL symbols
 Digital object identifier
 Document Style Semantics and Specification Language
 Dollar sign
-Dotless I
 Dynamic Adaptive Streaming over HTTP
 E
 EBCDIC
@@ -232,7 +212,6 @@ Fraction (mathematics)
 Fuel oil
 Full BASIC
 Full stop
-Fuse (automotive)
 G
 GBK (character encoding)
 GB 12052
@@ -268,13 +247,11 @@ I
 IATF 16949
 IBM
 IBM AIX
-IEC-P27-1
 INIS-8
 INIS character set
 IS-IS
 ISBN
 ISLISP
-ISO-8859-1
 ISO-8859-8-I
 ISO-IR-111
 ISO-IR-169
@@ -283,72 +260,6 @@ ISO-IR-197
 ISO-IR-200
 ISO-IR-68
 ISO-TimeML
-ISO/IEC 10116
-ISO/IEC 10367
-ISO/IEC 10967
-ISO/IEC 11179
-ISO/IEC 11404
-ISO/IEC 11801
-ISO/IEC 12207
-ISO/IEC 14443
-ISO/IEC 14651
-ISO/IEC 15288
-ISO/IEC 15504
-ISO/IEC 15693
-ISO/IEC 15897
-ISO/IEC 17024
-ISO/IEC 17025
-ISO/IEC 18014
-ISO/IEC 19752
-ISO/IEC 19770
-ISO/IEC 19794-5
-ISO/IEC 20000
-ISO/IEC 2022
-ISO/IEC 21827
-ISO/IEC 27000
-ISO/IEC 27000-series
-ISO/IEC 27001
-ISO/IEC 27002
-ISO/IEC 27005
-ISO/IEC 27006
-ISO/IEC 38500
-ISO/IEC 42010
-ISO/IEC 4909
-ISO/IEC 5218
-ISO/IEC 6429
-ISO/IEC 646
-ISO/IEC 6523
-ISO/IEC 7064
-ISO/IEC 7810
-ISO/IEC 7811
-ISO/IEC 7812
-ISO/IEC 7813
-ISO/IEC 7816
-ISO/IEC 80000
-ISO/IEC 8652
-ISO/IEC 8859
-ISO/IEC 8859-1
-ISO/IEC 8859-10
-ISO/IEC 8859-11
-ISO/IEC 8859-12
-ISO/IEC 8859-13
-ISO/IEC 8859-14
-ISO/IEC 8859-15
-ISO/IEC 8859-16
-ISO/IEC 8859-2
-ISO/IEC 8859-3
-ISO/IEC 8859-4
-ISO/IEC 8859-5
-ISO/IEC 8859-6
-ISO/IEC 8859-7
-ISO/IEC 8859-8
-ISO/IEC 9126
-ISO/IEC 9529
-ISO/IEC 9797-1
-ISO/IEC 9995
-ISO/IEC TR 12182
-ISO/IEEE 11073
-ISO/TR 11941
 ISO 1
 ISO 1000
 ISO 10006
@@ -368,7 +279,6 @@ ISO 11784 and ISO 11785
 ISO 11940
 ISO 11940-2
 ISO 11992
-ISO 12006
 ISO 128
 ISO 13399
 ISO 13406-2
@@ -376,7 +286,6 @@ ISO 13485
 ISO 13490
 ISO 13567
 ISO 13584
-ISO 14000
 ISO 14031
 ISO 14224
 ISO 14617
@@ -397,8 +306,6 @@ ISO 17100
 ISO 1745
 ISO 18245
 ISO 19011
-ISO 19092-1
-ISO 19092-2
 ISO 19114
 ISO 19439
 ISO 19600
@@ -409,7 +316,6 @@ ISO 2014
 ISO 2015
 ISO 2033
 ISO 20400
-ISO 2047
 ISO 21001
 ISO 2145
 ISO 2146
@@ -438,15 +344,12 @@ ISO 31-0
 ISO 31-1
 ISO 31-10
 ISO 31-11
-ISO 31-12
-ISO 31-13
 ISO 31-3
 ISO 31-4
 ISO 31-5
 ISO 31-6
 ISO 31-7
 ISO 31-8
-ISO 31-9
 ISO 31000
 ISO 3103
 ISO 3166
@@ -463,7 +366,6 @@ ISO 4157
 ISO 4165
 ISO 4217
 ISO 45001
-ISO 4873
 ISO 50001
 ISO 5426
 ISO 5427
@@ -492,7 +394,6 @@ ISO 6943
 ISO 7001
 ISO 7002
 ISO 7010
-ISO 7027
 ISO 704
 ISO 7200
 ISO 732

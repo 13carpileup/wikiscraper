@@ -1,18 +1,4 @@
-CDC 6600
 Data dependency
-Dataflow language
-Directed Acyclic Graph
 Doi (identifier)
-Glenford Myers
-Hazard (computer architecture)
 ISBN (identifier)
-Instruction level parallelism
-Out-of-order execution
 Programming language
-RAW conflict
-Read after write (Hazard)
-Register renaming
-Tomasulo's algorithm
-Tomasulo algorithm
-Write after read
-Write after write (hazard)

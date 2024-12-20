@@ -1,195 +1,41 @@
-Abstract class
-Abstract data type
-Abstract superclass
-Adapter pattern
-Algebraic data type
-Arbitrary-precision arithmetic
-Array data type
 Associative array
-Bfloat16 floating-point format
-Bit
 Bit array
-Boolean data type
 Bottom type
-Boxing (computer science)
 Byte
 C++
-Character (computing)
-Class-based programming
-Class (computer programming)
-Class (computer science)
-Class browser
-Class method
-Class variable
-Cocoa (API)
-Common Lisp
-Common Lisp Object System
 Compiling
-Complex data type
-Composite data type
-Conjoined twins
-Container (abstract data type)
-CorbaScript
 Data structure
 Data type
-Decimal data type
-Delphi (programming language)
 Dependent type
-Double-precision floating-point format
-Dynamism (computing)
-Empty type
-Enumerated type
 Exception handling
-Extended precision
-First-class citizen
-Fixed-point arithmetic
-Floating-point arithmetic
-Function type
 Generalized algebraic data type
-Generic programming
-Groovy (programming language)
 Half-precision floating-point format
-Herb Sutter
 ISBN (identifier)
-Inductive type
-Inheritance hierarchy
-Instance (computer programming)
-Integer (computer science)
 Interface (object-oriented programming)
-Intersection type
-Interval arithmetic
 Intuitionistic type theory
-Kind (type theory)
-Lazy evaluation
-List (abstract data type)
-Logtalk
-Long double
-MELDC
-MODEL-K
-Memory address
-Meta-analysis
-Meta-communication
-Meta-emotion
-Meta-knowledge
-Meta-language
-Meta-learning
-Meta-object
-Meta-ontology
-Meta-optimization
-Meta-organization
-Meta-reference
-Meta-regulation
-Meta-system
-Meta (prefix)
-Metabibliography
-Metaclass (Semantic Web)
-Metacognition
-Metacomputing
 Metadata
-Metadesign
-Metadiscourse
-Metaepistemology
-Metaethics
-Metafiction
 Metagaming
-Metagenomics
-Metaheuristic
-Metahistory (concept)
-Metalogic
-Metamaterials
 Metamathematics
-Metamedia
-Metamemory
-Metametaphysics
-Metamodeling
-Metamodernism
-Metamood
-Metamotivation
-Metanarrative
-Metaobject
-Metaobject protocol
-Metaphenomics
-Metaphilosophy
-Metaphysics
-Metapolitics
-Metapopulation
-Metapragmatics
 Metaprogramming
-Metapsychiatry
-Metapsychology
-Metapuzzle
-Metascience
-Metasemantics
 Metatheorem
-Metatheory
 Metaverse
-Method (computer science)
-Minifloat
-Moose (Perl)
-Null-terminated string
-O'Reilly Media
-ObjVLisp
-Object-Z
 Object-oriented programming
-Object (computer science)
-Object Pascal
-Object REXX
 Objective-C
-Octuple-precision floating-point format
-Opaque data type
-OpenAda
-OpenC++ (software tool)
-OpenJava
-Option type
-Parametric polymorphism
 Perl
-Physical address
-Plain text
-Pointer (computer programming)
 Primitive data type
-Product type
 Programming language
-Programming languages
 Prolog
 Python (programming language)
-Quadruple-precision floating-point format
 Rational data type
 Record (computer science)
-Recursive data type
 Reference (computer science)
-Refinement type
-Reflection (computer science)
 Resource Description Framework
 Ruby (programming language)
-Self-referential humor
 Semaphore (programming)
-Set (abstract data type)
-Signedness
-Single-precision floating-point format
-Singleton pattern
-Smalltalk
-Sociology of sociology
-State (computer science)
-Stream (computing)
 String (computer science)
-Strongly typed identifier
-Subtyping
-Superclass (computer science)
-Tagged union
-Ternary numeral system
-Top type
-Type class
 Type constructor
-Type conversion
-Type system
 Type theory
 Unified Modeling Language
-Union type
-Unit type
-Units of information
 Variable (computer science)
-Virtual address space
-Void type
 Wayback Machine
 Word (computer architecture)
-XOTcl

@@ -1,72 +1,29 @@
-123 (interbank network)
-1LINK
-ALTO (interbank network)
-ATH (interbank network)
-ATM Bersama
-ATM Network BH mreža
 ATM card
 ATM usage fees
-A Toda Hora
-Accel (interbank network)
 Access (credit card)
-Acculink
 Acquiring bank
-Acxsys
-Alberta Regional Network
-All Japan Card Service
-Allied Irish Banks
-Allpoint
-Altyn Asyr (payment system)
 American Express
-Armed Forces Financial Network
 Armenian Card
-Atm⁵
 Automated teller machine
-Automatic Banking Machine
 AzeriCard
-BANCS (Japan)
 BC Card
-BancNet
-Banco24Horas
 Bancomat (interbank network)
-Bancontact Payconiq Company
-Banelco
-Bangladesh Electronic Funds Transfer Network
 Bank Central Asia
-Bank of Montreal
 Bankcard
-Bankcard-Servicenetz
-Banks ATM Network and Customer Services
-Banred
-British Columbia
 CB Bank Card Group
 CLS Group
 Cabcharge
-Canadian Imperial Bank of Commerce
-CarIFS
 Card association
-Card not present transaction
 Card scheme
 Card security code
-Cardtronics
 Carte Bleue
 Cash
-CashPool
-CashTree
-Cash Group
-Cash advance
-Cashnet
 Charge-off
 Charge card
 Chargeback
-Chargeback fraud
 Chipknip
 Choice (credit card)
 Cirrus (interbank network)
-Clearing House Automated Transfer System
-Co-op Solutions
-Common Electronic Fund Transfer Switch
-Competition Bureau
 Computer security
 Contactless payment
 Controlled payment number
@@ -74,157 +31,58 @@ Credit card
 Credit card balance transfer
 Credit card debt
 Credit card fraud
-Credit card hijacking
 Credit card imprinter
 Credit card interest
 Credit limit
 Credit union
-Currence
 Dankort
 Debit Mastercard
 Debit card
 Debt-lag
 Deposit account
-Digital identity
 Diners Club International
 Discover Card
-Discover Network
 Dispute (credit card)
-Dutch Bangla Bank
 EFTPOS
 EMV
-EZ-Link
 Electronic Payment Services
 Elo (card association)
 EnRoute (credit card)
-Encash Network Service
-Eufiserv
-Eurocard (payment card)
-Euronet Worldwide
 European Payments Initiative
-FIS (company)
-Faster Payment System
 Financial institution
 Financial services
-Financial transaction
-First Data
-First Nations Bank of Canada
-Fiserv
 Forbrugsforeningen
 Girocard
-Giropay
-GlobalNet
 Grace period
-Groupement des Cartes Bancaires CB
 Hardware security module
 Hyundai Card
-IDEAL
 Installment loan
-Interac e-Transfer
 Interbank network
 Interchange fee
-Interlink (interbank network)
 Introductory rate
 Isracard
 Issuing bank
 JCB (credit card company)
-JETCO
-KoronaPay
-LONGS
-LankaPay
 Laser (debit card)
-Link (British interbank network)
-Link (Indonesia)
-Link Interac Inc.
-MAS Electronic Payment System
-MITR ATM Sharing Network
-MNET (interbank network)
 Maestro (debit card)
-Magnetic stripe card
 Malaysian Electronic Payment System
 Mastercard
 Meeza
 Mir (payment system)
 Mondex
-MoneyPass
-Money Access Center
-Mouvement Desjardins
-Multi Integrated Cash Service
-Multibanco
-Multicaixa
-NCR Voyix
-NETS (company)
-NYCE
-National Financial Switch
-Nationlink (interbank network)
-Network for Electronic Transfers
-New Brunswick
-Newfoundland
 Nonprofit organization
-Nova Scotia
-Online Banking ePayments
-Ontario
-Ontario Lottery and Gaming Corporation
-Otto.
 PIN (debit card)
-PRIMA (Indonesia)
 PayPak
 Payment card number
 Payment terminal
-Payments Network Malaysia
 Personal identification number
 Plus (interbank network)
 Proton (debit card)
-Publix
 Pulse (interbank network)
 Rail Travel Card
-Redbanc
 Revolution Money
-Revolving account
-Rogers Communications
-Royal Bank Plaza
-Royal Bank of Canada
-RuPay
-SHAZAM (interbank network)
-STAR (interbank network)
-SUM (interbank network)
-SWIFT
-Saudi Payments Network
-Savings account
-Sbercard
-Scotiabank
-Secure Vault Payments
-Secure cryptoprocessor
-Shetab Banking System
-Single Euro Payments Area
 Smart card
-Solo (debit card)
-Sri Lanka Interbank Payment System
-Surcharge (payment systems)
-Switch (debit card)
-TARGET2
-TD Canada Trust
-TYME
-The Benefit Company
-The Canadian Press
-The Everything Card
 The Globe and Mail
 Toronto
-Toronto-Dominion Bank
-Transaction account
-Troy (card scheme)
 Tweet (social media)
 Twitter
-UnionPay
-Universal Air Travel Plan
-Universal default
-V Pay
-Verve Card
-Visa Cash
-Visa Debit
-Visa Electron
-Visa Inc.
-Vocalink
-White-label ABMs
-Yucho
-Zelle

@@ -1,57 +1,36 @@
-.3ds
 3D-Coat
 3D Movie Maker
-3D Studio Max
 3D computer graphics
-3ds Max
 AC3D
-ACIS
 Amapi
 Arnold (software)
 Autodesk 3ds Max
 Autodesk Alias
-Autodesk Maya
 Autodesk Mudbox
-Autodesk Softimage
-BMP file format
-Bitmaps
 Blackmagic Fusion
 Blender (software)
 Bryce (software)
-Bump Mapping
-C3D Toolkit
 Carrara (software)
-Caustic (optics)
 Cinema 4D
 Clara.io
-Clip Mapping
 Closed-source
 CloudCompare
-Command line interface
-Comparison of 3D computer graphics software
 Cyber Studio
 Daz Studio
-Depth of field
 Dispersion (optics)
 Dynamation (software)
 E-on Vue
 Electric Image Animation System
-Fog
 FreeCAD
 Freeware
-GMax
 GigaMesh Software Framework
 Global illumination
 Golaem Crowd
-HOOPS 3D Graphics System
 Hexagon (software)
-High dynamic range imaging
 Houdini (software)
 Imagine (3D modeling software)
 IntelliCAD
-JPEG
 KernelCAD
-LightWave 3D
 Linux
 List of 3D computer graphics software
 List of 3D modeling software
@@ -60,46 +39,28 @@ LuxCoreRender
 MASSIVE (software)
 MakeHuman
 MeshLab
-Messiah (software)
-Metropolis light transport
 Microsoft Windows
-Modo (software)
 MoonRay
 N-World
 Normal mapping
-Nuke (software)
 OS X
 Octane Render
 Oculus Medium
 Open-source software
 OpenFX (software)
-OpenGL
-OpenSCAD
 Open Cascade Technology
 Operating system
 POV-Ray
-Paint 3D
 Parasolid
-Path Tracing
-Phong shading
-Photon mapping
-Pinhole camera
-Pixar RenderMan
-Planar Projection
 Plane (mathematics)
 Point Cloud Library
-Portable Network Graphics
 Poser (software)
-PowerAnimator
 Presto (animation software)
 Programmer
 Ray tracing (graphics)
 Remo 3D
 Rendering (computer graphics)
-Rhinoceros 3D
-Romulus (modelling kernel)
 Russian Geometric Kernel
-Sculpt 3D
 Seamless3d
 Shade 3D
 ShapeManager
@@ -111,7 +72,6 @@ Software categories
 Software license
 Software release life cycle
 Source Filmmaker
-Spatial anti-aliasing
 Sphere
 StrataVision 3D
 Strata 3D
@@ -119,16 +79,9 @@ Sweet Home 3D
 Swift 3D
 Teigha
 Terragen
-Thin lens
-Translucency
-Transparency (optics)
 TrueSpace
-Truevision TGA
 TurboSilver
 VistaPro
-Wavefront .obj file
-Wings3D
 Wings 3D
-Wood
 XML
 ZBrush

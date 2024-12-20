@@ -1,10 +1,8 @@
-Affine hyperplane
 Algebra
 Binomial (polynomial)
 Bivariate polynomial
 Commutative ring
 Constant function
-Convex hull
 Cubic equation
 Cubic function
 Degree of a polynomial
@@ -20,13 +18,10 @@ Linear equation
 Linear function (calculus)
 Monomial
 Multivariate polynomial
-Newton polygon
 Polynomial
-Polynomial function
 Polynomial greatest common divisor
 Polynomial identity testing
 Polynomial long division
-Polynomial resultant
 Quadratic equation
 Quadratic function
 Quartic equation
@@ -36,5 +31,3 @@ Septic equation
 Sextic equation
 Square-free polynomial
 Trinomial
-Univariate polynomial
-Zero polynomial

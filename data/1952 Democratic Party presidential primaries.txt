@@ -15,7 +15,6 @@
 1860 Democratic National Conventions
 1860 Republican National Convention
 1864 Democratic National Convention
-1864 Republican National Convention
 1868 Democratic National Convention
 1868 Republican National Convention
 1872 Democratic National Convention
@@ -30,7 +29,6 @@
 1884 Greenback National Convention
 1884 Republican National Convention
 1888 Democratic National Convention
-1888 Greenback National Convention
 1888 Republican National Convention
 1892 Democratic National Convention
 1892 Republican National Convention
@@ -54,12 +52,10 @@
 1916 Republican Party presidential primaries
 1920 Democratic National Convention
 1920 Democratic Party presidential primaries
-1920 Progressive National Convention
 1920 Republican National Convention
 1920 Republican Party presidential primaries
 1924 Democratic National Convention
 1924 Democratic Party presidential primaries
-1924 Progressive National Convention
 1924 Republican National Convention
 1924 Republican Party presidential primaries
 1928 Democratic National Convention
@@ -70,7 +66,6 @@
 1932 Democratic Party presidential primaries
 1932 Republican National Convention
 1932 Republican Party presidential primaries
-1934 United States Senate election in Missouri
 1936 Democratic National Convention
 1936 Democratic Party presidential primaries
 1936 Republican National Convention
@@ -79,161 +74,23 @@
 1940 Democratic Party presidential primaries
 1940 Republican National Convention
 1940 Republican Party presidential primaries
-1940 United States Senate election in Missouri
 1944 Democratic National Convention
 1944 Democratic Party presidential primaries
 1944 Democratic Party vice presidential candidate selection
 1944 Republican National Convention
 1944 Republican Party presidential primaries
 1944 United States presidential election
-1946 State of the Union Address
-1947 State of the Union Address
 1948 Democratic National Convention
 1948 Democratic Party presidential primaries
 1948 Progressive National Convention
 1948 Republican National Convention
 1948 Republican Party presidential primaries
-1948 State of the Union Address
 1948 United States presidential election
-1949 State of the Union Address
-1950 State of the Union Address
-1951 State of the Union Address
-1951 United States elections
-1952 Arizona gubernatorial election
-1952 Arkansas gubernatorial election
-1952 Colorado gubernatorial election
-1952 Delaware gubernatorial election
 1952 Democratic National Convention
-1952 Florida Democratic presidential primary
-1952 Florida gubernatorial election
-1952 Illinois gubernatorial election
-1952 Indiana gubernatorial election
-1952 Iowa Senate election
-1952 Iowa gubernatorial election
-1952 Kansas gubernatorial election
-1952 Maine gubernatorial election
-1952 Massachusetts gubernatorial election
-1952 Michigan gubernatorial election
-1952 Minnesota Democratic presidential primary
-1952 Minnesota gubernatorial election
-1952 Minnesota lieutenant gubernatorial election
-1952 Missouri gubernatorial election
-1952 Missouri lieutenant gubernatorial election
-1952 Montana gubernatorial election
-1952 Nebraska gubernatorial election
-1952 Nebraska lieutenant gubernatorial election
-1952 New Hampshire Democratic presidential primary
-1952 New Hampshire gubernatorial election
-1952 New Mexico gubernatorial election
-1952 North Carolina gubernatorial election
-1952 North Carolina lieutenant gubernatorial election
-1952 North Dakota gubernatorial election
-1952 Ohio gubernatorial election
-1952 Progressive National Convention
-1952 Puerto Rican constitutional referendum
 1952 Republican National Convention
 1952 Republican Party presidential primaries
-1952 Rhode Island gubernatorial election
-1952 South Dakota gubernatorial election
-1952 State of the Union Address
-1952 Tennessee gubernatorial election
-1952 Texas gubernatorial election
-1952 United States House of Representatives election in Delaware
-1952 United States House of Representatives election in Nevada
-1952 United States House of Representatives election in New Mexico
-1952 United States House of Representatives election in North Dakota
-1952 United States House of Representatives election in Vermont
-1952 United States House of Representatives election in Wyoming
-1952 United States House of Representatives elections
-1952 United States House of Representatives elections in Alabama
-1952 United States House of Representatives elections in Arizona
-1952 United States House of Representatives elections in Arkansas
-1952 United States House of Representatives elections in California
-1952 United States House of Representatives elections in Colorado
-1952 United States House of Representatives elections in Connecticut
-1952 United States House of Representatives elections in Florida
-1952 United States House of Representatives elections in Georgia
-1952 United States House of Representatives elections in Idaho
-1952 United States House of Representatives elections in Illinois
-1952 United States House of Representatives elections in Indiana
-1952 United States House of Representatives elections in Iowa
-1952 United States House of Representatives elections in Kansas
-1952 United States House of Representatives elections in Kentucky
-1952 United States House of Representatives elections in Louisiana
-1952 United States House of Representatives elections in Maine
-1952 United States House of Representatives elections in Maryland
-1952 United States House of Representatives elections in Massachusetts
-1952 United States House of Representatives elections in Michigan
-1952 United States House of Representatives elections in Minnesota
-1952 United States House of Representatives elections in Mississippi
-1952 United States House of Representatives elections in Missouri
-1952 United States House of Representatives elections in Montana
-1952 United States House of Representatives elections in Nebraska
-1952 United States House of Representatives elections in New Hampshire
-1952 United States House of Representatives elections in New Jersey
-1952 United States House of Representatives elections in New York
-1952 United States House of Representatives elections in North Carolina
-1952 United States House of Representatives elections in Ohio
-1952 United States House of Representatives elections in Oklahoma
-1952 United States House of Representatives elections in Oregon
-1952 United States House of Representatives elections in Pennsylvania
-1952 United States House of Representatives elections in Rhode Island
-1952 United States House of Representatives elections in South Carolina
-1952 United States House of Representatives elections in South Dakota
-1952 United States House of Representatives elections in Tennessee
-1952 United States House of Representatives elections in Texas
-1952 United States House of Representatives elections in Utah
-1952 United States House of Representatives elections in Virginia
-1952 United States House of Representatives elections in Washington
-1952 United States House of Representatives elections in West Virginia
-1952 United States House of Representatives elections in Wisconsin
-1952 United States Senate election in Arizona
-1952 United States Senate election in California
-1952 United States Senate election in Connecticut
-1952 United States Senate election in Delaware
-1952 United States Senate election in Florida
-1952 United States Senate election in Indiana
-1952 United States Senate election in Maine
-1952 United States Senate election in Maryland
-1952 United States Senate election in Massachusetts
-1952 United States Senate election in Michigan
-1952 United States Senate election in Minnesota
-1952 United States Senate election in Mississippi
-1952 United States Senate election in Missouri
-1952 United States Senate election in Montana
-1952 United States Senate election in Nebraska
-1952 United States Senate election in Nevada
-1952 United States Senate election in New Jersey
-1952 United States Senate election in New Mexico
-1952 United States Senate election in New York
-1952 United States Senate election in North Dakota
-1952 United States Senate election in Ohio
-1952 United States Senate election in Pennsylvania
-1952 United States Senate election in Rhode Island
-1952 United States Senate election in Tennessee
-1952 United States Senate election in Texas
-1952 United States Senate election in Utah
-1952 United States Senate election in Vermont
-1952 United States Senate election in Virginia
-1952 United States Senate election in Washington
-1952 United States Senate election in West Virginia
-1952 United States Senate election in Wisconsin
-1952 United States Senate election in Wyoming
-1952 United States Senate elections
-1952 United States Senate special election in Connecticut
-1952 United States Senate special election in Kentucky
-1952 United States Senate special election in Michigan
-1952 United States Senate special election in Nebraska
-1952 United States elections
-1952 United States gubernatorial elections
 1952 United States presidential election
-1952 Utah gubernatorial election
-1952 Vermont gubernatorial election
-1952 Washington gubernatorial election
-1952 West Virginia gubernatorial election
-1952 Wisconsin gubernatorial election
 1952 steel strike
-1953 United States elections
 1956 Democratic National Convention
 1956 Democratic Party presidential primaries
 1956 Republican National Convention
@@ -355,7 +212,6 @@
 2020 Republican Party presidential debates
 2020 Republican Party presidential primaries
 2021 Democratic National Committee chairmanship election
-2024 Constitution Party presidential primaries
 2024 Democratic National Convention
 2024 Democratic Party presidential debates and forums
 2024 Democratic Party presidential primaries
@@ -368,132 +224,41 @@
 2024 Republican Party presidential debates and forums
 2024 Republican Party presidential primaries
 2025 Democratic National Committee chairmanship election
-2028 Democratic Party presidential primaries
 2028 Republican National Convention
-2028 Republican Party presidential primaries
 Abram Hewitt
-Adlai E. Stevenson I
 Adlai Stevenson I
 Adlai Stevenson II
 Administration (government)
-Agricultural Act of 1948
-Agricultural Act of 1949
 Al Gore
 Al Smith
 Alabama Democratic Party
 Alaska Democratic Party
-Alben Barkley
 Alben W. Barkley
-Alien Fiancées and Fiancés Act
 Allen G. Thurman
 Alton B. Parker
 American Samoa Democratic Party
 Andrew Jackson
 Andrew Johnson
 Andrew Stevenson
-Apolitical
 Arizona Democratic Party
 Arkansas
 Arthur P. Gorman
 Arthur Sewall
-Atomic Energy Act of 1946
 Atomic bombings of Hiroshima and Nagasaki
-Attempted assassination of Harry S. Truman
 August Belmont
 Augustus Schell
 B. Gratz Brown
-Backstairs at the White House
 Barack Obama
 Benjamin F. Hallett
-Bess Truman
-Bibliography of Harry S. Truman
 Bill Clinton
 Blair House
 Blue Dog Coalition
-Brien McMahon
-Buck passing
 California
-California Democratic Party
-California Democratic Party v. Jones
-Calvin S. Brice
-Cape Canaveral Space Force Station
-Carl Albert
-Caucus
 Central Intelligence Agency
-Champ Clark
-Charles A. Culberson
-Charles Frederick Crisp
-Charles Manatt
-Charles W. Bryan
-Charlotta Bass
-Chester Arthur
 Chicago
-Chicago (band)
-Chris Dodd
 Chuck Schumer
-Civil rights
-Claude Kitchin
-Clem L. Shaver
-Clifton Truman Daniel
-College Democrats of America
-Colorado Democratic Party
-Congressional Progressive Caucus
 Congressional Research Service
 Connecticut
-Conservative Political Action Conference
-Cordell Hull
-Council of Economic Advisers
-Darlington Hoopes
-David Allen Smalley
-David B. Culberson
-David Turpie
-David Wilhelm
-Debbie Wasserman Schultz
-Debra DeLee
-Defense Production Act of 1950
-Delaware Democratic Party
-Delaware Plan
-Democratic Attorneys General Association
-Democratic Congressional Campaign Committee
-Democratic Governors Association
-Democratic Legislative Campaign Committee
-Democratic National Committee
-Democratic National Convention
-Democratic Party (Northern Mariana Islands)
-Democratic Party (Puerto Rico)
 Democratic Party (United States)
-Democratic Party (United States) organizations
-Democratic Party of Arkansas
-Democratic Party of Connecticut
-Democratic Party of Georgia
-Democratic Party of Guam
-Democratic Party of Hawaii
-Democratic Party of Illinois
-Democratic Party of New Mexico
-Democratic Party of Oregon
-Democratic Party of Virginia
-Democratic Party of Wisconsin
-Democratic Party of the Virgin Islands
 Democratic Party presidential debates
-Democratic Senatorial Campaign Committee
-Democrats Abroad
-Dewey Defeats Truman
-Dick Gephardt
-Dingell–Johnson Act
-Displaced Persons Act
-District of Columbia Democratic State Committee
-Donald Fowler
 Dwight D. Eisenhower
-Earl Warren
-Ed Rendell
-Edmund Muskie
-Edward J. Flynn
-Edward Longstreet Bodin
-Electoral history of Harry S. Truman
-Employment Act of 1946
-Enoch A. Holtwick
-Eric Hass
-Ernest McFarland
-Estes Kefauver
-Excess profits tax
-Executive Order 9835

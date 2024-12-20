@@ -13,7 +13,6 @@ ISO 6709
 ISO 639-1
 GSM 03.38
 ISO 16750
-ISO/IEC 11404
 Code page 1104
 GBK (character encoding)
 Extended Unix Code
@@ -25,7 +24,6 @@ Code page 860
 Galaksija (computer)
 Equal-loudness contour
 ISO 8583
-ISO 2047
 Common Object Request Broker Architecture
 ISO 843
 GB 18030
@@ -40,7 +38,6 @@ Code page 1124
 Code page
 ISO 10303
 ISO 3307
-Fuse (automotive)
 Code page 720
 126 film
 ISO 10160
@@ -50,15 +47,12 @@ ISO 9564
 Grave accent
 FOCAL character set
 ISO 25178
-ISO/IEC 8859-12
-ISO/IEC 10116
 ISO 639-2
 C Sharp (programming language)
 DKOI
 DIN 91379
 Code page 864
 COBOL
-ISO/IEC 7813
 Code page 1015
 ISO 8000
 Charset detection
@@ -70,21 +64,17 @@ Film speed
 ISO 22395
 ISO 13567
 CCSID
-Code page 1054
 Greek Alphabet
 ISO 2014
 Code page 1288
-ISO/IEC 4909
 Code page 867
 DEC RADIX 50
 Code page 1009
 ISO 690
-ISO/IEC 9126
 ISO 217
 Code page 936 (IBM)
 Accuracy and precision
 Han unification
-ISO/IEC 8859-11
 ANSI escape code
 ISO 10303-21
 ISO 1629
@@ -93,9 +83,7 @@ ArmSCII
 International Standard Audiovisual Number
 ISO 31-8
 ABICOMP character set
-ISO 31-12
 Code page 853
-ISO/IEC 15693
 ISO 7010
 International Standard Musical Work Code
 Code page 1127
@@ -105,22 +93,12 @@ Digital Equipment Corporation
 Code page 1020
 ISO 2015
 Amstrad CPC character set
-Code page 1044
-ISO/IEC 42010
 Cloud Infrastructure Management Interface
-ISO 7027
-ISO/IEC 8859-9
 Diaeresis (diacritic)
 DIN 66003
-ISO/IEC 10967
-ISO/IEC 8859-15
 ISO 13485
-ISO 31-9
 ISO 7637
-ISO/IEC 8859-10
-ISO/IEC 15504
 ALGOL 60
-ISO/IEC 8652
 ISO 19600
 ISO 3166
 CWI-2
@@ -129,15 +107,12 @@ Cooke and Wheatstone telegraph
 ISLISP
 Computer Graphics Metafile
 ISO 14224
-ISO/IEC 80000
 Chinese Character Code for Information Interchange
 Guidelines for the Definition of Managed Objects
 ISO 20121
 Indian Script Code for Information Interchange
-ISO/IEC 2022
 ISO 50001
 Digital encoding of APL symbols
-ISO/IEC 10367
 CSX+ Indic character set
 Hazard symbol
 Code page 1102
@@ -151,10 +126,8 @@ Code page 851
 Bitstream International Character Set
 ISO 15924
 ISO 4165
-ISO/IEC 9529
 Apple II character set
 ISO 7736
-ISO/IEC TR 12182
 ISO base media file format
 Graph Query Language
 ISO 13490
@@ -162,7 +135,6 @@ ISBN
 ISO 6344
 ASCII
 ISO 15926
-Code page 1052
 Hole punch
 Code page 1006
 CS Indic character set
@@ -175,22 +147,16 @@ EXPRESS (data modeling language)
 FTAM
 ISO 18245
 ISO 21001
-ISO 19092-2
 INIS-8
 Horsepower
 ISO 31-1
-ISO/IEC 14651
 ISO 37001
-ISO/IEC 5218
 Code page 1040
 Code page 1042
 British Standard Pipe
 Code page 1115
-ISO/IEC 27005
 ISO 31-7
-CAN bus
 ASMO 449
-ISO/IEC 8859-8
 Compucolor II character set
 ISO 13406-2
 Chinese telegraph code
@@ -204,28 +170,22 @@ ISO 11940-2
 Code page 861
 Code page 856
 ISO 2921
-Code page 1055
 ECMAScript
 ISO-IR-197
 ISO 22301
 ISO 8178
-ISO/IEC 27001
 ISO 19439
 Code page 1105
 ISO 19011
-ISO/IEC 27002
 CER-GS
 Code page 1046
 ISO 31-6
 Iran System encoding
 ISO 2146
-ISO/IEC 9797-1
 IS-IS
 ISO 639-6
 ISO-IR-200
-ISO/IEC 7816
 CESU-8
-ISO/IEC 17024
 ISO 11170
 JIS X 0208
 International Standard Text Code
@@ -234,16 +194,11 @@ ISO 10962
 ISO 14971
 Digital object identifier
 ISO 9897
-ISO/IEC 38500
-Amstrad CP/M Plus character set
 EBCDIC
 Code page 912
 ISO 55000
 Code page 777
 Ada Semantic Interface Specification
-ISO/IEC 11801
-ISO/IEC 12207
-ISO/IEC 27000
 Code page 1021
 ISO 15926 WIP
 ECMAScript for XML
@@ -261,28 +216,20 @@ INIS character set
 ARIB STD B24 character set
 HTML
 ATASCII
-ISO/IEC 20000
 CSX Indic character set
-ISO/IEC 8859-16
 Code page 850
-ISO/IEC 17025
 ISO 128
-ISO/IEC 8859-6
 ISO 639
 International Organization for Standardization
 Binary Ordered Compression for Unicode
 Code page 1018
-ISO/IEC 18014
 DEC Special Graphics
-ISO 9000
 IBM AIX
-Code page 858
 ISO 31-10
 Code page 437
 BCD (character encoding)
 Code page 708
 Common Logic
-ISO/TR 11941
 ISO 5426
 GB 12345
 ISO 11992
@@ -293,23 +240,17 @@ ISO 7200
 JIS X 0201
 ISO 2711
 ISO 3166-2
-ISO/IEC 8859
 ISO 6385
 ISO 14031
 Code page 865
 Code page 3846
-ISO/IEC 19794-5
 Code page 1019
 ISO 2788
-ISO/IEC 8859-7
 ISO 14698
 Extended Latin-8
 Code page 776
 Code page 773
 ISO 1
-ISO/IEC 19770
-ISO/IEC 7812
-ISO/IEC 15288
 ISO 8691
 ISO 31000
 ISO 2145
@@ -317,14 +258,11 @@ ITU T.61
 ANSI C
 ISO-TimeML
 ISO 2848
-ISO/IEC 15897
-ISO/IEC 646
 International Standard Identifier for Libraries and Related Organizations
 ISO 4157
 ISO 657
 ISO 15919
 ISO 14644
-ISO/IEC 11179
 Code page 866
 ISO 56000
 IATF 16949
@@ -332,18 +270,13 @@ Code page 668
 Comparison of Unicode encodings
 ISO 10628
 International Standard Music Number
-ISO 31-13
-Guillemets
 ISO 31-4
 Hardware code page
 Code page 897
-ISO/IEC 19752
 ISO 21500
 135 film
 CHILL
 ISO 9660
-Digamma
-ISO/IEC 14443
 Code page 899
 JIS X 0213
 Full BASIC
@@ -359,15 +292,11 @@ ISO 2852
 ISO 4217
 110 film
 ISO 10218
-ISO/IEC 8859-4
 ISO 19114
 C++
-Greek numerals
-IEC-P27-1
 Code page 950
 Atari ST character set
 Hong Kong Supplementary Character Set
-ISO/IEC 7811
 International Bank Account Number
 ISO 26000
 Antimagnetic watch
@@ -377,42 +306,32 @@ ISO 668
 Code page 932 (IBM)
 DEC Hebrew
 ISO 11940
-ISO/IEC 8859-14
 ISO 10303-28
-ISO/IEC 21827
 ISO 8601
 ISO 13584
 Code page 921
 Interpunct
 ISO 2709
 Code page 915
-ISO/IEC 27000-series
-ISO/IEC 9995
 Code page 1016
 Big5
 ISO 7001
 ISO 6862
-ISO/IEC 8859-2
 ISO 31-11
 ISO 704
 ISO 31-0
 ISO 1000
 Code page 857
-ISO/IEC 8859-3
 Cork encoding
-ISO 12006
-ISO/IEC 8859-1
 ISO 13399
 Delivery Multimedia Integration Framework
 Dynamic Adaptive Streaming over HTTP
-ISO/IEC 7810
 International Standard Atmosphere
 ISO 11783
 ANSEL
 Code page 1101
 HZ (character encoding)
 ISO 45001
-Code page 904
 Graphical Kernel System
 ISO-IR-111
 ISO 10161
@@ -420,16 +339,13 @@ International Standard Name Identifier
 Code page 1012
 Code page 1058
 ISO-IR-68
-ISO 19092-1
 Code page 951
 ELOT 927
-Code page 1056
 GOST 10859
 Isofix
 ISO 999
 Code page 895
 Flowchart
-ISO/IEC 27006
 ISO 4031
 ISO 15398
 Code page 936 (Microsoft Windows)
@@ -440,22 +356,15 @@ Han Xin code
 ISO 259
 GB 12052
 ISO 8501-1
-ISO/IEC 7064
 BraSCII
 Code page 1008
 ISO 9
 Fieldata
-ISO/IEC 6523
-International Standard Serial Number
 ISO 5964
 CDC display code
 ISO 7002
-Intecolor/Compucolor 8001 character set
 DG International
-Acute accent
-Code page 1034
 Code page 1010
-Code page 1053
 Code page 1118
 Code page 1133
 Code page 1017
@@ -466,21 +375,16 @@ Code page 775
 ISO 15189
 Code page 778
 Business Process Model and Notation
-ISO/IEC 8859-5
 ISO 31-3
 ISO 6438
-ISO 14000
 Code page 868
-ISO 8373
 ISO 26262
 ISO 15686
 Code page 1116
 ISO 3166-3
 Geography Markup Language
-ISO/IEEE 11073
 Code page 859
 ISO-IR-169
-ISO/IEC 8859-13
 ISO 4
 Code page 922
 ISO 11784 and ISO 11785

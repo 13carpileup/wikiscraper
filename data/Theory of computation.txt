@@ -8,32 +8,23 @@ Algebraic topology
 Algorithm
 Algorithm design
 Algorithmic efficiency
-Alonzo Church
 Alphabet (formal languages)
 Analysis of algorithms
 Analytic geometry
 Analytic number theory
-Andrew Hodges
 Application security
 Applied mathematics
-Approximation algorithms
 Arithmetic
 Arithmetic geometry
 Artificial intelligence
-Asymptotic analysis
 Automata theory
 Automated planning and scheduling
-Beta reduction
-Big O notation
 Calculus
-Carl Herbert Smith
 Category theory
 Chomsky hierarchy
 Church–Turing thesis
 Claude Shannon
-Clay Mathematics Institute
 Combinatorics
-Combinatory logic
 Commutative algebra
 Compiler construction
 Complex analysis
@@ -47,7 +38,6 @@ Computational geometry
 Computational mathematics
 Computational physics
 Computational social science
-Computational theory of mind
 Computer accessibility
 Computer algebra
 Computer animation
@@ -63,8 +53,6 @@ Computing
 Computing platform
 Concurrency (computer science)
 Concurrent computing
-Context-free grammar
-Context-sensitive grammar
 Control theory
 Control variable (programming)
 Cross-validation (statistics)
@@ -91,7 +79,6 @@ Doi (identifier)
 Domain-specific language
 E-commerce
 Educational technology
-Eitan Gurari
 Electronic design automation
 Electronic publishing
 Electronic voting
@@ -102,13 +89,10 @@ Enterprise information system
 Enterprise software
 Euclidean geometry
 Finite geometry
-Finite state automaton
-Finite state machines
 Form factor (design)
 Formal language
 Formal methods
 Foundations of mathematics
-Function composition (computer science)
 Functional analysis
 Future of mathematics
 Game theory
@@ -117,26 +101,21 @@ Geographic information system
 Geometric topology
 Geometry
 Glossary of mathematical symbols
-Grammar
 Graph theory
 Graphics processing unit
 Green computing
 Group theory
-Gödel Prize
 Gödel numbering
 Halting problem
 Hardware acceleration
 Hardware security
 Harmonic analysis
-Hartley Rogers, Jr
-Harvard
 Health informatics
 History of mathematics
 Homological algebra
 Homotopy theory
 Human–computer interaction
 Hypercomplex analysis
-IMU Abacus Medal
 ISBN (identifier)
 Image compression
 Informal mathematics
@@ -149,29 +128,19 @@ Integrated development environment
 Interaction design
 Interpreter (computing)
 Introduction to Automata Theory, Languages, and Computation
-Introduction to the Theory of Computation
 Intrusion detection system
 JSTOR (identifier)
-Jeffrey D. Ullman
 Jeffrey Ullman
 John Hopcroft
-John von Neumann
 Knowledge representation and reasoning
-Knuth Prize
-Kurt Gödel
 Lambda calculus
 Library (computing)
 Linear algebra
-Linear bounded automaton
-Linz P
 List of computer size categories
 List of films about mathematicians
-List of mathematicians
 Lists of mathematics topics
 Logic in computer science
 Machine learning
-Markov algorithm
-Martin Davis (mathematician)
 Massachusetts Institute of Technology
 Mathematical analysis
 Mathematical and theoretical biology
@@ -185,15 +154,11 @@ Mathematical psychology
 Mathematical sociology
 Mathematical software
 Mathematical statistics
-Mathematicians
 Mathematics
 Mathematics and art
 Mathematics education
 Measure (mathematics)
-Michael O. Rabin
-Michael Sipser
 Middleware
-Millennium Prize Problems
 Mixed reality
 Model of computation
 Modeling language
@@ -218,48 +183,32 @@ Operating system
 Operations research
 Order theory
 Outline of computer science
-P = NP problem
 P versus NP problem
 Parallel computing
 Peripheral
 Philosophy of artificial intelligence
 Philosophy of mathematics
 Photograph manipulation
-Primitive recursion
 Primitive recursive function
-Princeton University Press
 Printed circuit board
 Probability
 Probability theory
 Process control
 Processor (computing)
-Program semantics
 Programming language
 Programming language theory
 Programming paradigm
 Programming team
 Programming tool
-Pushdown automaton
-Quantification theory
 Quantum Computing
 Rajeev Motwani
-Ramon Llull
 Randomized algorithm
 Real-time computing
 Real analysis
 Recreational mathematics
-Recursion theory
-Recursively enumerable language
-Register machine
-Regular expressions
-Regular grammar
 Reinforcement learning
 Rendering (computer graphics)
 Requirements analysis
-Rice's theorem
-Richard L. Epstein
-Rózsa Péter
-S. Barry Cooper
 S2CID (identifier)
 Security hacker
 Security service (telecommunication)
@@ -280,21 +229,14 @@ Software quality
 Software repository
 Solid modeling
 Statistics
-Stephen Cook
-Stephen Kleene
 Stochastic computing
 String (computer science)
-String rewriting system
 Supervised learning
-Symposium on Foundations of Computer Science
-Symposium on Theory of Computing
 System on a chip
 Systems science
 Theoretical computer science
-Theory of Computing
 Timeline of mathematics
 Topology
-Turing Award
 Turing machine
 Type theory
 Ubiquitous computing
@@ -305,7 +247,5 @@ Video game
 Virtual machine
 Virtual reality
 Visualization (graphics)
-Walter A. Carnielli
 Word processor
 World Wide Web
-Μ-recursive function

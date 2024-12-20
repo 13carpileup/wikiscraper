@@ -13,7 +13,6 @@ False (logic)
 IMPLY gate
 If and only if
 Inverter (logic gate)
-Józef Maria Bocheński
 Latin
 Logic
 Logical NOR
@@ -35,5 +34,3 @@ Statement (logic)
 Tautology (logic)
 Truth value
 Venn diagram
-XNOR gate
-XOR gate

@@ -1,125 +1,32 @@
-Abstract data type
-Algebraic computation
-Algebraic data type
-Apache Commons
-Arbitrary-precision arithmetic
-Arbitrary precision arithmetic
-Array data type
 Associative array
-Bfloat16 floating-point format
-Bit
 Bit array
-Boolean data type
 Bottom type
-Boxing (computer science)
 Byte
 C++
-C++11
-C++ Standard Library
 C (programming language)
-Character (computing)
-Class (computer programming)
-Clojure
-Common Lisp
-Common Lisp HyperSpec
 Compiler
-Complex data type
-Composite data type
-Container (abstract data type)
 Data structure
 Data type
-Decimal data type
-Denominator
 Dependent type
-Division by zero
-Divisor
-Donald Knuth
-Double-precision floating-point format
-Empty type
-Enumerated type
 Exception handling
-Extended precision
-Fixed-point arithmetic
-Floating-point arithmetic
-Floating point
 Fraction (mathematics)
-Function type
-GNU Multiple Precision Arithmetic Library
 Generalized algebraic data type
-Generic programming
 Go (programming language)
 Half-precision floating-point format
-Haskell (programming language)
-Inductive type
-Integer (computer science)
 Interface (object-oriented programming)
-Intersection type
-Interval arithmetic
 Intuitionistic type theory
-Irreducible fraction
-J (programming language)
 Java (programming language)
-Julia (programming language)
-Kind (type theory)
-Library (computer science)
-List (abstract data type)
-Long double
-Machine instruction
-Maple software
-Mathematica
-Memory address
 Metaclass
-Metaobject
-Minifloat
-Null-terminated string
-Numerator
-OCaml
-Object (computer science)
-Octuple-precision floating-point format
-Opaque data type
-Operator overloading
-Option type
-Parametric polymorphism
 Perl
-Physical address
-Plain text
-Pointer (computer programming)
-Power (mathematics)
 Primitive data type
-Product type
-Programming languages
 Python (programming language)
-Quadruple-precision floating-point format
-Raku (programming language)
-Rational number
 Record (computer science)
-Recursive data type
 Reference (computer science)
-Refinement type
 Rounding
 Ruby (programming language)
 Semaphore (programming)
-Set (abstract data type)
-Signedness
-Single-precision floating-point format
-Smalltalk
-Stream (computing)
 String (computer science)
-Strongly typed identifier
-Subtyping
-Tagged union
-Ternary numeral system
-The Art of Computer Programming
-Top type
-Type class
 Type constructor
-Type conversion
-Type system
 Type theory
-Union type
-Unit type
-Units of information
 Variable (computer science)
-Virtual address space
-Void type
 Word (computer architecture)

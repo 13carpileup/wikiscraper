@@ -4,18 +4,14 @@ ARCore
 ARKit
 ARToolKit
 Accel World
-Actuator
-Adaptive music
 AltspaceVR
 Android XR
 AntVR
 Apple Inc.
 Apple Vision Pro
 Architect
-Arduino
 Art
 Art game
-Artmedia
 Asynchronous reprojection
 Attack of the Killer App
 Augmented reality
@@ -28,54 +24,39 @@ Brenda Laurel
 Brendan Bradley (actor)
 Brendan Iribe
 Brilliant Labs
-Burning Man
-Call and response (music)
 Carolina Cruz-Neira
 CastAR
-Centre for Advanced Inquiry in the Interactive Arts
 Char Davies
-Christiane Paul (curator)
 Cinematic virtual reality
-Coachella Valley Music and Arts Festival
 Code Lyoko
 Computer
-Computer-generated art
 Computer-mediated reality
-Contextual Theatre
 Cyberith Virtualizer
 Daniel J. Sandin
 Den-noh Coil
-Designer
 Dieter Schmalstieg
 Digimon
 Digital art
 Doi (identifier)
-Edward A. Shanken
 Ela Darling
-Electronic Language International Festival
-Electronic art
 Elia Petridis
 Eric Howlett
-Exhibition
 Extended reality
 EyeTap
 Eye tracking
 Face tracking
-Fax art
 Finger tracking
 Foveated rendering
 Frank Popper
 Fred Brooks
 Free viewpoint television
 Futurama
-Generative art
 Godot (game engine)
 Golden-i
 Google
 Google Cardboard
 Google Daydream
 Google Glass
-Gordon Pask
 Gundam Build Divers
 Gundam Build Metaverse
 Gunpei Yokoi
@@ -88,56 +69,38 @@ Henry Fuchs
 HoloLens 2
 Holodeck
 Horizon Worlds
-Hypertext
-I-CubeX
 ISBN (identifier)
 ISSN (identifier)
 Image-based modeling and rendering
 Immersion (virtual reality)
-Installation art
 Integrated development environment
-Interactive architecture
 Interactive film
-Interactive storytelling
 Interface (computing)
 Internet
-Internet art
-Internet of Musical Things
 Ivan Sutherland
 Jaron Lanier
-Jean-Robert Sédano
-Jeffrey Shaw
 Jerome Foster II
 Jetpack Compose
 John Carmack
-Juan Martín Prada
 Khronos Group
-Kinetic sculpture
 Kiss Me First (TV series)
 Laser
 Lawrence J. Rosenblum
 Leap Motion
-Life Cube Project
 Liquid Image
 List of HTC Vive games
 List of Meta Quest games
 List of Oculus Rift games
 List of PlayStation VR2 games
 List of PlayStation VR games
-List of interactive artists
 List of software related to augmented reality
 List of virtual reality headsets
 London
-MP3 player
 Magic Leap
-Marc Lee
-Marcel Duchamp
 Mark Bolas
 Mark Stephen Meadows
 Mark Zuckerberg
 Maurice Benayoun
-Maurizio Bolognini
-Max/MSP
 Mechatronics
 Meta Horizon OS
 Meta Platforms
@@ -150,17 +113,11 @@ Microsoft Corporation
 Microsoft HoloLens
 Ming C. Lin
 Mixed reality
-Montpellier
 Morton Heilig
-Multimedia
-Museum
 Myron W. Krueger
-NTT InterCommunication Center
-National Gallery (London)
 NeosVR
 Netrunner
 Neuromancer
-New media art
 Niantic, Inc.
 Nicole Stenger
 Nonny de la Peña
@@ -171,12 +128,10 @@ Oculus Rift
 Oculus Rift CV1
 Oculus Rift S
 Oculus Touch
-Oliver Grau
 Omnidirectional (360-degree) camera
 Omnidirectional treadmill
 On-set virtual production
 Open-source software
-OpenFrameworks
 OpenVR
 OpenXR
 Open Source Virtual Reality
@@ -184,27 +139,19 @@ Open source
 Optical head-mounted display
 Palmer Luckey
 Pancake lens
-Parrhasius (painter)
-Performance art
 Persistent world
 Pervasive game
-Peter Weibel
 Philippe Bekaert
 Pico 4
 Pimax
-Planetary Collegium
 PlayStation Move
 PlayStation VR
 PlayStation VR2
 Playtest (Black Mirror)
-Pliny the Elder
 Pose tracking
-Prix Ars Electronica
-Processing (programming language)
 Programming language
 Project Iris
 Projection augmented model
-Pure Data
 Quantified self
 Quest 2
 R. Bowen Loftin
@@ -212,39 +159,28 @@ Razer Hydra
 Ready Player One
 Ready Player One (film)
 Ready Player Two
-Real-time rendering
 Real life
 Reality Labs
 Rec Room (video game)
-Relational art
 Resonite
-Robotic art
 Robotics
 Rokoko (company)
 Room-scale
-Roy Ascott
 SIGGRAPH
 SSSS.Gridman
-Samsung
 Samsung Electronics
 Samsung Gear VR
 Sansar (video game)
-Satellite
 Satya Nadella
-Science Museum (London)
 Scott Fisher (technologist)
-Scott Snibbe
 Screen-door effect
 Sega VR
-Sensemaking
-Sensor
 Sensorama
 Sensorium Corporation
 Simon Birrell
 Simulation hypothesis
 Simultaneous localization and mapping
 Sinespace
-Single-board microcontroller
 Six degrees of freedom
 SixthSense
 Smartglasses
@@ -258,8 +194,6 @@ Superhuman Samurai Syber-Squad
 Susumu Tachi
 SwiftUI
 Sword Art Online
-Tate
-Telecommunications network
 Telepresence
 The Dreamland Chronicles
 The Entire History of You
@@ -270,10 +204,8 @@ Thomas A. DeFanti
 Thomas A. Furness III
 Tim Cook
 Tony Parisi (software developer)
-TouchDesigner
 Transhumanism
 Unity (game engine)
-University of Wales, Newport
 Unreal Engine
 VFX1 Headgear
 VPL Research
@@ -284,10 +216,8 @@ VTime XR
 VTuber
 Valve Index
 Varjo
-Victoria & Albert Museum
 Video
 Video game art
-Video projector
 Virtual Boy
 Virtual fixture
 Virtual graffiti
@@ -302,8 +232,6 @@ Virtuality (product)
 Virtuix Omni
 VisionOS
 VisionOS 2
-Visual programming language
-Voice analysis
 Vuforia Augmented Reality SDK
 Vuzix
 Warren Robinett
@@ -312,6 +240,4 @@ WebXR
 White Christmas (Black Mirror)
 Windows Mixed Reality
 Wired glove
-Wiring (development platform)
 Wizdish ROVR
-Zeuxis (painter)

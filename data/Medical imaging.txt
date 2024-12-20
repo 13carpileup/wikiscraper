@@ -1,494 +1,58 @@
-3D Slicer
-3D ultrasound
-A-scan
 Aaron Koblin
-Abdominal ultrasonography
-Abdominal x-ray
 Absorbed dose
-Acute stroke imaging
-Ade Olufeko
-Adolphe Quetelet
-Alan MacEachren
-Alfred Inselberg
 Alzheimer's disease
-American Congress of Obstetricians and Gynecologists
-Amira (software)
-Analysis of Functional NeuroImages
-Analyze (imaging software)
-Anatomy
-André-Michel Guerry
-Angiocardiography
-Angiography
 Antenna (radio)
-Aortography
-Aphelion (software)
 ArXiv (identifier)
-Arthrogram
-Arthur H. Robinson
-Arthur Lyon Bowley
-August Kekulé
-Avizo (software)
-B-scan
-Bang Wong
-Barium
-Ben Fry
-Ben Shneiderman
 Bibcode (identifier)
-Biological data visualization
-Biological imaging
-Biomarkers
 Biomedical engineering
-Biosensors
-Birth defect
-Bitplane
 Blood vessel
-Bone scintigraphy
-Borden Dent
-Brain computer interface
-Brain imaging
-Brain perfusion scanning
-Brain positron emission tomography
-Breast MRI
-Breast tumor
-Breast ultrasound
-Broadband
-Bronchography
-Bruce H. McCormick
-CMOS
-CMOS sensor
-CPK coloring
-CT pulmonary angiogram
-CT scan
-Cardiac PET
-Cardiac magnetic resonance imaging
-Cardiac magnetic resonance imaging perfusion
-Cardiology
-Cardiovascular
-Carestream Health
-Carotid ultrasonography
-Cartography
-Catherine Plaisant
-CellCognition
-CellProfiler
-Cesium iodide
-Charles-René de Fourcroy
-Charles Booth (social reformer)
-Charles Dupin
-Charles Joseph Minard
-Chart
-Chartjunk
-Chemical imaging
-Chest radiograph
-Cholangiography
-Cholecystography
-Cholescintigraphy
-Christopher R. Johnson
-CiteSeerX (identifier)
-Claudio Silva (computer scientist)
-Clifford A. Pickover
-Clinical endpoint
-Clinical research
-Clinical trial
 Cloud computing
-Colon cancer
-Color coding in data visualization
 Complications of pregnancy
-Computed tomography
-Computed tomography angiography
-Computed tomography of the abdomen and pelvis
-Computed tomography of the head
-Computed tomography of the thyroid
 Computer graphics
-Computer graphics (computer science)
 Computer science
-Cone beam computed tomography
-Confocal endoscopy
-Confocal microscopy
-Contact thermography
-Contrast-enhanced ultrasound
-Contrast media
-Copyright law of Germany
-Corneal topography
-Coronary CT angiography
-Coronary CT calcium scan
-Crime mapping
-Cynthia Brewer
-Cystography
 DICOM
-DMSA scan
-Dacryoscintigraphy
-Data visualization
-David Goodsell
-David McCandless
-Dental radiography
-Diagram
-Diffuse optical tomography
-Diffusion MRI
-Digital X-ray radiogrammetry
-Digital signal processors
-Disease
-Dlib
 Doi (identifier)
-Doppler echocardiography
-Doppler ultrasonography
-Drug development
-Dual-energy X-ray absorptiometry
-Duplex ultrasonography
-Dynamic angiothermography
-Echocardiogram
-Echocardiography
-Echoencephalography
-Edgar Anderson
-Edmond Halley
-Edward Tufte
-Edward Walter Maunder
-Ejnar Hertzsprung
-Elastography
-Electrical impedance tomography
-Electrocardiography
-Electroencephalography
 Electromagnetic field
-Electron beam computed tomography
-Emergency ultrasound
-Emission computed tomography
-Endomicroscopy
-Endoscopic ultrasound
-Endrov
 Engineering drawing
-Erwin Raisz
-Esaote
-FMRIB Software Library
-Fernanda Viégas
-Fiji (software)
-Florence Nightingale
-Flow visualization
-Fluorine-18
-Fluoroscopy
-Focal plane tomography
-Focused assessment with sonography for trauma
-Fracture
-Frame grabber
-Francis Amasa Walker
-Francis Galton
-FreeSurfer
 Free software
-Fritz Kahn
-Fujifilm
-Full-body CT scan
-Functional magnetic resonance imaging
-Functional near-infrared spectroscopy
-Functional neuroimaging
-GE HealthCare
-GNU Octave
-Gallium scan
-Gamma camera
 Gamma ray
-Gaspard Monge
-Gastric emptying study
-GemIdent
-Georg von Mayr
-George Furnas
-George G. Robertson
-Geovisualization
-Glucose
-Gordon Kindlmann
-Graph drawing
 Graph of a function
 Graphic design
-Graphic organizer
-Gynecologic ultrasonography
-Hadley Wickham
-Hans Rosling
-Hanspeter Pfister
-Harry Beck
 Hdl (identifier)
 Health Insurance Portability and Accountability Act
-Henry Gantt
-Henry Norris Russell
-High-resolution computed tomography
-Hitachi
-Hologic
-Hounsfield scale
-Howard G. Funkhouser
-Howard T. Fisher
-Howard Wainer
 Hydrogen
-Hysterosalpingography
-ICD-10 Procedure Coding System
-ICD-9-CM Volume 3
-IDL (programming language)
-IMOD (software)
 ISBN (identifier)
 ISSN (identifier)
-ITK-SNAP
 Ideogram
-Ilastik
-Image
-ImageJ
-Image processing
-Image sensors
-Imaging
-Imaging science
-Immunoscintigraphy
-InVesalius
-Indication (medicine)
-Indium-111 WBC scan
-Industry (manufacturing)
-Infographic
-Information art
-Information overload
 Information science
-Information visualization
-Insight Segmentation and Registration Toolkit
 Integrated circuit
-Intellectual disability
-Intracardiac echocardiogram
-Intravascular ultrasound
-Invasiveness of surgical procedures
-Iodinated contrast
 Ionizing radiation
-Iron oxide
 Isotope
 JPEG 2000
 JPIP
-Jacques Bertin
-Jayaram K Udupa
-Jeffrey Heer
-Jessica Hullman
-Jock D. Mackinlay
-John B. Peddle
-John Maeda
-John Snow
 John Tukey
-John Venn
-Joseph Priestley
-KNIME
-Karl Wilhelm Pohlke
-Kwan-Liu Ma
-Ladan and Laleh Bijani
-Larmor frequency
 Laser
 Lawrence J. Rosenblum
 Lead
-Leland Wilkinson
 Liver
-Lower gastrointestinal series
-Luigi Perozzo
-Lymphogram
 MATLAB
-MRI
-MRI RF shielding
-MRI contrast agent
-MRI scanner
-MRI sequence
-Magnetic particle imaging
-Magnetic resonance angiography
-Magnetic resonance cholangiopancreatography
-Magnetic resonance imaging
-Magnetic resonance imaging of the brain
-Magnetic resonance neurography
-Magnetic shielding
-Magnetoencephalography
-Mammography
-Mango (software)
-Manuel Lima
 Map
-Martin Krzywinski
-Martin M. Wattenberg
-Mary Eleanor Spear
-Mathematical diagram
-Matthew Henry Phineas Riall Sankey
-Mauro Martino
-Max O. Lorenz
-Media processor
 Medical Subject Headings
-Medical image computing
-Medical image sharing
-Medical imaging in pregnancy
-Medical instrumentation
-Medical optical imaging
-Medical physics
-Medical privacy
-Medical ultrasound
 Medicine
-MedlinePlus
 Megahertz
-Michael Friendly
-Michael Maltz
-Microcontrollers
-Microprocessors
-Mimics
-Miriah Meyer
-Miscarriage
-Misleading graph
-Molecular graphics
-Moritz Stefaner
-MountainsMap
-Myelography
-Myocardial perfusion imaging
-NMR
-Nanoparticle
-Near infrared spectroscopy
-Neuroimaging
-Neuroscience
-Neusoft
-Nigel Holmes
-Non-contact thermography
-Nuclear medicine
-OPS-301
-Obstetric ultrasonography
-Octreotide scan
-Oliver Byrne (mathematician)
-OpenCV
-Operation of computed tomography
-Ophthalmology
-Optical coherence tomography
-Optical tomography
-Orbital x-ray
-Organ (anatomy)
-Orthogonal polarization spectral imaging
-OsiriX
-Otto Neurath
-PET-CT
-PET-MRI
-PET scanner
 PMC (identifier)
 PMID (identifier)
-Pancreatic tumor
-Panoramic radiograph
-Pat Hanrahan
-Patent drawing
-Pathology
-Perfusion MRI
 Philips
-Photoacoustic imaging
-Photoacoustic imaging in biomedicine
 Photograph
-Physiology
-Pictogram
-Picture archiving and communication system
-Pittsburgh compound B
-Plot (graphics)
-Pneumoencephalography
-Polo Chau
 Positron
-Positron emission mammography
 Positron emission tomography
-Power semiconductor device
-Pre-existing disease in pregnancy
-Pre-hospital ultrasound
-Preclinical imaging
-Pregnancy
-Prenatal care
-Projectional radiography
 Proprietary software
-Protected health information
 Proton
-Psychiatry
 Psychology
-Pyelogram
-Quantitative computed tomography
-RadNet
-Radio-frequency
-Radio-opaque
-Radioactive iodine uptake test
-Radiodensity
-Radiographer
-Radiography
-Radioisotope
-Radioisotope renography
-Radiologist
-Radiologists Without Borders
-Radiology
-Radionuclide angiography
-Radionuclide ventriculography
-Radon transform
-Related rights
-Renal tract ultrasound
-Renal ultrasonography
-Rudolf Modley
 S2CID (identifier)
-SPECT
-Safety of magnetic resonance imaging
-Samsung
-Sankey diagram
-Scanning laser ophthalmoscopy
-Schematic
 Science
-Scientific modelling
-Scientific visualization
-Scintigraphy
-Scintimammography
-Scrotal ultrasound
-Semiconductor industry
-Sensitivity and specificity
-Sensors
-Sestamibi parathyroid scintigraphy
-Sheelagh Carpendale
-Shielding (radiography)
-Shimadzu Corp.
-Sialography
-Siemens Healthineers
-Single-photon emission computed tomography
-Skeletal formula
-Skeletal survey
-Small-bowel follow-through
-Social visualization
-Software visualization
-Spatial analysis
-Speckle tracking echocardiography
-Statistical graphics
-Stuart Card
-Superparamagnetic Iron Oxide Nanoparticles
-Superparamagnetism
-Surrogate endpoint
-Synthetic MRI
-System-on-chip
-Table (information)
-Tamara Munzner
-Technetium-99m
-Technical drawing
-Technical illustration
-Telemedicine
-Tesla (unit)
-Thermography
 Thomas A. DeFanti
-Tissue (biology)
-Title 17 of the United States Code
-Tomography
-Tomviz
-Toshiba
-Toussaint Loua
-Tractography
-Transcranial Doppler
-Transesophageal echocardiogram
-Transrectal ultrasonography
-Transthoracic echocardiogram
-Tumour
-Ultrasound
-Ultrasound research interface
-Upper gastrointestinal series
-User interface design
-VIGRA
-VXL
-Venography
-Ventilation/perfusion scan
-Virtual colonoscopy
-Visage SDK
-Visual analytics
-Visual culture
 Visual perception
 Visualization (graphics)
-Volume cartography
-Volume rendering
-W. E. B. Du Bois
 Wayback Machine
-Whole body imaging
-William Playfair
-William S. Cleveland
-Wolfram Mathematica
 X-ray
-X-ray computed tomography
-X-ray microtomography
-X-ray motion analysis
-X-rays

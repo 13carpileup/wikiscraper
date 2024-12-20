@@ -1,11 +1,7 @@
 360-degree video
 3D audio effect
 3D data acquisition and object reconstruction
-3D interaction
 3D modeling
-3D pose estimation
-3D reconstruction from multiple images
-4D reconstruction
 ARCore
 ARKit
 ARToolKit
@@ -16,13 +12,11 @@ Animation
 AntVR
 Apple Inc.
 Apple Vision Pro
-Articulated body pose estimation
 Asynchronous reprojection
 Attack of the Killer App
 Augmented reality
 Avatar (computing)
 Bibcode (identifier)
-Bisection
 Black Mirror
 Bob Sproull
 Boštjan Burger
@@ -38,7 +32,6 @@ Char Davies
 Cinematic virtual reality
 Code Lyoko
 Computer-mediated reality
-Coordinate
 Cyberith Virtualizer
 Daniel J. Sandin
 Den-noh Coil
@@ -49,7 +42,6 @@ Ela Darling
 Elia Petridis
 Eric Howlett
 Extended reality
-External device
 EyeTap
 Eye tracking
 Face tracking
@@ -57,8 +49,6 @@ Foveated rendering
 Fred Brooks
 Free viewpoint television
 Futurama
-Gesture
-Gesture recognition
 Godot (game engine)
 Golden-i
 Google
@@ -74,28 +64,19 @@ Haptic suit
 Head-mounted display
 Head-up display
 Henry Fuchs
-High-resolution
 HoloLens 2
 Holodeck
 Horizon Worlds
-Human-computer interaction
-Human image synthesis
 Image-based modeling and rendering
-Image processing
 Immersion (virtual reality)
-Inertial measurement unit
 Infrared
-Interaction point
 Interactive art
-Interface (computer science)
 Ivan Sutherland
 Jaron Lanier
 Jerome Foster II
 Jetpack Compose
 John Carmack
-Keyboard (computing)
 Khronos Group
-Kinematic chain
 Kiss Me First (TV series)
 Lawrence J. Rosenblum
 Leap Motion
@@ -125,9 +106,7 @@ Microsoft HoloLens
 Ming C. Lin
 Mixed reality
 Morton Heilig
-Motion blur
 Motion capture
-Mouse (computing)
 Myron W. Krueger
 NeosVR
 Netrunner
@@ -149,7 +128,6 @@ OpenVR
 OpenXR
 Open Source Virtual Reality
 Optical head-mounted display
-Optical system
 PMC (identifier)
 PMID (identifier)
 Palmer Luckey
@@ -157,7 +135,6 @@ Pancake lens
 Persistent world
 Pervasive game
 Philippe Bekaert
-Pianist
 Pico 4
 Pimax
 PlayStation Move
@@ -165,7 +142,6 @@ PlayStation VR
 PlayStation VR2
 Playtest (Black Mirror)
 Pose tracking
-Positional tracking
 Project Iris
 Projection augmented model
 Quantified self
@@ -181,9 +157,7 @@ Rec Room (video game)
 Resonite
 Rokoko (company)
 Room-scale
-SMPTE timecode
 SSSS.Gridman
-Samsung
 Samsung Electronics
 Samsung Gear VR
 Sansar (video game)
@@ -202,7 +176,6 @@ SixthSense
 Smartglasses
 Snow Crash
 Spatial computing
-State space
 Steven K. Feiner
 Sundar Pichai
 Superhot
@@ -222,8 +195,6 @@ Three-dimensional space
 Tim Cook
 Tony Parisi (software developer)
 Transhumanism
-Two-dimensional
-Ultrasound
 Unity (game engine)
 Unreal Engine
 VFX1 Headgear
@@ -239,7 +210,6 @@ Vector space
 Virtual Boy
 Virtual fixture
 Virtual graffiti
-Virtual object
 Virtual reality
 Virtual reality applications
 Virtual reality game
@@ -252,14 +222,12 @@ Virtuix Omni
 VisionOS
 VisionOS 2
 Visual perception
-Volumetric
 Vuforia Augmented Reality SDK
 Vuzix
 Warren Robinett
 Wearable computer
 WebXR
 White Christmas (Black Mirror)
-Widget (computing)
 Windows Mixed Reality
 Wired glove
 Wizdish ROVR

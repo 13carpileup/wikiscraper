@@ -7,7 +7,6 @@ Al-Jabr
 Al-Khwarizmi
 Alfred North Whitehead
 Algebra over a field
-Algebra over a set
 Algebra tile
 Algebraic closure
 Algebraic combinatorics
@@ -17,19 +16,13 @@ Algebraic geometry
 Algebraic logic
 Algebraic number theory
 Algebraic operation
-Algebraic operations
 Algebraic structure
-Algebraic structures
 Algebraic topology
-Algebraic varieties
 Algebraic variety
 Analytic geometry
 Analytic number theory
-Ancient China
 Ancient Egypt
 Ancient Greece
-Ancient India
-Ancient period
 Applied mathematics
 Arabic
 Arithmetic
@@ -41,9 +34,7 @@ Associative
 Associative algebra
 Associative property
 Axiom
-Axioms
 Babylonia
-Balance scales
 Basis (linear algebra)
 Bhāskara II
 Bijective
@@ -52,7 +43,6 @@ Binary operation
 Binomial (polynomial)
 Biology
 Bivariate polynomial
-Bonesetting
 Boolean algebra
 Brahmagupta
 Branches of mathematics
@@ -73,13 +63,11 @@ Coding theory
 Coefficient
 Combinatorics
 Commutative algebra
-Commutative group
 Commutative property
 Commutative ring
 Completing the square
 Complex analysis
 Complex number
-Complex numbers
 Composition algebra
 Computational complexity theory
 Computational mathematics
@@ -91,17 +79,12 @@ Constant function
 Continuous deformation
 Control theory
 Coordinate vector
-Countable noun
 Cramer's rule
-Cryptology
 Crystallography
 Cubic equation
-Cubic formula
 Cubic function
 Cyclotomic polynomial
 Data security
-Data transmission
-Dataset
 David Hilbert
 Degree of a polynomial
 Determinant
@@ -128,7 +111,6 @@ Electronics
 Elementary algebra
 Emil Artin
 Emmy Noether
-Empirical sciences
 Encyclopædia Britannica Eleventh Edition
 Engineering
 Engineering mathematics
@@ -153,10 +135,7 @@ Fermat's Last Theorem
 Fibonacci
 Field (mathematics)
 Field extension
-Field theory (mathematics)
-Finite-dimensional vector space
 Finite field
-Finite fields
 Finite geometry
 Flow diagram
 Foundations of mathematics
@@ -169,8 +148,6 @@ Function composition
 Functional analysis
 Fundamental theorem of Galois theory
 Fundamental theorem of algebra
-Fundamental theorem of finite abelian groups
-Fundamental theorem of finitely generated abelian groups
 Future of mathematics
 Galois theory
 Game theory
@@ -209,7 +186,6 @@ Homogeneous polynomial
 Homological algebra
 Homology (mathematics)
 Homomorphism
-Homotopy groups
 Homotopy theory
 Hopf algebra
 Horn clause
@@ -221,7 +197,6 @@ Ideal (ring theory)
 Identity (mathematics)
 Identity element
 Identity matrix
-Imaginary numbers
 Independent equation
 Inequality (mathematics)
 Inequation
@@ -229,19 +204,15 @@ Informal mathematics
 Information theory
 Inner product space
 Integer
-Integers
 Integral
 Invariant (mathematics)
 Inverse element
-Inverse matrix
 Irreducible polynomial
-Isomorphisms
 Italian language
 JSTOR (identifier)
 K-theory
 Karol Życzkowski
 LU decomposition
-Latin language
 Lattice (group)
 Lattice (order)
 Less-than sign
@@ -250,18 +221,15 @@ Liber Abaci
 Library of Congress Classification
 Lie algebra
 Lie group
-Lie groups
 Line (geometry)
 Linear algebra
 Linear equation
-Linear equations
 Linear form
 Linear function (calculus)
 Linear inequality
 Linear map
 Linear subspace
 List of films about mathematicians
-List of mathematicians
 Lists of mathematics topics
 Logarithm
 Logic
@@ -269,7 +237,6 @@ Logical reasoning
 Loop (topology)
 Machine learning
 Magma (algebra)
-Mahāvīra
 Mathematical Treatise in Nine Sections
 Mathematical analysis
 Mathematical and theoretical biology
@@ -278,13 +245,11 @@ Mathematical economics
 Mathematical finance
 Mathematical logic
 Mathematical object
-Mathematical objects
 Mathematical optimization
 Mathematical physics
 Mathematical psychology
 Mathematical sociology
 Mathematical statistics
-Mathematicians
 Mathematics
 Mathematics Subject Classification
 Mathematics and art
@@ -292,7 +257,6 @@ Mathematics education
 Mathematics of paper folding
 Matrix (mathematics)
 Matrix addition
-Matrix algebra
 Matrix decomposition
 Matrix multiplication
 Measure (mathematics)
@@ -300,21 +264,15 @@ Model theory
 Module (mathematics)
 Monoid
 Monomial
-Morphisms
-Muhammad ibn Musa al-Khwarizmi
 Multilinear algebra
 Multilinear map
 Multiplication
 Multiplicative inverse
 Multivariate polynomial
 Multivector
-Natural numbers
-Newton–Raphson method
 Niels Henrik Abel
 Noise
 Non-associative algebra
-Non-associative algebras
-Noncommutative algebra
 Norm (mathematics)
 Normed vector space
 Nth root
@@ -337,18 +295,12 @@ Physics
 Plane (mathematics)
 Plus Magazine
 Polynomial
-Polynomial equation
-Polynomial equations
 Polynomial evaluation
-Polynomial factorization
-Polynomial function
 Polynomial greatest common divisor
 Polynomial identity testing
 Polynomial long division
-Polynomial resultant
 Polynomial ring
 Probability theory
-Propositional logic
 Pythagoras
 Qin Jiushao
 Quadratic equation
@@ -356,7 +308,6 @@ Quadratic formula
 Quadratic function
 Quantum mechanics
 Quartic equation
-Quartic formula
 Quartic function
 Quasi-homogeneous polynomial
 Quasi-identity
@@ -367,12 +318,9 @@ Quotient group
 Quotient object
 Quotient ring
 Rank (linear algebra)
-Rates of change
 Rational function
-Rational numbers
 Real analysis
 Real number
-Real numbers
 Recreational mathematics
 Relation (mathematics)
 Relational algebra
@@ -388,11 +336,9 @@ Robotics
 Root of unity
 Rotation
 Rubik's Cube group
-Rubik's cube
 Scalar multiplication
 Scheme (mathematics)
 Scheme theory
-Scientific laws
 Secondary education
 Semigroup
 Septic equation
@@ -405,7 +351,6 @@ Solution in radicals
 Spanish language
 Spectral theory
 Sphere
-Springer-Verlag
 Square-free polynomial
 Statement (logic)
 Statistics
@@ -419,13 +364,10 @@ Symmetric algebra
 Symmetry group
 System
 System of linear equations
-Systems of polynomial equations
 Systems science
-T-algebra
 Tensor
 Tensor algebra
 Ternary operation
-The Compendious Book on Calculation by Completion and Balancing
 The Nine Chapters on the Mathematical Art
 Theory of computation
 Theory of equations
@@ -433,7 +375,6 @@ Three-dimensional space
 Thābit ibn Qurra
 Timeline of algebra
 Timeline of mathematics
-Topological groups
 Topological space
 Topology
 Trace (linear algebra)
@@ -443,17 +384,12 @@ Two-dimensional space
 Type theory
 Unary operation
 Underdetermined system
-Undergraduate
-Univariate polynomial
 Universal algebra
 Universal quantification
 Variable (mathematics)
 Variety (universal algebra)
 Vector space
 Wikisource
-Wiles' proof of Fermat's Last Theorem
 Word problem (mathematics education)
-Zbl (identifier)
 Zero of a function
-Zero polynomial
 Évariste Galois

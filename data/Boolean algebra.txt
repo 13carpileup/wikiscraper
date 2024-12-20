@@ -1,103 +1,61 @@
 AND gate
-A Symbolic Analysis of Relay and Switching Circuits
 Abstract algebra
 Abstract logic
 Ackermann set theory
 Aleph number
 Algebra
-Algebra of concepts
-Algebra of sets
 Algebraic logic
 Algebraic semantics (mathematical logic)
 Algebraic structure
 Algorithm
 Alphabet (formal languages)
-An Investigation of the Laws of Thought
-Application-specific integrated circuit
 Argument
 Arity
 Assembly language
-Asynchronous circuit
 Atomic formula
 Atomic sentence
 Automata theory
 Automated theorem proving
-Automorphism
 Axiom
 Axiom of choice
 Axiom schema
 Axiomatic system
-Axiomatization
-Axiomatization of Boolean algebras
-Axioms
 Banach–Tarski paradox
-Bell System Technical Journal
 Bijection
-Binary decision diagram
-Binary number
 Binary operation
-Binary operator
-Bit
-Bit blit
-Bit vector
-Bitwise
-Bocheński, Józef Maria
-Boolean-valued semantics
 Boolean algebra (structure)
 Boolean algebras canonically defined
-Boolean circuit
-Boolean differential calculus
 Boolean function
-Boolean polynomial
-Boolean prime ideal theorem
-Boolean satisfiability problem
-Boolean variable
-Booleo
-Branden Fitelson
 CRC Press
 Cambridge University Press
-Cambridge and Dublin Mathematical Journal
 Cantor's diagonal argument
 Cantor's paradox
 Cantor's theorem
-Cantor algebra
 Capacitor
 Cardinality
-Carry (arithmetic)
 Cartesian product
 Categorical theory
 Category (mathematics)
 Category of sets
 Category theory
-Characteristica universalis
 Charles Sanders Peirce
 Church encoding
 Church–Turing thesis
-Circuit complexity
-Circuit diagram
-Circuit minimization for Boolean functions
 Class (set theory)
 Classical logic
 Claude Shannon
 Codomain
-Cofinite
-Combinational logic
 Compactness theorem
 Complement (set theory)
-Complemented lattice
 Complete theory
-Complex programmable logic device
 Computability theory
 Computable function
 Computable set
 Computably enumerable set
 Computer
-Computer aided design
 Computer architecture
-Computer displays
 Computer hardware
 Concrete category
-Conjunction/disjunction duality
 Conservative extension
 Consistency
 Constructible universe
@@ -105,49 +63,25 @@ Construction of the real numbers
 Constructive set theory
 Continuum hypothesis
 Countable set
-Courier Dover Publications
-De Morgan's law
 De Morgan's laws
-De Morgan duality
 Decidability (logic)
 Decision problem
-Deductive system
 Diagram (mathematical logic)
 Digital audio
-Digital cinematography
-Digital electronics
-Digital logic
-Digital photography
-Digital radio
-Digital signal
-Digital signal (signal processing)
-Digital signal processing
 Digital television
-Digital video
-Disjunction
-Distributive lattice
 Doi (identifier)
 Domain of a function
-Edward Vermilye Huntington
-Electronic circuit
 Electronic component
 Electronic design automation
-Electronic literature
-Electronics design
 Element (mathematics)
 Elementary algebra
 Elementary diagram
 Elementary equivalence
 Elementary function arithmetic
-Elsevier
-Emitter-coupled logic
 Empty set
-Entailment
 Enumeration
 Equiconsistency
 Equivalence relation
-Erasable programmable logic device
-Ernst Schröder (mathematician)
 Euclid's Elements
 Euclidean geometry
 Existential quantification
@@ -155,26 +89,19 @@ Expression (mathematics)
 Extension by definitions
 Extension by new constant and function names
 Extensionality
-False premise
 Field-programmable gate array
-Field-programmable object array
 Field (mathematics)
-Field of sets
 Finitary relation
 Finite-state machine
 Finite-valued logic
 Finite model theory
 Finite set
 First-order logic
-First order logic
 Fixed-point logic
-Flip-flop (electronics)
 Forcing (mathematics)
-Formal equivalence checking
 Formal grammar
 Formal language
 Formal proof
-Formal semantics (logic)
 Formal system
 Formal verification
 Formation rule
@@ -185,52 +112,32 @@ Free variables and bound variables
 Function (mathematics)
 Function composition
 Functional predicate
-Fuzzy logic
 Fuzzy set
-GF(2)
-Gate equivalent
 General set theory
-Generic Array Logic
 George Boole
 Google
-Gottfried Wilhelm Leibniz
-Greatest common divisor
 Grothendieck universe
 Ground expression
-Ground formula
 Group (mathematics)
-Group action (mathematics)
 Group theory
 Gödel's completeness theorem
 Gödel's incompleteness theorems
 Gödel numbering
 Halting problem
 Hardware acceleration
-Hardware description language
 Harvard University Press
-Henry M. Sheffer
 Hereditary set
 Heyting algebra
-Hierarchical state machine
-High-level synthesis
 Higher-order logic
 Hilbert's axioms
 Hilbert system
 History of logic
-History of mathematical logic
-Hybrid integrated circuit
 ISBN (identifier)
 ISSN (identifier)
-I Ching
-Idempotence
 Identity (mathematics)
 Image (mathematics)
 Inaccessible cardinal
-Indefinite article
 Independence (mathematical logic)
-Index set
-Indexed family
-Indicator function
 Inductor
 Inference
 Infinite-valued logic
@@ -240,33 +147,18 @@ Inhabited set
 Injective function
 Integer
 Integrated circuit
-Internet Encyclopedia of Philosophy
 Interpretation (logic)
 Interpretation (model theory)
-Interpretation function
 Intersection (set theory)
 Intuitionistic logic
 Inverter (logic gate)
-Isomorphic
 Isomorphism
-Jean-Yves Girard
-John Etchemendy
-John Venn
-Jon Barwise
-Journal of Automated Reasoning
-Klein four-group
 Kolmogorov complexity
-Kripke's theory of truth
 Kripke–Platek set theory
-LCCN (identifier)
 Lambda calculus
 Large cardinal
-Larry Wos
-Least common multiple
 Lemma (mathematics)
 Lindström's theorem
-List of Boolean algebra topics
-List of Hilbert systems
 List of axioms
 List of first-order theories
 List of formal systems
@@ -274,12 +166,8 @@ List of mathematical theories
 List of set identities and relations
 List of statements independent of ZFC
 Logic
-Logic design
 Logic gate
-Logic gates
 Logic in computer science
-Logic optimization
-Logic synthesis
 Logical biconditional
 Logical conjunction
 Logical connective
@@ -288,39 +176,23 @@ Logical constant
 Logical disjunction
 Logical equality
 Logical equivalence
-Logical operation
-Logical operator
-Logical system
 Logical truth
 Logicism
 Löwenheim–Skolem theorem
-M. H. Stone
-MR (identifier)
-Machine code
-Macrocell array
-Magnetic storage
 Many-valued logic
 Map (mathematics)
-Mask (computing)
 Material conditional
 Mathematical logic
 Mathematical object
-Mathematical structure
 Mathematics
-Memory cell (computing)
 Metalanguage
-Metastability (electronics)
 Minimal axioms for Boolean algebra
-Mixed-signal integrated circuit
-Model (logic)
 Model complete theory
 Model of computation
 Model theory
-Modular arithmetic
 Monadic predicate calculus
 Monadic second-order logic
 Morse–Kelley set theory
-Multi-valued logic
 NP-complete
 NP (complexity)
 Naive set theory
@@ -331,7 +203,6 @@ Non-Euclidean geometry
 Non-logical symbol
 Non-standard model
 Non-standard model of arithmetic
-North Holland
 Number
 OR gate
 Open formula
@@ -341,60 +212,34 @@ Ordinal number
 Oxford University Press
 P (complexity)
 P versus NP problem
-Paper tape
 Paradoxes of set theory
-Partially ordered set
 Partition of a set
-Paul Richard Halmos
 Peano axioms
 Philosophy of mathematics
-Pixels
-Place and route
-Placement (electronic design automation)
 Power set
 Predicate (mathematical logic)
-Predicate logic
 Predicate variable
 Primitive recursive arithmetic
 Primitive recursive function
-Princeton University Press
 Principia Mathematica
 Printed circuit board
-Printed electronics
-Probabilistic logic
-Programmable Array Logic
-Programmable logic array
-Programmable logic device
 Programming language
-Programming languages
-Prometheus Books
 Proof of impossibility
 Proof theory
 Proposition
 Propositional calculus
 Propositional formula
-Propositional logic
 Propositional variable
-Punched card
 Quantifier (logic)
 Quantifier rank
 Raster graphics
 Real number
 Recursion
-Recursive set
-Register-transfer level
 Relation (mathematics)
-Relation algebra
-Relevance logic
-Resistor
-Reuben Louis Goodstein
 Reverse mathematics
 Ring (mathematics)
 Robinson arithmetic
-Roman Sikorski
-Routing (electronic design automation)
 Rule of inference
-Runt pulse
 Russell's paradox
 S2CID (identifier)
 Satisfiability
@@ -407,9 +252,7 @@ Semantic theory of truth
 Semantics of logic
 Sentence (mathematical logic)
 Sequence
-Sequent
 Sequent calculus
-Sequential logic
 Set (mathematics)
 Set theory
 Sheffer stroke
@@ -421,68 +264,41 @@ Solid modeling
 Soundness
 Spectrum of a sentence
 Spectrum of a theory
-Springer-Verlag
 Springer Science+Business Media
-Square-free integer
 Square of opposition
-Stanford Encyclopedia of Philosophy
 Statistics
-Stone's representation theorem for Boolean algebras
 Strength (mathematical logic)
-String (formal languages)
 Structure (mathematical logic)
-Subset
 Substitution (logic)
 Substructure (mathematics)
 Supertask
 Surjective function
-Switching circuit
-Switching circuit theory
 Syllogism
 Symbol (formal)
-Synchronous circuit
 Syntax (logic)
 T-schema
 Tarski's axiomatization of the reals
 Tarski's axioms
-Tarski's theory of truth
 Tarski's undefinability theorem
 Tarski–Grothendieck set theory
 Tautology (logic)
-Telephony
-Tensor Processing Unit
 Term (logic)
 Term logic
-The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science
 Theorem
 Theoretical computer science
-Theories of truth
 Theory (mathematical logic)
-Three-dimensional integrated circuit
 Three-valued logic
-Time complexity
 Timeline of mathematical logic
-Transaction-level modeling
-Transactions of the American Mathematical Society
 Transfer principle
-Transistor
 Transitive set
 True arithmetic
-Truth assignment
 Truth predicate
 Truth table
-Truth tables
 Truth value
-Truth values
 Turing machine
-Two-element Boolean algebra
-Two-valued logic
 Type (model theory)
 Type theory
-Ultrafilter (set theory)
 Ultraproduct
-Unary operator
-Uncountable
 Uncountable set
 Undecidable problem
 Uninterpreted function
@@ -495,5 +311,4 @@ Universe (mathematics)
 Urelement
 Validity (logic)
 Variable (mathematics)
-Vector logic
 Venn diagram

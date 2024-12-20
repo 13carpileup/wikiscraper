@@ -12,7 +12,6 @@ Arabic Braille
 Arabic script
 Armenian Braille
 Asterisk
-Azeri Braille
 B
 Belarusian Braille
 Bengali Braille
@@ -36,9 +35,7 @@ Burmese Braille
 C
 Canadian currency tactile feature
 Cantonese Braille
-Capital letter
 Catalan Braille
-Ch (digraph)
 Charles Barbier
 Colon (punctuation)
 Comma
@@ -46,10 +43,8 @@ Computer Braille Code
 Cyrillic alphabets
 Czech Braille
 D
-Dash
 Decapoint
 Devanagari Braille
-Dutch alphabet
 Dutch language
 Dzongkha Braille
 E
@@ -59,12 +54,10 @@ Estonian Braille
 Exclamation mark
 F
 Faroese Braille
-Flanders
 French Braille
 Full stop
 G
 Gardner–Salinas braille codes
-Ge'ez Braille
 Georgian Braille
 German Braille
 Ghanaian braille
@@ -77,14 +70,12 @@ Hawaiian Braille
 Hebrew Braille
 Hungarian Braille
 I
-IJ (digraph)
 IPA Braille
 Icelandic Braille
 International uniformity of braille alphabets
 Inuktitut Braille
 Irish Braille
 Italian Braille
-Italic type
 Iñupiaq Braille
 J
 Japan Braille Library
@@ -119,10 +110,8 @@ Night writing
 Northern Sámi Braille
 O
 Odia Braille
-Oe (digraph)
 Optical braille recognition
 P
-Parentheses
 Perforation
 Perkins Brailler
 Persian Braille
@@ -143,7 +132,6 @@ S
 Sabriye Tenberken
 Samoan Braille
 Scandinavian Braille
-Sch (trigraph)
 Semicolon
 Sinhala Braille
 Slash (punctuation)
@@ -158,22 +146,8 @@ Tamil Braille
 Tatar Braille
 Telugu Braille
 Thai and Lao Braille
-Thakur Vishva Narain Singh
-Tibetan Braille
-Turkish Braille
-Two-cell Chinese Braille
 U
-Ukrainian Braille
-Unified English Braille
-Urdu Braille
 V
-Valentin Haüy
-Vibratese
-Vietnamese Braille
 W
-Welsh Braille
-William Bell Wait
 X
-Yugoslav Braille
 Z
-Zambian Braille

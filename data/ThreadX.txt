@@ -1,311 +1,68 @@
 2D computer graphics
-4680 OS
-4690 Operating System
-AIM alliance
-ARC (processor)
-ARM11
-ARM7
-ARM9
-ARM Cortex-A12
-ARM Cortex-A15
-ARM Cortex-A17
-ARM Cortex-A34
-ARM Cortex-A35
-ARM Cortex-A5
-ARM Cortex-A53
-ARM Cortex-A55
-ARM Cortex-A57
-ARM Cortex-A65
-ARM Cortex-A7
-ARM Cortex-A72
-ARM Cortex-A73
-ARM Cortex-A75
-ARM Cortex-A76
-ARM Cortex-A77
-ARM Cortex-A8
-ARM Cortex-A9
-ARM Cortex-M0
-ARM Cortex-M0+
-ARM Cortex-M23
-ARM Cortex-M3
-ARM Cortex-M33
-ARM Cortex-M4
-ARM Cortex-M55
-ARM Cortex-M7
-ARM Cortex-M85
-ARM Cortex-R4
-ARM Cortex-R5
-ARM Cortex-R7
-ARM architecture
-AROS Research Operating System
-ARX (operating system)
-ASIL D
-Adam Dunkels
-Adaptive Domain Environment for Operating Systems
-Amiga
-AmigaOS
-Amoeba (operating system)
 Andrew S. Tanenbaum
-Apache Mynewt
 Application programming interface
 Asymmetric multiprocessing
-Avie Tevanian
-BeRTOS
-Binary blob
 Booting
 C (programming language)
-Capability-based security
-ChibiOS/RT
-ChorusOS
-Comparison of real-time operating systems
-Concurrent DOS
-Context switching
-Contiki
-Copland (operating system)
-Cosmos (operating system)
-DNIX
-DO-178
 DOS
-DSOS
-Dan Dodge
-Datagram Transport Layer Security
-Dave Cutler
-David Cheriton
-Deep Impact (spacecraft)
-Determinism
 Digital Equipment Corporation
-DioneOS
 Display device
-ECos
-EKA1
-EKA2
-EN 50128
 EPOC (operating system)
-ERIKA Enterprise
-EROS (microkernel)
-Eclipse Foundation
-Embedded operating system
-Embedded software
 Embedded system
 EulerOS
-Eumel
-ExFAT
-Exec (Amiga)
 FAT12
 FAT16
 FAT32
 File system
-Flash memory
-FlexOS
 FreeRTOS
-GNOSIS
-GNU Hurd
-GNU Mach
-Genode
-Gernot Heiser
-Gigabyte
 GitHub
-Gordon Bell (QNX)
 Graphical user interface
-Graphical widget
 Graphics processing unit
-Green Hills Software
 HarmonyOS
 HarmonyOS NEXT
-Harmony (operating system)
-HelenOS
-Hydra (operating system)
 IBM
-IEC 60335
-IEC 60730
 IEC 61508
 IEC 62304
-IPsec
-IPv4
-IPv6
 ISO 26262
-ITRON project
-Ike Nassi
-Integrity (operating system)
 Intel
 Intel Management Engine
-Internet of things
-Internet protocol suite
-Interrupt
-JX (operating system)
-James G. Mitchell
-JavaOS
-Java virtual machine
-Jochen Liedtke
-Junos OS
-K42
-Ken Sakamura
 Kernel (operating system)
-KeyKOS
-L3 microkernel
-L4Linux
-L4 microkernel family
 Library (computing)
 Linux
-List of Hewlett-Packard products
 LiteOS
-Lites
 Lock (computer science)
-LynxOS
 MIPS architecture
 MISRA C
-MIT License
-MQX
-MacMach
-Mac OS 8
-Mac OS nanokernel
-MachTen
-Mach (kernel)
 Macintosh
-Meiko Scientific
-Memory management
-Memory management unit
-Memory protection unit
-Message queue
-Micro-Controller Operating Systems
-MicroEmpix
-Micro T-Kernel
-Microkernel
 Microsoft
 Microsoft Windows
-Microware
-Midori (operating system)
-Minix
-Minix-vmd
 Minix 3
-MkLinux
-MorphOS
-Motor Industry Software Reliability Association
-Multi-Environment Real-Time
-Multi-core processor
-Multiuser DOS
-Mutual exclusion
 NASA
-NLTSS
-NXP
-NXP ColdFire
-Nano-RK
-NuKernel
-Nucleus RTOS
-NuttX
-OS-9
-OS2000
 Open-source software
-OpenComRTOS
 OpenHarmony
-Open Kernel Labs
 Open source
-Operating System Embedded
 Operating system
-PDP-11
-PIC microcontrollers
 POSIX
-PSOS (real-time operating system)
-PX5 RTOS
 Package manager
-Per Brinch Hansen
-Phantom OS
-Picokernel
-PikeOS
-PowerPC
-PowerUP (accelerator)
-Priority inheritance
 Programmer
 Programming language
-Psion (company)
 QNX
-Quark (kernel)
-RC 4000 multiprogramming system
-REAL/32
-REX OS
-RIOT (operating system)
-RISC-V
-RMX (operating system)
 RSX-11
 RT-11
-RT-Thread
-RTAI
-RTEMS
-RTLinux
 Raspberry Pi
-Real-Time Linux
-Real-time operating system
-Redox (operating system)
-Renesas Electronics
-Repository (version control)
-Richard Rashid
-Robot Operating System
-Royalty payment
-SPIN (operating system)
-San Diego, California
-ScreenOS
-SeL4
-Segger Microcontroller Systems
 Semaphore (programming)
-SharpOS
-Single-board computer
-Singularity (operating system)
-Sintran III
 Software development kit
 Software framework
 Software license
 Software release life cycle
 Source code
-Spring (operating system)
-Super Harvard Architecture Single-Chip Computer
 Symbian
 Symmetric multiprocessing
 Synchronization (computer science)
-T-Engine Forum
-T-Kernel
-T-License
-TCP/IP
-THEOS
-TI-RTOS
-TRON project
-Taligent
-Technischer Überwachungsverein
-Telnet
-Tensilica
-Texas Instruments
-Thomas Bushnell
-Thoth (operating system)
 Thread (computing)
-Thread (network protocol)
-Tinix
-Transaction Processing Facility
 Transport Layer Security
-TÜV
-UL (safety organization)
-UL 1998
-UL 60730
-UNICOS
-UNOS (operating system)
 USB
-Unix-like
 User interface
 VAX
 VAXELN
-VSTa
-V (operating system)
-Vanguard (microkernel)
-Versatile Real-Time Executive
-Verve (operating system)
-VxWorks
-WYSIWYG
-WarpOS
-William Lamie
-William Wulf
-Windows Embedded Compact
-Windows XP
-WolfSSL
-Wombat (operating system)
-Workplace OS
 X86
-Xenomai
-Zephyr (operating system)

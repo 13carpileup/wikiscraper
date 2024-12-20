@@ -1,316 +1,69 @@
-3D rotation group
 Abelian group
-Academic Press
-Adjoint representation
-Adjoint representation of a Lie algebra
-Ado's theorem
-Affine Lie algebra
-Affine group
 Algebra over a field
-Algebraic group
-Algebraic number field
 Algebraic number theory
 Algebraic structure
 Algebraically closed field
-Alternating multilinear map
-Angular momentum operator
-Annals of Mathematics
-Anthony W. Knapp
-Anticommutativity
-Armand Borel
 Associative
 Associative algebra
-Automorphism group
-Automorphism of a Lie algebra
-Baker–Campbell–Hausdorff formula
 Basis (linear algebra)
 Bijective
 Binary operation
-Borel–Weil–Bott theorem
 Cambridge University Press
-Cartan's criterion
-Cartan subalgebra
-Category of rings
-Category of vector spaces
 Category theory
-Center (group theory)
-Centralizer
-Chain complex
-Characteristic (algebra)
-Circle group
-Classical Lie algebra
-Classical Lie groups
-Classical group
-Classification of low-dimensional real Lie algebras
-Claude Chevalley
 Clifford algebra
 Commutative algebra
 Commutative ring
-Commutativity
 Commutator
-Commutator (ring theory)
-Commutator subgroup
-Compact Lie algebra
-Compact Lie group
-Compact form
-Complex Lie algebra
 Complex number
-Complexification
-Complexification (Lie group)
-Conformal group
-Conjugate transpose
-Connected space
-Covering space
-Cross product
-Daniel Quillen
-Derivation (abstract algebra)
-Derived series
 Determinant
-Diffeomorphism
-Diffeomorphism group
-Differential graded Lie algebra
-Dihedral group
 Dimension (vector space)
-Direct product
 Discrete group
-Division ring
 Doi (identifier)
-Dynkin diagram
-E6 (mathematics)
-E7 (mathematics)
-E8 (mathematics)
 Edmund F. Robertson
-Eigenspace
 Encyclopedia of Mathematics
-Endomorphism ring
-Engel's theorem
-Equivalence of categories
-Euclidean domain
-Euclidean group
-Eugene Wigner
 European Mathematical Society
-Exceptional Lie algebra
-Exponential map (Lie theory)
-F4 (mathematics)
 Field (mathematics)
 Finite field
-First isomorphism theorem
-Formal power series ring
-Fractional ideal
 Fraktur
-Free Lie algebra
 Free algebra
-Free product of associative algebras
-Frobenius endomorphism
-Frobenius integrability theorem
-G2 (mathematics)
-GCD domain
-Gelfand–Fuks cohomology
-General linear group
 Geometric algebra
-Glossary of Lie groups and Lie algebras
-Graded Lie algebra
-Graded ring
 Graduate Texts in Mathematics
 Group (mathematics)
-Group action
-Group scheme
-Groups of Lie type
-Harish-Chandra
-Harish-Chandra module
-Heisenberg algebra
-Heisenberg group
-Henri Poincaré
-Hermann Weyl
-Hermitian inner product
-Homeomorphism
-Homotopy group
 Hopf algebra
-Hydrogen-like atom
 ISBN (identifier)
 ISSN (identifier)
 Ideal (ring theory)
-Identity component
 Identity matrix
-Index of a Lie algebra
-Infinitesimal transformation
-Injective
-Inner automorphism
 Integer
-Integers modulo n
-Integral domain
-Integrally closed domain
-Invertible matrix
-Involutive ring
 JSTOR (identifier)
-Jacobi identity
-James E. Humphreys
-Jean-Pierre Serre
-Joe Harris (mathematician)
-John J. O'Connor (mathematician)
-John Milnor
-Jordan ring
-Kac–Moody algebra
-Karin Erdmann
-Kenkichi Iwasawa
-Kernel (algebra)
 Killing form
-Ladder operator
-Left adjoint
-Leibniz algebra
-Levi decomposition
-Lie's third theorem
-Lie algebra cohomology
-Lie algebra extension
-Lie algebra representation
-Lie bialgebra
-Lie bracket
-Lie bracket of vector fields
-Lie coalgebra
-Lie correspondence
 Lie group
-Lie group–Lie algebra correspondence
-Lie n-algebra
-Lie operad
-Lie ring
-Lie superalgebra
-Linear group
 Linear map
-List of simple Lie groups
-Loop algebra
-Loop group
-Lorentz group
-Lower central series
-MR (identifier)
 Mathematics
 Matrix (mathematics)
 Matrix exponential
-Maximal torus
 Module (mathematics)
-Morphism
-Moyal bracket
-Nathan Jacobson
-Nicolas Bourbaki
-Nilpotent Lie algebra
-Nilpotent endomorphism
-Nilpotent group
 Non-associative algebra
-Non-associative ring
-Noncommutative algebra
-Noncommutative algebraic geometry
-Noncommutative ring
-Nondegenerate form
-Normal subgroup
-Normalizer
 OCLC (identifier)
-Operator algebra
-Orientability
-Orthogonal group
-Orthogonal symmetric Lie algebra
-Outer automorphism group
-P-adic analytic group
-P-adic integer
-P-adic number
-P-group
-Particle physics and representation theory
 Physics
-Poincaré group
-Poincaré–Birkhoff–Witt theorem
-Poisson algebra
 Polynomial ring
-Pre-Lie algebra
-Princeton University Press
-Principal ideal domain
-Product (category theory)
-Product of rings
-Product rule
-Prüfer group
-Quantum groups
 Quantum mechanics
-Quasi-Frobenius Lie algebra
-Quasi-Lie algebra
 Quotient ring
-Radical of a Lie algebra
-Rational homotopy theory
-Rational number
-Real form
-Real form (Lie theory)
 Real number
-Reductive Lie algebra
-Representation of a Lie group
 Representation theory
-Representation theory of semisimple Lie algebras
-Representation theory of the Galilean group
-Representation theory of the Lorentz group
-Representation theory of the Poincaré group
-Representations of classical Lie groups
-Restricted Lie algebra
-Richard Earl Block
-Riemann sphere
 Ring (mathematics)
-Ring homomorphism
 Ring of integers
 Ring theory
-Root system
-Rotation group SO(3)
-SO(3)
-SU(2)
-Semidirect product
-Semifield
-Semiprimitive ring
-Semiring
 Semisimple Lie algebra
-Semisimple representation
-Serre relations
 Simple Lie algebra
-Simple Lie group
-Simple ring
-Simply connected
-Skew-symmetric matrix
-Smooth function
-Smooth manifolds
-Solvable Lie algebra
-Solvable group
-Sophus Lie
 Special linear group
-Special orthogonal group
-Special unitary group
 Sphere
 Spin (physics)
-Split Lie algebra
-Split form
-String theory
 Subring
-Symmetric bilinear form
-Symplectic Lie algebra
-Symplectic group
-Symplectic vector space
-Table of Lie groups
-Tangent space
 Tensor algebra
 Tensor product
-Tensor product of algebras
-Theorem of the highest weight
 Topological space
-Torus
-Total ring of fractions
 Trace (linear algebra)
 Transpose
-Unique factorization domain
-Unitary group
-Universal cover
-Universal enveloping algebra
-Upper-triangular
 Vector field
 Vector space
-Veeravalli S. Varadarajan
-Victor Kac
-Virasoro algebra
-Weyl's theorem on complete reducibility
-Weyl character formula
-Weyl group
-Whitehead product
-Wilhelm Killing
-William Fulton (mathematician)
-Zero ring
-Élie Cartan

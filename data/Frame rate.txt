@@ -1,328 +1,51 @@
 2D computer graphics
 3D computer graphics
-842 (compression algorithm)
-A-law algorithm
-AMD Instinct
-Adaptive Huffman coding
-Adaptive coding
-Adaptive differential pulse-code modulation
-Adreno
-Algebraic code-excited linear prediction
-Aliasing
 Animated cartoon
 Anime
-Apple silicon
-Application-specific integrated circuit
 ArXiv (identifier)
-Arithmetic coding
-Asymmetric numeral systems
-Audio codec
-Average bitrate
-Bit rate
-Blitter
-Brotli
-Burrows–Wheeler transform
-Burst rate
-Burstable billing
-Byte pair encoding
-Bzip2
-CMOS
-Canonical Huffman code
-Chain code
-Chroma subsampling
-Clock rate
-Code-excited linear prediction
-Coding tree unit
-Cognitive neuroscience of visual object recognition
-Color grading
-Color space
-Companding
-Comparison gallery of image scaling algorithms
-Comparison of 3dfx graphics processing units
-Compressed data structure
-Compressed suffix array
-Compression artifact
-Compute kernel
 Computer animation
-Computer display
-Computer display standard
-Constant bitrate
-Context mixing
-Context tree weighting
-Convolution
 Data compression
-Data compression symmetry
-Daubechies wavelet
-Deblocking filter
-Deflate
-Deflicking
-Deinterlacing
-Delta encoding
-Delta modulation
-Delta timing
-Depth of field
-Dictionary coder
-Differential pulse-code modulation
-Digital image processing
-Direct memory access
 Discrete cosine transform
-Discrete sine transform
-Discrete wavelet transform
 Display resolution
 Doi (identifier)
-Dot crawl
-Dynamic Markov compression
-Dynamic range
-Elias gamma coding
-Embedded zerotrees of wavelet transforms
 Engadget
 Entropy (information theory)
-Entropy coding
-Exponential-Golomb coding
-External GPU
-FLOPS
-FM-index
-Fast Fourier transform
-Federal Standard 1037C
-Fibonacci coding
-Fillrate
 Film
-Film-out
 Film colorization
-Film frame
-Film look
-Film tinting
-FinFET
-Flicker fusion threshold
-Fourier transform
-Fractal compression
-Framebuffer
 Frequency
-GDDR2
-GDDR3
-GDDR4
-GDDR5
-GDDR6
-GDDR7
-GDDR SDRAM
-GPU
-GPU cluster
-GPU switching
-GeForce
 General-purpose computing on graphics processing units
-Geometry pipelines
-Geometry processing
-Giga-updates per second
-Gigapixel image
-Glaze3D
 Global illumination
-Glossary of video terms
-Golomb coding
-Grammar-based code
-Graphics library
-Graphics pipeline
 Graphics processing unit
-HBM-PIM
-HBM2
-HBM2E
-HBM3
-HBM3E
 Hardware acceleration
 Hdl (identifier)
 Hertz
-High-dynamic-range rendering
-High Bandwidth Memory
-High frame rate
 Horse gait
 Huffman coding
-Hutter Prize
 ISBN (identifier)
-Image
 Image compression
-Image projector
-Image resolution
-Image scaling
-Image warping
-Imageon
-Incremental encoding
-InfiniteReality
 Information theory
-Input–output memory management unit
-Integrated graphics
-Intel 2700G
-Intel Arc
-Intel Graphics Technology
-Intel Xe
-Interlaced video
-Karhunen–Loève theorem
 Kolmogorov complexity
-LHA (file format)
-LZ4 (compression algorithm)
-LZ77 and LZ78
-LZFSE
-LZJB
-LZRW
-LZWL
-LZX
-Lapped transform
-Latency (audio)
-Lempel–Ziv–Markov chain algorithm
-Lempel–Ziv–Oberhumer
-Lempel–Ziv–Stac
-Lempel–Ziv–Storer–Szymanski
-Lempel–Ziv–Welch
-Levenshtein coding
-Lifewire
-Line spectral pairs
-Linear predictive coding
-List of AMD graphics processing units
-List of Intel graphics processing units
-List of Nvidia graphics processing units
-List of broadcast video formats
-List of motion picture film formats
-Log area ratio
-Lossless compression
-Lossy compression
-MIL-STD-188
-MOSFET
-Macroblock
-Mains frequency
-Mali (GPU)
-Mark Adler
-Matrox
-Memory bandwidth
-Memory controller
-Micro stuttering
-Modified Huffman coding
-Modified discrete cosine transform
-Motion blur
 Motion capture
-Motion compensation
-Motion estimation
-Motion perception
-Motion vector
-Move-to-front transform
-Movie projector
-Multiply–accumulate operation
-NEC µPD7220
-Nvidia Tegra
-Nvidia Tesla
-Nyquist–Shannon sampling theorem
-Optical flow
-PAL
-PAQ
 PMC (identifier)
 PMID (identifier)
 Parallel computing
-Peak signal-to-noise ratio
-Performance per watt
-Persistence of vision
 Pixel
-Pixel-art scaling algorithms
-PowerVR
-Prediction by partial matching
-Prefix code
-Psychoacoustics
-Pyramid (image processing)
-Quadro
-Quantization (image processing)
-Quantization (signal processing)
-Radeon
-Radeon Pro
-Range coding
-Rasterisation
-Rate–distortion theory
-Ray-tracing hardware
-Re-Pair
 Real-time computing
-Redundancy (information theory)
-Render output unit
-Rheostat
-Run-length encoding
 S2CID (identifier)
-S3 Graphics
-SGRAM
-Sampling (signal processing)
-Saturday morning cartoon
-Scrolling
-Semiconductor device fabrication
-Semiconductor intellectual property core
-Sequitur algorithm
-Set partitioning in hierarchical trees
 Shader
 Shading
-Shannon coding
-Shannon–Fano coding
-Shannon–Fano–Elias coding
-Shared graphics memory
-Sight & Sound
-Silence compression
-Silent film
 Single instruction, multiple data
 Single instruction, multiple threads
 Sixth generation of video game consoles
-Smallest grammar problem
-Snappy (compression)
-Sound film
-Sound quality
-Speech coding
-Sprite (computer graphics)
-Standard test image
 Stream processing
-Sub-band coding
-Super-resolution imaging
 System on a chip
-Telecine
-Temporal resolution
 Tensor
-Tessellation (computer graphics)
 Texel (graphics)
-Texture compression
 Texture mapping
-Texture mapping unit
-Texture memory
 Thomas Edison
-Three-two pull down
-Tile-based video game
-Tiled rendering
-Time-lapse photography
-Timeline of information theory
 Traditional animation
-Transform, clipping, and lighting
-Transform coding
-Transistor count
-Tunstall coding
-Unary coding
-Uncompressed video
-Unified shader model
-Universal code (data compression)
-Update rate
-Variable bitrate
 Vector processor
-Vertex pipeline
-Very long instruction word
 Video
-VideoCore
-Video RAM (dual-ported DRAM)
-Video camera
-Video card
-Video codec
-Video coding format
-Video compression
-Video compression picture types
-Video denoising
-Video display controller
 Video games
-Video matting
-Video post-processing
-Video processing
-Video processing unit
-Video quality
 Visual perception
-Visual system
-Vivante Corporation
-Warped linear predictive coding
-Wavelet transform
 Wayback Machine
-Zstd
-Μ-law algorithm

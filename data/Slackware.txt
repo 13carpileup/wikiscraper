@@ -1,13 +1,7 @@
-/e/ (operating system)
 4MLinux
-8.3 filename
-A.out
 ALT Linux
-ARM architecture
 ASCII
-Aarch64
 Advanced Linux Sound Architecture
-Advanced Packaging Tool
 AlmaLinux
 Alpine Linux
 Android-x86
@@ -26,21 +20,14 @@ Austrumi Linux
 BLAG Linux and GNU
 BackBox
 BackTrack
-Benevolent dictator for life
 Bharat Operating System Solutions
 BioSLAX
 BitTorrent
 BlackArch
 Black Lab Linux
 BlankOn Linux
-Bleeding edge
-BlueZ
 Bodhi Linux
-Btrfs
-Bug tracking system
-Bzip2
 CHAOS (operating system)
-CLISP
 CRUX
 Calculate Linux
 Caldera OpenLinux
@@ -51,12 +38,9 @@ Chakra (operating system)
 Chimera Linux
 ChromeOS
 ChromiumOS
-Church of the SubGenius
-Cinnamon (desktop environment)
 ClearOS
 Clear Linux OS
 ColorOS
-Command-line interface
 Commodore OS
 Comparison of Linux distributions
 Container Linux
@@ -66,81 +50,52 @@ CrunchBang Linux
 Cub Linux
 CyanogenMod
 DEC Alpha
-DEFLATE
 Damn Small Linux
 Damn Vulnerable Linux
-Das U-Boot
 Debian
 Deepin
 DemoLinux
-Dependency hell
 Devuan
-DistroWatch
 DivestOS
 DoudouLinux
 Dreamlinux
-Dropline GNOME
 EMUI
 Edubuntu
 Elementary OS
 Elive
 Emmabuntüs
-End-of-life (product)
 EndeavourOS
 Endless OS
 EulerOS
-Executable and Linkable Format
-FFmpeg
 Familiar Linux
 Feather Linux
 Fedora Linux
-File Transfer Protocol
 Filename extension
 Fire OS
 Firefox OS
 Floppy disk
 Floppyfw
 Foresight Linux
-Free and open-source software
 FreedomBox
 Freespire
 Frugalware Linux
-GNOME
-GNU Bash
 GNU Core Utilities
-GNU Emacs
 GNU General Public License
 GNU Guix System
 GNewSense
 GOS (operating system)
-GUID Partition Table
 Garuda Linux
 GeckoLinux
 Gentoo Linux
 GoboLinux
 Gobuntu
 GrapheneOS
-Gslapt
-Gzip
 HandyLinux
-Hardware Abstraction Layer
-Hyperbola GNU/Linux-libre
-IA-32
-IBM ESA/390
-IBook
-IMac
 ISBN (identifier)
-ISO image
 Immunix
 IodéOS
-Issue tracking system
-J. R. "Bob" Dobbs
 Jurix
-KDE
-KDE Plasma 5
-KDE Software Compilation 4
 KDE neon
-KISS principle
 KaOS
 KaiOS
 Kaisen Linux
@@ -153,21 +108,14 @@ Kongoni (operating system)
 Korora (operating system)
 Kubuntu
 Kwort Linux
-LAME
-LWN.net
 LXLE Linux
-LZMA
-Libata
 Libranet
 LinHES
 LineageOS
 Linpus Linux
 Linux
-Linux.com
 LinuxTLE
-Linux (kernel)
 Linux Caixa Mágica
-Linux Journal
 Linux Lite
 Linux Mint
 Linux Router Project
@@ -176,10 +124,7 @@ Linux for PlayStation 2
 Linux kernel
 Lisp (programming language)
 List of Linux distributions
-LoongArch
 Lubuntu
-Lzip
-MATE (software)
 MCC Interim Linux
 MIPS architecture
 MIUI
@@ -189,23 +134,16 @@ Mageia
 Mandrake Linux
 Mandriva Linux
 Manjaro
-MariaDB
 Marketing
 MeeGo
 Mer (software distribution)
 Metadata
-Minnesota State University Moorhead
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Mozilla Application Suite
-Musix GNU+Linux
-MySQL
 Natural language
 NetBSD
-NetworkManager
 Network Security Toolkit
-New World ROM
 NimbleX
 Nitix
 NixOS
@@ -216,44 +154,28 @@ One UI
 Open-source software
 OpenELEC
 OpenMandriva Lx
-OpenRISC
 OpenSUSE
 Open Enterprise Server
-Open Sound System
 Oracle Linux
-PA-RISC
 PCLinuxOS
 Package manager
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
-Patrick Volkerding
 Pentoo
 Peppermint OS
 Pinguy OS
 PixelExperience
-Pkgsrc
 Platypux
-Pluggable authentication module
-PolicyKit
 Pop! OS
 Porteus (operating system)
-PowerBook
-PowerPC
-Power Macintosh
-Preboot Execution Environment
 Programmer
-PulseAudio
 Puppy Linux
 PureOS
 Python (programming language)
 Q4OS
-QEMU
 Qubes OS
-RISC-V
 ROSA Linux
-ROT13
 Raspberry Pi OS
 Red Hat Enterprise Linux
 Red Hat Linux
@@ -263,8 +185,6 @@ Replicant (operating system)
 Resurrection Remix OS
 Rocks Cluster Distribution
 Rocky Linux
-Rolling release
-Root directory
 SPARC
 SUSE Linux
 SUSE Linux Enterprise
@@ -274,12 +194,6 @@ Sabily
 Sailfish OS
 Salix OS
 Scientific Linux
-Shell script
-Simple DirectMedia Layer
-Slack (software)
-Slackpkg
-Slamd64
-Slapt-get
 Slax
 Softlanding Linux System
 Software license
@@ -291,13 +205,9 @@ SparkyLinux
 Splashtop OS
 SteamOS
 Sunwah Linux
-SuperH
 SystemRescue
 T2 SDE
-TCP/IP
-TFTP
 Tails (operating system)
-Tar (computing)
 The Sydney Morning Herald
 Think Blue Linux
 Tiny Core Linux
@@ -306,12 +216,8 @@ TopologiLinux
 Trisquel
 Turbolinux
 Turkix
-Tux (mascot)
-UEFI
 UTF-8
-UUCP
 Ubuntu
-Ubuntu (operating system)
 Ubuntu Budgie
 Ubuntu Cinnamon
 Ubuntu GNOME
@@ -320,42 +226,20 @@ Ubuntu MATE
 Ubuntu Studio
 Ubuntu Touch
 Ubuntu Unity
-Udev
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Unix philosophy
-Upstream (software development)
-Uruk GNU/Linux
-Usenet (identifier)
-Usenet newsgroup
 User interface
 User space and kernel space
-VDPAU
 VectorLinux
 Vine Linux
 Void Linux
-Vulkan (API)
-Walnut Creek CDROM
-Wayland (display server protocol)
 Whonix
 Windows 95
 Wubuntu
-X.Org Server
-X.org Server
-X11
 X86
-X86-64
 XB Machine
-XFree86
-XZ Utils
-X Window System
-Xserve
 Xubuntu
 Yellow Dog Linux
-Yellowdog Updater, Modified
 YouTube
-Z/Architecture
 Zenwalk
-ZipSlack
 Zorin OS

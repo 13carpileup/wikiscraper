@@ -1,19 +1,15 @@
 ANSI C
-ARM architecture
 Alef (programming language)
 Alpine Linux
 Amsterdam Compiler Kit
 Anjuta
-Application binary interface
 BSD
 Bionic (software)
-Borland Turbo C
 C++
 C11 (C standard revision)
 C17 (C standard revision)
 C23 (C standard revision)
 C99
-CLion
 C (programming language)
 C POSIX library
 C Sharp (programming language)
@@ -21,7 +17,6 @@ C character classification
 C data types
 C date and time functions
 C dynamic memory allocation
-C file input/output
 C mathematical functions
 C preprocessor
 C standard library
@@ -31,77 +26,48 @@ Chimera Linux
 Clang
 CodeLite
 Comparison of Pascal and C
-Compatibility of C and C++
 Computing platform
 D (programming language)
 Dennis Ritchie
 Dietlibc
-Dlmalloc
-Dragora
 Eclipse (software)
 Embedded C
-Embedded GLIBC
 GNOME Builder
-GNU C Library
 GNU Compiler Collection
 Geany
 Gentoo Linux
 GitHub
 Glibc
 Go (programming language)
-Hybris (software)
 Include directive
 Integrated development environment
-Intel C++ Compiler
 KDevelop
 Klibc
 LCC (compiler)
-Libc
 Limbo (programming language)
 Linux
 Linux Standard Base
 Linux distribution
-Linux for embedded systems
-Linux for mobile devices
 Linux kernel
-List of C compilers
-LoongArch
 MIPS architecture
 MISRA C
-MIT License
-Malloc
-Microblaze
 Microsoft Visual C++
 Microsoft Visual Studio Express
 Microsoft Windows library files
-Multi-State Lottery Association
 NetBeans
 Newlib
 Norcroft C compiler
 Objective-C
-OpenRISC
-OpenWrt
 Operating system
-Operators in C and C++
 POSIX
 Portable C Compiler
 PostmarketOS
-PowerPC
-Ppc64
 Programmer
-RISC-V
-Race conditions
-Repository (version control)
-S390x
-SeL4
 Small Device C Compiler
 Software categories
 Software license
 Software release life cycle
-Static linking
 Stdarg.h
-Subroutine
-SuperH
 Tiny C Compiler
 UClibc
 UTF-8
@@ -109,7 +75,4 @@ Unicode
 Vala (programming language)
 Visual Studio
 Void Linux
-Watcom C/C++
-X32 ABI
 X86
-X86-64

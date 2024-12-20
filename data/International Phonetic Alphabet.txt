@@ -5,126 +5,63 @@ ASLwrite
 AZERTY
 Abjad
 Abjad numerals
-Abkhaz phonology
 Abugida
 Accessible publishing
-Acehnese phonology
-Acute accent
 Adinkra symbols
 Adlam script
-Advanced and retracted tongue root
-Adyghe phonology
 Afaka syllabary
-Affricate
-Affricate consonant
-Afrasianist phonetic notation
-Africa Alphabet
-African D
 Afrikaans phonology
-Afroasiatic phonetic notation
 Ahom script
-Akan language
-Akkadian cuneiform
 Albanian Braille
-Alexander John Ellis
 Algerian Braille
 Allograph
 Allophone
 Alphabet
-Alveolar consonant
-Alveolar ejective affricate
-Alveolar ejective fricative
-Alveolar ejective stop
-Alveolar lateral ejective affricate
-Alveolar lateral ejective fricative
-Alveolar lateral nasal click
-Alveolar nasal click
-Alveolar ridge
-Alveolar tap
-Alveolo-palatal consonant
-Alveolo-palatal ejective affricate
-Alveolo-palatal ejective fricative
 American Braille
 American Printing House for the Blind
-American Sign Language phonology
-Americanist Phonetic Notation
-Americanist phonetic notation
 Anatolian hieroglyphs
-Ancient Greek phonology
 Ancient North Arabian
 Ancient South Arabian script
-Andika (font)
 Android (operating system)
-Angle bracket
 Anglo-Saxon runes
 Apical consonant
 Approximant
 Arabic Braille
-Arabic phonology
 Arabic script
 Aramaic alphabet
 Archaic Greek alphabets
-Archiphoneme
-Arial
 Ariyaka script
 Armenian Braille
 Armenian alphabet
-Articulatory phonetics
-Aryepiglottic fold
-Asomtavruli
 Aspirated consonant
-Aspirated voiced
-Aspiration (phonetics)
-Assyrian cuneiform
 Attic numerals
-Australian English phonology
 Avestan alphabet
-Avestan phonology
 Avoiuli
 Ayin
-Azeri Braille
 Aztec script
 B
-Bach
-Back-released click
 Back vowel
 Backslash
-Badaga language
 Bagam script
 Balinese script
 Bamum script
-Banda languages
-Bantu languages
-Barred lambda
-Bassa Vah script
 Batak script
 Baybayin
 Belarusian Braille
-Belarusian phonology
 Beneventan script
 Bengali Braille
-Bengali phonology
 Bengali–Assamese script
-Benjamin Zimmer
-Bernese German phonology
 Bhaiksuki script
 Bharati Braille
 Bharati script
 Bhattiprolu script
 Bhujimol script
-Biblical Hebrew
-Bilabial consonant
-Bilabial ejective fricative
-Bilabial ejective stop
-Bilabial nasal click
 Bird-worm seal script
 Blackfoot language
 Blackletter
 Blissymbols
-Book Pahlavi
 Bopomofo
 Bosnian Cyrillic
-Bowen script
 Boyd's syllabic shorthand
 Bracket
 Brahmi script
@@ -143,133 +80,66 @@ Braille music
 Braille technology
 Braille translator
 Braille watch
-Breathy voice
-Brill Publishers
 Buda script
 Buhid script
 Bulgarian Braille
-Bulgarian phonology
 Burmese Braille
-Burmese phonology
 Byblos syllabary
-BÉPO
 Bété syllabary
 C
-Calibri
-Cambridge Advanced Learner's Dictionary
 Cambridge University Press
 Canadian Aboriginal syllabics
 Canadian currency tactile feature
 Cantonese Braille
-Cantonese phonology
-Cardinal vowel
 Carian alphabets
 Carolingian minuscule
 Carrier syllabics
-Case variants of IPA letters
 Catalan Braille
 Catalan phonology
 Caucasian Albanian script
 Celtiberian script
-Central consonant
 Central vowel
-Ch (digraph)
 Chakma script
 Cham script
-Chao tone letter
-Character variant
-Charis SIL
 Charles Barbier
-Checked syllable
 Cherokee syllabary
 Chinese bronze inscriptions
 Chinese characters
 Chinese family of scripts
-Chukchi phonology
 Chữ Nôm
 Cipher runes
 Cirth
-CiteSeerX (identifier)
-Classical Latin
-Classical Latin alphabet
 Clear Script
-Cleft lip and cleft palate
-Click consonant
-Click letter
-Clitic
-Close-mid back rounded vowel
-Close-mid back unrounded vowel
-Close-mid central rounded vowel
 Close-mid central unrounded vowel
-Close-mid front rounded vowel
-Close-mid front unrounded vowel
-Close-mid vowel
 Close back rounded vowel
-Close back unrounded vowel
-Close central rounded vowel
-Close central unrounded vowel
-Close front rounded vowel
 Close front unrounded vowel
 Close vowel
-Co-articulated consonant
-Cockney
 Coelbren y Beirdd
-Colemak
-Colognian phonology
-Combining Diacritical Marks
-Combining Diacritical Marks Supplement
-Combining character
 Combining grapheme joiner
-Comparative linguistics
-Comparison of ASCII encodings of the International Phonetic Alphabet
-Compressed vowel
 Computer Braille Code
-Connected speech
 Consonant
-Constructed language
-Contour tone
 Coorgi–Cox alphabet
-Coptic alphabet
-Cornish phonology
-Coronal consonant
-Creaky-voiced glottal approximant
-Creaky voice
 Cretan hieroglyphs
 Cuneiform
-Cuneiform Luwian
-Cursive
 Cursive Hebrew
-Cursive forms of the International Phonetic Alphabet
 Cypriot syllabary
 Cypro-Minoan syllabary
 Cyrillic alphabets
 Cyrillic script
 Czech Braille
-Czech language
 Czech phonology
 D
 DIN 91379
 Dalecarlian runes
-Dania transcription
-Daniel Jones (phonetician)
-Danish phonology
 Decapoint
-DejaVu
 Demotic (Egyptian)
 Dental consonant
-Dental ejective affricate
-Dental ejective fricative
-Dental nasal click
-Dentolabial
-Descender
 Deseret alphabet
 Devanagari
 Devanagari Braille
 Dham script
 Dhives Akuru
 Diacritic
-Diaphonemic
-Diaphonology
 Digraph (orthography)
 Diphthong
 Ditema tsa Dinoko
@@ -277,222 +147,117 @@ Dogri script
 Doi (identifier)
 Dongba symbols
 Dorsal consonant
-Doubly articulated consonant
-Doulos SIL
-Downdrift
-Downstep (phonetics)
 Dunging script
 Duployan shorthand
 Dutch Braille
 Dutch phonology
 Dvorak keyboard layout
-Dz (digraph)
 Dzongkha Braille
-Dž
 E
 Early Cyrillic alphabet
-Eau (trigraph)
 Eclectic shorthand
-Egressive
-Egyptian Arabic phonology
 Egyptian hieroglyphs
-Ejective
-Ejective consonant
 Elamite cuneiform
-Elbasan script
 Elder Futhark
 Elifba alphabet
 Elymaic
 Emoji
-Eng (letter)
 English Braille
-English Phonotypic Alphabet
-English phonology
 Enochian
-Epiglottal consonant
-Epiglottal ejective
-Epiglottal plosive
 Ersu Shaba script
 Eskayan script
 Espanca script
 Esperanto Braille
-Esperanto phonology
 Estonian Braille
 Estonian phonology
 Etruscan alphabet
-Even-Shoshan Dictionary
-Evenki alphabet
-Eveyla Akuru
-ExtIPA
-Extended IPA
-Extensions to the IPA
-Extensions to the International Phonetic Alphabet
-Extensions to the International Phonetic Alphabet for Disordered Speech
-Extra-short
 F
 Fakkham script
 Faroese Braille
-Faroese phonology
-Featural alphabet
 Finnish phonology
 Flag semaphore
-Flap consonant
-Foot (prosody)
 Foreign language
 Fox language
 Fraktur
 Fraser script
 French Braille
-French liaison
 French phonology
 Fricative
 Front vowel
-Fula language
 G
 Gabelsberger shorthand
-Gadabuursi Somali script
 Gaelic type
-Galician phonology
 Galik alphabet
 Garay alphabet
 Gardner–Salinas braille codes
-Gbe languages
-Gboard
-Ge'ez Braille
 Geba syllabary
-Gemination
-General American
-General American English
-Geneva (typeface)
-Gentium
-Geoffrey Pullum
 George Psalmanazar
 Georgian Braille
 Georgian scripts
 German Braille
 Geʽez script
-Gh (digraph)
 Ghanaian braille
 Glagolitic script
-Glottal consonant
-Glottal stop
-Glottalic ingressive
-Glottalization
-Glottis
 Glyph
-Glyphs
-Golmol script
 Gondi writing
 Google
 Gothic alphabet
 Gothic runic inscriptions
 Goykanadi
-Grammaticality
 Grantha script
 Grapheme
-Graphemics
 Great Lakes Algonquian syllabics
 Greco-Iberian alphabet
 Greek Braille
 Greek alphabet
-Greenlandic phonology
 Gregg shorthand
 Guarani Braille
 Gujarati Braille
-Gujarati phonology
 Gujarati script
 Gunjala Gondi script
 Gupta script
 Gurmukhi
-Guttural
 H
 Hangul
 Hanifi Rohingya script
 Hanja
 Hanunoo script
-Hard and soft C
-Hard and soft G
 Harris Mowbray
-Harsh voice
-Hatran alphabet
-Hausa language
 Hawaiian Braille
-Hawaiian phonology
 Hdl (identifier)
 Hebrew Braille
 Hebrew alphabet
-Hejazi Arabic phonology
-Henry Sweet
 Hentaigana
 Hieratic
-Himmol script
-Hindustani phonology
 Hindu–Arabic numeral system
 Hiragana
-Hiragino
-Historical Chinese phonology
-Historical linguistics
-History of the IPA
-History of the International Phonetic Alphabet
-History of the Latin script
 History of writing
 History of writing in Vietnam
 Hittite cuneiform
-Hokkien phonology
-Holger Pedersen (linguist)
-Homorganic
-Hot metal typesetting
-Human mouth
 Hungarian Braille
-Hungarian dzs
 Hungarian ly
-Hungarian phonology
 I
-IETF language tag
-IJ (digraph)
 IPA Braille
-IPA Extensions
-IPA Extensions (Unicode block)
-IPA consonant chart with audio
-IPA number
-IPA vowel chart with audio
 ISBN (identifier)
-ISO/IEC 646
-ISO basic Latin alphabet
 ISSN (identifier)
-Ian Maddieson
 Iban language
 Icelandic Braille
 Icelandic phonology
 Ideogram
 Idu script
-Implosive consonant
-Incung script
 Index of phonetics articles
-Indigenous languages of the Americas
-Ingrian phonology
 Inscriptional Pahlavi
 Inscriptional Parthian
 Insular script
-Interlac
-International Alphabet of Sanskrit Transliteration
-International Clinical Phonetics and Linguistics Association
-International Phonetic Alphabet chart
-International Phonetic Alphabet chart for English dialects
-International Phonetic Association
 International maritime signal flags
 International uniformity of braille alphabets
-Intonation (linguistics)
-Inuit phonology
 Inuktitut Braille
 Iotation
 Irish Braille
 Irish phonology
-Islay
 Isotype (picture language)
 Isthmian script
 Italian Braille
-Italian phonology
 Iñupiaq Braille
 J
 JSTOR (identifier)

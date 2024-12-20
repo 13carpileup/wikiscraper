@@ -5,7 +5,6 @@ Ahom script
 Anatolian hieroglyphs
 Ancient North Arabian
 Ancient South Arabian script
-April Fools' Day Request for Comments
 Arabic alphabet
 Arabic script
 Aramaic alphabet
@@ -13,30 +12,17 @@ Armenian alphabet
 Avestan alphabet
 Balinese script
 Bamum script
-Base32
-Base64
-Base 36
-Basic Multilingual Plane
-Bassa Vah alphabet
 Batak script
 Baybayin
 Bengali–Assamese script
 Bhaiksuki script
-Bidirectional text
 Binary Ordered Compression for Unicode
 Bopomofo
 Brahmi script
 Braille
 Buhid script
 Byte
-Byte-order mark
-Byte order mark
-Bzip2
-C0 Controls and Basic Latin
 CESU-8
-CJK Unified Ideographs
-CJK Unified Ideographs Extension G
-CP-1252
 C (programming language)
 Canadian Aboriginal syllabics
 Carian alphabets
@@ -46,13 +32,9 @@ Cham script
 Character encoding
 Cherokee syllabary
 Code point
-Combining character
 Combining grapheme joiner
 Common Locale Data Repository
-ConScript Unicode Registry
-Control Pictures
 Control character
-Coptic script
 Cuneiform
 Currency symbol
 Cypriot syllabary
@@ -60,20 +42,16 @@ Cypro-Minoan syllabary
 Cyrillic script
 Cyrillic script in Unicode
 DIN 91379
-Data corruption
 De facto
 Deseret alphabet
 Devanagari
 Dhives Akuru
 Diacritic
 Dogri script
-Duplicate characters in Unicode
 Duployan shorthand
 Egyptian hieroglyphs
-Elbasan
 Elymaic
 Emoji
-Endianness
 Fraser script
 GBK (character encoding)
 GB 18030
@@ -86,13 +64,10 @@ Glossary of mathematical symbols
 Gondi writing
 Gothic alphabet
 Grantha script
-Graphic character
 Greek alphabet
-Greek script in Unicode
 Gujarati script
 Gunjala Gondi script
 Gurmukhi
-Gurung Khema
 HTML
 Halfwidth and fullwidth forms
 Han unification
@@ -100,20 +75,9 @@ Hangul
 Hanifi Rohingya script
 Hanja
 Hanunoo script
-Hatran alphabet
 Hebrew alphabet
 Hiragana
-Homoglyph
-ISO-8859-1
-ISO/IEC 14651
-ISO/IEC 8859
 ISO 15924
-Ideographic Research Group
-International Components for Unicode
-International Ideographs Core
-Internationalized domain name
-Internet Engineering Task Force
-Java (software platform)
 Javanese script
 Kaithi
 Kanji
@@ -126,32 +90,21 @@ Khitan small script
 Khmer script
 Khojki script
 Khudabadi script
-Khwarezmian language
-Kirat Rai
 Lao script
 Latin-script alphabet
 Latin alphabet
-Latin script in Unicode
-Left-to-right mark
 Lepcha script
 Limbu script
-Linear A
 Linear B
-List of Unicode characters
 List of XML and HTML character entity references
-List of precomposed Latin characters in Unicode
 Lontara script
 Lycian alphabet
 Lydian alphabet
-Mac OS X Panther
 Mahajani
-Makassarese language
 Malayalam script
 Mandaic alphabet
 Manichaean script
-Mapping of Unicode character planes
 Marchen script
-Mathematical operators and symbols in Unicode
 Medefaidrin
 Meitei script
 Mende Kikakui script
@@ -164,17 +117,11 @@ Mru language
 Multani script
 N'Ko script
 Nabataean script
-Nag Mundari
 Nandinagari
 New Tai Lue alphabet
-Newline
-Null-terminated string
 Null character
-Numerals in Unicode
 Numeric character reference
-Nyiakeng Puachue Hmong
 Nüshu
-Octet (computing)
 Odia script
 Ogham
 Ol Chiki script
@@ -184,35 +131,19 @@ Old Italic scripts
 Old Permic script
 Old Persian cuneiform
 Old Turkic script
-Old Uyghur
 Osage script
-Osmanya alphabet
 Pahawh Hmong
 Pahlavi scripts
-Palmyrene alphabet
-Parthian language
 Pau Cin Hau script
 Phoenician alphabet
-Phonetic symbols in Unicode
-Plane (Unicode)
 Pollard script
 Pracalit script
-Precomposed character
 Printf
-Private Use Areas
-Punctuation
-Punycode
-Quoted-printable
 Ranjana script
 Regional indicator symbol
-Rejang alphabet
-Religious and political symbols in Unicode
-Right-to-left mark
-Rune
 Samaritan script
 Saurashtra script
 Script (Unicode)
-Self-synchronizing code
 Sharada script
 Shavian alphabet
 Siddhaṃ script
@@ -229,66 +160,25 @@ Sunwar language
 Sylheti Nagri
 Syriac alphabet
 Tagbanwa script
-Tai Dam language
 Tai Le script
 Tai Tham script
 Takri script
 Tamil script
-Tangsa language
 Tangut script
 Telugu script
 Thaana
 Thai script
-Tibetan script
-Tifinagh
-Tigalari script
-Tirhuta script
-Todhri alphabet
-Toto language
 UTF-1
 UTF-16
-UTF-16BE
-UTF-16LE
 UTF-32
-UTF-32BE
-UTF-32LE
 UTF-7
 UTF-8
-UTF-9 and UTF-18
 UTF-EBCDIC
-Ugaritic alphabet
 Unicode
 Unicode Consortium
-Unicode alias names and abbreviations
-Unicode and HTML
 Unicode and email
-Unicode anomaly
 Unicode block
-Unicode character property
-Unicode collation algorithm
-Unicode compatibility characters
-Unicode equivalence
-Unicode font
-Unicode input
-Unicode symbol
-Universal Character Set characters
 Universal Coded Character Set
-Vai syllabary
-Variant form (Unicode)
-Vithkuqi alphabet
-Wancho script
-Warang Citi
 Whitespace character
 Windows
-Word joiner
-World Wide Web Consortium
 XML
-Yezidi (script)
-Yi script
-Z-variant
-ZIP (file format)
-Zanabazar square script
-Zero-width joiner
-Zero-width non-joiner
-Zero-width space
-ʼPhags-pa script

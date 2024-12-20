@@ -1,248 +1,136 @@
-C++ AMP
-Unix-like
-Loadable kernel module
-Live CD
-Hybrid kernel
 Global Arrays
 Device driver
-Just enough operating system
-LEO (computer)
 Semiconductor memory
-Motorola 6809
-History of operating systems
 Instruction-level parallelism
 ROCm
 Karp–Flatt metric
-Memory protection
-UNIX System V
 Non-blocking algorithm
-Round-robin scheduling
-Time-sharing
 Linux
-Journaling file system
-Network operating system
-Hobbyist operating system
-OS-9
 Classic Mac OS
-Boost (C++ libraries)
-Distributed operating system
-Channel I/O
 Synchronization (computer science)
-Bull Gamma 60
 Multiprocessing
-Command-line interface
-Busy waiting
 Dataflow programming
 Process management (computing)
 Task parallelism
-Busy wait
-Windows NT 3.1
-Solaris (operating system)
-Polling (computer science)
 Automatic parallelization
-Protection ring
-Rump kernel
 Mac OS X
 Beowulf cluster
-Context switch
-PDP-8
-Supercomputer operating system
-Virtual desktop
-Disk operating system
 OpenHMPP
 Hardware scout
 Scalability
 File system
-Device file
 Instruction window
 TOPS-10
-Comparison of operating systems
 Computer architecture
 ISBN (identifier)
 Amdahl's law
-Microware
-Memory management unit
-Secondary storage
-Real-time operating system
 General-purpose computing on graphics processing units
 Unified Parallel C
 Coarray Fortran
-Defragmentation
 Distributed computing
 User interface
-X86-64
 Kernel (operating system)
-Multiprocessor
 Ateji PX
 Analysis of parallel algorithms
-Batch processing
 High-performance computing
-Interrupt
 Flynn's taxonomy
 Parallel external memory
 Fiber (computer science)
-Multics
 Mobile operating system
 Parallel computing
 Loop-level parallelism
 RaftLib
 Parallel programming model
 Memory-level parallelism
-Berkeley Software Distribution
 Parallel Virtual Machine
 Computer cluster
-I/O bound
-Firefox
 Cost efficiency
 Linux Mint
 Speculative multithreading
-CPU bound
-Preboot Execution Environment
 Manycore processor
 CUDA
 Process (computing)
-Hardware abstraction
 Message Passing Interface
 Explicit parallelism
-General protection fault
 Single instruction, multiple data
-Embedded operating system
-Process control block
 Cilk
 Instruction pipelining
 Concurrent computing
-Pre-emptive multitasking
 Computing
 Gustafson's law
-Forensic software engineering
-Object-oriented operating system
 Data parallelism
 Temporal multithreading
 Cache-only memory architecture
 Concurrency (computer science)
 Asymmetric multiprocessing
-Timeline of operating systems
-Multiprogramming
 HPX
 Peripheral
-Unix
 Implicit parallelism
 API
-Cooperative multitasking
-Amiga
 Barrier (computer science)
-Memory management (operating systems)
 Pipeline (computing)
 Speedup
-Input/output
-Xfce
 Real-time computing
 Superscalar processor
-Inode
-Memory paging
-Smart Computing
 S2CID (identifier)
 Distributed shared memory
-Multikernel
 Application checkpointing
-Live USB
-Shell (computing)
 Stream processing
-File attribute
 Distributed memory
 Software lockout
 ISSN (identifier)
-VLC media player
 Single instruction, single data
-Sinclair QL
 Systolic array
-TRS-80 Color Computer 2
 User space and kernel space
 Array (data structure)
-System resource
 Threading Building Blocks
 Parallel Extensions
 OpenACC
 Inter-process communication
-Microkernel
 Bulldozer (microarchitecture)
 Embarrassingly parallel
-CICS
-CPU time
-Itanium
 Massively parallel
 Computer hardware
-Process time
-Microsoft Windows 1.0
 Hardware acceleration
 Multiple instruction, single data
-GIMP
 Windows NT
 Cache invalidation
 Pthreads
-Unikernel
 Dryad (programming)
 Chapel (programming language)
-Non-volatile memory
-Comparison of user features of operating systems
 Doi (identifier)
-List of operating systems
 Monolithic kernel
 Vector processor
-Main memory
 Shared memory
-Sinclair QDOS
 Single instruction, multiple threads
 Multiple instruction, multiple data
 Parallel slowdown
 Disk partitioning
-ZPL (programming language)
-Hang (computing)
-Comparison of BSD operating systems
 Parallel RAM
-NeXTSTEP
 Virtual machine
-Virtual file system
 Bit-level parallelism
 Dataflow architecture
 Race condition
-Parent process
 Simultaneous and heterogeneous multithreading
-Scheduling (computing)
 OpenCL
-OS/360 and successors
 Simultaneous multithreading
 Deadlock (computer science)
-Vim (text editor)
 GPUOpen
-Exokernel
 Cache coherence
 Central processing unit
 Cloud computing
-Vkernel
 Deterministic algorithm
 Computer network
 Starvation (computer science)
 Memory coherence
-A/UX
 Microsoft Windows
 Booting
-JES2
 IBM
-Virtual tape library
 Windows 95
-Usage share of operating systems
-Process state
-Segmentation fault
 Uniform memory access
 Charm++
 Non-uniform memory access
-Fixed-priority pre-emptive scheduling
-RISC OS
-Bus error
 Multithreading (computer architecture)
-Windows 9x
-Shortest job next
 Operating system
 Preemption (computing)
 Computer programming
@@ -250,5 +138,3 @@ OpenMP
 Grid computing
 Symmetric multiprocessing
 Thread (computing)
-Multilevel feedback queue
-Virtual memory

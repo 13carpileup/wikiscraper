@@ -1,220 +1,43 @@
-.NET
 Adobe Flash
-Adobe Flash Builder
-Android Studio
 Anjuta
-AppCode
-Aptana
-Arduino IDE
-Atom (text editor)
-Autocomplete
-Axure RP
 BASIC
-Basic-256
-Basic4GL
-BlueJ
-Borland Kylix
-Borland Turbo C
 C++
-C++Builder
-CA-Realizer
-CLion
 C (programming language)
-Chromium (web browser)
 Clang
-Clarion (programming language)
-Cloud9 IDE
-Cocoa (API)
-CodeDesigner RAD
-CodeWarrior
-Code refactoring
-Codelobster
-Command-line interface
 Common Language Infrastructure
 Comparison of integrated development environments
 Computing platform
-Cscope
-Ctags
-Delphi (software)
-Dev-C++
-Dev-Pascal
-DevEco Studio
-DialogBlocks
-DrJava
 Eclipse (software)
-Eclipse Che
-Emacs
-Embedded Wizard
-Eric (software)
-FLUID
-FreeBASIC
-Free Pascal
-Free and open-source
-Free and open-source software
 Freeware
-FutureBASIC
-GDB
-GLBasic
-GLUEscript
 GNOME Builder
 GNU General Public License
-GTK
-Gambas
 Geany
 GitHub
-Git (software)
-Glade Interface Designer
 Go (programming language)
-Gorm (computing)
 Graphical user interface
 Graphical user interface builder
-Greenfoot
-Haxe
-HiAsm
-IA-32
-IDLE
-IUP (software)
 Integrated development environment
-IntelliJ IDEA
-Interface Builder
-JBuilder
-JDeveloper
-JGRASP
-JUCE
 JavaScript
 Java (programming language)
-Java (software platform)
-JetBrains
 KDevelop
-Kakoune
-Komodo Edit
-Komodo IDE
-LANSA (development environment)
-LabWindows/CVI
-Lazarus (IDE)
-Lazarus (software)
-Lazarus Component Library
-Liberty BASIC
 Library (computing)
-Light Table (software)
 Linux
-List of language bindings for wxWidgets
 MacOS
-Mendix
-Microsoft Blend
-Microsoft Pascal
-Microsoft Small Basic
-Microsoft Visual Studio
 Microsoft Visual Studio Express
 Microsoft Windows
-MinGW
-MonoDevelop
-Morphic (software)
-MyEclipse
-NS Basic
 NetBeans
-Ninja-IDE
-Node.js
-Object Pascal
-Online integrated development environment
 Open-source software
 Operating system
-Oracle Developer Studio
-OutSystems
 PHP
-PHPEdit
-POP-11
-Padre (software)
-PascalABC.NET
 Pascal (programming language)
-PhpStorm
-Poplog
-PowerBuilder
-Powerflasher FDT
 Programmer
 Proprietary software
-PureBasic
-PyCharm
-PyDev
-PythonAnywhere
 Python (programming language)
-QB64
-QBasic
-QDevelop
-Qt (software)
-Qt Creator
-QuickBASIC
-QuickC
-RStudio
-R (programming language)
-R Tools for Visual Studio
-RadPHP
-RapidQ
-Rapid application development
-Rational Software Architect
-Repository (version control)
-Resource construction set
-Retail software
-SQLite
-SciTE
-Scintilla (editing component)
-SdlBasic
-SharpDevelop
-SlickEdit
 Software categories
 Software license
 Software release life cycle
-Softwell Maker
-SourceForge
-SourceLair
-Source code editor
-Spyder (software)
-Standard Widget Toolkit
-Sublime Text
-Subversion (software)
-Sun Java Studio Creator
-Swing (Java)
-Thonny
-Topincs
-Turbo C++
-Turbo Pascal
-Ultimate++
-Understand (software)
-VS Code
-Vi (text editor)
-Vim (text editor)
-Virtual Pascal
-VisualAge
 Visual Basic (classic)
-Visual Café
-Visual Component Library
-Visual J++
 Visual Studio
-Visual Studio Code
-Watcom C/C++
-WaveMaker
 Windows
 Windows API
-Wing IDE
-WxBasic
-WxDesigner
-WxDev-C++
-WxFormBuilder
-WxGlade
-WxHaskell
-WxPHP
-WxPerl
-WxPython
-WxSQLite3
-WxWidgets
-X64
-XBasic
 XML
-XML Resource
-XVT
-Xamarin Studio
-Xcode
-Xelfi
-Xojo
-Yacc
-Zend Studio

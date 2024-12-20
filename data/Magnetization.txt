@@ -3,7 +3,6 @@ Albert Einstein
 Alessandro Volta
 Alfred-Marie Liénard
 Alternating current
-Ampere
 Ampère's circuital law
 André-Marie Ampère
 Atom
@@ -21,30 +20,24 @@ Classical electromagnetism and special relativity
 Computational electromagnetics
 Coulomb's law
 Covariant formulation of classical electromagnetism
-Curie temperature
 Current density
 Cyclotron radiation
 DC motor
 Data storage device
 Degaussing
-Demagnetizing field
 Density
-Diamagnet
-Dimensional analysis
 Direct current
 Displacement current
 Doi (identifier)
 Eddy current
 Electret
 Electric charge
-Electric charge density
 Electric current
 Electric dipole moment
 Electric field
 Electric flux
 Electric machine
 Electric motor
-Electric polarization
 Electric potential
 Electric potential energy
 Electric power
@@ -64,27 +57,18 @@ Electromagnetic tensor
 Electromagnetism
 Electromotive force
 Electron
-Electrostatic
 Electrostatic discharge
 Electrostatic induction
 Electrostatics
 Emil Lenz
 Emil Wiechert
 Energy density
-Euclidean vector
-Exchange interactions
 Faraday's law of induction
-Ferrimagnetic
-Ferromagnet
-Ferromagnetic
-Force
-Force between magnets
 Four-current
 Franz Ernst Neumann
 Félix Savart
 Gauss's law
 Gauss's law for magnetism
-Gaussian units
 Georg Ohm
 George Singer
 Gustav Kirchhoff
@@ -123,28 +107,19 @@ Lord Kelvin
 Lorentz force
 Magnetic circuit
 Magnetic complex reluctance
-Magnetic dipole moment
-Magnetic energy
 Magnetic field
 Magnetic flux
-Magnetic hysteresis
 Magnetic moment
 Magnetic reluctance
 Magnetic scalar potential
-Magnetic susceptibility
 Magnetic vector potential
 Magnetism
-Magnetization dynamics
-Magnetization reversal by circularly polarized light
-Magnetometer
 Magnetomotive force
 Magnetostatics
-Manifold
 Mathematical descriptions of the electromagnetic field
 Maxwell's equations
 Maxwell's equations in curved spacetime
 Maxwell stress tensor
-Meter
 Metre
 Michael Faraday
 Network analysis (electrical circuits)
@@ -153,40 +128,29 @@ Ohm's law
 Oleg D. Jefimenko
 Oliver Heaviside
 Optics
-Orbital magnetization
 PMID (identifier)
-Paramagnet
-Paramagnetic
-Permanent magnet
 Permeability (electromagnetism)
 Permeance
 Permittivity
 Polarization density
 Poynting vector
-Pseudovector
 Relativistic electromagnetism
 Resonator
 Right-hand rule
 Rotor (electric)
 S2CID (identifier)
-SI base unit
-SI unit
-SI units
 Second
 Series and parallel circuits
 Siméon Denis Poisson
 Spin (physics)
-Spin injection
 Static electricity
 Stator
 Synchrotron radiation
 Transformer
 Triboelectric effect
-Vacuum permeability
 Vector field
 Volt
 Voltage
-Volume element
 Watt
 Waveguide (radio frequency)
 Wilhelm Eduard Weber

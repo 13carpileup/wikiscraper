@@ -1,100 +1,49 @@
-Admissible rule
 Argument
 Artificial intelligence
 Atomic formula
-Automated deduction
 Axiom
-Binary decision diagram
-Cirquent calculus
 Classical logic
 Completeness (logic)
-Completeness of atomic initial sequents
 Computer science
 Consistency
-Cut-elimination
-Cut-elimination theorem
 David Hilbert
 De Morgan's laws
-Deduction theorem
-Disjunction and existence properties
 Doi (identifier)
 Encyclopedia of Mathematics
 European Mathematical Society
 First-order logic
-First-order theory
-Formal logic
 Formal proof
 Formal system
-Free variable
 Free variables and bound variables
-Gentzen's consistency proof
-Gerhard Gentzen
 Gödel's incompleteness theorems
-Haskell Curry
 Higher-order logic
 Hilbert system
-Hypothesis
 ISBN (identifier)
 If and only if
 Inference
-Inference rule
 Intuitionistic logic
-Jean-Yves Girard
-John Lemmon
-John Rushby
-Judgment (mathematical logic)
-Karnaugh map
-Law of excluded middle
-Linear logic
 Logical conjunction
 Logical consequence
 Logical disjunction
 Mathematical logic
-Mathematische Zeitschrift
-Metatheory
-Method of analytic tableaux
 Modal logic
 Modus ponens
-Multiset
-Natarajan Shankar
 Natural deduction
-Nested sequent calculus
 Oxford University Press
-Patrick Suppes
-Paul Bernays
-Philip Wadler
-Porphyrian tree
-Principle of explosion
-Proof (truth)
 Proof calculus
 Proof theory
 Propositional calculus
-Propositional directed acyclic graph
-Propositional logic
-Quantification (logic)
 Quantifier (logic)
-Raymond Smullyan
-Resolution (logic)
-Richard Zach
 Rule of inference
 S2CID (identifier)
-SRI International
-Samuel R. Buss
 Semantics
-Sentential decision diagram
 Sequence
-Sequence (mathematics)
-Sequent
 Set (mathematics)
 Soundness
 Square of opposition
 Stephen Cole Kleene
-Substructural logic
-System L
 Tautology (logic)
 Theorem
-Tree (graph theory)
 Truth table
-Turnstile (symbol)
 Venn diagram
 Well-formed formula

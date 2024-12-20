@@ -1,12 +1,9 @@
 360-degree video
-AMD TrueAudio
 ARCore
 ARKit
 ARToolKit
 Accel World
 AltspaceVR
-Ambiophonics
-Ambisonics
 Amusement park
 Android XR
 AntVR
@@ -16,7 +13,6 @@ Asynchronous reprojection
 Attack of the Killer App
 Augmented reality
 Avatar (computing)
-Binaural recording
 Black Mirror
 Bob Sproull
 Boštjan Burger
@@ -31,16 +27,11 @@ Char Davies
 Cinematic virtual reality
 Code Lyoko
 Computer-mediated reality
-Crossfeed
 Cyberith Virtualizer
 Daniel J. Sandin
 Den-noh Coil
 Dieter Schmalstieg
 Digimon
-Disney's Hollywood Studios
-Dolby Atmos
-Drew Carey
-Dummy head recording
 Ela Darling
 Elia Petridis
 Eric Howlett
@@ -67,7 +58,6 @@ HTC
 HTC Vive
 Haptic suit
 Head-mounted display
-Head-related transfer function
 Head-up display
 Henry Fuchs
 HoloLens 2
@@ -75,7 +65,6 @@ Holodeck
 Horizon Worlds
 Image-based modeling and rendering
 Immersion (virtual reality)
-Imogen Heap
 Interactive art
 Ivan Sutherland
 Jaron Lanier
@@ -109,7 +98,6 @@ Michelle and Uri Kranot
 Microsoft Corporation
 Microsoft HoloLens
 Ming C. Lin
-Ministry of Sound
 Mixed reality
 Morton Heilig
 Myron W. Krueger
@@ -117,9 +105,7 @@ NeosVR
 Netrunner
 Neuromancer
 Niantic, Inc.
-Nick Cave
 Nicole Stenger
-Nokia OZO
 Nonny de la Peña
 Nosedive (Black Mirror)
 Oculus Go
@@ -160,11 +146,9 @@ Real life
 Reality Labs
 Rec Room (video game)
 Resonite
-Reverberation
 Rokoko (company)
 Room-scale
 SSSS.Gridman
-Samsung
 Samsung Electronics
 Samsung Gear VR
 Sansar (video game)
@@ -182,19 +166,15 @@ Six degrees of freedom
 SixthSense
 Smartglasses
 Snow Crash
-Sound effect
 Spatial computing
-Spatial music
 Steven K. Feiner
 Sundar Pichai
 Superhot
 Superhuman Samurai Syber-Squad
-Surround sound
 Susumu Tachi
 SwiftUI
 Sword Art Online
 Telepresence
-The Death of Bunny Munro
 The Dreamland Chronicles
 The Entire History of You
 The Matrix
@@ -232,9 +212,7 @@ VisionOS
 VisionOS 2
 Vuforia Augmented Reality SDK
 Vuzix
-Walt Disney World Resort
 Warren Robinett
-Wave field synthesis
 Wearable computer
 WebXR
 White Christmas (Black Mirror)

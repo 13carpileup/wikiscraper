@@ -1,24 +1,13 @@
-.NET Core
-/e/ (operating system)
 4MLinux
 ALT Linux
-ARM64
-ARM architecture
-AR Zone
-Access Co.
-AdGear
 AlmaLinux
 Alpine Linux
 Amazon Kindle
 Android-x86
 Android (operating system)
 Android Go
-Android OS
-Android TV
 Antergos
 AntiX
-Apache License 2.0
-Apple Inc. v. Samsung Electronics Co.
 ArchBang
 ArchLabs
 Arch Linux
@@ -27,17 +16,14 @@ Asahi Linux
 Astra Linux
 Asturix
 Austrumi Linux
-Automotive Grade Linux
 B2G OS
 BLAG Linux and GNU
 BackBox
 BackTrack
 Bada (operating system)
-Berkeley Software Distribution
 Bharat Operating System Solutions
 Binary Runtime Environment for Wireless
 BioSLAX
-Bixby (software)
 BlackArch
 BlackBerry 10
 BlackBerry OS
@@ -56,24 +42,17 @@ CalyxOS
 CentOS
 CentOS Stream
 Chakra (operating system)
-ChatON
 Chimera Linux
-Choi Gee-sung
 ChromeOS
 ChromeOS Flex
 ChromiumOS
 ClearOS
 Clear Linux OS
-Cloud Foundry
-Cloud Native Computing Foundation
 ColorOS
 Commodore OS
-Commonwealth of Independent States
 Comparison of Linux distributions
 Comparison of mobile operating systems
-Connected car
 Container Linux
-Core Infrastructure Initiative
 Corel Linux
 CrDroid
 CrunchBang Linux
@@ -81,8 +60,6 @@ Cub Linux
 CyanogenMod
 Damn Small Linux
 Damn Vulnerable Linux
-Danger Hiptop
-Data Analytics Library
 Debian
 Deepin
 DemoLinux
@@ -99,19 +76,13 @@ Embedded system
 Emmabuntüs
 EndeavourOS
 Endless OS
-Eric B. Kim
 EulerOS
-Exynos
-Facer.io
 Familiar Linux
 Feather Linux
-Fedora (operating system)
 Fedora Linux
 Fire OS
-Fire TV
 Firefox OS
 Floppyfw
-Flora License
 Foresight Linux
 FreeBSD
 FreeRTOS
@@ -125,7 +96,6 @@ GNU
 GNU Core Utilities
 GNU General Public License
 GNU Guix System
-GNU Lesser General Public License
 GNewSense
 GOS (operating system)
 Garuda Linux
@@ -134,38 +104,19 @@ Gentoo Linux
 GoboLinux
 Gobuntu
 Google
-Google I/O
-Google Nexus S
-Google TV (operating system)
 GrapheneOS
 Graphical user interface
 HMD Global
 HTML5
 HandyLinux
-Harman International
 HarmonyOS
 HarmonyOS NEXT
-Havok (company)
-Havok (software)
-Hyperbola GNU/Linux-libre
-Hyperledger
-INTERP/80
 IOS
 IPadOS
 Immunix
-In-car entertainment
-Integrated Performance Primitives
 Intel
-Intel Advisor
-Intel C++ Compiler
-Intel Developer Zone
-Intel Fortran Compiler
-Intel Inspector
 Intel Management Engine
-Intel Parallel Studio
-Intel Research
 IodéOS
-Joyent
 Jurix
 KDE neon
 KaOS
@@ -176,18 +127,11 @@ Kanotix
 KateOS
 Kernel (operating system)
 Knoppix
-Kodi Entertainment Center
 Kongoni (operating system)
 Korora (operating system)
 Kubuntu
-Kwon Oh-hyun
 Kwort Linux
-LF Energy
 LXLE Linux
-Lee Byung-chul
-Lee Jae-yong (businessman)
-Lee Kun-hee
-LiMo Platform
 Libranet
 LinHES
 LineageOS
@@ -195,7 +139,6 @@ Linpus Linux
 Linux
 LinuxTLE
 Linux Caixa Mágica
-Linux Foundation
 Linux Kernel
 Linux Lite
 Linux Mint
@@ -207,7 +150,6 @@ List of Linux distributions
 List of custom Android distributions
 List of mobile app distribution platforms
 List of open-source mobile phones
-List of smart TV platforms
 LiteOS
 Lubuntu
 LuneOS
@@ -220,7 +162,6 @@ Magic Cap
 Mandrake Linux
 Mandriva Linux
 Manjaro
-Math Kernel Library
 MeeGo
 Mer (software distribution)
 Microsoft
@@ -235,11 +176,7 @@ Moblin
 Monolithic kernel
 MontaVista
 MotoMagx
-Musix GNU+Linux
-NEC Casio Mobile Communications
-NTT DoCoMo
 NetBSD
-Netbook
 Network Security Toolkit
 NimbleX
 Nintendo
@@ -252,38 +189,27 @@ Nobara Linux
 Nokia
 Nokia Asha platform
 Nova (operating system)
-NuttX
 OmniROM
 On-board diagnostics
 One UI
-OpenAPI Initiative
 OpenELEC
 OpenEZX
 OpenEmbedded
 OpenHarmony
-OpenJS Foundation
 OpenMandriva Lx
 OpenSUSE
-OpenVINO
-Open Container Initiative
 Open Enterprise Server
 Open Handset Alliance
-Open Mainframe Project
 Open Mobile Alliance
-Open Source Security Foundation
 Open source software
 Openmoko Linux
 Operating system
 Oracle Linux
-Orsay (operating system)
-Overture Maps Foundation
 PCLinuxOS
-PENUP
 Package manager
 PalmDOS
 Palm OS
 Panasonic
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
@@ -292,15 +218,12 @@ Peppermint OS
 Phablet
 Pinguy OS
 PixelExperience
-Plasma Bigscreen
 Platypux
 PlayStation Portable system software
 PlayStation Vita system software
-Plex Inc.
 Pop! OS
 Porteus (operating system)
 PostmarketOS
-Presto (SQL query engine)
 Programmer
 Programming language
 Proprietary software
@@ -310,447 +233,36 @@ Q4OS
 QNX
 QtMoko
 Qubes OS
-Quick Share
 ROSA Linux
-RPM Package Manager
 Raspberry Pi OS
-Real-time operating system
 Red Hat Enterprise Linux
 Red Hat Linux
 Red Star OS
 Remix OS
 Replicant (operating system)
-Repository (version control)
 Resurrection Remix OS
 Rocks Cluster Distribution
 Rocky Linux
-Roku OS
 S60 (software platform)
-SEMES
 SHR (operating system)
-SK Telecom
-SONiC (operating system)
-SRBD
-STECO
 SUSE Linux
 SUSE Linux Enterprise
 SUSE Studio
-S Pen
-S Voice
 Sabayon Linux
 Sabily
 Sailfish OS
 Salix OS
-Samsung
-Samsung Anycall
-Samsung Ativ
-Samsung Ativ Odyssey
-Samsung Ativ S
-Samsung Ativ SE
-Samsung B7300
-Samsung B7610
-Samsung Captivate Glide
-Samsung DeX
-Samsung Display
 Samsung Electronics
-Samsung Exhibit 4G
-Samsung Exhibit II 4G
-Samsung Experience
-Samsung Flip
-Samsung Focus
-Samsung Focus 2
-Samsung Focus S
-Samsung GT-B7330
-Samsung GT-i8510
-Samsung Galaxy
-Samsung Galaxy (2009 smartphone)
-Samsung Galaxy (esports)
-Samsung Galaxy 3
-Samsung Galaxy 5
-Samsung Galaxy A01
-Samsung Galaxy A01 Core
-Samsung Galaxy A02
-Samsung Galaxy A02s
-Samsung Galaxy A03
-Samsung Galaxy A03 Core
-Samsung Galaxy A03s
-Samsung Galaxy A04
-Samsung Galaxy A04e
-Samsung Galaxy A04s
-Samsung Galaxy A05
-Samsung Galaxy A05s
-Samsung Galaxy A06
-Samsung Galaxy A10
-Samsung Galaxy A10e
-Samsung Galaxy A10s
-Samsung Galaxy A11
-Samsung Galaxy A12
-Samsung Galaxy A13
-Samsung Galaxy A13 5G
-Samsung Galaxy A14
-Samsung Galaxy A14 5G
-Samsung Galaxy A15
-Samsung Galaxy A15 5G
-Samsung Galaxy A16
-Samsung Galaxy A16 5G
-Samsung Galaxy A20
-Samsung Galaxy A20e
-Samsung Galaxy A20s
-Samsung Galaxy A21
-Samsung Galaxy A21s
-Samsung Galaxy A22
-Samsung Galaxy A22 5G
-Samsung Galaxy A23
-Samsung Galaxy A23 5G
-Samsung Galaxy A24
-Samsung Galaxy A25 5G
-Samsung Galaxy A2 Core
-Samsung Galaxy A30
-Samsung Galaxy A30s
-Samsung Galaxy A31
-Samsung Galaxy A32
-Samsung Galaxy A32 5G
-Samsung Galaxy A33 5G
-Samsung Galaxy A34 5G
-Samsung Galaxy A35 5G
-Samsung Galaxy A3 (2015)
-Samsung Galaxy A3 (2016)
-Samsung Galaxy A3 (2017)
-Samsung Galaxy A40
-Samsung Galaxy A41
-Samsung Galaxy A42 5G
-Samsung Galaxy A50
-Samsung Galaxy A50s
-Samsung Galaxy A51
-Samsung Galaxy A51 5G
-Samsung Galaxy A51 5G UW
-Samsung Galaxy A52
-Samsung Galaxy A52 5G
-Samsung Galaxy A52s 5G
-Samsung Galaxy A53 5G
-Samsung Galaxy A54 5G
-Samsung Galaxy A55 5G
-Samsung Galaxy A5 (2015)
-Samsung Galaxy A5 (2016)
-Samsung Galaxy A5 (2017)
-Samsung Galaxy A6
-Samsung Galaxy A60
-Samsung Galaxy A6 / A6+
-Samsung Galaxy A6s
-Samsung Galaxy A70
-Samsung Galaxy A70s
-Samsung Galaxy A71
-Samsung Galaxy A71 5G
-Samsung Galaxy A71 5G UW
-Samsung Galaxy A72
-Samsung Galaxy A73 5G
-Samsung Galaxy A7 (2015)
-Samsung Galaxy A7 (2016)
-Samsung Galaxy A7 (2017)
-Samsung Galaxy A7 (2018)
-Samsung Galaxy A80
-Samsung Galaxy A82 5G
-Samsung Galaxy A8 (2015)
-Samsung Galaxy A8 (2016)
-Samsung Galaxy A8 (2018)
-Samsung Galaxy A8 Star
-Samsung Galaxy A8s
-Samsung Galaxy A90 5G
-Samsung Galaxy A9 (2016)
-Samsung Galaxy A9 (2018)
-Samsung Galaxy A9 Pro (2016)
-Samsung Galaxy A series
-Samsung Galaxy Ace
-Samsung Galaxy Ace 2
-Samsung Galaxy Ace 3
-Samsung Galaxy Ace 4
-Samsung Galaxy Ace Plus
-Samsung Galaxy Alpha
-Samsung Galaxy Beam i8520
-Samsung Galaxy Beam i8530
-Samsung Galaxy C5
-Samsung Galaxy C55 5G
-Samsung Galaxy C7
-Samsung Galaxy C7 Pro
-Samsung Galaxy C8
-Samsung Galaxy C9 Pro
-Samsung Galaxy Core
-Samsung Galaxy Core LTE
-Samsung Galaxy E
-Samsung Galaxy E5
-Samsung Galaxy E7
-Samsung Galaxy Express
-Samsung Galaxy Express 2
-Samsung Galaxy F04
-Samsung Galaxy F13
-Samsung Galaxy F14 5G
-Samsung Galaxy F15 5G
-Samsung Galaxy F22
-Samsung Galaxy F23 5G
-Samsung Galaxy F41
-Samsung Galaxy F42 5G
-Samsung Galaxy F52 5G
-Samsung Galaxy F62
-Samsung Galaxy F series
-Samsung Galaxy Fame
-Samsung Galaxy Fit (smartphone)
-Samsung Galaxy Fold
-Samsung Galaxy Folder
-Samsung Galaxy Folder 2
-Samsung Galaxy Gear
-Samsung Galaxy Gio
-Samsung Galaxy Grand
-Samsung Galaxy Grand 2
-Samsung Galaxy Grand Max
-Samsung Galaxy J
-Samsung Galaxy J1
-Samsung Galaxy J1 (2016)
-Samsung Galaxy J1 Ace Neo
-Samsung Galaxy J1 Nxt
-Samsung Galaxy J1 mini Prime
-Samsung Galaxy J2
-Samsung Galaxy J2 (2016)
-Samsung Galaxy J2 (2017)
-Samsung Galaxy J2 (2018)
-Samsung Galaxy J2 Core
-Samsung Galaxy J2 Prime
-Samsung Galaxy J3 (2016)
-Samsung Galaxy J3 (2017)
-Samsung Galaxy J3 (2018)
-Samsung Galaxy J3 Prime
-Samsung Galaxy J3 Pro
-Samsung Galaxy J4
-Samsung Galaxy J4+
-Samsung Galaxy J4 Core
-Samsung Galaxy J5
-Samsung Galaxy J5 (2016)
-Samsung Galaxy J5 (2017)
-Samsung Galaxy J5 Prime
-Samsung Galaxy J6
-Samsung Galaxy J6+
-Samsung Galaxy J7
-Samsung Galaxy J7+
-Samsung Galaxy J7 (2016)
-Samsung Galaxy J7 (2017)
-Samsung Galaxy J7 Max
-Samsung Galaxy J7 Prime
-Samsung Galaxy J8
-Samsung Galaxy J series
-Samsung Galaxy M01s
-Samsung Galaxy M04
-Samsung Galaxy M10
-Samsung Galaxy M10s
-Samsung Galaxy M13
-Samsung Galaxy M13 5G
-Samsung Galaxy M14 5G
-Samsung Galaxy M15 5G
-Samsung Galaxy M20
-Samsung Galaxy M21
-Samsung Galaxy M21 2021 Edition
-Samsung Galaxy M22
-Samsung Galaxy M23 5G
-Samsung Galaxy M30
-Samsung Galaxy M30s
-Samsung Galaxy M31
-Samsung Galaxy M31s
-Samsung Galaxy M32
-Samsung Galaxy M33 5G
-Samsung Galaxy M34 5G
-Samsung Galaxy M35 5G
-Samsung Galaxy M40
-Samsung Galaxy M51
-Samsung Galaxy M52 5G
-Samsung Galaxy M53 5G
-Samsung Galaxy M54 5G
-Samsung Galaxy M55 5G
-Samsung Galaxy M55s 5G
-Samsung Galaxy M series
-Samsung Galaxy Mega
-Samsung Galaxy Mega 2
-Samsung Galaxy Mini
-Samsung Galaxy Nexus
-Samsung Galaxy Note
-Samsung Galaxy Note (1st generation)
-Samsung Galaxy Note 10
-Samsung Galaxy Note 20
-Samsung Galaxy Note 3
-Samsung Galaxy Note 3 Neo
-Samsung Galaxy Note 4
-Samsung Galaxy Note 5
-Samsung Galaxy Note 7
-Samsung Galaxy Note 8
-Samsung Galaxy Note 9
-Samsung Galaxy Note Edge
-Samsung Galaxy Note II
-Samsung Galaxy Player
-Samsung Galaxy Pocket
-Samsung Galaxy Pocket 2
-Samsung Galaxy Pocket Duos
-Samsung Galaxy Pocket Neo
-Samsung Galaxy Portal
-Samsung Galaxy Prevail
-Samsung Galaxy R
-Samsung Galaxy Round
-Samsung Galaxy S10
-Samsung Galaxy S20
-Samsung Galaxy S21
-Samsung Galaxy S22
-Samsung Galaxy S23
-Samsung Galaxy S24
-Samsung Galaxy S4
-Samsung Galaxy S4 Active
-Samsung Galaxy S4 Mini
-Samsung Galaxy S4 Zoom
-Samsung Galaxy S5
-Samsung Galaxy S5 Mini
-Samsung Galaxy S6
-Samsung Galaxy S7
-Samsung Galaxy S8
-Samsung Galaxy S9
-Samsung Galaxy SL
-Samsung Galaxy S (1st generation)
-Samsung Galaxy S 4G LTE
-Samsung Galaxy S Advance
-Samsung Galaxy S Duos
-Samsung Galaxy S Duos 2
-Samsung Galaxy S Duos 3
-Samsung Galaxy S II
-Samsung Galaxy S III
-Samsung Galaxy S III Mini
-Samsung Galaxy S Plus
-Samsung Galaxy S series
-Samsung Galaxy Spica
-Samsung Galaxy Star
-Samsung Galaxy Star 2 Plus
-Samsung Galaxy Store
-Samsung Galaxy W
-Samsung Galaxy Watch
-Samsung Galaxy Watch 3
-Samsung Galaxy Watch 4
-Samsung Galaxy Watch Active
-Samsung Galaxy Watch Active 2
-Samsung Galaxy Win
-Samsung Galaxy Xcover
-Samsung Galaxy Xcover 2
-Samsung Galaxy Xcover 3
-Samsung Galaxy Xcover 4
-Samsung Galaxy Xcover 5
-Samsung Galaxy Xcover 6 Pro
-Samsung Galaxy Xcover FieldPro
-Samsung Galaxy Xcover Pro
-Samsung Galaxy Xcover series
-Samsung Galaxy Y
-Samsung Galaxy Y DUOS
-Samsung Galaxy Y Pro DUOS
-Samsung Galaxy Young
-Samsung Galaxy Young 2
-Samsung Galaxy Z Flip
-Samsung Galaxy Z Flip 3
-Samsung Galaxy Z Flip 4
-Samsung Galaxy Z Flip 5
-Samsung Galaxy Z Flip 6
-Samsung Galaxy Z Fold 2
-Samsung Galaxy Z Fold 3
-Samsung Galaxy Z Fold 4
-Samsung Galaxy Z Fold 5
-Samsung Galaxy Z Fold 6
-Samsung Galaxy Z Fold Special Edition
-Samsung Galaxy Z series
-Samsung Gear
-Samsung Gear 2
-Samsung Gear Fit 2
-Samsung Gear Fit 2 Pro
-Samsung Gear S
-Samsung Gear S2
-Samsung Gear S3
-Samsung Gear Sport
-Samsung Global Scholarship Program
-Samsung Group
-Samsung India Software Centre
-Samsung Infuse 4G
-Samsung Intercept
-Samsung Internet
-Samsung Kies
-Samsung Knox
-Samsung Link
-Samsung Medison
-Samsung Moment
-Samsung NX1
-Samsung NX200
-Samsung NX300
-Samsung NX series
-Samsung Notes
-Samsung Omnia 7
-Samsung Omnia M
-Samsung Omnia W
-Samsung Papyrus
-Samsung Pay
-Samsung Pebble
-Samsung R&D Institute Brazil
-Samsung R&D Institute China, Beijing
-Samsung R&D Institute China, Guangzhou
-Samsung R&D Institute China, Nanjing
-Samsung R&D Institute China, Tianjin
-Samsung R&D Institute China-Xian
-Samsung R&D Institute India, Bangalore
-Samsung R&D Institute India, Noida
-Samsung R&D Institute Indonesia
-Samsung R&D Institute Israel
-Samsung R&D Institute Japan, Osaka
-Samsung R&D Institute Jordan
-Samsung R&D Institute Philippines
-Samsung R&D Institute Poland
-Samsung R&D Institute Russia
-Samsung R&D Institute U.K.
-Samsung R&D Institute Ukraine
-Samsung Replenish
-Samsung Research America
-Samsung Research America, Dallas
-Samsung Research America, Silicon Valley
-Samsung Research China
-Samsung Rugby Smart
-Samsung SGH-i900
-Samsung SPH-i300
-Samsung SPH-i500
-Samsung Sens
-Samsung Strategy and Innovation Center
-Samsung TV Plus
-Samsung Telecommunications
-Samsung Transform
-Samsung Wallet
-Samsung WatchON
-Samsung Wave 525
-Samsung Wave 575
-Samsung Wave II S8530
-Samsung Wave S8500
-Samsung Wave Y
-Samsung Wave s8600
-Samsung YEPP
-Samsung Z
-Samsung Z1
-Samsung Z2
-Samsung Z3
-Samsung Z4
-Samsung ZEQ 9000
-Samsung and unions
-Samsung i8000
-Samsung i8910
-San Jose Lab
 Scientific Linux
-Seoul Samsung Thunders
 Series 30
 Series 30+
 Series 40
 Series 80 (software platform)
 Series 90 (software platform)
-Simband
 Slackware
 Slax
-SmartCast
-SmartThings
 Smart TV
 Smartphone
-Smartwatch
 Softlanding Linux System
 Software development kit
 Software license
@@ -759,26 +271,19 @@ Solus (operating system)
 SolydXK
 Sony Ericsson Java Platform
 Source Mage
-Source available
 SparkyLinux
 Splashtop OS
-Sprint Corporation
 SteamOS
 Sunwah Linux
-Suwon Samsung Bluewings
 Symbian
-Symbian OS
 SystemRescue
 T2 SDE
 Tails (operating system)
-Telefónica
 Think Blue Linux
 ThreadX
 Threading Building Blocks
 Tiny Core Linux
-Tizen Association
 TopologiLinux
-TouchWiz
 Trisquel
 Turbolinux
 Turkix
@@ -792,33 +297,20 @@ Ubuntu GNOME
 Ubuntu Kylin
 Ubuntu MATE
 Ubuntu Studio
-Ubuntu TV
 Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Upday
-Uruk GNU/Linux
 User interface
 User space and kernel space
-VTune
 VectorLinux
 Vice (magazine)
 Vine Linux
-Vision (game engine)
-Viv (software)
-Vizio
-Vodafone
-Vodafone 360 Samsung M1
 Void Linux
 WatchOS
 Wear OS
-Wearable computing
-Wearable device
 WebOS
 Whonix
-Wi-Fi
 Windows 10
 Windows 10 Mobile
 Windows 11
@@ -833,14 +325,11 @@ Windows RT
 Windows XP editions
 Wubuntu
 X86
-X86-64
 XB Machine
 XNU
 Xubuntu
 Yellow Dog Linux
-Young Sohn
 Zenwalk
-Zero-day (computing)
 Zircon (microkernel)
 Zorin OS
 Ångström distribution

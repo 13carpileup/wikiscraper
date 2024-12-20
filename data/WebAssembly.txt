@@ -1,580 +1,80 @@
-.NET languages
-128-bit computing
-360 Secure Browser
 AOL Explorer
-AT&T Pogo
-Abaco (web browser)
-Ace (editor)
-ActiveX
-Active Server Pages
-ActivityPub
-Activity Streams (format)
 Adobe Flash
-Agora (web browser)
-Ahead-of-time compilation
-Ajax (programming)
-Amaya (web editor)
 Amazon Silk
-Apache HTTP Server
-Apache JServ Protocol
-Apache License 2.0
 Apple Inc.
-Application binary interface
 Application programming interface
-Application server
-Arachne (web browser)
-Arc (web browser)
-Architecture Neutral Distribution Format
-Arena (web browser)
-Argo (web browser)
-ArkTS
-Arora (web browser)
 Ars Technica
-Asm.js
-AssemblyScript
 Assembly language
-Association for Computing Machinery
-Asynchronous Server Gateway Interface
-AtScript
-Atom (text editor)
-Avast Secure Browser
-Babel (transcompiler)
-Basilisk (web browser)
-Beaker (web browser)
-Beonex Communicator
-Binary code
-Binaryen
-Blazer (web browser)
-Blazor
-Bleeping Computer
-Blink (browser engine)
-Bolt (web browser)
-Bookmark (digital)
-Brackets (text editor)
-Brave (web browser)
-Brendan Eich
-Browser Helper Object
-Browser engine
 Browser extension
-Bun (software)
 Bytecode
 C++
-C-HTML
-CERN httpd
-CM Browser
 CSS
-CSS Flexible Box Layout
-CSS Working Group
 CSS animations
-CSS grid layout
-CURIE
 C (programming language)
 C Sharp (programming language)
-Cake Browser
-Call Control eXtensible Markup Language
-Camino (web browser)
-Canonical XML
-Canvas element
-Capability-based security
-Capsicum (Unix)
-Cascading Style Sheets
-Charon (web browser)
-Chrome (browser)
-Chromium (web browser)
-Citrio
 Clang
-Classilla
-Client-side
-Client-side persistent data
-ClojureScript
-Cloud9 IDE
-CodeMirror
-CoffeeScript
-Coinhive
-CommonJS
-Common Gateway Interface
-Common Language Runtime
 Communication protocol
-Comodo Dragon
-Comodo IceDragon
-Comparison of JavaScript-based source code editors
-Comparison of JavaScript-based web frameworks
-Comparison of web browsers
-Compilation (computing)
 Compiler
-Compound Document Format
 Condé Nast
-Conkeror
-Control flow
-Cross-origin resource sharing
-Cross-site scripting
-Cryptocurrency
-Cốc Cốc
-DOM event
-Dart (programming language)
-Debugger
-Deepnet Explorer
-Deno (software)
-Detection of Intrusions and Malware, and Vulnerability Assessment
-Dillo
-Docker (software)
-Document Object Model
-Documentation generator
 Doi (identifier)
-Dolphin Browser
-Dooble
-Douglas Crockford
-DuckDuckGo Private Browser
-Dynamic HTML
-Dynamic web page
-ELinks
-ESLint
-Efficient XML Interchange
-Elm (programming language)
-Emotion Markup Language
-Emscripten
-Encrypted Media Extensions
-Epic (web browser)
-Esbuild
-Eww (web browser)
-Executable
-Extensible Forms Description Language
-Extensible User Interface Protocol
 F Sharp (programming language)
-Factorial
-Falkon
-FastCGI
-Fastly
 Filename extension
-Firefox
-Firefox Lite
-First International Conference on the World-Wide Web
-Flock (web browser)
-Floorp
-Flow (web browser)
-Fluid (web browser)
 Fork (software development)
-Free and Open Source
-Free content
-Frontend and backend
-GNOME Web
-GNU IceCat
-Galeon
 Garbage collection (computer science)
-Gazelle (web browser)
-Gears (software)
-Gecko (software)
-Ghostzilla
 GitHub
 Google
-Google Chrome
-Google Closure Compiler
-Google Native Client
-Google TV (smart TV platform)
-Google Web Toolkit
-GraphQL
-GreenBrowser
 HTML
 HTML5
-HTML5 File API
-HTML Working Group
-HTML audio
-HTML video
-HTTP
-HTTP/2
-HTTP/3
-HTTPS
-HTTP cookie
-HTTP handler
-Handheld Device Markup Language
-Haxe
 Hdl (identifier)
-Hexadecimal
 HotJava
-Hydration (web development)
-IBM Home Page Reader
-IBM Lotus Symphony
-IBM WebExplorer
-IBrowse
-ICab
 ISBN (identifier)
 ISSN (identifier)
-Improving Web Advertising Business Group
-Indexed Database API
-IndieAuth
-InfoWorld
-InkML
 Instruction set architecture
 Intel
-International World Wide Web Conference
-International World Wide Web Conferences Steering Committee
-Internationalization Tag Set
-Internet Explorer
-Internet Explorer for Mac
-Internet Server Application Programming Interface
 Interpreter (computing)
-Intrinsic function
-IoT
-Iris Browser
-JS++
-JSDoc
-JSGI
-JSHint
-JSLint
-JSON
-JSON-LD
-Jakarta Servlet
-Jasmine (JavaScript testing framework)
 JavaScript
-JavaScript Style Sheets
-JavaScript engine
-JavaScript library
-JavaScript syntax
-Java Portlet Specification
-Java bytecode
-Java bytecode instruction listings
-Java virtual machine
-John Resig
-Julia (programming language)
-Just-in-time compilation
-K-Meleon
-Kagi (search engine)
-Kazehakase
 Khronos Group
-KidZui
-Kirix Strata
-Komodo IDE
-Kong Inc.
-Konqueror
-Kotlin (programming language)
-Kylo (web browser)
-LEB128
-LLVM
-Ladybird (web browser)
-LibreWolf
-Libwww
-Light Table (software)
-Line Mode Browser
-Linked Data Notifications
-Links (web browser)
 Lisp (programming language)
-List of Apache modules
-List of CIL instructions
-List of ECMAScript engines
-List of Eclipse projects
-List of JVM languages
-List of JavaScript libraries
-List of application servers
-List of unit testing frameworks
-List of web browsers
-LiveScript (programming language)
-Lunascape
-Lynx (web browser)
-MSN TV
 Malware
-Malwarebytes
 Mashup (web application hybrid)
-MathML
-Maxthon
-MediaBrowser
-Media Source Extensions
-Meltdown (security vulnerability)
-Mercury Browser
-MicroB
-Micropub (protocol)
-Microservices
 Microsoft
-Microsoft Edge
-Microsoft Edge Legacy
-Microsoft Live Labs Deepfish
 Microsoft Visual Studio Express
-Midori (web browser)
-Minimo
-Minimum viable product
-Mocha (JavaScript framework)
-Mod jk
-Mod lisp
-Mod mono
-Mod parrot
-Mod perl
-Mod proxy
-Mod python
-Mod ruby
-Mod wsgi
-Morfik
-Mosaic (web browser)
-Mozilla
-Mozilla Application Suite
-NPAPI
-Naver Whale
-NeoPlanet
-NetCaptor
-NetFront
-NetPositive
-NetSurf
-Netscape (web browser)
-Netscape Server Application Programming Interface
-Nim (programming language)
-Node.js
-Nokia Browser for Symbian
-Npm
 OCLC (identifier)
-OmniWeb
-Online Certificate Status Protocol
-Opa (programming language)
-Opcode
-Open API
-Open Web Interface for .NET
-Open standard
-Opera (web browser)
-Opera Coast
-Opera Mini
-Opera Mobile
 Operating system
-Origyn Web Browser
-Otter Browser
-P3P
 PHP
 POSIX
 Package manager
-Packt
-Pale Moon
 Phishing
-PhpStorm
-Phusion Passenger
-PirateBrowser
-Plack (software)
-Platform independent
 Plug-in (computing)
-Pnpm
 Porting
-Precision Graphics Markup Language
-Private browsing
 Programming language
 Programming paradigm
-Progressive web app
-Pronunciation Lexicon Specification
 Proprietary software
-Proxy server
-Puffin Browser
-PureScript
-Push technology
 Python (programming language)
-QQ Browser
-QUnit
-QtWeb
-Qutebrowser
-RDF Schema
-REST
-Rack (web server interface)
-Reason (programming language)
 Red Hat
-Redcore
-Remote scripting
-Resource-oriented architecture
 Resource Description Framework
-Rich Internet Application
-Ring (programming language)
-Rockmelt
 Ruby (programming language)
-Rule Interchange Format
-Rust (programming language)
-Ryan Dahl
-S-expression
 S2CID (identifier)
-SCXML
-SHACL
-SIGPLAN
-SIMD
-SMIL Timesheets
-SOAP
-SPARQL
-SRWare Iron
-SVG
-SVG Working Group
-SVG filter effects
-SXBL
-Safari (web browser)
-SalamWeb
-Samsung Internet
-Sandbox (computer security)
-Scalable Vector Graphics
-SeaMonkey
-Semantic Interpretation for Speech Recognition
-Server-sent events
-Server-side
-Server-side JavaScript
-Server-side scripting
-Server Side Includes
-Server application programming interface
-Shiira
-Simple Common Gateway Interface
-Simple Knowledge Organization System
-Single-page application
-Skweezer
-Skyfire (company)
-Sleipnir (web browser)
-SlimBrowser
 Software
 Software design
 Software developer
 Software framework
 Software license
 Software portability
-Solomon Hykes
-Solution stack
-Source-to-source compiler
-SpaceTime (software)
-Spectre (security vulnerability)
-Speech Recognition Grammar Specification
-Speech Synthesis Markup Language
-Sputnik (search engine)
-Stack machine
-Static program analysis
-Static web page
-Steel (web browser)
-Structured programming
-Subresource Integrity
-Subset
-Supermium
-Surf (web browser)
-Swiftfox
-Swiftweasel
-Symbolic execution
-Synchronized Multimedia Integration Language
-Syntactic sugar
 System call
-Tech Republic
-Technical Architecture Group
-Technische Universität Braunschweig
 Technology
-TenFourFox
-Thing Description
-Third-party cookies
 Thread (computing)
-ThunderHawk
-Timberwolf (web browser)
-Timed text
-Tor Browser
-Torch (web browser)
-Trident (software)
 Tweet (social media)
 Twitter
-TypeScript
-UC Browser
-UNCOL
-Ungoogled-chromium
-Unit testing
 Unity (game engine)
-University of Stuttgart
-Uzbl
-Vector Markup Language
-Vim (text editor)
 Virtual machine
-Virus Bulletin
-Vision Mobile Browser
 Visual Studio
-Visual Studio Code
-Vite (software)
-Vivaldi (web browser)
-VoiceXML
-W3C Advisory Board
-W3C Board
-W3C Device Description Working Group
-W3C Geolocation API
-W3C MMI
-W3C Markup Validation Service
-W3m
-WAI-ARIA
-WHATWG
-Wasmer
-Wasmtime
-Waterfox
 Wayback Machine
-Web-oriented architecture
-WebAssembly SIMD
-WebAuthn
-WebCL
-WebDAV
 WebGL
 WebGPU
-WebKit
-WebPlatform.org
-WebPositive
-WebRTC
-WebSharper
-WebSocket
-WebSub
-WebUSB
-WebVTT
 WebXR
 Web API
-Web API security
-Web Accessibility Initiative
-Web Authentication Working Group
-Web Components
 Web Content Accessibility Guidelines
-Web IDL
-Web Messaging
-Web Ontology Language
-Web Open Font Format
-Web SQL Database
-Web Server Gateway Interface
-Web Services Description Language
-Web Services for Remote Portlets
-Web application
 Web browser
-Web container
-Web framework
-Web of Things
-Web page
-Web resource
-Web service
-Web standards
-Web storage
-Web worker
-Webhook
-Webmention
-Webpack
-WinWAP
-WorldWideWeb
 World Wide Web
-World Wide Web Consortium
-World Wide Web Foundation
-XAML Browser Applications
-XAdES
-XBL
-XB Browser
-XForms
-XFrames
-XHTML
-XHTML+MathML+SVG
-XHTML+RDFa
-XHTML+SMIL
-XInclude
-XLink
 XML
-XML-binary Optimized Packaging
-XMLHttpRequest
-XML Base
-XML Encryption
-XML Events
-XML Information Set
-XML Schema (W3C)
-XML Signature
-XML namespace
-XPath
-XPath 2.0
-XPath 3
-XPointer
-XProc
-XQuery
-XSL
-XSLT
-XSLT elements
-XSL Formatting Objects
-Xombrero
-Yandex Browser
-Yarn (package manager)
-ZAC Browser
-Zen Browser

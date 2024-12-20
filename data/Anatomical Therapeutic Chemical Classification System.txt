@@ -1,12 +1,7 @@
 ACE inhibitor
 ATC code A
-ATC code A01
 ATC code B
-ATC code B01
 ATC code C
-ATC code C03
-ATC code C08
-ATC code C09
 ATC code D
 ATC code D09
 ATC code G
@@ -15,24 +10,16 @@ ATC code J
 ATC code L
 ATC code M
 ATC code N
-ATC code N02
 ATC code P
 ATC code R
 ATC code S
 ATC code V
 ATCvet code QI
-ATCvet code QJ51
-Acetylsalicylic acid
-Active ingredient
 Addiction medicine
-Adverse drug reaction
-Alimentary tract
 Alkylating antineoplastic agent
-Amperozide
 Anabolic steroid
 Analgesic
 Anesthetic
-Angiotensin II receptor antagonist
 Anorectic
 Antacid
 Anthelmintic
@@ -40,20 +27,13 @@ Anti-inflammatory
 Anti-obesity medication
 Antianginal
 Antiarrhythmic agent
-Antibacterial
 Anticoagulant
 Anticonvulsant
-Antidementia drug
 Antidepressant
-Antidiarrhoeal
 Antidote
 Antiemetic
 Antifibrinolytic
-Antifungal drug
 Antihemorrhagic
-Antihyperkinetic
-Antihypertensive drug
-Antiinfective
 Antimetabolite
 Antimicrobial
 Antimigraine drug
@@ -62,11 +42,8 @@ Antineoplastic
 Antiparasitic
 Antiplatelet drug
 Antipropulsive
-Antiprotozoal agent
 Antipruritic
-Antipsoriatic
 Antipsychotic
-Antipyretic
 Antithrombotic
 Antithyroid agent
 Antiviral drug
@@ -77,180 +54,50 @@ Bile acid sequestrant
 Bisphosphonate
 Blood
 Bone
-British Pediatric Association Classification of Diseases
 Bronchodilator
 Calcium channel blocker
 Cardiac glycoside
 Cardiac stimulant
-Cardiovascular system
-Chemical classification
-Chemical property
 Chemotherapy
-Chinese Classification of Mental Disorders
-Cicatrizant
 Circulatory system
-Classification Commune des Actes Médicaux
-Classification of Pharmaco-Therapeutic Referrals
 Coagulation
-Contrast medium
 Corticosteroid
-Cough medicine
-Current Procedural Terminology
-DSM-5
-DSM-IV codes
 Decongestant
-Defined daily dose
 Deliriant
 Depressant
-Dermatological
 Diabetes medication
-Diagnosis code
-Diagnostic and Statistical Manual of Mental Disorders
-Dietary mineral
 Disease-modifying antirheumatic drug
 Dissociative
 Diuretic
 Doi (identifier)
 Dressing (medicine)
-Drug
-Drug Identification Number
-Drug classification
-Drug development
 Ectoparasiticide
-Efficacy
-Emollient
 Endocrine system
-Entactogen
 Entheogen
 Euphoria
-European Pharmaceutical Market Research Association
-Federative International Committee on Anatomical Terminology
 Fertility medication
 Fibrate
-Formulary (pharmacy)
-Furosemide
 General anaesthetic
-Genito-urinary system
 Genitourinary system
 Germany
 Glucocorticoid
 H1 antagonist
-H2 antagonist
-HCPCS Level 2
-Haematopoiesis
-Healthcare Common Procedure Coding System
-Herbal medicine
 Hormonal contraception
 Hormone
 Human brain
-Human gastrointestinal tract
 Human skin
 Hypnotic
-Hypolipidemic agent
 Hypothalamic–pituitary hormone
-ICD-10
-ICD-10 Procedure Coding System
-ICD-11
-ICD-9
-ICD-9-CM Volume 3
-ICPC-2 PLUS
 Immune system
-Immunomodulator
 Immunostimulant
 Immunosuppressive drug
 Infection
-Insect repellent
-Insecticide
-International Classification of Diseases
-International Classification of Diseases for Oncology
-International Classification of Headache Disorders
-International Classification of Health Interventions
-International Classification of Primary Care
-International Classification of Sleep Disorders
-International Statistical Classification of Diseases and Related Health Problems
-Intravenous immunoglobulin
 Joint
-LOINC
-Laxative
-Local anesthetic
-Malignant
-Management of Parkinson's disease
 Medical Subject Headings
-Medical classification
 Medicine
 Metabolism
-Mineralocorticoid
-Mood stabilizer
-Motivation-enhancing drug
-Mouth
-Muscle
-Muscle relaxant
-Musculo-skeletal system
-NANDA
-National drug code
 Nervous system
-Neuroprotective
-Neurotoxin
-Non-steroidal anti-inflammatory drug
-Nootropic
-Nursing Interventions Classification
-Nursing Outcomes Classification
-OPCS-4
-OPS-301
-Ophthalmology
-Orchard Sports Injury and Illness Classification System (OSIICS)
-Orexigenic
-Organ (biology)
-Organ system
-Otology
 PMC (identifier)
 PMID (identifier)
-Pharmaceutical care
-Pharmaceutical code
-Pharmacology
-Pharmacotherapy
-Platelet
-Platelet inhibitor
-Procedure code
-Proton-pump inhibitor
-Psychedelic drug
-Psychedelics, dissociatives and deliriants
-R (programming language)
-Radiopharmacology
-Read code
-Renin inhibitor
-Renin–angiotensin system
-Respiratory system
-RxNorm
-Sedative
-Selective estrogen receptor modulator
-Senotherapeutics
-Sense
-Sensory organ
-Serenic
-Sex hormone
-Sex steroid
-Spindle poison
-Statin
-Stimulant
 Subscription business model
-Sulfonamide (medicine)
-Systematized Nomenclature of Medicine
-Terminologia Anatomica
-Terminologia Embryologica
-Terminologia Histologica
-The International League of Dermatological Societies
-Therapy
-Thrombolytic drug
-Thyroid hormone
-Topographical code
-Topoisomerase inhibitor
 University of Sydney
-Uppsala Monitoring Centre
-Vaccine
-Vasodilation
-Veterinary
-Vitamin
-WHO Drug Dictionary
-Wakefulness-promoting agent
-World Health Organization

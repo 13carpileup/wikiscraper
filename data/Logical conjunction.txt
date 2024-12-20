@@ -6,12 +6,9 @@ Aleph number
 Algebraic logic
 Alphabet (formal languages)
 Ampersand
-And-inverter graph
 Argument
-Argument form
 Arity
 Arrow (symbol)
-Associativity
 Atomic formula
 Atomic sentence
 Automata theory
@@ -20,20 +17,11 @@ Axiom
 Axiom of choice
 Axiom schema
 Axiomatic system
-Axiomatization of Boolean algebras
 Banach–Tarski paradox
-Bent function
 Bijection
-Binary numeral system
 Binary operation
-Bit
-Bitstring
-Bitwise AND
-Boolean-valued function
 Boolean algebra
 Boolean algebras canonically defined
-Boolean conjunctive query
-Boolean domain
 Boolean function
 Cantor's diagonal argument
 Cantor's paradox
@@ -51,7 +39,6 @@ Class (set theory)
 Classical logic
 Codomain
 Commutative property
-Commutativity
 Compactness theorem
 Complement (set theory)
 Complete theory
@@ -59,12 +46,7 @@ Computability theory
 Computable function
 Computable set
 Computably enumerable set
-Computer networking
 Concrete category
-Conjunction/disjunction duality
-Conjunction (grammar)
-Conjunction elimination
-Conjunction introduction
 Conjunctive normal form
 Conservative extension
 Consistency
@@ -73,7 +55,6 @@ Construction of the real numbers
 Constructive set theory
 Continuum hypothesis
 Contradiction
-Control flow
 Converse (logic)
 Converse nonimplication
 Countable set
@@ -82,11 +63,9 @@ Database
 De Morgan's laws
 Decidability (logic)
 Decision problem
-Deductive system
 Denotation
 Diagram (mathematical logic)
 Digital buffer
-Digital electronics
 Disjunctive normal form
 Distributivity
 Domain of a function
@@ -122,48 +101,37 @@ Forcing (mathematics)
 Formal grammar
 Formal language
 Formal proof
-Formal semantics (logic)
 Formal system
 Formation rule
 Foundations of geometry
 Foundations of mathematics
 Free logic
 Free variables and bound variables
-Fréchet inequalities
 Function (mathematics)
 Functional completeness
 Functional predicate
 Fuzzy set
 General set theory
-Grammatical conjunction
 Grothendieck universe
 Ground expression
-Ground formula
 Gödel's completeness theorem
 Gödel's incompleteness theorems
 Gödel numbering
-Hadamard transform
 Halting problem
 Hereditary set
 Higher-order logic
 Hilbert's axioms
 Hilbert system
 History of logic
-History of mathematical logic
-Homogeneity (linguistics)
-Horseshoe (symbol)
 IMPLY gate
 IP address
 ISBN (identifier)
-Idempotence
-Idempotency
 Identity element
 If and only if
 Image (mathematics)
 Inaccessible cardinal
 Independence (mathematical logic)
 Inference
-Infimum and supremum
 Infinite-valued logic
 Infinite set
 Information theory
@@ -171,15 +139,10 @@ Inhabited set
 Injective function
 Interpretation (logic)
 Interpretation (model theory)
-Interpretation function
 Intersection (set theory)
 Inverter (logic gate)
 Isomorphism
-Iterated binary operation
-Jan Łukasiewicz
-Józef Maria Bocheński
 Kolmogorov complexity
-Kripke's theory of truth
 Kripke–Platek set theory
 Lambda
 Lambda calculus
@@ -189,8 +152,6 @@ Lemma (mathematics)
 Lindström's theorem
 Linear
 Linguistics
-List of Boolean algebra topics
-List of Hilbert systems
 List of axioms
 List of first-order theories
 List of formal systems
@@ -208,16 +169,12 @@ Logical constant
 Logical disjunction
 Logical equality
 Logical equivalence
-Logical graph
-Logical operation
-Logical operator
 Logical truth
 Logical value
 Logicism
 Löwenheim–Skolem theorem
 Many-valued logic
 Map (mathematics)
-Mask (computing)
 Material conditional
 Material nonimplication
 Mathematical logic
@@ -255,19 +212,16 @@ P versus NP problem
 Paradoxes of set theory
 Partition of a set
 Peano axioms
-Peano–Russell notation
 Philosophy of logic
 Philosophy of mathematics
 Polish notation
 Post's lattice
 Power set
 Predicate (mathematical logic)
-Predicate logic
 Predicate variable
 Primitive recursive arithmetic
 Primitive recursive function
 Principia Mathematica
-Product type
 Programming language
 Proof of impossibility
 Proof theory
@@ -278,7 +232,6 @@ Propositional variable
 Quantifier (logic)
 Quantifier rank
 Recursion
-Recursive set
 Relation (mathematics)
 Reverse mathematics
 Robinson arithmetic
@@ -299,8 +252,6 @@ Sequent calculus
 Set (mathematics)
 Set theory
 Sheffer stroke
-Short-circuit evaluation
-Sierpinski triangle
 Signature (logic)
 Singleton (mathematics)
 Skolem arithmetic
@@ -310,10 +261,7 @@ Spectrum of a theory
 Square of opposition
 Statement (logic)
 Strength (mathematical logic)
-String (formal languages)
 Structure (mathematical logic)
-Subnetwork
-Subset
 Substitution (logic)
 Substructure (mathematics)
 Supertask
@@ -324,36 +272,26 @@ Syntax (logic)
 T-schema
 Tarski's axiomatization of the reals
 Tarski's axioms
-Tarski's theory of truth
 Tarski's undefinability theorem
 Tarski–Grothendieck set theory
 Tautology (logic)
-Tee (symbol)
 Term (logic)
 Term logic
 Theorem
-Theories of truth
 Theory (mathematical logic)
-Therefore sign
 Three-valued logic
 Tilde
 Timeline of mathematical logic
 Transfer principle
 Transitive set
 Triple bar
-True (logic)
 True arithmetic
-Truth function
 Truth predicate
 Truth table
 Truth value
 Turing machine
-Turned A
-Turned v
-Turnstile (symbol)
 Type (model theory)
 Type theory
-Ultrafilter (set theory)
 Ultraproduct
 Uncountable set
 Undecidable problem
@@ -363,19 +301,11 @@ Uniqueness quantification
 Universal quantification
 Universal set
 Universe (mathematics)
-Up tack
 Urelement
-Vacuous truth
 Validity (logic)
 Variable (mathematics)
-Vel (symbol)
 Venn diagram
 Von Neumann universe
 Von Neumann–Bernays–Gödel set theory
-Wedge (symbol)
 Well-formed formula
-Words
-XNOR gate
-XOR gate
 Zermelo–Fraenkel set theory
-Zhegalkin polynomial

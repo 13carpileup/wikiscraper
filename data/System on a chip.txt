@@ -1,140 +1,27 @@
-1-bit computing
-12-bit computing
-128-bit computing
-16-bit computing
-24-bit computing
-256-bit computing
-32-bit computing
-3D video
 4-bit computing
-48-bit computing
-512-bit computing
 64-bit computing
-6LoWPAN
-8-bit computing
 ACM Computing Classification System
-ACPI
-AI accelerator
-AMD
-AMD Élan
-ARC (processor)
-ARM Cortex-M
-ARM architecture
-ARM architecture family
-ARM big.LITTLE
-ARM system-on-chip architecture
-ASIC
 Abstract machine
-Accellera
-Achronix
-Acorn Archimedes
-Acorn Computers
-Actions Semiconductor
-Actuator
-Adapteva
-Adder (electronics)
-Address decoder
-Address generation unit
-Addressing mode
-Advanced Boolean Expression Language
 Advanced Microcontroller Bus Architecture
-Advanced Power Management
-Aldec
 Algorithm
 Algorithm design
 Algorithmic efficiency
-Allwinner Technology
-Altera Hardware Description Language
-Alternating Turing machine
-Ambient intelligence
-Analog-to-digital converter
-Analog signal
-Analogue electronics
 Analysis of algorithms
-Apache Hadoop
-Apollo Guidance Computer
-Apple A series
-Apple M1
-Apple silicon
-Application-specific instruction set processor
-Application-specific integrated circuit
-Application domain
 Application security
-Approximation algorithm
-Architecture tradeoff analysis method
-Arduino
-Arithmetic logic unit
-Arm Holdings
-Arndale Board
 Artificial intelligence
-Asus Tinker Board
-Asymptotic analysis
-Atom (system on chip)
-Auburn University
 Automata theory
 Automated planning and scheduling
-Banana Pi
-Barrel processor
-Barrel shifter
-Baseband processor
-Battery life
-BeagleBoard
-Binary decoder
-Binary multiplier
 Bit-level parallelism
-Bit-serial architecture
-Bit slicing
 Bluetooth
-Boolean circuit
-Boolean satisfiability problem
-Bottleneck (engineering)
-Branch predictor
-Branch target predictor
-Branching random walk
-Broadcom
 Bus (computing)
-Bus contention
 C++
-CHIP (computer)
-CPU cache
-CPU multiplier
-C to HDL
 Cache (computing)
 Cache coherence
-Cache hierarchy
-Cache performance measurement and metric
-Cache replacement policies
-Cadence Design Systems
-Camera Serial Interface
-Catastrophic failure
-Cell (processor)
-Cellular architecture
 Cellular automaton
 Cellular network
 Central processing unit
-Chip carrier
-Chiplet
-Chipset
-Chisel (programming language)
-Circuit (computer science)
-Circuit underutilization
-Classic RISC pipeline
-Clipper architecture
-Clock gating
-Clock generator
-Clock rate
-Clock signal
-Cognitive computing
-Combinational logic
-Combinatorial optimization
 Communication protocol
-Communication protocols
-Communications subsystem
-Communications system
-Comparison of instruction set architectures
 Compiler construction
-Complex instruction set computer
-Complex programmable logic device
 Computability theory
 Computational biology
 Computational chemistry
@@ -151,13 +38,10 @@ Computer accessibility
 Computer animation
 Computer architecture
 Computer data storage
-Computer engineers
 Computer graphics
 Computer hardware
 Computer memory
 Computer network
-Computer performance
-Computer performance by orders of magnitude
 Computer program
 Computer science
 Computer security
@@ -166,532 +50,177 @@ Computing
 Computing platform
 Concurrency (computer science)
 Concurrent computing
-Conde Nast
-Control hazard
 Control theory
-Control unit
 Control variable (programming)
-Convolution
-Cooperative multitasking
 Coprocessor
-Cotton Candy (single-board computer)
-Counter (digital)
-Counter machine
 Cross-validation (statistics)
-Cryptographic accelerator
 Cryptography
-Crystal oscillators
-Cubieboard
-Custom hardware attack
 Cyberwarfare
-Cycles per instruction
-Cypress PSoC
 DEC Alpha
-Data analysis
-Data buffer
-Data cache
-Data collection
 Data dependency
 Data mining
 Data parallelism
-Data processing unit
 Database
 Dataflow architecture
-Datapath
-Debugging
 Decision support system
-Demultiplexer
 Dependability
-Design flow (EDA)
-Design margin
-Deterministic finite automaton
 Device driver
-Die (integrated circuit)
-Digital-to-analog converter
 Digital art
-Digital camera
-Digital electronics
 Digital library
 Digital marketing
-Digital signal (electronics)
-Digital signal processing
-Digital signal processor
-Digital watch
-DirectX Video Acceleration
-Direct memory access
 Discrete mathematics
 Dissipation
-Distributed architecture
 Distributed artificial intelligence
 Distributed computing
 Distributed memory
-Distributed processing
 Document management system
 Domain-specific language
-Drive PX-series
-Dynamic frequency scaling
-Dynamic random-access memory
-Dynamic voltage scaling
 E-commerce
-EEPROM
-EE Times
-ELLA (programming language)
-EMMC
-ETRAX CRIS
-E (verification language)
-Edge computing
 Educational technology
 Electric current
 Electric power
-Electrical connector
-Electromigration
-Electronic circuit
 Electronic design automation
-Electronic hardware
 Electronic publishing
 Electronic voting
 Electronics
-Embedded software
 Embedded system
-Emulator
-Endianness
 Enterprise information system
 Enterprise software
 Ethernet
-Execution unit
-Expansion card
-Explicit data graph execution
-Explicitly parallel instruction computing
-Exynos
-Exynos (system on chip)
-FIFO (computing and electronics)
-FLOPS
-FPGA prototyping
-Fabric computing
-False sharing
-Fast Fourier transform
 Field-programmable gate array
-Field-programmable object array
 Finite-state machine
-Finite-state machine with datapath
-Firmware
-Flash memory
-Floating-point unit
-Floorplan (microelectronics)
-Flow to HDL
 Flynn's taxonomy
 Form factor (design)
 Formal language
 Formal methods
-Full custom
-Functional unit
-Functional verification
-Fused multiply-accumulate
-GPS navigation device
-GPU
-Gate array
 General-purpose computing on graphics processing units
-Generic array logic
-Genetic algorithm scheduling
 Geographic information system
-Glue logic
-Graphics pipeline
 Graphics processing unit
 Green computing
-Gumstix
-HDMI
-Handel-C
 Hardware acceleration
-Hardware description language
-Hardware emulation
-Hardware random number generator
-Hardware register
 Hardware security
 Hardware security module
-Hardware verification language
-Hardwired control unit
-Harvard architecture
-Hawkboard
-Hazard (computer architecture)
 Health informatics
-Heat flux
-Heat generation in integrated circuits
-Heterogeneous System Architecture
-Heterogeneous computing
-Heuristic (computer science)
-HiSilicon
-Hierarchical state machine
-High-level programming language
-High-level synthesis
-High resolution
-History of general-purpose CPUs
 Human–computer interaction
-Hyper-threading
-Hypercomputation
-Hypercube internetwork topology
-I.MX
-IA-64
-IBM POWER architecture
-IBM System/360 architecture
-IBM System/370
-IBM System/390
-ICE (FPGA)
-IGEPv2
-IP core
 ISBN (identifier)
 Image compression
-Image processing
-Image processor
-In-memory processing
-Infineon Technologies
 Information retrieval
 Information security
 Information system
 Information theory
-Ingenic
-Input/output
 Institute of Electrical and Electronics Engineers
 Instruction-level parallelism
-Instruction (computing)
-Instruction cache
-Instruction cycle
-Instruction decoder
 Instruction pipelining
 Instruction set architecture
-Instruction unit
 Instructions per cycle
-Instructions per second
 Integral
 Integrated circuit
-Integrated circuit development
-Integrated circuit layout
 Integrated development environment
 Intel
-Intel Edison
-Intel Galileo
-Intel Quark
-Intel Quartus Prime
 Intellectual property
 Interaction design
 Interchangeable parts
-Internet of things
-Internet protocol suite
 Interpreter (computing)
 Intrusion detection system
 I²C
-Jaguar (microarchitecture)
-Java Optimized Processor
 Knowledge representation and reasoning
-LEON
-LPDDR
-LTE (telecommunication)
-Lab-on-a-chip
 Laptop
 Latency (engineering)
-LattePanda
-LatticeMico32
-LatticeMico8
-Lattice Semiconductor
 Library (computing)
-Libre-SOC
-Linaro
-List of HDL simulators
-List of MediaTek systems on chips
-List of Qualcomm Snapdragon systems-on-chip
-List of Samsung System on Chips
 List of computer size categories
-List of system on a chip suppliers
-List of video compression formats
-Little's law
-Little man computer
-Load–store architecture
-Load–store unit
-Locality of reference
-Logic block
 Logic gate
 Logic in computer science
-Logic synthesis
-Lola (computing)
-Low-power electronics
-M32R
 MATLAB
-MIPS-X
 MIPS architecture
 Machine learning
-Machine vision
-Main memory
-Manycore
 Manycore processor
-Markov chain
 Mathematical analysis
 Mathematical optimization
 Mathematical software
-Mean time between failures
-Mean value theorem
 MediaTek
-Media processor
 Memory-level parallelism
-Memory address register
-Memory buffer register
-Memory controller
-Memory dependence prediction
 Memory hierarchy
-Memory latency
-Memory management unit
-Mesh networking
-Metal–oxide–semiconductor
-Metastability (electronics)
-MicroBlaze
 Microarchitecture
-Microchip Technology
-Microcode
-Microcomputer
 Microcontroller
 Microprocessor
-Microprocessor chronology
 Middleware
-Miniaturization
-Minimal instruction set computer
-Mixed-signal integrated circuit
 Mixed reality
-Mobile computing
 Mobile device
-Mobile processor
-ModelSim
 Model of computation
 Modeling language
-Models of computation
 Modem
-Modified Harvard architecture
 Modular programming
-Modularity
-Module system
-Motorola 68000 series
-Multi-chip module
-Multi-core processor
-Multi-objective optimization
-Multi-processor system-on-chip
 Multi-task learning
-Multicore
-Multimedia application
 Multimedia database
-Multiple-criteria decision analysis
 Multiple instruction, multiple data
 Multiple instruction, single data
-Multiplexer
-Multiply–accumulate operation
 Multiprocessing
-Multiprocessor system on a chip
 Multithreading (computer architecture)
-Multivariate optimization
-MyHDL
-NP-completeness
-NP-hardness
-NXP Semiconductors
-Nano Pi
 Natural language processing
-Near-field communication
-Netbook
-Netlist
 Network architecture
-Network interface controller
-Network layer
-Network on a chip
 Network performance
-Network processor
 Network protocol
 Network scheduler
-Network scheduling
 Network security
 Network service
-Network topology
 Networking hardware
-Neuromorphic engineering
-Nios II
-Nios embedded processor
-No instruction set computing
-Nokia 9000 Communicator
-Nomadik
-Non-recurring engineering
 Non-uniform memory access
-Nondeterministic Turing machine
-NovaThor
 Numerical analysis
-Nvidia Jetson
 OCLC (identifier)
-ODROID
-OLinuXino
-OMAP
 Ohm's law
-One-instruction set computer
-Open-source hardware
 Open-source software
-OpenCores
-OpenPOWER Microwatt
-OpenRISC
-OpenRISC 1200
-Operand forwarding
-Operating frequency
 Operating system
 Operations research
-Optimization algorithm
-Organ-on-a-chip
-Orthogonal instruction set
-Out-of-order execution
 Outline of computer science
-PALASM
 PDP-11 architecture
-Package on a package
-Package on package
-Packet switching
-PandaBoard
 Parallel computing
-Parallel processing (DSP implementation)
-Pareto efficiency
-Passive cooling
-Performance per watt
 Peripheral
 Personal computer
-Phase-locked loop
 Philosophy of artificial intelligence
 Photograph manipulation
-Physical design (electronics)
-Physics processing unit
-PicoBlaze
-Pin grid array
-Pine64
 Pipeline (computing)
-Pipeline stall
-Place and route
-Platform-based design
-Pointer machine
-Poisson process
-Poisson random variable
-Post-silicon validation
-Post–Turing machine
-Power-on reset
-PowerPC
-Power (physics)
-Power ISA
-Power Management Unit
-Power consumption
-Power density
-Power efficiency
 Power management
-Power management integrated circuit
 Preemption (computing)
 Printed circuit board
-Probabilistic Turing machine
-Probabilistic model
 Probability
 Process (computing)
 Process control
 Processor (computing)
-Processor core
-Processor design
-Processor register
-Program counter
-Programmable Array Logic
-Programmable logic
-Programmable logic array
-Programmable logic device
-Programmable system on a chip
 Programming language
 Programming language theory
 Programming paradigm
 Programming team
 Programming tool
-Property Specification Language
-Proprietary hardware
-Protocol stack
-Puma (microarchitecture)
-Qualcomm
-Qualcomm Snapdragon
 Quantum Computing
-Quantum Turing machine
-Quantum cellular automaton
-Quantum circuit
-Quantum computing
-Quantum logic gate
-Queue automaton
-Queueing theory
-RISC-V
-ROM image
 Radio frequency
-Radio modem
 Random-access machine
-Random-access memory
-Random-access stored-program machine
 Randomized algorithm
-Rascal (single-board computer)
 Raspberry Pi
-Re-order buffer
 Read-only memory
 Real-time computing
-Reconfigurable computing
 Reduced instruction set computer
-Register-transfer level
-Register file
-Register machine
-Register renaming
-Register–memory architecture
 Reinforcement learning
-Reliability (semiconductor)
 Rendering (computer graphics)
 Requirements analysis
 Requirements engineering
-Research and development
-Reservation station
-Resistance (physics)
-Rockchip
 Router (computing)
-Routing
 SPARC
-SUPS
-SWAR
 Samsung Electronics
-Samsung Galaxy
-Scalar processor
-Scheduling (computing)
 Scoreboarding
-Scratchpad memory
-Scrypt
-Secondary storage
-Secure cryptoprocessor
 Security hacker
 Security service (telecommunication)
 Semantics (computer science)
-Semiconductor device fabrication
-Semiconductor fabrication plant
-Semiconductor industry
-Semiconductor intellectual property core
 Semiconductor memory
-Semiconductor node
-Sensor
-Sequential logic
-Serial Peripheral Interface
-Shared resource
 Siemens
 Signal processing
-Signoff (electronic design automation)
 Simultaneous and heterogeneous multithreading
 Simultaneous multithreading
-Single-board computer
-Single-board microcontroller
-Single-core
 Single instruction, multiple data
 Single instruction, multiple threads
 Single instruction, single data
-Single program, multiple data
-Smart device
-Smart transducer
 Smartphone
-Smartphones
-Smartwatch
-Snowball (single-board computer)
 Social computing
 Social software
-Soft microprocessor
 Software bug
 Software configuration management
 Software construction
@@ -705,138 +234,39 @@ Software maintenance
 Software quality
 Software repository
 Solid modeling
-Sound card
-Speculative execution
 Speculative multithreading
 Speedup
-Springer-Verlag
-Springer Science & Business Media
-Stack machine
-Stack register
-Standard cell
-Stanford MIPS
-Static random-access memory
 Statistics
-Status register
 Stochastic computing
-Stochastic scheduling
-Stored-program computer
-Stratix
 Stream processing
-Stress migration
-Structural hazard
-Sum-addressed decoder
-SuperH
-Superscalar execution
 Superscalar processor
 Supervised learning
-Switch
-Synopsys
 SystemC
-SystemVerilog
-SystemVerilog DPI
-System in a package
-System in package
-System integration
-Systems design
 Systolic array
-TLS acceleration
-TRIPS architecture
-Tablet computer
-Tape-out
-Task (computing)
 Task parallelism
-Tegra
-Telemetry
 Temporal multithreading
-Tensor Processing Unit
-Texas Instruments
 Theoretical computer science
 Theory of computation
-Thermal design power
-Thermal management (electronics)
 Thread (computing)
-Three-dimensional integrated circuit
-Throughput
-Tick–tock model
-Tile processor
-Time to live
-Timer
-Tomasulo's algorithm
-Torus interconnect
-Total cost of ownership
-Trade-off
-Transactions per second
-Transistor count
-Transistors density
-Translation lookaside buffer
-Transmission Control Protocol
-Transport triggered architecture
-Tree network
 Turing machine
-UDOO
 USB
 Ubiquitous computing
-Ultra-low-voltage processor
-Unicore
-Unified Power Format
-Unified memory
 Uniform memory access
-Universal Flash Storage
-Universal Serial Bus
-Universal Turing machine
-Universal synchronous and asynchronous receiver-transmitter
 Unsupervised learning
 VAX
 VHDL
-VHDL-AMS
-VHDL-VITAL
-VISC architecture
-Vector processing
 Vector processor
 Verification and validation
-Verilog
-Verilog-A
-Verilog-AMS
-Verilog-to-Routing
-Very-large-scale integration
 Very Large Scale Integration
-Very long instruction word
-Vicharak
 Video game
-Video quality
-Video streaming
-Virtex (FPGA)
 Virtual machine
-Virtual memory
 Virtual reality
-Virtualization
-Vision processing unit
 Visualization (graphics)
-Vivado
 Voltage
-Voltage regulator
-Von Neumann architecture
-WWAN
 Wafer (electronics)
-Waste heat
-Wi-Fi
-Wide-issue
 Windows 10
-Wire bonding
 Wireless network
-Wireless networking
-Wolters Kluwer
-WonderMedia
 Word (computer architecture)
 Word processor
 World Wide Web
-Write buffer
 X86
-X86-64
-Xilinx
-Xilinx ISE
-Xputer
-Z/Architecture
-Zeno machine
-Zero instruction set computer

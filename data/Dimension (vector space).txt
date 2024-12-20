@@ -1,147 +1,55 @@
 Affine space
 Algebra over a field
 Axiom of choice
-Banach space
-Basic Linear Algebra Subprograms
 Basis (linear algebra)
-Bialgebra
 Bijective
 Bilinear map
-Bivector
 Block matrix
 Cardinality
-Cayley–Dickson construction
-Change of basis
 Character (mathematics)
-Circular definition
-Codimension
-Comparison of linear algebra libraries
 Complex number
 Counit
 Cramer's rule
-Cross-polytope
-Cross product
-Degrees of freedom
-Demihypercube
 Determinant
-Dimension
-Dimension of an algebraic variety
-Dimension theorem for vector spaces
-Direct sum of modules
 Dot product
 Dual space
 Eigenvalues and eigenvectors
-Eight-dimensional space
-Euclidean space
-Euclidean vector
 Exterior algebra
 Field (mathematics)
 Field extension
-Five-dimensional space
-Floating-point arithmetic
-Four-dimensional space
-Fractal dimension
-Free module
-Function space
 Gaussian elimination
 Geometric algebra
-Georg Hamel
 Glossary of linear algebra
-Graded dimension
-Gram–Schmidt process
 Group (mathematics)
 Hadamard product (matrices)
-Hausdorff dimension
 Hilbert space
-Hypercomplex number
-Hypercube
-Hyperplane
-Hyperpyramid
-Hyperrectangle
-Hyperspace
-Hypersurface
 ISBN (identifier)
 Identity matrix
-Identity operator
-Inductive dimension
-Infinity
 Inner product space
-Invertible matrix
-Isomorphic
-J-invariant
-Kernel (linear algebra)
 Kronecker product
-Krull dimension
-Lebesgue covering dimension
-Length of a module
 Linear algebra
-Linear combination
-Linear independence
 Linear map
-Linear span
 Linear subspace
-Manifold
 Mathematics
 Matrix (mathematics)
 Matrix decomposition
 Matrix multiplication
-Matroid
-Matroid rank
-McKay–Thompson series
-Minkowski–Bouligand dimension
-Minor (linear algebra)
-Monster group
-Monstrous moonshine
 Multilinear algebra
 Multilinear map
 Multivector
-N-sphere
-Nuclear operator
-Numerical linear algebra
-Numerical stability
-One-dimensional space
 Orthogonality
-Outer product
-Outermorphism
-Outline of linear algebra
-Polytope
-Prime ideal
-Productive matrix
 Projection (linear algebra)
-Projective space
-Quotient space (linear algebra)
 Rank (linear algebra)
-Rank of an abelian group
-Rank–nullity theorem
 Representation theory
-Ring (algebra)
-Row and column spaces
-Row and column vectors
 Scalar (mathematics)
 Scalar multiplication
-Seven-dimensional cross product
-Seven-dimensional space
-Shape
-Sheldon Axler
-Simplex
-Six-dimensional space
-Spacetime
-Sparse matrix
 Springer Science+Business Media
-Standard basis
 System of linear equations
 Tensor
 Tensor product
 Three-dimensional space
-Topological dimension
 Trace (linear algebra)
 Trace class
-Transformation matrix
 Transpose
-Triple product
 Two-dimensional space
-Undergraduate Texts in Mathematics
-Vector projection
 Vector space
-Wolfgang Krull
-Zero-dimensional space

@@ -1,160 +1,88 @@
 Abstract algebra
-Abstract index notation
-Academic Press
-Affine connection
 Albert Einstein
 Algebra
 Algebraic geometry
 Algebraic number theory
 Algebraic topology
-American Mathematical Society
 Analytic geometry
 Analytic number theory
-Angular momentum
-Antisymmetric tensor
 Applied mathematics
 ArXiv (identifier)
-Argument of a function
 Arithmetic
 Arithmetic geometry
-Augustin-Louis Cauchy
-Ausdehnungslehre
-Basic Linear Algebra Subprograms
 Basis (linear algebra)
-Bernhard Riemann
 Bilinear map
-Bivector
 Block matrix
 Bra–ket notation
 Calculus
 Cambridge University Press
 Carl Friedrich Gauss
-Cartan formalism (physics)
 Category theory
-Cauchy stress tensor
-Change of basis
-Classical treatment of tensors
 Clifford algebra
-Closed and exact differential forms
 Combinatorics
 Commutative algebra
-Comparison of linear algebra libraries
 Complex analysis
-Component-free treatment of tensors
 Computational complexity theory
 Computational mathematics
 Computer algebra
 Computer science
 Computer vision
-Connection form
-Continuum mechanics
 Control theory
 Coordinate system
-Covariance and contravariance of vectors
-Covariant derivative
 Cramer's rule
-Cross product
 Determinant
-Differential (infinitesimal)
 Differential equation
-Differential form
-Differential forms
 Differential geometry
 Differential topology
-Dimension
 Diophantine geometry
-Direct sum of modules
 Discrete geometry
 Discrete mathematics
 Doi (identifier)
 Dot product
-Douglas Northcott
 Dual space
-Dyadic tensor
-Dyadics
 Eigenvalues and eigenvectors
-Einstein notation
-Einstein tensor
-Elasticity (physics)
 Electromagnetic tensor
 Electromagnetism
 Elementary algebra
-Elwin Bruno Christoffel
 Engineering
 Engineering mathematics
 Euclidean geometry
-Euclidean space
-Euclidean vector
 Exterior algebra
-Exterior calculus
-Exterior covariant derivative
-Exterior derivative
-Exterior form
-Exterior product
-Fiber bundle
 Finite geometry
-Floating-point arithmetic
 Foundations of mathematics
 Free algebra
 Function (mathematics)
-Function space
 Functional analysis
 Future of mathematics
 Game theory
 Gaussian elimination
-General relativity
 General topology
-Geodesic
 Geometric algebra
 Geometric topology
 Geometry
 Glossary of linear algebra
 Glossary of mathematical symbols
-Glossary of tensor theory
-Gluon field strength tensor
-Gram–Schmidt process
 Graph theory
-Gregorio Ricci-Curbastro
 Group theory
 Hadamard product (matrices)
 Harmonic analysis
-Hermann Grassmann
-Hermann Weyl
-Higher-dimensional space
 History of mathematics
-Hodge star operator
 Homological algebra
 Homotopy theory
 Hypercomplex analysis
 ISBN (identifier)
 ISSN (identifier)
-Index notation
 Informal mathematics
 Information theory
 Inner product
 Inner product space
-Invertible matrix
-Jacobian matrix
-Jan Arnoldus Schouten
-Kernel (linear algebra)
-Kronecker delta
 Kronecker product
-Leonhard Euler
-Levi-Civita connection
-Levi-Civita symbol
-Lie derivative
 Linear algebra
-Linear combination
-Linear independence
 Linear map
-Linear span
 Linear subspace
 List of films about mathematicians
-List of mathematicians
 Lists of mathematics topics
 Machine learning
-Manifold
-Marcel Grossmann
 Mathematical analysis
 Mathematical and theoretical biology
 Mathematical chemistry
@@ -167,110 +95,45 @@ Mathematical psychology
 Mathematical sociology
 Mathematical statistics
 Mathematician
-Mathematicians
 Mathematics
 Mathematics and art
 Mathematics education
-Mathematische Annalen
 Matrix (mathematics)
 Matrix decomposition
 Matrix multiplication
 Measure (mathematics)
-Metric tensor
-Metric tensor (general relativity)
-Michele Besso
-Minor (linear algebra)
-Mixed tensor
-Module (ring theory)
-Moment of inertia
-Multi-index notation
-Multilinear form
 Multilinear map
-Multilinear subspace learning
-Multivariable calculus
-Multivariate calculus
 Multivector
-Nicolas Bourbaki
-Nonmetricity tensor
 Number theory
 Numerical analysis
-Numerical linear algebra
-Numerical stability
 OCLC (identifier)
 Operation (mathematics)
 Operations research
 Order theory
 Orthogonality
-Outer product
-Outermorphism
-Outline of linear algebra
-Penrose graphical notation
 Philosophy of mathematics
 Physics
-Precession of the perihelion of Mercury
 Probability theory
-Productive matrix
 Projection (linear algebra)
-Pseudoscalar (mathematics)
-Pseudotensor
-Pseudovector
-Quotient space (linear algebra)
-Raising and lowering indices
 Rank (linear algebra)
 Real analysis
 Recreational mathematics
-Ricci calculus
-Ricci curvature
-Riemann curvature tensor
-Row and column spaces
-Row and column vectors
 S2CID (identifier)
 Scalar (mathematics)
 Scalar multiplication
 Set theory
-Seven-dimensional cross product
-Sparse matrix
-Spin tensor
-Spinor
 Statistics
-Stress–energy tensor
 Symmetric algebra
-Symmetric power
-Symmetric tensor
-Symmetrization
 System of linear equations
 Systems science
 Tensor
-Tensor (intrinsic definition)
 Tensor algebra
-Tensor bundle
-Tensor calculus
 Tensor contraction
-Tensor density
-Tensor field
-Tensor operator
 Tensor product
-Tensors in curvilinear coordinates
-Tetrad (index notation)
 Theory of computation
 Timeline of mathematics
 Topology
-Torsion tensor
-Transformation matrix
-Transport phenomena
 Transpose
-Triple product
-Tullio Levi-Civita
-Two-point tensor
 Type theory
 Universal algebra
-Van der Waerden notation
-Vector (mathematics and physics)
-Vector projection
 Vector space
-Victor Schlegel
-Voigt notation
-Weyl tensor
-Woldemar Voigt
-Élie Cartan
-Éléments de mathématique

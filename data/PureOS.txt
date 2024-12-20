@@ -1,14 +1,5 @@
-/e/ (operating system)
-1G
-2G
-3G
-3G adoption
-4G
 4MLinux
-5G
-6G
 ALT Linux
-Airplane mode
 AlmaLinux
 Alpine Linux
 Amazon Kindle
@@ -40,38 +31,26 @@ BlackBerry Tablet OS
 Black Lab Linux
 BlankOn Linux
 Bodhi Linux
-Box breaker
 BridgeOS
 CHAOS (operating system)
 CRUX
 Calculate Linux
 Caldera OpenLinux
 CalyxOS
-Camera phone
-Car phone
-Carrier IQ
-Cell phone novel
-Cellular frequencies
 Cellular network
 CentOS
 CentOS Stream
 Chakra (operating system)
-Channel capacity
 Chimera Linux
 ChromeOS
 ChromeOS Flex
 ChromiumOS
-Clamshell design
 ClearOS
 Clear Linux OS
 ColorOS
 Commodore OS
-Common external power supply
 Comparison of Linux distributions
-Comparison of Symbian devices
 Comparison of mobile operating systems
-Comparison of mobile phone standards
-Comparison of smartphones
 Contactless payment
 Container Linux
 Corel Linux
@@ -81,22 +60,15 @@ Cub Linux
 CyanogenMod
 Damn Small Linux
 Damn Vulnerable Linux
-De Quervain syndrome
 Debian
 Deepin
 DemoLinux
-Desktop environment
 Devuan
-Digital media use and mental health
-DistroWatch
 DivestOS
 DoudouLinux
 Dreamlinux
-Dual SIM
-DuckDuckGo
 EMUI
 EPOC (operating system)
-ESIM
 Edubuntu
 Electronic waste
 Elementary OS
@@ -107,34 +79,25 @@ Endless OS
 EulerOS
 Familiar Linux
 Feather Linux
-Feature phone
 Fedora Linux
 Fire OS
 Firefox OS
 Floppyfw
-Foldable smartphone
 Forbes
 Foresight Linux
-Form factor (mobile phones)
 FreeBSD
 FreeRTOS
-Free Software Foundation
 Free software
 FreedomBox
 Freespire
 Frugalware Linux
 Fuchsia (operating system)
 GEOS (16-bit operating system)
-GNOME
-GNOME Web
 GNU
 GNU Guix System
-GNU Project
 GNewSense
 GOS (operating system)
 GPL
-GSM
-GSM services
 Garuda Linux
 GeckoLinux
 Gentoo Linux
@@ -145,21 +108,14 @@ HMD Global
 HandyLinux
 HarmonyOS
 HarmonyOS NEXT
-High Speed Packet Access
-History of mobile phones
-Hyperbola GNU/Linux-libre
 IOS
-IOS jailbreaking
 IPadOS
 IPhone
 Immunix
 Instant messaging
 Intel Management Engine
 IodéOS
-Japanese mobile phone culture
 Jurix
-KDE
-KDE Plasma 5
 KDE neon
 KaOS
 KaiOS
@@ -173,13 +129,8 @@ Kongoni (operating system)
 Korora (operating system)
 Kubuntu
 Kwort Linux
-LTE Advanced Pro
 LXLE Linux
-Law
-Legality of recording by civilians
 Libranet
-Librem
-Librem 5
 LinHES
 LineageOS
 Linpus Linux
@@ -195,18 +146,13 @@ Linux for PlayStation 2
 Linux kernel
 List of 3D-enabled mobile phones
 List of Linux distributions
-List of Windows phones
 List of custom Android distributions
 List of mobile app distribution platforms
-List of mobile network operators
-List of mobile phone generations
 List of open-source mobile phones
 LiteOS
 Lubuntu
 LuneOS
-M-learning
 MCC Interim Linux
-MHealth
 MIUI
 MX Linux
 Maemo
@@ -221,55 +167,21 @@ Microsoft Windows
 Minix 3
 Miracle Linux
 Mobian
-Mobile VoIP
-Mobile advertising
 Mobile app
 Mobile app development
-Mobile application management
 Mobile banking
 Mobile blogging
-Mobile campaign
-Mobile cloud computing
 Mobile comic
-Mobile commerce
-Mobile content
-Mobile dating
 Mobile device
-Mobile donating
-Mobile gambling
 Mobile game
-Mobile local search
-Mobile marketing
-Mobile music
-Mobile news
 Mobile operating system
 Mobile payment
 Mobile phone
-Mobile phone charm
-Mobile phone feature
 Mobile phone operator
-Mobile phone recycling
-Mobile phone signal
-Mobile phone spam
-Mobile phone tracking
-Mobile phones and driving safety
-Mobile phones in prison
-Mobile radio telephone
-Mobile search
-Mobile security
-Mobile social address book
-Mobile social network
-Mobile telephony
-Mobile television
-Mobile ticketing
-Mobile web
 Mobilinux
 Moblin
 MontaVista
 MotoMagx
-Multi-band device
-Multimedia Messaging Service
-Musix GNU+Linux
 NetBSD
 Network Security Toolkit
 NimbleX
@@ -299,31 +211,22 @@ Oracle Linux
 PCLinuxOS
 PalmDOS
 Palm OS
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
 Pentoo
 Peppermint OS
 Phablet
-Phantom vibration syndrome
-Phone cloning
-Phosh
-Photography and the law
 Pinguy OS
 PixelExperience
 Platypux
 PlayStation Portable system software
 PlayStation Vita system software
-Point release
 Pop! OS
 Porteus (operating system)
 PostmarketOS
 Programmer
-Projector phone
 Puppy Linux
-Purism (company)
-Push email
 Q4OS
 QNX
 QtMoko
@@ -335,21 +238,11 @@ Red Hat Linux
 Red Star OS
 Remix OS
 Replicant (operating system)
-Repository (version control)
-Restrictions on cell phone use while driving in the United States
 Resurrection Remix OS
-Rich Communication Services
-Ringtone
-Roaming
 Rocks Cluster Distribution
 Rocky Linux
-Rolling release
-Rooting (Android)
 S60 (software platform)
 SHR (operating system)
-SIM card
-SIM lock
-SMS language
 SUSE Linux
 SUSE Linux Enterprise
 SUSE Studio
@@ -357,20 +250,15 @@ Sabayon Linux
 Sabily
 Sailfish OS
 Salix OS
-Satellite phone
 Scientific Linux
-Selfie
 Series 30
 Series 30+
 Series 40
 Series 80 (software platform)
 Series 90 (software platform)
-Short Message Service
-Silent mode
 Slackware
 Slax
 Smartphone
-Smartwatch
 Softlanding Linux System
 Software
 Software license
@@ -387,10 +275,6 @@ Symbian
 SystemRescue
 T2 SDE
 Tails (operating system)
-Telephone tapping
-Tethering
-Text messaging
-Texting while driving
 Think Blue Linux
 ThreadX
 Tiny Core Linux
@@ -412,13 +296,10 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 User interface
 VectorLinux
 Vine Linux
 Void Linux
-Wallpaper (computing)
 WatchOS
 Wear OS
 WebOS
@@ -435,11 +316,9 @@ Windows Phone 8
 Windows Phone 8.1
 Windows RT
 Windows XP editions
-Wireless Application Protocol
 Wireless device radiation and health
 Wubuntu
 XB Machine
-XHTML Mobile Profile
 XNU
 Xubuntu
 Yellow Dog Linux

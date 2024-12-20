@@ -1,70 +1,45 @@
-GD&T
 SQL
 Film speed
 Requirements engineering
 Fuel oil
-ISO/IEC 8859-13
 ISO 860
 Essential Video Coding
 IS-IS
 Doi (identifier)
-Sharpening stone
 ISO 2145
 135 film
 ISO 11992
 FTAM
-ISO/IEC 8859-16
 International Organization for Standardization
-Dynamometer
 ISO 704
-ISO/IEC 9797-1
 Abrasive
-ISO/IEEE 11073
-Machine tool
-ISO/IEC 14443
-ISO 31-9
 ISO 10962
 ISO 639-5
 International Standard Music Number
-ISO/IEC 38500
 ISO 3166-3
-European Strategic Program on Research in Information Technology
 ISO 8691
 ISO 13406-2
 A440 (pitch standard)
-ISO/IEC 11404
 Accuracy and precision
 ISO 11940
 ISO 6438
 ISO 13399
-ISO/IEC 27001
-ISO 2047
 MaxiCode
-ISO/IEC 7813
 ISO 10303-28
 Software maintenance
 Guidelines for the Definition of Managed Objects
 ISO 21500
-ISO/IEC TR 12182
 ISO 15926
 ISO 3166-1
 ISO 2709
-ISO/IEC 11801
 ISO metric screw thread
 Motion JPEG 2000
-Digital Twin
 ISO 5426
 International Standard Audiovisual Number
 ISO 5775
-ISO/IEC 8859-11
-ISO/IEC 15288
-Feature recognition
 Computer-aided manufacturing
 ISO 31
-Tap and die
-Machining vibrations
 MPEG-1
-ISO 7027
 Romanization of Armenian
 ISO 8000
 Hot shoe
@@ -72,22 +47,17 @@ ISO 14698
 MPEG-4
 ISO 9241
 ISO 10007
-ISO/IEC 2022
 Flowchart
 ISO 9897
 ISO 25964
 ISO 4165
 Numerical control
-ISO/IEC 18014
-Stewart platform
 DICOM
-Drilling
 C++
 Manufacturing Message Specification
 JPIP
 ISO 4
 ISO 898
-TIFF/EP
 Salt spray test
 MPEG-G
 ISO 14617
@@ -95,135 +65,86 @@ ISO 10006
 ISO 13567
 Pinyin
 ISO 639
-ISO/IEC 8859-1
 JPEG XL
-Coated abrasive
 ISO 31-1
-ISO/IEC 8859
 Photographic Activity Test
-ISO 31-12
-Flick grinder
 ISO 11783
 IATF 16949
-Electrochemical machining
 ISO 639-2
 ISO 22301
 Shoe size
 ISO 15398
 ISO 9564
 Shock-resistant watch
-Product Data Management
-Boring (manufacturing)
 ISO 14031
-RWTH Aachen University
 LCEVC
 ISO 2
 RELAX NG
-ISO/IEC 9126
 ISO 56000
-ISO/IEC 27005
 Sandpaper
 ISO 20022
-Cylindrical grinder
 Hazard symbol
 ISO 6943
-Shaper
 Romanization of Georgian
 ISO 26000
-ISO 9000
-Speeds and feeds
-ISO/IEC 19770
 OCR-B
-ISO/IEC 7810
-Outline of metalworking
 MPEG-H
-ISO/IEC 7812
 JBIG
 Boundary representation
-ISO/IEC 27000
 ISO 5428
-Electrical discharge machining
 ISO 17100
-Cutting fluid
-ISO 8373
 Graphical Kernel System
-Die head
 MPEG-D
-Collet
 ANSI escape code
 ISO 8601
 Quality function deployment
 Dynamic Adaptive Streaming over HTTP
 ISO 19114
 126 film
-Angle grinder
 JPEG XR
-Threading (manufacturing)
-ISO/IEC 4909
 ISO 690
 Geospatial metadata
-ISO/IEC 646
 ANSI C
 ISO 10161
 ISO 6344
-PDF/UA
 International Bank Account Number
-ISO/IEC 11179
 S2CID (identifier)
 International Standard Name Identifier
 Computer Graphics Metafile
-Lathe center
 ISO 31000
 ISO 11170
 Cloud Infrastructure Management Interface
-Surface grinding
 Full BASIC
 ISO 31-8
-Rotary table
 ISO 11784 and ISO 11785
 PHIGS
 International Standard Recording Code
-STEP-XML
-ISO/IEC 19752
 POSIX
 ISO-8859-8-I
 ISO 3103
 ISO 10303
 Open Data Protocol
 On-board diagnostics
-Geometric dimensioning and tolerancing
 ISO 10303-21
-ISO/IEC 19794-5
 ISO 639-1
 List of ISO standards
 Multibus
-Language Of Temporal Ordering Specification
-ISO/IEC 15897
 ISO 21001
 ISO 1629
 Metal fabrication
 ArmSCII
-PDF/VT
 International Securities Identification Number
 ISO 20121
 ISO 22000
-ISO/IEC 12207
 ISO 25178
-ISO/IEC 8859-2
-Rotary transfer machine
-ISO/IEC 27000-series
 ISO 2848
 International Standard Text Code
 ISO 10160
-ISO/IEC 8652
 ISO 31-3
 Equal-loudness contour
 110 film
-ISO/IEC 8859-3
 Knowledge Discovery Metamodel
-ISO/IEC 15693
 Linux Standard Base
-Machining
 PDF417
 Coordinate-measuring machine
 PDF
@@ -231,65 +152,40 @@ Hole punch
 ISO 217
 ISO 55000
 ISO 2033
-Electron-beam machining
-Plasma cutting
 Metalsmith
 ISO 14971
 Longitudinal redundancy check
-CAN bus
 ISO 20400
 ISO 45001
 Common Logic
-ISO/IEC 7816
-Electronic Industries Association
 ISO 31-0
 Digital object identifier
-ISO/IEC 7811
-Drill bit
 ISO 2921
 ISO 657
 ISO 26262
 O-ring
 Market Identifier Code
 QR code
-Milling (machining)
 Open Document Architecture
 Prolog
-Milling machine
 Standard Generalized Markup Language
 Angle plate
-FANUC
-2.5D (machining)
-Abrasive machining
-OSI model
-Pantograph
-International Standard Serial Number
 Kunrei-shiki romanization
-Photochemical machining
 ISO 8583
 ISO 9362
 ISO 7010
 OCR-A
-ISO/IEC 8859-6
-Fixture (tool)
 ISO 3166-2
-ISO 14000
 ISO 3307
-Grinding dresser
 C Sharp (programming language)
 ISO 216
-ISO/IEC 9995
 Common Language Infrastructure
 Lexical Markup Framework
-ISO/IEC 27002
 ISO 3864
-ISO/IEC 8859-4
 ISO 128
 International Standard Atmosphere
 ISO 13584
 Business Process Model and Notation
-MTConnect
-Forming processes
 MicroPDF417
 ISO 233
 Ada Semantic Interface Specification
@@ -298,53 +194,35 @@ ISO 7736
 Ruby (programming language)
 Fiber Distributed Data Interface
 Graph Query Language
-ISO/IEC 14651
 ISO 31-4
-End mill
 ISO 31-11
 ISO 5964
 ISO 31-7
 International Standard Musical Work Code
-Drill bit sizes
 ISO base media file format
-PDF/X
-ISO/IEC 8859-15
-Tap wrench
 ISO 5776
 MPEG-21
 ISO 14644
 Metallurgy
-Jewellery
 Prontor-Compur
-Metal lathe
 ISO 22395
-Chuck (engineering)
-ISO/IEC 8859-5
 ISO 16750
 Power take-off
-Reamer
 ISO 6385
-Metalworking
 ISO 4217
 Pascal (programming language)
 ISO 1000
 ISO 259
 Laser cutting
 MPEG-4 Part 2
-ISO/IEC 8859-14
 ISO 8501-1
 ISO 6346
 Engraving
 ISO 639-3
-ISO/TR 11941
-ISO/IEC 42010
 Geography Markup Language
 ISO 15686
-ISO/IEC 17024
 ISO 13490
 ISO 2788
-ISO/IEC 27006
-Sandvik Coromant
 Magnetic ink character recognition
 Document Style Semantics and Specification Language
 Antimagnetic watch
@@ -355,120 +233,79 @@ ALGOL 60
 MPEG-4 Part 3
 RM-ODP
 ECMAScript for XML
-ISO/IEC 8859-8
-Indexing head
-ISO 19092-2
 ISO 18245
-ISO 12006
 Process Specification Language
 ISO 2852
-ISO/IEC 8859-10
-Facing (machining)
 List of IEC standards
 ISO 19439
 ISO 965
-Grinding (abrasive cutting)
 ISO 7002
 Kappa number
 Office Open XML
 MPEG-7
 ISO 28000
-ISO/IEC 10967
 Mixed raster content
 ISLISP
 ISO 31-5
 Delivery Multimedia Integration Framework
 ISO 843
 ISO 50001
-Swarf
 ISO 15919
 ISO 3166
 Han Xin code
 ISO 31-6
-Casting
 ISO 15924
-Spark testing
 ISO 2015
 JPEG 2000
-Jig grinder
 Magnetic switchable device
 MPEG-4 Part 11
 ISO 13485
 Communications protocol
-Computer numerical control
 ISO 14224
 ISO 7200
 ISBN
-ISO/IEC 6523
 ISO 19600
 Meta-Object Facility
 ISO 9
 MP4 file format
-Skiving (metalworking)
-Advanced Technology Program
 ISO 668
-PDF/A
 Object Constraint Language
 Open Virtualization Format
-Planer (metalworking)
 MPEG-2
 ISO 2014
 CHILL
 ISO 732
 ISO 15022
-ISO/IEC 10116
 ISO 10303-22
-Grinding wheel
 List of ISO romanizations
-ISO 19092-1
 ISO 2711
-ISO/IEC 8859-12
 ISO 11940-2
 MPEG-A
-Drill bit shank
-Hobbing
-Broaching (metalworking)
-G-code
 OpenDocument
-ISO/IEC 5218
 ISO 9660
-ISO/IEC 80000
-Grinding machine
 ISO 4157
 Renard series
-Jig (tool)
 Advanced Video Coding
-ISO/IEC 9529
 Rectangular Micro QR Code
 Computer-aided design
-ISO/IEC 15504
 SDMX
 ISO 4031
-ISO/IEC 8859-7
 ISO 31-10
-Drill
-ISO/IEC 20000
-Closed loop manufacturing
 HTML
-Milling cutter
 Common Object Request Broker Architecture
 Linguistic categories
 ISO 1745
 ISO 999
 ISO-TimeML
-ISO/IEC 8859-9
 ISO 639-6
-ISO/IEC 17025
 ISO 2146
 ISO 10628
 ISO 5427
 JPEG XS
 British Standard Pipe
 EXPRESS (data modeling language)
-ISO/IEC 21827
 International Standard Identifier for Libraries and Related Organizations
 ISO 1
-Mandrel
 Simple Features
 ISO 37001
 ASMO 449
@@ -476,25 +313,16 @@ Isofix
 Machine taper
 ISO 3977
 File Allocation Table
-Bench grinder
-Jig borer
 ISO 7001
 COLLADA
-PDF/E
 FDI World Dental Federation notation
 Legal Entity Identifier
-ISO/IEC 7064
 ISO 19011
 ISO 22300
 ISO 7637
-ISO 31-13
-Lapping
 ISO 6709
-Engineering tolerance
 ISO 15189
-Fuse (automotive)
 Horsepower
 ISO 15926 WIP
 ISO 8178
-List of drill and tap sizes
 ECMAScript

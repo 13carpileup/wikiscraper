@@ -3,8 +3,6 @@ DEC Technical Character Set
 HTML
 Code page 773
 ISO 11170
-ISO/IEC 9529
-IEC 60980-344
 Apple Inc.
 Grantha script
 IEC 81346
@@ -12,7 +10,6 @@ EN 62262
 IEC 61851
 Code page 936 (IBM)
 EXPRESS (data modeling language)
-ISO/IEC 15693
 ISO 15919
 HZ (character encoding)
 ISO 10303-22
@@ -24,17 +21,13 @@ Compact Disc Digital Audio
 Code page 1287
 ISO-TimeML
 Bopomofo
-ISO/IEC 8859-1
 Dhives Akuru
-Control Pictures
 IEC 61355
 Ada Semantic Interface Specification
 Garay alphabet
-ISO/IEC 8859-4
 Delivery Multimedia Integration Framework
 Code page 737
 Code page 932 (IBM)
-ISO/IEC 19794-5
 Code page 1018
 IEC 60601
 GB 2312
@@ -42,33 +35,23 @@ Chinese telegraph code
 ISO 14617
 IEC 62304
 IEC 60870
-ISO/IEC 15288
 Currency symbol
 Cham script
 IS-IS
-ISO/IEC 6429
-ISO 14000
 GOST 10859
 C++
-Code page 904
 DG International
 ISO 15189
 IEC 62455
 IEC 60320
 Code page 778
 Halfwidth and fullwidth forms
-Duplicate characters in Unicode
-ISO/IEC 19788
 IO-Link
 DEC Special Graphics
-ISO 12006
 Baudot code
 Bitstream International Character Set
-ISO/IEC 27002
 CCSID
-ISO/IEC 5218
 Fieldbus
-ISO/IEC 7813
 IEC 61131
 Code page 1020
 Duployan shorthand
@@ -85,16 +68,8 @@ DEC Hebrew
 Code page 868
 ArmSCII
 A440 (pitch standard)
-Code page 1034
-ISO/IEC 8859-9
-ISO/TR 11941
 AES47
-ISO/IEC 7811
 Geospatial metadata
-ISO/IEC 17024
-IEC 62351
-ISO/IEC 18014
-ISO/IEC 11179
 IEC 60870-5
 IEC 60446
 Code page 864
@@ -107,9 +82,7 @@ Code page 776
 Code page 1014
 INIS-8
 IEC 61030
-Hugh McGregor Ross
 Antimagnetic watch
-Hexadecimal
 ATASCII
 ISO 14644
 Elymaic
@@ -123,26 +96,16 @@ Code page 869
 GB 12345
 ISLISP
 Digital Equipment Corporation
-ISO/IEC 27040
 CESU-8
-ISO/IEC 6523
 Cloud Infrastructure Management Interface
-Coptic script
-ISO/IEC 4909
-ISO/IEC 20000
-ISO/IEC 9995
 Charset detection
 CSX+ Indic character set
-ISO/IEC 12207
 DIN 66003
 CER-GS
 IEC 63110
-ISO/IEC 33001
-Collation
 ISO 11992
 Code page 922
 ISO 15924
-ISO/IEC 646
 Extended Latin-8
 DEC RADIX 50
 Compucolor II character set
@@ -152,54 +115,37 @@ AES3
 ISO 10007
 ISO 13490
 IEC 63119
-ISO/IEC 8859
 IEC 62264
-ISO/IEC 8859-16
 Code page 896
-ISO/IEC 9797-1
 IEC 61968
 IEC 60906-1
 ISO-IR-111
-ISO/IEC 8859-10
 ISO 10218
-ISO/IEC 27000-series
-Character (computing)
 Code page 1017
 Code page 851
 IEC 62061
 ISO 13567
 IATF 16949
-Byte order mark
 Film speed
 Code page 1016
 Code page 1098
 Flowchart
 ISO 10303-21
-Fuse (automotive)
-ISO/IEC 17025
-ConScript Unicode Registry
 Hanunoo script
-ISO/IEC 21827
 IEEE 754
 Cork encoding
 Diacritic
 Gurmukhi
 CDC display code
 CWI-2
-Hatran alphabet
-ISO/IEC 7812
-CJK Unified Ideographs
-Basic Multilingual Plane
 Common Logic
 Guidelines for the Definition of Managed Objects
-Amstrad CP/M Plus character set
 ANSEL
 Code page 1102
 Code page 1101
 IP-XACT
 Code page 936 (Microsoft Windows)
 Horsepower
-ISO/IEC 15504
 Code page 1043
 Code page 1127
 IEC 61131-3
@@ -211,19 +157,15 @@ IEC 62379
 IEC 60870-6
 Code page 1008
 COLLADA
-Greek script in Unicode
 FTAM
 Gondi writing
 Code page 863
 Fiber Distributed Data Interface
-ISO/IEC 8859-6
 Bhaiksuki script
 Common Locale Data Repository
 Digital Addressable Lighting Interface
-ISO/IEC 10021
 ISO 11940
 ISO 10962
-Georgian lari
 Code page 770
 Balinese script
 ASMO 449
@@ -234,12 +176,8 @@ IEC 61360
 Code page 1115
 C0 and C1 control codes
 ISO 15926
-ISO/IEC 2022
 Code page 865
 ISO-8859-8-I
-ISO/IEC 8859-12
-Code page 1053
-ISO/IEC 8859-15
 Advanced Video Coding
 Full BASIC
 Code page 1117
@@ -247,7 +185,6 @@ GB 18030
 ISO 11783
 Ahom script
 Common Object Request Broker Architecture
-Bidirectional algorithm
 110 film
 Code page 951
 Code page 1288
@@ -261,16 +198,12 @@ IEC 61850
 Hiragana
 Egyptian hieroglyphs
 Code page 852
-Gurung Khema
 Gujarati script
 Braille
 CHILL
 IEC 62056
-Euro sign
 HP Roman
 IBM AIX
-ISO/IEC 8859-11
-ISO/IEC 10367
 IEC 61970
 Code page 895
 BraSCII
@@ -278,19 +211,15 @@ ISO 13406-2
 Emoji
 Bengali–Assamese script
 Apple II character set
-ISO/IEC 7064
 Hentaigana
-ISO/IEC 27005
 ISO 10006
 GB 12052
 Comparative Tracking Index
 Gunjala Gondi script
 Caucasian Albanian script
 Brahmi script
-ISO/IEC 42010
 Code page 777
 Big5
-Bassa Vah alphabet
 IEC 62682
 EBCDIC
 Graph Query Language
@@ -305,12 +234,8 @@ ISO 1000
 C Sharp (programming language)
 DKOI
 ISO 14698
-ISO/IEC 8859-14
-BOCU
-ISO/IEC 19752
 ISO 11784 and ISO 11785
 CSX Indic character set
-Code page 1055
 Graphical user interface
 Ancient South Arabian script
 ISO 15686
@@ -322,7 +247,6 @@ IEC 60929
 Code page 3846
 Code page 1103
 ISO 14971
-ISO/IEC 10116
 ISO 1
 Hardware code page
 COBOL
@@ -331,24 +255,18 @@ IEC 62325
 ISO 13584
 Han Xin code
 Code page 856
-ISO/IEC 8652
 FOCAL character set
 Avestan alphabet
 ISO 10303
-ISO/IEC 27000
-ISO/IEC JTC 1/SC 2
 Devanagari
 IEC 60034
 IEC 61499
 19-inch rack
 ISO 14224
 Code page 912
-ISO/IEC 24744
 Code page 867
-Code page 1056
 DIN 91379
 Baybayin
-ISO/IEC 10967
 IEC 60364
 Chinese Character Code for Information Interchange
 135 film
@@ -358,20 +276,13 @@ Code page 1106
 ISO 15022
 Code page 1023
 ISO-IR-182
-ISO/IEC 27001
 Cyrillic script in Unicode
 Hazard symbol
 ABICOMP character set
 Dogri script
-ISO/IEC 8859-8
-ISO/IEC 8859-13
-Bidirectional text
-ISO/IEC 8859-3
 Hangul
 Accuracy and precision
-ISO/IEC 14651
 DICOM
-Character repertoire
 IEC 61162
 ISO 10628
 Deseret alphabet
@@ -384,7 +295,6 @@ Gothic alphabet
 Armenian alphabet
 Control character
 IEC 61883
-ISO/IEC TR 12182
 Code page 668
 Code page 1124
 Code page 1009
@@ -394,77 +304,54 @@ GEM character set
 126 film
 Buhid script
 Code page 949 (IBM)
-ISO/IEC 14443
 BCD (character encoding)
-ISO/IEC 29119
 IEC 60027
 IEC 63382
 Fraser script
 Hong Kong Supplementary Character Set
-ISO/IEC 80000
 ISO 10303-28
-ISO/IEC 9126
 Code page 899
-Code page 1044
 Code page
 GBK (character encoding)
 Amstrad CPC character set
 Code page 857
 ECMAScript
-Combining character
 Extended Unix Code
 British Standard Pipe
 Common Language Infrastructure
-ISO/IEC 7810
 Ancient North Arabian
-ISO/IEC 38500
 Computer Graphics Metafile
 Code page 1133
-Elbasan
 Cuneiform
-Code page 858
-ISO/IEC 27006
 ARIB STD B24 character set
-CAN bus
 Casio calculator character sets
 IEC 60269
 Battery nomenclature
 Code page 942
-ISO/IEC 8859-2
 ISO 14031
 Hanja
 Cypriot syllabary
-ISO/IEC 15897
 Atari ST character set
 ISO 128
 Glagolitic script
 Hebrew alphabet
-ISO/IEC 19770
 Han unification
 Geography Markup Language
 INIS character set
 Code page 1021
 Batak script
-ISO/IEC 11801
 Code page 1012
-ISO/IEC 8859-5
 Code page 903
 Code page 1015
-ISO/IEC 8859-7
 ELOT 927
 Code page 855
 Common Criteria
-Homoglyph
 ISO-IR-68
 IEC 62700
 Code page 860
 Galaksija (computer)
-Code page 1052
 Code page 897
 Hanifi Rohingya script
-ISO/IEC 7816
-Code page 1054
-ISO/IEC 24727
 ISO 13485
 Code page 1040
 Bamum script
@@ -475,8 +362,6 @@ Aramaic alphabet
 ISO-IR-197
 IEC 60309
 Comparison of Unicode encodings
-ISO/IEEE 11073
-ISO/IEC 11404
 Code page 1116
 Cooke and Wheatstone telegraph
 Code page 1118
@@ -495,6 +380,5 @@ CNS 11643
 Code page 915
 Code page 437
 Character encoding
-IEC-P27-1
 Geʽez script
 Cherokee syllabary

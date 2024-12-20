@@ -1,6 +1,4 @@
-ISO/IEC 2022
 IEC 60870-6
-ISO/IEC 7064
 ISO 19600
 ISO 10218
 ISO 55000
@@ -8,7 +6,6 @@ ISO 639
 135 film
 ISO 10303-28
 ISO 2033
-Language Of Temporal Ordering Specification
 International Securities Identification Number
 ISO 10161
 ISO 14971
@@ -26,7 +23,6 @@ C dynamic memory allocation
 ISO 13584
 Fiber Distributed Data Interface
 ISO 15919
-ISO 31-13
 ISO 2
 ISBN
 ISO 9897
@@ -35,9 +31,7 @@ ISO 1000
 ISO 20022
 C mathematical functions
 International Electrotechnical Commission
-ISO/IEC 15693
 ISO 259
-ISO/TR 11941
 American National Standards Institute
 ISO 15022
 Geany
@@ -45,65 +39,44 @@ IEC 60870
 ISO 965
 ISO 3977
 ISO 10006
-ISO/IEC 8859
 MPEG-1
 Manufacturing Message Specification
 IEC 61355
 ISO 5776
 ISO 2145
-C++20
-Hybris (software)
-ISO/IEC 24744
 C POSIX library
 IEC 60034
 ISO 657
-ISO/IEC 27000
 Dennis Ritchie
 Delivery Multimedia Integration Framework
 ISO 15686
 Han Xin code
-ISO/IEC 27001
 EN 62262
 Clang
 ISO 9362
-ISO/IEC 14651
-ISO/IEC 33001
 ISO 10303-21
 JPEG XS
-Inline function
 C17 (C standard revision)
 ISO 5426
-ISO/IEC 17024
-C++ Technical Report 1
 ISO 2788
 Glibc
 IEC 81346
-ISO/IEC 8859-3
 MicroPDF417
 HTML
 ISO 217
 IEC 61360
 IEC 63382
-ISO 7027
-ISO/IEC 38500
-CAN bus
-ARM Holdings
 ISO 31-4
 ISO 3166-1
-ISO/IEC 8859-11
 ISO 128
 ISO 639-2
 Common Language Infrastructure
 Accuracy and precision
-Brian Kernighan
 ISO 4217
 Hole punch
 IEC 60309
-ISO/IEC 8859-12
 A440 (pitch standard)
-ISO/IEC 8859-10
 International Standard Atmosphere
-ISO/IEC 27040
 ECMAScript for XML
 C preprocessor
 ISO 8691
@@ -114,23 +87,19 @@ ISO 10303
 C data types
 IEC 60269
 ISO 14617
-ISO/IEC 8859-2
 ISO 7002
 ISO 9564
 Essential Video Coding
 ISO 3103
 ISO-8859-8-I
-International Standard Serial Number
 ISO 11170
 ISO 15926
 Film speed
 MISRA C
 ISO 5964
-Behavioral Description Language
 ISO 898
 International Bank Account Number
 MPEG-7
-ISO/IEC 7816
 126 film
 C character classification
 Digital Addressable Lighting Interface
@@ -138,48 +107,32 @@ Computer Graphics Metafile
 ISO 5775
 Graph Query Language
 ISO 31
-ISO/IEC JTC 1/SC 22
 ISO 6438
 ISO 13406-2
-ISO/IEC 7811
-ISO 14000
 Graphical user interface
 MaxiCode
-C++14
 ISO 31-7
 ISO 26000
 Kunrei-shiki romanization
 ISO 1745
-ISO/IEC 7812
-ISO/IEC 19788
 ArmSCII
 Equal-loudness contour
-Compatibility of C and C++
 IEC 61968
-ISO/IEC 8859-13
 C syntax
 Integrated development environment
 Legal Entity Identifier
-C++23
 Microsoft Visual Studio Express
-Intel C++ Compiler
-ISO/IEC 27006
 ECMAScript
 ISO 3307
 Horsepower
 JPEG XR
-ISO/IEC 6523
-ISO/IEEE 11073
 Geography Markup Language
 C (programming language)
 IEC 61499
 IEC 60068
-ISO/IEC 15504
-Embedded GLIBC
 Knowledge Discovery Metamodel
 Digital object identifier
 MPEG-D
-Flexible array member
 C standard library
 Market Identifier Code
 C++
@@ -188,33 +141,22 @@ ISO 11940-2
 IEC 62700
 Comparison of Pascal and C
 ISO 15189
-List of C compilers
 GNOME Builder
 ISO 2711
 ISO 22300
 IEC 61883
 JBIG
 Dynamic Adaptive Streaming over HTTP
-ISO/IEC 8859-9
-C++11
-ISO/IEC 8859-1
-ISO/IEC 11801
-Input/output
 MPEG-H
 ISO 20400
 MPEG-A
 MPEG-4 Part 2
-ISO/IEC 11404
 MPEG-2
 110 film
-IEC 60980-344
 MPEG-21
-ISO/IEC 27005
 ISO 8601
 IEC 61131
-ISO/IEC 8859-5
 International Standard Music Number
-ISO/IEC 17025
 ISO 17100
 IEC 60228
 Meta-Object Facility
@@ -227,7 +169,6 @@ ISO 20121
 ISO 14031
 International Standard Recording Code
 ISO 19011
-Decimal floating point
 E series of preferred numbers
 Lexical Markup Framework
 IEC 63110
@@ -238,59 +179,42 @@ MP4 file format
 ISO 3166-3
 ISO 8178
 ISO 4031
-Gets()
-IEEE floating point
 ISO 15924
-ISO/IEC 8859-7
 Anjuta
 Klibc
 Guidelines for the Definition of Managed Objects
-ISO 19092-2
-ISO/IEC 4909
 ISO 732
 ISO 10160
-ISO 31-12
 Bionic (software)
-Borland Turbo C
 ISO 704
 IEC 60929
 Embedded C
 ISO 6385
-Comment (computer programming)
 IEC 62325
 JPEG 2000
 IEC 61030
 ISO 7200
 ISO 19114
-IBM XL C/C++
 ISO 9241
 Longitudinal redundancy check
 ISO 21001
 COLLADA
-ISO/IEC 27000-series
 IEC 60601
 ISO 11992
-ISO/IEC 9529
 ISO 843
 Limbo (programming language)
-ISO 19092-1
 ISO 22301
-ISO/IEC 8859-8
 Include directive
 GNU Compiler Collection
-ISO/IEC 10967
 ISO 10628
 International Organization for Standardization
 ISO 37001
-ISO/IEC 8859-4
-ISO/IEC 8859-14
 ISO 19439
 IEC 60038
 ISO 2015
 Microsoft Visual C++
 Comparative Tracking Index
 ISO 2014
-Endianness
 MHEG-5
 International Standard Audiovisual Number
 IEC 60364
@@ -300,11 +224,7 @@ IEC 61508
 ISO 2921
 Fuel oil
 ISO base media file format
-ISO/IEC 42010
 Eclipse (software)
-ISO/IEC 15288
-ISO/IEC 10116
-ISO/IEC 9797-1
 ISO 4
 IEC 60870-5
 Graphical Kernel System
@@ -319,24 +239,16 @@ IEC 62264
 IEC 61334
 Microsoft Windows library files
 IEC 62056
-Linearizability
 ASMO 449
-ISO 9000
 ISO 26262
 IEC 62455
 IEC 60446
-ISO/IEC 8859-16
 International Standard Musical Work Code
-ISO/IEC 19752
-ISO/IEC 24727
-ISO/IEC 12207
 ISO 8501-1
 JPEG XL
-C++17
 ISO 8583
 ISBN (identifier)
 ISO 4157
-ISO 8373
 International Standard Name Identifier
 ISO 7001
 C23 (C standard revision)
@@ -344,53 +256,36 @@ ISO 9660
 ISO 999
 FDI World Dental Federation notation
 ISO-TimeML
-ISO/IEC 21827
 British Standard Pipe
-ISO/IEC 646
 Full BASIC
-ISO/IEC TR 12182
 IEC 61400
 ISO 8000
 Kappa number
 IO-Link
-Acorn C/C++
-K&R C
 IEC 62379
 ISO 7637
-LabWindows/CVI
-ISO/IEC 8859-6
 CHILL
 IP-XACT
-ISO/IEC 5218
 International Standard Text Code
 Geospatial metadata
 MPEG-4 Part 3
 IEC 60906-1
 Document Style Semantics and Specification Language
 International Standard Identifier for Libraries and Related Organizations
-CLion
 C string handling
-ISO/IEC 20000
 C date and time functions
 Battery nomenclature
 IATF 16949
 DICOM
 ISO metric screw thread
 ISO 50001
-ISO/IEC 11179
-ISO/IEC 18014
 ISO 25964
 ISO 233
-LLVM
 ISO 22395
-C++03
-ISO 2047
 LCC (compiler)
 KDevelop
 JPIP
-ISO/IEC 15897
 Go (programming language)
-ISO/IEC 80000
 IEC 63119
 Common Criteria
 ISO 6346
@@ -398,7 +293,6 @@ File Allocation Table
 C99
 IEC 61511
 ISO 31-6
-ISO/IEC 19794-5
 Amsterdam Compiler Kit
 IEC 61162
 ISO 31-3
@@ -407,23 +301,17 @@ ISO 28000
 ISO 7736
 ISO 13567
 Hot shoe
-Declaration (computer programming)
-ISO 31-9
 EXPRESS (data modeling language)
 ISO 2146
 ISO 4165
 Linux Standard Base
 ISO 2709
 ISO 7010
-ISO/IEC 8859-15
 ISO 18245
-ISO/IEC 19770
 ISO 1629
 ISO 13399
-IEC 62351
 ISO 216
 Antimagnetic watch
-Digraph (computing)
 ISO 16750
 Fieldbus
 ISO 14224
@@ -434,27 +322,20 @@ ISO 21500
 ISO 690
 Common Logic
 ISO 14698
-ISO/IEC 27002
-ISO/IEC 10021
 ISO 31-8
-ISO/IEC 14443
 IEC 62682
 ISO 639-5
-Fuse (automotive)
 D (programming language)
 ISO 10007
 ISO 31-5
-ISO/IEC 8652
 IEC 61131-3
 ISO 56000
 MPEG-4 Part 11
 Flowchart
 ISO 13485
 ISO 25178
-ISO/IEC 29119
 COBOL
 ISO 15398
-C file input/output
 List of ISO standards
 ISO 31-10
 IEC 60320
@@ -462,10 +343,8 @@ Business Process Model and Notation
 ISO 639-3
 ISO 6709
 ISO 11784 and ISO 11785
-ISO 12006
 FTAM
 ISO 31-1
-ISO/IEC 9995
 ISO 2848
 C11 (C standard revision)
 Dietlibc
@@ -480,18 +359,13 @@ Isofix
 IEC 62196
 ISO 639-1
 ISO 9
-C++98
 Cloud Infrastructure Management Interface
 ISO 31-11
 ISO 5427
 IS-IS
 ISO 10303-22
 IEC 61851
-Identifier (computer programming)
-ISO/IEC 7813
 ANSI escape code
-ISO/IEC 7810
-ISO/IEC 9126
 ISO 11940
 MPEG-G
 LCEVC

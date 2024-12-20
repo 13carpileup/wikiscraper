@@ -14,8 +14,6 @@
 1860 Democratic National Conventions
 1860 Republican National Convention
 1864 Democratic National Convention
-1864 National Union National Convention
-1864 Republican National Convention
 1868 Democratic National Convention
 1868 Republican National Convention
 1872 Democratic National Convention
@@ -30,9 +28,7 @@
 1884 Greenback National Convention
 1884 Republican National Convention
 1888 Democratic National Convention
-1888 Greenback National Convention
 1888 Republican National Convention
-1890 Manifesto
 1892 Democratic National Convention
 1892 Republican National Convention
 1896 Democratic National Convention
@@ -55,12 +51,10 @@
 1916 Republican Party presidential primaries
 1920 Democratic National Convention
 1920 Democratic Party presidential primaries
-1920 Progressive National Convention
 1920 Republican National Convention
 1920 Republican Party presidential primaries
 1924 Democratic National Convention
 1924 Democratic Party presidential primaries
-1924 Progressive National Convention
 1924 Republican National Convention
 1924 Republican Party presidential primaries
 1928 Democratic National Convention
@@ -93,7 +87,6 @@
 1950 United States Senate election in California
 1952 Democratic National Convention
 1952 Democratic Party presidential primaries
-1952 Progressive National Convention
 1952 Republican National Convention
 1952 Republican Party presidential primaries
 1952 United States presidential election
@@ -108,147 +101,21 @@
 1960 Republican Party presidential primaries
 1960 United States presidential debates
 1960 United States presidential election
-1962 California gubernatorial election
 1964 Democratic National Convention
 1964 Democratic Party presidential primaries
 1964 Republican National Convention
 1964 Republican Party presidential primaries
 1964 United States presidential election
-1966 California gubernatorial election
-1966 United States elections
-1968 Arizona House of Representatives election
-1968 Arizona Senate election
-1968 Arizona gubernatorial election
-1968 Arkansas gubernatorial election
-1968 Delaware gubernatorial election
 1968 Democratic National Convention
-1968 Democratic National Convention protests
 1968 Democratic Party presidential primaries
-1968 Illinois gubernatorial election
-1968 Indiana gubernatorial election
-1968 Iowa Senate election
-1968 Iowa gubernatorial election
-1968 Kansas gubernatorial election
-1968 Missouri gubernatorial election
-1968 Missouri lieutenant gubernatorial election
-1968 Montana gubernatorial election
-1968 New Hampshire Republican presidential primary
-1968 New Hampshire gubernatorial election
-1968 New Mexico gubernatorial election
-1968 North Carolina gubernatorial election
-1968 North Carolina lieutenant gubernatorial election
-1968 North Dakota gubernatorial election
 1968 Republican National Convention
-1968 Rhode Island gubernatorial election
-1968 South Dakota gubernatorial election
-1968 Texas gubernatorial election
-1968 United States House of Representatives election in Alaska
-1968 United States House of Representatives election in Delaware
-1968 United States House of Representatives election in Hawaii
-1968 United States House of Representatives election in Nevada
-1968 United States House of Representatives election in Vermont
-1968 United States House of Representatives election in Wyoming
-1968 United States House of Representatives elections
-1968 United States House of Representatives elections in Alabama
-1968 United States House of Representatives elections in Arizona
-1968 United States House of Representatives elections in Arkansas
-1968 United States House of Representatives elections in California
-1968 United States House of Representatives elections in Colorado
-1968 United States House of Representatives elections in Connecticut
-1968 United States House of Representatives elections in Florida
-1968 United States House of Representatives elections in Georgia
-1968 United States House of Representatives elections in Idaho
-1968 United States House of Representatives elections in Illinois
-1968 United States House of Representatives elections in Indiana
-1968 United States House of Representatives elections in Iowa
-1968 United States House of Representatives elections in Kansas
-1968 United States House of Representatives elections in Kentucky
-1968 United States House of Representatives elections in Louisiana
-1968 United States House of Representatives elections in Maine
-1968 United States House of Representatives elections in Maryland
-1968 United States House of Representatives elections in Massachusetts
-1968 United States House of Representatives elections in Michigan
-1968 United States House of Representatives elections in Minnesota
-1968 United States House of Representatives elections in Mississippi
-1968 United States House of Representatives elections in Missouri
-1968 United States House of Representatives elections in Montana
-1968 United States House of Representatives elections in Nebraska
-1968 United States House of Representatives elections in New Hampshire
-1968 United States House of Representatives elections in New Jersey
-1968 United States House of Representatives elections in New Mexico
-1968 United States House of Representatives elections in New York
-1968 United States House of Representatives elections in North Carolina
-1968 United States House of Representatives elections in North Dakota
-1968 United States House of Representatives elections in Ohio
-1968 United States House of Representatives elections in Oklahoma
-1968 United States House of Representatives elections in Oregon
-1968 United States House of Representatives elections in Pennsylvania
-1968 United States House of Representatives elections in Rhode Island
-1968 United States House of Representatives elections in South Carolina
-1968 United States House of Representatives elections in South Dakota
-1968 United States House of Representatives elections in Tennessee
-1968 United States House of Representatives elections in Texas
-1968 United States House of Representatives elections in Utah
-1968 United States House of Representatives elections in Virginia
-1968 United States House of Representatives elections in Washington
-1968 United States House of Representatives elections in West Virginia
-1968 United States House of Representatives elections in Wisconsin
-1968 United States Senate election in Alabama
-1968 United States Senate election in Alaska
-1968 United States Senate election in Arizona
-1968 United States Senate election in Arkansas
-1968 United States Senate election in California
-1968 United States Senate election in Colorado
-1968 United States Senate election in Connecticut
-1968 United States Senate election in Florida
-1968 United States Senate election in Georgia
-1968 United States Senate election in Hawaii
-1968 United States Senate election in Idaho
-1968 United States Senate election in Illinois
-1968 United States Senate election in Indiana
-1968 United States Senate election in Iowa
-1968 United States Senate election in Kansas
-1968 United States Senate election in Kentucky
-1968 United States Senate election in Louisiana
-1968 United States Senate election in Maryland
-1968 United States Senate election in Missouri
-1968 United States Senate election in Nevada
-1968 United States Senate election in New Hampshire
-1968 United States Senate election in New York
-1968 United States Senate election in North Carolina
-1968 United States Senate election in North Dakota
-1968 United States Senate election in Ohio
-1968 United States Senate election in Oklahoma
-1968 United States Senate election in Oregon
-1968 United States Senate election in Pennsylvania
-1968 United States Senate election in South Carolina
-1968 United States Senate election in South Dakota
-1968 United States Senate election in Utah
-1968 United States Senate election in Vermont
-1968 United States Senate election in Washington
-1968 United States Senate election in Wisconsin
-1968 United States Senate elections
-1968 United States elections
-1968 United States gubernatorial elections
 1968 United States presidential election
-1968 Utah gubernatorial election
-1968 Vermont gubernatorial election
-1968 Washington gubernatorial election
-1968 West Virginia gubernatorial election
-1968 Wisconsin gubernatorial election
-1970 California gubernatorial election
-1970 State of the Union Address
-1970 United States elections
-1971 State of the Union Address
 1972 Democratic National Convention
 1972 Democratic Party presidential primaries
 1972 Republican National Convention
 1972 Republican Party presidential primaries
-1972 State of the Union Address
 1972 United States presidential election
 1972 visit by Richard Nixon to China
-1973 State of the Union Address
-1974 State of the Union Address
 1976 Democratic National Convention
 1976 Democratic Party presidential primaries
 1976 Republican National Convention
@@ -259,25 +126,17 @@
 1980 Republican National Convention
 1980 Republican Party presidential primaries
 1980 United States presidential election
-1982 State of the Union Address
 1983 Libertarian National Convention
-1983 State of the Union Address
 1984 Democratic National Convention
 1984 Democratic Party presidential primaries
 1984 Republican National Convention
 1984 Republican Party presidential primaries
-1984 State of the Union Address
 1984 United States presidential election
-1985 State of the Union Address
-1986 State of the Union Address
-1986 United States bombing of Libya
 1987 Libertarian National Convention
-1987 State of the Union Address
 1988 Democratic National Convention
 1988 Democratic Party presidential primaries
 1988 Republican National Convention
 1988 Republican Party presidential primaries
-1988 State of the Union Address
 1991 Libertarian National Convention
 1992 Democratic National Convention
 1992 Democratic Party presidential primaries
@@ -316,9 +175,7 @@
 2008 Republican National Convention
 2008 Republican Party presidential debates and forums
 2008 Republican Party presidential primaries
-2009 Republican National Committee chairmanship election
 2010 Libertarian National Convention
-2011 Republican National Committee chairmanship election
 2012 Democratic National Convention
 2012 Democratic Party presidential primaries
 2012 Green National Convention
@@ -329,9 +186,7 @@
 2012 Republican National Convention
 2012 Republican Party presidential debates and forums
 2012 Republican Party presidential primaries
-2013 Republican National Committee chairmanship election
 2014 Libertarian National Convention
-2015 Republican National Committee chairmanship election
 2016 Constitution Party presidential primaries
 2016 Democratic National Convention
 2016 Democratic Party presidential debates and forums
@@ -346,8 +201,6 @@
 2016 Republican National Convention
 2016 Republican Party presidential debates and forums
 2016 Republican Party presidential primaries
-2017 Republican National Committee chairmanship election
-2019 Republican National Committee chairmanship election
 2020 Constitution Party presidential primaries
 2020 Democratic National Convention
 2020 Democratic Party presidential debates
@@ -361,9 +214,6 @@
 2020 Republican National Convention
 2020 Republican Party presidential debates
 2020 Republican Party presidential primaries
-2021 Republican National Committee chairmanship election
-2023 Republican National Committee chairmanship election
-2024 Constitution Party presidential primaries
 2024 Democratic National Convention
 2024 Democratic Party presidential debates and forums
 2024 Democratic Party presidential primaries
@@ -372,127 +222,31 @@
 2024 Libertarian National Convention
 2024 Libertarian Party presidential primaries
 2024 Reform National Convention
-2024 Republican National Committee chairmanship election
 2024 Republican National Convention
 2024 Republican Party presidential debates and forums
 2024 Republican Party presidential primaries
-2028 Democratic Party presidential primaries
 2028 Republican National Convention
-2028 Republican Party presidential primaries
-A Mind Forever Voyaging
-A Time for Choosing
 Abraham Lincoln
 Administration (government)
-Agreement on the Prevention of Nuclear War
-Alabama Republican Party
 Alaska
-Alaska Republican Party
-Alf Landon
 All the President's Men (film)
 American Independent Party
-An American Life
-An Evening with Richard Nixon
 Andrew Johnson
-Another Nice Mess
-Anti-Ballistic Missile Treaty
 Arizona
-Arizona Republican Party
 Arkansas
 Arthur M. Schlesinger Jr.
-Arthur Summerfield
-Ash heap of history
-Assistant party leaders of the United States Senate
-Attack on Richard Nixon's motorcade
-Attempted assassination of Ronald Reagan
-B. Carroll Reece
-Bailey Walsh
 Barry Goldwater
-Barry M. Goldwater
-Bear in the woods
-Benjamin Franklin Jones (industrialist)
 Benjamin Harrison
-Bertrand Snell
-Bibliography of Richard Nixon
-Bibliography of Ronald Reagan
-Bibliography of the history of the Republican Party
-Bill Brock
-Billy Daniels
-Birthplace of Richard Nixon
-Birthplace of Ronald Reagan
-Black Dynamite
 Bob Dole
-Bring Us Together
-C. Wesley Roberts
 California
-California's 12th congressional district
-California Democratic Party v. Jones
-California Republican Party
 Calvin Coolidge
-Cannabis policy of the Richard Nixon administration
-Cannabis policy of the Ronald Reagan administration
-Caucus
-Center for Politics at the University of Virginia in Charlottesville
 Center for the National Interest
-Channing E. Phillips
-Charlene Mitchell
-Charles A. Halleck
-Charles Curtis
-Charles D. Hilles
-Charles Evans Hughes
-Charles G. Dawes
-Charles H. Percy
-Charles L. McNary
-Charles Mathias
-Charles Scribner's Sons
-Charles W. Fairbanks
-Charles W. Whalen Jr.
-Checkers speech
 Chester A. Arthur
 Chicago Tribune
-Christopher Nixon Cox
-Claude R. Kirk Jr.
-Claudius H. Huston
-Clayton Yeutter
-Clifford Case
-Clifford P. Case
 Cold War
-Cold War (1962–1979)
-Cold War (1979–1985)
-Cold War (1985–1991)
-College Republicans
-Colorado Republican Party
-Communist Party USA
-Comprehensive Drug Abuse Prevention and Control Act of 1970
-Congressional Hispanic Conference
 Connecticut
-Connecticut Republican Party
 ConservAmerica
-Conservative Political Action Conference
-Constructive engagement
-Crooked (novel)
-Cultural depictions of Richard Nixon
-Cultural depictions of Ronald Reagan
-Curtis LeMay
-Dan K. Moore
 Dan Quayle
-Daniel Button
-Daniel J. Evans
-Dark Side of the Moon (2002 film)
-David B. Henderson
-David Cargo
-Dean Burch
-Death and state funeral of Richard Nixon
-Death and state funeral of Ronald Reagan
-Delaware Plan
-Democratic National Convention
 Democratic Party (United States)
 Democratic Party presidential debates
-Dennis Hastert
-Dewey F. Bartlett
-Dick (film)
 Dick Cheney
-Dick Gregory
-Diplomatic corps
-District of Columbia Republican Party
-Domestic policy of the Ronald Reagan administration
-Don Riegle

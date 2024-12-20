@@ -1,6 +1,4 @@
 AC motor
-Aberration of light
-Abraham–Lorentz force
 Albert Einstein
 Alessandro Volta
 Alfred-Marie Liénard
@@ -12,7 +10,6 @@ Biot–Savart law
 Bremsstrahlung
 Capacitance
 Carl Friedrich Gauss
-Chain rule
 Charge density
 Charles-Augustin de Coulomb
 Charles Proteus Steinmetz
@@ -24,7 +21,6 @@ Covariant formulation of classical electromagnetism
 Current density
 Cyclotron radiation
 DC motor
-Dirac delta function
 Direct current
 Displacement current
 Doi (identifier)
@@ -64,7 +60,6 @@ Faraday's law of induction
 Four-current
 Franz Ernst Neumann
 Félix Savart
-Gauge fixing
 Gauge theory
 Gauss's law
 Gauss's law for magnetism
@@ -81,9 +76,7 @@ History of electromagnetic theory
 Humphry Davy
 Inductance
 Induction motor
-Inhomogeneous electromagnetic wave equation
 Insulator (electricity)
-Intermediate value theorem
 J. J. Thomson
 James Clerk Maxwell
 James Prescott Joule
@@ -97,17 +90,13 @@ Joule heating
 Kirchhoff's circuit laws
 Larmor formula
 Lenz's law
-Light-time correction
 Linear motor
 List of electrical phenomena
 List of textbooks in electromagnetism
 London equations
 Lord Kelvin
-Lorentz covariance
 Lorentz factor
 Lorentz force
-Lorenz gauge
-Lorenz gauge condition
 Magnetic circuit
 Magnetic complex reluctance
 Magnetic field
@@ -121,53 +110,37 @@ Magnetization
 Magnetomotive force
 Magnetostatics
 Mathematical descriptions of the electromagnetic field
-Max Planck
 Maxwell's equations
 Maxwell's equations in curved spacetime
 Maxwell stress tensor
-Mean value theorem
 Michael Faraday
-Near and far field
 Network analysis (electrical circuits)
 Nikola Tesla
-Nonhomogeneous electromagnetic wave equation
 Ohm's law
 Oleg D. Jefimenko
 Oliver Heaviside
 Optics
-Paradox of a charge in a gravitational field
 Permeability (electromagnetism)
 Permeance
 Permittivity
-Point charge
 Polarization density
 Poynting vector
 Quantum electrodynamics
 Quantum mechanics
 Relativistic electromagnetism
 Resonator
-Retarded potential
-Retarded time
 Right-hand rule
 Rotor (electric)
-Rydberg formula
-Scalar potential
 Series and parallel circuits
 Siméon Denis Poisson
-Special relativity
 Speed of light
 Static electricity
 Stator
 Synchrotron radiation
 Transformer
-Triangle inequality
 Triboelectric effect
-Vector potential
 Voltage
 Watt
-Wave (physics)
 Waveguide (radio frequency)
-Wheeler–Feynman absorber theory
-Whitehead's theory of gravitation
 Wilhelm Eduard Weber
 William Ritchie (physicist)

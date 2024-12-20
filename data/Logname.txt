@@ -1,169 +1,26 @@
 Od (Unix)
-At (command)
-Stty (Unix)
-Tail (Unix)
-Test (Unix)
-Uniq
-Shell builtin
-Environment variable
-File (command)
-Dircolors (Unix)
-Dirname
-Sha1sum
 Software categories
-Cut (Unix)
-Ctags
 Software license
-Fuser (Unix)
-Head (Unix)
-Readlink
-Mknod
-B2sum
 Tput
-Echo (command)
-Time (Unix)
-Link (Unix)
-Yes (Unix)
-Kill (command)
 Software development
-AWK
-Paste (Unix)
 Microsoft Windows
-Nproc
-Chgrp
 Cp (Unix)
-Mv (Unix)
-Type (Unix)
-Id (Unix)
 Operating system
-Sleep (command)
-Diff
-Chroot
-Ex (text editor)
-Tr (Unix)
-Pinky (Unix)
-Tsort
-True and false (commands)
-Lex (software)
-Unlink (Unix)
-Cross-platform
-The Open Group
-Du (Unix)
-Read (Unix)
-Shred (Unix)
-Numfmt
-Umask
-Expand (Unix)
 Dd (Unix)
-Shuf
-Truncate
 GNU Core Utilities
-Comm
-Alias (command)
 Computing platform
-Rmdir
-Grep
-Yacc
-Join (Unix)
 Job control (Unix)
-Install (Unix)
-Basename
-Ptx (Unix)
-Base64
-Xargs
-List of POSIX commands
-Cd (command)
-Cksum
-Vi (text editor)
-Expr
-Cron
-Chattr
-Cmp (Unix)
-UnxUtils
-Unix-like
-Chown
-Unix time
 Ar (Unix)
 Windows API
-Nl (Unix)
-Fold (Unix)
-Wait (command)
-System V printing system
-Split (Unix)
-Make (software)
-Sort (Unix)
-Groups (Unix)
-Users (Unix)
-Base32
-Chmod
-Touch (command)
-Mkfifo
-Nm (Unix)
-Pr (Unix)
-Csplit
-Talk (software)
-Ls
-Md5sum
-Pathchk (Unix)
-Nohup
-Fmt (Unix)
-Pwd
-Bc (programming language)
-Iconv
-Df (Unix)
 Env
-Mkdir
-More (command)
-Factor (Unix)
-Mesg
-Cat (Unix)
-Unix
-Chcon
-Strings (Unix)
-Sum (Unix)
-Sync (Unix)
-Ps (Unix)
-Nice (Unix)
-Stdbuf
 System call
-Rm (Unix)
 Wc (Unix)
-Timeout (computing)
-Find (Unix)
 Native (computing)
-Patch (Unix)
-Who (Unix)
-Ed (text editor)
-Mktemp
-Pax (command)
 Printf
-Coreutils
-Command-line interface
-Realpath
-Seq (Unix)
 Computer software
-Exit (command)
-Uptime
-Uname
-M4 (computer language)
-Tty (Unix)
-Ln (Unix)
-Cal (command)
 GNU General Public License
-Strip (Unix)
 Command (computing)
 GNU
-Runcon
-Sed
 Man page
-Whoami
-Write (Unix)
-Tee (command)
-Troff
-Printenv
 Porting
-Single Unix Specification
-Unexpand
 Printf (Unix)
-Hostid (Unix)
-UNIX System III

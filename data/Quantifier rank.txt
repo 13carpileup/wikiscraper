@@ -13,7 +13,6 @@ Axiom
 Axiom of choice
 Axiom schema
 Axiomatic system
-Axiomatization of Boolean algebras
 Banach–Tarski paradox
 Bijection
 Binary operation
@@ -51,10 +50,8 @@ Continuum hypothesis
 Countable set
 Decidability (logic)
 Decision problem
-Deductive system
 Diagram (mathematical logic)
 Domain of a function
-Ehrenfeucht–Fraïssé game
 Element (mathematics)
 Elementary diagram
 Elementary equivalence
@@ -74,18 +71,14 @@ Finitary relation
 Finite-valued logic
 Finite model theory
 Finite set
-First-order language
 First-order logic
 Fixed-point logic
-Fixpoint logic
 Forcing (mathematics)
 Formal grammar
 Formal language
 Formal proof
-Formal semantics (logic)
 Formal system
 Formation rule
-Formula (mathematical logic)
 Foundations of geometry
 Foundations of mathematics
 Free logic
@@ -96,18 +89,15 @@ Fuzzy set
 General set theory
 Grothendieck universe
 Ground expression
-Ground formula
 Gödel's completeness theorem
 Gödel's incompleteness theorems
 Gödel numbering
 Halting problem
-Heinz-Dieter Ebbinghaus
 Hereditary set
 Higher-order logic
 Hilbert's axioms
 Hilbert system
 History of logic
-History of mathematical logic
 ISBN (identifier)
 Image (mathematics)
 Inaccessible cardinal
@@ -120,19 +110,14 @@ Inhabited set
 Injective function
 Interpretation (logic)
 Interpretation (model theory)
-Interpretation function
 Intersection (set theory)
 Isomorphism
-Joel Spencer
 Kolmogorov complexity
-Kripke's theory of truth
 Kripke–Platek set theory
 Lambda calculus
 Large cardinal
 Lemma (mathematics)
-Leonid Libkin
 Lindström's theorem
-List of Hilbert systems
 List of axioms
 List of first-order theories
 List of formal systems
@@ -163,7 +148,6 @@ Model theory
 Monadic predicate calculus
 Monadic second-order logic
 Morse–Kelley set theory
-Moshe Y. Vardi
 NP (complexity)
 Naive set theory
 Natural deduction
@@ -185,9 +169,7 @@ Peano axioms
 Philosophy of mathematics
 Power set
 Predicate (mathematical logic)
-Predicate logic
 Predicate variable
-Prenex normal form
 Primitive recursive arithmetic
 Primitive recursive function
 Principia Mathematica
@@ -199,7 +181,6 @@ Propositional formula
 Propositional variable
 Quantifier (logic)
 Recursion
-Recursive set
 Relation (mathematics)
 Reverse mathematics
 Robinson arithmetic
@@ -223,11 +204,8 @@ Skolem arithmetic
 Soundness
 Spectrum of a sentence
 Spectrum of a theory
-Springer-Verlag
-Springer Publishing
 Square of opposition
 Strength (mathematical logic)
-String (formal languages)
 Structure (mathematical logic)
 Substitution (logic)
 Substructure (mathematics)
@@ -239,14 +217,12 @@ Syntax (logic)
 T-schema
 Tarski's axiomatization of the reals
 Tarski's axioms
-Tarski's theory of truth
 Tarski's undefinability theorem
 Tarski–Grothendieck set theory
 Tautology (logic)
 Term (logic)
 Term logic
 Theorem
-Theories of truth
 Theory (mathematical logic)
 Three-valued logic
 Timeline of mathematical logic
@@ -259,7 +235,6 @@ Truth value
 Turing machine
 Type (model theory)
 Type theory
-Ultrafilter (set theory)
 Ultraproduct
 Uncountable set
 Undecidable problem
@@ -276,5 +251,4 @@ Venn diagram
 Von Neumann universe
 Von Neumann–Bernays–Gödel set theory
 Well-formed formula
-Zbl (identifier)
 Zermelo–Fraenkel set theory

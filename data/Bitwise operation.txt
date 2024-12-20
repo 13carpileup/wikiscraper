@@ -1,23 +1,8 @@
 4-bit computing
-Ancient Egyptian multiplication
-Arithmetic logic unit
-Arithmetic overflow
-Arithmetic shift
 Assembly language
-Big-endian
-Binary numeral
 Binary operation
-Binary shift
-Binary variable
-Bit
 Bit array
-Bit manipulation
-Bit string
-Bitboard
-Bitwise operations in C
 Boolean algebra
-Boolean data type
-Carry flag
 Central processing unit
 Circular shift
 Clang
@@ -25,68 +10,25 @@ Compiler
 Computer architecture
 Computer programming
 Contradiction
-Converse implication
 Converse nonimplication
-Count leading zeros
 Cryptography
-Double dabble
-Exclusive disjunction
 Field (mathematics)
-Find first set
-Flag word
-Floor and ceiling functions
-GF(2)
 GNU Compiler Collection
-GNU Pascal
-High-level programming language
-Instruction pipeline
-Integer (computer science)
-Intrinsic function
 JavaScript
 Java (programming language)
-Karnaugh map
-Little-endian
 Logic gate
-Logical AND
-Logical NAND
 Logical NOR
 Logical biconditional
 Logical conjunction
 Logical disjunction
-Logical negation
-Logical operator
-Logical shift
-Machine code
-Masking tape
 Material conditional
 Material nonimplication
 Negation
-Object Pascal
-Offset binary
-Ones' complement
-Operators in C and C++
-PIC microcontroller
 Parity (mathematics)
-Place-value notation
-Popcount
 Primitive data type
-Processor register
-Projection function
-Pseudocode
 Rounding
-Shifted binary (code)
-Sign bit
 Tautology (logic)
-Timing attack
-Truth function
 Truth table
-Two's complement
 Unary operation
-Undefined behavior
-Units place
 Vector space
-Visual C++
-Wolfram Demonstrations Project
 Word (computer architecture)
-Word size
-XOR

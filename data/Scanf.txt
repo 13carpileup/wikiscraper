@@ -1,52 +1,32 @@
 Comparison of Pascal and C
-Long double
-ALGOL 68
 Objective-C
-List of C compilers
 Microsoft Visual Studio Express
-Buffer overflows
 D (programming language)
 Portable C Compiler
 CodeLite
 C date and time functions
 C23 (C standard revision)
-Inttypes.h
 Bionic (software)
 C syntax
 Microsoft Visual C++
 Musl
 C Sharp (programming language)
-Whitespace (computer science)
 NetBeans
 Vala (programming language)
-Mike Lesk
 C mathematical functions
-Double precision floating-point format
-Borland Turbo C
-Pointer (computer programming)
-Function (computer programming)
 Asterisk
 PHP
-Subroutine
 ANSI C
 Data type
-Double-precision floating-point format
-Hybris (software)
-Character string
 Dietlibc
 C preprocessor
 Man page
-CLion
-Hexadecimal
 Norcroft C compiler
-The Open Group
 Anjuta
 Clang
 Integer
-Watcom C/C++
 Linux
 C (programming language)
-Format string attack
 C dynamic memory allocation
 Visual Studio
 C character classification
@@ -55,61 +35,34 @@ UClibc
 Go (programming language)
 Integrated development environment
 MISRA C
-Interface (computer science)
 C17 (C standard revision)
 C standard library
-Varargs.h
-String interpolation
 GNU Compiler Collection
-Datatype
-Operators in C and C++
-Standard library
-Version 7 Unix
-Sscanf
 C string handling
 Printf
 Limbo (programming language)
 Geany
-C file input/output
 Amsterdam Compiler Kit
-Two's complement
-Templating language
 Tiny C Compiler
-Octal
 Eclipse (software)
-Embedded GLIBC
 Decimal
-Floating-point
-Fgets
 Dennis Ritchie
 Klibc
 Embedded C
 Microsoft Windows library files
-Array data structure
-Strtoul
-Parsing
-Standard input
 Alef (programming language)
 Null character
 Newlib
 C11 (C standard revision)
 C data types
 Glibc
-Compatibility of C and C++
 C++
-C programming language
 C99
 C POSIX library
-Single Unix Specification
-Doug McIlroy
 LCC (compiler)
 KDevelop
 Stdarg.h
-Printf format string
 Whitespace character
-Intel C++ Compiler
-Fixed-point arithmetic
 GNOME Builder
-Stdio.h
 Include directive
 String (computer science)

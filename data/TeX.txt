@@ -1,376 +1,79 @@
--yllion
-8-bit
-AMS-LaTeX
-AMS-TeX
-AMS Euler
-AUCTeX
 Academia
-Acta Mathematica
-Addison-Wesley
-Adobe InDesign
-Advogato
 Algorithm
-American Mathematical Society
-AmigaTeX
-Amiri (typeface)
-Andika (typeface)
-Antykwa Półtawskiego
 Apache License
-Apache OpenOffice
-Apple, Inc.
-ArXiv
 ArXiv (identifier)
-ArabTeX
-Arbortext
-Asana-Math
-Asymptotically
-Atkinson Hyperlegible
-BSD licenses
 Backslash
-Bank Gothic
-Baskerville
-Behdad Esfahbod
-Bembo
-Bi-directional text
-BibTeX
 Bibcode (identifier)
-Big O notation
-Bitstream Charter
-Bitstream Vera
 Bracket
-Breeze Sans
-Bézier curve
-CTAN
-CWEB
 C (programming language)
 Cambridge, Massachusetts
 Cambridge University Press
-Cantarell (typeface)
-Capital letter
-Cascadia Code
-Chandas (typeface)
-Charis SIL
 Chi (letter)
-CircuiTikZ
-Comic Neue
-Command-line interpreter
-Command line
-Comparison of TeX editors
-Comparison of document markup languages
-Computer Modern
-Computer application
-Computer bug
 Computer program
 Computer science
-Computers and Typesetting
-ConTeXt
-Concrete Mathematics
-Concrete Roman
 Consonant
-Courier Prime
-Creative Commons license
-Croscore fonts
-Cross-platform
-DVI file format
-Dancing Links
-De facto standard
-DejaVu fonts
 Denmark
-Desktop publishing
-Deutschsprachige Anwendervereinigung TeX
-Device independent file format
-Die TeXnische Komödie
-Digital typography
 Dijkstra's algorithm
 Document Style Semantics and Specification Language
-Document file format
 Doi (identifier)
-Donald Knuth
-Doulos SIL
-Droid (typeface)
 Dynamic programming
-E-Ukraine
-EB Garamond
-E (mathematical constant)
 Economics
-Elsevier
-Emacs
 Engineering
 Epsilon
-Even and odd numbers
-File extension
 Filename extension
-Fira (typeface)
-Fisher–Yates shuffle
-Fixed-point arithmetic
-Floating-point arithmetic
-Fmt (Unix)
-Font
-FontForge
-Font Awesome
-Font Library
-Font rasterization
-Fontmatrix
-Formula editor
-FpTeX
 France
-Frank Liang
-FreeType
-Free On-line Dictionary of Computing
-Free and open-source software
 Free software
 Freeware
-Freeze (software engineering)
-GNOME LaTeX
 GNU
-GNU Emacs
-GNU FreeFont
-GNU Free Documentation License
 GNU General Public License
-GNU Lesser General Public License
-GNU TeXmacs
-GNU Unifont
-GPL font exception
-GUTenberg
-Galley proof
-Garamond
-Gentium
-Ghostscript
 Go (programming language)
-Google Fonts
 Graphical user interface
-Graphite (smart font technology)
-Greedy algorithm
-Greek Font Society
 Greek alphabet
-Gummi (software)
-Guy L. Steele, Jr.
-GwTeX
-HarfBuzz
-Hello world program
-Hershey fonts
-History of Western typography
-Honeywell
-Hot metal typesetting
-Hyphen
-Hyphenation algorithm
-I/O
-IBM Plex
 ISBN (identifier)
 ISSN (identifier)
-Incompatible Timesharing System
-Inconsolata
-Indagationes Mathematicae
-International Components for Unicode
-Iosevka
 Italy
-JadeTeX
-James Clark (XML expert)
-John Hobby
-Johnston (typeface)
-Jomolhari (typeface)
-Junicode
-Justification (typesetting)
-KDE
-Kile
-Knuth's Algorithm X
-Knuth's Simpath algorithm
-Knuth's up-arrow notation
-Knuth Prize
-Knuth reward check
-Knuth–Bendix completion algorithm
-Knuth–Morris–Pratt algorithm
-Kochi (font)
-Kyoto Prize
 LaTeX
-LaTeX Project Public License
-Lato (typeface)
-Leslie Lamport
-Lexical preprocessor
-Liberation fonts
-LibreOffice
 Linguistics
 Linux
-Linux Libertine
-List of TeX extensions
-List of document markup languages
-Literata
 Literate programming
-Lohit fonts
-LuaTeX
-Luxi fonts
-LyX
-M+ FONTS
-M4 (computer language)
-MIT License
-MIT Press
-MIX (abstract machine)
-MMIX
 MacOS
-MacTeX
 Macro (computer science)
-Man or boy test
 Massachusetts
 Massachusetts Institute of Technology
-MathJax
-MathTime
-Mathematical formulae
 Mathematics
 MediaWiki
 Media type
-MetaPost
-MetaType1
-Metafont
-MiKTeX
 Microsoft Windows
-Monotype system
-Montserrat (typeface)
-MusiXTeX
 NP-complete
-Nanum fonts
-National Fonts
 Netherlands
-New Typesetting System
-News Gothic
-Nimbus Mono L
-Nimbus Roman No. 9 L
-Nimbus Sans
-Noto fonts
 OCR-A
 OCR-B
-Omega (TeX)
-OpTeX
-Open-source Unicode typefaces
 Open-source software
-OpenDyslexic
-OpenType
-OpenType math
-Open Sans
 Operating system
-Orphan (typesetting)
-Overleaf
-Overpass (typeface)
 Oxford University Press
-OzTeX
-PDP-10
-PGF/TikZ
-PRAGMA Advanced Document Engineering
-PSTricks
-PT Fonts
-Pango
-PasTeX
 Pascal (programming language)
-Pascal programming language
-PdfTeX
-Permissive free software license
-PhD
-Phototypesetting
 Physics
-Pi
 Political science
-Portable Document Format
-Potrzebie
 Programmer
 Public domain
-Qt (toolkit)
 Quadratic equation
 Quadratic formula
-Quantitative psychology
-Quater-imaginary base
-Raph Levien
 Raster graphics
-Ray Larabie
-Repository (version control)
-Retail software
-Robinson–Schensted–Knuth correspondence
-Roboto
 S2CID (identifier)
-SAIL programming language
 SIL International
-SIL Open Font License
-STIX Fonts project
-Sabbatical
-San Serriffe
-Scientific WorkPlace
 Scientific journal
-Segoe
-Selected papers series of Knuth
 Software
 Software bug
 Software categories
 Software license
 Software release life cycle
-Software versioning
-Source Code Pro
-Source Han Sans
-Source Han Serif
-Source Sans
-Source Serif
 Source code
 Springer Science+Business Media
-Stanford Magazine
 Stanford University
 Statistics
-Surreal Numbers (book)
-TIPA (software)
-TUGboat
-Tail recursion
 Tau
-TeTeX
-TeX-XeT
-TeXML
-TeXPortal
-TeXShop
-TeX Directory Structure
-TeX Live
-TeX font metric
-TeXnicCenter
-TeXstudio
-TeXworks
-Techne
-Texinfo
-Texmaker
-Text Executive Programming Language
-The Art of Computer Programming
-The Complexity of Songs
-The PracTeX Journal
-Theano Didot
-Things a Computer Scientist Rarely Talks About
-TinyTeX
-Tiresias (typeface)
-Token (parser)
-Trabb Pardo–Knuth algorithm
 Trademark
-Troff
-Turing completeness
-Typeface
-Typesetting
-Typography
-Ubuntu (typeface)
-Ubuntu Titling
 Unicode
 United Kingdom
-Unix
-Utopia (typeface)
-Vim (text editor)
-Visual Studio Code
 Vowel
-W32TeX
-WAITS
-WEB
-WYSIWYG
-WYSIWYM
 Wayback Machine
-Web2c
-Web (programming system)
-WenQuanYi
-Widow (typesetting)
-WinEdt
-WinShell
-Writing system
-XITS font project
-XSL Formatting Objects
-Xdvi
-XeTeX
-XyMTeX
-Zilla Slab

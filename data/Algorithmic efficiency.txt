@@ -1,49 +1,22 @@
 ACM Computing Classification System
-ARM architecture
 Accuracy and precision
-Ada Lovelace
 Adaptability
 Algorithm
 Algorithm design
 Analysis of algorithms
 Analysis of parallel algorithms
-Apache Hadoop
 Application programming interface
 Application security
-Arithmetic logic unit
-Arthur Zimek
 Artificial intelligence
-Asymptote
 Automata theory
 Automated planning and scheduling
-Auxiliary memory
 Backward compatibility
-Benchmark (computing)
-Best, worst and average case
-Big O notation
-Binary search algorithm
-Binomial heap
-Boolean satisfiability problem
-Brute-force search
-Bubble sort
-CPU cache
-CPU core
-CPU time
 CUDA
-Cache-aware model
 Cache (computing)
 Cache coherence
-Cache hierarchy
-Cache miss
-Cache replacement policies
 Central processing unit
-Charles Babbage
-CiteSeerX (identifier)
-Clock cycle
-Code generation (compiler)
 Compiler
 Compiler construction
-Compiler optimization
 Computability theory
 Computational biology
 Computational chemistry
@@ -53,7 +26,6 @@ Computational engineering
 Computational geometry
 Computational mathematics
 Computational physics
-Computational resource
 Computational social science
 Computer accessibility
 Computer animation
@@ -63,7 +35,6 @@ Computer graphics
 Computer hardware
 Computer memory
 Computer network
-Computer performance
 Computer programming
 Computer science
 Computer security
@@ -72,14 +43,12 @@ Computing
 Computing platform
 Concurrency (computer science)
 Concurrent computing
-Constant time
 Control theory
 Control variable (programming)
 Correctness (computer science)
 Cross-validation (statistics)
 Cryptography
 Cyberwarfare
-Data alignment
 Data compression
 Data mining
 Database
@@ -95,106 +64,57 @@ Do it yourself
 Document management system
 Doi (identifier)
 Domain-specific language
-Donald Knuth
-Dynamic RAM
 Dynamic programming
 E-commerce
 Educational technology
-Electronic Delay Storage Automatic Calculator
-Electronic computer
 Electronic design automation
 Electronic publishing
 Electronic voting
 Embedded system
-Empirical algorithmics
 Enterprise information system
 Enterprise software
-Event-driven programming
-Exponential time
-Fast Fourier transform
 Flexibility (engineering)
-Floating-point arithmetic
-Floating-point unit
 Form factor (design)
 Formal language
 Formal methods
 Function (mathematics)
-Function call
-GPU memory
 Garbage collection (computer science)
 Geographic information system
-Gigabyte
-Granularity
 Graphics processing unit
 Green computing
-Hans-Peter Kriegel
-Hard disk
 Hardware acceleration
 Hardware security
-Hash function
 Health informatics
-Heapsort
-High-level programming language
 Human–computer interaction
-I/O bound computing
 IBM
 ISBN (identifier)
-ISO/IEC 9126
 ISSN (identifier)
 Image compression
-In-place algorithm
 Information retrieval
 Information security
 Information system
 Information theory
-Input (computer science)
-Insertion sort
 Instruction-level parallelism
 Instruction set architecture
 Integrated circuit
 Integrated development environment
 Interaction design
-Internet of things
-Interpreted language
 Interpreter (computing)
 Intrusion detection system
-Just-in-time compilation
 Knowledge representation and reasoning
-Krste Asanović
-L1 cache
-L2 cache
-L3 cache
 Laptop
 Latency (engineering)
 Library (computing)
-Limit (mathematics)
-Linear time
-Linearithmic
-Linearithmic time
-Linking (computing)
 List of computer size categories
 List of system quality attributes
-Local variable
-Local variables, recursion and reentrancy
-Locality of reference
-Logarithmic time
 Logic in computer science
-Long multiplication
-Lookup table
-Loop optimization
 Loose coupling
-Low-power computing
-Lower-order terms
 Machine learning
-Main memory
 Mainframe computer
-Mainframe sort merge
 Maintainability
 Mathematical analysis
 Mathematical optimization
 Mathematical software
-Megabyte
-Memory footprint
 Memory hierarchy
 Merge sort
 Message Passing Interface
@@ -203,10 +123,6 @@ Middleware
 Mixed reality
 Model of computation
 Modeling language
-Moore's law
-Multi-core processor
-Multi-processing
-Multi-programming
 Multi-task learning
 Multimedia database
 Multiplication
@@ -221,73 +137,44 @@ Network security
 Network service
 Networking hardware
 Non-functional requirement
-Norman Jouppi
 Numerical analysis
 OCLC (identifier)
-Object code optimizer
 Open-source software
 OpenMP
 Operating system
 Operations research
-Optimization (computer science)
-Optimizing compiler
-Orders of magnitude (computing)
 Orthogonality (programming)
 Outline of computer science
-Output (computing)
-Page fault
-Paged memory
-Parallel algorithm
 Parallel computing
 Peripheral
 Personal computer
 Philosophy of artificial intelligence
 Photograph manipulation
-Principle of locality
 Printed circuit board
 Probability
 Process control
 Processor (computing)
-Processor core
-Processor register
 Productivity
-Profiling (computer programming)
-Program optimization
 Programming language
 Programming language theory
 Programming paradigm
 Programming team
 Programming tool
-Proportionality (mathematics)
-Quadratic time
 Quantum Computing
-Quicksort
-Random-access memory
-Random access memory
 Randomized algorithm
 Real-time computing
-Recursion (computer science)
-Register file
 Reinforcement learning
 Reliability engineering
 Rendering (computer graphics)
 Requirements analysis
-Response time (technology)
 Reusability
-Ripple carry adder
 Robustness (computer science)
 S2CID (identifier)
-SIMD
 Scalability
-Secondary storage
 Security hacker
 Security service (telecommunication)
-Selection sort
 Semantics (computer science)
 Server (computing)
-Server farm
-Shared cache
-Shell sort
 Simultaneous multithreading
 Smartphone
 Social computing
@@ -298,8 +185,6 @@ Software deployment
 Software design
 Software development
 Software development process
-Software development security
-Software emulation
 Software engineering
 Software framework
 Software maintenance
@@ -310,34 +195,14 @@ Software quality control
 Software quality management
 Software repository
 Software sizing
-Software system safety
 Software testability
 Solid modeling
-Sorting algorithm
-Space complexity
-Space–time trade-off
-Spatial locality
-Static random-access memory
 Statistics
 Stochastic computing
-Subroutine
-Supercomputer
 Supervised learning
-Syncsort
-System-on-chip
 System on a chip
-Task (computing)
-Temporal locality
-TensorFlow
-The Computer Language Benchmarks Game
 Theoretical computer science
 Theory of computation
-Time-space tradeoff
-Time complexity
-Timsort
-Total cost of ownership
-Travelling salesman problem
-Tree data structure
 Ubiquitous computing
 Understandability
 Unsupervised learning
@@ -346,10 +211,7 @@ Vector processor
 Very Large Scale Integration
 Video game
 Virtual machine
-Virtual memory
 Virtual reality
 Visualization (graphics)
 Word processor
 World Wide Web
-X86-64
-ZX80

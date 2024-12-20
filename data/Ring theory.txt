@@ -1,212 +1,66 @@
 Abelian group
 Abstract algebra
-Affine algebraic variety
-Affine varieties
-Alexander Grothendieck
 Algebra
 Algebra over a field
-Algebraic K-theory
 Algebraic geometry
-Algebraic number field
 Algebraic number theory
 Algebraic operation
 Algebraic structure
 Algebraic variety
-Annihilator (ring theory)
 Arithmetic
-Artinian ring
-Artin–Wedderburn theorem
-Ascending chain condition
 Associative algebra
-Atlas (topology)
-Auguste Dick
-Automorphism
-Bialgebra
-Biquaternion
-Birkhäuser
 Boolean algebra (structure)
 Cambridge University Press
-Cartan–Brauer–Hua theorem
-Category of rings
 Category theory
-Catenary ring
-Chart (topology)
-Clark Kimberling
 Clifford algebra
-Cohen–Macaulay ring
-Commutative
 Commutative algebra
 Commutative ring
-Commutator (ring theory)
-Complemented lattice
 Composition algebra
-Coordinate ring
-Coquaternion
-Depth (ring theory)
-Dimension theory (algebra)
-Direct sum of modules
-Division ring
-Divisor class group
 Doi (identifier)
-Domain (ring theory)
-Element (set theory)
 Emil Artin
 Emmy Noether
-Endomorphism
-Endomorphism ring
-Euclidean domain
 Fermat's Last Theorem
 Field (mathematics)
 Finite field
-Finiteness of class number
-Formal power series ring
-Fractional ideal
 Free algebra
-Free product of associative algebras
-Frobenius endomorphism
 Function (mathematics)
-Fundamental theorem of symmetric polynomials
-GCD domain
 Geometric algebra
 Geometry
-Global dimension
 Glossary of ring theory
-Goldie's theorem
-Goldie ring
-Graded ring
-Greatest common divisor
 Group (mathematics)
-Group completion
 Group representation
-Group ring
 Group theory
-Group with operators
-Height (ring theory)
 Heyting algebra
 Hilbert's Nullstellensatz
-Hilbert polynomial
-Homogeneous coordinate ring
 Homological algebra
 Hopf algebra
-Hopkins–Levitzki theorem
-Hypercomplex number
 ISBN (identifier)
 Ideal (ring theory)
-Ideal theory
-Inner automorphism
 Integer
-Integers modulo n
-Integral domain
-Integral extension
-Integrally closed domain
-Invariant theory
-Involutive ring
-Irving Kaplansky
-Isomorphism theorem
-Jacobson density theorem
-Jacobson radical
-James Cockle (lawyer)
-Jordan ring
-Joseph Wedderburn
-Kernel (algebra)
-Klein four-group
-Krull dimension
 Lattice (order)
 Lie algebra
 Lie group
-Lie ring
 Linear algebra
-Linear transformation
-MR (identifier)
 Magma (algebra)
-Manifold
-Map of lattices
-Marcel Dekker
-Mathematical structure
 Mathematics
 Matrix (mathematics)
 Matrix addition
 Matrix multiplication
-Matrix ring
-Maximal ideal
 Module (mathematics)
-Module (ring theory)
 Monoid
-Monoid ring
-Morita equivalence
-Morita equivalent
-Morita theory
-Nakayama's lemma
-Near-ring
-Nilradical of a ring
-Noetherian ring
 Non-associative algebra
-Non-associative ring
-Noncommutative algebra
-Noncommutative algebraic geometry
-Noncommutative geometry
-Noncommutative ring
-Operator algebra
-P-adic integer
-P-adic number
 Physics
-Picard group
 Polynomial
-Polynomial identity ring
 Polynomial ring
-Prime ideal
-Prime number
-Primitive ring
-Principal ideal domain
-Principal ideal ring
-Product of rings
-Projective module
-Projective variety
-Prüfer group
-Quantum group
-Quasigroup
 Quaternion
-Quaternions
 Quotient ring
-Racks and quandles
-Regular local ring
-Regular ring
-Representation of an algebra
 Representation theory
 Ring (mathematics)
-Ring homomorphism
 Ring of integers
-Ring of symmetric functions
 Rng (algebra)
 Scheme (mathematics)
-Semifield
 Semigroup
-Semilattice
-Semiprime ideal
-Semiprimitive ring
-Semiring
-Semisimple ring
-Sheaf (mathematics)
-Simple module
-Simple ring
-Skolem–Noether theorem
-Spectrum of a ring
-Split-biquaternion
-Springer-Verlag
 Subring
-Symmetric polynomial
-Tensor product of algebras
-Tessarine
-Total order
-Total ring of fractions
-Transcendence degree
-Unique factorization domain
 Universal algebra
-Universal enveloping algebra
 Vector space
-Wedderburn's little theorem
-William Kingdon Clifford
 William Rowan Hamilton
-Zariski topology
-Zariski–Samuel theorem
-Zero ring

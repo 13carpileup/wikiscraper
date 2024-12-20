@@ -1,104 +1,37 @@
-ACM Transactions on Mathematical Software
-AMD Core Math Library
-Algebra of physical space
-Algebraic structures
-Algorism
 Algorithm
 Algorithm design
 Analysis of algorithms
-Analytical mechanics
 Applied mathematics
-Approximation theory
-Arbitrary precision arithmetic
 Automata theory
 Automated theorem proving
-Boost (C++ libraries)
-Bosonic string theory
 C++
 C (programming language)
-Calculus of variations
-Chaos theory
-Class Library for Numbers
-Classical field theory
 Clifford algebra
-Clifford analysis
 Coding theory
 Combinatorics
-Comparison of linear algebra libraries
-Comparison of numerical-analysis software
-Comparison of statistical packages
 Computational geometry
 Computational mathematics
-Computational number theory
-Computational statistics
 Computer
 Computer algebra
-Computer algebra system
 Computer program
-Computing power
-Conformal field theory
-Constraint programming
-Constraint satisfaction problem
 Control theory
 Cryptography
-Data assimilation
-Decision theory
 Differential equation
-Differential form
 Differential geometry
 Discrete geometry
 Discrete mathematics
 Dynamical system
-Effective field theory
-European Community on Computational Methods in Applied Sciences
 Exterior algebra
-Exterior calculus
-Field theory (physics)
-Fortran
-Fourier analysis
 Functional analysis
-Functional integration
-GNU Multi-Precision Library
-GNU Scientific Library
 Game theory
-Gareth Loy
 Gauge theory
-Gauge theory (mathematics)
 Geometric algebra
-Geometric analysis
-Geometric calculus
 Graph theory
-Guide to Available Mathematical Software
 Gödel's incompleteness theorems
-Hamiltonian mechanics
-Harmonic analysis (mathematics)
-IMSL Numerical Libraries
 Information theory
-International Council for Industrial and Applied Mathematics
 Invention
-Japan Society for Industrial and Applied Mathematics
-Kent State University
-Lagrangian mechanics
 Library (computing)
-List of arbitrary-precision arithmetic software
-List of automated theorem provers
-List of computer algebra systems
-List of constraint programming libraries
-List of finite element software packages
-List of information graphics software
-List of interactive geometry software
-List of mathematics topics
-List of music software
-List of numerical-analysis software
-List of numerical libraries
-List of optimization software
-List of proof assistants
-List of statistical packages
-List of statistical software
-List of theorem provers
 Logic in computer science
-Malliavin calculus
-MathML
 Mathematical analysis
 Mathematical and theoretical biology
 Mathematical chemistry
@@ -108,67 +41,17 @@ Mathematical model
 Mathematical optimization
 Mathematical physics
 Mathematical psychology
-Mathematical science
 Mathematical sociology
 Mathematics
-Moore's law
 Multilinear algebra
-Multivariable calculus
-Music and mathematics
-NAG Numerical Libraries
-NMath
 National Institute of Standards and Technology
-Netlib
-Numerical Recipes
 Numerical analysis
-Numerical linear algebra
-Numerical methods for ordinary differential equations
-Numerical methods for partial differential equations
 Operations research
-Operator algebra
-Operator theory
-Ordinary differential equation
 Partial differential equation
-Particle physics and representation theory
 Path integral formulation
-Perturbation theory
-Perturbation theory (quantum mechanics)
-Poisson algebra
-Potential theory
-Probability distribution
 Probability theory
-Quantum field theory
-Quantum group
-Random variable
-Renormalization group
-Social choice theory
-Society for Industrial and Applied Mathematics
-Société de Mathématiques Appliquées et Industrielles
 Software
-Software calculator
-Solver
-Spacetime algebra
-Statistical field theory
 Statistics
-Stochastic calculus
-Stochastic differential equation
-Stochastic process
-String theory
 Superalgebra
-Supersymmetric quantum mechanics
-Supersymmetric theory of stochastic dynamics
-Supersymmetry
-Supersymmetry algebra
-Symbolic computation
-Symbolic mathematics
 TeX
 Tensor
-Tensor calculus
-Tensor software
-The Unreasonable Effectiveness of Mathematics in the Natural Sciences
-Time complexity
-Topic outline of mathematics
-Topological field theory
-Topological string theory
-Validated numerics
-Vector calculus

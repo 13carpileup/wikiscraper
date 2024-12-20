@@ -1,5 +1,4 @@
 API
-ARM Cortex-A57
 Amdahl's law
 Analysis of parallel algorithms
 Application checkpointing
@@ -10,15 +9,11 @@ Automatic parallelization
 Barrier (computer science)
 Beowulf cluster
 Bit-level parallelism
-Black–Scholes
-Boost (C++ libraries)
 Bulldozer (microarchitecture)
-C++ AMP
 CUDA
 Cache-only memory architecture
 Cache coherence
 Cache invalidation
-Central processing units
 Chapel (programming language)
 Charm++
 Cilk
@@ -43,19 +38,16 @@ Doi (identifier)
 Dryad (programming)
 Embarrassingly parallel
 Explicit parallelism
-FFT
 Fiber (computer science)
 Flynn's taxonomy
 GPUOpen
 General-purpose computing on graphics processing units
 Global Arrays
-Graphics processing units
 Grid computing
 Gustafson's law
 HPX
 Hardware acceleration
 Hardware scout
-Heterogeneous computing
 High-performance computing
 ISBN (identifier)
 Implicit parallelism
@@ -63,14 +55,10 @@ Instruction-level parallelism
 Instruction pipelining
 Instruction window
 Karp–Flatt metric
-LPDDR
-Laplacian
 Loop-level parallelism
-M.2
 Machine learning
 Manycore processor
 Massively parallel
-Maxwell architecture
 Memory-level parallelism
 Memory coherence
 Message Passing Interface
@@ -80,12 +68,10 @@ Multiprocessing
 Multithreading (computer architecture)
 Non-blocking algorithm
 Non-uniform memory access
-Nvidia Jetson
 OpenACC
 OpenCL
 OpenHMPP
 OpenMP
-PCI Express
 Parallel Extensions
 Parallel RAM
 Parallel Virtual Machine
@@ -119,13 +105,8 @@ Synchronization (computer science)
 Systolic array
 Task parallelism
 Temporal multithreading
-Tensor Processing Unit
 Thread (computing)
 Threading Building Blocks
-Ubuntu Linux
 Unified Parallel C
 Uniform memory access
-Variable SMP
 Vector processor
-Virtualization
-ZPL (programming language)

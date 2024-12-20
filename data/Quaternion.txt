@@ -1,365 +1,92 @@
-24-cell
-3-sphere
 3D computer graphics
-600-cell
-A History of Vector Analysis
 A Treatise on Electricity and Magnetism
 Abelian group
-Additive inverse
 Affine space
-Alexander Macfarlane
 Algebra
-Algebra homomorphism
-Algebra of physical space
-Algebraic number
-American Mathematical Society
-Andrew J. Hanson
-Angle
-Antipodal points
 Applied mathematics
 ArXiv (identifier)
-Arc (geometry)
-Artin–Wedderburn theorem
 Associative algebra
 Associative property
-Banach algebra
 Basis (linear algebra)
 Bibcode (identifier)
-Bicomplex number
-Binary icosahedral group
-Bioctonion
 Bioinformatics
-Biquaternion
-Bivector
-Blackboard bold
-Brauer equivalent
-Brauer group
-Broom Bridge
 Cambridge University Press
-Cardinal number
 Carl Friedrich Gauss
-Cayley graph
-Cayley–Dickson construction
-Center (ring theory)
-Central simple algebra
-Change of variables
-Charles Jasper Joly
-Chris J. L. Doran
-Classical Hamiltonian quaternions
-Classification of Clifford algebras
 Clifford algebra
-Closed-form expression
-Codimension
-Combinatorial design
-Commutative
 Commutative property
 Commutator
 Complex number
-Complex plane
-Complex variable
 Composition algebra
-Computable number
 Computer graphics
 Computer simulation
 Computer vision
-Conformal geometric algebra
-Conjugacy class
-Conjugate (algebra)
-Conjugate transpose
-Conjugation (group theory)
-Constructible number
-Continuous function (topology)
 Control theory
-Conversion between quaternions and Euler angles
-Covering space
-Cross-polytope
-Cross product
-Defence Research and Development Canada
-Definable number
-Definable real number
-Degrees of freedom
-Demihypercube
 Determinant
-Dimension
 Dimension (vector space)
-Dimension of an algebraic variety
-Disphenoidal 288-cell
-Distributive law
 Distributive property
-Division algebra
-Division ring
 Doi (identifier)
-Domain (ring theory)
 Dot product
-Dual-complex number
-Dual number
-Dual quaternion
 Dublin
-Dunsink Observatory
-Eight-dimensional space
-Eisenstein integer
-Elliptic geometry
 Encyclopedia of Mathematics
 Encyclopædia Britannica
 Encyclopædia Britannica Eleventh Edition
-Euclidean algorithm
-Euclidean space
-Euler's four-square identity
-Euler angles
-Euler–Rodrigues parameters
 European Mathematical Society
 Expression (mathematics)
-Extended natural numbers
-Extended real number line
-Extension field
 Exterior algebra
-Ferdinand Georg Frobenius
 Field (mathematics)
-Five-dimensional space
-Four-dimensional space
-Fractal dimension
-Free module
-Frobenius theorem (real division algebras)
-Fuzzy number
-Gamma matrices
-Gaussian integer
-Gaussian rational
 Geometric algebra
 Geometry
-Gimbal lock
-Great-circle distance
 Group (mathematics)
-Group isomorphism
-Group ring
-Half-integer
-Hamilton Walk
-Hausdorff dimension
 Hermann von Helmholtz
-History of quaternions
-Holt, Rinehart and Winston
-Homogeneous coordinates
-Hugh Chisholm
-Hurwitz's theorem (composition algebras)
-Hurwitz quaternion
-Hurwitz quaternion order
-Hyperbolic quaternion
-Hypercomplex number
-Hypercube
-Hyperplane
-Hyperpyramid
-Hyperreal number
-Hyperrectangle
-Hyperspace
-Hypersurface
 ISBN (identifier)
-Ian R. Porteous
-Icosahedral group
-Icosian
 Ideal (ring theory)
 Identity element
 Image (mathematics)
-Imaginary unit
-Inductive dimension
-Infinitesimal
-Infinity
 Injective function
 Integer
-Inverse function
 Involution (mathematics)
-Irrational number
-Isomorphic
 Isomorphism
-JFM (identifier)
 James Clerk Maxwell
-Joachim Lambek
-John Baez
-John Horton Conway
-John T. Graves
-Josiah Willard Gibbs
-Julia set
-Ken Shoemake
-Kinematics
-Krull dimension
-LCCN (identifier)
-Lagrange's four-square theorem
 Lattice (group)
-Lawrence Paulson
-Lebesgue covering dimension
-Levi-Civita field
 Lie group
-List of types of numbers
-London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science
-Longmans, Green & Co.
 Lord Kelvin
-Lorentz boost
-Ludwik Silberstein
-Lénárt sphere
-MR (identifier)
-Magnetic resonance imaging
-Magnitude (mathematics)
-Mandelbrot set
-Manifold
 Mathematics
 Matrix (mathematics)
 Matrix multiplication
-Matrix representation of complex numbers
-Matrix ring
-Matrix trace
 Maxwell's equations
 Mechanics
-Metric space
-Michiel Hazewinkel
-Minkowski space
-Minkowski–Bouligand dimension
-Molecular dynamics
-Morgan Kaufmann
-Multicomplex number
-Multiplication table
-Multiplicative identity
 Multiplicative inverse
-N-sphere
-NUI Maynooth
-National Council of Teachers of Mathematics
-Natural number
 Non-associative algebra
-Noncommutative ring
 Norm (mathematics)
-Normal number
-Normed algebra
-Normed division algebra
-Nuclear magnetic resonance
 Number
-Number system
 Number theory
 OCLC (identifier)
-Octahedron
-Octonion
-Olinde Rodrigues
 Oliver Heaviside
-One-dimensional space
-Orbital mechanics
 Ordinal number
-Orientation (mathematics)
-Orthogonal group
-Orthogonal matrix
-P-adic number
 PMID (identifier)
-Patrick du Val
 Pauli matrices
-Pencil of planes
-Period (algebraic geometry)
 Peter Guthrie Tait
-Philosophical Magazine
 Physics
-Plane-based geometric algebra
 Plane (mathematics)
-Plate trick
-Point (geometry)
-Point groups in three dimensions
-Polar decomposition
-Polynomial equation
-Polytope
-PostScript
-Power (mathematics)
-Princeton University Press
-Profinite integer
-Projective space
-Projectively extended real line
-Pseudo-Euclidean space
-Pseudovector
-Pure mathematics
-Quadratic form
 Quantum mechanics
-Quaternion Society
-Quaternion algebra
-Quaternion group
-Quaternionic analysis
-Quaternionic manifold
-Quaternionic matrix
-Quaternionic polytope
-Quaternionic projective space
-Quaternions and spatial rotation
 Quotient ring
-Rational number
-Real line
 Real number
-Reciprocal (mathematics)
-Regular icosahedron
-Riemann sphere
 Ring (mathematics)
-Ring homomorphism
 Robotics
-Rotation matrix
-Rotation operator (vector space)
-Rotations in 4-dimensional Euclidean space
-Rotor (mathematics)
-Royal Canal
-Royal Irish Academy
 S2CID (identifier)
 SIGGRAPH
-SO(3)
-SU(2)
 Scalar (mathematics)
-Schläfli symbol
-Sedenion
-Sedenions
-Seven-dimensional space
-Shape
 Signal processing
-Simple algebra
-Simplex
-Six-dimensional space
-Slerp
-Solenoid (mathematics)
-Space
-Spacecraft attitude control
-Spacetime
-Spacetime algebra
-Special relativity
 Sphere
-Spin(3)
 Spin (physics)
-Spinor
-Spinors
-Split-biquaternion
-Split-complex number
-Split-octonion
-Split-quaternion
-Springer-Verlag
-Springer Publishing
-Square root
 Subalgebra
 Subring
-Supernatural number
-Superreal number
-Surreal number
-Symbol (mathematics)
 Tensor
-Tensor of a quaternion
-Tesseract
-Tetrahedron
-Texture (crystalline)
 Three-dimensional space
 Tomb Raider (1996 video game)
-Transcendental number
 Transpose
-Trigintaduonion
 Trinity College Dublin
 Two-dimensional space
 Union (set theory)
-Unit quaternion
-Unit sphere
-Unitary matrix
-Universal cover
-University of Dublin
-Vector (mathematics and physics)
-Vector analysis
 Vector space
-Versor
-Vladislav Kravchenko
-Wikimedia Commons
-Wilhelm Blaschke
-William Edwin Hamilton
 William Rowan Hamilton
-Zero-dimensional space
-Zero divisor

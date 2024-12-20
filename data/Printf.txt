@@ -18,171 +18,53 @@ Wc (Unix)
 Job control (Unix)
 Scanf
 Newlib
-Fold (Unix)
-Chgrp
-J (programming language)
-Find (Unix)
 Klibc
-Xargs
-Scanf()
 C POSIX library
-Ls
-Wait (command)
-Comm
-Plain text
-Inttypes.h
-LabVIEW
-Exit (command)
-Chmod
-Julia (programming language)
-GNU Linear Programming Kit
 Portable C Compiler
 Man page
-ALGOL 68
-Pwd
-Watcom C/C++
 Java (programming language)
-Elixir (programming language)
-Null-terminated string
-Version 4 Unix
-Uname
-Rmdir
-Awk
-Computer printer
 C++
-Compatibility of C and C++
-More (command)
-Variadic
-Function (computer programming)
-Richard Goldberg
 C17 (C standard revision)
 C dynamic memory allocation
-CLion
-Left-to-right
-Apache HTTP Server
 Microsoft Visual Studio Express
 Bionic (software)
-Iconv
 ANSI C
-Kill (command)
-Basename
-Cal (command)
 Eclipse (software)
-Nl (Unix)
 Domain-specific language
 GNOME Builder
-Nice (Unix)
-The Open Group
 MISRA C
 Comparison of Pascal and C
 Amsterdam Compiler Kit
 Escape character
-Uniq
-Transact-SQL
 Embedded C
-Va list
-Diff
-AMPL
-Cron
-Du (Unix)
-Mythryl
 Clang
-Write (Unix)
-Sleep (command)
-Lua (programming language)
-ML (programming language)
-Uncontrolled format string
-True and false (commands)
-Expr
-GNU Octave
-Haskell programming language
 PHP
-Content format
-Bc (programming language)
 Vala (programming language)
-Printf debugging
-Raku (programming language)
-Ex (text editor)
-Make (software)
-International Business Machines Corporation
-C file input/output
-Syntax (programming languages)
-Undefined behavior
-R (programming language)
-Operators in C and C++
-4.3BSD-Reno
-Ctags
 Dietlibc
-Hexadecimal
 MATLAB
 C data types
-Patch (Unix)
-Maple (software)
-Turing-complete
-Magnetic-tape data storage
-Hollerith constant
 Python (programming language)
-AWK
 Data type
 Norcroft C compiler
-Fixed-point arithmetic
-Line printer
-Template language
-Who (Unix)
-Cat (Unix)
-Fortran
-Ps (Unix)
 Dd (Unix)
 Geany
-List of C compilers
-Parsing
 String (computer science)
 D (programming language)
 Limbo (programming language)
-Test (Unix)
 Musl
 Linux kernel
-Stream (computing)
-Join (Unix)
-At (command)
-Fuser (Unix)
 International Organization for Standardization
-Grep
-M4 (computer language)
 Semantics (computer science)
-BCPL
-Umask
-Mkdir
-Cd (command)
-Head (Unix)
-Df (Unix)
-Programming languages
 Alef (programming language)
-Clojure
 C Sharp (programming language)
-List of POSIX commands
 Natural language
-System V printing system
 C99
-Lexical analysis
-JVM
-String literal
-Command-line interface
 Stdarg.h
-Sort (Unix)
-Standard output
-Echo (command)
 UClibc
-Troff
 C mathematical functions
-OCaml
-String interpolation
 CodeLite
-Rm (Unix)
 C (programming language)
 Software development
-Csplit
-Iostream
 Include directive
 C syntax
 Anjuta
@@ -190,82 +72,22 @@ Integer
 POSIX
 C11 (C standard revision)
 C preprocessor
-Paste (Unix)
-Standard library
-Mini-language
-Nm (Unix)
-Time (Unix)
-Ln (Unix)
-Intel C++ Compiler
-Tee (command)
 Dennis Ritchie
 International Electrotechnical Commission
-Crash (computing)
-Alias (command)
-Chattr
-Tcl
-Embedded GLIBC
 Ruby (programming language)
-Roy Nutt
-Type (Unix)
-Strip (Unix)
-Semantics encoding
-Tr (Unix)
 Vulnerability (computing)
-Format string attack
-Format (Common Lisp)
-Lex (software)
 Small Device C Compiler
-IOCCC
-Subroutine
-Yacc
 Application programming interface
-John Warner Backus
-Sed
-Dirname
-Scala (programming language)
-Cksum
 KDevelop
-Red (programming language)
-Cut (Unix)
 C date and time functions
-Read (Unix)
-Mesg
-Doug McIlroy
-Talk (software)
-Shell builtin
 Integrated development environment
-Environment variable
-Unix
-Touch (command)
-Ed (text editor)
-Scanf format string
-Single Unix Specification
-Max (software)
 GNU Compiler Collection
-Chown
-PARI/GP
 C character classification
-IPv4
-Split (Unix)
 C23 (C standard revision)
-Strings (Unix)
 NetBeans
-File (command)
 Microsoft Windows library files
 Objective-C
 Percent sign
 Microsoft Visual C++
-Hybris (software)
-Borland Turbo C
-Mv (Unix)
 Go (programming language)
-Tail (Unix)
-Vi (text editor)
-Cmp (Unix)
-Serialization
-David Sayre
-Pax (command)
-Static program analysis
-Printk
 JavaScript

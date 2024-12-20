@@ -3,7 +3,6 @@ Oxygen scavenger
 Check weigher
 Corrugated plastic
 Meat absorbent pad
-Shearing (manufacturing)
 Gas cylinder
 Squround
 Industrial robot
@@ -14,11 +13,9 @@ Polytetrafluoroethylene
 Package theft
 BoPET
 Paper pallet
-Sand bag
 Corrugated fiberboard
 Adhesive
 Cage
-Convection
 Double seam
 Bag-in-box
 Multi-pack
@@ -28,9 +25,7 @@ Reusable packaging
 Nonwoven fabric
 Single-serve coffee container
 Banana box
-Conveyor belt
 Kraft paper
-Food packaging
 Plastic wrap
 Aluminium foil
 Jug
@@ -50,7 +45,6 @@ Calender
 Staple gun
 Clamshell (container)
 Recycling
-Juicebox (container)
 Injection moulding
 Authentication
 Papermaking
@@ -63,17 +57,12 @@ Aerosol spray dispenser
 Retort pouch
 Flip-top
 Laser cutting
-Package pilferage
-Tamper resistant
 Tub (container)
 Carboy
-Product development
-Paper sack
 Litter
 Security bag
 Growler (jug)
 Pallet
-Barcode printer
 Evidence packaging
 Quality assurance
 Aseptic processing
@@ -87,7 +76,6 @@ Hot-melt adhesive
 Aluminium bottle
 Plastic welding
 Tape dispenser
-Tamper resistance
 Intermediate bulk container
 Inhaler
 Egg carton
@@ -101,11 +89,8 @@ Modified atmosphere
 Low-density polyethylene
 Mechanical brake stretch wrapper
 Carton
-Curtain coating
 Shelf-stable food
 Corrugated box design
-Gel pack
-Liquid packaging board
 PET bottle recycling
 Crate
 Extended core stretch wrapper
@@ -114,13 +99,9 @@ Multilayered packaging
 Lid
 Container glass
 Packaging
-Modified atmosphere/modified humidity packaging
 Padded envelope
 Tube (container)
-Package testing
-Plastic-coated paper
 Can seamer
-Plastic pallet
 Packaging machinery
 Polyester
 Shrink wrap
@@ -129,7 +110,6 @@ Cartoning machine
 Staple (fastener)
 Reuse of bottles
 Resealable packaging
-E.I. du Pont de Nemours & Co.
 Screw cap (wine)
 Tear tape
 Industrial ecology
@@ -149,7 +129,6 @@ Package handle
 Flame treatment
 Multihead weigher
 Lamination
-Closed-loop box reuse
 Thermal bag
 Packaging gas
 Susceptor
@@ -167,17 +146,13 @@ Shelf life
 Euro container
 Paper recycling
 Currency packaging
-Pharmaceutical packaging
-Oyster pail
 Drum (container)
 Containerization
 Vertical form fill sealing machine
 Luxury packaging
-Cushioning
 Package tracking
 Tamper-evident technology
 Label printer applicator
-Mesh bag
 Seasonal packaging
 Pump dispenser
 Security tape
@@ -192,7 +167,6 @@ Boil-in-bag
 Blister pack
 Milk bag
 Conveyor system
-Polyolefin
 Slip sheet
 Polymer
 Lineshaft roller conveyor
@@ -201,34 +175,25 @@ Flexible intermediate bulk container
 Spray bottle
 Molded pulp
 Life-cycle assessment
-Shrink film
-Coating
-Can collecting
 Packaging engineering
 Jerrycan
-Forced air
 Insulated shipping container
 Shipping container
 Corona treatment
 Flour sack
 Water bottle
 Heat sealer
-Bung
 Toothpaste pump dispenser
 Tinning
-Coextrusion
 Stand-up pouch
 Wine bottle
 Desiccant
 Die cutting (web)
 Vacuum packing
 Turntable stretch wrapper
-PVC
 Folding carton
 Chub (container)
-Bubble wrap
 Bottle
-Infrared heater
 Ampoule
 Pressure-sensitive tape
 Glass milk bottle
@@ -236,7 +201,6 @@ Paper bag
 Label
 Wooden box
 Rotary wheel blow molding systems
-Jar
 Disposable food packaging
 Paperboard
 Roll slitting
@@ -267,26 +231,20 @@ Orbital stretch wrapper
 Wrap rage
 Cap torque tester
 Foam peanut
-Heating element
 Glass production
 Paper
 Heat gun
-Pallet inverter
-Source reduction
 Barrel
-Stretch wrap
 Coffee bag
 Field ration
 Screw cap
 Cosmetic packaging
 Ammunition box
 Waste management
-Bottling line
 Box
 Induction sealing
 Strapping
 Packet (container)
-Living hinge
 Flexible tank
 Child-resistant packaging
 Overpackaging
@@ -303,4 +261,3 @@ Temperature data logger
 Shock and vibration data logger
 Material-handling equipment
 Biodegradation
-Converting

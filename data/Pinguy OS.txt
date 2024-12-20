@@ -1,5 +1,3 @@
-/e/ (operating system)
-32-bit computing
 4MLinux
 64-bit computing
 ALT Linux
@@ -53,9 +51,7 @@ Damn Vulnerable Linux
 Debian
 Deepin
 DemoLinux
-Desktop environment
 Devuan
-DistroWatch
 DivestOS
 DoudouLinux
 Dreamlinux
@@ -77,7 +73,6 @@ Foresight Linux
 FreedomBox
 Freespire
 Frugalware Linux
-GNOME
 GNU Guix System
 GNewSense
 GOS (operating system)
@@ -88,8 +83,6 @@ GoboLinux
 Gobuntu
 GrapheneOS
 HandyLinux
-Hyperbola GNU/Linux-libre
-IA-32
 Immunix
 IodéOS
 Jurix
@@ -121,7 +114,6 @@ Linux distribution
 Linux for PlayStation 2
 Linux kernel
 List of Linux distributions
-Long-term support
 Lubuntu
 MCC Interim Linux
 MIUI
@@ -136,7 +128,6 @@ Mer (software distribution)
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Musix GNU+Linux
 Network Security Toolkit
 NimbleX
 Nitix
@@ -152,7 +143,6 @@ OpenSUSE
 Open Enterprise Server
 Oracle Linux
 PCLinuxOS
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
@@ -208,7 +198,6 @@ Trisquel
 Turbolinux
 Turkix
 Ubuntu
-Ubuntu (operating system)
 Ubuntu Budgie
 Ubuntu Cinnamon
 Ubuntu GNOME
@@ -219,9 +208,6 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix
-Unix-like
-Uruk GNU/Linux
 User interface
 VectorLinux
 Vine Linux
@@ -230,7 +216,6 @@ Wayback Machine
 Whonix
 Wubuntu
 X86
-X86-64
 XB Machine
 Xubuntu
 Yellow Dog Linux

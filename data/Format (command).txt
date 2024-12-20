@@ -1,266 +1,43 @@
-4690 Operating System
 86-DOS
-ATTRIB
-Address Resolution Protocol
-Altos MS-DOS 2.11
-AmigaDOS
-ArcaOS
-At (command)
-Auditpol
-BIOS Parameter Block
 BSD
-Background Intelligent Transfer Service
-Bcdedit
-BitLocker
-Bootcfg
-Bootsect
-Break (command)
-BtrFS
-CHCP (command)
 CHKDSK
-COMMAND.COM
-CP/M-86
-CURL
 C (programming language)
-Cabinet (file format)
-Cacls
-Cd (command)
-Choice (command)
-Clipboard (computing)
-Cls (command)
-Cluster (file system)
-Cmd.exe
-Cmdkey
-Command-line interface
 Command (computing)
-Comment (computer programming)
-Comp (command)
-Compact (computing)
 Computer History Museum
 Computing
 Computing platform
-Conditional (computer programming)
-Convert (command)
-Copy (command)
-Cross-platform
-DATE (command)
-DOSKEY
-DR DOS
-DR DOS 6.0
 Data recovery
 Data storage device
-Datalight
-Debug (command)
-Del (command)
-Deltree
-Design of the FAT file system
-Device Manager
 Digital Equipment Corporation
 Digital Research
-Dir (command)
-Disk Defragmenter (Windows)
 Disk formatting
-Diskcomp
-Diskcopy
-Diskpart
-Diskraid
-Dispdiag
-Dpath
-Drvspace
-EComStation
-Echo (command)
-Edlin
-Encrypting File System
-Environment variable
-Event Viewer
-Exe2bin
-Exit (command)
-Ext2
 FAT32
-FATX
-FAT directory entry
-FAT root directory
 Fdisk
 File Allocation Table
-File Compare
-File association
 File system
-Find (Windows)
-Findstr
-Fixboot
-Fixmbr
-FlexOS
 Floppy disk
 For loop
-Forfiles
 FreeBSD
-FreeDOS
 Free software
-Fsutil
-Ftype
 GNU General Public License
-GPLv2
-GPLv3
-Goto
-Graftabl
-Group Policy
 Hard disk drive
-Help (command)
-Hostname
 IBM
-IBM PC DOS
 ISBN (identifier)
-ISIS (operating system)
 Intel
-Ipconfig
-Kill (command)
-LGPL-2.0-or-later
-Label (command)
 Linux
-List of DOS commands
-Logman
-MAC address
-MIT License
 MS-DOS
-MS-DOS 1.25
-MS-DOS Editor
-MSCDEX
-MSX-DOS
-Magnetic medium
 Man page
-Mark Russinovich
-MetaComCo
 Microsoft
-Microsoft Press
-Microsoft ScanDisk
 Microsoft Windows
-Microware
-Mkdir
-Mklink
-Mode (command)
-Mofcomp
-More (command)
-Move (command)
-NTBackup
-Nbtstat
-Net (command)
-Netsh
-Netstat
-Nslookup
-O'Reilly Media
-OS-9
-OS/2
-OpenSSH
-Openfiles
 Operating system
 Optical disc
-Osborne McGraw-Hill
-PATH (variable)
-PC-MOS
-PC DOS 1.0
-PC DOS 1.1
-PC DOS 2.0
-PC DOS 7.10
-PRINT (command)
-PTS-DOS
-Paragon Technology GmbH
-PathPing
-Pause (command)
-Pax (command)
-Pentium FDIV bug
 Ping (networking utility)
-Pnpunattend
-Pnputil
-PowerShell
-Powercfg
-Pushd and popd
-QBasic
-Que Publishing
-REAgentC
-RMX (operating system)
-ROM-DOS
 RT-11
 ReactOS
-Recover (command)
-Recovery Console
-Refsutil
-Regsvr32
-Relog
-Ren (command)
-Replace (command)
-Rmdir
-Robocopy
-Route (command)
-Rpcping
-Runas
-SCP MS-DOS 1.25
-SISNE plus
-SUBST
-SYS (command)
 Scripting language
-Secure copy protocol
-Secure file transfer program
-Setspn
-Setver
-Shadow Copy
-Shell builtin
-Shutdown (computing)
 Software categories
 Software development
 Software license
 Solid-state drive
-SpartaDOS X
-Ssh-agent
-Ssh-keygen
-Start (command)
-Sxstrace
-Sysinternals
-System File Checker
-Systeminfo
-TIME (command)
-TRIPOS
-TYPE (DOS command)
-Takeown
-Tar (computing)
-Taskkill
-Tasklist
-TeleVideo PC DOS 2.11
-The Software Link
-Tim Paterson
-Timeout (computing)
-Title (command)
-Toshiba
-Tpmtool
-Tpmvscmgr
-Traceroute
-Tracerpt
-Tree (command)
-Typeperf
 USB
-Unix
-Ver (command)
-Vol (command)
-Volume Boot Record
-W32tm
-WBAdmin
 Wayback Machine
-Wecutil
-Wevtutil
-Where (command)
-Whoami
-Windows Assessment and Deployment Kit
-Windows Installer
-Windows Management Instrumentation Command-line
-Windows Registry
-Windows Remote Management
-Windows Script Host
-Windows Subsystem for Linux
-Windows Support Tools
-Windows System Assessment Tool
-Windows Task Scheduler
-Windows service
-Winmgmt
-X86 assembly language
-XCOPY
-Z80-RIO
-Zilog

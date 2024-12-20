@@ -1,126 +1,23 @@
-AT&T Bell Laboratories
-AWK
-Alias (command)
 Ar (Unix)
-At (command)
-Basename
-Bc (programming language)
 Block (data storage)
-Cal (command)
-Cat (Unix)
-Cd (command)
-Chattr
-Chgrp
-Chmod
-Chown
-Cksum
-Cmp (Unix)
-Comm
-Command-line interface
 Command (computing)
 Cp (Unix)
-Cron
-Csplit
-Ctags
-Cut (Unix)
 DECtape
 Dd (Unix)
 Dennis Ritchie
-Df (Unix)
-Diff
-Dirname
 Disk formatting
-Du (Unix)
-E2fsprogs
-Echo (command)
-Ed (text editor)
 Env
-Environment variable
-Ex (text editor)
-Exit (command)
-Expr
 Fdisk
-File (command)
 File system
-Find (Unix)
-Fold (Unix)
-Fsck
-Fuser (Unix)
-Grep
-HP-UX
-Head (Unix)
-Iconv
 Job control (Unix)
-Join (Unix)
-Ken Thompson
-Kill (command)
-Lex (software)
 Linux
-List of POSIX commands
-Ln (Unix)
 Logname
-Ls
-M4 (computer language)
-Make (software)
 Man page
-Mesg
-Minix
-Mkdir
-Mkisofs
-More (command)
-Mount (Unix)
-Mount (computing)
-Mv (Unix)
-Nice (Unix)
-Nl (Unix)
-Nm (Unix)
 Od (Unix)
 Operating system
-Parted
-Paste (Unix)
-Patch (Unix)
-Pax (command)
 Printf (Unix)
 Programmer
-Ps (Unix)
-Pwd
-RK03
-Read (Unix)
-Rm (Unix)
-Rmdir
-Sed
-Shell builtin
-Sleep (command)
 Software categories
 Software development
-Sort (Unix)
-Split (Unix)
-Strings (Unix)
-Strip (Unix)
-SunOS
-System V printing system
-Tail (Unix)
-Talk (software)
-Tee (command)
-Test (Unix)
-Time (Unix)
-Touch (command)
 Tput
-Tr (Unix)
-Troff
-True and false (commands)
-Type (Unix)
-Umask
-Uname
-Uniq
-Unix
-Unix-like
-Unix directory structure
-Vi (text editor)
-Wait (command)
 Wc (Unix)
-Who (Unix)
-Wrapper function
-Write (Unix)
-Xargs
-Yacc

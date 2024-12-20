@@ -1,8 +1,5 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
-Alcatel-Lucent
-AlliedWare Plus
 AlmaLinux
 Alpine Linux
 Android-x86
@@ -17,51 +14,40 @@ Asahi Linux
 Astra Linux
 Asturix
 Austrumi Linux
-B.A.T.M.A.N.
 BLAG Linux and GNU
-Babel (protocol)
 BackBox
 BackTrack
 Bharat Operating System Solutions
 BioSLAX
-Bird Internet routing daemon
 BlackArch
 Black Lab Linux
 BlankOn Linux
 Bodhi Linux
-Bourne shell
-BusyBox
 CHAOS (operating system)
 CRUX
 C (programming language)
 Calculate Linux
 Caldera OpenLinux
 CalyxOS
-Captive portal
 CentOS
 CentOS Stream
 Chakra (operating system)
 Chimera Linux
 ChromeOS
 ChromiumOS
-Cisco IOS
-Cisco NX-OS
 ClearOS
 Clear Linux OS
 ColorOS
 Commodore OS
 Comparison of Linux distributions
-Comparison of firewalls
 Container Linux
 Corel Linux
 CrDroid
 CrunchBang Linux
 Cub Linux
 CyanogenMod
-DD-WRT
 Damn Small Linux
 Damn Vulnerable Linux
-Dave Cinege
 Debian
 Deepin
 DemoLinux
@@ -75,12 +61,8 @@ Elementary OS
 Elive
 Emmabuntüs
 EndeavourOS
-Endian Firewall
 Endless OS
 EulerOS
-ExtremeXOS
-Extreme Networks
-FRRouting
 Familiar Linux
 Feather Linux
 Fedora Linux
@@ -89,14 +71,11 @@ Firefox OS
 Floppyfw
 Foresight Linux
 FreeBSD
-Free and open-source software
 FreedomBox
 Freespire
-Fritz!Box
 Frugalware Linux
 GNU General Public License
 GNU Guix System
-GNU Zebra
 GNewSense
 GOS (operating system)
 Garuda Linux
@@ -106,12 +85,8 @@ GoboLinux
 Gobuntu
 GrapheneOS
 HandyLinux
-Huawei
-Hyperbola GNU/Linux-libre
-IPFire
 Immunix
 IodéOS
-Junos OS
 Jurix
 KDE neon
 KaOS
@@ -125,10 +100,8 @@ Kongoni (operating system)
 Korora (operating system)
 Kubuntu
 Kwort Linux
-LEDE
 LXLE Linux
 Libranet
-LibreCMC
 LinHES
 LineageOS
 Linpus Linux
@@ -140,10 +113,7 @@ Linux distribution
 Linux for PlayStation 2
 Linux kernel
 List of Linux distributions
-List of router and firewall distributions
-List of router firmware projects
 Lubuntu
-M0n0wall
 MCC Interim Linux
 MIUI
 MX Linux
@@ -153,40 +123,28 @@ Mandriva Linux
 Manjaro
 MeeGo
 Mer (software distribution)
-MikroTik
 Miracle Linux
 Mobilinux
-Musix GNU+Linux
-National Security Agency
-Neighbornode
 Network Security Toolkit
-Network operating system
 NimbleX
 Nitix
 NixOS
 Nobara Linux
 Nova (operating system)
-OPNsense
 OmniROM
 One UI
-OpenBGPD
 OpenELEC
 OpenMandriva Lx
-OpenOSPFD
 OpenSUSE
-OpenWrt
 Open Enterprise Server
 Operating system
 Oracle Linux
 PCLinuxOS
-POSIXness
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
 Pentoo
 Peppermint OS
-PfSense
 Pinguy OS
 PixelExperience
 Platypux
@@ -197,7 +155,6 @@ Proprietary software
 Puppy Linux
 PureOS
 Q4OS
-Quagga (software)
 Qubes OS
 ROSA Linux
 Raspberry Pi OS
@@ -219,7 +176,6 @@ Salix OS
 Scientific Linux
 Slackware
 Slax
-SmoothWall
 Softlanding Linux System
 Software license
 Software release life cycle
@@ -236,13 +192,10 @@ Tails (operating system)
 Think Blue Linux
 Tiny Core Linux
 Tizen
-Tomato (firmware)
 TopologiLinux
-Tor (network)
 Trisquel
 Turbolinux
 Turkix
-Ubiquiti Networks
 Ubuntu
 Ubuntu Budgie
 Ubuntu Cinnamon
@@ -254,18 +207,13 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Uruk GNU/Linux
 VectorLinux
 Vine Linux
 Void Linux
-VyOS
-Vyatta
 Whonix
 Wubuntu
 XB Machine
-XORP
 Xubuntu
 Yellow Dog Linux
 Zenwalk
-Zeroshell
 Zorin OS

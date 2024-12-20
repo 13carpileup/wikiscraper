@@ -1,10 +1,6 @@
-1,3-Indandione
-ABIM Foundation
 ACE inhibitor
-APTT
 ATC code A
 ATC code B
-ATC code B01
 ATC code C
 ATC code D
 ATC code D09
@@ -19,28 +15,13 @@ ATC code R
 ATC code S
 ATC code V
 ATCvet code QI
-Abciximab
-Abelacimab
-Acenocoumarol
-Acetylsalicylic acid/dipyridamole
-Acid-citrate-dextrose
 Addiction medicine
-Adenosine diphosphate receptor inhibitor
 Alcoholic beverage
-Alfalfa
 Alkylating antineoplastic agent
-Aloxiprin
-Alteplase
-American Physical Therapy Association
 Anabolic steroid
 Analgesic
 Anatomical Therapeutic Chemical Classification System
-Ancrod
-Andexanet alfa
 Anesthetic
-Angiotensin II receptor antagonist
-Anistreplase
-Annals of Translational Medicine
 Anorectic
 Antacid
 Anthelmintic
@@ -48,18 +29,12 @@ Anti-inflammatory
 Anti-obesity medication
 Antianginal
 Antiarrhythmic agent
-Antibacterial
 Anticonvulsant
-Antidementia drug
 Antidepressant
-Antidiarrhoeal
 Antidote
 Antiemetic
 Antifibrinolytic
-Antifungal drug
 Antihemorrhagic
-Antihyperkinetic
-Antihypertensive drug
 Antimetabolite
 Antimicrobial
 Antimigraine drug
@@ -68,366 +43,75 @@ Antineoplastic
 Antiparasitic
 Antiplatelet drug
 Antipropulsive
-Antiprotozoal agent
 Antipruritic
-Antipsoriatic
 Antipsychotic
-Antithrombin
 Antithrombotic
 Antithyroid agent
 Antiviral drug
 Anxiolytic
 Aphrodisiac
-Apixaban
-Argatroban
-Aspirin
-Atrial fibrillation
-Atromentin
-Avocado
-Batroxobin
-Bed rest
-Beer
-Bemiparin sodium
-Beraprost
 Beta blocker
-Bethesda, Maryland
-Betrixaban
 Bibcode (identifier)
-Bilberry
 Bile acid sequestrant
-Biologic medical product
 Bisphosphonate
-Bivalirudin
 Blood
 Blood transfusion
 Bone
-Brinase
-British Journal of Clinical Pharmacology
-Brodifacoum
 Bronchodilator
-CHA2DS2-VASc
-CHADS2 score
 Calcium
 Calcium channel blocker
-Cangrelor
-Carbasalate calcium
 Cardiac glycoside
 Cardiac stimulant
-Cardiopulmonary bypass
-Cat's claw
-Celery
-Cerebral aneurysm
-Certoparin sodium
-Chelation
-Chemical substance
 Chemotherapy
-Choosing Wisely
-Cicatrizant
-Cilostazol
 Circulatory system
-Citrate
-Clinical Chemistry and Laboratory Medicine
-Clinical Therapeutics
-Clinical trial
-Clopidogrel
-Cloricromen
-Clorindione
-Clotting time
 Coagulation
-Coagulation inhibitor
-Cochrane Library
-Coenzyme Q10
-Contact activation system
-Contrast medium
-Coronary artery disease
 Corticosteroid
-Cough medicine
-Coumarin
-Coumatetralyl
-Cranberry
-Dabigatran
-Dabigatran Etexilate
-Dalteparin sodium
-Danaparoid
-Danshen
-Darexaban
 Decongestant
-Deep-vein thrombosis
-Deep vein thrombosis
-Defibrotide
 Deliriant
 Depressant
-Dermatan sulfate
-Desirudin
-Desmoteplase
 Diabetes medication
-Diagnostics
-Diclofenac
-Dicoumarol
-Dietary mineral
-Difenacoum
-Diphenadione
-Dipyridamole
-Direct Xa inhibitor
-Direct factor Xa inhibitors
-Direct thrombin inhibitor
 Disease-modifying antirheumatic drug
 Dissociative
-Ditazole
 Diuretic
 Doi (identifier)
 Dosage form
 Dressing (medicine)
-Drotrecogin alfa
-Drug class
-EISSN (identifier)
 Ectoparasiticide
-Edoxaban
-Efegatran
-Elinogrel
-Emollient
 Endocrine system
-Enoxaparin sodium
-Entactogen
 Entheogen
-Eptifibatide
-Eribaxaban
-Ethyl biscoumacetate
-Ethylenediaminetetraacetic acid
 Euphoria
-Factor IX
-Factor VII
-Factor V Leiden
-Factor X
-Factor XI
-Factor XII
-Factor Xa
 Fertility medication
-Feverfew
 Fibrate
-Fibrinogen
-Fibrinolysin
-Fibrinolytic
 Fish oil
-Fondaparinux
 Food and Drug Administration
-Food supplement
-Garlic
 General anaesthetic
 Genetic engineering
 Genitourinary system
-Ginger
-Ginkgo
-Ginseng
 Glucocorticoid
-Glycolysis
-Glycoprotein IIb/IIIa inhibitors
-Glycosaminoglycan
-Grapefruit
-Green tea
 H1 antagonist
-H2 antagonist
-HAS-BLED
-Haementeria ghilianii
 Hdl (identifier)
-Hematophagy
-Hementin
-Hemostasis
 Heparin
-Heparinoid
-Hirudin
 Hormonal contraception
-Horse chestnut
 Human brain
-Human gastrointestinal tract
 Human skin
-Hypercoagulability in pregnancy
-Hypercoagulable
 Hypnotic
-Hypolipidemic agent
 Hypothalamic–pituitary hormone
 ISBN (identifier)
 ISSN (identifier)
-Ibuprofen
-Idarucizumab
-Idrabiotaparinux
-Idraparinux
-Iloprost
 Immune system
-Immunomodulator
 Immunostimulant
 Immunosuppressive drug
-In vitro
 In vivo
-Indobufen
 Infection
-Informa Health Care
-Inogatran
-Intravenous immunoglobulin
 Intravenous therapy
 Joint
-Kidney dialysis
-Laxative
-Leech
-Lepirudin
-Letaxaban
-Licorice
-List of withdrawn drugs
-Local anesthetic
-Low-molecular-weight heparin
-Low molecular weight heparin
-Lumbrokinase
-Malignant
-Management of Parkinson's disease
-Mechanism of action of aspirin
 Medical Subject Headings
-Medical laboratory
-Melagatran
 Metabolism
-Milvexian
-Mineralocorticoid
-Monosodium citrate
-Monteplase
-Mood stabilizer
-Mosquito
-Motivation-enhancing drug
-Munir Pirmohamed
-Muscle
-Muscle relaxant
-Myocardial infarction
-Nadroparin calcium
-Nafamostat
-Naproxen
 National Health Service
-Nattokinase
-Necrosis
 Nervous system
-Neuroprotective
-Neurotoxin
-Niacin (nutrient)
-Non-steroidal anti-inflammatory drug
-Nonsteroidal anti-inflammatory drug
-Nootropic
-Nucleoside
-Nucleotide
-Oligosaccharide
-Onion
-Ophthalmology
-Oral administration
-Orbofiban
-Orexigenic
-Orthodontics
-Otamixaban
-Otology
-Oxalate
-P2Y12
-PLOS One
 PMC (identifier)
 PMID (identifier)
 Papaya
-Paracetamol
-Parnaparin sodium
-Pharmaceutical drug
-Phases of clinical research
-Phenindione
-Phenprocoumon
-Phosphodiesterase inhibitor
-Picotamide
-Pig
-Pill (pharmacy)
-Plasminogen activator
-Platelet
-Pomegranate
-Prasugrel
-Prostacyclin
-Prostaglandin analogue
-Prosthetic heart valve
-Protein C
-Prothrombin time
-Proton-pump inhibitor
-Psychedelic drug
-Psychedelics, dissociatives and deliriants
-Pulmonary embolism
-REG1
-Radiopharmacology
-Ramatroban
-Recombinant factor VIIa
-Recombinant tissue plasminogen activators
-Red clover
-Renin inhibitor
-Renin–angiotensin system
-Research and development
-Respiratory system
-Restenosis
-Reteplase
-Reviparin sodium
-Right atrium
-Rivaroxaban
-Rodenticide
-Root canal treatment
-Roxifiban
 S2CID (identifier)
-Saruplase
-Scaling and root planing
-Sedative
-Selective estrogen receptor modulator
-Senotherapeutics
-Sense
-Serenic
-Serine endopeptidase
-Sex steroid
-Sibrafiban
-Snake
-Soybean
-Spinach
-Spindle poison
-St. John's wort
-Statin
-Stimulant
-Streptokinase
-Stroke
-Sulodexide
-Tablet (pharmacy)
-Tenecteplase
-Terbogrel
-Terutroban
 The Wall Street Journal
-Therapy
-Thieme Medical Publishers
-Thienopyridine
-Thrombin
-Thrombolytic
-Thrombolytic drug
-Thrombosis
-Thrombosis prophylaxis
-Thromboxane inhibitors
-Thromboxane receptor antagonist
-Thromboxane synthase inhibitors
-Thyroid hormone
-Ticagrelor
-Ticlopidine
-Tinzaparin sodium
-Tioclomarol
-Tirofiban
-Topoisomerase inhibitor
-Toxin
-Treprostinil
-Triflusal
-Turmeric
-Urokinase
-Vaccine
-Vacutainer
-Vasodilation
-Venipuncture
-Venom
-Venous thrombosis
-Vitamin
-Vitamin E
-Vitamin K antagonist
-Vorapaxar
-WHO Model List of Essential Medicines
-Wakefulness-promoting agent
-Warfarin
-Wheatgrass
 Willow
-Ximelagatran

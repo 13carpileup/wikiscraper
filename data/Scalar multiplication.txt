@@ -1,100 +1,50 @@
 Abstract algebra
-Addison–Wesley
 Addition
-Additive inverse
-Additive map
-Basic Linear Algebra Subprograms
 Basis (linear algebra)
 Bilinear map
-Bivector
 Block matrix
-Boldface
-Brooks Cole
-Change of basis
-Commutative
 Commutative ring
-Comparison of linear algebra libraries
-Coordinate space
 Cramer's rule
-Cross product
 Determinant
-Direct sum of modules
-Direction (geometry)
 Dot product
 Dual space
 Eigenvalues and eigenvectors
-Euclidean space
-Euclidean vector
 Exterior algebra
-Field (algebra)
 Field (mathematics)
-Floating-point arithmetic
 Function (mathematics)
-Function space
 Gaussian elimination
-Geometric
 Geometric algebra
 Gilbert Strang
 Glossary of linear algebra
 Graduate Texts in Mathematics
-Gram–Schmidt process
-Group action
 Hadamard product (matrices)
 ISBN (identifier)
 Inner product
 Inner product space
-Invertible matrix
 John Wiley & Sons
-Kernel (linear algebra)
 Kronecker product
 Linear algebra
-Linear combination
-Linear independence
 Linear map
-Linear span
 Linear subspace
 Mathematics
 Matrix (mathematics)
 Matrix decomposition
 Matrix multiplication
-Minor (linear algebra)
 Module (mathematics)
 Multilinear algebra
 Multilinear map
 Multiplication
-Multiplication by juxtaposition
-Multiplication of vectors
 Multivector
-Numerical linear algebra
-Numerical stability
 Orthogonality
-Outer product
-Outermorphism
-Outline of linear algebra
 Product (mathematics)
-Productive matrix
 Projection (linear algebra)
-Quotient space (linear algebra)
 Rank (linear algebra)
 Real number
-Rig (algebra)
-Row and column spaces
-Row and column vectors
 Scalar (mathematics)
-Scalar division
-Scalar product
 Scaling (geometry)
-Serge Lang
-Seven-dimensional cross product
-Sparse matrix
 Springer Science+Business Media
 System of linear equations
 Tensor
 Tensor product
-Transformation matrix
 Transpose
-Triple product
-Unit (ring theory)
-Vector projection
 Vector space
-Zero vector

@@ -6,9 +6,7 @@ Alexander Bogdanov
 Algebraic logic
 Allenna Leonard
 Alphabet (formal languages)
-Analytic grammar
 Anatol Rapoport
-Anthony Stafford Beer
 Anthony Wilden
 Argument
 Arity
@@ -23,8 +21,6 @@ Axiom of choice
 Axiom of reducibility
 Axiom schema
 Axiomatic system
-Axiomatization of Boolean algebras
-Axioms
 Banach–Tarski paradox
 Barbara J. Grosz
 Bas van Fraassen
@@ -77,10 +73,8 @@ Coupled human–environment system
 Cybernetics
 David Hilbert
 Decidability (logic)
-Decidable set
 Decision problem
 Deductive reasoning
-Deductive system
 Dependent type
 Descriptive set theory
 Determinacy
@@ -112,7 +106,6 @@ Expression (mathematics)
 Extension by definitions
 Extension by new constant and function names
 Extensionality
-Faina Mihajlovna Kirillova
 Finitary relation
 Finite-valued logic
 Finite model theory
@@ -122,18 +115,12 @@ Fixed-point logic
 Forcing (mathematics)
 Formal grammar
 Formal language
-Formal languages
-Formal logical systems
-Formal method
 Formal methods
 Formal proof
 Formal science
-Formal semantics (logic)
 Formal verification
 Formalism (philosophy of mathematics)
 Formation rule
-Formula (mathematical logic)
-Foundational crisis of mathematics
 Foundations of geometry
 Foundations of mathematics
 Francisco Varela
@@ -149,14 +136,12 @@ Geoffrey Hunter (logician)
 George Boole
 George Dantzig
 George Klir
-Girard's paradox
 Glossary of category theory
 Gongsun Long
 Gottlob Frege
 Gregory Bateson
 Grothendieck universe
 Ground expression
-Ground formula
 Gödel's completeness theorem
 Gödel's incompleteness theorems
 Gödel numbering
@@ -169,7 +154,6 @@ Hilbert's axioms
 Hilbert's program
 Hilbert system
 History of logic
-History of mathematical logic
 History of type theory
 Homotopy type theory
 Howard T. Odum
@@ -186,10 +170,8 @@ Information system
 Information theory
 Inhabited set
 Injective function
-Intended interpretation
 Interpretation (logic)
 Interpretation (model theory)
-Interpretation function
 Intersection (set theory)
 Intuitionistic type theory
 Isomorphism
@@ -204,7 +186,6 @@ Katia Sycara
 Kenneth E. Boulding
 Kevin Warwick
 Kolmogorov complexity
-Kripke's theory of truth
 Kripke–Platek set theory
 Lambda calculus
 Large cardinal
@@ -212,9 +193,7 @@ Lemma (mathematics)
 Limiting factor
 Lindström's theorem
 Linguistics
-List of Hilbert systems
 List of axioms
-List of category theory topics
 List of first-order theories
 List of formal systems
 List of mathematical logic topics
@@ -249,7 +228,6 @@ Margaret Boden
 Margaret Mead
 Mary Cartwright
 Material conditional
-Mathematical constructivism
 Mathematical induction
 Mathematical logic
 Mathematical notation
@@ -263,7 +241,6 @@ Mihajlo D. Mesarovic
 Mike Jackson (systems scientist)
 Minimal axioms for Boolean algebra
 Modal logic
-Model (model theory)
 Model complete theory
 Model theory
 Monadic predicate calculus
@@ -281,14 +258,11 @@ Nervous system
 New Foundations
 Niklas Luhmann
 Non-Euclidean geometry
-Non-logical axioms
 Non-logical symbol
 Non-standard model
 Non-standard model of arithmetic
-Nonnegative integer
 Nonsense
 Norbert Wiener
-Notation
 OCLC (identifier)
 Open formula
 Operation (mathematics)
@@ -306,7 +280,6 @@ PlanetMath
 Positive feedback
 Power set
 Predicate (mathematical logic)
-Predicate logic
 Predicate variable
 Primitive recursive arithmetic
 Primitive recursive function
@@ -316,7 +289,6 @@ Production (computer science)
 Programming language theory
 Proof calculus
 Proof of impossibility
-Proof system
 Proof theory
 Proposition
 Propositional calculus
@@ -328,19 +300,15 @@ Qian Xuesen
 Quantifier (logic)
 Quantifier rank
 Radhika Nagpal
-Raymond M. Smullyan
 Recommender system
 Recursion
-Recursive set
 Recursively enumerable set
 Regular expression
 Relation (mathematics)
 Reverse mathematics
-Rewriting system
 Richard E. Bellman
 Robinson arithmetic
 Rule of inference
-Rules of inference
 Russell's paradox
 Russell L. Ackoff
 Ruzena Bajcsy
@@ -370,18 +338,15 @@ Stephanie Forrest
 Stephen Cole Kleene
 Strength (mathematical logic)
 String (computer science)
-String (formal languages)
 Structuralism (philosophy of mathematics)
 Structure (mathematical logic)
 Substitution (logic)
-Substitution instance
 Substructure (mathematics)
 Supertask
 Surjective function
 Syllogism
 Symbol (formal)
 Syntax (logic)
-Syntax analysis
 System
 System dynamics
 Systemics
@@ -404,17 +369,14 @@ T-schema
 Talcott Parsons
 Tarski's axiomatization of the reals
 Tarski's axioms
-Tarski's theory of truth
 Tarski's undefinability theorem
 Tarski–Grothendieck set theory
 Tautology (logic)
 Term (logic)
 Term logic
 Theorem
-Theories of truth
 Theory
 Theory (mathematical logic)
-Theory of justification
 Three-valued logic
 Timeline of mathematical logic
 Topos
@@ -429,7 +391,6 @@ Turing machine
 Twelve leverage points
 Type (model theory)
 Type theory
-Ultrafilter (set theory)
 Ultraproduct
 Uncountable set
 Undecidable problem
@@ -450,7 +411,6 @@ Von Neumann universe
 Von Neumann–Bernays–Gödel set theory
 Wayback Machine
 Well-formed formula
-William Ross Ashby
 World-systems theory
 Zermelo set theory
 Zermelo–Fraenkel set theory

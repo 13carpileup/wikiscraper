@@ -1,27 +1,14 @@
-80 Plus
 ACM Computing Classification System
-AMD
-Active Directory
-Advanced Configuration and Power Interface
 Advanced Micro Devices
-Advanced Power Management
-Agricultural wastewater treatment
 Algorithm
 Algorithm design
 Algorithmic efficiency
 Alternative fuel
 Amazon Web Services
-American Power Conversion
-American Recovery and Reinvestment Act
 Analysis of algorithms
-Android 10
 Application security
-Appropriate technology
 ArXiv (identifier)
 Artificial intelligence
-Athabasca University
-Atmospheric dispersion modeling
-Australian Computer Society
 Australian National University
 Automata theory
 Automated planning and scheduling
@@ -29,25 +16,11 @@ BIOS
 Battery recycling
 Bibcode (identifier)
 Biodegradation
-Biofuel
 Building insulation
-CRT monitor
-California Electronic Waste Recycling Act
-Camara (charity)
-Carbon-neutral fuel
-Carbon accounting
 Cathode-ray tube
 Central processing unit
-Challenging the Chip
 China
-Circular economy
-Clean technology
-Climate Savers Computing Initiative
-Climate smart agriculture
 Cloud computing
-Cold cathode
-Color scheme
-Comparison of platform virtualization software
 Compiler construction
 Computability theory
 Computational biology
@@ -59,18 +32,13 @@ Computational geometry
 Computational mathematics
 Computational physics
 Computational social science
-Computational sustainability
 Computer accessibility
 Computer animation
 Computer architecture
-Computer cooling
 Computer data storage
-Computer display
 Computer graphics
 Computer hardware
 Computer network
-Computer power supply
-Computer recycling
 Computer science
 Computer security
 Computer vision
@@ -78,28 +46,17 @@ Computing
 Computing platform
 Concurrency (computer science)
 Concurrent computing
-Conservation biology
 Control theory
 Control variable (programming)
-Cool'n'Quiet
 Cross-validation (statistics)
-Cryptocurrency
 Cryptography
 Cyberwarfare
-DRAM
-Data center infrastructure efficiency
 Data compression
-Data migration
 Data mining
 Database
 Decision support system
 Dell
 Dependability
-Desktop sharing
-Desktop virtualization
-Developing countries
-Digger gold
-Digital Europe Programme
 Digital art
 Digital library
 Digital marketing
@@ -110,145 +67,67 @@ Document management system
 Doi (identifier)
 Domain-specific language
 E-commerce
-E-cycling
-EDay
 Eco-innovation
-Ecoforestry
-Ecological footprint
 Ecotechnology
-Edge computing
 Educational technology
-Efficient energy use
-Electric vehicle
-Electrification
-Electronic Product Environmental Assessment Tool
 Electronic design automation
-Electronic paper
 Electronic publishing
 Electronic voting
 Electronic waste
 Electronics industry
-Embedded emissions
 Embedded system
-Emission standard
-Energy Efficient Ethernet
-Energy Star
-Energy conservation
 Energy development
-Energy recovery
-Energy recycling
-Energy transition
-Energy use in the United States
 Enterprise information system
 Enterprise software
-Environmental Design
-Environmental degradation
-Environmental design
-Environmental impact assessment
-Environmental impact design
-Environmental movement
 Environmental remediation
 Environmental technology
-Environmentally sustainable
-Ergonomics
-European Green Deal
-Fit for 55
-Fog computing
 Form factor (design)
 Formal language
 Formal methods
-Gartner
 Geographic information system
 George W. Bush
-Glass in green buildings
-Global warming
-Google Cloud Platform
-Governmental
 Graphics processing unit
-Green500
-Green Comm Challenge
-Green Electronics Council
 Green building
-Green data center
-Green vehicle
-Greenhouse gas emissions
 Greenpeace
-Group Policy
 Hard disk drives
 Hard drive
 Hardware acceleration
 Hardware security
-Harvard
 Health informatics
-Healthy community design
-Heat recovery ventilation
-Hewlett-Packard
-Hibernation (computing)
-High-performance buildings
-Hot desking
-Hoteling
 Human–computer interaction
-Hybrid vehicle
-Hydrogen technologies
 IBM
-IEEE 1680
-IOS 13
-IPadOS 13
 ISBN (identifier)
 ISSN (identifier)
-IT energy management
 Image compression
 India
 Industrial ecology
-Industrial wastewater treatment
-Information Systems Examination Board
-Information and communications technology
 Information retrieval
 Information security
 Information system
 Information technology
 Information theory
-Ink cartridges
-Instruction set
 Integrated circuit
 Integrated development environment
 Intel
-Intel Corporation
 Interaction design
-Interconnect bottleneck
 Interpreter (computing)
 Intrusion detection system
 Knowledge representation and reasoning
-LCD monitor
-Land rehabilitation
 Landfill
-Leeds Beckett University
 Library (computing)
 Life-cycle assessment
-Light-emitting diode
-Light-on-dark color scheme
 Linux
-Linux Terminal Server Project
-Linux operating system
 List of computer size categories
-List of energy storage projects
 List of solid waste treatment technologies
-List of waste-water treatment technologies
 Logic in computer science
-LongHaul
-LongRun
-MIS Quarterly Executive
 Machine learning
 Mainframe computer
 Mathematical analysis
 Mathematical optimization
 Mathematical software
-Megaflops
 Microsoft
-Microsoft Azure
 Microsoft Windows
 Middleware
-Minimalism (computing)
 Mixed reality
 Model of computation
 Modeling language
@@ -258,7 +137,6 @@ Multiprocessing
 Multithreading (computer architecture)
 Natural building
 Natural language processing
-Nature conservation
 Network architecture
 Network performance
 Network protocol
@@ -266,38 +144,22 @@ Network scheduler
 Network security
 Network service
 Networking hardware
-New Classical architecture
-New Urbanism
 Numerical analysis
 Nvidia
 OLED
 Online shopping
 Open-source software
-Operating-system-level virtualization
 Operating system
 Operations research
-Optical communication
-Optical fiber cable
-Organisation for Economic Co-operation and Development
 Outline of computer science
-PC power management
 PMID (identifier)
 Paper recycling
 Parallel computing
-Parallel optical interface
-Performance per watt
 Peripheral
-Permaculture
 Philosophy of artificial intelligence
 Photograph manipulation
-Platform virtualization
-Plug computer
 Pollution
-Popular Science
-PowerNow!
-Power factor
 Power management
-Power usage effectiveness
 Printed circuit board
 Probability
 Process control
@@ -307,37 +169,18 @@ Programming language theory
 Programming paradigm
 Programming team
 Programming tool
-Public interest design
 Quantum Computing
 RAM
-Rackable Systems
 Randomized algorithm
 Real-time computing
-RealVNC
-Rebound effect
-Rebound effect (conservation)
 Recycling
 Reinforcement learning
-Remote work
 Rendering (computer graphics)
-Renewable energy
-Renewable energy commercialization
-Renewable resource
-Repairability
 Requirements analysis
-Resource allocation
-Restriction of Hazardous Substances Directive
-Right to repair
 S2CID (identifier)
-SPECpower
-SPECvirt
-Search algorithm
 Security hacker
 Security service (telecommunication)
 Semantics (computer science)
-Sewage treatment
-Silicon Valley Toxics Coalition
-Sleep mode
 Social computing
 Social software
 Software configuration management
@@ -353,71 +196,27 @@ Software quality
 Software repository
 Solid-state drive
 Solid modeling
-SpeedStep
-Standby power
 Statistics
 Stochastic computing
 Sun Microsystems
 Supervised learning
-Sustainability
-Sustainability science
-Sustainable Development Goals
-Sustainable Electronics Initiative
-Sustainable agriculture
-Sustainable architecture
-Sustainable design
-Sustainable development
 Sustainable energy
-Sustainable food systems
-Sustainable industries
-Sustainable lighting
-Sustainable procurement
-Sustainable refurbishment
-Sustainable transport
 System on a chip
-TCO Certified
-Takeback
-Teleconference
 Telepresence
-Terminal Services
-Terminal server
-The Green Grid
 Theoretical computer science
 Theory of computation
-Thin client
-Time-sharing
-Timer coalescing
-Transaction Processing Performance Council
-Transmeta
 Ubiquitous computing
-Undervolting
-United States Environmental Protection Agency
 University of Michigan
 Unsupervised learning
-VIA Technologies
-VMmark
-VMware
 Very Large Scale Integration
-Video card
 Video game
-Virtual application
 Virtual machine
 Virtual reality
-Virtualization
 Visualization (graphics)
-Voice over Internet Protocol
 Waste Electrical and Electronic Equipment Directive
 Waste management
-Water heat recycling
-Water purification
 Watt
 Wayback Machine
-Windows 2000
 Windows 95
-Windows Remote Desktop
-Windows XP
 Word processor
 World Wide Web
-World Wildlife Fund
-X86 architecture
-X86 virtualization

@@ -1,17 +1,13 @@
 Acoustic ecology
-Aerotaxis
 Agent-based model in biology
 Algal bloom
 Anoxic waters
-Aquatic adaptation
 Aquatic animal
 Aquatic biomonitoring
 Aquatic ecosystem
 Aquatic insect
-Aquatic invertebrate
 Aquatic mammal
 Aquatic plant
-Aquatic predation
 Aquatic respiration
 Aquatic science
 Aquatic toxicology
@@ -25,8 +21,6 @@ Bog
 Brackish marsh
 Cascade effect (ecology)
 Census of Marine Life
-Chemical
-Chemotaxis
 Coastal biogeomorphology
 Coastal fish
 Cold seep
@@ -34,7 +28,6 @@ Colored dissolved organic matter
 Coral bleaching
 Coral reef
 Coral reef fish
-Current (stream)
 Davidson Seamount
 Dead zone (ecology)
 Deep-sea community
@@ -44,7 +37,6 @@ Deep scattering layer
 Demersal fish
 Diel vertical migration
 Doi (identifier)
-Durotaxis
 Ecohydrology
 Ecological values of mangroves
 Ecology of the San Francisco Estuary
@@ -57,13 +49,10 @@ F-ratio (oceanography)
 Fen
 Fish
 Fish pond
-Fisheries and climate change
 Fisheries science
-Fluid flow
 Food chain
 Food web
 Freshwater biology
-Freshwater biome
 Freshwater ecology of Maharashtra
 Freshwater ecosystem
 Freshwater environmental quality parameters
@@ -72,8 +61,6 @@ Freshwater marsh
 Freshwater swamp forest
 GIS and aquatic science
 Geography and ecology of the Everglades
-Gravitaxis
-Gravity
 Hotspot Ecosystem Research and Man's Impact On European Seas
 Human impact on marine life
 Hydrobiology
@@ -89,8 +76,6 @@ Kelp forest
 Lagoon
 Lake ecosystem
 Lake stratification
-Large marine ecosystem
-Lateral line
 Light
 Limnology
 List of freshwater ecoregions (WWF)
@@ -98,13 +83,9 @@ List of freshwater ecoregions in Africa and Madagascar
 List of freshwater ecoregions of Latin America and the Caribbean
 List of marine ecoregions
 Macrobenthos
-Macrophyte
 Magnetic field
-Magnetotaxis
 Mangrove
-Marine bacteriophage
 Marine biology
-Marine biomes
 Marine chemistry
 Marine coastal ecosystem
 Marine conservation
@@ -127,7 +108,6 @@ Marine reptile
 Marine snow
 Marine vertebrate
 Marine viruses
-Mechanosensation
 Meiobenthos
 Microbial ecology
 Microbial food web
@@ -139,7 +119,6 @@ Neuston
 Ocean fertilization
 Ocean turbidity
 Oceanic physical-biological process
-Oxygen
 Oyster reef
 PMC (identifier)
 PMID (identifier)
@@ -149,12 +128,9 @@ Pelagic fish
 Pelagic zone
 Photic zone
 Photophore
-Phototaxis
 Phytoplankton
 Plankton
-Pleuston
 Pond
-Pressure
 Productivity (ecology)
 Ramsar Convention
 River ecosystem
@@ -163,28 +139,18 @@ S2CID (identifier)
 Salt marsh
 Salt pannes and pools
 Saltwater fish
-Sea lamprey
 Seabird
 Seagrass
 Seagrass meadow
 Seashore wildlife
 Sediment trap
-Self-propelled particles
 Shoaling and schooling
 Siltation
-Somatosensory system
-Spawn (biology)
 Sponge ground
 Sponge reef
-Stiffness
-Stream
 Stream bed
 Stream pool
-Substrate (marine biology)
-Taxis
-Temperature
 Thermal pollution
-Thermotaxis
 Thorson's rule
 Tide pool
 Trophic level
@@ -199,6 +165,4 @@ Water garden
 Wetland
 Whale fall
 Wild fisheries
-Wind
-Zebrafish
 Zooplankton

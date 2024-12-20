@@ -1,8 +1,6 @@
 ACM Computing Classification System
-ALTRAN
 Abstract algebra
 Algebra
-Algebraic function
 Algebraic geometry
 Algebraic number theory
 Algebraic topology
@@ -12,39 +10,22 @@ Algorithmic efficiency
 Analysis of algorithms
 Analytic geometry
 Analytic number theory
-Antiderivatives
 Application security
 Applied mathematics
 Arithmetic
 Arithmetic geometry
 Artificial intelligence
-Association for Computing Machinery
-Associative operation
 Automata theory
 Automated planning and scheduling
-Automated theorem prover
-Axiom (computer algebra system)
-Betty Holberton
 Bibcode (identifier)
-Bruno Buchberger
-Buchberger's algorithm
-Cadabra (computer program)
 Calculus
-Cambridge Algebra System
-Canonical form
-Cantor–Zassenhaus algorithm
-Casio ClassPad 300
 Category theory
-Chain rule
-CoCoA
 Combinatorics
 Commutative algebra
-Commutativity
 Compiler construction
 Complex analysis
 Computability theory
 Computable function
-Computational algebraic geometry
 Computational biology
 Computational chemistry
 Computational complexity
@@ -54,10 +35,7 @@ Computational geometry
 Computational mathematics
 Computational physics
 Computational social science
-Computer-assisted proof
-Computer (occupation)
 Computer accessibility
-Computer algebra system
 Computer animation
 Computer architecture
 Computer data storage
@@ -81,12 +59,9 @@ Database
 Decision support system
 Dependability
 Derivative
-Derive (computer algebra system)
-Differential analyser
 Differential equation
 Differential geometry
 Differential topology
-Differentiation (mathematics)
 Digital art
 Digital library
 Digital marketing
@@ -100,47 +75,30 @@ Document management system
 Doi (identifier)
 Domain-specific language
 E-commerce
-ENIAC
 Educational technology
 Electronic design automation
 Electronic publishing
 Electronic voting
 Elementary algebra
 Embedded system
-Engineering Equation Solver
 Engineering mathematics
 Enterprise information system
 Enterprise software
-Erable
-Euclidean algorithm
 Euclidean geometry
 Expression (mathematics)
-FORM (symbolic manipulation system)
-Faugère F4 algorithm
-Fermat (computer algebra system)
 Finite geometry
-Floating point
-Floating point number
 Form factor (design)
 Formal language
 Formal methods
-Formula
 Foundations of mathematics
-Frances Spence
-FriCAS
-Function (computer science)
 Functional analysis
 Future of mathematics
-GAP (computer algebra system)
-GNU Multiple Precision Arithmetic Library
 Game theory
 General topology
 Geographic information system
 Geometric topology
 Geometry
-GiNaC
 Glossary of mathematical symbols
-Gosper's algorithm
 Graph theory
 Graphics processing unit
 Green computing
@@ -149,8 +107,6 @@ Gröbner basis
 Hardware acceleration
 Hardware security
 Harmonic analysis
-Hash function
-Hash table
 Health informatics
 History of mathematics
 Homological algebra
@@ -158,57 +114,29 @@ Homotopy theory
 Human–computer interaction
 Hypercomplex analysis
 ISBN (identifier)
-ISSAC
 ISSN (identifier)
 Image compression
-Indefinite integration
 Informal mathematics
 Information retrieval
 Information security
 Information system
 Information theory
-Integers
 Integrated circuit
 Integrated development environment
 Interaction design
 Interpreter (computing)
 Intrusion detection system
-Irrational function
-Irreducible fraction
-James H. Davenport
-Jean Bartik
-John McCarthy (computer scientist)
-Journal of Symbolic Computation
-KANT (software)
-Kathleen Antonelli
 Knowledge representation and reasoning
-Knuth–Bendix completion algorithm
-Learned society
 Library (computing)
-Like terms
 Linear algebra
 Lisp (programming language)
-List of algorithms
-List of computer algebra systems
 List of computer size categories
 List of films about mathematicians
-List of mathematicians
 Lists of mathematics topics
-LiveMath
 Logic in computer science
 MATLAB
-MIT Computer Science and Artificial Intelligence Laboratory
-Macaulay2
 Machine learning
-Machine word
-Macsyma
-Magma (computer algebra system)
-Maple (software)
-Maplesoft
-Marlyn Meltzer
 Massachusetts Institute of Technology
-Mathcad
-Mathematica
 Mathematical analysis
 Mathematical and theoretical biology
 Mathematical chemistry
@@ -222,26 +150,19 @@ Mathematical psychology
 Mathematical sociology
 Mathematical software
 Mathematical statistics
-Mathematicians
 Mathematics
 Mathematics and art
 Mathematics education
-Mathomatic
-Maxima (software)
 Measure (mathematics)
 Middleware
 Mixed reality
-Model checker
 Model of computation
 Modeling language
-MuMATH
-MuPAD
 Multi-task learning
 Multilinear algebra
 Multimedia database
 Multiprocessing
 Multithreading (computer architecture)
-Multivariate division algorithm
 Multivariate polynomial
 Natural language processing
 Network architecture
@@ -251,30 +172,21 @@ Network scheduler
 Network security
 Network service
 Networking hardware
-Non-linear
-Normaliz
 Number
 Number theory
 Numerical analysis
-Numerical computation
-Numerical digit
-Numerical software
 OCLC (identifier)
 Open-source software
 Operating system
 Operations research
 Order theory
 Outline of computer science
-PARI/GP
 Parallel computing
 Peripheral
 Philosophy of artificial intelligence
 Philosophy of mathematics
 Photograph manipulation
-Pointer (computer programming)
-Pollard's kangaroo algorithm
 Polynomial
-Polynomial factorization
 Polynomial greatest common divisor
 Polynomial long division
 Primitive recursive function
@@ -288,37 +200,22 @@ Programming language theory
 Programming paradigm
 Programming team
 Programming tool
-Proof checker
 Proprietary software
-Public key cryptography
 Quantum Computing
-Radix
 Randomized algorithm
-Rational fraction
-Rational number
 Real-time computing
 Real analysis
 Recreational mathematics
-Reduce (computer algebra system)
 Reinforcement learning
 Rendering (computer graphics)
 Requirements analysis
-Rewriting
-Richardson's theorem
 Ring of integers
-Risch algorithm
-Ruth Teitelbaum
 S2CID (identifier)
-SIGSAM
-SMath Studio
-SageMath
-Scientific computing
 Security hacker
 Security service (telecommunication)
 Semantics (computer science)
 Sequence
 Set theory
-Singular (software)
 Social computing
 Social software
 Software
@@ -334,20 +231,12 @@ Software maintenance
 Software quality
 Software repository
 Solid modeling
-Special interest group
 Stanford University
-Stanford University centers and institutes
 Statistics
 Stochastic computing
 Supervised learning
-SymPy
-Symbolic-numeric computation
-Symbolic artificial intelligence
-Symbolic integration
-Symbolic simulation
 System on a chip
 Systems science
-TI InterActive!
 Theoretical computer science
 Theory of computation
 Timeline of mathematics
@@ -355,7 +244,6 @@ Topology
 Trigonometric identity
 Type theory
 Ubiquitous computing
-Unique factorization domain
 Universal algebra
 University of Pennsylvania
 Unsupervised learning
@@ -366,8 +254,5 @@ Video game
 Virtual machine
 Virtual reality
 Visualization (graphics)
-Wolfram Mathematica
 Word processor
 World Wide Web
-Xcas
-Yacas

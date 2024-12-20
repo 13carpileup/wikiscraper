@@ -1,330 +1,82 @@
-VISC architecture
-Binary multiplier
-Endianness
 Parallel computing
 Preemption (computing)
-High-level synthesis
-Multi-core processor
 Memory-level parallelism
-Processor register
-Instruction cycle
-Power Management Unit
-48-bit computing
 Microarchitecture
-1-bit computing
-Register file
 Simultaneous multithreading
-Control flow
-FLOPS
-Custom hardware attack
 Finite-state machine
 Hardware security module
-12-bit computing
-Register machine
-Multiprocessor system on a chip
-Binary decoder
-SISAL
-Orthogonal instruction set
-Translation lookaside buffer
-Data buffer
-Structural hazard
-Data cache
-Stack machine
-Mixed-signal integrated circuit
-Explicitly parallel instruction computing
-Switch
-Instructions per second
-Wide-issue
-8-bit computing
-Graphics processing
-Multi-chip module
-Re-order buffer
 Instruction set architecture
 Multiple instruction, multiple data
 Massachusetts Institute of Technology
-AI accelerator
-Arithmetic logic unit
-Soft microprocessor
-Jack Dennis
-Clock gating
-Explicit data graph execution
-Secure cryptoprocessor
-Operand forwarding
-Digital signal processing
-Load–store architecture
-Classic RISC pipeline
 Uniform memory access
-IBM System/370
-Tick–tock model
-Instruction cache
-Quantum cellular automaton
-Execution unit
-Virtual memory
-Apollo Guidance Computer
 VAX
-Cooperative multitasking
-Adder (electronics)
-Universal Turing machine
-Binary Modular Dataflow Machine
 Instructions per cycle
-Analogue electronics
-Alternating Turing machine
-Single-core
-Computer performance
-Memory address register
 Systolic array
 Bit-level parallelism
-Fabric computing
-Deterministic finite automaton
 Database
-Address generation unit
-Reservation station
-Network processor
-Logic synthesis
-False sharing
-Hierarchical state machine
-Demultiplexer
-Scheduling (computing)
-Dynamic voltage scaling
-Register renaming
-Stored-program computer
-Pointer machine
 Bus (computing)
-Minimal instruction set computer
-Digital signal processor
-Tile processor
-No instruction set computing
-Stanford MIPS
 Vector processor
 Race condition
-Neuromorphic engineering
-Package on a package
-Mobile processor
-Telemetry
-Floating-point unit
-Motorola 68000 series
 Abstract machine
-One-instruction set computer
 DEC Alpha
-Cache hierarchy
-Application-specific instruction set processor
 Reduced instruction set computer
-Virtualization
-Instruction unit
-DirectX Video Acceleration
-In-memory computing
-Memory controller
 X86
-ARM architecture family
-Memory buffer register
-Programmable Array Logic
-M32R
 Instruction-level parallelism
-512-bit computing
-ETRAX CRIS
-Program counter
 Multithreading (computer architecture)
 Power management
-Performance per watt
-Network on a chip
-ROM image
-Control unit
-Von Neumann architecture
-Dynamic frequency scaling
-Status register
 4-bit computing
 Microprocessor
-Programmable logic
-MIPS-X
-Field-programmable object array
-Clock signal
-Branch target predictor
-Glue logic
-MicroBlaze
 Computer data storage
-Pin grid array
-RISC-V
-Very long instruction word
-Counter machine
-Hardware register
-Maurice Wilkes
 Central processing unit
-Secondary storage
 Simultaneous and heterogeneous multithreading
-Physics processing unit
-OpenRISC
 General-purpose computing on graphics processing units
-Quantum computing
-In-memory processing
-Computer performance by orders of magnitude
-32-bit computing
-Cycles per instruction
-Multiplexer
-Scratchpad memory
-TRIPS architecture
-Cache performance measurement and metric
 Random-access machine
-Single program, multiple data
 Task parallelism
-Modified Harvard architecture
 Scoreboarding
-Register–memory architecture
 Single instruction, single data
-C to HDL
-Microcode
 Word (computer architecture)
-SUPS
-Power ISA
-Load–store unit
-Heterogeneous System Architecture
 Stream processing
 Memory hierarchy
 Source code
-Cypress PSoC
-Hardware random number generator
-Complex instruction set computer
-Manycore
 Single instruction, multiple threads
-Scalar processor
-Advanced Power Management
 Microcontroller
 CPU
-Data processing unit
-Cellular architecture
 Integrated circuit
-Control hazard
-IBM System/390
-Hypercomputation
-128-bit computing
 Flynn's taxonomy
-Hardware emulation
-Memory dependence prediction
-Electronic circuit
-Transistor count
-SWAR
-16-bit computing
-Stack register
-Microprocessor chronology
-Clipper architecture
-Vision processing unit
-CPU multiplier
-Bit-serial architecture
-Finite-state machine with datapath
 SPARC
 S2CID (identifier)
-Out-of-order execution
 Multiple instruction, single data
 Turing machine
 Cellular automaton
-Cache replacement policies
-IA-64
 Field-programmable gate array
-CPU cache
 Manycore processor
-Transport triggered architecture
-Circuit (computer science)
-Unicore
-Clock rate
-256-bit computing
-IBM POWER architecture
 Embedded system
-Models of computation
 Non-uniform memory access
-24-bit computing
 Processor (computing)
 Instruction pipelining
-History of general-purpose CPUs
-Dataflow
-Little man computer
-Counter (digital)
 Graphics processing unit
-ACPI
-Tensor Processing Unit
-Network routing
-TLS acceleration
-Hyper-threading
-Barrel shifter
-Comparison of instruction set architectures
-Three-dimensional integrated circuit
 Single instruction, multiple data
-IBM System/360 architecture
 Computer architecture
-Processor design
-Digital electronics
 Logic gate
-Memory management unit
-Transactions per second
-Quantum circuit
-Nondeterministic Turing machine
 Doi (identifier)
-Queue automaton
-Post–Turing machine
-Semiconductor device fabrication
-Sum-addressed decoder
 Coprocessor
 Model of computation
-Content-addressable memory
-Barrel processor
-Speculative execution
 Process (computing)
-Cryptographic accelerator
-Random-access stored-program machine
 Cache coherence
-Load balancing (computing)
-Boolean circuit
 MIPS architecture
-Zero instruction set computer
-Probabilistic Turing machine
-Hazard (computer architecture)
-Zeno machine
-Adapteva
-Bit slicing
 Distributed computing
-Address decoder
-Power management integrated circuit
-Complex programmable logic device
-Hardwired control unit
-Chip carrier
-Scrypt
-Z/Architecture
 Data parallelism
-Distributed architecture
-System in a package
-Quantum Turing machine
-Write buffer
 System on a chip
 Data dependency
 PDP-11 architecture
-FIFO (computing and electronics)
-Harvard architecture
-Image processor
-Gate array
 Hardware acceleration
 Multiprocessing
-Tomasulo's algorithm
-PowerPC
-Ultra-low-voltage processor
-Baseband processor
 Artificial intelligence
-Cognitive computing
-Application-specific integrated circuit
-Pipeline stall
-Sequential logic
 Compiler
 Dataflow programming
 64-bit computing
-Multicore
-Sound card
 Cache (computing)
 Temporal multithreading
-Addressing mode
-Datapath
 Thread (computing)
 Superscalar processor
-Combinational logic
-Quantum logic gate
-Branch predictor
-SuperH
-Instruction decoder
 Speculative multithreading
-Heterogeneous computing

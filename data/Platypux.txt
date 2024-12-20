@@ -1,15 +1,11 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
-Advanced multi layered Unification FileSystem
 AlmaLinux
 Alpine Linux
-Amphibians
 Android-x86
 Android (operating system)
 Antergos
 AntiX
-Applets
 ArchBang
 ArchLabs
 Arch Linux
@@ -43,7 +39,6 @@ Clear Linux OS
 ColorOS
 Commodore OS
 Comparison of Linux distributions
-Conky (software)
 Container Linux
 Corel Linux
 CrDroid
@@ -79,8 +74,6 @@ Free software
 FreedomBox
 Freespire
 Frugalware Linux
-GFTP
-GIMP
 GNU Guix System
 GNewSense
 GOS (operating system)
@@ -88,14 +81,11 @@ GPL
 Garuda Linux
 GeckoLinux
 Gentoo Linux
-Gibibytes
 GoboLinux
 Gobuntu
 GrapheneOS
 HandyLinux
-Hyperbola GNU/Linux-libre
 Immunix
-Inkscape
 IodéOS
 Jurix
 KDE neon
@@ -113,14 +103,12 @@ Kubuntu
 Kwort Linux
 LXLE Linux
 Libranet
-LibreOffice
 LinHES
 LineageOS
 Linpus Linux
 Linux
 LinuxTLE
 Linux Caixa Mágica
-Linux From Scratch
 Linux Lite
 Linux Mint
 Linux Router Project
@@ -128,7 +116,6 @@ Linux distribution
 Linux for PlayStation 2
 Linux kernel
 List of Linux distributions
-Live-DVD
 Lubuntu
 MCC Interim Linux
 MIUI
@@ -143,8 +130,6 @@ Mer (software distribution)
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Musix GNU+Linux
-Network File System
 Network Security Toolkit
 NimbleX
 Nitix
@@ -159,17 +144,13 @@ OpenMandriva Lx
 OpenSUSE
 Open Enterprise Server
 Oracle Linux
-Oviparity
 PCLinuxOS
 Package manager
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
 Pentoo
 Peppermint OS
-Physical Address Extension
-Pidgin (software)
 Pinguy OS
 PixelExperience
 Platypus
@@ -192,7 +173,6 @@ Replicant (operating system)
 Resurrection Remix OS
 Rocks Cluster Distribution
 Rocky Linux
-SRWare Iron
 SUSE Linux
 SUSE Linux Enterprise
 SUSE Studio
@@ -200,7 +180,6 @@ Sabayon Linux
 Sabily
 Sailfish OS
 Salix OS
-Scalable Vector Graphics
 Scientific Linux
 Slackware
 Slax
@@ -224,8 +203,6 @@ TopologiLinux
 Trisquel
 Turbolinux
 Turkix
-Tux (mascot)
-USB stick
 Ubuntu
 Ubuntu Budgie
 Ubuntu Cinnamon
@@ -237,22 +214,15 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 User interface
 VectorLinux
 Vine Linux
 Void Linux
-Wacom (company)
 Web browser
 Whonix
-Wifi-radar
 Wubuntu
 X86
-X86 architecture
 XB Machine
-XSane
-Xfce
 Xubuntu
 Yellow Dog Linux
 Zenwalk

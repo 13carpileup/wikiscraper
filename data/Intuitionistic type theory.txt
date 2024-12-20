@@ -1,88 +1,39 @@
-ATS (programming language)
-Agda (programming language)
 ArXiv (identifier)
 Axiom of reducibility
 Axiomatic system
-BHK interpretation
 Bertrand Russell
-Boolean Algebra
-Calculus of constructions
 Cartesian product
 Category (mathematics)
-Category of families
 Category of sets
 Category theory
-CiteSeerX (identifier)
-Computational type theory
-Constructive analysis
 Constructive set theory
-Coq (software)
-Curry–Howard isomorphism
 Decision problem
-Degree of truth
 Dependent type
-Dependent types
-Description logic
 Descriptive set theory
 Determinacy
-Dialetheism
-Disjoint union
 Doi (identifier)
 Dynamic semantics
-Empty type
-Epigram (programming language)
-Existential quantifier
-Extensional definition
 Extensionality
 First-order logic
-Fixed-point combinator
 Formal system
 Foundations of mathematics
-Four-valued logic
-Fuzzy finite element
-Fuzzy logic
-Fuzzy rule
 Fuzzy set
-Fuzzy set operations
-Girard's paradox
 Glossary of category theory
 Graph (discrete mathematics)
-Heyting arithmetic
 Higher category theory
-Higher inductive type
 Hilbert system
 History of type theory
-Homotopy
 Homotopy type theory
-IEEE 1164
 ISBN (identifier)
 ISSN (identifier)
-Identity type
-Idris (programming language)
-Impredicative
-Impredicativity
-Inductive type
 Inquisitive semantics
 Integer
-Intensional definition
 Intensional logic
-Intermediate logic
-Intuitionism
 Intuitionistic logic
-Jean-Yves Girard
-John Baez
-Journal of Functional Programming
-Law of excluded middle
-Lennart Augustsson
-Linear logic
 Linked list
-List of category theory topics
 List of mathematical logic topics
 List of set theory topics
-Locally cartesian closed category
-Logic synthesis
 Many-valued logic
-Mathematical constructivism
 Mathematical induction
 Mathematical logic
 Mathematical proof
@@ -91,63 +42,31 @@ Modal logic
 Model theory
 Naive set theory
 Natural deduction
-Natural number
 Negation
-Non-classical logic
-Non-monotonic logic
-Nuprl
 OCLC (identifier)
-Ontology (computer science)
-Ontology language
 Paraconsistent logic
-Path (topology)
-Paul Mahlo
 Peano axioms
-Per Martin-Löf
-Philosopher
-Point (geometry)
-Predicate logic
 Principia Mathematica
 Programming language
-Proof assistant
 Proof theory
-Rational number
 Real number
 Record (computer science)
-Reflexive relation
-Relevance logic
-Ross Street
 Russell's paradox
 S2CID (identifier)
 Sequence
 Set (mathematics)
 Set theory
-Setoid
-Structural induction
-Structural rule
 Structuralism (philosophy of mathematics)
-Substructural logic
-Successor function
 Sweden
-Three-state logic
 Three-valued logic
 Topos
-Tree (graph theory)
-Tri-state buffer
-Tuple
-Type checking
 Type theory
-Typed lambda calculus
 Undecidable problem
-Unit type
 Univalent foundations
 Universal quantification
 VHDL
 Value (computer science)
-Verilog
-Well-founded
 Zermelo set theory
 Zermelo–Fraenkel set theory
-Łukasiewicz logic
 ∞-groupoid
 ∞-topos

@@ -1,535 +1,128 @@
-1-bit computing
-12-bit computing
-128-bit computing
 16-bit
-16-bit computing
-18-bit computing
-24-bit computing
-256-bit computing
-26-bit computing
-31-bit computing
-32-bit application
-32-bit computing
-36-bit computing
-3 GB barrier
 4-bit computing
-45-bit computing
-48-bit computing
-512-bit computing
-60-bit computing
-64-bit
-8-bit computing
-AArch64
-ACPI
-AIX
-AI accelerator
-AMD
-AMD64
-AMD Accelerated Processing Unit
-AMD FX
-ARC (processor)
-ARM Holdings
-ARM architecture
-ARM architecture family
 Abstract machine
-Adapteva
-Adder (electronics)
-Address bus
-Address decoder
-Address generation unit
-Address register
-Address space
-Addressing mode
 Advanced Micro Devices
-Advanced Power Management
 Alpha 21064
 Alpha 21164
 Alpha 21264
-Alternating Turing machine
-Analogue electronics
 Android (operating system)
 Android Lollipop
-Apollo Guidance Computer
-Apple A7
-Apple A8
 Apple Inc.
-Apple S4
 Apple TV
-Apple Watch
-Apple Watch Series 4
-Application-specific instruction set processor
-Application-specific integrated circuit
 Application programming interface
-Application software
-Arithmetic logic unit
 Atari
-AtariAge
 Atari Jaguar
-Athlon 64
-Athlon II
 BSD
 Backward compatibility
-Barrel processor
-Barrel shifter
-Baseband processor
-Binary decoder
-Binary multiplier
-Binary number
-Bit
 Bit-level parallelism
-Bit-serial architecture
-Bit slicing
-Boolean circuit
-Branch predictor
-Branch target predictor
 Bus (computing)
-Byte addressing
 C++
-CDC Star-100
-CPU cache
-CPU multiplier
 C (programming language)
 Cache (computing)
 Cache coherence
-Cache hierarchy
-Cache performance measurement and metric
-Cache replacement policies
-Celeron
-Cell (processor)
-Cellular architecture
 Cellular automaton
 Central processing unit
-Chip carrier
-Circuit (computer science)
-Classic RISC pipeline
-Clipper architecture
-Clock gating
-Clock rate
-Clock signal
-Cognitive computing
-Combinational logic
-Comparison of instruction set architectures
-Compatibility mode
-Complex instruction set computer
-Complex programmable logic device
 Computer
 Computer architecture
 Computer data storage
 Computer memory
-Computer performance
-Computer performance by orders of magnitude
-Control Data Corporation
-Control hazard
-Control unit
-Cooperative multitasking
 Coprocessor
-Counter (digital)
-Counter machine
 Cray
-Cray-1
-Cray Research
-Cycles per instruction
-Cygwin
-Cypress PSoC
 DEC Alpha
 DEC PRISM
-Data (computing)
-Data buffer
-Data cache
 Data dependency
-Data model
 Data parallelism
 Database
 Dataflow architecture
-Datapath
-Decimal128 floating-point format
-Decimal32 floating-point format
-Decimal64 floating-point format
-Decimal floating point
-Deep color
-Demultiplexer
-Deterministic finite automaton
 Device driver
 Digital Equipment Corporation
-Digital electronics
-Digital signal processor
-Digital video
-Direct memory access
-Distributed architecture
 Doi (identifier)
-Double-precision floating-point format
-Dynamic frequency scaling
-Dynamic voltage scaling
-ESA/390
-ETRAX CRIS
-Elbrus-8S
-Elbrus (computer)
-Electronic circuit
-Elxsi
 Embedded system
-Emulator
-Endianness
-Epyc
-Exabytes
-Execution unit
-Explicit data graph execution
-Explicitly parallel instruction computing
-Extended precision
-FIFO (computing and electronics)
-FLOPS
-Fabric computing
-False sharing
 Field-programmable gate array
-Field-programmable object array
 Finite-state machine
-Finite-state machine with datapath
-Floating-point arithmetic
-Floating-point unit
 Flynn's taxonomy
 FreeBSD
-Fujitsu
-Gate array
 General-purpose computing on graphics processing units
-Gigabyte
-Glue logic
 Graphics processing unit
-HAL Computer Systems
-HAL SPARC64
-HP-UX
 Half-precision floating-point format
 Hardware acceleration
-Hardware register
 Hardware security module
-Hardwired control unit
-Harvard architecture
-Hazard (computer architecture)
-Heterogeneous System Architecture
-Heterogeneous computing
-Hewlett-Packard
-Hex dump
-Hexadecimal
-Hierarchical state machine
 High-performance computing
-History of general-purpose CPUs
-Hitachi
-Hyper-threading
-Hypercomputation
-IA-32
-IA-64
 IBM
-IBM 7030 Stretch
-IBM A2
-IBM AS/400
-IBM POWER architecture
-IBM System/360 architecture
-IBM System/370
-IBM System/390
-IBM Telum (microprocessor)
-IBM Z
-IBM mainframes
-ICL 2900 Series
-IOS 11
-IOS 7
-IPad Air
-IPad Mini 2
-IPhone 5S
-IPod Touch (6th generation)
-IRIX
-Image processor
-Input–output memory management unit
 Instruction-level parallelism
-Instruction cache
-Instruction cycle
-Instruction decoder
 Instruction pipelining
-Instruction set
 Instruction set architecture
-Instruction unit
 Instructions per cycle
-Instructions per second
 Integer
-Integer (computer science)
 Integrated circuit
 Intel
-Intel 64
-Intel 80386
-Intel Atom
-Intel Core
-Intel Core (microarchitecture)
-Intel i860
-International Computers Limited
-Itanium
-Jon Hall (programmer)
-Kendall Square Research
 Linux
 Linux distribution
-Linux on z Systems
-Little man computer
-Load–store architecture
-Load–store unit
 Logic gate
-M32R
-MIPS-X
-MIPS Computer Systems
-MIPS Technologies
 MIPS architecture
 MVS
 MacOS
-MacOS Catalina
-Mac OS X Leopard
-Mac OS X Lion
-Mac OS X Panther
-Mac OS X Snow Leopard
-Mac OS X Tiger
-Machine code
 Mainframe computer
 Manycore processor
-Mark Kilgard
-Mebibyte
 Memory-level parallelism
-Memory-mapped file
-Memory address
-Memory address register
-Memory buffer register
-Memory controller
-Memory dependence prediction
 Memory hierarchy
-Memory management unit
-MicroBlaze
 Microarchitecture
-Microcode
 Microcontroller
 Microprocessor
-Microprocessor chronology
 Microsoft Windows
-MinGW
-Minifloat
-Minimal instruction set computer
-Minisupercomputer
-Mixed-signal integrated circuit
-Mobile processor
 Model of computation
-Modified Harvard architecture
-Motorola 68000 family
-Motorola 68000 series
-Multi-chip module
-Multi-core processor
 Multiple instruction, multiple data
 Multiple instruction, single data
-Multiplexer
 Multiprocessing
-Multiprocessor system on a chip
 Multithreading (computer architecture)
 NEC
-NEC SX architecture
-NTVDM
-Network on a chip
-Network processor
-Neuromorphic engineering
-Nexus 9
 Nintendo
 Nintendo 64
-No instruction set computing
 Non-uniform memory access
-Nondeterministic Turing machine
-OS X Mountain Lion
 Objective-C
-Octuple-precision floating-point format
-One-instruction set computer
 Open-source software
-OpenRISC
 OpenVMS
-Operand forwarding
 Operating system
-Opteron
-Oracle Corporation
-Orthogonal instruction set
-Out-of-order execution
-PA-8000
-PA-RISC
 PDP-11 architecture
-POWER3
-Package on a package
 Parallel computing
-Pentium
-Pentium 4
-Pentium Pro
-Performance per watt
 Personal computer
-Petabyte
-Phenom (processor)
-Phenom II
-Physical Address Extension
-Physics processing unit
-Pin grid array
-Pipeline stall
-Pixel 7
 PlayStation 2
 PlayStation 3
 Plug-in (computing)
-Pointer (computer programming)
-Pointer machine
-Portable Executable
 Porting
-Post–Turing machine
-Power10
-PowerPC
-PowerPC 970
-Power ISA
-Power Management Unit
 Power management
-Power management integrated circuit
-Precision (computer science)
 Preemption (computing)
-Probabilistic Turing machine
 Process (computing)
 Processor (computing)
-Processor design
-Processor register
-Program counter
-Programmable Array Logic
-Quadruple-precision floating-point format
-Quantum Effect Devices
-Quantum Turing machine
-Quantum cellular automaton
-Quantum circuit
-Quantum computing
-Quantum logic gate
-Queue automaton
-Quintillion
-R4000
-R5000
-R8000
-RISC-V
-ROM image
 Random-access machine
-Random-access memory
-Random-access stored-program machine
-Re-order buffer
 Reduced instruction set computer
-Register file
-Register machine
-Register renaming
-Register–memory architecture
-Reservation station
-Ryzen
 S2CID (identifier)
-SGI Crimson
 SPARC
-SPARC64 V
-SUPS
-SWAR
-SX-Aurora TSUBASA
-Scalar processor
 Scoreboarding
-Scratchpad memory
-Secondary storage
-Secure Boot
-Secure cryptoprocessor
-Semiconductor device fabrication
-Sempron
-Sequential logic
 Server (computing)
-Signedness
-Silicon Graphics
 Simultaneous and heterogeneous multithreading
 Simultaneous multithreading
-Single-core
-Single-precision floating-point format
 Single instruction, multiple data
 Single instruction, multiple threads
 Single instruction, single data
-Single program, multiple data
-Soft microprocessor
 Software
-Solaris (operating system)
-Speculative execution
 Speculative multithreading
-Stack machine
-Stack register
-Stanford MIPS
-Status register
-Stored-program computer
 Stream processing
-Structural hazard
-Sum-addressed decoder
 Sun Microsystems
-SuperH
-Supercomputer
-Superminicomputer
 Superscalar processor
-Switch
-System/360
-System in a package
 System on a chip
-TRIPS architecture
 Task parallelism
 Temporal multithreading
-Tensor Processing Unit
-Terabyte
 Thread (computing)
-Three-dimensional integrated circuit
-Tick–tock model
-Tile processor
-Tomasulo's algorithm
-Toolchain
-Transactions per second
-Transistor count
-Translation lookaside buffer
-Transport triggered architecture
-Tru64 UNIX
 Turing machine
-Turion 64
-Two's complement
-UEFI
-UNICOS
-UNIVAC 490
-Ultra-low-voltage processor
-UltraSPARC
-Unicore
 Uniform memory access
-Universal Turing machine
-Unix
-Unix-like
 VAX
-VIA Isaiah
-VIA Nano
-VIA Technologies
-VISC architecture
 Vector processor
-Very long instruction word
 Video game console
 Virtual machine
-Virtual memory
-Vision processing unit
-Visual C++
-Von Neumann architecture
-WatchOS 5
-WatchOS 9
 Wayback Machine
-Wide-issue
 Windows
 Windows 11
-Windows 11, version 24H2
-Windows 7
 Windows 8
-Windows Server 2003
-Windows Server 2008 R2
-Windows Vista
-Windows XP 64-Bit Edition
-Windows XP Professional x64 Edition
-WoW64
 Word (computer architecture)
-Workstation
-Write buffer
-X32 ABI
 X86
-X86-64
-X87
-Xeon
-Xeon Phi
-Z/Architecture
-Z/OS
-ZSeries
-Zeno machine
-Zero instruction set computer

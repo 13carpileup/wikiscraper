@@ -1,500 +1,93 @@
-"Hello, World!" program
-ALGOL
-APL (programming language)
-ARM architecture family
-Abstract Window Toolkit
-Acquisition of Sun Microsystems by Oracle Corporation
-Ada (programming language)
-Adoptium
-Afara Websystems
 Android (operating system)
-Android Runtime
-Android SDK
-Android application
-Android software development
-Andy Bechtolsheim
-Apache Harmony
-Apache Software Foundation
-Apache Struts
 Apple Inc.
 Application programming interface
-Application software
-Aqua (user interface)
-ArkTS
 Ars Technica
-Arthur van Hoff
 Assembly language
 Associative array
 BASIC
-BEA Systems
-Barbara Liskov
-BeanShell
-Berkeley DB
-Beta version
-Bill Joy
-Blackdown Java
-BlueJ
-Boolean data type
-Bootstrapping (compilers)
 C++
-CLU (programming language)
 COBOL
 C (programming language)
 C Sharp (programming language)
-Cerner
 Certiorari
 Chapel (programming language)
-Class-based programming
-Class (computer programming)
 Client (computing)
-Clojure
-Cobalt Networks
-Cobalt Qube
-Cobalt RaQ
-Comment (computer programming)
-Common Development and Distribution License
 Common Object Request Broker Architecture
-Comparison of C Sharp and Java
-Comparison of Java and C++
-Comparison of programming languages
 Compiler
-Computer Weekly
 Computer architecture
 Computer network
 Computer security
 Computing platform
 Concurrent computing
-Criticism of Java
-DTrace
-Dalvik (software)
 Data center
 Data structure
-De facto standard
-Debugger
-Delimiter
-Dependency (computer science)
-Desktop computer
-Devoxx
 Doi (identifier)
-Donald L. Lucas
-Double-ended queue
-Dynamic programming language
 ECMAScript
 Eclipse (software)
-Eclipse Foundation
 Ecma International
 Eiffel (programming language)
 Embedded system
-End user
-Erlang (programming language)
-Escape analysis
-Essbase
 Exception handling
-Executable
 Fair use
-Fantom (programming language)
 Filename extension
-Fireplane
-Foreach loop
-Forth (programming language)
-Fortran
-Fortress (programming language)
-Free Java implementations
-Free and open-source software
 Free software
-Functional programming
-GNU Classpath
 GNU General Public License
-GTK+
-Gambas
-Garbage-first collector
 Garbage collection (computer science)
-General-purpose language
-Generational list of programming languages
-Generic programming
-Generics in Java
-Gephi
-Gilad Bracha
 GitHub
-GlassFish
 Go (programming language)
-Google LLC v. Oracle America, Inc.
-Google Web Toolkit
-GraalVM
-Graphical control element
 Graphical user interface
-Gridware
-Groovy (programming language)
-Guy L. Steele, Jr.
-H. Raymond Bingham
 HTML
-HTTP
-Hack (programming language)
 Haskell
-Haxe
-Hibernate (framework)
-High-level programming language
-History of programming languages
-HotSpot (virtual machine)
-Hyperion Solutions
-Hypertext Transfer Protocol
-Héctor García-Molina
-IDG News Service
-IPlanet
 ISBN (identifier)
-ISO/IEC JTC 1
 ISSN (identifier)
-IcedTea
-Image Packaging System
 Imperative programming
 Indonesia
-InnoDB
-Input/output
 Integrated development environment
-Interface (Java)
-Internationalization and localization
 Interpreter (computing)
-JAR (file format)
-JD Edwards
-JDeveloper
-JRuby
-JS++
-Jack Kemp
-Jakarta EE
-Jakarta Faces
-Jakarta Server Pages
-Jakarta Servlet
-James Gosling
-Java
-JavaFX
-JavaOne
 JavaScript
-JavaServer Pages
-JavaStation
-JavaWorld
-Java (software platform)
-Java 2 Enterprise Edition
-Java 8
-Java API for RESTful Web Services
-Java API for XML Web Services
-Java Card
-Java Class Library
-Java Community Process
-Java ConcurrentMap
-Java Database Connectivity
-Java Desktop System
-Java Development Kit
-Java Heterogeneous Distributed Computing
-Java Management Extensions
-Java Naming and Directory Interface
-Java Native Interface
-Java Platform, Enterprise Edition
-Java Platform, Micro Edition
-Java Platform, Standard Edition
-Java Platform Module System
-Java Web Start
-Java annotation
-Java applet
-Java bytecode
-Java class file
-Java coffee
-Java collections framework
-Java compiler
-Java package
-Java performance
 Java platform
-Java remote method invocation
-Java servlet
-Java syntax
-Java version history
-Java virtual machine
-Javadoc
-Javanese language
-Jazelle
-Jeffrey Berg
-Jeffrey O. Henley
-John Guttag
-Joseph Grundfest
-Julia (programming language)
-Just-in-time compilation
-Jython
-Kotlin (programming language)
-LOM port
-Lambda (programming)
-Larry Ellison
-Legacy system
 Library (computing)
-Lighthouse Design
 Linux
 Linux kernel
 Lisp (programming language)
-List (abstract data type)
-List of JVM languages
-List of Java APIs
-List of Java compilers
-List of Java frameworks
-List of Java virtual machines
-List of Sun Microsystems employees
-List of acquisitions by Oracle
-List of programming languages
-List of programming languages by type
-Lock-free
-Logical address
-Long-term support
-Low-level programming language
-Lua (programming language)
-Lustre (file system)
-MAJC
 MATLAB
-MB86900
-MBus (SPARC)
-MIDlet
-ML (programming language)
 MacOS
-Machine code
-Manifest typing
-Mark Hurd
-Maxine Virtual Machine
-Memory (storage engine)
-Memory leak
-Memory management
-Mesa (programming language)
-Michael Boskin
-MicroSPARC
 Microsoft
 Microsoft Windows
 Mobile operating system
-Modula-3
-Montalvo Systems
-Motif (software)
-Multiple inheritance
-MySQL
-MySQL AB
-NIS+
-Nashorn (JavaScript engine)
 Native (computing)
-NeWS
 NetBeans
-NetSuite
-Network File System
-Network Information Service
-Niklaus Wirth
-Nominal type system
-Non-English-based programming languages
-Non-blocking I/O (Java)
-Null pointer
-O'Reilly Media
-OCFS2
-Oak
-Oak (programming language)
-Oberon (programming language)
-Object-oriented
 Object-oriented programming
-Object Pascal
 Object lifetime
-Object type (object-oriented programming)
 Objective-C
-OpenJDK
 OpenOffice.org
-OpenSPARC
-OpenSolaris
-OpenWindows
-Open Source University Meetup
-Open frame
 Open source software
-Openframe
-Operator overloading
-Oracle America, Inc. v. Google, Inc.
-Oracle Application Express
-Oracle Big Data Appliance
-Oracle Certification Program
-Oracle Coherence
-Oracle Corporation
-Oracle Database
-Oracle Developer Studio
-Oracle Exadata
-Oracle Exalogic
-Oracle Forms
-Oracle Fusion Middleware
-Oracle Grid Engine
-Oracle Labs
 Oracle Linux
-Oracle NoSQL Database
-Oracle Rdb
-Oracle SOA Suite
-Oracle SQL Developer
-Oracle Secure Global Desktop
-Oracle Solaris
-Oracle TopLink
-Oracle VM Server for x86
-Oracle WebCenter
-Oracle WebLogic Server
-Oracle ZFS
-Oxygene (programming language)
 PHP
-PL/SQL
-Pack200
 Pascal (programming language)
-Patrick Naughton
-PeopleSoft
 Perl
-PersonalJava
-PicoJava
-Pixo
-Pluggable look and feel
-Pointer (computer programming)
 Primitive data type
-Processing
-Procom Technology
-Professional conference
 Programmer
 Programming language
 Programming paradigm
-Project Looking Glass
 Prolog
-Proprietary license
 Proprietary software
 Python (programming language)
-QFS
-Queue (abstract data type)
-R (programming language)
-Reference implementation
-Reflective programming
-Rhino (JavaScript engine)
-Rich web application
-RightNow Technologies
 Robustness (computer science)
-Rock (processor)
 Ruby (programming language)
-Rust (programming language)
 S2CID (identifier)
-SBus
-SOAP
 SPARC
-SPARC Enterprise
-SPARC T-Series
-SPARC T3
-SPARC T4
-SPARC T5
-SPARC T series
-SPARCclassic
-SPARCstation
-SPARCstation 1
-SPARCstation 10
-SPARCstation 2
-SPARCstation 20
-SPARCstation 4
-SPARCstation 5
-SPARCstation IPC
-SPARCstation IPX
-SPARCstation LX
-SPARCstation ZX
 SQL
-Safra Catz
-SavaJe
-Scala (programming language)
-Scott McNealy
-Scratch (programming language)
 Seed7
-Server-side
-Set (abstract data type)
-Shell script
-Siebel Systems
-Simula
-Simula67
-Smalltalk
-Smart pointer
 Smartphone
 Software design
 Software developer
 Software portability
-Software relicensing
-Solaris (operating system)
 Soundness
-Spring Framework
-Squawk virtual machine
-Stack-based memory allocation
-Stack (abstract data type)
-Standard library
-Standard output
-StarOffice
-StorageTek
-Storage Technology Corporation
-Sun-1
-Sun-2
-Sun-3
-Sun-4
-Sun386i
-Sun4d
-SunOS
-SunView
-Sun Blade
-Sun Blade (workstation)
-Sun Cloud
-Sun Constellation System
-Sun Enterprise
-Sun Enterprise 10000
-Sun Fire
-Sun Fire 12K
-Sun Fire 15K
-Sun Fire E25K
-Sun Fire T2000
-Sun Fire X4500
-Sun Java System
-Sun Java Workstation
 Sun Microsystems
-Sun Microsystems Laboratories
-Sun Modular Datacenter
-Sun Neptune
-Sun Netra
-Sun Open Storage
-Sun Ray
-Sun SPOT
-Sun StorageTek 5800 System
-Sun StorageTek SL8500
-Sun Ultra
-Sun Visualization System
-Sun xVM
-Sunopsis
-SuperSPARC
-Supercomputer
 Supreme Court of the United States
-Swift (programming language)
-Swing (Java)
-Syntax (programming languages)
-System Service Processor
-Tablet computer
-Tarantella, Inc.
-The Network is the Computer
 Thread (computing)
-Tiered compilation
-Timeline of programming languages
-TimesTen
-Tree structure
-Tuxedo (software)
 Type safety
-Type system
-UCSD Pascal
-UltraSPARC
-UltraSPARC II
-UltraSPARC III
-UltraSPARC IV
-UltraSPARC T1
-UltraSPARC T2
-Ultra 1
-Ultra 2
-Ultra 24
-Ultra 30
-Ultra 5/10
-Ultra 60
-Ultra 80
-Ultra Port Architecture
-Unreachable memory
-Urs Hölzle
-User agent
 User interface
 Vala (programming language)
-Variadic function
 Video game console
-Vinod Khosla
-VirtualBox

@@ -1,206 +1,27 @@
-APFS
-AbiWord
-Accessibility Toolkit
 Anjuta
-AppStream
-Archive Manager
-Asunder (software)
-Audacious (software)
-Avant Window Navigator
-Avidemux
-Balsa (software)
-Banshee (media player)
-BitLocker
-Brasero (software)
-Btrfs
-Buzztrax
 C++
-Cairo (graphics)
-Celestia
-Cheese (software)
-Cinelerra
-Cinnamon (desktop environment)
-Claws Mail
-Comparison of disk cloning software
-Copy and paste
-D-Bus
-Dconf
-Dconf-editor
 Debian
-Devhelp
-Dia (software)
-Diodon (software)
-Dm-crypt
-Docky
-DrGeo
-Ekiga
-Empathy (software)
-Evince
-Evolution (software)
-ExFAT
-Ex Falso
-Exaile
-Ext2
-Ext3
-Ext4
-Eye of GNOME
-F-Spot
-F2FS
 FAT16
-Fat32
 File Allocation Table
-File systems
-Freedesktop.org
-GCompris
-GDK
-GIMP
-GIO (software)
-GLib
-GNOME
-GNOME-DB
-GNOME Boxes
 GNOME Builder
-GNOME Calculator
-GNOME Character Map
-GNOME Core Applications
-GNOME Dictionary
-GNOME Disks
-GNOME Do
-GNOME Files
-GNOME Games
-GNOME Human Interface Guidelines
-GNOME Keyring
-GNOME Panel
-GNOME Screenshot
-GNOME Shell
 GNOME Software
-GNOME Terminal
-GNOME Videos
-GNOME Web
-GNU GRUB
 GNU General Public License
-GNU Paint
 GNU Parted
-GNU Ring
-GObject
-GPHPedit
-GPhoto
-GStreamer
-GTK
-GTK Scene Graph Kit
-GThumb
-GUID Partition Table
-GVfs
 Geany
-Gedit
-GeoGebra
-Ghemical
-Glade Interface Designer
-Gnome MPlayer
-Gnote
-Gnumeric
-Gramps (software)
-Graphical shell
 Graphical user interface
 Graphical user interface builder
-Gtk-gnutella
-Gtkmm
-Gtranslator
-Guake
-Guvcview
-HFS Plus
-HarfBuzz
-Hierarchical File System (Apple)
-Hildon
-Inkscape
 Integrated development environment
-Intelligent Input Bus
-JFS (file system)
 KDE Partition Manager
-Kino (software)
 Knoppix
-LUKS
-LXDE
-LXMusic
-Leafpad
-LiVES
-Libcanberra
-Librsvg
-Libxml2
-Libxslt
 Linux
-Linux.com
-Linux swap
-List of GNOME applications
-List of GTK applications
-List of disk partitioning software
-List of language bindings for GTK
-Live CD
-Live USB
-Logical volume management
-Meld (software)
-MetaTracker
 NTFS
-Nemiver
-Nemo (file manager)
-NetworkManager
-Nilfs
-OCRFeeder
-OpenShot Video Editor
 Operating system
-Operating systems
-Orca (assistive technology)
-PCMan File Manager
-PackageKit
-Pango
-Parted Magic
-Partition (computing)
 Partition editor
-Phosh
-Pitivi
-Poedit
-Poppler (software)
 Programmer
-PulseAudio
-PulseEffects
 Puppy Linux
-PyGObject
-PyGTK
-Quod Libet (software)
-Rapid application development
-ReFS
-Reiser4
-ReiserFS
-Repository (version control)
-Rhythmbox
-SciTE
-Shotwell (software)
 Software categories
 Software license
 Software release life cycle
-SoundConverter (software)
-Sound Juicer
-Sushi (software)
-Sylpheed
-SystemRescueCd
-Thunar
-Tilda (software)
-Tomboy (software)
-Transmission (BitTorrent client)
-UberWriter
 Ubuntu
 Universal Disk Format
-Universal Flash Storage
-Unix File System
-Uzbl
 Vala (programming language)
-Vinagre
-Vino (VNC server)
-Virtual memory
-Wayland (display server protocol)
-Wine-Doors
-Workrave
-X.Org Server
-XFS
-Xfce
-ZFS

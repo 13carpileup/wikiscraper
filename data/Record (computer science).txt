@@ -1,183 +1,57 @@
-1880 United States Census
-1890 United States Census
 ALGOL 60
-ALGOL 68
-Abstract data type
 Abstraction (computer science)
 Accounting
-Ada (programming language)
-Algebraic data type
-Analytical Engine
-Arbitrary-precision arithmetic
-Array data type
 Assembly language
-Assignment (computer science)
 Associative array
-Bfloat16 floating-point format
-Bit
 Bit array
-Bit string
 Block (data storage)
-Boolean data type
 Bottom type
-Boxing (computer science)
 Byte
 C++
 COBOL
 C (programming language)
 C Sharp (programming language)
-Cartesian coordinates
 Cartesian product
-Character (computing)
-Charles Babbage
-Class (computer programming)
-Class inheritance
-Column (database)
-Comma-separated values
-Complex data type
-Composite data type
-Compound data type
 Computer science
-Cons cell
-Container (abstract data type)
-Data hierarchy
 Data structure
 Data type
 Database
-Database table
-Debugging
-Decimal data type
 Dependent type
 Doi (identifier)
-Double-precision floating-point format
-Empty type
-Enumerated type
 Exception handling
-Extended precision
-FORTRAN
-FORTRAN 77
-FORTRAN IV
 Field (computer science)
-First-class function
-Fixed-point arithmetic
-Floating-point arithmetic
-Floating point
-Foreign key
-Function (computer programming)
-Function type
-Garbage collection (computing)
 Generalized algebraic data type
-Generic programming
 Half-precision floating-point format
 Hard disk drive
-Hash function
-IBM 1620
-IBM RPG
 ISBN (identifier)
 ISSN (identifier)
 Identifier
-Index register
-Indexed file
-Indirect addressing
-Inductive type
-Inheritance (object-oriented programming)
-Integer (computer science)
 Interface (object-oriented programming)
-Intersection type
-Interval arithmetic
 Intuitionistic type theory
 JavaScript
 Java (programming language)
-Kind (type theory)
-Ledger
-Lexicographic order
-Lisp programming language
-List (abstract data type)
-Long double
-Long integer
 Machine language
 Magnetic tape
-Main memory
-Mass storage
 Mathematics
-Memory address
 Metaclass
 Metadata
-Metaobject
-Method (computer programming)
-Minifloat
-Modula
-Namespace
-Null-terminated string
 Number
 OCLC (identifier)
 Object-oriented programming
-Object (computer science)
-Object Query Language
-Object composition
 Objective-C
-Octuple-precision floating-point format
-Opaque data type
-Option type
-PL/I
-Parametric polymorphism
-Pascal programming language
-Passive data structure
-Physical address
-Plain text
-Pointer (computer programming)
 Primitive data type
-Product type
 Programming language
-Punch card
-Punched card
 Python (programming language)
-Quadruple-precision floating-point format
 Rational data type
-Recursive data type
 Reference (computer science)
-Refinement type
-Relational database
-Row (database)
-S-expression
 S2CID (identifier)
 SQL
 Self-modifying code
 Semaphore (programming)
-Serialization
-Set (abstract data type)
 Set (mathematics)
-Short integer
-Signedness
-Single-precision floating-point format
 Sorting
-Spreadsheet
-Stream (computing)
 String (computer science)
-Strongly typed identifier
-Struct (C programming language)
-Subtyping
-System F-sub
-Systems programming
-TIOBE index
-Table (information)
-Tabulation
-Tagged union
-Ternary numeral system
-Top type
-Tuple
-Type class
 Type constructor
-Type conversion
-Type polymorphism
-Type system
 Type theory
-Union type
-Unique key
-Unit type
-Units of information
-Unix
 Variable (computer science)
-Virtual address space
-Void type
 Word (computer architecture)

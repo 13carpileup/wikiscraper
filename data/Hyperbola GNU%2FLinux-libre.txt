@@ -1,8 +1,5 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
-AMD64
-Abstraction layer
 AlmaLinux
 Alpine Linux
 Android-x86
@@ -20,11 +17,7 @@ Austrumi Linux
 BLAG Linux and GNU
 BackBox
 BackTrack
-Bash (Unix shell)
-Basilisk (web browser)
-Berkeley Software Distribution
 Bharat Operating System Solutions
-Binary blobs
 BioSLAX
 BlackArch
 Black Lab Linux
@@ -53,15 +46,12 @@ CrDroid
 CrunchBang Linux
 Cub Linux
 CyanogenMod
-D-Bus
 Damn Small Linux
 Damn Vulnerable Linux
 Debian
 Deepin
 DemoLinux
 Devuan
-Display server
-DistroWatch
 DivestOS
 DoudouLinux
 Dreamlinux
@@ -69,7 +59,6 @@ EMUI
 Edubuntu
 Elementary OS
 Elive
-Emancipation
 Emmabuntüs
 EndeavourOS
 Endless OS
@@ -81,23 +70,13 @@ Fire OS
 Firefox OS
 Floppyfw
 Foresight Linux
-Free Software Foundation
-Free and open-source software
-Free culture
 Free software
-Free software movement
 FreedomBox
 Freespire
 Frugalware Linux
-Fórum Internacional Software Livre
 GNU
-GNU/Linux naming controversy
 GNU Core Utilities
-GNU Free System Distribution Guidelines
-GNU GPL
 GNU Guix System
-GNU Project
-GNU variants
 GNewSense
 GOS (operating system)
 Garuda Linux
@@ -107,10 +86,7 @@ GoboLinux
 Gobuntu
 GrapheneOS
 HandyLinux
-High-bandwidth Digital Content Protection
-I686
 Immunix
-Init system
 IodéOS
 Jurix
 KDE neon
@@ -128,12 +104,10 @@ Kubuntu
 Kwort Linux
 LXLE Linux
 Libranet
-LibreSSL
 LinHES
 LineageOS
 Linpus Linux
 Linux
-Linux-libre
 LinuxTLE
 Linux Caixa Mágica
 Linux Lite
@@ -143,7 +117,6 @@ Linux distribution
 Linux for PlayStation 2
 Linux kernel
 List of Linux distributions
-Long-term support
 Lubuntu
 MCC Interim Linux
 MIUI
@@ -157,9 +130,6 @@ Mer (software distribution)
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Mozilla Firefox
-Mozilla Foundation
-Musix GNU+Linux
 Network Security Toolkit
 NimbleX
 Nitix
@@ -169,49 +139,39 @@ Nova (operating system)
 Obfuscation (software)
 OmniROM
 One UI
-OpenBSD
 OpenELEC
 OpenMandriva Lx
-OpenRC
 OpenSUSE
 Open Enterprise Server
 Oracle Linux
 PCLinuxOS
 Package manager
-Pacman (software)
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
 Pentoo
 Peppermint OS
-Phoronix
 Pinguy OS
 PixelExperience
 Platypux
 Pop! OS
 Porteus (operating system)
-Porto Alegre
 Programmer
 Proprietary software
-PulseAudio
 Puppy Linux
 PureOS
 Q4OS
 Qubes OS
 ROSA Linux
 Raspberry Pi OS
-Rebasing
 Red Hat Enterprise Linux
 Red Hat Linux
 Red Star OS
 Remix OS
 Replicant (operating system)
-Repository (version control)
 Resurrection Remix OS
 Rocks Cluster Distribution
 Rocky Linux
-Rust (programming language)
 SUSE Linux
 SUSE Linux Enterprise
 SUSE Studio
@@ -222,9 +182,7 @@ Salix OS
 Scientific Linux
 Slackware
 Slax
-Social contract
 Softlanding Linux System
-Software bloat
 Software license
 Software release life cycle
 Solus (operating system)
@@ -235,7 +193,6 @@ Splashtop OS
 SteamOS
 Sunwah Linux
 SystemRescue
-Systemd
 T2 SDE
 Tails (operating system)
 Think Blue Linux
@@ -256,22 +213,15 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 User interface
 User space and kernel space
 VectorLinux
 Vine Linux
 Void Linux
-Vulkan
 Whonix
 Wubuntu
-X86-64
 XB Machine
-X Window System
-Xenocara
 Xubuntu
 Yellow Dog Linux
 Zenwalk
 Zorin OS
-Zstd

@@ -1,5 +1,3 @@
-4K Disk Monitor System
-99 Bottles of Beer
 AdvFS
 Alpha 21064
 Alpha 21164
@@ -19,10 +17,8 @@ Commercial Operating System
 Compaq
 Computer hardware
 Computer terminal
-DECSYSTEM-20
 DECUS
 DEC Alpha
-DEC BATCH-11/DOS-11
 DEC GT40
 DEC Hebrew
 DEC J-11
@@ -35,7 +31,6 @@ DEC T-11
 DEC Technical Character Set
 DEC V-11
 DECnet
-DECsystem-10
 DECtalk
 DECtape
 DECwriter
@@ -45,7 +40,6 @@ Digital Equipment Corporation
 Digital Federal Credit Union
 Digital Linear Tape
 Digital Storage Systems Interconnect
-Digital UNIX
 Dynamic debugging technique
 Dynamically Redefined Character Set
 FOCAL (programming language)
@@ -56,7 +50,6 @@ Gold key (DEC)
 Gordon Bell
 HP-Interex
 Harlan Anderson
-Hello world program
 ISBN (identifier)
 Instruction set architecture
 Interactive Application System
@@ -75,12 +68,10 @@ MicroVAX 78032
 Multinational Character Set
 NVAX
 National Replacement Character Set
-OS/8
 On-line Debugging Tool
 OpenVMS
 Operating system
 PALcode
-PDP-10
 PDP-11 architecture
 PDP-7
 Processor (computing)
@@ -89,9 +80,7 @@ Q-Bus
 RA90
 RK05
 RL02
-RSTS/E
 RSX-11
-RSX-15
 RT-11
 ReGIS
 Record Management Services
@@ -103,15 +92,11 @@ Star coupler
 StrongARM
 Synchronous Backplane Interconnect
 System Module
-System Reference Manual
-TD/SMP
 TOPS-10
 TOPS-20
-TSS/8
 TU81
 TURBOchannel
 The Ultimate Entrepreneur
-Two-pass assembler
 Ultrix
 Unibus
 VAX
@@ -121,25 +106,11 @@ VAX MACRO
 VT05
 VT100
 VT1000
-VT101
-VT102
-VT103
-VT105
-VT131
 VT180
 VT220
-VT240
-VT241
 VT320
-VT330
-VT340
 VT420
-VT510
 VT52
 VT520
-VT525
-VT55
-VT62
 VT640
 WPS-8
-Year 2000 problem

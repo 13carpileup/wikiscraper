@@ -1,5 +1,4 @@
 API
-Aiyara cluster
 Amdahl's law
 Analysis of parallel algorithms
 Application checkpointing
@@ -7,15 +6,9 @@ Array (data structure)
 Asymmetric multiprocessing
 Ateji PX
 Automatic parallelization
-Barcelona Supercomputing Center
 Barrier (computer science)
-Beowulf
-Berkeley Software Distribution
 Bit-level parallelism
-Blade server
-Boost (C++ libraries)
 Bulldozer (microarchitecture)
-C++ AMP
 CUDA
 Cache-only memory architecture
 Cache coherence
@@ -25,7 +18,6 @@ Chapel (programming language)
 Charm++
 Cilk
 Cloud computing
-ClusterKnoppix
 Coarray Fortran
 Computer architecture
 Computer cluster
@@ -44,29 +36,21 @@ Deterministic algorithm
 Distributed computing
 Distributed memory
 Distributed shared memory
-Donald Becker
-DragonFly BSD
 Dryad (programming)
 Embarrassingly parallel
 Ethernet
 Explicit parallelism
 Fiber (computer science)
-Floating point operations per second
 Flynn's taxonomy
-Francis Barton Gummere
-Free and open source software
 GPUOpen
-Gateway (computer networking)
 General-purpose computing on graphics processing units
 Global Arrays
 Grid computing
 Gustafson's law
 HPX
-HTCondor
 Hardware acceleration
 Hardware scout
 High-performance computing
-I486
 IP address
 ISBN (identifier)
 Implicit parallelism
@@ -74,21 +58,13 @@ Instruction-level parallelism
 Instruction pipelining
 Instruction window
 Karp–Flatt metric
-Kentucky Linux Athlon Testbed
-Kerrighed
 Knoppix
 Linux
-Linux Documentation Project
 Linux distribution
-Live CD
 Local area network
 Loop-level parallelism
-MOSIX
-MPICH
 Manycore processor
 Massively parallel
-Maui Cluster Scheduler
-McGill University
 Memory-level parallelism
 Memory coherence
 Message Passing Interface
@@ -97,7 +73,6 @@ Multiple instruction, single data
 Multiprocessing
 Multithreading (computer architecture)
 NASA
-Network File System
 Non-blocking algorithm
 Non-uniform memory access
 Old English
@@ -105,10 +80,6 @@ OpenACC
 OpenCL
 OpenHMPP
 OpenMP
-OpenMosix
-Open MPI
-Open Source Cluster Application Resources
-Oracle Grid Engine
 Parallel Extensions
 Parallel RAM
 Parallel Virtual Machine
@@ -116,22 +87,17 @@ Parallel computing
 Parallel external memory
 Parallel programming model
 Parallel slowdown
-PelicanHPC
 Personal computer
 Pipeline (computing)
 Preemption (computing)
 Process (computing)
 Pthreads
 Pulsar
-Quantian
 ROCm
 Race condition
 RaftLib
-Random-access memory
-Remote Shell
 Rocks Cluster Distribution
 Scalability
-Scientific computing
 Semiconductor memory
 Shared memory
 Simultaneous and heterogeneous multithreading
@@ -140,11 +106,9 @@ Single instruction, multiple data
 Single instruction, multiple threads
 Single instruction, single data
 Software lockout
-Solaris (operating system)
 Speculative multithreading
 Speedup
 Starvation (computer science)
-Stone Soupercomputer
 Stream processing
 Superscalar processor
 Symmetric multiprocessing
@@ -152,13 +116,8 @@ Synchronization (computer science)
 Systolic array
 Task parallelism
 Temporal multithreading
-Thomas Sterling (computing)
 Thread (computing)
 Threading Building Blocks
-Top500
 Unified Parallel C
 Uniform memory access
-Unix-like
 Vector processor
-White box (computer hardware)
-ZPL (programming language)

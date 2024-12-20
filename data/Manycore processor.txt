@@ -1,416 +1,151 @@
-Asynchronous array of simple processors
-IA-64
 OpenHMPP
 Vector processor
 Task parallelism
-One-instruction set computer
 Scoreboarding
-Counter machine
-Cache performance measurement and metric
-Performance per watt
-Gate array
 Memory coherence
-Application-specific instruction set processor
-Register file
-Program counter
-Stack machine
 Threading Building Blocks
 Instructions per cycle
 Microarchitecture
-Field-programmable object array
 Explicit parallelism
-Branch target predictor
 Multiprocessing
-PEZY Computing
-Instructions per second
 Symmetric multiprocessing
-Vivienne Sze
-TOP500
 Cache coherence
-Combinational logic
-Xeon Phi
-Secure cryptoprocessor
 Bit-level parallelism
 Single instruction, multiple threads
 VAX
-12-bit computing
-Dataflow
 Model of computation
-Orthogonal instruction set
-ARM architecture family
-Multiprocessor system on a chip
 Asymmetric multiprocessing
-Control unit
 HPX
-Register–memory architecture
 Semiconductor memory
-Human Brain Project
-IBM System/370
 GPUOpen
-Hardware register
 Word (computer architecture)
 Grid computing
 Massively parallel
 Processor (computing)
-Dynamic voltage scaling
-Vector processors
 SPARC
-Massively parallel processor array
-Semiconductor device fabrication
 Computer architecture
-Floating-point unit
 Deadlock (computer science)
-128-bit computing
-Cognitive computing
-Stanford MIPS
 Parallel Virtual Machine
 Coprocessor
-Load–store unit
-Programmable Array Logic
 Cache (computing)
 Instruction pipelining
-Frontier (supercomputer)
 Pthreads
-Data cache
 MIPS architecture
 Speedup
 Bus (computing)
 Microcontroller
-Cycles per instruction
-Chip carrier
 API
-Supercomputer
-Transport triggered architecture
-Clock gating
-FLOPS
 Race condition
 Simultaneous and heterogeneous multithreading
-AI accelerator
-Transactions per second
-Mobile processor
 Computer network
-Package on a package
-TRIPS architecture
-Compute kernel
-SUPS
-Ultra-low-voltage processor
-SuperH
 Parallel Extensions
-Adapteva
 Scalability
 Bulldozer (microarchitecture)
 Abstract machine
-Sequential logic
-Kalray
-Digital signal processor
-Memory controller
 Hardware security module
-IBM System/390
-Alternating Turing machine
-Vision processing unit
 Pipeline (computing)
 Power management
-Translation lookaside buffer
-Quantum cellular automaton
-Barrel processor
-Demultiplexer
-Tick–tock model
 Japanese language
-Comparison of instruction set architectures
-False sharing
-Memory management unit
-Cellular architecture
-Heterogeneous System Architecture
 Simultaneous multithreading
 Graphics processing unit
-Wide-issue
-Computer performance by orders of magnitude
 Shared memory
 Parallel slowdown
-Little man computer
-Gyoukou
-Secondary storage
 Embedded system
-Image processor
 Systolic array
 Software lockout
 Implicit parallelism
 Distributed memory
 Unified Parallel C
 OpenMP
-Structural hazard
 Single instruction, single data
-Queue automaton
 X86
-Three-dimensional integrated circuit
-Boolean circuit
 Concurrency (computer science)
-Post–Turing machine
 Preemption (computing)
-TrueNorth
-Hx3100 Processor
-Cache hierarchy
-Pointer machine
 Non-uniform memory access
-Power Management Unit
-Distributed architecture
-RISC-V
-Classic RISC pipeline
 Multiple instruction, single data
 Synchronization (computer science)
-Direct memory access
 Computer cluster
-Analogue electronics
-Processor core
 Instruction window
-Clock rate
-CPU multiplier
-Embedded computer
-Mixed-signal integrated circuit
-Power ISA
 RaftLib
-Microcode
-Memory dependence prediction
 Barrier (computer science)
-Hyper-threading
 OpenACC
-Status register
-Fugaku (supercomputer)
-Network on a chip
 Cost efficiency
-Apollo Guidance Computer
-Clock signal
-Zeno machine
-FIFO (computing and electronics)
 Coarray Fortran
 Finite-state machine
-Graphcore
 Cellular automaton
-Multi-core processor
-GPU
 Uniform memory access
-IBM System/360 architecture
-SpiNNaker
 Integrated circuit
 PDP-11 architecture
-OpenRISC
 Data parallelism
-Explicit data graph execution
-16-bit computing
-Write buffer
-Data buffer
-ROM image
-Endianness
-Teraflops Research Chip
-C++ AMP
-Unicore
 ArXiv (identifier)
-Stored-program computer
-Circuit (computer science)
 Hardware scout
-Processor register
-Coherent Logix
-32-bit computing
-Cache replacement policies
-Quantum circuit
-Hardwired control unit
 Cache invalidation
-Movidius Myriad 2
-Complex instruction set computer
-ACPI
 Deterministic algorithm
-Von Neumann architecture
 Thread (computing)
-Virtual memory
-Bit-serial architecture
 Analysis of parallel algorithms
-Zero instruction set computer
-Instruction cache
-Sum-addressed decoder
-Complex programmable logic device
 Dataflow architecture
-Control hazard
-System in a package
-Z/Architecture
-Application-specific integrated circuit
 Computer programming
-Register renaming
-Digital electronics
-Transistor count
 Logic gate
 Superscalar processor
 Dataflow programming
 Flynn's taxonomy
-CPU cache
-Scalar processor
-Message passing interface
 Instruction set architecture
-Switch
-Multi-chip module
-Load–store architecture
 Computer multitasking
-Harvard architecture
-Tile processor
-512-bit computing
-Register machine
-Sunway SW26010
-24-bit computing
-Memory access pattern
 Reduced instruction set computer
 Distributed computing
 System on a chip
 Hardware acceleration
-Hypercomputation
 Parallel programming model
-Instruction decoder
-Explicitly parallel instruction computing
-Clipper architecture
 Instruction-level parallelism
 Multithreading (computer architecture)
-Re-order buffer
 Array (data structure)
-Execution unit
 Dryad (programming)
 Loop-level parallelism
-Addressing mode
-Deterministic finite automaton
-Fujitsu A64FX
-Partitioned global address space
 Chapel (programming language)
-Single-thread performance
 Beowulf cluster
-Very long instruction word
 Turing machine
-Hazard (computer architecture)
-Cypress PSoC
-1-bit computing
-Adder (electronics)
-8-bit computing
 Embarrassingly parallel
 OpenCL
 Doi (identifier)
 Hepburn romanization
-Network processor
-Electronic circuit
-Eyeriss
-Superscalar
-VISC architecture
-Glue logic
 Starvation (computer science)
-EE Times
-PowerPC
-Microprocessor chronology
 Parallel computing
-MIPS-X
 Microprocessor
-Heterogeneous computing
-HyperX Architecture
-ETRAX CRIS
-Modified Harvard architecture
 General-purpose computing on graphics processing units
 Ateji PX
-Neuromorphic engineering
-Quantum logic gate
 ROCm
-Probabilistic Turing machine
-Single program, multiple data
-Barrel shifter
-Bit slicing
-M32R
-Sunway TaihuLight
-Pipeline stall
-Advanced Power Management
-Green arrays
-Finite-state machine with datapath
-Memory address register
-Random-access stored-program machine
-Soft microprocessor
-Dynamic frequency scaling
-Motorola 68000 series
-Memory buffer register
 Multiple instruction, multiple data
-Actor model
-Minimal instruction set computer
-Boost (C++ libraries)
-Universal Turing machine
-48-bit computing
-Tomasulo's algorithm
 Karp–Flatt metric
 Message Passing Interface
-Arithmetic logic unit
 Memory-level parallelism
-Scratchpad memory
-Shader processing units
-No instruction set computing
 Automatic parallelization
 Charm++
 Random-access machine
-Processor design
-Computer performance
-Cache coherency
 CUDA
-Single-core
-Quantum Turing machine
-Stack register
 Global Arrays
-Cooperative multitasking
-Fabric computing
-Binary decoder
 Cache-only memory architecture
-History of general-purpose CPUs
 Parallel external memory
-Instruction unit
-Nondeterministic Turing machine
 Memory hierarchy
-Tilera
-SWAR
 Distributed shared memory
-Datapath
-PCI-e
 DEC Alpha
-IBM POWER architecture
-Physics processing unit
 Stream processing
-Address generation unit
 Parallel RAM
-Multiplexer
 Gustafson's law
-Operand forwarding
-Reservation station
 Amdahl's law
-Parallel processing (computing)
-Branch predictor
 Cilk
-Message passing
 Non-blocking algorithm
 Application checkpointing
 High-performance computing
-Speculative execution
 Computer data storage
 Speculative multithreading
-Address decoder
-Instruction cycle
-Power management integrated circuit
 Temporal multithreading
 Data dependency
-Pin grid array
-MicroBlaze
-Out-of-order execution
 Process (computing)
 Central processing unit
-Hierarchical state machine
 Computer hardware
 Field-programmable gate array
-Baseband processor
-Tensor Processing Unit
-SW26010
-Quantum computing
-Counter (digital)
 Single instruction, multiple data
-256-bit computing
 64-bit computing
 4-bit computing
-Binary multiplier
 Fiber (computer science)
 Cloud computing
-ZPL (programming language)

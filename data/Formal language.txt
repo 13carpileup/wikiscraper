@@ -1,32 +1,23 @@
 ASCII
-Abstract family of languages
 Abstract logic
 Abstract machine
-Abstract syntax tree
 Ackermann set theory
 Aleph number
 Algebraic logic
 Algorithm
 Alphabet
 Alphabet (formal languages)
-Alphanumeric
-Aperiodic finite state automaton
 Argument
 Arity
-Arto Salomaa
 Atomic formula
 Atomic sentence
 Automata theory
 Automated theorem proving
-Axel Thue
 Axiom
 Axiom of choice
 Axiom schema
 Axiomatic system
-Axiomatization of Boolean algebras
-Backus–Naur form
 Banach–Tarski paradox
-Begriffsschrift
 Bibcode (identifier)
 Bijection
 Binary operation
@@ -45,8 +36,6 @@ Category (mathematics)
 Category of sets
 Category theory
 Character encoding
-Characteristica universalis
-Chomsky
 Chomsky hierarchy
 Church encoding
 Church–Turing thesis
@@ -54,13 +43,9 @@ Class (set theory)
 Classical logic
 Closure (mathematics)
 Codomain
-Colorless green ideas sleep furiously
-Combinatorics on words
 Compactness theorem
-Compiler-compiler
 Complement (set theory)
 Complete theory
-Complexity class
 Computability theory
 Computable function
 Computable set
@@ -68,34 +53,16 @@ Computably enumerable set
 Computational complexity theory
 Computational linguistics
 Computer science
-Concatenation
 Concrete category
-Cone (formal languages)
 Conservative extension
 Consistency
 Constructible universe
 Construction of the real numbers
 Constructive set theory
-Context-free grammar
-Context-free language
-Context-sensitive grammar
-Context-sensitive language
-Context free language
-Context sensitive language
 Continuum hypothesis
 Countable set
-DCFL
 Decidability (logic)
-Decider (Turing machine)
 Decision problem
-Decision procedure
-Deductive apparatus
-Deductive system
-Degeneracy (mathematics)
-Deterministic acyclic finite state automaton
-Deterministic context-free grammar
-Deterministic context-free language
-Deterministic pushdown automaton
 Diagram (mathematical logic)
 Doi (identifier)
 Domain of a function
@@ -103,8 +70,6 @@ Element (mathematics)
 Elementary diagram
 Elementary equivalence
 Elementary function arithmetic
-Embedded pushdown automaton
-Emil Post
 Empty set
 Encyclopedia of Mathematics
 Enumeration
@@ -113,29 +78,22 @@ Equivalence relation
 Euclid's Elements
 Euclidean geometry
 European Mathematical Society
-Executable
 Existential quantification
 Expression (mathematics)
 Extension by definitions
 Extension by new constant and function names
 Extensionality
-FORTRAN
 Finitary relation
-Finite-state automaton
 Finite-state machine
 Finite-valued logic
-Finite language
 Finite model theory
 Finite set
 First-order logic
 Fixed-point logic
 Forcing (mathematics)
 Formal grammar
-Formal languages
-Formal method
 Formal methods
 Formal proof
-Formal semantics (logic)
 Formal semantics (natural language)
 Formal system
 Formal verification
@@ -144,78 +102,54 @@ Formation rule
 Foundations of geometry
 Foundations of mathematics
 Free logic
-Free monoid
 Free variables and bound variables
 Function (mathematics)
 Functional predicate
 Fuzzy set
-Gauss notation
 General set theory
-Gottfried Leibniz
 Gottlob Frege
-Grammar framework
 Grothendieck universe
 Ground expression
-Ground formula
-Grzegorz Rozenberg
 Gödel's completeness theorem
 Gödel's incompleteness theorems
 Gödel numbering
 Halting problem
-Heinz Zemanek
 Hereditary set
 Higher-order logic
 Hilbert's axioms
 Hilbert system
 History of logic
-History of mathematical logic
 ISBN (identifier)
 Identifier
 Image (mathematics)
 Inaccessible cardinal
 Independence (mathematical logic)
-Indexed grammar
-Indexed language
 Inference
 Infinite-valued logic
 Infinite set
 Information theory
 Inhabited set
 Injective function
-Intermediate code
 Interpretation (logic)
 Interpretation (model theory)
-Interpretation function
 Intersection (set theory)
 Introduction to Automata Theory, Languages, and Computation
 Isomorphism
 Jeffrey Ullman
-John Backus
 John Hopcroft
-Keyword (computer programming)
-Kleene star
 Kolmogorov complexity
-Kripke's theory of truth
 Kripke–Platek set theory
 Lambda calculus
 Large cardinal
 Lemma (mathematics)
-Leonardo Torres Quevedo
-Lex programming tool
-Lexical analyzer
 Lindström's theorem
-Linear bounded automaton
-Linear context-free rewriting language
-Linear context-free rewriting system
 Linguistics
-List of Hilbert systems
 List of axioms
 List of first-order theories
 List of formal systems
 List of mathematical theories
 List of set identities and relations
 List of statements independent of ZFC
-Literary language
 Logic
 Logical biconditional
 Logical conjunction
@@ -228,7 +162,6 @@ Logical equivalence
 Logical truth
 Logicism
 Löwenheim–Skolem theorem
-Machine code
 Many-valued logic
 Map (mathematics)
 Material conditional
@@ -237,7 +170,6 @@ Mathematical notation
 Mathematical object
 Mathematics
 Metalanguage
-Michael A. Harrison
 Minimal axioms for Boolean algebra
 Model complete theory
 Model theory
@@ -249,15 +181,11 @@ Naive set theory
 Natural deduction
 Natural language
 Natural language processing
-Natural number
 Negation
-Nested stack automaton
-Nested word
 New Foundations
 Noam Chomsky
 Non-Euclidean geometry
 Non-logical symbol
-Non-recursive grammar
 Non-standard model
 Non-standard model of arithmetic
 Open formula
@@ -266,22 +194,14 @@ Ordinal analysis
 Ordinal number
 PMC (identifier)
 PMID (identifier)
-PTIME
 P (complexity)
 P versus NP problem
 Paradoxes of set theory
-Parser
-Parser generator
-Parsing
 Partition of a set
 Peano axioms
-Peter Naur
 Philosophy of mathematics
-Pictographs
-Post canonical system
 Power set
 Predicate (mathematical logic)
-Predicate logic
 Predicate variable
 Primitive recursive arithmetic
 Primitive recursive function
@@ -291,24 +211,14 @@ Programming language
 Programming language theory
 Proof of impossibility
 Proof theory
-Proper subset
 Proposition
 Propositional calculus
 Propositional formula
 Propositional variable
-Pushdown automaton
 Quantifier (logic)
 Quantifier rank
-Range concatenation grammars
-Range concatenation language
 Recursion
-Recursive language
-Recursive set
-Recursively enumerable language
 Regular expression
-Regular expressions
-Regular grammar
-Regular language
 Relation (mathematics)
 Reverse mathematics
 Robinson arithmetic
@@ -328,7 +238,6 @@ Sentence (mathematical logic)
 Sequent calculus
 Set (mathematics)
 Set theory
-Seymour Ginsburg
 Signature (logic)
 Singleton (mathematics)
 Skolem arithmetic
@@ -336,47 +245,31 @@ Soundness
 Spectrum of a sentence
 Spectrum of a theory
 Springer Science+Business Media
-Springer Verlag
 Square of opposition
-Star-free language
 Strength (mathematical logic)
 String (computer science)
-String (formal languages)
-String homomorphism
-String operations
 Structure (mathematical logic)
-Subset
 Substitution (logic)
 Substructure (mathematics)
 Supertask
 Surjective function
 Syllogism
 Symbol (formal)
-Syntactic
-Syntax
 Syntax (logic)
-Syntax (programming languages)
-Syntax analysis
 T-schema
 Tarski's axiomatization of the reals
 Tarski's axioms
-Tarski's theory of truth
 Tarski's undefinability theorem
 Tarski–Grothendieck set theory
 Tautology (logic)
 Term (logic)
 Term logic
 Theorem
-Theories of truth
 Theory (mathematical logic)
-Thread automaton
 Three-valued logic
 Timeline of mathematical logic
 Transfer principle
-Transformation rule
 Transitive set
-Tree-adjoining grammar
-Tree stack automaton
 True arithmetic
 Truth predicate
 Truth table
@@ -385,7 +278,6 @@ Turing machine
 Type (model theory)
 Type theory
 Type–token distinction
-Ultrafilter (set theory)
 Ultraproduct
 Uncountable set
 Undecidable problem
@@ -396,21 +288,13 @@ Uniqueness quantification
 Universal quantification
 Universal set
 Universe (mathematics)
-University of Maryland, Baltimore
-Unrestricted grammar
 Urelement
 Validity (logic)
 Variable (mathematics)
 Venn diagram
-Vienna
 Virtual machine
 Von Neumann universe
 Von Neumann–Bernays–Gödel set theory
 Wayback Machine
 Well-formed formula
-Well-formedness
-Wolfgang Rautenberg
-Word
-Yacc
 Zermelo–Fraenkel set theory
-∅

@@ -1,51 +1,39 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
-APT (Package Manager)
-APT (software)
 AlmaLinux
-Almquist shell
 Alpine Linux
 Android-x86
 Android (operating system)
 Antergos
 AntiX
-AppArmor
-Aptitude (software)
 ArchBang
 ArchLabs
 Arch Linux
 Artix Linux
 Asahi Linux
-Ask Ubuntu
 Astra Linux
 Asturix
 Austrumi Linux
 BLAG Linux and GNU
 BackBox
 BackTrack
-Benjamin Mako Hill
 Bharat Operating System Solutions
 BioSLAX
 BlackArch
 Black Lab Linux
 BlankOn Linux
 Bodhi Linux
-Brasero (software)
 CHAOS (operating system)
 CRUX
-Calamares (software)
 Calculate Linux
 Caldera OpenLinux
 CalyxOS
-Canonical (company)
 CentOS
 CentOS Stream
 Chakra (operating system)
 Chimera Linux
 ChromeOS
 ChromiumOS
-Cinnamon (desktop environment)
 ClearOS
 Clear Linux OS
 ColorOS
@@ -59,19 +47,14 @@ Cub Linux
 CyanogenMod
 Damn Small Linux
 Damn Vulnerable Linux
-Deb (file format)
 Debian
-Debian configuration system
 Deepin
 DemoLinux
 Devuan
-Disk encryption
 DivestOS
 DoudouLinux
-Dpkg
 Dreamlinux
 EMUI
-EasyPeasy
 Edubuntu
 Elementary OS
 Elive
@@ -86,38 +69,25 @@ Fire OS
 Firefox OS
 Floppyfw
 Foresight Linux
-Free and open-source software
 FreedomBox
 Freespire
 Frugalware Linux
-Full Circle (magazine)
-GNOME Files
-GNOME Shell
-GNU Bazaar
 GNU Compiler Collection
 GNU Core Utilities
-GNU GPL
 GNU Guix System
 GNewSense
 GOS (operating system)
 Garuda Linux
 GeckoLinux
 Gentoo Linux
-GetDeb
 GoboLinux
 Gobuntu
 GrapheneOS
 HandyLinux
-Hyperbola GNU/Linux-libre
-Ian Jackson
 Immunix
 Internet Relay Chat
 Internet forum
 IodéOS
-Jane Silber
-Jeff Waugh
-Jono Bacon
-Juju (software)
 Jurix
 KDE neon
 KaOS
@@ -133,10 +103,7 @@ Korora (operating system)
 Kubuntu
 Kwort Linux
 LXLE Linux
-Landscape (software)
-Launchpad (website)
 Libranet
-LightDM
 LinHES
 LineageOS
 Linpus Linux
@@ -150,7 +117,6 @@ Linux distribution
 Linux for PlayStation 2
 Linux kernel
 List of Linux distributions
-Long-term support
 Lubuntu
 MCC Interim Linux
 MIUI
@@ -159,18 +125,11 @@ Mageia
 Mandrake Linux
 Mandriva Linux
 Manjaro
-Mark Shuttleworth
-Medibuntu
 MeeGo
 Mer (software distribution)
-Mir (software)
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Musix GNU+Linux
-Mutter (software)
-Mythbuntu
-Nemo (file manager)
 Network Security Toolkit
 NimbleX
 Nitix
@@ -180,7 +139,6 @@ Nova (operating system)
 OmniROM
 One UI
 Open-source software
-OpenCD
 OpenELEC
 OpenMandriva Lx
 OpenSUSE
@@ -188,10 +146,7 @@ Open Enterprise Server
 Oracle Linux
 PCLinuxOS
 PHP
-Package format
 Package manager
-Paper cut bug
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
@@ -202,7 +157,6 @@ Perl
 Pinguy OS
 PixelExperience
 Platypux
-Point release
 Pop! OS
 Porteus (operating system)
 Programmer
@@ -213,13 +167,11 @@ Q4OS
 Qubes OS
 ROSA Linux
 Raspberry Pi OS
-Rebasing
 Red Hat Enterprise Linux
 Red Hat Linux
 Red Star OS
 Remix OS
 Replicant (operating system)
-Repository (version control)
 Resurrection Remix OS
 Rocks Cluster Distribution
 Rocky Linux
@@ -232,27 +184,19 @@ Sabily
 Sailfish OS
 Salix OS
 Scientific Linux
-Scott James Remnant
-Side Stage
 Slackware
 Slax
-Snappy (package manager)
 Softlanding Linux System
-Software Updater
 Software bug
 Software license
 Software release life cycle
 Solus (operating system)
 SolydXK
-SourceForge
 Source Mage
 SparkyLinux
 Splashtop OS
-StartUp-Manager
-Startup Disk Creator
 SteamOS
 Sunwah Linux
-System76
 SystemRescue
 T2 SDE
 Tails (operating system)
@@ -263,49 +207,25 @@ TopologiLinux
 Trisquel
 Turbolinux
 Turkix
-Tuxedo Computers
-Ubiquity (software)
 Ubuntu
-Ubuntu-restricted-extras
-Ubuntu (typeface)
 Ubuntu Budgie
-Ubuntu Edge
-Ubuntu Forums
 Ubuntu GNOME
-Ubuntu JeOS
 Ubuntu Kylin
 Ubuntu MATE
-Ubuntu Netbook Edition
-Ubuntu One
-Ubuntu Professional Certification
-Ubuntu Single Sign On
 Ubuntu Software Center
 Ubuntu Studio
-Ubuntu Titling
 Ubuntu Touch
 Ubuntu Unity
-Ubuntu User
-Ubuntu for Android
-Ubuntu philosophy
-Ubuntu version history
 Ultramarine Linux
-Uncomplicated Firewall
-Unity (user interface)
 Unity Operating System
-Unix-like
-Upstart (software)
-Uruk GNU/Linux
 User interface
 User space and kernel space
-Usplash
 VectorLinux
 Vine Linux
 Void Linux
 Whonix
-Wubi (software)
 Wubuntu
 XB Machine
-XSplash
 Xubuntu
 Yellow Dog Linux
 Zenwalk

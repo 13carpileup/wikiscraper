@@ -1,42 +1,25 @@
-3Com
 API
-ARM architecture
-Access Co.
-Access Linux Platform
 Amazon Kindle
-Amiga programming languages
-Andrea Butter
 Android (operating system)
 Android Go
-AppForge
-Association for Computing Machinery
 B2G OS
 Bada (operating system)
 Barcode reader
-BeOS
 Bell Laboratories
 Binary Runtime Environment for Wireless
 BlackBerry
 BlackBerry 10
 BlackBerry OS
 BlackBerry Tablet OS
-Blazer (web browser)
 Bluetooth
-Borland Delphi
 BridgeOS
 C++
-CLIÉ
 C (programming language)
 C Sharp (programming language)
-Calculator
 ChromeOS
 ChromeOS Flex
-CodeWarrior
-Compact Application Solution Language
 Comparison of mobile operating systems
 Computing platform
-DRAM
-David Pogue
 Doi (identifier)
 EMUI
 EPOC (operating system)
@@ -44,68 +27,46 @@ EULA
 Fedora Linux
 File system
 Firefox OS
-Forgent Networks
-Forth (programming language)
 FreeBSD
 FreeRTOS
-Freescale DragonBall
-Freescale Dragonball
 Freeware
 Fuchsia (operating system)
 GEOS (16-bit operating system)
 GNU
 GNU Compiler Collection
 GPL
-GPS
-GUI
-Graffiti (Palm OS)
-Graffiti 2
 Graphical user interface
 HMD Global
-Handheld Basic
 Handheld game console
-Handspring (company)
-Handwriting recognition
 HarmonyOS
 HarmonyOS NEXT
-Hitachi Microdrive
 IEEE 802.11b-1999
 IOS
 IPadOS
 ISBN (identifier)
 ISSN (identifier)
-Infrared Data Association
 Integrated development environment
 Intel Management Engine
 Internet
 Internet Archive
-IrDA
-JPEG
-Java Virtual Machine
 KaiOS
 Kernel (operating system)
-Lenovo
 Linux
 Linux Kernel
 Linux kernel
-LispMe
 Lisp (programming language)
-List of Palm OS devices
 List of custom Android distributions
 List of mobile app distribution platforms
 List of open-source mobile phones
 LiteOS
-Lua (programming language)
 LuneOS
 Maemo
 Magic Cap
 Manjaro
 MeeGo
 Memory card
-Memoware
 Mer (software distribution)
 Microsoft
-Microsoft Outlook
 Microsoft Windows
 Minix 3
 Mobian
@@ -115,86 +76,38 @@ Mobilinux
 Moblin
 MontaVista
 MotoMagx
-Motorola
-Motorola 68k
-NCR Corporation
-NSBasic/Palm
-NVRAM
 Natural language
 NetBSD
-NetFront
 Nintendo
 Nintendo 3DS system software
 Nintendo DSi system software
 Nintendo Switch system software
 Nokia Asha platform
-Nokia Internet Tablet
-Non-Volatile File System
-OnBoardC
 OpenEZX
 OpenEmbedded
 OpenHarmony
 Open Handset Alliance
 Open Mobile Alliance
-Open source license
 Openmoko Linux
-PARC (company)
 PMID (identifier)
-PP Compiler Pascal & Palm
-PRC (Palm OS)
-Palm, Inc.
-Palm-sized PC
 PalmDOS
-PalmPilot
-PalmSource
-PalmSource, Inc.
-Palm (PDA)
-Palm Desktop
-Palm III
-Palm IIIc
-Palm IIIx
-Palm Treo
-Palm Universal Connector
-Palm V
-Palm VII
-Palm Vx
-Palm i705
-Palm m500 series
-Palm webOS
 Pascal (programming language)
-Pendragon Forms
-Personal digital assistant
-Personal information manager
-Pilot 1000
-Pilot Pen Corporation
 PlayStation Portable system software
 PlayStation Vita system software
-Plua
-PocketC
-PocketC Architect
 Pocket PC
 PostmarketOS
-Prc-tools
-Prior art
 Programmer
 Programming language
 Proprietary software
-Proxy server
 PureOS
 QNX
-QVGA
 QtMoko
 RAM
-REPL
-Research In Motion
 S2CID (identifier)
 S60 (software platform)
 SD card
 SHR (operating system)
-SMS
 Sailfish OS
-Samsung
-Scheme (programming language)
 Serial port
 Series 30
 Series 30+
@@ -202,42 +115,27 @@ Series 40
 Series 80 (software platform)
 Series 90 (software platform)
 Shareware
-Simplified Chinese character
 Smartphone
-Smartphones
 Software license
 Software release life cycle
 Sony Ericsson Java Platform
 SteamOS
-SuperWaba
 Symbian
 Synchronization (computer science)
-TCP/IP
 The Verge
 ThreadX
 Tizen
-Touchscreen
 Transport Layer Security
-Treo 650
-Tungsten T
-Tungsten T3
-U.S. Robotics
-U.S. Robotics Corp.
 UBports
 UIQ
 USB
 Ubuntu Touch
-Virtual keyboard
 Visual Basic (classic)
-Visual Basic .NET
-Volatile memory
-Waba
 Watch
 WatchOS
 Wear OS
 WebOS
 Web browser
-Wi-Fi
 Windows 10
 Windows 10 Mobile
 Windows 11
@@ -250,7 +148,6 @@ Windows Phone 8
 Windows Phone 8.1
 Windows RT
 Windows XP editions
-Wireless Application Protocol
 XNU
 Xerox
 Zircon (microkernel)

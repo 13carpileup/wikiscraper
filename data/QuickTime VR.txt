@@ -1,364 +1,58 @@
-.m2ts
-3GPP
-3GP and 3G2
-A-law algorithm
-AAC-LD
-AMV video format
-ANIM
-ANI (file format)
-APNG
-ART image file format
-AV1
-AVIF
-Adaptive Multi-Rate Wideband
-Adaptive Multi-Rate audio codec
-Adaptive Transform Acoustic Coding
-Adaptive differential pulse-code modulation
-Adobe Illustrator Artwork
-Adobe Photoshop
-Advanced Audio Coding
-Advanced Systems Format
 Advanced Video Coding
-Algebraic code-excited linear prediction
-Alliance for Open Media
-Apple Icon Image format
 Apple Inc.
-Apple Lossless Audio Codec
-Apple ProRes
-Apple Video
-AptX
-Arithmetic coding
-Asao (codec)
-Au file format
-Audio Interchange File Format
-Audio Lossless Coding
-Audio Video Interleave
-Audio Video Standard
-Audio Vivid
 Audio coding format
-AutoCAD DXF
-Avid Audio
-Avid DNxHD
-BMP file format
-BSAVE
 Berkeley, California
-Better Portable Graphics
-Bink Video
-Bluetooth Special Interest Group
 Business Insider
-CALS Raster file format
-CELT
-CPT (file format)
-Camera Image File Format
-Canon Digital Rebel XT
-Cartesian Perceptual Compression
-CineForm
-Cineon
-Cinepak
-Code-excited linear prediction
-Codec 2
-Comparison of audio coding formats
-Comparison of graphics file formats
-Comparison of video codecs
-Computable Document Format
 Computer Graphics Metafile
-Container format (computing)
-CorelDRAW
 Cray
-DEFLATE
-DTS (sound system)
-DV (video format)
-Daala
 Data compression
-Daubechies wavelet
-Differential pulse-code modulation
-Digital Negative
-Digital Picture Exchange
-Digital Video Interactive
-Digital container format
-Dirac (video compression format)
-DirectDraw Surface
 Discrete cosine transform
-Discrete wavelet transform
 DivX
-DjVu
 Doi (identifier)
-Dolby AC-4
-Dolby Digital
-Dynamic Resolution Adaptation
-ECW (file format)
-EMF+
-ETSI
-Encapsulated PostScript
-Enhanced Metafile
-Enhanced VOB
-Enhanced Variable Rate Codec
-Enhanced Variable Rate Codec B
-Enhanced Voice Services
-Enhanced full rate
-Entropy encoding
 Essential Video Coding
-Exif
-Extended Adaptive Multi-Rate – Wideband
-Extensible Application Markup Language
-Extensible Metadata Platform
-FFV1
-FITS
-FLAC
-FLIC (file format)
 Facebook
-Fast Fourier transform
 Filename extension
-Fisheye lens
-FlashPix
-Flash Video
-Free Lossless Image Format
 Free viewpoint television
-Full Rate
-G.711
-G.718
-G.719
 G.722
-G.722.1
-G.723
-G.723.1
-G.726
-G.728
-G.729
-G.729.1
-GIF
-General Exchange Format
-Gerber format
 Google Maps
-Group 4 compression
-H.120
-H.261
-H.262/MPEG-2 Part 2
 H.263
-H.264/MPEG-4 AVC
-HDRi (data format)
-Haiku Vector Icon Format
-Half Rate
-Harmonic Vector Excitation Coding
-High-Efficiency Advanced Audio Coding
-High Efficiency Image File Format
-High Efficiency Video Coding
 Huffman coding
-Huffyuv
-ICER (file format)
-ICO (file format)
-IGES
-ILBM
 ISBN (identifier)
-ISO/IEC base media file format
 ITU-T
-Image Cytometry Standard
 Image compression
-Image file format
-Indeo
-Interchange File Format
 International Electrotechnical Commission
 International Organization for Standardization
-International Press Telecommunications Council
-Internet Engineering Task Force
-Internet Low Bitrate Codec
-Internet Speech Audio Codec
 JBIG
-JBIG2
-JPEG
-JPEG-HDR
-JPEG-LS
 JPEG 2000
-JPEG Network Graphics
 JPEG XL
 JPEG XR
 JPEG XS
-JPEG XT
-Joint Photographic Experts Group
-Krita
-LC3 (codec)
 LCEVC
-LDAC (codec)
-LHDC (codec)
-LZ77 and LZ78
-Lagarith
-Lempel–Ziv–Welch
-Line spectral pairs
-Linear predictive coding
-List of codecs
-Logluv TIFF
-Lossless JPEG
-Lossless compression
-Lossy compression
-Lyra (codec)
-MODCA
-MOD and TOD
 MP3
 MPEG-1
-MPEG-1 Audio Layer I
-MPEG-1 Audio Layer II
 MPEG-2
 MPEG-21
 MPEG-4
-MPEG-4 IVC
-MPEG-4 Part 14
 MPEG-4 Part 2
-MPEG-4 SLS
-MPEG-5
 MPEG-H
 MPEG-H 3D Audio
-MPEG-I
-MPEG LA
 MPEG Multichannel
-MPEG Surround
-MPEG elementary stream
-MPEG media transport
 MPEG program stream
-MPEG transport stream
-MSU Lossless Video Codec
-MT9
-MacWorld
-Magick Image File Format
-Master Quality Authenticated
-Material Exchange Format
-Matroska
 Media type
 Metadata
-Microsoft Video 1
-Mixed-excitation linear prediction
-Modified Huffman coding
-Modified discrete cosine transform
-Monkey's Audio
-Motion JPEG
 Motion JPEG 2000
-Moving Picture Experts Group
-Multimedia
 Multiple-image Network Graphics
-Musepack
-NETVC
-Nearly raw raster data
-Netpbm
 New York, New York
-Nikon Coolpix 5000
-O. J. Simpson murder case
 OCLC (identifier)
-OMS Video
-Ogg
-On2 Technologies
-OpenEXR
-OpenRaster
-Open file format
-OptimFROG
-Opus (audio format)
-Original Sound Quality
-PCX
 PDF
-PICT
-PICtor PIC image format
-PNG
-Packetized elementary stream
-PaintShop Pro
-Panorama
-Panoramic photography
-Photosynth
-Pixlet
 Plug-in (computing)
-Portable Network Graphics
-PostScript
-Precision Graphics Markup Language
-ProRes 422
-ProRes 4444
-Progressive Graphics File
-Pulse-code modulation
-QOI (image format)
-Qualcomm code-excited linear prediction
-QuickTime
-QuickTime Animation
-QuickTime File Format
-QuickTime Graphics
-RGBE image format
-RTAudio
-RTVideo
 Raster graphics
-RatDVD
-Raw image format
-Real-time Transport Protocol
-RealAudio
-RealMedia
-RealVideo
-Relaxed code-excited linear prediction
-Resource Interchange File Format
 S2CID (identifier)
-SBC (codec)
-SILK
-SVOPC
-SWF
-Sally Ride
-Scalable Vector Graphics
-Selectable Mode Vocoder
-SheerVideo
-Shorten file format
-Silicon Graphics Image
-Siren (codec)
 Skybox (video games)
-Smacker video
-Society of Motion Picture and Television Engineers
-Sorenson Media
-Speex
-Steganography
 Steve Jobs
-Sun Raster
-Super Audio CD
-TIFF
-TIFF/EP
-TIFF/IT
-Tag Image File Format
-Theora
-Thor (video codec)
-Tidbits
-Transform coding
-Tripod (photography)
-Truevision TGA
-TwinVQ
-Ulead PhotoImpact
-Unified Speech and Audio Coding
-Ut Video Codec Suite
-VC-1
-VC-6
-VOB
-VP3
-VP6
-VP7
-VP8
-VP9
 VR photography
-Variable-Rate Multimode Wideband
-Vector Markup Language
-Vector graphics
-Vector sum excited linear prediction
 Versatile Video Coding
-Video Coding Experts Group
-Video coding format
 Virtual tour
-Vorbis
-WAV
-Warped linear predictive coding
-WavPack
-Wavelet
 Wayback Machine
-WebM
-WebP
 Web browser
-Windows Media Audio
-Windows Media Video
-Windows Metafile
-Wireless Application Protocol Bitmap Format
-World Wide Web Consortium
-XCF (file format)
-X BitMap
-X PixMap
-Xar (graphics)
-Xwd
-YULS
 YouTube
-Μ-law algorithm

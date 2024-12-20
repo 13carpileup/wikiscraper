@@ -1,53 +1,36 @@
-OSI model
-Front-side bus
 ISO 639-2
-Bus mastering
-ISO 31-9
 PDF
 International Standard Atmosphere
 Flowchart
-RS-485
-ISO/IEC 18014
 Han Xin code
 International Standard Name Identifier
 ISO 31-4
 ISO 639-6
-Floating Point Unit
 ISO 639-3
 ISO 8691
-PDF/X
-ISO/IEC 8859-3
 ASMO 449
-Europe Card Bus
 ISO 639-1
-ISO/IEC 8652
 International Standard Audiovisual Number
 ISO 5776
 C Sharp (programming language)
 International Organization for Standardization
 ISO 4031
 Graphical Kernel System
-ISO/IEC 15504
 Apollo Computer
 ISO 2014
 RM-ODP
 MPEG-H
-Back-side bus
 ISO 1000
 List of ISO standards
 ISO 13490
-GSC bus
 International Bank Account Number
-McASP
 ISO 4217
 PDF417
 CHILL
 EXPRESS (data modeling language)
 ECMAScript for XML
-ISO/IEC 646
 Fuel oil
 ISO 668
-International Standard Serial Number
 Fiber Distributed Data Interface
 ISO 8583
 ISO 45001
@@ -59,62 +42,36 @@ ISO 639
 ISO 6385
 JPEG XS
 ISO 3977
-Amiga Zorro II
 Prontor-Compur
 ISO 11992
-ACCESS.bus
 ISO 20022
-Control bus
-CoreConnect
 ISO 3103
 ISO 3166
-ISO/IEC 8859
 ISO 22000
-Plug and play
 ISO 6438
-ISO/IEC 7812
 List of IEC standards
-I3C (bus)
 JPEG XR
-ISO/IEC 11404
-Asynchronous I/O
 ISO 7010
 Delivery Multimedia Integration Framework
 ISO 21500
-List of interface bit rates
-ISO/IEC 15897
-InfiniBand
 Institute of Electrical and Electronics Engineers
 IEC 61030
-HP Precision Bus
-Coherent Accelerator Processor Interface
-ISO/IEC 5218
 126 film
-Automatic Train Operation
 ISO 14644
-ISO/IEC 12207
 ISO 216
 ISO 50001
-PCI Express
-HyperTransport
-ISO/IEC 27006
 Open Virtualization Format
-ISO 7027
 List of ISO romanizations
-Infinity Fabric
 International Standard Text Code
 ISO 37001
 Common Criteria
-Multidrop bus
 Manufacturing Message Specification
 ISO 259
-ISO/IEC 11801
 Process Specification Language
 Common Language Infrastructure
 ISO 31-7
 ISLISP
 ISO-TimeML
-I²S
 ISO 28000
 ISO 5428
 Computer Graphics Metafile
@@ -123,105 +80,57 @@ POSIX
 ISO 1745
 Common Object Request Broker Architecture
 Hot shoe
-1-Wire
 ISO 5427
 ISO 9362
 ISO 7736
-ISO/IEC 15693
-HIPPI
-ISO 9000
 Minimal BASIC
-Multi-master bus
 Geography Markup Language
 International Standard Music Number
 ISO 15919
-PDF/A
-RadiSys Corporation
 Intel
 Guidelines for the Definition of Managed Objects
-ISO 2047
-Fibre Channel
-ISO/IEC 80000
 ISO-8859-8-I
 DICOM
-ISO/IEC 8859-4
-Atari SIO
 ISO 19114
 ISO 2146
 MPEG-4 Part 2
-Commodore bus
-Camera Link
-Daisy chain (electrical engineering)
-Accelerated Graphics Port
 ISO 2848
 Hole punch
 Ethernet
-Direct Media Interface
 Mixed raster content
 JPEG 2000
 ISO 22301
-Language Of Temporal Ordering Specification
-ISO/IEC 9797-1
-Network on a chip
 ISO 657
 ISO 11784 and ISO 11785
-ISO 8373
-ISO 31-12
 MaxiCode
 CPU
-Computer Automated Measurement and Control
-ADAT Lightpipe
-ISO/IEC 2022
 Accuracy and precision
-Power Management Bus
 Bus (computing)
-Common Tunnel
 ISO 13399
-ISO/IEC 15288
 International Standard Identifier for Libraries and Related Organizations
 MPEG-21
 File Allocation Table
 International Securities Identification Number
-ISO/IEC 8859-14
-RS-422
 ISO 56000
 ISO 128
 JBIG
 ISO 10218
 ISO 14971
 Computer bus
-NVLink
 Photographic Activity Test
-Intel QuickPath Interconnect
 ISO 31-8
-Direct memory access
 ISO 690
 ISO 6943
 Document Style Semantics and Specification Language
-Apple Desktop Bus
 ISO 16750
-ISO/IEC 27005
 Magnetic ink character recognition
 ISO 19011
-Advanced eXtensible Interface
 ISO 31-1
-Micro Channel architecture
-ISO/IEC 8859-6
 Market Identifier Code
-ISO/IEC 7816
 ISO 2033
 ISO 15926 WIP
 ISO 8501-1
-Automatic Train Protection
-FASTBUS
-Intelligent Peripheral Interface
-ISO/IEC 10967
-Bus
-ISO/IEC 4909
 Office Open XML
-HIL bus
-ISO/IEC 11179
-Hewlett-Packard
 ISO 4157
 ISO 10161
 ANSI C
@@ -230,113 +139,72 @@ ANSI escape code
 ISO 21001
 MPEG-A
 Dynamic Adaptive Streaming over HTTP
-ISO/IEEE 11073
-Megabit
 MPEG-4 Part 3
-ISO/TR 11941
 DIN 41612
 ISO 31000
 ISO 31-10
-ISO/IEC 8859-8
-ISO/IEC 14651
-RapidIO
 ECMAScript
-ISO/IEC 27000-series
-PCI eXtensions for Instrumentation
-ISO/IEC 14443
 MPEG-1
 ISO 1629
-ISO/IEC 21827
 Digital object identifier
 Common Logic
 MPEG-7
 ISO 6709
-MBus (SPARC)
 ISO base media file format
 Commercial off-the-shelf
 Cloud Infrastructure Management Interface
 ISO 217
-ISO 19092-2
-NuBus
 ISO 2921
 ISO 965
-London Underground
-ISO/IEC 7813
 LCEVC
 FDI World Dental Federation notation
 Power take-off
-ISO/IEC 8859-11
 ISO 25964
 ISO 31-6
-ISO 12006
 Knowledge Discovery Metamodel
-Compute Express Link
 ISO 13567
 Quality function deployment
-Parallel SCSI
 ISO 31-3
 ISO 732
 ISO 15398
 MPEG-4 Part 11
-IEEE 1284
 ISO 31-11
 ISO 15926
 Full BASIC
-ISO/IEC 27000
 ISO 3307
 Longitudinal redundancy check
-ISO/IEC 8859-10
 HTML
-Lightning (connector)
 ISO 15189
 ISO 10006
 ISO 9897
 ISO 14031
-ISO/IEC 9995
-Intel High Definition Audio
 AES3
 ISO 1
-Central line (London Underground)
-File server
 ISO 3166-3
 IS-IS
 MPEG-2
 ISO 639-5
 ISO 26000
-PDF/E
 C++
 ISBN (identifier)
 Film speed
 ISO 14224
 ISO 9564
-Extended Industry Standard Architecture
 ISO 8601
-ISO/IEC 8859-15
-HP-IL
 MIDI
-Intel Ultra Path Interconnect
 ISO 4165
 ALGOL 60
 Essential Video Coding
-Fuse (automotive)
 PHIGS
-MADI
-IEEE-488
-ISO/IEC 8859-16
-ExpressCard
 Hazard symbol
-ISO/IEC 8859-1
 ISO 7200
-ISO/IEC 9126
 ISO 14698
 ISO 17100
 ISO 11940
-DMX512
 ISO 898
 ISO 2
 Real-time computing
 Doi (identifier)
-3Com
 ISO 9660
 ISO 3864
 Linux Standard Base
@@ -345,50 +213,34 @@ ISO 26262
 MP4 file format
 Business Process Model and Notation
 110 film
-ISO/IEC TR 12182
-ISO/IEC 10116
 ISO 18245
 ISO 3166-1
-IEEE 1394
 MPEG-D
 ISO 10303-21
 ISO 20121
 ISO 2788
 OCR-A
-PDF/UA
 ISO 843
 ISO 9
 Kunrei-shiki romanization
-ISO/IEC 9529
-ISO/IEC 8859-7
-ESCON
 ISO 15686
-PDF/VT
 I²C
 Pinyin
 International Standard Recording Code
 Linguistic categories
 ISO 13584
-Industry Standard Architecture
 Isofix
 ISO 11170
 ISO 13485
 Open Document Architecture
-Enhanced Small Disk Interface
 ISO 704
 ISO 6346
 ISBN
 ISO 15924
 Advanced Microcontroller Bus Architecture
 ISO 20400
-Amiga Zorro III
-ISO/IEC 8859-9
 ArmSCII
-Oslo Metro
-Local bus
-Peripheral Component Interconnect
 ISO metric screw thread
-Low Pin Count
 Equal-loudness contour
 ISO 10962
 Antimagnetic watch
@@ -399,71 +251,45 @@ OpenDocument
 QR code
 ISO 11783
 ISO 7001
-ISO 31-13
-ISO 14000
-Bus and Tag
 ISO 7637
 OCR-B
 IEEE
 ISO 2711
 ISO 3166-2
 ISO 2852
-ISO/IEC 27001
-ISO/IEC 7811
 O-ring
-ISO/IEC 8859-12
-De facto standard
 Digital Storage Systems Interconnect
 ISO 10303-28
-ISO/IEC 17025
 Kappa number
-ISO/IEC 38500
 Lexical Markup Framework
-Digital Control Bus
 Object Constraint Language
 JPEG XL
 ISO 9241
 Motion JPEG 2000
-Profibus
 ISO 10628
 ISO 11940-2
 Advanced Video Coding
-RS-423
 ISO 31-0
 IATF 16949
 ISO 13406-2
 ISO 5426
 ISO 2709
-IRMX
-PCI-X
 ISO 8178
-ISO/IEC 17024
-ISO/IEC 42010
-Advanced Host Controller Interface
-ISO/IEC 20000
 ISO 15022
 ISO 6344
 ISO 5775
 MPEG-4
-ISO/IEC 8859-13
-ISO/IEC 8859-2
-PC Card
 ISO 14617
 ISO 10007
-ISO 19092-1
 ISO 8000
-Bus contention
 ISO 233
 International Standard Musical Work Code
-ISO/IEC 7810
 On-board diagnostics
 ISO 10303-22
-NVM Express
 ISO 2145
 RELAX NG
 Horsepower
 Meta-Object Facility
-ISO/IEC 27002
 ISO 2015
 ISO 19439
 Open Data Protocol
@@ -474,27 +300,18 @@ ISO 5964
 MPEG-G
 Geospatial metadata
 Pascal (programming language)
-Address bus
 ISO 999
 ISO 7002
 Legal Entity Identifier
 ISO 860
 ISO 22395
 ISO 22300
-Parallel ATA
 135 film
-ISO/IEC 19770
 ISO 10303
-ISO/IEC 6523
-ISO/IEC 19752
 British Standard Pipe
 ISO 19600
 Ada Semantic Interface Specification
 COBOL
-ISO/IEC 7064
-CAN bus
 A440 (pitch standard)
-ISO/IEC 8859-5
 ISO 31-5
-ISO/IEC 19794-5
 ISO 4

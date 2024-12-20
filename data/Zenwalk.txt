@@ -1,4 +1,3 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
 AlmaLinux
@@ -7,7 +6,6 @@ Android-x86
 Android (operating system)
 Antergos
 AntiX
-Apt-get
 ArchBang
 ArchLabs
 Arch Linux
@@ -53,7 +51,6 @@ Debian
 Deepin
 DemoLinux
 Devuan
-DistroWatch
 DivestOS
 DoudouLinux
 Dreamlinux
@@ -75,7 +72,6 @@ Foresight Linux
 FreedomBox
 Freespire
 Frugalware Linux
-GNOME
 GNU Compiler Collection
 GNU Guix System
 GNewSense
@@ -87,17 +83,11 @@ GoboLinux
 Gobuntu
 GrapheneOS
 HandyLinux
-Hyperbola GNU/Linux-libre
-I486
-ISO image
 Immunix
 Indonesia
 Instruction set architecture
-Internet cafes
 IodéOS
-Jean-Philippe Guillemin
 Jurix
-KDE
 KDE neon
 KaOS
 KaiOS
@@ -111,10 +101,8 @@ Kongoni (operating system)
 Korora (operating system)
 Kubuntu
 Kwort Linux
-LXDE
 LXLE Linux
 Libranet
-Lightweight Linux distribution
 LinHES
 LineageOS
 Linpus Linux
@@ -128,8 +116,6 @@ Linux distribution
 Linux for PlayStation 2
 Linux kernel
 List of Linux distributions
-Live USB
-Live distro
 Lubuntu
 MCC Interim Linux
 MIUI
@@ -143,8 +129,6 @@ Mer (software distribution)
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Musix GNU+Linux
-Ncurses
 Network Security Toolkit
 NimbleX
 Nitix
@@ -158,12 +142,9 @@ OpenELEC
 OpenMandriva Lx
 OpenSUSE
 Open Enterprise Server
-Openbox
 Oracle Linux
 PCLinuxOS
-Package management system
 Package manager
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
@@ -198,7 +179,6 @@ Sailfish OS
 Salix OS
 Scientific Linux
 Slackware
-Slapt-get
 Slax
 Softlanding Linux System
 Software license
@@ -220,7 +200,6 @@ TopologiLinux
 Trisquel
 Turbolinux
 Turkix
-UNetbootin
 Ubuntu
 Ubuntu Budgie
 Ubuntu Cinnamon
@@ -232,19 +211,14 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 User interface
 VectorLinux
-Ventoy
 Vine Linux
 Void Linux
 Wayback Machine
 Whonix
 Wubuntu
-X86 64
 XB Machine
-Xfce
 Xubuntu
 Yellow Dog Linux
 Zorin OS

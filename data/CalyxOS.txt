@@ -1,63 +1,22 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
-AOKP
 API
-ARM architecture
-AdMob
-AliOS
 AlmaLinux
 Alpine Linux
 Amazon Kindle
 Android-x86
 Android (operating system)
-Android 10
 Android 11
-Android 12
-Android 13
-Android 14
-Android 15
-Android 16
-Android App Bundle
-Android Automotive
-Android Cupcake
-Android Debug Bridge
-Android Developer Challenge
-Android Developer Lab
-Android Donut
-Android Eclair
-Android Froyo
 Android Gingerbread
 Android Go
-Android Honeycomb
 Android Ice Cream Sandwich
 Android Jelly Bean
 Android KitKat
 Android Lollipop
-Android Marshmallow
-Android NDK
 Android Nougat
-Android One
-Android Open Accessory Development Kit
-Android Open Source Project
-Android Oreo
 Android Pie
-Android Runtime
-Android SDK
-Android Studio
-Android TV
-Android Things
-Android application package
-Android lawn statues
-Android recovery mode
-Android software development
-Android version history
-Androidland
 Antergos
 AntiX
-Apache Harmony
-Apk (file format)
-App Inventor for Android
 ArchBang
 ArchLabs
 Arch Linux
@@ -65,15 +24,12 @@ Artix Linux
 Asahi Linux
 Astra Linux
 Asturix
-Asus ZenUI
 Austrumi Linux
 B2G OS
 BLAG Linux and GNU
 BackBox
 BackTrack
 Bada (operating system)
-Baidu Yi
-Barnes & Noble Nook
 Bharat Operating System Solutions
 Binary Runtime Environment for Wireless
 BioSLAX
@@ -84,9 +40,7 @@ BlackBerry OS
 BlackBerry Tablet OS
 Black Lab Linux
 BlankOn Linux
-BlueStacks
 Bodhi Linux
-Booting process of Android devices
 BridgeOS
 C++
 CHAOS (operating system)
@@ -94,34 +48,25 @@ CRUX
 C (programming language)
 Calculate Linux
 Caldera OpenLinux
-Calyx Institute
 CentOS
 CentOS Stream
 Chakra (operating system)
 Chimera Linux
 ChromeOS
 ChromeOS Flex
-Chromecast
 ChromiumOS
-Chromium (web browser)
 ClearOS
 Clear Linux OS
-ClockworkMod
 ColorOS
 Commodore OS
-Community of practice
-Comparison of Android Go products
-Comparison of Java and Android API
 Comparison of Linux distributions
 Comparison of mobile operating systems
 Container Linux
-CopperheadOS
 Corel Linux
 CrDroid
 CrunchBang Linux
 Cub Linux
 CyanogenMod
-Dalvik (software)
 Damn Small Linux
 Damn Vulnerable Linux
 Database
@@ -133,8 +78,6 @@ DivestOS
 Doi (identifier)
 DoudouLinux
 Dreamlinux
-Droid (typeface)
-DuckDuckGo
 EMUI
 EPOC (operating system)
 Eclipse (software)
@@ -146,26 +89,15 @@ EndeavourOS
 Endless OS
 EulerOS
 F-Droid
-FOSS
-Fairphone
-Fairphone 4
-Fairphone 5
 Familiar Linux
-Fastboot
 Feather Linux
 Fedora Linux
 Fire OS
-Firebase
-Firebase Cloud Messaging
 Firefox OS
-Firmware
 Floppyfw
-Foldable smartphone
-Font
 Foresight Linux
 FreeBSD
 FreeRTOS
-Free and open-source software
 FreedomBox
 Freespire
 Frugalware Linux
@@ -175,7 +107,6 @@ GNU
 GNU Guix System
 GNewSense
 GOS (operating system)
-Galaxy Nexus
 Garuda Linux
 GeckoLinux
 Gentoo Linux
@@ -183,38 +114,20 @@ GoboLinux
 Gobuntu
 Google
 Google Cardboard
-Google Cloud Messaging
 Google Daydream
-Google Developers
-Google I/O
-Google LLC v. Oracle America, Inc.
 Google Maps
 Google Mobile Services
-Google Nexus
-Google Pixel
-Google Play Services
-Google Search
-Gradle
 GrapheneOS
-Guardian Project (software)
 HMD Global
-HTC One (M7)
-HTC One (M8)
-HTC Sense
 HandyLinux
 HarmonyOS
 HarmonyOS NEXT
-Hive UI
-Honor (brand)
-Hyperbola GNU/Linux-libre
 IOS
 IPadOS
 ISBN (identifier)
 Immunix
-Index of Android OS articles
 Integrated development environment
 Intel Management Engine
-IntelliJ IDEA
 IodéOS
 Java (programming language)
 Jurix
@@ -223,22 +136,15 @@ KaOS
 KaiOS
 Kaisen Linux
 Kali Linux
-Kali NetHunter
 Kanotix
 KateOS
 Kernel (operating system)
-Kingo Root
 Knoppix
 Kongoni (operating system)
 Korora (operating system)
-Kotlin (programming language)
 Kubuntu
 Kwort Linux
-LG G Pad 8.3
-LG UX
 LXLE Linux
-LeWa OS
-Lenovo smartphones
 Libranet
 LinHES
 LineageOS
@@ -253,15 +159,9 @@ Linux Router Project
 Linux distribution
 Linux for PlayStation 2
 Linux kernel
-List of Android TV devices
-List of Android apps by Google
 List of Android launchers
-List of Android smartphones
-List of Google Play edition devices
 List of Linux distributions
 List of custom Android distributions
-List of features in Android
-List of free and open-source Android applications
 List of mobile app distribution platforms
 List of open-source mobile phones
 LiteOS
@@ -273,16 +173,12 @@ MX Linux
 Maemo
 Mageia
 Magic Cap
-Magisk (software)
 Mandrake Linux
 Mandriva Linux
 Manjaro
-Material Design
 MeeGo
-Meizu
 Mer (software distribution)
 Meta Horizon OS
-MicroG
 Microsoft Windows
 Minix 3
 Miracle Linux
@@ -294,26 +190,9 @@ Moblin
 Monolithic kernel
 MontaVista
 MotoMagx
-Moto G (1st generation)
-Motoblur
-Motorola
-Mozilla Location Service
-Musix GNU+Linux
 NetBSD
 Network Security Toolkit
-Nexus 10
-Nexus 4
-Nexus 5
-Nexus 5X
-Nexus 6
-Nexus 6P
-Nexus 7 (2012)
-Nexus 7 (2013)
-Nexus 9
-Nexus One
 Nexus Player
-Nexus Q
-Nexus S
 NimbleX
 Nintendo
 Nintendo 3DS system software
@@ -323,22 +202,14 @@ Nitix
 NixOS
 Nobara Linux
 Nokia Asha platform
-Nokia X family
-Noto fonts
 Nova (operating system)
-OPhone
 OmniROM
-OnePlus
-OnePlus 8T
-OnePlus 9
 One UI
 Open-source software
-OpenBinder
 OpenELEC
 OpenEZX
 OpenEmbedded
 OpenHarmony
-OpenJDK
 OpenMandriva Lx
 OpenSUSE
 OpenStreetMap
@@ -347,17 +218,11 @@ Open Handset Alliance
 Open Mobile Alliance
 Openmoko Linux
 Operating system
-Optimus UI
 Oracle Linux
-Organic Maps
-Over-the-air programming
-OxygenOS
 PCLinuxOS
-POCO (company)
 Package manager
 PalmDOS
 Palm OS
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
@@ -365,24 +230,6 @@ Pentoo
 Peppermint OS
 Pinguy OS
 PixelExperience
-Pixel (1st generation)
-Pixel 2
-Pixel 3
-Pixel 3a
-Pixel 4
-Pixel 4a
-Pixel 5
-Pixel 5a
-Pixel 6
-Pixel 6a
-Pixel 7
-Pixel 7a
-Pixel 8
-Pixel 8a
-Pixel 9 Pro Fold
-Pixel C
-Pixel Fold
-Pixel Tablet
 Platypux
 PlayStation Portable system software
 PlayStation Vita system software
@@ -401,71 +248,51 @@ QtMoko
 Qubes OS
 ROSA Linux
 Raspberry Pi OS
-Realme
 Red Hat Enterprise Linux
 Red Hat Linux
 Red Star OS
 Remix OS
-RenderScript
 Replicant (operating system)
-Repository (version control)
 Resurrection Remix OS
-Roboto
 Rocks Cluster Distribution
 Rocky Linux
-Rooting (Android)
 S60 (software platform)
 SHR (operating system)
-SQLite
 SUSE Linux
 SUSE Linux Enterprise
 SUSE Studio
 Sabayon Linux
 Sabily
-SafetyNet API
 Sailfish OS
 Salix OS
-Samsung Experience
-Samsung Galaxy S4
 Scientific Linux
-Security-focused operating system
 Series 30
 Series 30+
 Series 40
 Series 80 (software platform)
 Series 90 (software platform)
-Signal (messaging app)
-Skia Graphics Engine
 Slackware
 Slax
-SlimRoms
 Smartphone
-Smartphone patent wars
 Softlanding Linux System
 Software release life cycle
 Solus (operating system)
 SolydXK
 Sony Ericsson Java Platform
-Sony Xperia Z Ultra
 Source Mage
 SparkyLinux
 Splashtop OS
 SteamOS
 Sunwah Linux
-SuperSU
 Symbian
 SystemRescue
 T2 SDE
-TCL Technology
-TWRP (software)
-Tablet computer
 Tails (operating system)
 Think Blue Linux
 ThreadX
 Tiny Core Linux
 Tizen
 TopologiLinux
-TouchWiz
 Trisquel
 Turbolinux
 Turkix
@@ -480,10 +307,8 @@ Ubuntu MATE
 Ubuntu Studio
 Ubuntu Touch
 Ubuntu Unity
-Ubuntu for Android
 Ultramarine Linux
 Unity Operating System
-Uruk GNU/Linux
 User interface
 VectorLinux
 Vine Linux
@@ -509,8 +334,6 @@ Wubuntu
 XB Machine
 XML
 XNU
-Xiaomi HyperOS
-XobotOS
 Xubuntu
 Yellow Dog Linux
 Zenwalk

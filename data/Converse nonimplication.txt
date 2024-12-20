@@ -1,25 +1,16 @@
 AND gate
-Absorbing element
 Boolean algebra (structure)
-Commutativity
 Contradiction
 Converse (logic)
-Converse implication
-Conversion (logic)
-Coprime
 Database
 De Morgan's laws
 Digital buffer
-Donald Knuth
-Duality (mathematics)
 Exclusive or
 False (logic)
 IMPLY gate
 ISBN (identifier)
 Inverter (logic gate)
 Involution (mathematics)
-Join (SQL)
-Józef Maria Bocheński
 Logic
 Logical NOR
 Logical biconditional
@@ -33,16 +24,10 @@ NAND gate
 NIMPLY gate
 NOR gate
 Negation
-Neutral element
 OR gate
-Propositional logic
 Sheffer stroke
 Statement (logic)
 Tautology (logic)
-The Art of Computer Programming
 Truth table
 Truth value
-Two-element Boolean algebra
 Venn diagram
-XNOR gate
-XOR gate

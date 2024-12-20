@@ -1,52 +1,13 @@
-Control-flow diagram
-Edge contraction
-Infinite loop
-Execution (computing)
-Depiction
 ISSN (identifier)
 Computer program
-Abstract syntax tree
-Structured programming
-GOTO
-Directed acyclic graph
-Directed graph
 Doi (identifier)
-While loop
-Lengauer–Tarjan's algorithm
-Zdeněk Dvořák
-Frances E. Allen
-Program dependence graph
-If-then-else
 Graph (discrete mathematics)
-Jump threading
-Data-flow analysis
-Reese Prosser
-Intermediate representation
 Halting problem
 S2CID (identifier)
-Unreachable code
 Edge (graph theory)
-Control flow
-Rust (programming language)
-Basic block
-Static single assignment
 ISBN (identifier)
 Wayback Machine
-Depth-first search
-Loop-invariant code motion
-Outdegree
-Dominator (graph theory)
 Exception handling
-Adjacency matrix
-Vertex (graph theory)
 Flowchart
-Control-flow analysis
 Compiler construction
-Constant propagation
-Compiler optimization
-Static code analysis
-Constant folding
-Cyclomatic complexity
-Interval (graph theory)
 Computer science
-Reachability

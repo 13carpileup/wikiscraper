@@ -1,36 +1,6 @@
-3-partition
-Ant colony optimization
 ArXiv (identifier)
-Baruch Schieber
-Branch-and-bound
 Computer science
 Doi (identifier)
-Earliness (scheduling)
-Flow-shop scheduling
-Genetic algorithm
 ISBN (identifier)
 ISSN (identifier)
-Identical-machines scheduling
-Interval scheduling
-Job-shop scheduling
-Knapsack problem
-Lateness (scheduling)
-Lawler's algorithm
-Makespan
-Network throughput
-Neural network
-Open-shop scheduling
-Operations Research
-Optimal job scheduling
-Optimization problem
-Parallel task scheduling
-Partition problem
 S2CID (identifier)
-Simulated annealing
-Strongly NP-hard
-Tabu search
-Tardiness (scheduling)
-Throughput
-Truthful job scheduling
-Uniform-machines scheduling
-Unrelated-machines scheduling

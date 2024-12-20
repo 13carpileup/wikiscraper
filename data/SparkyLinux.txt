@@ -1,8 +1,5 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
-ARM architecture
-Advanced Packaging Tool
 AlmaLinux
 Alpine Linux
 Android-x86
@@ -53,12 +50,9 @@ Damn Vulnerable Linux
 Debian
 Deepin
 DemoLinux
-Desktop environment
 Devuan
-DistroWatch
 DivestOS
 DoudouLinux
-Dpkg
 Dreamlinux
 EMUI
 Edubuntu
@@ -67,7 +61,6 @@ Elive
 Emmabuntüs
 EndeavourOS
 Endless OS
-Enlightenment (software)
 EulerOS
 Familiar Linux
 Feather Linux
@@ -76,7 +69,6 @@ Fire OS
 Firefox OS
 Floppyfw
 Foresight Linux
-Free and open-source software
 Free software
 FreedomBox
 Freespire
@@ -93,12 +85,9 @@ GoboLinux
 Gobuntu
 GrapheneOS
 HandyLinux
-Hyperbola GNU/Linux-libre
-IA-32
 Immunix
 IodéOS
 Jurix
-KDE Plasma 5
 KDE neon
 KaOS
 KaiOS
@@ -112,9 +101,7 @@ Kongoni (operating system)
 Korora (operating system)
 Kubuntu
 Kwort Linux
-LXDE
 LXLE Linux
-LXQt
 Libranet
 LinHES
 LineageOS
@@ -129,9 +116,7 @@ Linux distribution
 Linux for PlayStation 2
 Linux kernel
 List of Linux distributions
-List of live CDs
 Lubuntu
-MATE (software)
 MCC Interim Linux
 MIUI
 MX Linux
@@ -144,7 +129,6 @@ Mer (software distribution)
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Musix GNU+Linux
 Natural language
 Network Security Toolkit
 NimbleX
@@ -163,7 +147,6 @@ Operating system
 Oracle Linux
 PCLinuxOS
 Package manager
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
@@ -190,7 +173,6 @@ Replicant (operating system)
 Resurrection Remix OS
 Rocks Cluster Distribution
 Rocky Linux
-Rolling release
 SUSE Linux
 SUSE Linux Enterprise
 SUSE Studio
@@ -221,7 +203,6 @@ Trisquel
 Turbolinux
 Turkix
 Ubuntu
-Ubuntu (operating system)
 Ubuntu Budgie
 Ubuntu Cinnamon
 Ubuntu GNOME
@@ -232,8 +213,6 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 User interface
 User space and kernel space
 VectorLinux
@@ -241,9 +220,7 @@ Vine Linux
 Void Linux
 Whonix
 Wubuntu
-X86-64
 XB Machine
-Xfce
 Xubuntu
 Yellow Dog Linux
 Zenwalk

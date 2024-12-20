@@ -1,199 +1,69 @@
-.NET Framework
-.jad
-.jar
-.sis
-.sisx
 16-bit
-1seg
-3G
-4680 OS
-4690 Operating System
-802.11
-AIM alliance
 ANSI C
-ARM7
-ARM9
-ARM architecture
-ARM family
-AROS Research Operating System
-ARX (operating system)
 Accenture
-Accredited Symbian Developer
-Active objects
-Adam Dunkels
-Adaptive Domain Environment for Operating Systems
 Adobe Flash
-Adobe Flash Lite
-Adobe Flash Player
 Amazon Kindle
-Amiga
-AmigaOS
-Amoeba (operating system)
 Andrew S. Tanenbaum
 Android (operating system)
 Android Go
-Android OS
-Apache Mynewt
-AppForge
-Application binary interface
-Application software
 Assembly language
-Authorization certificate
-Avie Tevanian
 B2G OS
 Backward compatibility
 Bada (operating system)
-BeRTOS
 Binary Runtime Environment for Wireless
-Binary code compatibility
 BlackBerry 10
 BlackBerry OS
 BlackBerry Tablet OS
 Bluetooth
-Borland
 BridgeOS
 C++
 CDMA
 C (programming language)
 C Sharp (programming language)
-Cabir (computer worm)
-Capability-based security
-Carbide.c++
-Carbide.vs
-Caribe (computer worm)
-CeBIT
 Central processing unit
-ChibiOS/RT
-ChorusOS
 ChromeOS
 ChromeOS Flex
-Clamshell design
-CodeWarrior
-Codec
-Comparison of Symbian devices
 Comparison of mobile operating systems
-Comparison of real-time operating systems
 Computer hardware
 Computer worm
 Computing platform
-Concurrent DOS
-Contiki
-Copland (operating system)
-Cosmos (operating system)
-Cross-compiler
-Cut, copy, and paste
-DBMS
-DLNA
-DNIX
 DOS
-DSOS
-DVB-H
-Dan Dodge
-Data descriptor
-Data migration
-Dave Cutler
-David Cheriton
-David Levin (businessman)
 Device driver
-Diamond Mako
 Digital Equipment Corporation
-Digital signature
-DioneOS
 Download!
-EABI
-ECos
-EKA1
-EKA2
 EMUI
 EPOC (operating system)
-ERIKA Enterprise
-EROS (microkernel)
 Eclipse (software)
-Eclipse Public License
-Enhanced Data Rates for GSM Evolution
 Ericsson
-Ericsson MC218
-Ericsson R380
 EulerOS
-Eumel
-Exec (Amiga)
-F-07F
-FM radio
-FM transmitter (personal device)
-FOMA
 Fedora Linux
 File Allocation Table
-File Server
 File system
 Firefox OS
-Flash Lite
-FlexOS
 FreeBSD
 FreeRTOS
-Free Software Foundation
 Free software
 Fuchsia (operating system)
-Fujitsu
 GEOS (16-bit operating system)
-GNOSIS
 GNU
 GNU Compiler Collection
-GNU Hurd
-GNU Mach
-Genode
-Geofox
-Gernot Heiser
-Gordon Bell (QNX)
 Graphical user interface
-Green Hills Software
-HDMI
 HMD Global
-HSDPA
 HarmonyOS
 HarmonyOS NEXT
-Harmony (operating system)
-HelenOS
-Helix Project
-Hydra (operating system)
-I-mode
 IBM
-IEEE 802.11
 IOS
 IOS (Apple)
 IPadOS
-IPv6
 ISBN (identifier)
-ITRON project
-Ike Nassi
 Integrated development environment
-Integrity (operating system)
-Intel 8086
 Intel Management Engine
-IrDA
-JX (operating system)
-James G. Mitchell
 Japanese writing system
-JavaOS
 JavaScript
-Java ME
-Java Platform, Micro Edition
-Java virtual machine
-Jo Harlow
-Jochen Liedtke
 John Wiley & Sons
-Junos OS
-K42
 KaiOS
-Ken Sakamura
 Kernel (operating system)
-KeyKOS
-L3 microkernel
-L4Linux
-L4 microkernel family
-LG
-LG Electronics
 Laptop
-Learning curve
 Library (computing)
 Linux
 Linux Kernel
@@ -201,398 +71,106 @@ List of custom Android distributions
 List of mobile app distribution platforms
 List of open-source mobile phones
 LiteOS
-Lites
 LuneOS
-LynxOS
-MBM (file format)
-MOAP
-MQX
-MacMach
 MacOS
-Mac OS 8
-Mac OS nanokernel
-MachTen
-Mach (kernel)
 Macintosh
 Maemo
 Magic Cap
-Malcon
-Mandatory code signing
 Manjaro
 MeeGo
-Meiko Scientific
-Memory management
-Memory protection
 Mer (software distribution)
-Micro-Controller Operating Systems
-MicroEmpix
-Micro T-Kernel
-Microkernel
 Microsoft
-Microsoft Silverlight
-Microsoft Visual Studio
 Microsoft Windows
-Microware
 Middleware
-Midori (operating system)
-Minix
-Minix-vmd
 Minix 3
-Mitsubishi
-Mitsubishi Electric
-MkLinux
 Mobian
-Mobile 3D Graphics API
 Mobile app development
 Mobile operating system
-Mobile security
-Mobile virus
 Mobilinux
 Moblin
-Model–view–controller
 MontaVista
-MorphOS
 MotoMagx
-Motorola
-Motorola Mobility
-Multi-Environment Real-Time
-Multi touch
-Multimedia
-Multiuser DOS
 N-Gage (service)
-NLTSS
-NS Basic
-NTT DoCoMo
-Nano-RK
-Nanokernel
 Natural language
-Near field communication
 NetBSD
 NetBeans
-Nigel Clifford
 Nintendo
 Nintendo 3DS system software
 Nintendo DSi system software
 Nintendo Switch system software
 Nokia
-Nokia 3650
-Nokia 500
-Nokia 5230
-Nokia 5233
-Nokia 5235
-Nokia 5250
-Nokia 5320 XpressMusic
-Nokia 5530 XpressMusic
-Nokia 5630 XpressMusic
-Nokia 5700
-Nokia 5730 XpressMusic
-Nokia 5800
-Nokia 5800 Navigation Edition
-Nokia 5800 XpressMusic
-Nokia 600
-Nokia 603
-Nokia 6210 Navigator
-Nokia 6220 Classic
-Nokia 6650 fold
-Nokia 6710 Navigator
-Nokia 6720 Classic
-Nokia 6730
-Nokia 6760 Slide
-Nokia 700
-Nokia 701
-Nokia 7650
-Nokia 7710
-Nokia 808 PureView
-Nokia 9210
-Nokia 9300
-Nokia 9300i
-Nokia 9500
 Nokia Asha platform
-Nokia C5-00
-Nokia C5-03
-Nokia C6-00
-Nokia C6-01
-Nokia C7
-Nokia C7-00
-Nokia C7 Astound
-Nokia Developer
-Nokia E5-00
-Nokia E51
-Nokia E52
-Nokia E55
-Nokia E6
-Nokia E61
-Nokia E7-00
-Nokia E71
-Nokia E72
-Nokia E75
-Nokia E90
-Nokia Maps
-Nokia N70
-Nokia N73
-Nokia N78
-Nokia N79
-Nokia N8
-Nokia N81
-Nokia N82
-Nokia N85
-Nokia N86 8MP
-Nokia N90
-Nokia N95
-Nokia N96
-Nokia N97
-Nokia N97 mini
-Nokia Ovi suite
-Nokia PC Suite
-Nokia Software Updater
-Nokia X5
-Nokia X6 (2009)
-Nokia X7
-Nokia X7-00
-Nokia X platform
 North America
-Nseries
-NuKernel
-Nucleus RTOS
-NuttX
-OMA Device Management
-OS-9
-OS2000
 Object-oriented programming
-Ohloh
 Open-source software
-OpenComRTOS
 OpenEZX
 OpenEmbedded
-OpenGL
-OpenGL ES
 OpenHarmony
 OpenVMS
-OpenVPN
 Open Handset Alliance
-Open Kernel Labs
 Open Mobile Alliance
-Open Programming Language
-Open Source Initiative
-Open system (computing)
 Openmoko Linux
-Opera Mobile
-Operating System Embedded
 Operating system
-Oregon Scientific
-Osaris
-Ovi (Nokia)
-Ovi Store
-P.I.P.S. Is POSIX on Symbian
-PDP-11
-PJava
 POSIX
-PSOS (real-time operating system)
-PX5 RTOS
 Package manager
 PalmDOS
 Palm OS
-Pen computing
-Per Brinch Hansen
-Personal digital assistant
-Phantom OS
-PikeOS
 PlayStation Portable system software
 PlayStation Vita system software
-Pocket computer
-Pointing device
 PostmarketOS
-PowerPC
-PowerUP (accelerator)
-Pre-emptive multitasking
-Preemptive multitasking
 Programmer
 Programming language
 Proprietary software
-Proxy server
-Psion (company)
-Psion (computers)
-Psion 3
-Psion 5
-Psion MC series
-Psion Organiser
-Psion Revo
-Psion Series 3
-Psion Series 5
-Psion Series 5mx
-Psion Series 7
-Psion Siena
-Psion netBook
 PureOS
 Python (programming language)
-Python for S60
-Python for Symbian
-QML
 QNX
 QtMoko
-Qt (software)
-Qt Creator
-Qt Quick
-Quark (kernel)
 RAM
-RC 4000 multiprogramming system
-REAL/32
-REX OS
-RIOT (operating system)
-RMX (operating system)
 RSX-11
 RT-11
-RT-Thread
-RTAI
-RTEMS
-RTLinux
 Read-only memory
-Real-Time Linux
-Real-time operating system
-Redox (operating system)
-Research In Motion
-Richard Rashid
-Robot Operating System
-Rogue software
-Royalty-free
 Ruby (programming language)
 S60 (software platform)
-S60 5th edition
-S60 browser
-S60 platform
-S60 web browser
-SH-07F
 SHR (operating system)
-SIS (file format)
-SPIN (operating system)
 SQL
-SQLite
 Sailfish OS
-Samsung
 Samsung Electronics
-Samsung GT-i8510
-Samsung Omnia HD
-Samsung SGH-G810
-Samsung SGH-i550w
-Samsung i8910
-Scheduling (computing)
-ScreenOS
-SeL4
-Secure Shell
-Segger Microcontroller Systems
-Self-signed certificate
-Sendo X
 Series 30
 Series 30+
 Series 40
-Series 60
 Series 80 (software platform)
 Series 90 (software platform)
-SharpOS
-Sharp Corporation
-Sharp Electronics
-Siemens SX1
-Signalling stack
-Singularity (operating system)
-Sintran III
-Smart Feature OS
 Smartphone
-Social engineering (security)
 Software
 Software development kit
 Software framework
 Software license
-Software platform
 Software release life cycle
-Software widget
-Sony Ericsson
-Sony Ericsson G900
 Sony Ericsson Java Platform
-Sony Ericsson M600
-Sony Ericsson P1
-Sony Ericsson P800
-Sony Ericsson P990
-Sony Ericsson Satio
-Sony Ericsson Vivaz
-Sony Ericsson Vivaz Pro
 Sony Mobile
 Source code
-Spring (operating system)
 SteamOS
-Stephen Elop
 StrongARM
-Subnotebook
-Sun Java Wireless Toolkit
-SuperH
-SuperWaba
-Sybian
-Symbian Foundation
-Symbian Ltd.
-Symbian OS threats
-Symbian Software
-Symbion
-SyncML
-T-Engine Forum
-T-Kernel
-T-License
-THEOS
-TI-RTOS
-TRON project
-Taligent
-Telecommunications network
-Texas Instruments
-The Register
-Thomas Bushnell
-Thoth (operating system)
 ThreadX
-Threat (computer)
-Tinix
 Tizen
-Touchscreen
-Transaction Processing Facility
 Trojan horse (computing)
-Turn-by-turn navigation
 UBports
 UIQ
-UIQ Technology
-UNICOS
-UNOS (operating system)
 USB
-USB on the go
 Ubuntu Touch
 Unicode
-Unix
-Unix-like
-Unsigned code
 User interface
 VAX
 VAXELN
-VSTa
-V (operating system)
-Vanguard (microkernel)
-Vector graphic
-Versatile Real-Time Executive
-Verve (operating system)
-Visual Basic
-Visual Basic .NET
-VxWorks
-WarpOS
 WatchOS
 Wayback Machine
 Wear OS
-WebKit
 WebOS
-Web Browser for S60
-Web Runtime (WRT)
-Wi-Fi
-William Wulf
 Windows 10
 Windows 10 Mobile
 Windows 11
 Windows 8
 Windows 8.1
-Windows CE
-Windows Embedded Compact
 Windows Mobile
 Windows Phone
 Windows Phone 7
@@ -600,14 +178,8 @@ Windows Phone 8
 Windows Phone 8.1
 Windows RT
 Windows XP editions
-Wombat (operating system)
-Workplace OS
 X86
 XNU
-XScale
-Xcode
-Xenomai
 ZDNet
-Zephyr (operating system)
 Zircon (microkernel)
 Ångström distribution

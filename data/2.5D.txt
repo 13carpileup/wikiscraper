@@ -1,200 +1,95 @@
 2D computer graphics
 3D computer graphics
 3D projection
-3D rendering
 Activision
 Affine transformation
-Alan MacEachren
-Aliasing
 Alpha compositing
 Animation
 Anisotropic filtering
-Antarctic Adventure
 Arcade game
 Arcade system board
-Asphalt Urban GT
-Astron Belt
 Atari
-Axonometric
-Axonometric projection
 Back-face culling
-Baldur's Gate (video game)
-Bas-relief
 Battlezone (1980 video game)
-Beam tracing
-Beamrider
-Billboard
-Bitmap
-Bump mapping
-Carmageddon
-Cel-shaded animation
-Cel shading
-Checkerboard rendering
 Clipping (computer graphics)
 Collision detection
 Combat flight simulation game
 Comparison of vector graphics editors
-Computer display
 Computer graphics
-Computer graphics (computer science)
 Computer graphics lighting
-Computer system
 Cone tracing
-Congo Bongo
 Console game
-Cool Riders
-Cube mapping
 Deferred shading
-Diablo (video game)
 Diffusion curve
-Digitization
 Doi (identifier)
 Don Daglow
 Doom (1993 video game)
 Dot product
-Drakkhen
-Driving
 Duke Nukem 3D
-Eddie Dombrower
 Engineering drawing
-Eternam
-Face perception
 Fighter aircraft
 First-person (video games)
 First-person shooter
-First-person shooter engine
-First person (video games)
-Fixed 3D
 Flash animation
 Fluid animation
-Fonz (arcade)
 Frame rate
 Full-motion video
-Full motion video based game
 Game art design
 Game engine
-Gameplay
-Geographic visualization
 Giorgio Moroder
 Global illumination
-Graphic adventure game
 Graphical user interface
 Graphics processing unit
 Graphics software
-Grayscale
-Gremlin Industries
-Handheld video game
-Happy Days
-Head-coupled perspective
-Height map
 Hidden-surface determination
-History of video game consoles (fourth generation)
 ISBN (identifier)
-Icon (computing)
 Image-based modeling and rendering
-In Saturn's Rings
-Intellivision World Series Baseball
-Irem
-Iron Man 2 (video game)
-Isometric adventure game
-Isometric computer graphics
-Isometric graphics in video games
 Isometric video game graphics
-John Pile Jr
 Joystick
-Juno First
-Killer List of Videogames
 Konami
-Laserdisc video game
 Layers (digital image editing)
 Level (video gaming)
-Limited animation
-Lincity
-List of 3D animation software
 List of 3D computer graphics software
 List of 3D modeling software
 List of 3D rendering software
-List of Taito games
 List of computer graphics algorithms
-List of first-person shooter engines
-List of four-dimensional games
-List of interactive movies
-List of stereoscopic video games
-List of text-based computer games
-Live2D
-Liz Phair
-MSX
 Marathon Trilogy
 Mattel
 Merriam-Webster
 Microprocessor
 MobyGames
 Mode 7
-Moon Patrol
-Motocross
-Motorbike
-Multiplane camera
-Namco
-Night Driver (arcade game)
-Nihon Bussan
 Nintendo
-Nippon Electric Company
 Normal mapping
-Oblique projection
-Out Run
 PC Gamer
 PMID (identifier)
-Palette animation
-Paperboy (video game)
-Parallax
-Parallax mapping
 Parallax scrolling
-Parallel projection
 Path tracing
 Pixel
 Pixel art
 Planar projection
 Plane (mathematics)
 Platform game
-Pole Position
-Polygon
 Polygon (computer graphics)
 Polygon mesh
-Polygonal modeling
-Portrait
-Pre-rendering
 Racing video game
-Radar Scope
 Rail shooter
 Raster graphics editor
-Ray casting
 Ray tracing (graphics)
 Real-time computer graphics
 Reality
-Red Baron (1980 video game)
 Reflection (computer graphics)
 Rendering (computer graphics)
-Rise of the Triad
-Road Rash (video game)
-Robert Evans (film producer)
-Rodney Ascher
 Role-playing video game
 Rotation (mathematics)
 Rotoscoping
-Run and gun (video game)
-Rygar
 S2CID (identifier)
 Scaling (geometry)
 Scanline rendering
 Sega
-Sega OutRun
-Sega SG-1000
-Sega Super Scaler
 Shader
 Shading
 Shadow mapping
-Shadow of the Beast (1989 video game)
-Shadow volume
 Shear matrix
 Shoot 'em up
 Shooter game
@@ -202,62 +97,31 @@ Side-scrolling video game
 SimCity 2000
 Sitcom
 Skybox (video games)
-Sonic the Hedgehog (1991 video game)
-Space Harrier
 Spectral rendering
-Specularity
 Sphere
-Sports game
-Sprite (computer graphics)
-Star Trek (arcade game)
 Stereoscopic video game
 Strategy video game
 Street Fighter II
-SubRoc-3D
 Super Mario 64
-Super Mario Kart
 Super Mario World
 Super Nintendo Entertainment System
-Surface normal
 Surface triangulation
 System Shock
-Tac/Scan
-Taito
 Taylor & Francis
-Test Drive (1987 video game)
 Texel (graphics)
-Text-based game
-Text-to-image model
 Texture mapping
-The Kid Stays in the Picture
-Third-person (video games)
 Third-person shooter
 Third-person view
 Three-dimensional space
-Three-dimensional space (mathematics)
-Three-quarter profile
-Thunder Blade
-Tile-based video game
-Tomohiro Nishikado
-Top-down perspective
 Traditional animation
-Translation (geometry)
-Trenta (valley)
 Triangle mesh
-Trompe-l'œil
-Turbo (video game)
 Unbiased rendering
-Vector (geometric)
-Vector game
-Vector graphics
 Video game
 Video game graphics
 Virtual camera system
 Virtual reality
-Volume rendering
 Voxel
 Wire-frame model
 Wolfenstein 3D
-Z-index
 ZBrush
 Zaxxon

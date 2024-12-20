@@ -1,7 +1,5 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
-Aarch64
 AlmaLinux
 Alpine Linux
 Android-x86
@@ -16,7 +14,6 @@ Asahi Linux
 Astra Linux
 Asturix
 Austrumi Linux
-AwesomeWM
 BLAG Linux and GNU
 BackBox
 BackTrack
@@ -48,7 +45,6 @@ CrDroid
 CrunchBang Linux
 Cub Linux
 CyanogenMod
-Cyber security
 Damn Small Linux
 Damn Vulnerable Linux
 Debian
@@ -72,7 +68,6 @@ Fedora Linux
 Fire OS
 Firefox OS
 Floppyfw
-Fluxbox
 Foresight Linux
 FreedomBox
 Freespire
@@ -88,8 +83,6 @@ GoboLinux
 Gobuntu
 GrapheneOS
 HandyLinux
-Hyperbola GNU/Linux-libre
-I3wm
 Immunix
 IodéOS
 Jurix
@@ -134,7 +127,6 @@ Mer (software distribution)
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Musix GNU+Linux
 Network Security Toolkit
 NimbleX
 Nitix
@@ -148,16 +140,12 @@ OpenELEC
 OpenMandriva Lx
 OpenSUSE
 Open Enterprise Server
-Optical disc image
 Oracle Linux
 PCLinuxOS
 Package manager
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
-Parrot Security OS
 Parsix
-Penetration testing
 Pentoo
 Peppermint OS
 Pinguy OS
@@ -177,11 +165,9 @@ Red Hat Linux
 Red Star OS
 Remix OS
 Replicant (operating system)
-Repository (version control)
 Resurrection Remix OS
 Rocks Cluster Distribution
 Rocky Linux
-Rolling release
 SUSE Linux
 SUSE Linux Enterprise
 SUSE Studio
@@ -223,20 +209,14 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 User interface
 User space and kernel space
 VectorLinux
 Vine Linux
 Void Linux
 Whonix
-WonderHowTo
 Wubuntu
-X86-64
 XB Machine
-XFCE
-Xfce
 Xubuntu
 Yellow Dog Linux
 Zenwalk

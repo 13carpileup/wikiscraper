@@ -1,366 +1,53 @@
-.design
-Abstract data type
-Activity-centered design
-Ada (programming language)
-Ada programming language
-Adaptive web design
 Advertising
-Affective design
 Agile software development
 Algorithm design
-Algorithms-Aided Design
-American Institute of Graphic Arts
-Applied arts
-Architect-led design–build
-Architectural design competition
-Architectural lighting design
 Architectural model
 Architecture
-Argument from poor design
-Assertion (software development)
-Automotive design
-Automotive suspension design process
-Behavioural design
-Bertrand Meyer
 Blueprint
-Boiler design
-Book design
-Brainstorming
 Brand
-Building design
-C-K theory
-CMF design
-Ceramic art
-Chartered Society of Designers
-Ciao (programming language)
-Circuit design
-Class (computer programming)
-Class invariant
-Clojure
-Cobra (programming language)
-Comment (computer programming)
-Common Lisp Object System
-Communication design
-Community design
 Component-based software engineering
-Comprehensive layout
 Computer-aided design
-Computer-aided garden design
-Computer-aided industrial design
-Computer-automated design
-Concept-oriented design
 Concept art
-Conceptual design
-Conceptual metaphor
-Configuration design
-Contextual design
-Continuous design
 Correctness (computer science)
 Corrugated box design
-Costume design
-Cradle-to-cradle design
 Creative industries
-Creative problem-solving
-Creativity techniques
-Critical design
-Cultural icon
 D (programming language)
-Dafny (programming language)
-Database design
-Defensive design
-Defensive programming
 Design
-Design Council
-Design Research Society
-Design and Industries Association
-Design around
-Design brief
-Design by committee
-Design change
-Design choice
-Design classic
-Design closure
-Design competition
-Design computing
-Design controls
-Design culture
-Design director
-Design education
-Design elements
 Design engineer
-Design fiction
-Design firm
-Design flow (EDA)
-Design for All (in ICT)
-Design for Six Sigma
-Design for X
-Design for assembly
-Design for manufacturability
-Design for testing
-Design history
-Design infringement
-Design knowledge
-Design language
-Design leadership
-Design life
-Design load
-Design management
-Design marker
-Design methods
-Design museum
-Design of experiments
-Design paradigm
-Design patent
-Design pattern
-Design principles
-Design quality indicator
 Design rationale
-Design research
-Design review
-Design science
-Design specification
-Design sprint
-Design strategy
-Design studies
-Design studio
-Design technology
-Design theory
-Design thinking
-Design tool
-Designer
-Design–bid–build
-Design–build
-Diffuse design
 Distributed computing
-Domain-driven design
-Drug design
-Dynamic binding (computer science)
 Ecological design
 Eiffel (programming language)
-Electric guitar design
-Electrical system design
 Electronic design automation
-Empathic design
-Employee experience design
-Energy neutral design
 Engineering
-Engineering design process
 Enterprise architecture
-Environmental design
-Environmental impact design
-Error-tolerant design
-European Design Award
-Exception (computer science)
 Exception handling
-Exhibit design
-Experience design
-Experiential interior design
-Fail-fast system
 Fashion design
-Fashion design copyright
-Fault-tolerant design
-Film title design
-Filter design
-Floral design
 Flowchart
 Form factor (design)
 Formal methods
-Formal specification
 Formal verification
-Fortress (programming language)
-Framework-oriented design
-Functional design
-Furniture
-Futures studies
 Game art design
 Game design
-Garden design
-Generative design
-Geodesign
-Geometric design
-German Design Award
-Geschmacksmuster
-Glass art
-Good Design Award (Chicago Athenaeum)
-Good Design Award (Museum of Modern Art)
-Graphex
 Graphic design
-HTML editor
-Hardware interface design
-Healthy community design
-High-level design
 Hoare logic
-Hoare triple
-Hotel design
-Human-centered design
-IF Product Design Award
-Icon design
 Illustration
-Immersive design
-Inclusive design
 Indie design
 Industrial design
-Industrial design right
-Industrial design rights in the European Union
-Information design
-Inheritance (object-oriented programming)
 Innovation management
-Instructional design
-Integrated circuit design
-Integrated design
-Integrated topside design
-Integration testing
-Intelligence-based design
-Intelligent design
 Interaction design
-Interior architecture
 Interior design
-International Forum Design
-Invariant (computer science)
-Iterative design
-James Dyson Award
-Jewellery design
-KISS principle
-Keyline design
-Kotlin (programming language)
-Landscape architecture
-Landscape design
-Lean startup
 Level (video games)
-Lighting design
-Liskov substitution principle
-Low-level design
-Mechanism design
-Mercury (programming language)
-Metadesign
-Method (computer science)
-Mind map
-Mockup
-Modular design
 Modular programming
-Motion graphic design
-Motorcycle design
-New Wave (design)
 New product development
-News design
-Nuclear weapon design
-Nucleic acid design
-OODA loop
-Object-Oriented Software Construction
-Object-oriented design
 Object-oriented programming
-Offensive programming
-Open-design movement
 Organizational architecture
-Outline of design
-Oxygene (programming language)
-Packaging and labeling
-Parametric design
-Participatory design
-Passive solar building design
-Philosophy of design
-Photographic lens design
-Photography
-Physical design (electronics)
-Platform-based design
-Policy-based design
-Postage stamp design
-Postcondition
-Power network design (IC)
-Precondition
-Prince Philip Designers Prize
-Print design
-Privacy by design
-Probabilistic design
-Process-centered design
-Process design
-Process simulation
-Processor design
-Product design
-Production designer
 Program derivation
-Program refinement
 Programming language
-Property designer
-Protein design
 Prototype
-Public art
-Public interest design
-Racket (programming language)
-Rational design
-Regenerative design
 Reliability engineering
-Research-based design
-Research design
-Responsibility-driven design
-Responsive web design
-Retail design
-SPARK (programming language)
-STEAM fields
-Safe-life design
-Sather
-Scala (programming language)
-Scenic design
-Sensory design
-Service design
-Side effect (computer science)
-Signage
-Sketch (drawing)
-Slow design
-Social design
 Software design
-Software documentation
-Sonic interaction design
-Sound design
-Spacecraft design
-Spatial design
-Static code analysis
-Storyboard
-Strategic design
-Strong and weak typing
-Strong typing
-Student design competition
-Sustainable design
-Sustainable furniture design
-Sustainable landscape architecture
-System testing
-Systemic design
-Systems-oriented design
-Systems design
-TRIZ
-Tableless web design
-Technical drawing
 Test-driven development
-Test oracle
-Test suite
-Textile design
-Theory of constraints
-Top-down and bottom-up design
-Traffic sign design
-Transformation design
-Transgenerational design
-Type design
-Typestate analysis
-Typography
-Unit testing
-Universal design
-Urban design
-Usage-centered design
-Use-centered design
-User-centered design
-User experience design
-User innovation
-User interface design
-VDM specification language
 Vala (programming language)
-Value-driven design
-Value sensitive design
-Video design
-Video game design
-Virtual home design software
-Visual merchandising
 Visualization (graphics)
-Web design
-Website wireframe
-Wicked problem
 Work design

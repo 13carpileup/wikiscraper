@@ -1,5 +1,4 @@
 AC motor
-Airborne wind energy
 Albert Einstein
 Alessandro Volta
 Alfred-Marie Liénard
@@ -8,46 +7,31 @@ Ampère's circuital law
 André-Marie Ampère
 ArXiv (identifier)
 Binding energy
-Bioenergy
-Biomass
 Biot–Savart law
-Bound charge
 Bremsstrahlung
 Capacitance
 Capacitor
-Carbon footprint
 Carl Friedrich Gauss
-Cgs system
 Charge density
 Charles-Augustin de Coulomb
 Charles Proteus Steinmetz
-Chemical energy
 Classical electromagnetism
 Classical electromagnetism and special relativity
-Coal
 Cogeneration
 Computational electromagnetics
-Concentrated solar power
 Conservation of energy
-Conservative force
 Conservative vector field
 Coulomb's law
-Coulomb force
 Covariant formulation of classical electromagnetism
 Curl (mathematics)
 Current density
 Cyclotron radiation
 DC motor
-Dark energy
-Dipole
 Direct current
 Displacement current
-Displacement vector
 Divergence theorem
 Doi (identifier)
 Eddy current
-Efficient energy use
-Elastic energy
 Electret
 Electric battery
 Electric charge
@@ -66,8 +50,6 @@ Electrical impedance
 Electrical network
 Electrical resistance and conductance
 Electricity
-Electricity delivery
-Electricity generation
 Electrolysis
 Electromagnetic field
 Electromagnetic four-potential
@@ -79,114 +61,58 @@ Electromagnetic tensor
 Electromagnetism
 Electromotive force
 Electron
-Electronvolts
 Electrostatic discharge
-Electrostatic field
-Electrostatic force
 Electrostatic induction
-Electrostatic potential
 Electrostatics
 Elementary charge
 Emil Lenz
 Emil Wiechert
 Energy
-Energy carrier
-Energy condition
-Energy conservation
-Energy consumption
-Energy democracy
 Energy development
-Energy efficiency in agriculture
-Energy efficiency in transport
 Energy engineering
-Energy in Africa
-Energy in Asia
-Energy in Australia
-Energy in Europe
-Energy in Mexico
-Energy in South America
 Energy in the United States
-Energy level
-Energy policy
-Energy policy of Canada
-Energy recovery
-Energy recycling
-Energy security
-Energy storage
-Energy supply
-Energy system
-Energy transformation
-Energy transition
-Enthalpy
-Entropic force
-Entropy
 Erg
-Exergy
 Faraday's law of induction
 Fossil fuel
-Fossil fuel power station
 Four-current
 Franz Ernst Neumann
-Free entropy
-Fuel
 Fuel oil
 Félix Savart
 Gauss's law
 Gauss's law for magnetism
 Georg Ohm
 George Singer
-Geothermal energy
-Geothermal power
-Gravitational binding energy
-Gravitational energy
 Gustav Kirchhoff
 Gyrator–capacitor model
 Hans Christian Ørsted
-Heat
-Heat capacity
 Heat transfer
 Heinrich Hertz
 Hendrik Lorentz
 Hermann von Helmholtz
 Hippolyte Fizeau
 History of electromagnetic theory
-History of energy
 Humphry Davy
-Hydroelectricity
 Hydrogen
-Hydrogen fuel
-Hydropower
 ISBN (identifier)
 ISSN (identifier)
-Index of energy articles
 Inductance
 Induction motor
 Insulator (electricity)
-Integrated gasification combined cycle
-Interatomic potential
-Internal energy
-Ionization energy
-Irreversible process
-Isolated system
 J. J. Thomson
 James Clerk Maxwell
 James Prescott Joule
 Jean-Baptiste Biot
 Jefimenko's equations
-Jevons paradox
 John Henry Poynting
 John Hopkinson
 John Wiley & Sons
 Joseph Henry
 Joseph Larmor
 Joule
-Joule's first law
 Joule heating
 Kinetic energy
 Kirchhoff's circuit laws
 Larmor formula
-Latent heat
-Laws of thermodynamics
 Lenz's law
 Linear motor
 List of electrical phenomena
@@ -197,7 +123,6 @@ Lord Kelvin
 Lorentz force
 Magnetic circuit
 Magnetic complex reluctance
-Magnetic energy
 Magnetic field
 Magnetic flux
 Magnetic moment
@@ -208,110 +133,43 @@ Magnetism
 Magnetization
 Magnetomotive force
 Magnetostatics
-Marine energy
 Mass
-Mass–energy equivalence
 Mathematical descriptions of the electromagnetic field
 Maxwell's equations
 Maxwell's equations in curved spacetime
 Maxwell stress tensor
-Mechanical energy
-Mechanical wave
 Michael Faraday
 Natural gas
-Natural uranium
-Negative energy
-Negative mass
-Negentropy
 Network analysis (electrical circuits)
 Nikola Tesla
 Norm (mathematics)
-Nuclear binding energy
-Nuclear fuel
-Nuclear power
-Nuclear power plant
 Ohm's law
 Oil refinery
 Oleg D. Jefimenko
 Oliver Heaviside
 Optics
-Outline of energy
 Permeability (electromagnetism)
 Permeance
 Permittivity
-Permittivity of free space
-Petroleum
-Phantom energy
-Photovoltaic system
-Physical system
-Point charge
 Polarization density
-Potential energy
-Power (physics)
-Power usage effectiveness
 Poynting vector
-Primary energy
-Quantum chromodynamics binding energy
-Quantum fluctuation
-Quantum potential
-Quantum thermodynamics
-Quintessence (physics)
-Radiant energy
 Radiation
 Radioisotope thermoelectric generator
 Relativistic electromagnetism
-Renewable energy
 Resonator
-Rest energy
 Right-hand rule
 Rotor (electric)
 S2CID (identifier)
-SI
-SI unit
 Series and parallel circuits
 Siméon Denis Poisson
-Solar energy
-Solar furnace
-Solar power
-Solar power tower
-Solar thermal energy
-Sound energy
-Sound wave
 Static electricity
 Stator
-Surface energy
 Sustainable energy
 Synchrotron radiation
-Thermal energy
-Thermal equilibrium
-Thermal reservoir
-Thermodynamic equilibrium
-Thermodynamic free energy
-Thermodynamic potential
-Thermodynamic state
-Thermodynamic system
-Thermodynamic temperature
-Thermodynamics
-Tidal power
-Time-invariant system
-Time-variant system
 Transformer
 Triboelectric effect
-Units of energy
-Vacuum energy
 Voltage
-Volume (thermodynamics)
-Volume element
-Waste-to-energy
-Waste-to-energy plant
 Watt
-Wave farm
 Waveguide (radio frequency)
 Wilhelm Eduard Weber
 William Ritchie (physicist)
-Wind farm
-Wind power
-Work (electrical)
-Work (physics)
-World energy supply and consumption
-Zero-point energy

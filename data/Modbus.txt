@@ -1,263 +1,55 @@
-Bus mastering
-NVLink
-Vehicle bus
-Factory Instrumentation Protocol
 VAXBI bus
-Power Management Bus
-Amiga Zorro III
-I3C (bus)
-Thunderbolt (interface)
-1-Wire
-RapidIO
-Multidrop bus
-MADI
-XPL Protocol
-Accelerated Graphics Port
-GSC bus
 Computer
-CC-Link Industrial Networks
-VPX
 IEBus
 Keyword Protocol 2000
 FlexRay
-ADAT Lightpipe
-Ethernet Global Data Protocol
-Control bus
-DyNet
-SATA Express
-SERCOS interface
-Industrial control system
-Ultra Port Architecture
-FOUNDATION fieldbus
-Peripheral Component Interconnect
 Cyclic redundancy check
-UNI/O
-SLIMbus
 TURBOchannel
-SAE J1708
-TCP/IP
-HP-IL
 ISBN (identifier)
-Intel High Definition Audio
 ARINC 429
 Meter-Bus
-Avionics Full-Duplex Switched Ethernet
-EtherNet/IP
 SERCOS III
-Address bus
-ExpressCard
 IEC 60870
-Schneider Electric
 IEC 61030
-Short Message Service
-ST-506/ST-412
-SynqNet
-HIL bus
-Commodore bus
 Communications protocol
-Common Industrial Protocol
-PROFIBUS
 Vehicle Area Network
-RS485
-Cyphal
 Optomux
 I²C
-RS-422
 Communication protocol
-User Datagram Protocol
 MIDI
 Bandwidth (computing)
-Smart meter
-Remote terminal unit
-S/PDIF
-Advanced Host Controller Interface
-Automatic meter reading
 Highway Addressable Remote Transducer Protocol
-PCI-X
-LonTalk
-SAE J1939
-Data link layer
-Ladder logic
 IEC 60870-6
-CoreConnect
-MTConnect
 IEC 60870-5
-Bus contention
-PCI eXtensions for Instrumentation
-Internet protocol suite
 USB
-Daisy chain (electrical engineering)
 Ethernet Powerlink
-Low Pin Count
-Renault
-HIPPI
-DF-1 Protocol
-MECHATROLINK
-Programmable logic controller
-OPC Unified Architecture
-OPC Data Access
-SAE J1587
-IEEE 1394
-High-Level Data Link Control
-HP Precision Bus
-SCSI
-ESCON
 ASCII
-SENT (protocol)
-AS-Interface
-Front-side bus
-Advanced eXtensible Interface
 Q-Bus
-PROFINET
-VXS
 AES3
-Europe Card Bus
-Serial Attached SCSI
-Protocol data unit
-Token passing
-HyperTransport
-FASTBUS
-Lightning (connector)
-American Petroleum Institute
 Advanced Microcontroller Bus Architecture
 Bus (computing)
-Computer Automated Measurement and Control
 RS-232
-Infinity Fabric
 Local Interconnect Network
 Power-system automation
-VMEbus
 MelsecNet
-S-100 bus
-NVM Express
-List of automation protocols
-RS-485
-Microcontroller unit
-VME eXtensions for Instrumentation
-IEC 62351
-BatiBUS
-NMEA 2000
 Factory Interface Network Service
 Sinec H1
-Fibre Channel
-SCADA
-INTERBUS
-TOSLINK
-Foundation Fieldbus H1
-Digital Control Bus
-Storage Module Device
-RAPIEnet
 Standardization
-SS-50 bus
-STD Bus
-MOST Bus
-I²S
-VESA Local Bus
-Application layer
-De facto standard
 Electronics
 PieP
 XAP Home Automation protocol
-Very Simple Control Protocol
-OpenTherm
-Compute Express Link
-Camera Link
-Zigbee
-HostLink Protocol
-NuBus
 IEC 62056
-Extended Industry Standard Architecture
 De facto
-EtherCAT
-IEEE 1284
-EnOcean
-SDS Protocol
-Bus and Tag
-Micro Channel architecture
-Intelligent Peripheral Interface
-KNX
-Enhanced Small Disk Interface
-InfiniBand
-C-Bus (protocol)
-Serial communication
-Apple Desktop Bus
-Serial Peripheral Interface
-Intel QuickPath Interconnect
 IEC 61850
-Wishbone (computer bus)
 Z-Wave
-DirectNET Protocol
-Parallel ATA
-Atari SIO
-List of interface bit rates
-SBus
 Multibus
-Physical layer
-Back-side bus
-LonWorks
-Parallel SCSI
-Technical standard
-ARINC 825
-Two's complement
 Ethernet
-Plug and play
-Service Request Transport Protocol
-BACnet
 DeviceNet
 Longitudinal redundancy check
-Digital Serial Interface
-Pemex
 Unibus
-European Home Systems Protocol
 Digital Addressable Lighting Interface
-Profibus
 IO-Link
-Royalty-free
-Merlin Gerin
-ISM radio band
-Institution of Engineering and Technology
-Network on a chip
-System bus
-Direct Media Interface
 Serial port
-IEEE-488
 Digital Storage Systems Interconnect
-Higher Speed Ethernet
-SATA
-CANopen
-OBIX
-Amiga Zorro II
-ControlNet
-Trade association
-STEbus
-System Management Bus
-DMX512
-PC Card
-OPC Historical Data Access
-Unified Diagnostic Services
-ACCESS.bus
-X10 (industry standard)
-Building automation
-PCI Express
-CAN bus
-Serial Storage Architecture
-Checksum
-Industry Standard Architecture
-Intel Ultra Path Interconnect
-Enron
-RS-423
-TTEthernet
-McASP
-European Installation Bus
-Master-slave protocol
 DNP3
-Chipset
-Wired communication
-Bristol Standard Asynchronous Protocol
 Peer-to-peer
-General Packet Radio Service
-Coherent Accelerator Processor Interface
-Fleet Management System
-SpaceWire
-MBus (SPARC)
-CEBus

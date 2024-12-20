@@ -1,90 +1,50 @@
 AND gate
 Abelian group
-Adder (electronics)
 Addition
 Affine transformation
-Affirming a disjunct
-Algebraic normal form
-Alonzo Church
 Alpha compositing
 Ampheck
-Antecedent (logic)
-Artificial neural network
 Associative property
-Binary numeral system
 Bitwise operation
 Boolean algebra
 Boolean function
-Bounding volume
-Brian Kernighan
 C++
 C (programming language)
 C Sharp (programming language)
-Cancellable (linguistics)
 Caret
-Carry (arithmetic)
 Charles Sanders Peirce
-Christine Ladd-Franklin
-Claude Elwood Shannon
 Claude Shannon
 Commutative property
 Computer graphics
 Conjunctive normal form
 Contradiction
-Controlled NOT gate
-Conversational implicature
 Converse (logic)
 Converse nonimplication
-Cooperative principle
 Cryptography
-Cursor (computers)
 D (programming language)
 De Morgan's laws
 Dennis Ritchie
 Digital buffer
-Disjunction
 Disjunctive normal form
-Disjunctive syllogism
 Distributive property
 Doi (identifier)
-Doubly linked list
 Downward entailing
-Edward Vermilye Huntington
-Entailment
-Entropy pool
 Eric W. Weisstein
-Ernst Schröder (mathematician)
 False (logic)
-Feistel cipher
-Felicity (pragmatics)
 Field (mathematics)
 First-order logic
-Formal semantics (linguistics)
 Functional completeness
-GF(2)
 George Boole
-Giuseppe Peano
-Gottfried Wilhelm Leibniz
 Group (mathematics)
-Hadamard transform
-Hardware random number generator
 Hdl (identifier)
-Hugh MacColl
 IMPLY gate
 ISBN (identifier)
-Idempotence
 If and only if
-Inclusive or
-Infix operator
 Inverter (logic gate)
 Involution (mathematics)
-Jan Łukasiewicz
 Java (programming language)
-Józef Maria Bocheński
 LaTeX
 Linear
-Linear separability
-List of Boolean algebra topics
 Logic gate
 Logical NOR
 Logical biconditional
@@ -92,36 +52,23 @@ Logical conjunction
 Logical connective
 Logical disjunction
 Logical equality
-Logical graph
 Logical truth
 Logical value
-Maria Aloni
 Material conditional
 Material nonimplication
 MathWorld
 Mathematical logic
-Mathematical operators and symbols in Unicode
-Modular arithmetic
 Monoid
-Monotone Boolean function
 Monotonic function
 NAND gate
 NIMPLY gate
 NOR gate
 Natural language
 Negation
-Nimber
-Nonnegative integer
 OR gate
-One-time pad
-Operand
 Operation (mathematics)
 PHP
-Paradoxes of material implication
 Parity (mathematics)
-Parity bit
-Parity function
-Państwowe Wydawnictwo Naukowe
 Perl
 Philosophy of logic
 Polish notation
@@ -131,30 +78,14 @@ Pragmatics
 Programming language
 Propositional calculus
 Python (programming language)
-RAID
 Ring (mathematics)
 Ruby (programming language)
-Rule 90
 S2CID (identifier)
 Scope (logic)
 Sheffer stroke
 Statement (logic)
-Symmetric difference
-Table of logic symbols
 Tautology (logic)
 Taylor & Francis
-The C Programming Language
-Truth function
 Truth table
-Variadic function
 Vector space
 Venn diagram
-Walsh matrix
-Wolfram Research
-XNOR gate
-XOR
-XOR cipher
-XOR gate
-XOR linked list
-XOR swap algorithm
-Zhegalkin polynomial

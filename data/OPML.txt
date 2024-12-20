@@ -1,11 +1,9 @@
-+xml
 Alternative media
 Anonymous blog
 Art blog
 Astroturfing
 Atom (Web standard)
 Atom (web standard)
-Attention Profiling Mark-up Language
 BitTorrent
 Blawg
 Blog
@@ -20,9 +18,7 @@ Communication
 Comparison of feed aggregators
 Corporate blog
 Data feed
-Data portability
 Database journalism
-Dave Winer
 Dream diary
 Edublog
 Electronic journal
@@ -31,8 +27,6 @@ Escribitionist
 Fashion blog
 FeedSync
 Feed URI scheme
-Feed aggregator
-Feed icon
 Filename extension
 Food blogging
 GeoRSS
@@ -47,9 +41,7 @@ Instant messaging
 Inter-process communication
 Journalism
 Lifelog
-Lifewire
 Linkback
-List of content syndication markup languages
 List of family-and-homemaking blogs
 List of search engines
 Liveblogging
@@ -58,23 +50,18 @@ Mashup (web application hybrid)
 Media RSS
 Media type
 Memetics
-Metadata (computing)
 Microblogging
 Mobile blogging
 Mobilecast
 Mormon blogosphere
 Motovlog
-Mozilla Thunderbird
 Narrowcasting
 NewsML
 NewsML-G2
 NewsML 1
 News aggregator
 Niche blogging
-OML (computer format)
 Online diary
-Outline (list)
-Outliner
 Pay-per-click
 Peercasting
 Permalink
@@ -87,18 +74,12 @@ Poll aggregator
 Posting style
 Product feed
 Project diary
-RFC (identifier)
-RFC 2822
-RFC 3339
-RFC 5322
-RFC 822
 RSS
 RSS Advisory Board
 RSS TV
 RSS editor
 RSS enclosure
 RSS tracking
-Radio UserLand
 Reblogging
 Refback
 Reference (computer science)
@@ -108,7 +89,6 @@ Review aggregator
 Rollback (data management)
 Screencast
 Search aggregator
-Share icon
 Sideblog
 Slashdot effect
 Slidecasting
@@ -119,9 +99,7 @@ Streaming media
 Thread (Internet)
 Trackback
 Travel blog
-Uniform Type Identifier
 Usenet
-UserLand Software
 Uses of podcasting
 Video aggregator
 Video blog
@@ -132,7 +110,6 @@ Wayback Machine
 Web Slice
 Web directory
 Web feed
-Web feeds
 Web series
 Web syndication
 Webcomic

@@ -1,52 +1,37 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
-APT (Package Manager)
-Adwaita (design language)
 AlmaLinux
-Almquist shell
-Alpha version
 Alpine Linux
 Android-x86
 Android (operating system)
 Antergos
 AntiX
-AppArmor
-Aptitude (software)
 ArchBang
 ArchLabs
 Arch Linux
 Artix Linux
 Asahi Linux
-Ask Ubuntu
 Astra Linux
 Asturix
-Atril
 Austrumi Linux
 BIOS
 BLAG Linux and GNU
 BackBox
 BackTrack
-Bangalore
-Benjamin Mako Hill
 Bharat Operating System Solutions
 BioSLAX
 BlackArch
 Black Lab Linux
 BlankOn Linux
 Bodhi Linux
-Brasero (software)
 CHAOS (operating system)
 CRUX
-CUPS
 Calculate Linux
 Caldera OpenLinux
 CalyxOS
-Canonical (company)
 CentOS
 CentOS Stream
 Chakra (operating system)
-Cheese (software)
 Chimera Linux
 ChromeOS
 ChromiumOS
@@ -55,7 +40,6 @@ Clear Linux OS
 ColorOS
 Commodore OS
 Comparison of Linux distributions
-Compiz
 Container Linux
 Corel Linux
 CrDroid
@@ -64,19 +48,14 @@ Cub Linux
 CyanogenMod
 Damn Small Linux
 Damn Vulnerable Linux
-Deb (file format)
 Debian
-Debian configuration system
 Deepin
 DemoLinux
-Desktop environment
 Devuan
 DivestOS
 DoudouLinux
-Dpkg
 Dreamlinux
 EMUI
-EasyPeasy
 Edubuntu
 Elementary OS
 Elive
@@ -84,16 +63,11 @@ Emmabuntüs
 EndeavourOS
 Endless OS
 EulerOS
-Evince
-Eye of GNOME
 Familiar Linux
 Feather Linux
 Fedora Linux
-File manager
 Fire OS
-Firefox
 Firefox OS
-Flatpak
 Floppyfw
 Forbes
 Foresight Linux
@@ -102,51 +76,23 @@ Free software
 FreedomBox
 Freespire
 Frugalware Linux
-Full Circle (magazine)
-Full Circle magazine
-GDebi
-GLib
-GNOME
-GNOME 2
-GNOME 3
-GNOME Core Applications
-GNOME Disks
-GNOME Display Manager
-GNOME Files
-GNOME Shell
 GNOME Software
-GNOME System Monitor
-GNOME Terminal
-GNOME Videos
-GNU Bazaar
 GNU Core Utilities
-GNU GRUB
 GNU General Public License
 GNU Guix System
 GNewSense
 GOS (operating system)
 GParted
 Garuda Linux
-Geary (e-mail client)
 GeckoLinux
-Gedit
 Gentoo Linux
-GetDeb
-GitLab
 GoboLinux
 Gobuntu
 GrapheneOS
 HandyLinux
-Hyperbola GNU/Linux-libre
-Ian Jackson
-Idle (CPU)
 Immunix
 India
 IodéOS
-Jane Silber
-Jeff Waugh
-Jono Bacon
-Juju (software)
 Jurix
 KDE neon
 KaOS
@@ -162,11 +108,7 @@ Korora (operating system)
 Kubuntu
 Kwort Linux
 LXLE Linux
-Landscape (software)
-Launchpad (website)
 Libranet
-LibreOffice
-LightDM
 LinHES
 LineageOS
 Linpus Linux
@@ -180,11 +122,7 @@ Linux distribution
 Linux for PlayStation 2
 Linux kernel
 List of Linux distributions
-Lomiri
-Long-term support
 Lubuntu
-MATE (software)
-MATE desktop
 MCC Interim Linux
 MIUI
 MX Linux
@@ -192,19 +130,11 @@ Mageia
 Mandrake Linux
 Mandriva Linux
 Manjaro
-Mark Shuttleworth
-Medibuntu
-Medium (website)
 MeeGo
 Mer (software distribution)
-Mir (software)
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Mozilla Thunderbird
-Musix GNU+Linux
-Mythbuntu
-Nemo (file manager)
 Network Security Toolkit
 NimbleX
 Nitix
@@ -213,48 +143,36 @@ Nobara Linux
 Nova (operating system)
 OmniROM
 One UI
-OpenCD
 OpenELEC
 OpenMandriva Lx
 OpenSUSE
 Open Enterprise Server
-Optical disc image
 Oracle Linux
 PCLinuxOS
 PDF
-Paper cut bug
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
 Pentoo
 Peppermint OS
-Phoronix
 Pinguy OS
 PixelExperience
 Platypux
-Pluma (text editor)
-Plymouth (software)
-Point release
 Pop! OS
 Porteus (operating system)
 Programmer
-PulseAudio
 Puppy Linux
 PureOS
 Q4OS
 Qubes OS
 ROSA Linux
-Random-access memory
 Raspberry Pi OS
 Red Hat Enterprise Linux
 Red Hat Linux
 Red Star OS
 Remix OS
-Remmina
 Replicant (operating system)
 Resurrection Remix OS
-Rhythmbox
 Rocks Cluster Distribution
 Rocky Linux
 SUSE Linux
@@ -265,32 +183,18 @@ Sabily
 Sailfish OS
 Salix OS
 Scientific Linux
-Scott James Remnant
-Shotwell (software)
-Side Stage
-Simple Scan
 Slackware
 Slax
-Snap (package manager)
-Snapcraft.io
-Snappy (package manager)
 Softlanding Linux System
-Softpedia
-Software Updater
 Software license
 Software release life cycle
 Solus (operating system)
 SolydXK
 Source Mage
 SparkyLinux
-Splash screen
 Splashtop OS
-StartUp-Manager
-Startup Disk Creator
 SteamOS
 Sunwah Linux
-Synaptic (software)
-System76
 SystemRescue
 T2 SDE
 Tails (operating system)
@@ -299,64 +203,30 @@ Think Blue Linux
 Tiny Core Linux
 Tizen
 TopologiLinux
-Transmission (BitTorrent client)
 Trisquel
 Turbolinux
 Turkix
-Tuxedo Computers
 UBports
-UEFI
-Ubiquity (software)
 Ubuntu
-Ubuntu-restricted-extras
-Ubuntu (typeface)
-Ubuntu 11.04
-Ubuntu 17.10
-Ubuntu 20.04 LTS
-Ubuntu 21.10
 Ubuntu Budgie
 Ubuntu Cinnamon
-Ubuntu Edge
-Ubuntu Forums
 Ubuntu GNOME
-Ubuntu JeOS
 Ubuntu Kylin
 Ubuntu MATE
-Ubuntu Netbook Edition
-Ubuntu One
-Ubuntu Professional Certification
-Ubuntu Single Sign On
 Ubuntu Software Center
 Ubuntu Studio
-Ubuntu Titling
 Ubuntu Touch
-Ubuntu User
-Ubuntu for Android
-Ubuntu philosophy
-Ubuntu version history
 Ultramarine Linux
-Uncomplicated Firewall
-Unity (user interface)
-Unity 8
 Unity Operating System
-Unix-like
-Upstart (software)
-Uruk GNU/Linux
 User interface
 User space and kernel space
-Usplash
-VLC media player
 VectorLinux
 Vine Linux
 Void Linux
 Web browser
 Whonix
-Working name
-Wubi (software)
 Wubuntu
 XB Machine
-XSplash
-X display manager
 Xubuntu
 Yellow Dog Linux
 Zenwalk

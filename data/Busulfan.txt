@@ -1,381 +1,76 @@
 ATC code L01
 Abemaciclib
-Ablation
-Acetaminophen
 Aclarubicin
 Adagrasib
 Adenine
-Adenosine deaminase inhibitor
 Aflibercept
-Albumin
-Alitretinoin
-Alkyl sulfonate
-Alkyl sulfonates
-Alkylating agent
 Alkylating antineoplastic agent
 Alpelisib
-Altretamine
-Alvocidib
 American Society of Health-System Pharmacists
-Aminolevulinic acid
-Aminopterin
-Amrubicin
-Amsacrine
-Anagrelide
 Anatomical Therapeutic Chemical Classification System
 Anthracycline
-Anthraquinone
 Antiemetic
-Antiemetics
 Antifolate
 Antimetabolite
 Antineoplastic
-Aplasia
 Apoptosis
-Area under the curve
-Arsenic trioxide
-Asparaginase
-Asparagine
-Atrasentan
-Axicabtagene ciloleucel
 Azacitidine
-Aziridine
-Belinostat
-Belotecan
-Belzutifan
-Bendamustine
-Benzodiazepine
-Bexarotene
 Bibcode (identifier)
-Bilirubin
 Bioavailability
-Biological half-life
-Bisantrene
 Bleomycin
 Bone marrow
-Bone marrow transplantation
 Bortezomib
-Boxed warning
-Brexucabtagene autoleucel
-Busulfan (data page)
 CAS Registry Number
-Cabazitaxel
-Camptotheca
 Camptothecin
 Capecitabine
 Carboplatin
-Carboquone
 Carcinogen
-Carfilzomib
-Carmofur
 Carmustine
-Celecoxib
-Cell-cycle nonspecific antineoplastic agents
-ChEBI
-ChEMBL
 ChemSpider
 Chemical formula
 Chemotherapy
-Chemotherapy drug
 Chlorambucil
 Chlormethine
 Chronic myelogenous leukemia
-Chronic myeloid leukemia
-Ciltacabtagene autoleucel
 Cisplatin
 Cladribine
-Clinical trial
 Clofarabine
 CompTox Chemicals Dashboard
 Copanlisib
-Cositecan
-Crisnatol
-Crosslinking of DNA
 Cyclin-dependent kinase
-Cyclodextrin
 Cyclophosphamide
 Cytarabine
 DNA
-DNA crosslinking
-DNA polymerase inhibitor
 DNA replication
 Dacarbazine
-Dactinomycin
 DailyMed
 Daunorubicin
-Daunorubicin/cytarabine
 Decitabine
-Demecolcine
 Denileukin diftitox
-Deoxyribonucleotide
-Dicycloplatin
-Dihydrofolate reductase inhibitor
 Docetaxel
 Doi (identifier)
-Doxifluridine
 Doxorubicin
-DrugBank
-Drug metabolism
-Drug nomenclature
-Drugs.com
 Duvelisib
-ECHA InfoCard
-Edema
-Efaproxiral
-Eflornithine
-Elesclomol
-Elsamitrucin
-Emesis
-Enasidenib
-Endothelin receptor antagonist
-Entinostat
-Enzyme inhibitor
-Epacadostat
 Epirubicin
 Epothilone
-Eribulin
-Estramustine phosphate
-Etirinotecan pegol
-Etoglucid
 Etoposide
-European Medicines Agency
-Exatecan
-Excretion
-FDA
-Farnesyltransferase inhibitor
-Film coating
-First order kinetics
-Floxuridine
 Fludarabine
 Fluorouracil
 Food and Drug Administration
 Fotemustine
-Fuzuloparib
 Gemcitabine
-Gimatecan
 Glasdegib
-GlaxoSmithKline
-Glutathione
-Gold standard (test)
 Guanine
-Guide to Pharmacology
-Halogenation
-Hepatomegaly
-Histone deacetylase inhibitor
-Hydrazine
-Hydroxycarbamide
-Hyperpigmentation
-Hypomethylating agent
-IMP dehydrogenase
-IUPAC nomenclature of chemistry
 Idarubicin
-Idecabtagene vicleucel
 Idelalisib
 Ifosfamide
 Imatinib
-Imetelstat
 Inavolisib
-Intercalation (biochemistry)
 International Agency for Research on Cancer
-International Chemical Identifier
-Interstrand crosslinks
 Intravenous therapy
 Irinotecan
-Isocitrate dehydrogenase
-Itraconazole
-Ivosidenib
-Ixabepilone
-Ixazomib
-JSmol
-KEGG
-Larotaxel
-Leukemias
-Levetiracetam
-Lifileucel
-Lipoxygenase inhibitor
-Lisocabtagene maraleucel
-List of withdrawn drugs
 Liver
-Lomustine
-Lonidamine
-Losoxantrone
-Lucanthone
-Lurbinectedin
-Lurtotecan
-Lymphomas
-M phase
-Mannosulfan
-Masoprocol
-MedlinePlus
-Melphalan
-Melphalan flufenamide
-Menogaril
-Mercaptopurine
-Mesylate
-Metabolites
-Methotrexate
-Methyl aminolevulinate
-Microtubule
-Mitobronitol
-Mitoguazone
-Mitomycins
-Mitosan
-Mitosene
-Mitotane
-Mitotic inhibitor
-Mitoxantrone
-Mitozolomide
 Molar mass
-Myeloproliferative disorders
-Nadofaragene firadenovec
-Nausea
-Navitoclax
-Nedaplatin
-Nelarabine
-Nimustine
-Niraparib
-Niraparib/abiraterone acetate
-Nitrogen mustard
-Nitrosourea
-Nucleophilic
-Obecabtagene autoleucel
-Oblimersen
-Olaparib
-Olutasidenib
-Omacetaxine mepesuccinate
-Oprozomib
-Oral administration
-Ortataxel
-Otsuka Pharmaceutical
-Oxaliplatin
-PARP inhibitor
 PMC (identifier)
 PMID (identifier)
-Paclitaxel
-Padeliporfin
-Palbociclib
-Panobinostat
-Pegaspargase
-Pemetrexed
-Pentostatin
-Pharmacokinetics
-Phases of clinical research
-Phenytoin
-Phosphodiesterase inhibitor
-Phosphoinositide 3-kinase inhibitor
-Photodynamic therapy
-Photosensitizer
-Pipobroman
-Pirarubicin
-Pixantrone
-Plasma protein binding
-Platelet
-Platinum-based antineoplastic
-Plicamycin
-Plitidepsin
-Podophyllum peltatum
-Porfimer sodium
-Porphyrin
-Pralatrexate
-Prednimustine
-Pregnancy category
-Prescription drug
-Procarbazine
-Proteasome inhibitor
-Protein kinase inhibitor
-PubChem
-Pulmonary fibrosis
-Purine analogue
-Pyrimidine analogue
-Rabacfosadine
-Raltitrexed
-Ranimustine
-Receptor antagonist
-Regulation of therapeutic goods
-Retinoid
-Retinoid X receptor
-Ribociclib
-Ribonucleotide reductase inhibitor
-Romidepsin
-Route of administration
-Rubitecan
-Rucaparib
 S2CID (identifier)
-SN2
-S phase
-Satraplatin
-Seizures
-Seliciclib
-Selinexor
-Semustine
-Serotonin
-Sex steroid
-Silatecan
-Simplified molecular-input line-entry system
-Sitimagene ceradenovec
-Sotorasib
-Spindle poison
-Standard for the Uniform Scheduling of Medicines and Poisons
-Streptomyces
-Streptozotocin
-Sulfonate
-Tabelecleucel
-Tagraxofusp
-Talaporfin
-Talimogene laherparepvec
-Taxane
-Tazemetostat
-Tebentafusp
-Tegafur
-Tegafur/gimeracil/oteracil
-Temoporfin
-Temozolomide
-Teniposide
-Tesetaxel
-Testolactone
-Therapeutic drug monitoring
-Thiopurine
-Thiotepa
-Thrombocytopenia
-Thymidylate synthase inhibitor
-Tiazofurin
-Tiazofurine
-Tigilanol tiglate
-Tioguanine
-Tipifarnib
-Tisagenlecleucel
-Topoisomerase inhibitor
-Topotecan
-Trabectedin
-Treosulfan
-Tretinoin
-Triazene
-Triaziquone
-Triethylenemelamine
-Trofosfamide
-Type II topoisomerase
-Type I topoisomerase
-U.S. Food and Drug Administration
-Umbralisib
-Unique Ingredient Identifier
-Uramustine
-Ursodiol
-Valrubicin
-Veliparib
-Venetoclax
-Veno-occlusive disease
-Verdinexor
-Verteporfin
-Vinblastine
-Vinca alkaloid
-Vincristine
-Vindesine
-Vinflunine
-Vinorelbine
-Vomiting
-Vorasidenib
-Vorinostat
-Vosaroxin
-WHO Model List of Essential Medicines
-Wasting syndrome
-Zorubicin

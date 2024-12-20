@@ -1,7 +1,5 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
-Advanced Encryption Standard
 AlmaLinux
 Alpine Linux
 Android-x86
@@ -15,7 +13,6 @@ Artix Linux
 Asahi Linux
 Astra Linux
 Asturix
-Asynchronous Transfer Mode
 Austrumi Linux
 BLAG Linux and GNU
 BackBox
@@ -69,14 +66,12 @@ Familiar Linux
 Feather Linux
 Fedora Linux
 Fire OS
-Firefox
 Firefox OS
 Floppyfw
 Foresight Linux
 FreedomBox
 Freespire
 Frugalware Linux
-Full virtualization
 GNU Guix System
 GNewSense
 GOS (operating system)
@@ -87,13 +82,10 @@ GoboLinux
 Gobuntu
 GrapheneOS
 HandyLinux
-Hyperbola GNU/Linux-libre
-Hypervisor
 Immunix
 IodéOS
 Jurix
 KDE neon
-KQEMU
 KaOS
 KaiOS
 Kaisen Linux
@@ -133,8 +125,6 @@ Mer (software distribution)
 Microsoft Windows
 Miracle Linux
 Mobilinux
-Mozilla Thunderbird
-Musix GNU+Linux
 Network Security Toolkit
 NimbleX
 Nitix
@@ -143,7 +133,6 @@ Nobara Linux
 Nova (operating system)
 OmniROM
 One UI
-Onion routing
 OpenELEC
 OpenMandriva Lx
 OpenSUSE
@@ -151,7 +140,6 @@ Open Enterprise Server
 Operating system
 Oracle Linux
 PCLinuxOS
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
@@ -165,7 +153,6 @@ Porteus (operating system)
 Puppy Linux
 PureOS
 Q4OS
-QEMU
 Qubes OS
 ROSA Linux
 Raspberry Pi OS
@@ -185,7 +172,6 @@ Sabily
 Sailfish OS
 Salix OS
 Scientific Linux
-Self Destruct
 Slackware
 Slax
 Softlanding Linux System
@@ -203,7 +189,6 @@ Think Blue Linux
 Tiny Core Linux
 Tizen
 TopologiLinux
-Tor (anonymity network)
 Trisquel
 Turbolinux
 Turkix
@@ -218,17 +203,12 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Uruk GNU/Linux
-VMWare
-VMware
 VectorLinux
 Vine Linux
-VirtualBox
 Virtual machine
 Void Linux
 Whonix
 Wubuntu
-XB Browser
 Xubuntu
 Yellow Dog Linux
 Zenwalk

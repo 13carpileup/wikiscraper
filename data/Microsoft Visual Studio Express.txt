@@ -1,408 +1,63 @@
-.NET
-.NET Framework
-.NET MAUI
 32-bit
-64-bit
-ADO.NET
-ASP.NET
-ASP.NET AJAX
-ASP.NET Core
-ASP.NET Dynamic Data
-ASP.NET MVC
-ASP.NET Razor
-ASP.NET Web Forms
-Access Database Engine
-Ace (editor)
-Active Server Pages
-Active Setup
-Active Template Library
 Adobe Flash
-Adobe Flash Builder
-Ajax (programming)
-Android Studio
 Anjuta
-AppCode
 Application lifecycle management
-Aptana
-Arduino IDE
-ArkTS
-Asm.js
-AssemblyScript
-AtScript
-Atom (text editor)
-Azure DevOps Server
 BASIC
-Babel (transcompiler)
-Basic-256
-Basic4GL
-BlueJ
-Borland Kylix
-Borland Turbo C
-Bosque (programming language)
-Brackets (text editor)
-Breakpoint
-Brendan Eich
-Build automation
-Bun (software)
-Business Intelligence Development Studio
 C++
-C++/CLI
-C++/CX
-C++/WinRT
-C++Builder
-C/AL
-CA-Realizer
-CLR Profiler
-CLion
 C (programming language)
 C Sharp (programming language)
-Cascading Style Sheets
-Chrome (browser)
-Chromium (web browser)
-Class (computer science)
-ClickOnce
-ClojureScript
-Cloud9 IDE
 Cloud computing
 CodeLite
-CodeMirror
-CodeView
-CodeWarrior
-Code folding
-Codelobster
-CoffeeScript
-Command-line interface
-CommonJS
 Common Language Infrastructure
-Comparison of JavaScript-based source code editors
-Comparison of JavaScript-based web frameworks
 Comparison of integrated development environments
-Crystal Reports
-Dafny
-Dart (programming language)
-Debugger
-Debugging
-Delphi (software)
-Deno (software)
-Desktop application
-Dev-C++
-Dev-Pascal
-DevEco Studio
 Device driver
-Dexterity (programming language)
 DirectX
-Document Object Model
-Documentation generator
-Douglas Crockford
-DrJava
-ESLint
 Eclipse (software)
-Eclipse Che
-Elm (programming language)
-Emacs
-Emscripten
-Emulator
-Encapsulate Field
-Entity Framework
-Eric (software)
-Esbuild
-Extensible Application Markup Language
-Extensible Storage Engine
-F* (programming language)
 F Sharp (programming language)
-Firefox
-FreeBASIC
-Free Pascal
 Freeware
-FutureBASIC
-FxCop
-GLBasic
 GNOME Builder
-GW-BASIC
-Gambas
 Geany
 Go (programming language)
-Google Closure Compiler
-Google Web Toolkit
-Greenfoot
 HTML
 HTML5
-Haxe
-Hyper-V
-IDLE
-ILAsm
 Integrated development environment
-IntelliJ IDEA
-IntelliSense
-Interface designer
-IronPython
-IronRuby
-Irrlicht Engine
-JBuilder
-JDeveloper
-JGRASP
-JS++
-JSDoc
-JSGI
-JSHint
-JSLint
-JSON
-JScript
-J Sharp
-Jasmine (JavaScript testing framework)
 JavaScript
-JavaScript engine
-JavaScript library
-JavaScript syntax
 Java (programming language)
-Java (software platform)
-JetBrains
-John Resig
 KDevelop
-Kakoune
-Kernel-Mode Driver Framework
-Komodo Edit
-Komodo IDE
-LabWindows/CVI
-Language Integrated Query
-Lazarus (software)
-Lean (proof assistant)
-Liberty BASIC
-Light Table (software)
-List of ECMAScript engines
-List of Eclipse projects
-List of JavaScript libraries
-List of unit testing frameworks
-LiveScript (programming language)
-MSBuild
-MSDE
-MSDN
-Managed DirectX
-Managed Extensions for C++
-Method (programming)
-Metro (design language)
 Microsoft
-Microsoft .NET
-Microsoft Access
-Microsoft Analysis Services
 Microsoft BASIC
-Microsoft Blend
 Microsoft Docs
-Microsoft Dynamics AX
-Microsoft Edge
-Microsoft Expression Blend
-Microsoft Expression Web
-Microsoft Foundation Class Library
-Microsoft FrontPage
-Microsoft MACRO-80
-Microsoft Macro Assembler
-Microsoft Pascal
-Microsoft Power Fx
-Microsoft Robotics Developer Studio
-Microsoft SQL Server
-Microsoft Script Debugger
-Microsoft SharePoint Designer
-Microsoft Silverlight
-Microsoft Small Basic
 Microsoft Store
 Microsoft Visual C++
-Microsoft Visual Programming Language
-Microsoft Visual SourceSafe
-Microsoft Visual Studio
-Microsoft WebMatrix
 Microsoft Windows
-Microsoft Windows SDK
 Microsoft XNA
-Mocha (JavaScript framework)
-MonoDevelop
-Morfik
-MyEclipse
-NS Basic
-Native Image Generator
 NetBeans
-Nim (programming language)
-Ninja-IDE
-Node.js
-Npm
-Npm (software)
-NuGet
-OGRE Engine
-Object Pascal
-OneFuzz
-Online integrated development environment
-Opa (programming language)
 Open-source software
 OpenMP
-Opera (web browser)
 Operating system
-Oracle Developer Studio
 PHP
-PHPEdit
-POP-11
-P (programming language)
 Package manager
-PascalABC.NET
 Pascal (programming language)
-PhpStorm
-Playwright (software)
-Pnpm
-Poplog
-PowerShell
-Powerflasher FDT
-Profiling (computer programming)
 Programmer
-Project Verona
 Proprietary software
-PureBasic
-PureScript
-PyCharm
-PyDev
-PythonAnywhere
 Python (programming language)
-QB64
-QBasic
-QDevelop
-QUnit
-Q Sharp
-Qt Creator
-QuickBASIC
-QuickC
-RStudio
-R (programming language)
-R Tools for Visual Studio
-RapidQ
-Rational Software Architect
-Reason (programming language)
-Refactor
-Registerware
-Resource (Windows)
-Retail software
-Revision control
-Roslyn (compiler)
-Ryan Dahl
-SQL Server Compact
-SQL Server Express
-SQL Server Integration Services
-SQL Server Management Studio
-SQL Server Notification Services
-SQL Server Reporting Services
-Safari (web browser)
-SdlBasic
-Second Level Address Translation
-Server-side JavaScript
-Service pack
-SharpDevelop
-SlickEdit
 Software categories
 Software development kit
 Software framework
 Software license
 Software release life cycle
-Source-to-source compiler
-SourceLair
-Source engine
-Spyder (software)
-Static program analysis
-Sublime Text
-Subset
-Sun Java Studio Creator
-Syntax (programming languages)
 Technology
-The web
-Thonny
-Turbo C++
-Turbo Pascal
-TypeScript
-Ultimate++
-Understand (software)
-Unit testing
-Universal Windows Platform
-Universal Windows Platform apps
-User-Mode Driver Framework
-VB.NET
-VBScript
-VSTS Profiler
-VS Code
-Vcpkg
-Vi (text editor)
-Vim (text editor)
-Virtual Pascal
-VisualAge
 Visual Basic (classic)
-Visual Basic .NET
-Visual Basic for Applications
-Visual C++
-Visual Café
-Visual FoxPro
-Visual J++
-Visual J Sharp
 Visual Studio
-Visual Studio Code
-Visual Studio Tools for Applications
-Visual Studio Tools for Office
-Vite (software)
-WYSIWYG
-Watcom C/C++
 WebAssembly
-WebAuthn
-WebSharper
-Web Platform Installer
-Web application
-Web development
-Webpack
-WiX
-Win32
-WinDbg
-WinDiff
-WinRT
-WinUI
 Windows 10
-Windows 2000
-Windows 7 SP1
 Windows 8
 Windows API
-Windows App SDK
-Windows App Studio
-Windows Azure
-Windows CardSpace
-Windows Communication Foundation
-Windows Driver Frameworks
-Windows Driver Kit
-Windows Driver Model
-Windows Forms
-Windows Hardware Lab Kit
-Windows Identity Foundation
-Windows Installer
-Windows Package Manager
 Windows Phone
-Windows Phone 7.5
 Windows Phone 8
 Windows Phone 8.1
-Windows Presentation Foundation
-Windows SDK
-Windows Server 2008
-Windows Server 2008 R2
-Windows Server 2012
-Windows Service
 Windows Store
-Windows Vista
-Windows Workflow Foundation
-Windows XP
-Windows XP SP3
-Wing IDE
-X64
 X86
-XAMLPad
-XHTML
 XML
-XNA Game Studio
-XUnit.net
-Xamarin Studio
 Xbox 360
 Xbox Development Kit
-Xcode
-Xelfi
-Xojo
-Yarn (package manager)
-Zend Studio
-Zune

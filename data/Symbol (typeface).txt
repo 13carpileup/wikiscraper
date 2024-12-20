@@ -1,6 +1,5 @@
 !
 (
-)
 0
 1
 2
@@ -12,342 +11,121 @@
 8
 9
 ASCII
-Academy Engraved
-Aharoni (typeface)
-Aldo Novarese
 Alpha
-American Typewriter
 Ampersand
-Andalé Mono
-Apple Chancery
-Apple Color Emoji
 Apple Inc.
-Apple Symbols
-Approximation
-Aptos (typeface)
 Arabic script
-Arabic typography
-Arial
-Arial Unicode MS
 Arrow (symbol)
 Asterisk
-Athelas (typeface)
-Avenir (typeface)
-Bahnschrift
-Baskerville
-Batang (typeface)
-Bauhaus 93
 Beta
-Big Caslon
-Bitstream Charter
-Bodoni
-Book Antiqua
 Bracket
 Brahmic scripts
 Braille
-Broadway (typeface)
-Brush Script
 C
-Calibri
-Calisto MT
-Cambria (typeface)
-Cambria Math
-Candara
-Canela (typeface)
-Carl Albert Fahrenwaldt
-Century Gothic
-Chalkboard (typeface)
 Character encoding
 Chi (letter)
 Chinese language
-Clarendon (typeface)
-Cochin (typeface)
 Colon (punctuation)
-Comic Sans
 Comma (punctuation)
-Commercial Type
-Consolas
-Constantia (typeface)
-Cooper Black
-Copperplate Gothic
-Corbel (typeface)
-Courier (typeface)
-Courier New
 Cyrillic script
 DEC Technical Character Set
 DIN 1451
-DejaVu fonts
 Delta (letter)
-Didot (typeface)
-Display typeface
-Dotum
-Druk (typeface)
 East Asia
-Ebrima
 Epsilon
 Equals sign
-Erbar (typeface)
 Eta
-Euphemia (typeface)
-Euro sign
 Exclusive or
 Extended ASCII
-Figure space
-Firefox
-Fixedsys
-Founders Grotesk
-Franklin Gothic Medium
-Freestyle Script
 Full stop
 Futura (typeface)
-Gabriola (typeface)
-Gadugi (typeface)
 Gamma
-Gautami (typeface)
-Geneva (typeface)
-Georgia (typeface)
-Gill Sans
 Glyph
-Google Chrome
-Goudy Stout
-Graphik
 Greater-than sign
 Greek alphabet
 Greek language
 HTML
-Halfwidth and Fullwidth Forms (Unicode block)
 Halfwidth and fullwidth forms
 Hangul
-Harlow (typeface)
 Hebrew alphabet
 Helvetica
-Hoefler Text
-House Industries
 IBM
 ISBN (identifier)
-ISO 646
-Impact (typeface)
 Inequality (mathematics)
 Internet
-Internet Explorer
 Iota
-Iowan Old Style
-Italic type
 Japanese writing system
 Kappa
-Klim Type Foundry
 Lambda
-LaserWriter
-Latin Wide
 Latin script
-Legacy system
 Less-than sign
-Letraset
 List of XML and HTML character entity references
-List of typefaces included with Microsoft Windows
-List of typefaces included with macOS
 List of writing systems
 Lotus Multi-Byte Character Set
-Lucida
-Lucida Grande
-Lucida Sans Unicode
-MS Gothic
-MS Mincho
 MacOS
-Mac OS 8
-Malgun Gothic
-Marion (typeface)
-Marlett
-MathTime
 Mathematical notation
 Mathematics
-Meiryo
-Menlo (typeface)
-Microsoft JhengHei
-Microsoft Sans Serif
 Microsoft Windows
-Microsoft YaHei
-MingLiU
-Minister (typeface)
-Monaco (typeface)
-Monospaced
-Monospaced font
-Mu (letter)
-Myriad (typeface)
-New Gulim
-New York (2019 typeface)
-News Gothic MT
-Nirmala UI
-Noto Sans
 Nth root
 Nu (letter)
 Number sign
-Numeric space
-Nyala (typeface)
-OCR A Extended
 Omega
-Omicron
-Opera (web browser)
-Optima
-PT Fonts
-Palatino
-Papyrus (typeface)
 Percent sign
-Peter Biľak
 Phi
-Phi (letter)
 Pi (letter)
-Pi font
-Plus-or-minus sign
 Plus and minus signs
-PostScript
-PostScript fonts
-Private Use Area
-Produkt (typeface)
-Proxima Nova
-Psi (letter)
-Quad (typography)
 Question mark
-Required space
 Rho
-Rockwell (typeface)
-STIX Fonts project
-Safari (web browser)
-San Francisco (sans-serif typeface)
-Sans-serif
-Schriftguss AG
-Script typeface
-Segoe
-Segoe UI
-Segoe UI Mono
 Semicolon
-Seravek
-Serif
 Sigma
-SimHei
-SimSun
 Simplified Chinese characters
-Skia (typeface)
 Slash (punctuation)
-Snell Roundhand
 Space character
-Sylfaen (typeface)
-System (typeface)
-Tahoma (typeface)
 Tau
-Terminal (typeface)
 Thai script
 Theta
 Tilde
-Times New Roman
-Traditional Arabic
-Traditional Chinese characters
-Trebuchet MS
 Triple bar
-U+F8FF
 Underscore
 Unicode
-Unicode.org
 Unicode Consortium
-Unicode equivalence
-Unicode normalisation
 Upsilon
-Verdana
 Vertical bar
-Vinculum (symbol)
-Vrinda (font)
-W3C recommendation
-Web browsers
-Webdings
-Westminster (typeface)
-Wingdings
 Xi (letter)
-Zapf Dingbats
-Zapfino
 Zeta
 ©
 ¬
-®
 °
 ×
 ÷
 Ƒ
-ϒ
 •
-…
-′
-″
-‾
-⁄
-ℑ
-℘
-ℜ
-™
-ℵ
-↔
-⇐
-⇑
 ⇒
-⇓
 ⇔
-∀
 ∂
-∃
-∅
-∇
-∈
-∉
-∍
-∏
-∑
 √
 ∝
 ∞
-∠
 ∧
 ∨
-∩
 ∪
 ∫
 ∴
-≈
 ≠
 ⊂
 ⊃
-⊄
-⊇
-⊈
-⊗
-⊥
-⋅
 ⌠
 ⌡
 ⎛
-⎜
 ⎝
 ⎞
-⎟
 ⎠
 ⎡
-⎢
 ⎣
 ⎤
-⎥
 ⎦
-⎧
 ⎨
-⎩
-⎪
-⎫
 ⎬
-⎭
-⎮
-⎯
-⏐
-◊
-♠
 ♣
 ♥
 ♦
-〈
-〉

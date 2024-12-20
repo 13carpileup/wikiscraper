@@ -1,61 +1,37 @@
-2019 revision of the SI
 AC motor
-Acoustics
 Albert Einstein
 Alessandro Volta
 Alfred-Marie Liénard
 Alternating current
-Ampere
 Ampère's circuital law
 André-Marie Ampère
-Astronomical unit
-Audio signal
-Avedøre Power Station
 Becquerel
 Bibcode (identifier)
 Biot–Savart law
 Bremsstrahlung
-British Association for the Advancement of Science
 CGS
-CGS unit
 California
-Candela
 Capacitance
 Carl Friedrich Gauss
-Carl Wilhelm Siemens
-Celsius
 Charge density
 Charles-Augustin de Coulomb
 Charles Proteus Steinmetz
-Chemist
-Chirped pulse amplification
 Classical electromagnetism
 Classical electromagnetism and special relativity
-Combined heat and power
 Computational electromagnetics
-Conversion of units
 Coulomb
 Coulomb's law
 Covariant formulation of classical electromagnetism
 Current density
 Cyclotron radiation
-DBm
 DC motor
-DONG Energy
-Dalton (unit)
 Data center
-Day
 Decibel
-Degree (angle)
-Diesel electric locomotive
 Dipole antenna
 Direct current
 Displacement current
-Doel Nuclear Power Station
 Doi (identifier)
-Duck curve
 Earth's energy budget
-Earth's internal heat budget
 Eddy current
 Effective radiated power
 Electret
@@ -64,24 +40,18 @@ Electric current
 Electric dipole moment
 Electric field
 Electric flux
-Electric locomotive
 Electric machine
 Electric motor
 Electric potential
 Electric potential energy
 Electric power
-Electric power consumption
 Electric power industry
 Electrical conductor
 Electrical impedance
 Electrical network
-Electrical reactance
 Electrical resistance
 Electrical resistance and conductance
-Electrical work
 Electricity
-Electrocardiograph
-Electroencephalograph
 Electrolysis
 Electromagnetic field
 Electromagnetic four-potential
@@ -96,105 +66,62 @@ Electronvolt
 Electrostatic discharge
 Electrostatic induction
 Electrostatics
-Embalse nuclear power plant
 Emil Lenz
 Emil Wiechert
-Encyclopedia of Earth
 Encyclopædia Britannica Eleventh Edition
 Energy
 Engine
-English Engineering Units
 Erg
-Eurostar e300
-FM tuner
-Farad
 Faraday's law of induction
-Fission reactor
 Four-current
 Franz Ernst Neumann
 Félix Savart
 Gauss's law
 Gauss's law for magnetism
-General Conference on Weights and Measures
 Georg Ohm
 George Singer
-Gravity
 Gray (unit)
 Gustav Kirchhoff
 Gyrator–capacitor model
-HVDC converter
-Half-wave antenna
-Hannah Ritchie
 Hans Christian Ørsted
-Hearing aid
-Heating element
 Hectare
 Heinrich Hertz
 Hendrik Lorentz
-Henry (unit)
 Hermann von Helmholtz
 Hertz
 Hippolyte Fizeau
-Historical definitions of the SI base units
 History of electromagnetic theory
 Horsepower
-Hour
-Hugh Chisholm
 Humphry Davy
 ISBN (identifier)
 ISSN (identifier)
 Inductance
 Induction motor
 Industrial Revolution
-Input impedance
-Institution of Engineering and Technology
 Insulator (electricity)
-International Bureau of Weights and Measures
-International System of Electrical and Magnetic Units
 International System of Units
-Inventor
 J. J. Thomson
 James Clerk Maxwell
 James Prescott Joule
-James Watt
 Jean-Baptiste Biot
 Jefimenko's equations
-John Ambrose Fleming
 John Henry Poynting
 John Hopkinson
 Joseph Henry
 Joseph Larmor
 Joule
-Joule-second
 Joule heating
-KW
-Katal
-Kelvin
-Kg
-Kibble balance
-KiloWatts (musician)
 Kilogram
-Kilowatt
-Kilowatts
 Kirchhoff's circuit laws
 Larmor formula
-Laser pointer
-Lawrence Livermore National Laboratory
 Lenz's law
-Light bulb
 Linear motor
 List of electrical phenomena
-List of petawatt lasers
 List of textbooks in electromagnetism
-Litre
-Livermore, California
 Liénard–Wiechert potential
 London equations
 Lord Kelvin
 Lorentz force
-Lumen (unit)
-Lux
-MWT
 Magnetic circuit
 Magnetic complex reluctance
 Magnetic field
@@ -207,128 +134,54 @@ Magnetism
 Magnetization
 Magnetomotive force
 Magnetostatics
-Main lobe
 Mathematical descriptions of the electromagnetic field
-Max Roser
 Maxwell's equations
 Maxwell's equations in curved spacetime
 Maxwell stress tensor
-Mechanical engineer
-Medical instrument
-Megajoule
-Melbourne Workers Theatre
-Meter per second
 Metre
-Metric prefix
 Michael Faraday
-Micropascal
-Microsecond
-Minute
-Minute and second of arc
-Mole (unit)
-Nanosecond
 Neper
 Network analysis (electrical circuits)
-Newcomen engine
 Newton (unit)
 Nikola Tesla
-Nominal power (photovoltaic)
-Non-SI units mentioned in the SI
-Nova laser
-Nuclear power plant
-Ohm
 Ohm's law
 Oleg D. Jefimenko
 Oliver Heaviside
-One Watt Initiative
 Optics
-Orders of magnitude (power)
-Osaka University
 Oxford English Dictionary
-Pacific Grove, California
-Pascal (unit)
 Permeability (electromagnetism)
 Permeance
 Permittivity
-Picosecond
 Polarization density
-Potential difference
-Power (physics)
-Power factor
-Power grid
 Power plant
-Power rating
-Power station
 Power supply
 Poynting vector
-Primary energy
-Quantification (science)
-RF
 Radar
-Radian
 Radiant flux
 Radio
 Radio astronomy
-Radio stations
-Real power
 Relativistic electromagnetism
-Resistor
 Resonator
 Right-hand rule
 Rotor (electric)
-SI
-SI base unit
-SI derived unit
-SI prefix
 Science (journal)
-Scottish people
 Second
 Series and parallel circuits
-Server farm
-Siemens (unit)
 Sievert
-Signal-to-noise
 Siméon Denis Poisson
-Solar-powered calculator
-Solar-powered watch
-Solar cells
-Solar constant
-Solar irradiance
-Solar power
-Sound power
-Sound pressure
 Static electricity
 Stator
 Steradian
-Supercollider
 Switzerland
 Synchrotron radiation
-System of units of measurement
-Terawatt hour
-Tesla (unit)
-Thermal power
-Three Gorges Dam
-Tonne
 Transformer
 Transmitter
 Triboelectric effect
-US
-Unit conversion
 United States Department of Energy
 United States Nuclear Regulatory Commission
-University of North Carolina at Chapel Hill
 Velocity
 Volt
-Volt-ampere
 Voltage
-Watt-second
-Watt hour
-Watt steam engine
-Wattmeter
 Waveguide (radio frequency)
-Weber (unit)
-Webster's Dictionary
 Wilhelm Eduard Weber
 William Ritchie (physicist)
-Work (physics)
-Ørsted (company)

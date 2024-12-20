@@ -1,334 +1,55 @@
-MPEG-I
-Fujitsu
-Interlaced video
-LDAC (codec)
-AAC-LD
-MPEG-2 Audio Layer II
-QuickTime
-High Efficiency Video Coding
 LCEVC
 Multiple-image Network Graphics
-Enhanced VOB
-Xvid
-RealAudio
 Mobile phone
 ITU-T
 QuickTime VR
 Delivery Multimedia Integration Framework
-Daala
-AVIF
-High-Efficiency Advanced Audio Coding
-Lossy compression
-3ivx
-MPEG-5
 MPEG-H
 Philips
-Open Font Format
-TIFF
-.m2ts
-Common Intermediate Format
-ZTE
-OpenEXR
-QuickTime File Format
-On2 Technologies
-Audio Video Standard
-VP8
 MPEG-7
-Advanced Audio Coding
-Line spectral pairs
-Extended Adaptive Multi-Rate – Wideband
 Image compression
-Description Definition Language
 MPEG-A
-LHDC (codec)
-BMP file format
-DjVu
 JPEG 2000
-Windows Media Video
-Code-excited linear prediction
-Adaptive Multi-Rate audio codec
 MPEG-4 Part 11
-Transform coding
-Alliance for Open Media
-LC3 (codec)
 H.263
 JPEG XL
 MPEG-D
-Dolby
-MPEG LA
 Japan
-Portable Network Graphics
 Motion JPEG 2000
-KDDI
-MPEG-2 Part 3
-JPEG-LS
-Enhanced Variable Rate Codec B
-VP9
-Windows Media Audio
-VC-6
-MPEG-3
-Real-time Transport Protocol
-Algebraic code-excited linear prediction
-Bluetooth Special Interest Group
-Society of Motion Picture and Television Engineers
-SBC (codec)
-MPEG-1 Audio Layer I
-Better Portable Graphics
-Digital Video Interactive
 JPEG XS
-Resource Interchange File Format
-Motion compensation
-CineForm
 Dynamic Adaptive Streaming over HTTP
 Switzerland
-Ogg
-JBIG2
-WavPack
-DTS (sound system)
-Dirac (video compression format)
-Canon Inc.
-Pantech
-RealVideo
-Cinepak
-Orange S.A.
-RTAudio
-VP3
-QOI (image format)
 ISO base media file format
-Joint Photographic Experts Group
-Apple ProRes
-GIF
 Netherlands
-MSU Lossless Video Codec
 MPEG-1
-SVOPC
-WAV
-Digital container format
-Quantization (image processing)
-Discrete wavelet transform
-VOB
-DSM CC
-G.726
-H.262/MPEG-2 Part 2
-Microsoft Video 1
-VP7
-Au file format
 G.722
-Audio Video Interleave
-OptimFROG
-G.711
-ISO/IEC JTC 1/SC 29
 Advanced Video Coding
-TwinVQ
-TIFF/EP
-Avid Audio
-A-law algorithm
-HDCAM
 International Organization for Standardization
 Audio coding format
-MPEG elementary stream
-General Exchange Format
-SheerVideo
-Avid DNxHD
-MPEG-4 SLS
-DV (video format)
-Progressive Graphics File
-G.723.1
-G.729.1
-G.728
-G.719
-Lagarith
-Comparison of video codecs
-Electronic surveillance
-WebP
-Cable Television Laboratories, Inc.
-H.261
-Flash Video
-JPEG XT
-Hitachi
-G.718
-List of codecs
-Standard-definition television
 Essential Video Coding
-Apple Video
-Libavcodec
-Audio Lossless Coding
-Oki Electric Industry
-FFV1
-Lyra (codec)
-TIFF/IT
-HDX4
 MPEG-2
-Entropy encoding
-G.729
-Linear predictive coding
-Mitsubishi Electric
 Google
-Relaxed code-excited linear prediction
-Nippon Telegraph and Telephone
-Chroma subsampling
-Arithmetic coding
 JBIG
-MPEG transport stream
-MPEG-4 IVC
-Telenor
-JPEG
-Audio Vivid
 MPEG Multichannel
-Patent pool
-Opus (audio format)
-Indeo
-VP6
-H.120
 Sanyo
-MPEG-4 Part 14
-LAME
-ETSI
 Data compression
-Daubechies wavelet
-Moving Picture Experts Group
-Internet Video Coding
-Lempel–Ziv–Welch
-Robert Bosch GmbH
-Μ-law algorithm
-Motion JPEG
 Microsoft
-Shorten file format
-Huffyuv
-Internet Low Bitrate Codec
-FFmpeg
-CELT
-Codec 2
-WebM
-FLAC
-AptX
 MPEG-4 Part 20
-MOD and TOD
-Mixed-excitation linear prediction
-Musepack
-Matroska
-Qualcomm code-excited linear prediction
-B-frame
-Enhanced Variable Rate Codec
-H.264/MPEG-4 AVC
-Pulse-code modulation
-AV1
-Modified Huffman coding
 Sony
-QuickTime Animation
 MPEG-21
-Rights Expression Language
-MT9
-ProRes 422
-NETVC
-Bink Video
-Pixlet
-Wavelet
-Dolby AC-4
-Enhanced Voice Services
-High Efficiency Image File Format
-Adaptive Multi-Rate Wideband
-Original Sound Quality
-Monkey's Audio
-AMV video format
 Patent
-Color depth
-Fast Fourier transform
-Packetized elementary stream
-Variable-Rate Multimode Wideband
-Comparison of audio coding formats
-Harmonic Vector Excitation Coding
-Multimedia
 JPEG XR
 MPEG program stream
 Versatile Video Coding
-LG Electronics
-G.723
-Dolby Digital
-Nero Digital
-Enhanced full rate
-QuickTime Graphics
-Interchange File Format
-RatDVD
-Audio Interchange File Format
-YULS
-Speex
-Asao (codec)
-Selectable Mode Vocoder
 DivX
-Container format (computing)
-Smacker video
-MPEG-4 Part 17
-Master Quality Authenticated
-Video coding format
-Sharp Corporation
-G.722.1
-Sorenson Media
-Video conferencing
 Discrete cosine transform
-Toshiba
-ICER (file format)
-RealMedia
 International Electrotechnical Commission
-RTVideo
-ProRes 4444
-4K resolution
-Super Audio CD
-Ut Video Codec Suite
-Warped linear predictive coding
-Dynamic Resolution Adaptation
-Internet Engineering Task Force
-Differential pulse-code modulation
-Bitstream
-Term of patent
-OMS Video
-Free Lossless Image Format
-DEFLATE
-Vector sum excited linear prediction
-FourCC
-Group 4 compression
-World Wide Web Consortium
-MPEG Surround
 Iran
 Huffman coding
-Internet Speech Audio Codec
-Global motion compensation
 MPEG-4 Part 3
-Siren (codec)
-Wireless Application Protocol Bitmap Format
-SILK
-Theora
-JVC Kenwood
 MPEG-H 3D Audio
-3GP and 3G2
 MP3
-Vorbis
-MPEG-4 Part 10
-APNG
 MPEG-4
-VC-1
-Digital Item
 Panasonic
-Video Coding Experts Group
-MPEG media transport
-Qpel
-Siemens AG
-Thor (video codec)
-MPEG-1 Audio Layer II
-Full Rate
-Material Exchange Format
-Advanced Systems Format
-BT Group
-3GPP
-LZ77 and LZ78
-Deblocking filter (video)
-Unified Speech and Audio Coding
-ISO/IEC base media file format
-Modified discrete cosine transform
-Half Rate
 MPEG-G
-Lossless compression
-Adaptive Transform Acoustic Coding
-Apple Lossless Audio Codec
-Adaptive differential pulse-code modulation
 Samsung Electronics

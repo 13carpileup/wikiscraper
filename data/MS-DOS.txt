@@ -1,524 +1,81 @@
-.NET
-.NET Foundation
-.NET Framework
-.NET Gadgeteer
-.NET MAUI
-.NET Micro Framework
 16-bit
 32-bit
 3D Movie Maker
-4690 OS
-4DOS
 64-bit computing
-8086
 86-DOS
-AARD code
-ADOS (Russian operating system)
-AMSDOS
-ANDOS
-ANSI.SYS
 API
-ASP.NET
-ASP.NET AJAX
-ASP.NET Core
-ASP.NET MVC
-ASP.NET Razor
-ASP.NET Web Forms
-AST Premium Exec
-AT&T Computer Systems
-AUTOEXEC.BAT
-Aaron R. Reynolds
 Addison Wesley
-AirSim
-Allegiance (video game)
-Altos Computer Systems
-Altos MS-DOS 2.11
-AmigaDOS
-Amstrad PC1512
-Apple DOS
 Apple II
-Apple ProDOS
-Apple SOS
-Application software
-April Fool's Day
 Ars Technica
-Atari DOS
-Atari TOS
-Atom (text editor)
-Avalonia (software framework)
-Azure Linux
-Azure Sphere
-BW-DOS
-BYTE
-BYTE Magazine
-Babylon.js
-Bad command or file name
-Barrelfish (operating system)
-Bill Gates
-BitFunnel
-Blazor
-Bob O'Rear
-Bootstrapping (computing)
-Bosque (programming language)
-Brad Silverberg
 Breakup of the Bell System
-Byte (magazine)
-C++/WinRT
 CBS Interactive
 CHKDSK
-CLR Profiler
-CMD file (CP/M)
-COMMAND.COM
-COM file
-CONFIG.SYS
-CP/K
-CP/M
-CP/M-80
-CP/M-86
-CP/M BIOS
-CP/M filesystem
-CSI-DOS
 C (programming language)
 C Sharp (programming language)
-Cairo (operating system)
-Caldera, Inc.
-Caldera v. Microsoft
-Chakra (JavaScript engine)
-Charles Petzold
-ChronoZoom
-Closed source
-CodePlex
-Codepage
-Command-line interface
-Command Prompt
 Commodore 64
-Commodore DOS
 Compaq
-Comparison of DOS operating systems
 Computer History Museum
 Computer multitasking
-Concurrent CP/M-86
-Concurrent DOS
-Concurrent DOS 68K
-Concurrent DOS V60
-Conference XP
-Confidential Consortium Framework
-Cromemco DOS
-DBLSPACE
-DEBUG (DOS command)
-DEC BATCH-11/DOS-11
-DIP DOS
 DOS
-DOS/360
-DOS/V
-DOSBox
-DOSSHELL
-DOS API
-DOS BIOS
-DOS Plus
-DOS Shell
-DOS XL
-DOS memory management
-DR-DOS
-DRVSPACE
-DR DOS 5.0
-DR DOS 6.0
-DTK Corporation
-Dafny
-Dapr
-Data General RDOS
-Datapac System Manager
-DeepSpeed
 Digital Research
-DiskSpd
-Disk Control Program
-Disk compression
-Disk operating system
 Doi (identifier)
 Dryad (programming)
-Due diligence
-Dynamic Language Runtime
-EBPF on Windows
-EDLIN
-EOS (8-bit operating system)
-EXE
-East German
-Eastern bloc
-Edos
-Electron (software framework)
 English language
-Entity Framework
-Executable
-Expanded memory
-Extensible Storage Engine
-F* (programming language)
-FASTOPEN
 FAT12
 FAT16
-FAT16B
 FAT32
 FDISK
-FLEX (operating system)
 F Sharp (programming language)
-F Sharp Software Foundation
-Family.Show
-Fear, uncertainty, and doubt
 Federal Trade Commission
-File Control Block
-File Manager (Windows)
 Filename extension
-FlexOS
-FlexWiki
 Floppy disk
-Fluent Design System
-Fluid Framework
-Forge (software)
 Fork (software development)
-FourQ
-FreeDOS
-Free Software Foundation
-Free and open-source software
 Free software
-Fujitsu
-GEMDOS
-GUI
-GW-BASIC
 GitHub
-Gollum (software)
-Gordon Letwin
 Graphical user interface
-Graphics Environment Manager
-Groklaw
-H-DOS
-HIMEM.SYS
-HP 95LX
-Hardware Abstraction Layer
-High memory area
-History of Microsoft Windows
-HomeOS
-I386
 IBM
-IBM 4680 OS
 IBM PC
-IBM PC DOS
 IBM PC compatible
 IBM Personal Computer
-IDEDOS
-IMDOS
-IO.SYS
-IS-DOS
 ISBN (identifier)
-ISIS (operating system)
-ITT Corporation
 Index of DOS games
-Infer.NET
-Influence of the IBM PC on the personal computer market
-InfoWorld
-Installable File System
-Intel 80286
-Intel 8086
-Intel 8088
-IronPython
-IronRuby
-Itanium
-John Socha
-K8918-OS
-Kernel-Mode Driver Framework
 Kernel (operating system)
-LAN Manager
-LCCN (identifier)
-LSI-11
-Leading Edge Model D
-Lean (proof assistant)
-Lempel–Ziv–Stac
-Lifeboat Associates
-LightGBM
-List of DOS commands
-List of Microsoft operating systems
-List of disk operating systems called DOS
-Logical block addressing
-London, Ontario
-Long filename
-Look and feel
-MIT License
-ML.NET
-MP/M
-MP/M-86
-MS-DOS 4.0 (multitasking)
-MS-DOS 5.50
-MS-DOS 7
-MS-DOS API
-MS-DOS Editor
-MS-DOS Prompt
-MS-Net
-MSAV
-MSBuild
-MSDN
-MSX-DOS
-Mac (computer)
-Managed Extensibility Framework
-Marc McDonald
-Mark Zbikowski
-Metro (design language)
-Michael Swaine (technical author)
 Microsoft
-Microsoft Automatic Graph Layout
-Microsoft C++ Standard Library
-Microsoft Cognitive Toolkit
-Microsoft Detours
-Microsoft Enterprise Library
-Microsoft Kin
-Microsoft Lumia
-Microsoft Mobile
-Microsoft Open Specification Promise
-Microsoft Pascal
-Microsoft PowerToys
-Microsoft Power Fx
-Microsoft Press
-Microsoft Public License
-Microsoft Reciprocal License
-Microsoft SEAL
-Microsoft Small Basic
-Microsoft TechNet
-Microsoft Venus
 Microsoft Windows
-Microsoft Windows 1.0
-Microsoft and open source
-Midori (operating system)
-Mimalloc
-Mixed Reality Toolkit
-Mod mono
-Modular Windows
-MonoDevelop
-Mono (software)
 Monolithic kernel
-Motorola 68000
-MsQuic
-Multi-user
-Multitech
-Multiuser DOS
-MyDOS
-Myarc Disk Operating System
-NCR Corporation
-NTVDM
 Natural language
-NetWare PalmDOS
-Neural Network Intelligence
-NewDos/80
 Nokia Asha platform
-Nokia X platform
-Norton Utilities
-Novell DOS
-Npm
-NuGet
 OCLC (identifier)
-OEM
-OS/2
-OS/M
-Olivetti M19
-OneFuzz
-Open-source license
 Open-source software
-OpenDOS
-Open Letter to Hobbyists
-Open Live Writer
-Open Management Infrastructure
-Open Neural Network Exchange
-Open Service Mesh
-Open Source Initiative
-Open Source Security Foundation
-Open XML SDK
 Operating system
-Orleans (software framework)
-Outercurve Foundation
-PC-9800 series
-PC-MOS/386
 PC DOS
-PC Tools (software)
 POSIX
-PTDOS
-PTS-DOS
-P (programming language)
 Package manager
-Paul Allen
-Paul Freiberger
 Personal computer
-Playwright (software)
-PowerShell
-Primary partition
-ProcDump
-Process Monitor
-Program Segment Prefix
-Program information file
 Programmer
 Programming language
-Project Mu
-Project Verona
 Proprietary software
-Pull request
-Python Tools for Visual Studio
-QBasic
-QEMM
-Q Sharp
-Que Corporation
-QuickC
-RCA MicroDOS
-REAL/32
-ROM-DOS
-R Tools for Visual Studio
-Ralf Brown's Interrupt List
 Ralf D. Brown
-ReactiveX
-RealDOS
-RecursiveExtractor
-Relocation (computing)
-Repository (version control)
-Roslyn (compiler)
-Russian MS-DOS 4.01
-Russian MS-DOS 5.0
-SB-80
-SB-86
-SCANDISK
-SCP1700
-SCP MS-DOS 1.25
-SILK
-SISNE plus
-SONiC (operating system)
-SVNBridge
-SYS (DOS command)
-Sandcastle (software)
-Santa Cruz Operation
-Seattle Computer Products
 Self-modifying code
-Share (command)
-Shared Source
-Shared Source Initiative
-SignalR
-Sinclair QDOS
-Single User Control Program
-Singularity (operating system)
-SmartDOS
-SoftPC
-Software bus
 Software license
 Software release life cycle
-Source-available
-SpartaDOS
-SpartaDOS X
-Stac Electronics
 Steve Ballmer
-StyleCop
-T2 Temporal Prover
-TLA+ Toolbox
-TLAPS
 TOPS-10
-TPM 2.0 Reference Implementation
-TR-DOS
-TRSDOS
-Tandy 1000
-Tandy 2000
-Tandy Corporation
-Tao ExDOS
 TechRepublic
-Technical Support SuperDOS
-TeleVideo
-TeleVideo PC DOS 2.11
-Text Template Transformation Toolkit
-Text user interface
 ThreadX
-Tim Paterson
-Timeline of DOS operating systems
-Top-DOS
-Toshiba
-Toshiba Pasopia 16
-Toshiba T1000
-Towns OS
-TurboDOS
-TypeScript
-U-Prove
-UDOS
-UNIX
-UNIX System V
 United States Navy
 United States dollar
-Unix
-Upper memory area
-Upward compatible
-User-Mode Driver Framework
 User interface
-VEB Robotron
-VEB Robotron-Projekt Dresden
-VER (DOS command)
-VFAT
-VMware
-Vcpkg
-Vendor lock-in
-Verve (operating system)
-VirtualPC
-Virtual 8086 mode
-Virtual DOS machine
-Virtual File System for Git
-Virtual PC
 Virtual machine
-Visual Basic .NET
-VoTT
-Voldemort (distributed data store)
-Vowpal Wabbit
 Wayback Machine
-WiX
-WikiBhasha
-Win32 console
-WinJS
-WinObjC
 Windows
-Windows 1.0
 Windows 10
 Windows 10 Mobile
 Windows 11
-Windows 2.0
-Windows 2.1
-Windows 2000
-Windows 3.0
-Windows 3.1
 Windows 8.1
 Windows 95
-Windows 98
-Windows 9x
-Windows App SDK
-Windows Calculator
-Windows Communication Foundation
-Windows Console
-Windows Driver Frameworks
-Windows Embedded Automotive
-Windows Embedded Compact
-Windows Embedded Industry
-Windows Forms
-Windows IoT
-Windows Me
 Windows Mobile
 Windows NT
-Windows Package Manager
 Windows Phone
-Windows Presentation Foundation
-Windows Server 2008 R2
-Windows Template Library
-Windows Terminal
-Windows UI Library
-Windows Vista
-Windows XP
-WorldWide Telescope
 X86
-X86-64
-X86 assembly language
-XCOPY
-XDP for Windows
-XML Notepad
-XSP (software)
-XUnit.net
 Xbox system software
-Xenix
-Z-DOS
-Z3 Theorem Prover
-Z80-RIO
-Zilog Z8000
-Zune

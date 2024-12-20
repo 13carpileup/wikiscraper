@@ -1,78 +1,42 @@
-2019 revision of the SI
 AC motor
 AC power
-Absolute zero
 Albert Einstein
 Alessandro Volta
 Alfred-Marie Liénard
 Alternating current
-Ammeter
-Amount of substance
-Ampere
 Ampère's circuital law
-Ampère's force law
 André-Marie Ampère
 Antenna (radio)
-Archaism
 Atomic nucleus
-Atomic spectral line
 Audio frequency
-Avalanche breakdown
-Band gap
-Battery (electrical)
-Battery (electricity)
 Biot–Savart law
 Bremsstrahlung
 Cambridge University Press
-Candela
 Capacitance
 Carl Friedrich Gauss
 Cathode-ray tube
-Charge carrier
 Charge density
-Charge transport mechanisms
 Charged particle
 Charles-Augustin de Coulomb
 Charles Proteus Steinmetz
-Chlorine
-Circuit Analysis
-Circuit diagram
-Circuit element
 Classical electromagnetism
 Classical electromagnetism and special relativity
 Classical physics
-Cold cathode
 Commutator (electric)
 Computational electromagnetics
-Conduction electron
-Conductivity (electrolytic)
-Conductor (material)
-Convection
 Copper
 Coulomb
 Coulomb's law
 Covariant formulation of classical electromagnetism
-Critical point (thermodynamics)
-Cryogenics
-Current clamp
 Current density
-Current sensing techniques
-Current transformer
 Cyclotron radiation
 DC motor
 Dielectric
-Dielectric breakdown
-Dimensional analysis
 Direct current
 Displacement current
-Dopant
-Drift velocity
-Dynamo
 Eddy current
 Electret
-Electric arc
 Electric charge
-Electric circuit
 Electric dipole moment
 Electric field
 Electric flux
@@ -84,24 +48,14 @@ Electric power
 Electric power transmission
 Electric shock
 Electric spark
-Electrical Conductor
-Electrical circuit
 Electrical conductivity
 Electrical conductor
-Electrical filament
 Electrical impedance
-Electrical insulation
-Electrical measurements
 Electrical network
-Electrical potential
 Electrical resistance
 Electrical resistance and conductance
 Electricity
-Electrochemical cell
-Electrochemistry
 Electrolysis
-Electrolyte
-Electromagnet
 Electromagnetic field
 Electromagnetic four-potential
 Electromagnetic induction
@@ -114,10 +68,6 @@ Electromagnetic waves
 Electromagnetism
 Electromotive force
 Electron
-Electron beam
-Electron cloud
-Electron hole
-Electronic symbol
 Electronics
 Electronvolt
 Electrostatic discharge
@@ -126,49 +76,30 @@ Electrostatics
 Emil Lenz
 Emil Wiechert
 Energy
-External electric load
 Faraday's law of induction
-Fermi gas
-Ferromagnetism
-Field electron emission
 Four-current
 Franz Ernst Neumann
-Free space
 Félix Savart
-Galvanometer
 Gas
 Gauss's law
 Gauss's law for magnetism
 Georg Ohm
-George Gamow
 George Singer
 Gustav Kirchhoff
 Gyrator–capacitor model
-Hall effect
 Hans Christian Ørsted
-Heat
-Heike Kamerlingh Onnes
 Heinrich Hertz
 Hendrik Lorentz
 Hermann von Helmholtz
 Hippolyte Fizeau
-History of electrical engineering
 History of electromagnetic theory
 History of the metric system
-Hot cathode
 Humphry Davy
-Hydraulic analogy
-Hydronium
 ISBN (identifier)
-ISQ base quantity
-Incandescent light bulbs
 Inductance
 Induction motor
 Inductor
-Insulator (electrical)
 Insulator (electricity)
-Internal energy
-International System of Quantities
 International System of Units
 Ion
 Ionization
@@ -183,15 +114,10 @@ John Hopkinson
 Joseph Henry
 Joseph Larmor
 Joule
-Joule's first law
 Joule heating
-Kelvin
 Kilogram
 Kirchhoff's circuit laws
-Krytron
 Larmor formula
-Leiden
-Length
 Lenz's law
 Light
 Lightning
@@ -202,13 +128,9 @@ Liénard–Wiechert potential
 London equations
 Lord Kelvin
 Lorentz force
-Luminous intensity
-Magnet
 Magnetic circuit
 Magnetic complex reluctance
-Magnetic current
 Magnetic field
-Magnetic fields
 Magnetic flux
 Magnetic moment
 Magnetic reluctance
@@ -217,123 +139,62 @@ Magnetic vector potential
 Magnetism
 Magnetization
 Magnetomotive force
-Magnetoresistance
 Magnetostatics
 Mass
 Mathematical descriptions of the electromagnetic field
 Maxwell's equations
 Maxwell's equations in curved spacetime
 Maxwell stress tensor
-Meissner effect
 Metal
-Metals
 Metre
 Michael Faraday
-Minute
-Modulated
-Mole (unit)
-Molecular solid
 Molecule
-Nanowire
 Network analysis (electrical circuits)
-Neurons
 Nikola Tesla
 OCLC (identifier)
-Ohm
 Ohm's law
-Ohmic device
 Oleg D. Jefimenko
 Oliver Heaviside
-One, Two, Three...Infinity
 Optics
-Outline of the metric system
-Ozone
-Paul Horowitz (scientist)
-Pauli exclusion principle
 Perfect conductor
 Permeability (electromagnetism)
 Permeance
 Permittivity
 Plasma (physics)
-Plasma physics
-Polar aurora
-Polarity symbols
 Polarization density
-Popular science
-Positive (electrical polarity)
-Potential difference
-Power dissipation
 Poynting vector
-Proportionality (mathematics)
 Proton
-Proton conductor
 Quantum mechanics
-Quantum state
 Quantum tunneling
-Radio-frequency current
-Radio antenna
-Radio frequencies
 Radio frequency
 Radio wave
 Radio waves
 Rectifier
 Relativistic electromagnetism
-Resistor
 Resonator
 Right-hand rule
-Robert A. Millikan
-Rogowski coil
 Rotor (electric)
-SI
-SI base unit
-SI electromagnetism units
-SI unit
-Schematic diagram
 Second
-Semiconductor
 Series and parallel circuits
-Shunt resistor
-Siemens (unit)
 Siméon Denis Poisson
 Sine wave
 Single-phase electric power
 Skin effect
 Sodium
-Solar cell
-Solar wind
-Solenoid
 Speed of light
-Square (algebra)
 Square wave
 Static electricity
 Stator
-Superconductivity
 Synchrotron radiation
-System of measurement
 Telecommunications
-Temperature
-Thermal energy
-Thermionic emission
-Thermocouple
-Thermodynamic temperature
-Thermodynamic work
 Three-phase electric power
-Time
 Transformer
 Triangle wave
 Triboelectric effect
-Two-phase electric power
-Unit of measurement
-Vacuum
-Vacuum arc
 Vacuum tube
-Valence band
 Variable (mathematics)
-Vector (geometric)
-Velocity factor
 Volt
 Voltage
-Voltage source
 War of the currents
 Water
 Watt
@@ -341,6 +202,3 @@ Waveform
 Waveguide (radio frequency)
 Wilhelm Eduard Weber
 William Ritchie (physicist)
-Winfield Hill
-Wire
-Work function

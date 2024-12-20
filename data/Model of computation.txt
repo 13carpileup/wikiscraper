@@ -1,8 +1,5 @@
 ACM Computing Classification System
 Abstract machine
-Abstract rewriting system
-Accumulator machine
-Actor model
 Algorithm
 Algorithm design
 Algorithmic efficiency
@@ -11,14 +8,10 @@ Application security
 Artificial intelligence
 Automata theory
 Automated planning and scheduling
-Cell-probe model
 Cellular automaton
 Chomsky hierarchy
-Circuit (computer science)
-Combinatory logic
 Compiler construction
 Computability theory
-Computability theory (computer science)
 Computational biology
 Computational chemistry
 Computational complexity
@@ -26,7 +19,6 @@ Computational complexity theory
 Computational engineering
 Computational geometry
 Computational mathematics
-Computational model
 Computational physics
 Computational social science
 Computer accessibility
@@ -51,9 +43,7 @@ Cyberwarfare
 Data mining
 Database
 Decision support system
-Decision tree model
 Dependability
-Deterministic model
 Digital art
 Digital library
 Digital marketing
@@ -70,12 +60,10 @@ Electronic voting
 Embedded system
 Enterprise information system
 Enterprise software
-Finite state machine
 Form factor (design)
 Formal language
 Formal methods
 Function (mathematics)
-General recursive function
 Geographic information system
 Graphics processing unit
 Green computing
@@ -85,7 +73,6 @@ Health informatics
 Human–computer interaction
 ISBN (identifier)
 Image compression
-Implementation
 Information retrieval
 Information security
 Information system
@@ -93,11 +80,8 @@ Information theory
 Integrated circuit
 Integrated development environment
 Interaction design
-Interaction nets
 Interpreter (computing)
 Intrusion detection system
-John E. Savage
-Kahn process networks
 Knowledge representation and reasoning
 Lambda calculus
 Library (computing)
@@ -123,7 +107,6 @@ Network scheduler
 Network security
 Network service
 Networking hardware
-Nondeterministic model of computation
 Numerical analysis
 Open-source software
 Operating system
@@ -131,13 +114,10 @@ Operations research
 Outline of computer science
 Parallel computing
 Peripheral
-Petri nets
 Philosophy of artificial intelligence
 Photograph manipulation
-Post–Turing machine
 Printed circuit board
 Probability
-Process calculus
 Process control
 Processor (computing)
 Programming language
@@ -145,16 +125,13 @@ Programming language theory
 Programming paradigm
 Programming team
 Programming tool
-Pushdown automata
 Quantum Computing
 Random-access machine
 Randomized algorithm
 Real-time computing
-Register machine
 Reinforcement learning
 Rendering (computer graphics)
 Requirements analysis
-Robertson–Webb query model
 Security hacker
 Security service (telecommunication)
 Semantics (computer science)
@@ -172,16 +149,12 @@ Software maintenance
 Software quality
 Software repository
 Solid modeling
-Stack machine
 Statistics
 Stochastic computing
 Supervised learning
-Synchronous Data Flow
 System on a chip
-Tag system
 Theoretical computer science
 Theory of computation
-Turing completeness
 Turing machine
 Ubiquitous computing
 Unsupervised learning

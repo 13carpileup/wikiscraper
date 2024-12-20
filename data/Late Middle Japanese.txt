@@ -1,63 +1,41 @@
 ARIB STD B24 character set
-Adjectival noun (Japanese)
 Adjective
-Affricate consonant
 Akita dialect
-Alveolar consonant
 Amami Japanese
-Amami languages
 Amami Ōshima language
-Approximant consonant
 Aristocracy
-Arte da Lingoa de Iapam
 Ateji
 Awaji dialect
 Bamboo English
 Banshū dialect
-Bilabial consonant
 Bingo dialect
 Bonin English
 Braille kanji
-Buddhism in Japan
-Ch'ŏphae Sinŏ
 Chikuzen dialect
 Christian mission
-Chūgoku dialect
 Classical Japanese
-Consonants
 Cyrillization of Japanese
 Doi (identifier)
 Early Middle Japanese
 Early Modern Japanese
 Eastern Old Japanese
-Elision
-Emperor of Japan
 Enclosed CJK Letters and Months
 Enclosed Ideographic Supplement
 Engrish
-Euphony
 Extended Unix Code
 Extended shinjitai
-Feudal Japan
-Fossilization (linguistics)
-Fricative consonant
 Furigana
-Gairaigo
-Gemination
 Gender differences in Japanese
 Glossary of Japanese words of Dutch origin
 Glossary of Japanese words of Portuguese origin
-Glottolog
 Go-on
 Gojūon
-Guanyin
 Gunma dialect
 Hachijō grammar
 Hachijō language
 Hakata dialect
 Halfwidth and fullwidth forms
 Hangul
-Heian period
 Hentaigana
 Hepburn romanization
 Hichiku dialect
@@ -66,16 +44,12 @@ Hiragana
 Hiragana (Unicode block)
 Historical kana orthography
 Hokkaido dialects
-Hokuriku dialect
 Honorific speech in Japanese
-Hōnichi dialect
 ISBN (identifier)
-ISO/IEC 2022
 ISO 639-3
 Ibaraki dialect
 Inshū dialect
 International Phonetic Alphabet
-Iwanami Shoten Publishing
 Iyo dialect
 JIS X 0201
 JIS X 0208
@@ -87,7 +61,6 @@ Japan
 Japanese-based creole languages
 Japanese Braille
 Japanese adjectives
-Japanese books
 Japanese counter word
 Japanese dialects
 Japanese dictionary
@@ -108,16 +81,11 @@ Japanese pronouns
 Japanese punctuation
 Japanese script reform
 Japanese sound symbolism
-Japanese verb conjugation
 Japanese writing system
 Japonic languages
-João Rodrigues Tçuzu
 Jōdai Tokushu Kanazukai
 Kaga dialect
 Kagoshima dialect
-Kakarimusubi
-Kamakura period
-Kamakura shogunate
 Kan-on
 Kana
 Kana Extended-A
@@ -129,105 +97,67 @@ Kanazukai
 Kanbun
 Kanji
 Kansai dialect
-Kantō dialect
-Kantō region
 Katakana
 Katakana (Unicode block)
 Katakana Phonetic Extensions
 Kesen dialect
 Kikai language
-Kirishitan
 Kishū dialect
 Kokuji
 Kumamoto dialect
 Kunigami language
 Kunrei-shiki romanization
-Kyoto
 Kyowa-go
-Labialisation
-Language family
-Liquid consonant
 List of Japanese speculative fiction writers
 List of Japanese writers
 List of classical Japanese texts
-List of kanji by stroke count
 List of kanji radicals by frequency
 List of kanji radicals by stroke count
 Literacy
-Loanwords
 Logogram
-Macro-Yaeyama languages
 Man'yōgana
-Marc Hideo Miyake
 Mikawa dialect
-Mimetic
 Mino dialect
 Miyakoan language
 Modern kana usage
 Mora (linguistics)
-Muromachi period
 Nagaoka dialect
 Nagasaki dialect
 Nagoya dialect
 Nairiku dialect
 Nanbu dialect
 Narada dialect
-Nasal stop
 Nihon-shiki romanization
-Nippo Jisho
 Northern Izu Archipelago dialects
 Northern Ryukyuan languages
 Nyōbō kotoba
 Okinawan Japanese
 Okinawan language
-Okinoerabu dialect cluster
-Okinoerabu language
 Okurigana
 Okuyoshino dialect
 Old Japanese
-Onbin
 Palatal consonant
-Palatalization (sound change)
-Peninsular Japonic
 Phoneme
-Phonemes
-Phonemic contrast
 Plosive
 Polivanov system
-Portuguese people
-Postalveolar consonant
-Prenasalized consonant
-Proto-Japanese
-Proto-Japonic
 Pseudo-Chinese
-Realis moods
 Rendaku
 Romanization of Japanese
 Ryakuji
 Ryukyuan languages
 Saga dialect
-Samuel Martin (linguist)
-Samurai
-Sanseido
 Sanuki dialect
 Semivowel
 Shift JIS
 Shikoku dialect
 Shizuoka dialect
-Sibilant consonant
 Sino-Japanese vocabulary
 Small Kana Extension
 Southern Amami Ōshima language
 Southern Ryukyuan languages
-Specials (Unicode block)
-Stop consonant
-Susumu Ōno
-Syllables
 Sōgana
-Tamna
 Tarama language
 Tochigi dialect
-Toilets in Japan
 Tokunoshima language
 Tokyo dialect
 Topic marker
@@ -238,41 +168,21 @@ Tsugaru dialect
 Tsushima dialect
 Tō-on
 Tōhoku dialect
-Tōkai–Tōsan dialect
 Umpaku dialect
 Unicode
-Uvular consonant
-Velar consonant
-Verb
-Voice (phonetics)
-Voiced alveolar affricate
 Voiced alveolar fricative
-Voiced alveolar nasal
-Voiced alveolar plosive
-Voiced alveolo-palatal affricate
 Voiced alveolo-palatal fricative
-Voiced bilabial nasal
-Voiced bilabial plosive
 Voiced palatal approximant
-Voiced uvular nasal
-Voiced velar approximant
 Voiced velar plosive
-Voiceless alveolar affricate
 Voiceless alveolar fricative
-Voiceless alveolar plosive
 Voiceless alveolo-palatal affricate
 Voiceless alveolo-palatal fricative
-Voiceless bilabial fricative
-Voiceless bilabial plosive
-Voiceless velar plosive
 Vowel
 Wasei-eigo
 Wasei-kango
-Writing system
 Wāpuro rōmaji
 Yaeyama language
 Yakuwarigo
-Yamato kotoba
 Yilan Creole Japanese
 Yokohama Pidgin Japanese
 Yonaguni language

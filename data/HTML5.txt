@@ -1,408 +1,47 @@
 2D computer graphics
-360 Secure Browser
 AOL Explorer
-AT&T Pogo
-Abaco (web browser)
-ActivityPub
-Activity Streams (format)
 Adobe Flash
 Adobe Inc.
-Agora (web browser)
-Alt attribute
-Amaya (web editor)
 Amazon Silk
 Apple Inc.
 Application programming interface
-Application programming interfaces
-Arachne (web browser)
-Arc (web browser)
-Arena (web browser)
-Argo (web browser)
-Arora (web browser)
-Article element
-Article element (HTML5)
-Avast Secure Browser
 BBC
 BBC News
-Backward-compatible
-Basilisk (web browser)
-Beaker (web browser)
-Beonex Communicator
-Blazer (web browser)
-Blink (browser engine)
-Blink element
-Bolt (web browser)
-Bookmark (digital)
-Brave (web browser)
-Browser Object Model
-Browser engine
 Browser extension
-C-HTML
 CBS News
-CERN httpd
-CM Browser
 CSS
-CSS3
-CSS Flexible Box Layout
-CSS Working Group
 CSS animations
-CSS grid layout
-CURIE
-Cache manifest in HTML5
-Cake Browser
-Call Control eXtensible Markup Language
-Camino (web browser)
-Canonical XML
-Canvas element
-Cascading Style Sheets
 Character encodings in HTML
-Charon (web browser)
-Chromium (web browser)
-Citrio
-Classilla
-Comodo Dragon
-Comodo IceDragon
-Comparison of HTML5 and Flash
-Comparison of browser engines
-Comparison of document markup languages
-Comparison of web browsers
-Compound Document Format
-Conkeror
-Cory Doctorow
-Cốc Cốc
-Dave Hyatt
-Deepnet Explorer
 Digital rights management
-Dillo
-Div and span
-Document Object Model
-Document type declaration
-Dolphin Browser
-Dooble
-Drag and drop
-DuckDuckGo Private Browser
-Dynamic HTML
-Dynamic web page
-ELinks
-Efficient XML Interchange
-Electronic Frontier Foundation
-Emotion Markup Language
-Encrypted Media Extensions
-Epic (web browser)
-Eww (web browser)
-Extensible Forms Description Language
-Extensible User Interface Protocol
-Falkon
 Filename extension
-Firefox
-Firefox 3.5
-Firefox Lite
-First International Conference on the World-Wide Web
-Flock (web browser)
-Floorp
-Flow (web browser)
-Fluid (web browser)
-Font family (HTML)
 Fork (software development)
-Fortune 500
-Forward compatibility
-Frame (World Wide Web)
-Framing (World Wide Web)
-Free Software Foundation
-Free and Open Source
-GNOME Web
-GNU IceCat
-Galeon
-Gazelle (web browser)
-Gecko (software)
-Ghostzilla
 Google
-Google Chrome
-Google TV (smart TV platform)
-GreenBrowser
 HTML
-HTML5 File API
-HTML 4
-HTML 4.01
-HTML Living Standard
-HTML Working Group
-HTML attribute
-HTML audio
-HTML editor
-HTML element
-HTML elements
-HTML video
-HTMX
-HTTP
-HTTPS
-HTTP Cookie
-HTTP cookie
-Handheld Device Markup Language
 HotJava
-Hypertext
-IBM Home Page Reader
-IBM Lotus Symphony
-IBM WebExplorer
-IBrowse
-ICab
 ISBN (identifier)
-Ian Hickson
-Improving Web Advertising Business Group
-IndexedDB
-Indexed Database API
-IndieAuth
-InkML
-International World Wide Web Conference
-International World Wide Web Conferences Steering Committee
 International standard
-Internationalization Tag Set
-Internet Explorer
-Internet Explorer 9
-Internet Explorer for Mac
-Internet media type
-Iris Browser
-JSON-LD
 JavaScript
-JavaScript Style Sheets
-K-Meleon
-Kagi (search engine)
-Kazehakase
-KidZui
-Kirix Strata
-Konqueror
-Kylo (web browser)
-Ladybird (web browser)
-Language code
-Lexing
-LibreWolf
-Libwww
-Line Mode Browser
-Linked Data Notifications
-Links (web browser)
 List of XML and HTML character entity references
-List of web browsers
-Lunascape
-Lynx (web browser)
-MIME
-MIME type
-MSN TV
-Mark Pilgrim
-Markup language
-Marquee element
-MathML
-Maxthon
-MediaBrowser
-Media Source Extensions
 Media type
-Mercury Browser
-Meta element
-MicroB
-Microdata (HTML)
-Micropub (protocol)
 Microsoft
-Microsoft Edge
-Microsoft Edge Legacy
-Microsoft Live Labs Deepfish
-Midori (web browser)
-Minimo
-Mitchell Baker
-Mosaic (web browser)
-Mozilla
-Mozilla Application Suite
-Mozilla Foundation
-Multimedia
-Naver Whale
-NeoPlanet
-NetCaptor
-NetFront
-NetPositive
-NetSurf
-Netscape (web browser)
-Nokia Browser for Symbian
-OmniWeb
-Online Certificate Status Protocol
-Open file format
-Opera (web browser)
-Opera Coast
-Opera Mini
-Opera Mobile
-Opera Software
-Origyn Web Browser
-Otter Browser
-P3P
-Pale Moon
-Parsing
-PirateBrowser
-Polyglot markup
-Precision Graphics Markup Language
-Private browsing
-Pronunciation Lexicon Specification
 Proprietary software
-Puffin Browser
-QQ Browser
-QtWeb
-Quirks mode
-Qutebrowser
-RDF Schema
-Redcore
 Resource Description Framework
-Resource fork
-Rockmelt
-Ruby character
-Rule Interchange Format
-SCXML
-SHACL
-SMIL Timesheets
-SOAP
-SPARQL
 SQL
-SRWare Iron
-SVG Working Group
-SVG filter effects
-SXBL
-Safari (web browser)
-SalamWeb
-Samsung Internet
-Scalable Vector Graphics
-Scalable vector graphics
-SeaMonkey
 Search engine
-Semantic Interpretation for Speech Recognition
-Semantic Web
-Server-sent events
-Shiira
-Simple Knowledge Organization System
-Skweezer
-Skyfire (company)
-Sleipnir (web browser)
-SlimBrowser
 Social network
 Software release life cycle
-SpaceTime (software)
-Speech Recognition Grammar Specification
-Speech Synthesis Markup Language
-Sputnik (search engine)
 Standard Generalized Markup Language
-Steel (web browser)
 Steve Jobs
-Style sheet (web development)
-Subresource Integrity
-Supermium
-Surf (web browser)
-Swiftfox
-Swiftweasel
-Synchronized Multimedia Integration Language
-Syntax (programming languages)
-Tag soup
-Technical Architecture Group
-TenFourFox
 The Verge
-The Web Standards Project
-Thing Description
-Third-party cookies
 Thoughts on Flash
-ThunderHawk
-Timberwolf (web browser)
-Timed text
-Tor Browser
-Torch (web browser)
-Trident (software)
-UC Browser
-Ungoogled-chromium
-Unicode and HTML
-Uniform Type Identifier
-Uzbl
-Vector Markup Language
-Vision Mobile Browser
-Vivaldi (web browser)
-VoiceXML
-W3C
-W3C Advisory Board
-W3C Board
-W3C Device Description Working Group
-W3C Geolocation API
-W3C MMI
-W3C Markup Validation Service
-W3m
-WAI-ARIA
-WHATWG
-Waterfox
 Wayback Machine
 Web3D
 WebAssembly
-WebCL
 WebGL
 WebGPU
-WebKit
-WebPlatform.org
-WebPositive
-WebRTC
-WebSocket
-WebSub
-WebVTT
 WebXR
-Web Accessibility Initiative
-Web Authentication Working Group
-Web Components
 Web Content Accessibility Guidelines
-Web Hypertext Application Technology Working Group
-Web Messaging
-Web Ontology Language
-Web Open Font Format
-Web SQL Database
-Web Services Description Language
-Web Storage
-Web application
 Web browser
-Web colors
-Web cryptography API
-Web of Things
-Web standards
-Web storage
-Web worker
-Webmention
 Webmonkey
-Widevine
-WinWAP
-WorldWideWeb
 World Wide Web
-World Wide Web Consortium
-World Wide Web Foundation
-XAdES
-XBL
-XB Browser
-XForms
-XFrames
-XHTML
-XHTML+MathML+SVG
-XHTML+RDFa
-XHTML+SMIL
-XHTML 2.0
-XHTML Basic
-XHTML Mobile Profile
-XInclude
-XLink
 XML
-XML-binary Optimized Packaging
-XMLHttpRequest
-XML Base
-XML Encryption
-XML Events
-XML Information Set
-XML Schema (W3C)
-XML Signature
-XML namespace
-XPath
-XPath 2.0
-XPath 3
-XPointer
-XProc
-XQuery
-XSL
-XSLT
-XSLT elements
-XSL Formatting Objects
-Xombrero
-Yandex Browser
-ZAC Browser
-Zen Browser

@@ -1,298 +1,132 @@
 Absolute value
 Abstract algebra
-Active optics
-Actuator
-Adaptive control
 Adaptive system
-Adolf Hurwitz
-Aerospace industry
-Aleksandr Lyapunov
 Alexander Bogdanov
-Alexander Lerner
-Alexander Lyapunov
-Alexey Lyapunov
-Alfred Radcliffe-Brown
 Algebra
 Algebraic equation
 Algebraic geometry
 Algebraic number theory
 Algebraic topology
-Ali H. Nayfeh
 Allenna Leonard
 Analytic geometry
 Analytic number theory
 Anatol Rapoport
-Andrey Kolmogorov
-Anthony Stafford Beer
 Anthony Wilden
-Anti-wind up system (control)
 Applied mathematics
 ArXiv (identifier)
 Arithmetic
 Arithmetic geometry
 Artificial intelligence
-Artificial neural network
-Artificial neural networks
-Asymptotic stability
-Audio system
 Automation
-Automation and Remote Control
-Automation and remote control
-Autopilot
-BIBO stability
-Backstepping
-Bandwidth (signal processing)
-Bang-bang control
-Bang–bang control
 Barbara J. Grosz
-Bayesian probability
 Bibcode (identifier)
-Biocybernetics
 Biological system
-Biomedical cybernetics
-Biorobotics
-Biosemiotics
-Block diagram
-Bode diagram
-Bode plot
-Bond graph
-Boulton & Watt engine
-Bounded function
 Brain–computer interface
-British Standards Institution
 Buckminster Fuller
 Béla H. Bánáthy
 C. West Churchman
 Calculus
-Cartesian coordinates
-Catastrophe theory
 Category theory
 Cell (biology)
-Centrifugal governor
 Charles A. S. Hall
-Charles François (systems scientist)
-Circular coordinates
-CiteSeerX (identifier)
-Claude Bernard
 Claude Shannon
-Cliff Joslyn
-Closed-loop control
-Closed-loop controller
-Closed-loop transfer function
-Coefficient diagram method
 Combinatorics
 Commutative algebra
 Complex analysis
-Complex plane
 Complex system
 Computational complexity theory
 Computational mathematics
-Computational neuroscience
 Computer algebra
 Computer network
 Computer science
-Connectionism
-Control (linguistics)
-Control Systems Engineering
 Control engineering
-Control loop
-Control reconfiguration
-Control system
-Control system engineering
-Control theory (sociology)
-Controllability
-Controller (control theory)
-Control–feedback–abort loop
-Conversation theory
 Coupled human–environment system
-Cruise control
-Cyberneticist
 Cybernetics
-Cybernetics in the Soviet Union
-Cybersemiotics
-Dawn Tilbury
-Deadbeat controller
-Decision theory
-Describing function
-Diederich Hinrichsen
 Differential equation
-Differential equations
 Differential geometry
 Differential topology
-Digital control
-Digital signal processing
 Diophantine geometry
-Discrete-time signal
 Discrete geometry
 Discrete mathematics
-Distributed control system
-Distributed parameter systems
 Doi (identifier)
 Donella Meadows
 Doubling time
 Dynamic programming
-Dynamic system
 Dynamical system
 Earth system science
 Economic system
 Ecosystem
 Edsger W. Dijkstra
-Eduardo D. Sontag
-Edward John Routh
 Edward Norton Lorenz
-Edward Routh
 Eigenvalue
-Eigenvalues
 Electric motor
 Electronics
 Elementary algebra
 Embedded system
 Emergence
-Energy-shaping control
-Energy Conversion and Management
-Engineering cybernetics
 Engineering mathematics
 Eric Trist
-Erich von Holst
-Ernst von Glasersfeld
 Euclidean geometry
-Evolutionary computation
-Faina Mihajlovna Kirillova
-Feed forward (control)
-Feedback
-Feedback linearization
 Finite geometry
-Fire-control system
 Foundations of mathematics
-Fourier transform
-Fractional-order control
-Francis Heylighen
 Francisco Varela
 Fred Emery
-Frederic Vester
 Frequency
-Frequency domain
-Frequency response
 Functional analysis
 Future of mathematics
-Fuzzy control
-Fuzzy logic
-Gain (electronics)
 Game theory
 General topology
-Genetic algorithms
-Genevieve Bell
-Geoffrey Vickers
 Geometric topology
 Geometry
 George Dantzig
 George Klir
 Glossary of mathematical symbols
-Good regulator
-Gordon Pask
-Gordon S. Brown
 Graph theory
 Gregory Bateson
 Group theory
-Guidance system
-H-infinity loop-shaping
-H infinity
-Hankel singular value
 Harmonic analysis
-Harold Stephen Black
-Harry Nyquist
 Heinz von Foerster
 Hendrik Wade Bode
 Hierarchical
-Hierarchical control system
 History of mathematics
-Homeostasis
 Homological algebra
 Homotopy theory
 Howard T. Odum
 Humberto Maturana
-Hybrid computer
 Hypercomplex analysis
-I. A. Richards
 ISBN (identifier)
 ISSN (identifier)
-Igor Aleksander
 Ilya Prigogine
-Imaginary number
-Impulse response
-Industrial control systems
 Informal mathematics
 Information system
 Information theory
-Input-to-state stability
-Instability
-Integrator
-Intelligent control
-Internal model (motor control)
-Irmgard Flugge-Lotz
-Irmgard Flügge-Lotz
 JSTOR (identifier)
-Jacque Fresco
-Jacques Charles François Sturm
-Jakob Johann von Uexküll
 James Clerk Maxwell
 James Grier Miller
 James J. Kay
-Jan Camiel Willems
-Jason Jixuan Hu
 Jay Wright Forrester
 Jennifer Wilby
-John N. Warfield
-John R. Ragazzini
 John Seddon
-Kalman filter
 Kathleen Carley
 Katia Sycara
-Keck telescopes
-Keith Glover
 Kenneth E. Boulding
 Kevin Warwick
-Krener's theorem
-Kyriakos G. Vamvoudakis
-Laplace transform
-Lead-lag compensator
-Least squares
-Lev Pontryagin
-Limit cycle
 Limiting factor
-Linear-quadratic-Gaussian control
 Linear algebra
-Linear control theory
-Linear differential equation
-Linear function
-Linear matrix inequality
-Linear system
-Linear time invariant
-Linearization
 List of films about mathematicians
-List of mathematicians
 List of systems sciences organizations
 List of systems scientists
 Lists of mathematics topics
 Living systems
 Ludwig von Bertalanffy
-Lyapunov's theory
-Lyapunov function
-Lyapunov stability
 Lydia Kavraki
-MMT Observatory
 Machine learning
-Maleyka Abbaszadeh
 Management cybernetics
 Manfred Clynes
 Manuela M. Veloso
 Margaret Boden
 Margaret Mead
-Marginal stability
-Marian Mazur
-Markov chain approximation method
 Mary Cartwright
-Mass-spring-damper model
 Mathematical analysis
 Mathematical and theoretical biology
 Mathematical chemistry
@@ -305,152 +139,59 @@ Mathematical physics
 Mathematical psychology
 Mathematical sociology
 Mathematical statistics
-Mathematical system theory
-Mathematicians
 Mathematics
 Mathematics and art
 Mathematics education
 Measure (mathematics)
 Mechatronics
-Medical cybernetics
 Mihajlo D. Mesarovic
 Mike Jackson (systems scientist)
-Minor loop feedback
-Model Predictive Control
-Model predictive control
 Motion control
 Multi-agent system
 Multilinear algebra
-Multiple-input multiple-output system
-Multivariable
-Multivariable control
 Murray Bowen
-N. Katherine Hayles
-Natalia Bekhtereva
 Negative feedback
-Negative feedback amplifier
 Nervous system
-Networked control system
-Neural
-Neuro-fuzzy
-Nicolas Minorsky
 Niklas Luhmann
-Nonlinear control
-Nonlinear control theory
-Nonlinear differential equation
-Nonlinear system
 Norbert Wiener
 Nuclear reactor
 Number theory
 Numerical analysis
 Numerical control
-Numerical method
-Nyquist diagram
-Nyquist plot
-Nyquist stability criterion
-Observability
-Open-loop control
-Open-loop controller
 Operations research
 Optimal control
 Order theory
-Otto Mayr
 Outline of management
-Overshoot (signal)
-PID algorithm
-PID control
-PID controller
 PMC (identifier)
 PMID (identifier)
-People in systems and control
-Perceptual control theory
-Performance
-Perturbation theory
 Peter Senge
-Petro Grigorenko
 Philosophy of mathematics
-Pierre-Louis Lions
-Pierre-Simon Laplace
-Plant (control theory)
-Poincaré map
-Pole (complex analysis)
-Pontryagin's minimum principle
 Positive feedback
-Positive systems
 Principia Cybernetica
 Probability theory
 Process control
-Process variable
-Programmable logic controller
 Qian Xuesen
-Quantization (signal processing)
 Radhika Nagpal
-Radial basis function
-Ranulph Glanville
 Real-time computing
-Real-time control
 Real analysis
 Recommender system
 Recreational mathematics
 Resonant frequency
-Richard Bellman
 Richard E. Bellman
-Rise time
-Robert Trappl
 Robotics
-Robust control
-Root locus
-Root locus analysis
-Routh–Hurwitz theorem
 Rudolf E. Kálmán
 Russell L. Ackoff
 Ruzena Bajcsy
 S2CID (identifier)
-SCADA
-Sample (statistics)
 Scientific American
-Second-order cybernetics
-Self-organized
-Self-organized criticality control
-Self-oscillation
-Sensor
-Sergei P. Kurdyumov
-Servomechanism
 Set theory
-Setpoint (control system)
-Settling time
-Ship stability
-Signal-flow graph
 Simulation
-Simulation language
-Single-input single-output system
-Sliding mode control
 Social system
-Sociocybernetics
 Sociotechnical system
-Space Race
-Stability theory
-Stabilizer (ship)
-Stable polynomial
-Stafford Beer
-State-space
-State (controls)
-State observer
-State space (controls)
-State space representation
-State variable
-State variables
 Statistics
-Steady state
 Stephanie Forrest
-Stochastic control
-Stuart Kauffman
-Stuart Umpleby
-Superposition principle
-Synergetics (Haken)
 System
 System dynamics
-System identification
 Systemics
 Systems analysis
 Systems art
@@ -468,33 +209,13 @@ Systems theory in archaeology
 Systems theory in political science
 Systems thinking
 Talcott Parsons
-Telescope
 Theory of computation
-Time-domain state space representation
 Timeline of mathematics
 Topology
-Transfer function
-Transform (mathematics)
-Transient response
-Transient state
-Tree (data structure)
 Twelve leverage points
 Type theory
-Ulla Mitzdorf
-Underactuation
-Unit circle
 Universal algebra
 Urban metabolism
-Vadim Utkin
-Valentin Turchin
-Valentino Braitenberg
 Variable (mathematics)
-Vector control (motor)
 Victor Aladjev
-Viscosity solutions
 Voltage
-W. Ross Ashby
-Walter Bradford Cannon
-Walter Pitts
-Warren E. Dixon
-Warren Sturgis McCulloch

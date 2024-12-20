@@ -1,12 +1,9 @@
-Absoluteness (mathematical logic)
 Abstract logic
 Ackermann set theory
 Aleph number
 Algebraic logic
 Alphabet (formal languages)
-Analytical hierarchy
 Argument
-Arithmetical hierarchy
 Arity
 Atomic formula
 Atomic sentence
@@ -16,7 +13,6 @@ Axiom
 Axiom of choice
 Axiom schema
 Axiomatic system
-Axiomatization of Boolean algebras
 Banach–Tarski paradox
 Bijection
 Binary operation
@@ -47,7 +43,6 @@ Computable set
 Computably enumerable set
 Concrete category
 Consistency
-Consistent
 Constructible universe
 Construction of the real numbers
 Constructive set theory
@@ -55,7 +50,6 @@ Continuum hypothesis
 Countable set
 Decidability (logic)
 Decision problem
-Deductive system
 Diagram (mathematical logic)
 Domain of a function
 Element (mathematics)
@@ -83,7 +77,6 @@ Forcing (mathematics)
 Formal grammar
 Formal language
 Formal proof
-Formal semantics (logic)
 Formal system
 Formation rule
 Foundations of geometry
@@ -96,7 +89,6 @@ Fuzzy set
 General set theory
 Grothendieck universe
 Ground expression
-Ground formula
 Gödel's completeness theorem
 Gödel's incompleteness theorems
 Gödel numbering
@@ -106,7 +98,6 @@ Higher-order logic
 Hilbert's axioms
 Hilbert system
 History of logic
-History of mathematical logic
 ISBN (identifier)
 Image (mathematics)
 Inaccessible cardinal
@@ -117,20 +108,16 @@ Infinite set
 Information theory
 Inhabited set
 Injective function
-Internal set theory
 Interpretation (logic)
 Interpretation (model theory)
-Interpretation function
 Intersection (set theory)
 Isomorphism
 Kolmogorov complexity
-Kripke's theory of truth
 Kripke–Platek set theory
 Lambda calculus
 Large cardinal
 Lemma (mathematics)
 Lindström's theorem
-List of Hilbert systems
 List of axioms
 List of first-order theories
 List of formal systems
@@ -155,7 +142,6 @@ Material conditional
 Mathematical logic
 Mathematical object
 Metalanguage
-Methodology
 Minimal axioms for Boolean algebra
 Model complete theory
 Model theory
@@ -171,8 +157,6 @@ Non-Euclidean geometry
 Non-logical symbol
 Non-standard model
 Non-standard model of arithmetic
-Ontology (computer science)
-Ontology modularization
 Open formula
 Operation (mathematics)
 Ordinal analysis
@@ -181,17 +165,14 @@ P (complexity)
 P versus NP problem
 Paradoxes of set theory
 Partition of a set
-Peano arithmetic
 Peano axioms
 Philosophy of mathematics
 Power set
 Predicate (mathematical logic)
-Predicate logic
 Predicate variable
 Primitive recursive arithmetic
 Primitive recursive function
 Principia Mathematica
-Principle of explosion
 Proof of impossibility
 Proof theory
 Proposition
@@ -201,7 +182,6 @@ Propositional variable
 Quantifier (logic)
 Quantifier rank
 Recursion
-Recursive set
 Relation (mathematics)
 Reverse mathematics
 Robinson arithmetic
@@ -227,7 +207,6 @@ Spectrum of a sentence
 Spectrum of a theory
 Square of opposition
 Strength (mathematical logic)
-String (formal languages)
 Structure (mathematical logic)
 Substitution (logic)
 Substructure (mathematics)
@@ -239,14 +218,12 @@ Syntax (logic)
 T-schema
 Tarski's axiomatization of the reals
 Tarski's axioms
-Tarski's theory of truth
 Tarski's undefinability theorem
 Tarski–Grothendieck set theory
 Tautology (logic)
 Term (logic)
 Term logic
 Theorem
-Theories of truth
 Theory (mathematical logic)
 Three-valued logic
 Timeline of mathematical logic
@@ -259,7 +236,6 @@ Truth value
 Turing machine
 Type (model theory)
 Type theory
-Ultrafilter (set theory)
 Ultraproduct
 Uncountable set
 Undecidable problem
@@ -276,5 +252,4 @@ Venn diagram
 Von Neumann universe
 Von Neumann–Bernays–Gödel set theory
 Well-formed formula
-Wilfrid Hodges
 Zermelo–Fraenkel set theory

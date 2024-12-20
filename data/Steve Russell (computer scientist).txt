@@ -1,228 +1,31 @@
-*Lisp
 Alan Turing
-Allegro Common Lisp
-Apple Dylan
 Apple Inc.
-Arc (programming language)
-Armed Bear Common Lisp
-AutoLISP
-BBN LISP
-BBN Technologies
-Bertie the Brain
-Bigloo
-Bill Gates
-Brian Harvey (lecturer)
-CLISP
-CMU Common Lisp
-COWSEL
-Cadence SKILL
-Carmonette
-Cathode-ray tube amusement device
-Chess (Northwestern University)
-Chez Scheme
-Chicken (Scheme implementation)
-Clojure
-Clozure CL
-CommonLoops
-Common Lisp
-Common Lisp HyperSpec
-Common Lisp Interface Manager
-Common Lisp Object System
-Common Lisp the Language
-Community of practice
 Compiler
-Computer Center Corporation
 Computer History Museum
-Computer Space
-Computer chess
 Computer hardware
 Computer science
-Computer scientist
-Conditional (computer programming)
 Continuation
-Corman Common Lisp
-Cray Blitz
-Cynthia Solomon
-Daniel G. Bobrow
-Daniel Weinreb
-Dartmouth College
-David A. Moon
-David Champernowne
-David H. Ahl
-David Luckham
-David Park (computer scientist)
-Denison Bollay
 Digital Equipment Corporation
-Dylan (programming language)
-Dynamic typing
-Early history of video games
-Early mainframe games
-Edmund Berkeley
-Emacs Lisp
-Embeddable Common Lisp
-EuLisp
-Flavors (programming language)
-Franz Lisp
-GNU Common Lisp
-GNU Guile
-Galaxy Game
-Gambit (scheme implementation)
-Game Oriented Assembly Lisp
 Garbage collection (computer science)
-Genera (operating system)
-Gerald Jay Sussman
-Greenspun's tenth rule
-Guy L. Steele Jr.
-Hal Abelson
-Hamurabi (video game)
-Hanover, New Hampshire
-Harlequin (software company)
 Hartford, Connecticut
-Higher-order function
-History of the Dylan programming language
-History of the Scheme programming language
-How to Design Programs
-Hutspiel
-Hy (programming language)
-IBM 704
 ISBN (identifier)
 ISLISP
-Ikarus (Scheme implementation)
 Imagine Media
-Interlisp
 Interpreter (computing)
-JScheme
-Joel Moses
-John Makepeace Bennett
-John Markoff
-John McCarthy (computer scientist)
-Josef Kates
-Julie Sussman
-Kaissa
-Kawa (Scheme implementation)
-Ken Thompson
-Kent Pitman
-Knowledge Engineering Environment
-Kotok-McCarthy
-LFE (programming language)
-Lakeside School (Seattle)
-LeLisp
 Linked list
-LispWorks
 Lisp (programming language)
-Lisp Machine Lisp
-Lisp machine
-Lispkit Lisp
-List of Lisp-family programming languages
 Logo (programming language)
-Los Alamos chess
-Louis Hodes
-Lucid Inc.
 Lunar Lander (video game genre)
-M-expression
-MDL (programming language)
-MIT/GNU Scheme
-MIT Computer Science and Artificial Intelligence Laboratory
-MLisp
-MSWLogo
 Mabel Addis
-Mac Hack
-Macintosh Common Lisp
-Maclisp
 Macro (computer science)
-Marienbad (video game)
 Massachusetts Institute of Technology
-Matthew Flatt
-Matthias Felleisen
-McCLIM
-Mitchel Resnick
-Mocl
-MultiLisp
-NIL (programming language)
-NetLogo
-NewLISP
 Next Generation (magazine)
-Nimrod (computer)
 Nolan Bushnell
-OXO (video game)
 Object-oriented programming
-On Lisp
-OpenLisp
 Operating system
-PC-LISP
-PDP-1
-PDP-10
-POP-11
-POP-2
-Paul Allen
-Paul Graham (programmer)
-Philip Greenspun
-Phyllis Fox
-Pico (programming language)
-Picolisp
-Poplog
-Portable Standard Lisp
-Practical Common Lisp
-ProgramByDesign
-Programming language implementation
-R. Kent Dybvig
-RPL (programming language)
-Racket (programming language)
-Racket features
-Ralph H. Baer
-Read–eval–print loop
-Recursion (computer science)
-Richard Greenblatt (programmer)
-Richard P. Gabriel
-Richard Stallman
-Robert Bruce Findler
-Robert Tappan Morris
-Robin Popplestone
-Rod Burstall
-S-1 Lisp
-S-expression
-SCM (Scheme implementation)
-SIOD
-Sandy Douglas
-Scheme (programming language)
-Scheme 48
-Scheme Requests for Implementation
-Scott Fahlman
-Scsh
-Self-hosting (compilers)
 Seymour Papert
-Shriram Krishnamurthi
-Space-cadet keyboard
-Space Travel (video game)
 Spacewar!
-Spice Lisp
-Stanford University centers and institutes
-StarLogo
-Star Trek (1971 video game)
-Steel Bank Common Lisp
-Structure and Interpretation of Computer Programs
-Symbolics
-TI Explorer
-T (programming language)
-Tech Model Railroad Club
-Technical standard
-Ted Dabney
-Tennis for Two
 The New York Times
-The Sumerian Game
-Thomas T. Goldsmith Jr.
-TinyScheme
-Tree data structure
-Turochamp
-UCBLogo
-UTM theorem
 University of California, Berkeley
 Video game
-Wally Feurzeig
-Walter Isaacson
 Washington (state)
-William Clinger (computer scientist)
-William Higinbotham
-X3J13
-Xanalys
-Zetalisp

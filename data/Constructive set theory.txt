@@ -1,124 +1,48 @@
-Abraham Fraenkel
-Absoluteness (logic)
 Abstract logic
-Abuse of notation
-Ackermann function
 Ackermann set theory
-Aczel's anti-foundation axiom
-Adjoint functor
-Admissible rule
 Aleph number
-Aleph numbers
-Algebra of sets
 Algebraic logic
-Almost
 Alphabet (formal languages)
-Alternative set theory
-Amorphous set
-Anne Sjerp Troelstra
-Apartness
-Apartness relation
-Apartness relations
 ArXiv (identifier)
-Archimedean property
 Argument
-Arithmetical hierarchy
-Arithmetical set
 Arity
 Atomic formula
 Atomic sentence
 Automata theory
 Automated theorem proving
 Axiom
-Axiom of Choice
-Axiom of Extensionality
-Axiom of Foundation
-Axiom of Infinity
-Axiom of Regularity
-Axiom of adjunction
 Axiom of choice
-Axiom of collection
-Axiom of constructibility
-Axiom of countable choice
-Axiom of dependent choice
-Axiom of determinacy
-Axiom of empty set
-Axiom of extensionality
-Axiom of global choice
-Axiom of infinity
-Axiom of limitation of size
-Axiom of non-choice
-Axiom of pairing
-Axiom of power set
-Axiom of powerset
-Axiom of projective determinacy
 Axiom of reducibility
-Axiom of regularity
-Axiom of replacement
-Axiom of union
 Axiom schema
-Axiom schema of predicative separation
-Axiom schema of replacement
-Axiom schema of separation
-Axiom schema of specification
-Axiomatic set theory
 Axiomatic system
-Axiomatization of Boolean algebras
-BIT predicate
-Bachmann–Howard ordinal
 Banach–Tarski paradox
-Bar induction
 Bertrand Russell
 Bijection
 Binary operation
-Binary relation
 Boolean algebra
 Boolean algebras canonically defined
 Boolean function
-Borel algebra
-Borel measure
-Bounded arithmetic
-Bounded quantifier
-Bounded set (topological vector space)
-Brouwer fixed point theorem
 Brouwer–Heyting–Kolmogorov interpretation
-Burali-Forti paradox
 Cantor's diagonal argument
 Cantor's paradox
 Cantor's theorem
-Cantor space
-Cardinal number
 Cardinality
-Cartesian closed
 Cartesian product
-Categorical logic
 Categorical theory
-Categoricity
 Category (mathematics)
 Category of sets
 Category theory
-Cauchy sequences
-Certificate (complexity)
-Characteristic function
-Choice sequence
-Church's thesis (constructive mathematics)
 Church encoding
 Church–Turing thesis
-CiteSeerX (identifier)
 Class (set theory)
 Classical logic
 Codomain
-Coequalizer
-Combinatory logic
 Compactness theorem
 Complement (set theory)
 Complete theory
 Completeness (logic)
-Completeness of the real numbers
 Computability theory
-Computable analysis
 Computable function
-Computable isomorphism
 Computable set
 Computably enumerable set
 Concrete category
@@ -126,220 +50,100 @@ Conservative extension
 Consistency
 Constructible universe
 Construction of the real numbers
-Constructive analysis
-Constructive logic
-Constructive type theory
-Constructivism (mathematics)
-Constructivism (philosophy of mathematics)
 Continuum hypothesis
-Contrapositive
-Countable choice
 Countable set
-Critical point (set theory)
-Cumulative hierarchy
-Currying
 Curry–Howard correspondence
-Dana Scott
 De Morgan's laws
 Decidability (logic)
 Decision problem
-Decision problems
-Dedekind-infinite
-Dedekind-infinite set
-Dedekind complete
-Dedekind cut
-Deductive system
-Degree of truth
-Dependent choice
 Dependent type
-Dependent type theory
-Description logic
 Descriptive set theory
 Determinacy
-Diaconescu's theorem
 Diagram (mathematical logic)
-Dialetheism
-Dirk van Dalen
-Disjoint sets
-Disjoint union
-Disjunction
-Disjunction and existence properties
-Disjunctive syllogism
 Doi (identifier)
 Domain of a function
 Double-negation translation
-Double negation elimination
-Dyadic rational
 Dynamic semantics
-Easton's theorem
 Edward N. Zalta
-Edward Nelson
-Effective topos
-Effectively computable
 Element (mathematics)
 Elementary diagram
 Elementary equivalence
 Elementary function arithmetic
-Elementary topos
 Empty set
 Enumeration
-Epsilon-induction
-Epsilon induction
-Epsilon numbers (mathematics)
 Equiconsistency
-Equinumerosity
-Equivalence classes
 Equivalence relation
-Ernst Zermelo
-Errett Bishop
 Euclid's Elements
 Euclidean geometry
-Event (probability theory)
-Existence property
-Existential instantiation
 Existential quantification
-Exponential object
 Expression (mathematics)
 Extension by definitions
 Extension by new constant and function names
 Extensionality
-Family of sets
-Fast-growing hierarchy
-Feferman–Schütte ordinal
-Fermat's last theorem
-Field of sets
-Filter (higher-order function)
-Filter (set theory)
 Finitary relation
 Finite-valued logic
 Finite model theory
 Finite set
-First-order arithmetic
 First-order logic
 Fixed-point logic
-For-loop
 Forcing (mathematics)
 Formal grammar
 Formal language
 Formal proof
-Formal semantics (logic)
 Formal system
 Formation rule
 Foundations of geometry
 Foundations of mathematics
-Four-valued logic
 Free logic
 Free variables and bound variables
 Function (mathematics)
-Function (set theory)
 Function application
-Function spaces
 Functional predicate
-Fuzzy finite element
-Fuzzy logic
-Fuzzy rule
 Fuzzy set
-Fuzzy set operations
-General recursive function
 General set theory
 General topology
-Generating function
-Geometric logic
-Georg Cantor
-Georg Kreisel
-Girard's paradox
 Glossary of category theory
-Goldbach conjecture
 Gottlob Frege
 Grothendieck universe
 Ground expression
-Ground formula
-Grzegorczyk hierarchy
 Gödel's completeness theorem
 Gödel's incompleteness theorems
 Gödel numbering
 Halting problem
-Harrop formula
-Heine-Borel theorem
-Hereditarily countable set
-Hereditarily finite set
-Hereditarily finite sets
-Hereditary property
 Hereditary set
 Heyting algebra
-Heyting arithmetic
 Higher-order logic
 Higher category theory
 Hilbert's axioms
 Hilbert system
 History of logic
-History of mathematical logic
 History of type theory
-Hom-functor
 Homotopy type theory
-Hypercomputation
-IEEE 1164
 ISBN (identifier)
-Identity of indiscernibles
 Image (mathematics)
-Impredicative
-Impredicativity
 Inaccessible cardinal
-Indecomposability (intuitionistic logic)
 Independence (mathematical logic)
-Independence of premise
-Induction, bounding and least number principles
-Inductive type
 Inference
 Infinite-valued logic
 Infinite set
 Information theory
 Inhabited set
 Injective function
-Injectivity
 Inquisitive semantics
-Intentionality
-Intermediate logic
-Intermediate value theorem
 Interpretation (logic)
 Interpretation (model theory)
-Interpretation function
 Intersection (set theory)
-Interval (mathematics)
-Intuitionism
 Intuitionistic logic
 Intuitionistic type theory
 Isomorphism
-John Myhill
-John von Neumann
-Judgment (mathematical logic)
-Kazimierz Kuratowski
-Kleene's T predicate
 Kolmogorov complexity
-Kripke's theory of truth
-Kripke-Platek set theory
 Kripke–Platek set theory
-Kurt Gödel
-Kőnig's lemma
-L. E. J. Brouwer
 Lambda calculus
 Large cardinal
-Large countable ordinal
-Law of excluded middle
-Law of noncontradiction
-Law of trichotomy
-Least number principle
 Lemma (mathematics)
-Lifting property
-Limit ordinals
-Limited principle of omniscience
 Lindström's theorem
-Linear logic
-List (abstract data type)
 List comprehension
-List of Hilbert systems
 List of axioms
-List of category theory topics
 List of first-order theories
 List of formal systems
 List of mathematical logic topics
@@ -347,9 +151,7 @@ List of mathematical theories
 List of set identities and relations
 List of set theory topics
 List of statements independent of ZFC
-List of undecidable problems
 Logic
-Logic synthesis
 Logical biconditional
 Logical conjunction
 Logical connective
@@ -360,124 +162,65 @@ Logical equality
 Logical equivalence
 Logical truth
 Logicism
-Lévy hierarchy
 Löwenheim–Skolem theorem
-MR (identifier)
-Mac Lane
-Many-one reduction
-Many-sorted logic
 Many-valued logic
 Map (mathematics)
-Markov's principle
-Martin's axiom
-Martin-Löf type theory
 Material conditional
-Mathematical constructivism
 Mathematical induction
-Mathematical intuitionism
 Mathematical logic
 Mathematical object
 Mathematical proof
 Measure (mathematics)
-Measure theory
 Metalanguage
-Metalogic
 Minimal axioms for Boolean algebra
-Minimal logic
 Modal logic
 Model complete theory
 Model of computation
 Model theory
 Module (mathematics)
-Modulus of convergence
 Modus ponens
 Monadic predicate calculus
 Monadic second-order logic
-Monomorphism
 Morse–Kelley set theory
-Multivalued function
 NP (complexity)
 Naive set theory
 Natural deduction
-Natural numbers
-Natural numbers object
 Negation
 New Foundations
 Non-Euclidean geometry
-Non-classical logic
 Non-logical symbol
-Non-monotonic logic
 Non-standard model
 Non-standard model of arithmetic
-Non-well-founded set
-Non-well-founded set theory
-Ontology (computer science)
-Ontology language
 Open formula
 Operation (mathematics)
-Ordered field
-Ordered pair
 Ordinal analysis
-Ordinal arithmetic
-Ordinal definable set
 Ordinal number
-Ordinal numbers
 P (complexity)
 P versus NP problem
 Paraconsistent logic
 Paradoxes of set theory
-Partial function
-Partial functions
-Partial recursive function
 Partition of a set
-Paul Bernays
-Paul Cohen
-Peano arithmetic
 Peano axioms
-Peter Aczel
 Philosophy of mathematics
-Pigeon hole principle
 Power set
-Power set axiom
-Powerset axiom
 Predicate (mathematical logic)
-Predicate logic
 Predicate variable
-Preorder
-Presheaf (category theory)
 Primitive recursive arithmetic
 Primitive recursive function
 Principia Mathematica
-Principle of distributivity
-Principle of excluded middle
-Principle of explosion
 Proof of impossibility
 Proof theory
 Proposition
 Propositional calculus
 Propositional formula
 Propositional variable
-Propositions-as-types
-Pseudo-order
-Quantification (logic)
 Quantifier (logic)
 Quantifier rank
-Ramsey theorem
-Range of a function
-Realizability
 Recursion
-Recursive definition
-Recursive set
 Relation (mathematics)
-Relevance logic
-Replacement axiom
 Reverse mathematics
-Rice's theorem
-Richard Dedekind
-Riemann hypothesis
 Robinson arithmetic
 Rule of inference
-Russel's paradox
 Russell's paradox
 S2CID (identifier)
 Satisfiability
@@ -490,11 +233,7 @@ Semantic theory of truth
 Semantics of logic
 Sentence (mathematical logic)
 Sequent calculus
-Set-builder notation
-Set-theoretic definition of natural numbers
-Set (abstract data type)
 Set (mathematics)
 Set theory
-Setoid
 Signature (logic)
 Singleton (mathematics)

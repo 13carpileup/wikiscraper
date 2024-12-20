@@ -1,128 +1,62 @@
 2.5D
 2D computer graphics
 3D computer graphics
-3D rendering
-ACM Computing Surveys
-AI Lab
 Affine transformation
-Aliasing
 Alpha compositing
-Anamorphosis
 Anisotropic filtering
 Architectural drawing
-Axonometric projection
-Axonometry
 Back-face culling
-Beam tracing
-Bird's-eye view
 Cabinetry
 Cambridge University Press
-Camera center
-Camera lens
-Camera matrix
-Cartesian coordinates
-Cel shading
-Charge-coupled device
-Checkerboard rendering
-CiteSeerX (identifier)
 Clipping (computer graphics)
 Collision detection
 Comparison of vector graphics editors
 Computer-aided design
 Computer graphics
-Computer graphics (computer science)
 Computer graphics lighting
 Cone tracing
 Conservation of energy
 Coordinate system
-Cross section (geometry)
-Curvilinear perspective
 Cutaway drawing
-Cylindrical projection
 Deferred shading
-Descriptive geometry
 Design
 Diffusion curve
-Dimetric projection
 Doi (identifier)
 Engineering drawing
-Entrance pupil
-Euler angles
-Exploded-view drawing
-Exploded view drawing
 Fez (video game)
 Field of view
-Fisheye lens
 Fluid animation
-Focal length
-Focus (optics)
-Forced perspective
-Foreshortening
 Geometric transformation
 Geometry
 Global illumination
-Graphical projection
 Graphics software
 Hidden-surface determination
-Homogeneous coordinates
-Homography
 Horizon
 ISBN (identifier)
 Image-based modeling and rendering
-Image plane
-Impossible object
-Inception
-Isometric projection
 Isometric video game graphics
-Kirsti Andersen
 Layers (digital image editing)
-List of 3D animation software
 List of 3D computer graphics software
 List of 3D modeling software
 List of 3D rendering software
 List of computer graphics algorithms
 M. C. Escher
-Map projection
 Matrix addition
 Matrix multiplication
-Military projection
 Mode 7
-Multiview projection
-Oblique projection
-One-point perspective
 Op art
-Orientation (geometry)
-Orthographic projection
-Panorama
 Parallax scrolling
-Parallel projection
 Path tracing
-Penrose stairs
 Perpendicular
 Perspective (graphical)
-Perspective projection
-Photographic film
-Picture plane
-Pinhole camera model
 Pixel
-Plan (drawing)
 Planar projection
-Plans (drawings)
-Pohlke's theorem
-Point at infinity
 Polygon mesh
-Potting bench
-Primary Qualities
 Projection (linear algebra)
-Projection mapping
-Projection plane
-Projective geometry
 Raster graphics editor
-Ray casting
 Ray tracing (graphics)
 Reflection (computer graphics)
 Rendering (computer graphics)
-Reverse perspective
 Rotation (mathematics)
 S2CID (identifier)
 Scaling (geometry)
@@ -130,37 +64,16 @@ Scanline rendering
 Shader
 Shading
 Shadow mapping
-Shadow volume
 Shear matrix
 Skybox (video games)
 Spectral rendering
 Stereoscopy
 Surface triangulation
-Tait-Bryan angles
-Technical drawing
-Tesseract
 Texel (graphics)
-Text-to-image model
 Texture mapping
-The Geometry of an Art
-Three-point perspective
-Transform, clipping, and lighting
-Transformation matrix
-Translation (geometry)
 Triangle mesh
-Trimetric projection
-True length
-Two-point perspective
 Unbiased rendering
-Vanishing point
-Vector graphics
-Video card
 Video game graphics
-Viewing frustum
 Virtual globe
-Volume rendering
 Voxel
-Waterfall (M. C. Escher)
 Wire-frame model
-Worm's-eye view
-Zoom lens

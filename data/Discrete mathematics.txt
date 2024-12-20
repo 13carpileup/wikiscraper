@@ -3,244 +3,109 @@ Abstract algebra
 Affine space
 Alan Turing
 Algebra
-Algebra of physical space
-Algebraic coding theory
 Algebraic geometry
-Algebraic graph theory
 Algebraic number theory
 Algebraic structure
-Algebraic structures
 Algebraic topology
 Algebraic variety
 Algorithm
 Algorithm design
-Alternating group
-Analog coding
-Analog encryption
-Analog signal
 Analysis
-Analysis (mathematics)
 Analysis of algorithms
-Analytic combinatorics
 Analytic geometry
 Analytic number theory
-Analytical mechanics
-Andrew Clive Simpson
-Andrew Hodges
 Applied mathematics
-Approximation theory
-Areas of mathematics
 Arithmetic
 Arithmetic geometry
-Association for Computing Machinery
-Asymptotic analysis
 Automata theory
 Automated theorem proving
-Axioms
 Bijection
-Binary numeral system
 Bioinformatics
-Bletchley Park
-Bojan Mohar
-Boolean algebra (logic)
-Bosonic string theory
 Calculus
-Calculus of finite differences
-Calculus of variations
 Cardinality
-Carsten Thomassen (mathematician)
 Category theory
-Chaos theory
-Classical field theory
-Clay Mathematics Institute
 Clifford algebra
-Clifford analysis
 Coding theory
 Cold War
-Colossus computer
-Combinations
-Combinatorial design
-Combinatorial topology
 Combinatorics
 Commutative algebra
 Completeness (logic)
 Complex analysis
-Complexity class
-Computability
 Computational complexity theory
 Computational geometry
 Computational linguistics
 Computational mathematics
-Computational number theory
-Computational statistics
 Computer-aided design
 Computer algebra
-Computer algorithm
-Computer graphics (computer science)
-Computer image analysis
 Computer science
-Concrete Mathematics
-Conformal field theory
 Consistency
-Consistent
-Constraint programming
-Constraint satisfaction problem
-Continuous function
-Continuous graph
-Continuous modelling
 Control theory
 Countable set
 Cryptanalysis
 Cryptography
-Cyberchase
 Data
-Databases
 David Hilbert
-Decision theory
 Derivative
 Descriptive set theory
-Difference equation
-Difference equations
 Differential equation
-Differential equations
-Differential form
 Differential geometry
 Differential topology
-Digital computers
-Diophantine approximation
 Diophantine equation
-Diophantine equations
 Diophantine geometry
-Directed acyclic graph
-Discrete Fourier transform
-Discrete Mathematics (journal)
-Discrete Morse theory
-Discrete calculus
-Discrete differential geometry
-Discrete dynamical system
-Discrete exterior calculus
 Discrete geometry
-Discrete logarithm
-Discrete metric space
-Discrete modelling
-Discrete optimization
-Discrete probability distribution
-Discrete probability theory
-Discrete topological space
-Discrete transform
-Discrete variable
-Discretization
 Doi (identifier)
-Donald Knuth
 Dynamical system
-Effective field theory
 Electrical engineering
 Elementary algebra
 Engineering mathematics
 Enumeration
-Enumerative combinatorics
 Euclidean geometry
-European Community on Computational Methods in Applied Sciences
 Exterior algebra
-Exterior calculus
 Field (mathematics)
-Field theory (physics)
 Finite field
 Finite geometry
-Finite math
-Finite mathematics
-Finite metric space
 Finite set
-Finite topological space
 Formal language
-Formal languages
 Formal verification
 Foundations of mathematics
-Four color theorem
-Fourier analysis
-Fulkerson Prize
 Function (mathematics)
-Function field of an algebraic variety
 Functional analysis
-Functional integration
 Future of mathematics
-Fuzzy logic
 Game theory
 Gauge theory
-Gauge theory (mathematics)
 General topology
-Generating functions
-Geomathematics
 Geometric algebra
-Geometric analysis
-Geometric calculus
 Geometric topology
 Geometry
-Geometry of numbers
-Georg Cantor
 Glossary of mathematical symbols
 Graph (discrete mathematics)
-Graph coloring
-Graph property
 Graph theory
 Group (mathematics)
 Group theory
-Gödel's second incompleteness theorem
-Hamiltonian mechanics
 Harmonic analysis
-Harmonic analysis (mathematics)
-Hilbert's problems
-Hilbert's second problem
-Hilbert's tenth problem
 History of mathematics
 Homological algebra
 Homotopy theory
-Hybrid system
 Hypercomplex analysis
 ISBN (identifier)
 Inference
-Infinitary logic
 Infinite set
 Informal mathematics
 Information
 Information theory
 Integer
-Integer partition
-Integers
-Integral transforms
-International Council for Industrial and Applied Mathematics
 Intuitionistic logic
-James Franklin (philosopher)
-Japan Society for Industrial and Applied Mathematics
-Jaroslav Nešetřil
-Jiří Matoušek (mathematician)
-Kenneth Appel
-Knot theory
-Lagrangian mechanics
 Linear algebra
-List of arbitrary-precision arithmetic software
 List of films about mathematicians
-List of finite element software packages
-List of interactive geometry software
-List of mathematicians
-List of mathematics topics
-List of numerical-analysis software
-List of optimization software
-List of statistical software
 Lists of mathematics topics
-Localization of a ring
 Logic gate
 Logic in computer science
-MR (identifier)
-Malliavin calculus
-Mathematical Association of America
 Mathematical analysis
 Mathematical and theoretical biology
 Mathematical chemistry
 Mathematical economics
 Mathematical finance
 Mathematical logic
-Mathematical maturity
 Mathematical optimization
 Mathematical physics
 Mathematical proof
@@ -248,152 +113,58 @@ Mathematical psychology
 Mathematical sociology
 Mathematical software
 Mathematical statistics
-Mathematical structures
-Mathematicians
 Mathematics
 Mathematics and art
 Mathematics education
-Matiyasevich's theorem
 Measure (mathematics)
-Millennium Prize Problems
-Modular arithmetic
 Monoid
 Multilinear algebra
-Multivariable calculus
 NP (complexity)
-Natural numbers
-Network theory
-Norman L. Biggs
 Number theory
 Numerical analysis
-Numerical linear algebra
-Numerical methods for ordinary differential equations
-Numerical methods for partial differential equations
 OCLC (identifier)
 Operations research
-Operator algebra
-Operator theory
 Order theory
-Ordinary differential equation
-Oren Patashnik
-Orthogonal polynomials
-Outline of discrete mathematics
-P-adic analysis
 P (complexity)
-P = NP problem
 Partial differential equation
-Partially ordered set
-Partially ordered sets
-Particle physics and representation theory
 Partition of a set
-Partition theory
 Path integral formulation
-Peirce's law
-Permutations
-Perturbation theory
-Perturbation theory (quantum mechanics)
-Petri net
 Philosophy of mathematics
-Phylogenetic tree
-Poisson algebra
 Polynomial ring
-Potential theory
-Precalculus
-Premise
-Primality test
-Prime number
 Probability
-Probability distribution
 Probability theory
-Process algebra
 Programming language
 Proof theory
 Public-key cryptography
-Q-series
-Quantum field theory
-Quantum group
-Quicksort
-Ralph P. Grimaldi
-Random House
-Random variable
 Real analysis
 Real number
 Recreational mathematics
-Recurrence relation
 Relation (mathematics)
 Relational algebra
-Renormalization group
-Richard Johnsonbaugh
 Ring (mathematics)
-Robin Wilson (mathematician)
-Ronald Graham
 Rule of inference
 S2CID (identifier)
-Safety-critical system
 Semigroup
 Sequence
 Set (mathematics)
-Set intersection
 Set theory
-Shapley–Folkman lemma
-Social choice theory
-Society for Industrial and Applied Mathematics
-Société de Mathématiques Appliquées et Industrielles
 Software development
-Solver
 Soundness
-Spacetime algebra
-Special functions
-Spectrum of a ring
 Statement (logic)
-Statistical field theory
 Statistics
-Stochastic calculus
-Stochastic differential equation
-Stochastic process
-String theory
 Superalgebra
-Supersymmetric quantum mechanics
-Supersymmetric theory of stochastic dynamics
-Supersymmetry
-Supersymmetry algebra
-Susanna S. Epp
 Systems science
-Tangent space
 Telecommunications industry
 Tensor
-Tensor calculus
-Tensor software
-Tessellation
-The Art of Computer Programming
-The Unreasonable Effectiveness of Mathematics in the Natural Sciences
 Theoretical computer science
 Theory of computation
-Time scale calculus
 Timeline of mathematics
-Topic outline of mathematics
-Topological combinatorics
-Topological field theory
-Topological graph theory
-Topological string theory
 Topology
-Transcendental number
-Tree structure
-Truncated tetrahedron
 Truth table
 Truth value
-Twelvefold way
 Type theory
-USD
-Ulam spiral
 Universal algebra
-VLSI
-Validated numerics
-Vector calculus
 Video game
 Wayback Machine
 Well-formed formula
-Wolfgang Haken
 World War II
-Yuri Matiyasevich
-Zariski tangent space

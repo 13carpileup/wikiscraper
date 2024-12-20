@@ -1,6 +1,4 @@
 16-bit
-4K Disk Monitor System
-Addressing
 AdvFS
 Algorithm
 Alpha 21064
@@ -9,289 +7,148 @@ Alpha 21264
 Alpha 21364
 Alpha 21464
 AltaVista
-Ampere
 Assembly language
-Asynchronous System Trap
 BASIC
 BASIC-8
-BASIC-PLUS
-BBN Time-Sharing System
 BSD
-Batch file
-Berkeley Timesharing System
-Boot loader
 Booting
-Burroughs MCP
 Bus (computing)
 Byte
-Byte code
-CDC Kronos
 COBOL
-CP/CMS
 CPU Wars
 CVAX
-Carleton College
 Central processing unit
 Character encoding
-Closed source
 Code page 1287
 Code page 1288
-Colorado Springs, Colorado
-Command-line interface
-Command-line interpreter
-Command line interface
-Command line interpreter
 Commercial Operating System
-Commercial Operating System (COS)
 Compaq
-Compatible Time-Sharing System
 Compiler
 Computer
 Computer hardware
 Computer program
 Computer programming
 Computer terminal
-Concise Command Language
 Copying
-Core dump
-Cray Time Sharing System
-Current loop
-DATATRIEVE
 DECUS
 DEC Alpha
-DEC BATCH-11/DOS-11
 DEC GT40
 DEC Hebrew
 DEC J-11
 DEC MICA
 DEC PRISM
 DEC RADIX 50
-DEC Radix-50
 DEC Special Graphics
 DEC Systems Research Center
 DEC T-11
 DEC Technical Character Set
 DEC V-11
 DECnet
-DECserver
 DECtalk
 DECtape
 DECwriter
 DIBOL
 DIGITAL Command Language
-DOS-11
-DOS-KP
-Dartmouth Time-Sharing System
-Data management
-Decade
 Decompiler
-Defragmentation
 Digital Equipment Corporation
 Digital Federal Credit Union
 Digital Linear Tape
 Digital Storage Systems Interconnect
-Digital UNIX
 Dynamic debugging technique
 Dynamically Redefined Character Set
-Edinburgh Multiple Access System
 English language
 Ethernet
 FOCAL (programming language)
-FORTRAN
 FX!32
-File-system permissions
 Firefly (cache coherence protocol)
 Flip-Chip module
-Front panel
 Gold key (DEC)
 Gordon Bell
-Group (computing)
-Group identifier
-HARDCOPY
 HP-Interex
 Hard disk drive
 Harlan Anderson
-Hewlett-Packard
-Home directory
-Honeywell
-IBM Remote Access Computing
-Incompatible Timesharing System
-Installation (computer programs)
 Instruction set architecture
 Interactive Application System
-Internet protocol suite
-Job (computing)
 Ken Olsen
 Kernel (operating system)
-Kernel mode
-Kevin Mitnick
-Key derivation function
 Kilobyte
 LK201
 LK421
 Library (computing)
-License
 Linux
-Livermore Time Sharing System
 Local Area Transport
 Login
 MACRO-10
 MACRO-11
 MS-DOS
 MUMPS
-MUSIC/SP
-Magnetic core memory
 Maintenance Operations Protocol
 Mass Storage Control Protocol
 Massbus
-Megabyte
-Memory-mapped I/O
-Memory management
-Memory resident
-Mentec International Ltd
-Message of the day
-Michigan Terminal System
 MicroVAX 78032
 Microsoft Windows
-Milpitas, California
 Minicomputer
 Modem
-Multi-user
-Multics
 Multinational Character Set
-Multiple Console Time Sharing System
-NLTSS
-NOS/VE
-NOS (operating system)
 NVAX
 National Replacement Character Set
 Natural language
-ORVYL and WYLBUR
-OS/8
-OS4000
-Octal Debugging Technique
 On-line Debugging Tool
 OpenVMS
 Operating system
 PALcode
-PDP-11
-PDP-11/20
-PDP-11/40
-PDP-11/44
-PDP-11/45
-PDP-11/70
 PDP-11 architecture
 PDP-7
-PDP-8
-PEEK and POKE
 Package manager
-Peripheral Interchange Program
-Pi
-Pick operating system
 Processor (computing)
 Programmer
 Programming language
 Proprietary software
 Q-Bus
-QIO
 RA90
 RK05
 RL02
 RS-232
 RSX-11
-RSX-15
 RT-11
 ReGIS
 Record Management Services
-Registry Editor
-Reverse engineer
 Rigel (microprocessor)
 Robert Palmer (computer businessman)
-Root account
-Root directory
-Round-robin scheduling
-Run-time system
-Runtime system
-SIMH
-Seattle Pacific College
 Semaphore (programming)
-Serial communication
 Serial port
-Service bureau
 Sixel
 Software engineering
 Software license
 Software release life cycle
-Southampton University
 Standard Disk Interconnect
 Star coupler
-Stardate
-Status key
 StrongARM
-Swap file
-Symbolic link
 Synchronous Backplane Interconnect
-System Industries
 System Module
-System Reference Manual
 System administrator
-System generation
-System load
-System software
-TD/SMP
-TECO (text editor)
-TENEX (operating system)
 TOPS-10
 TOPS-20
-TSS-8
-TSS/8
-TSS (operating system)
 TU81
 TURBOchannel
-Task Manager
 The Ultimate Entrepreneur
-Time-sharing
-Time-sharing system evolution
-Time Sharing Operating System
-Time Sharing Option
 Ultrix
-Undocumented feature
 Unibus
-Universal Time-Sharing System
-Unix
-User identifier
 User interface
-User space
 VAX
 VAXBI bus
 VAXELN
 VAX MACRO
 VM (operating system)
-VP/CSS
-VPS/VM
 VT05
 VT100
 VT1000
-VT101
-VT102
-VT103
-VT105
-VT131
 VT180
 VT220
-VT240
-VT241
 VT320
-VT330
-VT340
 VT420
-VT510
 VT52
 VT520
-VT525
-VT55
-VT62
 VT640
-WAITS
 WPS-8
 Word (computer architecture)

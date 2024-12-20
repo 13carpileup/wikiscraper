@@ -1,386 +1,80 @@
-386BSD
-A/UX
 API
-ARM architecture family
-AVR32
-Academic Free License
-Alternative terms for free software
 Android (operating system)
 Apache License
-Apple Public Source License
 Arch Linux
-Artistic License
 Assembly language
-AudioOS
 Australia
-BSD licenses
-Bash (Unix shell)
-Beerware
-Benjamin Mako Hill
-Berkeley Software Distribution
 BlackBerry 10
-Blackfin
 Booting
-Bradley M. Kuhn
-Brian Fox (programmer)
 BridgeOS
-Bus error
-C6x
 C (programming language)
 ChromeOS
-Coherent (operating system)
-Command-line interface
-Common Development and Distribution License
-Community of practice
-Comparison of free and open-source software licenses
-Comparison of free software for audio
-Comparison of open-source and closed-source software
-Comparison of open-source configuration management software
-Comparison of open-source operating systems
-Comparison of open-source wireless drivers
-Comparison of operating systems
-Comparison of shopping cart software
-Comparison of source-code-hosting facilities
-Comparison of user features of operating systems
-Compatibility layer
 Computer architecture
 Computer multitasking
 Computer network
 Computerworld
-Context switch
-Contributor License Agreement
-Cooperative multitasking
-Copyleft
-Creative Commons license
-Cygnus Solutions
-Cygwin
 DEC Alpha
-DYNIX
-Darling (software)
-Darwin (operating system)
 Debian
-Debian Free Software Guidelines
-Debian GNU/Hurd
-Defective by Design
-Definition of Free Cultural Works
-Defragmentation
 Device driver
-Device file
 Digital rights management
-Disk operating system
 Disk partitioning
-Distributed operating system
-Domain/OS
-DragonFly BSD
-ETRAX CRIS
-Eclipse Public License
-Electric (software)
-Embedded operating system
-Eunice (software)
-Exokernel
-FR-V
-Federico Heinz
 Fedora Linux
-File attribute
 File system
-Fixed-priority pre-emptive scheduling
-Forensic software engineering
 Fork (software development)
-Free-software license
 FreeBSD
-Free Software, Free Society
-Free Software Foundation
-Free Software Foundation Europe
-Free Software Foundation Latin America
-Free Software Foundation anti-Windows campaigns
-Free Software Foundation of India
-Free Software Movement of India
-Free and open-source graphics device driver
-Free and open-source software
-Free license
 Free software
-Free software license
-Free software movement
-GIMP
-GNAT Modified General Public License
-GNU/Linux naming controversy
-GNU Affero General Public License
-GNU Archimedes
-GNU Autotools
-GNU Binary Utilities
-GNU Binutils
-GNU C Library
-GNU C library
-GNU Chess
 GNU Compiler Collection
 GNU Core Utilities
-GNU Debugger
-GNU Emacs
-GNU Find Utilities
-GNU Free Documentation License
-GNU GRUB
 GNU General Public License
-GNU Go
-GNU Guix
 GNU Guix System
-GNU Health
-GNU Hurd
-GNU IceCat
-GNU Lesser General Public License
-GNU Mach
-GNU Manifesto
-GNU Multiple Precision Arithmetic Library
-GNU Octave
-GNU Privacy Guard
-GNU Project
-GNU Scientific Library
-GNU Taler
-GNU TeXmacs
-GNU variants
-GNUmed
-GNUnet
-GNUstep
-GPL font exception
-GPL linking exception
-General protection fault
 Gentoo Linux
-Georg C. F. Greve
 Glibc
-Gnash (software)
-Gnuzilla
-Gratis versus libre
-H8/300
-HP-UX
-Hardware abstraction
-History of Unix
-History of free and open-source software
-History of operating systems
-Hobbyist operating system
-Hurd
-Hybrid kernel
-IA-32
 IBM AIX
-IBM i
-IB ESA/390
 IOS
 IPadOS
-IRIX
 ISBN (identifier)
-ISC license
-Illumos
-Imagination META
-Incompatible Timesharing System
-Inode
 Inter-process communication
-Interix
-Interrupt
-Itanium
-James Gosling
-Jami (software)
-Journaling file system
-Just enough operating system
 Kernel (operating system)
-Lawrence Lessig
-License proliferation
-LilyPond
 Linux
-Linux-libre
 Linux kernel
 Lisp (programming language)
-List of GNU/Linux distributions endorsed by the Free Software Foundation
-List of GNU packages
 List of Linux distributions
-List of Unix systems
-List of commercial open-source applications and services
-List of computing mascots
-List of formerly free and open-source software
-List of formerly proprietary software
-List of free-software events
-List of free and open-source Android applications
-List of free and open-source iOS applications
-List of free and open-source software organizations
-List of free and open-source software packages
-List of free and open-source web applications
-List of free software project directories
-List of free television software
-List of office suites
-List of open-source bioinformatics software
-List of open-source codecs
-List of open-source health software
-List of open-source routing platforms
-List of open-source software for mathematics
-List of open-source video games
-List of operating systems
-Live CD
-Live USB
-Loadable kernel module
-Long-term support
-LynxOS
-M32R
-M68k
 MIPS architecture
-MIT Computer Science and Artificial Intelligence Laboratory
-MIT License
-MIT license
-MKS Toolkit
-MN103
-MOS (operating system)
 MacOS
-MachTen
-Mach (kernel)
-Memory management (operating systems)
-Memory paging
-Memory protection
-MicroBlaze
-Microkernel
-Microsoft Open Specification Promise
-Microsoft POSIX subsystem
 Microsoft Windows
-Midori (web browser)
-Minix
 Mobile operating system
 Monolithic kernel
-Mozilla Public License
-Mozilla software rebranded by Debian
-Multikernel
-Multilevel feedback queue
-NeXTSTEP
 NetBSD
-Network operating system
-Newsgroup
-Non-volatile memory
 OCLC (identifier)
-OSF/1
-Object-oriented operating system
-Open-core model
-Open-source-software movement
-Open-source hardware
-Open-source license
 Open-source software
-Open-source software advocacy
-Open-source software development
-Open-source software security
-OpenBSD
-OpenRISC
-OpenServer
-OpenSolaris
 OpenVMS
 Operating system
-Operating system kernel
-Oracle Solaris
-Outline of free software
-P.I.P.S.
-PA-RISC
-PDP-10
-PWS/VSE-AF
-Parabola GNU/Linux-libre
-Permissive free software license
-Permissive software license
-Port (software)
 Porting
-PowerPC
-Preboot Execution Environment
 Preemption (computing)
 Process (computing)
-Process control block
 Process management (computing)
 Programmer
 Programming language
-Proprietary device driver
-Proprietary firmware
 Proprietary software
-Protection ring
 Public domain
 PureOS
-Python License
-Python Software Foundation License
 QNX
-Qualcomm Hexagon
-RISC-V
-R (programming language)
-Real-time operating system
-Recursive acronym
 Red Hat
 Red Hat Enterprise Linux
-Research Unix
-Revolution OS
-Richard Stallman
-Rolling release
-Round-robin scheduling
-Rump kernel
-S+core
-SCO–Linux disputes
 SPARC
 SUSE Linux
-Scheduling (computing)
-Segmentation fault
-SerenityOS
-Shared Source Initiative
-Shell (computing)
-Shortest job next
-Sleepycat License
 Software license
-Software patents and free software
 Software release life cycle
-Solaris (operating system)
-Source-available software
-SunOS
-SuperH
-Supercomputer operating system
-Synopsys ARC
 System call
-System resource
-TILE64
-Task scheduler
 TeX
-The Cathedral and the Bazaar
-The Free Software Definition
-The Gnu
-The Open Source Definition
 Thread (computing)
-Time-sharing
-Timeline of free and open-source software
-Timeline of operating systems
-Tivoization
 Trisquel
-Tru64 UNIX
-Trusted Computing
 TvOS
 UNIX System Services
-UNIX System V
 Ubuntu
 Ultrix
-Unicore32
-Unikernel
-Unix
-Unix-like
-UnixWare
-Unix architecture
-Unix filesystem
-Unix philosophy
-Unix security
-Unix shell
-Unlicense
-Usage share of operating systems
-Usenet (identifier)
-Usenet newsgroup
-UserLAnd Technologies
 User interface
 User space and kernel space
-Virtual file system
-Virtual memory
-Virtual tape library
-Vkernel
-WTFPL
 WatchOS
-Wildebeest
-William John Sullivan
-Windows Services for UNIX
-Windows Subsystem for Linux
 X86
 XNU
-X Window System
-Xenix
-Xfce4
-Xtensa
-Zlib License

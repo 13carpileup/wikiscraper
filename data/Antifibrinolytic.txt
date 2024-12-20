@@ -1,7 +1,6 @@
 ACE inhibitor
 ATC code A
 ATC code B
-ATC code B02
 ATC code C
 ATC code D
 ATC code D09
@@ -16,19 +15,12 @@ ATC code R
 ATC code S
 ATC code V
 ATCvet code QI
-Absorbable gelatin sponge
 Addiction medicine
-Adrenalone
 Alkylating antineoplastic agent
-Alpha 1-antitrypsin
-Amino acid
-Aminocaproic acid
-Aminomethylbenzoic acid
 Anabolic steroid
 Analgesic
 Anatomical Therapeutic Chemical Classification System
 Anesthetic
-Angiotensin II receptor antagonist
 Anorectic
 Antacid
 Anthelmintic
@@ -36,18 +28,12 @@ Anti-inflammatory
 Anti-obesity medication
 Antianginal
 Antiarrhythmic agent
-Antibacterial
 Anticoagulant
 Anticonvulsant
-Antidementia drug
 Antidepressant
-Antidiarrhoeal
 Antidote
 Antiemetic
-Antifungal drug
 Antihemorrhagic
-Antihyperkinetic
-Antihypertensive drug
 Antimetabolite
 Antimicrobial
 Antimigraine drug
@@ -56,162 +42,57 @@ Antineoplastic
 Antiparasitic
 Antiplatelet drug
 Antipropulsive
-Antiprotozoal agent
 Antipruritic
-Antipsoriatic
 Antipsychotic
 Antithrombotic
 Antithyroid agent
 Antiviral drug
 Anxiolytic
 Aphrodisiac
-Aprotinin
-Avatrombopag
-Batroxobin
 Beta blocker
 Bile acid sequestrant
 Bisphosphonate
 Blood
 Bone
 Bronchodilator
-C1-inhibitor
-Calcium alginate
 Calcium channel blocker
-Camostat
-Carbazochrome
 Cardiac glycoside
 Cardiac stimulant
-Catridecacog
 Chemotherapy
-Cicatrizant
 Circulatory system
 Coagulation
-Collagen
-Concizumab
-Contrast medium
 Corticosteroid
-Cough medicine
-Damoctocog alfa pegol
 Decongestant
 Deliriant
 Depressant
 Diabetes medication
-Dietary mineral
 Disease-modifying antirheumatic drug
 Dissociative
 Diuretic
 Doi (identifier)
-Dorland's medical reference works
 Dressing (medicine)
 Ectoparasiticide
-Efanesoctocog alfa
-Efmoroctocog alfa
-Eltrombopag
-Emollient
 Endocrine system
-Entactogen
 Entheogen
-Epinephrine
-Etamsylate
 Euphoria
-Factor IX
-Factor VII
-Factor VIII
-Factor VIII (medication)
-Factor X
-Factor XIII
 Fertility medication
 Fibrate
-Fibrin glue
-Fibrinogen
-Fibrinolysis
-Fidanacogene elaparvovec
-Fostamatinib
 General anaesthetic
 Genitourinary system
 Glucocorticoid
 H1 antagonist
-H2 antagonist
-Hemostatic Powder Spray TC-325
 Hormonal contraception
 Human brain
-Human gastrointestinal tract
 Human skin
 Hypnotic
-Hypolipidemic agent
 Hypothalamic–pituitary hormone
 Immune system
-Immunomodulator
 Immunostimulant
 Immunosuppressive drug
 Infection
-Intravenous immunoglobulin
 Joint
-Laxative
-Local anesthetic
-Lusutrombopag
-Lysine
-Malignant
-Management of Parkinson's disease
-Marstacimab
 Medical Subject Headings
-Medication
-Menadione
 Metabolism
-Mineralocorticoid
-Mood stabilizer
-Moroctocog alfa
-Motivation-enhancing drug
-Muscle
-Muscle relaxant
 Nervous system
-Neuroprotective
-Neurotoxin
-Non-steroidal anti-inflammatory drug
-Nonacog alfa
-Nootropic
-Ophthalmology
-Orexigenic
-Otology
-Oxidized cellulose
 PMC (identifier)
 PMID (identifier)
-Phylloquinone
-Platelet
-Prothrombin complex concentrate
-Proton-pump inhibitor
-Psychedelic drug
-Psychedelics, dissociatives and deliriants
-Radiopharmacology
-Rafutrombopag
-Recombinant factor VIIa
-Renin inhibitor
-Renin–angiotensin system
-Respiratory system
-Romiplostim
-Sedative
-Selective estrogen receptor modulator
-Senotherapeutics
-Sense
-Serenic
-Serpin
-Sex steroid
-Spindle poison
-Statin
-Stimulant
-Susoctocog alfa
-Tetragalacturonic acid hydroxymethylester
-Thrombin
-Thrombolytic drug
-Thrombopoietin receptor agonist
-Thyroid hormone
-Topoisomerase inhibitor
-Tranexamic acid
-Turoctocog alfa
-Ulinastatin
-Vaccine
-Valoctocogene roxaparvovec
-Vasodilation
-Vitamin
-Vitamin K
-Wakefulness-promoting agent

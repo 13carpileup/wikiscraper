@@ -1,21 +1,15 @@
-ISO/IEC 42010
 ISO 15686
-ISO/IEC 15897
 ISO 17100
-Smalltalk
 ISO 21500
 ISO 732
 ISO 14698
 ISO 6346
 Rectangular Micro QR Code
 Pinyin
-Application binary interface
 FDI World Dental Federation notation
-Ada (programming language)
 Standardization
 ISO 4157
 LCEVC
-ISO/IEC 10116
 Guidelines for the Definition of Managed Objects
 ANSI escape code
 Object Management Group
@@ -27,28 +21,19 @@ Simple Features
 List of ISO standards
 ISO 639-6
 C Sharp (programming language)
-Java remote method invocation
-ISO/TR 11941
-ISO 19092-2
 Linguistic categories
 ISO 19011
-ISO/IEC 27000-series
 ISO 4
-Servant (CORBA)
-ISO/IEC 8859-14
 ISO 2145
 ISO 26000
-OS/2
 ISO 2
 Flowchart
 PDF417
 Graphical Kernel System
-PDF/E
 ISO 2015
 ISO 10007
 Photographic Activity Test
 QR code
-ISO/IEC 27000
 ISO 15926
 ISO 2033
 SQL
@@ -56,60 +41,36 @@ ISO 639-1
 PHIGS
 Magnetic ink character recognition
 COLLADA
-KDE Platform
-JacORB
 Lisp (programming language)
 Longitudinal redundancy check
 A440 (pitch standard)
-Comparison of application virtual machines
 ISO 31-6
-ISO/IEC 646
-SWIG
 ISO 6709
 MPEG-4 Part 3
 ISO 8601
-ISO/IEC 15504
 ISO 50001
-OpenAIR
 PDF
 ISO 10628
 Antimagnetic watch
-ISO/IEC 2022
 ISO 11783
 ISO 4217
-ISO/IEC 8859-8
 EXPRESS (data modeling language)
-ISO/IEC 15288
-C++11
 Fuel oil
-ISO/IEC 8859-10
 Object Constraint Language
-ISO/IEC 9529
-ISO/IEC 7810
 ISO 15926 WIP
 Essential Video Coding
 MPEG-H
 ISO 7200
 ISO 31-7
-ISO/IEC 8859-11
 ISO 10962
 International Standard Audiovisual Number
-Freedesktop.org
 ECMAScript for XML
 Han Xin code
 Requirements engineering
-ISO/IEC 19770
-Transaction processing
-Interface definition language
 Pascal (programming language)
 Prontor-Compur
-Notification system
-ISO 31-13
-Association for Computing Machinery
 HTML
 MP4 file format
-Object Pascal
-ISO/IEC 8859-13
 On-board diagnostics
 Programming language
 ISO 5775
@@ -119,16 +80,11 @@ OCR-A
 Torx
 ECMAScript
 Unified Modeling Language
-ISO/IEC 9126
-Model–view–controller
-Fuse (automotive)
 Legal Entity Identifier
 ISO 9362
 CHILL
-ISO/IEC 15693
 Shoe size
 ISO 4031
-Java Servlet
 ISO 22300
 135 film
 ISO 7010
@@ -137,7 +93,6 @@ Office Open XML
 Domain Name System
 ISO 5426
 ISO 639-3
-ISO/IEC 17024
 ISO 8178
 ISO 45001
 Salt spray test
@@ -146,126 +101,76 @@ International Standard Text Code
 Internet
 MPEG-4
 Horsepower
-ISO/IEC 12207
-IBM System Object Model
-ISO/IEC 27005
-ISO/IEC 11404
-ISO/IEC 8859-5
 JPEG 2000
-ISO/IEC 14651
 ISO 31-1
 ISO 2921
-Erlang (programming language)
 ISO 10160
 ISO 14224
 Knowledge Discovery Metamodel
 ISO 7637
 ISO 15398
 Isofix
-Language Of Temporal Ordering Specification
 ISO 21001
 Prolog
-Software Communications Architecture
 ISO 26262
-ISO/IEC 8859-3
 ISO 31-10
 Romanization of Armenian
-ISO/IEC 27001
 MPEG-21
-Reference counting
-General Inter-ORB Protocol
-Name mangling
 ISO 10303-28
 JPEG XL
 Open Virtualization Format
 ISO 11940-2
 ISO 11940
-Uniform Resource Locator
-Portable Object Adapter
 Multibus
 Hazard symbol
 ISO 3977
 Document Style Semantics and Specification Language
-Desktop communication protocol
-PDF/VT
 Cloud Infrastructure Management Interface
-Interoperable Object Reference
 ISO 31-5
 ISO 5964
-Dr. Dobb's Journal
 ISO 9897
-ISO 8373
 ISO 259
 Java (programming language)
 ISO 7001
-Address space
 ISO 11784 and ISO 11785
-RMI-IIOP
 Kappa number
 ISO 8000
-ISO/IEEE 11073
-TIFF/EP
 ISO 1745
-Portable object (computing)
-Multitier architecture
-ISO 7027
 JPEG XS
 ISO 1000
 ISO 20022
-TAO (software)
-SOCKS
 ISO 3166-1
 ISO 5427
 Python (programming language)
 ISO 15924
 RELAX NG
-Component Object Model
 ISO 18245
-Distributed Component Object Model
 ISO 233
 Fiber Distributed Data Interface
-Tcl
 Open Document Architecture
 ISO 216
 Common Logic
 Romanization of Georgian
 Topic map
-ISO/IEC 18014
-ISO 14000
-Distributed object
 Mixed raster content
 JPEG XR
-ISO/IEC 27002
-ISO/IEC 27006
 MPEG-1
-Forwarding (object-oriented programming)
 International Standard Name Identifier
-ISO/IEC 8859-6
 Doi (identifier)
-Service-oriented architecture
 MPEG-A
 SDMX
-ISO/IEC 20000
 ISO 898
 ISO 56000
 ISO 860
-ISO/IEC 8859-15
 International Standard Music Number
 S2CID (identifier)
-Enterprise Java Beans
 ISO 6438
 Quality function deployment
-Java Platform, Enterprise Edition
-ISO/IEC 38500
 ISO 10006
 Delivery Multimedia Integration Framework
 ISO 22301
 ISO 999
-ISO/IEC 8859-7
 ISO 13584
-ISO 19092-1
-ISO/IEC 80000
-Function call
 Ada Semantic Interface Specification
 ISO 8691
 Minimal BASIC
@@ -273,30 +178,22 @@ ISO 15022
 ISO 690
 ISO 3864
 OpenDocument
-International Standard Serial Number
 ISO 7002
 ISO 6943
 ISO 3103
 ISO 19600
 ISO 1
-ISO/IEC 9797-1
-ISO/IEC 8859-9
 Dynamic Adaptive Streaming over HTTP
 Renard series
-JavaBean
 MicroPDF417
 Meta-Object Facility
 Graph Query Language
 Distributed computing
 ISO 5776
-ISO/IEC 21827
 ArmSCII
-ISO/IEC 19752
 Encryption
-Design by committee
 Ruby (programming language)
 Standard Generalized Markup Language
-SeaMonkey
 Component-based software engineering
 ISO 25964
 Software maintenance
@@ -304,49 +201,29 @@ British Standard Pipe
 Process Specification Language
 ISO 11170
 ISO 668
-ISO 9000
 ISO 3166-2
 C++
-Tunneling protocol
 ISO 3307
 ISO 22395
-ISO/IEC 11179
 ISO 639
 Shock-resistant watch
 ISO 15919
-PDF/A
 ISO 2146
-Remote procedure call
 ALGOL 60
 Business Process Model and Notation
 Computer Graphics Metafile
-Language binding
-ISO/IEC 14443
 ISBN (identifier)
-ISO/IEC 11801
 Geography Markup Language
-AIX
 ISO 10303-22
 Power take-off
-PL/I
 ISO 31-3
-Standard Template Library
-ISO/IEC 8652
-Dynamic Invocation Interface
-KDE
 ISO 37001
 Application programming interface
 ISO 31
 MPEG-4 Part 11
 MaxiCode
-ISO 12006
-GNOME
-ISO/IEC 7813
 ISO 31-0
-.NET Framework
 ISO 10218
-Bonobo (GNOME)
-Object request broker
 ISO 14031
 Equal-loudness contour
 ISO metric screw thread
@@ -355,17 +232,13 @@ ISO 14617
 ISO 31000
 Digital object identifier
 ISO 3166
-ISO/IEC 7064
 ISO 704
-ISO/IEC 8859-16
 International Standard Identifier for Libraries and Related Organizations
 ISO 2711
 ISO 20121
 DICOM
 ASMO 449
 C (programming language)
-Internet protocol suite
-ISO 2047
 ISO-8859-8-I
 ISO 13485
 ISO 9660
@@ -374,7 +247,6 @@ ISO 15189
 ISLISP
 POSIX
 ISO 19114
-Transparent proxy
 ISO 4165
 RM-ODP
 ISO 9564
@@ -382,54 +254,33 @@ ISBN
 ISO 10303
 Hole punch
 ISO 639-5
-PDF/X
-ISO/IEC 17025
 International Bank Account Number
-Paul Harmon (management author)
 ANSI C
 ISO 6344
-ISO/IEC 8859
-ISO/IEC 6523
-ISO/IEC 7811
-SOAP
 ISO 20400
 Common Criteria
-HTTP
 FTAM
 International Standard Atmosphere
-ISO 31-9
 JBIG
 Accuracy and precision
 Linux Standard Base
 ISO 31-4
 ISO 843
-ISO/IEC 7812
 Film speed
 List of IEC standards
-ISO/IEC 5218
 ISO 31-11
 Lexical Markup Framework
-ISO/IEC 8859-2
 COBOL
 Perl
 ISO 7736
-ACM Queue
 ISO 9241
-Secure Sockets Layer
 International Standard Recording Code
 JPIP
-ISO/IEC 4909
 Open Data Protocol
 ISO 13567
-ISO 31-12
-ISO/IEC 8859-12
 ISO 55000
-Remote method invocation
-Internet Communications Engine
-Michael Rosen (enterprise architect)
 MPEG-7
 Advanced Video Coding
-ISO/IEC 10967
 ISO 10161
 ISO 2788
 ISO 8501-1
@@ -443,7 +294,6 @@ ISO 11992
 110 film
 Common Language Infrastructure
 ISO 965
-ISO/IEC 8859-1
 ISO 217
 ISO 639-2
 Market Identifier Code
@@ -451,33 +301,22 @@ ISO 14971
 ISO 657
 Trusted Platform Module
 List of ISO romanizations
-D-Bus
-A priori and a posteriori
 O-ring
 ISO 3166-3
-ISO/IEC 8859-4
 Universal Coded Character Set
 ISO 25178
-Foreign function interface
 Manufacturing Message Specification
 ISO 2014
-OSI model
 ISO 14644
-ISO/IEC 7816
-CAN bus
-ISO/IEC 19794-5
 ISO 10303-21
 ISO base media file format
 Full BASIC
 International Securities Identification Number
-Persistence (computer science)
 126 film
 ISO 128
 ISO-TimeML
 IS-IS
 ISO 2852
-TCP/IP
-ISO/IEC TR 12182
 MPEG-2
 Authentication
 MPEG-4 Part 2
@@ -485,16 +324,11 @@ ISO 5428
 Geospatial metadata
 ISO 31-8
 ISO 8583
-Calling convention
 ISO 1629
 ISO 13399
 ISO 2848
 ISO 9
 ISO 22000
-Telefonica
-ISO/IEC 9995
 File Allocation Table
-Mozilla Application Suite
 OCR-B
 International Organization for Standardization
-PDF/UA

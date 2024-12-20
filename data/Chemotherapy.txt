@@ -1,8 +1,5 @@
-5-Fluorouracil
-5-fluorouracil
 ACE inhibitor
 AL amyloidosis
-ANXA2
 ATC code A
 ATC code B
 ATC code C
@@ -25,7 +22,6 @@ Abemaciclib
 Abortion
 Acalabrutinib
 Aclarubicin
-Actinomycin
 Acute kidney injury
 Acute lymphoblastic leukemia
 Acute myelogenous leukemia
@@ -35,10 +31,7 @@ Addiction medicine
 Adenine
 Adenoma
 Adenosine
-Adipotide
-Adjuvant chemotherapy
 Adverse effect
-Adverse effects
 Aerobic exercise
 Afatinib
 Aflibercept
@@ -46,8 +39,6 @@ Air raid on Bari
 Alectinib
 Alemtuzumab
 Alkyl group
-Alkylating agent
-Alkylating agents
 Alkylating antineoplastic agent
 Alkylation
 Allergic
@@ -59,11 +50,9 @@ Alpelisib
 American Cancer Society
 American Conference of Governmental Industrial Hygienists
 American Society of Health-System Pharmacists
-Amino group
 Amivantamab
 Anabolic steroid
 Analgesic
-Anaplastic large cell lymphoma
 Anaplastic lymphoma kinase
 Anatomical Therapeutic Chemical Classification System
 Androgen
@@ -71,7 +60,6 @@ Anemia
 Anemia of chronic disease
 Anesthetic
 Angiogenesis
-Angiotensin II receptor antagonist
 Ankylosing spondylitis
 Ann Arbor staging
 Anorectic
@@ -80,32 +68,20 @@ Antacid
 Anthelmintic
 Anthracycline
 Anti-Cancer Drugs
-Anti-Cancer Drugs (journal)
 Anti-inflammatory
-Anti-metabolite
-Anti-microtubule agent
 Anti-obesity medication
 Antianginal
 Antiarrhythmic agent
-Antibacterial
 Antibiotic
 Antibody
-Antibody-drug conjugate
-Anticancer drugs
 Anticoagulant
 Anticonvulsant
-Antidementia drug
 Antidepressant
-Antidiarrhoeal
 Antidote
 Antiemetic
-Antiemetics
 Antifibrinolytic
 Antifolate
-Antifungal drug
 Antihemorrhagic
-Antihyperkinetic
-Antihypertensive drug
 Antimetabolite
 Antimicrobial
 Antimicrobial chemotherapy
@@ -115,9 +91,7 @@ Antineoplastic
 Antiparasitic
 Antiplatelet drug
 Antipropulsive
-Antiprotozoal agent
 Antipruritic
-Antipsoriatic
 Antipsychotic
 Antithrombotic
 Antithyroid agent
@@ -127,13 +101,10 @@ Aphrodisiac
 Apoptosis
 Arsphenamine
 Asciminib
-Assisted reproductive technologies
 Asymptomatic
 Atezolizumab
-Atezolizumab/hyaluronidase
 Aumolertinib
 Autoimmunity
-Autologous
 Autonomic nervous system
 Avapritinib
 Avelumab
@@ -145,7 +116,6 @@ BRAF (gene)
 Bacterium
 Bari
 Baricitinib
-Bcr-abl fusion protein
 Belantamab mafodotin
 Benign tumor
 Bermekimab
@@ -167,22 +137,17 @@ Blood vessel
 Blood–brain barrier
 Body surface area
 Bone
-Bone cancer
 Bone marrow
-Bone marrow transplant
 Bone tumor
 Bortezomib
 Bosutinib
 Brain
-Brain tumors
 Breast cancer
 Brentuximab vedotin
 Brigatinib
 Bronchodilator
 Bruton's tyrosine kinase
 Busulfan
-C-Met
-CD117
 CD135
 CD20
 CD30
@@ -197,7 +162,6 @@ Camptotheca acuminata
 Camptothecin
 Cancer
 Cancer-related fatigue
-Cancer.org
 Cancer and nausea
 Cancer cell
 Cancer immunotherapy
@@ -208,13 +172,11 @@ Cancer treatment
 Capecitabine
 Capmatinib
 Carboplatin
-Carboxyl group
 Carcinogen
 Carcinogenesis
 Carcinogenic bacteria
 Carcinoma
 Carcinoma in situ
-Cardiac dysrhythmia
 Cardiac glycoside
 Cardiac stimulant
 Cardiotoxicity
@@ -232,24 +194,19 @@ Central venous catheter
 Cerebrospinal fluid
 Ceritinib
 Cetuximab
-Chemical group
 Chemical structure
 Chemical warfare
-Chemo
-Chemo brain
 Chemotherapy-induced acral erythema
 Chemotherapy-induced nausea and vomiting
 Chemotherapy-induced peripheral neuropathy
 Chemotherapy (journal)
 Chemotherapy regimen
-Chemotherapy regimens
 Childhood cancer
 Chills
 Chlorambucil
 Chlormethine
 Cholestasis
 Chronic myelogenous leukemia
-Cicatrizant
 Circulatory system
 Cisplatin
 Cladribine
@@ -258,16 +215,12 @@ Clonally transmissible cancer
 Coagulation
 Cobimetinib
 Colorectal cancer
-Combination chemotherapy
 Complications of pregnancy
-Conditioning regimen
 Constipation
 Contraception
-Contrast medium
 Copanlisib
 Corticosteroid
 Cosibelimab
-Cough medicine
 Covalent bond
 Crizotinib
 Cryopreservation
@@ -284,7 +237,6 @@ Cytotoxicity
 DNA
 DNA damage
 DNA damage (naturally occurring)
-DNA intercalation
 DNA repair
 DNA replication
 Dabrafenib
@@ -306,15 +258,10 @@ Dexamethasone
 Diabetes medication
 Diarrhea
 Diet and cancer
-Dietary mineral
 Digestive system neoplasm
-Digestive tract
-Dihydrofolate
 Dihydrofolate reductase
-Dinutuximab beta
 Disease-modifying antirheumatic drug
 Dissociative
-Distended abdomen
 Diuretic
 Docetaxel
 Doi (identifier)
@@ -323,7 +270,6 @@ Doxorubicin
 Dressing (medicine)
 Drug delivery
 Drug resistance
-Dukes classification
 Durvalumab
 Duvelisib
 Dysplasia
@@ -335,18 +281,14 @@ Electrochemotherapy
 Elotuzumab
 Elranatamab
 Embryo cryopreservation
-Emollient
 Encorafenib
 Endocrine gland neoplasm
 Endocrine system
-Endothelial cells
 Enfortumab vedotin
 Engineering controls
-Entactogen
 Entheogen
 Entrectinib
 Enzyme
-EpCAM
 Epcoritamab
 Epidermal growth factor receptor
 Epirubicin
@@ -363,10 +305,8 @@ European Journal of Oncology Nursing
 Everolimus
 Exotoxin
 Experimental cancer treatment
-Experimental cancer treatments
 Extravasation
 FOLFOX
-Fast-dividing cells
 Fedratinib
 Female infertility
 Fertility medication
@@ -382,19 +322,15 @@ Fluorouracil
 Folinic acid
 Fotemustine
 Fractional kill
-Free radical
-Free radicals
 Fruquintinib
 Fusion protein
 Futibatinib
-G-CSF
 Gefitinib
 Gemcitabine
 Gemtuzumab ozogamicin
 Gene
 Gene duplication
 General anaesthetic
-Genetic mutation
 Genitourinary system
 Genotoxicity
 Germ cell tumor
@@ -403,15 +339,11 @@ Glasdegib
 Gleason grading system
 Glofitamab
 Glucocorticoid
-Glycinamide ribonucleotide formyltransferase
 Glycopeptide
-GnRH analog
 Grading (tumors)
 Granulocyte
 Guanine
 H1 antagonist
-H2 antagonist
-HER2/neu
 Hair follicle
 Hair loss
 Hamartoma
@@ -421,24 +353,15 @@ Hdl (identifier)
 Head and neck cancer
 Hedgehog signaling pathway
 Hematoma
-Hematopoiesis
-Hematopoietic stem cell transplant
-Hemicolectomy
 Hemolysis
-Hemorrhage
 Hepatic veno-occlusive disease
 Hepatotoxicity
-Herpes simplex
 Hickman line
 History of cancer
 History of cancer chemotherapy
-Hodgkin's disease
-Hodgkin's lymphoma
 Hormonal contraception
 Hormonal therapy (oncology)
 Human brain
-Human gastrointestinal tract
-Human herpes virus
 Human skin
 Hyperkalemia
 Hyperphosphatemia
@@ -446,7 +369,6 @@ Hyperplasia
 Hyperthermia therapy
 Hyperuricemia
 Hypnotic
-Hypolipidemic agent
 Hypothalamic–pituitary hormone
 Hypothermia cap
 ISBN (identifier)
@@ -462,12 +384,10 @@ Imatinib
 Immune checkpoint
 Immune system
 Immunogenic cell death
-Immunomodulator
 Immunostimulant
 Immunosuppression
 Immunosuppressive drug
 Immunotherapy
-Implantable port
 In vitro fertilization
 In vivo
 Inavolisib
@@ -476,19 +396,15 @@ Infection
 Infertility
 Infigratinib
 Inotuzumab ozogamicin
-Inpatient
 Interleukin 2
 Interstitial lung disease
 Intramuscular injection
-Intrathecal
 Intrathecal administration
-Intravenous immunoglobulin
 Intravenous therapy
 Ipilimumab
 Irinotecan
 Iron supplement
 Isatuximab
-Isolated limb perfusion
 Jane C. Wright
 Janus kinase
 Japan

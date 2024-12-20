@@ -5,41 +5,25 @@ Alfred-Marie Liénard
 Alternating current
 Ampère's circuital law
 André-Marie Ampère
-Anthony French
 Atom
-Atomic nuclei
-Atomic orbital
 Bibcode (identifier)
 Biot–Savart law
 Bremsstrahlung
 Capacitance
 Carl Friedrich Gauss
-Charge (physics)
-Charge carrier
-Charge carrier density
-Charge density wave
 Charles-Augustin de Coulomb
 Charles Proteus Steinmetz
-Chemical bonding
 Chemistry
 Classical electromagnetism
 Classical electromagnetism and special relativity
 Computational electromagnetics
-Conduction electron
-Conservation of electric charge
-Constitutive relation
-Continuity (mathematics)
-Continuity equation
 Coulomb
 Coulomb's law
 Covariant formulation of classical electromagnetism
-Crystal lattice
 Current density
 Cyclotron radiation
 DC motor
-Density functional theory
 Dielectric
-Dirac delta function
 Direct current
 Displacement current
 Divergence theorem
@@ -61,7 +45,6 @@ Electrical conductor
 Electrical impedance
 Electrical network
 Electrical resistance and conductance
-Electrical resistivity and conductivity
 Electricity
 Electrolysis
 Electromagnetic field
@@ -74,7 +57,6 @@ Electromagnetic tensor
 Electromagnetism
 Electromotive force
 Electron
-Electron charge
 Electrostatic discharge
 Electrostatic induction
 Electrostatics
@@ -82,9 +64,7 @@ Elementary charge
 Emil Lenz
 Emil Wiechert
 Faraday's law of induction
-Flux
 Four-current
-Frame of reference
 Franz Ernst Neumann
 Félix Savart
 Gauss's law
@@ -95,23 +75,17 @@ Gradient
 Gustav Kirchhoff
 Gyrator–capacitor model
 Hans Christian Ørsted
-Hartree–Fock method
 Heinrich Hertz
 Hendrik Lorentz
 Hermann von Helmholtz
 Hippolyte Fizeau
 History of electromagnetic theory
-Homogeneity (physics)
 Humphry Davy
-Hydrogen bonding
 ISBN (identifier)
 Inductance
 Induction motor
-Infinitesimal
 Insulator (electricity)
-Integration by parts
 Ion
-Ionic potential
 J. J. Thomson
 James Clerk Maxwell
 James Prescott Joule
@@ -124,20 +98,14 @@ Joseph Larmor
 Joule heating
 Kirchhoff's circuit laws
 Larmor formula
-Length
-Length contraction
 Lenz's law
-Line element
-Line integral
 Linear motor
 List of electrical phenomena
-List of integration and measure theory topics
 List of textbooks in electromagnetism
 Liénard–Wiechert potential
 London equations
 Lord Kelvin
 Lorentz force
-Lorentz transformations
 Magnetic circuit
 Magnetic complex reluctance
 Magnetic field
@@ -150,69 +118,42 @@ Magnetism
 Magnetization
 Magnetomotive force
 Magnetostatics
-Mass density
 Mathematical descriptions of the electromagnetic field
-Maxwell's Equations
 Maxwell's equations
 Maxwell's equations in curved spacetime
 Maxwell stress tensor
-Meter
 Michael Faraday
-Minkowski diagram
 Molecule
-Nanofiltration
 Network analysis (electrical circuits)
 Nikola Tesla
-Number density
 Ohm's law
 Oleg D. Jefimenko
 Oliver Heaviside
 Optics
 PMID (identifier)
-Particle density (packed density)
 Permeability (electromagnetism)
 Permeance
 Permittivity
-Physical quantity
 Polarization density
-Position vector
 Poynting vector
-Probability density function
-Probability distribution
 Quantum mechanics
 Relativistic electromagnetism
 Resonator
 Right-hand rule
-Rita G. Lerner
 Rotor (electric)
 Scalar (mathematics)
 Series and parallel circuits
 Siméon Denis Poisson
-Space charge
-Special relativity
-Springer Science & Business Media
 Static electricity
 Stator
-Subatomic particle
-Surface area
-Surface charge
-Surface integral
 Synchrotron radiation
-Systeme International
 Transformer
 Triboelectric effect
-Uncertainty principle
-Unit normal
-Unit normal vector
 Vacuum tube
 Velocity
 Voltage
 Volume
-Volume element
-Volume integral
-W. W. Norton
 Watt
-Wavefunction
 Waveguide (radio frequency)
 Wavelength
 Wilhelm Eduard Weber

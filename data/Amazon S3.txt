@@ -6,10 +6,7 @@ AWS Elastic Beanstalk
 AWS Glue
 AWS Lambda
 AbeBooks
-Abiquo Enterprise Edition
-Access control list
 Alexa Internet
-Alibaba Cloud
 Amapedia
 Amazon's Best Books of the Year
 Amazon.com
@@ -95,114 +92,54 @@ American International Pictures
 Amie Street
 Andy Jassy
 Annapurna Labs
-Apache CloudStack
-AppScale
 Application programming interface
 Askville
 Audible (service)
-Backend as a service
 Bellevue 600
-BitTorrent (protocol)
-Bitcasa
 Blink Home
 Body Labs
 BookFinder.com
 Book Depository
-Box (company)
 Box Office Mojo
 Brian Valentine
 CDNow
 Christopher North (businessman)
-Citrix Cloud
-Cloud-based integration
-Cloud-native computing
-CloudBolt
-Cloud Foundry
 Cloud computing
-Cloud computing security
-Cloud database
-Cloud storage
-Cloud storage gateway
-Cocaine (PaaS)
 ComiXology
 Community Banana Stand
-Comparison of structured storage software
 Computer network
 Congress of Essential Workers
-Content as a service
 Criticism of Amazon
-Data as a service
-Data breach
 Data center
-Data corruption
-Data lake
 Data mining
 Day 1 (building)
-Deft (company)
-Desktop as a service
-Dew computing
 Diapers.com
-DigitalOcean
 Digital Photography Review
-Distributed file system for cloud
 Doi (identifier)
 Doppler (building)
 Double Helix Games
-Dropbox
-Durability (database systems)
 Dynamo (storage system)
-EMC Atmos
-Economies of scale
 Endless.com
-Engine Yard
 English language
-Eucalyptus (software)
-Eventual consistency
 FTC v. Amazon
-FUJITSU Cloud IaaS Trusted Public S5
-Filesystem in Userspace
 Fire HD
 Fire HDX
 Fire OS
 Fire Phone
-Force majeure
-Function as a service
 Goodreads
 Goodreads Choice Awards
 Google
-Google App Engine
-Google Cloud Platform
-Google Drive
-Google Workspace
 Graphiq
-GreenButton
-GreenQloud
-HPE Helion
-HP Cloud
-Hardware virtualization
-Heroku
-High availability
 History of Amazon
-Human error
-IBM Cloud
 IMDb
-IPv6
 ISBN (identifier)
-Iland
-Infrastructure as a service
-Inktank Storage
 Internet
 Jeff Bezos
-Jelastic
-Joyent
 Kindle Direct Publishing
 Kindle Store
 Kuiper Systems
 Lexcycle
-Libguestfs
 LibraryThing
-Libvirt
-Linode
 Linux
 Liquavista
 List of Amazon brands
@@ -211,118 +148,51 @@ List of Amazon products and services
 List of mergers and acquisitions by Amazon
 LivingSocial
 LoveFilm
-Low latency
-Lunacloud
 MGM+
 MGM Holdings
 MX Player
 MacKenzie Scott
 Metro-Goldwyn-Mayer
 Microsoft
-Microsoft 365
-Microsoft Azure
-MindSphere
-Mirantis
-Mobile cloud computing
 Mobipocket
-Native cloud application
-Natural disaster
 Neighbors (app)
 Netflix
-Netlify
-Network as a service
-Nextcloud
-Nimbula
-Nimbus (cloud computing)
-OVirt
 Obidos (software)
-Object storage
-OneDrive
-OpenIO
-OpenNebula
-OpenQRM
-OpenShift
-OpenStack
-Oracle Cloud
-OrionVM
 Orion Pictures
-OutSystems
-Owncloud
 POSIX
 Paul Davis (programmer)
 Perfect 10, Inc. v. Amazon.com, Inc.
-Personal cloud
 PillPack
 PlanetAll
-PlateSpin
-Platform as a service
-Predix (software)
 Prime Now
 Principal Place
-Proton Drive
-PythonAnywhere
-Rackspace Cloud
-Rackspace Technology
 Ram Shriram
 Reddit
 Reflexive Entertainment
-Representational State Transfer
 Rick Dalzell
-RightScale
 Ring (company)
-SAP Cloud Platform
-Safe Swiss Cloud
-Salesforce
 Scalability
-Scalr
-Seafile
-Security as a service
 Sellaband
-Serverless computing
-Service-level agreement
 Shelfari
 Shopbop
-SmugMug
-Software as a service
 Software development kit
 Songza
 Souq.com
-Splunk
 Sports on Amazon Prime Video
 Statistically improbable phrase
-Swiftype
-System of record
-Tahoe-LAFS
 TenMarks Education, Inc.
-Terabyte
-Timeline of Amazon Web Services
 Tom Szkutak
 Tony Hsieh
-Torrent file
 Treasure Truck
 Twitch (service)
 United Artists
-VCloud Air
-Vercel
-Versioning file system
-Virt-manager
-Virtual Private Cloud OnDemand
-Virtual appliance
-Virtual private cloud
-Wakame-vdc
-WaveMaker
 Wayback Machine
 Web API
-Web hosting service
-Web service
 Werner Vogels
 Whole Foods Market
 Withoutabox
 Wondery
 Woot
-Workday, Inc.
 YES Network
-Zadara
 Zappos
-Zoho Corporation
 Zoox (company)

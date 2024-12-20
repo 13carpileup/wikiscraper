@@ -1,137 +1,65 @@
 0 (number)
-10000000000000000 (number)
-1000000000000 (number)
-100000000 (number)
-10000 (number)
-1000 (number)
-100 (number)
-109 (department store)
-10 (number)
 1 (number)
-20 (number)
 2 (number)
-30 (number)
 3 (number)
-40 (number)
 4 (number)
-500 (number)
-50 (number)
 5 (number)
-60 (number)
 6 (number)
-70 (number)
 7 (number)
-800 (number)
-80 (number)
 8 (number)
-90 (number)
 9 (number)
 ARIB STD B24 character set
 Abjad numerals
-Aegean numerals
 Akita dialect
-Aksharapalli
-Alphabetic numeral system
-Alphasyllabic numeral system
 Amami Japanese
 Amami Ōshima language
 Ancient history
-Arabic numerals
-Armenian numerals
-Asymmetric numeral systems
 Ateji
 Attic numerals
 Awaji dialect
 Aztec script
-Babylonian cuneiform numerals
-Balanced ternary
-Balinese numerals
 Bamboo English
-Banknotes of the Japanese yen
 Banshū dialect
-Bengali numerals
-Bijective numeration
-Binary number
 Bingo dialect
 Bonin English
-Brahmi numerals
 Braille kanji
-Burmese numerals
-Cardinal number (linguistics)
 Cherokee syllabary
 Chikuzen dialect
 Chinese characters
-Chinese numerals
-Chuvash numerals
-Chūgoku dialect
-Cistercian numerals
 Classical Japanese
-Complex-base system
-Consonant voicing and devoicing
-Coptic numerals
-Counting rods
-Cun (unit)
-Cyrillic numerals
 Cyrillization of Japanese
-Daijirin
 Decimal
-Decimal mark
-Devanagari numerals
-Distributive number
 Duodecimal
-Dzongkha numerals
 Early Middle Japanese
 Early Modern Japanese
-Eastern Arabic numerals
 Eastern Old Japanese
-Egyptian numerals
 Enclosed CJK Letters and Months
 Enclosed Ideographic Supplement
 Engrish
-Etruscan numerals
 Extended Unix Code
 Extended shinjitai
-Factorial number system
-Finger counting
 Furigana
-Gairaigo
-Ganges
-Gemination
 Gender differences in Japanese
-Georgian numerals
-Getabako
 Geʽez script
-Glagolitic numerals
 Glossary of Japanese words of Dutch origin
 Glossary of Japanese words of Portuguese origin
 Go-on
 Gojūon
-Golden ratio base
-Greek numerals
-Gujarati numerals
 Gunma dialect
-Gurmukhi numerals
 Hachijō grammar
 Hachijō language
 Hakata dialect
 Halfwidth and fullwidth forms
-Hebrew numerals
 Hentaigana
 Hepburn romanization
-Hexadecimal
 Hichiku dialect
 Hida dialect
 Hindu–Arabic numeral system
 Hiragana
 Hiragana (Unicode block)
 Historical kana orthography
-History of ancient numeral systems
 Hokkaido dialects
-Hokkien numerals
-Hokuriku dialect
 Honorific speech in Japanese
-Hōnichi dialect
-ISO/IEC 2022
 Ibaraki dialect
 Inshū dialect
 Iyo dialect
@@ -144,7 +72,6 @@ JSL romanization
 Japanese-based creole languages
 Japanese Braille
 Japanese adjectives
-Japanese books
 Japanese counter word
 Japanese dialects
 Japanese dictionary
@@ -156,7 +83,6 @@ Japanese language
 Japanese literature
 Japanese loanwords in Hawaii
 Japanese particles
-Japanese people
 Japanese phonology
 Japanese pitch accent
 Japanese poetry
@@ -165,17 +91,11 @@ Japanese pronouns
 Japanese punctuation
 Japanese script reform
 Japanese sound symbolism
-Japanese units of measurement
-Japanese verb conjugation
-Japanese wordplay
 Japanese writing system
 Japonic languages
-Javanese numerals
-Jinkōki
 Jōdai Tokushu Kanazukai
 Kaga dialect
 Kagoshima dialect
-Kaktovik numerals
 Kan-on
 Kana
 Kana Extended-A
@@ -188,125 +108,69 @@ Kanbun
 Kanji
 Kannada script
 Kansai dialect
-Kantō dialect
 Katakana
 Katakana (Unicode block)
 Katakana Phonetic Extensions
-Katapayadi system
 Kesen dialect
-Kharosthi numerals
-Khmer numerals
 Kikai language
 Kishū dialect
 Kokuji
-Korean numerals
 Kumamoto dialect
-Kun'yomi
-Kun reading
 Kunigami language
 Kunrei-shiki romanization
 Kyowa-go
 Lao script
 Late Middle Japanese
-Lexeme
 List of Japanese speculative fiction writers
 List of Japanese writers
 List of classical Japanese texts
-List of kanji by stroke count
 List of kanji radicals by frequency
 List of kanji radicals by stroke count
-List of numeral systems
-Lists of ISO 639 codes
-Loanword
 Logogram
-Malayalam numerals
 Man'yōgana
-Maya numerals
 Mikawa dialect
 Mino dialect
-Mixed radix
 Miyakoan language
 Modern kana usage
-Mongolian numerals
 Muisca numerals
-Myriad
 Nagaoka dialect
 Nagasaki dialect
 Nagoya dialect
 Nairiku dialect
 Nanbu dialect
 Narada dialect
-Negative base
 Nihon-shiki romanization
-Non-integer base of numeration
-Non-standard positional numeral systems
 Northern Izu Archipelago dialects
 Northern Ryukyuan languages
 Numeral (linguistics)
-Numeral system
 Nyōbō kotoba
-Octal
-Odia numerals
-Oicho-Kabu
 Okinawan Japanese
 Okinawan language
-Okinoerabu language
 Okurigana
 Okuyoshino dialect
 Old Japanese
-On reading
-Onyomi
-Ordinal numeral
-Pentadic numerals
 Phoneme
-Phonetics
 Polivanov system
-Positional notation
 Post-classical history
-Prehistoric counting
-Proto-cuneiform
 Pseudo-Chinese
-Quater-imaginary base
-Quaternary numeral system
-Quinary
-Quipu
-Radix
 Rendaku
 Roman numerals
 Romanization of Japanese
-Rumi Numeral Symbols
 Ryakuji
 Ryukyuan languages
 Saga dialect
-Sanseidō
 Sanskrit
 Sanuki dialect
-Senary
-Sexagesimal
-Shibuya, Tokyo
 Shift JIS
 Shikoku dialect
 Shizuoka dialect
-Sign-value notation
-Signed-digit representation
-Sinhala numerals
 Sino-Japanese vocabulary
 Small Kana Extension
 Southern Amami Ōshima language
 Southern Ryukyuan languages
-Sundanese numerals
-Suzhou numerals
 Sōgana
-Tally marks
-Tamil numerals
-Tangut numerals
 Tarama language
-Tategaki
 Telugu script
-Ternary numeral system
-Tetraphobia
-Thai numerals
-Tibetan numerals
 Tochigi dialect
 Tokunoshima language
 Tokyo dialect
@@ -314,29 +178,20 @@ Topic marker
 Tosa dialect
 Transcription into Japanese
 Transcription of the Japanese language in Esperanto
-Triskaidekaphobia
 Tsugaru dialect
 Tsushima dialect
 Tō-on
 Tōhoku dialect
-Tōkai–Tōsan dialect
 Umpaku dialect
-Unary numeral system
-Vietnamese numerals
-Vigesimal
 Wasei-eigo
 Wasei-kango
 Wayback Machine
 Wāpuro rōmaji
 Yaeyama language
 Yakuwarigo
-Yakuza
-Yamato kotoba
 Yilan Creole Japanese
-Yokogaki
 Yokohama Pidgin Japanese
 Yonaguni language
 Yoron language
 Yotsugana
-Āryabhaṭa numeration
 Ōita dialect

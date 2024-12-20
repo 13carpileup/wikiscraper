@@ -1,7 +1,5 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
-ARM architecture
 Aerospace
 AlmaLinux
 Alpine Linux
@@ -23,22 +21,17 @@ BackBox
 BackTrack
 Bharat Operating System Solutions
 BioSLAX
-BitBake
 BlackArch
 Black Lab Linux
 BlankOn Linux
-Board support package
 Bodhi Linux
 Booting
-Booting process of Linux
 C++
 CHAOS (operating system)
 CRUX
 Calculate Linux
 Caldera OpenLinux
 CalyxOS
-Carrier Grade Linux
-Cavium Networks
 CentOS
 CentOS Stream
 Chakra (operating system)
@@ -46,46 +39,34 @@ Chimera Linux
 China
 ChromeOS
 ChromiumOS
-Cisco NX-OS
 ClearOS
 Clear Linux OS
 ColorOS
 Commodore OS
 Common Criteria
 Communication
-CompTIA Linux+
 Comparison of Linux distributions
-Comparison of netbook-oriented Linux distributions
-Concurrent Versions System
 Container Linux
 Corel Linux
 CrDroid
-Criticism of Linux
-Criticism of desktop Linux
 CrunchBang Linux
 Cub Linux
 CyanogenMod
 Damn Small Linux
 Damn Vulnerable Linux
 Debian
-Debugging
 Deepin
-Dell Latitude
 DemoLinux
 Devuan
-DistroWatch
 DivestOS
 DoudouLinux
 Dreamlinux
-EAL4+
 EMUI
-Eclipse (computing)
 Eclipse (software)
 Edubuntu
 Electronics
 Elementary OS
 Elive
-Embedded Linux
 Embedded system
 Emmabuntüs
 EndeavourOS
@@ -94,40 +75,26 @@ EulerOS
 Familiar Linux
 Feather Linux
 Fedora Linux
-File archiver
 Fire OS
 Firefox OS
 Floppyfw
 Foresight Linux
-Free Software Magazine
 FreedomBox
 Freespire
 Frugalware Linux
-Full Circle (magazine)
 GNU
-GNU/Linux naming controversy
 GNU Guix System
 GNewSense
 GOS (operating system)
 Garuda Linux
 GeckoLinux
 Gentoo Linux
-Git (software)
-Global Positioning System
 GoboLinux
 Gobuntu
 GrapheneOS
-Green Hills Software
-HTTP
-Hacker Public Radio
 HandyLinux
-Hard real-time
-Hardware Platform Interface
-History of Linux
-Hyperbola GNU/Linux-libre
 Immunix
 Integrated development environment
-Intelligent Platform Management Interface
 Internet
 IodéOS
 Japan
@@ -146,81 +113,36 @@ Kongoni (operating system)
 Korora (operating system)
 Kubuntu
 Kwort Linux
-LWN.net
 LXLE Linux
-Latitude ON
 Libranet
-Light-weight Linux distribution
 LinHES
 LineageOS
 Linpus Linux
-Linus's law
 Linux
-Linux-libre
-Linux.com
-LinuxChix
 LinuxTLE
-LinuxUser
 Linux Caixa Mágica
-Linux Counter
-Linux Documentation Project
-Linux Format
-Linux Foundation
-Linux Foundation Linux Certification
-Linux Gazette
-Linux Journal
 Linux Lite
-Linux Magazine
-Linux Mark Institute
 Linux Mint
-Linux Outlaws
 Linux Router Project
-Linux Voice
-Linux adoption
-Linux desktop environments
 Linux distribution
 Linux for PlayStation 2
-Linux for mobile devices
-Linux gaming
 Linux kernel
-Linux kernel oops
-Linux malware
-Linux on embedded systems
-Linux range of use
-Linux user group
-List of Linux adopters
 List of Linux distributions
-List of Linux distributions that run from RAM
-List of computer security certifications
-List of devices that run MontaVista Linux
 List of file systems
-List of software package management systems
 Lubuntu
-LugRadio
-LynuxWorks
 MCC Interim Linux
 MIUI
 MX Linux
 Mageia
-Make (software)
 Mandrake Linux
 Mandriva Linux
 Manjaro
-Market segments
-Medical devices
 MeeGo
-Memory footprint
-Memory leak
-Menlo Park, California
-Mentor Graphics
 Mer (software distribution)
 Microsoft Windows
 Miracle Linux
 Mobile phone
 Mobilinux
-Motorola
-Motorola A760
-Musix GNU+Linux
 NEC
 Network Security Toolkit
 NimbleX
@@ -230,7 +152,6 @@ Nobara Linux
 Nova (operating system)
 OmniROM
 One UI
-Open-source model
 OpenELEC
 OpenMandriva Lx
 OpenSUSE
@@ -238,19 +159,14 @@ Open Enterprise Server
 Oracle Linux
 PCLinuxOS
 POSIX
-POS terminal
-PSOS (real-time operating system)
-Package format
 Package manager
 Panasonic
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
 Patch (computing)
 Pentoo
 Peppermint OS
-Phoronix Test Suite
 Pinguy OS
 PixelExperience
 Platypux
@@ -259,27 +175,20 @@ Pop! OS
 Porteus (operating system)
 Power management
 Preemption (computing)
-Proxy server
 Puppy Linux
 PureOS
 Q4OS
 Qubes OS
 ROSA Linux
 Raspberry Pi OS
-Real-time operating system
-Red Hat Certification Program
 Red Hat Enterprise Linux
 Red Hat Linux
 Red Star OS
-Reliability, availability and serviceability (computing)
 Remix OS
 Replicant (operating system)
 Resurrection Remix OS
-Revolution OS
-Robert Love
 Rocks Cluster Distribution
 Rocky Linux
-SCO–Linux disputes
 SUSE Linux
 SUSE Linux Enterprise
 SUSE Studio
@@ -290,71 +199,48 @@ Salix OS
 San Jose, California
 Santa Clara, California
 Scientific Linux
-Security-focused operating system
-Service Availability Forum
 Slackware
 Slax
-Small office/home office
 Softlanding Linux System
 Software
-Software documentation
-Solaris (operating system)
 Solus (operating system)
 SolydXK
-Sony Bravia
 Source Mage
 SparkyLinux
 Splashtop OS
 SteamOS
-Subversion (software)
 Sunwah Linux
 Symbian
 SystemRescue
-System software
 T2 SDE
 Tails (operating system)
-Tanenbaum–Torvalds debate
-Technical support
-The Code (2001 film)
 Think Blue Linux
-TimeSys
 Tiny Core Linux
 Tizen
-Toolchain
 TopologiLinux
 Trisquel
 Turbolinux
 Turkix
-Tux (mascot)
 Ubuntu
 Ubuntu Budgie
 Ubuntu Cinnamon
 Ubuntu GNOME
 Ubuntu Kylin
 Ubuntu MATE
-Ubuntu Professional Certification
 Ubuntu Studio
 Ubuntu Touch
 Ubuntu Unity
-Ubuntu User
 Ultramarine Linux
 United States
 Unity Operating System
-Uruk GNU/Linux
-Userland (computing)
 VectorLinux
-Versatile Real-Time Executive
 Vine Linux
 Void Linux
-VxWorks
-Web mirror
 Whonix
-Wind River Systems
 Wubuntu
 X86
 XB Machine
 Xubuntu
 Yellow Dog Linux
-Yocto Project
 Zenwalk
 Zorin OS

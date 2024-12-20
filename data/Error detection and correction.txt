@@ -1,170 +1,33 @@
-ARQ-E
-ARQ-M
-Archive formats
-Automatic repeat request
-Backchannel
-Backward channel
-Berger code
-Binary Golay code
-Block (telecommunications)
-Block code
-Btrfs
-Burst error
-Burst error-correcting code
-CRC32
 Cambridge University Press
 Cellular network
-Channel capacity
-Channel model
-Channel noise
-Check digit
-Checksum
 Claude Shannon
-Code rate
 Coding theory
-Communication channel
 Compact disc
 Computer network
 Computer science
-Concatenated code
-Consultative Committee for Space Data Systems
-Convolutional code
-Copyist
 Cosmic ray
-Cross-interleaved Reed–Solomon coding
-Cryptographic hash function
 Cyclic redundancy check
-Damm algorithm
-Data frame
-Data integrity
 Data scrubbing
-David J.C. MacKay
-Dead Sea Scrolls
-Digital data
-Digital signature
-Dividend
-Divisor
 Doi (identifier)
-Dynamic random-access memory
-ECC memory
-Eliyahu Touger
-Erasure channel
-Error-correcting code
-Error correction code
-Ethernet frame
 Exception handling
 Fact-checking
 Fiber-optic communication
-File format
 Finite field
-Flash memory
-Forward error correction
-Fountain codes
-Gaussian function
-Go-Back-N ARQ
-Group coded recording
-Hamming's code
-Hamming code
-Hamming distance
-Hard disk
 Hard disk drives
-Hash function
 Hdl (identifier)
 Hebrew Bible
-High-definition television
-Hybrid ARQ
-Hybrid automatic repeat request
-IPv4
-IPv4 header checksum
-IPv6
 ISBN (identifier)
-Information rate
 Information theory
-Jupiter
-Kernel.org
-LDPC code
 Latency (engineering)
-Link adaptation
-Link layer
-Linux Magazine
 Linux kernel
-List of algorithms
-List of hash functions
 Longitudinal redundancy check
-Low-density parity-check code
 Luhn algorithm
-Magnetic tape data storage
-Marcel J. E. Golay
-Masoretes
-Masoretic Text
-Maximum likelihood decoding
-Memory scrubbing
-Memoryless
-Message authentication code
-Minimum distance coding
-Mishneh Torah
-Modular arithmetic
 Modulation
-Moznaim Publishing Corporation
-Multidimensional parity-check code
-Neptune
-Network congestion
-Network packet
-Network routing
-Network stack
-Noise (electronics)
-Numbers station
-Ones'-complement
 Operating system
-Optimal rectangular code
 Oxford University Press
-PCI bus
 PMID (identifier)
-Parity bit
-Parity file
-Physical layer
 Polynomial long division
-Polynomial time
-Preimage attack
-Prentice Hall
-Problem solving
-RAID
-Rateless erasure code
-Redundancy (information theory)
-Reed–Muller code
-Reed–Solomon code
-Reliable delivery
-Remainder
-Repetition code
-Return channel
-Richard Hamming
 S2CID (identifier)
-Saturn
-Selective Repeat ARQ
-Shannon's theorem
-Signal-to-noise ratio
-Single-event upset
 Soft error
-Stop-and-wait ARQ
-Systematic code
-TCP/IP
 Telecommunications
-The Oxford Companion to Archaeology
-Three-way handshake
-Timeout (computing)
-Transmission Control Protocol
-Transponder
-Transverse redundancy check
-Triple modular redundancy
-Tsinghua University
-Turbo code
-Uranus
-User Datagram Protocol
-Vera Pless
-Verhoeff algorithm
-Viterbi decoder
-Voyager 1
-Voyager 2
 Wayback Machine
-Wi-Fi
-ZFS

@@ -1,412 +1,85 @@
-.NET
-.NET Framework
-AIX
-ActionScript
-ActiveState
-ActiveState Komodo
-AdaCore
-Ada (programming language)
 Adobe Animate
 Adobe Flash
-Adobe Flash Builder
 Adobe Inc.
-Adobe Systems
-Allegro Common Lisp
-AmigaOS
 Android (operating system)
-Android (software)
-Android Studio
 Anjuta
-Anywhere Software
 Apache License
-Apache License 2.0
-Apache Subversion
-AppCode
-Appcelerator
-Aptana
 Archive.today
-Arduino IDE
-Assembler (computing)
 Assembly language
-Atego (company)
-Atom (text editor)
-Auto-complete
-Autocomplete
 BASIC
-BBEdit
 BSD
-BSD licenses
-Basic-256
-Basic4GL
-Basic4android
-Basic Stamp
-Benoît Minisini
-Binary code
-BlackBox Component Builder
-Bloodshed Software
-BlueJ
-Borland Kylix
-Borland Turbo C
-Brackets (text editor)
-Brendan Gregg
-Business Object Notation
 C++
-C++Builder
-C++ compiler
-CA-Realizer
-CLion
 COBOL
 CSS
 C (programming language)
 C Sharp (programming language)
-C compiler
-Cascading Style Sheets
-Chromium (web browser)
-Cincom
-Class browser
-Cloud9 IDE
-Cloud IDE
-Cocoa (API)
-Cocoa Touch
 CodeLite
-CodeWarrior
-Code completion
-Code coverage
-Code refactoring
-Codeanywhere
-Codelobster
 Common Language Infrastructure
-Common Language Runtime
-Common Lisp
-Common Public License
-Comparison of assemblers
 Compiler
-Component Pascal
-Concurrent Versions System
-Cross-platform
-Cygwin
 DOS
 D (programming language)
-D for Xcode
-Debugger
-Decoda
-Delphi (software)
-Dev-C++
-Dev-Pascal
-DevEco Studio
-Django (web framework)
-Dolphin Smalltalk
-DrJava
-DrRacket
-DragonFly BSD
-Dreamweaver
-EUPL
 Eclipse (software)
-Eclipse Che
-Eclipse Foundation
-Eclipse PDT
-Eclipse Public License
-EiffelStudio
 Eiffel (programming language)
-Emacs
-Embarcadero Delphi
-Embarcadero Technologies
 Embedded systems
-Eric (software)
-Erlang (programming language)
-Export to Mobile
-FASM
 F Sharp (programming language)
-Fantaisie Software
-Flash Builder
-Fortran
-FreeBASIC
 FreeBSD
-Free Pascal
 Freeware
-Freeware software
-Fresh (IDE)
-FutureBASIC
-GLBasic
 GNOME Builder
-GNU Affero General Public License
-GNU Assembler
-GNU Bazaar
 GNU Compiler Collection
 GNU General Public License
-GNU Lesser General Public License
 GPL
-GPL linking exception
-GTK
-GTK+
-GUI builder
-Gambas
 Game Boy Advance
-Game integrated development environment
 Geany
 GitHub
-Git (software)
 Go (programming language)
 Graphical user interface builder
-Greenfoot
-Groovy (programming language)
-Gtk Sharp
-Guido van Rossum
-HP-UX
 HTML
-Haiku (operating system)
 Haskell
-Haxe
-High Level Assembly
-HyperEdit
 IBM
 IBM AIX
-IBM Rational Business Developer
-IDLE
-IDLE (Python)
-INRIA
 IOS
 IOS (Apple)
-IRIX
 Integrated development environment
-IntelliJ IDEA
-IronPython
-JBuilder
-JDeveloper
-JGRASP
-JVM
 JavaScript
 Java (programming language)
-Java (software platform)
-Java ME
-Java Virtual Machine
-Java virtual machine
-JetBrains
-Julia (programming language)
-KDE
 KDevelop
-KDevelop Team
-Kakoune
-Kate (text editor)
-Komodo Edit
-Komodo IDE
 LCC (compiler)
-LGPL
-LLVM
-LabWindows/CVI
-Lazarus (software)
-LiClipse
-Liberty BASIC
-Light Table (software)
 Linux
-Linux Assembly
-LispWorks
-List of compilers
-Lua (programming language)
-MASM
-MIT License
-MXML
 MacOS
 Mac OS
-Mac OS 7
 Macro (computer science)
 Maemo
-Mercurial
 Microsoft
-Microsoft Pascal
-Microsoft Small Basic
-Microsoft Visual Studio
 Microsoft Visual Studio Express
 Microsoft Windows
-Mobile development
-Mono-D
-MonoDevelop
-Mono (software)
-Morfik
-MorphOS
-Mozilla
-Mozilla Public License
-Mule (software)
-MyEclipse
-NS Basic
 NetBSD
 NetBeans
-NetBeans-D
-Netwide Assembler
-Ninja-IDE
 Nintendo DS
-Nintendo Wii
-Novell
-OS/2
-OS/390 Assembly
-Object Pascal
 Objective-C
-Objective-C++
-Online integrated development environment
 Open-source software
-OpenBSD
-OpenIndiana
 OpenVMS
-OpenWatcom
-Open core
 Open source
-Oracle Corporation
-Oracle Developer Studio
-Oracle JDeveloper
-Oracle Solaris
-Oracle Solaris Studio
-Oxygene (programming language)
-PBASIC
 PHP
-PHPEclipse
-PHPEd
-PHPEdit
-POP-11
-Padre (software)
-Pair programming
 Palm OS
-Parallax Inc
-PascalABC.NET
 Pascal (programming language)
-Perforce
 Perl
-Perl license
-Permissive free software licences
-Phar Lap (company)
-Pharo
-PhpStorm
-Platform (computing)
-Poplog
-Powerflasher FDT
-Prettyprint
-Profiler (computer science)
-Profiling (computer programming)
 Programming language
 Proprietary software
 Public domain
-PureBasic
-PyCharm
-PyDev
-PyGTK
-PyQt
-PySide
-Pylint
-PythonAnywhere
 Python (programming language)
-Python Software Foundation License
-Python Tools for Visual Studio
-QB64
-QBasic
-QDevelop
-Qt5
-Qt6
-Qt (software)
-Qt Creator
-QuickBASIC
-QuickC
-RStudio
-R (programming language)
-R Tools for Visual Studio
-Racket (programming language)
-RapidQ
-Rational Application Developer
-Rational Software Architect
-Refactoring
-RemObjects Software
-Retail software
-Revision control
-Rider (software)
-RubyMine
 Ruby (programming language)
-Rust (programming language)
-SASM
-SLIME
 SPARC
-Scala (programming language)
-SdlBasic
-SharpDevelop
-Silverfrost FTN95
-Simply Fortran
-Sleepycat License
-SlickEdit
-Smalltalk
-Snippet (programming)
 Software developer
 Software license
 Software release life cycle
-Source-code editor
-SourceLair
 Source code
-Source code editors for Erlang
-Spacemacs
-Spyder (software)
-Squeak
-Standard Widget Toolkit
-Static code analysis
-Static program analysis
-Sublime Text
-Sun Java Studio Creator
 Sun Microsystems
-Sun Studio (software)
-Swing (Java)
-Sybase Open Watcom Public License
 Symbian
-Tcl
-Text editor
-Textadept
-Thonny
-Tkinter
-Toolchain
-Tru64 UNIX
-Turbo C++
-Turbo Pascal
-TypeScript
-Ultimate++
-Understand (software)
 Unified Modeling Language
-Unix
-Unix-like
-Unknown Worlds Entertainment
-User interface design
-VS Code
-Valgrind
-Version control
-Vi (text editor)
-Vim (text editor)
-Virtual Pascal
-VisualAge
-VisualD
-VisualWorks
 Visual Basic (classic)
-Visual Basic .NET
-Visual Café
-Visual J++
 Visual Studio
-Visual Studio Code
-VxWorks
-Watcom C/C++
 WebAssembly
-WebStorm
-Web framework
-Widget toolkit
 Windows
-Windows CE
-Windows Forms
-Windows Presentation Foundation
 Wine (software)
-Wing IDE
-Winsoft
 World Wide Web
-WxWidget
-WxWidgets
 XML
-XUL
-Xamarin
-Xamarin Studio
-Xcode
-Xelfi
-Xojo
-Xojo, Inc.
-Zend Studio
-Zend Technologies
-ZeroBrane Studio

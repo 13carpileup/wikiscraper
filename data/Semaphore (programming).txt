@@ -1,81 +1,30 @@
-ABA problem
-ALGOL 68
 API
-API-Calculus
-Abstract data type
-Abstract factory pattern
-Action–domain–responder
-Active object
-Active record pattern
-Adapter pattern
-Algebra of Communicating Processes
-Algebraic data type
-Ambient calculus
 Amdahl's law
 Analysis of parallel algorithms
-Anonymous pipe
-Anti-pattern
-Apache Thrift
-Apple event
 Application checkpointing
-Arbitrary-precision arithmetic
-Architectural pattern
 Array (data structure)
-Array data type
 Associative array
 Asymmetric multiprocessing
-Async/await
-Asynchronous method invocation
 Ateji PX
-Atomic operation
 Automatic parallelization
-Balking pattern
 Barrier (computer science)
-Behavioral pattern
 Beowulf cluster
-Bfloat16 floating-point format
-Binding properties pattern
-Bit
 Bit-level parallelism
 Bit array
-Blackboard design pattern
-Boolean data type
-Boost (C++ libraries)
 Bottom type
-Boxing (computer science)
-Bridge pattern
-Broker pattern
-Builder pattern
 Bulldozer (microarchitecture)
-Business delegate pattern
-Busy waiting
 Byte
-C++ AMP
 CUDA
 Cache-only memory architecture
 Cache coherence
 Cache invalidation
-Calculus of communicating systems
-Chain-of-responsibility pattern
 Chapel (programming language)
-Character (computing)
 Charm++
-Christopher Alexander
-Cigarette smokers problem
 Cilk
-Class (computer programming)
-Clerk
 Cloud computing
 Coarray Fortran
-Command pattern
 Common Object Request Broker Architecture
-Communicating sequential processes
 Communication protocol
-Complex data type
-Component Object Model
-Composite data type
-Composite entity pattern
-Composite pattern
 Computer cluster
 Computer file
 Computer hardware
@@ -84,177 +33,73 @@ Computer network
 Computer program
 Computer programming
 Computer science
-Computer scientist
 Concurrency (computer science)
-Concurrency control
-Concurrency pattern
 Concurrent computing
-Concurrent data structure
-Concurrent hash table
-Concurrent user
-Container (abstract data type)
 Cost efficiency
-Crash (computing)
-Creational pattern
 Critical section
-D-Bus
 Data
-Data Distribution Service
-Data access object
 Data parallelism
 Data structure
-Data transfer object
 Data type
 Dataflow architecture
 Dataflow programming
 Deadlock (computer science)
-Decimal data type
-Decorator pattern
-Delegation pattern
-Dependency injection
 Dependent type
-Design Patterns
 Deterministic algorithm
-Dining philosophers problem
-Distributed Computing Environment
 Distributed computing
 Distributed memory
 Distributed shared memory
-Double-checked locking
-Double-precision floating-point format
-Douglas C. Schmidt
 Dryad (programming)
 Dutch language
-Dutch people
-Edsger Dijkstra
 Edsger W. Dijkstra
-Electrologica X8
 Embarrassingly parallel
-Empty type
-Enterprise Integration Patterns
-Entity component system
-Enumerated type
-Erich Gamma
 Exception handling
 Explicit parallelism
-Extended precision
-FIFO (computing and electronics)
-Facade pattern
-Factory method pattern
 Fiber (computer science)
-Fixed-point arithmetic
-Flag (programming)
-Floating-point arithmetic
 Flynn's taxonomy
-Flyweight pattern
-Front controller
-Function type
 GPUOpen
 General-purpose computing on graphics processing units
 Generalized algebraic data type
-Generic programming
 Global Arrays
-Grady Booch
 Grid computing
-Guarded suspension
 Gustafson's law
 HPX
 Half-precision floating-point format
-Hang (computing)
 Hardware acceleration
 Hardware scout
 High-performance computing
 ISBN (identifier)
-Identity map pattern
 Implicit parallelism
-Indeterminacy in concurrent computation
-Inductive type
 Instruction-level parallelism
 Instruction pipelining
 Instruction window
-Integer (computer science)
 Inter-process communication
-Intercepting filter pattern
-Interceptor pattern
 Interface (object-oriented programming)
-Internet Communications Engine
-Interpreter pattern
-Interrupt
-Intersection type
-Interval arithmetic
 Intuitionistic type theory
-Inversion of control
-Iterator pattern
-JSP model 2 architecture
 Java (programming language)
-Jim Coplien
-John Vlissides
-Join-calculus
-Join-pattern
 Karp–Flatt metric
-Kent Beck
-Kind (type theory)
-LINX (IPC)
-Language Of Temporal Ordering Specification
-Lazy loading
-Libevent
 Library
 Library (computing)
-Linda Rising
-Linearizability
 Linux kernel
-List (abstract data type)
 Lock (computer science)
-Long double
 Loop-level parallelism
 Manycore processor
-Martin Fowler (software engineer)
 Massively parallel
-Mediator pattern
-Memento pattern
 Memory-level parallelism
-Memory address
 Memory coherence
 Message Passing Interface
-Message passing
-Message queue
 Metaclass
-Metaobject
-Method chaining
-Minifloat
-Mmap
-Mock object
-Model–view–controller
-Model–view–presenter
-Model–view–viewmodel
-Monitor (synchronization)
 Multiple instruction, multiple data
 Multiple instruction, single data
 Multiprocessing
 Multithreading (computer architecture)
-Multitier architecture
-Mutex
-Mutual exclusion
-Naked objects
-Named pipe
-Network socket
 Non-blocking algorithm
 Non-uniform memory access
-Null-terminated string
-Null object pattern
-Object (computer science)
-Object pool pattern
-Observer pattern
-Octuple-precision floating-point format
-Opaque data type
 OpenACC
-OpenBinder
 OpenCL
 OpenHMPP
 OpenMP
 Operating system
-Option type
-PEPA
 POSIX
 Parallel Extensions
 Parallel RAM
@@ -263,131 +108,45 @@ Parallel computing
 Parallel external memory
 Parallel programming model
 Parallel slowdown
-Parametric polymorphism
-Physical address
-Pipeline (Unix)
 Pipeline (computing)
-Plain text
-Plan 9 from Bell Labs
-Pointer (computer programming)
-Pool (computer science)
-Portland Pattern Repository
 Preemption (computing)
 Primitive data type
-Priority inversion
-Proactor pattern
 Process (computing)
-Process calculus
-Producer–consumer problem
-Product type
-Prototype pattern
-Proxy pattern
 Pthreads
-Publish–subscribe pattern
-Quadruple-precision floating-point format
-Queue (data structure)
-REST
 ROCm
 Race condition
 RaftLib
-Ralph Johnson (computer scientist)
 Rational data type
-Reactor pattern
-Read-modify-write
-Readers–writer lock
-Readers–writers problem
-Real-time operating system
-Receptionist
 Record (computer science)
-Recursive data type
-Reentrant mutex
 Reference (computer science)
-Refinement type
-Resource starvation
-Robert C. Martin
-SIMPL
-SOAP
 Scalability
-Scheduled-task pattern
-Scheduler pattern
 Semiconductor memory
-Servant (design pattern)
-Service locator pattern
-Set (abstract data type)
 Shared memory
-Signal (IPC)
-Signedness
 Simultaneous and heterogeneous multithreading
 Simultaneous multithreading
-Single-precision floating-point format
 Single instruction, multiple data
 Single instruction, multiple threads
 Single instruction, single data
-Singleton pattern
-Sleep (system call)
-Sleeping barber problem
-Software design pattern
 Software framework
 Software lockout
-Specification pattern
 Speculative multithreading
 Speedup
-Spurious wakeup
 Starvation (computer science)
-State pattern
-Strategy pattern
-Stream (computing)
 Stream processing
 String (computer science)
-Strongly typed identifier
-Structural pattern
-Subtyping
-Sun RPC
 Superscalar processor
 Symmetric multiprocessing
 Synchronization (computer science)
 Systolic array
-THE multiprogramming system
-Tagged union
-Task (computing)
 Task parallelism
-Technical standard
-Template method pattern
 Temporal multithreading
-Ternary numeral system
-Test-and-set
-The Hillside Group
-Thread-local storage
 Thread (computing)
-Thread pool
 Threading Building Blocks
-Top type
-Transparent Inter-process Communication
-Twin pattern
-Type Tunnel pattern
-Type class
 Type constructor
-Type conversion
-Type system
 Type theory
 Unified Parallel C
 Uniform memory access
-Union type
-Uniprocessor
-Unit type
-Units of information
-University of Texas at Austin
-Unix
-Unix domain socket
 Variable (computer science)
-Variable (programming)
 Vector processor
-Virtual address space
-Visitor pattern
-Void type
-Ward Cunningham
 Wayback Machine
 Word (computer architecture)
-XML-RPC
-ZPL (programming language)
-Π-calculus

@@ -1,361 +1,78 @@
-/boot/
-32-bit computing
-60 Minutes
-80286
-80386
-8086
-8088
-A20 gate
-ACPI
-AMD
-AMD Platform Security Processor
-AMIBIOS
-AMI Aptio
 API
-ARCS (computing)
-ARC (specification)
-ARM architecture family
-ASRock
-Acer Inc.
-Acronis OS Selector
-Addison Wesley Publishing Company, Inc.
-Advanced Configuration and Power Interface
 Advanced Micro Devices
-Advanced Power Management
-All points addressable
-American Megatrends
-Anibal Sacco
-Antivirus software
-Apple-Intel architecture
 Apple Inc.
-Apple Partition Map
-Apple–Intel architecture
-Architecture of Windows 9x
-Asus
-AwardBIOS
-Award Software
-BIOS boot partition
-BIOS interrupt call
-BIOS interrupt calls
-Barebox
-Big-endian
 Blog
-BootManager
-BootX (Apple)
-BootX (Linux)
-Boot ROM
-Boot loader
 Boot sector
 Booting
-Booting process of Android devices
-Booting process of Linux
-Booting process of Windows
-Booting process of Windows NT
-Bootloader unlocking
-Bootloaders
-Brick (electronics)
-Bus Pirate
-C't
-C't – magazin für computertechnik
 CD
-CIH (computer virus)
-CMOS
-CP/M
-CP/M BIOS
 C (programming language)
 Central processing unit
-Checksum
-Chipset
-Clock rate
-Cold boot
-Common Firmware Environment
-Common Hardware Reference Platform
 Compaq
-Compaq Portable
-Comparison of bootloaders
 Computer History Museum
-Computer case
-Computer fan control
 Computer hardware
 Computer keyboard
-Computer mouse
 Computer program
 Computing
-Coreboot
-Custom firmware
-DIP switch
 DOS
-DR-DOS
 DVD
-Das U-Boot
 De facto
-De facto standard
-Delete key
 Dell
 Demoscene
-Desktop Management Interface
-Devicetree
 Display device
 Doi (identifier)
-Double boot
-Dr. Dobb's Journal
-DragonFly BSD
-E820
-EEPROM
-EFI system partition
-EPROM
-El Torito (CD-ROM standard)
-Elitegroup Computer Systems
-Entry point
-Envsys
-Execute in place
-Expansion card
-Exploiting Stuff
-Extended Industry Standard Architecture
-Extended System Configuration Data
-FTDI
-Fastboot
-Firmware
-Flash memory
-Flashrom (utility)
 Floppy disk
-Forth (programming language)
 FreeBSD
-Function key
-Fwupd
-GNU GRUB
-GNU Lesser General Public License
-GPXE
-GUID Partition Table
-Gary Kildall
-General Software
-Gigabyte Technology
 Google
 Graphical user interface
-Hard disk
 Hard disk drive
-Hardware Abstraction Layer
-Hardware monitoring
-Hash function
 Hdl (identifier)
-Heinz Heise
-Hewlett-Packard
-Host bus adapter
-Hw.sensors
 IBM
-IBMBIO.COM
-IBM BASIC
-IBM Corporation
 IBM PC
-IBM PCjr
-IBM PC–compatible
 IBM Personal Computer
-IBM Personal Computer/AT
 IBM Personal Computer XT
-IBoot
-IC extractor
-IMSAI
-INT (x86 instruction)
-INT 13H
-IO.SYS
-IPXE
 ISBN (identifier)
 ISSN (identifier)
-Industry Standard Architecture
-Input/Output Control System
-Input/output
-Instant-on
 Institute of Electrical and Electronics Engineers
-Insyde Software
-Integrated peripheral
 Intel
-Intel Boot Guard
-Intel Itanium architecture
 Intel Management Engine
-Intel x86
 Interface (computing)
-Interface Specification
-Interrupt
-Interrupt vector
-Interrupt vector table
 I²C
-Joe Killian
-K7 (microarchitecture)
 Kernel (operating system)
-Keyboard controller (computing)
-Kickstart (Amiga)
 Kilobyte
-LHA (file format)
-Lawrence Livermore Laboratories
-Legacy Plug and Play
-Lenovo
 Library (computing)
-Libreboot
 Linux
-LinuxBoot
 Linux distribution
 Linux kernel
-Little-endian
-Loadlin
-Long mode
-Low Pin Count
-MILO (bootloader)
 MS-DOS
 MacOS
-Main processor
-Mass storage
-Master boot record
-Master of Mathematics
-Memory Reference Code
-Memory timings
-Michael Swaine (technical author)
-Micro-Star International
-Microcode
 Microcontroller
 Microsoft
-Microsoft Learn
 Microsoft Windows
-Motherboard
-MultiProcessor Specification
-NOR flash
-NOR flash memory
-NTLDR
-National Security Agency
 NetBSD
-NetBoot
-Network adapter
-Network booting
-Network interface card
-Nonvolatile BIOS memory
-OLPC XO-1
-OS/2
-Odin (firmware flashing software)
-Open-source firmware
-OpenBIOS
-OpenBSD
-Open Firmware
-Open hardware
-OpeniBoot
 Operating system
-Operating systems
-Opteron
-Optical disc drive
-Option ROM
-Origin PC
 Original equipment manufacturer
-Overclocking
-P6 (microarchitecture)
-PCX
 PC DOS
-PL/M
-Pentium FDIV bug
-Phoenix Technologies
-Phrack
-Plastic-leaded chip carrier
-Plastic leaded chip carrier
-Platform Controller Hub
-Plop Boot Manager
-Plug and Play BIOS
-Pointer (computer programming)
-Power-on self-test
-PowerPC
-Power supply unit (computer)
-Preboot Execution Environment
-Processor register
-Product recall
-Programmable ROM
-Proprietary firmware
 Proprietary software
-Protected mode
-Protection ring
-Qualcomm EDL mode
-RAID
-REFInd
-REFIt
 ROM hacking
-ROM image
-RS/6000
-Ralf Brown's Interrupt List
-Random-access memory
 Raspberry Pi
 Read-only memory
-Real mode
-Reboot
-Recovery disc
-RedBoot
-Remote Initial Program Load
 Removable media
-Reverse engineer
-Rootkit
-Run-Time Abstraction Services
-SCSI
-SCSI controller
-SMBIOS
 SPARC
-SRM firmware
-SYSLINUX
-Safe mode
-Samsung
-SeaBIOS
-Serial Peripheral Interface
-Serial presence detect
-Simple Firmware Interface
-Smart Computing
 Software
 Software bug
-Special interest group
 Splashtop OS
-Static RAM
-Super I/O
-System Locked Preinstallation
-System Management BIOS
-System Management Bus
-System Management Mode
 System call
-System partition and boot partition
-System time
-Systemd-boot
-Tandy 1000
-Text mode
-Text user interface
 The Atlantic
 The Guardian
-The Register
-Thomas Fischer (IMSAI)
-Threat Response
-TianoCore EDK II
-Toshiba
 Trojan horse (computing)
-Tyan
-UEFI
-UEFITool
 USB
 Ultraviolet
-Unified EFI Forum
-Unified Extensible Firmware Interface
 University of Waterloo
-Unix-like
-Upper memory area
-VBE
-VESA BIOS Extensions
-Verlag Heinz Heise GmbH & Co KG
-Video BIOS
-Video card
-Wake-on-LAN
-Wake-on-ring
 Wayback Machine
 Windows 10
 Windows 11
-Windows 2000
-Windows 9x
-Windows Boot Manager
 Windows NT
-Windows XP
-Wintel
 Wired (magazine)
 X86
-XOSL
-Yaboot
-Year 2000 problem
 ZDNET
 ZOTAC

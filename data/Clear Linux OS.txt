@@ -1,4 +1,3 @@
-/e/ (operating system)
 4MLinux
 AI
 ALT Linux
@@ -21,7 +20,6 @@ Austrumi Linux
 BLAG Linux and GNU
 BackBox
 BackTrack
-Bare Metal Container
 Bharat Operating System Solutions
 BioSLAX
 BlackArch
@@ -29,12 +27,10 @@ Black Lab Linux
 BlankOn Linux
 Bodhi Linux
 CHAOS (operating system)
-CLMUL
 CRUX
 Calculate Linux
 Caldera OpenLinux
 CalyxOS
-Carry-less multiplication
 CentOS
 CentOS Stream
 Chakra (operating system)
@@ -46,7 +42,6 @@ Cloud computing
 ColorOS
 Commodore OS
 Comparison of Linux distributions
-Container (virtualization)
 Container Linux
 Corel Linux
 CrDroid
@@ -57,11 +52,8 @@ Damn Small Linux
 Damn Vulnerable Linux
 Debian
 Deepin
-Delta update
 DemoLinux
-DevOps
 Devuan
-DistroWatch
 DivestOS
 Doi (identifier)
 DoudouLinux
@@ -77,18 +69,14 @@ EulerOS
 ExtremeTech
 Familiar Linux
 Feather Linux
-Fedora CoreOS
 Fedora Linux
 Fire OS
 Firefox OS
-Flatpak
 Floppyfw
 Foresight Linux
 FreedomBox
 Freespire
 Frugalware Linux
-GNOME
-GNOME Display Manager
 GNU Guix System
 GNewSense
 GOS (operating system)
@@ -99,16 +87,11 @@ GoboLinux
 Gobuntu
 GrapheneOS
 HandyLinux
-Heise online
-Hyperbola GNU/Linux-libre
 ISBN (identifier)
 Immunix
-InfoWorld
 Intel
-Intel Core
 IodéOS
 Jurix
-KDE Plasma 5
 KDE neon
 KaOS
 KaiOS
@@ -122,7 +105,6 @@ Kongoni (operating system)
 Korora (operating system)
 Kubuntu
 Kwort Linux
-LWN.net
 LXLE Linux
 Libranet
 LinHES
@@ -148,11 +130,9 @@ Mandriva Linux
 Manjaro
 MeeGo
 Mer (software distribution)
-Microsoft Azure
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Musix GNU+Linux
 Natural language
 Network Security Toolkit
 NimbleX
@@ -162,23 +142,19 @@ Nobara Linux
 Nova (operating system)
 OmniROM
 One UI
-Open-source
 Open-source software
 OpenELEC
 OpenMandriva Lx
 OpenSUSE
-OpenStack
 Open Enterprise Server
 Oracle Linux
 PCLinuxOS
 Package manager
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
 Pentoo
 Peppermint OS
-Photon OS
 Pinguy OS
 PixelExperience
 Platypux
@@ -190,20 +166,16 @@ PureOS
 Q4OS
 Qubes OS
 ROSA Linux
-RancherOS
 Raspberry Pi OS
 Red Hat Enterprise Linux
 Red Hat Linux
 Red Star OS
 Remix OS
 Replicant (operating system)
-ResinOS
 Resurrection Remix OS
 Rocks Cluster Distribution
 Rocky Linux
-Rolling release
 S2CID (identifier)
-SSE4
 SUSE Linux
 SUSE Linux Enterprise
 SUSE Studio
@@ -211,18 +183,12 @@ Sabayon Linux
 Sabily
 Sailfish OS
 Salix OS
-Sandy Bridge
 Scientific Linux
-Silvermont
 Slackware
 Slax
-SmartOS
-Snappy Ubuntu Core
 Softlanding Linux System
-Softpedia
 Software license
 Solus (operating system)
-Solution stack
 SolydXK
 Source Mage
 SparkyLinux
@@ -240,7 +206,6 @@ Trademark
 Trisquel
 Turbolinux
 Turkix
-UEFI
 Ubuntu
 Ubuntu Budgie
 Ubuntu Cinnamon
@@ -252,19 +217,13 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 User interface
-VMware
 VectorLinux
 Vine Linux
 Void Linux
 Whonix
 Wubuntu
-X86-64
 XB Machine
-Xeon E3
-Xfce
 Xubuntu
 Yellow Dog Linux
 Zenwalk

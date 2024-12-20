@@ -9,19 +9,16 @@ ALGOL 60
 ANSI C
 ANSI escape code
 ASMO 449
-Access control
 Accuracy and precision
 Ada Semantic Interface Specification
 Advanced Video Coding
 Antimagnetic watch
 ArmSCII
 Authentication
-Authorization
 Battery nomenclature
 British Standard Pipe
 Business Process Model and Notation
 C++
-CAN bus
 CHILL
 COBOL
 COLLADA
@@ -35,7 +32,6 @@ Compact Disc Digital Audio
 Comparative Tracking Index
 Computer Graphics Metafile
 DICOM
-DOD 5220.22-M
 Data erasure
 Data remanence
 Delivery Multimedia Integration Framework
@@ -53,14 +49,12 @@ Essential Video Coding
 FDI World Dental Federation notation
 FTAM
 Fiber Distributed Data Interface
-Fibre Channel
 Fieldbus
 File Allocation Table
 Film speed
 Flowchart
 Fuel oil
 Full BASIC
-Fuse (automotive)
 Geography Markup Language
 Geospatial metadata
 Graph Query Language
@@ -89,7 +83,6 @@ IEC 60870-5
 IEC 60870-6
 IEC 60906-1
 IEC 60929
-IEC 60980-344
 IEC 61030
 IEC 61131
 IEC 61131-3
@@ -112,7 +105,6 @@ IEC 62196
 IEC 62264
 IEC 62304
 IEC 62325
-IEC 62351
 IEC 62366
 IEC 62379
 IEC 62455
@@ -123,7 +115,6 @@ IEC 63119
 IEC 63382
 IEC 81346
 IEEE 754
-INCITS
 IO-Link
 IP-XACT
 IS-IS
@@ -131,79 +122,6 @@ ISBN
 ISLISP
 ISO-8859-8-I
 ISO-TimeML
-ISO/IEC 10021
-ISO/IEC 10116
-ISO/IEC 10967
-ISO/IEC 11179
-ISO/IEC 11404
-ISO/IEC 11801
-ISO/IEC 12207
-ISO/IEC 14443
-ISO/IEC 14651
-ISO/IEC 15288
-ISO/IEC 15504
-ISO/IEC 15693
-ISO/IEC 15897
-ISO/IEC 17024
-ISO/IEC 17025
-ISO/IEC 18014
-ISO/IEC 19752
-ISO/IEC 19770
-ISO/IEC 19788
-ISO/IEC 19794-5
-ISO/IEC 20000
-ISO/IEC 2022
-ISO/IEC 21827
-ISO/IEC 24727
-ISO/IEC 24744
-ISO/IEC 27000
-ISO/IEC 27000-series
-ISO/IEC 27001
-ISO/IEC 27002
-ISO/IEC 27005
-ISO/IEC 27006
-ISO/IEC 29119
-ISO/IEC 33001
-ISO/IEC 38500
-ISO/IEC 42010
-ISO/IEC 4909
-ISO/IEC 5218
-ISO/IEC 646
-ISO/IEC 6523
-ISO/IEC 7064
-ISO/IEC 7810
-ISO/IEC 7811
-ISO/IEC 7812
-ISO/IEC 7813
-ISO/IEC 7816
-ISO/IEC 80000
-ISO/IEC 8652
-ISO/IEC 8859
-ISO/IEC 8859-1
-ISO/IEC 8859-10
-ISO/IEC 8859-11
-ISO/IEC 8859-12
-ISO/IEC 8859-13
-ISO/IEC 8859-14
-ISO/IEC 8859-15
-ISO/IEC 8859-16
-ISO/IEC 8859-2
-ISO/IEC 8859-3
-ISO/IEC 8859-4
-ISO/IEC 8859-5
-ISO/IEC 8859-6
-ISO/IEC 8859-7
-ISO/IEC 8859-8
-ISO/IEC 8859-9
-ISO/IEC 9126
-ISO/IEC 9529
-ISO/IEC 9797-1
-ISO/IEC 9995
-ISO/IEC JTC 1
-ISO/IEC JTC 1/SC 27
-ISO/IEC TR 12182
-ISO/IEEE 11073
-ISO/TR 11941
 ISO 1
 ISO 1000
 ISO 10006
@@ -223,7 +141,6 @@ ISO 11784 and ISO 11785
 ISO 11940
 ISO 11940-2
 ISO 11992
-ISO 12006
 ISO 128
 ISO 13399
 ISO 13406-2
@@ -231,7 +148,6 @@ ISO 13485
 ISO 13490
 ISO 13567
 ISO 13584
-ISO 14000
 ISO 14031
 ISO 14224
 ISO 14617
@@ -252,8 +168,6 @@ ISO 17100
 ISO 1745
 ISO 18245
 ISO 19011
-ISO 19092-1
-ISO 19092-2
 ISO 19114
 ISO 19439
 ISO 19600
@@ -264,7 +178,6 @@ ISO 2014
 ISO 2015
 ISO 2033
 ISO 20400
-ISO 2047
 ISO 21001
 ISO 2145
 ISO 2146
@@ -293,15 +206,12 @@ ISO 31-0
 ISO 31-1
 ISO 31-10
 ISO 31-11
-ISO 31-12
-ISO 31-13
 ISO 31-3
 ISO 31-4
 ISO 31-5
 ISO 31-6
 ISO 31-7
 ISO 31-8
-ISO 31-9
 ISO 31000
 ISO 3103
 ISO 3166
@@ -345,7 +255,6 @@ ISO 6943
 ISO 7001
 ISO 7002
 ISO 7010
-ISO 7027
 ISO 704
 ISO 7200
 ISO 732
@@ -353,7 +262,6 @@ ISO 7637
 ISO 7736
 ISO 8000
 ISO 8178
-ISO 8373
 ISO 843
 ISO 8501-1
 ISO 8583
@@ -362,7 +270,6 @@ ISO 8601
 ISO 8691
 ISO 898
 ISO 9
-ISO 9000
 ISO 9241
 ISO 9362
 ISO 9564
@@ -384,7 +291,6 @@ International Standard Music Number
 International Standard Musical Work Code
 International Standard Name Identifier
 International Standard Recording Code
-International Standard Serial Number
 International Standard Text Code
 Isofix
 JBIG
@@ -394,11 +300,9 @@ JPEG XR
 JPEG XS
 JPIP
 Kappa number
-Key Management Interoperability Protocol
 Knowledge Discovery Metamodel
 Kunrei-shiki romanization
 LCEVC
-Language Of Temporal Ordering Specification
 Legal Entity Identifier
 Lexical Markup Framework
 Linguistic categories
@@ -425,18 +329,15 @@ Magnetic ink character recognition
 Manufacturing Message Specification
 Market Identifier Code
 MaxiCode
-Media sanitization
 Meta-Object Facility
 MicroPDF417
 Minimal BASIC
 Mixed raster content
 Motion JPEG 2000
 Multibus
-NPIV
 O-ring
 OCR-A
 OCR-B
-OSI model
 Object Constraint Language
 Office Open XML
 On-board diagnostics
@@ -445,11 +346,6 @@ Open Data Protocol
 Open Document Architecture
 Open Virtualization Format
 PDF
-PDF/A
-PDF/E
-PDF/UA
-PDF/VT
-PDF/X
 PDF417
 PHIGS
 POSIX
@@ -475,20 +371,13 @@ SDMX
 SQL
 STEP-NC
 Salt spray test
-Self-encrypting drive
 Shock-resistant watch
 Shoe size
 Simple Features
 Software maintenance
 Standard Generalized Markup Language
-Storage Networking Industry Association
-T10 subcommittee
-T11 subcommittee
-T13 subcommittee
-TIFF/EP
 Topic map
 Torx
-Trusted Computing Group
 Trusted Platform Module
 USB
 Unified Modeling Language

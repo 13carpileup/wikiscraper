@@ -1,429 +1,83 @@
 AC power plugs and sockets
-Accumulator (energy)
-Acorn tube
-Airfoil
 Alternating current
-Aluminium interconnect
 Aluminum
-Ampere
-Analog circuit
 Angular frequency
-Antenna tuner
-Antifuse
-Application-specific integrated circuit
-Archimedes' screw
-Asynchronous circuit
-Atomic clock
-Audio and video interfaces and connectors
 Audio frequency
-Audio signal
-Audion
 Automobile
-Avalanche diode
-Backward-wave oscillator
-Ballast (electrical)
 Bandpass filter
-Bandwidth (signal processing)
-Basket winding
-Beam deflection tube
-Beam tetrode
-Bellini–Tosi direction finder
-Bessel functions of the first kind
-BiCMOS
-Bio-FET
-Bipolar junction transistor
 Boolean algebra
-Boolean circuit
-Boost converter
-Buck converter
-Buck–boost converter
-CMOS
 Capacitance
-Capacitive reactance
 Capacitor
-Capacitor types
-Carbonyl iron
 Cathode-ray tube
-Cavity magnetron
-Ceramic resonator
-Cgs
-Charactron
-Charge pump
 Check weigher
-Chemical field-effect transistor
-Choke (electronics)
-Circuit element
-Circuit minimization for Boolean functions
-Clock
-Coercivity
-Cold cathode
-Combinational logic
-Compactron
-Complex programmable logic device
 Computer architecture
 Computer hardware
-Constant-current diode
-Constitutive relation
 Copper
-Copper wire and cable
-Core loss
-Corner frequency
-Crossatron
-Crossed-field amplifier
-Crystal oscillator
-DIAC
-Darlington transistor
-Decoupling (electronics)
-Dekatron
-Depletion-load NMOS logic
-Dielectric losses
 Differential equation
-Diffused junction transistor
 Digital audio
-Digital cinematography
-Digital electronics
-Digital photography
-Digital potentiometer
-Digital radio
-Digital signal
-Digital signal (signal processing)
-Digital signal processing
 Digital television
-Digital video
-Diode
 Direct current
 Doi (identifier)
-Duality (electrical circuits)
-EFUSE
 Eddy current
 Electric current
 Electric field
-Electric utility
-Electrical circuit
 Electrical conductor
-Electrical reactance
 Electrical resistance
-Electrical resonance
-Electrical steel
-Electrical transmission
-Electrolytic detector
-Electromagnet
-Electromagnetic coil
 Electromagnetic induction
 Electromagnetic interference
 Electromagnetic radiation
 Electromotive force
-Electronic circuit
 Electronic component
-Electronic filter
-Electronic literature
-Electronic oscillator
-Electronic symbol
 Electronics
-Electronics design
-Emitter-coupled logic
 Energy
-Erasable programmable logic device
-Exponential decay
-External combustion engine
 Faraday's law of induction
-Fault current
-Ferrimagnetic
-Ferrimagnetism
-Ferrite (magnet)
-Ferrite bead
-Ferrite core
-Ferromagnetic
-Field-effect transistor
 Field-programmable gate array
-Field-programmable object array
-Field Lines
-FinFET
 Finite-state machine
-Flap (aircraft)
-Fleming valve
-Flip-flop (electronics)
-Floating-gate MOSFET
-Formal equivalence checking
-Frederick Terman
 Frequency
-Fuse (electrical)
-Galvanic isolation
-Gas-filled tube
-Gas compressor
-Gas turbine
-Gate equivalent
-Generic Array Logic
-Gunn diode
-Gyrator
-Gyrotron
-Hanna curve
-Hantaro Nagaoka
 Hardware acceleration
-Hardware description language
-Heinrich Daniel Ruhmkorff
-Helix
-Henry (unit)
-Heterostructure barrier varactor
-Hierarchical state machine
-High-level synthesis
 High frequency
-Hot-wire barretter
-Hybrid integrated circuit
-Hydraulic ram
-Hysteresis
-Hysteresis loop
 ISBN (identifier)
-ISFET
-Iconoscope
-Ignitron
-Inclined plane
 Inductance
-Induction coil
-Induction cooking
-Induction loop
-Inductive output tube
-Injector
-Insulated-gate bipolar transistor
 Integrated circuit
-Interconnects (integrated circuits)
-Intermodulation distortion
-Internal combustion engine
 International System of Units
-JFET
-Jet engine
 Joseph Henry
-Klystron
-Krytron
-LC circuit
-LDMOS
-Laminate
-Laminated core
 Lamination
-Laplace transform
-Laser diode
-Leakage flux
-Lenz's Law
 Lenz's law
-Lever
-Light-emitting diode
-Light-emitting transistor
-Light emitting capacitor
-Linear circuit
-Linear regulator
-Linkage (mechanical)
 List of agricultural machinery
 Litz wire
 Logic gate
 Logic in computer science
-Logic synthesis
-Loop antenna
-Low-dropout regulator
-MOSFET
-MOS integrated circuit
 Machine
-Macrocell array
-Magic eye tube
-Magnetic amplifier
 Magnetic circuit
-Magnetic core
-Magnetic domain
 Magnetic field
-Magnetic field lines
 Magnetic flux
-Magnetic permeability
-Magnetic saturation
 Magnetization
-Marine chronometer
 Maser
-Mecha
 Medium frequency
-Memistor
-Memory cell (computing)
-Memristor
-Memtransistor
-Mercury-arc valve
-Mercury relay
-Metal-oxide varistor
-Metal halide lamp
-Metastability (electronics)
 Michael Faraday
-Mixed-signal integrated circuit
-Monoscope
-Multigate device
-Mutual inductance
-NMOS logic
-Neon lamp
-Neutron generator
-Nixie tube
-Nonode
-Nutating disc engine
-Nuvistor
 OLED
-Organic field-effect transistor
-Organic light-emitting transistor
-Organic semiconductor
-PIN diode
-PMOS logic
-Pantograph
-Parametron
-Parasitic capacitance
-Parasitic element (electrical networks)
-Passivity (engineering)
-Peaucellier–Lipkin linkage
-Pendulum clock
-Pentagrid converter
-Pentode
-Pentode transistor
 Permeability (electromagnetism)
-Permeability of free space
 Phase (waves)
-Photodetector
-Photodiode
-Photomultiplier tube
-Phototube
-Place and route
-Placement (electronic design automation)
-Point-contact transistor
-Potential energy
-Potentiometer
-Power MOSFET
-Power grid
 Printed circuit board
-Printed electronics
-Programmable Array Logic
-Programmable logic array
-Programmable logic device
-Programmable unijunction transistor
-Propeller (aircraft)
-Proximity effect (electromagnetism)
-Pulley
 Pump
-Q factor
-Quantum circuit
 Quartz clock
-Quasiturbine
-RF CMOS
-RF connector
-RLC circuit
 Radio
 Radio frequency
-Radio frequency interference
-Reciprocating engine
-Reed relay
-Register-transfer level
-Relay
-Resettable fuse
-Resistor
-Resonant circuit
 Ripple (electrical)
-Riveting machines
-Robot
-Rotary engine
-Routing (electronic design automation)
-Rudder
-Runt pulse
 S2CID (identifier)
 Sail
-Saturable reactor
-Saturation (magnetic)
-Schottky diode
-Screw (simple machine)
-Secondary winding
 Seed-counting machine
-Selectron tube
-Self-resonant frequency
 Semiconductor device
-Sequential logic
 Series and parallel circuits
-Short circuit
 Shortwave
-Silicon controlled rectifier
-Silicon steel
 Simple machine
-Simulated inductor
-Single-ended primary-inductor converter
-Sinusoidal
 Skin effect
-Soft ferrite
-Solaristor
-Solenoid
-Spiral
-Split-pi topology
 Spring (device)
-Static induction thyristor
-Static induction transistor
-Steam engine
-Steam turbine
-Steinmetz's equation
-Step function
-Step recovery diode
-Stirling engine
-Storage tube
-Stranded wire
-Superconductor
-Sutton tube
-Switch
-Switched-mode power supply
-Switched capacitor
-Switching circuit theory
-Switching regulator
-Synchronous circuit
-TRIAC
-Telecommunication circuit
-Telephony
-Tensor Processing Unit
-Terminal (electronics)
-Tetrode
-Tetrode transistor
-Thermistor
-Thin-film transistor
-Three-dimensional integrated circuit
 Three-phase electric power
-Thyratron
-Thyristor
-Toroid
-Toroidal inductors and transformers
-Torus
-Trancitor
-Transaction-level modeling
 Transformer
-Transistor
-Traveling-wave tube
-Trigatron
-Triode
-Trochotron
-Trompe
 Tuned circuit
-Turbine
-Unijunction transistor
-VHF
-VMOS
-Vacuum diode
-Vacuum pump
 Vacuum tube
-Variable capacitor
-Varicap
-Varistor
 Vehicle
-Vending machine
-Video camera tube
-Volt-ampere reactive
 Voltage
-Voltage-regulator tube
-Voltage regulator
-Water turbine
-Weber (unit)
-Wedge (mechanical device)
-Wheel and axle
-Williams tube
-Wind generator
-Wind tunnel
-Windmill
-Wing
-Wire
-Wollaston wire
-Work (physics)
 X-ray tube
 Zener diode
-Ćuk converter

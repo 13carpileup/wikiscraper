@@ -1,4 +1,3 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
 AlmaLinux
@@ -7,7 +6,6 @@ Android-x86
 Android (operating system)
 Antergos
 AntiX
-Ao Nang
 ArchBang
 ArchLabs
 Arch Linux
@@ -53,7 +51,6 @@ Debian
 Deepin
 DemoLinux
 Devuan
-DistroWatch
 DivestOS
 DoudouLinux
 Dreamlinux
@@ -67,7 +64,6 @@ Endless OS
 EulerOS
 Familiar Linux
 Feather Linux
-Fedora (operating system)
 Fedora Linux
 Fire OS
 Firefox OS
@@ -86,8 +82,6 @@ GoboLinux
 Gobuntu
 GrapheneOS
 HandyLinux
-Hua-Hin
-Hyperbola GNU/Linux-libre
 Immunix
 IodéOS
 Jurix
@@ -127,8 +121,6 @@ MeeGo
 Mer (software distribution)
 Miracle Linux
 Mobilinux
-Musix GNU+Linux
-NECTEC
 Network Security Toolkit
 NimbleX
 Nitix
@@ -143,14 +135,11 @@ OpenSUSE
 Open Enterprise Server
 Oracle Linux
 PCLinuxOS
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
-Patong
 Pentoo
 Peppermint OS
-PhiPhi
 Pinguy OS
 PixelExperience
 Platypux
@@ -166,7 +155,6 @@ Raspberry Pi OS
 Red Hat Enterprise Linux
 Red Hat Linux
 Red Star OS
-Redmond Linux
 Remix OS
 Replicant (operating system)
 Resurrection Remix OS
@@ -179,10 +167,7 @@ Sabayon Linux
 Sabily
 Sailfish OS
 Salix OS
-Samila
 Scientific Linux
-Sea
-Similan
 Slackware
 Slax
 Softlanding Linux System
@@ -198,8 +183,6 @@ Sunwah Linux
 SystemRescue
 T2 SDE
 Tails (operating system)
-Tarutao
-Thailand National Electronics and Computer Technology Center
 Think Blue Linux
 Tiny Core Linux
 Tizen
@@ -208,7 +191,6 @@ Trisquel
 Turbolinux
 Turkix
 Ubuntu
-Ubuntu (operating system)
 Ubuntu Budgie
 Ubuntu Cinnamon
 Ubuntu GNOME
@@ -219,7 +201,6 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Uruk GNU/Linux
 VectorLinux
 Vine Linux
 Void Linux

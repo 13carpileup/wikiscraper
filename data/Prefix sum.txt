@@ -1,100 +1,29 @@
 APL syntax and symbols
-Adder (electronics)
 Addition
 Analysis of parallel algorithms
-Array data structure
 Associative property
-Binary tree
 C++
-Charles E. Leiserson
-CiteSeerX (identifier)
-Clifford Stein
 Computer science
-Connection Machine
-Counting sort
-Danny Hillis
 Data parallelism
 Distributed memory
-Divided difference
 Doi (identifier)
-Duplex (telecommunications)
 Eric W. Weisstein
-Euler tour
 Exclusive or
-Factorial
-Fenwick tree
-Finite difference
-Fold (higher-order function)
-Functional programming
-GPU
 General-purpose computing on graphics processing units
-Gray code
-Guy E. Blelloch
-Guy L. Steele Jr.
-Haskell (programming language)
-Hermite interpolation
-High Performance Fortran
-Higher order function
-Histogram
-Hypercube internetwork topology
-Hypercubic
 ISBN (identifier)
 ISSN (identifier)
-Integer sorting
-Introduction to Algorithms
-Journal of the ACM
-Kernel (image processing)
-Kotlin (programming language)
-Linear operator
 Linked list
 List ranking
-Load balancing (computing)
-MIT Press
-MR (identifier)
-Majority function
 MathWorld
-McGraw-Hill
 Message Passing Interface
-Message passing
-Michael J. Fischer
-Natural number
-Newton form
 OCLC (identifier)
 OpenMP
 Oxford University Press
-Parallel algorithm
 Parallel computing
 Parallel programming model
-Parallel random access machine
-Partial sum
 Pipeline (computing)
-Polynomial interpolation
-Prefix (computer science)
-Proceedings of the USSR Academy of Sciences
-Radix sort
-Robert E. Tarjan
-Ron Rivest
-Running total
-Rust (programming language)
 S2CID (identifier)
-SIAM Journal on Computing
-Scala (programming language)
-Segmented scan
 Semigroup
-Series (mathematics)
 Shared memory
-Sorting network
-Standard Template Library
-Summation
-Summed-area table
-Summed area table
-Thomas H. Cormen
-Tree (graph theory)
-Tree traversal
-Triangular number
-Uzi Vishkin
-Vandermonde
 Vector space
-Well-separated pair decomposition
 YouTube
-Yuri Petrovich Ofman

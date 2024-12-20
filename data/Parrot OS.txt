@@ -1,10 +1,7 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
-ARM architecture
 AlmaLinux
 Alpine Linux
-Amd64
 Android-x86
 Android (operating system)
 Antergos
@@ -42,22 +39,17 @@ Clear Linux OS
 ColorOS
 Commodore OS
 Comparison of Linux distributions
-Computer forensics
 Container Linux
 Corel Linux
 CrDroid
-Creative Commons
 CrunchBang Linux
 Cub Linux
 CyanogenMod
 Damn Small Linux
 Damn Vulnerable Linux
-Dark web
 Debian
-Debian (operating system)
 Deepin
 DemoLinux
-Desktop environment
 Devuan
 DivestOS
 DoudouLinux
@@ -81,7 +73,6 @@ Free software
 FreedomBox
 Freespire
 Frugalware Linux
-GNU GPL
 GNU Guix System
 GNewSense
 GOS (operating system)
@@ -92,10 +83,7 @@ GoboLinux
 Gobuntu
 GrapheneOS
 HandyLinux
-Hyperbola GNU/Linux-libre
-I386
 Immunix
-Internet privacy
 IodéOS
 Jurix
 KDE neon
@@ -113,24 +101,19 @@ Kubuntu
 Kwort Linux
 LXLE Linux
 Libranet
-LightDM
 LinHES
 LineageOS
 Linpus Linux
 Linux
 LinuxTLE
 Linux Caixa Mágica
-Linux Kodachi
 Linux Lite
 Linux Mint
 Linux Router Project
 Linux distribution
 Linux for PlayStation 2
 List of Linux distributions
-List of digital forensics tools
-Long-term support
 Lubuntu
-MATE (software)
 MCC Interim Linux
 MIUI
 MX Linux
@@ -143,7 +126,6 @@ Mer (software distribution)
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Musix GNU+Linux
 Network Security Toolkit
 NimbleX
 Nitix
@@ -160,10 +142,8 @@ Open Enterprise Server
 Oracle Linux
 PCLinuxOS
 Package manager
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parsix
-Penetration testing
 Pentoo
 Peppermint OS
 Pinguy OS
@@ -184,7 +164,6 @@ Red Hat Linux
 Red Star OS
 Remix OS
 Replicant (operating system)
-Repository (version control)
 Resurrection Remix OS
 Rocks Cluster Distribution
 Rocky Linux
@@ -196,8 +175,6 @@ Sabily
 Sailfish OS
 Salix OS
 Scientific Linux
-Security-focused operating system
-Signal (messaging app)
 Slackware
 Slax
 Softlanding Linux System
@@ -211,18 +188,15 @@ Splashtop OS
 SteamOS
 Sunwah Linux
 SystemRescue
-Systemd
 T2 SDE
 Tails (operating system)
 Think Blue Linux
 Tiny Core Linux
 Tizen
 TopologiLinux
-Tor (anonymity network)
 Trisquel
 Turbolinux
 Turkix
-URL
 Ubuntu
 Ubuntu Budgie
 Ubuntu Cinnamon
@@ -234,16 +208,12 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 User interface
 VectorLinux
 Vine Linux
 Void Linux
-Vulnerability assessment
 Whonix
 Wubuntu
-X86-64
 XB Machine
 Xubuntu
 Yellow Dog Linux

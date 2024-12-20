@@ -1,5 +1,4 @@
 API
-Active message
 Amdahl's law
 Analysis of parallel algorithms
 Application checkpointing
@@ -10,12 +9,8 @@ Automatic parallelization
 Barrier (computer science)
 Beowulf cluster
 Bibcode (identifier)
-Big data
 Bit-level parallelism
-Boost (C++ libraries)
 Bulldozer (microarchitecture)
-C*
-C++ AMP
 CUDA
 Cache-only memory architecture
 Cache coherence
@@ -24,8 +19,6 @@ Central processing unit
 Chapel (programming language)
 Charm++
 Cilk
-Circuit simulation
-CiteSeerX (identifier)
 Cloud computing
 Coarray Fortran
 Communications of the ACM
@@ -35,12 +28,7 @@ Computer multitasking
 Computer network
 Computer programming
 Concurrency (computer science)
-Connection Machine
 Cost efficiency
-Daniel Hillis
-Data-intensive computing
-Data Parallel Haskell
-Data parallel
 Dataflow architecture
 Dataflow programming
 Deadlock (computer science)
@@ -54,16 +42,13 @@ Dryad (programming)
 Embarrassingly parallel
 Explicit parallelism
 Fiber (computer science)
-Flattening transformation
 Flynn's taxonomy
-Futhark (programming language)
 GPUOpen
 General-purpose computing on graphics processing units
 Global Arrays
 Graphics processing unit
 Grid computing
 Gustafson's law
-Guy Steele
 HPX
 Hardware acceleration
 Hardware scout
@@ -72,12 +57,9 @@ ISBN (identifier)
 ISSN (identifier)
 Implicit parallelism
 Instruction-level parallelism
-Instruction level parallelism
 Instruction pipelining
 Instruction window
 Karp–Flatt metric
-Load balancing (computing)
-Locality of reference
 Loop-level parallelism
 Manycore processor
 Massively parallel
@@ -89,7 +71,6 @@ Multiple instruction, multiple data
 Multiple instruction, single data
 Multiprocessing
 Multithreading (computer architecture)
-NESL
 Non-blocking algorithm
 Non-uniform memory access
 OpenACC
@@ -103,21 +84,15 @@ Parallel computing
 Parallel external memory
 Parallel programming model
 Parallel slowdown
-Petabytes
 Pipeline (computing)
 Preemption (computing)
 Prefix sum
 Process (computing)
-Pseudocode
 Pthreads
 ROCm
 Race condition
 RaftLib
-SIMD
-SPMD
 Scalability
-Scalable parallelism
-Segmented scan
 Semiconductor memory
 Shared memory
 Simultaneous and heterogeneous multithreading
@@ -136,11 +111,8 @@ Synchronization (computer science)
 Systolic array
 Task parallelism
 Temporal multithreading
-Terabytes
 Thread (computing)
-Thread level parallelism
 Threading Building Blocks
 Unified Parallel C
 Uniform memory access
 Vector processor
-ZPL (programming language)

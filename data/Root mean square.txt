@@ -1,121 +1,32 @@
 AC power
-Accuracy
 Accuracy and precision
 Alternating current
-Amplitude
 Angular frequency
-Arithmetic mean
-Audio power
-Average precision
-Average rectified value
-BLEU
 Calculus
-Calinski-Harabasz index
-Central moment
 Cluster analysis
-Coefficient of determination
-Cohen's kappa
-Computer Vision
-Confusion matrix
-Continuous-time
-Cosine similarity
-Coverage probability
-Cross-entropy
 DC component
-Davies–Bouldin index
 Direct current
-Dunn index
-Duty cycle
 Electric current
-Electrical reactance
 Electrical resistance and conductance
-Estimation theory
-Euclidean distance
-Expected value
-F-score
-Fractional part
-Fréchet inception distance
 Function (mathematics)
 Gas
-Gas constant
-Generalized mean
 Geometric mean
 Glossary of mathematical symbols
-Harmonic mean
-Hopkins statistic
 ISBN (identifier)
-Inception score
 Integral
-Intersection over union
-Intra-list Similarity
-Inverter (electrical)
-Jaccard index
-Kelvin
-L2 norm
-Least squares
-List of trigonometric identities
 Machine learning
 MathWorld
 Mathematics
 Maxwell–Boltzmann distribution
-Mean absolute error
-Mean absolute percentage error
-Mean absolute scaled error
-Mean directional accuracy
-Mean reciprocal rank
-Mean square
-Mean squared displacement
-Mean squared error
-Mean squared prediction error
-Median absolute deviation
 Molar mass
-NDCG
 Natural language processing
-Orthogonal functions
-P4-metric
-PSNR
-Parseval's theorem
-Pearson correlation coefficient
-Period (physics)
-Periodic function
-Perplexity
-Phi coefficient
 Physics
-Power (physics)
-Precision and recall
-Proof without words
-Pulse wave
-Pythagoras' theorem
-Pythagorean addition
-Quadratic mean
-Rand index
-Random process
-Ranking (information retrieval)
-Receiver operating characteristic
 Recommender system
-Regression analysis
-Resistor
-Root-mean-square deviation
-Root-mean-square speed
-Root mean square AC voltage
-SSIM
-Sawtooth wave
-Sensitivity and specificity
 Set (mathematics)
-Silhouette (clustering)
-SimHash
-Similar triangles
-Similarity measure
-Simple matching coefficient
 Sine wave
-Square root
 Square wave
-Standard deviation
 Statistical classification
-Statistical population
-Symmetric mean absolute percentage error
 Three-phase electric power
 Triangle wave
-True RMS converter
 Voltage
 Waveform

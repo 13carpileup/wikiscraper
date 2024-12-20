@@ -9,11 +9,8 @@ Cubic function
 Cyclic redundancy check
 Degree of a polynomial
 Discriminant
-Euclidean division of polynomials
-Euclidean domain
 Factorization of polynomials
 Graph of a function
-Greatest common divisor of two polynomials
 Gröbner basis
 Homogeneous polynomial
 Horner's method
@@ -22,34 +19,19 @@ If and only if
 Irreducible polynomial
 Linear equation
 Linear function (calculus)
-Long division
-Mathematical Gazette
-Mental calculation
 Monomial
 Multivariate polynomial
 Polynomial
-Polynomial factorization
-Polynomial function
 Polynomial greatest common divisor
 Polynomial identity testing
-Polynomial remainder theorem
-Polynomial resultant
-Pseudocode
 Quadratic equation
 Quadratic function
 Quartic equation
 Quartic function
 Quasi-homogeneous polynomial
 Quintic function
-Quotient
-Rational root theorem
-Root of a polynomial
 Ruffini's rule
 Septic equation
 Sextic equation
 Square-free polynomial
-Synthetic division
-Tangent
 Trinomial
-Univariate polynomial
-Zero polynomial

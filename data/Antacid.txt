@@ -1,6 +1,5 @@
 ACE inhibitor
 ATC code A
-ATC code A02
 ATC code B
 ATC code C
 ATC code D
@@ -16,50 +15,28 @@ ATC code R
 ATC code S
 ATC code V
 ATCvet code QI
-Aceglutamide aluminum
-Acid Reflux
-Active pharmaceutical ingredient
 Addiction medicine
-Adjuvant therapy
-Alginic acid
-Alka-Seltzer
-Alkaline
 Alkylating antineoplastic agent
-Almagate
-Almasilate
-Aloglutamol
 Aluminium
-Aluminium acetoacetate
-Aluminium glycinate
-Aluminium hydroxide
-Aluminium phosphate
 Aluminum
-Aluminum hydroxide
 Anabolic steroid
 Analgesic
 Anatomical Therapeutic Chemical Classification System
 Anesthetic
-Angiotensin II receptor antagonist
 Anorectic
 Anthelmintic
 Anti-inflammatory
 Anti-obesity medication
 Antianginal
 Antiarrhythmic agent
-Antibacterial
 Antibiotic
 Anticoagulant
 Anticonvulsant
-Antidementia drug
 Antidepressant
-Antidiarrhoeal
 Antidote
 Antiemetic
 Antifibrinolytic
-Antifungal drug
 Antihemorrhagic
-Antihyperkinetic
-Antihypertensive drug
 Antimetabolite
 Antimicrobial
 Antimigraine drug
@@ -68,194 +45,69 @@ Antineoplastic
 Antiparasitic
 Antiplatelet drug
 Antipropulsive
-Antiprotozoal agent
 Antipruritic
-Antipsoriatic
 Antipsychotic
 Antithrombotic
 Antithyroid agent
 Antiviral drug
 Anxiolytic
 Aphrodisiac
-Aspirin
 Beta blocker
 Bile acid sequestrant
 Bisphosphonate
 Blood
-Bloodstream
 Bone
 Brand
 Bronchodilator
 Calcium
-Calcium carbonate
 Calcium channel blocker
-Calcium silicate
-Carbaldrate
 Carbon dioxide
-Carbonate
 Cardiac glycoside
 Cardiac stimulant
-Chelation
 Chemotherapy
-Chewable tablet
-Chloride
-Cicatrizant
 Circulatory system
-Citric acid
 Coagulation
-Combination
 Constipation
-Contrast medium
 Corticosteroid
-Cough medicine
 Decongestant
 Deliriant
 Depressant
 Diabetes medication
 Diarrhea
-Dietary mineral
 Disease-modifying antirheumatic drug
 Dissociative
 Diuretic
 Doi (identifier)
 Dressing (medicine)
-Drug interaction
 Ectoparasiticide
-Emollient
 Endocrine system
-Eno (drug)
-Entactogen
 Entheogen
 Enzyme
 Esophagus
 Euphoria
-Excretion
-Exocrine pancreatic insufficiency
 Fertility medication
 Fibrate
-Flatulence
-Fluoroquinolones
-Formic acid
-Formylated
-Gastric
-Gastric acid
-Gastric ulcer
-Gastroesophageal reflux disease
 General anaesthetic
 Genitourinary system
 Glucocorticoid
 H1 antagonist
-H2 antagonist
-H2 receptor antagonist
-Heartburn
-Helicobacter pylori
 Hormonal contraception
 Human brain
-Human gastrointestinal tract
 Human skin
-Hydronium
-Hydrotalcite
-Hydroxide
 Hypnotic
-Hypolipidemic agent
 Hypothalamic–pituitary hormone
 ISBN (identifier)
 Immune system
-Immunomodulator
 Immunostimulant
 Immunosuppressive drug
-In vitro
-Indigestion
 Infection
-Ingestion
-Insoluble
-Intravenous immunoglobulin
 Iron
-Irritation
-Itraconazole
 Joint
-Laxative
-Local anesthetic
-Maalox
-Magaldrate
-Magnesium
-Magnesium carbonate
-Magnesium hydroxide
-Magnesium oxide
-Magnesium peroxide
-Malignant
-Management of Parkinson's disease
-Marketed
-Medication
 Metabolism
-Mineralocorticoid
-Mood stabilizer
-Motivation-enhancing drug
-Mucous membrane
-Mucus
-Muscle
-Muscle relaxant
 Nervous system
-Neuroprotective
-Neurotoxin
-Neutralization (chemistry)
-Non-steroidal anti-inflammatory drug
-Nootropic
-Ophthalmology
-Oral administration
-Orexigenic
-Osteoporosis
-Otology
-Over the counter
-PH
 PMC (identifier)
 PMID (identifier)
-Pain
-Pepsin
-Platelet
-Prednisone
-Proton-pump inhibitor
-Proton pump inhibitor
-Psychedelic drug
-Psychedelics, dissociatives and deliriants
-Quinolone antibiotic
-Radiopharmacology
-Renin inhibitor
-Renin–angiotensin system
-Respiratory system
 S2CID (identifier)
-Salt (chemistry)
-Secretion
-Sedative
-Selective estrogen receptor modulator
-Senotherapeutics
-Sense
-Serenic
-Sex steroid
-Simethicone
 Sodium
 Sodium bicarbonate
-Sodium carbonate
-Sodium citrate
-Spindle poison
-Statin
-Stimulant
-Stomach
-Symptomatic treatment
-Talc
-Tartaric acid
-Tetracycline
-Tetracyclines
-Thrombolytic drug
-Thyroid hormone
-Topoisomerase inhibitor
-Trisodium citrate
-Tums
-Ulceration
-Urine
-Vaccine
-Vasodilation
-Vitamin
-Wakefulness-promoting agent
 Water
-Water soluble

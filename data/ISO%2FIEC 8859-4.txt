@@ -17,9 +17,7 @@ ARIB STD B24 character set
 ASCII
 ASMO 449
 ATASCII
-Acute accent
 Ampersand
-Amstrad CP/M Plus character set
 Amstrad CPC character set
 Apostrophe
 Apple II character set
@@ -46,9 +44,7 @@ CSX Indic character set
 CS Indic character set
 CWI-2
 Caret
-Caron
 Casio calculator character sets
-Cedilla
 Character encoding
 Character encodings in HTML
 Charset detection
@@ -70,17 +66,10 @@ Code page 1019
 Code page 1020
 Code page 1021
 Code page 1023
-Code page 1034
 Code page 1040
 Code page 1042
 Code page 1043
-Code page 1044
 Code page 1046
-Code page 1052
-Code page 1053
-Code page 1054
-Code page 1055
-Code page 1056
 Code page 1058
 Code page 1098
 Code page 1101
@@ -119,7 +108,6 @@ Code page 853
 Code page 855
 Code page 856
 Code page 857
-Code page 858
 Code page 859
 Code page 860
 Code page 861
@@ -136,7 +124,6 @@ Code page 896
 Code page 897
 Code page 899
 Code page 903
-Code page 904
 Code page 912
 Code page 915
 Code page 921
@@ -156,8 +143,6 @@ Compucolor II character set
 Control character
 Cooke and Wheatstone telegraph
 Cork encoding
-Curly brackets
-Currency sign (generic)
 D
 DEC Hebrew
 DEC RADIX 50
@@ -167,19 +152,14 @@ DG International
 DIN 66003
 DIN 91379
 DKOI
-D with stroke
-Degree symbol
 Diaeresis (diacritic)
 Digital Equipment Corporation
 Digital encoding of APL symbols
 Dollar sign
-Dot (diacritic)
 E
 EBCDIC
-ECMA-94
 ELOT 927
 Equals sign
-Estonian language
 Exclamation mark
 Extended Latin-8
 Extended Unix Code
@@ -209,37 +189,14 @@ Hong Kong Supplementary Character Set
 Hyphen-minus
 I
 IBM AIX
-IEC-P27-1
 INIS-8
 INIS character set
-ISO-8859-1
-ISO-IR
 ISO-IR-111
 ISO-IR-169
 ISO-IR-182
 ISO-IR-197
 ISO-IR-200
 ISO-IR-68
-ISO/IEC 10367
-ISO/IEC 2022
-ISO/IEC 6429
-ISO/IEC 646
-ISO/IEC 8859
-ISO/IEC 8859-1
-ISO/IEC 8859-10
-ISO/IEC 8859-11
-ISO/IEC 8859-12
-ISO/IEC 8859-13
-ISO/IEC 8859-14
-ISO/IEC 8859-15
-ISO/IEC 8859-16
-ISO/IEC 8859-2
-ISO/IEC 8859-3
-ISO/IEC 8859-5
-ISO/IEC 8859-6
-ISO/IEC 8859-7
-ISO/IEC 8859-8
-ISO/IEC 8859-9
 ISO 2033
 ISO 5426
 ISO 5427
@@ -249,8 +206,6 @@ ISO 6862
 ITU T.61
 Indian Script Code for Information Interchange
 Information Processing Society of Japan
-Intecolor/Compucolor 8001 character set
-Internet Assigned Numbers Authority
 Iran System encoding
 J
 JIS X 0201
@@ -273,9 +228,7 @@ L
 LST 1564
 LST 1590-4
 LY1 encoding
-Latvian language
 Less-than sign
-Lithuanian language
 Lotus International Character Set
 Lotus Multi-Byte Character Set
 M
@@ -300,7 +253,6 @@ Mac OS Hebrew
 Mac OS Icelandic encoding
 Mac OS Inuit
 Mac OS Keyboard encoding
-Mac OS Maltese/Esperanto encoding
 Mac OS Ogham
 Mac OS Roman
 Mac OS Romanian encoding
@@ -310,7 +262,6 @@ Mac OS Turkish encoding
 Mac OS Ukrainian encoding
 Macintosh Font X encoding
 Macintosh Latin encoding
-Macron (diacritic)
 Magnetic ink character recognition
 Mazovia encoding
 Mojibake
@@ -318,7 +269,6 @@ Mojikyō
 Morse code
 Morse code for non-Latin alphabets
 Multinational Character Set
-Multiplication sign
 N
 NEC APC character set
 National Replacement Character Set
@@ -330,13 +280,10 @@ OML encoding
 OMS encoding
 OT1 encoding
 Obelus
-Ogonek
 P
 PETSCII
-Parenthesis
 Percent sign
 Perso-Arabic Script Code for Information Interchange
-Plus sign
 PostScript Latin 1 Encoding
 PostScript Standard Encoding
 Prosigns for Morse code
@@ -348,7 +295,6 @@ RISC OS character set
 RPL character set
 Russian Morse code
 S
-SAM Coupé character set
 SI 960
 SQUOZE
 Section sign
@@ -361,14 +307,10 @@ Sinclair QL character set
 Slash (punctuation)
 Soft hyphen
 Space character
-Square brackets
 Standard Compression Scheme for Unicode
-Stanford/ITS character set
 Stanford Extended ASCII
 Symbol (typeface)
-Sámi languages
 T
-T.51/ISO/IEC 6937
 TI calculator character sets
 TRON (encoding)
 TRS-80 character set
@@ -419,9 +361,6 @@ Windows-1256
 Windows-1257
 Windows-1258
 Windows-1270
-Windows Cyrillic + Finnish
-Windows Cyrillic + French
-Windows Cyrillic + German
 Windows Polytonic Greek
 Windows code page
 World System Teletext
@@ -436,42 +375,10 @@ ZX Spectrum character set
 `
 Á
 Â
-Ã
-Ä
-Å
-Æ
 É
-Ë
-Í
 Î
-Ô
-Õ
-Ö
-Ø
-Ú
 Û
-Ü
 ß
-Ā
-Ą
 Č
-Ē
-Ė
-Ę
 Ģ
-Ĩ
-Ī
-Į
 Ķ
-ĸ
-Ļ
-Ņ
-Ŋ
-Ō
-Ŗ
-Š
-Ŧ
-Ũ
-Ū
-Ų
-Ž

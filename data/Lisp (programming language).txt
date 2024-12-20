@@ -1,461 +1,94 @@
-*Lisp
-4.3BSD
-ACL2
 AI
-AI winter
-ALGOL
 ALGOL 60
-ANSI
-ANSI Common Lisp
-APL (programming language)
-Ada (programming language)
-Alan Kay
-Algol 58
-Algol 60
-Allegro Common Lisp
-Alonzo Church
-Alphanumeric
 American National Standards Institute
 Andy Gavin
 Anonymous function
-Apple Dylan
 Apple Inc.
-Applicative order
-Arc (programming language)
-Armed Bear Common Lisp
-Array data type
 Artificial intelligence
 Assembly language
-Assembly language macros
-Association for Computing Machinery
-Atari 8-bit computers
-Audacity (audio editor)
-AutoCAD
-AutoLISP
 BASIC
-BBN LISP
-BBN Technologies
-Big O notation
-Bigloo
-Branch (computer science)
-Brian Harvey (lecturer)
 Bytecode
 C++
-CGOL
-CLIPS
-CLISP
-CLU (programming language)
-CLiki
-CMU Common Lisp
 COBOL
-COWSEL
 C (programming language)
 C Sharp (programming language)
 C preprocessor
-Cadence SKILL
-Car and cdr
 Central processing unit
-Charles Babbage Institute
-Chez Scheme
-Chicken (Scheme implementation)
-Circumscription (logic)
-CiteSeerX (identifier)
-Clojure
-Clozure CL
-Command line
-CommonLoops
-Common Language Runtime
-Common Lisp
-Common Lisp HyperSpec
-Common Lisp Interface Manager
-Common Lisp Object System
-Common Lisp directory
-Common Lisp the Language
 Communications of the ACM
-Community of practice
-Comparison of programming languages
-Compile time
 Compiler
 Computer compatibility
 Computer hardware
 Computer program
 Computer science
 Concurrency (computer science)
-Conditional (computer programming)
-Cons
-Cons pair
-Consensus decision-making
-Constraint satisfaction
 Continuation
-Corman Common Lisp
-Cynthia Solomon
-Daniel Edwards (programmer)
-Daniel G. Bobrow
-Daniel Weinreb
-Dartmouth workshop
 Data structure
 Data type
-David A. Moon
-David Luckham
-David Park (computer scientist)
-De facto standard
-Denison Bollay
 Doi (identifier)
 Domain-specific language
 Douglas Hofstadter
-Dylan (programming language)
-Dynamic dispatch
-Dynamic scoping
-Dynamic typing
-Eager evaluation
-Edmund Berkeley
 Edsger W. Dijkstra
-Elixir (programming language)
-Emacs
-Emacs Lisp
-Embeddable Common Lisp
 Eric S. Raymond
-Erlang (programming language)
-EuLisp
-Eval
-Expression (computer science)
-Expression oriented language
-Factorial
-First-class function
-Flavors (computer science)
-Flavors (programming language)
-Foo
-Forth (programming language)
-Fortran
-Frame problem
-Franz Lisp
-Franz Liszt
-Function (programming)
-Functional programming
-GIMP
-GNU Common Lisp
-GNU Guile
-GNU Guix
-Gambit (Scheme implementation)
-Gambit (scheme implementation)
-Game Oriented Assembly Lisp
 Garbage collection (computer science)
-Genera (operating system)
-Generational list of programming languages
-Generic functions
-Gerald Jay Sussman
 GitHub
 Go (programming language)
-Goto
 Graphical user interface builder
 Grave accent
-Greenspun's tenth rule
-Guy L. Steele, Jr.
-Guy L. Steele Jr.
-Gödel, Escher, Bach
-Hackers & Painters
-Hal Abelson
-Harlequin (software company)
-Harold Abelson
-Hash table
 Haskell
 Hdl (identifier)
-Heap (memory management)
-Hello, World!
-High-level programming language
-Higher-order function
-History of programming languages
-History of the Dylan programming language
-History of the Scheme programming language
-Homoiconicity
-How to Design Programs
-Hy (programming language)
-IBM 704
 IRC bot
 ISBN (identifier)
 ISLISP
-If–then–else
-Ikarus (Scheme implementation)
-Incremental compiler
-Inference engine
-Infix notation
-Information Processing Language
 Integrated development environment
-InterLisp-D
-Interlisp
-International Lisp Conference
 Interpreter (computing)
-Io (programming language)
-Ioke (programming language)
-Iteration
-JScheme
-Jak and Daxter
 JavaScript
 Java (programming language)
-Java virtual machine
-Joel Moses
-John McCarthy (computer scientist)
-Julia (programming language)
-Julie Sussman
-Just-in-time compilation
-Kawa (Scheme implementation)
-Kent Pitman
-Knowledge Engineering Environment
-Kotlin (programming language)
-LFE (programming language)
-LISP
-LISP 2
-LLVM
 Lambda calculus
-Language-based system
-LeLisp
-Le Lisp
-Legacy compatibility
-Lexical closure
-Lexical scoping
-LilyPond
 Linked list
-Liskell
-Lisp
-LispForum
-LispWorks
-Lisp Machine
-Lisp Machine Lisp
-Lisp Machines Incorporated
-Lisp machine
-Lispjobs
-Lispkit Lisp
-Lisppaste
-List of Lisp-family programming languages
-List of NASA robots
-List of programming languages
-List of programming languages by type
-Load time
 Logo (programming language)
-Louis Hodes
-Lua (programming language)
-Lucid Inc.
-M-expression
-M.I.T. Computation Center
 MATLAB
-MDL (programming language)
-MIT/GNU Scheme
-MIT Computer Science and Artificial Intelligence Laboratory
-MIT Museum
-MIT Press
-MIT Scheme
-ML (programming language)
-MLisp
-MOS Technology 6502
-MSWLogo
-Machine code
 Macintosh
-Macintosh Common Lisp
-Maclisp
 Macro (computer science)
 Man page
 Massachusetts Institute of Technology
 Mathematical notation
-Matthew Flatt
-Matthias Felleisen
-McCLIM
-McCarthy 91 function
-McCarthy Formalism
-Meta-circular evaluator
-Metaobject
 Metaprogramming
 Microsoft Excel
-Mitchel Resnick
-Mixin
-Mocl
-Multi-paradigm programming language
-MultiLisp
-Multics
-Multiple dispatch
-Multiple inheritance
-NIL (programming language)
 Naughty Dog
-NetLogo
-NewLISP
-Nim (programming language)
-Non-English-based programming languages
-Nu (programming language)
 Number
 OCLC (identifier)
-OPS5
 Object-oriented programming
-Object Lisp
-Object Pascal
 Objective-C
-On Lisp
-Open-source-software movement
-OpenLisp
 Operating system
-PC-LISP
-PDP-10
-PDP-6
 PHP
-PLT Scheme
-POP-11
-POP-2
-Parentheses
-Parenthesized
 Pascal (programming language)
-Paul Graham (computer programmer)
-Paul Graham (programmer)
 Perl
-Peter Norvig
-Philip Greenspun
 Philosophy
-Phyllis Fox
-PicoLisp
-Pico (programming language)
-Picolisp
-Planet Lisp
-Planner (programming language)
-Pointer (computer programming)
 Polish notation
-Poplog
-Portability (software)
-Portable Standard Lisp
-Practical Common Lisp
 Procedural programming
-Processor register
-ProgramByDesign
 Programming language
-Programming language dialect
-Programming language implementation
 Programming paradigm
-Programming style
-Project MAC
 Prolog
-Punched card
 Python (programming language)
-Quasiquote
-Quicklisp
-R. Kent Dybvig
-REPL
-RPL (programming language)
-R (programming language)
-Racket (programming language)
-Racket features
-Read–eval–print loop
-Reason maintenance
-Rebol
 Recursion
-Recursion (computer science)
-Red (programming language)
-Reflective programming
-Richard Greenblatt (programmer)
-Richard P. Gabriel
-Richard Stallman
-Robert Bruce Findler
-Robert Tappan Morris
-Robin Popplestone
-Rod Burstall
 Ruby (programming language)
-Runtime (program lifecycle phase)
-Rust (programming language)
-S-1 Lisp
-S-expression
 S2CID (identifier)
-SCM (Scheme implementation)
-SHRDLU
-SIOD
 SQL
-Sawfish (window manager)
-Scala (programming language)
-Scheme (programming language)
-Scheme 48
-Scheme Requests for Implementation
-Scheme programming language
-Scope (programming)
-Scott Fahlman
-Scratch (programming language)
 Scripting language
-Scsh
-Self-hosting (compilers)
 Self-modifying code
 Self-reference
 Seymour Papert
-Shell script
-Short-circuit evaluation
-Shriram Krishnamurthi
-Simula
-Singly linked list
-Situation calculus
-Smalltalk
 Software bug
 Software design
 Software developer
 Source code
-Space-cadet keyboard
-Space fountain
-Spice Lisp
-Stack overflow
-Standard Lisp
 Standardization
-Stanford AI Lab
-Stanford University centers and institutes
-StarLogo
-Statement (computer science)
-Statement (programming)
-Static scoping
-Steel Bank Common Lisp
 Steve Russell (computer scientist)
 String (computer science)
-Strong and weak typing
-Structure and Interpretation of Computer Programs
-Swift (programming language)
-Symbol (programming)
-Symbolic processing
-Symbolics
-TENEX (operating system)
-TI Explorer
 TOPS-10
-T (programming language)
-Tail-call optimization
-Tail call
-Tail recursion
-Tcl
-Technical standard
-The Register
-Timeline of programming languages
-TinyScheme
-Transcription (linguistics)
-Tree (data structure)
-Tree data structure
-Turing Award
-Turing completeness
-Type inference
-Type system
-UCBLogo
 University of California, Berkeley
-University of Wisconsin
-Usenet (identifier)
-Usenet newsgroup
-Variadic function
-Vaughan Pratt
-Visual Basic
-Visual Basic (.NET)
 Visual Basic (classic)
-Visual Lisp
-Wally Feurzeig
 Wayback Machine
-Weekly Lisp News
 Whitespace character
-William Clinger (computer scientist)
-Window manager
-Wolfram Language
-Workstation
-X3J13
-XLISP
 XML
-Xanalys
 Xerox
-Xerox PARC
-Xerox Star
-YARV
-Z-machine
-ZetaLisp
-Zetalisp

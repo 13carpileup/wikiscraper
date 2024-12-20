@@ -2,12 +2,7 @@
 2D computer graphics
 3D computer graphics
 Abstract animation
-ActivityPub
-Activity Streams (format)
 Adobe Flash
-Adult animation
-Agora (web browser)
-Amaya (web editor)
 American animation
 Android (operating system)
 Aniforms
@@ -22,48 +17,22 @@ Animation director
 Animation in the United States during the silent era
 Animation in the United States in the television era
 Animation industry in South Africa
-Animation music
 Animation studio
-Animator
 Animatronics
 Anime
 Apple Inc.
-Arena (web browser)
-Argo (web browser)
 Art pipeline
 Audio-Animatronics
 Bangladeshi animation
 Barrier-grid animation and stereography
-Bhutanese animation
-Blocking (animation)
 Bouncing ball (music)
 Brickfilm
-C-HTML
-CERN httpd
 CSS
-CSS Flexible Box Layout
-CSS Working Group
-CSS Zen Garden
-CSS box model
-CSS grid layout
-CSS image replacement
-CURIE
-Call Control eXtensible Markup Language
-Canonical XML
 Cartoon physics
 Cartoon violence
-Cascading Style Sheets
 Cel
-Cel shading
-Character animation
-Charcoal
-Chinese animation
 Chuckimation
 Clay painting
-Claymation
-Communication design
-Comparison of stylesheet languages
-Compound Document Format
 Computer-generated imagery
 Computer animation
 Computer facial animation
@@ -71,41 +40,27 @@ Creature animation
 Crowd simulation
 Cutout animation
 Czech animation
-David Baron (computer scientist)
 Digital puppetry
 Direct manipulation animation
-Document Object Model
 Drawn-on-film animation
 Educational animation
-Efficient XML Interchange
-Emotion Markup Language
-Encrypted Media Extensions
 Erotic animation
 Estonian animation
 Exposure sheet
-Extensible Forms Description Language
-Extensible User Interface Protocol
 Eye tracking
 Facial motion capture
-Filipino animation
 Finger tracking
-First International Conference on the World-Wide Web
 Flash animation
-Flip book
 Go motion
 Golden age of American animation
-Google Chrome
 Graphic animation
 HTML
 HTML5
-HTML Working Group
-Handheld Device Markup Language
 History of Azerbaijani animation
 History of Brazilian animation
 History of British animation
 History of Canadian animation
 History of Chinese animation
-History of French animation
 History of Hungarian animation
 History of Iranian animation
 History of Korean animation
@@ -115,42 +70,20 @@ History of animation
 History of animation in India
 History of anime
 History of computer animation
-Holy grail (web design)
 Humanoid animation
 Hydraulic engineering
 IOS
 ITunes
-ITunes LP
 Idle animation
-Improving Web Advertising Business Group
 Inbetweening
 Independent animation
-Indexed Database API
 Indian animation industry
-IndieAuth
 Ink-wash animation
-InkML
-Instructional animation
-International Animation Day
-International World Wide Web Conference
-International World Wide Web Conferences Steering Committee
-Internationalization Tag Set
-Internet Explorer
-JSON-LD
 JavaScript
-JavaScript Style Sheets
-Key frame
-Less (stylesheet language)
-Libwww
-Limited animation
-Line Mode Browser
 Linear alternator
-Linked Data Notifications
 Lip sync
 List of Flash animated television series
-List of adult animated feature films
 List of adult animated television series
-List of animated Internet series
 List of animated direct-to-video series
 List of animated films by box office admissions
 List of animated package films
@@ -160,34 +93,24 @@ List of animated television series by episode count
 List of animation studios
 List of animators
 List of anime franchises by episode count
-List of anime series by episode count
 List of children's animated films
 List of children's animated television series
 List of computer-animated films
-List of computer-animated television series
 List of films with live action and animation
 List of highest-grossing animated films
-List of highest-grossing live-action/animated films
 List of highest-grossing openings for animated films
 List of international animation festivals
 List of lost or unfinished animated films
-List of most expensive animated films
 List of regional animation festivals
 List of stop motion films
 Lists of animated films
 Lists of animated television series
-Live2D
 Machinima
 Magic lantern
 Malaysian animation
 Masking (art)
-MathML
 Mechanics
-Media Source Extensions
-Mexican animation
 Mickey Mousing
-Micropub (protocol)
-Microsoft Edge
 Model animation
 Model sheet
 Modern animation in the United States
@@ -199,143 +122,52 @@ Multi-sketch
 Non-photorealistic rendering
 North Korean animation
 Object animation
-Off-model
 Onion skinning
-Outline of animation
 Outsourcing of animation
-P3P
 Paint-on-glass animation
-Physically based animation
 Pinscreen animation
 Pixel artist
 Pixilation
 Portuguese animation
 Pose to pose animation
-PowerPoint animation
-Precision Graphics Markup Language
 Procedural animation
-Pronunciation Lexicon Specification
-Puppet
 Puppetoons
 Puppetry
-RDF Schema
 Resource Description Framework
-Responsive web design
 Romanian animation
 Rotoscoping
 Rubber hose animation
-Rule Interchange Format
-SCXML
-SHACL
-SMIL Timesheets
-SOAP
-SPARQL
-SVG Working Group
-SVG animation
-SVG filter effects
-SXBL
-Safari (web browser)
 Sand animation
-Sass (stylesheet language)
-Scalable Vector Graphics
 Scanimate
-Semantic Interpretation for Speech Recognition
 Shadowmation
-Silhouette animation
-Simple Knowledge Organization System
 Skeletal animation
-South Korean animation
 Spanish animation
 Special effects
-Speech Recognition Grammar Specification
-Speech Synthesis Markup Language
 Squigglevision
 Stop motion
 Story artist
 Straight ahead animation
 Strata-cut animation
-Style sheet (web development)
-Stylus (stylesheet language)
-Subresource Integrity
 Supermarionation
-Synchronized Multimedia Integration Language
 Syncro-Vox
 T-pose
-Tableless web design
 Taiwanese animation
-Technical Architecture Group
 Thai animation
-Thing Description
-Timed text
 Timeline of computer animation in film and television
 Traditional animation
 Twelve basic principles of animation
-Vector Markup Language
 Vietnamese animation
 Virtual cinematography
 Virtual human
 Virtual newscaster
 Visual music
-VoiceXML
-W3C Advisory Board
-W3C Board
-W3C Device Description Working Group
-W3C Geolocation API
-W3C MMI
-W3C Markup Validation Service
-WAI-ARIA
-WHATWG
 Walk cycle
 WebAssembly
 WebGPU
-WebKit
-WebPlatform.org
-WebSub
-WebVTT
 WebXR
-Web Accessibility Initiative
-Web Authentication Working Group
-Web Components
 Web Content Accessibility Guidelines
-Web Ontology Language
-Web Open Font Format
-Web Services Description Language
 Web browser
-Web of Things
-Web storage
-Webmention
 Whiteboard animation
 World War II and American animation
-World Wide Web Consortium
-World Wide Web Foundation
-XAdES
-XBL
-XForms
-XFrames
-XHTML
-XHTML+MathML+SVG
-XHTML+RDFa
-XHTML+SMIL
-XInclude
-XLink
 XML
-XML-binary Optimized Packaging
-XMLHttpRequest
-XML Base
-XML Encryption
-XML Events
-XML Information Set
-XML Schema (W3C)
-XML Signature
-XML namespace
-XPath
-XPath 2.0
-XPath 3
-XPointer
-XProc
-XQuery
-XSL
-XSLT
-XSLT elements
-XSL Formatting Objects
 Zoetrope

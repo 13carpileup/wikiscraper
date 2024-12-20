@@ -4,11 +4,8 @@ Ackermann set theory
 Aleph number
 Algebraic logic
 Alphabet (formal languages)
-Antecedent (logic)
-Arend Heyting
 Argument
 Arity
-Associativity
 Atomic formula
 Atomic sentence
 Automata theory
@@ -17,10 +14,7 @@ Axiom
 Axiom of choice
 Axiom schema
 Axiomatic system
-Axiomatization of Boolean algebras
 Banach–Tarski paradox
-Biconditional elimination
-Biconditional introduction
 Bijection
 Binary operation
 Boolean algebra
@@ -40,7 +34,6 @@ Church–Turing thesis
 Class (set theory)
 Classical logic
 Codomain
-Commutativity
 Compactness theorem
 Complement (set theory)
 Complete theory
@@ -49,7 +42,6 @@ Computable function
 Computable set
 Computably enumerable set
 Concrete category
-Consequent
 Conservative extension
 Consistency
 Constructible universe
@@ -63,7 +55,6 @@ Countable set
 David Hilbert
 Decidability (logic)
 Decision problem
-Deductive system
 Diagram (mathematical logic)
 Digital buffer
 Distributivity
@@ -96,7 +87,6 @@ Forcing (mathematics)
 Formal grammar
 Formal language
 Formal proof
-Formal semantics (logic)
 Formal system
 Formation rule
 Foundations of geometry
@@ -112,20 +102,16 @@ George Boole
 Gottlob Frege
 Grothendieck universe
 Ground expression
-Ground formula
 Gödel's completeness theorem
 Gödel's incompleteness theorems
 Gödel numbering
-Hadamard transform
 Halting problem
 Hereditary set
 Higher-order logic
 Hilbert's axioms
 Hilbert system
 History of logic
-History of mathematical logic
 IMPLY gate
-Idempotency
 If and only if
 Image (mathematics)
 Inaccessible cardinal
@@ -138,20 +124,16 @@ Inhabited set
 Injective function
 Interpretation (logic)
 Interpretation (model theory)
-Interpretation function
 Intersection (set theory)
 Inverter (logic gate)
 Isomorphism
-Jan Łukasiewicz
 Kolmogorov complexity
-Kripke's theory of truth
 Kripke–Platek set theory
 Lambda calculus
 Large cardinal
 Lemma (mathematics)
 Lindström's theorem
 Linear
-List of Hilbert systems
 List of axioms
 List of first-order theories
 List of formal systems
@@ -168,7 +150,6 @@ Logical constant
 Logical disjunction
 Logical equality
 Logical equivalence
-Logical operation
 Logical truth
 Logical value
 Logically equivalent
@@ -187,7 +168,6 @@ Model complete theory
 Model theory
 Monadic predicate calculus
 Monadic second-order logic
-Monotone Boolean function
 Morse–Kelley set theory
 NAND gate
 NIMPLY gate
@@ -195,11 +175,8 @@ NOR gate
 NP (complexity)
 Naive set theory
 Natural deduction
-Necessary and sufficient condition
-Necessary condition
 Negation
 New Foundations
-Nicolas Bourbaki
 Non-Euclidean geometry
 Non-logical symbol
 Non-standard model
@@ -213,14 +190,12 @@ P (complexity)
 P versus NP problem
 Paradoxes of set theory
 Partition of a set
-Paul Bernays
 Peano axioms
 Philosophy of logic
 Philosophy of mathematics
 PlanetMath
 Power set
 Predicate (mathematical logic)
-Predicate logic
 Predicate variable
 Primitive recursive arithmetic
 Primitive recursive function
@@ -235,12 +210,10 @@ Propositional variable
 Quantifier (logic)
 Quantifier rank
 Recursion
-Recursive set
 Relation (mathematics)
 Reverse mathematics
 Robinson arithmetic
 Rule of inference
-Rules of inference
 Russell's paradox
 Satisfiability
 Saturated model
@@ -265,11 +238,9 @@ Spectrum of a theory
 Square of opposition
 Statement (logic)
 Strength (mathematical logic)
-String (formal languages)
 Structure (mathematical logic)
 Substitution (logic)
 Substructure (mathematics)
-Sufficient condition
 Supertask
 Surjective function
 Syllogism
@@ -278,35 +249,30 @@ Syntax (logic)
 T-schema
 Tarski's axiomatization of the reals
 Tarski's axioms
-Tarski's theory of truth
 Tarski's undefinability theorem
 Tarski–Grothendieck set theory
 Tautology (logic)
 Term (logic)
 Term logic
 Theorem
-Theories of truth
 Theory (mathematical logic)
 Three-valued logic
 Timeline of mathematical logic
 Transfer principle
 Transitive set
 True arithmetic
-Truth function
 Truth predicate
 Truth table
 Truth value
 Turing machine
 Type (model theory)
 Type theory
-Ultrafilter (set theory)
 Ultraproduct
 Uncountable set
 Undecidable problem
 Uninterpreted function
 Union (set theory)
 Uniqueness quantification
-Universal affirmative
 Universal quantification
 Universal set
 Universe (mathematics)
@@ -317,7 +283,4 @@ Venn diagram
 Von Neumann universe
 Von Neumann–Bernays–Gödel set theory
 Well-formed formula
-Wilhelm Ackermann
-XNOR gate
-XOR gate
 Zermelo–Fraenkel set theory

@@ -1,54 +1,20 @@
-1T-SRAM
 64DD
-65 nm process
-90 nm
-AMD
-AMDGPU
-AMD APP SDK
-AMD Catalyst
-AMD CodeAnalyst
-AMD CrossFire
-AMD Eyefinity
-AMD FireMV
-AMD FirePro
 AMD FireStream
-AMD GPU PerfStudio
 AMD HD3D
-AMD Hybrid Graphics
-AMD PowerTune
-AMD Radeon Software
-AMD TrueAudio
-ARM9
-ATI
-ATI Mach
-ATI Rage
 ATI Technologies
-ATI Wonder
-Advanced Encryption Standard
 Advanced Micro Devices
-All-in-Wonder
 Amiibo
 Atari VCS (2021 console)
-Broadway (microprocessor)
 Broadway (processor)
 CIC (Nintendo)
 Classic Controller
-Close to Metal
-CodeXL
 Color TV-Game
-Die (integrated circuit)
-Digital signal processor
-Dynamic random-access memory
 Espresso (processor)
-Factor 5
 Famicom 3D System
 Famicom Data Recorder
 Famicom Disk System
 Family BASIC
 Family Computer Network System
-Flash memory
-Flipper (graphics chip)
-FreeSync
 GPUOpen
 GameCube
 GameCube accessories
@@ -71,27 +37,16 @@ Game Boy accessories
 Game Link Cable
 Game Pak
 Gekko (processor)
-Graphics Core Next
 Graphics processing unit
-HLSL2GLSL
-Handheld PC
-Heterogeneous System Architecture
-HyperMemory
-HyperZ
 IQue Player
 Inter-process communication
 Joy-Con
-Julian Eggebrecht
-List of AMD graphics processing units
-List of AMD processors with 3D graphics
 List of Nintendo DS accessories
 List of Nintendo Entertainment System accessories
 List of Nintendo controllers
 List of Nintendo products
 List of Super NES enhancement chips
 List of Super Nintendo Entertainment System accessories
-Mantle (API)
-Multi-chip module
 NES Advantage
 NES Classic Edition
 NES Four Score
@@ -127,47 +82,17 @@ PICA200
 Play-Yan
 PlayChoice-10
 PlayStation 4
-PlayStation 4 Pro
 PlayStation 5
 Poké Ball Plus
 Pokémon Mini
 Pokémon Pikachu
 R.O.B.
-RDNA (microarchitecture)
 RDNA 2
-RDNA 3
-RDNA 4
 ROCm
-Radeon
-Radeon 200 series
-Radeon 300 series
-Radeon 400 series
-Radeon 500 series
-Radeon 600 series
-Radeon HD 2000 series
-Radeon HD 3000 series
-Radeon HD 4000 series
-Radeon HD 5000 series
-Radeon HD 6000 series
-Radeon HD 7000 series
-Radeon HD 8000 series
-Radeon Instinct
-Radeon Pro
-Radeon R100 series
-Radeon R200 series
-Radeon R300 series
-Radeon R400 series
-Radeon RX 5000 series
-Radeon RX 6000 series
-Radeon RX 7000 series
-Radeon RX Vega series
-Radeon X1000 series
-Random-access memory
 Ricoh 2A03
 Ricoh 5A22
 Rumble Pak
 SD card
-SHA-1
 Satellaview
 Steam Deck
 Super FX
@@ -178,24 +103,15 @@ Super NES Mouse
 Super Nintendo Entertainment System
 Super Nintendo Entertainment System Game Pak
 Super Scope
-Supercomputer
 System on a chip
 Tegra X1
-TeraScale (microarchitecture)
 Third-party accessories for the Wii Remote
 Transfer Pak
-TressFX
 USB
-Unified Memory Architecture
-Unified Video Decoder
-Unified shader model
-Video Coding Engine
-Video Core Next
 Video game console
 Virtual Boy
 WaveBird Wireless Controller
 Wii
-WiiConnect24
 Wii Balance Board
 Wii MotionPlus
 Wii Remote
@@ -204,10 +120,6 @@ Wii U
 Wii U GamePad
 Wii U Pro Controller
 Wii Zapper
-Wii system software
-Workstation
 Xbox 360
 Xbox One
-Xbox One X
 Xbox Series X and Series S
-Xenos (graphics chip)

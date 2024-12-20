@@ -1,31 +1,19 @@
 ARIB STD B24 character set
-Agglutinative language
 Akita dialect
-Alexander Vovin
 Amami Japanese
-Amami languages
 Amami Ōshima language
-Anthology
 Ateji
 Awaji dialect
-Azuma asobi uta
-Azuma region
 Bamboo English
 Banshū dialect
 Bingo dialect
 Blend word
 Bonin English
 Braille kanji
-Case marker
 Chikuzen dialect
-Chūbu region
-Chūgoku dialect
 Classical Japanese
 Consonant
 Cyrillization of Japanese
-Denasalization
-Diachrony and synchrony
-Dialect continuum
 Doi (identifier)
 Early Middle Japanese
 Early Modern Japanese
@@ -34,24 +22,18 @@ Enclosed Ideographic Supplement
 Engrish
 Extended Unix Code
 Extended shinjitai
-Fortition
-Fudoki
 Furigana
-Gairaigo
-Gemination
 Gender differences in Japanese
 Glossary of Japanese words of Dutch origin
 Glossary of Japanese words of Portuguese origin
 Go-on
 Gojūon
 Gunma dialect
-HAL (open archive)
 Hachijō grammar
 Hachijō language
 Hakata dialect
 Halfwidth and fullwidth forms
 Hdl (identifier)
-Heian period
 Hentaigana
 Hepburn romanization
 Hichiku dialect
@@ -59,20 +41,14 @@ Hida dialect
 Hiragana
 Hiragana (Unicode block)
 Historical kana orthography
-Hitachi Province
 Hokkaido dialects
-Hokuriku dialect
 Honorific speech in Japanese
-Hōnichi dialect
 ISBN (identifier)
-ISO/IEC 2022
 ISO 639-3
 ISSN (identifier)
 Ibaraki dialect
-Imperative mood
 Inshū dialect
 Iyo dialect
-Izu Islands
 JIS X 0201
 JIS X 0208
 JIS X 0211
@@ -83,8 +59,6 @@ Japan
 Japanese-based creole languages
 Japanese Braille
 Japanese adjectives
-Japanese books
-Japanese conjugation
 Japanese counter word
 Japanese dialects
 Japanese dictionary
@@ -105,7 +79,6 @@ Japanese pronouns
 Japanese punctuation
 Japanese script reform
 Japanese sound symbolism
-Japanese verb conjugation
 Japanese writing system
 Japonic languages
 Jōdai Tokushu Kanazukai
@@ -121,56 +94,35 @@ Kanagawa dialect
 Kanazukai
 Kanbun
 Kanji
-Kansai Region
 Kansai dialect
-Kantō Region
-Kantō dialect
-Kantō region
 Katakana
 Katakana (Unicode block)
 Katakana Phonetic Extensions
-Kazusa Province
 Kesen dialect
 Kikai language
 Kishū dialect
-Kokin wakashū
 Kokuji
-Koreanic languages
 Kumamoto dialect
 Kunigami language
 Kunrei-shiki romanization
-Kyoto dialect
 Kyowa-go
-Kyūshū
-Kyūshū Old Japanese
-Kōzuke Province
-Language family
-Language variety
 Late Middle Japanese
 List of Japanese speculative fiction writers
 List of Japanese writers
 List of classical Japanese texts
-List of kanji by stroke count
 List of kanji radicals by frequency
 List of kanji radicals by stroke count
 Logogram
-Macro-Yaeyama languages
 Man'yōgana
-Man'yōshū
 Mikawa dialect
 Mino dialect
 Miyakoan language
 Modern kana usage
-Morphology (linguistics)
-Musashi Province
-Mutsu Province
 Nagaoka dialect
 Nagasaki dialect
 Nagoya dialect
 Nairiku dialect
 Nanbu dialect
-Nara (city)
-Nara Period
 Narada dialect
 Nihon-shiki romanization
 Northern Izu Archipelago dialects
@@ -178,49 +130,26 @@ Northern Ryukyuan languages
 Nyōbō kotoba
 Okinawan Japanese
 Okinawan language
-Okinoerabu dialect cluster
-Okinoerabu language
 Okurigana
 Okuyoshino dialect
 Old Japanese
-Peninsular Japonic
-Phonotactics
 Polivanov system
-Possessive
-Predicative expression
-Prefix
-Proto-Japanese
-Proto-Japonic
-Proto-Ryukyuan language
 Pseudo-Chinese
-Raising (sound change)
 Rendaku
 Romanization of Japanese
 Ryakuji
 Ryukyuan languages
 S2CID (identifier)
-SOV language
 Saga dialect
-Sagami Province
-Sakimori uta
 Sanuki dialect
 Shift JIS
 Shikoku dialect
-Shimotsuke Province
-Shimōsa Province
-Shinano Province
 Shizuoka dialect
-Sinitic languages
 Sino-Japanese vocabulary
 Small Kana Extension
 Southern Amami Ōshima language
 Southern Ryukyuan languages
-Stratum (linguistics)
-Stress (linguistics)
-Suffix
-Suruga Province
 Sōgana
-Tamna
 Tarama language
 Tochigi dialect
 Tokunoshima language
@@ -233,19 +162,13 @@ Tsugaru dialect
 Tsushima dialect
 Tō-on
 Tōhoku dialect
-Tōhoku region
-Tōkai–Tōsan dialect
-Tōtōmi Province
 Umpaku dialect
 Vowel
-Vowel length
 Wasei-eigo
 Wasei-kango
-Western Old Japanese
 Wāpuro rōmaji
 Yaeyama language
 Yakuwarigo
-Yamato kotoba
 Yilan Creole Japanese
 Yokohama Pidgin Japanese
 Yonaguni language

@@ -1,42 +1,27 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
-APT (Package Manager)
-ARM Cortex-A15
-ARM Cortex-A7
-ARM architecture
-Accounts-sso
 Adobe Flash
 AlmaLinux
-Almquist shell
 Alpine Linux
 Amazon Kindle
 Android-x86
 Android (operating system)
 Android Go
-Android Marshmallow
 Antergos
 AntiX
-AppArmor
-Aptitude (software)
 ArchBang
 ArchLabs
 Arch Linux
 Artix Linux
 Asahi Linux
-Ask Ubuntu
 Astra Linux
 Asturix
 Austrumi Linux
 B2G OS
 BLAG Linux and GNU
-BQ Aquaris E4.5
-BQ Aquaris E5
-BQ Aquaris M10
 BackBox
 BackTrack
 Bada (operating system)
-Benjamin Mako Hill
 Bharat Operating System Solutions
 Binary Runtime Environment for Wireless
 BioSLAX
@@ -46,11 +31,8 @@ BlackBerry OS
 BlackBerry Tablet OS
 Black Lab Linux
 BlankOn Linux
-Blogging
 Bodhi Linux
-Brasero (software)
 BridgeOS
-Bring your own device
 CHAOS (operating system)
 CNET
 CNN
@@ -59,8 +41,6 @@ CRUX
 Calculate Linux
 Caldera OpenLinux
 CalyxOS
-Canonical (company)
-Canonical Ltd.
 CentOS
 CentOS Stream
 Central processing unit
@@ -75,7 +55,6 @@ ColorOS
 Commodore OS
 Comparison of Linux distributions
 Comparison of mobile operating systems
-Computer Monitor
 Container Linux
 Corel Linux
 CrDroid
@@ -84,24 +63,16 @@ Cub Linux
 CyanogenMod
 Damn Small Linux
 Damn Vulnerable Linux
-Deb (file format)
 Debian
-Debian configuration system
 Deepin
 DemoLinux
 Devuan
-Digital TV
-DistroWatch
 DivestOS
 Doi (identifier)
 DoudouLinux
-Dpkg
 Dreamlinux
-EGL (OpenGL)
-EMMC
 EMUI
 EPOC (operating system)
-EasyPeasy
 Edubuntu
 Elementary OS
 Elive
@@ -110,7 +81,6 @@ EndeavourOS
 Endless OS
 EulerOS
 European Union
-Fairphone 2
 Familiar Linux
 Feather Linux
 Fedora Linux
@@ -124,52 +94,29 @@ FreedomBox
 Freespire
 Frugalware Linux
 Fuchsia (operating system)
-Full Circle (magazine)
 GEOS (16-bit operating system)
-GIMP
-GNOME
-GNOME Files
 GNU
-GNU Bazaar
 GNU General Public License
 GNU Guix System
 GNewSense
 GOS (operating system)
-GPS
-GUI
-Galaxy Nexus
 Garuda Linux
 GeckoLinux
 Gentoo Linux
-GetDeb
 GoboLinux
 Gobuntu
 Google
-Google Nexus
 GrapheneOS
 HMD Global
-Halium
 HandyLinux
 HarmonyOS
 HarmonyOS NEXT
-Head unit
-High-Definition Multimedia Interface
-Hildon
-Hybris (software)
-Hyperbola GNU/Linux-libre
 IOS
 IPadOS
-Ian Jackson
 Immunix
-Intel Atom
 Intel Management Engine
-Intel Mobile Internet Device
 IodéOS
-Jane Silber
 Java (programming language)
-Jeff Waugh
-Jono Bacon
-Juju (software)
 Jurix
 KDE neon
 KaOS
@@ -185,12 +132,7 @@ Korora (operating system)
 Kubuntu
 Kwort Linux
 LXLE Linux
-Landscape (software)
-Launchpad (website)
 Libranet
-LibreOffice
-Librem 5
-LightDM
 LinHES
 LineageOS
 Linpus Linux
@@ -203,37 +145,27 @@ Linux Mint
 Linux Router Project
 Linux distribution
 Linux for PlayStation 2
-Linux for mobile devices
 Linux kernel
 List of Linux distributions
 List of custom Android distributions
 List of mobile app distribution platforms
 List of open-source mobile phones
 LiteOS
-Lock screen
-Lomiri
 Lubuntu
 LuneOS
 MCC Interim Linux
-MIT Technology Review
 MIUI
 MX Linux
 Maemo
 Mageia
 Magic Cap
-Maliit
 Mandrake Linux
 Mandriva Linux
 Manjaro
-Mark Shuttleworth
-Medibuntu
 MeeGo
-Meizu MX4
-Meizu PRO 5 Ubuntu Edition
 Mer (software distribution)
 Microsoft Windows
 Minix 3
-Mir (software)
 Miracle Linux
 Mobian
 Mobile World Congress
@@ -243,11 +175,7 @@ Mobilinux
 Moblin
 MontaVista
 MotoMagx
-Multi-core processor
 Multi-touch
-Musix GNU+Linux
-Mythbuntu
-NDTV
 Natural language
 NetBSD
 Network Security Toolkit
@@ -261,16 +189,12 @@ NixOS
 Nobara Linux
 Nokia Asha platform
 Nova (operating system)
-OFono
 OmniROM
 One UI
 Open-source software
-OpenCD
 OpenELEC
 OpenEZX
 OpenEmbedded
-OpenGL
-OpenGL ES
 OpenHarmony
 OpenMandriva Lx
 OpenSUSE
@@ -284,15 +208,11 @@ PCLinuxOS
 Package manager
 PalmDOS
 Palm OS
-Paper cut bug
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
 Pentoo
 Peppermint OS
-Pine64
-PinePhone
 Pinguy OS
 PixelExperience
 Platypux
@@ -304,22 +224,17 @@ PostmarketOS
 Programmer
 Puppy Linux
 PureOS
-Purism (company)
 Q4OS
 QNX
 QtMoko
-Qt (framework)
-Qt (software)
 Qubes OS
 ROSA Linux
-Random-access memory
 Raspberry Pi OS
 Red Hat Enterprise Linux
 Red Hat Linux
 Red Star OS
 Remix OS
 Replicant (operating system)
-Repository (version control)
 Resurrection Remix OS
 Rocks Cluster Distribution
 Rocky Linux
@@ -332,23 +247,17 @@ Sabayon Linux
 Sabily
 Sailfish OS
 Salix OS
-Samsung Galaxy S4
 Scientific Linux
-Scott James Remnant
 Series 30
 Series 30+
 Series 40
 Series 80 (software platform)
 Series 90 (software platform)
-Side Stage
 Slackware
 Slax
 Smart TV
 Smartphone
-Smartwatch
-Snappy (package manager)
 Softlanding Linux System
-Software Updater
 Software license
 Software release life cycle
 Solus (operating system)
@@ -358,74 +267,43 @@ Source Mage
 Source code
 SparkyLinux
 Splashtop OS
-StartUp-Manager
-Startup Disk Creator
 SteamOS
 Sunwah Linux
 Symbian
-System76
 SystemRescue
 T2 SDE
-Tablet computer
 Tails (operating system)
 Think Blue Linux
 ThreadX
 Tiny Core Linux
 Tizen
 TopologiLinux
-Touch user interface
-Touchscreen
 Trisquel
 Turbolinux
 Turkix
-Tuxedo Computers
 UBports
 UIQ
 Ubiquitous computing
-Ubiquity (software)
 Ubuntu
-Ubuntu-restricted-extras
-Ubuntu (typeface)
 Ubuntu Budgie
 Ubuntu Cinnamon
-Ubuntu Edge
-Ubuntu Forums
 Ubuntu GNOME
-Ubuntu JeOS
 Ubuntu Kylin
 Ubuntu MATE
-Ubuntu Netbook Edition
-Ubuntu One
-Ubuntu Professional Certification
-Ubuntu Single Sign On
 Ubuntu Software Center
 Ubuntu Studio
-Ubuntu TV
-Ubuntu Titling
 Ubuntu Unity
-Ubuntu User
-Ubuntu for Android
-Ubuntu philosophy
-Ubuntu phone
-Ubuntu version history
 Ultramarine Linux
-Uncomplicated Firewall
-Unity (user interface)
 Unity Operating System
-Upstart (software)
-Uruk GNU/Linux
 User interface
-Usplash
 VectorLinux
 Video game
 Vine Linux
-VoIP
 Void Linux
 WatchOS
 Wayback Machine
 Wear OS
 WebOS
-Web 2.0
 Whonix
 Windows 10
 Windows 10 Mobile
@@ -439,13 +317,10 @@ Windows Phone 8
 Windows Phone 8.1
 Windows RT
 Windows XP editions
-Wubi (software)
 Wubuntu
-X.Org Server
 X86
 XB Machine
 XNU
-XSplash
 Xubuntu
 Yellow Dog Linux
 YouTube

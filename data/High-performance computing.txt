@@ -1,5 +1,4 @@
 API
-Advanced Photon Source
 Algorithm
 Amdahl's law
 Analysis of parallel algorithms
@@ -11,10 +10,8 @@ Automatic parallelization
 Barrier (computer science)
 Beowulf cluster
 Bit-level parallelism
-Boost (C++ libraries)
 Bulldozer (microarchitecture)
 Business
-C++ AMP
 CUDA
 Cache-only memory architecture
 Cache coherence
@@ -23,11 +20,7 @@ Chapel (programming language)
 Charm++
 Cilk
 Cloud computing
-Cloud computing security
 Coarray Fortran
-Collapsed backbone network
-Computational fluid dynamics
-Computational science
 Computer architecture
 Computer cluster
 Computer hardware
@@ -37,12 +30,10 @@ Computer programming
 Concurrency (computer science)
 Cost efficiency
 Data parallelism
-Data warehouse
 Dataflow architecture
 Dataflow programming
 Deadlock (computer science)
 Deterministic algorithm
-Digital electronics
 Distributed computing
 Distributed memory
 Distributed shared memory
@@ -54,42 +45,29 @@ Flynn's taxonomy
 GPUOpen
 General-purpose computing on graphics processing units
 Global Arrays
-Grand Challenge
 Grid computing
 Gustafson's law
-HPL (benchmark)
 HPX
 Hardware acceleration
 Hardware scout
-High-availability cluster
-High-performance technical computing
-High-throughput computing
-High Productivity Computing Systems
-IBM Roadrunner
 Implicit parallelism
 Instruction-level parallelism
 Instruction pipelining
 Instruction window
-Jack Dongarra
 Karp–Flatt metric
-Line of business
 Loop-level parallelism
 Los Alamos National Laboratory
-Many-task computing
 Manycore processor
 Massively parallel
 Memory-level parallelism
 Memory coherence
 Message Passing Interface
-Metacomputing
 Multiple instruction, multiple data
 Multiple instruction, single data
 Multiprocessing
 Multithreading (computer architecture)
 Non-blocking algorithm
 Non-uniform memory access
-OS-level virtualization
-On-premises software
 OpenACC
 OpenCL
 OpenHMPP
@@ -108,7 +86,6 @@ Preemption (computing)
 Process (computing)
 Programming language
 Pthreads
-Quantum computing
 ROCm
 Race condition
 RaftLib
@@ -125,24 +102,15 @@ Speculative multithreading
 Speedup
 Starvation (computer science)
 Stream processing
-Supercomputer
 Superscalar processor
 Symmetric multiprocessing
 Synchronization (computer science)
-System software
-Systems administrator
 Systolic array
-TOP500
 Task parallelism
 Temporal multithreading
 Thread (computing)
 Threading Building Blocks
-Transaction processing
 Unified Parallel C
 Uniform memory access
 United States Department of Energy
-Urgent computing
 Vector processor
-Virtual prototypes
-Workstation
-ZPL (programming language)

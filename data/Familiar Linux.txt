@@ -1,7 +1,5 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
-ARNnet
 AlmaLinux
 Alpine Linux
 Android-x86
@@ -70,14 +68,12 @@ Fire OS
 Firefox OS
 Floppyfw
 Foresight Linux
-Free and open-source software
 FreedomBox
 Freespire
 Frugalware Linux
 GNU Guix System
 GNewSense
 GOS (operating system)
-GPE Palmtop Environment
 Garuda Linux
 GeckoLinux
 Gentoo Linux
@@ -85,12 +81,9 @@ GoboLinux
 Gobuntu
 GrapheneOS
 HandyLinux
-Hyperbola GNU/Linux-libre
-IPAQ
 ISBN (identifier)
 Immunix
 IodéOS
-Ipkg
 Jurix
 KDE neon
 KaOS
@@ -104,7 +97,6 @@ Kongoni (operating system)
 Korora (operating system)
 Kubuntu
 Kwort Linux
-LWN.net
 LXLE Linux
 Libranet
 LinHES
@@ -131,15 +123,12 @@ MeeGo
 Mer (software distribution)
 Miracle Linux
 Mobilinux
-Multi-booting
-Musix GNU+Linux
 Network Security Toolkit
 NimbleX
 Nitix
 NixOS
 Nobara Linux
 Nova (operating system)
-O'Reilly Media
 OCLC (identifier)
 OmniROM
 One UI
@@ -151,7 +140,6 @@ Open Enterprise Server
 Operating system
 Oracle Linux
 PCLinuxOS
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
@@ -217,15 +205,12 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 User interface
 VectorLinux
 Vine Linux
 Void Linux
 Wayback Machine
 Whonix
-Windows Embedded Compact
 Wubuntu
 XB Machine
 Xubuntu

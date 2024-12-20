@@ -8,76 +8,48 @@ André-Marie Ampère
 ArXiv (identifier)
 Arnold Sommerfeld
 Atom
-Atomic spacing
-Band theory
-Barlow's law
-Battery (electricity)
 Bibcode (identifier)
 Biot–Savart law
-Bloch electron
 Bremsstrahlung
 Capacitance
 Carl Friedrich Gauss
-Charge carrier
 Charge density
 Charles-Augustin de Coulomb
 Charles Proteus Steinmetz
-Circuit analysis
 Classical electromagnetism
 Classical electromagnetism and special relativity
-Classical mechanics
 Classical physics
-Complete Dictionary of Scientific Biography
-Complex exponential
 Complex number
 Computational electromagnetics
-Condensed matter physics
-Conduction (heat)
-Conduction electron
-Constitutive equations
 Coulomb
 Coulomb's law
 Covariant formulation of classical electromagnetism
-Crystallographic defect
 Current density
-Current–voltage characteristic
 Cyclotron radiation
 DC motor
-Darcy's law
-David Griffiths (physicist)
 Derivative
 Differential equation
-Diode
 Direct current
 Displacement current
 Doi (identifier)
-Drift velocity
-Drude model
 Eddy current
-Edward Mills Purcell
 Electret
 Electric charge
 Electric current
 Electric dipole moment
 Electric field
 Electric flux
-Electric force
 Electric machine
 Electric motor
 Electric potential
 Electric potential energy
 Electric power
-Electrical breakdown
-Electrical circuit
-Electrical conduction
 Electrical conductivity
 Electrical conductor
 Electrical impedance
 Electrical network
 Electrical resistance
 Electrical resistance and conductance
-Electrical resistivity
-Electrical resistivity and conductivity
 Electricity
 Electrolysis
 Electromagnetic field
@@ -87,93 +59,61 @@ Electromagnetic pulse
 Electromagnetic radiation
 Electromagnetic stress–energy tensor
 Electromagnetic tensor
-Electromagnetics
 Electromagnetism
-Electrometer
 Electromotive force
 Electron
-Electronic structure
 Electrostatic discharge
 Electrostatic induction
 Electrostatics
 Emil Lenz
 Emil Wiechert
-Empirical law
 Encyclopædia Britannica Eleventh Edition
-Ensemble average
 Equation
-Ernst Werner von Siemens
 Faraday's law of induction
-Felix Bloch
-Fermi-Dirac distribution
-Fick's law of diffusion
-Flux
 Four-current
-Francis Ronalds
 Franz Ernst Neumann
-Free electron model
 Félix Savart
-Galvanometer
 Gauss's law
 Gauss's law for magnetism
 Georg Ohm
 George Singer
-Green–Kubo relations
 Gustav Kirchhoff
 Gyrator–capacitor model
 Hans Christian Ørsted
-Heat
 Heinrich Hertz
 Hendrik Lorentz
-Henry Cavendish
 Hermann von Helmholtz
 Hippolyte Fizeau
 History of electromagnetic theory
-Hugh Chisholm
 Humphry Davy
-Hydraulic analogy
-Hydraulic conductivity
-Hydraulic head
 ISBN (identifier)
 ISSN (identifier)
 Inductance
 Induction motor
 Insulator (electricity)
-Internal resistance
 International System of Units
-Inverse function
 Ion
 Isotope
 J. J. Thomson
 James Clerk Maxwell
 James Prescott Joule
 Jean-Baptiste Biot
-Jean Baptiste Joseph Fourier
 Jefimenko's equations
 John Henry Poynting
 John Hopkinson
-Johnson–Nyquist noise
-Joseph Fourier
 Joseph Henry
 Joseph Larmor
-Joule's first law
 Joule heating
 Kirchhoff's circuit laws
-LED circuit
-LTI system theory
-Laminar flow
 Larmor formula
 Lenz's law
-Leyden jar
 Linear motor
 List of electrical phenomena
 List of textbooks in electromagnetism
-Liter
 Liénard–Wiechert potential
 London equations
 Lord Kelvin
 Lorentz force
-Lorentz transformation
 Magnetic circuit
 Magnetic complex reluctance
 Magnetic field
@@ -187,81 +127,45 @@ Magnetization
 Magnetomotive force
 Magnetostatics
 Mathematical descriptions of the electromagnetic field
-Matter
-Maximum power transfer theorem
 Maxwell's equations
 Maxwell's equations in curved spacetime
 Maxwell stress tensor
 Michael Faraday
 Mnemonic
-Momentum
 Network analysis (electrical circuits)
 Nikola Tesla
-Node (circuits)
-Non-ohmic resistance
-Norton's theorem
-Number density
 OL (identifier)
-Ohm's acoustic law
 Oleg D. Jefimenko
 Oliver Heaviside
 Optics
 PMID (identifier)
-Pascal (unit)
-Paul Drude
-Paul Horowitz
 Permeability (electromagnetism)
 Permeance
 Permittivity
 Plasma (physics)
-Poiseuille's law
 Polarization density
-Popular Science
-Pounds per square inch
 Poynting vector
-Proportionality (mathematics)
 Quantum mechanics
 Relativistic electromagnetism
 Resistivity
-Resistor
 Resonator
 Rest frame
 Rho
 Right-hand rule
 Rotor (electric)
 S2CID (identifier)
-Samuel F. B. Morse
 Scalar (mathematics)
-Scattering
-Semiconductor
 Series and parallel circuits
-Sheet resistance
-Siemens (unit)
 Sigma
-Silicon
 Siméon Denis Poisson
 Sine wave
-Small-signal modeling
 Static electricity
 Stator
-Superposition theorem
 Synchrotron radiation
-Taliaferro Preston Shaffner
-Temperature
-Thermal conductivity
-Thermal energy
-Thermal noise
-Thermocouple
-Thévenin's theorem
-Time-invariant
 Transformer
 Triboelectric effect
-Turbulent flow
-Vector (mathematics and physics)
 Voltage
-Voltaic pile
 Watt
 Waveguide (radio frequency)
 Wilhelm Eduard Weber
 William Ritchie (physicist)
-Winfield Hill

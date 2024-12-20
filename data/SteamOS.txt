@@ -1,10 +1,7 @@
-/e/ (operating system)
 2Fort
 4MLinux
 ALT Linux
-AMD
 API
-APT (software)
 Advanced Micro Devices
 Alien Swarm
 Alienware
@@ -28,7 +25,6 @@ Artix Linux
 Asahi Linux
 Astra Linux
 Asturix
-Asus ROG Ally
 Austrumi Linux
 B2G OS
 BBC
@@ -66,20 +62,16 @@ Chris Remo
 ChromeOS
 ChromeOS Flex
 ChromiumOS
-Chroot
 ClearOS
 Clear Linux OS
 Client–server model
-Closed source
 Cloud gaming
-Collabora
 ColorOS
 Commodore OS
 Comparison of Linux distributions
 Comparison of mobile operating systems
 Computer and Video Games
 Container Linux
-Containerization (computing)
 Corel Linux
 Counter-Strike
 Counter-Strike (video game)
@@ -93,17 +85,14 @@ Damn Vulnerable Linux
 Day of Defeat
 Deadlock (video game)
 Debian
-Debian version history
 Deepin
 DemoLinux
-Desktop environment
 Destiny 2
 Device driver
 Devuan
 Digital Spy
 DirectX
 DivestOS
-Doom Eternal
 Dota
 Dota 2
 Dota Underlords
@@ -111,7 +100,6 @@ DoudouLinux
 Doug Church
 Dreamlinux
 Dust II
-EA Digital Illusions CE
 EMUI
 EPOC (operating system)
 Edubuntu
@@ -125,27 +113,22 @@ Epic Games Store
 Erik Wolpaw
 EulerOS
 Eurogamer
-Falcon Northwest
 Familiar Linux
 Feather Linux
 Fedora Linux
-Fermi (microarchitecture)
 Fire OS
 Firefox OS
-Flatpak
 Floppyfw
 Foresight Linux
 Frame rate
 Frames per second
 FreeBSD
 FreeRTOS
-Free Software Foundation
 FreedomBox
 Freespire
 Frugalware Linux
 Fuchsia (operating system)
 GEOS (16-bit operating system)
-GNOME
 GNU
 GNU Guix System
 GNewSense
@@ -154,14 +137,10 @@ Gabe Newell
 GameSpot
 Game Informer
 Gaming computer
-Garry's Mod
 Garuda Linux
-GeForce 400 series
-GeForce 500 series
 Gearbox Software
 GeckoLinux
 Gentoo Linux
-Gigabyte
 GoboLinux
 Gobuntu
 GoldSrc
@@ -173,17 +152,12 @@ Half-Life (video game)
 Half-Life 2
 Handheld game console
 HandyLinux
-Hard disk
 HarmonyOS
 HarmonyOS NEXT
-Hitman 3
-Home directory
-Hyperbola GNU/Linux-libre
 IGN
 IOS
 IPadOS
 Immunix
-Immutable object
 Indie game
 Inferno (Counter-Strike)
 Intel
@@ -195,8 +169,6 @@ Jay Pinkerton
 Jeri Ellsworth
 Jess Cliffe
 Jurix
-KDE Plasma
-KDE Plasma 5
 KDE neon
 KaOS
 KaiOS
@@ -220,9 +192,7 @@ Libranet
 LinHES
 LineageOS
 Linpus Linux
-Linus Tech Tips
 Linux
-LinuxCon
 LinuxTLE
 Linux Caixa Mágica
 Linux Kernel
@@ -232,8 +202,6 @@ Linux Router Project
 Linux distribution
 Linux for PlayStation 2
 Linux kernel
-List of AMD processors
-List of Intel processors
 List of Linux distributions
 List of Valve games
 List of custom Android distributions
@@ -259,7 +227,6 @@ Mer (software distribution)
 Michael Abrash
 Microsoft Windows
 Mike Ambinder
-Mike Bithell
 Mike Harrington
 Mike Morasky
 Minecraft
@@ -276,7 +243,6 @@ Moblin
 Monolithic kernel
 MontaVista
 MotoMagx
-Musix GNU+Linux
 Natural language
 NetBSD
 Network Security Toolkit
@@ -292,7 +258,6 @@ Nokia Asha platform
 Nova (operating system)
 Nuke (Counter-Strike)
 Nvidia
-Nvidia GameWorks
 Olly Moss
 OmniROM
 One UI
@@ -300,7 +265,6 @@ Open-source software
 OpenELEC
 OpenEZX
 OpenEmbedded
-OpenGL
 OpenHarmony
 OpenMandriva Lx
 OpenSUSE
@@ -311,17 +275,13 @@ Open Mobile Alliance
 Open source
 Openmoko Linux
 Operating system
-OptiX
 Oracle Linux
-Origin PC
-PCGamer
 PCLinuxOS
 PCMag
 PC Gamer
 Package manager
 PalmDOS
 Palm OS
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
@@ -329,8 +289,6 @@ Pentoo
 Peppermint OS
 Peripheral
 Personal computer
-Phoronix
-PhysX
 Pinguy OS
 PixelExperience
 Platypux
@@ -350,11 +308,9 @@ PureOS
 Q4OS
 QNX
 QtMoko
-Quality of life (video games)
 Qubes OS
 RAM
 ROSA Linux
-Radeon
 Randy Pitchford
 Raspberry Pi OS
 Red Hat Enterprise Linux
@@ -362,9 +318,7 @@ Red Hat Linux
 Red Star OS
 Remix OS
 Replicant (operating system)
-Repository (version control)
 Resurrection Remix OS
-Richard Stallman
 Robin Walker (game designer)
 Rocks Cluster Distribution
 Rocky Linux
@@ -418,24 +372,20 @@ Tails (operating system)
 Team Fortress 2
 Team Fortress Classic
 TechRadar
-The Creative Assembly
 The Crossing (video game)
 The Lab (video game)
 The Orange Box
 The Steam Awards
 The Verge
 Think Blue Linux
-Thomas Was Alone
 ThreadX
 Tiny Core Linux
 Tizen
 TopologiLinux
-Total War (video game series)
 Trisquel
 Turbolinux
 Turkix
 UBports
-UEFI
 UIQ
 USB
 Ubuntu
@@ -449,9 +399,7 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
 Unreleased Half-Life games
-Uruk GNU/Linux
 User interface
 User space and kernel space
 Valve Anti-Cheat
@@ -460,10 +408,8 @@ Valve Index
 VectorLinux
 Venture Beat
 Video game console
-Video games and Linux
 Viktor Antonov (art director)
 Vine Linux
-VisualFX
 Void Linux
 WatchOS
 Wear OS
@@ -483,7 +429,6 @@ Windows RT
 Windows XP editions
 World Opponent Network
 Wubuntu
-X86-64
 XB Machine
 XNU
 Xubuntu

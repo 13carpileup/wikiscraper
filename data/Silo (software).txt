@@ -4,24 +4,19 @@
 3D computer graphics
 3D modeling
 AC3D
-ACIS
 Amapi
 Arnold (software)
 Autodesk 3ds Max
 Autodesk Alias
-Autodesk Maya
 Autodesk Mudbox
-Autodesk Softimage
 Blackmagic Fusion
 Blender (software)
 Bryce (software)
-C3D Toolkit
 Carrara (software)
 Cinema 4D
 Clara.io
 Closed-source
 CloudCompare
-Comparison of 3D computer graphics software
 Cyber Studio
 Daz Studio
 Displacement map
@@ -32,14 +27,12 @@ FreeCAD
 GigaMesh Software Framework
 Golaem Crowd
 Graphics software
-HOOPS 3D Graphics System
 Hexagon (software)
 Houdini (software)
 Imagine (3D modeling software)
 IntelliCAD
 Kerkythea
 KernelCAD
-LightWave 3D
 Linux
 List of 3D computer graphics software
 List of 3D modeling software
@@ -49,36 +42,24 @@ MASSIVE (software)
 MacOS
 MakeHuman
 MeshLab
-Messiah (software)
 Microsoft Windows
-Modo (software)
 MoonRay
 N-World
-Nevercenter
 Normal mapping
-Nuke (software)
 Octane Render
 Oculus Medium
 Open-source software
 OpenFX (software)
-OpenSCAD
 Open Cascade Technology
 Operating system
 POV-Ray
-Paint 3D
 Parasolid
-Pixar RenderMan
 Point Cloud Library
-Polygon
 Poser (software)
-PowerAnimator
 Presto (animation software)
 Programmer
 Remo 3D
-Rhinoceros 3D
-Romulus (modelling kernel)
 Russian Geometric Kernel
-Sculpt 3D
 Seamless3d
 Shade 3D
 ShapeManager
@@ -91,7 +72,6 @@ Software release life cycle
 Source Filmmaker
 StrataVision 3D
 Strata 3D
-Subdivision surfaces
 Sweet Home 3D
 Swift 3D
 Teigha

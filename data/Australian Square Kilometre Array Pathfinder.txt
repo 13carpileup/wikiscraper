@@ -1,7 +1,5 @@
-AARNet
 Algonquin Radio Observatory
 Allen Telescope Array
-Antenna effective area
 Antony Hewish
 Aperture synthesis
 ArXiv (identifier)
@@ -13,23 +11,16 @@ Astronomical interferometer
 Astronomical radio source
 Atacama Large Millimeter Array
 Australia Telescope Compact Array
-Australia Telescope National Facility
 Australian Government
-Bandwidth (signal processing)
-Baseline (interferometry)
 Bernard Lovell
 Bibcode (identifier)
-CSIRO
 Caltech Submillimeter Observatory
 Canadian Hydrogen Intensity Mapping Experiment
 Christiaan Alexander Muller
 Coaxial cable
 Combined Array for Research in Millimeter-wave Astronomy
-Commonwealth Scientific and Industrial Research Organisation
 Cosmic microwave background
-Cosmic time
 Cyril Hazard
-Declination
 Doi (identifier)
 Dominion Radio Astrophysical Observatory
 Edward George Bowen
@@ -38,20 +29,16 @@ Elizabeth Alexander (scientist)
 Engadget
 European VLBI Network
 Event Horizon Telescope
-Evolutionary Map of the Universe
 Fast radio burst
 Field-programmable gate array
 Field of view
-First light (astronomy)
 Five-hundred-meter Aperture Spherical Telescope
 Frank Drake
 Frank John Kerr
-Galaxy formation and evolution
 Galenki RT-70 radio telescope
 Gart Westerhout
 Geographic coordinate system
 Giant Metrewave Radio Telescope
-Government of Western Australia
 Govind Swarup
 Gravitational-wave astronomy
 Green Bank Interferometer
@@ -60,15 +47,12 @@ Green Bank Telescope
 Grote Reber
 HALCA
 HD 164595
-H I region
 Hartebeesthoek Radio Astronomy Observatory
 Haystack Observatory
 Hdl (identifier)
 High-energy astronomy
 Infrared astronomy
-Instruction pipeline
 Interferometry
-Intergalactic medium
 Jan Oort
 Jansky
 Jocelyn Bell Burnell
@@ -76,7 +60,6 @@ Jodrell Bank Observatory
 John D. Kraus
 John Gatenby Bolton
 Joseph L. Pawsey
-Joseph Lade Pawsey
 Karl Guthe Jansky
 Kenneth Kellermann
 Korean VLBI Network
@@ -87,24 +70,17 @@ Long Wavelength Array
 Lovell Telescope
 Low-Frequency Array (LOFAR)
 MERLIN
-Magnetic field of celestial bodies
 Martin Ryle
 MeerKAT
-Mid West (Western Australia)
-Missing baryon problem
 Modulation
 Molonglo Observatory Synthesis Telescope
 Mullard Radio Astronomy Observatory
-Murchison (Western Australia)
-Murchison Radio-astronomy Observatory
 Murchison Widefield Array
-NRAO VLA Sky Survey
 Nan Dieter-Conklin
 Nançay Radio Observatory
 National Radio Astronomy Observatory
 New Norcia Station
 Newsweek
-Noise temperature
 Northern Cross Radio Telescope
 Northern Extended Millimeter Array
 Odd radio circle
@@ -113,12 +89,8 @@ Onsala Space Observatory
 Ooty Radio Telescope
 Optical fiber
 PMID (identifier)
-Parabolic antenna
 Parkes Observatory
 Paul Wild (Australian scientist)
-Perth, Western Australia
-Phased Array
-Phased array
 Primeval Structure Telescope
 Prince Albert Radar Laboratory
 Pulsar timing array
@@ -126,8 +98,6 @@ Pushchino Radio Astronomy Observatory
 Qitai Radio Telescope
 RATAN-600
 Radio astronomy
-Radio correlator
-Radio frequency interference
 Radio propagation
 Radio telescope
 Radio window
@@ -136,7 +106,6 @@ Ronald N. Bracewell
 Root mean square
 Ruby Payne-Scott
 S2CID (identifier)
-Sampling (signal processing)
 Sardinia Radio Telescope
 Search for extraterrestrial intelligence
 Sebastian von Hoerner
@@ -147,13 +116,8 @@ Square Kilometre Array
 Submillimeter Array
 Submillimetre astronomy
 Suffa RT-70 radio telescope
-Supercomputer
-Thermoelectric effect
-Transient astronomical event
 Ukrainian T-shaped Radio telescope, second modification
 Usuda Deep Space Center
-VLBI
-Variable star
 Vermilion River Observatory
 Very-long-baseline interferometry
 Very Large Array
@@ -163,6 +127,5 @@ Warkworth Radio Astronomical Observatory
 Watt
 Westerbork Synthesis Radio Telescope
 Western Australia
-Widefield ASKAP L-Band Legacy All-Sky Blind Survey
 Wow! signal
 Yevpatoria RT-70 radio telescope

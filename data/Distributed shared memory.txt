@@ -1,5 +1,4 @@
 API
-Address space
 Amdahl's law
 Analysis of parallel algorithms
 Application checkpointing
@@ -10,9 +9,7 @@ Automatic parallelization
 Barrier (computer science)
 Beowulf cluster
 Bit-level parallelism
-Boost (C++ libraries)
 Bulldozer (microarchitecture)
-C++ AMP
 CUDA
 Cache-only memory architecture
 Cache coherence
@@ -22,7 +19,6 @@ Charm++
 Cilk
 Cloud computing
 Coarray Fortran
-Coherence protocol
 Computer cluster
 Computer hardware
 Computer multitasking
@@ -30,19 +26,13 @@ Computer network
 Computer programming
 Computer science
 Concurrency (computer science)
-Consistency model
 Cost efficiency
 Critical section
-DGAS
 Data parallelism
 Dataflow architecture
 Dataflow programming
-David Patterson (computer scientist)
 Deadlock (computer science)
 Deterministic algorithm
-Directors Guild of America Award
-Directory-based cache coherence
-Distributed cache
 Distributed computing
 Distributed memory
 Dryad (programming)
@@ -64,35 +54,25 @@ Implicit parallelism
 Instruction-level parallelism
 Instruction pipelining
 Instruction window
-Intel QuickPath Interconnect
-John L. Hennessy
 Karp–Flatt metric
-Kerrighed
 Loop-level parallelism
-MOSIX
 Manycore processor
 Massively parallel
 Memory-level parallelism
-Memory architecture
 Memory coherence
 Memory virtualization
 Message Passing Interface
-Multicomputer
 Multiple instruction, multiple data
 Multiple instruction, single data
 Multiprocessing
 Multithreading (computer architecture)
-Network interface controller
-Node (networking)
 Non-blocking algorithm
 Non-uniform memory access
 OpenACC
 OpenCL
 OpenHMPP
 OpenMP
-OpenSSI
 Operating system
-Page (computer memory)
 Parallel Extensions
 Parallel RAM
 Parallel Virtual Machine
@@ -108,16 +88,11 @@ Pthreads
 ROCm
 Race condition
 RaftLib
-Random-access memory
-Remote direct memory access
 Scalability
 Semiconductor memory
-Shared-memory
 Shared memory
-Shared memory architecture
 Simultaneous and heterogeneous multithreading
 Simultaneous multithreading
-Single-system image
 Single instruction, multiple data
 Single instruction, multiple threads
 Single instruction, single data
@@ -134,12 +109,7 @@ Task parallelism
 Temporal multithreading
 Thread (computing)
 Threading Building Blocks
-TreadMarks
-Tuple
-Tuple space
 Unified Parallel C
 Uniform memory access
 Vector processor
-Virtual memory
 Wayback Machine
-ZPL (programming language)

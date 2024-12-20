@@ -1,21 +1,13 @@
-AIBO
 ANSI C
-ARM architecture
 Alef (programming language)
-AmigaOS 4
 Amsterdam Compiler Kit
 Anjuta
-Apress
-BSD libc
 Bionic (software)
-Board support package
-Borland Turbo C
 C++
 C11 (C standard revision)
 C17 (C standard revision)
 C23 (C standard revision)
 C99
-CLion
 C (programming language)
 C POSIX library
 C Sharp (programming language)
@@ -23,7 +15,6 @@ C character classification
 C data types
 C date and time functions
 C dynamic memory allocation
-C file input/output
 C mathematical functions
 C preprocessor
 C standard library
@@ -31,40 +22,26 @@ C string handling
 C syntax
 Clang
 CodeLite
-CodeSourcery
 Comparison of Pascal and C
-Compatibility of C and C++
-Cross-platform
-Cygnus Support
-Cygwin
 D (programming language)
 Dennis Ritchie
 Dietlibc
 Eclipse (software)
 Embedded C
-Embedded GLIBC
 Embedded systems
-Free software licenses
 GNOME Builder
-GNU C Library
 GNU Compiler Collection
 Geany
 Glibc
 Go (programming language)
-Google Native Client
 Homebrew (video games)
-Hybris (software)
 ISBN (identifier)
 Include directive
 Integrated development environment
-Intel C++ Compiler
 KDevelop
-Keith Packard
 Klibc
 LCC (compiler)
 Limbo (programming language)
-List of C compilers
-List of Dreamcast homebrew games
 MISRA C
 Microsoft Visual C++
 Microsoft Visual Studio Express
@@ -74,24 +51,17 @@ NetBeans
 Norcroft C compiler
 Objective-C
 Operating system
-Operators in C and C++
 Portable C Compiler
 Programmer
 Red Hat
-Renesas
-Repository (version control)
-Runtime library
-Sega Dreamcast
 Small Device C Compiler
 Software categories
 Software development kit
 Software license
 Software release life cycle
 Stdarg.h
-Subroutine
 Tiny C Compiler
 UClibc
 Vala (programming language)
 Visual Studio
-Watcom C/C++
 Wayback Machine

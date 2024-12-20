@@ -1,213 +1,54 @@
 19-inch rack
-3D optical data storage
-5.1 Music Disc
-9P (protocol)
 AES3
 AES47
-AIX (operating system)
 ANSI C
 ANSI escape code
-ATA Packet Interface
-AXFS
-Access-control list
 Ada Semantic Interface Specification
-Adaptec
 AdvFS
-Advanced Disc Filing System
-Advanced Intelligent Tape
-AmigaOS
-Amiga Fast File System
-Amiga Old File System
-Andrew File System
-Apache Hadoop
-Apple File System
-Apple Filing Protocol
-Apple ISO 9660 Extensions
-Apple Partition Map
-Application Programming Interface for Windows
-ArcaOS
-Archival Disc
-AtheOS File System
-Aufs
-Basic Data Partition
 Battery nomenclature
-Bcachefs
-BeOS
-Be File System
-BeeGFS
-Binary-coded decimal
-Blu-ray
 Blu-ray 3D
-Blu-ray Disc
-Blu-ray Disc recordable
-Boot File System
-Btrfs
-Burst cutting area
-Byte order mark
 C++
-C++/CLI
-CD+G
-CD-DA
-CD-R
 CD-ROM
-CD-ROM XA
-CD-RW
-CD-Text
 CD-i
-CD Video
-CDfs
-CHFS
 CHILL
 COBOL
-CXFS
 C Sharp (programming language)
-Case preservation
-Ceph (software)
-China Blue High-definition Disc
-Chmod
 Classic Mac OS
-Clustered file system
-Coda (file system)
 Code point
 Common Criteria
 Common Language Infrastructure
 Common Logic
 Compact Disc Digital Audio
-Compact Disc File System
 Compact disc
 Comparative Tracking Index
-Comparison of distributed file systems
 Comparison of file systems
 Computer Graphics Metafile
-Computer access control
 Computer data storage
-Configfs
-Copy-on-write
-Cramfs
 DOS
 DVD
-DVD+R
-DVD+RW
-DVD+R DL
-DVD+R DS
-DVD-Audio
-DVD-D
-DVD-R
-DVD-RAM
-DVD-RW
-DVD-R DL
-DVD-R DS
-DVD-Video
-DVD Consortium
-DVD authoring
-DVD player
-DVD recording
-Dart (programming language)
-DataPlay
-Data deduplication
 Data scrubbing
-Datalight
-Davfs2
-Debugfs
-Device file
 Digital Addressable Lighting Interface
-Digital Data Storage
 Digital Linear Tape
-Disc Filing System
-Distributed File System (Microsoft)
 Document Style Semantics and Specification Language
-Drive Letter Access
 ECMAScript
 ECMAScript for XML
-EComStation
-ECryptfs
 EN 62262
-EROFS
 E series of preferred numbers
 Ecma International
-EcoDisc
 Eiffel (programming language)
-El Torito (CD-ROM standard)
-Elliptics
 Emoji
-EncFS
-Encrypting File System
-Enhanced Versatile Disc
-Episode filesystem
-ExFAT
-Exbibyte
-Execute in place
-Ext2
-Ext3
-Ext3cow
-Ext4
-Extended file attributes
-Extended file system
-Extent (file systems)
-Extent File System
-F2FS
 FAT12
 FAT16
-FAT16B
-FAT filesystem and Linux
-FTPFS
 Fieldbus
-File-system permissions
 File Allocation Table
-File attribute
-File change log
-File manager
 File system
-File system API
-File system permissions
-Files-11
-Filesystem
-Filesystem-level encryption
-Filesystem in Userspace
-Flash file system
-Flash memory
 Floppy disk
-Fluorescent Multilayer Disc
-Fork (file system)
-Forward Versatile Disc
-Fossil (file system)
 FreeBSD
-FreeDOS
 Full BASIC
-GD-ROM
-GFS2
-GPFS
-GUID Partition Table
-Global file system
-Google File System
 Graph Query Language
 Graphical Kernel System
-Grid file system
 Guidelines for the Definition of Managed Objects
-HAMMER2
-HAMMER (file system)
-HD-DVD
-HD DVD
-HD DVD-R
-HD DVD-RAM
-HD DVD-RW
-HFS Plus
 HTML
-Haiku (operating system)
-Hard disk
-Hard link
-Hi-MD
-Hierarchical File System (Apple)
-Hierarchical File System (IBM MVS)
-High-Definition Versatile Disc
-High-Definition Versatile Multilayer Disc
-High-definition optical disc format war
-High Performance File System
-High Sierra Format
-High Throughput File System
-History of optical storage media
-Holographic Versatile Disc
-Hyper CD-ROM
 IEC 60027
 IEC 60034
 IEC 60038
@@ -224,7 +65,6 @@ IEC 60870-5
 IEC 60870-6
 IEC 60906-1
 IEC 60929
-IEC 60980-344
 IEC 61030
 IEC 61131
 IEC 61131-3
@@ -247,7 +87,6 @@ IEC 62196
 IEC 62264
 IEC 62304
 IEC 62325
-IEC 62351
 IEC 62366
 IEC 62379
 IEC 62455
@@ -262,101 +101,21 @@ IO-Link
 IP-XACT
 ISBN (identifier)
 ISLISP
-ISO-8859-1
-ISO/IEC 10021
-ISO/IEC 10116
-ISO/IEC 10967
-ISO/IEC 11179
-ISO/IEC 11404
-ISO/IEC 11801
-ISO/IEC 12207
-ISO/IEC 13490
-ISO/IEC 14443
-ISO/IEC 14651
-ISO/IEC 15288
-ISO/IEC 15504
-ISO/IEC 15693
-ISO/IEC 15897
-ISO/IEC 17024
-ISO/IEC 17025
-ISO/IEC 18014
-ISO/IEC 19752
-ISO/IEC 19770
-ISO/IEC 19788
-ISO/IEC 20000
-ISO/IEC 2022
-ISO/IEC 21827
-ISO/IEC 24727
-ISO/IEC 24744
-ISO/IEC 27000
-ISO/IEC 27000-series
-ISO/IEC 27002
-ISO/IEC 27040
-ISO/IEC 29119
-ISO/IEC 33001
-ISO/IEC 38500
-ISO/IEC 42010
-ISO/IEC 4909
-ISO/IEC 5218
-ISO/IEC 646
-ISO/IEC 6523
-ISO/IEC 7810
-ISO/IEC 7811
-ISO/IEC 7812
-ISO/IEC 7813
-ISO/IEC 7816
-ISO/IEC 80000
-ISO/IEC 8652
-ISO/IEC 8859
-ISO/IEC 9126
-ISO/IEC 9529
-ISO/IEC 9995
-ISO9660
 ISO 13490
 ISO 9660
-InCD
-Installable File System
 Interface (computing)
 International Electrotechnical Commission
 International Organization for Standardization
 International Standard Identifier for Libraries and Related Organizations
 JBIG
-JFFS
-JFFS2
-JFS (file system)
 JPEG 2000
 JPEG XL
-JSON
 JavaScript
-Joliet (file system)
-Journaling file system
-Kernfs (BSD)
-LD-ROM
-LV-ROM
-LaserDisc
-Layer Jump Recording
-Linear Tape-Open
-Linear Tape File System
 Linux Standard Base
 Linux kernel
-List of Ecma standards
 List of IEC standards
-List of cryptographic file systems
-List of default file systems
 List of file systems
-List of log-structured file systems
-Live File System
-Lnfs
-Log-structured File System (BSD)
-Log-structured file system
-LogFS
-Lost literary work
-Lustre (file system)
-M-DISC
-MD Data
 MHEG-5
-MIL-CD
-MINIX file system
 MPEG-1
 MPEG-2
 MPEG-21
@@ -367,134 +126,30 @@ MPEG-D
 MPEG-H
 MVS
 MacOS
-Mac OS 8
-Mac OS 9
 Mac OS X
-Macintosh File System
-Magneto-optical drive
-Magnussoft ZETA
-Master Boot Record
-Master boot record
-Matt Pietrek
-Microsecond
-MiniDVD
-MiniDisc
-Mini CD
 Minimal BASIC
 Mixed raster content
-Mount Rainier (packet writing)
-NILFS
-NOVA (filesystem)
 NTFS
-Near-field communication
 NetBSD
-NetWare
-NetWare Core Protocol
-NetWare File System
-Network-attached storage
-Network File System
-Next3
 Nintendo optical discs
-Non-Volatile File System
-Novell Storage Services
-OCFS2
-OS/2
-Object storage
 Office Open XML
-OneFS distributed file system
-OpenAFS
-OpenBSD
 OpenDocument
-OpenZFS
 Open Data Protocol
 Open Document Architecture
-Open XML Paper Specification
-Open format
 Operating system
-Optical Storage Technology Association
 Optical disc
-Optical disc authoring
-Optical disc authoring software
-Optical disc drive
-Optical disc recording modes
-Optical disc recording technologies
-Oracle ZFS
-OrangeFS
-Overhead (computing)
-OverlayFS
 PHIGS
 POSIX
-Packet writing
-Parallel Virtual File System
-Partition type
-Personal Video Disc
-Photo CD
-Plane (Unicode)
-Procfs
-Professional Disc
-Professional File System
-Profile (engineering)
-QFS
-QNX4FS
 QR code
-Quantcast File System
 RELAX NG
 RKM code
-Rainbow Books
-Rational MultiVersion File System
-ReFS
-Record-oriented filesystem
-Reiser4
-ReiserFS
-Remote File Sharing
-Rock Ridge
-Romeo file system
-Roxio Toast
-Rubberhose (file system)
-SCSI Multimedia Commands
-SSHFS
-Self-certifying File System
-Semantic file system
-Server Message Block
-Small Form Factor Committee
-Smart File System
-Soft updates
 Software developer
-Solaris (operating system)
 Solid-state drive
-Soup (Apple)
-SquashFS
-Stacked Volumetric Optical Disc
-Steganographic file system
-Sticky bit
-StorNext File System
 Sun Microsystems
-Super Audio CD
-Super Video CD
-Symbolic link
-Synthetic file system
-Sysfs
-System 7
-Tebibyte
-TiVo Media File System
-Tmpfs
 Topic map
-Transaction-Safe FAT File System
-Tux3
-U+FFFE
-UBIFS
-UCS-2
 USB
 USB flash drive
 UTF-16
-Ultra-wideband
-Ultra Density Optical
-Ultra HD Blu-ray
 Unicode
-Unicode equivalence
-UnionFS
-Universal 3D
-Universal Character Set characters
 Universal Coded Character Set
-Universal Media Disc
 Universal Remote Console

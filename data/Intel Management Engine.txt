@@ -1,193 +1,26 @@
-/boot/
 16-bit
 32-bit
-ACPI
-AMD
-AMD Platform Security Processor
-AMD Secure Technology
-AMIBIOS
-AMI Aptio
-ARCS (computing)
-ARC (processor)
-ARC (specification)
-ARM TrustZone
-Acronis OS Selector
-Active Management Technology
-Advanced Power Management
-American Megatrends
-Apple Partition Map
-Architecture of Windows 9x
-Award Software
 BIOS
-BIOS boot partition
-Backdoor (computing)
-Barebox
-BootManager
-BootX (Apple)
-BootX (Linux)
-Boot Guard
-Boot ROM
 Booting
-Booting process of Android devices
-Booting process of Linux
-Booting process of Windows
-Booting process of Windows NT
-Bootloader unlocking
-Bootloaders
-Bus Pirate
-CVE-2017-5689
-CVE (identifier)
 Central processing unit
-Chipset
-Coffee Lake
-Common Firmware Environment
-Comparison of bootloaders
-Coreboot
-Custom firmware
-Das U-Boot
 Dell
-Devicetree
 Digital rights management
-Dmitry Sklyarov
-EEPROM
-EFI system partition
-EPROM
-Electronic Frontier Foundation
-Embedded Flash File System
-Execute in place
 Exploit (computer security)
-FTDI
-Fastboot
-Firmware
-Flashrom (utility)
-Fujitsu
-Fwupd
-GNU GRUB
-GPXE
-GUID Partition Table
-GoDaddy
-HDCP
-HP Inc.
-Hewlett-Packard
-Hewlett Packard Enterprise
-Hex-Rays
 Huffman coding
-Hypervisor
-IBoot
-IPXE
-Instant-on
 Instruction set architecture
-Insyde Software
 Intel
-Intel 5 Series
-Intel AMT versions
-Intel Active Management Technology
-Intel Atom
-Intel Celeron
-Intel Core
-Intel Kaby Lake
-Intel Nehalem
-Intel Pentium
-Intel Platform Trust Technology
-Intel Quark
-Intel Skylake
-Intel Xeon
-Intel vPro
-Java applets
-Keystroke logger
-Kickstart (Amiga)
-Legacy Plug and Play
-Lenovo
-Libreboot
-Librem
 Linux
-LinuxBoot
-Loadlin
-MILO (bootloader)
-MINIX 3
-Mains power
-Management Component Transport Protocol
-Master boot record
-Meltdown (security vulnerability)
-Memory Controller Hub
-Microsoft Pluton
-Motherboards
-MultiProcessor Specification
-NTLDR
-National Security Agency
-Near Field Communication
-Nehalem (microarchitecture)
-NetBoot
-Network booting
-Next-Generation Secure Computing Base
-Northbridge (computing)
 Obfuscation (software)
-Odin (firmware flashing software)
-Open-source firmware
-OpenBIOS
-Open Firmware
-OpeniBoot
-Out-of-band management
-PLATINUM (cybercrime group)
-Phoenix Technologies
-Platform Controller Hub
-Plop Boot Manager
 Pop! OS
-Power-on self-test
-Preboot Execution Environment
-Privilege ring
-Programmable ROM
-Proprietary firmware
 Proprietary software
-Protection ring
 PureOS
-Purism (company)
-Qualcomm EDL mode
-Quiet System Technology
-REFInd
-REFIt
 ROM hacking
-ROM image
-RTOS
 Raspberry Pi
 Read-only memory
-RedBoot
-Remote Initial Program Load
-Run-Time Abstraction Services
-SRM firmware
-SYSLINUX
-Samsung Knox
-SeaBIOS
-Secure Boot
-Serial Peripheral Interface Bus
-Serial over LAN
-Simple Firmware Interface
-Skylake (microarchitecture)
-Sleep mode
 Software development kit
-Spectre (security vulnerability)
-System76
-System Management Mode
 System on a chip
-System partition and boot partition
-Systemd-boot
 The New York Times
 ThreadX
-TianoCore EDK II
-Trusted Computing
-Trusted Execution Technology
 Trusted Platform Module
-Tuxedo Computers
-UEFI
-UEFITool
-Undocumented feature
-VPro
-Video BIOS
-Wake-on-LAN
-Wake-on-ring
-Windows Boot Manager
 X86
-XOSL
-Yaboot
 ZDNet
-Zero-touch provisioning

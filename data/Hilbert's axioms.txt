@@ -3,7 +3,6 @@ Ackermann set theory
 Aleph number
 Algebraic logic
 Alphabet (formal languages)
-Angle
 Argument
 Arity
 Atomic formula
@@ -11,18 +10,12 @@ Atomic sentence
 Automata theory
 Automated theorem proving
 Axiom
-Axiom of Archimedes
 Axiom of choice
 Axiom schema
-Axiom system
 Axiomatic system
-Axiomatization
-Axiomatization of Boolean algebras
 Banach–Tarski paradox
 Bijection
 Binary operation
-Binary relation
-Birkhoff's axioms
 Boolean algebra
 Boolean algebras canonically defined
 Boolean function
@@ -58,12 +51,9 @@ Countable set
 David Hilbert
 Decidability (logic)
 Decision problem
-Deductive system
 Diagram (mathematical logic)
 Doi (identifier)
 Domain of a function
-E. H. Moore
-Edward Vermilye Huntington
 Element (mathematics)
 Elementary diagram
 Elementary equivalence
@@ -75,8 +65,6 @@ Equiconsistency
 Equivalence relation
 Euclid's Elements
 Euclidean geometry
-Euclidean plane geometry
-Euclidean space
 European Mathematical Society
 Existential quantification
 Expression (mathematics)
@@ -93,7 +81,6 @@ Forcing (mathematics)
 Formal grammar
 Formal language
 Formal proof
-Formal semantics (logic)
 Formal system
 Formation rule
 Foundations of geometry
@@ -104,23 +91,16 @@ Function (mathematics)
 Functional predicate
 Fuzzy set
 General set theory
-Gilbert de Beauregard Robinson
 Grothendieck universe
 Ground expression
-Ground formula
-Grundlagen der Geometrie
 Gödel's completeness theorem
 Gödel's incompleteness theorems
 Gödel numbering
 Halting problem
-Henri Poincaré
-Henry George Forder
 Hereditary set
 Higher-order logic
 Hilbert system
 History of logic
-History of mathematical logic
-Howard Eves
 Image (mathematics)
 Inaccessible cardinal
 Independence (mathematical logic)
@@ -132,22 +112,16 @@ Inhabited set
 Injective function
 Interpretation (logic)
 Interpretation (model theory)
-Interpretation function
 Intersection (set theory)
 Isomorphism
-Ivor Grattan-Guinness
 JSTOR (identifier)
 Kolmogorov complexity
-Kripke's theory of truth
 Kripke–Platek set theory
 Lambda calculus
 Large cardinal
 Lemma (mathematics)
-LibriVox
 Lindström's theorem
 Line (geometry)
-Line segment
-List of Hilbert systems
 List of axioms
 List of first-order theories
 List of formal systems
@@ -168,7 +142,6 @@ Logicism
 Löwenheim–Skolem theorem
 Many-valued logic
 Map (mathematics)
-Mario Pieri
 Material conditional
 Mathematical logic
 Mathematical object
@@ -179,7 +152,6 @@ Model complete theory
 Model theory
 Monadic predicate calculus
 Monadic second-order logic
-Moritz Pasch
 Morse–Kelley set theory
 NP (complexity)
 Naive set theory
@@ -194,24 +166,16 @@ Open formula
 Operation (mathematics)
 Ordinal analysis
 Ordinal number
-Oswald Veblen
 P (complexity)
 P versus NP problem
 Paradoxes of set theory
 Partition of a set
-Pasch's Axiom
-Pasch's axiom
-Pasch's theorem
 Peano axioms
 Philosophy of mathematics
 Plane (mathematics)
-Playfair's axiom
-Point (geometry)
 Power set
 Predicate (mathematical logic)
-Predicate logic
 Predicate variable
-Primitive notion
 Primitive recursive arithmetic
 Primitive recursive function
 Principia Mathematica
@@ -223,9 +187,7 @@ Propositional formula
 Propositional variable
 Quantifier (logic)
 Quantifier rank
-R. L. Moore
 Recursion
-Recursive set
 Relation (mathematics)
 Reverse mathematics
 Robinson arithmetic
@@ -246,13 +208,11 @@ Set theory
 Signature (logic)
 Singleton (mathematics)
 Skolem arithmetic
-Solid geometry
 Soundness
 Spectrum of a sentence
 Spectrum of a theory
 Square of opposition
 Strength (mathematical logic)
-String (formal languages)
 Structure (mathematical logic)
 Substitution (logic)
 Substructure (mathematics)
@@ -264,17 +224,13 @@ Syntax (logic)
 T-schema
 Tarski's axiomatization of the reals
 Tarski's axioms
-Tarski's theory of truth
 Tarski's undefinability theorem
 Tarski–Grothendieck set theory
 Tautology (logic)
 Term (logic)
 Term logic
-Ternary relation
 Theorem
-Theories of truth
 Theory (mathematical logic)
-Thomas Hakon Gronwall
 Three-valued logic
 Timeline of mathematical logic
 Transfer principle
@@ -286,7 +242,6 @@ Truth value
 Turing machine
 Type (model theory)
 Type theory
-Ultrafilter (set theory)
 Ultraproduct
 Uncountable set
 Undecidable problem

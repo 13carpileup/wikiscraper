@@ -1,6 +1,5 @@
 !
 1829 braille
-;
 ?
 Abugida
 Accessible publishing
@@ -16,9 +15,7 @@ Arabic script
 Armenian Braille
 Assamese alphabet
 Asterisk
-Avagraha
 Ayin
-Azeri Braille
 Bangladesh
 Belarusian Braille
 Bengali Braille
@@ -41,18 +38,14 @@ Braille watch
 Bulgarian Braille
 Burmese Braille
 Canadian currency tactile feature
-Candrabindu
 Cantonese Braille
 Catalan Braille
 Charles Barbier
 Colon (punctuation)
 Comma
 Computer Braille Code
-Conjunct consonant
 Cyrillic alphabets
 Czech Braille
-Danda
-Dash
 Decapoint
 Devanagari
 Devanagari Braille
@@ -64,8 +57,6 @@ Estonian Braille
 Faroese Braille
 French Braille
 Gardner–Salinas braille codes
-Garo language
-Ge'ez Braille
 Georgian Braille
 German Braille
 Ghanaian braille
@@ -73,26 +64,17 @@ Greek Braille
 Guarani Braille
 Gujarati Braille
 Gujarati script
-Gurmukhī script
-Halant
 Harris Mowbray
 Hawaiian Braille
 Hebrew Braille
-Hindi Braille
-Hindi language
 Hungarian Braille
-Hyphen
-I'jam
 IPA Braille
 ISO 15919
 Icelandic Braille
-Indian Urdu Braille
-International Braille
 International uniformity of braille alphabets
 Inuktitut Braille
 Irish Braille
 Italian Braille
-Italics
 Iñupiaq Braille
 Japan Braille Library
 Japanese Braille
@@ -102,7 +84,6 @@ Kazakh Braille
 Khmer Braille
 Korean Braille
 Kyrgyz Braille
-Languages of India
 Latvian Braille
 Lithuanian Braille
 Louis Braille
@@ -111,9 +92,6 @@ Mainland Chinese Braille
 Malayalam Braille
 Malayalam script
 Maltese Braille
-Marathi language
-Meitei language
-Mizo language
 Mojibake
 Mongolian Braille
 Moon type
@@ -123,17 +101,12 @@ National Braille Association
 Navajo Braille
 Nemeth Braille
 Nepal
-Nepali Braille
-Nepali language
 New York Point
 Nigerian braille
 Night writing
 Northern Sámi Braille
 Odia Braille
 Optical braille recognition
-Oriya Braille
-Oriya script
-Parentheses
 Perforation
 Perkins Brailler
 Persian Braille
@@ -142,7 +115,6 @@ Polish Braille
 Portuguese Braille
 Punjabi Braille
 Refreshable braille display
-Richard Sproat
 RoboBraille
 Romanian Braille
 Russian Braille
@@ -150,15 +122,11 @@ Róża Czacka
 Sabriye Tenberken
 Samoan Braille
 Scandinavian Braille
-Shaddah
 Sinhala Braille
 Slate and stylus
 Slovak Braille
 South African braille
 Spanish Braille
-Sri Lanka
-Standard Hindi
-Ta marbuta
 Tactile alphabet
 Taiwanese Braille
 Tamil Braille
@@ -167,22 +135,4 @@ Tatar Braille
 Telugu Braille
 Telugu script
 Thai and Lao Braille
-Thakur Vishva Narain Singh
-Tibetan Braille
-Turkish Braille
-Two-cell Chinese Braille
-Ukrainian Braille
-Unified English Braille
-Unified international braille
-Urdu Braille
-Urdu alphabet
-Valentin Haüy
-Vibratese
-Vietnamese Braille
-Virama
-Visarga
 Wayback Machine
-Welsh Braille
-William Bell Wait
-Yugoslav Braille
-Zambian Braille

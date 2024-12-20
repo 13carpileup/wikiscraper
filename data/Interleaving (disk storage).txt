@@ -1,7 +1,4 @@
-Block storage
 Disk sector
-Drum memory
 Floppy disk
 Hard disk drive
-Paging file
 RAM

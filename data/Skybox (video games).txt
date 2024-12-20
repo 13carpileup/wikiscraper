@@ -2,39 +2,24 @@
 2D computer graphics
 3D computer graphics
 3D projection
-3D rendering
 Affine transformation
-Aliasing
 Alpha compositing
 Animation
 Anisotropic filtering
 Back-face culling
-Beam tracing
-Cel shading
-Celestial sphere
-Checkerboard rendering
-City 17
 Clipping (computer graphics)
 Collision detection
 Comparison of vector graphics editors
 Computer graphics
-Computer graphics (computer science)
 Computer graphics lighting
 Cone tracing
-Cube mapping
-Cuboid
 Deferred shading
 Diffusion curve
-Digitization
 First-person (video games)
-First-person shooter engine
-Fixed 3D
 Fluid animation
-Full motion video based game
 Game art design
 Game engine
 Global illumination
-Graphic adventure game
 Graphics software
 Half-Life 2
 Hidden-surface determination
@@ -42,18 +27,11 @@ Image-based modeling and rendering
 Isometric video game graphics
 Layers (digital image editing)
 Level (video games)
-List of 3D animation software
 List of 3D computer graphics software
 List of 3D modeling software
 List of 3D rendering software
 List of computer graphics algorithms
-List of first-person shooter engines
-List of four-dimensional games
-List of interactive movies
-List of stereoscopic video games
-List of text-based computer games
 Mode 7
-Parallax
 Parallax scrolling
 Path tracing
 Pixel
@@ -61,9 +39,7 @@ Pixel art
 Planar projection
 Polygon (computer graphics)
 Polygon mesh
-Pre-rendering
 Raster graphics editor
-Ray casting
 Ray tracing (graphics)
 Real-time computer graphics
 Reflection (computer graphics)
@@ -75,34 +51,21 @@ Scanline rendering
 Shader
 Shading
 Shadow mapping
-Shadow volume
 Shear matrix
 Side-scrolling video game
-Sky
-Source engine
 Spectral rendering
 Sphere
-Sprite (computer graphics)
 Stereoscopic video game
 Surface triangulation
 Texel (graphics)
-Text-based game
-Text-to-image model
 Texture mapping
 Third-person view
-Tile-based video game
-Top-down perspective
-Translation (geometry)
 Triangle mesh
 Unbiased rendering
 Unreal (1998 video game)
 Valve Corporation
-Vector game
-Vector graphics
 Video game
 Video game graphics
 Virtual camera system
-Volume rendering
 Voxel
 Wire-frame model
-Z-buffering

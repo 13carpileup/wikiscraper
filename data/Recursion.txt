@@ -1,50 +1,28 @@
-A Dream Within a Dream (poem)
 Abstract logic
 Ackermann set theory
-Ad infinitum
-Aleksandr Lyapunov
 Aleph number
 Algebraic logic
 Alphabet (formal languages)
-Andrew Plotkin
-Apollonian gasket
 Argument
 Arity
-Assouad dimension
 Atomic formula
 Atomic sentence
-Attractor
 Automata theory
 Automated theorem proving
 Axiom
 Axiom of choice
 Axiom schema
 Axiomatic system
-Axiomatization of Boolean algebras
-Back-of-the-book index
 Banach–Tarski paradox
-Barnsley fern
-Barycentric subdivision
-Base case (recursion)
 Bellman equation
-Benoit Mandelbrot
 Bijection
-Bill Gosper
 Binary operation
-Blancmange curve
 Boolean algebra
 Boolean algebras canonically defined
 Boolean function
-Brian Kernighan
-Brownian motion
-Brownian motor
-Buddhabrot
-Burning Ship fractal
 Cantor's diagonal argument
 Cantor's paradox
 Cantor's theorem
-Cantor set
-Cantor ternary set
 Capital structure
 Cardinality
 Cartesian product
@@ -52,18 +30,11 @@ Categorical theory
 Category (mathematics)
 Category of sets
 Category theory
-Causey, Robert L.
-Chaos game
-Chaos theory
 Church encoding
 Church–Turing thesis
-Circular definition
-CiteSeerX (identifier)
 Class (set theory)
 Classical logic
-Closed-form expression
 Closure (mathematics)
-Coastline paradox
 Codomain
 Compactness theorem
 Complement (set theory)
@@ -81,28 +52,15 @@ Constructible universe
 Construction of the real numbers
 Constructive set theory
 Continuum hypothesis
-Corecursion
 Corporate governance
-Correlation dimension
 Countable set
-Course-of-values recursion
-Daniel Everett
-De Rham curve
 Decidability (logic)
 Decision problem
-Deductive system
 Dennis Ritchie
-Desmond Paul Henry
 Diagram (mathematical logic)
-Diffusion-limited aggregation
-Digital infinity
-Divide and conquer algorithm
 Doi (identifier)
 Domain of a function
-Douady rabbit
 Douglas Hofstadter
-Dragon curve
-Droste effect
 Dynamic programming
 Edsger W. Dijkstra
 Element (mathematics)
@@ -115,122 +73,72 @@ Equiconsistency
 Equivalence relation
 Euclid's Elements
 Euclidean geometry
-European Journal of International Relations
 Existential quantification
 Expression (mathematics)
 Extension by definitions
 Extension by new constant and function names
 Extensionality
-Factorial
-False awakening
-Felix Hausdorff
-Fibonacci number
-Fibonacci sequence
-Fibonacci word fractal
-Filled Julia set
 Finitary relation
 Finite-valued logic
 Finite model theory
 Finite set
-Finite subdivision rule
 First-order logic
 Fixed-point logic
-Fixed point combinator
 Forcing (mathematics)
 Formal grammar
 Formal language
 Formal proof
-Formal semantics (logic)
 Formal system
 Formation rule
 Foundations of geometry
 Foundations of mathematics
-Fractal
-Fractal art
-Fractal canopy
-Fractal dimension
-Fractal landscape
-Fractal string
 Free logic
 Free variables and bound variables
 Function (mathematics)
 Functional predicate
-Functional programming
 Fuzzy set
 GNU
-Gaston Julia
 General set theory
-Georg Cantor
-Giotto
-Giuseppe Peano
-Gosper curve
 Grothendieck universe
 Ground expression
-Ground formula
 Gödel's completeness theorem
 Gödel's incompleteness theorems
 Gödel numbering
-H tree
 Halting problem
-Hamid Naderi Yeganeh
-Hausdorff dimension
 Hereditary set
 Hierarchy
 Higher-order logic
-Higuchi dimension
 Hilbert's axioms
-Hilbert curve
 Hilbert system
 History of logic
-History of mathematical logic
 Hot chocolate
 ISBN (identifier)
 ISSN (identifier)
 Image (mathematics)
 Inaccessible cardinal
-Inception
 Independence (mathematical logic)
 Inference
 Infinite-valued logic
-Infinite compositions of analytic functions
-Infinite loop
-Infinite regress
 Infinite set
-Infinitism
-Infinity mirror
 Information theory
 Inhabited set
 Injective function
 Integer
 Interpretation (logic)
 Interpretation (model theory)
-Interpretation function
 Intersection (set theory)
 Isomorphism
-Iterated function
-Iterated function system
-Jon Barwise
-Joseph R. Shoenfield
-Julia set
-Kaleidoscope
-Koch snowflake
 Kolmogorov complexity
-Kripke's theory of truth
 Kripke–Platek set theory
-L-system
 Lambda calculus
 Large cardinal
-Lebesgue covering dimension
 Lemma (mathematics)
-Lewis Fry Richardson
 Lindström's theorem
 Line management
 Linguistics
-List of Hilbert systems
 List of axioms
 List of first-order theories
 List of formal systems
-List of fractals by Hausdorff dimension
 List of mathematical theories
 List of set identities and relations
 List of statements independent of ZFC
@@ -245,16 +153,9 @@ Logical equality
 Logical equivalence
 Logical truth
 Logicism
-Lyapunov fractal
-Lévy C curve
-Lévy flight
 Löwenheim–Skolem theorem
 M. C. Escher
 Management cybernetics
-Management science
-Mandelbox
-Mandelbrot set
-Mandelbulb
 Many-valued logic
 Map (mathematics)
 Material conditional
@@ -263,35 +164,19 @@ Mathematical logic
 Mathematical object
 Mathematics
 Mathematics and art
-Matryoshka doll
-Menger sponge
 Metalanguage
-Michael Barnsley
 Middle management
 Minimal axioms for Boolean algebra
-Minkowski sausage
-Minkowski–Bouligand dimension
-Mise en abyme
-Misiurewicz point
 Model complete theory
 Model theory
 Monadic predicate calculus
 Monadic second-order logic
-Moore curve
 Morse–Kelley set theory
-Multibrot set
-Multifractal system
-N-flake
 NP (complexity)
 Naive set theory
 Natural deduction
-Natural language semantics
-Natural number
-Natural numbers
 Negation
 New Foundations
-Newton fractal
-Niels Fabian Helge von Koch
 Noam Chomsky
 Non-Euclidean geometry
 Non-logical symbol
@@ -300,8 +185,6 @@ Non-standard model of arithmetic
 OCLC (identifier)
 Open formula
 Operation (mathematics)
-Optimization (mathematics)
-Orbit trap
 Ordinal analysis
 Ordinal number
 Ouroboros
@@ -309,94 +192,55 @@ PHP
 PMID (identifier)
 P (complexity)
 P versus NP problem
-Packing dimension
 Paradoxes of set theory
-Parser
 Partition of a set
-Paul Lévy (mathematician)
 Peano axioms
-Peano curve
-Percolation theory
 Philosophy of mathematics
-Pickover stalk
-Pirahã language
 Power set
 Predicate (mathematical logic)
-Predicate logic
 Predicate variable
 Primitive recursive arithmetic
 Primitive recursive function
 Principia Mathematica
-Print Gallery (M. C. Escher)
 Production (computer science)
-Proof by cases
 Proof of impossibility
-Proof procedure
 Proof theory
 Proposition
 Propositional calculus
 Propositional formula
 Propositional variable
-Pythagoras tree (fractal)
 Python (programming language)
 Quantifier (logic)
 Quantifier rank
-Recurrence relation
-Recursion (computer science)
-Recursive
-Recursive acronym
-Recursive definition
-Recursive grammar
-Recursive set
-Reentrant (subroutine)
-Reflexivity (social theory)
 Relation (mathematics)
 Rendering (computer graphics)
 Reverse mathematics
-Richard Dedekind
-Richard Johnsonbaugh
 Robinson arithmetic
-Romanesco broccoli
 Rule of inference
 Russell's paradox
 S2CID (identifier)
-SPARQL
 Satisfiability
 Saturated model
 Schröder–Bernstein theorem
 Second-order arithmetic
 Second-order logic
-Self-avoiding walk
 Self-reference
-Self-similarity
 Self-verifying theories
 Semantic theory of truth
 Semantics of logic
 Senior management
 Sentence (mathematical logic)
 Sequent calculus
-Sergey Malyutin
 Set (mathematics)
 Set theory
-Sierpinski triangle
-Sierpiński carpet
-Sierpiński curve
-Sierpiński triangle
 Signature (logic)
 Singleton (mathematics)
 Skolem arithmetic
 Soundness
-Sourdough starter
-Space-filling curve
 Spectrum of a sentence
 Spectrum of a theory
-Spiegel im Spiegel
 Square of opposition
-Stefaneschi Triptych
-Strange loop
 Strength (mathematical logic)
-String (formal languages)
-Structural induction
 Structure (mathematical logic)
 Substitution (logic)
 Substructure (mathematics)
@@ -406,37 +250,26 @@ Syllogism
 Symbol (formal)
 Syntax (logic)
 T-schema
-T-square (fractal)
-Tail recursion
 Tarski's axiomatization of the reals
 Tarski's axioms
-Tarski's theory of truth
 Tarski's undefinability theorem
 Tarski–Grothendieck set theory
 Tautology (logic)
 Term (logic)
 Term logic
-The Beauty of Fractals
-The C Programming Language
-The Fractal Geometry of Nature
 Theorem
-Theories of truth
 Theory (mathematical logic)
 Three-valued logic
 Timeline of mathematical logic
 Transfer principle
 Transitive set
-Tricorn (mathematics)
 True arithmetic
 Truth predicate
 Truth table
 Truth value
-Tupper's self-referential formula
 Turing machine
-Turtles all the way down
 Type (model theory)
 Type theory
-Ultrafilter (set theory)
 Ultraproduct
 Uncountable set
 Undecidable problem
@@ -449,15 +282,10 @@ Universe (mathematics)
 Urelement
 Validity (logic)
 Variable (mathematics)
-Vasily Zvyozdochkin
 Venn diagram
-Vicsek fractal
 Video feedback
 Von Neumann universe
 Von Neumann–Bernays–Gödel set theory
-Wacław Sierpiński
-Weierstrass function
 Well-formed formula
 Wine (software)
-Z-order curve
 Zermelo–Fraenkel set theory

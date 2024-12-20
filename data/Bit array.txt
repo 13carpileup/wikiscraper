@@ -1,135 +1,32 @@
-.NET Framework
-AA tree
-APL (programming language)
-AVL tree
-Abstract data type
-Arithmetic logic unit
 Array (data structure)
-Array data structure
-Array programming
-Association list
 Associative array
-B-tree
-Binary code
-Binary decision diagram
-Binary heap
-Binary numeral system
-Binary relation
-Binary search tree
-Binomial heap
-Bit
 Bit-level parallelism
-Bit field
-Bitboard
-Bitmap index
-Bitstream
-Bitwise negation
 Bitwise operation
-Bloom filter
-Boost C++ Libraries
 Byte
 C++
 C (programming language)
-Calculus of relations
-Circular buffer
-Collection (abstract data type)
-Color depth
-Common Lisp
 Complement (set theory)
-Composition of relations
-Container (abstract data type)
-Core Foundation
-D programming language
-Data cache
 Data compression
 Data structure
-Deterministic acyclic finite state automaton
-Directed acyclic graph
-Disjoint-set data structure
-Double-ended priority queue
-Double-ended queue
-Dynamic array
-E (verification language)
-Endianness
-Enumerated type
-Fibonacci heap
-Find first set
 Finite field
-Flip-flop (electronics)
-Fragmentation (computing)
-GF(2)
-Glasgow Haskell Compiler
-Golomb coding
 Graph (abstract data type)
-Hamming weight
-Hash table
-Hash tree (persistent data structure)
-Hashed array tree
-Haskell (programming language)
-Heap (data structure)
 Hilbert R-tree
 Huffman coding
 Information retrieval
-Inode
 Intersection (set theory)
-Irving Copilowish
 Java (programming language)
-Journal of Symbolic Logic
-Judy array
-Kernel.org
-Lexicographical order
-Linked data structure
 Linked list
 Linux kernel
-List (abstract data type)
-List of data structures
-Locality of reference
-Logical matrix
-Mask (computing)
 Matrix multiplication
-Multimap
-PL/I
-PL/pgSQL
-Page (computing)
-Partial template specialization
 Perl
-Posting list
-Priority queue
-Proxy pattern
 Python (programming language)
-Queue (abstract data type)
-R* tree
-R+ tree
-R-tree
 Raster graphics
-Red–black tree
-Retrieval Data Structure
 Ruby (programming language)
-Run-length encoding
-Rust (programming language)
-Self-balancing binary search tree
-Set (abstract data type)
-Set data structure
 Signed number representations
-Silicon Graphics
 Skip list
-Sparse matrix
-Splay tree
-Stack (abstract data type)
-Standard ML
-Standard Template Library
 String (computer science)
-Succinct data structure
-SystemVerilog
-Tree (data structure)
-Trie
-Unary coding
 Union (set theory)
 Unrolled linked list
 VHDL
-Variable-length code
-Verilog
 Wayback Machine
 Word (computer architecture)
-X11
-XOR linked list

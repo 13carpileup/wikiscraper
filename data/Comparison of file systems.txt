@@ -1,386 +1,69 @@
-"classic" Mac OS
-4.2BSD
-4.4BSD
-6.3 filename
-8.3 filename
 86-DOS
-9P (protocol)
-AIX
-APFS
 ASCII
-Access control list
-Acorn Computers Ltd
-Acorn Electron
-Acorn MOS
 AdvFS
-Advanced Disc Filing System
-Allocate-on-flush
-AmigaOS
-AmigaOS 4.1
-Amiga Fast File System
-Amiga OS
-Amiga OS 1.3
-Amiga Old File System
 Andrew S. Tanenbaum
 Android (operating system)
-Apple DOS
 Apple Inc.
-Apple SOS
 Atari
-Atari 8-bit
-Atari DOS
-Atari TOS
-BBC Micro
 BSD
-Bcachefs
-BeOS
-Be File System
-Be Inc.
-BeeGFS
-Bell Labs
-Berkeley Fast File System
-Block suballocation
-Btrfs
 Byte
-CBM DOS
-CHFS
-CP/M
-CP/M 2.2
-CP/M file system
 Cache (computing)
-Case-preserving
-Case-sensitive
-Ceph (software)
-Checksum
 Classic Mac OS
-Cluster File Systems
-Codepoint
-Commodore BASIC
 Commodore International
 Compaq
-Compaq MS-DOS 3.31
-Comparison of archive formats
-Comparison of file archivers
 Computer History Museum
-Copy on write
 Cyclic redundancy check
-Cygwin
 DECtape
 DOS
-DR DOS 3.31
-DR DOS 6.0
-Darwin (operating system)
 Data compression
-Data deduplication
-Device name
 Digital Equipment Corporation
 Digital Research
-Digital Unix
-Disc Filing System
-DiskInternals NTFS Reader
 Disk formatting
-Dm-crypt
-Dominic Giampaolo
-DragonFly BSD
-DriveSpace 3
-EROFS
 Ecma International
-Elektronika BK
-Error correction code
-Escape sequence
-ExFAT
-Exabyte
-Exbibyte
-Execute in place
-Ext2
-Ext2fsx
-Ext3
-Ext4
-Extended attribute
-Extended file system
-Extent (file systems)
-F2FS
 FAT12
 FAT16
-FAT16B
-FAT16X
 FAT32
-FAT32X
-FATX
-FAT (8-bit)
 Fdisk
-FileVault
-File Change Log
-File systems
-Filename
-Filesystem-level encryption
-Filesystem in Userspace
-Fork (filesystem)
-Fossil (file system)
 FreeBSD
-FreeBSD 5.0
-GEC DOS
-GEMDOS
-GEORGE (operating system)
 GNU Parted
-GPFS
-Gary Kildall
-General Parallel File System
-Gibibyte
-Gigabyte
 GitHub
-Global File System
-Global File System 2
-GlusterFS
 Google
-Google File System
-Gzip
-HAMMER2
-HAMMER (file system)
-HFS Plus
-Haiku (operating system)
-Hard link
-Hierarchical File System (Apple)
-Hierarchical File System (IBM MVS)
-High Performance File System
-High Sierra Format
-Huawei
-Hurd
-Hyperion Entertainment
 IBM
 IBM AIX
-IBM HFS
-IBM zFS
 IEEE
-IOS 10.3
-IRIX
-ISO
 ISO 9660
-InfoWorld
-Inode
-Installable File System
-International Computers Limited
-International Computers and Tabulators
 International Organization for Standardization
-JFS (file system)
-JFS file system
-Joliet (file system)
-Journaling file system
-Kibibyte
 Kilobyte
-LZ4 (compression algorithm)
-LZJB
-Lempel–Ziv–Oberhumer
-Libburnia
 Linux
-List of archive formats
 List of file systems
-Log-structured File System (BSD)
-Log-structured file system
-Logical Volume Manager (Linux)
-Long filename
-Lustre (file system)
-MINIX 1.0
-MINIX 2.0
-MINIX 3
-MINIX file system
 MS-DOS
-MS-DOS 3.0
-MS-DOS 7.0
-MS-DOS 7.1
-MS-DOS 7.10
-MSCDEX
 MVS
-MVS/ESA
 MacOS
-MacOS High Sierra
-Mac OS 8.1
-Macintosh File System
 Man page
-Mandatory Integrity Control
-Mandatory access control
-Marc McDonald
-Margo Seltzer
-Mark Russinovich
-Marshall Kirk McKusick
-Matthew Dillon (computer scientist)
-Mebibyte
-Megabyte
-Metacomco
 Microsoft
 Microsoft Docs
-Microsoft Standalone Disk BASIC-80
-Microsoft Standalone Disk BASIC-86
-Microsoft TechNet
 Microsoft Windows
-Minix
-Minix file system
-NILFS
-NOVA (filesystem)
 NTFS
-NTFS3
-Namesys
-Nasuni
-National Cash Register
 NetApp
-NetApp filer
 NetBSD
-NetWare 286
-NetWare 5
-NetWare File System
-Nimble Storage
-Nippon Telegraph and Telephone
-Non-Volatile File System
-Novell
-Novell Directory Services
-Novell Storage Services
-Ntfs-3g
 Null character
-OCFS
-OCFS2
-ODS-1
-ODS-2
-ODS-5
-OEM code page
-OEM codepage
-OS/2
-OS/2 1.2
-OS/2 Warp
-OS/360
-OS/390
-OS4000
 OpenVMS
-OpenZFS
 Operating system
-Optical Storage Technology Association
-Oracle Corporation
-OrangeFS
-PC DOS 1.0
-PC DOS 3.0
 POSIX
-PRODOS
-Palm, Inc.
-Palm OS Garnet
-Paragon NTFS
-Paragon NTFS for Win98
-Partition (computing)
 Patch (computing)
-Pebibyte
-Petabyte
-Plan 9 from Bell Labs
-Plan 9 from User Space
-ProDOS
-QDOS (SCP)
-QFS
-RAID
-RISC OS
 RSX-11
 RT-11
-ReFS
 Red Hat
-Reiser4
-ReiserFS
-Rock Ridge
-Rémy Card
-SECURITY.BIN
 Samsung Electronics
-Scott Kildall
-Seattle Computer Products
-Services for UNIX
-Services for Unix
-Silicon Graphics
-Sistina Software
-Sitronics
-Six-bit byte
-Soft dependencies
-Soft updates
-Softdep
-Solaris (operating system)
-Sparse file
-Sprite operating system
-SquashFS
-Stacker 3
-Stacker 4
-StarWind Software
-Stephen Tweedie
-Steven Sinofsky
 Sun Microsystems
-Symbolic link
-System 1
-System 2.1
-System V
-TFAT12
-TFAT16
-TFAT32
 TOPS-10
-Tail packing
-Tebibyte
-Terabyte
-The General Electric Company plc
-Tim Paterson
-Tom Miller (computer programmer)
-Transaction-Safe FAT File System
-Trim (computing)
-UCS-2
-UCSD
-UCSD p-System
-UFS1 (file system)
-UFS2 (file system)
-UNIX System V
-UTC
 UTF-16
 UTF-8
-Ufs2tools
-UniFS
 Unicode
-Unicode 9.0
 Universal Disk Format
-University of California, San Diego
-University of California, Santa Cruz
-University of Szeged
-Unix
-Unix-like
-VFAT
-VMFS2
-VMFS3
-VMware
-VMware ESX Server 2.0
-VMware ESX Server 3.0
-VMware VMFS
-VSphere
-Veritas File System
-Veritas Software
-Version 6 Unix
-Version 7 Unix
-Vilnius Basic
-Volume Shadow Copy Service
 Wayback Machine
-Win32
 Windows
 Windows 95
-Windows 95 OSR2
-Windows 98
-Windows 9x
-Windows CE 6.0
-Windows Me
 Windows NT
-Windows NT 3.1
-Windows Server 2012
-Windows Server 2022
-Windows Subsystem for Linux
-Windows XP
-Write Anywhere File Layout
-Write once read many
-XFS
 Xbox
-Xiafs
-Yobibyte
-Yottabyte
-Z/OS
 ZDNet
-ZFS
-ZFS (z/OS file system)
-Zebibyte
-Zettabyte
-Zlib
-Zstd

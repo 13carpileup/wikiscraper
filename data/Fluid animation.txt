@@ -2,93 +2,60 @@
 2D computer graphics
 3D computer graphics
 3D projection
-3D rendering
 Affine transformation
-Aliasing
 Alpha compositing
 Anisotropic filtering
-Autodesk Maya
 Back-face culling
-Beam tracing
 Bibcode (identifier)
 Blender (software)
-Cel shading
-Checkerboard rendering
-CiteSeerX (identifier)
 Clipping (computer graphics)
 Collision detection
 Comparison of vector graphics editors
-Computational fluid dynamics
 Computer graphics
-Computer graphics (computer science)
 Computer graphics lighting
 Cone tracing
 Deferred shading
 Diffusion curve
 Doi (identifier)
-Euler equations (fluid dynamics)
-Fluid Simulation
-Foam
 Global illumination
 Graphics software
-Greg Turk
 Hidden-surface determination
 Houdini (software)
 ISBN (identifier)
 ISSN (identifier)
 Image-based modeling and rendering
 Isometric video game graphics
-James F. O'Brien
-Jos Stam
-Lattice Boltzmann methods
 Layers (digital image editing)
-Level-set method
-List of 3D animation software
 List of 3D computer graphics software
 List of 3D modeling software
 List of 3D rendering software
 List of computer graphics algorithms
 Mode 7
-Navier–Stokes equations
 Open-source software
 Parallax scrolling
-Particle-in-cell
-Particle method
 Path tracing
-Physically based animation
 Pixel
 Planar projection
 Polygon mesh
 Raster graphics editor
-Ray casting
 Ray tracing (graphics)
 Real-time computer graphics
-RealFlow
 Reflection (computer graphics)
 Rendering (computer graphics)
-Robert Bridson
-Ron Fedkiw
 Rotation (mathematics)
 S2CID (identifier)
 Scaling (geometry)
 Scanline rendering
-Semi-Lagrangian scheme
 Shader
 Shading
 Shadow mapping
-Shadow volume
 Shear matrix
 Skybox (video games)
 Spectral rendering
-Spray (liquid drop)
 Surface triangulation
 Texel (graphics)
-Text-to-image model
-Translation (geometry)
 Triangle mesh
 Unbiased rendering
-Vector graphics
-Volume rendering
 Voxel
 Wayback Machine
 Wire-frame model

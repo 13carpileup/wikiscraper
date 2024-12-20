@@ -1,11 +1,7 @@
-ANXA2
 ATC code L01
-AbbVie
 Abemaciclib
 Acalabrutinib
-Acrylamide
 Adagrasib
-Adipotide
 Afatinib
 Aflibercept
 Alectinib
@@ -17,36 +13,25 @@ Anaplastic lymphoma kinase
 Anatomical Therapeutic Chemical Classification System
 Antineoplastic
 Apoptosis
-Arthralgia
 Asciminib
 Atezolizumab
-Atezolizumab/hyaluronidase
-Atrial fibrillation
 Aumolertinib
 Avapritinib
 Avelumab
 Axatilimab
 Axitinib
-B-cell activating factor
-B-cell receptor
 BRAF (gene)
-B cell
 Baricitinib
-Basal-cell carcinoma
-Bcr-abl fusion protein
 Belantamab mafodotin
 Bermekimab
 Bevacizumab
 Binimetinib
-Biological half-life
 Blinatumomab
 Bosutinib
 Brentuximab vedotin
 Brigatinib
 Bruton's tyrosine kinase
-C-Met
 CAS Registry Number
-CD117
 CD135
 CD20
 CD30
@@ -54,27 +39,16 @@ CD33
 CD3 (immunology)
 CD52
 CDK inhibitor
-CXCL12
-CXCL13
-CXCR4
-CYP2D6
-CYP3A
 Cabozantinib
 Cancer immunotherapy
 Capmatinib
 Catumaxomab
 Cediranib
-Celera Genomics
 Cemiplimab
 Ceritinib
 Cetuximab
-ChEBI
-ChEMBL
 ChemSpider
 Chemical formula
-Chemokine
-Chemotaxis
-Chronic lymphocytic leukemia
 Cobimetinib
 CompTox Chemicals Dashboard
 Copanlisib
@@ -87,39 +61,26 @@ Dalpiciclib
 Daratumumab
 Dasatinib
 Denileukin diftitox
-Dinutuximab beta
-Dizziness
 Doi (identifier)
 Dostarlimab
-DrugBank
-Drug metabolism
-Drug nomenclature
-Drugs.com
 Durvalumab
 Duvelisib
-ECHA InfoCard
 EML4
-Edema
 Edrecolomab
 Elotuzumab
 Elranatamab
 Encorafenib
 Enfortumab vedotin
 Entrectinib
-EpCAM
 Epcoritamab
 Epidermal growth factor receptor
 ErbB
 Erdafitinib
 Erlotinib
-European Medicines Agency
 Everolimus
-Excretion
 Exotoxin
-Extracellular signal-regulated kinases
 Fedratinib
 Fibroblast growth factor receptor
-Fibronectin
 Filgotinib
 Food and Drug Administration
 Fruquintinib
@@ -130,205 +91,30 @@ Gemtuzumab ozogamicin
 Gilteritinib
 Glasdegib
 Glofitamab
-Graft-versus-host disease
-Grapefruit juice
-Guide to Pharmacology
-HER2/neu
 Hdl (identifier)
 Hedgehog signaling pathway
-Hives
-Hypertension
 Hyperuricemia
-IUPAC nomenclature of chemistry
 Ibritumomab tiuxetan
-Ibrutinib (data page)
 Icotinib
 Idelalisib
 Imatinib
 Inavolisib
-Indicated
 Infigratinib
 Inflation Reduction Act
 Inotuzumab ozogamicin
 Interleukin 2
-Interleukin 4
-Interleukin 6
-International Chemical Identifier
 Interstitial lung disease
 Ipilimumab
 Isatuximab
-JSmol
-Janssen Pharmaceutica
 Janus kinase
 Johnson & Johnson
-KEGG
 KRAS
 Lapatinib
-Larotrectinib
-Lazertinib
-Lenvatinib
-Lestaurtinib
-Leukemia
-Leukopenia
-Loncastuximab tesirine
-Lorlatinib
-Lymphadenopathy
-Lymphatic system
-Lymphocytopenia
-Lymphocytosis
-Lymphoma
-MCL1
-MEN1
-MTOR inhibitor
-Mantle cell lymphoma
-Masitinib
 Medicare (United States)
-MedlinePlus
-Midostaurin
-Mirvetuximab soravtansine
-Mitogen-activated protein kinase kinase
-Mobocertinib
-Mogamulizumab
 Molar mass
-Momelotinib
-Monoclonal antibody therapy
-Mosunetuzumab
-Moxetumomab pasudotox
-Myeloid
-NF-κB
-National Cancer Institute
-Naxitamab
-Necitumumab
-Neratinib
-Neutropenia
-Nilotinib
-Nintedanib
-Nivolumab
-Non-receptor tyrosine kinase
-Obinutuzumab
-Odronextamab
-Ofatumumab
-Olaratumab
-Olmutinib
-Oportuzumab monatox
-Oral administration
-Orelabrutinib
-Osimertinib
-PI3K/AKT/mTOR pathway
 PMC (identifier)
 PMID (identifier)
-Pacritinib
-Palbociclib
-Panitumumab
-Parsaclisib
-Pazopanib
-Pembrolizumab
-Pemigatinib
-Pertuzumab
-Petechia
-Pexidartinib
-Pharmacokinetics
-Pharmacyclics
-Pi3K inhibitor
-Pirtobrutinib
-Plasma protein binding
-Platelet-derived growth factor receptor
-Pneumonia
-Polatuzumab vedotin
-Ponatinib
-Pralsetinib
-Pregnancy category
-Prescription drug
-Proapoptotic
-Prohibitin
-Prolgolimab
-Protein Data Bank
-PubChem
 Public domain
-Quizartinib
-RET proto-oncogene
-RTK class III
-Radotinib
-Ramucirumab
-Reagent
-Receptor tyrosine kinase
-Regorafenib
-Regulation of therapeutic goods
-Repotrectinib
-Retifanlimab
-Revumenib
-Ribociclib
-Ridaforolimus
-Ripretinib
-Rituximab
-Rociletinib
-Route of administration
-Ruxolitinib
 S2CID (identifier)
-Sabatolimab
-Sacituzumab govitecan
-Selpercatinib
-Selumetinib
-Semaxanib
-Sepsis
-Serplulimab
-Simplified molecular-input line-entry system
-Sinusitis
-Sirolimus
-Small molecule
-Sonidegib
-Sorafenib
-Sotorasib
-Squamous cell carcinoma
-Src (gene)
-Standard for the Uniform Scheduling of Medicines and Poisons
-Stomatitis
-Subdural hematoma
-Sugemalimab
-Sunitinib
-TNF-α
-Tafasitamab
-Talquetamab
-Targeted cancer therapy
-Targeted covalent inhibitor
-Tarlatamab
-Tebentafusp
-Teclistamab
-Temsirolimus
-Tepotinib
 The Wall Street Journal
 The Washington Post
-Thrombocytopenia
-Tislelizumab
-Tisotumab vedotin
-Tivozanib
-Toceranib
-Toripalimab
-Tositumomab
-Trametinib
-Trastuzumab
-Trastuzumab/hyaluronidase
-Trastuzumab deruxtecan
-Trastuzumab emtansine
-Tremelimumab
-Trilaciclib
-Tucatinib
-Tumor lysis syndrome
-Tyrosine kinase inhibitor
-Unique Ingredient Identifier
-Upper respiratory tract infection
-Urinary tract infection
-VEGF receptors
-Vandetanib
-Vascular endothelial growth factor
-Vascular endothelial growth factor A
-Vemurafenib
-Venetoclax
-Vismodegib
-WHO Model List of Essential Medicines
-Waldenström's macroglobulinemia
-World Health Organization
-Zanidatamab
-Zanubrutinib
-Zenocutuzumab
-Zolbetuximab

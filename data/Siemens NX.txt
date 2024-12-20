@@ -1,252 +1,37 @@
-.dwg
-3D Manufacturing Format
-ABViewer
-ACIS
-ADINA
-Abaqus
-Actran
-Additive manufacturing file format
-Advanced Simulation Library
-Alibre Design
-Allegro (CAD software)
-Altair Engineering
-Altium Designer
-Ansys
-Application software
-Applicon
-ArchiCAD
-Assembly modelling
-Associative engine
-AutoCAD
-AutoCAD DXF
-AutoCAD Electrical
-AutoTURN
 Autodesk Alias
-Autodesk Inventor
-Autodesk Revit
-Autodesk Simulation
-Autodesk Vault
-Autotrax
-BRL-CAD
-BoardStation
-BricsCAD
-C3D Toolkit
-CADKEY
-CADSTAR
-CATIA
-COMSOL Multiphysics
-CONSELF
-CR-2000
-CR-3000
-CR-5000
-CR-8000
-Calculix
-Cimatron
-CircuitMaker
-Class A surfaces
-Cobalt (CAD program)
-Code Saturne
 Company
-Comparison of computer-aided design software
-Computational fluid dynamics
 Computer-aided design
 Computer-aided engineering
-Computer-aided industrial design
 Computer-aided manufacturing
-Computer Simulation Technology
 Computer simulation
-D-Cubed
-DAC-1
-DIANA FEA
-Deal.II
-Delta Design
 Design
-DesignSpark Mechanical
-DesignSpark PCB
-Design Web Format
-Digital mockup
-DipTrace
-EAGLE (program)
-EasyCAD
-EasyEDA
-Easymill
-Easytrax
-Electric (software)
 Electrical wiring
-Electronic Data Systems
 Electronic design automation
-Elmer FEM solver
-Engineering Animation
-Engineering analysis
-FEATool Multiphysics
-FEBio
-FEniCS Project
-FINE MEP
-FORAN System
-FastCAD
-Femap
-File format
-Finite element method
-Finite volume method
-Fluent, Inc.
 FreeCAD
-FreeFem++
-FreePCB
-FreeStyle (CAD software)
-Free and open-source software
-Freecad
-Freeform surface modelling
-Fritzing
-Fusion 360
-GEDA
-General Motors
-Geometric modeling kernel
-Gerris (software)
-GetFEM++
 Graphical user interface
-Grasshopper 3D
-GstarCAD
-HeeksCAD
-History of CAD software
-Horizon EDA
-I-DEAS
-IGES
-IRONCAD
 ISO 10303
-IntegraStation
 IntelliCAD
-JCMsuite
-JMAG
-JT (visualization format)
-KIVA (software)
-KTechLab
 KernelCAD
-KeyCreator
-KiCad
-Kinematics
-Knowledge-based engineering
-LS-DYNA
-LTspice
-LibreCAD
 Linux
-LinuxCNC
-List of 3D printing software
-MEDUSA4
-MOOSE (software)
-MSC Adams
-MSC Marc
 Mac OS
-Magic (software)
 Manufacturing
-Mastercam
-MazaCAM
-McDonnell Douglas
-McDonnell Douglas Automation Company
-Mechanical systems drawing
-Micro-Cap
-MicroStation
 Microsoft Windows
-Midas Civil
-NC-CAM
-NI Multisim
-NI Ultiboard
-NX Nastran
-Nastran
-Nek5000
-Nektar++
-Ngspice
 Numerical control
-Onshape
-OpenFOAM
-OpenSCAD
 Open Cascade Technology
-Open Design Alliance
-Open Packaging Conventions
 Operating system
-OrCAD
-Oregano (software)
-P-CAD
-PADS (CAD software)
-PCB (software)
-PDMS (software)
-PLY (file format)
-PSpice circuit file
-PTC Creo
-PTC Creo Elements/Direct Drafting
-PTC Creo Elements/Pro
 Parasolid
-Patrick J. Hanratty
-Piping
-Plant Simulation
-PowerMILL
-Pro/DESKTOP
-Product Data Management
-Product and manufacturing information
 Product lifecycle management
 Programmer
 Proprietary software
-Protel (CAD software)
-Proteus Design Suite
-Pulsonix
-QBlade
-QCAD
-Quite Universal Circuit Simulator
-RFEM
-RUCAPS
-RattleCAD
 Reverse engineering
-Rhinoceros 3D
-Romulus (modelling kernel)
 Russian Geometric Kernel
-SDRC
-SESAM (FEM)
-STL (file format)
-Salome (software)
 ShapeManager
-Sheet metal
 Siemens
-Siemens Digital Industries Software
-Siemens Teamcenter
-SimScale
-Simcenter STAR-CCM+
-Sketchpad
-SmartCAM
 Software categories
-Software component
 Software license
 Software release life cycle
-SolidWorks
-Solid Edge
-Solid Modeling Solutions
 Solid modeling
-Solidworks PDM
-SolveSpace
-SpaceClaim
-Specctra
-SprutCAM
-Stanford University Unstructured
-Stress analysis
-Synchronous Technology
-T-FLEX CAD
-TARGET (CAD software)
-TangoPCB
-Teamcenter
-Tech Soft 3D
-Tecnomatix
 Teigha
-Thermal analysis
-Tinkercad
-TopoR
-TurboCAD
-UNISURF
-Unix-like
-Upverter
-VariCAD
 Verification and validation
-VoluMill
-Wavefront .obj file
 Windows
 Windows 10
-WorkNC
-XCircuit
-Xpedition (CAD software)

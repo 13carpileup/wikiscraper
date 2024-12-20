@@ -1,7 +1,5 @@
-2-D computer graphics
 2.5D
 2D computer graphics
-2D image
 3-D computer graphics software
 3-D display
 3-D modeling
@@ -20,18 +18,12 @@
 3D modeling tool
 3D printing
 3D projection
-3D rendering
-3D scanning
 3D scene
 AC3D
-ACIS
 A Computer Animated Hand
 Abstract animation
-Adobe Premiere Pro
-Adult animation
 Affine transformation
 Algorithm
-Aliasing
 Alpha compositing
 Amapi
 Ambient occlusion
@@ -48,9 +40,7 @@ Animation director
 Animation in the United States during the silent era
 Animation in the United States in the television era
 Animation industry in South Africa
-Animation music
 Animation studio
-Animator
 Animatronics
 Anime
 Anisotropic filtering
@@ -61,50 +51,34 @@ Artistic rendering
 Audio-Animatronics
 Autodesk 3ds Max
 Autodesk Alias
-Autodesk Combustion
-Autodesk Maya
 Autodesk Mudbox
-Autodesk Softimage
 Back-face culling
 Bangladeshi animation
 Barrier-grid animation and stereography
-Beam tracing
-Bhutanese animation
 Blackmagic Fusion
 Blender (software)
-Blocking (animation)
 Boeing
 Bouncing ball (music)
 Brickfilm
 Bryce (software)
 Bump map
-C3D Toolkit
 CSS animations
 Carrara (software)
 Cartesian coordinate system
 Cartoon physics
 Cartoon violence
 Cel
-Cel shading
-Character animation
-Charcoal
-Checkerboard rendering
-Chinese animation
 Chuckimation
 Cinema 4D
 Clara.io
 ClayFighter
 Clay Jam
 Clay painting
-Claymation
 Clipping (computer graphics)
 Closed-source
 CloudCompare
-Cobalt (CAD program)
 Collision detection
-Comparison of 3D computer graphics software
 Comparison of vector graphics editors
-Compositing
 Computer
 Computer-aided architectural design
 Computer-aided design
@@ -114,9 +88,7 @@ Computer-generated imagery
 Computer animation
 Computer facial animation
 Computer file
-Computer graphics (computer science)
 Computer graphics lighting
-Computer graphics workstation
 Computer program
 Computer representation of surfaces
 Computer simulation
@@ -133,7 +105,6 @@ Diffusion curve
 Digital Fusion
 Digital image
 Digital puppetry
-Dimension
 Direct manipulation animation
 Displacement map
 Drawn-on-film animation
@@ -149,21 +120,16 @@ Exporter (computing)
 Exposure sheet
 Eye tracking
 Facial motion capture
-Filipino animation
-Film editing
 Final Cut Pro
 Finger tracking
-Finite element analysis
 Flash animation
 Flat shading
-Flip book
 Fluid animation
 Fred Parke
 FreeCAD
 Full-motion video
 Futureworld
 Game engine
-Geometry processing
 GigaMesh Software Framework
 Global illumination
 Go motion
@@ -174,7 +140,6 @@ Graphic art software
 Graphic design
 Graphics processing unit
 Graphics software
-HOOPS 3D Graphics System
 Hexagon (software)
 Hidden-surface determination
 History of Azerbaijani animation
@@ -182,7 +147,6 @@ History of Brazilian animation
 History of British animation
 History of Canadian animation
 History of Chinese animation
-History of French animation
 History of Hungarian animation
 History of Iranian animation
 History of Korean animation
@@ -201,40 +165,31 @@ Id Tech 3
 Idle animation
 Image-based modeling and rendering
 Imagine (3D modeling software)
-Importer (computing)
 Inbetweening
 Independent animation
 Indian animation industry
 Ink-wash animation
-Instructional animation
 IntelliCAD
-International Animation Day
 Inverse kinematics
 Isometric graphics in video games and pixel art
 Isometric video game graphics
 Kerkythea
 KernelCAD
-Key frame
 Keyframing
 Layers (digital image editing)
 Lego Harry Potter
 Lego Island
 Lego stop motion
-LightWave 3D
 Light transport theory
 Limbo (video game)
-Limited animation
 Linear alternator
 Lip sync
-List of 3D animation software
 List of 3D computer graphics software
 List of 3D graphics APIs
 List of 3D modeling software
 List of 3D rendering software
 List of Flash animated television series
-List of adult animated feature films
 List of adult animated television series
-List of animated Internet series
 List of animated direct-to-video series
 List of animated films by box office admissions
 List of animated package films
@@ -244,26 +199,20 @@ List of animated television series by episode count
 List of animation studios
 List of animators
 List of anime franchises by episode count
-List of anime series by episode count
 List of children's animated films
 List of children's animated television series
 List of computer-animated films
-List of computer-animated television series
 List of computer graphics algorithms
 List of file formats
 List of films with live action and animation
 List of highest-grossing animated films
-List of highest-grossing live-action/animated films
 List of highest-grossing openings for animated films
 List of international animation festivals
 List of lost or unfinished animated films
-List of most expensive animated films
 List of regional animation festivals
-List of stereoscopic video games
 List of stop motion films
 Lists of animated films
 Lists of animated television series
-Live2D
 Location (geography)
 LuxCoreRender
 MASSIVE (software)
@@ -278,15 +227,12 @@ Mathematics
 Mechanics
 Medical animation
 MeshLab
-Messiah (software)
 Metadata
-Mexican animation
 Mickey Mousing
 Mode 7
 Model animation
 Model sheet
 Modern animation in the United States
-Modo (software)
 MoonRay
 Morph target animation
 Morphing
@@ -298,31 +244,24 @@ N-World
 Non-photorealistic rendering
 Normal mapping
 North Korean animation
-Nuke (software)
 Object animation
 Octane Render
 Oculus Medium
 Oculus Rift
-Off-model
 Onion skinning
 Open-source software
 OpenFX (software)
-OpenSCAD
 Open Cascade Technology
-Outline of animation
 Outsourcing of animation
 POV-Ray
 Paint-on-glass animation
-Paint 3D
 Paper Mario
 Parallax scrolling
 Parasolid
 Path tracing
 Photorealistic
 Physical simulation
-Physically based animation
 Pinscreen animation
-Pixar RenderMan
 Pixel
 Pixel artist
 Pixelation
@@ -335,61 +274,47 @@ Polygon mesh
 Portuguese animation
 Pose to pose animation
 Poser (software)
-PowerAnimator
-PowerPoint animation
 Presto (animation software)
 Procedural animation
 Procedural modeling
 Product lifecycle management
-Puppet
 Puppet animation
 Puppetoons
 Puppetry
 Raster graphics
 Raster graphics editor
-Ray casting
 Ray tracing (graphics)
 Real-time computer graphics
 Reflection (computer graphics)
 Remo 3D
-Render farm
 Rendering (computer graphics)
 Representation (mathematics)
-Rhinoceros 3D
 Romanian animation
-Romulus (modelling kernel)
 Rotation (mathematics)
 Rotoscoping
 Rubber hose animation
 Russian Geometric Kernel
-SVG animation
 Sand animation
 Scaling (geometry)
 Scanimate
 Scanline rendering
-Sculpt 3D
 Seamless3d
 Shade 3D
 Shader
 Shading
 Shadow mapping
-Shadow volume
 Shadowmation
 Shake (software)
 ShapeManager
 Shark 3D
 Shear matrix
-Shovel Knight
-Silhouette animation
 Silo (software)
 Skeletal animation
 SketchUp
-Sketchpad
 Skybox (video games)
 Softimage 3D
 Software
 Source Filmmaker
-South Korean animation
 Spanish animation
 Special effects
 Spectral rendering
@@ -411,7 +336,6 @@ Taiwanese animation
 Teigha
 Terragen
 Texel (graphics)
-Text-to-image model
 Texture mapping
 Thai animation
 The Salt Lake Tribune
@@ -419,19 +343,16 @@ Three-dimensional
 Three-dimensional space
 Timeline of computer animation in film and television
 Traditional animation
-Translation (geometry)
 Triangle mesh
 TrueSpace
 TurboSilver
 Twelve basic principles of animation
 Unbiased rendering
 University of Utah
-Vector graphics
 Video game
 Vietnamese animation
 Virtual camera system
 Virtual cinematography
-Virtual engineering
 Virtual human
 Virtual newscaster
 Virtual reality
@@ -440,7 +361,6 @@ Visual art
 Visual effects
 Visual music
 Visualization (graphic)
-Volume rendering
 Voxel
 Walk cycle
 Wayback Machine
@@ -448,7 +368,6 @@ Whiteboard animation
 William Fetter
 Wings 3D
 Wire-frame model
-Wireframe model
 World War II and American animation
 Yoshi's Woolly World
 ZBrush

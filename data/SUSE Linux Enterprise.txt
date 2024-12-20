@@ -1,16 +1,11 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
-ARM32
-ARM64
-Active Directory
 AlmaLinux
 Alpine Linux
 Android-x86
 Android (operating system)
 Antergos
 AntiX
-Apress
 ArchBang
 ArchLabs
 Arch Linux
@@ -22,15 +17,12 @@ Austrumi Linux
 BLAG Linux and GNU
 BackBox
 BackTrack
-Banshee (music player)
-Beagle (software)
 Bharat Operating System Solutions
 BioSLAX
 BlackArch
 Black Lab Linux
 BlankOn Linux
 Bodhi Linux
-Btrfs
 Business
 CHAOS (operating system)
 CRUX
@@ -45,12 +37,9 @@ ChromeOS
 ChromiumOS
 ClearOS
 Clear Linux OS
-Collaborative software
 ColorOS
 Commodore OS
 Comparison of Linux distributions
-Compiz
-Consistent Network Device Naming
 Container Linux
 Corel Linux
 CrDroid
@@ -62,17 +51,12 @@ Damn Vulnerable Linux
 Debian
 Deepin
 Dell
-Dell, Inc.
 DemoLinux
-Desktop computer
 Devuan
-Dia (software)
 DivestOS
-Docker (software)
 DoudouLinux
 Dreamlinux
 EMUI
-EQT AB
 EWeek
 Edubuntu
 Elementary OS
@@ -81,27 +65,16 @@ Emmabuntüs
 EndeavourOS
 Endless OS
 EulerOS
-Evolution (software)
-Exascale computing
-Exposé (Mac OS X)
 Familiar Linux
 Feather Linux
 Fedora Linux
 Fire OS
-Firefox
 Firefox OS
-Firewall (networking)
 Floppyfw
 Foresight Linux
 FreedomBox
 Freespire
-Frontier (supercomputer)
 Frugalware Linux
-Fujitsu Siemens Computers
-GNOME
-GNOME Classic
-GNOME Files
-GNOME Shell
 GNU Core Utilities
 GNU General Public License
 GNU Guix System
@@ -113,23 +86,13 @@ Gentoo Linux
 GoboLinux
 Gobuntu
 GrapheneOS
-Guy Lunardi
 HandyLinux
-Hewlett-Packard
-Hewlett Packard Enterprise
-Hyperbola GNU/Linux-libre
-IA-32
 IBM
-IBM Watson
-IBM Z
 ISBN (identifier)
 Immunix
 Instant messaging
 IodéOS
-Java Desktop System
-JeOS
 Jurix
-KDE Software Compilation 4
 KDE neon
 KaOS
 KaiOS
@@ -137,7 +100,6 @@ Kaisen Linux
 Kali Linux
 Kanotix
 KateOS
-Kelli Frame
 Kernel (operating system)
 Knoppix
 Kongoni (operating system)
@@ -145,15 +107,11 @@ Korora (operating system)
 Kubuntu
 Kwort Linux
 LXLE Linux
-Lenovo
-Lftp
 Libranet
-LibreOffice
 LinHES
 LineageOS
 Linpus Linux
 Linux
-Linux-based operating system
 LinuxTLE
 Linux Caixa Mágica
 Linux Lite
@@ -162,13 +120,11 @@ Linux Router Project
 Linux distribution
 Linux for PlayStation 2
 Linux kernel
-Linux on IBM Z
 List of Linux distributions
 Lubuntu
 MCC Interim Linux
 MIUI
 MP3
-MSI Wind Netbook
 MX Linux
 Mageia
 Mainframe computer
@@ -177,17 +133,10 @@ Mandriva Linux
 Manjaro
 MeeGo
 Mer (software distribution)
-Micro-Star International
-Micro Focus
-Microsoft Exchange Server
 Microsoft Windows
 Miracle Linux
 Mobilinux
-Mono (software)
 Monolithic kernel
-Moonlight (runtime)
-Musix GNU+Linux
-Nat Friedman
 Natural language
 Network Security Toolkit
 NimbleX
@@ -195,25 +144,17 @@ Nitix
 NixOS
 Nobara Linux
 Nova (operating system)
-Novell
-Novell GroupWise
-Novell Press
-Office suite
 OmniROM
 One UI
 Open-source software
-OpenAIS
 OpenELEC
 OpenMandriva Lx
 OpenSUSE
 Open Enterprise Server
 Open source software
-Oracle Cluster File System Release 2
 Oracle Linux
 PCLinuxOS
-POWER7
 Package manager
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
@@ -222,18 +163,14 @@ Peppermint OS
 Pinguy OS
 PixelExperience
 Platypux
-Plymouth (software)
 Pop! OS
 Porteus (operating system)
-PowerLinux
-Power Systems
 Programmer
 Puppy Linux
 PureOS
 Q4OS
 Qubes OS
 ROSA Linux
-RPM Package Manager
 Raspberry Pi
 Raspberry Pi OS
 Red Hat Enterprise Linux
@@ -244,12 +181,7 @@ Replicant (operating system)
 Resurrection Remix OS
 Rocks Cluster Distribution
 Rocky Linux
-S/390
-S390x
 SUSE Linux
-SUSE Linux Enterprise Desktop
-SUSE Linux distributions
-SUSE S.A.
 SUSE Studio
 Sabayon Linux
 Sabily
@@ -257,8 +189,6 @@ Sailfish OS
 Salix OS
 Scientific Linux
 Server (computing)
-Shibboleth (Internet2)
-Silicon Graphics
 Slackware
 Slax
 Softlanding Linux System
@@ -268,22 +198,15 @@ Software release life cycle
 Solus (operating system)
 SolydXK
 Source Mage
-Sparc
 SparkyLinux
 Splashtop OS
-Spotlight (software)
 SteamOS
 Sun Microsystems
 Sunwah Linux
-Supercomputer
 SystemRescue
-Systemd
 T2 SDE
 Tails (operating system)
-TeliaSonera
-The Attachmate Group
 Think Blue Linux
-TigerVNC
 Tiny Core Linux
 Tizen
 TopologiLinux
@@ -301,28 +224,17 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 User interface
 User space and kernel space
 VectorLinux
 Vine Linux
 Void Linux
-Wayland (display server protocol)
 Web browser
 Whonix
-Windows Subsystem for Linux
-Workstation
 Wubuntu
 X86
-X86-64
 XB Machine
-Ximian
 Xubuntu
-YaST
-YaST2
 Yellow Dog Linux
-ZENworks
 Zenwalk
 Zorin OS
-Zypper

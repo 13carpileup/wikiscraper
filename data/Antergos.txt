@@ -1,7 +1,5 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
-Adobe Flash Player
 AlmaLinux
 Alpine Linux
 Android-x86
@@ -35,11 +33,9 @@ Chakra (operating system)
 Chimera Linux
 ChromeOS
 ChromiumOS
-Cinnamon (desktop environment)
 ClearOS
 Clear Linux OS
 ColorOS
-Command-line interface
 Commodore OS
 Comparison of Linux distributions
 Container Linux
@@ -53,9 +49,7 @@ Damn Vulnerable Linux
 Debian
 Deepin
 DemoLinux
-Desktop environment
 Devuan
-DistroWatch
 DivestOS
 DoudouLinux
 Dreamlinux
@@ -64,7 +58,6 @@ Edubuntu
 Elementary OS
 Elive
 Emmabuntüs
-Empathy (software)
 EndeavourOS
 Endless OS
 EulerOS
@@ -78,14 +71,10 @@ Foresight Linux
 FreedomBox
 Freespire
 Frugalware Linux
-GNOME
-GNOME Display Manager
-GNOME Shell
 GNU General Public License
 GNU Guix System
 GNewSense
 GOS (operating system)
-Galician language
 Garuda Linux
 GeckoLinux
 Gentoo Linux
@@ -93,13 +82,10 @@ GoboLinux
 Gobuntu
 GrapheneOS
 HandyLinux
-Heinz Heise
-Hyperbola GNU/Linux-libre
 Immunix
 International Data Group
 IodéOS
 Jurix
-KDE Plasma 5
 KDE neon
 KaOS
 KaiOS
@@ -129,7 +115,6 @@ Linux for PlayStation 2
 Linux kernel
 List of Linux distributions
 Lubuntu
-MATE (desktop environment)
 MCC Interim Linux
 MIUI
 MX Linux
@@ -142,17 +127,12 @@ Mer (software distribution)
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Musix GNU+Linux
-Nautilus (file manager)
-Nemo (file manager)
 Network Security Toolkit
 NimbleX
 Nitix
 NixOS
 Nobara Linux
 Nova (operating system)
-Numix
-Office suite
 OmniROM
 One UI
 Open-source software
@@ -160,22 +140,17 @@ OpenELEC
 OpenMandriva Lx
 OpenSUSE
 Open Enterprise Server
-Openbox
 Oracle Linux
 PCLinuxOS
 PC World
 Package manager
-Pacman (package manager)
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
 Pentoo
 Peppermint OS
-Pidgin (software)
 Pinguy OS
 PixelExperience
-Plasma 5
 Platypux
 Pop! OS
 Porteus (operating system)
@@ -194,7 +169,6 @@ Replicant (operating system)
 Resurrection Remix OS
 Rocks Cluster Distribution
 Rocky Linux
-Rolling release
 SUSE Linux
 SUSE Linux Enterprise
 SUSE Studio
@@ -237,17 +211,13 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 User interface
 VectorLinux
 Vine Linux
 Void Linux
 Whonix
 Wubuntu
-X86-64
 XB Machine
-Xfce
 Xubuntu
 Yellow Dog Linux
 Zenwalk

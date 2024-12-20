@@ -1,190 +1,58 @@
-/boot/
-ACPI
-AMIBIOS
-AMI Aptio
-ARCS (computing)
-ARC (specification)
 ASCII
-Acronis OS Selector
-Advanced Power Management
-Afro
-American Megatrends
-Apple Partition Map
-Architecture of Windows 9x
 Assembly language
-Award Software
 BIOS
-BIOS boot partition
-Barebox
-BootManager
-BootX (Apple)
-BootX (Linux)
-Boot ROM
 Booting
-Booting process of Android devices
-Booting process of Linux
-Booting process of Windows
-Booting process of Windows NT
-Bootloader unlocking
-Bootloaders
-Bus Pirate
-Byte pair encoding
 CD-ROM
 C (programming language)
-Castlevania
 Cheating in video games
-Chip's Challenge
-Common Firmware Environment
-Comparison of bootloaders
-Console emulator
-Coreboot
-Custom firmware
-Das U-Boot
-Debugger
-Devicetree
 Disassembler
-Dual tile encoding
-EEPROM
-EFI system partition
-EPROM
 EarthBound
 Emergent gameplay
 Eurogamer
-Execute in place
-FTDI
-Fan translation (video gaming)
-Fan translation of video games
 Fangame
-Fastboot
-File comparison
 Final Fantasy (video game)
-Final Fantasy VI
 Fire Emblem
-Firmware
-Flashrom (utility)
 Fork (software development)
-Fwupd
 GNU Compiler Collection
-GNU GRUB
-GPXE
-GUID Partition Table
-GameShark
 Game Boy
 Game Boy Advance
 Game Boy Color
 Game Genie
-Game artificial intelligence
-Gauntlet (1985 video game)
-Golf club
-Hacker (hobbyist)
-Hex editor
-Hexadecimal
 Homebrew (video games)
-IBoot
-IPXE
-Instant-on
-Insyde Software
 Internet
 Internet Archive
 Internet Relay Chat
-Kickstart (Amiga)
-Legacy Plug and Play
-Level editor
-Libreboot
-LinuxBoot
-List of Pokémon
-Loadlin
-Luigi
-MILO (bootloader)
 MIPS architecture
-Mario
 Mario (franchise)
-Mario Bros.
 Mario Kart
 Mario Kart 7
 Mario Kart DS
 Mario Kart Wii
-Master boot record
-Mega Man
-Mega Man (franchise)
-Modding
-Motorola 68000
-Multi-Memory Controller
-MultiProcessor Specification
-NTLDR
-NetBoot
-Network booting
 Nintendo
 Nintendo 64
 Nintendo DS
 Nintendo Entertainment System
-Odin (firmware flashing software)
-Open-source firmware
-OpenBIOS
-Open Firmware
-OpeniBoot
-Phoenix Technologies
 Pixel
 PlayStation
 PlayStation (console)
-Plop Boot Manager
 Pokémon (video game series)
-Pokémon FireRed
-Power-on self-test
-Preboot Execution Environment
-Programmable ROM
 Programming language
-Proprietary firmware
-Qualcomm EDL mode
-REFInd
-REFIt
-RGB
-ROM image
 Raspberry Pi
 Read-only memory
-RedBoot
-Remote Initial Program Load
 Role-playing video game
-Run-Time Abstraction Services
-SRM firmware
-SYSLINUX
-SeaBIOS
 Sega Genesis
-Sega Mega Drive Classic Collection
 Seventh generation of video game consoles
-Simple Firmware Interface
 Sonic the Hedgehog
-Sonic the Hedgehog (series)
 Steam (service)
-Steam Workshop
 Super Mario 64
 Super Mario Bros.
-Super Mario Bros. 2
 Super Mario Bros. 3
-Super Mario Kart
 Super Mario Land
 Super Mario World
-Super Metroid
 Super Nintendo Entertainment System
-System partition and boot partition
-Systemd-boot
 The Legend of Zelda (video game)
 Third generation of video game consoles
-TianoCore EDK II
-Tile-based video game
-Twin Eagles Group
-UEFI
-UEFITool
-Undubbing
 Unofficial patch
-Video BIOS
 Video game
 Video game modding
-Wake-on-LAN
-Wake-on-ring
-Windows Boot Manager
-XOSL
-YIQ
-Yaboot
-Your Sinclair
 Zilog Z80

@@ -1,147 +1,26 @@
-ACID
-Aggregate function
 Algebraic structure
-Armstrong's axioms
 Atomic formula
-Binary operator
-Binary relation
-Blockchain-based database
-Business System 12
-CAP theorem
-Candidate key
 Cartesian product
 Category theory
-Christopher J. Date
-Cloud database
-Codd's 12 rules
-Codd's theorem
-Column-oriented DBMS
-Column (database)
 Communications of the ACM
-Comparison of multi-model databases
-Comparison of object database management systems
-Comparison of relational database management systems
 Complement (set theory)
-Composition of relations
-Concurrency control
-Create, read, update and delete
-Cursor (databases)
-Cylindric algebra
-D4 (programming language)
-Data dictionary
-Data domain
-Data modeling
 Database
-Database administration
-Database index
-Database model
-Database normalization
-Database storage structures
-Database theory
-Database transaction
-Database trigger
-Datalog
-Difference (set theory)
-Distributed database
-Document-oriented database
 Doi (identifier)
-E.F. Codd
-Edgar F. Codd
-Elizabeth O'Neil
-Federated database system
-Fiber product
-Foreign key
 Graph database
-Hector Garcia-Molina
-Hierarchical and recursive queries in SQL
-Hugh Darwen
-ISBL
 ISBN (identifier)
-Idempotence
-Iff
-In-memory database
-Java Database Connectivity
 Jeffrey Ullman
-Jennifer Widom
-Join (SQL)
-Join (relational algebra)
-Journal of Computer and System Sciences
-Key–value database
-List of column-oriented DBMSes
-List of in-memory databases
-List of relational database management systems
-Logic of relatives
 Logical conjunction
 Logical disjunction
-Multi-model database
-Multiset
-Natural join
-Natural join (SQL)
 Negation
-NewSQL
 NoSQL
-Null (SQL)
 OCLC (identifier)
-Object-role modeling
-Object database
-Object–relational database
-Open Database Connectivity
-Operator (mathematics)
-Outline of databases
-PACELC theorem
-Partition (database)
-Predicate (mathematics)
-Projection (mathematics)
-Projection (relational algebra)
-Projection (set theory)
 Propositional formula
-Query Rewriting
-Query language
-Query optimization
-Query plan
-Referential integrity
-Relation (database)
 Relation (mathematics)
-Relation algebra
-Relation composition
-Relation construction
-Relational calculus
-Relational database
-Relational model
-Relational operator
-Rename (relational algebra)
-Replication (computing)
-Row (database)
 S2CID (identifier)
 SQL
-Select (SQL)
-Selection (relational algebra)
 Semantics (computer science)
 Set (mathematics)
-Set difference
-Set intersection
 Set theory
-Set union
-Shard (database architecture)
-Stored procedure
-Superkey
-Surrogate key
-Table (database)
-The Armed
-Theory of relations
-Tomasz Imieliński
-Transaction log
-Transaction processing
-Transitive closure
-Triadic relation
-Tuple
-Tuple relational calculus
 Unary operation
-Unary operator
 Unicode
 Union (set theory)
-Unique key
-View (SQL)
-Wide-column store
-XQuery API for Java
-⋈

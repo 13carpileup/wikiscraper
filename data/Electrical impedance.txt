@@ -1,39 +1,26 @@
 AC motor
-Admittance
 Albert Einstein
 Alessandro Volta
 Alfred-Marie Liénard
 Alternating current
-Ampere
 Ampère's circuital law
-Analytic representation
 André-Marie Ampère
-Argand diagram
-Arthur Kennelly
 Bibcode (identifier)
-Bioelectrical impedance analysis
 Biot–Savart law
 Bremsstrahlung
-Bridge circuit
 Capacitance
 Capacitor
 Carl Friedrich Gauss
-Cartesian plane
-Characteristic impedance
 Charge density
 Charles-Augustin de Coulomb
 Charles Proteus Steinmetz
 Classical electromagnetism
 Classical electromagnetism and special relativity
-Complex exponential
-Complex frequency
 Complex number
-Complex plane
 Computational electromagnetics
 Coulomb's law
 Covariant formulation of classical electromagnetism
 Current density
-Current divider
 Cyclotron radiation
 DC motor
 Dielectric
@@ -52,17 +39,10 @@ Electric motor
 Electric potential
 Electric potential energy
 Electric power
-Electrical characteristics of dynamic loudspeakers
-Electrical charge
-Electrical circuit
-Electrical conduction
 Electrical conductor
-Electrical element
 Electrical engineering
-Electrical insulation
 Electrical load
 Electrical network
-Electrical reactance
 Electrical resistance
 Electrical resistance and conductance
 Electricity
@@ -81,13 +61,8 @@ Electrostatic induction
 Electrostatics
 Emil Lenz
 Emil Wiechert
-Equivalent impedance transforms
-Euler's formula
-Exponential function
 Faraday's law of induction
-Fast Fourier transform
 Four-current
-Fourier analysis
 Franz Ernst Neumann
 Frequency
 Félix Savart
@@ -101,47 +76,28 @@ Hans Christian Ørsted
 Heinrich Hertz
 Hendrik Lorentz
 Hermann von Helmholtz
-High impedance
 Hippolyte Fizeau
 History of electromagnetic theory
 Humphry Davy
 ISBN (identifier)
-Imaginary number
-Imaginary part
-Imaginary unit
-Immittance
-Impedance analyzer
-Impedance bridging
-Impedance cardiography
-Impedance control
-Impedance matching
-Impedance microbiology
-Impedance parameters
 Inductance
 Induction motor
 Inductor
 Insulator (electricity)
-Inversely proportional
 J. J. Thomson
 James Clerk Maxwell
 James Prescott Joule
 Jean-Baptiste Biot
 Jefimenko's equations
-John Ambrose Fleming
 John Henry Poynting
 John Hopkinson
 Joseph Henry
 Joseph Larmor
 Joule heating
 Kirchhoff's circuit laws
-LCR meter
-LC circuit
-LTI system theory
-Laplace transform
 Larmor formula
 Lenz's law
 Linear motor
-Linear relation
 List of electrical phenomena
 List of textbooks in electromagnetism
 Liénard–Wiechert potential
@@ -152,7 +108,6 @@ Magnetic circuit
 Magnetic complex reluctance
 Magnetic field
 Magnetic flux
-Magnetic flux density
 Magnetic moment
 Magnetic reluctance
 Magnetic scalar potential
@@ -164,21 +119,15 @@ Magnetostatics
 Mathematical descriptions of the electromagnetic field
 Maxwell's equations
 Maxwell's equations in curved spacetime
-Maxwell bridge
 Maxwell stress tensor
-Mho
 Michael Faraday
 Multiplicative inverse
-Negative impedance converter
 Network analysis (electrical circuits)
 Nikola Tesla
-Norton's theorem
 OCLC (identifier)
-Ohm
 Ohm's law
 Oleg D. Jefimenko
 Oliver Heaviside
-Operational calculus
 Optics
 PMC (identifier)
 PMID (identifier)
@@ -186,58 +135,25 @@ Permeability (electromagnetism)
 Permeance
 Permittivity
 Phase (waves)
-Phase factor
-Phase shift
-Phasor
-Polar coordinate system
-Polar coordinates
-Polar form
 Polarization density
-Port (circuit theory)
-Potential
 Poynting vector
-Proportionality (mathematics)
-Quadrature phase
 Radio
-Radio antenna
-Reactance (electronics)
 Real number
-Real part
-Reflection coefficient
-Reflections of signals on conducting lines
 Relativistic electromagnetism
-Resistance distance
 Resistivity
-Resistor
 Resonator
 Right-hand rule
 Rotor (electric)
-SI
-SI unit
 Series and parallel circuits
-Short-circuit
-Siemens (unit)
-Signal (electrical engineering)
 Siméon Denis Poisson
 Sine wave
-Sinusoidal
-Standing wave ratio
 Static electricity
 Stator
-Superposition principle
 Synchrotron radiation
-Thévenin's theorem
-Time domain
 Transformer
 Triboelectric effect
-Tuner (radio)
-Universal dielectric response
-Varicap
-Vector (mathematics and physics)
 Voltage
-Voltage divider
 Watt
 Waveguide (radio frequency)
-Wheatstone bridge
 Wilhelm Eduard Weber
 William Ritchie (physicist)

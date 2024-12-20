@@ -1,41 +1,21 @@
 32-bit
-AA tree
-ALGOL
 API
-AVL tree
-Abstract data type
-Addressing mode
 Algorithm
 Amdahl's law
-Amortized analysis
 Analysis of parallel algorithms
 Application checkpointing
 ArXiv (identifier)
-Array (data type)
-Array data structure
-Array data type
-Array slicing
-Association list
 Associative array
 Asymmetric multiprocessing
 Ateji PX
 Automatic parallelization
-B-tree
 Barrier (computer science)
 Beowulf cluster
-Big-O notation
-Binary decision diagram
-Binary heap
-Binary search tree
-Binomial heap
 Bit-level parallelism
 Bit array
 Bitwise operation
-Boost (C++ libraries)
 Bulldozer (microarchitecture)
-Burroughs large systems
 C++
-C++ AMP
 COBOL
 CUDA
 C (programming language)
@@ -44,14 +24,10 @@ Cache coherence
 Cache invalidation
 Central processing unit
 Chapel (programming language)
-Character (computing)
 Charm++
 Cilk
-Circular buffer
 Cloud computing
 Coarray Fortran
-Collection (abstract data type)
-Computational overhead
 Computer cluster
 Computer hardware
 Computer multitasking
@@ -59,11 +35,6 @@ Computer network
 Computer programming
 Computer science
 Concurrency (computer science)
-Constant time
-Container (abstract data type)
-Contiguous data storage
-Control flow
-Control table
 Coordinate vector
 Cost efficiency
 Data parallelism
@@ -73,31 +44,16 @@ Database
 Dataflow architecture
 Dataflow programming
 Deadlock (computer science)
-Deterministic acyclic finite state automaton
 Deterministic algorithm
-Dictionary of Algorithms and Data Structures
-Directed acyclic graph
-Disjoint-set data structure
 Distributed computing
 Distributed memory
 Distributed shared memory
 Doi (identifier)
-Donald Knuth
-Dope vector
-Double-ended priority queue
-Double-ended queue
 Dryad (programming)
-Dynamic array
-Dynamic memory allocation
-EDVAC
 Embarrassingly parallel
-Enumerated type
 Explicit parallelism
-External storage
 Fiber (computer science)
-Fibonacci heap
 Flynn's taxonomy
-Fortran
 GPUOpen
 General-purpose computing on graphics processing units
 Global Arrays
@@ -105,52 +61,29 @@ Graph (abstract data type)
 Grid computing
 Gustafson's law
 HPX
-Handle (computing)
 Hardware acceleration
 Hardware scout
-Hash function
-Hash table
-Hash tree (persistent data structure)
-Hashed array tree
-Heap (data structure)
-Hexadecimal
-High-level programming language
 High-performance computing
 Hilbert R-tree
 ISBN (identifier)
 ISSN (identifier)
-Iliffe vector
-Implicit data structure
 Implicit parallelism
-Index register
 Instruction-level parallelism
 Instruction pipelining
 Instruction window
 Integer
-Jagged array
 Java (programming language)
-John von Neumann
-Judy array
 Karp–Flatt metric
-Linked data structure
 Linked list
 Lisp (programming language)
-List (abstract data type)
-List (computing)
-List of data structures
-Locality of reference
-Lookup table
 Loop-level parallelism
 Manycore processor
 Massively parallel
 Matrix (mathematics)
 Memory-level parallelism
 Memory coherence
-Memory pool
-Memory segmentation
 Merge sort
 Message Passing Interface
-Multimap
 Multiple instruction, multiple data
 Multiple instruction, single data
 Multiprocessing
@@ -158,55 +91,30 @@ Multithreading (computer architecture)
 National Institute of Standards and Technology
 Non-blocking algorithm
 Non-uniform memory access
-Octet (computing)
-Offset (computer science)
 OpenACC
 OpenCL
 OpenHMPP
 OpenMP
-Overhead (computing)
 Parallel Extensions
 Parallel RAM
 Parallel Virtual Machine
-Parallel array
 Parallel computing
 Parallel external memory
 Parallel programming model
 Parallel slowdown
-Pascal string
-Perfect hash function
 Pipeline (computing)
-Pointer (computer programming)
 Preemption (computing)
-Priority queue
 Process (computing)
-Processor cache
 Pthreads
-Queue (abstract data type)
-Queue (data structure)
-R* tree
-R+ tree
-R-tree
 ROCm
 Race condition
-Radix tree
 RaftLib
-Rank (computer programming)
 Record (computer science)
-Red–black tree
 Reference (computer science)
-Retrieval Data Structure
-Robert Sedgewick (computer scientist)
-Row- and column-major order
-Run time (program lifecycle phase)
 S2CID (identifier)
 Scalability
-Scalar (computing)
-Search tree
-Self-balancing binary search tree
 Self-modifying code
 Semiconductor memory
-Set (abstract data type)
 Shared memory
 Simultaneous and heterogeneous multithreading
 Simultaneous multithreading
@@ -215,47 +123,23 @@ Single instruction, multiple threads
 Single instruction, single data
 Skip list
 Software lockout
-Sorted array
-Sparse matrix
 Speculative multithreading
 Speedup
-Splay tree
-Stack (abstract data type)
-Stack (data structure)
 Starvation (computer science)
-Statement (programming)
 Stream processing
-Stride of an array
-String.h
 String (computer science)
-Subroutine
 Superscalar processor
-Switch statement
 Symmetric multiprocessing
 Synchronization (computer science)
 Systolic array
-Table (information)
 Task parallelism
 Temporal multithreading
-The Art of Computer Programming
 Theoretical computer science
 Thread (computing)
 Threading Building Blocks
-Tree (data structure)
-Triangular array
-Trie
-Tuple
 Unified Parallel C
 Uniform memory access
 Unrolled linked list
 Value (computer science)
-Van Emde Boas tree
-Variable-length array
-Variable (programming)
 Vector processor
 Vector space
-Virtual memory
-Word (data type)
-XOR linked list
-ZPL (programming language)
-Zero-based numbering

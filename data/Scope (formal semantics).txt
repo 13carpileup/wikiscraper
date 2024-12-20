@@ -1,86 +1,59 @@
 Alternative semantics
 Ambiguity
-Anaphora (linguistics)
-Angelika Kratzer
-Anna Szabolcsi
 Antecedent-contained deletion
 Autonomy of syntax
-Barbara Partee
 Binding (linguistics)
-C-command
 Cataphora
 Categorial grammar
-Choice function
-Chris Barker (linguist)
 Coercion (linguistics)
 Cognitive semantics
 Combinatory categorial grammar
 Computational semantics
 Conditional sentence
 Conservativity
-Context set
 Continuation
-Continuation-passing style
 Conversational scoreboard
-Counterfactuals
 Crossover effects
 Cumulativity (linguistics)
 De dicto and de re
-De re
 De se
-Deep structure and surface structure
-Definite descriptions
 Definiteness
 Denotation
 Deontic modality
 Discourse relation
 Discourse representation theory
-Disjunction
 Distributional semantics
 Doi (identifier)
-Donkey anaphora
 Downward entailing
 Dynamic semantics
-Entailment
 Epistemic modality
 Evidentiality
 Exhaustivity
-Existential closure
-Existential quantifier
 Extension (semantics)
 Faultless disagreement
-Felicity (pragmatics)
 Focus (linguistics)
 Formal grammar
-Formal semantics (linguistics)
 Formal semantics (natural language)
 Free choice inference
-Free variable
 Function application
 Generalized quantifier
 Generative grammar
 Givenness
 Glue semantics
-Homogeneity (linguistics)
 Hurford disjunction
 ISBN (identifier)
 Inalienable possession
 Indexicality
-Inferentialism
 Inquisitive semantics
 Intension
 Intensional logic
 Intersective modifier
-Irene Heim
-Island (linguistics)
 Lambda calculus
 Lexical semantics
-Linguistic modality
 Linguistics wars
 Logic translation
 Logical form (linguistics)
 Logophoricity
-Meaning postulate
 Mereology
 Mirativity
 Modal subordination
@@ -88,7 +61,6 @@ Monad (functional programming)
 Montague grammar
 Negation
 Opaque context
-Order of operations
 Performative utterance
 Philosophy of language
 Plural quantification
@@ -99,45 +71,18 @@ Presupposition
 Principle of compositionality
 Privative adjective
 Proposition
-Propositional attitudes
 Quantificational variability effect
-Quantifier (linguistics)
 Quantifier (logic)
-Quantifier raising
 Quantization (linguistics)
 Question under discussion
-Reference
 Responsive predicate
-Rising declarative
 S2CID (identifier)
 Scalar implicature
-Segmented discourse representation theory
-Semantic ambiguity
 Semantic parsing
 Semantics of logic
 Situation semantics
-Sloppy identity
-Speech act
-Squiggle operator
 Strawson entailment
 Strict conditional
 Subsective modifier
-Subtrigging
 Supervaluationism
-Syntactic movement
-Syntax
-Syntax–semantics interface
-Tanya Reinhart
-Telicity
-Temperature paradox
-Tense–aspect–mood
-Truth-conditional semantics
-Type shifter
 Type theory
-Type theory with records
-Universal grinder
-Vagueness
-Veridicality
-Wh-movement
-Witness (mathematics)
-Word order

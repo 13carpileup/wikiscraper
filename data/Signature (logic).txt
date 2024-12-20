@@ -1,7 +1,6 @@
 Abelian group
 Abstract logic
 Ackermann set theory
-Aleph-naught
 Aleph number
 Algebraic logic
 Algebraic structure
@@ -16,7 +15,6 @@ Axiom
 Axiom of choice
 Axiom schema
 Axiomatic system
-Axiomatization of Boolean algebras
 Banach–Tarski paradox
 Bijection
 Binary operation
@@ -48,7 +46,6 @@ Computably enumerable set
 Concrete category
 Conservative extension
 Consistency
-Constant symbol
 Constructible universe
 Construction of the real numbers
 Constructive set theory
@@ -56,7 +53,6 @@ Continuum hypothesis
 Countable set
 Decidability (logic)
 Decision problem
-Deductive system
 Diagram (mathematical logic)
 Domain of a function
 Element (mathematics)
@@ -78,14 +74,12 @@ Finitary relation
 Finite-valued logic
 Finite model theory
 Finite set
-First-order language
 First-order logic
 Fixed-point logic
 Forcing (mathematics)
 Formal grammar
 Formal language
 Formal proof
-Formal semantics (logic)
 Formal system
 Formation rule
 Foundations of geometry
@@ -93,14 +87,11 @@ Foundations of mathematics
 Free logic
 Free variables and bound variables
 Function (mathematics)
-Function symbol
 Functional predicate
 Fuzzy set
 General set theory
-George Grätzer
 Grothendieck universe
 Ground expression
-Ground formula
 Gödel's completeness theorem
 Gödel's incompleteness theorems
 Gödel numbering
@@ -110,7 +101,6 @@ Higher-order logic
 Hilbert's axioms
 Hilbert system
 History of logic
-History of mathematical logic
 ISBN (identifier)
 Image (mathematics)
 Inaccessible cardinal
@@ -123,17 +113,14 @@ Inhabited set
 Injective function
 Interpretation (logic)
 Interpretation (model theory)
-Interpretation function
 Intersection (set theory)
 Isomorphism
 Kolmogorov complexity
-Kripke's theory of truth
 Kripke–Platek set theory
 Lambda calculus
 Large cardinal
 Lemma (mathematics)
 Lindström's theorem
-List of Hilbert systems
 List of axioms
 List of first-order theories
 List of formal systems
@@ -171,7 +158,6 @@ Negation
 New Foundations
 Non-Euclidean geometry
 Non-logical symbol
-Non-logical symbols
 Non-standard model
 Non-standard model of arithmetic
 Open formula
@@ -186,7 +172,6 @@ Peano axioms
 Philosophy of mathematics
 Power set
 Predicate (mathematical logic)
-Predicate logic
 Predicate variable
 Primitive recursive arithmetic
 Primitive recursive function
@@ -196,12 +181,10 @@ Proof theory
 Proposition
 Propositional calculus
 Propositional formula
-Propositional logic
 Propositional variable
 Quantifier (logic)
 Quantifier rank
 Recursion
-Recursive set
 Relation (mathematics)
 Reverse mathematics
 Robinson arithmetic
@@ -227,7 +210,6 @@ Spectrum of a theory
 Springer Science+Business Media
 Square of opposition
 Strength (mathematical logic)
-String (formal languages)
 Structure (mathematical logic)
 Substitution (logic)
 Substructure (mathematics)
@@ -239,15 +221,12 @@ Syntax (logic)
 T-schema
 Tarski's axiomatization of the reals
 Tarski's axioms
-Tarski's theory of truth
 Tarski's undefinability theorem
 Tarski–Grothendieck set theory
 Tautology (logic)
 Term (logic)
-Term algebra
 Term logic
 Theorem
-Theories of truth
 Theory (mathematical logic)
 Three-valued logic
 Timeline of mathematical logic
@@ -260,7 +239,6 @@ Truth value
 Turing machine
 Type (model theory)
 Type theory
-Ultrafilter (set theory)
 Ultraproduct
 Uncountable set
 Undecidable problem
@@ -279,5 +257,4 @@ Venn diagram
 Von Neumann universe
 Von Neumann–Bernays–Gödel set theory
 Well-formed formula
-Wilfred Hodges
 Zermelo–Fraenkel set theory

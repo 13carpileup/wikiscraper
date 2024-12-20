@@ -8,17 +8,13 @@
 3D display
 3D film
 3D projection
-3D rendering
 3D stereo view
 3D television
 4D film
 AMD HD3D
-ActRaiser
 Active shutter 3D system
 Affine transformation
-Aliasing
 Alpha compositing
-Amiga
 Anaglyph 3D
 Animation
 Anisotropic filtering
@@ -28,23 +24,17 @@ Arcade video game
 Autostereogram
 Autostereoscopy
 Back-face culling
-Beam tracing
 Binocular rivalry
 Binocular vision
 Blu-ray 3D
 Bubblegram
 CP System
-Cel shading
-Checkerboard rendering
 Chromostereopsis
 Clipping (computer graphics)
 Collision detection
-Color cycling
 Commodore 64
 Comparison of vector graphics editors
-Compositing
 Computer graphics
-Computer graphics (computer science)
 Computer graphics lighting
 Computer stereo vision
 Cone tracing
@@ -54,17 +44,11 @@ Deferred shading
 Depth perception
 Diffusion curve
 Digital 3D
-Digitization
 Dolby 3D
 Epipolar geometry
-F-Zero (video game)
-Final Fight (video game)
 First-person (video games)
-First-person shooter engine
-Fixed 3D
 Fluid animation
 Fujifilm FinePix Real 3D
-Full motion video based game
 Game Boy
 Game Boy Advance
 Game art design
@@ -72,62 +56,37 @@ Game engine
 GamesRadar
 GitHub
 Global illumination
-Graphic adventure game
 Graphics processing unit
 Graphics software
-Handheld TV game
 Head-mounted display
 Hidden-surface determination
-History of video game consoles (fourth generation)
-History of video game consoles (third generation)
 Holography
-Horizontal blank interrupt
-Horizontal blanking interval
 ISBN (identifier)
 Image-based modeling and rendering
 Infitec
 Integral imaging
-Interrupt request
-Irem M-92
 Isometric video game graphics
-Jump Bug
 Jungle Hunt
-Kid Chaos (video game)
 Kinetic depth effect
 Layers (digital image editing)
 Lenticular lens
-Lionheart (video game)
 List of 3D-enabled mobile phones
-List of 3D animation software
 List of 3D computer graphics software
 List of 3D modeling software
 List of 3D rendering software
-List of Sega arcade system boards
 List of computer graphics algorithms
-List of first-person shooter engines
-List of four-dimensional games
-List of interactive movies
-List of stereoscopic video games
-List of text-based computer games
 MasterImage 3D
 Master System
 Mega Drive
-Memory management controller
 Mode 7
-Moon Patrol
-Multiplane camera
 Multiscopy
 Multiview Video Coding
-NBA Jam (1993 video game)
 New Nintendo 3DS
 Nintendo 3DS
 Nintendo DS
 Nintendo Entertainment System
 Nvidia 3D Vision
-Packt Publishing Ltd
-Palette (computing)
 Panavision 3D
-Parallax
 Parallax barrier
 Parallax scanning
 Path tracing
@@ -137,44 +96,29 @@ Pixel
 Pixel art
 Planar projection
 Polarized 3D system
-Pole Position (video game)
 Polygon (computer graphics)
 Polygon mesh
-Pre-rendering
 Pseudoscope
-Purdue University
 Raster graphics
 Raster graphics editor
-Raster interrupt
-Ray casting
 Ray tracing (graphics)
 Real-time computer graphics
 RealD 3D
 Reflection (computer graphics)
 Rendering (computer graphics)
-Risky Woods
 Rotation (mathematics)
 Rotoscoping
 Scaling (geometry)
 Scanline rendering
-Scrolling
-Sega Space Harrier
-Sega System 16
-Sensible Software
 Shader
 Shading
 Shadow mapping
-Shadow volume
 Sharp Actius RD3D Notebook
 Shear matrix
 Side-scrolling video game
 Skybox (video games)
-Sonic the Hedgehog (1991 video game)
-Sonic the Hedgehog 2 (16-bit)
 Spectral rendering
 Specular holography
-Sprite (computer graphics)
-Star Force
 Stereo camera
 Stereo microscope
 Stereo photography techniques
@@ -193,27 +137,15 @@ Stereoscopic video coding
 Stereoscopic video game
 Stereoscopy
 Street Fighter II
-Super Mario Kart
 Super Nintendo Entertainment System
 Surface triangulation
-Taito F3 System
-Teenage Mutant Ninja Turtles (arcade game)
 Texel (graphics)
-Text-based game
-Text-to-image model
-The Whispered World
 Third-person view
-Tile-based video game
-Tile engine
-Top-down perspective
 Traditional animation
-Translation (geometry)
 Triangle mesh
 TurboGrafx-16
 Unbiased rendering
 Vectograph
-Vector game
-Vector graphics
 Vergence-accommodation conflict
 Video game console
 Video game graphics
@@ -222,7 +154,6 @@ View-Master
 Virtual camera system
 Virtual reality headset
 Virtual retinal display
-Volume rendering
 Volumetric display
 Voxel
 Wiggle stereoscopy

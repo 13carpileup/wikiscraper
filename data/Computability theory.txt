@@ -1,41 +1,18 @@
 ACM Computing Classification System
 Abstract logic
-Ackermann function
 Ackermann set theory
-Admissible numbering
-Alan Mathison Turing
 Alan Turing
 Aleph number
-Alfred Tarski
 Algebraic logic
 Algorithm
 Algorithm design
 Algorithmic efficiency
-Algorithmic randomness
-Algorithmically random set
-Alonzo Church
-Alpha recursion theory
 Alphabet (formal languages)
-American Journal of Mathematics
-Analog computation
-Analog computer
-Analog electronics
-Analog signal processing
 Analysis of algorithms
-Analytical hierarchy
-Andrey Markov Jr.
-Anil Nerode
-Annals of Mathematics
 Application security
 Argument
-Arithmetic reducibility
-Arithmetical hierarchy
-Arithmetical reducibility
 Arity
 Artificial intelligence
-Artificial neural network
-Arun Sharma (computer scientist)
-Association for Symbolic Logic
 Atomic formula
 Atomic sentence
 Automata theory
@@ -45,27 +22,18 @@ Axiom
 Axiom of choice
 Axiom schema
 Axiomatic system
-Axiomatization of Boolean algebras
 Banach–Tarski paradox
-Bell System Technical Journal
 Bibcode (identifier)
 Bijection
 Binary operation
-Blum–Shub–Smale machine
 Boolean algebra
 Boolean algebras canonically defined
 Boolean function
-Bradford Book
-Bulletin of Symbolic Logic
-Bulletin of the American Mathematical Society
-Busy Beaver
 Cambridge University Press
 Cantor's diagonal argument
 Cantor's paradox
 Cantor's theorem
-Cantor space
 Cardinality
-Carl Groos Jockusch Jr.
 Cartesian product
 Categorical theory
 Category (mathematics)
@@ -74,7 +42,6 @@ Category theory
 Chapman & Hall
 Church encoding
 Church–Turing thesis
-CiteSeerX (identifier)
 Class (set theory)
 Classical logic
 Codomain
@@ -82,12 +49,8 @@ Compactness theorem
 Compiler construction
 Complement (set theory)
 Complete theory
-Computability
-Computability in Europe
-Computability logic
 Computable function
 Computable set
-Computably enumerable
 Computably enumerable set
 Computational biology
 Computational chemistry
@@ -122,19 +85,14 @@ Continuum hypothesis
 Control theory
 Control variable (programming)
 Countable set
-Cris Moore
 Cross-validation (statistics)
 Cryptography
 Cyberwarfare
-Daniel Nathan Osherson
 Data mining
 Database
 Decidability (logic)
 Decision problem
 Decision support system
-Deductive system
-Definable set
-Degree of constructibility
 Dependability
 Diagram (mathematical logic)
 Differential equation
@@ -149,12 +107,9 @@ Document management system
 Doi (identifier)
 Domain-specific language
 Domain of a function
-Dover Publications, Inc.
 Dynamical system
 E-commerce
-E. Mark Gold
 Educational technology
-Effective descriptive set theory
 Electronic design automation
 Electronic publishing
 Electronic voting
@@ -162,18 +117,13 @@ Element (mathematics)
 Elementary diagram
 Elementary equivalence
 Elementary function arithmetic
-Elsevier
 Embedded system
-Emil Leon Post
-Emil Post
 Empty set
 Enterprise information system
 Enterprise software
-Entscheidungsproblem
 Enumeration
 Equiconsistency
 Equivalence relation
-Erlangen program
 Euclid's Elements
 Euclidean geometry
 Existential quantification
@@ -191,57 +141,41 @@ Forcing (mathematics)
 Form factor (design)
 Formal grammar
 Formal language
-Formal method
 Formal methods
 Formal proof
-Formal semantics (logic)
 Formal system
 Formation rule
 Foundations of geometry
 Foundations of mathematics
 Free logic
 Free variables and bound variables
-Friedberg numbering
 Function (mathematics)
 Functional predicate
 Fuzzy set
 General set theory
 Geographic information system
-Gerald Enoch Sacks
-Goodstein's theorem
 Graphics processing unit
 Green computing
 Grothendieck universe
 Ground expression
-Ground formula
 Group (mathematics)
 Gödel's completeness theorem
-Gödel's incompleteness theorem
 Gödel's incompleteness theorems
 Gödel numbering
 Halting problem
 Hardware acceleration
 Hardware security
-Hartley Rogers Jr.
-Harvey Friedman
 Hdl (identifier)
 Health informatics
-Henry Gordon Rice
-Herbert Bruce Enderton
 Hereditary set
 Higher-order logic
 Hilbert's axioms
-Hilbert's tenth problem
 Hilbert system
 History of logic
-History of mathematical logic
 Human–computer interaction
-Hyperarithmetical reducibility
-Hypersimple set
 ISBN (identifier)
 ISSN (identifier)
 Identity element
-Illinois Journal of Mathematics
 Image (mathematics)
 Image compression
 Inaccessible cardinal
@@ -249,7 +183,6 @@ Independence (mathematical logic)
 Inference
 Infinite-valued logic
 Infinite set
-Information and Control
 Information retrieval
 Information security
 Information system
@@ -261,32 +194,19 @@ Integrated development environment
 Interaction design
 Interpretation (logic)
 Interpretation (model theory)
-Interpretation function
 Interpreter (computing)
 Intersection (set theory)
 Intrusion detection system
 Isomorphism
 JSTOR (identifier)
-Jeffrey B. Remmel
-John R. Myhill Sr.
-Jon Barwise
-Journal of Symbolic Logic
-Julia Robinson
 Knowledge representation and reasoning
 Kolmogorov complexity
-Kripke's theory of truth
 Kripke–Platek set theory
-Kurt Gödel
-LCCN (identifier)
 Lambda calculus
-Lance Jeremy Fortnow
 Large cardinal
 Lemma (mathematics)
-Leo Anthony Harrington
 Library (computing)
-Limiting recursive
 Lindström's theorem
-List of Hilbert systems
 List of axioms
 List of computer size categories
 List of first-order theories
@@ -294,7 +214,6 @@ List of formal systems
 List of mathematical theories
 List of set identities and relations
 List of statements independent of ZFC
-List of undecidable problems
 Logic
 Logic in computer science
 Logical biconditional
@@ -308,23 +227,16 @@ Logical equivalence
 Logical truth
 Logicism
 Löwenheim–Skolem theorem
-MIT Press
-MR (identifier)
 Machine learning
-Many-one reduction
 Many-valued logic
 Map (mathematics)
-Martin Davis (mathematician)
 Material conditional
-MathSciNet
 Mathematical analysis
 Mathematical logic
 Mathematical object
 Mathematical optimization
 Mathematical software
 Mathematics
-Matiyasevich's theorem
-Maximal set
 Metalanguage
 Middleware
 Minimal axioms for Boolean algebra
@@ -344,7 +256,6 @@ NP (complexity)
 Naive set theory
 Natural deduction
 Natural language processing
-Natural number
 Negation
 Network architecture
 Network performance
@@ -354,19 +265,16 @@ Network security
 Network service
 Networking hardware
 New Foundations
-Nigel J. Cutland
 Non-Euclidean geometry
 Non-logical symbol
 Non-standard model
 Non-standard model of arithmetic
-North-Holland
 Numerical analysis
 Open-source software
 Open formula
 Operating system
 Operation (mathematics)
 Operations research
-Oracle Turing machine
 Ordinal analysis
 Ordinal number
 Outline of computer science
@@ -378,27 +286,19 @@ P versus NP problem
 Paradoxes of set theory
 Parallel computing
 Partition of a set
-Peano arithmetic
 Peano axioms
 Peripheral
 Philosophy of artificial intelligence
 Philosophy of mathematics
 Photograph manipulation
-Piergiorgio Odifreddi
-Post's problem
-Post's theorem
 Power set
-Powerset
 Predicate (mathematical logic)
-Predicate logic
 Predicate variable
 Primitive recursive arithmetic
 Primitive recursive function
 Principia Mathematica
 Printed circuit board
 Probability
-Proceedings of the London Mathematical Society
-Proceedings of the National Academy of Sciences USA
 Process control
 Processor (computing)
 Programming language
@@ -412,35 +312,22 @@ Proposition
 Propositional calculus
 Propositional formula
 Propositional variable
-Pyotr Novikov
 Quantifier (logic)
 Quantifier rank
 Quantum Computing
 Randomized algorithm
 Real-time computing
 Recursion
-Recursion (computer science)
-Recursive set
-Recursively enumerable
 Recursively enumerable set
-Reduction (recursion theory)
 Reinforcement learning
 Relation (mathematics)
 Rendering (computer graphics)
 Requirements analysis
 Reverse mathematics
-Rice's theorem
-Richard Arnold Shore
-Richard M. Friedberg
-Robert I. Soare
-Robert Irving Soare
 Robinson arithmetic
 Rule of inference
 Russell's paradox
-Rózsa Péter
-S. Barry Cooper
 S2CID (identifier)
-Samuel R. Buss
 Satisfiability
 Saturated model
 Schröder–Bernstein theorem
@@ -452,13 +339,11 @@ Self-verifying theories
 Semantic theory of truth
 Semantics (computer science)
 Semantics of logic
-Semirecursive
 Sentence (mathematical logic)
 Sequent calculus
 Set (mathematics)
 Set theory
 Signature (logic)
-Simple set
 Singleton (mathematics)
 Skolem arithmetic
 Social computing
@@ -475,19 +360,14 @@ Software maintenance
 Software quality
 Software repository
 Solid modeling
-Solomon Feferman
 Soundness
 Spectrum of a sentence
 Spectrum of a theory
-Springer-Verlag
 Square of opposition
 Statistics
 Stephen Cole Kleene
-Stephen Kleene
-Steve Simpson (mathematician)
 Stochastic computing
 Strength (mathematical logic)
-String (formal languages)
 Structure (mathematical logic)
 Substitution (logic)
 Substructure (mathematics)

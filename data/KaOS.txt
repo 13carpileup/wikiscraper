@@ -1,4 +1,3 @@
-/e/ (operating system)
 4MLinux
 64-bit computing
 ALT Linux
@@ -27,7 +26,6 @@ BlankOn Linux
 Bodhi Linux
 CHAOS (operating system)
 CRUX
-Calamares
 Calculate Linux
 Caldera OpenLinux
 CalyxOS
@@ -54,9 +52,7 @@ Debian
 Deepin
 DemoLinux
 Devuan
-DistroWatch
 DivestOS
-Dolphin file manager
 DoudouLinux
 Dreamlinux
 EMUI
@@ -67,7 +63,6 @@ Emmabuntüs
 EndeavourOS
 Endless OS
 EulerOS
-Falkon
 Familiar Linux
 Feather Linux
 Fedora Linux
@@ -78,7 +73,6 @@ Foresight Linux
 FreedomBox
 Freespire
 Frugalware Linux
-Full Circle magazine
 GNU Guix System
 GNewSense
 GOS (operating system)
@@ -88,36 +82,24 @@ Gentoo Linux
 GoboLinux
 Gobuntu
 GrapheneOS
-Gwenview
 HandyLinux
-Hyperbola GNU/Linux-libre
-ISO image
 Immunix
 IodéOS
 Jurix
-K3B
-KDE
-KDE Frameworks
 KDE Partition Manager
-KDE Plasma 5
 KDE neon
-KSnapshot
 KaiOS
 Kaisen Linux
 Kali Linux
 Kanotix
 KateOS
-Kate (text editor)
 Knoppix
 Kongoni (operating system)
-Konsole
 Korora (operating system)
 Kubuntu
 Kwort Linux
-Kwrite
 LXLE Linux
 Libranet
-LibreOffice
 LinHES
 LineageOS
 Linpus Linux
@@ -142,15 +124,12 @@ MeeGo
 Mer (software distribution)
 Miracle Linux
 Mobilinux
-Mpv (media player)
-Musix GNU+Linux
 Network Security Toolkit
 NimbleX
 Nitix
 NixOS
 Nobara Linux
 Nova (operating system)
-Okular
 OmniROM
 One UI
 Open-source software
@@ -161,7 +140,6 @@ Open Enterprise Server
 Oracle Linux
 PCLinuxOS
 Package manager
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
@@ -175,9 +153,6 @@ Porteus (operating system)
 Puppy Linux
 PureOS
 Q4OS
-Qt (software)
-Qt toolkit
-Quassel IRC
 Qubes OS
 ROSA Linux
 Raspberry Pi OS
@@ -189,7 +164,6 @@ Replicant (operating system)
 Resurrection Remix OS
 Rocks Cluster Distribution
 Rocky Linux
-Rolling release
 SUSE Linux
 SUSE Linux Enterprise
 SUSE Studio
@@ -198,7 +172,6 @@ Sabily
 Sailfish OS
 Salix OS
 Scientific Linux
-SimpleScreenRecorder
 Slackware
 Slax
 Softlanding Linux System
@@ -231,17 +204,13 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 User interface
 VectorLinux
-Vim (text editor)
 Vine Linux
 Void Linux
 Whonix
 Wubuntu
 X86
-X86 64
 XB Machine
 Xubuntu
 Yellow Dog Linux

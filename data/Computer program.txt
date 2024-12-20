@@ -1,417 +1,143 @@
-PCI Express
-Charles Babbage
-Metal–oxide–semiconductor
 Single instruction, multiple data
-PDP-11
 Software quality
-Human-readable medium and data
-Diode
-Planar process
 MacOS
 Inter-process communication
-University of Edinburgh
-Instruction set
-Arithmetic logic unit
-Control flow
 Pascal (programming language)
-Application service provider
-IEEE Annals of the History of Computing
-The Computer Programme
-Axiomatic semantics
-Random logic
-Programming style
-Container (abstract data type)
 Modular programming
-Paper tape
 Disk controller
-Microcomputers
 Programming paradigm
-Signal (IPC)
-Input/output
-Third-generation programming language
-J. Presper Eckert
-Disk operating system
-Systems development life cycle
-Backus–Naur form
-Semiconductor device fabrication
-Optimizing compiler
-Side effect (computer science)
-Application software
 Capacitor
 NOR gate
 Machine language
-Java virtual machine
 Clang
-Array data structure
 S2CID (identifier)
-Shell (computing)
 Word (computer architecture)
-Network packet
 Interpreter (computing)
-Identifier (computer languages)
 American National Standards Institute
-Tree (data structure)
-Phenomenon
-Robert Kowalski
 Kernel (operating system)
-Inflation
-California State University, Sacramento
-Statement (computer science)
-Microsequencer
 Bus (computing)
-Megabyte
 Central processing unit
-Resistor
 C dynamic memory allocation
-History of programming languages
-Crt0
-Data-flow diagram
-List (abstract data type)
 Crystal
-Fortran
-Ada (programming language)
-Accumulator (computing)
-Dartmouth College
 Natural language
-History of computing
-Boule (crystal)
-Bernoulli number
 For loop
 Artificial intelligence
-IBM Basic Assembly Language and successors
-Inline assembler
-Alain Colmerauer
-Programming in the large and programming in the small
-New and delete (C++)
-X86 assembly language
-Von Neumann architecture
-Just-in-time compilation
 Parameter (computer programming)
-Silicate minerals
-Processor register
 Personal computer
 Logic
 Computer
-Execution (computing)
 Logic gate
-System calls
-Inheritance (object-oriented programming)
 Formal grammar
-SLD resolution
-Expression (computer science)
 Boolean algebra
-Memory management unit
-Dartmouth BASIC
-9-track tape
 Data structure
-Object (computer science)
-Intel 8088
 Metalanguage
-Tracing just-in-time compilation
-Assignment (computer science)
 Computer programming
 Intel
-Microcode
 Computer data storage
 CPU
-Average
 Very Large Scale Integration
 Inverter (logic gate)
-Runtime system
 Procedural programming
 API
-Runtime (program lifecycle phase)
-Simula
 Object-oriented programming
-Supply chain management software
 Computer science
-Microcomputer
 Identifier
 Include directive
-Coupling (computer science)
 Peripheral
-Ahead-of-time compilation
-Source-to-source compiler
-Data General Nova
-Dynamic recompilation
-Visual Basic
 Software engineering
 Lambda calculus
 Computer hardware
-Swift (programming language)
 File system
-Knowledge representation
-Abstract data type
-.bss
-Fairchild Semiconductor
-Translator (computing)
-Control unit
-Allan G. Bromley
-Floating-point arithmetic
-Name binding
 Programmer
-Integer (computer science)
 Proprietary software
-Analytical Engine
 Digital Equipment Corporation
-Recursion (computer science)
-Daisy chain (electrical engineering)
 Bytecode
-LuaJIT
-Frances Spence
-Jacquard machine
-Android Runtime
-Intel 8080
-IBM System/360 Model 195
-Time-sharing
 OR gate
 Finite-state machine
-Common Language Runtime
-Makefile
-Pascaline
 Computer terminal
 Integrated development environment
-Method (computer programming)
-Clock signal
 Thread (computing)
-Memory management
-Control store
-Point-contact transistor
-Memory buffer register
-Bell Labs
 Variable (computer science)
 Hard disk drive
-Backward chaining
 Computer file
 ISBN (identifier)
-Polycrystalline silicon
 Waterfall model
-Instruction cycle
-Zend Engine
 Customer relationship management
 JavaScript
-Logic level
 Virtual machine
 Software design
 Software development
 Computer virus
-Manual memory management
-Command-line interface
-ENIAC
-Bipolar junction transistor
-Global variable
 Commercial off-the-shelf
-ALGOL
 BASIC
 Concurrent computing
 Graphical user interface
-Machine instruction
-US Department of Defense
-Modula-2
-UNIX
 Garbage collection (computer science)
 GNU Compiler Collection
-Scheduling (computing)
-Static variable
 IBM
-Memory cell (computing)
 Software development process
 World War II
-BCPL
 Prolog
-Punched cards
-Universal Turing machine
-Intermediate representation
 Imperative programming
 Consumer
-Intel 8008
-LLVM
-Out of memory
 Microprocessor
 X86
-Logic programming
-Monocrystalline silicon
-BEAM (Erlang virtual machine)
-Context switch
 IBM Personal Computer
-Cohesion (computer science)
-Czochralski method
 Interface (computing)
-Page fault
-Generic programming
-Ada Lovelace
-"Hello, World!" program
-PyPy
 Assembly language
-Increment and decrement operators
 Robert Noyce
-Functional programming
 VT100
 NAND gate
-Function (computer programming)
 Lisp (programming language)
-Variable (programming)
 Abstraction (computer science)
-Turing completeness
 Java (programming language)
-Class hierarchy
-Demand
-Operand
-FORTRAN
-Base-10
 Preemption (computing)
 Read-only memory
-Executable
-Memory controller
-Electronic circuit
-Datapath
 Computer memory
 Sequence
-Siemens process
-High-level programming language
 Aerospace
-Constant (computer programming)
-Diode matrix
 Alan Turing
-P–n junction
-Character (computing)
-Photolithography
-Computer programmer
-Integers
-Memorex
-Custom software
 Enterprise resource planning
-First Draft of a Report on the EDVAC
 Instruction set architecture
-Stored-program computer
-Programming language generations
 Programming language
 Compiler
-Mono (software)
-Denotational semantics
-System software
 Vacuum tube
-Functional language
 Parallel computing
-Machine code
-Routing table
-History of software
-Class (computer programming)
-Syntax (programming languages)
-Delphi (software)
 C++
 Aberdeen Proving Ground
-Systems analyst
-First-generation programming language
-Dispatch latency
-Data segment
-List
-Plugboard
 Scope (computer science)
-V8 (JavaScript engine)
 COBOL
-Utility software
-IBM Solid Logic Technology
 Real number
-C programming language
-Node.js
 B (programming language)
-Region-based memory management
 Objective-C
 Formal language
-John Mauchly
 Computer engineering
-Second-generation programming language
-Process control block
-Compile time
-Substrate (materials science)
 Data type
-Systems programming
-Electrical resistivity and conductivity
-Turing complete
 Doi (identifier)
-Functional requirement
 Record (computer science)
 Operation (mathematics)
-Memory address register
-Subset
-Die (integrated circuit)
-Software documentation
-Syntax-directed translation
 Process (computing)
-Text-based user interface
-Field-effect transistor
-Michael J. C. Gordon
-Conditional (computer programming)
 Microsoft Visual C++
-Backward-compatible
-Bit
-Precompilation
-Block (programming)
-Call stack
-Constructor (object-oriented programming)
 Array (data structure)
-EDVAC
-Operators in C and C++
 Element (mathematics)
 User (computing)
-Fourth-generation programming language
-Assembler (computing)
-Intel 8086
-Software aging
-Firmware
-Invention of the integrated circuit
-File descriptor
 Semantics (computer science)
-Program counter
-Memory address
-Reserved word
-Source-code editor
-Type system
 Computer multitasking
-Compile and go system
-Pointer (computer programming)
 Operating system
 Microsoft
 SQL
 Wafer (electronics)
-Datatype
-Physical address
-Virtual address space
-Circuit board
 Database
 Integer
-ML (programming language)
 Enterprise software
 Network management
-Object code
-W65C816S
 Declarative programming
-Problem solving
-Random-access memory
-EDSAC
-Intel 4004
 C (programming language)
-Delimiter
-IBM System/360 Model 20
 Source code
-Loader (computing)
 AND gate
-Programmable ROM
-Declaration (computer programming)
-IBM System/360
 Algorithm
-Oberon (programming language)
-Read–eval–print loop
 Production (computer science)
-John von Neumann
-PL/1
-CPython
 Software
-Jean Bartik
 String (computer science)
-Snippet (programming)
-Busicom
-Grace Hopper
 Integrated circuit
 Set theory

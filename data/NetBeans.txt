@@ -1,499 +1,55 @@
-.NET
-Acquisition of Sun Microsystems by Oracle Corporation
 Adobe Flash
-Adobe Flash Builder
-Afara Websystems
-Afrikaans language
-Ajax (programming)
-Albanian language
-Android Studio
-Andy Bechtolsheim
 Anjuta
-Apache Accumulo
-Apache ActiveMQ
-Apache Airavata
-Apache Airflow
-Apache Allura
-Apache Ambari
-Apache Ant
-Apache Apex
-Apache Aries
-Apache Arrow
-Apache Avro
-Apache Axis
-Apache Axis2
-Apache Batik
-Apache Beam
-Apache Beehive
-Apache Bloodhound
-Apache Brooklyn
-Apache CXF
-Apache Calcite
-Apache Camel
-Apache CarbonData
-Apache Cassandra
-Apache Cayenne
-Apache Click
-Apache CloudStack
-Apache Cocoon
-Apache Commons
-Apache Commons Logging
-Apache Continuum
-Apache Cordova
-Apache CouchDB
-Apache Derby
-Apache Directory
-Apache Drill
-Apache Druid
-Apache Empire-db
-Apache FOP (Formatting Objects Processor)
-Apache Felix
-Apache Flex
-Apache Flink
-Apache Flume
-Apache Geronimo
-Apache Giraph
-Apache Groovy
-Apache Guacamole
-Apache Gump
-Apache HBase
-Apache HTTP Server
-Apache Hadoop
-Apache Hama
-Apache Harmony
-Apache Helix
-Apache Hive
-Apache Iceberg
-Apache Ignite
-Apache Impala
-Apache Ivy
-Apache JMeter
-Apache Jackrabbit
-Apache James
-Apache Jelly
-Apache Jena
-Apache Kafka
-Apache Kudu
-Apache Kylin
 Apache License
-Apache License 2.0
-Apache Lucene
-Apache MINA
-Apache MXNet
-Apache Mahout
-Apache Marmotta
-Apache Maven
-Apache MyFaces
-Apache Mynewt
-Apache NiFi
-Apache Nutch
-Apache ODE
-Apache OFBiz
-Apache ORC
-Apache Oozie
-Apache OpenEJB
-Apache OpenJPA
-Apache OpenNLP
-Apache OpenOffice
-Apache PDFBox
-Apache POI
-Apache Parquet
-Apache Phoenix
-Apache Pig
-Apache Pinot
-Apache Pivot
-Apache Portable Runtime
-Apache Qpid
-Apache RocketMQ
-Apache Roller
-Apache SINGA
-Apache Samza
-Apache Shale
-Apache Shiro
-Apache Sling
-Apache Software Foundation
-Apache Solr
-Apache SpamAssassin
-Apache Spark
-Apache Stanbol
-Apache Storm
-Apache Struts
-Apache Struts 1
-Apache Subversion
-Apache Superset
-Apache SystemDS
-Apache Tapestry
-Apache Taverna
-Apache Thrift
-Apache Tika
-Apache TinkerPop
-Apache Tomcat
-Apache Traffic Server
-Apache Trafodion
-Apache Tuscany
-Apache Velocity
-Apache Wave
-Apache Wicket
-Apache XML
-Apache XMLBeans
-Apache Xalan
-Apache Xerces
-Apache ZooKeeper
-Apache cTAKES
-Apache iBATIS
-AppCode
-Apress
-Aptana
 Arch Linux
-Arduino IDE
-Atom (text editor)
-Autocomplete
-AxKit
-Axure RP
-Azerbaijani language
 BASIC
-BEA Systems
-Basic-256
-Basic4GL
-Bean Scripting Framework
-Berkeley DB
-Bill Joy
-BlueJ
-Borland Kylix
-Borland Turbo C
 Brazilian Portuguese
-Byte Code Engineering Library
 C++
-C++Builder
-CA-Realizer
-CDDL
-CLion
 CSS
 C (programming language)
-Callback (computer science)
-Catalan language
-Cerner
-Charles University
-Chromium (web browser)
-Clarion (programming language)
-Classpath exception
-Clearcase
-Cloud9 IDE
-Cobalt Networks
-Cobalt Qube
-Cobalt RaQ
-Cocoa (API)
 CodeLite
-CodeWarrior
-Code folding
-Code refactoring
-Codelobster
-Common Development and Distribution License
 Common Language Infrastructure
-Commons Daemon
 Comparison of integrated development environments
 Computing platform
-Concurrent Versions System
-Czech language
-DTrace
-Delphi (software)
-Deltacloud
-Dev-C++
-Dev-Pascal
-DevEco Studio
-Donald L. Lucas
-DrJava
-Dual license
 Dutch language
-EJB
 Eclipse (software)
-Eclipse Che
-Emacs
-Embedded Wizard
-Eric (software)
-Essbase
-Etch (protocol)
-FLUID
-Faculty of Mathematics and Physics, Charles University
-Filipino language
-Fireplane
-Fortran
-Fortress (programming language)
-FreeBASIC
-FreeMarker
-Free Pascal
-Free and open-source software
 Freeware
 French language
-FutureBASIC
-GLBasic
 GNOME Builder
-GNU Classpath
 GPL
-GPL linking exception
-GPLv2
-GTK
-Galician language
-Gambas
 Geany
 German language
-Git
-Glade Interface Designer
-GlassFish
 Go (programming language)
-Google LLC v. Oracle America, Inc.
-Gorm (computing)
 Graphical user interface
 Graphical user interface builder
 Greek language
-Greenfoot
-Gridware
-H. Raymond Bingham
 HTML5
-Haxe
-Hindi language
-HotSpot (virtual machine)
-Hyperion Solutions
-Héctor García-Molina
-IDLE
-IPlanet
 ISBN (identifier)
-IUP (software)
-Image Packaging System
 Indonesian language
-InnoDB
 Integrated development environment
-IntelliJ IDEA
-Interface Builder
 Italian language
-JBuilder
-JD Edwards
-JDeveloper
-JGRASP
-JUCE
-Jack Kemp
-Jakarta Project
-Jakarta Slide
-James Gosling
 Japanese language
-JavaFX
 JavaScript
-JavaStation
 Java (programming language)
-Java (software platform)
-Java Community Process
-Java Desktop System
-Java EE
-Java Platform, Micro Edition
-Java Platform, Standard Edition
-Java SE
-Jeffrey Berg
-Jeffrey O. Henley
-JetBrains
-Jini
-Joseph Grundfest
 KDevelop
-Kakoune
-Komodo Edit
-Komodo IDE
-Korean language
-LANSA (development environment)
-LOM port
-LabWindows/CVI
-Larry Ellison
-Lazarus (IDE)
-Lazarus (software)
-Lazarus Component Library
-Liberty BASIC
-Light Table (software)
-Lighthouse Design
 Linux
-List of NetBeans-based software
-List of Sun Microsystems employees
-List of acquisitions by Oracle
-Lithuanian language
-Log4j
-Lustre (file system)
-MAJC
-MB86900
-MBus (SPARC)
-MIDlet
 MacOS
-Mark Hurd
-Maxine Virtual Machine
-Memory (storage engine)
-Memory leak
-Mendix
-Mercurial
-Michael Boskin
-MicroSPARC
-Microsoft Blend
-Microsoft Pascal
-Microsoft Small Basic
-Microsoft Visual Studio
 Microsoft Visual Studio Express
 Microsoft Windows
-Mod perl
-MonoDevelop
-Montalvo Systems
-Morphic (software)
-Mozilla Public License
-MyEclipse
-MySQL
-MySQL AB
-NIS+
-NS Basic
-Nashorn (JavaScript engine)
-NeWS
-NetSuite
-Network File System
-Network Information Service
-Ninja-IDE
-NuttX
-O'Reilly Media
-OCFS2
-Object Pascal
-Online integrated development environment
 Open-source software
-OpenJDK
 OpenOffice.org
-OpenSPARC
-OpenSolaris
-OpenWindows
-Open Source University Meetup
 Operating system
-Oracle Application Express
-Oracle Big Data Appliance
-Oracle Certification Program
-Oracle Coherence
-Oracle Corporation
-Oracle Database
-Oracle Developer Studio
-Oracle Exadata
-Oracle Exalogic
-Oracle Forms
-Oracle Fusion Middleware
-Oracle Grid Engine
-Oracle Labs
 Oracle Linux
-Oracle NoSQL Database
-Oracle Rdb
-Oracle SOA Suite
-Oracle SQL Developer
-Oracle Secure Global Desktop
-Oracle Solaris
-Oracle VM Server for x86
-Oracle WebCenter
-Oracle WebLogic Server
-Oracle ZFS
-OutSystems
 PHP
-PHPEdit
-PHPUnit
-PL/SQL
-POP-11
-Packt
-PascalABC.NET
 Pascal (programming language)
-PeopleSoft
-PhpStorm
-PicoJava
-Pixo
-Poplog
-PowerBuilder
-Powerflasher FDT
-Prague
-Prentice Hall
-Procom Technology
-Profiler (computer science)
 Programmer
-Project Looking Glass
 Proprietary software
-PureBasic
-PyCharm
-PyDev
-PythonAnywhere
 Python (programming language)
-QB64
-QBasic
-QDevelop
-QFS
-Qt (software)
-Qt Creator
-QuickBASIC
-QuickC
-RStudio
-R (programming language)
-R Tools for Visual Studio
-RadPHP
-RapidQ
-Rational Software Architect
-Refactoring
-Repository (version control)
-Resource construction set
-Retail software
-RightNow Technologies
-Rock (processor)
-Romanian language
 Ruby (programming language)
 Russian language
-SBus
 SPARC
-SPARC Enterprise
-SPARC T-Series
-SPARC T3
-SPARC T4
-SPARC T5
-SPARC T series
-SPARCclassic
-SPARCstation
-SPARCstation 1
-SPARCstation 10
-SPARCstation 2
-SPARCstation 20
-SPARCstation 4
-SPARCstation 5
-SPARCstation IPC
-SPARCstation IPX
-SPARCstation LX
-SPARCstation ZX
-Safra Catz
-SavaJe
-Scott McNealy
-SdlBasic
-Selenium (software)
 Serbian language
-SharpDevelop
-Siebel Systems
-Simplified Chinese
-SlickEdit
 Software categories
-Software component
 Software license
 Software release life cycle
-Softwell Maker
-Solaris (operating system)
-SourceLair
 Spanish language
-Spyder (software)
-Sqoop
-Standard Widget Toolkit
-StarOffice
-StorageTek
-Storage Technology Corporation
-Sublime Text
-Sun-1
-Sun-2
-Sun-3
-Sun-4
-Sun386i
-Sun4d
-SunOS
-SunView
-Sun Blade
-Sun Blade (workstation)
-Sun Cloud
-Sun Constellation System
-Sun Enterprise
-Sun Enterprise 10000
-Sun Fire

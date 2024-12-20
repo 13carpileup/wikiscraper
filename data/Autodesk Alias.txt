@@ -1,158 +1,23 @@
-.dwg
-3D Manufacturing Format
-ABViewer
-ACIS
-Additive manufacturing file format
-Alias Research
-Alias Systems Corporation
-Alibre Design
-Allegro (CAD software)
-Altium Designer
-ArchiCAD
-AutoCAD
-AutoCAD DXF
-AutoCAD Electrical
-AutoTURN
 Autodesk
-Autodesk Inventor
-Autodesk Maya
-Autodesk Revit
-Automotive design
-Autotrax
-BRL-CAD
-BoardStation
-BricsCAD
-Bézier surface
-C3D Toolkit
-CADKEY
-CADSTAR
-CATIA
-CR-2000
-CR-3000
-CR-5000
-CR-8000
-Cimatron
-CircuitMaker
-Class A surfaces
-Cobalt (CAD program)
-Comparison of computer-aided design software
 Computer-aided design
-Computer-aided industrial design
-DAC-1
-Delta Design
-DesignSpark Mechanical
-DesignSpark PCB
-Design Web Format
-DipTrace
-EAGLE (program)
-EasyCAD
-EasyEDA
-Easytrax
-Electric (software)
 Electronic design automation
-FINE MEP
-FORAN System
-FastCAD
-File format
 FreeCAD
-FreePCB
-FreeStyle (CAD software)
-Free and open-source software
-Fritzing
-Fusion 360
-GEDA
-Geometric modeling kernel
-Grasshopper 3D
-GstarCAD
-HeeksCAD
-History of CAD software
-Horizon EDA
-IGES
-IRONCAD
 ISO 10303
 Industrial design
-IntegraStation
 IntelliCAD
-KTechLab
 KernelCAD
-KeyCreator
-KiCad
-LTspice
-LibreCAD
-MEDUSA4
-Magic (software)
-Mechanical systems drawing
-Micro-Cap
-MicroStation
 Microsoft Windows
-NI Multisim
-NI Ultiboard
-NURBS
-Ngspice
-Non-uniform rational B-spline
-Onshape
-OpenSCAD
 Open Cascade Technology
-Open Design Alliance
-Open Packaging Conventions
 Operating system
-OrCAD
-Oregano (software)
-P-CAD
-PADS (CAD software)
-PCB (software)
-PDMS (software)
-PLY (file format)
-PSpice circuit file
-PTC Creo Elements/Direct Drafting
-PTC Creo Elements/Pro
 Parasolid
-Pro/DESKTOP
-Pro/ENGINEER
-ProEngineer
-Product design
 Programmer
 Proprietary software
-Protel (CAD software)
-Proteus Design Suite
-Pulsonix
-QCAD
-Quite Universal Circuit Simulator
-RUCAPS
-RattleCAD
-Rhinoceros 3D
-Romulus (modelling kernel)
 Russian Geometric Kernel
-STL (file format)
-Salome (software)
 San Francisco
-Santa Barbara, California
 ShapeManager
 Siemens NX
-Silicon Graphics
-Sketchpad
 Software categories
 Software license
 Software release life cycle
-SolidWorks
-Solid Edge
-Solid Modeling Solutions
-SolveSpace
-SpaceClaim
-Specctra
-Subdivision surface
-T-FLEX CAD
-TARGET (CAD software)
-TangoPCB
 Teigha
-Tinkercad
-TopoR
 Toronto
-TurboCAD
-UNISURF
-Upverter
-VariCAD
-Wavefront .obj file
-Wavefront Technologies
-XCircuit
-Xpedition (CAD software)

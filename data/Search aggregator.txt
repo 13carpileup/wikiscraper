@@ -4,7 +4,6 @@ Art blog
 Astroturfing
 Atom (Web standard)
 Atom (web standard)
-Audio search engine
 BitTorrent
 Blawg
 Blog
@@ -14,30 +13,20 @@ Blogosphere
 Broadcatching
 Citizen journalism
 Classical music blog
-Collaborative search engine
 Columnist
 Communication
 Comparison of feed aggregators
 Corporate blog
-Cross-language information retrieval
-Cross-language search
 Data feed
 Database journalism
-Desktop search
-Distributed web crawling
-Document retrieval
 Dream diary
 Edublog
 Electronic journal
 Enhanced podcast
-Enterprise search
 Escribitionist
-Evaluation measures (information retrieval)
 Fashion blog
-Federated search
 FeedSync
 Feed URI scheme
-Focused crawler
 Food blogging
 GeoRSS
 Geotagging
@@ -47,32 +36,24 @@ Health blog
 History of blogging
 History of podcasting
 History of web syndication technology
-Image retrieval
-Index (search engine)
 Instant messaging
 Inter-process communication
-Internet search
 Journalism
 Lifelog
 Linkback
 List of family-and-homemaking blogs
 List of search engines
 Liveblogging
-Local search (Internet)
 MP3 blog
 Mashup (web application hybrid)
 Media RSS
 Memetics
-Metasearch engine
 Microblogging
 Mobile blogging
 Mobilecast
 Mormon blogosphere
 Motovlog
-Multimedia search
-Multisearch
 Narrowcasting
-Natural language search engine
 NewsML
 NewsML-G2
 NewsML 1
@@ -80,8 +61,6 @@ News aggregator
 Niche blogging
 OPML
 Online diary
-Online search
-OpenSearch
 Pay-per-click
 Peercasting
 Permalink
@@ -103,30 +82,17 @@ RSS tracking
 Reblogging
 Refback
 Reference (computer science)
-Representational State Transfer
 Resource Description Framework
 Reverse blog
 Review aggregator
-Robots exclusion standard
 Rollback (data management)
 Screencast
-Search/Retrieve Web Service
-Search/Retrieve via URL
-Search by sound
-Search engine (computing)
-Search engine marketing
-Search engine optimization
-Search oriented architecture
-Selection-based search
-Semantic search
 Sideblog
 Slashdot effect
 Slidecasting
-Social search
 Social software
 Spam blog
 Spam in blogs
-Spider trap
 Streaming media
 Text mining
 Thread (Internet)
@@ -134,30 +100,18 @@ Trackback
 Travel blog
 Usenet
 Uses of podcasting
-Vertical search
 Video aggregator
 Video blog
-Video search engine
 Videocast
 Vlog
-Voice search
 Warblog
 Web Slice
-Web archiving
-Web crawler
 Web directory
 Web feed
-Web indexing
-Web query
-Web query classification
-Web search engine
 Web series
 Web syndication
 Webcomic
-Website mirroring software
 Webtoon
-Wide area information server
 World Wide Web
 XBEL
 XOXO (microformat)
-Z39.50

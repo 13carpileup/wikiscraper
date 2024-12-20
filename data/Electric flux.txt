@@ -3,7 +3,6 @@ Albert Einstein
 Alessandro Volta
 Alfred-Marie Liénard
 Alternating current
-Ampere
 Ampère's circuital law
 André-Marie Ampère
 Biot–Savart law
@@ -15,7 +14,6 @@ Charles-Augustin de Coulomb
 Charles Proteus Steinmetz
 Classical electromagnetism
 Classical electromagnetism and special relativity
-Closed surface
 Computational electromagnetics
 Coulomb
 Coulomb's law
@@ -23,13 +21,11 @@ Covariant formulation of classical electromagnetism
 Current density
 Cyclotron radiation
 DC motor
-Dimensional analysis
 Direct current
 Displacement current
 Eddy current
 Electret
 Electric charge
-Electric constant
 Electric current
 Electric dipole moment
 Electric field
@@ -59,15 +55,12 @@ Electrostatic induction
 Electrostatics
 Emil Lenz
 Emil Wiechert
-Farad
 Faraday's law of induction
-Field line
 Four-current
 Franz Ernst Neumann
 Félix Savart
 Gauss's law
 Gauss's law for magnetism
-Gaussian surface
 Georg Ohm
 George Singer
 Gradient
@@ -80,7 +73,6 @@ Hermann von Helmholtz
 Hippolyte Fizeau
 History of electromagnetic theory
 Humphry Davy
-HyperPhysics
 ISBN (identifier)
 Inductance
 Induction motor
@@ -123,7 +115,6 @@ Mathematical descriptions of the electromagnetic field
 Maxwell's equations
 Maxwell's equations in curved spacetime
 Maxwell stress tensor
-Meter
 Metre
 Michael Faraday
 Network analysis (electrical circuits)
@@ -142,20 +133,14 @@ Relativistic electromagnetism
 Resonator
 Right-hand rule
 Rotor (electric)
-SI
-SI base unit
-SI unit
 Second
 Series and parallel circuits
 Siméon Denis Poisson
 Static electricity
 Stator
-Surface integral
-Surface normal
 Synchrotron radiation
 Transformer
 Triboelectric effect
-Vector area
 Volt
 Voltage
 Watt

@@ -1,17 +1,11 @@
-+
 0 (number)
 1 (number)
 2 (number)
 3 (number)
-4K Disk Monitor System
 4 (number)
 5 (number)
 6 (number)
-7-bit DEC Turkish
 7 (number)
-8-bit DEC Cyrillic
-8-bit DEC Greek
-8-bit DEC Hebrew
 8 (number)
 9 (number)
 @
@@ -23,7 +17,6 @@ ARIB STD B24 character set
 ASCII
 ASMO 449
 ATASCII
-Acknowledge character
 AdvFS
 Alpha 21064
 Alpha 21164
@@ -32,7 +25,6 @@ Alpha 21364
 Alpha 21464
 AltaVista
 Ampersand
-Amstrad CP/M Plus character set
 Amstrad CPC character set
 Apostrophe
 Apple II character set
@@ -50,7 +42,6 @@ Big5
 Binary Ordered Compression for Unicode
 Bitstream International Character Set
 BraSCII
-Braces (punctuation)
 Bracket
 Bus (computing)
 C
@@ -69,7 +60,6 @@ CWI-2
 Cancel character
 Carriage return
 Casio calculator character sets
-Cedilla
 Character encoding
 Character encodings in HTML
 Charset detection
@@ -92,17 +82,10 @@ Code page 1019
 Code page 1020
 Code page 1021
 Code page 1023
-Code page 1034
 Code page 1040
 Code page 1042
 Code page 1043
-Code page 1044
 Code page 1046
-Code page 1052
-Code page 1053
-Code page 1054
-Code page 1055
-Code page 1056
 Code page 1058
 Code page 1098
 Code page 1101
@@ -140,7 +123,6 @@ Code page 853
 Code page 855
 Code page 856
 Code page 857
-Code page 858
 Code page 859
 Code page 860
 Code page 861
@@ -157,7 +139,6 @@ Code page 896
 Code page 897
 Code page 899
 Code page 903
-Code page 904
 Code page 912
 Code page 915
 Code page 921
@@ -178,20 +159,16 @@ Comparison of Unicode encodings
 Compucolor II character set
 Computer hardware
 Computer terminal
-Control Sequence Introducer
 Control character
 Cooke and Wheatstone telegraph
 Cork encoding
-Currency (typography)
 D
 DECUS
 DEC Alpha
-DEC BATCH-11/DOS-11
 DEC GT40
 DEC Hebrew
 DEC J-11
 DEC MICA
-DEC Multinational Character Set
 DEC PRISM
 DEC RADIX 50
 DEC Special Graphics
@@ -209,29 +186,17 @@ DIGITAL Command Language
 DIN 66003
 DIN 91379
 DKOI
-Data link escape
-Delete character
-Device Control Four
-Device Control One
-Device Control Three
-Device Control Two
 Digital Equipment Corporation
 Digital Federal Credit Union
 Digital Linear Tape
 Digital Storage Systems Interconnect
-Digital UNIX
 Digital encoding of APL symbols
 Dollar sign
-Dotless I
 Dynamic debugging technique
 Dynamically Redefined Character Set
 E
 EBCDIC
 ELOT 927
-End of medium
-End of text
-End of transmission block
-End of transmission character
 Enquiry character
 Equal sign
 Escape character
@@ -243,10 +208,8 @@ FOCAL (programming language)
 FOCAL character set
 FX!32
 Fieldata
-File separator
 Firefly (cache coherence protocol)
 Flip-Chip module
-Form feed
 Full stop
 G
 GBK (character encoding)
@@ -262,7 +225,6 @@ Gold key (DEC)
 Gordon Bell
 Grave accent
 Greater-than sign
-Group separator
 H
 HP-Interex
 HP Roman
@@ -271,12 +233,10 @@ Han unification
 Hardware code page
 Harlan Anderson
 Hong Kong Supplementary Character Set
-Horizontal tab
 Hyphen-minus
 I
 IBM
 IBM AIX
-IEC-P27-1
 INIS-8
 INIS character set
 ISO-IR-111
@@ -285,26 +245,6 @@ ISO-IR-182
 ISO-IR-197
 ISO-IR-200
 ISO-IR-68
-ISO/IEC 10367
-ISO/IEC 2022
-ISO/IEC 646
-ISO/IEC 8859
-ISO/IEC 8859-1
-ISO/IEC 8859-10
-ISO/IEC 8859-11
-ISO/IEC 8859-12
-ISO/IEC 8859-13
-ISO/IEC 8859-14
-ISO/IEC 8859-15
-ISO/IEC 8859-16
-ISO/IEC 8859-2
-ISO/IEC 8859-3
-ISO/IEC 8859-4
-ISO/IEC 8859-5
-ISO/IEC 8859-6
-ISO/IEC 8859-7
-ISO/IEC 8859-8
-ISO/IEC 8859-9
 ISO 2033
 ISO 5426
 ISO 5427
@@ -314,7 +254,6 @@ ISO 6862
 ITU T.61
 Indian Script Code for Information Interchange
 Instruction set architecture
-Intecolor/Compucolor 8001 character set
 Interactive Application System
 Iran System encoding
 J
@@ -342,7 +281,6 @@ LST 1564
 LST 1590-4
 LY1 encoding
 Less-than sign
-Line feed
 Local Area Transport
 Lotus International Character Set
 Lotus Multi-Byte Character Set
@@ -371,7 +309,6 @@ Mac OS Hebrew
 Mac OS Icelandic encoding
 Mac OS Inuit
 Mac OS Keyboard encoding
-Mac OS Maltese/Esperanto encoding
 Mac OS Ogham
 Mac OS Roman
 Mac OS Romanian encoding
@@ -387,7 +324,6 @@ Mass Storage Control Protocol
 Massbus
 Mazovia encoding
 MicroVAX 78032
-Micro sign
 Mojibake
 Mojikyō
 Morse code
@@ -398,20 +334,16 @@ NEC APC character set
 NVAX
 National Replacement Character Set
 NeXT character set
-Negative acknowledge character
-Newline
 Non-breaking space
 Null character
 Number sign
 O
 OML encoding
 OMS encoding
-OS/8
 OT1 encoding
 On-line Debugging Tool
 OpenVMS
 Operating system
-Oracle Corporation
 P
 PALcode
 PDP-11 architecture
@@ -419,10 +351,8 @@ PDP-7
 PETSCII
 Percent sign
 Perso-Arabic Script Code for Information Interchange
-Pilcrow
 PostScript Latin 1 Encoding
 PostScript Standard Encoding
-Pound sign
 Processor (computing)
 Programming language
 Prosigns for Morse code
@@ -436,18 +366,14 @@ RISC OS character set
 RK05
 RL02
 RPL character set
-RSTS/E
 RSX-11
-RSX-15
 RT-11
 ReGIS
 Record Management Services
-Record separator
 Rigel (microprocessor)
 Robert Palmer (computer businessman)
 Russian Morse code
 S
-SAM Coupé character set
 SI 960
 SQUOZE
 Section sign
@@ -456,16 +382,12 @@ Semicolon
 Sharp MZ character set
 Sharp pocket computer character sets
 Shift JIS
-Shift in
-Shift out
 Sinclair QL character set
 Sixel
 Slash (punctuation)
 Space character
-Square brackets
 Standard Compression Scheme for Unicode
 Standard Disk Interconnect
-Stanford/ITS character set
 Stanford Extended ASCII
 Star coupler
 Start of heading
@@ -474,18 +396,13 @@ StrongARM
 Substitute character
 Symbol (typeface)
 Synchronous Backplane Interconnect
-Synchronous idle
 System Module
-System Reference Manual
 T
-T.51/ISO/IEC 6937
-TD/SMP
 TI calculator character sets
 TOPS-10
 TOPS-20
 TRON (encoding)
 TRS-80 character set
-TSS/8
 TU81
 TURBOchannel
 Tamil All Character Encoding

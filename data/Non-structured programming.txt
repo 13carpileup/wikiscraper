@@ -1,162 +1,46 @@
 Abductive logic programming
-Action language
-Actor model
-Agent-oriented programming
 Algebraic modeling language
 Anonymous function
-Answer set programming
-Applicative programming language
-Array programming
-Aspect-oriented programming
 Assembly language
-Attribute-oriented programming
-Automata-based programming
 Automatic mutual exclusion
-Automatic programming
 BASIC
-Batch file
-Bayesian program synthesis
-Block (programming)
 COBOL
-Choreographic programming
-Class-based programming
-Command language
-Comparison of functional programming languages
-Comparison of multi-paradigm programming languages
 Comparison of programming languages (object-oriented programming)
 Component-based software engineering
-Concatenative programming language
 Concurrent computing
-Concurrent constraint logic programming
-Concurrent logic programming
-Concurrent object-oriented programming
-Constraint logic programming
-Constraint programming
 Data-driven programming
-Data-oriented design
 Dataflow programming
 Declarative programming
 Dependent type
 Design by contract
-Differentiable programming
 Distributed computing
 Doi (identifier)
 Domain-specific language
-Dynamic programming language
 Edsger W. Dijkstra
-End-user development
-Event-driven programming
-Expression-oriented programming language
-Extensible programming
 FOCAL (programming language)
-Feature-oriented programming
-Filter (software)
-Flow-based programming
-Fortran
-Function-level programming
-Functional logic programming
-Functional programming
-Functional reactive programming
 Generalized algebraic data type
-Generic programming
-Go To Statement Considered Harmful
-Goto
-Grammar-oriented programming
-Graph rewriting
-Higher-order programming
-Homoiconicity
-Hygienic macro
 ISSN (identifier)
-Immutable object
 Imperative programming
-Inductive logic programming
-Inductive programming
-Inferential programming
-Intentional programming
-Interactive programming
-Interface description language
-Invariant-based programming
-JOSS
-Jackson structured programming
-Language-oriented programming
 List comprehension
-List of object-oriented programming languages
 Literate programming
-Logic programming
-Low-code development platform
 MS-DOS
 MUMPS
 Macro (computer science)
-Macroprogramming
-Metalinguistic abstraction
 Metaprogramming
 Modeling language
 Modular programming
 Multi-stage programming
-Multitier programming
 Natural-language programming
-Nested function
-Non-English-based programming languages
-Nondeterministic programming
-Object-based language
 Object-oriented programming
-Ontology language
-Organic computing
-Page description language
 Parallel computing
 Parallel programming model
 Partial application
-Partitioned global address space
 Pattern matching
-Persistent programming language
-Pipeline (software)
-Probabilistic logic programming
-Probabilistic programming
 Procedural programming
-Process-oriented programming
-Production system (computer science)
-Program synthesis
-Programming by demonstration
-Programming by example
-Programming in the large and programming in the small
 Programming language
 Programming paradigm
-Prototype-based programming
-Purely functional programming
-Quantum programming
-Query language
-Reactive programming
-Recursion (computer science)
-Reflective programming
-Relativistic programming
-Role-oriented programming
 Scientific programming language
 Scripting language
 Self-modifying code
-Separation of concerns
-Service-oriented programming
-Set theoretic programming
-Signal programming
-Simulation language
 Spacecraft command language
-Spaghetti code
-Stack-oriented programming
 Stream processing
-Strict programming language
-Structured concurrency
-Structured programming
-Subject-oriented programming
-Symbolic programming
-Synchronous programming language
-System programming language
-TELCOMP
-Tacit programming
-Tactile programming language
-Template metaprogramming
-Template processor
-Total functional programming
-Transformation language
-Turing-complete
-Uniform Function Call Syntax
-Value-level programming
-Visual programming language

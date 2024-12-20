@@ -1,6 +1,4 @@
 ACE inhibitor
-ACE mixture
-ASA physical status classification system
 ATC code A
 ATC code B
 ATC code C
@@ -12,7 +10,6 @@ ATC code J
 ATC code L
 ATC code M
 ATC code N
-ATC code N01
 ATC code P
 ATC code R
 ATC code S
@@ -20,36 +17,11 @@ ATC code V
 ATCvet code QI
 Addiction medicine
 Adipose tissue
-Adrenergic receptor
-Airway management
-Alcohols (medicine)
-Alfadolone
-Alfaxalone
-Alfentanil
 Alkylating antineoplastic agent
-Allergic reactions to anesthesia
-American Association of Nurse Anesthetists
-American Society of Anesthesia Technologists & Technicians
-American Society of Anesthesiologists
-Amnesia
-Amobarbital
 Anabolic steroid
-Anaesthesia Trauma and Critical Care
-Anaesthesia machine
-Anaesthetic machine
-Anaesthetic technician
 Analgesic
 Anatomical Therapeutic Chemical Classification System
-Anesthesia
-Anesthesia awareness
-Anesthesia provision in the United States
-Anesthesiologist
-Anesthesiologist assistant
-Anesthesiology
 Anesthetic
-Anesthetic vaporizer
-Angiotensin II receptor antagonist
-Anileridine
 Anorectic
 Antacid
 Anthelmintic
@@ -57,20 +29,13 @@ Anti-inflammatory
 Anti-obesity medication
 Antianginal
 Antiarrhythmic agent
-Antibacterial
-Anticholinergic
 Anticoagulant
 Anticonvulsant
-Antidementia drug
 Antidepressant
-Antidiarrhoeal
 Antidote
 Antiemetic
 Antifibrinolytic
-Antifungal drug
 Antihemorrhagic
-Antihyperkinetic
-Antihypertensive drug
 Antimetabolite
 Antimicrobial
 Antimigraine drug
@@ -79,326 +44,69 @@ Antineoplastic
 Antiparasitic
 Antiplatelet drug
 Antipropulsive
-Antiprotozoal agent
 Antipruritic
-Antipsoriatic
 Antipsychotic
 Antithrombotic
 Antithyroid agent
 Antiviral drug
 Anxiolytic
 Aphrodisiac
-Area postrema
-Arterial catheter
-Arylcyclohexylamine
-Asphyxiation
-Association of Anaesthetists of Great Britain and Ireland
-Association of Veterinary Anaesthetists
-Australian Society of Anaesthetists
-Australian and New Zealand College of Anaesthetists
-Barbiturate
-Baricity
-Baroreceptor reflex
-Benzodiazepine
 Beta blocker
 Bibcode (identifier)
 Bile acid sequestrant
-Bispectral index
 Bisphosphonate
 Blood
-Blood–gas partition coefficient
-Body mass index
-Bolus (medicine)
 Bone
-Brachial plexus block
-Bronchial blocker
 Bronchodilator
-Bronchoscopy
-Butyrophenone
 Calcium channel blocker
-Capnography
 Cardiac glycoside
 Cardiac stimulant
-Cardiothoracic anesthesiology
-Catalepsy
 Central nervous system
-Certified anesthesia technician
-Certified anesthesia technologist
-Chemoreceptor trigger zone
 Chemotherapy
-Chloroform
-Cicatrizant
-Ciprofol
 Circulatory system
-Classical antiquity
-Clinical trial
 Coagulation
-Combined spinal and epidural anaesthesia
-Concentration effect
-Context-sensitive half-life
-Continuous wound infiltration
-Contrast medium
 Corticosteroid
-Cough medicine
-Critical emergency medicine
-Cyclopropane
 Decongestant
 Deliriant
 Depressant
-Desflurane
-Dexmedetomidine
 Diabetes medication
-Diazepam
-Dietary mineral
-Diethyl ether
 Disease-modifying antirheumatic drug
 Dissociative
 Diuretic
-Divinyl ether
-Dogliotti's principle
 Doi (identifier)
-Dopamine receptor
-Double-lumen endobronchial tube
 Dressing (medicine)
-Droperidol
-Drug-induced amnesia
-Drug metabolism
 Ectoparasiticide
-Effects of early-life exposures to anesthesia on the brain
-Electrophysiology
-Embutramide
-Emergence delirium
-Emollient
 Endocrine system
-Endotracheal tube
-Enflurane
-Entactogen
 Entheogen
-Entropy monitoring
-Epidural administration
-Esketamine
-Ethylene
-Etomidate
 Euphoria
-European Society of Anaesthesiology and Intensive Care
-Fascia iliaca block
-Femoral nerve block
-Fentanyl
 Fertility medication
 Fibrate
-Fick principle
-Fink effect
-Fluroxene
-Fospropofol
-GABAA receptor
 Gas
 Gas cylinder
-General anaesthesia
 Genitourinary system
-Geriatric anesthesia
 Glucocorticoid
-Goldman index
-Guedel's classification
 H1 antagonist
-H2 antagonist
 Half-life
-Hallucination
-Haloperidol
-Halothane
 Hdl (identifier)
-Helsinki Declaration for Patient Safety in Anaesthesiology
-Hexobarbital
-History of general anesthesia
-History of neuraxial anesthesia
-History of tracheal intubation
 Hormonal contraception
 Human brain
-Human gastrointestinal tract
 Human skin
-Hydromorphone
-Hydroxydione
-Hyperpolarization (biology)
 Hypnotic
-Hypolipidemic agent
 Hypothalamic–pituitary hormone
-Hypothermia
 ISBN (identifier)
 ISSN (identifier)
 Immune system
-Immunomodulator
 Immunostimulant
 Immunosuppressive drug
 Infection
-Inferior alveolar nerve anaesthesia
-Inhalational anaesthetic
-Inhalational anesthetic
-Insomnia
-Instruments used in anesthesiology
-Intensive care medicine
-Intercostal nerve block
-International Anesthesia Research Society
-Interpleural block
 Intramuscular injection
-Intraoperative awareness
-Intraoperative neurophysiological monitoring
-Intravenous
-Intravenous immunoglobulin
-Intravenous injection
-Intravenous regional anesthesia
 Intravenous therapy
-Isoflurane
 Joint
-KCNK2
-KCNK9
-Ketamine
-Knockout mouse
-Laryngeal mask airway
-Laryngeal tube
-Laryngoscopy
-Laxative
-Lipophilicity
 Liquid
-List of benzodiazepines
-List of local anesthetics
-List of opioids
-List of withdrawn drugs
-Local anesthesia
-Local anesthetic
-Local anesthetic toxicity
-Lorazepam
-Lower esophageal sphincter
-Magill forceps
-Malignant
-Malignant hyperthermia
-Mallampati score
-Management of Parkinson's disease
-Mechanical ventilation
 Metabolism
-Methohexital
-Methoxyflurane
-Methoxypropane
-Midazolam
-Mineralocorticoid
-Minimum alveolar concentration
-Miscible
-Mood stabilizer
-Morphine
-Motivation-enhancing drug
-Muscle
-Muscle relaxant
-NMDA receptor
-Narcobarbital
-Nerve block
 Nervous system
-Neuraxial blockade
-Neuromuscular-blocking drug
-Neuromuscular monitoring
-Neuroprotective
-Neurosteroid
-Neurotoxin
-Neurotransmitter
-Nitrous oxide
-Non-REM
-Non-steroidal anti-inflammatory drug
-Nootropic
-Nurse anesthetist
 OCLC (identifier)
-Obstetric anesthesiology
-Occipital nerve block
-Off-label use
-Operating department practitioners
-Ophthalmology
-Opioid
-Opioid receptor
-Oral sedation dentistry
-Orexigenic
-Otology
-Outline of anesthesia
-Oxycodone
 PMC (identifier)
 PMID (identifier)
-Pain medicine
-Pain scale
-Paracervical block
-Partial pressure
-Partition coefficient
-Perioperative mortality
-Phases of clinical research
-Phencyclidine
-Phenols
-Phenoperidine
-Physicians' assistant (anaesthesia)
-Platelet
-Postanesthetic shivering
-Postoperative nausea and vomiting
-Postoperative residual curarization
-Potency (pharmacology)
-Procedural sedation and analgesia
-Propanidid
-Propofol
-Proton-pump inhibitor
-Psychedelic drug
-Psychedelics, dissociatives and deliriants
-Pudendal anesthesia
-Radiopharmacology
-Rapid sequence induction
-Relative analgesia machine
-Remifentanil
-Remimazolam
-Renin inhibitor
-Renin–angiotensin system
-Respiratory system
-Resting potential
-Retrobulbar block
-Righting reflex
-Royal College of Anaesthetists
 S2CID (identifier)
-Sciatic nerve block
-Second gas effect
-Sedation
-Sedative
-Selective estrogen receptor modulator
-Senotherapeutics
-Sense
-Serenic
-Sevoflurane
-Sex steroid
-Sleep medicine
-Sodium thiopental
-Spinal anaesthesia
-Spindle poison
-Statin
-Stimulant
-Subcutaneous injection
-Sufentanil
-Theories of general anaesthetic action
-Thermoregulation
-Thiamylal
-Thiopental
-Thiopentone
-Thiotetrabarbital
-Thrombolytic drug
-Thyroid hormone
-Thyromental distance
-Tidal volume
-Tiletamine
-Topical anesthetic
-Topoisomerase inhibitor
-Total intravenous anaesthesia
-Tracheal intubation
-Tracheal tube
-Transverse abdominis plane block
 Trichloroethylene
-Twilight anesthesia
-Two-pore-domain potassium channel
-Unconsciousness
-Vaccine
-Vasodilation
-Vasomotor center
-Vitamin
-Volatile anaesthetic
-Volatility (chemistry)
-WHO Model List of Essential Medicines
-Wakefulness-promoting agent
-Wild type
-Xenon

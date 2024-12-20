@@ -6,97 +6,54 @@ ALGOL 60
 ANSI C
 ANSI escape code
 ASMO 449
-AccessiBe
-Accessibility for Ontarians with Disabilities Act, 2005
 Accuracy and precision
-ActivityPub
-Activity Streams (format)
 Ada Semantic Interface Specification
 Advanced Video Coding
-Agora (web browser)
-Air Carrier Access Act
-Amaya (web editor)
 Antimagnetic watch
-AnySurfer
-Arena (web browser)
-Argo (web browser)
 ArmSCII
-Bobby (software)
 British Standard Pipe
 Business Process Model and Notation
 C++
-C-HTML
-CAN bus
-CERN httpd
 CHILL
 COBOL
 COLLADA
 CSS
-CSS Flexible Box Layout
-CSS Working Group
 CSS animations
-CSS grid layout
-CURIE
 C Sharp (programming language)
-Call Control eXtensible Markup Language
-Canonical XML
 Cloud Infrastructure Management Interface
 Common Criteria
 Common Language Infrastructure
 Common Logic
 Common Object Request Broker Architecture
-Compound Document Format
 Computer Graphics Metafile
 DICOM
 Delivery Multimedia Integration Framework
-Deque Systems
 Digital object identifier
-Disabilities
-Disability Discrimination Act 1992
-Disability Rights Education and Defense Fund
-Document Object Model
 Document Style Semantics and Specification Language
-Dragon NaturallySpeaking
 Dynamic Adaptive Streaming over HTTP
 ECMAScript
 ECMAScript for XML
-EN 301 549
-ETSI
 EXPRESS (data modeling language)
-Easy Chirp
-Efficient XML Interchange
-Emotion Markup Language
-Encrypted Media Extensions
 Equal-loudness contour
 Essential Video Coding
-European Accessibility Act
 European Commission
-European Committee for Electrotechnical Standardization
 European Committee for Standardization
-European Parliament
-Extensible Forms Description Language
-Extensible User Interface Protocol
 FDI World Dental Federation notation
 FTAM
 Fiber Distributed Data Interface
 File Allocation Table
 Film speed
-First International Conference on the World-Wide Web
 Flowchart
 Fuel oil
 Full BASIC
-Fuse (automotive)
 Geography Markup Language
 Geospatial metadata
 Graph Query Language
 Graphical Kernel System
-Gregg Vanderheiden
 Guidelines for the Definition of Managed Objects
 HTML
 HTML5
-HTML Working Group
 Han Xin code
-Handheld Device Markup Language
 Hazard symbol
 Hole punch
 Horsepower
@@ -105,74 +62,8 @@ IATF 16949
 IS-IS
 ISBN
 ISLISP
-ISO
 ISO-8859-8-I
 ISO-TimeML
-ISO/IEC 10116
-ISO/IEC 10967
-ISO/IEC 11179
-ISO/IEC 11404
-ISO/IEC 11801
-ISO/IEC 12207
-ISO/IEC 14443
-ISO/IEC 14651
-ISO/IEC 15288
-ISO/IEC 15504
-ISO/IEC 15693
-ISO/IEC 15897
-ISO/IEC 17024
-ISO/IEC 17025
-ISO/IEC 18014
-ISO/IEC 19752
-ISO/IEC 19770
-ISO/IEC 19794-5
-ISO/IEC 20000
-ISO/IEC 2022
-ISO/IEC 21827
-ISO/IEC 27000
-ISO/IEC 27000-series
-ISO/IEC 27001
-ISO/IEC 27002
-ISO/IEC 27005
-ISO/IEC 27006
-ISO/IEC 38500
-ISO/IEC 42010
-ISO/IEC 4909
-ISO/IEC 5218
-ISO/IEC 646
-ISO/IEC 6523
-ISO/IEC 7064
-ISO/IEC 7810
-ISO/IEC 7811
-ISO/IEC 7812
-ISO/IEC 7813
-ISO/IEC 7816
-ISO/IEC 80000
-ISO/IEC 8652
-ISO/IEC 8859
-ISO/IEC 8859-1
-ISO/IEC 8859-10
-ISO/IEC 8859-11
-ISO/IEC 8859-12
-ISO/IEC 8859-13
-ISO/IEC 8859-14
-ISO/IEC 8859-15
-ISO/IEC 8859-16
-ISO/IEC 8859-2
-ISO/IEC 8859-3
-ISO/IEC 8859-4
-ISO/IEC 8859-5
-ISO/IEC 8859-6
-ISO/IEC 8859-7
-ISO/IEC 8859-8
-ISO/IEC 8859-9
-ISO/IEC 9126
-ISO/IEC 9529
-ISO/IEC 9797-1
-ISO/IEC 9995
-ISO/IEC TR 12182
-ISO/IEEE 11073
-ISO/TR 11941
 ISO 1
 ISO 1000
 ISO 10006
@@ -192,7 +83,6 @@ ISO 11784 and ISO 11785
 ISO 11940
 ISO 11940-2
 ISO 11992
-ISO 12006
 ISO 128
 ISO 13399
 ISO 13406-2
@@ -200,7 +90,6 @@ ISO 13485
 ISO 13490
 ISO 13567
 ISO 13584
-ISO 14000
 ISO 14031
 ISO 14224
 ISO 14617
@@ -221,8 +110,6 @@ ISO 17100
 ISO 1745
 ISO 18245
 ISO 19011
-ISO 19092-1
-ISO 19092-2
 ISO 19114
 ISO 19439
 ISO 19600
@@ -233,7 +120,6 @@ ISO 2014
 ISO 2015
 ISO 2033
 ISO 20400
-ISO 2047
 ISO 21001
 ISO 2145
 ISO 2146
@@ -262,15 +148,12 @@ ISO 31-0
 ISO 31-1
 ISO 31-10
 ISO 31-11
-ISO 31-12
-ISO 31-13
 ISO 31-3
 ISO 31-4
 ISO 31-5
 ISO 31-6
 ISO 31-7
 ISO 31-8
-ISO 31-9
 ISO 31000
 ISO 3103
 ISO 3166
@@ -314,7 +197,6 @@ ISO 6943
 ISO 7001
 ISO 7002
 ISO 7010
-ISO 7027
 ISO 704
 ISO 7200
 ISO 732
@@ -322,7 +204,6 @@ ISO 7637
 ISO 7736
 ISO 8000
 ISO 8178
-ISO 8373
 ISO 843
 ISO 8501-1
 ISO 8583
@@ -331,7 +212,6 @@ ISO 8601
 ISO 8691
 ISO 898
 ISO 9
-ISO 9000
 ISO 9241
 ISO 9362
 ISO 9564
@@ -341,11 +221,6 @@ ISO 9897
 ISO 999
 ISO base media file format
 ISO metric screw thread
-Improving Web Advertising Business Group
-Indexed Database API
-IndieAuth
-InkML
-International Association of Accessibility Professionals
 International Bank Account Number
 International Electrotechnical Commission
 International Organization for Standardization
@@ -357,11 +232,7 @@ International Standard Music Number
 International Standard Musical Work Code
 International Standard Name Identifier
 International Standard Recording Code
-International Standard Serial Number
 International Standard Text Code
-International World Wide Web Conference
-International World Wide Web Conferences Steering Committee
-Internationalization Tag Set
 Isofix
 JBIG
 JPEG 2000
@@ -369,21 +240,13 @@ JPEG XL
 JPEG XR
 JPEG XS
 JPIP
-JSON-LD
-JavaScript Style Sheets
-Joe Clark (writer)
 Kappa number
-Knowbility
 Knowledge Discovery Metamodel
 Kunrei-shiki romanization
 LCEVC
-Language Of Temporal Ordering Specification
 Legal Entity Identifier
 Lexical Markup Framework
-Libwww
-Line Mode Browser
 Linguistic categories
-Linked Data Notifications
 Linux Standard Base
 List of IEC standards
 List of ISO romanizations
@@ -405,23 +268,16 @@ MPEG-H
 Magnetic ink character recognition
 Manufacturing Message Specification
 Market Identifier Code
-MathML
 MaxiCode
-Media Source Extensions
 Meta-Object Facility
 MicroPDF417
-Micropub (protocol)
-Mike Paciello
 Minimal BASIC
 Mixed raster content
 Motion JPEG 2000
 Multibus
-National Research Council of Italy
-NonVisual Desktop Access
 O-ring
 OCR-A
 OCR-B
-OSI model
 Object Constraint Language
 Office Open XML
 On-board diagnostics
@@ -429,31 +285,19 @@ OpenDocument
 Open Data Protocol
 Open Document Architecture
 Open Virtualization Format
-Oswald Labs
-P3P
 PDF
-PDF/A
-PDF/E
-PDF/UA
-PDF/VT
-PDF/X
 PDF417
 PHIGS
 POSIX
 Pascal (programming language)
 Photographic Activity Test
 Pinyin
-Pisa
 Power take-off
-Precision Graphics Markup Language
 Process Specification Language
 Prolog
 Prontor-Compur
-Pronunciation Lexicon Specification
-Publications Office of the European Union
 QR code
 Quality function deployment
-RDF Schema
 RELAX NG
 RM-ODP
 Rectangular Micro QR Code
@@ -463,38 +307,15 @@ Resource Description Framework
 Romanization of Armenian
 Romanization of Georgian
 Ruby (programming language)
-Rule Interchange Format
-SCXML
 SDMX
-SHACL
-SMIL Timesheets
-SOAP
-SPARQL
 SQL
 STEP-NC
-SVG Working Group
-SVG filter effects
-SXBL
 Salt spray test
-Scalable Vector Graphics
-Section 508 Amendment to the Rehabilitation Act of 1973
-Semantic Interpretation for Speech Recognition
 Shock-resistant watch
 Shoe size
 Simple Features
-Simple Knowledge Organization System
 Software maintenance
-Speech Recognition Grammar Specification
-Speech Synthesis Markup Language
 Standard Generalized Markup Language
-Subresource Integrity
-Synchronized Multimedia Integration Language
-TIFF/EP
-Technical Architecture Group
-Thing Description
-Tim Berners-Lee
-Timed text
 Topic map
 Torx
 Trusted Platform Module
-US Access Board

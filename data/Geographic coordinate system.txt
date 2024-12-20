@@ -1,281 +1,29 @@
-100th meridian east
-100th meridian west
-105th meridian east
-105th meridian west
-10th meridian east
-10th meridian west
-10th parallel north
-10th parallel south
-110th meridian east
-110th meridian west
-115th meridian east
-115th meridian west
-120th meridian east
-120th meridian west
-125th meridian east
-125th meridian west
-130th meridian east
-130th meridian west
-135th meridian east
-135th meridian west
-140th meridian east
-140th meridian west
-145th meridian east
-145th meridian west
-150th meridian east
-150th meridian west
-155th meridian east
-155th meridian west
-15th meridian east
-15th meridian west
 15th parallel north
-15th parallel south
-160th meridian east
-160th meridian west
-165th meridian east
-165th meridian west
-170th meridian east
-170th meridian west
-175th meridian east
-175th meridian west
-180th meridian
-20th meridian east
-20th meridian west
-20th parallel north
-20th parallel south
-25th meridian east
-25th meridian west
-25th parallel north
-25th parallel south
-30th meridian east
-30th meridian west
-30th parallel north
-30th parallel south
-35th meridian east
-35th meridian west
-35th parallel north
-35th parallel south
-40th meridian east
-40th meridian west
-40th parallel north
-40th parallel south
-45th meridian east
-45th meridian west
 45th parallel north
 45th parallel south
-45×90 points
-50th meridian east
-50th meridian west
-50th parallel north
-50th parallel south
-55th meridian east
-55th meridian west
-55th parallel north
-55th parallel south
-5th meridian east
-5th meridian west
-5th parallel north
-5th parallel south
-60th meridian east
-60th meridian west
-60th parallel north
-60th parallel south
-65th meridian east
-65th meridian west
-65th parallel north
-65th parallel south
-70th meridian east
-70th meridian west
-70th parallel north
-70th parallel south
-75th meridian east
-75th meridian west
-75th parallel north
-75th parallel south
-80th meridian east
-80th meridian west
-80th parallel north
-80th parallel south
-85th meridian east
-85th meridian west
-85th parallel north
-90th meridian east
-90th meridian west
-95th meridian east
-95th meridian west
 Al-Khwarizmi
-Aleutian Islands
-Altitude
-Antarctic Circle
 Antarctica
-Antipodes
 Arabic
-Arc length
-Arctic Circle
-Asia Minor
-BeiDou
-Book of the Description of the Earth
-Bordeaux
 Brazil
-Canary Islands
-Cape Verde
 Cartesian coordinate system
-Circle of latitude
-Circumference of the Earth
-Continental drift
-Crustal deformation
-Cyrene, Libya
-DORIS (satellite system)
-Dead reckoning
-Decimal degrees
-Discrete Global Grid
-Dominican Republic
-Dunedin
-ED50
-EPSG Geodetic Parameter Dataset
-Earth
-Earth's circumference
-Earth ellipsoid
-Earth radius
-Earth tide
-Eastern Hemisphere
-Ellipse
-Ellipsoid
 Equator
-Equirectangular projection
-Eratosthenes
-European Terrestrial Reference System 1989
-Figure of the Earth
-Fortunate Isles
-Fundamental plane (spherical coordinates)
-GLONASS
-GRS 80
-Galileo (satellite navigation)
-Geo URI scheme
-Geodesic
-Geodesy
-Geodetic Reference System 1980
-Geodetic control network
-Geodetic coordinates
-Geodetic datum
-Geodynamics
-Geographic coordinate conversion
 Geographic information system
-Geographical distance
-Geography (Eratosthenes)
-Geography (Ptolemy)
 Geography and cartography in the medieval Islamic world
-Geohash
-Geoid
-Geomatics
-Ghana
-Global Area Reference System
-Global Positioning System
-Graticule (cartography)
-Great circle
-Greenwich
 Greenwich Mean Time
-Gulf of Guinea
-Helmert transformation
-Hipparchus
-History of geodesy
-Horizontal position representation
-IERS Reference Meridian
 ISBN (identifier)
 ISO 6709
-Indian Regional Navigation Satellite System
-Institut national de l'information géographique et forestière
-International Cartographic Association
-International Date Line
-International Meridian Conference
-International Terrestrial Reference System
-International Terrestrial Reference System and Frame
 Invention
-Jacopo d'Angelo
-KDE
-KStars
 Lambda
 Latin
 Latitude
-Length of a degree of latitude
-Length of a degree of longitude
-Library of Alexandria
-Linear referencing
 Linux
-Longitude
-Lunar eclipse
-Maidenhead Locator System
-Map projection
-Mapcode
-Marinus of Tyre
-Maximus Planudes
 Mediterranean Sea
-Meridian (geography)
 Metre
-Midsummer
-Moon
-NAD27
-NATO
 New Orleans
-Nicaea
-North American Datum
-North American Vertical Datum of 1988
 North Pole
-Northern Hemisphere
-Null Island
-OSGB36
-Old World
-Open Location Code
-Paris Observatory
 Phi
-Planetary coordinate system
-Position (geometry)
-Primary direction
-Prime meridian
 Ptolemy
-Quasi-Zenith Satellite System
-Quaternary glaciation
-Quito
-Reference ellipsoid
-Republic of Florence
-Restrictions on geographic data in China
-Rhodes
-Royal Observatory, Greenwich
-SK-42 reference system
-SRID
 Saint Petersburg
-Satellite geodesy
-Satellite laser ranging
-Satellite navigation
-Scandinavia
-Scotland
-Sea Level Datum of 1929
-Sea level
-Selenographic coordinate system
-South American Datum
-South Pole
-Southern Hemisphere
-Spatial reference system
-Spatial reference systems
-Spatial relation
-Spherical coordinate system
-Spheroid
-Tema
-Translation (geometry)
-Tropic of Cancer
-Tropic of Capricorn
-Tuple
 United States
-Universal Transverse Mercator coordinate system
-Universal transverse mercator
-Vertical position
 Very-long-baseline interferometry
-WGS84
-WGS 84
 Wayback Machine
-Weather system
-Western Hemisphere
-What3words
-World Geodetic System
-World Geographic Reference System
-Z-order curve

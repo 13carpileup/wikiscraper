@@ -1,11 +1,7 @@
-/e/ (operating system)
 32-bit
 4MLinux
-64-bit
 ALT Linux
-ARM architecture
 AlmaLinux
-Almquist shell
 Alpine Linux
 Android-x86
 Android (operating system)
@@ -23,14 +19,11 @@ BLAG Linux and GNU
 BackBox
 BackTrack
 Bharat Operating System Solutions
-Big-endian
-Binary blobs
 BioSLAX
 BlackArch
 Black Lab Linux
 BlankOn Linux
 Bodhi Linux
-Bourne shell
 CHAOS (operating system)
 CRUX
 Calculate Linux
@@ -42,12 +35,9 @@ Chakra (operating system)
 Chimera Linux
 ChromeOS
 ChromiumOS
-Cinnamon (desktop environment)
 ClearOS
 Clear Linux OS
-Code repository
 ColorOS
-Command-line interface
 Commodore OS
 Comparison of Linux distributions
 Container Linux
@@ -62,8 +52,6 @@ Debian
 Deepin
 DemoLinux
 Devuan
-DistroWatch
-Distrowatch
 DivestOS
 DoudouLinux
 Dreamlinux
@@ -74,21 +62,17 @@ Elive
 Emmabuntüs
 EndeavourOS
 Endless OS
-Enlightenment (software)
 EulerOS
 Familiar Linux
 Feather Linux
 Fedora Linux
 Fire OS
 Firefox OS
-Flatpak
 Floppyfw
 Foresight Linux
 FreedomBox
 Freespire
 Frugalware Linux
-GNOME
-GNU C Library
 GNU Core Utilities
 GNU Guix System
 GNewSense
@@ -102,11 +86,7 @@ GoboLinux
 Gobuntu
 GrapheneOS
 HandyLinux
-Hyperbola GNU/Linux-libre
-I686
 Immunix
-Init
-Init system
 IodéOS
 Jurix
 KDE neon
@@ -122,16 +102,12 @@ Kongoni (operating system)
 Korora (operating system)
 Kubuntu
 Kwort Linux
-LXDE
 LXLE Linux
-LXQt
 Libranet
-LibreSSL
 LinHES
 LineageOS
 Linpus Linux
 Linux
-Linux.com
 LinuxTLE
 Linux Caixa Mágica
 Linux Lite
@@ -141,10 +117,7 @@ Linux distribution
 Linux for PlayStation 2
 Linux kernel
 List of Linux distributions
-Little-endian
-Live USB
 Lubuntu
-MATE (software)
 MCC Interim Linux
 MIUI
 MX Linux
@@ -157,9 +130,7 @@ Mer (software distribution)
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Musix GNU+Linux
 Musl
-Ncurses
 NetBSD
 Network Security Toolkit
 NimbleX
@@ -172,13 +143,11 @@ One UI
 Open-source software
 OpenELEC
 OpenMandriva Lx
-OpenSSL
 OpenSUSE
 Open Enterprise Server
 Oracle Linux
 PCLinuxOS
 Package manager
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
@@ -186,13 +155,9 @@ Pentoo
 Peppermint OS
 Pinguy OS
 PixelExperience
-Pkgsrc
 Platypux
 Pop! OS
 Porteus (operating system)
-Ports collection
-PowerPC
-Power ISA
 Programmer
 Puppy Linux
 PureOS
@@ -209,8 +174,6 @@ Replicant (operating system)
 Resurrection Remix OS
 Rocks Cluster Distribution
 Rocky Linux
-Rolling release
-Runit
 SUSE Linux
 SUSE Linux Enterprise
 SUSE Studio
@@ -232,7 +195,6 @@ Splashtop OS
 SteamOS
 Sunwah Linux
 SystemRescue
-Systemd
 T2 SDE
 Tails (operating system)
 Think Blue Linux
@@ -253,17 +215,13 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 User interface
 User space and kernel space
 VectorLinux
 Vine Linux
 Whonix
 Wubuntu
-X86-64
 XB Machine
-Xfce
 Xubuntu
 Yellow Dog Linux
 Zenwalk

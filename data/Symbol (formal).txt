@@ -13,7 +13,6 @@ Axiom
 Axiom of choice
 Axiom schema
 Axiomatic system
-Axiomatization of Boolean algebras
 Banach–Tarski paradox
 Bijection
 Binary operation
@@ -54,7 +53,6 @@ Continuum hypothesis
 Countable set
 Decidability (logic)
 Decision problem
-Deductive system
 Diagram (mathematical logic)
 Domain of a function
 Element (mathematics)
@@ -82,7 +80,6 @@ Forcing (mathematics)
 Formal grammar
 Formal language
 Formal proof
-Formal semantics (logic)
 Formal system
 Formation rule
 Foundations of geometry
@@ -97,7 +94,6 @@ Generative grammar
 George Lakoff
 Grothendieck universe
 Ground expression
-Ground formula
 Gödel's completeness theorem
 Gödel's incompleteness theorems
 Gödel numbering
@@ -107,7 +103,6 @@ Higher-order logic
 Hilbert's axioms
 Hilbert system
 History of logic
-History of mathematical logic
 Image (mathematics)
 Inaccessible cardinal
 Independence (mathematical logic)
@@ -119,25 +114,21 @@ Inhabited set
 Injective function
 Interpretation (logic)
 Interpretation (model theory)
-Interpretation function
 Intersection (set theory)
 Introduction to Automata Theory, Languages, and Computation
 Isomorphism
 Jeffrey Ullman
 John Hopcroft
 Kolmogorov complexity
-Kripke's theory of truth
 Kripke–Platek set theory
 Lambda calculus
 Large cardinal
 Lemma (mathematics)
 Lindström's theorem
-List of Hilbert systems
 List of axioms
 List of first-order theories
 List of formal systems
 List of logic symbols
-List of mathematical symbols
 List of mathematical theories
 List of set identities and relations
 List of statements independent of ZFC
@@ -190,7 +181,6 @@ Peano axioms
 Philosophy of mathematics
 Power set
 Predicate (mathematical logic)
-Predicate logic
 Predicate variable
 Primitive recursive arithmetic
 Primitive recursive function
@@ -205,7 +195,6 @@ Quantifier (logic)
 Quantifier rank
 Rajeev Motwani
 Recursion
-Recursive set
 Relation (mathematics)
 Reverse mathematics
 Richard Montague
@@ -235,7 +224,6 @@ Square of opposition
 Stevan Harnad
 Strength (mathematical logic)
 String (computer science)
-String (formal languages)
 Structure (mathematical logic)
 Substitution (logic)
 Substructure (mathematics)
@@ -246,7 +234,6 @@ Syntax (logic)
 T-schema
 Tarski's axiomatization of the reals
 Tarski's axioms
-Tarski's theory of truth
 Tarski's undefinability theorem
 Tarski–Grothendieck set theory
 Tautology (logic)
@@ -254,7 +241,6 @@ Term (logic)
 Term logic
 Terminal and nonterminal symbols
 Theorem
-Theories of truth
 Theory (mathematical logic)
 Three-valued logic
 Timeline of mathematical logic
@@ -265,11 +251,9 @@ Truth predicate
 Truth table
 Truth value
 Turing machine
-Type-token distinction
 Type (model theory)
 Type theory
 Type–token distinction
-Ultrafilter (set theory)
 Ultraproduct
 Uncountable set
 Undecidable problem
@@ -279,7 +263,6 @@ Uniqueness quantification
 Universal quantification
 Universal set
 Universe (mathematics)
-Universe of discourse
 Urelement
 Validity (logic)
 Variable (mathematics)

@@ -1,255 +1,55 @@
 Abductive logic programming
-Action language
-Actor model
-Agent-oriented programming
 Algebraic modeling language
 Anonymous function
-Answer set programming
-Apache Beam
-Apache Flink
-Apache Spark
 Apple Inc.
-Apple Macintosh
-Applicative programming language
-Array programming
-Aspect-oriented programming
 Assembly language
-Assembly line
-Association for Computing Machinery
-Attribute-oriented programming
-Automata-based programming
 Automatic mutual exclusion
-Automatic programming
-AviSynth
-BLODI
-BMDFM
-Bayesian program synthesis
-Bert Sutherland
-Black box
-Block (programming)
-CAL Actor Language
-CMS Pipelines
 C (programming language)
-Choreographic programming
-Class-based programming
-Command language
-Command line
-Comparison of functional programming languages
-Comparison of multi-paradigm programming languages
 Comparison of programming languages (object-oriented programming)
-Compiled language
 Compiler
 Component-based software engineering
 Computer programming
-Concatenative programming language
 Concurrent computing
-Concurrent constraint logic programming
-Concurrent logic programming
-Concurrent object-oriented programming
-Constraint logic programming
-Constraint programming
-Control flow
-Cuneiform (programming language)
-Céu (programming language)
 Data-driven programming
-Data-oriented design
-Data analysis
 Data mining
-Dataflow
 Dataflow architecture
-DayStar Digital
 Declarative programming
 Dependent type
 Design by contract
-Differentiable programming
-Differential Dataflow
-Digital signal processing
-Directed graph
 Distributed computing
-Distributed data flow
 Doi (identifier)
 Domain-specific language
-Dynamic programming language
-ETAS Group
-End-user development
-Enterprise Java Beans
-Esoteric programming language
-Event-driven programming
 Explicit parallelism
-Expression-oriented programming language
-Extensible programming
-Feature-oriented programming
-Fifth-generation programming language
-Filter (software)
-First-generation programming language
-Flow-based programming
-Fourth-generation programming language
-Function-level programming
-Functional Programming
-Functional language
-Functional logic programming
-Functional programming
-Functional reactive programming
 Generalized algebraic data type
-Generic programming
-Glossary of reconfigurable computing
-Grammar-oriented programming
-Graph rewriting
-Greg Papadopoulos
-Hash table
 Hdl (identifier)
-High-level programming language
-High-performance reconfigurable computing
-Higher-order programming
-Homoiconicity
-Hume (programming language)
-Hygienic macro
 ISBN (identifier)
-Immutable object
 Imperative programming
-Incremental computing
-Inductive logic programming
-Inductive programming
-Inferential programming
-Intentional programming
-Interactive programming
-Interface description language
-Internet of things
-Interpreted language
-Invariant-based programming
-Jack Dennis
-Jackson structured programming
-John Larry Kelly, Jr.
-John von Neumann
-Joule (programming language)
-KNIME
-Keysight VEE
-LabVIEW
-Language-oriented programming
-Lawrence Livermore National Laboratory
-Linda (coordination language)
 List comprehension
-List of object-oriented programming languages
 Literate programming
-Live distributed object
-Logic programming
-Low-code development platform
-Low-level programming language
-Lucid (programming language)
-Lustre (programming language)
-Machine code
 Machine learning
 Macro (computer science)
-Macroprogramming
 Massachusetts Institute of Technology
-Max/MSP
-Metalinguistic abstraction
 Metaprogramming
 Microsoft
-Microsoft Robotics Studio
-Microsoft Visual Programming Language
 Modeling language
 Modular programming
 Multi-stage programming
-Multitier programming
-NSA
 Natural-language programming
-Nested function
-Nextflow
-Non-English-based programming languages
 Non-structured programming
-Nondeterministic programming
-Object-based language
 Object-oriented programming
-Online transaction processing
-Ontology language
-Orange (software)
-Organic computing
-Oz (programming language)
-Page description language
 Parallel computing
 Parallel programming model
 Partial application
-Partitioned global address space
 Pattern matching
-Persistent programming language
-Pipeline (Unix)
-Pipeline (software)
-Pipeline Pilot
-Probabilistic logic programming
-Probabilistic programming
 Procedural programming
-Process-oriented programming
-Production system (computer science)
-Program synthesis
-Programming by demonstration
-Programming by example
-Programming in the large and programming in the small
 Programming language
-Programming language generations
 Programming paradigm
-Prograph
-Prototype-based programming
-Pure Data
-Purely functional programming
-Quantum circuit
-Quantum programming
-Quartz Composer
-Query language
-Reactive programming
-Recursion (computer science)
-Reflective programming
-Relativistic programming
 Robotics
-Role-oriented programming
-Run-time system
 S2CID (identifier)
-SAC programming language
-SIGNAL programming language
-SISAL
-Sampled data systems
 Scientific programming language
 Scripting language
-Second-generation programming language
 Self-modifying code
-Separation of concerns
-Service-oriented programming
-Set theoretic programming
-Signal programming
-Simulation language
-Simulink
-Single assignment
 Spacecraft command language
-Stack-oriented programming
-State (computer science)
 Stream processing
-Strict programming language
-Structured concurrency
-Structured programming
-Subject-oriented programming
-Supercomputer
-Symbolic programming
-Synchronous programming language
 SystemC
-SystemVerilog
-System programming language
-Tacit programming
-Tactile programming language
-Template metaprogramming
-Template processor
-TensorFlow
-Third-generation programming language
-Timely Dataflow
-Total functional programming
-Transformation language
-Uniform Function Call Syntax
 VHDL
-Value-level programming
-Verilog
-Very high-level programming language
-Victor A. Vyssotsky
-VisSim
-Visual programming language
-XEE (Starlight)
-XProc
-Yahoo Pipes

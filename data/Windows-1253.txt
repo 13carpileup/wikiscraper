@@ -17,13 +17,8 @@ ARIB STD B24 character set
 ASCII
 ASMO 449
 ATASCII
-Acknowledge character
-Alpha (letter)
 Ampersand
-Amstrad CP/M Plus character set
 Amstrad CPC character set
-Ancient Greek Musical Notation
-Angle quotes
 Apostrophe
 Apple II character set
 ArmSCII
@@ -35,13 +30,10 @@ Backslash
 Backspace
 Baudot code
 Bell character
-Beta (letter)
 Big5
 Binary Ordered Compression for Unicode
 Bitstream International Character Set
 BraSCII
-Broken bar
-Bullet (typography)
 C
 C0 and C1 control codes
 CCSID
@@ -79,17 +71,10 @@ Code page 1019
 Code page 1020
 Code page 1021
 Code page 1023
-Code page 1034
 Code page 1040
 Code page 1042
 Code page 1043
-Code page 1044
 Code page 1046
-Code page 1052
-Code page 1053
-Code page 1054
-Code page 1055
-Code page 1056
 Code page 1058
 Code page 1098
 Code page 1101
@@ -128,7 +113,6 @@ Code page 853
 Code page 855
 Code page 856
 Code page 857
-Code page 858
 Code page 859
 Code page 860
 Code page 861
@@ -145,7 +129,6 @@ Code page 896
 Code page 897
 Code page 899
 Code page 903
-Code page 904
 Code page 912
 Code page 915
 Code page 921
@@ -166,10 +149,6 @@ Control character
 Cooke and Wheatstone telegraph
 Copyright symbol
 Cork encoding
-Cube (arithmetic)
-Curly brackets
-Currency (typography)
-Curved quotes
 D
 DEC Hebrew
 DEC RADIX 50
@@ -179,30 +158,13 @@ DG International
 DIN 66003
 DIN 91379
 DKOI
-Dagger (typography)
-Dash
-Dash (punctuation)
-Data link escape
-Degree (symbol)
-Delete character
 Delta (letter)
-Device Control 1
-Device Control 2
-Device Control 3
-Device Control 4
 Digital Equipment Corporation
 Digital encoding of APL symbols
 Dollar sign
-Double dagger (typography)
-Duplicate characters in Unicode
 E
 EBCDIC
 ELOT 927
-Ellipsis
-End of medium
-End of text
-End of transmission block
-End of transmission character
 English language
 Enquiry character
 Epsilon
@@ -210,7 +172,6 @@ Equals sign
 Escape character
 Eta
 Euro
-Euro sign
 Exclamation mark
 Extended ASCII
 Extended Latin-8
@@ -218,8 +179,6 @@ Extended Unix Code
 F
 FOCAL character set
 Fieldata
-File separator
-Form feed
 Full stop
 G
 GBK (character encoding)
@@ -237,19 +196,16 @@ Greater-than sign
 Greek alphabet
 Greek language
 Greek letters used in mathematics, science, and engineering
-Group separator
 H
 HP Roman
 HZ (character encoding)
 Han unification
 Hardware code page
-Hexadecimal
 Hong Kong Supplementary Character Set
 I
 IANA
 IBM
 IBM AIX
-IEC-P27-1
 INIS-8
 INIS character set
 ISO-IR-111
@@ -258,37 +214,14 @@ ISO-IR-182
 ISO-IR-197
 ISO-IR-200
 ISO-IR-68
-ISO/IEC 10367
-ISO/IEC 2022
-ISO/IEC 646
-ISO/IEC 8859
-ISO/IEC 8859-1
-ISO/IEC 8859-10
-ISO/IEC 8859-11
-ISO/IEC 8859-12
-ISO/IEC 8859-13
-ISO/IEC 8859-14
-ISO/IEC 8859-15
-ISO/IEC 8859-16
-ISO/IEC 8859-2
-ISO/IEC 8859-3
-ISO/IEC 8859-4
-ISO/IEC 8859-5
-ISO/IEC 8859-6
-ISO/IEC 8859-7
-ISO/IEC 8859-8
-ISO/IEC 8859-9
 ISO 2033
 ISO 5426
 ISO 5427
 ISO 5428
 ISO 6438
 ISO 6862
-ISO 8859-1
-ISO 8859-7
 ITU T.61
 Indian Script Code for Information Interchange
-Intecolor/Compucolor 8001 character set
 Interpunct
 Iota
 Iota subscript
@@ -317,8 +250,6 @@ LST 1590-4
 LY1 encoding
 Lambda
 Less-than sign
-Line feed
-Logical not
 Lotus International Character Set
 Lotus Multi-Byte Character Set
 M
@@ -343,7 +274,6 @@ Mac OS Hebrew
 Mac OS Icelandic encoding
 Mac OS Inuit
 Mac OS Keyboard encoding
-Mac OS Maltese/Esperanto encoding
 Mac OS Ogham
 Mac OS Roman
 Mac OS Romanian encoding
@@ -355,23 +285,17 @@ Macintosh Font X encoding
 Macintosh Latin encoding
 Magnetic ink character recognition
 Mazovia encoding
-Micro-
-Micro sign
 Microsoft
 Microsoft Windows
-Minus sign
-Modern drachma
 Mojibake
 Mojikyō
 Morse code
 Morse code for non-Latin alphabets
-Mu (letter)
 Multinational Character Set
 N
 NEC APC character set
 National Replacement Character Set
 NeXT character set
-Negative acknowledge character
 Non-breaking space
 Nu (letter)
 Null character
@@ -381,35 +305,22 @@ OML encoding
 OMS encoding
 OT1 encoding
 Omega
-Omicron
 P
 PETSCII
-Parenthesis
 Percent sign
-Permille
 Perso-Arabic Script Code for Information Interchange
-Phi (letter)
 Pi (letter)
-Pilcrow
-Plus-minus sign
-Plus sign
-Polytonic orthography
 PostScript Latin 1 Encoding
 PostScript Standard Encoding
-Pound sign
 Prosigns for Morse code
-Psi (letter)
 Q
 Question mark
 Quotation mark
 R
 RISC OS character set
 RPL character set
-Record separator
-Rho (letter)
 Russian Morse code
 S
-SAM Coupé character set
 SI 960
 SQUOZE
 Section sign
@@ -418,29 +329,21 @@ Semicolon
 Sharp MZ character set
 Sharp pocket computer character sets
 Shift JIS
-Shift in
-Shift out
 Sigma
 Sinclair QL character set
 Slash (punctuation)
 Soft hyphen
 Space character
-Square (algebra)
-Square brackets
 Standard Compression Scheme for Unicode
-Stanford/ITS character set
 Stanford Extended ASCII
 Start of heading
 Start of text
 Substitute character
 Symbol (typeface)
-Synchronous idle
 T
-T.51/ISO/IEC 6937
 TI calculator character sets
 TRON (encoding)
 TRS-80 character set
-Tab character
 Tamil All Character Encoding
 Tamil Script Code for Information Interchange
 Tau
@@ -454,7 +357,6 @@ Theta
 Tilde
 Trademark
 Transcode (character encoding)
-Trema (diacritic)
 U
 UTF-1
 UTF-16
@@ -466,9 +368,7 @@ Underscore
 Unicode
 Unicode Consortium
 Unicode control characters
-Unicode normalization
 Unified Hangul Code
-Unit separator
 Universal Coded Character Set
 Upsilon
 V
@@ -479,11 +379,9 @@ VT220
 Variable-width encoding
 Ventura International
 Vertical bar
-Vertical tab
 Videotex
 Videotex character set
 W
-WHATWG
 Wabun code
 Wang International Standard Code for Information Interchange
 Whitespace character
@@ -495,6 +393,4 @@ Windows-1255
 Windows-1256
 Windows-1257
 Windows-1258
-Windows-125x
 Windows-1270
-Windows Cyrillic + Finnish

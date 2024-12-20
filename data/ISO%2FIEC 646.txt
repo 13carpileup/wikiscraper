@@ -1,15 +1,7 @@
 !
-"
 $
-%
-&
 '
 (
-)
-*
-+
-,
--
 0
 0 (number)
 1
@@ -34,7 +26,6 @@ $
 8 (number)
 9
 9 (number)
-;
 =
 ?
 @
@@ -43,66 +34,43 @@ A440 (pitch standard)
 ABICOMP character set
 AES3
 AES47
-AFNOR
 ALGOL 60
 ANSEL
-ANSI
 ANSI C
 ANSI escape code
 ARIB STD B24 character set
-ASA X3.4
 ASCII
 ASMO 449
 ATASCII
 AZERTY
 Accuracy and precision
-Acknowledge character
-Acute accent
 Ada Semantic Interface Specification
-Addison-Wesley Publishing Company
-Addison-Wesley Publishing Company, Inc.
-Advanced Intelligent Tape
 Advanced Video Coding
 American National Standards Institute
 Ampersand
-Amstrad CP/M Plus character set
 Amstrad CPC character set
 Antimagnetic watch
 Apple II character set
-Application Programming Interface for Windows
-Arab Standardization and Metrology Organization
 Arabic alphabet
 ArmSCII
 Asterisk
 Atari ST character set
 B
 BCD (character encoding)
-BSI Group
 Backslash
 Backspace
-Basic Latin (Unicode block)
-Basque language
 Battery nomenclature
 Baudot code
 Bell character
 Big5
 Binary Ordered Compression for Unicode
-Bit
 Bitstream International Character Set
-Bjarne Stroustrup
-Bosnian language
 BraSCII
 British Standard Pipe
-British Standards
 Business Process Model and Notation
-BÉPO
 C
 C++
-C++/CLI
 C0 and C1 control codes
-C0 control characters
-CAN bus
-CCITT
 CCSID
 CD-ROM
 CDC display code
@@ -117,34 +85,23 @@ CSX Indic character set
 CS Indic character set
 CWI-2
 C Sharp (programming language)
-C alternative tokens
-C programming language
-C trigraph
 Canada
-Canadian Standards Association
 Cancel character
 Caret
 Carriage return
 Casio calculator character sets
-Catalan language
-Cedilla
-Ch (digraph)
 Character encoding
 Character encodings in HTML
 Charset detection
 Chinese Character Code for Information Interchange
-Chinese National Standards
 Chinese telegraph code
 Circumflex
-Classical Latin alphabet
-Clip font
 Cloud Infrastructure Management Interface
 Code page
 Code page 1006
 Code page 1008
 Code page 1009
 Code page 1010
-Code page 1011
 Code page 1012
 Code page 1013
 Code page 1014
@@ -156,17 +113,10 @@ Code page 1019
 Code page 1020
 Code page 1021
 Code page 1023
-Code page 1034
 Code page 1040
 Code page 1042
 Code page 1043
-Code page 1044
 Code page 1046
-Code page 1052
-Code page 1053
-Code page 1054
-Code page 1055
-Code page 1056
 Code page 1058
 Code page 1098
 Code page 1101
@@ -186,12 +136,6 @@ Code page 1133
 Code page 1169
 Code page 1287
 Code page 1288
-Code page 20105
-Code page 20106
-Code page 20107
-Code page 20108
-Code page 20127
-Code page 367
 Code page 3846
 Code page 437
 Code page 668
@@ -211,7 +155,6 @@ Code page 853
 Code page 855
 Code page 856
 Code page 857
-Code page 858
 Code page 859
 Code page 860
 Code page 861
@@ -228,7 +171,6 @@ Code page 896
 Code page 897
 Code page 899
 Code page 903
-Code page 904
 Code page 912
 Code page 915
 Code page 921
@@ -241,9 +183,7 @@ Code page 942
 Code page 949 (IBM)
 Code page 950
 Code page 951
-Colemak
 Colon (punctuation)
-Combining character
 Comma
 Comma (punctuation)
 Common Criteria
@@ -258,11 +198,9 @@ Computer Graphics Metafile
 Control character
 Cooke and Wheatstone telegraph
 Cork encoding
-Croatian language
 Cuba
 D
 DEC Hebrew
-DEC NRCS
 DEC RADIX 50
 DEC Special Graphics
 DEC Technical Character Set
@@ -272,66 +210,43 @@ DIN
 DIN 66003
 DIN 91379
 DKOI
-Dagger (typography)
 Danish language
-Dart (programming language)
-Data link escape
-Delete character
 Delivery Multimedia Integration Framework
 Denmark
-Deprecation
-Device Control 1
-Device Control 2
-Device Control 3
-Device Control 4
 Diacritic
 Diaeresis (diacritic)
 Digital Addressable Lighting Interface
-Digital Data Storage
 Digital Equipment Corporation
 Digital Linear Tape
 Digital encoding of APL symbols
 Digital object identifier
-Digraphia
 Document Style Semantics and Specification Language
 Dollar sign
 Dutch language
 Dvorak keyboard layout
 Dynamic Adaptive Streaming over HTTP
-Dz (digraph)
-Dž
 E
 EBCDIC
 ECMAScript
 ECMAScript for XML
-ELOT
 ELOT 927
 EN 62262
-ETSI
-EUC-KR
 EXPRESS (data modeling language)
 E series of preferred numbers
-Eau (trigraph)
 Ecma International
 Eiffel (programming language)
-End of medium
-End of text
-End of transmission block
-End of transmission character
 English language
 Enquiry character
 Equal-loudness contour
 Equal sign
 Escape character
 Essential Video Coding
-European Computer Manufacturers Association
 Exclamation mark
 Extended Latin-8
 Extended Unix Code
 F
 FAT12
 FAT16
-FAT16B
 FDI World Dental Federation notation
 FOCAL character set
 FTAM
@@ -339,19 +254,15 @@ Fiber Distributed Data Interface
 Fieldata
 Fieldbus
 File Allocation Table
-File separator
-Filenames
 Film speed
 Finland
 Floppy disk
 Flowchart
-Form feed
 France
 French language
 Fuel oil
 Full BASIC
 Full stop
-Fuse (automotive)
 G
 GBK (character encoding)
 GB 12052
@@ -359,48 +270,32 @@ GB 12345
 GB 18030
 GB 2312
 GEM character set
-GNU Aspell
 GOST 10859
 GSM 03.38
-Gaj's Latin alphabet
 Galaksija (computer)
-Galician language
 Geography Markup Language
 Geospatial metadata
 German language
 Germany
-Gh (digraph)
 Glyph
 Graph Query Language
 Graphical Kernel System
 Greater-than sign
-Greece
 Greek alphabet
-Group separator
 Guidelines for the Definition of Managed Objects
 H
 HP Roman
 HTML
 HZ (character encoding)
-Halfwidth and Fullwidth Forms
 Han Xin code
 Han unification
 Hardware code page
 Hazard symbol
 Hebrew alphabet
-Hellenic Organization for Standardization
-Hewlett-Packard Company, LP
-History of the Latin script
 Hole punch
-Holographic Versatile Disc
-Homoglyphs
-Honeywell-Bull
 Hong Kong Supplementary Character Set
-Horizontal tabulation
 Horsepower
 Hot shoe
-Hungarian dzs
-Hungarian language
 Hungarian ly
 Hungary
 Hyphen-minus
@@ -408,7 +303,6 @@ I
 IATF 16949
 IBM
 IBM AIX
-IEC-P27-1
 IEC 60027
 IEC 60034
 IEC 60038
@@ -425,7 +319,6 @@ IEC 60870-5
 IEC 60870-6
 IEC 60906-1
 IEC 60929
-IEC 60980-344
 IEC 61030
 IEC 61131
 IEC 61131-3
@@ -448,7 +341,6 @@ IEC 62196
 IEC 62264
 IEC 62304
 IEC 62325
-IEC 62351
 IEC 62366
 IEC 62379
 IEC 62455
@@ -459,18 +351,15 @@ IEC 63119
 IEC 63382
 IEC 81346
 IEEE 754
-IJ (digraph)
 INIS-8
 INIS character set
 IO-Link
 IP-XACT
-IPTC
 IS-IS
 ISBN
 ISBN (identifier)
 ISLISP
 ISO-8859-8-I
-ISO-IR
 ISO-IR-111
 ISO-IR-169
 ISO-IR-182
@@ -478,23 +367,3 @@ ISO-IR-197
 ISO-IR-200
 ISO-IR-68
 ISO-TimeML
-ISO/IEC
-ISO/IEC 10021
-ISO/IEC 10116
-ISO/IEC 10367
-ISO/IEC 10646
-ISO/IEC 10967
-ISO/IEC 11179
-ISO/IEC 11404
-ISO/IEC 11801
-ISO/IEC 12207
-ISO/IEC 14443
-ISO/IEC 14651
-ISO/IEC 15288
-ISO/IEC 15504
-ISO/IEC 15693
-ISO/IEC 15897
-ISO/IEC 17024
-ISO/IEC 17025
-ISO/IEC 18014
-ISO/IEC 19752

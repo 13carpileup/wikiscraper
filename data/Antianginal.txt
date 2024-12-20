@@ -1,12 +1,7 @@
-(R)-3-Nitrobiphenyline
-4-NEMD
-6-Fluoronorepinephrine
 ACE inhibitor
 ATC code A
 ATC code B
 ATC code C
-ATC code C01
-ATC code C02
 ATC code D
 ATC code D09
 ATC code G
@@ -20,61 +15,25 @@ ATC code R
 ATC code S
 ATC code V
 ATCvet code QI
-Abanoquil
-Abediterol
-Acebutolol
-Acetergamine
-Adaprolol
 Addiction medicine
-Adimolol
-Adrenergic receptor
-Afterload
-Afurolol
-Ajmalicine
-Alfuzosin
-Alifedrine
 Alkylating antineoplastic agent
-Alpha-1 adrenergic receptor
-Alpha-2 adrenergic receptor
-Alprenolol
-Alprenoxime
-Amesergide
-Amibegron
-Amidephrine
-Amitraz
-Amitriptyline
-Amlodipine
-Amosulalol
-Amoxapine
 Anabolic steroid
 Analgesic
 Anatomical Therapeutic Chemical Classification System
-Ancarolol
 Anesthetic
-Angina pectoris
-Angiotensin II receptor antagonist
-Anisodamine
-Anisodine
 Anorectic
 Antacid
 Anthelmintic
 Anti-inflammatory
 Anti-obesity medication
 Antiarrhythmic agent
-Antibacterial
 Anticoagulant
 Anticonvulsant
-Antidementia drug
 Antidepressant
-Antidiarrhoeal
 Antidote
 Antiemetic
 Antifibrinolytic
-Antifungal drug
 Antihemorrhagic
-Antihyperkinetic
-Antihypertensive
-Antihypertensive drug
 Antimetabolite
 Antimicrobial
 Antimigraine drug
@@ -83,418 +42,60 @@ Antineoplastic
 Antiparasitic
 Antiplatelet drug
 Antipropulsive
-Antiprotozoal agent
 Antipruritic
-Antipsoriatic
 Antipsychotic
 Antithrombotic
 Antithyroid agent
 Antiviral drug
 Anxiolytic
 Aphrodisiac
-Apraclonidine
-Aptazapine
-Arbutamine
-Arformoterol
-Arnolol
-Arotinolol
-Asenapine
-Atenolol
-Atipamezole
-Atiprosin
-Atypical antipsychotic
-Azapirone
-BRL-44408
-Bambuterol
-Baroreceptor
-Befunolol
-Benoxathian
-Benziodarone
 Beta blocker
-Betaxolol
-Bevantolol
 Bile acid sequestrant
-Bisoprolol
 Bisphosphonate
-Bitolterol
 Blood
 Bone
-Bopindolol
-Bornaprolol
-Brefonalol
-Brexpiprazole
-Brimonidine
-Bromoacetylalprenololmenthane
 Bronchodilator
-Broxaterol
-Bucindolol
-Bucumolol
-Bufetolol
-Buflomedil
-Bufuralol
-Bunazosin
-Bunitrolol
-Bunolol
-Buphenine
-Bupranolol
-Buspirone
-Butaxamine
-Butidrine
-Butofilolol
-Cadralazine
 Calcium
 Calcium channel blocker
-Capsinolol
-Carazolol
-Carbocromen
-Carbuterol
-Cardiac disease
 Cardiac glycoside
 Cardiac stimulant
-Carmoterol
-Carpindolol
-Carteolol
-Carvedilol
-Celiprolol
-Cetamolol
 Chemotherapy
-Chlorpromazine
-Chronotropic
-Cicatrizant
-Cicloprolol
-Cimaterol
-Cinamolol
-Cinepazet
-Cirazoline
 Circulatory system
-Clenbuterol
-Clinical trial
-Clomipramine
-Clonidine
-Cloranolol
-Cloridarol
-Clozapine
 Coagulation
-Colterol
-Contrast medium
-Corbadrine
-Coronary heart disease
 Corticosteroid
-Corynanthine
-Cough medicine
-Cyanopindolol
-Dalbraminol
-Dapiprazole
 Decongestant
 Deliriant
-Denopamine
-Deoxyepinephrine
 Depressant
-Desglymidodrine
-Detomidine
-Dexisometheptene
-Dexmedetomidine
-Dexpropranolol
 Diabetes medication
-Diacetolol
-Diazoxide
-Dichloroisoprenaline
-Dietary mineral
-Dihydralazine
-Dihydroalprenolol
-Dihydroergotamine
-Dihydropyridine
-Dilazep
-Dilevalol
-Diltiazem
-Dipivefrine
-Diprafenone
 Disease-modifying antirheumatic drug
 Dissociative
 Diuretic
-Dobutamine
 Doi (identifier)
-Domesticine
-Dopamine
-Dopexamine
-Doxazosin
-Doxepin
-Draquinolol
 Dressing (medicine)
-Droxidopa
-Ecastolol
 Ectoparasiticide
-Efaroxan
-Efloxate
-Emollient
 Endocrine system
-Endothelium-derived relaxing factor
-Endralazine
-Entactogen
 Entheogen
-Epanolol
-Epinephrine
-Ergoline
 Ergotamine
-Ericolol
-Ersentilide
-Esatenolol
-Esmirtazapine
-Esprolol
-Etafedrine
-Etafenone
-Ethylnorepinephrine
-Etilefrine
-Etilevodopa
-Etoperidone
-Eugenodilol
 Euphoria
-European Society of Cardiology
-Exaprolol
-Falintolol
-Fenmetozole
-Fenoterol
-Fenspiride
 Fertility medication
 Fibrate
-Flestolol
-Flosequinan
-Fluparoxan
-Fluphenazine
-Flusoxolol
-Formoterol
-Gapicomine
 General anaesthetic
 Genitourinary system
-Gepirone
 Glucocorticoid
-Guanabenz
-Guanfacine
-Guanoxabenz
 H1 antagonist
-H2 antagonist
-Heart failure
-Heart rate
-Heptaminol
-Hexobendine
-Hexoprenaline
-Higenamine
 Hormonal contraception
 Human brain
-Human gastrointestinal tract
 Human skin
-Hydralazine
-Hydrazinophthalazine
-Hydroxycarteolol
-Hydroxynefazodone
-Hydroxytertatolol
-Hydroxyzine
 Hypnotic
-Hypoglycemia
-Hypolipidemic agent
-Hypotension
 Hypothalamic–pituitary hormone
-ICI-118,551
-Ibopamine
-Idazoxan
-Idropranolol
-Imipramine
 Immune system
-Immunomodulator
 Immunostimulant
 Immunosuppressive drug
-Imolamine
-Indacaterol
-Indanidine
-Indenolol
-Indopanolol
-Indoramin
 Infection
-Inotropic
-Intravenous immunoglobulin
-Iodocyanopindolol
 Ion
-Iprocrolol
-Ipsapirone
-Isamoltane
-Isoetarine
-Isometheptene
-Isoprenaline
-Isosorbide dinitrate
-Isosorbide mononitrate
-Isoxaprolol
-Isoxsuprine
-Itramin tosilate
 Joint
-Ketanserin
-L-765,314
-L-DOPA
-Labetalol
-Landiolol
-Laxative
-Levobetaxolol
-Levobunolol
-Levomoprolol
-Levosalbutamol
-Levosimendan
-Linsidomine
-List of withdrawn drugs
-Lisuride
-Local anesthetic
-Lofexidine
-Loxapine
-Lubabegron
-Lurasidone
-Mabuterol
-Malignant
-Management of Parkinson's disease
-Maprotiline
-Medetomidine
-Medical use of nitroglycerin
-Medication
-Medroxalol
-Melevodopa
-Mepindolol
-Mepiprazole
-Meta-Chlorophenylpiperazine
 Metabolism
-Metaraminol
-Metazosin
-Methoxamine
-Methoxyphenamine
-Methyldopa
-Metipranolol
-Metoprolol
-Mianserin
-Midodrine
-Mineralocorticoid
-Minoxidil
-Mirabegron
-Mirtazapine
-Mivazerol
-Molsidomine
-Monatepil
-Mood stabilizer
-Moprolol
-Motivation-enhancing drug
-Moxisylyte
-Moxonidine
-Muscle
-Muscle relaxant
-Myocardial infarction
-NAN-190
-Nadolol
-Nadoxolol
-Naftopidil
-Nantenine
-Naphazoline
 National Institute for Health and Care Excellence
-Nebivolol
-Nefazodone
-Neldazosin
 Nervous system
-Nesiritide
-Neuroprotective
-Neurotoxin
-Niaprazine
-Nicergoline
-Nicorandil
-Nifedipine
-Nifenalol
-Niguldipine
-Nipradilol
-Nitrate
-Nitroglycerin (medication)
-Nitrovasodilator
-Non-steroidal anti-inflammatory drug
-Nootropic
-Norepinephrine
-Octopamine
-Olanzapine
-Ophthalmology
-Orciprenaline
-Orexigenic
-Otology
-Oxprenolol
-Oxyfedrine
-Oxymetazoline
-PF-610355
 PMC (identifier)
 PMID (identifier)
-PS75
-Pacrinolol
-Pafenolol
-Paliperidone
-Pamatolol
-Pardoprunox
-Pargolol
-Pelanserin
-Penbutolol
-Pentaerythritol tetranitrate
-Perlapine
-Phases of clinical research
-Phendioxan
-Phenoxybenzamine
-Phentolamine
-Phenylalanine
-Phenylephrine
-Phenylpiperazine
-Phenylpropanolamine
-Pildralazine
-Pimobendan
-Pindolol
-Piperoxan
-Pirbuterol
-Piribedil
-Platelet
-Potassium channel opener
-Practolol
-Prazosin
-Prenalterol
-Prenylamine
-Primidolol
-Procaterol
-Procinolol
-Pronethalol
-Propafenone
-Propatylnitrate
-Propranolol
-Proton-pump inhibitor
-Psychedelic drug
-Psychedelics, dissociatives and deliriants
-Pyrimidinylpiperazine
-Quetiapine
-Quinazosin
-Quinidine
-Quinolone
-Ractopamine
-Radiopharmacology
-Rauwolscine
-Receptor modulator
-Renin inhibitor
-Renin–angiotensin system
-Reproterol
-Respiratory system
-Rezatomidine
-Ridazolol
-Rilmenidine
-Rimiterol
-Risperidone
-Ritodrine
-Romifidine
-Ronactolol
-Rotigotine
-SR 59230A
-Salbutamol
-Salmeterol
-Sedative
-Selective estrogen receptor modulator
-Senotherapeutics
-Sense
-Serelaxin
-Serenic
-Setiptiline
-Sex steroid
-Silodosin
-Sodium nitroprusside
-Solabegron

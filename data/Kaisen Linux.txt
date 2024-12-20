@@ -1,8 +1,5 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
-APT (Debian)
-APT (software)
 AlmaLinux
 Alpine Linux
 Android-x86
@@ -54,7 +51,6 @@ Debian
 Deepin
 DemoLinux
 Devuan
-DistroWatch
 DivestOS
 DoudouLinux
 Dreamlinux
@@ -89,11 +85,9 @@ GoboLinux
 Gobuntu
 GrapheneOS
 HandyLinux
-Hyperbola GNU/Linux-libre
 Immunix
 IodéOS
 Jurix
-KDE Plasma 5
 KDE neon
 KaOS
 KaiOS
@@ -107,7 +101,6 @@ Korora (operating system)
 Kubuntu
 Kwort Linux
 LXLE Linux
-LXQt
 Libranet
 LinHES
 LineageOS
@@ -123,7 +116,6 @@ Linux for PlayStation 2
 Linux kernel
 List of Linux distributions
 Lubuntu
-MATE (software)
 MCC Interim Linux
 MIUI
 MX Linux
@@ -136,7 +128,6 @@ Mer (software distribution)
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Musix GNU+Linux
 Network Security Toolkit
 NimbleX
 Nitix
@@ -153,7 +144,6 @@ Open Enterprise Server
 Oracle Linux
 PCLinuxOS
 Package manager
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
@@ -221,8 +211,6 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 User interface
 User space and kernel space
 VectorLinux
@@ -230,9 +218,7 @@ Vine Linux
 Void Linux
 Whonix
 Wubuntu
-X86-64
 XB Machine
-Xfce
 Xubuntu
 Yellow Dog Linux
 Zenwalk

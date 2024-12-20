@@ -2,29 +2,20 @@ ANSI C
 Alef (programming language)
 Amsterdam Compiler Kit
 Anjuta
-Assert.h
-Asynchronous I/O
-Berkeley sockets
 Bionic (software)
-Borland Turbo C
 C++
 C11 (C standard revision)
 C17 (C standard revision)
 C23 (C standard revision)
 C99
-CLion
 C (programming language)
 C Sharp (programming language)
-C alternative tokens
 C character classification
 C data types
 C date and time functions
 C dynamic memory allocation
-C file input/output
-C localization functions
 C mathematical functions
 C preprocessor
-C signal handling
 C standard library
 C string handling
 C syntax
@@ -32,115 +23,41 @@ Character encoding
 Clang
 CodeLite
 Comparison of Pascal and C
-Compatibility of C and C++
-Complex.h
-Cpio
-Ctype.h
 D (programming language)
 Dennis Ritchie
 Dietlibc
-Directory (file systems)
-Dirent.h
-Dlfcn.h
-Dynamic linker
 Eclipse (software)
 Embedded C
-Embedded GLIBC
-Errno.h
-Fcntl.h
-Fenv.h
-File format
-File locking
-Float.h
 GNOME Builder
 GNU Compiler Collection
 Geany
 Glibc
-Glob (programming)
 Go (programming language)
-Group identifier (Unix)
-Hybris (software)
-IP addresses
 ISBN (identifier)
-Iconv
 Include directive
-Inode
 Integrated development environment
-Intel C++ Compiler
 Inter-process communication
-Inttypes.h
-Ioctl
-Iso646.h
 KDevelop
 Klibc
 LCC (compiler)
 Limbo (programming language)
-Limits.h
-List of C compilers
-Locale.h
 MISRA C
-Math.h
-Memory mapped files
-Message queue
 Microsoft Visual C++
 Microsoft Visual Studio Express
 Microsoft Windows library files
 Musl
-NDBM
 NetBeans
 Newlib
 Norcroft C compiler
-O'Reilly Media
 Objective-C
-Operators in C and C++
 POSIX
-POSIX threads
-Passwd (file)
 Portable C Compiler
-Pthread.h
-Pwd.h
 Regular expression
-Select (Unix)
 Semaphore (programming)
 Serial port
-Setjmp.h
-Shared memory (interprocess communication)
-Signal.h
 Small Device C Compiler
-Spawn (computing)
-Standard C
-Stat (Unix)
 Stdarg.h
-Stdbool.h
-Stddef.h
-Stdint.h
-Stdio.h
-Stdlib.h
-String.h
-Subroutine
-Sys/ipc.h
-Sys/stat.h
-Sys/types.h
-Sys/utsname.h
-Sys/wait.h
-Syslog
-Tar (file format)
-Termios.h
-Tgmath.h
-Time.h
 Tiny C Compiler
-Transmission Control Protocol
 UClibc
-Uname
-Unistd.h
-Unix System V
-Unix domain socket
-Unix shell
-Utime.h
 Vala (programming language)
-Vectored I/O
 Visual Studio
-Wait (operating system)
-Watcom C/C++
-Wchar.h
-Wctype.h

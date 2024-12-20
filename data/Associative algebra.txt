@@ -1,204 +1,64 @@
 Abelian group
 Abstract algebra
-Affine scheme
-Algebra homomorphism
-Algebra of dual numbers
 Algebra over a field
-Algebra representation
-Algebraic group
-Algebraic number field
 Algebraic number theory
 Algebraic structure
 ArXiv (identifier)
-Artinian ring
-Artin–Wedderburn theorem
 Axiom
-Azumaya algebra
-Banach algebra
-Banach space
-Bialgebra
 Bibcode (identifier)
-Bimodule
 Boolean algebra (structure)
-Brauer algebra
-Categorial duality
 Category (mathematics)
-Category of abelian groups
-Category of commutative rings
-Category of modules
-Category of rings
-Center (ring theory)
-Center of a ring
-Central simple algebra
-Change of rings
-Characteristic (algebra)
 Clifford algebra
-Coalgebra
 Combinatorics
-Commutative
 Commutative algebra
-Commutative diagram
 Commutative ring
-Commutator (ring theory)
-Complemented lattice
-Complex Lie group
 Complex number
 Composition algebra
-Comultiplication
-Continuous function (topology)
-Convolution
-Coordinate ring
-Coproduct
 Cornell University
-Coslice category
-De Rham algebra
-Deformation quantization
-Deligne's conjecture on Hochschild cohomology
-Derived algebraic geometry
-Differential graded algebra
-Division ring
 Doi (identifier)
-Domain (ring theory)
-Dual (category theory)
-Endomorphism ring
-Enveloping algebra of an associative algebra
-Euclidean domain
 Exterior algebra
-F-coalgebra
 Field (mathematics)
-Filtration (mathematics)
 Finite field
-Formal power series
-Formal power series ring
-Fractional ideal
 Free algebra
-Free module
-Free product of associative algebras
-Frobenius endomorphism
-Functor
-GCD domain
-Generic matrix ring
 Geometric algebra
 Geometry
-Gerstenhaber algebra
-Graded ring
 Group (mathematics)
-Group ring
 Group theory
-Group with operators
 Heyting algebra
 Homomorphism
 Hopf algebra
 ISBN (identifier)
 ISSN (identifier)
 Ideal (ring theory)
-Incidence algebra
-Inner automorphism
 Integer
-Integers modulo n
-Integral domain
-Integrally closed domain
-Involutive ring
-Jordan ring
-Kernel (algebra)
-Lattice (module)
 Lattice (order)
-Left adjoint
-Levi's theorem
 Lie algebra
-Lie algebra representation
 Lie group
-Lie ring
-Limit of a function
 Linear algebra
-Linear operator
-Locally finite poset
-MR (identifier)
 Magma (algebra)
-Map of lattices
 Mathematics
 Matrix (mathematics)
 Matrix multiplication
 Module (mathematics)
-Module homomorphism
 Monoid
-Monoid (category theory)
-Monoidal category
-Morphism
-Multiplicative identity
-Near-ring
 Non-associative algebra
-Non-associative ring
-Noncommutative algebra
-Noncommutative algebraic geometry
-Noncommutative ring
-Operator algebra
-Order (ring theory)
-P-adic integer
-P-adic number
-Partially ordered set
-Partition algebra
-Paul Cohn
 Physics
-Poisson algebra
 Polynomial ring
-Prime spectrum
-Principal ideal domain
-Product of rings
-Profinite group
-Projective module
-Prüfer group
-Quantized enveloping algebra
-Quantum group
-Quasi-free algebra
-Quasigroup
 Quaternion
-Quiver algebra
 Quotient ring
-Racks and quandles
 Real number
 Representation theory
 Ring (mathematics)
-Ring homomorphism
 Ring of integers
 Ring theory
-Ringed space
 Rng (algebra)
 S2CID (identifier)
 Scalar multiplication
-Semifield
 Semigroup
-Semilattice
-Semimartingale
-Semiprimitive ring
-Semiring
-Separable algebra
-Sheaf of algebras
-Simple Artinian ring
-Simple ring
-Springer-Verlag
 Square matrix
-Stochastic calculus
-Structure map
-Subcategory
-Submodule
 Subring
 Symmetric algebra
-Temperley-Lieb algebra
 Tensor algebra
 Tensor product
-Tensor product of algebras
-Tensor product of modules
-Tensor product of representations
-Tensor product of rings
 Topology
-Total order
-Total ring of fractions
-Unique factorization domain
-Unital algebra
-Universal enveloping algebra
 Vector space
-Weyl algebra
-William C. Waterhouse
-Zbl (identifier)
-Zero ring

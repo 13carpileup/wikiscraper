@@ -1,170 +1,56 @@
-A Mathematical Theory of Communication
-Adversary (cryptography)
-Algebra of physical space
-Algebraic geometric code
-Algebraic structures
 Algorithm
 Algorithm design
-Alphabet (computer science)
-Analog electronics
-Analog signal
-Analog signal processing
 Analysis of algorithms
-Analytical mechanics
 Applied mathematics
-Approximation theory
 ArXiv (identifier)
-Audrey Terras
 Authentication
 Automata theory
 Automated teller machine
 Automated theorem proving
-Automatic repeat-request
-BCH code
 Baseband
-Bell Labs
-Bell System Technical Journal
-Binary Golay code
-Bipolar encoding
-Bit
-Block code
-Bosonic string theory
 Brain
-Calculus of variations
 Cambridge University Press
-Channel capacity
-Chaos theory
-CiteSeerX (identifier)
-Classical field theory
-Claude E. Shannon
 Claude Shannon
 Clifford algebra
-Clifford analysis
-Code
 Code-division multiple access
-Code word (communication)
-Coding gain
 Combinatorics
 Communications protocol
-Communications system
 Compact Disc Digital Audio
 Computational geometry
-Computational hardness assumption
 Computational mathematics
-Computational number theory
-Computational statistics
 Computer
 Computer algebra
 Computer data storage
 Computer science
-Confidentiality
-Conformal field theory
-Constraint programming
-Constraint satisfaction problem
 Control theory
-Convolution
-Convolutional code
-Covering code
-Cross-interleaved Reed–Solomon coding
 Cryptography
-Cyclic code
-DEFLATE
 Data compression
-Data integrity
-Data transmission
-Dave Forney
-David J. C. MacKay
-Decision theory
-Decoding methods
 Differential equation
-Differential form
 Differential geometry
-Digital data
-Digital signal (electronics)
-Dirty paper coding (DPC)
 Discrete cosine transform
 Discrete geometry
 Discrete mathematics
-Distance
 Doi (identifier)
 Dynamical system
-Effective field theory
 Electrical engineering
-Electronic commerce
-Elwyn R. Berlekamp
 Encryption
 Entropy (information theory)
-Entropy encoding
-Error correction code
-Error detection
 Error detection and correction
-European Community on Computational Methods in Applied Sciences
 Exterior algebra
-Exterior calculus
-FAX
 Fading
-Field theory (physics)
-Folded Reed–Solomon code
-Fourier analysis
 Functional analysis
-Functional integration
 Game theory
 Gauge theory
-Gauge theory (mathematics)
 Geometric algebra
-Geometric analysis
-Geometric calculus
-Gert Hauske
 Graph theory
-Group testing
-Hamiltonian mechanics
-Hamming bound
-Hamming code
-Hamming distance
-Hamming numbers
-Hamming weight
-Hamming window
-Harmonic analysis (mathematics)
-History of information theory
 ISBN (identifier)
 Information
-Information entropy
 Information security
-Information theoretic security
 Information theory
 Injective function
-Integer factorization
-International Council for Industrial and Applied Mathematics
-Internet Engineering Task Force
-Introduction to the Theory of Error-Correcting Codes
-JPEG
-Japan Society for Industrial and Applied Mathematics
-Joint source and channel coding
-K. R. Rao
-LDPC code
-Lagrangian mechanics
-Lee distance
-Line code
-Linear code
-Linear time invariant
-Linearity
 Linguistics
-List of algebraic coding theory topics
-List of arbitrary-precision arithmetic software
-List of finite element software packages
-List of interactive geometry software
-List of mathematics topics
-List of numerical-analysis software
-List of optimization software
-List of statistical software
-Locally recoverable code
 Logic in computer science
-Lossy compression
-MIMO
 MP3
-MPEG
-Malliavin calculus
-Manchester encoding
 Mathematical analysis
 Mathematical and theoretical biology
 Mathematical chemistry
@@ -177,107 +63,21 @@ Mathematical sociology
 Mathematical software
 Mathematics
 Multilinear algebra
-Multivariable calculus
-Mutual information
-N. Ahmed
-NASA Deep Space Network
-Neural coding
-Neural network
-Neurons
-Neuroscience
-Noisy-channel coding theorem
-Non-repudiation
 Nonsense
 Norbert Wiener
 Numerical analysis
-Numerical linear algebra
-Numerical methods for ordinary differential equations
-Numerical methods for partial differential equations
-One-time pad
 Operations research
-Operator algebra
-Operator theory
-Ordinary differential equation
 PMID (identifier)
-Parity bit
 Partial differential equation
-Particle physics and representation theory
-Password
 Path integral formulation
-Perturbation theory
-Perturbation theory (quantum mechanics)
 Phase (waves)
-Poisson algebra
-Polar encoding
-Polynomial code
-Potential theory
-Probability distribution
 Probability theory
-Quantum field theory
-Quantum group
-Random variable
-Redundancy (information theory)
-Reed–Muller code
-Reed–Solomon code
-Reed–Solomon error correction
-Renormalization group
-Repetition code
-Richard E. Blahut
-Richard Hamming
-Ron Rivest
-Run-length encoding
 S2CID (identifier)
 Second World War
-Secure communication
-Shannon's source coding theorem
-Shannon–Hartley theorem
-Shaping codes
-Social choice theory
-Society for Industrial and Applied Mathematics
-Société de Mathématiques Appliquées et Industrielles
-Solver
-Spacetime algebra
-Space–time code
-Spatial multiplexing
-Sphere packing
-Statistical field theory
 Statistics
-Stimulus (physiology)
-Stochastic calculus
-Stochastic differential equation
-Stochastic process
-String theory
 Superalgebra
-Supersymmetric quantum mechanics
-Supersymmetric theory of stochastic dynamics
-Supersymmetry
-Supersymmetry algebra
 Synchronization
-Synchronous Data Link Control
-Syphilis
 Tensor
-Tensor calculus
-Tensor software
-The Unreasonable Effectiveness of Mathematics in the Natural Sciences
-Thermal noise
-Timeline of information theory
-Topic outline of mathematics
-Topological field theory
-Topological string theory
-Transmission (telecommunications)
-Transmission Control Protocol
-Turbo code
-Turing Award
-Unipolar encoding
-Uniquely decodable code
-United States Army Air Forces
-Validated numerics
-Variable-length code
-Vector calculus
-Vera Pless
-Viterbi algorithm
 Waveform
 Wide area network
 World War I
-X.25
-XOR gate

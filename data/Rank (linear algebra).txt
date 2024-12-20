@@ -1,139 +1,49 @@
-American Mathematical Society
-Augmented matrix
-Basic Linear Algebra Subprograms
 Basis (linear algebra)
 Bilinear map
-Bivector
 Block matrix
-Change of basis
-Coefficient matrix
-Column space
-Communication complexity
-Comparison of linear algebra libraries
-Complex numbers
 Control theory
-Controllability
 Cramer's rule
-Cross product
-Degenerate form
 Determinant
-Dimension (linear algebra)
 Dimension (vector space)
-Dimension of a vector space
-Direct sum of modules
 Doi (identifier)
 Dot product
 Dual space
 Eigenvalues and eigenvectors
-Elementary row operation
-Elementary row operations
-Euclidean space
-Euclidean vector
 Exterior algebra
-Ferdinand Georg Frobenius
 Field (mathematics)
-Floating-point arithmetic
-Floating point
-Function space
 Gaussian elimination
 Geometric algebra
 Glossary of linear algebra
-Gram matrix
-Gram–Schmidt process
 Hadamard product (matrices)
-Hermitian adjoint
 ISBN (identifier)
 Identity matrix
 Image (mathematics)
 Injective function
 Inner product space
 Integer
-Invertible matrix
-James Joseph Sylvester
-Jim Hefferon
-Kernel (algebra)
-Kernel (linear algebra)
-Kernel (matrix)
 Kronecker product
 LU decomposition
 Linear algebra
-Linear combination
-Linear dependence
-Linear independence
 Linear map
-Linear mapping
-Linear span
 Linear subspace
-Linear system
-Linear transformation
-Linearly independent
-Mathematics Magazine
 Matrix (mathematics)
 Matrix decomposition
 Matrix multiplication
-Matroid rank
-Minor (linear algebra)
-Multicollinearity
 Multilinear algebra
 Multilinear map
 Multivector
-Nonnegative
-Nonnegative rank (linear algebra)
-Numerical linear algebra
-Numerical stability
-Observability
-Orthogonal
 Orthogonality
-Outer product
-Outermorphism
-Outline of linear algebra
-Paul Halmos
-Pivot element
-Productive matrix
 Projection (linear algebra)
-Pushforward (differential)
-QR decomposition
-Quotient space (linear algebra)
-Rank-revealing QR factorization
-Rank (differential topology)
-Rank factorization
-Rank–nullity theorem
 Real number
-Real numbers
-Reduced row echelon form
 Ring (mathematics)
-Rouché–Capelli theorem
-Row and column spaces
-Row and column vectors
-Row echelon form
-Row space
 S2CID (identifier)
 Scalar (mathematics)
 Scalar multiplication
-Seven-dimensional cross product
-Sheldon Axler
-Simple tensor
 Singular value decomposition
-Smooth manifold
-Smooth map
-Sparse matrix
 Springer Science+Business Media
-Steinitz exchange lemma
-Steven Roman
 Surjective function
 System of linear equations
 Tensor
-Tensor (intrinsic definition)
-Tensor order
 Tensor product
-Tensor rank
-Tensor rank decomposition
-Tensors
-Transformation matrix
 Transpose
-Triple product
-Undergraduate Texts in Mathematics
-Vector projection
 Vector space
-Yitzhak Katznelson
-Zero matrix

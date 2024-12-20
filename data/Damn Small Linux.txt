@@ -1,10 +1,6 @@
-/e/ (operating system)
 4MLinux
 AIM (software)
 ALT Linux
-AMSN
-AbiWord
-Advanced Packaging Tool
 AlmaLinux
 Alpine Linux
 Android-x86
@@ -16,10 +12,8 @@ ArchLabs
 Arch Linux
 Artix Linux
 Asahi Linux
-Assembla
 Astra Linux
 Asturix
-Asymmetric Digital Subscriber Line
 Austrumi Linux
 BLAG Linux and GNU
 BackBox
@@ -30,7 +24,6 @@ BlackArch
 Black Lab Linux
 BlankOn Linux
 Bodhi Linux
-Bootable business card
 CHAOS (operating system)
 CRUX
 Calculate Linux
@@ -45,7 +38,6 @@ ChromiumOS
 ClearOS
 Clear Linux OS
 ColorOS
-Command line interface
 Commodore OS
 Comparison of Linux distributions
 Computer hardware
@@ -60,13 +52,9 @@ Debian
 Deepin
 DemoLinux
 Devuan
-Dillo
-DistroWatch
 DivestOS
 DoudouLinux
 Dreamlinux
-Dynamic Host Configuration Protocol
-E-mail client
 EMUI
 Edubuntu
 Elementary OS
@@ -75,26 +63,19 @@ Emmabuntüs
 EndeavourOS
 Endless OS
 EulerOS
-FUSE (Linux)
 Familiar Linux
 Feather Linux
 Fedora Linux
-File Transfer Protocol
-File manager
 File system
 Fire OS
-Firefox
 Firefox OS
 Floppyfw
-Fluxbox
 Foresight Linux
-Free and open-source software
 Free software
 FreedomBox
 Freespire
 Frugalware Linux
 GNU Compiler Collection
-GNU GPL
 GNU Guix System
 GNewSense
 GOS (operating system)
@@ -102,20 +83,12 @@ GPL
 Garuda Linux
 GeckoLinux
 Gentoo Linux
-Ghostscript
-Gnumeric
-Go (game)
 GoboLinux
 Gobuntu
 GrapheneOS
 Graphical user interface
 HandyLinux
-Hyperbola GNU/Linux-libre
-ICQ
-IRC
-Ibiblio
 Immunix
-Intel 80486
 IodéOS
 Jurix
 KDE neon
@@ -133,7 +106,6 @@ Kubuntu
 Kwort Linux
 LXLE Linux
 Libranet
-Lightweight Linux distribution
 LinHES
 LineageOS
 Linpus Linux
@@ -147,10 +119,6 @@ Linux distribution
 Linux for PlayStation 2
 Linux kernel
 List of Linux distributions
-List of Linux distributions that run from RAM
-List of tools to create Live USB systems
-Live CD
-Live USB
 Lubuntu
 MCC Interim Linux
 MIUI
@@ -161,20 +129,12 @@ Mandrake Linux
 Mandriva Linux
 Manjaro
 MeeGo
-Megabyte
 Memory card
 Mer (software distribution)
 Microprocessor
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Mount (computing)
-MtPaint
-Multimedia
-Musix GNU+Linux
-Naim (chat program)
-Nano (text editor)
-Network File System
 Network Security Toolkit
 NimbleX
 Nitix
@@ -192,13 +152,10 @@ Open Enterprise Server
 Operating system
 Oracle Linux
 PCLinuxOS
-PC card
 PDF
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
-Pentium
 Pentoo
 Peppermint OS
 Personal computer
@@ -206,8 +163,6 @@ Phantasy Star Online
 Pinguy OS
 PixelExperience
 Platypux
-Point-to-Point Protocol
-Point-to-Point Protocol over Ethernet
 Pop! OS
 Ported
 Porteus (operating system)
@@ -217,19 +172,15 @@ PureOS
 Q4OS
 Qubes OS
 ROSA Linux
-Random-access memory
 Raspberry Pi OS
-Rdesktop
 Red Hat Enterprise Linux
 Red Hat Linux
 Red Star OS
 Remix OS
-Remote Desktop Protocol
 Replicant (operating system)
 Resurrection Remix OS
 Rocks Cluster Distribution
 Rocky Linux
-SSHFS
 SUSE Linux
 SUSE Linux Enterprise
 SUSE Studio
@@ -238,35 +189,23 @@ Sabily
 Sailfish OS
 Salix OS
 Scientific Linux
-Secure Shell
-Secure copy protocol
-Server Message Block
-Siag Office
 Slackware
 Slax
 Softlanding Linux System
 Software bug
 Software license
 Software release life cycle
-Software remastering
 Software repository
 Solus (operating system)
 SolydXK
 Source Mage
 SparkyLinux
-Spell checker
 Splashtop OS
-Spreadsheet
 SteamOS
-Storage media
 Sunwah Linux
-Sylpheed
 SystemRescue
-System monitor
 T2 SDE
 Tails (operating system)
-Ted (word processor)
-Text editor
 Think Blue Linux
 Tiny Core Linux
 Tizen
@@ -274,7 +213,6 @@ TopologiLinux
 Trisquel
 Turbolinux
 Turkix
-UNetbootin
 USB
 USB flash drive
 Ubuntu
@@ -287,34 +225,20 @@ Ubuntu Studio
 Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
-UnionFS
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 User interface
 VectorLinux
-Video CD
 Video game console
-Vim (text editor)
 Vine Linux
-Virtual Network Computing
-Virtual keyboard
 Void Linux
 Web browser
 Whonix
-Wi-Fi
 Wubuntu
-X11
 X86
 XB Machine
-XMMS
 Xbox (console)
 Xbox controller
-Xbox modding
-Xpdf
 Xubuntu
-Xzgv
 Yellow Dog Linux
 Zenwalk
-Zip drive
 Zorin OS

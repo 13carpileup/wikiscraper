@@ -1,128 +1,48 @@
-Abstract index notation
 Adjugate matrix
-Affine connection
 Albert Einstein
 Algebraic closure
-Algebraic dual space
-Angular momentum
-Antisymmetric tensor
-Arthur Cayley
-Augustin-Louis Cauchy
-BLAS
-Basic Linear Algebra Subprograms
 Basis (linear algebra)
-Bernhard Riemann
-Big O notation
 Bilinear form
 Bilinear map
-Binary relation
-Bivector
 Block matrix
-Brooks/Cole
 Carl Friedrich Gauss
-Cartan formalism (physics)
-Cauchy stress tensor
-Change of basis
 Characteristic polynomial
-Cofactor matrix
-Comparison of linear algebra libraries
 Complex conjugate
 Complex number
 Computer
 Computer science
 Computer vision
-Conjugate transpose
-Connection form
-Continuous dual space
-Continuum mechanics
-Converse relation
 Coordinate system
-Covariance and contravariance of vectors
-Covariant derivative
 Cramer's rule
-Cross product
 Determinant
-Differential form
 Differential geometry
-Dimension
-Direct sum of modules
 Dot product
-Double dual
-Dual basis
 Dual space
-Dyadics
-Eigenvalue, eigenvector and eigenspace
 Eigenvalues and eigenvectors
-Einstein notation
-Einstein tensor
 Electromagnetic tensor
 Electromagnetism
-Elwin Bruno Christoffel
 Engineering
 Euclidean geometry
-Euclidean space
-Euclidean vector
 Exterior algebra
-Exterior calculus
-Exterior covariant derivative
-Exterior derivative
-Exterior form
-Exterior product
-Fast Fourier transform
-Fiber bundle
 Field extension
-Finite-dimensional vector space
-Floating-point arithmetic
-François Trèves
-Function space
 Gaussian elimination
-General relativity
-Geodesic
 Geometric algebra
 Gilbert Strang
 Glossary of linear algebra
-Glossary of tensor theory
-Gluon field strength tensor
 Graduate Texts in Mathematics
-Gram–Schmidt process
-Gregorio Ricci-Curbastro
 Hadamard product (matrices)
-Helmut H. Schaefer
-Hermann Grassmann
-Hermann Weyl
-Hermitian adjoint
 Hermitian matrix
-Hodge star operator
 Homomorphism
 ISBN (identifier)
-In-place
-In-place matrix transposition
-Index notation
 Inner product
 Inner product space
-Invariant factors
-Inverse matrix
-Invertible matrix
 Involution (mathematics)
 Isomorphism
-Jan Arnoldus Schouten
-Jordan normal form
-Kernel (linear algebra)
-Kronecker delta
 Kronecker product
-Leonhard Euler
-Levi-Civita connection
-Levi-Civita symbol
-Lie derivative
 Linear algebra
-Linear combination
-Linear independence
 Linear map
-Linear span
 Linear subspace
-Logical matrix
 Main diagonal
-Manifold
 Mathematician
 Mathematics
 Matrix (mathematics)
@@ -130,99 +50,23 @@ Matrix addition
 Matrix decomposition
 Matrix multiplication
 Matrix similarity
-Memory locality
-Metric tensor
-Metric tensor (general relativity)
-Minor (linear algebra)
-Mixed tensor
 Module (mathematics)
-Moment of inertia
-Moore–Penrose pseudoinverse
-Multi-index notation
 Multilinear algebra
 Multilinear map
 Multivector
-Natural pairing
-Nicolas Bourbaki
-Nondegenerate form
-Nonmetricity tensor
-Numerical linear algebra
-Numerical stability
 OCLC (identifier)
 Operation (mathematics)
-Orthogonal group
-Orthogonal matrix
 Orthogonality
-Orthonormality
-Outer product
-Outermorphism
-Outline of linear algebra
-Paul Halmos
-Penrose graphical notation
-Permutation
 Physics
-Positive-semidefinite matrix
-Productive matrix
 Projection (linear algebra)
-Pseudotensor
-Pullback (differential geometry)
-Quotient space (linear algebra)
-Raising and lowering indices
-Random access memory
 Rank (linear algebra)
-Reflection (mathematics)
-Relation (math)
-Ricci calculus
-Ricci curvature
-Riemann curvature tensor
-Row- and column-major order
-Row and column spaces
-Row and column vectors
 Scalar (mathematics)
 Scalar multiplication
-Sesquilinear form
-Seven-dimensional cross product
-Skew-Hermitian matrix
-Skew-symmetric matrix
-Software libraries
-Sparse matrix
-Spin tensor
-Spinor
-Stack Exchange
-Stress–energy tensor
-Symmetric matrices
 Symmetric matrix
-Symmetric tensor
-Symmetrization
 System of linear equations
 Tensor
-Tensor (intrinsic definition)
 Tensor algebra
-Tensor bundle
-Tensor calculus
 Tensor contraction
-Tensor density
-Tensor field
-Tensor operator
 Tensor product
-Tensors in curvilinear coordinates
-Tetrad (index notation)
-Topological vector space
-Torsion tensor
-Transformation matrix
-Transport phenomena
-Transpose of a linear map
-Triple product
-Tullio Levi-Civita
-Two-point tensor
-Unitary matrix
-Van der Waerden notation
 Variable (mathematics)
-Vector (mathematics and physics)
-Vector projection
 Vector space
-Voigt notation
-Weyl tensor
-Woldemar Voigt
-Élie Cartan
-Éléments de mathématique

@@ -1,45 +1,19 @@
-802.3b
 ISO 10160
-IEEE 1733
 ISO 2146
-802.3ad
-IEEE 802.7
-802.3ca
 Computational chemistry
 Fiber Distributed Data Interface
 Essential Video Coding
 Application security
-IEEE 802.21
-IEEE 802.11ax
-ISO/IEC 17025
 ISO 20400
-Domain-driven design
 IEEE 802
-IEEE 802.1ah-2008
-ISO/IEC 8652
-IEEE 802.11ay
-IEEE 802.11p
-IEEE P802.1p
-IEEE 1619
-IEEE 802.11j-2004
-ISO/IEC 2022
-ISO 19092-1
-IEEE-488
 Enterprise software
-IEEE P1619
 Graphical Kernel System
-IEEE 1584
 Computational geometry
-Compatibility layer
 Essential systems analysis
 ISO 11992
-ISO/IEC 7816
 Form factor (design)
-Build automation
-IEEE 802.22
 ISO 15686
 ISO 10303-22
-ISO/IEC 27000
 IEEE 802.11w-2009
 Computer data storage
 IEEE 802.11u
@@ -47,454 +21,210 @@ Digital art
 Glossary of electrical and electronics engineering
 ISLISP
 Delivery Multimedia Integration Framework
-IEEE 754-2008 revision
-ISO/IEC JTC 1/SC 7
-IEEE 802.1X
 Computer compatibility
 ACM Computing Classification System
-IEEE 1394
-IEEE 802.11 (legacy mode)
 ISO 19600
-802.3cz
 ISO 2014
-Dynamic systems development method
 Artificial intelligence
 Ada Semantic Interface Specification
-Aspect-oriented programming
 IS-IS
-ISO 19092-2
-Debugging
 ISO 14698
 Computational complexity
 Antimagnetic watch
 Guidelines for the Definition of Managed Objects
-ISO/IEC 19752
 ISO 15398
-IEEE 1355
-ISO/IEC 8859-11
 Electronic design automation
-ISO/IEC TR 12182
 Computability theory
-ISO/IEC 4909
-IEEE 802.15.4d
-IEEE 802.11bn
-ISO/IEC 42010
-ISO/IEC 8859-13
 ISO 17100
-802.3cx
 Concurrent computing
-ISO/IEC 27005
 ISO 13485
 ISO 16750
 Computing platform
-IEEE 802.1AE
 Computer animation
 Computational engineering
-IEEE 1667
-IEEE 802.1AS
-Entity–relationship model
-Executable UML
-Data model
-IEEE 1722
 ISO 15924
 IEEE 802.11y-2008
-DySPAN
-IEEE 802.15.4z
 ISO 10962
-ISO/IEC 8859-15
-IEEE 802.24
 Enterprise architecture
-100BaseVG
 Cloud Infrastructure Management Interface
-IEEE 802.1
 ISO 128
-IEEE 802.11h-2003
 IEEE 854-1987
 Computer engineering
 EXPRESS (data modeling language)
 Accuracy and precision
 IEEE P1906.1
-Corrective maintenance
 Han Xin code
-802.3cs
-ISO/IEC 9797-1
-802.3cp
-IEEE 802.11-1997
 ISO 19439
-802.3ak
-IEEE 802.8
-Fuse (automotive)
 Algorithm
-ISO 2047
-IEEE 802.1Qav
-ISO/IEC 14443
-ISO/IEC 18014
 Compiler construction
-IEEE 802.11d-2001
-IEEE 802.11n-2009
 Common Object Request Broker Architecture
 COBOL
-DevOps
 Decision support system
 ISO 14031
-IEEE 802.11ac
 ISO 10303
 British Standard Pipe
-IEEE 802.15.2
-Cable modem
 Algorithmic efficiency
-ISO/IEC 27001
-802.3ba
-ISO/IEC 20000
-802.3cn
 HTML
 IEEE 802.15.4a
 Commercial off-the-shelf
-IEEE 802.11
-CAN bus
 ISO 14224
 Computing
-802.3ct
-Function model
 ISO 15919
 Control variable (programming)
-802.3at
-IEEE 802.2
 ISO 13406-2
-ISO/IEC 7812
 ISO 20022
 IEEE 802.20
-IEEE 802.6
-ISO/IEC 8859-4
-ISO/IEC 14651
-IEEE 802.15.1
-IEEE 802.15.4b
-802.3d
 ISO 19011
 Advanced Video Coding
-IEEE 802.11a-1999
-ISO/IEC 8859-6
-ISO/IEC 8859-10
 Formal methods
 IEEE 802.11r-2008
 Geography Markup Language
-ISO/IEC 5218
-Application retirement
-IEEE 802.11v
 Analysis of algorithms
-IEEE 1219
 IEEE 802.15.4
 ISO 10006
-ISO/IEC 27006
 Enterprise information system
-802.3bz
-ISO/IEC 11404
 C++
-802.3cb
-802.3cc
 Health informatics
 ISO 10161
-IEEE 1675-2008
 Equal-loudness contour
-802.3db
 IEEE 802.1ad
-IEEE 1905
 ISO 10628
 Computer graphics
-High-level architecture
-ISO/IEC 15504
 IP-XACT
-802.3ab
-Enterprise unified process
 IATF 16949
-ISO/IEC 7811
 ISO 1745
 ISO 15022
-ISO/IEC 8859-1
 Cryptography
 Distributed artificial intelligence
 135 film
-Futurebus
 Automated planning and scheduling
 Computer science
-IEEE 1901
 Electronic voting
 ISO 13567
-IEEE 1855
 Dependability
 ISO 15926
 Computational physics
 Compiler
 Computational complexity theory
-CI/CD
 ISO 14971
-802.3df
-Compatibility mode
-Abstraction layer
 Formal language
 ISO 11940
 ISO 11940-2
 ANSI C
-IEEE 802.1D
 Educational technology
 Algorithm design
 Cross-validation (statistics)
 Computational social science
-IEEE 802.15.3
-802.3a
-802.3da
 IEEE 802.11e-2005
 Human–computer interaction
 C Sharp (programming language)
-802.3dd
-IEEE 802.11aj
-802.3af
 Graphics processing unit
-Advanced Library Format
 Geographic information system
 Computer vision
-IEEE 802.15.5
-ISO/IEC 11801
-IDEF
-IEEE 693
-ISO/IEC 9529
 Continuous integration
 Graphical user interface builder
-IEEE 802.11ad
 ISO 13399
-Extreme programming practices
 ISO 11784 and ISO 11785
-Glossary of artificial intelligence
-802.3de
-802.3ah
-ISO/IEC 27002
-IEEE 802.15.7
 Hot shoe
-IEEE 802.15.6
 ArmSCII
 Agile software development
-802.3cw
-802.3av
 ISO 10007
-IEEE 1164
 ISO 13490
-George Mason University
-ISO/IEC 19794-5
-802.3cr
 Computer Graphics Metafile
 Ethernet
-IEEE 802.16
 Abstraction (computer science)
-IEEE 802.11g-2003
 Computer security
 ISO 18245
-802.3au
 ANSI escape code
-ISO/IEC 7064
-IEEE 802.11s
-ISO/IEC 8859-5
-Forward compatibility
 Computer hardware
-IEEE P1363
 IEEE 2030
-IEEE 802.1Q
-IEEE 1471
 ISO 14617
-ISO/IEC 10116
-ISO/IEC 7813
-802.3aq
 Fuel oil
-IEEE 802.15.4c
 Computer architecture
 Domain-specific language
 Distributed computing
-ISO/IEC 15693
-IEEE 802.3x
-Disciplined agile delivery
-IEEE 802.1Qbb
-IEEE 1284
 File Allocation Table
-ISO/IEC 9126
-802.3bt
-Code refactoring
 Hazard symbol
-ISO/IEC 8859-7
-802.3cy
-802.3u
-Adaptive software development
-Concept of operations
 ISO 2145
-ISO/IEC 8859-2
 Bluetooth
 ISO 2033
 110 film
-802.3y
-ISO/IEC 38500
 DNP3
-802.3cq
 ISO 14644
 ISO 10218
 ISO 21001
 ECMAScript for XML
-IEEE 802.11z
-802.3ck
 Concurrency (computer science)
 ISO 11783
 Cyberwarfare
-ISO/IEC 19770
 ISBN (identifier)
-Glossary of computer science
-802.3cm
-Functional specification
-ISO/IEC 11179
 Discrete mathematics
-IEEE 802.18
 ISO-8859-8-I
 Hardware security
-ISO/IEC 8859
-Distributed Interactive Simulation
-IEEE 802.10
-ISO 14000
-IEEE 802.11af
-IEEE 802.11ai
 Computer accessibility
 COLLADA
-ISO/IEC 15897
-802.3by
 ISO 19114
-ISO 12006
 ALGOL 60
-Data modeling
 ISO 13584
-802.3az
 Component-based software engineering
 Dynamic Adaptive Streaming over HTTP
-802.3ch
 ISO 2
-ISO/IEC 8859-3
-ISO/IEC 80000
-ISO/IEC 646
-IEEE 1849
-IEEE 802.9
-IEEE Standards Association
-Acceptance test–driven development
 Document management system
-802.3cd
-ISO/IEEE 11073
-802.3bu
-802.3cv
 Green computing
-IEEE 1541-2002
-Free and open source software
-Cleanroom software engineering
-IEEE 802.11be
-Feature-driven development
-802.3ce
-IEEE 802.1aq
-IEEE 802.1ag
 Computational biology
 Horsepower
 Digital marketing
-IEEE 802.15
-IEEE 802.15.4e
 Film speed
-IEEE 1547
-ISO/IEC 9995
-Deployment management
 ISO 2015
 Document Style Semantics and Specification Language
-802.3j
 Automata theory
-802.3ae
 ISO 10303-21
 Electronic publishing
 ISO 1
-Continuous delivery
 FTAM
 CHILL
 Business Process Model and Notation
-ISO/IEC 15288
 ISO 11170
 ISO 10303-28
-IEEE 802.15.4g
-Code review
-ISO/IEC 8859-8
-802.3z
-ISO/IEC 8859-9
-ISO/IEC 6523
-ISO/IEC 21827
 ISO-TimeML
 IEEE 802.11i-2004
 Backward compatibility
-ISO/IEC 17024
 ECMAScript
 Bibcode (identifier)
-IEEE 754-1985
 Geospatial metadata
 Hdl (identifier)
 Doi (identifier)
-Conditional loop
-Application-release automation
-Code documentation
 ISO 20121
-IEEE 802.11c
 Data mining
-Audio Video Bridging
 Computer network
-802.3e
-Data center bridging
 Common Logic
 Hardware acceleration
 Graph Query Language
 E-commerce
-Debugger
-10BASE5
 126 film
 Digital library
-IEEE 1613
 Digital object identifier
 IEEE 754
-ISO/TR 11941
 Control theory
-Experimental software engineering
 Hole punch
 IEEE 802.3
-ISO/IEC 8859-14
-Extreme programming
 Database
-802.3cu
 Computer programming
 Embedded system
 DICOM
-IEEE 802.15.4f
-ISO/IEC 8859-16
 ISO 1000
-802.3an
 FDI World Dental Federation notation
 ISO 15926 WIP
-802.3ac
-802.3cg
 Common Criteria
 ISO 15189
-Empirical software engineering
-ISO/IEC 8859-12
 Full BASIC
 IEEE 802.11k-2008
-ISO/IEC 10967
 Common Language Infrastructure
 Computational mathematics
 ASMO 449
-IEEE 1451
 IEEE 802.11b-1999
 Capability Maturity Model Integration
-ISO/IEC 27000-series
-Behavior-driven development
 Flowchart
-IEEE 802.11ah
-ISO/IEC 12207
 ISO 1629
 A440 (pitch standard)
-802.3i
-ISO/IEC 7810
-IEEE 802.11bb
 ISBN

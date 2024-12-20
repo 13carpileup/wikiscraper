@@ -8,9 +8,7 @@ Automatic parallelization
 Barrier (computer science)
 Beowulf cluster
 Bit-level parallelism
-Boost (C++ libraries)
 Bulldozer (microarchitecture)
-C++ AMP
 CUDA
 Cache-only memory architecture
 Cache coherence
@@ -28,7 +26,6 @@ Computer programming
 Concurrency (computer science)
 Cost efficiency
 Data parallelism
-Dataflow
 Dataflow architecture
 Dataflow programming
 Deadlock (computer science)
@@ -37,12 +34,10 @@ Distributed computing
 Distributed memory
 Distributed shared memory
 Dryad (programming)
-Eclipse IDE
 Embarrassingly parallel
 Explicit parallelism
 Fiber (computer science)
 Flynn's taxonomy
-GPU
 GPUOpen
 General-purpose computing on graphics processing units
 Global Arrays
@@ -64,7 +59,6 @@ Massively parallel
 Memory-level parallelism
 Memory coherence
 Message Passing Interface
-Multi-core processor
 Multiple instruction, multiple data
 Multiple instruction, single data
 Multiprocessing
@@ -79,12 +73,10 @@ OpenMP
 Parallel Extensions
 Parallel RAM
 Parallel Virtual Machine
-Parallel array
 Parallel computing
 Parallel external memory
 Parallel programming model
 Parallel slowdown
-Pi calculus
 Pipeline (computing)
 Preemption (computing)
 Process (computing)
@@ -107,9 +99,7 @@ Software lockout
 Speculative multithreading
 Speedup
 Starvation (computer science)
-Static typing
 Stream processing
-Strong typing
 Superscalar processor
 Symmetric multiprocessing
 Synchronization (computer science)
@@ -118,8 +108,6 @@ Task parallelism
 Temporal multithreading
 Thread (computing)
 Threading Building Blocks
-Type system
 Unified Parallel C
 Uniform memory access
 Vector processor
-ZPL (programming language)

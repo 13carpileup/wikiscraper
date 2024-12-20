@@ -1,274 +1,28 @@
 1080i
 1080p
-1440p
-2K resolution
 480i
-480p
-4K resolution
-576i
-576p
 720p
-842 (compression algorithm)
-8K resolution
-A-law algorithm
-AMOLED
-ATSC
-Adaptive Huffman coding
-Adaptive coding
-Adaptive differential pulse-code modulation
-Algebraic code-excited linear prediction
-Amiga
-Analog television
-Apple II Plus
-Arithmetic coding
 Aspect ratio
-Aspect ratio (image)
-Astigmatism (optical systems)
-Asymmetric numeral systems
 Atari 2600
-Audio codec
-Average bitrate
-Babylon 5
-Bandwidth (signal processing)
-Bit rate
-Blu-ray
-Brotli
-Burrows–Wheeler transform
-Byte pair encoding
-Bzip2
-Canonical Huffman code
 Cathode-ray tube
-Chain code
-Chroma subsampling
-Cinemascope
-Code-excited linear prediction
-Coding tree unit
-Color Graphics Adapter
-Color space
 Commodore 64
-Companding
-Compressed data structure
-Compressed suffix array
-Compression artifact
 Computer-aided design
-Computer display standard
-Computer monitor
-Constant bitrate
-Context mixing
-Context tree weighting
-Convolution
 DVD
-DV (video format)
 Data compression
-Data compression symmetry
-Daubechies wavelet
-Deblocking filter
-Deflate
-Delta encoding
-Delta modulation
-Dictionary coder
-Differential pulse-code modulation
-Digital Light Processing
-Digital Video Broadcasting
-Digital cinematography
-Digital intermediate
 Digital television
 Discrete cosine transform
-Discrete sine transform
-Discrete wavelet transform
-Display aspect ratio
 Display device
-Display resolution standards
-Display size
-Dither
-Dynamic Markov compression
-Dynamic range
-Elias gamma coding
-Embedded zerotrees of wavelet transforms
-Enhanced-definition television
-Enhanced Graphics Adapter
 Entropy (information theory)
-Entropy coding
 European Broadcasting Union
-Exponential-Golomb coding
-Extended Graphics Array
-Extended Video Graphics Array
-FM-index
-Fast Fourier transform
-Fibonacci coding
-Field (video)
-Film format
-Film frame
-Film stock
-Final Fantasy XII
-Flat-panel display
-Flicker (screen)
-Fourier transform
-Fractal compression
 Frame rate
-GEOS (8-bit operating system)
-Golomb coding
-Grammar-based code
-Graphics display resolution
-HDTV
-HDV
-HD DVD
-Hercules Graphics Card
-High-definition television
-High Efficiency Video Coding
 Huffman coding
-Hutter Prize
-IBM 8514
-IBM Monochrome Display Adapter
-IBM PS/2
 Image compression
-Image resolution
-Image scaling
-Incremental encoding
 Information theory
-Interlaced video
-Japanese Enhanced Graphics Adapter
-Karhunen–Loève theorem
 Kolmogorov complexity
-LHA (file format)
-LZ4 (compression algorithm)
-LZ77 and LZ78
-LZFSE
-LZJB
-LZRW
-LZWL
-LZX
-Lapped transform
-Latency (audio)
-Lempel–Ziv–Markov chain algorithm
-Lempel–Ziv–Oberhumer
-Lempel–Ziv–Stac
-Lempel–Ziv–Storer–Szymanski
-Lempel–Ziv–Welch
-Levenshtein coding
-Line spectral pairs
-Linear predictive coding
 Liquid-crystal display
-List of common computer display resolutions
-List of common display resolutions
-List of common resolutions
-List of computer display standards
-Log area ratio
-Lossless compression
-Lossy compression
-Low-definition television
 MPEG-2
-Macroblock
-Mark Adler
-Megapixels
-Mobile television
-Mode 13h
-Modified Huffman coding
-Modified discrete cosine transform
-Motion compensation
-Motion estimation
-Motion picture film scanner
-Motion vector
-Move-to-front transform
-Moving image
-Multi-Color Graphics Array
-N/A
-NTSC
-NTSC-HQ
-Native resolution
 Nintendo DS Lite
-Nyquist–Shannon sampling theorem
-Optical resolution
-Overscan
-PAL
-PAL-HQ
-PAQ
-Peak signal-to-noise ratio
-Phi phenomenon
 Pixel
-Pixel density
-Plantronics Colorplus
-Plasma display panel
-Prediction by partial matching
-Prefix code
-Professional Graphics Controller
-Progressive scan
-Progressive scanning
-Psychoacoustics
-Pyramid (image processing)
-QXGA
-Quadram Quadcolor
-Quantization (image processing)
-Quantization (signal processing)
-Range coding
-Rate–distortion theory
-Re-Pair
-Redundancy (information theory)
-Resolution independence
-Retina MacBook Pro
-Run-length encoding
-S-Video
-SECAM
-SXGA+
-Sampling (signal processing)
-SeaQuest DSV
-Sequitur algorithm
-Set partitioning in hierarchical trees
-Shadow mask
-Shannon coding
-Shannon–Fano coding
-Shannon–Fano–Elias coding
-Silence compression
-Sixteenth HD1080
-Smallest grammar problem
-Snappy (compression)
-Sound quality
-Source Input Format
-Speech coding
-Standard-definition television
-Standard test image
-StatCounter
 Steam (service)
-Sub-band coding
-Super VGA
-Super Video CD
-Tandy Graphics Adapter
-Texas Instruments Graphics Architecture
-Texture compression
-Timeline of information theory
-Transform coding
-Trinitron
-Tunstall coding
-UXGA
-Ultra-high-definition television
-Ultra HD Blu-ray
-Ultrawide formats
-Unary coding
-Universal code (data compression)
-Variable bitrate
 Video
-Video CD
-Video Graphics Array
-Video Toaster
-Video card
-Video codec
-Video compression picture types
-Video field
-Video processing
-Video quality
-Video scaler
-Virtual desktop
-WQXGA
-WSXGA+
-WUXGA
-WXGA+
-Warped linear predictive coding
-Wavelet transform
-Wide UXGA
-Wide XGA
 Widescreen
-Windows XP
-XGA
-XGA-2
-Zstd
-Μ-law algorithm

@@ -1,13 +1,6 @@
-AM 1040
-AM 1460
 AM broadcasting
-Adult album alternative
-Adult contemporary
-Adult hits
-Alleman, Iowa
 Ames, Iowa
 Beautiful music
-Big band
 Black Information Network
 Broadcast relay station
 Call sign
@@ -17,58 +10,35 @@ Classical music
 Clear Channel Outdoor
 Clear Channel UK
 Clear Channel memorandum
-Commercial radio
-Des Moines, Iowa
-Des Moines Register
-Des Moines metropolitan area
 Digital subchannel
 Disc jockey
 Easy listening
 Effective radiated power
 Evolution (radio network)
 FM broadcasting
-FM radio
 Facility ID
 Federal Communications Commission
 Flagship (broadcasting)
 Fox Sports Radio
 Frequency
-Game show
 Geographic coordinate system
-Golden Age of Radio
-Grandfather clause
 HD Radio
 Height above average terrain
 Hertz
-Hot AC
 HowStuffWorks
 IHeartMedia
 IHeartRadio
 Illinois
 Iowa
-Iowa State Cyclones
-Iowa State University
 Irving Azoff
 J. C. Watts
-Jacor
-K206BW
-K213DV
-K215FN
-K225BP
-K229CC
-K233BT
 K242CE
 K244FE
 K246CI
 K251AU
-K260AM
-K264CD
 K265CA
-K267CY
-K271CO
 K273BH
 K280DD
-K283CC
 K296GB
 KAAZ-FM
 KABQ-FM
@@ -83,14 +53,12 @@ KASH-FM
 KASI
 KATZ-FM
 KATZ (AM)
-KAZR
 KBCO
 KBEB
 KBFM
 KBFP-FM
 KBFP (AM)
 KBFX (FM)
-KBGG
 KBGO
 KBIG
 KBKS-FM
@@ -102,13 +70,10 @@ KBPL
 KBQI
 KBRQ
 KCAD
-KCBC-FM
 KCBL
 KCCY-FM
 KCDA
 KCJB
-KCOB-FM
-KCOB (AM)
 KCOL-FM
 KCOL (AM)
 KCQL
@@ -118,18 +83,12 @@ KCYZ
 KDAG
 KDFD
 KDFO
-KDFR
 KDGE
 KDHT (FM)
 KDJE
-KDLF
-KDLS-FM
-KDLS (AM)
 KDMX
 KDNN
 KDON-FM
-KDPS
-KDRA-LP
 KDWB-FM
 KEEY-FM
 KEGL
@@ -148,7 +107,6 @@ KFBX
 KFFF (FM)
 KFI
 KFIV
-KFMG-LP
 KFMQ
 KFOO-FM
 KFOO (AM)
@@ -162,7 +120,6 @@ KGB-FM
 KGBX-FM
 KGB (AM)
 KGGI
-KGGO
 KGHM (AM)
 KGLI
 KGLX
@@ -170,13 +127,11 @@ KGME
 KGMY
 KGOR
 KGOT
-KGVC-LP
 KHEY-FM
 KHEY (AM)
 KHFI-FM
 KHGE
 KHHO
-KHKI
 KHKN
 KHKS
 KHKZ
@@ -189,17 +144,11 @@ KHVN
 KHYL
 KIAK-FM
 KIBT
-KICG
-KICJ
-KICL
-KICP
 KIGL
-KIHS
 KIIS-FM
 KIIX (AM)
 KIIZ-FM
 KIKI (AM)
-KIOA
 KIOC
 KIOI
 KION (AM)
@@ -211,9 +160,7 @@ KIZS
 KIZZ
 KJAQ
 KJEB
-KJJY
 KJKJ
-KJMC
 KJMS
 KJMY
 KJR-FM
@@ -231,8 +178,6 @@ KKLI
 KKMY
 KKRQ
 KKRZ
-KKSF (AM)
-KKSO
 KKSY-FM
 KKTX (AM)
 KKXL-FM
@@ -269,15 +214,11 @@ KNFX-FM
 KNIX-FM
 KNRS-FM
 KNRS (AM)
-KNSL
 KNST
-KNWI
-KNWM
 KOA (AM)
 KOCN
 KODA
 KODJ
-KOEZ (FM)
 KOGA-FM
 KOGA (AM)
 KOGO (AM)
@@ -298,9 +239,7 @@ KPOJ
 KPRC-FM
 KPRC (AM)
 KPRR
-KPSZ
 KPTR (AM)
-KPUL
 KPWK (AM)
 KQBT
 KQDY
@@ -315,7 +254,6 @@ KRBB
 KRCH
 KRDU
 KRFX
-KRNT
 KRPT
 KRQQ
 KRRL
@@ -339,7 +277,6 @@ KSSN
 KSSS
 KSSX
 KSTE
-KSTZ
 KSWF
 KTBT
 KTBZ-FM
@@ -352,7 +289,6 @@ KTGX
 KTHR
 KTKR
 KTLK-FM
-KTLK (AM)
 KTMQ
 KTOK
 KTOM-FM
@@ -366,13 +302,9 @@ KTZN
 KTZR (AM)
 KUBE (AM)
 KUBT
-KUCB-FM (Iowa)
 KUCD
 KUNO (AM)
-KURE
 KUUL
-KVCI
-KVDI
 KVDU
 KVET-FM
 KVET (AM)
@@ -380,26 +312,19 @@ KVJM
 KVNS
 KVUU
 KVVS
-KWBG
 KWBL
-KWDM
 KWHN
-KWKY
-KWMT
 KWNR
 KWNW
-KWQW
 KWSL
 KWSX
 KWTX-FM
 KWTX (AM)
 KXBG
 KXEW
-KXIA
 KXIC
 KXJM
 KXKT
-KXLQ
 KXMR
 KXNO-FM
 KXNO (AM)
@@ -433,36 +358,27 @@ KZZP
 Kansas
 List of North American broadcast station classes
 List of programming syndicated by iHeartMedia
-List of radio stations in Iowa
 List of radio stations owned by iHeartMedia
-List of temporary broadcasting stations in the United States
 Low-power broadcasting
 Lowry Mays
 Mediabase
 Megahertz
-Mitchellville, Iowa
-NBC Red Network
 NOAA Weather Radio
 Nebraska
-News/Talk
 Nielsen Audio
 Premiere Networks
-Premium Choice
 Pride Radio
 Radio Computing Services
 Radio format
 Radio station
 Red McCombs
 Robert Pittman (media executive)
-Sign-on
 Simulcast
 Sister station
 Soap opera
 Stereophonic sound
-Total Traffic and Weather Network
 Transmitter
 Triton Digital
-University of Iowa
 W227BF
 W254AZ
 W283AN
@@ -480,21 +396,3 @@ WAKS-HD2
 WAKZ
 WAMX
 WAMZ
-WARF
-WASH-FM
-WATQ
-WAVW
-WAVZ
-WAXQ
-WAYV
-WAZR
-WBBD
-WBBG
-WBBI
-WBBQ-FM
-WBBS
-WBCG
-WBCT
-WBEX
-WBFX
-WBGA

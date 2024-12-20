@@ -1,138 +1,31 @@
-ALF (proof assistant)
-Abstract data type
-Algebraic data type
-Arbitrary-precision arithmetic
-Array data type
 Associative array
-Base type
-Bfloat16 floating-point format
-Bit
 Bit array
-Boolean data type
 Bottom type
-Boxing (computer science)
 Byte
-Calculus of Inductive Constructions
-Character (computing)
-Chiyan Chen
-CiteSeerX (identifier)
-Class (computer programming)
-Complex data type
-Composite data type
-Container (abstract data type)
-Coq (software)
-Darcs
 Data structure
 Data type
-Decimal data type
 Dependent type
-Dependently typed language
-Dimitrios Vytiniotis
 Doi (identifier)
-Double-precision floating-point format
-Embedded domain-specific language
-Emir Pasalic
-Empty type
-Enumerated type
 Exception handling
-Existential type
-Extended precision
-Fixed-point arithmetic
-Fixed point combinator
-Floating-point arithmetic
-Function type
-Functional programming
-Generic programming
-Geoffrey Washburn
-Glasgow Haskell Compiler
 Half-precision floating-point format
 Haskell
 Hdl (identifier)
-Higher-order abstract syntax
-Hongwei Xi
 ISBN (identifier)
-Inductive type
-Integer (computer science)
 Interface (object-oriented programming)
-Intersection type
-Interval arithmetic
 Intuitionistic type theory
-Invariant (computer science)
-James Cheney (computer scientist)
-Jeremy Wazny
-Kind (type theory)
-Lecture Notes in Computer Science
-Lennart Augustsson
-List (abstract data type)
-Long double
-ML (programming language)
-Martin Odersky
-Martin Sulzmann
-Memory address
 Metaclass
-Metaobject
-Minifloat
-Null-terminated string
-OCaml
-Object (computer science)
-Octuple-precision floating-point format
-Opaque data type
-Option type
-Parametric polymorphism
 Pattern matching
-Peter J. Stuckey
-Phil Wadler
-Physical address
-Plain text
-Pointer (computer programming)
-Positivity restriction
 Primitive data type
-Principal type
-Product type
 Programming language
-Pugs (compiler)
-Quadruple-precision floating-point format
-Ralf Hinze
 Rational data type
 Record (computer science)
-Recursive data type
 Reference (computer science)
-Refinement type
 S2CID (identifier)
-Scala (programming language)
 Semaphore (programming)
-Set (abstract data type)
-Signedness
-Simon Peyton Jones
-Simply typed lambda calculus
-Single-precision floating-point format
-Stephanie Weirich
-Stream (computing)
 String (computer science)
-Strongly typed identifier
-Subtyping
-Tagged union
-Ternary numeral system
-Tim Sheard
-Tom Schrijvers
-Top type
-Tuple
-Type annotation
-Type class
 Type constructor
-Type conversion
-Type inference
-Type reconstruction
-Type safe
-Type system
 Type theory
-Type variable
 Undecidable problem
-Union type
-Unit type
-Units of information
 Variable (computer science)
-Virtual address space
-Void type
 Wiki
 Word (computer architecture)

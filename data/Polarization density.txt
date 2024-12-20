@@ -7,33 +7,25 @@ Ampère's circuital law
 André-Marie Ampère
 Anisotropic
 ArXiv (identifier)
-Berry's phase
 Bibcode (identifier)
 Biot–Savart law
 Bremsstrahlung
 Capacitance
 Carl Friedrich Gauss
 Causality
-Centrosymmetric
 Charge density
 Charles-Augustin de Coulomb
 Charles Proteus Steinmetz
 Classical electromagnetism
 Classical electromagnetism and special relativity
-Clausius–Mossotti relation
 Computational electromagnetics
 Constitutive equation
-Continuous Fourier transform
-Convolution
 Coulomb
 Coulomb's law
 Covariant formulation of classical electromagnetism
-Crystal optics
-Crystal structure
 Current density
 Cyclotron radiation
 DC motor
-Density functional theory
 Dielectric
 Direct current
 Displacement current
@@ -41,7 +33,6 @@ Doi (identifier)
 Eddy current
 Electret
 Electric charge
-Electric constant
 Electric current
 Electric dipole moment
 Electric displacement field
@@ -49,11 +40,9 @@ Electric field
 Electric flux
 Electric machine
 Electric motor
-Electric permittivity
 Electric potential
 Electric potential energy
 Electric power
-Electric susceptibility
 Electrical conductor
 Electrical impedance
 Electrical network
@@ -75,10 +64,6 @@ Electrostatics
 Emil Lenz
 Emil Wiechert
 Faraday's law of induction
-Ferroelectric
-Ferroelectricity
-Ferromagnets
-Field line
 Four-current
 Franz Ernst Neumann
 Frequency
@@ -87,7 +72,6 @@ Gauss's law
 Gauss's law for magnetism
 Georg Ohm
 George Singer
-Green's Theorem
 Gustav Kirchhoff
 Gyrator–capacitor model
 Hans Christian Ørsted
@@ -96,11 +80,8 @@ Hendrik Lorentz
 Hermann von Helmholtz
 Hippolyte Fizeau
 History of electromagnetic theory
-Homogeneity (physics)
 Humphry Davy
-Hysteresis
 ISBN (identifier)
-Igor Irodov
 Inductance
 Induction motor
 Insulator (electricity)
@@ -116,9 +97,7 @@ John Wiley & Sons
 Joseph Henry
 Joseph Larmor
 Joule heating
-Kerr effect
 Kirchhoff's circuit laws
-Kramers–Kronig relation
 Larmor formula
 Lenz's law
 Linear motor
@@ -128,7 +107,6 @@ Liénard–Wiechert potential
 London equations
 Lord Kelvin
 Lorentz force
-Magnet
 Magnetic circuit
 Magnetic complex reluctance
 Magnetic field
@@ -147,37 +125,26 @@ Maxwell's equations in curved spacetime
 Maxwell stress tensor
 Michael Faraday
 Network analysis (electrical circuits)
-Nicola Spaldin
 Nikola Tesla
-Nonlinear optics
-Normal vector
 Ohm's law
 Oleg D. Jefimenko
 Oliver Heaviside
-Optical rectification
 Optics
 Permeability (electromagnetism)
 Permeance
 Permittivity
-Pockels effect
-Polarizability
 Polarization (waves)
 Poynting vector
-Proportionality (mathematics)
-Pyroelectricity
 Relativistic electromagnetism
 Resonator
 Right-hand rule
 Rotor (electric)
 S2CID (identifier)
-SI unit
-Second-harmonic generation
 Series and parallel circuits
 Siméon Denis Poisson
 Static electricity
 Stator
 Synchrotron radiation
-Taylor series
 Tensor
 Transformer
 Triboelectric effect

@@ -1,7 +1,4 @@
-16-bit computing
-4K Disk Monitor System
 ASCII
-ASCIIZ
 AdvFS
 Alpha 21064
 Alpha 21164
@@ -9,31 +6,24 @@ Alpha 21264
 Alpha 21364
 Alpha 21464
 AltaVista
-As (Unix)
 Assembly language
 BASIC-8
-Binary coded decimal
-Branch (computer science)
 Bus (computing)
 Byte
 COBOL
 CPU Wars
 CVAX
-Carry flag
 Central processing unit
 Character encoding
 Code page 1287
 Code page 1288
 Commercial Operating System
 Compaq
-Complex instruction set computer
 Computer architecture
 Computer hardware
 Computer terminal
-Coroutine
 DECUS
 DEC Alpha
-DEC BATCH-11/DOS-11
 DEC GT40
 DEC Hebrew
 DEC J-11
@@ -51,40 +41,31 @@ DECtape
 DECwriter
 DIBOL
 DIGITAL Command Language
-Daisy chain (electrical engineering)
 Digital Equipment Corporation
 Digital Federal Credit Union
 Digital Linear Tape
 Digital Storage Systems Interconnect
-Digital UNIX
 Dynamic debugging technique
 Dynamically Redefined Character Set
 EBCDIC
-Endianness
-Englewood Cliffs, New Jersey
 FOCAL (programming language)
 FX!32
 Firefly (cache coherence protocol)
 Flip-Chip module
-Floating point
-General-purpose register
 Gold key (DEC)
 Gordon Bell
 HP-Interex
 Harlan Anderson
 IEEE 754
 ISBN (identifier)
-Instruction set
 Instruction set architecture
 Intel
 Interactive Application System
-Interrupt priority level
 Ken Olsen
 Kilobyte
 LK201
 LK421
 Local Area Transport
-Logical address
 MACRO-10
 MACRO-11
 MUMPS
@@ -93,62 +74,39 @@ Mass Storage Control Protocol
 Massbus
 MicroVAX 78032
 Microprocessor
-Microsecond
-Modula-2
 Multinational Character Set
 NVAX
 National Replacement Character Set
-OS/8
-Octal
 On-line Debugging Tool
 OpenVMS
 Operating system
-Overflow flag
-Overlay (programming)
-PAL-11R
 PALcode
-PDP-11
 PDP-7
-Position-independent code
-Prentice-Hall
 Processor (computing)
-Processor register
-Program counter
 Programming language
-Punched tape
 Q-Bus
 RA90
 RK05
 RL02
-RSTS/E
 RSX-11
-RSX-15
 RT-11
 ReGIS
 Record Management Services
-Relocation (computer science)
 Rigel (microprocessor)
 Robert Palmer (computer businessman)
-Sign flag
 Sixel
 Standard Disk Interconnect
 Star coupler
-Status register
 StrongARM
 Synchronous Backplane Interconnect
 System Module
-System Reference Manual
-TD/SMP
 TOPS-10
 TOPS-20
-TSS/8
 TU81
 TURBOchannel
 The Ultimate Entrepreneur
-Trap flag
 Ultrix
 Unibus
-Unix
 VAX
 VAXBI bus
 VAXELN
@@ -156,29 +114,13 @@ VAX MACRO
 VT05
 VT100
 VT1000
-VT101
-VT102
-VT103
-VT105
-VT131
 VT180
 VT220
-VT240
-VT241
 VT320
-VT330
-VT340
 VT420
-VT510
 VT52
 VT520
-VT525
-VT55
-VT62
 VT640
-Virtual addressing
-WD16
 WPS-8
 Word (computer architecture)
-X86 architecture
 Zero flag

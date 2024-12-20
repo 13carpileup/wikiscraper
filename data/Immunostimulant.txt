@@ -1,4 +1,3 @@
-8-Hydroxyquinoline
 ACE inhibitor
 ATC code A
 ATC code B
@@ -9,7 +8,6 @@ ATC code G
 ATC code H
 ATC code J
 ATC code L
-ATC code L03
 ATC code M
 ATC code N
 ATC code P
@@ -17,17 +15,12 @@ ATC code R
 ATC code S
 ATC code V
 ATCvet code QI
-Acupuncture
 Addiction medicine
-Albinterferon
 Alkylating antineoplastic agent
-Alternative medicine
 Anabolic steroid
 Analgesic
 Anatomical Therapeutic Chemical Classification System
-Ancestim
 Anesthetic
-Angiotensin II receptor antagonist
 Anorectic
 Antacid
 Anthelmintic
@@ -35,20 +28,13 @@ Anti-inflammatory
 Anti-obesity medication
 Antianginal
 Antiarrhythmic agent
-Antibacterial
 Anticoagulant
 Anticonvulsant
-Antidementia drug
 Antidepressant
-Antidiarrhoeal
 Antidote
 Antiemetic
 Antifibrinolytic
-Antifungal drug
-Antigen
 Antihemorrhagic
-Antihyperkinetic
-Antihypertensive drug
 Antimetabolite
 Antimicrobial
 Antimigraine drug
@@ -57,17 +43,13 @@ Antineoplastic
 Antiparasitic
 Antiplatelet drug
 Antipropulsive
-Antiprotozoal agent
 Antipruritic
-Antipsoriatic
 Antipsychotic
 Antithrombotic
 Antithyroid agent
 Antiviral drug
 Anxiolytic
 Aphrodisiac
-Bacillus Calmette–Guérin
-Beta-glucan
 Beta blocker
 Bile acid sequestrant
 Bisphosphonate
@@ -77,24 +59,16 @@ Bronchodilator
 Calcium channel blocker
 Cardiac glycoside
 Cardiac stimulant
-Center for Inquiry
 Chemotherapy
 Chiropractic
-Cicatrizant
 Circulatory system
-Co-stimulation
 Coagulation
-Colony-stimulating factor
-Contrast medium
 Corticosteroid
-Cough medicine
 Cytokine
 Decongestant
 Deliriant
-Deoxycholic acid
 Depressant
 Diabetes medication
-Dietary mineral
 Disease-modifying antirheumatic drug
 Dissociative
 Diuretic
@@ -102,143 +76,31 @@ Doi (identifier)
 Dressing (medicine)
 Ectoparasiticide
 Efbemalenograstim alfa
-Eflapegrastim
-Emollient
 Endocrine system
-Entactogen
 Entheogen
 Euphoria
-Exacerbation
-Female sex hormones
-Female sex steroids
 Fertility medication
 Fibrate
 Filgrastim
 General anaesthetic
 Genitourinary system
-Glatiramer acetate
 Glucocorticoid
-Granulocyte colony-stimulating factor
-Granulocyte macrophage colony-stimulating factor
-Growth hormone
 H1 antagonist
-H2 antagonist
-Harriet Hall
-Heterocyclic compound
-Histamine dihydrochloride
-Homeopathy
 Hormonal contraception
 Human brain
-Human gastrointestinal tract
 Human skin
 Hypnotic
-Hypolipidemic agent
 Hypothalamic–pituitary hormone
 ISBN (identifier)
-Imiquimod
-Immune responses
 Immune system
-Immunocyanin
-Immunogenicity
-Immunologic adjuvant
-Immunomodulator
 Immunosuppressive drug
 Immunotherapy
 Infection
-Inosine pranobex
-Interferon
-Interferon alfa
-Interferon alfa 2a
-Interferon alfa 2b
-Interferon alfa n1
-Interferon alfacon-1
-Interferon alpha-n3
-Interferon beta
-Interferon beta 1a
-Interferon beta 1b
-Interferon gamma
-Interleukin
 Interleukin 2
-Intravenous immunoglobulin
 Joint
-Laxative
-Lenograstim
-Lentinan
-Lipegfilgrastim
-Local anesthetic
-Lupus erythematosus
-Macrophage
-Malignant
-Management of Parkinson's disease
 Medical Subject Headings
-Melanoma vaccine
 Metabolism
-Mifamurtide
-Mineralocorticoid
-Molgramostim
-Mood stabilizer
-Motivation-enhancing drug
-Muscle
-Muscle relaxant
 Nervous system
-Neuroprotective
-Neurotoxin
-Non-steroidal anti-inflammatory drug
-Nootropic
-Oligopeptide
-Ophthalmology
-Oprelvekin
-Orexigenic
-Otology
 PMC (identifier)
 PMID (identifier)
-Pegademase
-Pegfilgrastim
-Peginterferon alfa-2a
-Peginterferon alfa-2b
-Pidotimod
-Platelet
-Plerixafor
-Poly ICLC
-Polyribonucleotide
-Prolactin
-Proton-pump inhibitor
-Psychedelic drug
-Psychedelics, dissociatives and deliriants
-Puberty
-Radiopharmacology
-Recombinant feline interferon omega
-Renin inhibitor
-Renin–angiotensin system
-Resiquimod
-Respiratory system
-Ropeginterferon alfa-2b
-Roquinimex
 S2CID (identifier)
-Sargramostim
-Sedative
-Selective estrogen receptor modulator
-Senotherapeutics
-Sense
-Serenic
-Sex steroid
-Sipuleucel-T
-Skeptical Inquirer
-Spindle poison
-Statin
-Stem cell factor
-Stimulant
-Tasonermin
-Thiazolidine
-Thrombolytic drug
-Thymopentin
-Thymosin α1
-Thymulin
-Thyroid hormone
-Toll-like receptor 7
-Topoisomerase inhibitor
-Vaccine
-Vasodilation
-Vitamin
-Vitamin D
-Wakefulness-promoting agent

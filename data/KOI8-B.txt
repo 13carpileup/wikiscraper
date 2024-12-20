@@ -18,12 +18,8 @@ ASCII
 ASMO 449
 ATASCII
 A (Cyrillic)
-Academic version
-Alternative code page (Russian)
 Ampersand
-Amstrad CP/M Plus character set
 Amstrad CPC character set
-Angle bracket
 Apostrophe
 Apple II character set
 ArmSCII
@@ -38,7 +34,6 @@ Big5
 Binary Ordered Compression for Unicode
 Bitstream International Character Set
 BraSCII
-Braces (punctuation)
 Bracket
 Bulgarian language
 C
@@ -48,7 +43,6 @@ CDC display code
 CER-GS
 CESU-8
 CNS 11643
-CROSCII
 CSX+ Indic character set
 CSX Indic character set
 CS Indic character set
@@ -63,8 +57,6 @@ Chinese Character Code for Information Interchange
 Chinese telegraph code
 Circumflex
 Code page
-Code page 10007
-Code page 10017
 Code page 1006
 Code page 1008
 Code page 1009
@@ -80,17 +72,10 @@ Code page 1019
 Code page 1020
 Code page 1021
 Code page 1023
-Code page 1034
 Code page 1040
 Code page 1042
 Code page 1043
-Code page 1044
 Code page 1046
-Code page 1052
-Code page 1053
-Code page 1054
-Code page 1055
-Code page 1056
 Code page 1058
 Code page 1098
 Code page 1101
@@ -104,22 +89,12 @@ Code page 1115
 Code page 1116
 Code page 1117
 Code page 1118
-Code page 1119
 Code page 1124
-Code page 1125
 Code page 1127
-Code page 1131
 Code page 1133
-Code page 1167
-Code page 1168
 Code page 1169
-Code page 1251
-Code page 1283
 Code page 1287
 Code page 1288
-Code page 20866
-Code page 21866
-Code page 28595
 Code page 3846
 Code page 437
 Code page 668
@@ -127,16 +102,12 @@ Code page 708
 Code page 720
 Code page 737
 Code page 770
-Code page 771
-Code page 772
 Code page 773
 Code page 775
 Code page 776
 Code page 777
 Code page 778
 Code page 808
-Code page 848
-Code page 849
 Code page 850
 Code page 851
 Code page 852
@@ -144,7 +115,6 @@ Code page 853
 Code page 855
 Code page 856
 Code page 857
-Code page 858
 Code page 859
 Code page 860
 Code page 861
@@ -156,16 +126,12 @@ Code page 866
 Code page 867
 Code page 868
 Code page 869
-Code page 872
-Code page 878
-Code page 885
 Code page 895
 Code page 896
 Code page 897
 Code page 899
 Code page 900
 Code page 903
-Code page 904
 Code page 912
 Code page 915
 Code page 921
@@ -196,8 +162,6 @@ DG International
 DIN 66003
 DIN 91379
 DKOI
-DKOI K1
-DKOI K2
 De (Cyrillic)
 Digital Equipment Corporation
 Digital encoding of APL symbols
@@ -236,7 +200,6 @@ Grave accent
 H
 HP Roman
 HZ (character encoding)
-Ha (Cyrillic)
 Han unification
 Hard sign
 Hardware code page
@@ -244,7 +207,6 @@ Hong Kong Supplementary Character Set
 I
 IBM AIX
 IBM PC compatible
-IEC-P27-1
 INIS-8
 INIS character set
 ISO-IR-111
@@ -254,27 +216,6 @@ ISO-IR-182
 ISO-IR-197
 ISO-IR-200
 ISO-IR-68
-ISO/IEC 10367
-ISO/IEC 10646
-ISO/IEC 2022
-ISO/IEC 646
-ISO/IEC 8859
-ISO/IEC 8859-1
-ISO/IEC 8859-10
-ISO/IEC 8859-11
-ISO/IEC 8859-12
-ISO/IEC 8859-13
-ISO/IEC 8859-14
-ISO/IEC 8859-15
-ISO/IEC 8859-16
-ISO/IEC 8859-2
-ISO/IEC 8859-3
-ISO/IEC 8859-4
-ISO/IEC 8859-5
-ISO/IEC 8859-6
-ISO/IEC 8859-7
-ISO/IEC 8859-8
-ISO/IEC 8859-9
 ISO 2033
 ISO 5426
 ISO 5427
@@ -284,7 +225,6 @@ ISO 6862
 ITU T.61
 I (Cyrillic)
 Indian Script Code for Information Interchange
-Intecolor/Compucolor 8001 character set
 Iran System encoding
 J
 JIS X 0201
@@ -296,14 +236,8 @@ JIS encoding
 Japanese language in EBCDIC
 K
 KOI-7
-KOI-7 N0
-KOI-7 N1
-KOI-7 N2
 KOI-8
-KOI8-C
-KOI8-E
 KOI8-F
-KOI8-K1
 KOI8-O
 KOI8-R
 KOI8-RU
@@ -322,7 +256,6 @@ LY1 encoding
 Lotus International Character Set
 Lotus Multi-Byte Character Set
 M
-MAKSCII
 MARC-8
 MIK (character set)
 MSX character set
@@ -344,7 +277,6 @@ Mac OS Hebrew
 Mac OS Icelandic encoding
 Mac OS Inuit
 Mac OS Keyboard encoding
-Mac OS Maltese/Esperanto encoding
 Mac OS Ogham
 Mac OS Roman
 Mac OS Romanian encoding
@@ -352,10 +284,8 @@ Mac OS Sámi
 Mac OS Turkic Cyrillic
 Mac OS Turkish encoding
 Mac OS Ukrainian encoding
-Macintosh Cyrillic encoding
 Macintosh Font X encoding
 Macintosh Latin encoding
-Macintosh Ukrainian encoding
 Magnetic ink character recognition
 Main code page (Russian)
 Mazovia encoding
@@ -392,11 +322,8 @@ RPL character set
 Russian Morse code
 Russian language
 S
-SAM Coupé character set
 SI 960
-SLOSCII
 SQUOZE
-SRPSCII
 Sega SC-3000 character set
 Semicolon
 Sha (Cyrillic)
@@ -404,18 +331,14 @@ Sharp MZ character set
 Sharp pocket computer character sets
 Shcha
 Shift JIS
-Short I
 Sinclair QL character set
 Slash (punctuation)
 Soft sign
 Space character
-Square brackets
 Standard Compression Scheme for Unicode
-Stanford/ITS character set
 Stanford Extended ASCII
 Symbol (typeface)
 T
-T.51/ISO/IEC 6937
 TI calculator character sets
 TRON (encoding)
 TRS-80 character set
@@ -433,7 +356,6 @@ Tilde
 Transcode (character encoding)
 Tse (Cyrillic)
 U
-U-Code
 UTF-1
 UTF-16
 UTF-32
@@ -471,19 +393,14 @@ Windows-1256
 Windows-1257
 Windows-1258
 Windows-1270
-Windows Cyrillic + Finnish
-Windows Cyrillic + French
-Windows Cyrillic + German
 Windows Polytonic Greek
 Windows code page
 World System Teletext
 X
-Xenix
 Xerox Character Code Standard
 Y
 YUSCII
 Ya (Cyrillic)
-Ya (letter)
 Ye (Cyrillic)
 Yery
 Yu (Cyrillic)
@@ -493,4 +410,3 @@ ZX81 character set
 ZX Spectrum character set
 Ze (Cyrillic)
 Zhe (Cyrillic)
-Ё

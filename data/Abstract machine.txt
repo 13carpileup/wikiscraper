@@ -1,101 +1,43 @@
-ALGOL
-Abstract interpretation
 Abstraction (computer science)
-Address (programming language)
 Algorithm
 Arithmetic
-Arithmetic logic unit
-Association for Computing Machinery
 Bibcode (identifier)
-Bulk synchronous parallel
-Business Process Execution Language
 Central processing unit
-Code
 Communication protocol
 Compiler
-Computability
 Computational complexity theory
 Computer hardware
 Computer program
 Computer science
-Conditional (computer programming)
-Conway's Game of Life
 Data communication
 Data structure
 Deterministic algorithm
-Discrete time
 Doi (identifier)
 E-commerce
-Electronic circuit
-Evaluation strategy
-Execution (computing)
 Finite-state machine
-Firmware
 First-order logic
 Flynn's taxonomy
-Forth (programming language)
 Function (mathematics)
-Functional programming
 Garbage collection (computer science)
-General-purpose macro processor
 HTML
-Hardware description language
-High-level programming language
-Hypervisor
 ISBN (identifier)
 ISSN (identifier)
 Interpreter (computing)
-Jan van Leeuwen
 Java (programming language)
-Java virtual machine
-Krivine machine
-Lazy evaluation
 Logic gate
-Logic programming
-Low-level programming language
-ML/I
 Machine
-Machine code
-Mealy machine
-Memory cell (computing)
-Memory management
-Method (computer programming)
-Microcode
 Model of computation
-Nondeterministic Turing machine
-Nondeterministic algorithm
-OSTI (identifier)
 Object-oriented programming
-Object (computer science)
 Operating system
-Parallel random-access machine
 Primitive data type
 Processor (computing)
-Program counter
 Programming language
 Programming tool
 Prolog
-Pushdown automaton
 S2CID (identifier)
-SECD machine
-SNOBOL
 Scripting language
-Self (programming language)
-Shell (computing)
-Smalltalk
 Software
-Stack-based memory allocation
-Stack (abstract data type)
-State (computer science)
-State space
-Stored-program computer
 String (computer science)
-Syntax (programming languages)
 Theory of computation
-Thought experiments
 Turing machine
-UCSD Pascal
-UNCOL
 Virtual machine
-Warren Abstract Machine
-Web service

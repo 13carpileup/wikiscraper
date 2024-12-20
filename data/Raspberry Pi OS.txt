@@ -1,12 +1,6 @@
-/e/ (operating system)
-32-bit computing
 4MLinux
 64-bit computing
 ALT Linux
-APT (software)
-ARM64
-ARM architecture
-Advanced Packaging Tool
 AlmaLinux
 Alpine Linux
 Android-x86
@@ -42,7 +36,6 @@ Chakra (operating system)
 Chimera Linux
 ChromeOS
 ChromiumOS
-Chromium (web browser)
 ClearOS
 Clear Linux OS
 ColorOS
@@ -57,20 +50,11 @@ CyanogenMod
 Damn Small Linux
 Damn Vulnerable Linux
 Debian
-Debian 10
-Debian 11
-Debian 12
-Debian 7
-Debian 8
-Debian 9
 Deepin
 DemoLinux
-Desktop computer
 Devuan
-DistroWatch
 DivestOS
 DoudouLinux
-Dpkg
 Dreamlinux
 EMUI
 Edubuntu
@@ -85,23 +69,19 @@ Familiar Linux
 Feather Linux
 Fedora Linux
 Fire OS
-Firefox
 Firefox OS
 Floppyfw
 Foresight Linux
 FreeBSD
-Free and open-source software
 FreedomBox
 Freespire
 Frugalware Linux
-GNOME Web
 GNU Compiler Collection
 GNU Core Utilities
 GNU General Public License
 GNU Guix System
 GNewSense
 GOS (operating system)
-GPG encryption
 Garuda Linux
 GeckoLinux
 Gentoo Linux
@@ -109,10 +89,7 @@ GoboLinux
 Gobuntu
 GrapheneOS
 Graphical user interface
-Greenfoot
 HandyLinux
-Hyperbola GNU/Linux-libre
-IMG (file format)
 Immunix
 IodéOS
 Jurix
@@ -123,18 +100,14 @@ Kaisen Linux
 Kali Linux
 Kanotix
 KateOS
-Ken Thompson
 Kernel (operating system)
 Knoppix
-Kodi (software)
 Kongoni (operating system)
 Korora (operating system)
 Kubuntu
 Kwort Linux
-LXDE
 LXLE Linux
 Libranet
-LibreOffice
 LinHES
 LineageOS
 Linpus Linux
@@ -158,17 +131,12 @@ Mandrake Linux
 Mandriva Linux
 Manjaro
 MeeGo
-Menu bar
 Mer (software distribution)
-MicroSD card
 Microsoft
 Microsoft Windows
-Microsoft and open source
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Mu(editor)
-Musix GNU+Linux
 Natural language
 Network Security Toolkit
 NimbleX
@@ -183,13 +151,10 @@ OpenELEC
 OpenMandriva Lx
 OpenSUSE
 Open Enterprise Server
-Openbox
 Operating system
 Oracle Linux
 PCLinuxOS
-PCMan File Manager
 Package manager
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
@@ -207,7 +172,6 @@ Q4OS
 Qubes OS
 ROSA Linux
 Raspberry Pi
-Raspberry Pi Foundation
 Red Hat Enterprise Linux
 Red Hat Linux
 Red Star OS
@@ -224,8 +188,6 @@ Sabily
 Sailfish OS
 Salix OS
 Scientific Linux
-Scratch (programming language)
-Single-board computers
 Slackware
 Slax
 Softlanding Linux System
@@ -233,7 +195,6 @@ Software license
 Software release life cycle
 Solus (operating system)
 SolydXK
-Source-code editor
 Source Mage
 SparkyLinux
 Splashtop OS
@@ -242,19 +203,14 @@ Sunwah Linux
 SystemRescue
 T2 SDE
 Tails (operating system)
-Telemetry
 Terminal emulator
 Think Blue Linux
-Thonny
 Tiny Core Linux
 Tizen
-Tom's Hardware
 TopologiLinux
 Trisquel
 Turbolinux
 Turkix
-UBlock Origin
-UNIX
 Ubuntu
 Ubuntu Budgie
 Ubuntu Cinnamon
@@ -266,18 +222,12 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 User interface
 User space and kernel space
-Userland (computing)
-VLC media player
 VectorLinux
 Vine Linux
-Visual Studio Code
 Void Linux
 Whonix
-Wolfram Mathematica
 Wubuntu
 XB Machine
 Xubuntu

@@ -3,3 +3,4 @@
 .clang-tidy
 .editorconfig
 node_modules
+dataCopy

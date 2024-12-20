@@ -1,63 +1,46 @@
 ASCII
-Alt.* hierarchy
 Alternative media
 Anonymous blog
 Art blog
 Astroturfing
-Asynchronous communication
 Atom (Web standard)
 Atom (web standard)
 BitTorrent
 Blawg
-Blockquote element
 Blog
 Blog carnival
 Blog fiction
 Blogosphere
 Broadcatching
-Bump (Internet)
 Citizen journalism
 Classical music blog
 Columnist
 Communication
-Comp.* hierarchy
 Comparison of feed aggregators
 Corporate blog
-Cursor (computers)
 Customer service
 Data feed
 Database journalism
-Diple (textual symbol)
 Dream diary
-E-mail
 Edublog
 Electronic journal
-Electronic mailing list
 Enhanced podcast
 Escribitionist
-Extensible Messaging and Presence Protocol
 Fashion blog
 FeedSync
 Feed URI scheme
-Fidonet
 Food blogging
 FreeBSD
 GeoRSS
 Geotagging
 Glossary of blogging
-Gmail
-Google Groups
 Greater-than sign
-HTML element
-HTML email
-Handheld device
 Hashtag
 Health blog
 History of blogging
 History of podcasting
 History of web syndication technology
 ISBN (identifier)
-Indentation (typesetting)
 Instant messaging
 Inter-process communication
 Internet
@@ -70,31 +53,23 @@ Linkback
 List of family-and-homemaking blogs
 List of search engines
 Liveblogging
-MIME
 MP3 blog
-Mail user agent
 Mashup (web application hybrid)
 Media RSS
 Memetics
 Microblogging
-Microsoft Outlook
 Mobile blogging
 Mobilecast
 Mormon blogosphere
 Motovlog
 Narrowcasting
-Nested quote
-Netiquette
-Network Working Group
 NewsML
 NewsML-G2
 NewsML 1
 News aggregator
-Newsgroup
 Niche blogging
 OPML
 Online diary
-Online forum
 Pay-per-click
 Peercasting
 Permalink
@@ -104,7 +79,6 @@ Ping (blogging)
 Pingback
 Police blog
 Poll aggregator
-Postmaster (computing)
 Product feed
 Project diary
 RSS
@@ -116,7 +90,6 @@ RSS tracking
 Reblogging
 Refback
 Reference (computer science)
-Request for Comments
 Resource Description Framework
 Reverse blog
 Review aggregator
@@ -124,13 +97,10 @@ Rollback (data management)
 Screencast
 Search aggregator
 Sideblog
-Signature block
-Slashdot
 Slashdot effect
 Slidecasting
 Smartphone
 Social software
-SpamCop
 Spam blog
 Spam in blogs
 Streaming media
@@ -138,15 +108,12 @@ Thread (Internet)
 Trackback
 Travel blog
 Usenet
-User agent
 Uses of podcasting
 Vertical bar
 Video aggregator
 Video blog
 Videocast
-Virtual community
 Vlog
-WWW
 Warblog
 Wayback Machine
 Web Slice
@@ -155,7 +122,6 @@ Web feed
 Web series
 Web syndication
 Webcomic
-Webmail
 Webtoon
 World Wide Web
 XBEL

@@ -1,5 +1,3 @@
-4K Disk Monitor System
-ANSI
 AdvFS
 Alpha 21064
 Alpha 21164
@@ -10,10 +8,7 @@ AltaVista
 American National Standards Institute
 BASIC
 BASIC-8
-BASIC programming language
-Binary-coded decimal
 Bus (computing)
-CBEMA
 COBOL
 CPU Wars
 CVAX
@@ -21,14 +16,11 @@ Character encoding
 Code page 1287
 Code page 1288
 Commercial Operating System
-Commercial Operating System (COS)
 Compaq
-Computer and Business Equipment Manufacturers Association
 Computer hardware
 Computer terminal
 DECUS
 DEC Alpha
-DEC BATCH-11/DOS-11
 DEC GT40
 DEC Hebrew
 DEC J-11
@@ -40,7 +32,6 @@ DEC Systems Research Center
 DEC T-11
 DEC Technical Character Set
 DEC V-11
-DECmate II
 DECnet
 DECtalk
 DECtape
@@ -50,22 +41,16 @@ Digital Equipment Corporation
 Digital Federal Credit Union
 Digital Linear Tape
 Digital Storage Systems Interconnect
-Digital UNIX
 Dynamic debugging technique
 Dynamically Redefined Character Set
-Emulator
 FOCAL (programming language)
-FORTRAN
 FX!32
 Firefly (cache coherence protocol)
 Flip-Chip module
-Fortran
-General-purpose programming language
 Gold key (DEC)
 Gordon Bell
 HP-Interex
 Harlan Anderson
-Imperative programming language
 Instruction set architecture
 Interactive Application System
 Ken Olsen
@@ -76,7 +61,6 @@ MACRO-10
 MACRO-11
 MUMPS
 Maintenance Operations Protocol
-Management Information Systems
 Mass Storage Control Protocol
 Massbus
 MicroVAX 78032
@@ -84,54 +68,39 @@ Multinational Character Set
 NVAX
 National Replacement Character Set
 OCLC (identifier)
-OS/8
 On-line Debugging Tool
 OpenVMS
 Operating system
 PALcode
-PDP-11
 PDP-11 architecture
 PDP-7
-PDP-8
 Procedural programming
-Procedural programming languages
 Processor (computing)
 Programming language
-Programming language implementation
 Programming paradigm
 Q-Bus
 RA90
 RK05
 RL02
-RSTS/E
 RSX-11
-RSX-15
 RT-11
 ReGIS
 Record Management Services
 Rigel (microprocessor)
 Robert Palmer (computer businessman)
-SCO Unix
 Sixel
 Software developer
 Software release life cycle
 Standard Disk Interconnect
 Star coupler
 StrongARM
-Structured programming
 Synchronous Backplane Interconnect
-Synergy DBL
 System Module
-System Reference Manual
-TD/SMP
 TOPS-10
 TOPS-20
-TSS/8
 TU81
 TURBOchannel
 The Ultimate Entrepreneur
-Timeline of programming languages
-Type system
 Ultrix
 Unibus
 VAX
@@ -141,24 +110,11 @@ VAX MACRO
 VT05
 VT100
 VT1000
-VT101
-VT102
-VT103
-VT105
-VT131
 VT180
 VT220
-VT240
-VT241
 VT320
-VT330
-VT340
 VT420
-VT510
 VT52
 VT520
-VT525
-VT55
-VT62
 VT640
 WPS-8

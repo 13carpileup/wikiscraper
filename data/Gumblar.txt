@@ -1,6 +1,4 @@
-.htaccess
 3ve
-Acrobat Reader
 Akbot
 Asprox botnet
 BASHLITE
@@ -13,15 +11,9 @@ Computer worm
 Conficker
 Cutwail botnet
 Donbot botnet
-Dreamweaver
-E-mail spam
-FTP
 Festi botnet
-FileZilla
-Google Search
 Grum botnet
 HTML
-HTML element
 Internet bot
 Internet security
 JavaScript
@@ -39,8 +31,6 @@ Network security
 Nitol botnet
 PDF
 PHP
-Packet analyzer
-Rogue security software
 Rustock botnet
 Sality
 Slenfbot

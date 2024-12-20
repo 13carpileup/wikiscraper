@@ -2,16 +2,6 @@ ATC code A
 ATC code B
 ATC code C
 ATC code D
-ATC code D01
-ATC code D02
-ATC code D03
-ATC code D04
-ATC code D05
-ATC code D06
-ATC code D07
-ATC code D08
-ATC code D10
-ATC code D11
 ATC code G
 ATC code H
 ATC code J
@@ -22,50 +12,6 @@ ATC code P
 ATC code R
 ATC code S
 ATC code V
-ATCvet
-ATCvet code
-ATCvet code QD51
 ATCvet code QI
-Acne vulgaris
-Aluminium chlorohydrate
 Anatomical Therapeutic Chemical Classification System
-Anesthetics
-Anti-infective
-Antibiotics
-Antifungals
-Antihistamines
-Antipruritics
-Antipsoriatics
-Antiseptics
-Benzalkonium
-Benzododecinium bromide
-Cetylpyridinium
-Cetylpyridinium chloride
-Chemotherapeutics
-Chlorhexidine
-Chlorhexidine gluconate
-Claw
-Clioquinol
-Corticosteroids
-Dermatological
-Disinfectants
-Emollients
-Framycetin
-Fusidic acid
-Hoof
-Iodoform
-Medicated dressings
-National Institutes of Health
-Nitrofural
-Ointment
 Paraffin wax
-Pharmaceutical drug
-Phenylmercuric nitrate
-Povidone-iodine
-Triclosan
-Ulcer (dermatology)
-Veterinary
-World Health Organization
-Wounds
-Zinc
-Zinc bandage

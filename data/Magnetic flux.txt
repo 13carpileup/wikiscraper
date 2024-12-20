@@ -3,35 +3,28 @@ Albert Einstein
 Alessandro Volta
 Alfred-Marie Liénard
 Alternating current
-Ampere
 Ampère's circuital law
 André-Marie Ampère
 Biot–Savart law
 Bremsstrahlung
 Capacitance
 Carl Friedrich Gauss
-Centimetre gram second system of units
 Charge density
 Charles-Augustin de Coulomb
 Charles Proteus Steinmetz
 Classical electromagnetism
 Classical electromagnetism and special relativity
-Closed surface
 Computational electromagnetics
 Coulomb's law
 Covariant formulation of classical electromagnetism
 Current density
 Cyclotron radiation
 DC motor
-Dannatt plates
-Dimensional analysis
 Direct current
-Disk (mathematics)
 Displacement current
 Eddy current
 Electret
 Electric charge
-Electric constant
 Electric current
 Electric dipole moment
 Electric field
@@ -42,7 +35,6 @@ Electric potential
 Electric potential energy
 Electric power
 Electrical conductor
-Electrical generator
 Electrical impedance
 Electrical network
 Electrical resistance and conductance
@@ -63,9 +55,6 @@ Electrostatics
 Emil Lenz
 Emil Wiechert
 Faraday's law of induction
-Field line
-Flux linkage
-Fluxmeter
 Four-current
 Franz Ernst Neumann
 Félix Savart
@@ -86,7 +75,6 @@ ISBN (identifier)
 Inductance
 Induction motor
 Inductor
-Infinitesimal
 Insulator (electricity)
 J. J. Thomson
 James Clerk Maxwell
@@ -98,12 +86,10 @@ John Hopkinson
 Joseph Henry
 Joseph Larmor
 Joule heating
-Kelvin-Stokes theorem
 Kilogram
 Kirchhoff's circuit laws
 Larmor formula
 Lenz's law
-Line integral
 Linear motor
 List of electrical phenomena
 List of textbooks in electromagnetism
@@ -114,11 +100,7 @@ Lorentz force
 Magnetic circuit
 Magnetic complex reluctance
 Magnetic field
-Magnetic flux quantum
-Magnetic impedance
-Magnetic inductance
 Magnetic moment
-Magnetic monopole
 Magnetic reluctance
 Magnetic scalar potential
 Magnetic vector potential
@@ -129,17 +111,14 @@ Magnetostatics
 Mathematical descriptions of the electromagnetic field
 Maxwell's equations
 Maxwell's equations in curved spacetime
-Maxwell (unit)
 Maxwell stress tensor
 Metre
 Michael Faraday
 Network analysis (electrical circuits)
 Nikola Tesla
-Normal component
 Ohm's law
 Oleg D. Jefimenko
 Oliver Heaviside
-Open surface
 Optics
 Permeability (electromagnetism)
 Permeance
@@ -148,33 +127,21 @@ Physics
 Polarization density
 Poynting vector
 Relativistic electromagnetism
-Resistance–reluctance model
 Resonator
 Right-hand rule
 Rotor (electric)
-SI
-SI base unit
-SI unit
 Second
 Series and parallel circuits
 Siméon Denis Poisson
 Static electricity
 Stator
-Surface integral
-Surface normal
 Synchrotron radiation
-Tesla (unit)
-Torus
 Transformer
 Triboelectric effect
-Unit of measurement
-Vector area
 Vector field
 Voltage
 Watt
 Waveguide (electromagnetism)
 Waveguide (radio frequency)
-Weber (unit)
 Wilhelm Eduard Weber
 William Ritchie (physicist)
-Wolfram Demonstrations Project

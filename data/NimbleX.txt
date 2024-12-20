@@ -1,4 +1,3 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
 AlmaLinux
@@ -37,14 +36,11 @@ Chakra (operating system)
 Chimera Linux
 ChromeOS
 ChromiumOS
-ClamAV
 ClearOS
 Clear Linux OS
-Codec
 ColorOS
 Commodore OS
 Comparison of Linux distributions
-Compiz fusion
 Container Linux
 Corel Linux
 CrDroid
@@ -56,9 +52,7 @@ Damn Vulnerable Linux
 Debian
 Deepin
 DemoLinux
-Desktop environment
 Devuan
-DistroWatch
 DivestOS
 DoudouLinux
 Dreamlinux
@@ -69,49 +63,33 @@ Elive
 Emmabuntüs
 EndeavourOS
 Endless OS
-Enlightenment (window manager)
-Equinox Desktop Environment
 EulerOS
 Familiar Linux
 Feather Linux
 Fedora Linux
 Fire OS
-Firefox
 Firefox OS
 Floppyfw
-Fluxbox
 Foresight Linux
-FreeWRT
 FreedomBox
 Freespire
 Frugalware Linux
-GFDL
-GIMP
 GNU Guix System
 GNewSense
 GOS (operating system)
 GPL
-GUI
 Garuda Linux
 GeckoLinux
 Gentoo Linux
 GoboLinux
 Gobuntu
 GrapheneOS
-Gslapt
-Guarddog
 HandyLinux
-Hyperbola GNU/Linux-libre
-IA-32
-IceWM
 Immunix
-InformationWeek
 IodéOS
 Java (programming language)
 Jurix
-KDE
 KDE neon
-KOffice
 KaOS
 KaiOS
 Kaisen Linux
@@ -119,25 +97,20 @@ Kali Linux
 Kanotix
 KateOS
 Kernel (operating system)
-KlamAV
 Knoppix
 Kongoni (operating system)
-Kopete
 Korora (operating system)
 Kubuntu
 Kwort Linux
 LXLE Linux
-LZMA
 Libranet
 LinHES
 LineageOS
 Linpus Linux
 Linux
-Linux.com
 LinuxTLE
 Linux Caixa Mágica
 Linux Lite
-Linux Magazine
 Linux Mint
 Linux Router Project
 Linux distribution
@@ -157,7 +130,6 @@ Mer (software distribution)
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Musix GNU+Linux
 Natural language
 Network Security Toolkit
 Nitix
@@ -174,7 +146,6 @@ OpenSUSE
 Open Enterprise Server
 Oracle Linux
 PCLinuxOS
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
@@ -185,7 +156,6 @@ PixelExperience
 Platypux
 Pop! OS
 Porteus (operating system)
-Preboot Execution Environment
 Programmer
 Puppy Linux
 PureOS
@@ -202,7 +172,6 @@ Replicant (operating system)
 Resurrection Remix OS
 Rocks Cluster Distribution
 Rocky Linux
-Romanian newspapers
 SUSE Linux
 SUSE Linux Enterprise
 SUSE Studio
@@ -210,7 +179,6 @@ Sabayon Linux
 Sabily
 Sailfish OS
 Salix OS
-Samba (software)
 Scientific Linux
 Slackware
 Slax
@@ -247,8 +215,6 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 User interface
 VectorLinux
 Vine Linux
@@ -258,7 +224,6 @@ Whonix
 Wine (software)
 Wubuntu
 XB Machine
-Xfce
 Xubuntu
 Yellow Dog Linux
 Zenwalk

@@ -1,86 +1,44 @@
-1-Wire
 19-inch rack
 AES3
 AES47
 ANSI C
 ANSI escape code
 ARINC 429
-ARINC 825
-AS-Interface
-ASDU
 Ada Semantic Interface Specification
-Asynchronous serial communication
-Automatic meter reading
-Avionics Full-Duplex Switched Ethernet
-BACnet
-BatiBUS
 Battery nomenclature
-Bristol Standard Asynchronous Protocol
-Building automation
 C++
-C-Bus (protocol)
-CAN bus
-CANopen
-CC-Link Industrial Networks
-CEBus
 CHILL
 COBOL
 C Sharp (programming language)
 Common Criteria
-Common Industrial Protocol
 Common Logic
 Communication
 Communications protocol
 Compact Disc Digital Audio
 Comparative Tracking Index
 Computer Graphics Metafile
-ControlNet
-Cyphal
-DF-1 Protocol
 DNP3
-Data circuit-terminating equipment
-Data terminal equipment
-Data transfer
 DeviceNet
 Digital Addressable Lighting Interface
-Digital Serial Interface
-DirectNET Protocol
 Document Style Semantics and Specification Language
 Doi (identifier)
-DyNet
 ECMAScript
 ECMAScript for XML
 EN 62262
 E series of preferred numbers
-Eclipse Public License
 Electric power
 Electrical engineering
-EnOcean
-End station
-EtherCAT
-EtherNet/IP
-Ethernet Global Data Protocol
 Ethernet Powerlink
-European Home Systems Protocol
-European Installation Bus
-FOUNDATION fieldbus
-Factory Instrumentation Protocol
 Factory Interface Network Service
 Fieldbus
 File Allocation Table
-Fleet Management System
 FlexRay
-Foundation Fieldbus H1
-Frame Relay
 Full BASIC
 Graph Query Language
 Graphical Kernel System
 Guidelines for the Definition of Managed Objects
 HTML
-Hamming distance
-Higher Speed Ethernet
 Highway Addressable Remote Transducer Protocol
-HostLink Protocol
 IEBus
 IEC 60027
 IEC 60034
@@ -97,7 +55,6 @@ IEC 60870
 IEC 60870-6
 IEC 60906-1
 IEC 60929
-IEC 60980-344
 IEC 61030
 IEC 61131
 IEC 61131-3
@@ -120,7 +77,6 @@ IEC 62196
 IEC 62264
 IEC 62304
 IEC 62325
-IEC 62351
 IEC 62366
 IEC 62379
 IEC 62455
@@ -132,76 +88,21 @@ IEC 63382
 IEC 81346
 IEC TC 57
 IEEE 754
-INTERBUS
 IO-Link
 IP-XACT
 ISBN (identifier)
-ISDN
 ISLISP
-ISO/IEC 10021
-ISO/IEC 10116
-ISO/IEC 10967
-ISO/IEC 11179
-ISO/IEC 11404
-ISO/IEC 11801
-ISO/IEC 12207
-ISO/IEC 14443
-ISO/IEC 14651
-ISO/IEC 15288
-ISO/IEC 15504
-ISO/IEC 15693
-ISO/IEC 15897
-ISO/IEC 17024
-ISO/IEC 17025
-ISO/IEC 18014
-ISO/IEC 19752
-ISO/IEC 19770
-ISO/IEC 19788
-ISO/IEC 20000
-ISO/IEC 2022
-ISO/IEC 21827
-ISO/IEC 24727
-ISO/IEC 24744
-ISO/IEC 27000
-ISO/IEC 27000-series
-ISO/IEC 27002
-ISO/IEC 27040
-ISO/IEC 29119
-ISO/IEC 33001
-ISO/IEC 38500
-ISO/IEC 42010
-ISO/IEC 4909
-ISO/IEC 5218
-ISO/IEC 646
-ISO/IEC 6523
-ISO/IEC 7810
-ISO/IEC 7811
-ISO/IEC 7812
-ISO/IEC 7813
-ISO/IEC 7816
-ISO/IEC 80000
-ISO/IEC 8652
-ISO/IEC 8859
-ISO/IEC 9126
-ISO/IEC 9529
-ISO/IEC 9995
-Industrial control system
 International Electrotechnical Commission
 International Standard Identifier for Libraries and Related Organizations
 JBIG
 JPEG 2000
 JPEG XL
-KNX
 Keyword Protocol 2000
 Linux Standard Base
 List of IEC standards
-List of automation protocols
 Local Interconnect Network
 Local area network
-LonTalk
-MECHATROLINK
 MHEG-5
-MOST Bus
 MPEG-1
 MPEG-2
 MPEG-21
@@ -210,61 +111,30 @@ MPEG-7
 MPEG-A
 MPEG-D
 MPEG-H
-MTConnect
 MelsecNet
 Meter-Bus
 Mixed raster content
 Modbus
-NMEA 2000
-OBIX
-OPC Data Access
-OPC Historical Data Access
-OPC Unified Architecture
 OpenDocument
-OpenTherm
 Open Data Protocol
 Open Document Architecture
 Optomux
 PHIGS
 POSIX
-PROFIBUS
-PROFINET
 PieP
-Point-to-Point Protocol
 Power-system automation
-Power system automation
 QR code
-RAPIEnet
 RELAX NG
 RKM code
-SAE J1587
-SAE J1708
-SAE J1939
-SDS Protocol
-SENT (protocol)
 SERCOS III
-SERCOS interface
-Service Request Transport Protocol
 Sinec H1
-Smart meter
-Supervisory control and data acquisition
-SynqNet
-TCP/IP
-TTEthernet
 Topic map
 USB
-Unified Diagnostic Services
 Universal Coded Character Set
 Universal Disk Format
 Universal Remote Console
 Vehicle Area Network
-Vehicle bus
-Very Simple Control Protocol
 Wide area network
-X.25
-X10 (industry standard)
 XAP Home Automation protocol
-XPL Protocol
 Z-Wave
 Z notation
-Zigbee

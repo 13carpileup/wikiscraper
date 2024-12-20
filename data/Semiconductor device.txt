@@ -1,337 +1,56 @@
-10 nanometer
-14 nanometer
-7 nanometer
 AC power plugs and sockets
-ASML Holding
-Acorn tube
-Amplifier
-Analog circuit
-Antifuse
-Applied Materials
-Audio and video interfaces and connectors
-Audion
-Avalanche diode
-Backward-wave oscillator
-Band gap
-Beam deflection tube
-Beam tetrode
 Bell Laboratories
-Bell Labs
-Bendix Corporation
-BiCMOS
 Bibcode (identifier)
-Bio-FET
-Bipolar junction transistor
-Bipolar junction transistors
-Bipolar transistor
-Boost converter
-Boron
-Boule (crystal)
-Buck converter
-Buck–boost converter
-CMOS
 CRC Press
 Capacitor
-Capacitor types
-Carl Frosch
-Cat's-whisker detector
 Cathode-ray tube
-Cavity magnetron
-Ceramic resonator
-Charactron
-Charge carrier
-Charge pump
-Chemical field-effect transistor
-Chih-Tang Sah
-CiteSeerX (identifier)
-Clean room
-Cold cathode
-Communications technology
-Compactron
-Compound semiconductor
 Computer History Museum
-Constant-current diode
-Copper(I) oxide
-Crossatron
-Crossed-field amplifier
-Crystal oscillator
-DIAC
-Darlington transistor
 Dawon Kahng
-Deep-level transient spectroscopy
-Dekatron
-Depletion-load NMOS logic
-Depletion region
-Die (integrated circuit)
-Die singulation
-Diffused junction transistor
-Digital circuit
-Digital potentiometer
-Diode
-Discrete device
 Doi (identifier)
-Doping (semiconductor)
-EETimes
-EFUSE
 Electric charge
 Electric current
-Electric discharge in gases
 Electric field
 Electric potential
 Electrical conductivity
-Electrical reactance
-Electrolytic detector
 Electromagnetic radiation
-Electron hole
-Electron mobility
-Electronic circuits
 Electronic component
 Electronic design automation
 Electronics
 Electrons
 Electronvolt
-Electron–hole pair
-FOUP
-Fairchild Semiconductor
-Ferrite core
-Field-effect transistor
-FinFET
-Flash memory
-Fleming valve
-Floating-gate MOSFET
-Frank Wanlass
 Frequency
-Fuse (electrical)
-Galena
-Gallium arsenide
-Gallium nitride
-Gas-filled tube
-Germanium
-Gordon K. Teal
-Gunn diode
-Gyrotron
-Hall effect sensor
-Heterostructure barrier varactor
-History of electrical engineering
-History of the transistor
-Hitachi
-Hot-wire barretter
-Hybrid integrated circuit
 IBM
-IEEE Andrew S. Grove Award
-IMPATT diode
 ISBN (identifier)
-ISFET
 ISSN (identifier)
-Iconoscope
-Ignitron
-Indium
-Indium antimonide
-Indium arsenide
-Indium phosphide
-Inductive output tube
 Inductor
 Institute of Electrical and Electronics Engineers
-Insulated-gate bipolar transistor
 Integrated circuit
 Intel
 Ionizing radiation
-JEDEC
-JFET
-Jagadish Chandra Bose
-Japanese Industrial Standards
-Jean Hoerni
-John Bardeen
-John R. Pierce
 John Wiley & Sons
-Johns Hopkins University Press
-Julius Edgar Lilienfeld
-Klystron
-Krytron
-LDMOS
-Lam Research
-Laser diode
 Light
-Light-emitting diode
-Light-emitting transistor
-Light emitting capacitor
-Linear regulator
-List of semiconductor scale examples
 Logic gate
-Low-dropout regulator
-MOSFET
-MOSFET scaling
-MOS integrated circuit
-Magic eye tube
-Manhattan, New York
 Maser
 Massachusetts Institute of Technology
-Memistor
-Memory cell (computing)
-Memristor
-Memtransistor
-Mercury-arc valve
-Mercury relay
-Metal-oxide varistor
-Metal rectifier
 Microcontroller
 Microprocessor
-Mixed-signal integrated circuit
-Mohamed Atalla
-Monocrystalline silicon
-Monoscope
-Multigate device
-N-type semiconductor
-NMOS logic
-National Inventors Hall of Fame
-Neon lamp
-Neutron generator
-Nixie tube
-Nobel Prize
-Nonode
-Nuvistor
 OLED
-Operating temperature
-Organic field-effect transistor
-Organic light-emitting diode
-Organic light-emitting transistor
-Organic semiconductor
-Oscillator
-P-type semiconductor
-PIN diode
-PMOS logic
-Parametron
-Part number
-Pentagrid converter
-Pentode
-Pentode transistor
 Phosphorus
-Photocell
-Photocoupler
-Photodetector
-Photodiode
-Photolithography
-Photomultiplier tube
-Phototransistor
-Phototube
-Photovoltaic
-Planar process
-Point-contact transistor
-Polysilicon
-Potentiometer
-Power IC
-Power MOSFET
-Power management integrated circuit
-Power semiconductor device
 Printed circuit board
-Printed electronics
-Pro Electron
-Programmable unijunction transistor
-Purdue University
-P–n junction
-Quantum circuit
 Quantum mechanics
-RF CMOS
-RF connector
 Radar
 Radio
 Radio frequency
-Random-access memory
-Reed relay
-Relay
-Reliability (semiconductor)
-Resettable fuse
-Resistor
-Russell Ohl
 S2CID (identifier)
-Schottky diode
-Schön scandal
-Selectron tube
-Selenium
-Selenium sulfide
-Semiconducting
-Semiconductor
-Semiconductor device fabrication
-Semiconductor devices
-Semiconductor fabrication plant
-Semiconductor materials
-Sextillion
-Shockley Semiconductor Laboratory
 Sic
-Silicon
-Silicon-controlled rectifier
-Silicon carbide
-Silicon controlled rectifier
 Silicon dioxide
-Simon Sze
-Single-ended primary-inductor converter
 Smartphone
-Solar cell
-Solaristor
-Solid-state electronics
-Split-pi topology
-Springer Science & Business Media
-Static induction thyristor
-Static induction transistor
-Step recovery diode
-Storage tube
-Surface physics
-Sutton tube
-Switch
-Switched capacitor
-Switching regulator
-TRIAC
-Tetrode
-Tetrode transistor
-Texas Instruments
-The Electrochemical Society
-Thermal oxidation
-Thermionic emission
-Thermistor
-Thin-film transistor
-Three-dimensional integrated circuit
-Thyratron
-Thyristor
-Tizard Mission
-Tokyo Electron
-Trancitor
 Transformer
-Transient-voltage-suppression diode
-Transistor
-Transistor count
-Traveling-wave tube
-Trigatron
-Triode
-Trochotron
-Tunnel diode
-US Patent and Trademark Office
-Unijunction transistor
-United States Patent and Trademark Office
 University of Chicago
-VCSEL
-VMOS
-Vacuum
-Vacuum diode
 Vacuum tube
-Variable capacitor
-Varicap
-Varistor
-Very-large-scale integration
-Video camera tube
 Voltage
-Voltage-regulator tube
-Voltage regulator
 Wafer (electronics)
-Walter Brattain
-Walter Houser Brattain
 Westinghouse Electric (1886)
-William Bradford Shockley
 William Shockley
-Williams tube
-Wire
-Wollaston wire
 X-ray tube
-Zen diode
 Zener diode
-Zone melting
-Ćuk converter

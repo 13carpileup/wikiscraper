@@ -1,11 +1,5 @@
-Half Rate
-Encapsulated PostScript
-BSAVE
-Exif
 Graphics software
-ISO/IEC 42010
 Equal-loudness contour
-ISO/IEC TR 12182
 IEC 61511
 Cloud Infrastructure Management Interface
 IEEE 754
@@ -18,93 +12,56 @@ ISO 15926 WIP
 ISO 6385
 ISO 5427
 ISO 56000
-Discrete wavelet transform
-Advanced Audio Coding
 ISO 13490
 ISO 7736
-ISO/IEC 7813
 ISO 17100
 IEC 61162
 ISO 22395
-ISO/IEC 8859-1
-ISO/IEC 11801
-ISO/IEC 18014
 Business Process Model and Notation
-Binary image
 ISO 11992
 C++
 IEC 61499
 ISO 26262
-Comparison of audio coding formats
 ISO 15919
 Hazard symbol
 ISO 16750
-ISO/IEC 8859-13
 IEC 60320
 ISO 10006
 ISO 8583
 EN 62262
 ISO 2711
-ECW (file format)
 IEC 62455
 ISO 2709
-ART image file format
 FDI World Dental Federation notation
 IEC 60870-6
 ISO 25964
-DirectDraw Surface
-ISO/IEEE 11073
-ISO/IEC 9995
-IGES
 ISO 5426
 Data compression
-G.723
-Gerber format
 IEC 61131-3
 ISO 14617
 C Sharp (programming language)
 IEC 63110
-ISO/IEC 24727
-Alliance for Open Media
-Arithmetic coding
-ISO/IEC 33001
 ISO 690
 IEC 60870-5
-G.718
 ISO 15398
 ISO 6709
 IEC 61334
-General Exchange Format
-ISO/IEC 8859-6
-ISO 14000
 Full BASIC
 ISO 704
 IEC 61355
-Avid Audio
 Fieldbus
-Flash Video
 ISO 3977
-ISO/IEC 8859-2
 ISO 4
-IEC 60980-344
-Haiku Vector Icon Format
-ISO/IEC 20000
-Enhanced Metafile
-APNG
 Hole punch
 Discrete cosine transform
 IEC 61970
-Harmonic Vector Excitation Coding
 IEC 60870
 Comparative Tracking Index
-3GPP
 IP-XACT
 ISO 15926
-ISO/IEC 8859-3
 Delivery Multimedia Integration Framework
 ISO 2921
 ISO 6438
-3GP and 3G2
 Geography Markup Language
 ISO 7002
 ISLISP
@@ -112,389 +69,213 @@ British Standard Pipe
 IEC 60068
 ISO 22300
 110 film
-ISO/IEC 8859-10
 ISO 6346
 IEC 60364
-ISO/IEC 21827
-H.120
 IEC 61883
 G.722
-ISO 19092-2
 Battery nomenclature
 ISO 3103
 Essential Video Coding
 ISO 13399
 ISO 217
-ISO/IEC 17025
 ISO-8859-8-I
 19-inch rack
 ISO 22000
-Comparison of video codecs
-ISO/IEC 4909
 A440 (pitch standard)
 ISO 259
-H.264/MPEG-4 AVC
-G.729
-ISO/IEC 8859-11
 ISO 3166-1
 ISBN (identifier)
-Adobe Illustrator Artwork
 Audio coding format
 ISO 13485
-Fuse (automotive)
 ISO 668
-H.262/MPEG-2 Part 2
-Digital Video Interactive
-Better Portable Graphics
 ISO 10962
-Adaptive Transform Acoustic Coding
 ISBN
 ISO 10218
-High-Efficiency Advanced Audio Coding
-DEFLATE
 ISO 31000
 ISO 8601
-Entropy encoding
-Adaptive Multi-Rate audio codec
-AMV video format
 COBOL
 Graph Query Language
-CELT
 ISO 31-3
-Adobe Photoshop
-Code-excited linear prediction
 ISO 843
-ISO/IEC 8859-15
 ISO 639-2
-Apple ProRes
-High Efficiency Image File Format
 Document Style Semantics and Specification Language
-AAC-LD
 IS-IS
 ISO 31-8
 IEC 61131
-Fast Fourier transform
 ISO 13584
 ISO 45001
-Audio Interchange File Format
 ISO 10160
 ISO 14644
 IEC 60601
 IEC 60446
 IEC 63119
 CHILL
-Adaptive Multi-Rate Wideband
 ISO 11940-2
-Computable Document Format
 ISO 2015
-ISO/IEC 15693
 ISO 19600
-ISO/IEC 7816
 ISO 31-6
-ISO/TR 11941
-ISO/IEC base media file format
 ECMAScript for XML
-Differential pulse-code modulation
 ISO 2145
 ISO 7200
-GIF
-CineForm
-ISO/IEC 9797-1
 ISO 1745
-ETSI
-CALS Raster file format
 ISO 28000
-ISO/IEC 15897
-ISO/IEC 29119
-CorelDRAW
-ISO 19092-1
 HTML
 ISO 5428
 IEC 81346
 ISO 128
 ISO-TimeML
 Hot shoe
-Huffyuv
-ISO/IEC 27000
-ISO/IEC 8859-5
-Apple Video
-Enhanced Variable Rate Codec
 IEC 60034
-Extensible Application Markup Language
 ISO 11784 and ISO 11785
-Dynamic Resolution Adaptation
-G.711
 Han Xin code
 Antimagnetic watch
-ISO/IEC 646
 ISO 15189
 ISO 10303
-ISO 31-9
 ISO 37001
-Cineon
-ANI (file format)
 135 film
-Extended Adaptive Multi-Rate – Wideband
 IEC 60309
 ISO 6344
-ISO/IEC 8859-16
 Fax
 Fuel oil
 AES47
 126 film
-Full Rate
 Flowchart
-EMF+
 Compact Disc Digital Audio
 ISO 31-0
-G.723.1
-ISO 31-12
 ISO 2014
-Group 4 compression
-Avid DNxHD
-Codec 2
 ECMAScript
-Enhanced VOB
-ISO/IEC 8859-7
-FLIC (file format)
 ISO 31-7
-ISO/IEC 14443
 ASMO 449
 Common Language Infrastructure
-ISO/IEC 8859
 IEC 60929
 IEC 62056
 Digital Addressable Lighting Interface
-ISO/IEC 11179
-AutoCAD DXF
 Ada Semantic Interface Specification
 IO-Link
-Dolby AC-4
 Film speed
 ISO 22301
 ISO 19011
 ISO 10007
-ISO/IEC 10967
-ISO/IEC 27040
-Apple Lossless Audio Codec
 ISO 2848
-Enhanced Variable Rate Codec B
 Graphical Kernel System
-FlashPix
 ISO 4031
-ISO/IEC 8859-8
 IEC 60027
 ISO 15686
 ISO 11783
 ISO 13567
 Advanced Video Coding
-ISO/IEC 7812
-ISO/IEC 19752
-Comparison of graphics file formats
-ILBM
 ISO 31-5
-ISO/IEC 11404
 ISO 3864
-ISO/IEC 9529
-Apple Icon Image format
 ArmSCII
-ISO/IEC 10021
 DICOM
-Bink Video
 ISO 10303-28
 ISO 7637
 IEC 61851
 AES3
-ISO/IEC 8859-4
-.m2ts
 ISO 5964
 ISO 4157
 DivX
 IEC 61850
 ISO 7010
 ISO 15924
-ISO/IEC 14651
-AV1
 ISO 26000
-Audio Lossless Coding
 Guidelines for the Definition of Managed Objects
 ISO 21500
 IEC 62379
-Enhanced Voice Services
-Audio Video Standard
-ISO 8373
-Daala
 ISO 13406-2
 ISO 31-4
-DTS (sound system)
-ISO/IEC 7811
 Geospatial metadata
-G.726
 ANSI C
-Audio Video Interleave
 ISO 11170
-ISO/IEC 8652
-Asao (codec)
 IBM
 IEC 61968
 COLLADA
 ISO 860
 Horsepower
-DjVu
-ISO/IEC 19770
-Dirac (video compression format)
 Computer Graphics Metafile
-ISO 31-13
 ISO 8000
-ICO (file format)
 IEC 62366
 Doi (identifier)
 ISO 11940
 ISO 10161
 IEC 62325
 ISO 6943
-ISO/IEC 27006
 ISO 639-3
-Advanced Systems Format
 ANSI escape code
 IEC 61360
 IATF 16949
 ISO 2852
 C (programming language)
-CPT (file format)
-ISO 2047
-ISO/IEC 27000-series
-H.261
-High Efficiency Video Coding
 ISO 21001
-ICER (file format)
 IEC 61400
 IEC 60906-1
 IEC 62682
-ISO/IEC 10116
-ISO/IEC 17024
-AVIF
-BMP file format
-ISO/IEC 27005
-ISO/IEC 9126
-DV (video format)
 ISO 732
 ISO 14031
 ISO 233
-ANIM
-FITS
 ISO 8501-1
 ISO 2788
 ISO 25178
-G.728
 ISO 20400
 ISO 657
-ISO/IEC 7064
-ISO/IEC 80000
 E series of preferred numbers
 Accuracy and precision
 IEC 61030
 ISO 639-6
 Common Logic
 ISO 19114
-Enhanced full rate
 ISO 1000
 Fiber Distributed Data Interface
 ALGOL 60
-ISO/IEC 27001
-ISO/IEC 8859-14
 IEC 63382
 ISO 15022
 ISO 7001
 ISO 3166-2
-Cinepak
 ISO 10303-21
-Dolby Digital
 ISO 3307
-ISO/IEC 19794-5
 ISO 50001
-G.729.1
-A-law algorithm
-Digital container format
 ISO 14698
 Free software
 IEC 62700
-ISO/IEC 24744
 ISO 31-1
 ISO 31-10
-AptX
 Common Object Request Broker Architecture
 ISO 2033
-Algebraic code-excited linear prediction
 File Allocation Table
 IEC 61508
 Huffman coding
-ISO/IEC 6523
-IEC 62351
-FFV1
 ISO 31
-ISO/IEC 8859-9
 IEC 62061
-ISO/IEC 38500
 Digital object identifier
-ISO/IEC JTC 1/SC 29
 ISO 639-5
 ISO 3166
 ISO 14971
 ISO 19439
-G.719
 IEC 60269
-Digital Negative
-Daubechies wavelet
-ISO 12006
 IEC 62304
 Filename extension
 ISO 10628
-ISO/IEC 2022
-FLAC
-Camera Image File Format
 Common Criteria
 ISO 8178
-Au file format
 ISO 4165
 ISO 5776
 ISO 1
 ISO 20022
-ISO/IEC 19788
 ISO 14224
-Audio Vivid
 EXPRESS (data modeling language)
 ISO 55000
-ISO/IEC 5218
 IEC 62196
 H.263
-ISO 7027
 Dynamic Adaptive Streaming over HTTP
 ISO 10303-22
-Adaptive differential pulse-code modulation
 IEC 60038
-Digital Picture Exchange
 IEC 62264
 ISO 2
-Bluetooth Special Interest Group
-ISO/IEC 15504
-Extensible Metadata Platform
-ISO/IEC 7810
 ISO 4217
-ISO/IEC 8859-12
-Container format (computing)
 ISO 3166-3
-ISO/IEC 15288
-CAN bus
 IEC 60228
-ISO/IEC 27002
-Free Lossless Image Format
-ISO/IEC 12207
 ISO 1629
 ISO 5775
 ISO 31-11
-Cartesian Perceptual Compression
 ISO 639
-HDRi (data format)
 ISO 2146
-G.722.1

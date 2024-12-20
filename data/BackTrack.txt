@@ -1,8 +1,5 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
-ARM architecture
-Aircrack-ng
 AlmaLinux
 Alpine Linux
 Android-x86
@@ -12,7 +9,6 @@ AntiX
 ArchBang
 ArchLabs
 Arch Linux
-Armitage (computing)
 Artix Linux
 Asahi Linux
 Astra Linux
@@ -20,8 +16,6 @@ Asturix
 Austrumi Linux
 BLAG Linux and GNU
 BackBox
-Bash (Unix shell)
-BeEF (Browser Exploitation Framework)
 Bharat Operating System Solutions
 BioSLAX
 BlackArch
@@ -56,7 +50,6 @@ Debian
 Deepin
 DemoLinux
 Devuan
-Digital forensics
 DivestOS
 DoudouLinux
 Dreamlinux
@@ -67,7 +60,6 @@ Elive
 Emmabuntüs
 EndeavourOS
 Endless OS
-Ettercap (computing)
 EulerOS
 Exploit (computer security)
 Familiar Linux
@@ -76,28 +68,23 @@ Fedora Linux
 Fire OS
 Firefox OS
 Floppyfw
-Fluxbox
 Foresight Linux
 FreedomBox
 Freespire
 Frugalware Linux
-GNOME
 GNU Guix System
 GNewSense
 GOS (operating system)
 Garuda Linux
 GeckoLinux
 Gentoo Linux
-Gerix Wifi Cracker
 GoboLinux
 Gobuntu
 GrapheneOS
 HandyLinux
-Hyperbola GNU/Linux-libre
 Immunix
 IodéOS
 Jurix
-KDE Plasma Desktop
 KDE neon
 KaOS
 KaiOS
@@ -106,7 +93,6 @@ Kali Linux
 Kanotix
 KateOS
 Kernel (operating system)
-Kismet (software)
 Knoppix
 Kongoni (operating system)
 Korora (operating system)
@@ -126,8 +112,6 @@ Linux Router Project
 Linux distribution
 Linux for PlayStation 2
 List of Linux distributions
-Live CD
-Live USB
 Lubuntu
 MCC Interim Linux
 MIUI
@@ -136,23 +120,17 @@ Mageia
 Mandrake Linux
 Mandriva Linux
 Manjaro
-Mati Aharoni
 MeeGo
 Mer (software distribution)
-Metasploit Project
 Miracle Linux
 Mobilinux
-Monitor mode
 Monolithic kernel
-Musix GNU+Linux
 Network Security Toolkit
 NimbleX
 Nitix
 NixOS
-Nmap
 Nobara Linux
 Nova (operating system)
-OWASP
 OmniROM
 One UI
 Open-source software
@@ -160,15 +138,11 @@ OpenELEC
 OpenMandriva Lx
 OpenSUSE
 Open Enterprise Server
-Ophcrack
 Oracle Linux
 PCLinuxOS
-Packet injection
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
-Penetration test
 Pentoo
 Peppermint OS
 Pinguy OS
@@ -233,19 +207,14 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 User interface
 VectorLinux
 Vine Linux
 Void Linux
 Web browser
 Whonix
-Wi-Fi Protected Setup
-Wireshark
 Wubuntu
 X86
-X86-64
 XB Machine
 Xubuntu
 Yellow Dog Linux

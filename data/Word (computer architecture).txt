@@ -1,500 +1,107 @@
-1-bit computing
-12-bit computing
-128-bit computing
-16-bit computing
-18-bit computing
-1ESS switch
-24-bit computing
-256-bit computing
-26-bit computing
-31-bit computing
-32-bit computing
-36-bit computing
-36-bit word length
 4-bit computing
-45-bit computing
-48-bit computing
-512-bit computing
-60-bit computing
 64-bit computing
-8-bit computing
-ACPI
-AI accelerator
-ARMAC (computer)
-ARM Thumb
-ARM architecture
-ARM architecture family
-ARMv6
-ARMv8
-ARRA (computer)
-ARRA II (computer)
 ASCII
-Abstract data type
 Abstract machine
-Adapteva
-Adder (electronics)
-Addison-Wesley
-Address decoder
-Address generation unit
-Addressing mode
-Advanced Power Management
-Algebraic data type
-Alternating Turing machine
-Analogue electronics
-Analytical engine
-Apollo Guidance Computer
-Application-specific instruction set processor
-Application-specific integrated circuit
-Application Programming Interface
-Application software
-Arbitrary-precision arithmetic
-Arithmetic logic unit
-Arithmetic shift
-Array data type
 Assembly language
 Associative array
-Atanasoff–Berry Computer
-Autonetics Recomp II
 Backward compatibility
-Ballistic Research Laboratories
-Barrel processor
-Barrel shifter
-Baseband processor
-Bfloat16 floating-point format
-Binary-code compatibility
-Binary-coded decimal
-Binary decoder
-Binary multiplier
-Binary number
-Binary prefix
-Bit
 Bit-level parallelism
-Bit-serial architecture
 Bit array
-Bit slicing
-Bite
 Bitwise operation
 Block (data storage)
-Boolean circuit
-Boolean data type
 Bottom type
-Boxing (computer science)
-Branch predictor
-Branch target predictor
-Bull Gamma 60
 Bus (computing)
 Byte
-Byte-addressable
-Byte addressing
-CDC 1604
-CDC 6600
-CDC STAR-100
-CPU cache
-CPU multiplier
 Cache (computing)
 Cache coherence
-Cache hierarchy
-Cache performance measurement and metric
-Cache replacement policies
-Calcomp 900
-Catena (unit)
-Cellular architecture
 Cellular automaton
 Central processing unit
-Character (computing)
 Character encoding
-Charles Babbage
-Chip carrier
-Circuit (computer science)
-Class (computer programming)
-Classic RISC pipeline
-Clipper architecture
-Clock gating
-Clock rate
-Clock signal
-Cognitive computing
-Combinational logic
-Comparison of instruction set architectures
-Complex data type
-Complex instruction set computer
-Complex programmable logic device
-Composite data type
 Computer architecture
 Computer data storage
 Computer memory
-Computer performance
-Computer performance by orders of magnitude
 Computing
-Container (abstract data type)
-Control hazard
-Control unit
-Cooperative multitasking
 Coprocessor
-Counter (digital)
-Counter machine
-Cray-1
-Cray C90
-Cycles per instruction
-Cypress PSoC
-D-17B
-D-37C
 DEC Alpha
-Data (computing)
-Data buffer
-Data cache
 Data dependency
 Data parallelism
 Data structure
 Data type
 Dataflow architecture
-Datapath
 Decimal
-Decimal128 floating-point format
-Decimal32 floating-point format
-Decimal64 floating-point format
-Decimal computer
-Decimal data type
-Decimal digit
-Decimal floating point
-Demultiplexer
 Dependent type
-Deterministic finite automaton
 Digital Equipment Corporation
-Digital electronics
-Digital signal processor
-Distributed architecture
 Doi (identifier)
-Double-precision floating-point format
-Dynamic frequency scaling
-Dynamic voltage scaling
-ENIAC
-ETRAX CRIS
-Electrologica X1
-Electrologica X8
-Electronic circuit
-Elliott 803
 Embedded system
-Empty type
-Endianness
 Entropy (information theory)
-Enumerated type
 Exception handling
-Execution unit
-Explicit data graph execution
-Explicitly parallel instruction computing
-Extended precision
-FIFO (computing and electronics)
-FLOPS
-Fabric computing
-False sharing
-Fast Universal Digital Computer M-2
 Field-programmable gate array
-Field-programmable object array
 Finite-state machine
-Finite-state machine with datapath
-Fixed-point arithmetic
-Floating-point arithmetic
-Floating-point unit
 Flynn's taxonomy
-Four-Phase Systems AL1
-Frederick Phillips Brooks, Jr.
-Function type
-GE-600 series
-Gate array
-Gemini Guidance Computer
 General-purpose computing on graphics processing units
-General-purpose register
 Generalized algebraic data type
-Generic programming
-Gerrit Anne Blaauw
-Gigabyte
-Glue logic
 Graphics processing unit
-Gray code
-Groupe Bull
 Half-precision floating-point format
 Hardware acceleration
-Hardware register
 Hardware security module
-Hardwired control unit
-Harvard Mark I
-Harvard architecture
-Hazard (computer architecture)
-Heterogeneous System Architecture
-Heterogeneous computing
-Hextet
-Hierarchical state machine
-History of general-purpose CPUs
-Hyper-threading
-Hypercomputation
-IA-32
-IA-64
-IAS machine
 IBM
-IBM 1130
-IBM 1401
-IBM 1410
-IBM 1620
-IBM 1620 Model I
-IBM 1620 Model II
-IBM 305
-IBM 650
-IBM 653
-IBM 701
-IBM 7010
-IBM 702
-IBM 7030
-IBM 7030 Stretch
-IBM 704
-IBM 705
-IBM 7070
-IBM 7080
-IBM 7094
-IBM Naval Ordnance Research Calculator
-IBM POWER architecture
-IBM System/360
-IBM System/360 architecture
-IBM System/370
-IBM System/390
-ILLIAC IV
 ISBN (identifier)
-Image processor
-Inductive type
 Instruction-level parallelism
-Instruction cache
-Instruction code
-Instruction cycle
-Instruction decoder
 Instruction pipelining
-Instruction set
 Instruction set architecture
-Instruction unit
 Instructions per cycle
-Instructions per second
-Integer (computer science)
 Integrated circuit
 Intel
-Intel 4004
-Intel 8008
-Intel 80386
-Intel 8080
-Intel 8086
-Intel 8087
 Interface (object-oriented programming)
 International Electrotechnical Commission
-Intersection type
-Interval arithmetic
 Intuitionistic type theory
-Kilobit
 Kilobyte
-Kind (type theory)
-LCCN (identifier)
-LGP-30
-List (abstract data type)
-Little man computer
-Load–store architecture
-Load–store unit
 Logic gate
-Long double
-M32R
-MIPS-X
 MIPS architecture
-MOS Technology 6501
-MOS Technology 6502
-MP944
-Machine instruction
 Mainframe computer
-Manchester Baby
 Manycore processor
-McGraw-Hill Book Company, Inc.
-Megabit
-Megabyte
 Memory-level parallelism
-Memory address
-Memory address register
-Memory buffer register
-Memory controller
-Memory dependence prediction
 Memory hierarchy
-Memory management unit
 Metaclass
-Metaobject
-Metric prefix
-MicroBlaze
 Microarchitecture
-Microcode
 Microcontroller
 Microprocessor
-Microprocessor chronology
-Minifloat
-Minimal instruction set computer
-Minuteman I
-Minuteman II
-Mixed-signal integrated circuit
-Mobile processor
 Model of computation
-Modified Harvard architecture
-Motorola 6800
-Motorola 68000 series
-Multi-chip module
-Multi-core processor
 Multiple instruction, multiple data
 Multiple instruction, single data
-Multiplexer
 Multiprocessing
-Multiprocessor system on a chip
 Multithreading (computer architecture)
-Network on a chip
-Network processor
-Neuromorphic engineering
-Nibble
-No instruction set computing
 Non-uniform memory access
-Nondeterministic Turing machine
-Null-terminated string
-Object (computer science)
-Octet (computing)
-Octuple-precision floating-point format
-One-instruction set computer
-Opaque data type
-OpenRISC
-Operand forwarding
-Option type
-Orthogonal instruction set
-Out-of-order execution
-PDP-1
-PDP-10
-PDP-11
 PDP-11 architecture
-PDP-6
-PDP-8
-Package on a package
 Parallel computing
-Parametric polymorphism
-Performance per watt
-Philippe Dreyfus
-Physical address
-Physics processing unit
-Pin grid array
-Pipeline stall
-Plain text
-Pointer (computer programming)
-Pointer machine
 Porting
-Post–Turing machine
-PowerPC
-Power ISA
-Power Management Unit
 Power management
-Power management integrated circuit
-Power of two
-Precision (computer science)
 Preemption (computing)
 Primitive data type
-Probabilistic Turing machine
 Process (computing)
 Processor (computing)
-Processor design
-Processor register
-Product type
-Program counter
-Programmable Array Logic
 Programming language
-Quadruple-precision floating-point format
-Quantum Turing machine
-Quantum cellular automaton
-Quantum circuit
-Quantum computing
-Quantum logic gate
-Question word
-Queue automaton
-Qword
 RCA
-RISC-V
-RISC architectures
-ROM image
 Random-access machine
-Random-access stored-program machine
 Rational data type
-Re-order buffer
 Record (computer science)
-Recursive data type
 Reduced instruction set computer
 Reference (computer science)
-Refinement type
-Register file
-Register machine
-Register renaming
-Register–memory architecture
-Reservation station
 S2CID (identifier)
-SDS 9 Series
-SDS Sigma series
 SPARC
-SUPS
-SWAR
-Saturn Launch Vehicle Digital Computer
-Scalar processor
 Scoreboarding
-Scratchpad memory
-Secondary storage
-Secure cryptoprocessor
 Semaphore (programming)
-Semi-Automatic Ground Environment
-Semiconductor device fabrication
-Sequential logic
-Set (abstract data type)
-Setun
-Signedness
 Simultaneous and heterogeneous multithreading
 Simultaneous multithreading
-Single-core
-Single-precision floating-point format
 Single instruction, multiple data
 Single instruction, multiple threads
 Single instruction, single data
-Single program, multiple data
-Soft microprocessor
 Software portability
-Source-code compatibility
-Speculative execution
 Speculative multithreading
-Springer International Publishing AG
-Stack machine
-Stack register
-Stanford MIPS
-Status register
-Stored-program computer
-Stream (computing)
 Stream processing
 String (computer science)
-Strongly typed identifier
-Structural hazard
-Subtyping
-Sum-addressed decoder
-SuperH
 Superscalar processor
-Switch
-Syllable (computing)
-System/360
-System/360 architecture
-System/370 architecture
-System/390
-System in a package
 System on a chip
-TRIPS architecture
-Tagged union
 Task parallelism
 Temporal multithreading
-Tensor Processing Unit
-Ternary computer
-Ternary numeral system
-Texas Instruments TMS1000
 Thread (computing)
-Three-dimensional integrated circuit
-Tick–tock model
-Tile processor
-Titan (1963 computer)
-Tomasulo's algorithm
-Top type
-Transactions per second

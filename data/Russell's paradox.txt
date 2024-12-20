@@ -1,95 +1,40 @@
-A History of Western Philosophy
-Abilene paradox
-Abraham Fraenkel
 Abstract logic
 Ackermann set theory
 Aleph number
 Alfred North Whitehead
 Algebraic logic
-Allais paradox
-Almost
 Alphabet (formal languages)
-Alternative set theory
-Alys Pearsall Smith
-Amorphous set
-Antinomy
-Apportionment paradox
 Argument
-Argument from free will
 Arity
-Arrow's impossibility theorem
-Arrow information paradox
 Atomic formula
 Atomic sentence
 Automata theory
 Automated theorem proving
 Axiom
-Axiom of adjunction
 Axiom of choice
-Axiom of constructibility
-Axiom of countable choice
-Axiom of dependent choice
-Axiom of determinacy
-Axiom of extensionality
-Axiom of foundation
-Axiom of global choice
-Axiom of infinity
-Axiom of limitation of size
-Axiom of pairing
-Axiom of power set
-Axiom of projective determinacy
-Axiom of regularity
-Axiom of separation
-Axiom of union
 Axiom schema
-Axiom schema of replacement
-Axiom schema of specification
-Axiomatic set theory
 Axiomatic system
-Axiomatization of Boolean algebras
 Banach–Tarski paradox
-Barber paradox
-Barbershop paradox
-Basic Law V
-Begriffsschrift
-Berry paradox
 Bertrand Russell
-Bertrand Russell's philosophical views
-Bertrand Russell's political views
-Bertrand Russell Peace Foundation
-Bertrand Russell Professorship of Philosophy
-Bertrand paradox (economics)
-Bhartrhari's paradox
 Bijection
 Binary operation
 Boolean algebra
 Boolean algebras canonically defined
 Boolean function
-Braess's paradox
-Burali-Forti paradox
-Buridan's ass
-Buridan's bridge
 Cantor's diagonal argument
 Cantor's paradox
 Cantor's theorem
-Card paradox
-Cardinal number
 Cardinality
 Cartesian product
-Catch-22 (logic)
 Categorical theory
 Category (mathematics)
 Category of sets
 Category theory
-Chainstore paradox
-Chicken or the egg
 Church encoding
 Church–Turing thesis
-Clarendon Press
 Class (set theory)
 Classical logic
 Codomain
-Coherence (fairness)
 Compactness theorem
 Complement (set theory)
 Complete theory
@@ -98,87 +43,52 @@ Computable function
 Computable set
 Computably enumerable set
 Concrete category
-Condorcet paradox
-Conrad Russell, 5th Earl Russell
 Conservative extension
 Consistency
-Consistent
 Constructible universe
 Construction of the real numbers
 Constructive set theory
 Continuum hypothesis
 Contradiction
-Copleston–Russell debate
 Countable set
-Crocodile dilemma
-Curry's paradox
-Cut-the-Knot
 David Hilbert
 De Morgan's laws
 Decidability (logic)
-Decision-making paradox
 Decision problem
-Dedekind-infinite set
-Deductive system
 Diagram (mathematical logic)
-Disjoint union
 Doi (identifier)
 Domain of a function
-Dora Russell
-Double extension set theory
-Downs–Thomson paradox
-Dream argument
-Drinker paradox
-Earl Russell
-Easterlin paradox
-Edgeworth paradox
-Edith Finch Russell
-Edmund Husserl
 Edward N. Zalta
 Element (mathematics)
 Elementary diagram
 Elementary equivalence
 Elementary function arithmetic
-Ellsberg paradox
 Empty set
 Enumeration
-Epicurean paradox
-Epimenides paradox
 Equiconsistency
 Equivalence relation
 Eric W. Weisstein
-Ernst Zermelo
 Euclid's Elements
 Euclidean geometry
-European paradox
-Existential instantiation
 Existential quantification
 Expression (mathematics)
 Extension by definitions
 Extension by new constant and function names
 Extensionality
-Family of sets
-Fenno's paradox
-Filter (set theory)
 Finitary relation
 Finite-valued logic
 Finite model theory
 Finite set
 First-order logic
-Fitch's paradox of knowability
 Fixed-point logic
 Forcing (mathematics)
 Formal grammar
 Formal language
 Formal proof
-Formal semantics (logic)
 Formal system
 Formation rule
 Foundations of geometry
 Foundations of mathematics
-Frank Russell, 2nd Earl Russell
-Fredkin's paradox
-Free Thought and Official Propaganda
 Free choice inference
 Free logic
 Free variables and bound variables
@@ -186,44 +96,23 @@ Function (mathematics)
 Functional predicate
 Fuzzy set
 General set theory
-Georg Cantor
-Gibson's paradox
-Giffen good
-Girard's paradox
 Gottlob Frege
-Grelling–Nelson paradox
 Grothendieck universe
 Ground expression
-Ground formula
 Group representation
 Gödel's completeness theorem
 Gödel's incompleteness theorems
 Gödel numbering
 Halting problem
 Harvard University Press
-Haskell Curry
-Heat death paradox
-Hedgehog's dilemma
-Henrietta Stanley, Baroness Stanley of Alderley
-Hereditarily finite set
 Hereditary set
 Higher-order logic
 Hilbert's axioms
-Hilbert's first problem
-Hilbert's paradox of the Grand Hotel
 Hilbert system
 History of logic
-History of mathematical logic
-House monotonicity
 ISBN (identifier)
-I know that I know nothing
-Icarus paradox
 Image (mathematics)
-Imperative logic
-Impredicativity
-In Praise of Idleness and Other Essays
 Inaccessible cardinal
-Income and fertility
 Independence (mathematical logic)
 Inference
 Infinite-valued logic
@@ -231,48 +120,23 @@ Infinite set
 Information theory
 Inhabited set
 Injective function
-Interesting number paradox
-Internet Encyclopedia of Philosophy
 Interpretation (logic)
 Interpretation (model theory)
-Interpretation function
 Intersection (set theory)
-Introduction to Mathematical Philosophy
-Inventor's paradox
 Isomorphism
-Jean van Heijenoort
-Jevons paradox
-John Russell, 1st Earl Russell
-John Russell, 4th Earl Russell
-John Russell, Viscount Amberley
-John Stuart Mill
-John von Neumann
-Katharine Russell, Viscountess Amberley
-Kavka's toxin puzzle
-Kleene–Rosser paradox
 Kolmogorov complexity
-Kripke's theory of truth
 Kripke–Platek set theory
-Kurt Gödel
 Lambda calculus
 Large cardinal
 Lemma (mathematics)
-Leontief paradox
-Lerner paradox
-Liar paradox
-Liberal paradox
 Lindström's theorem
-List of Hilbert systems
 List of axioms
 List of first-order theories
 List of formal systems
 List of mathematical theories
-List of paradoxes
-List of self–referential paradoxes
 List of set identities and relations
 List of statements independent of ZFC
 Logic
-Logical atomism
 Logical biconditional
 Logical conjunction
 Logical connective
@@ -283,137 +147,66 @@ Logical equality
 Logical equivalence
 Logical truth
 Logicism
-Logicist
-Lottery paradox
-Lucas paradox
-Ludwig Wittgenstein
 Löwenheim–Skolem theorem
-Mandeville's paradox
 Many-valued logic
 Map (mathematics)
-Mario Livio
-Marriage and Morals
-Martin's axiom
 Material conditional
 MathWorld
 Mathematical logic
 Mathematical object
 Mathematician
-Mayfield's paradox
-Meno
-Mere addition paradox
 Metalanguage
-Metzler paradox
 Minimal axioms for Boolean algebra
 Minnesota Public Radio
 Model complete theory
 Model theory
 Monadic predicate calculus
 Monadic second-order logic
-Moore's paradox
 Morse–Kelley set theory
-Morton's fork
-My Philosophical Development
 NP (complexity)
 Naive set theory
 Natural deduction
-Navigation paradox
 Negation
 New Foundations
-New riddle of induction
-Newcomb's paradox
 Non-Euclidean geometry
 Non-logical symbol
 Non-standard model
 Non-standard model of arithmetic
-No–no paradox
-Olbers's paradox
-Omnipotence paradox
-On Denoting
 Open formula
 Operation (mathematics)
-Opposite Day
-Order type
-Ordered pair
 Ordinal analysis
 Ordinal number
 Oxford University Press
 P (complexity)
 P versus NP problem
-Paradox
-Paradox of analysis
-Paradox of competition
-Paradox of fiction
-Paradox of hedonism
-Paradox of nihilism
-Paradox of prosperity
-Paradox of the Court
-Paradox of thrift
-Paradox of toil
-Paradox of tolerance
-Paradox of value
-Paradox of voting
-Paradoxes of material implication
 Paradoxes of set theory
-Parrondo's paradox
 Partition of a set
-Patricia Russell
-Paul Bernays
-Paul Cohen
 Peano axioms
-Peano–Russell notation
-Philosopher
-Philosophical views of Bertrand Russell
 Philosophy of mathematics
-Pinocchio paradox
-Plane (geometry)
 Plato's beard
-Play That Funky Music
-Political views of Bertrand Russell
 Power set
 Predicate (mathematical logic)
-Predicate logic
 Predicate variable
-Preface paradox
-Preparedness paradox
-Prevention paradox
 Primitive recursive arithmetic
 Primitive recursive function
 Principia Mathematica
-Principle of explosion
-Prisoner's dilemma
-Productivity paradox
 Proof of impossibility
 Proof theory
-Proper class
-Property (mathematics)
 Proposition
 Propositional calculus
 Propositional formula
-Propositional function
 Propositional variable
 Quantifier (logic)
 Quantifier rank
-Quine's paradox
-Raven paradox
 Recursion
-Recursive set
 Relation (mathematics)
 Resource curse
 Reverse mathematics
-Richard's paradox
-Richard Dedekind
 Robinson arithmetic
 Rule of inference
-Russell's teapot
-Russell Tribunal
-Russell–Einstein Manifesto
-Russell–Myhill paradox
 Satisfiability
 Saturated model
 Schröder–Bernstein theorem
-Scitovsky paradox
-Scott–Potter set theory
 Second-order arithmetic
 Second-order logic
 Self-reference
@@ -422,78 +215,43 @@ Semantic theory of truth
 Semantics of logic
 Sentence (mathematical logic)
 Sequent calculus
-Service recovery paradox
-Set-builder notation
 Set (mathematics)
 Set theory
-Sheldon Cooper
-Ship of Theseus
 Signature (logic)
 Simon & Schuster
 Singleton (mathematics)
-Skolem's paradox
 Skolem arithmetic
-Sorites paradox
 Soundness
 Spectrum of a sentence
 Spectrum of a theory
-Square
 Square of opposition
-St. Petersburg paradox
-Stanford Encyclopedia of Philosophy
-State-population monotonicity
-Strange loop
 Strength (mathematical logic)
-String (formal languages)
 Structure (mathematical logic)
-Subset
-Substantive
 Substitution (logic)
 Substructure (mathematics)
 Supertask
 Surjective function
-Suslin's problem
 Syllogism
 Symbol (formal)
-Symmetric difference
 Syntax (logic)
 T-schema
 Tarski's axiomatization of the reals
 Tarski's axioms
-Tarski's theory of truth
 Tarski's undefinability theorem
 Tarski–Grothendieck set theory
 Tautology (logic)
-Temperature paradox
 Term (logic)
 Term logic
-The Antitrust Paradox
-The Bertrand Russell Case
-The Big Bang Theory
-The Big Bang Theory (season 8)
-The Green Paradox
-The Principles of Mathematics
-The Problems of Philosophy
 Theorem
-Theories of truth
 Theory (mathematical logic)
-Theory of descriptions
-Thomas Jech
-Thoralf Skolem
 Three-valued logic
 Timeline of mathematical logic
-Tractatus Logico-Philosophicus
 Transfer principle
-Transfinite induction
-Transfinite recursion
 Transitive set
-Transitive verb
 True arithmetic
 Truth predicate
 Truth table
 Truth value
-Tullock paradox
-Tuple
 Turing machine
 Type (model theory)
 Type theory

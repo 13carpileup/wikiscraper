@@ -1,158 +1,39 @@
-.NET
-AWK
-Abstract syntax tree
-ActionScript
-Adobe AIR
 Adobe Flash
-Ahead-of-time compilation
 Amsterdam Compiler Kit
 Android (operating system)
-Android Runtime
-Apache Flex
-BANCStar programming language
-BCEL
-BCPL
-BEAM (Erlang virtual machine)
-Berkeley Packet Filter
-Binary-coded decimal
 Byte
-Byte Code Engineering Library
-CLISP
-CMUCL
-CPython
 C (programming language)
 C Sharp (programming language)
 Clang
 Common Intermediate Language
-Common Language Runtime
-Common Lisp
-Compile and go system
-Compile time
 Compiler
 Computer program
-Cross-platform
-Crt0
-Dalvik (software)
-Dart (programming language)
-Dis virtual machine
-Dynamic recompilation
-EBPF
-Edward Mendelson
-EiffelStudio
 Eiffel (programming language)
-Emacs
-Emacs Lisp
-Embeddable Common Lisp
-Erlang (programming language)
-Esoteric programming language
-Ethereum
-Executable
-Execution (computing)
-Floating point format
-Forth (programming language)
 GNU Compiler Collection
-GNU lightning
 GitHub
 Google
-HHVM
-Human-readable code
 IBM
-IBM PC DOS
-IBM i
-Icon (programming language)
-Inferno (operating system)
 Infocom
-Instruction set
-Intermediate representation
-Interpreter (computer software)
 Interpreter (computing)
 Java (programming language)
-Java bytecode
-Java virtual machine
-Just-in-time compilation
-KEYB.COM
-KEYBOARD.SYS
-KEYB (DOS command)
-KEYB (command)
-Keiko bytecode
-LLVM
-LLVM IR
 Lisp (programming language)
-LuaJIT
-Lua (programming language)
 MATLAB
 MS-DOS
-Machine code
 Machine language
-Malbolge
-Microcode
 Microcontroller
 Microsoft
 Microsoft Visual C++
-Mono (software)
-MultiValue
-Multiplan
-Node.js
-O-code
-OCaml
-Oberon-2
-Oberon operating system
-ObjectWeb ASM
-Object code
-Object file
 Objective-C
-Opcode
 Operating system
-Optimizing compiler
-P-code
-P-code machine
 PC DOS
 PHP
-Parallax, Inc. (company)
-Parallax Propeller
-Parrot virtual machine
 Pascal (programming language)
 Perl
-Pick operating system
-Platform (computing)
-Portable code
-Precompilation
 Programming language
-PyPy
-Pyramid 2000
 Python (programming language)
-R (programming language)
-Raku (programming language)
-Register machine
-Rubinius
 Ruby (programming language)
-Run time (program lifecycle phase)
-Runtime system
-SQLite
-SWEET16
-Scheme 48
-Semantic analysis (compilers)
-Smalltalk
 Software portability
-Source-to-source compiler
 Source code
-Stack machine
-Steel Bank Common Lisp
-Swift (programming language)
-Tcl
-Tiny BASIC
-Tracing just-in-time compilation
-Translator (computing)
-UCSD Pascal
-Unicon (programming language)
-Usenet newsgroup
-V8 (JavaScript engine)
 Virtual machine
 Visual Basic (classic)
-Visual C++
-Visual FoxPro
 WebAssembly
-YARV
-Z-machine
-ZCODE
-Zend Engine

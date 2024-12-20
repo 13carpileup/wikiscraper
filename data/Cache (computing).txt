@@ -1,124 +1,33 @@
-Abstraction layer
-AccuWeather
 Amazon S3
-Application software
 ArXiv (identifier)
-Atomic operation
 Bandwidth (computing)
 Bibcode (identifier)
 Block (data storage)
-CPU cache
-Cache-oblivious algorithm
 Cache coherence
-Cache coloring
-Cache hierarchy
-Cache language model
-Cache manifest in HTML5
-Cache miss
-Cache prefetching
-Cache replacement policies
-Cache stampede
-Caching
 Central processing unit
-CiteSeerX (identifier)
-Client-side
-Cloud storage gateway
-Cloud storage service
-Compute kernel
 Computing
 Content delivery network
-D-cache
-DRAM
-Data buffer
-Data dictionary
 Database
-Database caching
-Database index
-Demand paging
-Desktop computer
-Digital signal processor
-Direct memory access
-Dirty bit
-Disk buffer
 Disk controller
-Disk storage
-Distributed cache
 Doi (identifier)
 Domain Name System
 Dynamic programming
-Embedded computing
-End-to-end principle
-Five-minute rule
-Flash memory
-Function call
 General-purpose computing on graphics processing units
 Google
 Graphics processing unit
-Hard disk
-Heuristic (computer science)
-Hierarchical storage management
-Hybrid cloud storage
-Hybrid drive
-I-cache
 IP address
 ISBN (identifier)
 ISSN (identifier)
-Image file format
-Information-centric networking
-InformationWeek
-Instruction (computing)
-Instruction cache
 Internet
 Internet service provider
 Kernel (operating system)
 Latency (engineering)
-Link prefetching
-Loader (computing)
-Locality of reference
-Main memory
-Materialized view
-Memoization
 Memory hierarchy
-Memory management unit
-Memory paging
 Microprocessor
-Mipmapping
-Modified Harvard architecture
-Network File System
-Network File System (protocol)
-Object storage
 Operating system
-Optical jukebox
-P2P caching
-Page cache
 Peer-to-peer
-Physical address
-Pipeline burst cache
-Prefetch input queue
-Prefetcher
-Program optimization
-Propagation delay
-Proxy server
-Qualcomm Hexagon
-Responsiveness
 S2CID (identifier)
-Scratchpad memory
-Server Message Block
 Shader
 Solid-state drive
-Solid-state hybrid drive
-Static random-access memory
-Swizzling (computer graphics)
-Synchronization primitive
-Tape drive
-Temporary file
-Texture cache
-Throughput
-Translation lookaside buffer
-URL
-Virtual address
 Web browser
-Web cache
-Web page
-Web search engine
 Web server

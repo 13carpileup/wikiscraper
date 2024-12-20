@@ -1,10 +1,7 @@
 ACE inhibitor
 ATC code A
 ATC code B
-ATC code B01
 ATC code C
-ATC code C02
-ATC code C03
 ATC code D
 ATC code D09
 ATC code G
@@ -18,23 +15,13 @@ ATC code R
 ATC code S
 ATC code V
 ATCvet code QI
-Acetazolamide
 Addiction medicine
 Adverse effect
-Aldosterone
-Aldosterone antagonist
-Alkaline
 Alkylating antineoplastic agent
-Altizide
-Ambrisentan
-Amiloride
-Ammonium chloride
-Amphotericin B
 Anabolic steroid
 Analgesic
 Anatomical Therapeutic Chemical Classification System
 Anesthetic
-Angiotensin II receptor antagonist
 Anorectic
 Anorexia (symptom)
 Antacid
@@ -43,348 +30,87 @@ Anti-inflammatory
 Anti-obesity medication
 Antianginal
 Antiarrhythmic agent
-Antibacterial
 Anticoagulant
 Anticonvulsant
-Antidementia drug
 Antidepressant
-Antidiarrhoeal
-Antidiuretic
-Antidiuretic hormone
 Antidote
 Antiemetic
 Antifibrinolytic
-Antifungal drug
 Antihemorrhagic
-Antihyperkinetic
-Antihypertensive
-Antihypertensive drug
 Antimetabolite
 Antimicrobial
 Antimigraine drug
-Antimineralocorticoid
 Antimycobacterial
 Antineoplastic
 Antiparasitic
 Antiplatelet drug
 Antipropulsive
-Antiprotozoal agent
 Antipruritic
-Antipsoriatic
 Antipsychotic
 Antithrombotic
 Antithyroid agent
 Antiviral drug
 Anxiolytic
 Aphrodisiac
-Arginine vasopressin receptor 2
-Aspirin
-Azosemide
-Bendroflumethiazide
-Benzamil
-Beraprost
 Beta blocker
 Bile acid sequestrant
 Bisphosphonate
 Blood
-Blood pressure
 Bone
-Bosentan
 Boxing
 Bronchodilator
-Bulimia nervosa
-Bumetanide
-Butizide
-Caffeine
-Calcification
 Calcium
 Calcium channel blocker
-Calcium chloride
-Canrenone
-Carbonic anhydrase inhibitor
-Carbonic anhydrase inhibitors
 Cardiac glycoside
 Cardiac stimulant
 Central nervous system
 Chemotherapy
-Chlormerodrin
-Chlorothiazide
-Chlortalidone
-Cicatrizant
-Cicletanine
 Circulatory system
-Clinical trial
-Clofenamide
-Clopamide
-Clorexolone
 Coagulation
-Collecting duct
-Collecting duct system
-Coma
-Competitive antagonist
-Confusion
-Conivaptan
 Constipation
-Contrast medium
-Cortical collecting ducts
 Corticosteroid
-Cough medicine
-Cyclopenthiazide
-Cyclothiazide
 Decongestant
 Dehydration
 Deliriant
-Demeclocycline
 Depressant
-Depression (mood)
-Descending limb of loop of Henle
 Diabetes medication
-Diabetes mellitus
-Dietary mineral
-Digoxin
 Disease-modifying antirheumatic drug
 Dissociative
-Distal convoluted tubule
-Distal convoluted tubules
-Diuresis
 Doi (identifier)
-Dopamine
-Doping in sport
-Dorzolamide
-Dose-response relationship
 Dressing (medicine)
-Drinking
-Drinking alcohol
-Drug
-Drug class
-Drug overdose
-Drug test
-Eating disorder
 Ectoparasiticide
-Emollient
 Endocrine system
-Endothelin receptor antagonist
-Entactogen
 Entheogen
-Epithelial sodium channel
-Epithelial sodium channel blocker
-Epitizide
-Eplerenone
-Etacrynic acid
-Ethacrynic acid
-Ethanol
-Etozolin
 Euphoria
-Excretion
-Fatigue (medical)
-Fenquizone
 Fertility medication
 Fibrate
-Finerenone
-Forced diuresis
-Furosemide
 General anaesthetic
 Genitourinary system
-Glomerular filtration rate
-Glomerulus (kidney)
 Glucocorticoid
-Glucose
-Glucosuria
-Glycerol
-Gout
 H1 antagonist
-H2 antagonist
 Hdl (identifier)
-Heart arrhythmia
-Heart failure
 Hormonal contraception
 Human brain
-Human gastrointestinal tract
 Human skin
-Hydrochlorothiazide
-Hydrochlorothiazide/triamterene
-Hydroflumethiazide
-Hypercalcemia
-Hyperglycemia
 Hyperkalemia
-Hypertension
 Hyperuricemia
 Hypnotic
-Hypocalcemia
-Hypokalemia
-Hypolipidemic agent
-Hyponatremia
-Hypotension
 Hypothalamic–pituitary hormone
-Hypovolemia
 ISBN (identifier)
 ISSN (identifier)
-Iloprost
 Immune system
-Immunomodulator
 Immunostimulant
 Immunosuppressive drug
-Increased urination
-Indacrinone
-Indapamide
 Infection
 Influenza
-Intravenous
-Intravenous immunoglobulin
-Isopropanol
 Joint
-Kidney
-Kidney disease
-Kidneys
-Kussmaul respirations
-Lassitude
-Laxative
-Lethargy
-List of withdrawn drugs
-Lithium (medication)
-Lithium carbonate
-Liver cirrhosis
-Local anesthetic
-Loop diuretic
-Loop diuretics
-Loop of Henle
-Macitentan
-Malignant
-Management of Parkinson's disease
-Mannitol
-Mebutizide
 Medical Subject Headings
 Medicine
-Mefruside
-Meralluride
-Mercurial diuretic
-Mersalyl
-Metabolic acidosis
-Metabolic alkalosis
 Metabolism
-Methazolamide
-Methyclothiazide
-Meticrane
-Metolazone
-Mineralocorticoid
-Mood stabilizer
-Motivation-enhancing drug
-Mozavaptan
-Muscle
-Muscle cramp
-Muscle cramps
-Muscle relaxant
-Muscle weakness
-Muzolimine
-Na+/K+-ATPase
-Na-H exchanger
-Na-K-2Cl symporter
-Na-K-Cl cotransporter
-Natriuresis
-Nausea
-Nephron
 Nervous system
-Neurological symptoms
-Neuroprotective
-Neurotoxin
-Non-steroidal anti-inflammatory drug
-Nonsteroidal
-Nootropic
-Ophthalmology
-Orexigenic
-Osmotic diuretic
-Otology
-Oxygen therapy
-Ozolinone
-PDE5 inhibitor
 PMC (identifier)
 PMID (identifier)
-Pancreatitis
-Paralysis
-Phases of clinical research
-Piretanide
-Platelet
-Polythiazide
-Potassium
-Potassium-sparing diuretic
-Potassium canrenoate
-Potassium canreonate
-Prostacyclin
-Proton-pump inhibitor
-Proximal tubule
-Psychedelic drug
-Psychedelics, dissociatives and deliriants
-Pulmonary hypertension
-Quinethazone
-Radiopharmacology
-Renal sodium reabsorption
-Renin inhibitor
-Renin–angiotensin system
-Respiratory system
-Riociguat
 S2CID (identifier)
-Salt (chemistry)
-Satavaptan
-Sedative
-Seizures
-Selective estrogen receptor modulator
-Selexipag
-Senotherapeutics
-Sense
-Serenic
-Sex steroid
-Sildenafil
-Sitaxentan
 Sodium
-Sodium-chloride symporter
-Sodium chloride
-Soluble guanylyl cyclase
-Spindle poison
-Spirolactone
-Spironolactone
-Statin
-Stimulant
-Stupor
-Sulfonamide (medicine)
-Tachycardia
-Tadalafil
-Tert-Amyl alcohol
-Theobromine
-Theophylline
-Therapeutic
-Thiazide
-Thiazide-like diuretic
-Thick ascending limb
-Thick ascending limb of loop of Henle
-Thirst
-Thrombolytic drug
-Thyroid hormone
-Tienilic acid
-Tolvaptan
-Topoisomerase inhibitor
-Torasemide
-Torsemide
-Treprostinil
-Triamterene
-Trichlormethiazide
-Urea
-Urine
-Urine production
-Vaccine
-Vasodilation
-Vasodilator
-Vasopressin
-Vasopressin receptor antagonist
-Vericiguat
-Vitamin
-Vomiting
-WHO Model List of Essential Medicines
-Wakefulness-promoting agent
-Warfarin
 Water
-Water poisoning
 Wayback Machine
-Weigh-in
-Wrestling
-Xanthine
-Xipamide

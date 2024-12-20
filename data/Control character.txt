@@ -1,20 +1,14 @@
 ABICOMP character set
 ANSEL
-ANSI X3.64
 ANSI escape code
 API
 ARIB STD B24 character set
-ASA carriage control characters
 ASCII
 ASMO 449
 ATASCII
-Acknowledge character
-Amstrad CP/M Plus character set
 Amstrad CPC character set
 Apple II character set
-Application Layer
 ArmSCII
-Arrow keys
 Atari ST character set
 BCD (character encoding)
 Backspace
@@ -22,12 +16,7 @@ Baudot code
 Bell character
 Big5
 Binary Ordered Compression for Unicode
-Binary numeral system
-Bit
 Bitstream International Character Set
-Bitwise AND
-Biuro Szyfrów
-Bob Bemer
 BraSCII
 C++
 C0 and C1 control codes
@@ -36,19 +25,14 @@ CDC display code
 CER-GS
 CESU-8
 CNS 11643
-CP/M
 CSX+ Indic character set
 CSX Indic character set
 CS Indic character set
 CWI-2
 C (programming language)
-C programming language
 Cancel character
-Caps Lock
-Caret notation
 Carriage return
 Casio calculator character sets
-Character (computing)
 Character encoding
 Character encodings in HTML
 Charset detection
@@ -71,17 +55,10 @@ Code page 1019
 Code page 1020
 Code page 1021
 Code page 1023
-Code page 1034
 Code page 1040
 Code page 1042
 Code page 1043
-Code page 1044
 Code page 1046
-Code page 1052
-Code page 1053
-Code page 1054
-Code page 1055
-Code page 1056
 Code page 1058
 Code page 1098
 Code page 1101
@@ -120,7 +97,6 @@ Code page 853
 Code page 855
 Code page 856
 Code page 857
-Code page 858
 Code page 859
 Code page 860
 Code page 861
@@ -137,7 +113,6 @@ Code page 896
 Code page 897
 Code page 899
 Code page 903
-Code page 904
 Code page 912
 Code page 915
 Code page 921
@@ -156,14 +131,8 @@ Comparison of Unicode encodings
 Compucolor II character set
 Computer terminal
 Computing
-Control-Z
-Control key
 Cooke and Wheatstone telegraph
 Cork encoding
-Ctrl-C
-Ctrl-D
-Ctrl-Z
-Cursor (user interface)
 Cyclic redundancy check
 DEC Hebrew
 DEC RADIX 50
@@ -174,59 +143,34 @@ DIN 66003
 DIN 91379
 DKOI
 DOS
-Data link escape character
-Delete character
-Device Control 1
-Device Control 2
-Device Control 3
-Device Control 4
 Digital Equipment Corporation
 Digital encoding of APL symbols
 Doi (identifier)
 EBCDIC
 ELOT 927
-End-of-Text character
-End-of-Transmission character
-End-of-text character
-End-of-transmission character
-End Transmission Block character
-End of Medium
 Enquiry character
 Escape character
-Escape sequence
 Extended ASCII
-Extended Binary Coded Decimal Interchange Code
 Extended Latin-8
 Extended Unix Code
-FLEX (operating system)
 FOCAL character set
-FTP
 Fieldata
-File separator
 File system
-Filename
-Form Feed
 GBK (character encoding)
 GB 12052
 GB 12345
 GB 18030
 GB 2312
-GCC (software)
 GEM character set
 GOST 10859
 GSM 03.38
 Galaksija (computer)
-General Category
-Graphic character
-Group separator
 HP Roman
-HTTP
 HZ (character encoding)
 Han unification
 Hardware code page
 Hong Kong Supplementary Character Set
 IBM AIX
-IEC-P27-1
 INIS-8
 INIS character set
 ISO-IR-111
@@ -235,45 +179,20 @@ ISO-IR-182
 ISO-IR-197
 ISO-IR-200
 ISO-IR-68
-ISO/IEC 10367
-ISO/IEC 2022
-ISO/IEC 646
-ISO/IEC 8859
-ISO/IEC 8859-1
-ISO/IEC 8859-10
-ISO/IEC 8859-11
-ISO/IEC 8859-12
-ISO/IEC 8859-13
-ISO/IEC 8859-14
-ISO/IEC 8859-15
-ISO/IEC 8859-16
-ISO/IEC 8859-2
-ISO/IEC 8859-3
-ISO/IEC 8859-4
-ISO/IEC 8859-5
-ISO/IEC 8859-6
-ISO/IEC 8859-7
-ISO/IEC 8859-8
-ISO/IEC 8859-9
 ISO 2033
-ISO 2047
 ISO 5426
 ISO 5427
 ISO 5428
 ISO 6438
 ISO 6862
-ISO 8859
 ITU T.61
-In-band signaling
 Indian Script Code for Information Interchange
-Intecolor/Compucolor 8001 character set
 Iran System encoding
 JIS X 0201
 JIS X 0208
 JIS X 0211
 JIS X 0212
 JIS X 0213
-JSON streaming
 Japanese language in EBCDIC
 KOI-7
 KOI8-R
@@ -284,13 +203,9 @@ KPS 9566
 KS X 1001
 KS X 1002
 Kamenický encoding
-Keyboard (computing)
 LST 1564
 LST 1590-4
 LY1 encoding
-Left-to-right
-Line Feed
-Line feed
 Lotus International Character Set
 Lotus Multi-Byte Character Set
 MARC-8
@@ -314,7 +229,6 @@ Mac OS Hebrew
 Mac OS Icelandic encoding
 Mac OS Inuit
 Mac OS Keyboard encoding
-Mac OS Maltese/Esperanto encoding
 Mac OS Ogham
 Mac OS Roman
 Mac OS Romanian encoding
@@ -331,69 +245,38 @@ Mojikyō
 Morse code
 Morse code for non-Latin alphabets
 Multinational Character Set
-Murray code
-NAK
 NEC APC character set
 National Replacement Character Set
 NeXT character set
-Newline
-Non-printable character
-Non-printing character in word processors
-Null-terminated string
 Null character
 OML encoding
 OMS encoding
-OS-9
 OT1 encoding
-Out-of-band data
-Output padding
 PETSCII
-Page break
-Paper tape
 Perso-Arabic Script Code for Information Interchange
 Personal computer
 PostScript Latin 1 Encoding
 PostScript Standard Encoding
-Programmable ROM
 Programming language
 Prosigns for Morse code
-Punched card
-RFC (identifier)
 RISC OS character set
 RPL character set
-Record-oriented filesystem
-Record separator
-Request for Comments
-Right-to-left
 Russian Morse code
-SAM Coupé character set
 SI 960
-SMTP
 SQUOZE
-Scancode
 Sega SC-3000 character set
 Sharp MZ character set
 Sharp pocket computer character sets
 Shift JIS
-Shift Out and Shift In characters
-Shift key
 Sinclair QL character set
-Software flow control
 Space (punctuation)
 Standard Compression Scheme for Unicode
-Stanford/ITS character set
 Stanford Extended ASCII
-Start-of-Header
-Start-of-Text
 Substitute character
 Symbol (typeface)
-Synchronous idle character
-T.51/ISO/IEC 6937
 TI calculator character sets
 TRON (encoding)
 TRS-80 character set
-Tab character
-Tab key
 Tamil All Character Encoding
 Tamil Script Code for Information Interchange
 TeX
@@ -402,10 +285,8 @@ Telegraph code
 Teletex
 Teletext
 Teletext character set
-Teletype
 Thai Industrial Standard 620-2533
 Transcode (character encoding)
-UNIX systems
 UTF-1
 UTF-16
 UTF-32
@@ -415,9 +296,7 @@ UTF-EBCDIC
 Unicode
 Unicode control characters
 Unified Hangul Code
-Unit separator
 Universal Coded Character Set
-Unix shell
 VISCII
 VSCII
 VT100
@@ -425,7 +304,6 @@ VT100 encoding
 VT220
 Variable-width encoding
 Ventura International
-Vertical Tab
 Videotex
 Videotex character set
 Wabun code
@@ -442,18 +320,11 @@ Windows-1256
 Windows-1257
 Windows-1258
 Windows-1270
-Windows Cyrillic + Finnish
-Windows Cyrillic + French
-Windows Cyrillic + German
 Windows Polytonic Greek
 Windows code page
-Word processing
 World System Teletext
-XOFF
-XON
 Xerox Character Code Standard
 YUSCII
 ZX80 character set
 ZX81 character set
 ZX Spectrum character set
-Zero-width non-joiner

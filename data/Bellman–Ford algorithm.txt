@@ -1,77 +1,10 @@
-A* search algorithm
 Algorithm
-Alpha–beta pruning
 ArXiv (identifier)
-Autonomous system (Internet)
-B*
-Beam search
-Best, worst and average case
-Best-first search
-Bidirectional search
-Big O notation
-Borůvka's algorithm
 Breadth-first search
-Charles E. Leiserson
-Cycle (graph theory)
-Cycle detection
-D*
-D. R. Fulkerson
-David Eppstein
-Dense graph
-Depth-first search
 Dijkstra's algorithm
-Distance-vector routing protocol
 Doi (identifier)
-Edward F. Moore
-Expected value
 Flow network
-Floyd–Warshall algorithm
-Fringe search
-Georgetown University
-Graph (data structure)
 Graph traversal
-Greedy algorithm
 ISBN (identifier)
-Introduction to Algorithms
-Iterative deepening A*
-Iterative deepening depth-first search
-Johnson's algorithm
-Jon Kleinberg
-Jump point search
-Kruskal's algorithm
-L. R. Ford Jr.
-Lexicographic breadth-first search
-Lifelong Planning A*
-List of algorithms
-MR (identifier)
 Mathematical induction
-Minimum-cost flow problem
 Minimum spanning tree
-Monte Carlo tree search
-Network topology
-O'Reilly Media
-Parallel breadth-first search
-Prim's algorithm
-Priority queue
-Random permutation
-Relaxation (iterative method)
-Reverse-delete algorithm
-Richard Bellman
-Robert Sedgewick (computer scientist)
-Ron Rivest
-Routing Information Protocol
-SMA*
-SSS*
-Shortest path
-Shortest path faster algorithm
-Shortest path problem
-Single-source shortest path problem
-Space complexity
-Thomas H. Cormen
-Time complexity
-Tree traversal
-Vertex (graph theory)
-Walk (graph theory)
-Weighted digraph
-Yen's algorithm
-Éva Tardos

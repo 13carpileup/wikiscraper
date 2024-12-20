@@ -1,16 +1,7 @@
 API
 Abstraction (computer science)
 Agile software development
-Application software
-Aspect-oriented programming
-Bill of materials
-Binary-code compatibility
-Bug compatibility
-CI/CD
 Capability Maturity Model Integration
-Clock rate
-Compatibility layer
-Compatibility mode
 Compiler
 Component-based software engineering
 Computer compatibility
@@ -18,127 +9,57 @@ Computer engineering
 Computer programming
 Computer science
 Computing
-DLL Hell
-Data model
-Data modeling
-Deprecation
-DevOps
-Downgrade attack
-Empirical software engineering
-Emulator
 Enterprise architecture
-Enterprise unified process
-Entity–relationship model
 Essential systems analysis
 Eurogamer
-Executable
-Executable UML
-Experimental software engineering
-Extreme programming
 FM broadcasting
-Flag day (computing)
 Formal methods
-Forward compatibility
-Function model
-Functional specification
 GameCube
 IBM
-IBM System/360
-IBM System/370
-IBM System/390
-IDEF
 ISBN (identifier)
-ISO/IEC 15504
 Imagine Media
 Incremental build model
-Information model
 Information science
-Input/output
 Instruction set architecture
 Intel
-Intel 8080
-Intel 8086
-Intel 8088
 Interoperability
 Iterative and incremental development
-Legacy mode
-Legacy system
 List of Xbox games compatible with Xbox 360
-List of backward-compatible games for Xbox One and Series X/S
-Metamodeling
 Microprocessor
-Model-driven engineering
 Modeling language
-Monaural
 Next Generation (magazine)
 Nintendo Entertainment System
 Object-oriented programming
-Object model
-Ontology (information science)
-Opaque pointer
 Operating system
 PlayStation (console)
 PlayStation 2
 PlayStation 5
-PowerPC
 Programming paradigm
 Project management
-Rapid application development
 ReactOS
 Requirements engineering
 Risk management
 Round-trip engineering
-Scrum (software development)
-Search-based software engineering
-Service-oriented architecture
-Shim (computing)
-Signal (electrical engineering)
-Site reliability engineering
-Social software engineering
 Software
 Software archaeology
-Software architecture
 Software configuration management
 Software deployment
 Software design
 Software development process
 Software engineering
-Software incompatibility
 Software maintenance
-Software prototyping
 Software quality
 Software quality assurance
-Software regression
-Software system
 Software testing
-Software verification and validation
-Source-to-source compiler
-Spiral model
 Stereophonic sound
-Structured analysis
 Super Nintendo Entertainment System
-Switching barriers
 Systems analysis
-Systems development life cycle
 Systems engineering
-Systems modeling
-Systems modeling language
 Technology
 Technology roadmap
 Telecommunications
-Time to market
 Unified Modeling Language
-Unified Process
-Universal Systems Language
-Upgrade
-V-model (software development)
-Vendor lock-in
-View model
-WDC 65C816
 Waterfall model
-Wi-Fi
 Wii
 X86
-Xbox Series X/S
-Z/Architecture
 Zilog Z80

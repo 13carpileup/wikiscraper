@@ -1,33 +1,23 @@
 ABICOMP character set
-ANPA-1312
 ANSEL
-ANSI X3.4
 ANSI escape code
-ANSI escape sequence
-ANSI escape sequences
 ARIB STD B24 character set
 ASCII
 ASMO 449
 ATASCII
-Acknowledge character
 American National Standards Institute
-Amstrad CP/M Plus character set
 Amstrad CPC character set
 Apple II character set
 ArmSCII
 Atari ST character set
 BCD (character encoding)
 Backspace
-Basic Latin (Unicode block)
 Baudot code
 Bell character
-Bidirectional Text
 Big5
 Binary Ordered Compression for Unicode
 Bitstream International Character Set
-Block-oriented terminal
 BraSCII
-Brian Fox (computer programmer)
 CCSID
 CDC display code
 CER-GS
@@ -38,8 +28,6 @@ CSX Indic character set
 CS Indic character set
 CWI-2
 Cancel character
-Caret notation
-Carnegie Mellon University
 Carriage return
 Casio calculator character sets
 Character encoding
@@ -63,17 +51,10 @@ Code page 1019
 Code page 1020
 Code page 1021
 Code page 1023
-Code page 1034
 Code page 1040
 Code page 1042
 Code page 1043
-Code page 1044
 Code page 1046
-Code page 1052
-Code page 1053
-Code page 1054
-Code page 1055
-Code page 1056
 Code page 1058
 Code page 1098
 Code page 1101
@@ -112,7 +93,6 @@ Code page 853
 Code page 855
 Code page 856
 Code page 857
-Code page 858
 Code page 859
 Code page 860
 Code page 861
@@ -129,7 +109,6 @@ Code page 896
 Code page 897
 Code page 899
 Code page 903
-Code page 904
 Code page 912
 Code page 915
 Code page 921
@@ -144,49 +123,32 @@ Code page 950
 Code page 951
 Comparison of Unicode encodings
 Compucolor II character set
-Control Pictures
-Control Sequence Introducer
 Control character
 Cooke and Wheatstone telegraph
 Cork encoding
-DC1
 DEC Hebrew
 DEC RADIX 50
 DEC Special Graphics
 DEC Technical Character Set
 DG International
 DIN
-DIN 31626
 DIN 66003
 DIN 91379
 DKOI
-De facto standard
-Decimal separator
-Delete character
-Delimiter
 Digital Equipment Corporation
 Digital encoding of APL symbols
 Dynamically Redefined Character Set
 EBCDIC
-ECMA-35
-ECMA-48
 ELOT 927
-EUC-JP
 Ecma International
 Emoji
-End-of-Text character
-End-of-Transmission-Block character
-End-of-Transmission character
 Enquiry character
 Error detection and correction
-Escape Sequences in C
 Escape character
 Extended Latin-8
 Extended Unix Code
 FOCAL character set
-Federal Standard 1037C
 Fieldata
-Form feed
 GBK (character encoding)
 GB 12052
 GB 12345
@@ -194,71 +156,34 @@ GB 18030
 GB 2312
 GEM character set
 GNU Compiler Collection
-GNU Project
 GOST 10859
 GSM 03.38
 Galaksija (computer)
-Group separator
 HP Roman
 HZ (character encoding)
 Han unification
 Hardware code page
-Hexadecimal
 Hong Kong Supplementary Character Set
-Horizontal Tab
 IBM AIX
-IEC-P27-1
 INIS-8
 INIS character set
-IPTC
-IPTC 7901
 ISBN (identifier)
-ISO-IR
 ISO-IR-111
 ISO-IR-169
 ISO-IR-182
 ISO-IR-197
 ISO-IR-200
 ISO-IR-68
-ISO/IEC 10367
-ISO/IEC 2022
-ISO/IEC 4873
-ISO/IEC 6429
-ISO/IEC 646
-ISO/IEC 8859
-ISO/IEC 8859-1
-ISO/IEC 8859-10
-ISO/IEC 8859-11
-ISO/IEC 8859-12
-ISO/IEC 8859-13
-ISO/IEC 8859-14
-ISO/IEC 8859-15
-ISO/IEC 8859-16
-ISO/IEC 8859-2
-ISO/IEC 8859-3
-ISO/IEC 8859-4
-ISO/IEC 8859-5
-ISO/IEC 8859-6
-ISO/IEC 8859-7
-ISO/IEC 8859-8
-ISO/IEC 8859-9
-ISO/IEC JTC 1/SC 2
-ISO 2022
 ISO 2033
 ISO 5426
 ISO 5427
 ISO 5428
 ISO 6438
-ISO 646
 ISO 6862
-ISO 8859
 ITU
-ITU T.51
 ITU T.61
 Indian Script Code for Information Interchange
-Info (Unix)
 Information Processing Society of Japan
-Intecolor/Compucolor 8001 character set
 International Organization for Standardization
 Iran System encoding
 JIS X 0201
@@ -280,8 +205,6 @@ Kermit (protocol)
 LST 1564
 LST 1590-4
 LY1 encoding
-Latin-1 Supplement
-Line feed
 Lotus International Character Set
 Lotus Multi-Byte Character Set
 MARC-8
@@ -305,7 +228,6 @@ Mac OS Hebrew
 Mac OS Icelandic encoding
 Mac OS Inuit
 Mac OS Keyboard encoding
-Mac OS Maltese/Esperanto encoding
 Mac OS Ogham
 Mac OS Roman
 Mac OS Romanian encoding
@@ -326,9 +248,6 @@ Multinational Character Set
 NEC APC character set
 National Replacement Character Set
 NeXT character set
-Negative-acknowledge character
-Newline
-Null-terminated string
 Null character
 OML encoding
 OMS encoding
@@ -340,33 +259,25 @@ PostScript Latin 1 Encoding
 PostScript Standard Encoding
 Prosigns for Morse code
 Python (programming language)
-Python Software Foundation
-RFC (identifier)
 RISC OS character set
 RPL character set
 Russian Morse code
-SAM Coupé character set
 SI 960
 SQUOZE
 Sega SC-3000 character set
 Sharp MZ character set
 Sharp pocket computer character sets
 Shift JIS
-Shift Out and Shift In characters
 Sinclair QL character set
 Soft hyphen
-Software flow control
 Space (punctuation)
 Standard Compression Scheme for Unicode
-Stanford/ITS character set
 Stanford Extended ASCII
 Substitute character
 Symbol (typeface)
-T.51/ISO/IEC 6937
 TI calculator character sets
 TRON (encoding)
 TRS-80 character set
-Tab stop
 Tamil All Character Encoding
 Tamil Script Code for Information Interchange
 TeX
@@ -375,7 +286,6 @@ Teletex
 Teletext
 Teletext character set
 Terminal emulator
-Text terminal
 Thai Industrial Standard 620-2533
 Transcode (character encoding)
 UTF-1
@@ -387,7 +297,6 @@ UTF-EBCDIC
 Unicode
 Unicode Consortium
 Unicode block
-Unicode character property
 Unicode control characters
 Unified Hangul Code
 Universal Coded Character Set
@@ -397,7 +306,6 @@ VT100 encoding
 VT220
 Variable-width encoding
 Ventura International
-Vertical Tab
 Videotex
 Videotex character set
 Wabun code
@@ -413,20 +321,11 @@ Windows-1256
 Windows-1257
 Windows-1258
 Windows-1270
-Windows Cyrillic + Finnish
-Windows Cyrillic + French
-Windows Cyrillic + German
 Windows Polytonic Greek
 Windows code page
-Word joiner
 World System Teletext
-XMODEM
 Xerox Character Code Standard
-Xterm
 YUSCII
 ZX80 character set
 ZX81 character set
 ZX Spectrum character set
-Zero-width joiner
-Zero-width non-joiner
-Zero-width space

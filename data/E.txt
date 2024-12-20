@@ -1,31 +1,14 @@
-&
 A
 ASCII
 AZERTY
 Alphabet
 American Sign Language
-American manual alphabet
-Avogadro constant
 B
-Braille pattern dots-15
-Breve
-British Sign Language
-British manual alphabet
-BÉPO
 C
-Caron
-Central College (Iowa)
-Ch (digraph)
-Classical Latin alphabet
 Close-mid central unrounded vowel
-Close-mid front unrounded vowel
-Close central unrounded vowel
 Close front unrounded vowel
-Colemak
-Coptic alphabet
 Cryptography
 Cyrillic
-Czech language
 D
 DIN 91379
 Danish language
@@ -35,234 +18,76 @@ Diacritic
 Digraph (orthography)
 Diphthong
 Doi (identifier)
-Dot (diacritic)
 Dutch language
 Dvorak keyboard layout
-Dz (digraph)
-Dž
-E-number
 EBCDIC
 E (Cyrillic)
-E (mathematical constant)
-E with stroke
-Eau (trigraph)
-Egyptian hieroglyph
-Ehwaz
 Elementary charge
-English alphabet
 English language
-English orthography
 Epsilon
-Epsilon (letter)
-Estimated sign
-Euler's number
-Euro sign
 European Union
-Existential quantifier
-E̋
-E̩
-E♯
 F
-Fingerspelling
 Flag semaphore
 French language
-French orthography
-Frequency (statistics)
 G
 German language
 German orthography
-Gh (digraph)
 Gothic alphabet
 Great Vowel Shift
 Greek alphabet
 H
 He (letter)
-Hexadecimal
-History of the International Phonetic Alphabet
-History of the Latin script
-Hungarian dzs
-Hungarian language
 Hungarian ly
 I
-IJ (digraph)
 ISBN (identifier)
-ISO/IEC 646
-ISO basic Latin alphabet
 ISSN (identifier)
-Indo-European studies
 International Phonetic Alphabet
 International maritime signal flags
 J
 K
 L
-Languages of Europe
 Latin-script alphabet
-Latin-script multigraph
 Latin alphabet
-Latin epsilon
-Latin language
-Latin letters used in mathematics
 Latin script
-Latin script in Unicode
-Latvian language
-Letter (alphabet)
-Ligature (writing)
-Lipogram
-List of Latin-script alphabets
-List of Latin-script digraphs
-List of Latin-script keyboard layouts
-List of Latin-script letters
-List of Latin-script pentagraphs
-List of Latin-script tetragraphs
-List of Latin-script trigraphs
-List of precomposed Latin characters in Unicode
-List of typographical symbols and punctuation marks
-Lj (digraph)
-Ll
 M
-Macron (diacritic)
 Michael Everson
-Mid-central vowel
 Mid central vowel
-Mid front unrounded vowel
 Mid vowel
 Middle English
-Mole (unit)
 Monophthong
 Morse code
 N
-NATO spelling alphabet
-Nasal vowel
 Near-close near-front unrounded vowel
 Near-open central vowel
-Neo (keyboard layout)
 Nh (digraph)
-Nj (digraph)
-Norwegian language
 Numeric character reference
 Ny (digraph)
 O
-Old Italic script
-Open-mid central rounded vowel
-Open-mid central unrounded vowel
 Open-mid front unrounded vowel
-Open syllable
-Ough (orthography)
 P
-Palaeography
-Palatalization (phonetics)
 Phoenician alphabet
 Phonetic transcription
 Pinyin
-Portuguese orthography
-Predicate logic
 Q
-QWERTY
-QWERTZ
 R
-R-colored vowel
 Roman numerals
-Romanization
-Runes
 S
-Saanich dialect
-Scientific calculator
-Scientific notation
-Semitic alphabet
 Set theory
-Sh (digraph)
-Silent e
 Spanish language
-Spanish orthography
-Spelling alphabet
-Spread of the Latin script
 Standard Chinese
-Swedish Dialect Alphabet
-Swedish language
-Sz (digraph)
 T
-Teuthonista
-Th (digraph)
-Turkish alphabet
-Tzsch
 U
 UTF-8
 Ukrainian Ye
-Umlaut (diacritic)
 Unicode
-Unified English Braille
-Uralic Phonetic Alphabet
 V
 Voiced palatal approximant
-Voiceless glottal fricative
 Vowel
 W
-Western Latin character sets (computing)
 X
-X-SAMPA
 Y
 Ye (Cyrillic)
 Z
-Æ
 È
-È̩
 É
-É̩
 Ê
-Ê̄
-Ê̌
-Ë
-Ē
-Ĕ
-Ė
-Ė́
-Ė̃
-Ę
-Ę́
-Ę̃
-Ě
-Œ
-Ǝ
-Ə
-Ɛ
-Ȅ
-Ȇ
-Ȩ
-Ё
-Є
-Е
-Э
-Һ
-Ҽ
-Ә
-ࠄ
-ᶒ
-ᶔ
-ᶟ
-Ḕ
-Ḗ
-Ḙ
-Ḛ
-Ḝ
-Ẹ
-Ẻ
-Ẽ
-Ế
-Ề
-Ể
-Ễ
-Ệ
-€
-ℇ
-℥
-℮
-ℯ
-ℰ
-∈
-♯
-ⱸ
-Ⲉ
-ꬳ
-ꬴ
-𐌄
-𐎅

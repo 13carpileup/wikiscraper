@@ -1,316 +1,61 @@
-180-line television system
-343-line television system
-375-line television system
-405-line television system
-441-line television system
-455-line television system
-525-line television system
-625-line television system
-819 line
-ALLISS
 AM broadcasting
-ARRL
-AWX antenna
-Adcock antenna
-Amateur radio
-American Radio Relay League
-Amplifier
-Analog television
 Antenna (radio)
-Antenna array
-Antenna array (electromagnetic)
-Antenna efficiency
-Antenna gain
-Antenna measurement
-Antenna rotor
-Antenna tuner
-Antenna types
-Antinode
-Atmospheric noise
 Balanced line
-Balun
-Band I
-Band III
-Basis functions
-Batwing antenna
-Beam tilt
-Beverage antenna
 Bibcode (identifier)
-Biconical antenna
-Black level
-Blanking level
-Broadcast television systems
-Broadcast transmitter
-CCIR System A
-CCIR System B
-CCIR System C
-CCIR System D
-CCIR System E
-CCIR System G
-CCIR System H
-CCIR System I
-CCIR System K
-CCIR System L
-CCIR System M
-CCIR System N
-Cage aerial
-Cantenna
-Capacitive reactance
-Cassegrain antenna
-Characteristic impedance
-Charles Samuel Franklin
-Choke ring antenna
-Chrominance
-Chrominance subcarrier
 Circular polarization
-Circularly disposed antenna array
-Clear-Vision
-Coaxial antenna
 Coaxial cable
-Collinear antenna array
-Color killer
 Color television
-Colorburst
-Composite video
-Conformal antenna
-Corner reflector
-Corner reflector antenna
-Corona discharge
-Cosine integral
-Crossed field antenna
-Curtain array
 Decibel
-Dibner Institute for the History of Science and Technology
-Dielectric resonator antenna
-Differential gain
-Differential phase
-Digital television transition
-Diplexer
-Dipole field strength in free space
-Dirac delta function
-Direct-broadcast satellite television
 Direct current
 Directional antenna
-Directive gain
-Directivity
-Discone antenna
 Displacement current
-Distortion
-Distortionmeter
 Doi (identifier)
-Dot crawl
-Driven element
-Dummy load
-Earth bulge
-Electric arc
 Electric field
-Electrical length
-Electrical reactance
-Electrical resonance
 Electromagnetic radiation
 Electron
-Electronic symbol
-Euler constant
-Evolved antenna
 FM broadcasting
-FM radio
 Far field
-Feed line
-Feedline
-Ferrite (magnet)
-Ferrite core
-Field strength in free space
-Field strength meter
-Folded inverted conformal antenna
-Folded unipole antenna
-Fractal antenna
-Frame (video)
-Frequency mixer
 Frequency modulation
-Frequency offset
-G5RV antenna
-Gain (electronics)
-Ghosting (television)
-Gizmotchy
-Ground dipole
-Ground plane
 Guglielmo Marconi
 Half-wave dipole
-Halo antenna
-Hanover bars
 Heinrich Hertz
-Helical antenna
-Hi-fi
 High frequency
-Horizontal blanking interval
-Horizontal polarization
-Horizontal scan rate
-Horn antenna
 ISBN (identifier)
-Impedance matching
-Impedance of free space
-Infinitesimal
 Institute of Electrical and Electronics Engineers
 Integral
-Intercarrier method
 Interference (wave propagation)
-Intermediate frequency
 Internet Archive
-Inverse square law
-Inverted-F antenna
-Inverted vee antenna
-Isotropic antenna
-Isotropic radiator
-Isotropy
-J-pole antenna
-Jed Z. Buchwald
 John D. Kraus
-Loading coil
-Log-periodic antenna
-Loop antenna
-Lorenz gauge
 Low frequency
-Luma (video)
 MATLAB
-MIT
-Mast radiator
-Matching network
-Mathematica
 Medium frequency
 Medium wave
-Microstrip antenna
-Microwave transmission
 Monopole antenna
-Moxon antenna
-Multichannel television sound
-NICAM
-NTSC
-NTSC-J
-Near Vertical Incidence Skywave
-Near vertical incidence skywave
-Noise (electronics)
-Nominal analogue blanking
-Null fill
 OCLC (identifier)
-Offset dish antenna
-Ohm (unit)
-Omnidirectional antenna
-Outline of television broadcasting
-Output power of an analog TV transmitter
 Over-the-horizon radar
-Overscan
-PAL
-PAL-M
-PAL-S
-PALplus
-Parabolic antenna
-Parasitic element
-Patch antenna
-Path loss
-Permeability of free space
-Phased array
-Planar array
-Plasma antenna
 Poynting vector
-Pre-emphasis
-Q factor
-Quad antenna
-Quadrature amplitude modulation
-Radar altimeter
 Radiation
-Radiation pattern
-Radiation resistance
 Radio
 Radio amateur
 Radio frequency
-Radio masts and towers
 Radio propagation
 Radio receiver
 Radio telescope
 Radio wave
-Random wire antenna
-Raster scan
-Reactance (electronics)
-Reconfigurable antenna
-Rectenna
-Reference antenna
-Reflective array antenna
-Regenerative loop antenna
-Residual carrier
 Resonator
-Retarded potential
-Rhombic antenna
-Rubber ducky antenna
-Rutgers University
-SECAM
-Safe area (television)
-Saturation (magnetic)
-Sector antenna
-Self capacitance
-Short backfire antenna
 Shortwave
-Shortwave band
-Shortwave listening
-Single-ended signaling
-Single-sideband modulation
-Skew (antenna)
-Sloper antenna
-Slot antenna
-Solid angle
-Sound-in-Syncs
-Sparklies
 Speed of light
-Spherical coordinates
-Spiral antenna
-Split sound system
 Standing wave
-Standing wave ratio
-Sterba antenna
-Strain insulator
 String (music)
-Superheterodyne transmitter
-Superposition principle
-T-antenna
-T2FD antenna
 Telecommunications
-Television antenna
-Television channel frequencies
-Television interference
-Television lines
-Television receive-only
-Television receiver
 Television transmitter
 Terrestrial television
-Toroid
-Toroidal inductors and transformers
 Transformer
-Transmission (telecommunications)
 Transmission line
 Transmitter
-Transmitter station
-Transposer
-Trigonometric integral
-Turnstile antenna
-Twin lead
-Two-way radio
 Ukrainian T-shaped Radio telescope, second modification
 Ultra high frequency
-Umbrella antenna
-University of Texas
-VHF
-VIT signals
-Vector potential
-Vectorscope
-Vertical blanking interval
 Very high frequency
-Vivaldi antenna
 Watt
 Wavelength
 Wavenumber
-Whip antenna
-White clipper
-WokFi
-Yagi antenna
-Yagi–Uda antenna
-Zero reference pulse
-Zweikanalton

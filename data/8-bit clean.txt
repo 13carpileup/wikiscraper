@@ -1,46 +1,11 @@
-32-bit clean
-8-bit computing
-8BITMIME
 ASCII
 Alphabet
-Ascii85
-Base64
-BinHex
-Binary-to-text encoding
-Binary file
-Bit
 Byte
-CRLF
 Character encoding
 Communications protocol
-Computer system
-Control characters
 Doi (identifier)
 EBCDIC
-End-of-Text character
 English language
-Exim
-Flag bit
-IETF
-In-band signaling
-Keith Moore
 Kermit (protocol)
-MIME
-Mail transfer agent
-Mark Crispin
 Mojibake
-NNTP
-Octet (computing)
-Parity bit
-Plain text
-Qmail
-Quoted-printable
-RFC (identifier)
-Request for Comments
-SMTP
-SMTPUTF8
-SREC (file format)
-Telnet
-Theodore Ts'o
 Usenet
-Uuencoding

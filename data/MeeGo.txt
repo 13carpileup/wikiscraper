@@ -1,21 +1,13 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
 API
-ARM architecture
-Accounts & SSO
-Acer Inc.
 Advanced Micro Devices
-Alcatel-Lucent
-Alcatel Mobile
-Aleksi Eeben
 AlmaLinux
 Alpine Linux
 Amazon Kindle
 Android-x86
 Android (operating system)
 Android Go
-Anssi Vanjoki
 Antergos
 AntiX
 ArchBang
@@ -23,25 +15,17 @@ ArchLabs
 Arch Linux
 Artix Linux
 Asahi Linux
-Asianux
-AsteroidOS
 Astra Linux
 Asturix
-Asus
-Asus Eee PC
 Austrumi Linux
-Automotive navigation system
 B2G OS
 BLAG Linux and GNU
 BackBox
 BackTrack
 Bada (operating system)
-Banshee (media player)
-Bengt Holmström
 Bharat Operating System Solutions
 Binary Runtime Environment for Wireless
 BioSLAX
-Björn Westerlund
 BlackArch
 BlackBerry 10
 BlackBerry OS
@@ -50,13 +34,11 @@ Black Lab Linux
 BlankOn Linux
 Bodhi Linux
 BridgeOS
-Btrfs
 CHAOS (operating system)
 CRUX
 Calculate Linux
 Caldera OpenLinux
 CalyxOS
-Casimir Ehrnrooth
 CentOS
 CentOS Stream
 Chakra (operating system)
@@ -64,20 +46,15 @@ Chimera Linux
 ChromeOS
 ChromeOS Flex
 ChromiumOS
-Chromium (web browser)
 ClearOS
 Clear Linux OS
-Clutter (toolkit)
-Collabora
 ColorOS
 Commodore OS
 Comparison of Linux distributions
 Comparison of mobile operating systems
 Compiler
-Computex
 Consumer electronics
 Container Linux
-Cordia
 Corel Linux
 CrDroid
 CrunchBang Linux
@@ -85,50 +62,36 @@ Cub Linux
 CyanogenMod
 Damn Small Linux
 Damn Vulnerable Linux
-Data Analytics Library
 Debian
 Deepin
 DemoLinux
 Devuan
 Digital distribution
 DivestOS
-Dopplr
 DoudouLinux
 Dreamlinux
 EA Mobile
 EMUI
 EPOC (operating system)
-Earthmine
-Eduard Polón
 Edubuntu
 Elementary OS
 Elive
 Embedded system
 Emmabuntüs
-Empathy (software)
 EndeavourOS
 Endless OS
 Engadget
-Enpocket
-Esko Aho
 EulerOS
-Evolution (software)
-F5 Networks
 Familiar Linux
-FeatherPad
 Feather Linux
-Fedora (operating system)
 Fedora Linux
 File system
 Fire OS
 Firefox OS
 Floppyfw
 Foresight Linux
-Frank Nuovo
-Fredrik Idestam
 FreeBSD
 FreeRTOS
-Free Initiative
 FreedomBox
 Freespire
 Frugalware Linux
@@ -138,82 +101,38 @@ GNU
 GNU Core Utilities
 GNU General Public License
 GNU Guix System
-GNU Lesser General Public License
 GNewSense
 GOS (operating system)
-GTK+
-Gambas
 Gameloft
 Garuda Linux
 GeckoLinux
-General Motors
 Gentoo Linux
 GoboLinux
 Gobuntu
 GrapheneOS
 Graphical user interface
-Groupe PSA
-Gwibber
 HMD Global
 HTML5
-Hancom
 HandyLinux
 HarmonyOS
 HarmonyOS NEXT
-Havok (company)
-Havok (software)
-Henning Kagermann
-Here (company)
-Hildon
-Hongmeng OS
-Hyperbola GNU/Linux-libre
-INTERP/80
 IOS
-IPTV
 IPadOS
-Igalia
-Iiro Viinanen
 Immunix
-In-car entertainment
-In car entertainment
-Information appliance
-Instant-on
-Instituto de Desenvolvimento Tecnológico
-Integrated Performance Primitives
 Intel
-Intel Advisor
 Intel AppUp
-Intel Atom
-Intel C++ Compiler
-Intel Developer Zone
-Intel Fortran Compiler
-Intel Inspector
 Intel Management Engine
-Intel Parallel Studio
-Intel Research
-Intellisync
 IodéOS
-Ipsilon Networks
-Jaguar Land Rover
-Jarkko Oikarinen
-Johnson Controls
 Jolla
-Jolla (smartphone)
-Jorma Ollila
 Jurix
-KDE
 KDE Partition Manager
-KDE Plasma
 KDE neon
 KaOS
-Kaapelitehdas
 KaiOS
 Kaisen Linux
 Kali Linux
 Kanotix
-Kari Kairamo
 KateOS
-Kdenlive
 Kernel (operating system)
 Knoppix
 Kongoni (operating system)
@@ -221,21 +140,13 @@ Korora (operating system)
 Kubuntu
 Kwort Linux
 LXLE Linux
-LXQt
-Lalita D. Gupte
-Lanedo
-Lauri Kivekäs
-Lenovo IdeaPad S10-3s
-Leo Mechelin
 Libranet
 LinHES
-Linaro
 LineageOS
 Linpus Linux
 Linux
 LinuxTLE
 Linux Caixa Mágica
-Linux Foundation
 Linux Kernel
 Linux Lite
 Linux Mint
@@ -244,15 +155,11 @@ Linux distribution
 Linux for PlayStation 2
 Linux kernel
 List of Linux distributions
-List of acquisitions by Nokia
 List of custom Android distributions
-List of language bindings for Qt 4
-List of language bindings for Qt 5
 List of mobile app distribution platforms
 List of open-source mobile phones
 LiteOS
 Lubuntu
-Lumina (desktop environment)
 LuneOS
 MCC Interim Linux
 MIUI
@@ -261,55 +168,26 @@ MacOS
 Maemo
 Mageia
 Magic Cap
-Maliit
 Mandrake Linux
-Mandriva
 Mandriva Linux
 Manjaro
-Marjorie Scardino
-Marko Ahtisaari
-Mary T. McDowell
-Math Kernel Library
-Matti Alahuhta
-Mer (operating system)
 Mer (software distribution)
-Meritocracy
-Meta-object System
-MetaCarta
-Metrowerks
-Michael Larabel
 Microsoft
-Microsoft Mobile
 Microsoft Windows
-Mika Tiivola
 Minix 3
 Miracle Linux
 Mobian
 Mobile World Congress
 Mobile app development
-Mobile computing
 Mobile device
 Mobile operating system
 Mobilinux
 Moblin
-Mono (software)
 Monolithic kernel
 MontaVista
-Moorestown (computing platform)
 MotoMagx
-Musix GNU+Linux
-Mutter (window manager)
-Mx (toolkit)
-NGP Capital
-Navteq
-Nemo Mobile
-Neofonie
 NetBSD
-Netbook
-Nettop
-NetworkManager
 Network Security Toolkit
-Niklas Savander
 NimbleX
 Nintendo
 Nintendo 3DS system software
@@ -319,31 +197,8 @@ Nitix
 NixOS
 Nobara Linux
 Nokia
-Nokia Arena (Tampere)
-Nokia Arena (Tel Aviv)
 Nokia Asha platform
-Nokia Bell Labs
-Nokia Data
-Nokia Devices & Services
-Nokia House
-Nokia N9
-Nokia N900
-Nokia N950
-Nokia Networks
-Nokia Siemens Networks
-Nokia Technologies
-Nokia Theater (New York)
-Nokia Theatre L.A. Live
-Nokia Theatre at Grand Prairie
-Nokia X platform
-Nokia tune
-Nokian Footwear
-Nokian Tyres
 Nova (operating system)
-Novarra Inc.
-Novell
-OFono
-Olli-Pekka Kallasvuo
 OmniROM
 One UI
 Open-source software
@@ -353,108 +208,64 @@ OpenEmbedded
 OpenHarmony
 OpenMandriva Lx
 OpenSUSE
-OpenVINO
-Open Build Service
 Open Enterprise Server
 Open Handset Alliance
 Open Mobile Alliance
 Openmoko Linux
 Operating system
 Oracle Linux
-Ovi (Nokia)
 PCLinuxOS
-Paavo Rantanen
 Package manager
 PalmDOS
 Palm OS
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
-Pekka Ala-Pietilä
-Pekka Lundmark
 Pentoo
 Peppermint OS
-Permissive software licence
 Pinguy OS
 PixelExperience
-Plasma Active
 Platypux
 PlayStation Portable system software
 PlayStation Vita system software
-Plazes
 Pop! OS
 Porteus (operating system)
 PostmarketOS
 Programmer
 Puppy Linux
 PureOS
-PyQt
-PySide
 Q4OS
-QML
 QNX
-Qbs (build tool)
-Qmake
 QtMoko
-QtRuby
-QtScript
-Qt (framework)
-Qt (software)
-Qt Creator
-Qt Development Frameworks
-Qt Jambi
-Qt Project
-Qt Quick
 Qubes OS
 ROSA Linux
-RPM Package Manager
-Rajeev Suri
 Raspberry Pi OS
-Red Flag Linux
 Red Hat Enterprise Linux
 Red Hat Linux
 Red Star OS
-Redback Networks
 Remix OS
 Replicant (operating system)
 Resurrection Remix OS
-Richard Green (technologist)
-Risto Siilasmaa
-Robert Iannucci
 Rocks Cluster Distribution
 Rocky Linux
 S60 (software platform)
 SHR (operating system)
-SSSE3
-ST-Ericsson
 SUSE Linux
 SUSE Linux Enterprise
 SUSE Studio
 Sabayon Linux
 Sabily
-Sailfish Alliance
 Sailfish OS
 Salix OS
-Samsung
-Sari Baldauf
-Scalado
 Scientific Linux
 Series 30
 Series 30+
 Series 40
 Series 80 (software platform)
 Series 90 (software platform)
-Signals and slots
-Simo Vuorilehto
-Simon Beresford-Wylie
-Skanlite
 Slackware
 Slax
 Smart TV
-Smart phone
-Smarterphone
-Smeegol Linux
 Softlanding Linux System
 Software framework
 Software license
@@ -466,35 +277,24 @@ Sony Ericsson Java Platform
 Source Mage
 Source code
 SparkyLinux
-Splashtop
 Splashtop OS
 SteamOS
-Stephen Elop
 Sunwah Linux
 Symbian
-Symbian Foundation
-Symbian Software
 SystemRescue
 T2 SDE
-Tablet computer
 Tails (operating system)
-Tapio Hakanen
 TechRadar
-Technophone
 Tencent
-The Qt Company
 Think Blue Linux
 ThreadX
 Threading Building Blocks
 Tiny Core Linux
 Tizen
 TopologiLinux
-Trapster (software)
 Trisquel
-Trolltech
 Turbolinux
 Turkix
-Twango
 UBports
 UIQ
 Ubuntu
@@ -508,33 +308,19 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 User interface
 User space and kernel space
-VLC media player
-VTune
 VectorLinux
-Verner Weckman
-Vertu
-ViewSonic
 Vine Linux
-Vision (game engine)
 Void Linux
-VxWorks
 WatchOS
 Wayback Machine
-Wayland (display server protocol)
-WeTab
 Wear OS
 WebOS
 Whonix
-Widget toolkit
-Wind River Systems
 Windows 10
 Windows 10 Mobile
 Windows 11
-Windows 7
 Windows 8
 Windows 8.1
 Windows Mobile
@@ -544,16 +330,13 @@ Windows Phone 8
 Windows Phone 8.1
 Windows RT
 Windows XP editions
-Withings
 Wubuntu
 X86
 XB Machine
 XNU
-X Window System
 Xubuntu
 Yellow Dog Linux
 YouTube
-ZYpp
 Zenwalk
 Zircon (microkernel)
 Zorin OS

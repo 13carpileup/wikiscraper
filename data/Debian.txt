@@ -1,68 +1,32 @@
-/e/ (operating system)
-0 A.D. (video game)
 4MLinux
-A.out
 ALT Linux
-APT (software)
-ARM architecture
-ARM architecture family
-Adobe Flash Player
-Advanced Packaging Tool
-Alioth (Debian)
 AlmaLinux
 Alpine Linux
-AltiVec
-Amiga
-Andrew Orlowski
 Android-x86
 Android (operating system)
 Antergos
 AntiX
-AppArmor
-AppImage
-Apper
-Application binary interface
-Aptitude (software)
 ArchBang
 ArchLabs
 Arch Linux
-Arm64
-Armbian
-Armhf
 Ars Technica
-Artistic License
 Artix Linux
 Asahi Linux
 Astra Linux
 Asturix
-Asus Eee PC
 Atari ST
 Austrumi Linux
 BLAG Linux and GNU
-BSD 2-Clause License
-BSD licenses
 BackBox
 BackTrack
-Backporting
-Bdale Garbee
-BeagleBoard
-Benjamin Mako Hill
 Bharat Operating System Solutions
 BioSLAX
 BitTorrent
 BlackArch
 Black Lab Linux
 BlankOn Linux
-Bleeding edge technology
 Bodhi Linux
 Booting
-Branching (version control)
-Brian Krebs
-Bruce Perens
-Buffalo network-attached storage series
-Buffer overflow protection
-BusyBox
-Buzz Lightyear
 CHAOS (operating system)
 CNET
 COCOMO
@@ -70,30 +34,20 @@ CRUX
 Calculate Linux
 Caldera OpenLinux
 CalyxOS
-Canonical (company)
-Canonical Group
 CentOS
 CentOS Stream
 Chakra (operating system)
 Chimera Linux
-Chris Lamb (software developer)
 ChromeOS
 ChromiumOS
-Cinnamon (desktop environment)
 ClearOS
 Clear Linux OS
-Codebase
-Codec
-Collaborative software development model
 ColorOS
-Command line
 Commodore OS
-Common Vulnerabilities and Exposures
 Comparison of Linux distributions
 Comparison of mobile operating systems
 Container Linux
 Corel Linux
-Coupling (computer programming)
 CrDroid
 CrunchBang Linux
 Cub Linux
@@ -101,138 +55,60 @@ CyanogenMod
 DEC Alpha
 Damn Small Linux
 Damn Vulnerable Linux
-DebConf
-Deb (file format)
-Debbugs
-Debian-Installer
-Debian-Med
-Debian Conference
-Debian Free Software Guidelines
-Debian GNU/Hurd
-Debian GNU/kFreeBSD
-Debian Installer
-Debian Pure Blend
-Debian Science
-Debian Social Contract
-Debian configuration system
-Debian version history
-Debian–Mozilla trademark dispute
 Deepin
 DemoLinux
-Desktop environment
 Devuan
-Digital signature
-DistroWatch
 DivestOS
 DoudouLinux
-Dpkg
 Dreamlinux
-Drizzle (database server)
-Drupal
-Duchenne muscular dystrophy
 EMUI
 EWeek
 Edubuntu
 Elementary OS
 Elive
-Email address
 Emmabuntüs
 EndeavourOS
-Endianness
 Endless OS
-Enlightenment (window manager)
 EulerOS
-Evince
-ExFAT
-Executable and Linkable Format
-FFmpeg
 Familiar Linux
 Feather Linux
 Fedora Linux
 Fire OS
-Firefox
 Firefox OS
-Firmware
-Flatpak
-Floating-point unit
 Floppy disk
 Floppyfw
-Fluxbox
 Foresight Linux
 Fork (software development)
-Free-software community
 FreeBSD
-FreeBSD jail
-Free Software Foundation
-Free and open-source software
-Freedesktop.org
 FreedomBox
 Freespire
-Freeze (software engineering)
 French language
 Frugalware Linux
-Full disclosure (computer security)
-GIMP
-GNOME
-GNOME Evolution
 GNOME Software
 GNU
 GNU Compiler Collection
 GNU Core Utilities
-GNU GRUB
 GNU General Public License
 GNU Guix System
-GNU Hurd
-GNU Lesser General Public License
-GNU Mach
-GNU Project
-GNU TeXmacs
-GNUstep
 GNewSense
 GOS (operating system)
-Gallery Project
 Garuda Linux
 GeckoLinux
 Gentoo Linux
 German language
-Gibibyte
-Gigabyte
 GoboLinux
 Gobuntu
 GrapheneOS
 Graphical user interface
-HP 9000
 HandyLinux
-Hardening (computing)
-Hewlett-Packard
-Homebrew (package manager)
-Hybrid disc
-Hyperbola GNU/Linux-libre
-I386
-IA-32
 IBM PC compatible
 ISBN (identifier)
-ISO image
-IXsystems
-Ian Jackson
-Ian Murdock
-Ibiblio
-IceWM
-Iceweasel
 Immunix
-Intel Itanium
-Internationalization and localization
 Internet
 Internet Relay Chat
 IodéOS
-Jenkins (software)
 Jessie (Toy Story)
-Jigdo
-Jonathan Oxer
 Jurix
-K3b
-KDE
-KDE Plasma 5
 KDE neon
 KaOS
 KaiOS
@@ -246,136 +122,66 @@ Kongoni (operating system)
 Korora (operating system)
 Kubuntu
 Kwort Linux
-LAMP (software bundle)
-LXDE
 LXLE Linux
-LXQt
-Launchpad (website)
-Libdvdcss
 Libranet
-LibreOffice
 LinHES
 LineageOS
 Linpus Linux
 Linux
-Linux.com
-LinuxQuestions.org
 LinuxTLE
 Linux Caixa Mágica
-Linux Gazette
-Linux Journal
 Linux Lite
-Linux Magazine
 Linux Mint
 Linux Router Project
 Linux distribution
 Linux for PlayStation 2
 Linux kernel
-List of Debian project leaders
 List of Linux distributions
-List of Toy Story characters
 List of open-source mobile phones
-Live CD
-Live USB
-Logical Volume Manager (Linux)
-Long-term support
-Loongson
 Lubuntu
-MATE (desktop environment)
-MATE (software)
 MCC Interim Linux
 MIPS architecture
-MIT Technology Review
 MIUI
 MX Linux
-Mac (computer)
 Mageia
-Magic smoke
-Mailing list
 Mandrake Linux
 Mandriva Linux
 Manjaro
-Mark Shuttleworth
-Martin Michlmayr
-Mebibyte
 MeeGo
-Megabyte
 Mer (software distribution)
 Metadata
-Michael Larabel
-Microkernel
 Microsoft
-Microsoft Azure
-MinGW
-Mipsel
 Miracle Linux
-Mitre Corporation
 Mobian
 Mobilinux
 Monolithic kernel
-Motorola 68000 family
-Motorola 68000 series
-Mozilla Thunderbird
-Muscogee language
-Musix GNU+Linux
-NSLU2
 Natural language
-Network-attached storage
-Network Driver Interface Specification
 Network Security Toolkit
-Network booting
 NimbleX
 Nitix
 NixOS
 Nobara Linux
 Nonprofit organization
 Nova (operating system)
-O'Reilly Media
 OCLC (identifier)
 OmniROM
 One UI
-Open-source hardware
 Open-source software
-Open64
-OpenBSD
 OpenELEC
 OpenEmbedded
 OpenMandriva Lx
-OpenPGP
-OpenSSL
 OpenSUSE
-OpenVAS
-OpenWrt
-OpenZFS
-Open Bioinformatics Foundation
 Open Enterprise Server
-Open Hub
-Open Sound System
-Open and Free Technology Community
-Openbox
 Operating system
 Oracle Linux
-Orion (system-on-a-chip)
-PA-RISC
 PCLinuxOS
 PC World
-PF (firewall)
-POWER7
-POWER8
-PackageKit
-Package (package management system)
 Package manager
-Paging
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
-Pardus (operating system)
 Parrot OS
 Parsix
 Pentoo
 Peppermint OS
-Perpetual beta
-Phoronix
-Physical Address Extension
 Pinguy OS
 Pixar
 PixelExperience
@@ -384,26 +190,14 @@ Point of sale
 Pop! OS
 Porteus (operating system)
 Portmanteau
-Position-independent code
-PostgreSQL
-PowerPC
-Ppc64
-Ppc64el
-Privoxy
 Programmer
-Proprietary firmware
 Proprietary software
-Proxmox Virtual Environment
 Public-key cryptography
 Puppy Linux
 PureOS
 Q4OS
 Qubes OS
-RAID
-RISC-V
 ROSA Linux
-Random-access memory
-Random number generator attack
 Raspberry Pi OS
 Real-time computing
 Red Hat Enterprise Linux
@@ -411,13 +205,9 @@ Red Hat Linux
 Red Star OS
 Remix OS
 Replicant (operating system)
-Repository (version control)
 Resurrection Remix OS
-Richard Stallman
 Rocks Cluster Distribution
 Rocky Linux
-Rolling release
-S390x
 SPARC
 SUSE Linux
 SUSE Linux Enterprise
@@ -426,24 +216,13 @@ Sabayon Linux
 Sabily
 Sailfish OS
 Salix OS
-Sam Hocevar
 Samoan language
-Schulze method
 Scientific Linux
-Scott James Remnant
-Scud (dog)
-Secure Boot
 Server (computing)
-SheevaPlug
-Simson Garfinkel
 Slackware
 Slax
-Snap (software)
-Social contract
 Softlanding Linux System
-Softpedia
 Software bug
-Software in the Public Interest
 Software license
 Software release life cycle
 Software repository
@@ -452,25 +231,12 @@ SolydXK
 Source Mage
 SparkyLinux
 Splashtop OS
-SproutCore
 SteamOS
-Stefano Zacchiroli
-Stormix
 Sunwah Linux
-SuperH
-Synaptic (software)
 SystemRescue
 System on a chip
-Systemd
 T2 SDE
 Tails (operating system)
-Tar (computing)
-Technology preview
-Texas Instruments
-Text-based user interface
-The Mining Company
-The Open Source Definition
-The Register
 Think Blue Linux
 Tiny Core Linux
 Tizen
@@ -478,10 +244,8 @@ TopologiLinux
 Toy Story (franchise)
 Toy Story 2
 Trisquel
-Trunk (software)
 Turbolinux
 Turkix
-TuxRadar
 Ubuntu
 Ubuntu Budgie
 Ubuntu Cinnamon
@@ -493,49 +257,22 @@ Ubuntu Studio
 Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
-Umbrella organization
 United States dollar
 Unity Operating System
-University of Alberta School of Business
-University of California, San Diego
-Unix-like
-Upstream (software development)
-Uruk GNU/Linux
-Usenet (identifier)
-Usenet newsgroup
 User interface
-User space
 User space and kernel space
-VLC media player
-VMEbus
 Vancouver
 VectorLinux
 Vine Linux
-Virtual disk image
 Void Linux
 Wayback Machine
-Web mirror
-Web of trust
 Whonix
-Win32-loader
-Window Maker
-Window manager
 Windows 10
 Windows API
-Windows Subsystem for Linux
-Wireless access point
-Workstation
 Wubuntu
-X.Org Foundation
-X32 ABI
-X86-64
 XB Machine
-XFS
-Xfce
 Xubuntu
 Yellow Dog Linux
-Z/Architecture
 ZDNet
-ZFS
 Zenwalk
 Zorin OS

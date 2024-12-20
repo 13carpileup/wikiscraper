@@ -1,89 +1,12 @@
-1-Wire
-100BaseVG
-100 Gigabit Ethernet
-10BASE-FB
-10BASE-FL
-10BASE2
-10BASE5
-10BROAD36
-10G-EPON
-10 Gigabit Ethernet
-10 gigabit media-independent interface
-2.5GBASE-T and 5GBASE-T
-25 Gigabit Ethernet
-8P8C
 ARINC 429
-ARINC 825
-AS-Interface
-Asynchronous communication
-Attachment Unit Interface
-Audio over Ethernet
-Automatic meter reading
-Automotive Ethernet
-Autonegotiation
-Avionics Full-Duplex Switched Ethernet
-B&R
-BACnet
-Bang & Olufsen
-BatiBUS
-Bristol Standard Asynchronous Protocol
-Building automation
-C-Bus (protocol)
-CAN bus
-CAN in Automation
-CANopen
-CC-Link Industrial Networks
-CEBus
-C form-factor pluggable
-Carrier-sense multiple access with collision detection
-Carrier Ethernet
-Carrier Sense Multiple Access
-Classic Ethernet
-Common Industrial Protocol
-ControlNet
-Cyphal
-DF-1 Protocol
 DNP3
-Data center bridging
-Data link layer
 DeviceNet
 Digital Addressable Lighting Interface
-Digital Serial Interface
-DirectNET Protocol
-DyNet
-EAD socket
-EnOcean
-Energy-Efficient Ethernet
-EtherCAT
-EtherNet/IP
-EtherType
 Ethernet
-Ethernet Alliance
-Ethernet Global Data Protocol
-Ethernet flow control
-Ethernet frame
-Ethernet in the first mile
-Ethernet over coax
-Ethernet over fiber
-Ethernet over twisted pair
-Ethernet physical layer
-European Home Systems Protocol
-European Installation Bus
-FOUNDATION fieldbus
-Factory Instrumentation Protocol
 Factory Interface Network Service
-Fast Ethernet
-Fiber-optic inter-repeater link
-Fleet Management System
 FlexRay
-Foundation Fieldbus H1
-Functional safety
 Gigabit Ethernet
-Gigabit interface converter
-Gigabit media-independent interface
-Higher Speed Ethernet
 Highway Addressable Remote Transducer Protocol
-HostLink Protocol
 IEBus
 IEC 60870
 IEC 60870-5
@@ -91,77 +14,20 @@ IEC 60870-6
 IEC 61508
 IEC 61850
 IEC 62056
-IEC 62351
 IEEE 802.3
-INTERBUS
 IO-Link
-Industrial Ethernet
-Industrial control system
-Jitter
-Jumbo frame
-KNX
 Keyword Protocol 2000
-LattisNet
-List of automation protocols
 Local Interconnect Network
 Local area network
-LonTalk
-Long Reach Ethernet
-MECHATROLINK
-MOST Bus
-MTConnect
-Media-independent interface
-Medium-dependent interface
-Medium Attachment Unit
 MelsecNet
 Meter-Bus
-Metro Ethernet
 Modbus
-NMEA 2000
-OBIX
-OPC Data Access
-OPC Historical Data Access
-OPC Unified Architecture
-OpenSAFETY
-OpenTherm
 Optomux
-PROFIBUS
-PROFINET
 PieP
 Power-system automation
-Power line communication
-Power over Ethernet
-Protocol (computing)
-RAPIEnet
 Real-time computing
-SAE J1587
-SAE J1708
-SAE J1939
-SDS Protocol
-SENT (protocol)
 SERCOS III
-SERCOS interface
-Safety Integrity Level
-Service Request Transport Protocol
 Sinec H1
-Small Form-factor Pluggable
-Smart meter
-StarLAN
-Synchronous Ethernet
-SynqNet
-TTEthernet
-Terabit Ethernet
-Transceiver
-Unified Diagnostic Services
 Vehicle Area Network
-Vehicle bus
-Very Simple Control Protocol
-X10 (industry standard)
-X2 transceiver
 XAP Home Automation protocol
-XAUI
-XENPAK
-XFP transceiver
-XPL Protocol
 Z-Wave
-Zigbee

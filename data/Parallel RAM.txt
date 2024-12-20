@@ -1,7 +1,6 @@
 API
 Abstract machine
 Amdahl's law
-Analysis of PRAM algorithms
 Analysis of parallel algorithms
 Application checkpointing
 Array (data structure)
@@ -11,9 +10,7 @@ Automatic parallelization
 Barrier (computer science)
 Beowulf cluster
 Bit-level parallelism
-Boost (C++ libraries)
 Bulldozer (microarchitecture)
-C++ AMP
 CUDA
 Cache-only memory architecture
 Cache coherence
@@ -43,14 +40,11 @@ Distributed memory
 Distributed shared memory
 Doi (identifier)
 Dryad (programming)
-Dynamic random-access memory
 Embarrassingly parallel
-Explicit multi-threading
 Explicit parallelism
 Fiber (computer science)
 Field-programmable gate array
 Flynn's taxonomy
-Fortran language features
 GPUOpen
 General-purpose computing on graphics processing units
 Global Arrays
@@ -68,11 +62,9 @@ Instruction-level parallelism
 Instruction pipelining
 Instruction window
 Karp–Flatt metric
-Lock-free and wait-free algorithms
 Loop-level parallelism
 Manycore processor
 Massively parallel
-Maximum flow problem
 Memory-level parallelism
 Memory coherence
 Message Passing Interface
@@ -90,7 +82,6 @@ Parallel Extensions
 Parallel Virtual Machine
 Parallel computing
 Parallel external memory
-Parallel external memory (Model)
 Parallel programming model
 Parallel slowdown
 Pipeline (computing)
@@ -101,14 +92,10 @@ ROCm
 Race condition
 RaftLib
 Random-access machine
-Random-access memory
-Resource contention
 S2CID (identifier)
-SIMD
 Scalability
 Semiconductor memory
 Shared memory
-Shared memory architecture
 Simultaneous and heterogeneous multithreading
 Simultaneous multithreading
 Single instruction, multiple data
@@ -118,20 +105,15 @@ Software lockout
 Speculative multithreading
 Speedup
 Starvation (computer science)
-Static random-access memory
 Stream processing
 Superscalar processor
 Symmetric multiprocessing
 Synchronization (computer science)
-SystemVerilog
 Systolic array
 Task parallelism
 Temporal multithreading
 Thread (computing)
 Threading Building Blocks
-Turing Machine
 Unified Parallel C
 Uniform memory access
 Vector processor
-XMTC
-ZPL (programming language)

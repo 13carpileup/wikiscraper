@@ -1,6 +1,4 @@
-/e/ (operating system)
 4MLinux
-AJAX
 ALT Linux
 AlmaLinux
 Alpine Linux
@@ -19,7 +17,6 @@ Austrumi Linux
 BLAG Linux and GNU
 BackBox
 BackTrack
-Bash (Unix shell)
 Bharat Operating System Solutions
 BioSLAX
 BlackArch
@@ -44,7 +41,6 @@ Clear Linux OS
 ColorOS
 Commodore OS
 Comparison of Linux distributions
-Computer Security
 Computer network
 Computer security
 Container Linux
@@ -63,7 +59,6 @@ Devuan
 DivestOS
 DoudouLinux
 Dreamlinux
-Dynamic web page
 EMUI
 Edubuntu
 Elementary OS
@@ -72,16 +67,13 @@ Emmabuntüs
 EndeavourOS
 Endless OS
 EulerOS
-Expect
 Familiar Linux
 Feather Linux
-Fedora (operating system)
 Fedora Linux
 Fire OS
 Firefox OS
 Floppyfw
 Foresight Linux
-Free and open-source
 FreedomBox
 Freespire
 Frugalware Linux
@@ -92,19 +84,14 @@ GOS (operating system)
 Garuda Linux
 GeckoLinux
 Gentoo Linux
-Geolocation
 GoboLinux
 Gobuntu
-Google Earth
 GrapheneOS
 HTML
 HandyLinux
-Hyperbola GNU/Linux-libre
 Immunix
-Insecure.org
 Intrusion detection system
 IodéOS
-JSON
 JavaScript
 Java (programming language)
 Jurix
@@ -115,7 +102,6 @@ Kaisen Linux
 Kali Linux
 Kanotix
 KateOS
-Kismet (software)
 Knoppix
 Kongoni (operating system)
 Korora (operating system)
@@ -135,9 +121,6 @@ Linux Router Project
 Linux distribution
 Linux for PlayStation 2
 List of Linux distributions
-List of Unix utilities
-List of digital forensic tools
-List of live CDs
 Lubuntu
 MCC Interim Linux
 MIUI
@@ -148,23 +131,13 @@ Mandriva Linux
 Manjaro
 MeeGo
 Mer (software distribution)
-Mercator projection
-Minicom
 Miracle Linux
 Mobilinux
-Musix GNU+Linux
-MySQL
-NetFlow
-Network interface controller
 NimbleX
 Nitix
 NixOS
-Nmap
 Nobara Linux
 Nova (operating system)
-Ntop
-Ntopng
-Object library
 OmniROM
 One UI
 OpenELEC
@@ -175,7 +148,6 @@ Operating system
 Oracle Linux
 PCLinuxOS
 PHP
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
@@ -187,7 +159,6 @@ PixelExperience
 Platypux
 Pop! OS
 Porteus (operating system)
-Pre-shared key
 Programmer
 Puppy Linux
 PureOS
@@ -212,11 +183,9 @@ Sabayon Linux
 Sabily
 Sailfish OS
 Salix OS
-Scalable Vector Graphics
 Scientific Linux
 Slackware
 Slax
-Snort (software)
 Softlanding Linux System
 Software license
 Software release life cycle
@@ -234,7 +203,6 @@ Think Blue Linux
 Tiny Core Linux
 Tizen
 TopologiLinux
-Traceroute
 Trisquel
 Turbolinux
 Turkix
@@ -250,21 +218,14 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Uruk GNU/Linux
-VNC
 VectorLinux
 Vine Linux
 Virtual machine
 Void Linux
-Web interface
 Whonix
-Wi-Fi Protected Access
-Wireless access point
-Wireshark
 Wubuntu
 XB Machine
 XML
-XSLT
 Xubuntu
 Yellow Dog Linux
 Zenwalk

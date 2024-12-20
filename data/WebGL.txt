@@ -1,410 +1,61 @@
-360 Secure Browser
-3D computer graphics software
-A-Frame (VR)
-ANGLE (software)
 AOL Explorer
 API
-AT&T Pogo
-Abaco (web browser)
 Abstraction (computer science)
-ActionScript
-ActiveX
-Active Server Pages
-Ajax (programming)
-Alt attribute
-Amaya (web editor)
 Amazon Silk
-Apache HTTP Server
-Apache JServ Protocol
 Apple Inc.
 Application programming interface
-Application server
-Arachne (web browser)
-Arc (web browser)
-Arena (web browser)
-Arora (web browser)
-Article element
-Asm.js
-Asynchronous Server Gateway Interface
 Autodesk
-Autodesk Maya
-Avast Secure Browser
-Away3D
-Basilisk (web browser)
-Beaker (web browser)
-Beonex Communicator
 BlackBerry 10
 BlackBerry PlayBook
-Blazer (web browser)
-Blend4Web
 Blender (software)
-Blink (browser engine)
-Blink element
-Bolt (web browser)
-Bookmark (digital)
-Brave (web browser)
-Browser Helper Object
-Browser Object Model
-Browser engine
 Browser extension
 C++
-CM Browser
 COLLADA
 CSS
 C (programming language)
-Cake Browser
-Camino (web browser)
-Canvas element
 Character encodings in HTML
-Charon (web browser)
-Chromium (web browser)
-Citrio
 Clara.io
-Classilla
-Client-side
-Client-side persistent data
-Cocos2d
-Common Gateway Interface
 Communication protocol
-Comodo Dragon
-Comodo IceDragon
-Comparison of browser engines
-Comparison of document markup languages
-Comparison of web browsers
 Computing platform
-Conkeror
-Consortium
-CopperCube
-CopperLicht
-Cross-origin resource sharing
-Cross-platform
-Cross-site scripting
-CrossBridge
-Cốc Cốc
-DOM event
-Deepnet Explorer
-Deprecation
-Dillo
-Direct3D
 DirectX
-Direct X
-Div and span
-Document Object Model
-Dolphin Browser
-Dooble
-DuckDuckGo Private Browser
-Dynamic HTML
-Dynamic web page
-EGL (API)
-ELinks
-Encrypted Media Extensions
-Epic (web browser)
-Eww (web browser)
-Experience Curiosity
-Falkon
-FastCGI
-Firefox
-Firefox Lite
 Firefox OS
-Firefox for mobile
-Fixed-function
-Flock (web browser)
-Floorp
-Flow (web browser)
-Fluid (web browser)
-Font family (HTML)
 Fork (software development)
-Frame (World Wide Web)
-Free and Open Source
-Frontend and backend
-GNOME Web
-GNU IceCat
-Galeon
 Game engine
 Garbage collection (computer science)
-Gazelle (web browser)
-Gears (software)
-Gecko (software)
-Ghostzilla
-GlTF
 Google
-Google Chrome
-Google Native Client
-Google TV (smart TV platform)
-GraphQL
 Graphics processing unit
-GreenBrowser
-HLSL
 HTML
 HTML5
-HTML5 File API
-HTML attribute
-HTML audio
-HTML editor
-HTML element
-HTML video
-HTMX
-HTTP
-HTTP/2
-HTTP/3
-HTTPS
-HTTP cookie
-HTTP handler
 HotJava
-Hydration (web development)
-IBM Home Page Reader
-IBM Lotus Symphony
-IBM WebExplorer
-IBrowse
-ICab
 IOS
-IOS 8
 ISBN (identifier)
-Indexed Database API
-Internet Explorer
-Internet Explorer 11
-Internet Explorer for Mac
-Internet Server Application Programming Interface
-Iris Browser
-JSGI
-Jakarta Servlet
 JavaScript
-Java OpenGL
-Java Portlet Specification
-K-Meleon
-Kagi (search engine)
-Kazehakase
 Khronos Group
-KidZui
-Kirix Strata
-Konqueror
-Kylo (web browser)
-Ladybird (web browser)
-Language code
-LibreWolf
-Line Mode Browser
-Links (web browser)
-List of Apache modules
-List of WebGL frameworks
 List of XML and HTML character entity references
-List of application servers
-List of web browsers
-Lunascape
-Lynx (web browser)
-MDN Web Docs
-MSN TV
-Mac OS X Lion
-Mac OS X Snow Leopard
 Maemo
-Marquee element
 Mashup (web application hybrid)
-Matrix transformation
-Maxthon
-MediaBrowser
-Media Source Extensions
 MeeGo
-Mercury Browser
-Meta element
-MicroB
-Microservices
-Microsoft Edge
-Microsoft Edge Legacy
-Microsoft Live Labs Deepfish
-Midori (web browser)
-Minimo
-Mod jk
-Mod lisp
-Mod mono
-Mod parrot
-Mod perl
-Mod proxy
-Mod python
-Mod ruby
-Mod wsgi
-Mosaic (web browser)
-Mozilla
-Mozilla Application Suite
-Mozilla Developer Network
-Mozilla Foundation
-NPAPI
-Naver Whale
-NeoPlanet
-NetCaptor
-NetFront
-NetPositive
-NetSurf
-Netscape (web browser)
-Netscape Server Application Programming Interface
-Neural Network Exchange Format
-Nokia Browser for Symbian
-Nokia N900
-Non-profit organization
-OSG.JS
-OS X Mountain Lion
-OmniWeb
-Online Certificate Status Protocol
 OpenCL
-OpenGL
-OpenGL ES
-OpenGL SC
-OpenGL Shading Language
-OpenKODE
-OpenMAX
-OpenSL ES
-OpenVG
-OpenVX
-OpenWF
 OpenXR
-Open API
-Open Web Interface for .NET
-Opera (web browser)
-Opera Coast
-Opera Mini
-Opera Mobile
-Opera Software
-Origyn Web Browser
-Otter Browser
 PHP
-Pale Moon
-Phusion Passenger
-PirateBrowser
-Pixi.js
-Plack (software)
-PlayCanvas
 Plug-in (computing)
 Porting
-Private browsing
-Profiling (computer programming)
 Programmer
-Progressive web app
 Proprietary software
-Puffin Browser
-Push technology
-QQ Browser
-QtWeb
-Quirks mode
-Qutebrowser
-REST
-Rack (web server interface)
-Rasterized
-Redcore
-Remote scripting
-Resource-oriented architecture
-Rich Internet Application
-Rockmelt
-SRWare Iron
-SVG
-SYCL
-Safari (web browser)
 Sailfish OS
-SalamWeb
-Samsung Internet
-Scene graph
-SeaMonkey
-Server-sent events
-Server-side
-Server-side scripting
-Server Side Includes
-Server application programming interface
 Shader
-Shiira
-SimLab Composer
-Simple Common Gateway Interface
-Single-page application
-Sketchfab
-Skweezer
-Skyfire (company)
-Sleipnir (web browser)
-SlimBrowser
 Software categories
 Software release life cycle
-Solution stack
-SpaceTime (software)
-Sputnik (search engine)
-Stage3D
-Standard Portable Intermediate Representation
-Starling Framework
-Static web page
-Steel (web browser)
-Style sheet (web development)
-Supermium
-Surf (web browser)
-Swiftfox
-Swiftweasel
-TenFourFox
-Third-party cookies
-Three.js
-ThunderHawk
-Timberwolf (web browser)
 Tizen
-Tor Browser
-Torch (web browser)
-Transpiler
-Trident (software)
-TypeScript
-UC Browser
-Ungoogled-chromium
-Unicode and HTML
 Unity (game engine)
 Unreal Engine
-Uzbl
 VRML
-View frustum
-Vision Mobile Browser
-Vivaldi (web browser)
-Vladimir Vukićević
-Vulkan
-W3C Geolocation API
-W3C Markup Validation Service
-W3m
-WHATWG
-Waterfox
 Wayback Machine
-Web-oriented architecture
 Web3D
 WebAssembly
-WebAuthn
-WebCL
-WebDAV
 WebGPU
-WebKit
-WebPositive
-WebRTC
-WebSocket
-WebUSB
 WebXR
 Web API
-Web API security
-Web IDL
-Web Messaging
-Web SQL Database
-Web Server Gateway Interface
-Web Services for Remote Portlets
-Web application
 Web browser
-Web colors
-Web container
-Web framework
-Web page
-Web resource
-Web service
-Web standards
-Web storage
-Web worker
-Webhook
-WinWAP
 Windows Phone
-WorldWideWeb
-World Wide Web Consortium
 X3D
-XAML Browser Applications
-XB Browser
-XHTML
-XHTML Basic
-XHTML Mobile Profile
-XMLHttpRequest
-Xombrero
-Yandex Browser
-ZAC Browser
-Zen Browser
-Zygote Body

@@ -1,240 +1,57 @@
-.NET Core
-64-bit
-AIX
-AIX operating system
-ALGOL
 ALGOL 60
-ANSI
-AOS/VS
-AOS/VS II
-AS/400
-Algol 60
-Aliasing (computing)
-Allen-Babcock
 American National Standards Institute
-Apple (programming language)
-Argonne National Laboratory
-Association for Computing Machinery
-Autocoder
 BASIC
 Bell Laboratories
-Bell Labs
-Bit string
-Block (programming)
-Burroughs Corporation
 C++
-C.A.R. Hoare
-CDC STAR-100
-CICS
 COBOL
-COMTRAN
-CP/M
-CP/M-86
 C (programming language)
 C preprocessor
-Call by reference
-Call by value
-Case statement
 Charles de Gaulle
-Class (computer programming)
 Communications of the ACM
 Compiler
-Complex arithmetic
 Computer multitasking
 Concorde
-Control Data Corporation
-Control Language
-Control Program Facility
-Conversational Programming System
 Cornell University
-Cross-platform software
 DEC Alpha
 DOS
-DOS/360
-Dartmouth College
-Data General
-Data General AOS
-Data General Eclipse
-Data descriptor
-Data processing
 Database
-Dave Cutler
 Digital Equipment Corporation
 Digital Research
 Doi (identifier)
-Douglas McIlroy
-Eastman Kodak
 Ecma International
-European Computer Manufacturers Association
-Event-driven programming
 Exception handling
-Extensibility
-Firmware
-Fixed-point arithmetic
-Floating-point
-Fork–join model
-Formal Methods
-Fortran
-Fortune (Unix)
 Fred Brooks
-Function (computer science)
-GEORGE (programming language)
 GNU Compiler Collection
-GUIDE International
-General Motors
-General Motors Research Laboratories
-George Radin
-Glyphs
-HAL/S
 Hdl (identifier)
-Heap (programming)
-High-level programming language
-Honeywell
-Honeywell, Inc.
-Honeywell CP-6
-Hursley Laboratories
-IA64
 IBM
-IBM 1130
-IBM 801
 IBM AIX
-IBM Db2
-IBM Hursley
-IBM Laboratory Vienna
-IBM PL/S
-IBM RS64
-IBM Series/1
-IBM System/360
-IBM System/360 Model 50
-IBM Systems Journal
-IBM i
-IEEE Computer Society
-IEEE Transactions on Communications
 ISBN (identifier)
-ISO
 Imperative programming
-Information Management System
-International Computers Limited
 International Organization for Standardization
 Java (programming language)
-Jean Sammet
-LOCATE-mode I/O
-Linked data structure
 Linked list
 Linux
-Lisp programming language
-List of programming languages
-List processing
-Lockheed Corporation
-MIT
-MITRE
-MIT Press
 MVS
 Macro (computer science)
 Mainframe computer
-Marlboro, Massachusetts
-Marvin Victor Zelkowitz
-Micro Focus
-Microcode
-Microsoft .NET
 Microsoft Windows
-Millicode
-Motorola 68000
-Multics
-New programming language
-Numerical computation
-OS/2
-OS/360
-OS/390
-OS/400
-OS/VS1
 OpenVMS
 Operating system
-Oracle Database
 Orthogonality (programming)
 PC Magazine
-PL-6
-PL.8
-PL/C
-PL/I preprocessor
-PL/M
-PL/P
-PL/S
-PRIMOS
 Pascal (programming language)
-Peter Norton
-Plug compatible
-Pointer (computer programming)
-Polytechnic Institute of Brooklyn
-PowerPC
-Power ISA
-Preprocessor
-Prime Computer
 Procedural programming
 Process (computing)
-Procter & Gamble
-Program optimization
 Programming language
-Programming language design
 Programming paradigm
 RCA
-REXX
 Recursion
-Reserved words
-Robert Morris (cryptographer)
-Roman numeral
 S2CID (identifier)
-SAS System
-SAS language
-SHARE (computing)
-SIGPLAN Notices
-SP/k
-SabreTalk
-Sabre (computer system)
-Scale factor
-Scientific computing
-Side effect (computer science)
 Software design
-Stack frame
-Standard Oil of California
-Stratus Computer
-Stratus VOS
 String (computer science)
-Strong typing
-Structured programming
-System/360
-System/360 Model 67
-System/370
-System/38
-System Network Architecture
-System programming
-System programming language
-TMG (language)
-TSS/360
 Telex
-The Computer Journal
 The New York Times
 Thread (computing)
-Timeline of programming languages
-Tom Van Vleck
-Transaction processing
-Tru64
-UNIVAC
-UniPrise Systems
-Union Carbide
-Univac
-Unix
-Usenet newsgroup
 VAX
-VAX/VMS
-VM/CMS
 VM (operating system)
-VSE (operating system)
-Vienna Development Method
 Wayback Machine
-XPL
-Y2K problem
-Z/Architecture
-Z/OS
-Z/VM
-Z/VSE

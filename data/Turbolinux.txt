@@ -1,7 +1,5 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
-ARM architecture
 AlmaLinux
 Alpine Linux
 Android-x86
@@ -13,14 +11,12 @@ ArchLabs
 Arch Linux
 Artix Linux
 Asahi Linux
-Asianux
 Astra Linux
 Asturix
 Austrumi Linux
 BLAG Linux and GNU
 BackBox
 BackTrack
-Berry Linux
 Bharat Operating System Solutions
 BioSLAX
 BlackArch
@@ -40,7 +36,6 @@ ChromeOS
 ChromiumOS
 ClearOS
 Clear Linux OS
-Codec
 ColorOS
 Commodore OS
 Comparison of Linux distributions
@@ -70,7 +65,6 @@ EulerOS
 Familiar Linux
 Feather Linux
 Fedora Linux
-Fermi Linux
 Fire OS
 Firefox OS
 Floppyfw
@@ -78,7 +72,6 @@ Foresight Linux
 FreedomBox
 Freespire
 Frugalware Linux
-Fuduntu
 GNU Guix System
 GNewSense
 GOS (operating system)
@@ -88,15 +81,10 @@ Gentoo Linux
 GoboLinux
 Gobuntu
 GrapheneOS
-GreatDB
-Gurgaon
 HandyLinux
-Hyperbola GNU/Linux-libre
-IA-32
 ISBN (identifier)
 Immunix
 Initial public offering
-Inspur K-UX
 IodéOS
 Jurix
 KDE neon
@@ -109,7 +97,6 @@ KateOS
 Kernel (operating system)
 Knoppix
 Kongoni (operating system)
-Koozali SME Server
 Korora (operating system)
 Kubuntu
 Kwort Linux
@@ -128,7 +115,6 @@ Linux distribution
 Linux for PlayStation 2
 Linux kernel
 List of Linux distributions
-Livedoor
 Lubuntu
 MCC Interim Linux
 MIUI
@@ -140,12 +126,9 @@ Manjaro
 MeeGo
 Mer (software distribution)
 Miracle Linux
-Mizuho Investors Securities Co., Ltd.
 Mobilinux
 Monolithic kernel
-Musix GNU+Linux
 Network Security Toolkit
-Nikko Citigroup
 NimbleX
 Nitix
 NixOS
@@ -160,10 +143,8 @@ OpenSUSE
 Open Enterprise Server
 Operating system
 Oracle Linux
-Osaka Stock Exchange
 PCLinuxOS
 Package manager
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parent company
 Parrot OS
@@ -172,21 +153,16 @@ Pentoo
 Peppermint OS
 Pinguy OS
 PixelExperience
-Planet CCRMA
 Platypux
 Pop! OS
 Porteus (operating system)
-PowerDVD
 Programmer
 Puppy Linux
 PureOS
 Q4OS
 Qubes OS
 ROSA Linux
-RPM Package Manager
 Raspberry Pi OS
-RedSleeve
-Red Flag Linux
 Red Hat Enterprise Linux
 Red Hat Linux
 Red Star OS
@@ -202,9 +178,7 @@ Sabayon Linux
 Sabily
 Sailfish OS
 Salix OS
-Salt Lake City, Utah
 Scientific Linux
-Shibuya, Tokyo
 Slackware
 Slax
 Softlanding Linux System
@@ -237,20 +211,14 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 VectorLinux
-Venture capitalists
 Vine Linux
 Void Linux
 Whonix
-Windows Media
 Wubuntu
 X86
-X86-64
 XB Machine
 Xubuntu
 Yellow Dog Linux
-Yoyogi
 Zenwalk
 Zorin OS

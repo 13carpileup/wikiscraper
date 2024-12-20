@@ -1,109 +1,21 @@
-ABAP Objects
-ALGOL 58
 ALGOL 60
-ALGOL 68
-APL (programming language)
 Anonymous function
-Assignment (computer science)
 C++
 COBOL
 C Sharp (programming language)
-Class (computer science)
-Clone (Java method)
-Cobra (programming language)
-Cocoa (API)
-Comment (computer programming)
-Comparison of ALGOL 68 and C++
-Comparison of C Sharp and Java
-Comparison of C Sharp and Visual Basic .NET
-Comparison of Java and C++
-Comparison of Object Pascal and C
 Comparison of Pascal and C
-Comparison of Pascal and Delphi
-Comparison of Visual Basic and Visual Basic .NET
-Comparison of programming languages
-Comparison of programming languages (algebraic data type)
-Comparison of programming languages (array)
-Comparison of programming languages (associative arrays)
-Comparison of programming languages (basic instructions)
-Comparison of programming languages (functional instructions)
-Comparison of programming languages (higher-order functions)
-Comparison of programming languages (list comprehension)
-Comparison of programming languages (operators)
-Comparison of programming languages (string functions)
-Comparison of programming languages (strings)
-Comparison of programming languages (syntax)
-Comparison of programming languages by type system
-Comparison of programming languages with dependent types
-Compatibility of C and C++
-Constructor (computer science)
-Constructor (object-oriented programming)
-Context (computing)
 D (programming language)
-Data structures
-Default constructor
-Delete (C++)
-Delphi (programming language)
-Destructor (computer science)
-Do while loop
-Downcasting
-Dynamic cast
 Eiffel (programming language)
-Enumerated type
-Evaluation strategy
-Exception handling syntax
 F Sharp (programming language)
-Filter (higher-order function)
-Finalizer
-Fold (higher-order function)
 For loop
-Foreach loop
-Friend class
-Friend function
 Garbage collection (computer science)
-Generator (computer programming)
-Header file
 ISLISP
-Inline function
 JavaScript
 Java (programming language)
-Map (higher-order function)
-Method overloading
-Modulo operation
-Multiple inheritance
-Namespace
-New (C++)
-Null coalescing operator
-Null pointer
-Nullable type
-OCaml
 Object-oriented programming
-Object Pascal
-Object copy
 Objective-C
-One-liner program
-Operator overloading
 PHP
-Parent class
 Perl
-Pointer (computer programming)
-Protocol (object-oriented programming)
 Python (programming language)
-Raku (programming language)
 Ruby (programming language)
-SAP R/3
-Safe navigation operator
-Scala (programming language)
 Scope (computer science)
-Sigil (computer programming)
-Smalltalk
-Swift (programming language)
-Template (programming)
-Ternary conditional operator
-This (computer science)
-Typeid
-Typeof
-Visual Basic .NET
-While loop
-Windows PowerShell
-Xojo

@@ -1,153 +1,66 @@
-.NET Compact Framework
-.NET Framework
 1080p
 32-bit
-APPX
-ARM architecture
-Action Center
-Alcatel (mobile device brand)
 Amazon Kindle
 Android (operating system)
 Android Go
-Application Programming Interface
-Application model
-Architecture of Windows NT
 Australia
 B2G OS
-BSkyB
 Bada (operating system)
 Binary Runtime Environment for Wireless
-Bing (search engine)
-Bing Audio
-Bing Maps
-Bing Mobile
-Bing Vision
 BlackBerry 10
 BlackBerry OS
 BlackBerry Tablet OS
-Blu Products
 BridgeOS
-Build (developer conference)
-C++/CX
 C Sharp (programming language)
-Cairo (operating system)
 Canada
-Cherry Mobile
 China
 ChromeOS
 ChromeOS Flex
 Closed-source
-Commercial software
-Comparison of Microsoft Windows versions
-Comparison of Windows Vista and Windows XP
 Comparison of mobile operating systems
 Cortana (Halo)
-Cortana (virtual assistant)
-Criticism of Microsoft Windows
-Criticism of Windows 10
-Criticism of Windows Vista
-Criticism of Windows XP
-DLNA
 DOS
-Development of Windows 95
-Development of Windows Vista
-Development of Windows XP
 EMUI
 EPOC (operating system)
-Features new to Windows 10
-Features new to Windows 11
-Features new to Windows 7
-Features new to Windows 8
-Features new to Windows Vista
-Features new to Windows XP
 Fedora Linux
 Firefox OS
-Firmware over the air
-Fleksy
 Foursquare City Guide
 FreeBSD
 FreeRTOS
 Fuchsia (operating system)
 GEOS (16-bit operating system)
 GNU
-General availability
-Google Now
-Groove Music
 Guinness World Record
 HMD Global
-HTC One (M8)
 HTML
-HTML video
 Halo (series)
 HarmonyOS
 HarmonyOS NEXT
-Hybrid kernel
 IOS
 IPadOS
 India
 Intel Management Engine
-Internet Explorer 11
-Internet Explorer Mobile
 JavaScript
 KaiOS
-Karbonn
 Kernel (operating system)
-LG
-Lakeside School (Seattle, Washington)
-Lava International
-Lenovo
-LinkedIn
 Linux
 Linux Kernel
-List of Microsoft Windows components
-List of Microsoft Windows versions
-List of Windows 10 Mobile devices
-List of Windows Phone 7 devices
-List of Windows Phone 8.1 devices
-List of Windows Phone 8 devices
 List of Xbox games on Windows Phone
 List of custom Android distributions
-List of features removed in Windows 10
-List of features removed in Windows 11
-List of features removed in Windows 7
-List of features removed in Windows 8
-List of features removed in Windows Phone
-List of features removed in Windows Vista
-List of features removed in Windows XP
 List of mobile app distribution platforms
 List of open-source mobile phones
 LiteOS
-Lumia Amber
-Lumia Black
-Lumia Cyan
-Lumia Software Recovery Tool
 LuneOS
-MSN Mobile
 Maemo
 Magic Cap
 Manjaro
-Mebibyte
 MeeGo
 Mer (software distribution)
-Micromax Mobile
 Microsoft
-Microsoft Cortana
-Microsoft Mobile
-Microsoft Movies & TV
-Microsoft Office Mobile
-Microsoft Outlook
-Microsoft Pay
-Microsoft Plus!
-Microsoft PowerToys
-Microsoft Research
-Microsoft Silverlight
 Microsoft Windows
-Microsoft Windows version history
 Microsoft XNA
 Microsoft account
-Microsoft mobile services
 Minix 3
-MixRadio
 Mobian
 Mobile app development
 Mobile operating system
@@ -155,8 +68,6 @@ Mobilinux
 Moblin
 MontaVista
 MotoMagx
-Multi-core processor
-My Windows Phone
 NetBSD
 Nintendo
 Nintendo 3DS system software
@@ -164,9 +75,6 @@ Nintendo DSi system software
 Nintendo Switch system software
 Nokia
 Nokia Asha platform
-Nokia Lumia 520
-Nokia phones beta labs
-OneDrive
 OpenEZX
 OpenEmbedded
 OpenHarmony
@@ -179,36 +87,21 @@ Palm OS
 Phablet
 PlayStation Portable system software
 PlayStation Vita system software
-Pocket PC 2000
-Pocket PC 2002
 PostmarketOS
-Predictive text
-Preview for Developers
 Programmer
 Proprietary software
 PureOS
 QNX
 QtMoko
-Quad-core processor
-Qualcomm
-Random-access memory
-Remote Desktop Services
 S60 (software platform)
 SHR (operating system)
-SQL Server Compact
 Sailfish OS
-Samsung Galaxy S4
 San Francisco
 Series 30
 Series 30+
 Series 40
 Series 80 (software platform)
 Series 90 (software platform)
-Siri
-Skype
-Snapdragon (system on chip)
-Softpedia
-Software beta
 Software bug
 Software developer
 Software license
@@ -217,7 +110,6 @@ Sony
 Sony Ericsson Java Platform
 Spotify
 SteamOS
-Swype
 Symbian
 The Verge
 ThreadX
@@ -229,107 +121,28 @@ Ubuntu Touch
 United Kingdom
 United States
 User interface
-VPN
-Visual Basic.NET
 WatchOS
 Wayback Machine
 Wear OS
 WebGL
 WebOS
-Windows 1.0
 Windows 10
-Windows 10X
 Windows 10 Mobile
-Windows 10 Mobile version history
-Windows 10 editions
-Windows 10 version history
 Windows 11
-Windows 11 editions
-Windows 11 version history
-Windows 2.0
-Windows 2.1
-Windows 2000
-Windows 3.0
-Windows 3.1
-Windows 7
-Windows 7 editions
 Windows 8
 Windows 8.1
-Windows 8.1 Update
-Windows 8 editions
 Windows 95
-Windows 98
-Windows 9x
-Windows App Studio
-Windows CE 5.0
-Windows Embedded Automotive
-Windows Embedded CE 6.0
-Windows Embedded Compact
-Windows Embedded Compact 7
-Windows Embedded Industry
-Windows Essential Business Server 2008
-Windows Fundamentals for Legacy PCs
-Windows HPC Server 2008
-Windows Home Server
-Windows Home Server 2011
-Windows Insider
-Windows IoT
-Windows Live
-Windows Me
 Windows Mobile
-Windows Mobile 2003
-Windows Mobile 5.0
-Windows Mobile 6.0
-Windows Mobile 6.1
-Windows Mobile 6.5
-Windows MultiPoint Server
 Windows NT
-Windows NT 3.1
-Windows NT 3.5
-Windows NT 3.51
-Windows NT 4.0
-Windows Nashville
-Windows Neptune
-Windows Odyssey
 Windows Phone
 Windows Phone 7
 Windows Phone 8
-Windows Phone Recovery Tool
 Windows Phone Store
-Windows Phone version history
-Windows Polaris
-Windows Preinstallation Environment
 Windows RT
-Windows Runtime
-Windows Server
-Windows Server 2003
-Windows Server 2008
-Windows Server 2008 R2
-Windows Server 2012
-Windows Server 2012 R2
-Windows Server 2016
-Windows Server 2019
-Windows Server 2022
-Windows Server 2025
-Windows Server Essentials
-Windows Store app
-Windows Vista
-Windows Vista editions
-Windows XP
-Windows XP Media Center Edition
-Windows XP Professional x64 Edition
 Windows XP editions
-Windows for Pen Computing
-Wireless carrier
-XAP (file format)
 XNU
 Xbox
 Xbox Live
-Xbox Music
-Xbox Video
-Xolo (company)
 ZDNet
-ZTE
 Zircon (microkernel)
-Zune software
 Ångström distribution

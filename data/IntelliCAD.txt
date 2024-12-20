@@ -1,168 +1,27 @@
-.dwg
-3D Manufacturing Format
-ABViewer
-ACIS
-AM/FM/GIS
 API
-Additive manufacturing file format
-Alibre Design
-Allegro (CAD software)
-Altium Designer
-ArchiCAD
 Architectural engineering
-Athens, Greece
-Auckland, New Zealand
-AutoCAD
-AutoCAD DXF
-AutoCAD Electrical
-AutoLISP
-AutoTURN
 Autodesk
 Autodesk Alias
-Autodesk Inventor
-Autodesk Revit
-Autotrax
-BRL-CAD
-Bentley Systems
-BoardStation
-BricsCAD
-BudCAD
-Building information modeling
-C3D Toolkit
-CADKEY
-CADSTAR
-CATIA
-CR-2000
-CR-3000
-CR-5000
-CR-8000
-Cimatron
-CircuitMaker
-Cobalt (CAD program)
-Commercial software
-Comparison of CAD, CAM and CAE file viewers
-Comparison of CAD editors for AEC
-Comparison of computer-aided design software
-Component Object Model
 Computer-aided design
-DAC-1
-DGN
-Delta Design
-DesignSpark Mechanical
-DesignSpark PCB
-Design Web Format
-DipTrace
-EAGLE (program)
-EasyCAD
-EasyEDA
-Easytrax
-Electric (software)
 Electronic design automation
-FINE MEP
-FORAN System
-FastCAD
 Federal Trade Commission
-File format
 FreeCAD
-FreePCB
-FreeStyle (CAD software)
-Free and open-source software
-Fritzing
-Fusion 360
-GEDA
-Geometric modeling kernel
-Government-funded research
-Grasshopper 3D
-GstarCAD
-HeeksCAD
-History of CAD software
-Horizon EDA
-IGES
-IRONCAD
 ISO 10303
-IntegraStation
-KTechLab
 KernelCAD
-KeyCreator
-KiCad
-LISP
-LTspice
-La Mesa, California
-LibreCAD
-MEDUSA4
-Magic (software)
-Mechanical systems drawing
-Micro-Cap
-MicroStation
 Microsoft
 Microsoft Windows
-Ministry of Communities and Territories Development (Ukraine)
-NI Multisim
-NI Ultiboard
-Ngspice
-Onshape
-OpenSCAD
 Open Cascade Technology
-Open Design Alliance
-Open Packaging Conventions
 Operating system
-OrCAD
-Oregano (software)
-P-CAD
-PADS (CAD software)
-PCB (software)
-PDMS (software)
-PLY (file format)
-PSpice circuit file
-PTC Creo Elements/Direct Drafting
-PTC Creo Elements/Pro
 Parasolid
 Portland, Oregon
-Pro/DESKTOP
 Programmer
 Proprietary software
-Protel (CAD software)
-Proteus Design Suite
-Pulsonix
-QCAD
-Quite Universal Circuit Simulator
-RUCAPS
-RattleCAD
-Research institute
-Rhinoceros 3D
-Romulus (modelling kernel)
 Russian Geometric Kernel
-STL (file format)
-Salome (software)
 ShapeManager
 Siemens NX
-Sketchpad
 Software categories
 Software license
 Software release life cycle
-SolidWorks
-Solid Edge
-Solid Modeling Solutions
-Solidworks
-SolveSpace
-SpaceClaim
-Specctra
-T-FLEX CAD
-TARGET (CAD software)
-TangoPCB
 Teigha
-Tinkercad
-TopoR
-TurboCAD
-UNISURF
-Ukraine
 Ukrainian language
 United States
-Upverter
-VariCAD
-Visio Corporation
-Visual Basic
-Wavefront .obj file
-XCircuit
-Xpedition (CAD software)
-ZWCAD (software)

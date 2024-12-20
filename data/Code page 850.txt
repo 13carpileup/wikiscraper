@@ -1,14 +1,7 @@
 !
-"
 $
-%
-&
 '
 (
-)
-+
-,
--
 0 (number)
 1 (number)
 2 (number)
@@ -30,7 +23,6 @@ ARIB STD B24 character set
 ASCII
 ASMO 449
 ATASCII
-Amstrad CP/M Plus character set
 Amstrad CPC character set
 Apple II character set
 ArmSCII
@@ -43,10 +35,7 @@ Baudot code
 Big5
 Binary Ordered Compression for Unicode
 Bitstream International Character Set
-Box-drawing character
 BraSCII
-Braces (punctuation)
-Bullet (typography)
 C
 C0 and C1 control codes
 CCSID
@@ -54,7 +43,6 @@ CDC display code
 CER-GS
 CESU-8
 CNS 11643
-COUNTRY.SYS
 CSX+ Indic character set
 CSX Indic character set
 CS Indic character set
@@ -81,17 +69,10 @@ Code page 1019
 Code page 1020
 Code page 1021
 Code page 1023
-Code page 1034
 Code page 1040
 Code page 1042
 Code page 1043
-Code page 1044
 Code page 1046
-Code page 1052
-Code page 1053
-Code page 1054
-Code page 1055
-Code page 1056
 Code page 1058
 Code page 1098
 Code page 1101
@@ -124,15 +105,12 @@ Code page 776
 Code page 777
 Code page 778
 Code page 808
-Code page 848
-Code page 849
 Code page 851
 Code page 852
 Code page 853
 Code page 855
 Code page 856
 Code page 857
-Code page 858
 Code page 859
 Code page 860
 Code page 861
@@ -144,13 +122,11 @@ Code page 866
 Code page 867
 Code page 868
 Code page 869
-Code page 872
 Code page 895
 Code page 896
 Code page 897
 Code page 899
 Code page 903
-Code page 904
 Code page 912
 Code page 915
 Code page 921
@@ -164,13 +140,11 @@ Code page 949 (IBM)
 Code page 950
 Code page 951
 Colon (punctuation)
-Command-line program
 Comparison of Unicode encodings
 Compucolor II character set
 Control character
 Cooke and Wheatstone telegraph
 Cork encoding
-Currency sign (generic)
 D
 DEC Hebrew
 DEC RADIX 50
@@ -184,15 +158,12 @@ DOS
 Diacritic
 Digital Equipment Corporation
 Digital encoding of APL symbols
-Dotless I
 Dotless i
 E
 EBCDIC
-EGA.CPI
 ELOT 927
 EPOC (operating system)
 English language
-Euro sign
 Exclamation mark
 Extended ASCII
 Extended Latin-8
@@ -212,7 +183,6 @@ GEM character set
 GOST 10859
 GSM 03.38
 Galaksija (computer)
-Gender symbol
 GitHub
 Greater-than sign
 Greek alphabet
@@ -224,53 +194,23 @@ Hardware code page
 Hong Kong Supplementary Character Set
 I
 IBM
-IBMBIO.COM
 IBM AIX
-IEC-P27-1
 INIS-8
 INIS character set
-IO.SYS
-ISO-8859-1
-ISO-8859-13
-ISO-8859-15
-ISO-8859-4
 ISO-IR-111
 ISO-IR-169
 ISO-IR-182
 ISO-IR-197
 ISO-IR-200
 ISO-IR-68
-ISO/IEC 10367
-ISO/IEC 2022
-ISO/IEC 646
-ISO/IEC 8859
-ISO/IEC 8859-1
-ISO/IEC 8859-10
-ISO/IEC 8859-11
-ISO/IEC 8859-12
-ISO/IEC 8859-13
-ISO/IEC 8859-14
-ISO/IEC 8859-15
-ISO/IEC 8859-16
-ISO/IEC 8859-2
-ISO/IEC 8859-3
-ISO/IEC 8859-4
-ISO/IEC 8859-5
-ISO/IEC 8859-6
-ISO/IEC 8859-7
-ISO/IEC 8859-8
-ISO/IEC 8859-9
 ISO 2033
 ISO 5426
 ISO 5427
 ISO 5428
 ISO 6438
 ISO 6862
-ISO 8859-1
 ITU T.61
 Indian Script Code for Information Interchange
-Intecolor/Compucolor 8001 character set
-Internet Assigned Numbers Authority
 Iran System encoding
 J
 JIS X 0201
@@ -280,7 +220,6 @@ JIS X 0212
 JIS X 0213
 Japanese language in EBCDIC
 K
-KEYBOARD.SYS
 KOI-7
 KOI8-R
 KOI8-RU
@@ -291,7 +230,6 @@ KS X 1001
 KS X 1002
 Kamenický encoding
 L
-LMBCS-1
 LST 1564
 LST 1590-4
 LY1 encoding
@@ -304,10 +242,8 @@ MIK (character set)
 MS-DOS
 MSX character set
 MacArabic encoding
-MacCyrillic
 MacFarsi encoding
 MacGreek encoding
-MacRoman
 Mac OS Armenian
 Mac OS Barents Cyrillic
 Mac OS Celtic
@@ -323,7 +259,6 @@ Mac OS Hebrew
 Mac OS Icelandic encoding
 Mac OS Inuit
 Mac OS Keyboard encoding
-Mac OS Maltese/Esperanto encoding
 Mac OS Ogham
 Mac OS Roman
 Mac OS Romanian encoding
@@ -336,45 +271,35 @@ Macintosh Latin encoding
 Magnetic ink character recognition
 Mazovia encoding
 Microsoft
-Miscellaneous Technical
 Mojibake
 Mojikyō
 Morse code
 Morse code for non-Latin alphabets
 Multinational Character Set
 N
-NBSP
 NEC APC character set
-NLSFUNC
 National Replacement Character Set
 NeXT character set
-Novell DOS 7
 Null character
 Number sign
 O
-OEM-US
-OEM code page
 OML encoding
 OMS encoding
 OT1 encoding
-OpenDOS 7.01
 Operating system
 P
 PC DOS
-PC DOS 2000
 PETSCII
 Perso-Arabic Script Code for Information Interchange
 PostScript Latin 1 Encoding
 PostScript Standard Encoding
 Prosigns for Morse code
-Psion (company)
 Q
 R
 RISC OS character set
 RPL character set
 Russian Morse code
 S
-SAM Coupé character set
 SI 960
 SQUOZE
 Sega SC-3000 character set
@@ -385,14 +310,10 @@ Shift JIS
 Sinclair QL character set
 Slash (punctuation)
 Soft hyphen
-Square brackets
 Standard Compression Scheme for Unicode
-Stanford/ITS character set
 Stanford Extended ASCII
-Suit (cards)
 Symbol (typeface)
 T
-T.51/ISO/IEC 6937
 TI calculator character sets
 TRON (encoding)
 TRS-80 character set
@@ -406,7 +327,6 @@ Teletext character set
 Thai Industrial Standard 620-2533
 Transcode (character encoding)
 U
-UCS-2
 US-ASCII
 UTF-1
 UTF-16
@@ -427,13 +347,11 @@ VT220
 Variable-width encoding
 Ventura International
 Vertical bar
-Video Graphics Array
 Videotex
 Videotex character set
 W
 Wabun code
 Wang International Standard Code for Information Interchange
-Western Latin character sets (computing)
 Whitespace character
 Windows-1250
 Windows-1251
@@ -445,10 +363,6 @@ Windows-1256
 Windows-1257
 Windows-1258
 Windows-1270
-Windows 9x
-Windows Cyrillic + Finnish
-Windows Cyrillic + French
-Windows Cyrillic + German
 Windows NT
 Windows Polytonic Greek
 Windows code page
@@ -464,37 +378,17 @@ ZX Spectrum character set
 ^
 `
 ~
-¡
 ¢
 £
 ¤
-¥
-¦
 §
-¨
 ©
-ª
-«
 ¬
-®
-¯
 °
 ±
-²
-³
-´
 ¶
 ·
-¸
-¹
-º
-»
 ½
-¿
 À
 Á
 Â
-Ã
-Ä
-Å
-Æ

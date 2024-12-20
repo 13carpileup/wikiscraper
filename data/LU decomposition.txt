@@ -1,79 +1,30 @@
-Applied and Computational Harmonic Analysis
 ArXiv (identifier)
-Automatically Tuned Linear Algebra Software
-Basic Linear Algebra Subprograms
-Block LU decomposition
-Bruhat decomposition
-CPU cache
-Cache-oblivious algorithm
-Charles E. Leiserson
-Charles F. Van Loan
-Cholesky decomposition
-Clifford Stein
-Comparison of linear algebra libraries
-Comparison of numerical-analysis software
 Computational complexity
-Conjugate transpose
-Coppersmith–Winograd algorithm
-Crout matrix decomposition
 Determinant
 Diagonal matrix
 Doi (identifier)
-Dover Publications
-Ed Pegg, Jr.
-Floating point
 Gaussian elimination
-Gene H. Golub
 Graph theory
 Hdl (identifier)
 Hermitian matrix
-Householder reflection
 ISBN (identifier)
 ISSN (identifier)
 If and only if
-Incomplete LU factorization
-Introduction to Algorithms
-Invertible matrix
 JSTOR (identifier)
 John Hopcroft
-LAPACK
-LU Reduction
 Linear algebra
-Lloyd Nicholas Trefethen
-Lower triangular
 MATLAB
-MR (identifier)
 Main diagonal
-Mathematics of Computation
 Matrix (mathematics)
 Matrix decomposition
 Matrix multiplication
-Matrix multiplication algorithm
-Matrix splitting
-Minor (linear algebra)
 Multiprocessing
 Numerical analysis
-Numerical linear algebra
-Numerical stability
 Permutation matrix
-Pivot element
-Positive-definite matrix
-QR decomposition
 Real number
-Ronald L. Rivest
-Row echelon form
 S2CID (identifier)
 Single instruction, multiple data
-Singular matrix
-Sparse matrix
 System of linear equations
-Tadeusz Banachiewicz
-The Wolfram Demonstrations Project
-Thomas H. Cormen
-Translation lookaside buffer
 Transpose
 Triangular matrix
 Underdetermined system
-University of Dayton
-Upper-triangular
-Walsh matrix

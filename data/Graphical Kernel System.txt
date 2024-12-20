@@ -6,21 +6,17 @@ ISO 8601
 ISO 1629
 New Scientist
 ISO 15398
-ISO 2047
 ISO 26262
 Computerworld
 ISO 13485
 Dynamic Adaptive Streaming over HTTP
 ISO 3864
 ISO 690
-ISO/IEC 8859-15
-ISO/IEC 646
 SDMX
 Darmstadt
 ISO 3103
 International Standard Atmosphere
 IEC 61883
-Graphics System Extension
 ISO 1000
 MPEG-4 Part 11
 IEC 61968
@@ -32,7 +28,6 @@ ISO 8178
 ArmSCII
 ISO 639-6
 ISO 13567
-ISO/IEC 4909
 ISO 2711
 IEC 61360
 110 film
@@ -40,10 +35,8 @@ IEC 63110
 Open Document Architecture
 IEC 61355
 Battery nomenclature
-ISO/IEC 27001
 MPEG-21
 Prontor-Compur
-ISO/IEC 5218
 JBIG
 International Standard Text Code
 ISO 31-3
@@ -59,7 +52,6 @@ ISO 26000
 MPEG-4 Part 3
 ISO 2852
 ISO 6709
-ISO/IEC 17025
 ISO 6943
 PDF417
 Film speed
@@ -71,40 +63,28 @@ ISO 4
 POSIX
 ISO 8000
 JPEG XS
-IGES
 DICOM
-ISO/IEC 24744
 ISO 31-8
-Corel Ventura
 ISO 31-7
 Romanization of Georgian
 International Organization for Standardization
-ISO/IEC 7810
-ISO/IEC 18014
 IEC 62682
 ISO 31-5
 IEC 60906-1
-ISO/IEEE 11073
-OSI model
 ISO 5426
-ISO/IEC 7811
 Longitudinal redundancy check
 Magnetic ink character recognition
 OpenDocument
-ISO/IEC 19788
 IEC 60446
 International Standard Recording Code
 RELAX NG
 IEC 60870
-ISO/IEC 24727
 ISO 13490
 C (programming language)
 ISO base media file format
 ISO 31000
 ISO 16750
 Renard series
-ISO/IEC 8859-14
-ISO/IEC 19794-5
 Accuracy and precision
 ISO 20400
 Computer Graphics Metafile
@@ -115,32 +95,23 @@ IEC 61499
 ISO 2788
 RKM code
 ISO 10303
-ISO/IEC 7813
 IP-XACT
 IEC 62379
 ISO 2146
 ISO 10962
 ISO 10303-28
-ISO/IEC 33001
 Software maintenance
 IEC 62264
-International Standard Serial Number
 Document Style Semantics and Specification Language
-PDF/E
 JPEG XR
 IS-IS
 ECMAScript for XML
-ISO/IEC 8859-13
 C Sharp (programming language)
-ISO/IEC 10021
-ISO 31-9
 COLLADA
 IEC 62455
 ISO 22301
-ISO/IEC 17024
 ISO 15919
 IEC 60269
-ISO/IEC 7064
 IEC 61131
 ISO 11170
 IEC 62325
@@ -157,65 +128,41 @@ ISO 128
 List of ISO romanizations
 ISO 10007
 ISO 15189
-ISO/IEC 20000
-ISO/IEC 7816
 ISO 8501-1
 IEC 60364
 International Bank Account Number
 Open Data Protocol
 Digital Addressable Lighting Interface
 Salt spray test
-ISO/IEC 10116
 ISO 6346
-NAPLPS
 ISO 10303-21
 International Electrotechnical Commission
 OCR-A
-Julia (programming language)
 AES47
-ISO/IEC 12207
 Isofix
-General Graphics Interface
 19-inch rack
-Springer Verlag
 MPEG-1
-Carl Hanser Verlag
-ISO/IEC 11801
 ISO 10161
 MP4 file format
 Meta-Object Facility
-ISO/IEC 29119
 International Standard Identifier for Libraries and Related Organizations
-ISO/IEC 80000
-Language Of Temporal Ordering Specification
 ISO 19600
 Ruby (programming language)
-ISO/IEC 8859-8
 ISO 11992
 Fuel oil
-ISO/IEC 27000-series
 ISO 10303-22
 Geospatial metadata
-CAN bus
 Quality function deployment
 Graph Query Language
 IEC 60228
 Common Language Infrastructure
 Geography Markup Language
 Manufacturing Message Specification
-ISO/IEC 9797-1
-ISO/IEC 27000
-ISO/IEC 8859-6
 List of IEC standards
-ISO/IEC 42010
 Compact Disc Digital Audio
-IEC 62351
 Han Xin code
-ISO/IEC 9126
 ISO 5964
-ISO 8373
 ISO 3166-1
-ISO/IEC 11404
 ISO 3166-3
 Linguistic categories
 RM-ODP
@@ -230,25 +177,21 @@ ISO 9660
 ISO 2015
 ISO 4165
 ISO 4157
-PDF/VT
 ISO 55000
 Office Open XML
 Legal Entity Identifier
 PDF
-ISO/IEC 10967
 Shoe size
 Delivery Multimedia Integration Framework
 ISO 21500
 ISO 5427
 ISO 3307
 ISO 9
-José Luis Encarnação
 ISO 9564
 ISO-TimeML
 ISO 7010
 International Standard Musical Work Code
 ISO 5776
-ISO/IEC 8859-7
 ISO 2145
 Hot shoe
 ISO 11940
@@ -261,37 +204,27 @@ IEC 61030
 ISO 3166
 Hazard symbol
 Kunrei-shiki romanization
-ISO/IEC TR 12182
 IEC 62304
 IEC 81346
-ISO/IEC 14651
 ISO 10218
 ISO 704
 ISO 1745
-ISO 19092-2
 HTML
 ISO 11784 and ISO 11785
 Common Object Request Broker Architecture
-ISO/IEC 8652
 Topic map
 International Securities Identification Number
 ANSI escape code
 ISO 13584
-ISO/IEC 14443
 CHILL
 ISO 639
-ISO/IEC 8859-11
-ISO/IEC 15504
 Mixed raster content
 ISBN (identifier)
 ISO 2921
 ISO 31-1
 COBOL
-ISO/IEC 8859-16
 Power take-off
-ANSI
 Simple Features
-IEC 60980-344
 IEC 60038
 Pinyin
 ASMO 449
@@ -300,14 +233,9 @@ ISO 11783
 ISO 14971
 C++
 IEC 60068
-PDF/UA
 IEC 62366
 ISO 1
-BI Wissenschaftsverlag
 ISO 9362
-PDF/X
-ISO 19092-1
-ISO/IEC 19752
 Pascal (programming language)
 E series of preferred numbers
 PHIGS
@@ -315,23 +243,16 @@ IEEE 754
 Prolog
 ISO 6344
 JPEG 2000
-ISO/IEC 27005
 MaxiCode
-ISO 9000
-Fuse (automotive)
-ISO/IEC 9529
 ISO 14031
 FTAM
 ISO 14224
 O-ring
 IEC 62700
-ISO/IEC 27002
 IEC 61970
 ISBN
 MicroPDF417
 File Allocation Table
-Academic Press
-ISO/IEC 8859-5
 Multibus
 MPEG-4
 International Standard Music Number
@@ -342,7 +263,6 @@ ISO 19114
 ANSI C
 List of ISO standards
 ISLISP
-ISO 31-13
 IEC 61851
 British Standard Pipe
 IEC 60027
@@ -353,16 +273,13 @@ International Standard Name Identifier
 IEC 60034
 Fieldbus
 Hole punch
-ISO/IEC 2022
 ISO 639-2
 Romanization of Armenian
 ISO 14644
 ISO 9897
 Requirements engineering
 On-board diagnostics
-ISO/IEC 15288
 Equal-loudness contour
-ISO/IEC 8859-1
 Programming language
 ISO 18245
 IEC 61131-3
@@ -372,28 +289,21 @@ MPEG-7
 IEC 61162
 Essential Video Coding
 Common Logic
-ISO 12006
 ISO 25964
 A440 (pitch standard)
-PDF/A
 ISO 13399
 ISO 217
 ISO 6438
 IEC 63119
-ISO/TR 11941
 ISO 4217
 ISO 22300
-ISO/IEC 7812
 ISO 7002
 ISO 6385
 Minimal BASIC
-ISO 14000
 IEC 60320
-TIFF/EP
 JPEG XL
 Lexical Markup Framework
 ISO 639-5
-ISO/IEC 15897
 IEC 60870-5
 JPIP
 ISO 15686
@@ -410,14 +320,11 @@ QR code
 ISO 19011
 126 film
 ISO 732
-GSS-KERNEL
-ISO 31-12
 MPEG-A
 Germany
 ISO 639-1
 ISO 7001
 Rectangular Micro QR Code
-ISO/IEC 8859-3
 ISO 5775
 ISO 233
 API
@@ -426,29 +333,20 @@ ISO 8691
 IEC 60929
 IEC 63382
 ISO 639-3
-ISO/IEC 21827
-ISO/IEC 8859
 ISO 3166-2
 Knowledge Discovery Metamodel
 OCR-B
 ISO 15926 WIP
 MPEG-2
-Fraunhofer Institute
 ISO 668
 IEC 61400
 ISO 28000
-ISO/IEC 8859-4
 ISO 7736
-ISO/IEC 19770
-ISO/IEC 8859-12
-ISO/IEC 9995
 Motion JPEG 2000
 ISO 843
 ISO 2033
 Digital Research
-ISO/IEC 8859-9
 ISO-8859-8-I
-ISO/IEC 15693
 Shock-resistant watch
 ISO 20121
 ISO metric screw thread
@@ -456,14 +354,11 @@ Atari ST
 ISO 15022
 IEC 60870-6
 ISO 4031
-ISO/IEC 11179
-ISO/IEC 6523
 IEC 61511
 ISO 216
 ISO 860
 ISO 2014
 ISO 11940-2
-Graphics Environment Manager
 Market Identifier Code
 Comparative Tracking Index
 Business Process Model and Notation
@@ -474,18 +369,14 @@ IEC 61850
 MHEG-5
 Horsepower
 Digital object identifier
-ISO/IEC 8859-10
 ISO 31-10
 ISO 259
 ISO 14698
 IEC 62061
-ISO 7027
 ISO 9241
 IATF 16949
-ISO/IEC 38500
 Torx
 Computer graphics
-ISO/IEC 27006
 International Standard Audiovisual Number
 Common Criteria
 ISO 2
@@ -495,6 +386,4 @@ Flowchart
 Linux Standard Base
 ISO 657
 ISO 31-6
-ISO/IEC 27040
 AES3
-ISO/IEC 8859-2

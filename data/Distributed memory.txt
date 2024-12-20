@@ -9,9 +9,7 @@ Automatic parallelization
 Barrier (computer science)
 Beowulf cluster
 Bit-level parallelism
-Boost (C++ libraries)
 Bulldozer (microarchitecture)
-C++ AMP
 CUDA
 Cache-only memory architecture
 Cache coherence
@@ -36,12 +34,10 @@ Dataflow architecture
 Dataflow programming
 Deadlock (computer science)
 Deterministic algorithm
-Distributed cache
 Distributed computing
 Distributed shared memory
 Doi (identifier)
 Dryad (programming)
-Dual-ported RAM
 Embarrassingly parallel
 Ethernet
 Explicit parallelism
@@ -73,7 +69,6 @@ Multiple instruction, multiple data
 Multiple instruction, single data
 Multiprocessing
 Multithreading (computer architecture)
-Network topology
 Non-blocking algorithm
 Non-uniform memory access
 OpenACC
@@ -97,7 +92,6 @@ RaftLib
 Scalability
 Semiconductor memory
 Shared memory
-Shared memory architecture
 Simultaneous and heterogeneous multithreading
 Simultaneous multithreading
 Single instruction, multiple data
@@ -116,8 +110,6 @@ Task parallelism
 Temporal multithreading
 Thread (computing)
 Threading Building Blocks
-Transputer
 Unified Parallel C
 Uniform memory access
 Vector processor
-ZPL (programming language)

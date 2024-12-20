@@ -1,35 +1,10 @@
 Abstract and concrete
-Abstract data type
-Abstract interpretation
-Abstraction
-Abstraction inversion
-Abstraction layer
-Abstraction principle (computer programming)
-Adjudication
 Agile software development
 Algorithm
-Aphorism
-Aspect-oriented programming
-Attribute (computing)
 Backward compatibility
-Binary search tree
-Boilerplate code
-Bracket abstraction
-Business process modeling
 C++
-CI/CD
 C (programming language)
 Capability Maturity Model Integration
-Casting out nines
-Class (computer programming)
-Class (computer science)
-Clojure
-Cognitive dimensions
-Common Lisp
-Common Lisp Object System
-Compatibility layer
-Compatibility mode
-Compile-time
 Component-based software engineering
 Computer compatibility
 Computer engineering
@@ -37,169 +12,52 @@ Computer language
 Computer program
 Computer programming
 Computer science
-Configuration in object-oriented programming
-Control flow
-Data (computer science)
-Data model
-Data modeling
 Data type
-Database administrator
-Database management system
-Delegation (object-oriented programming)
 Design
-DevOps
 Doi (identifier)
 Domain-specific language
-Domain-specific programming language
-Domain analysis
-Empirical software engineering
-Encapsulation (object-oriented programming)
 Enterprise architecture
-Enterprise unified process
-Entity–relationship model
 Essential systems analysis
-Executable UML
-Experimental software engineering
-Extreme programming
-First-generation programming language
-Foreign function interface
 Formal methods
-Formal semantics of programming languages
-Formal specification
-Forward compatibility
-Free On-line Dictionary of Computing
-Function model
-Functional programming language
-Functional specification
-GNU Free Documentation License
-Generalization
-Generic programming
-Greenspun's Tenth Rule
-Greenspun's tenth rule
-Hash table
-Haskell (programming language)
 Hdl (identifier)
-Heuristic (computer science)
-Higher-order function
-IDEF
 ISBN (identifier)
-ISO/IEC 15504
 ISSN (identifier)
 Incremental build model
-Information model
 Information science
-Inheritance (object-oriented programming)
-Integer (computer science)
 Iterative and incremental development
 Java (programming language)
-Joel Spolsky
-John Guttag
-Keyword (computer programming)
-Lambda abstraction
-Leaky abstraction
-Legacy analysis
-Link-time
-Lisp programming language
-List (computing)
-List of abstractions (computer science)
-Loadtime
-Luciano Floridi
 Macro (computer science)
-Meta-analysis
-MetaOCaml
-Metamodeling
 Metaprogramming
-Method overloading
-Model-driven engineering
 Model checking
 Model of computation
 Modeling language
-Modeling languages
-Modular arithmetic
-Module (programming)
-Name binding
-OCaml
-Object-oriented analysis and design
-Object-oriented design
 Object-oriented programming
-Object-oriented programming language
-Object (computer science)
-Object Pascal
-Object model
-Ontology (information science)
 PMID (identifier)
 Pascal (programming language)
-Physical data independence
-Polymorphism (computer science)
-Polymorphism in object-oriented programming
-Procedure (computer science)
-Program refinement
 Programming language
 Programming paradigm
 Project management
 Python (programming language)
-Rapid application development
 Requirements engineering
-Rice's theorem
 Risk management
 Round-trip engineering
-Run time (program lifecycle phase)
 S2CID (identifier)
-Scala (programming language)
-Scheme (programming language)
 Scripting language
-Scrum (software development)
-Search-based software engineering
-Second-generation programming language
-Self (programming language)
-Service-oriented architecture
-Site reliability engineering
-Social software engineering
 Software
 Software archaeology
-Software architecture
-Software artifact
-Software component
 Software configuration management
 Software deployment
 Software design
-Software design pattern
 Software development process
 Software engineering
-Software incompatibility
 Software maintenance
-Software modeling
-Software prototyping
 Software quality
 Software quality assurance
-Software system
 Software testing
-Software verification and validation
-Specification language
-Spiral model
-State (computer science)
-Structured analysis
-Structured programming
-Subroutine
-Syntax (programming languages)
 System
-Systematic review
 Systems analysis
-Systems design
-Systems development life cycle
 Systems engineering
-Systems modeling
-Systems modeling language
-Template Haskell
-Third-generation programming language
-Translator (computing)
-Type in object-oriented programming
 Undecidable problem
 Unified Modeling Language
-Unified Process
-Universal Systems Language
 Usability
-V-model (software development)
-View (database)
-View model
 Waterfall model

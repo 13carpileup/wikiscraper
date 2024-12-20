@@ -1,69 +1,35 @@
-3D reconstruction
 ACM Computing Classification System
-ACM Computing Surveys
-ACM Transactions on Graphics
 Acta Informatica
-Advances in Geometry
 Affine transformation
-Algebra of physical space
-Algebraic structures
 Algorithm
 Algorithm design
 Algorithmic efficiency
-Algorithmica
-Amortized analysis
 Analysis of algorithms
-Analytical mechanics
-Antipodal point
 Application security
 Applied mathematics
-Approximation theory
-Ars Combinatoria (journal)
 Artificial intelligence
 Automata theory
 Automated planning and scheduling
 Automated theorem proving
-Bentley–Ottmann algorithm
-Big O notation
-Boolean operations on polygons
-Bosonic string theory
-Bowyer–Watson algorithm
-Brute-force search
-Bézier curve
-Calculus of variations
-Chan's algorithm
-Chaos theory
-Chew's second algorithm
-Classical field theory
 Clifford algebra
-Clifford analysis
-Closest pair of points
-Closest pair problem
 Coding theory
 Collision detection
 Combinatorics
 Communications of the ACM
 Compiler construction
 Computability theory
-Computational Geometry (journal)
 Computational biology
 Computational chemistry
 Computational complexity
 Computational complexity theory
 Computational engineering
 Computational mathematics
-Computational number theory
 Computational physics
 Computational social science
-Computational statistics
-Computational topology
 Computer
 Computer-aided design
 Computer-aided engineering
-Computer-aided geometric design
 Computer-aided manufacturing
-Computer Graphics World
-Computer Graphics and Applications
 Computer accessibility
 Computer algebra
 Computer animation
@@ -80,101 +46,55 @@ Computing
 Computing platform
 Concurrency (computer science)
 Concurrent computing
-Cone algorithm
-Conformal field theory
-Constrained Delaunay triangulation
-Constraint programming
-Constraint satisfaction problem
 Control theory
 Control variable (programming)
-Convex hull
-Convex hull algorithms
-Convex polygon
-Convex set
 Cross-validation (statistics)
 Cryptography
 Cyberwarfare
 Data mining
-Data pre-processing
 Data structure
 Database
 Decision support system
-Decision theory
-Delaunay triangulation
 Dependability
-Descriptive geometry
 Differential equation
-Differential form
 Differential geometry
 Digital art
-Digital geometry
 Digital library
 Digital marketing
-Discrete & Computational Geometry
 Discrete geometry
 Discrete mathematics
 Distributed artificial intelligence
 Distributed computing
 Document management system
 Domain-specific language
-Duality (mathematics)
-Dynamic convex hull
-Dynamic data structures
-Dynamic problem (algorithms)
-Dynamic range searching
 Dynamical system
 E-commerce
 Educational technology
-Effective field theory
 Electronic design automation
 Electronic publishing
 Electronic voting
 Embedded system
 Enterprise information system
 Enterprise software
-Euclidean distance map
-Euclidean shortest path
-European Community on Computational Methods in Applied Sciences
 Exterior algebra
-Exterior calculus
-Field theory (physics)
 Form factor (design)
 Formal language
 Formal methods
-Fortune's Algorithm
-Fourier analysis
-Franco P. Preparata
 Functional analysis
-Functional integration
 Game theory
 Gauge theory
-Gauge theory (mathematics)
 Geographic information system
-Geombinatorics
-Geometriae Dedicata
 Geometric algebra
-Geometric analysis
-Geometric calculus
-Geometric hashing
 Geometry
-Gift wrapping algorithm
-Gilbert–Johnson–Keerthi distance algorithm
-Graham scan
 Graph theory
 Graphics processing unit
 Green computing
-Hamiltonian mechanics
 Hardware acceleration
 Hardware security
-Harmonic analysis (mathematics)
 Health informatics
 Human–computer interaction
-IEEE Transactions on Computers
-IEEE Transactions on Graphics
-IEEE Transactions on Pattern Analysis and Machine Intelligence
 ISBN (identifier)
 Image compression
-Information Processing Letters
 Information retrieval
 Information security
 Information system
@@ -182,44 +102,14 @@ Information theory
 Integrated circuit
 Integrated development environment
 Interaction design
-International Council for Industrial and Applied Mathematics
-International Journal of Computational Geometry and Applications
 Interpreter (computing)
 Intrusion detection system
-Japan Society for Industrial and Applied Mathematics
-Joseph O'Rourke (professor)
-Journal of Algorithms
-Journal of Combinatorial Theory
-Journal of Computational Geometry
-Journal of Computer and System Sciences
-Journal of the ACM
-Jump-and-Walk algorithm
-Kirkpatrick–Seidel algorithm
 Knowledge representation and reasoning
-Lagrangian mechanics
-Laplacian smoothing
-Largest empty circle
-Level-set method
 Library (computing)
-Line segment intersection
 Linear programming
-List of algorithms
-List of arbitrary-precision arithmetic software
-List of books in computational geometry
-List of combinatorial computational geometry topics
 List of computer size categories
-List of finite element software packages
-List of interactive geometry software
-List of mathematics topics
-List of numerical-analysis software
-List of numerical computational geometry topics
-List of optimization software
-List of statistical software
 Logic in computer science
 Machine learning
-Malliavin calculus
-Management Science (journal)
-Marching triangles
 Mathematical analysis
 Mathematical and theoretical biology
 Mathematical chemistry
@@ -230,28 +120,17 @@ Mathematical physics
 Mathematical psychology
 Mathematical sociology
 Mathematical software
-Mathematical visualization
 Mathematics
-Mesh generation
-Michael Ian Shamos
 Middleware
-Minimum bounding box
-Minimum bounding box algorithms
 Mixed reality
 Model of computation
 Modeling language
-Motion planning
 Multi-task learning
-Multicomplex number
 Multilinear algebra
 Multimedia database
 Multiprocessing
 Multithreading (computer architecture)
-Multivariable calculus
 Natural language processing
-Nearest neighbor search
-Nearest neighbour search
-Nesting algorithm
 Network architecture
 Network performance
 Network protocol
@@ -260,43 +139,20 @@ Network security
 Network service
 Networking hardware
 Numerical analysis
-Numerical linear algebra
-Numerical methods for ordinary differential equations
-Numerical methods for partial differential equations
 Open-source software
 Operating system
 Operations research
-Operator algebra
-Operator theory
-Ordinary differential equation
 Outline of computer science
 PDF
 Parallel computing
-Parametric curve
-Parametric surface
 Partial differential equation
-Particle physics and representation theory
 Path integral formulation
-Pattern Recognition (journal)
-Pattern Recognition Letters
 Peripheral
-Perturbation theory
-Perturbation theory (quantum mechanics)
 Philosophy of artificial intelligence
 Photograph manipulation
 Point cloud
-Point in polygon
-Point location problem
-Point set registration
-Pointer (graphical user interfaces)
-Poisson algebra
-Polygon
-Polygon triangulation
-Polyhedron
-Potential theory
 Printed circuit board
 Probability
-Probability distribution
 Probability theory
 Process control
 Processor (computing)
@@ -306,37 +162,19 @@ Programming paradigm
 Programming team
 Programming tool
 Quantum Computing
-Quantum field theory
-Quantum group
-Quasitriangulation
-Query (complexity)
-Quickhull
-Random variable
 Randomized algorithm
-Range searching
 Ray tracing (graphics)
 Real-time computing
 Reinforcement learning
 Rendering (computer graphics)
-Renormalization group
 Requirements analysis
 Robotics
-Robust geometric computation
-Rotating calipers
-Ruppert's algorithm
-SIAM Journal on Computing
-SIGACT News
 Security hacker
 Security service (telecommunication)
 Semantics (computer science)
 Set (mathematics)
-Shamos–Hoey algorithm
-Shoelace algorithm
-Social choice theory
 Social computing
 Social software
-Society for Industrial and Applied Mathematics
-Société de Mathématiques Appliquées et Industrielles
 Software configuration management
 Software construction
 Software deployment
@@ -349,49 +187,20 @@ Software maintenance
 Software quality
 Software repository
 Solid modeling
-Solver
-Space partitioning
-Spacetime algebra
-Spatial query
-Spline (mathematics)
-Springer-Verlag
-Statistical field theory
 Statistics
-Stochastic calculus
 Stochastic computing
-Stochastic differential equation
-Stochastic process
-String theory
 Superalgebra
-Supersymmetric quantum mechanics
-Supersymmetric theory of stochastic dynamics
-Supersymmetry
-Supersymmetry algebra
 Supervised learning
-Sweep line algorithm
 System on a chip
 Tensor
-Tensor calculus
-Tensor software
-The Unreasonable Effectiveness of Mathematics in the Natural Sciences
-The Visual Computer
-Theoretical Computer Science (journal)
 Theoretical computer science
 Theory of computation
-Topic outline of mathematics
-Topological field theory
-Topological string theory
-Triangulation (geometry)
 Ubiquitous computing
 Unsupervised learning
-Validated numerics
-Vector calculus
 Very Large Scale Integration
 Video game
 Virtual machine
 Virtual reality
 Visualization (graphics)
-Voronoi diagram
 Word processor
 World Wide Web
-Yevgeny B. Karasik

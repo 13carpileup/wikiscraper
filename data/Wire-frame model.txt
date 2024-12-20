@@ -6,18 +6,11 @@
 3D modeling
 3D printing
 3D projection
-3D rendering
-3D scanning
 Affine transformation
-Aliasing
 Alpha compositing
 Animation
 Anisotropic filtering
 Back-face culling
-Beam tracing
-Cel shading
-Checkerboard rendering
-Clip plane
 Clipping (computer graphics)
 Collision detection
 Comparison of vector graphics editors
@@ -25,39 +18,25 @@ Computer-aided design
 Computer-aided manufacturing
 Computer-generated imagery
 Computer animation
-Computer graphics (computer science)
 Computer graphics lighting
 Cone tracing
 Crowd simulation
-Cube (geometry)
-Curve (geometry)
 Deferred shading
 Diffusion curve
-Direct numerical control
-Edge (geometry)
-Exterior (topology)
 Flat shading
 Fluid animation
 Frame rate
 Global illumination
 Graphic design
 Graphics software
-Hidden-line removal
 Hidden-surface determination
-Icosahedron
 Image-based modeling and rendering
 Isometric video game graphics
-Italian Renaissance
 Layers (digital image editing)
-Line art
-List of 3D animation software
 List of 3D computer graphics software
 List of 3D modeling software
 List of 3D rendering software
 List of computer graphics algorithms
-Machine tools
-Metal wire
-Mockup
 Mode 7
 Motion capture
 Parallax scrolling
@@ -66,7 +45,6 @@ Pixel
 Planar projection
 Polygon mesh
 Raster graphics editor
-Ray casting
 Ray tracing (graphics)
 Real-time computing
 Reflection (computer graphics)
@@ -74,38 +52,24 @@ Rendering (computer graphics)
 Rotation (mathematics)
 Scaling (geometry)
 Scanline rendering
-Screen space
 Shader
 Shading
 Shadow mapping
-Shadow volume
 Shear matrix
 Skeletal animation
 Skybox (video games)
 Solid modeling
 Spectral rendering
 Sphere
-Straight line
-Surface
 Surface triangulation
 Texel (graphics)
-Text-to-image model
 Texture mapping
 Three-dimensional
-Tool paths
-Transform and lighting
-Translation (geometry)
 Triangle mesh
 Unbiased rendering
-Vector graphics
-Vertex (computer graphics)
 Video game
 Virtual cinematography
-Virtual engineering
 Virtual reality
 Visual effects
 Visualization (graphic)
-Volume rendering
-Volumetric mesh
 Voxel
-Website wireframe

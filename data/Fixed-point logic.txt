@@ -1,8 +1,6 @@
-AC (complexity)
 Abstract logic
 Ackermann set theory
 Aleph number
-Alfred Aho
 Algebraic logic
 Alphabet (formal languages)
 Argument
@@ -15,7 +13,6 @@ Axiom
 Axiom of choice
 Axiom schema
 Axiomatic system
-Axiomatization of Boolean algebras
 Banach–Tarski paradox
 Bijection
 Binary operation
@@ -33,7 +30,6 @@ Category of sets
 Category theory
 Church encoding
 Church–Turing thesis
-CiteSeerX (identifier)
 Class (set theory)
 Classical logic
 Codomain
@@ -52,12 +48,8 @@ Construction of the real numbers
 Constructive set theory
 Continuum hypothesis
 Countable set
-Database query language
-Datalog
 Decidability (logic)
 Decision problem
-Deductive system
-Descriptive complexity theory
 Diagram (mathematical logic)
 Doi (identifier)
 Domain of a function
@@ -85,7 +77,6 @@ Forcing (mathematics)
 Formal grammar
 Formal language
 Formal proof
-Formal semantics (logic)
 Formal system
 Formation rule
 Foundations of geometry
@@ -98,7 +89,6 @@ Fuzzy set
 General set theory
 Grothendieck universe
 Ground expression
-Ground formula
 Gödel's completeness theorem
 Gödel's incompleteness theorems
 Gödel numbering
@@ -108,7 +98,6 @@ Higher-order logic
 Hilbert's axioms
 Hilbert system
 History of logic
-History of mathematical logic
 ISBN (identifier)
 ISSN (identifier)
 Image (mathematics)
@@ -122,19 +111,15 @@ Inhabited set
 Injective function
 Interpretation (logic)
 Interpretation (model theory)
-Interpretation function
 Intersection (set theory)
 Isomorphism
 Jeffrey Ullman
 Kolmogorov complexity
-Kripke's theory of truth
 Kripke–Platek set theory
-L (complexity)
 Lambda calculus
 Large cardinal
 Lemma (mathematics)
 Lindström's theorem
-List of Hilbert systems
 List of axioms
 List of first-order theories
 List of formal systems
@@ -165,13 +150,10 @@ Model theory
 Monadic predicate calculus
 Monadic second-order logic
 Morse–Kelley set theory
-Moshe Vardi
-NL (complexity)
 NP (complexity)
 Naive set theory
 Natural deduction
 Negation
-Neil Immerman
 New Foundations
 Non-Euclidean geometry
 Non-logical symbol
@@ -182,7 +164,6 @@ Open formula
 Operation (mathematics)
 Ordinal analysis
 Ordinal number
-PSPACE
 P (complexity)
 P versus NP problem
 Paradoxes of set theory
@@ -191,7 +172,6 @@ Peano axioms
 Philosophy of mathematics
 Power set
 Predicate (mathematical logic)
-Predicate logic
 Predicate variable
 Primitive recursive arithmetic
 Primitive recursive function
@@ -205,7 +185,6 @@ Propositional variable
 Quantifier (logic)
 Quantifier rank
 Recursion
-Recursive set
 Relation (mathematics)
 Reverse mathematics
 Robinson arithmetic
@@ -232,7 +211,6 @@ Spectrum of a sentence
 Spectrum of a theory
 Square of opposition
 Strength (mathematical logic)
-String (formal languages)
 Structure (mathematical logic)
 Substitution (logic)
 Substructure (mathematics)
@@ -240,24 +218,20 @@ Supertask
 Surjective function
 Syllogism
 Symbol (formal)
-Syntactic sugar
 Syntax (logic)
 T-schema
 Tarski's axiomatization of the reals
 Tarski's axioms
-Tarski's theory of truth
 Tarski's undefinability theorem
 Tarski–Grothendieck set theory
 Tautology (logic)
 Term (logic)
 Term logic
 Theorem
-Theories of truth
 Theory (mathematical logic)
 Three-valued logic
 Timeline of mathematical logic
 Transfer principle
-Transitive closure
 Transitive set
 True arithmetic
 Truth predicate
@@ -266,7 +240,6 @@ Truth value
 Turing machine
 Type (model theory)
 Type theory
-Ultrafilter (set theory)
 Ultraproduct
 Uncountable set
 Undecidable problem
@@ -283,5 +256,4 @@ Venn diagram
 Von Neumann universe
 Von Neumann–Bernays–Gödel set theory
 Well-formed formula
-Yiannis N. Moschovakis
 Zermelo–Fraenkel set theory

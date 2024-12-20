@@ -1,371 +1,60 @@
-Array data type
-Transparent latch
-IEEE 802.15.4e
-802.3ah
-Register-transfer level
-IEEE 1675-2008
-802.3ca
-OpenCores
-802.3dd
-FPGA
-IEEE 802.11p
-Very High Speed Integrated Circuit Program
-LatticeMico32
-802.3ct
-Strongly typed programming language
-802.3ad
-WiGig
-Complex programmable logic device
-High-level synthesis
-IEEE 802.11ai
-IEEE 802.21
-Arm Holdings
-IEEE 802.1aq
-802.3aq
-Time
-802.3ac
 IEEE 802.1ad
-OpenRISC
-802.3ab
-Analogue electronics
-IEEE 802.11-1997
-IEEE 802.1ag
-IEEE 1584
-IEEE 802.11 (legacy mode)
-SystemVerilog
 Token bus network
 String (computer science)
-IEEE 802.11bb
 Pascal (programming language)
-Mixed-signal integrated circuit
-IEEE 802.15.6
-IEEE P1363
-Scalable Coherent Interface
-802.3at
 Software maintenance
-Digital electronics
-802.3cu
-Link Layer Discovery Protocol
 Software release life cycle
-Hardware Description Language
-ARC (processor)
-IEEE 1164
-Java Optimized Processor
-IEEE 1451
 IEEE 802.11r-2008
-Software test documentation
-802.3y
-Inter-Access Point Protocol
-IEEE 802.1Qbb
-Rosetta-lang
-Cadence Design Systems
 SystemC
-802.3df
-Logic block
-IEEE 802.11v
-IEEE 802.11
 Programming language
-MyHDL
-Multiplexer
-IEEE 802.11be
-802.3cw
 Field-programmable gate array
-Accellera
-IEEE 802.11bn
-Signedness
-IEEE 802.15.5
-802.3ak
-802.3av
-IEEE 1355
-Distributed Interactive Simulation
 IEEE 854-1987
 IBM
-802.3db
-IEEE 802.1AE
-Wi-Fi 7
-Programmable Array Logic
-ELLA (programming language)
-802.3by
 IEEE 802.11i-2004
-Property Specification Language
 Ethernet
-ISO/IEC 42010
 Dataflow programming
-IEEE 1394
-IEEE 1547
 GitHub
-Type system
-Advanced Boolean Expression Language
 IEEE P1906.1
-Data center bridging
 Concurrent computing
-802.3cb
-802.3cc
 IP-XACT
 Logic gate
-Flip-flop (electronics)
-Wi-Fi 4
-RISC-V
-802.3ck
-Multiple Registration Protocol
-IEEE 802.3x
-IEEE 802.15.4c
-802.3da
-IEEE 802.15
-VHDL-VITAL
-802.3cs
-Stream Reservation Protocol
-Generic array logic
-IEEE-488
-Syntax
-IEEE 802.15.4f
 C++
-IEEE 802.11s
-802.3cm
-Cypress PSoC
-802.3cg
-802.3de
-Event-driven simulator
 Software configuration management
-Logic gates
-RuBee
-IEEE 1613
-IEEE 802.10
-Numeric std
-100BaseVG
-IEEE 802.15.3
-IEEE 802.15.2
-802.3az
-Link aggregation
-Wi-Fi 8
-IEEE 1619
-IEEE 802.15.4d
-Service Interoperability in Ethernet Passive Optical Networks
-LEON
-Wi-Fi 6
-Xputer
 Intel
-Standard Delay Format
 Parallel computing
-Delta delay
-802.3au
-Character (computing)
-Open-source hardware
-High-level architecture
-NCSim
-Verilog-A
-VLSI
-IEEE 802.1D
-IEEE 802.7
 IEEE 802.11e-2005
-IEEE 754-2008 revision
-Hardware description language
-Spanning Tree Protocol
 IEEE 802.15.4a
-802.3b
 DNP3
-Futurebus
-802.3cp
-IEEE 802.15.7
-Intel Quartus Prime
-AMD
-IEEE 802.22
-Aldec
-IEEE 1471
-Logic simulation
-Concurrent system
-Wi-Fi
-Xilinx ISE
-VMEbus
-Link Aggregation Control Protocol
-Synopsys
-IEEE 802.2
-Boolean data type
-Register transfer level
-IEEE 802.11n-2009
-Cable modem
-Concept of operations
 System on a chip
-IEEE 1722
-IEEE 802.11ac
-IEEE 1219
 Microwave
-802.3bz
-Application-specific integrated circuit
-IEEE 802.18
-802.3z
 IEEE 802.20
-SystemVerilog DPI
 IEEE
 Integer
-IEEE 802.9
-WiMAX
-802.3an
-Reactive programming
-IEEE 802.1ah-2008
-Verilog-AMS
-IEEE 802.11z
-IEEE 1733
-IEEE 1901
-ISO/IEC 12207
-LatticeMico8
-IEEE 802.11ax
-10BASE5
-Drive strength
-IEEE 1284
-802.3bt
-C to HDL
-IEEE 1855
-ModelSim
-802.3ce
-802.3ae
-Adder (electronics)
-Nios II
 Bluetooth
-802.3af
-Lattice Semiconductor
-MicroBlaze
-Achronix
-Micro T-Kernel
-IEEE 802.1Qav
 IEEE 754
 IEEE 802.11y-2008
-Circuit underutilization
-Audio Video Bridging
 IEEE 802.11b-1999
 IEEE 802.11k-2008
-IEEE 802.11af
 IEEE 802
-Texas Instruments
 Many-valued logic
-IEEE P1619
 Hardware acceleration
-QuestaSim
-Microchip Technology
-Open Firmware
-Nios embedded processor
-Polytechnic University of Turin
-Token Ring
-Xilinx Vivado
 ISBN (identifier)
-Altera Hardware Description Language
 Open-source software
-Handel-C
-IEEE 802.11aj
 Risk management
-Reconfigurable computing
-IEEE 802.11c
-IEEE 802.16
-IEEE 802.1Q
-Provider Backbone Bridge Traffic Engineering
-Vivado
-IEEE 802.11ay
-Xilinx
-Programmable logic device
-Software design description
-IEEE 802.11ah
-IEEE 802.1X
 Filename extension
-Advanced Library Format
 IEEE 802.15.4
-Gezel
-Precision Time Protocol
 Software quality assurance
-IEEE 1905
-IEEE 802.1
-Libre-SOC
-802.3cz
-IEEE 693
-ISO-8859-1
-Bit
-IEEE 802.11g-2003
-802.3ch
 Programming paradigm
 United States Air Force
-802.3cv
-Virtex (FPGA)
-Proprietary hardware
-Verilog-to-Routing
-NXP Semiconductors
 Record (computer science)
-Std logic
-VHDL-AMS
-IEEE 802.11h-2003
 Doi (identifier)
-802.3j
-Power ISA
-802.3i
-Chisel (programming language)
-IEEE 802.11ad
-List of HDL simulators
-ARM Cortex-M
-PILOT
-Verilog
-802.3cd
-802.3cr
-802.3cn
-IEEE 802.1AS
-Universal Power Adapter for Mobile Devices
-PicoBlaze
 IEEE 802.3
-Ada (programming language)
-OpenRISC 1200
-CPLD
 IEEE 802.11u
-IEEE 802.15.1
-Resilient Packet Ring
-IEEE 802.15.4g
-802.3cx
-ICE (FPGA)
-IEEE 802.11d-2001
-IEEE 1541-2002
 Siemens
-Case sensitivity
 JTAG
-802.3ba
-PALASM
-IEEE P802.1p
-802.3u
-Single UNIX Specification
-IEEE 1849
-802.3cq
-802.3e
-IEEE 802.15.4b
-Soft microprocessor
-Programmable logic array
 IEEE 802.11w-2009
-DySPAN
-ISO/IEEE 11073
-IEEE 802.11j-2004
 Project management
-IEEE 754-1985
-VHSIC
-U.S. Department of Defense
-Strongly typed
-IEEE Standards Association
-Stratix
-IEEE 802.6
-802.3a
-IEEE 802.11a-1999
-802.3d
-Real data type
-IEEE 1076
-802.3bu
-802.3cy
 Intellectual property
-OpenPOWER Microwatt
-Infineon Technologies
-IEEE 802.8
-IEEE 802.24
-Unified Power Format
-Lola (computing)
-Software requirements specification
 Institute of Electrical and Electronics Engineers
 IEEE 2030
-Zigbee
-Flow to HDL
-IEEE 802.15.4z
-IEEE 1667
-Wi-Fi 5
 Requirements engineering
-Logic synthesis

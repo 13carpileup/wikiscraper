@@ -1,342 +1,112 @@
 Absolute value
-Adjugate
 Adjugate matrix
-Algebraic form
-Algebraic group
-Algebraic multiplicity
-Alice's Adventures in Wonderland
-Alternating form
-American Mathematical Monthly
-Analytic function
 ArXiv (identifier)
-Area (geometry)
-Arithmetic mean
-Arthur Cayley
 Associative algebra
-Bareiss Algorithm
-Basic Linear Algebra Subprograms
 Basis (linear algebra)
-Basis (vector space)
-Bell polynomial
-Berezinian
 Bibcode (identifier)
-Big O notation
 Bijection
 Bilinear map
-Binomial coefficient
-Bit complexity
-Bivector
 Block matrix
-Brunn–Minkowski theorem
 Calculus
 Cambridge University Press
-Capelli determinant
 Carl Friedrich Gauss
-Carl Gustav Jakob Jacobi
-Carl R. de Boor
-Cartography
-Categories for the Working Mathematician
 Category theory
-Catherine H. Yan
-Cauchy
-Cauchy determinant
-Cauchy–Binet formula
-Cayley–Hamilton theorem
-Cayley–Menger determinant
-Central simple algebra
-Chain complex
-Change of basis
-Character theory
 Characteristic polynomial
 Charles Royal Johnson
-Cholesky decomposition
-Circulant
-Closed ordered walk
 Coefficient
-Cofactor (linear algebra)
-Column vector
 Commutative ring
-Commutativity
-Comparison of linear algebra libraries
 Complex conjugate
 Complex number
-Compound matrix
-Computational Geometry (journal)
 Computational geometry
-Concave function
 Coordinate system
-Coppersmith–Winograd algorithm
-Cosine
 Cramer's rule
-Crelle's Journal
-Cross product
-Determinantal conjecture
 Diagonal matrix
-Dieudonné determinant
-Differentiable
-Differentiable function
 Differential equation
-Dimension
-Direct sum of modules
 Discriminant
-Dodgson condensation
 Doi (identifier)
 Dot product
 Dual space
 Edmund F. Robertson
 Eigenvalue
 Eigenvalues and eigenvectors
-Eigenvectors
-Elementary matrices
-Elimination theory
-Elwin Bruno Christoffel
 Encyclopedia of Mathematics
 Encyclopædia Britannica Eleventh Edition
-Endomorphism
-Epitope
-Equiareal map
 Eric W. Weisstein
-Euclidean space
-Euclidean vector
-Eugène Charles Catalan
 European Mathematical Society
 Exterior algebra
-Exterior differential form
-Factorial
-Faddeev–LeVerrier algorithm
-Ferdinand Georg Frobenius
 Field (mathematics)
 Field extension
-Field norm
-Finite-dimensional vector space
-First isomorphism theorem
-Floating-point arithmetic
-Fredholm determinant
-Free module
-Fuglede−Kadison determinant
 Function (mathematics)
-Function space
 Functional analysis
-Functional determinant
-Functoriality
-G. Baley Price
 Gaussian elimination
-General linear group
 Geometric algebra
 Geometric mean
 Geometry
 Gerolamo Cardano
 Glossary of linear algebra
-Gottfried Leibniz
-Graded ring
-Gram–Schmidt process
-Group homomorphism
 Hadamard product (matrices)
-Harmonic mean
 Hdl (identifier)
-Hermann Hankel
 Hermitian matrix
-Hessian matrix
-Homogeneous function
-Hypercube
 ISBN (identifier)
 Identity matrix
 If and only if
-Immanant of a matrix
-Indeterminate (variable)
 Injective function
 Inner product space
-Integration by substitution
-Inverse function theorem
-Invertible matrix
-JFM (identifier)
 JSTOR (identifier)
 Jacobi's formula
-Jacobian determinant
-Jacobian matrix
-Jacobian matrix and determinant
-Jacques Philippe Marie Binet
-James Joseph Sylvester
-James Whitbread Lee Glaisher
-John D. P. Meldrum
-Johns Hopkins University Press
-Joseph Louis Lagrange
-Kernel (linear algebra)
 Kronecker product
-Kullback-Leibler divergence
 LU decomposition
-Laplace expansion
-Lebesgue
-Lebesgue measure
-Leibniz formula for determinants
-Levi-Civita symbol
-Lewis Carroll
 Lie algebra
 Lie group
 Linear algebra
-Linear combination
-Linear independence
-Linear isomorphism
 Linear map
-Linear span
 Linear subspace
-Linear system of equations
-Linear transformation
-Linearly independent
-MR (identifier)
 MacTutor History of Mathematics Archive
-Manin matrices
 MathWorld
 Mathematics
-Mathematics of Computation
 Matrix (mathematics)
-Matrix algebra
 Matrix decomposition
-Matrix determinant lemma
 Matrix exponential
-Matrix group
-Matrix logarithm
 Matrix multiplication
-Matrix product
 Matrix similarity
-Mercator series
-Minor (linear algebra)
-Minor (matrix)
-Modular arithmetic
 Multilinear algebra
 Multilinear map
-Multiple integral
-Multiplicative group
-Multivariate normal
 Multivector
-Natural transformation
-Newton's identities
-Nonsingular matrix
-Normal subgroup
-Numerical linear algebra
-Numerical stability
 OCLC (identifier)
-Open subset
-Orientability
-Orientation (vector space)
-Orthogonal matrix
-Orthogonal transformation
 Orthogonality
 Orthonormal basis
-Otto Hesse
-Outer product
-Outermorphism
-Outline of linear algebra
-Parallelepiped
-Parallelogram
-Parity of a permutation
-Partial derivative
-Permanent (mathematics)
-Permutation
 Permutation matrix
-Persymmetric
-Pfaffian
-Pi notation
-Pierre-Simon Laplace
-Plane (geometry)
-Plane curve
 Polynomial
-Positive-definite matrix
 Positive definite matrix
-Power series
-Productive matrix
 Projection (linear algebra)
-Pseudo-determinant
-QR decomposition
-Quasideterminant
 Quaternion
 Quotient group
-Quotient space (linear algebra)
 Rank (linear algebra)
-Rank of a module
-Rank–nullity theorem
 Real number
 Recursion
-Reduced norm
-Regular element (ring theory)
-Resultant
-Ring homomorphism
-Risk factor
 Roger Horn
 Root mean square
-Root of a function
-Root of a polynomial
 Rotation (mathematics)
-Rotation matrix
-Row and column spaces
-Row and column vectors
-Row echelon form
-Rule of Sarrus
 S2CID (identifier)
-Saunders Mac Lane
 Scalar (mathematics)
 Scalar multiplication
-Scalar product
-Schur complement
-Seki Takakazu
 Sequence
-Serge Lang
-Seven-dimensional cross product
-Sheldon Axler
-Sigma notation
-Signature (permutation)
-Signed area
 Similarity invariance
-Sine
 Singular value decomposition
-Skew line
-Slater determinant
-Spanning tree
-Sparse matrix
 Special linear Lie algebra
 Special linear group
-Special orthogonal group
-Special unitary group
 Springer Science+Business Media
 Square matrix
-Standard basis
-State (functional analysis)
-Subgroup
-Subset
-Supermatrices
 Surjective function
-Sylvester's criterion
-Sylvester's determinant theorem
-Symmetric group
 System of linear equations
 Tensor
 Tensor product
-Tetrahedron
 The Nine Chapters on the Mathematical Art
-Theory of numbers
-Thomas Muir (mathematician)
 Trace (linear algebra)
-Trace class operator
-Transformation matrix
 Transpose
 Triangular matrix
-Triple product
-Trudi
-Tuple
-Unimodular matrix
-Unit (ring theory)
-Unit square
-University of New South Wales
 University of St Andrews
-Vandermonde
-Vandermonde matrix
-Vector bundle
-Vector projection
 Vector space
-Vertex (geometry)
 Volume
-Von Neumann algebra
 Wayback Machine
 Wikisource
-William Spottiswoode
-Wronskian

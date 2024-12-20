@@ -1,27 +1,16 @@
-2.5D (machining)
-ADINA
-Abaqus
 Abrasive
-Abrasive machining
 Acoustical engineering
-Actran
-Advanced Simulation Library
 Aerospace engineering
 Agricultural engineering
-Altair Engineering
-Angle grinder
 Angle plate
-Ansys
 Architectural engineering
 Artificial intelligence engineering
 Audio engineer
-Autodesk Simulation
 Automation engineering
 Automotive engineering
 Automotive industry
 Bachelor of Engineering
 Bachelor of Science
-Bench grinder
 Biochemical engineering
 Bioinformatics
 Biological engineering
@@ -29,68 +18,36 @@ Biomaterial
 Biomechanical engineering
 Biomedical engineering
 Bioresource engineering
-Boring (manufacturing)
-Broaching (metalworking)
 Broadcast engineering
 Building services engineering
-CATIA
-CAx
-COMSOL Multiphysics
-CONSELF
-Calculix
-Casting
 Ceramic engineering
 Chemical engineering
 Chemical reaction engineering
-Chuck (engineering)
 Civil engineering
 Climate engineering
 Clinical engineering
 Coastal engineering
-Coated abrasive
-Code Saturne
-Collet
-Comparison of CAD editors for CAE
 Computational electromagnetics
-Computational fluid dynamics
 Computer-aided design
 Computer-aided manufacturing
-Computer Simulation Technology
 Computer engineering
 Computer network engineering
 Computer representation of surfaces
 Construction engineering
-Control System
 Control engineering
 Corrosion engineering
-Cutting fluid
 Cybersecurity engineering
-Cylindrical grinder
-DIANA FEA
 Data engineering
-Deal.II
-Design cycle
 Design engineer
-Die head
 Doctorate
 Doi (identifier)
-Drill
-Drill bit
-Drill bit shank
-Drill bit sizes
-Drilling
 Earthquake engineering
 Ecological engineering
-Electrical discharge machining
 Electrical engineering
 Electrochemical engineering
-Electrochemical machining
 Electromechanics
-Electron-beam machining
 Electronic design automation
 Electronic engineering
-Elmer FEM solver
-End mill
 Energy engineering
 Engineer
 Engineer's degree
@@ -100,34 +57,17 @@ Engineering education
 Engineering management
 Engineering mathematics
 Engineering physics
-Engineering tolerance
 Engraving
 Environmental engineering
 Explosives engineering
-FEATool Multiphysics
-FEBio
-FEniCS Project
-FORAN System
 Facilities engineering
-Facing (machining)
-Femap
-Finite element method
-Finite element updating
 Fire protection engineering
-Fixture (tool)
-Flick grinder
-Fluent, Inc.
 Food engineering
 Forensic engineering
-Forming processes
-FreeFem++
-G-code
 Genetic engineering
 Geological engineering
 Geomatics engineering
 Geotechnical engineering
-Gerris (software)
-GetFEM++
 Glossary
 Glossary of aerospace engineering
 Glossary of civil engineering
@@ -135,46 +75,19 @@ Glossary of electrical and electronics engineering
 Glossary of mechanical engineering
 Glossary of structural engineering
 Graduate certificate
-Grinding (abrasive cutting)
-Grinding dresser
-Grinding machine
-Grinding wheel
 Health technology
 History of engineering
-Hobbing
 Hydraulic engineering
 ISBN (identifier)
-Indexing head
 Industrial engineering
 Information engineering
 Instrumentation and control engineering
 Instrumentation engineering
 Interdisciplinarity
-JCMsuite
-JMAG
-Jewellery
-Jig (tool)
-Jig borer
-Jig grinder
-KIVA (software)
-Kinematics
-LS-DYNA
-Lapping
-Lathe center
-List of computer-aided engineering software
-List of drill and tap sizes
 List of engineering branches
-List of finite element software packages
 Logistics engineering
-MOOSE (software)
-MSC Adams
-MSC Marc
 Machine taper
-Machine tool
-Machining
-Machining vibrations
 Magnetic switchable device
-Mandrel
 Manufacturing engineering
 Marine engineering
 Master's degree
@@ -183,116 +96,59 @@ Mechanical, electrical, and plumbing
 Mechanical engineering
 Mechatronics
 Metal fabrication
-Metal lathe
 Metallurgy
 Metalsmith
-Metalworking
 Microwave engineering
-Midas Civil
 Military engineering
-Milling (machining)
-Milling cutter
 Mining engineering
 Molding (process)
 Molecular engineering
-Multibody dynamics
-Multidisciplinary design optimization
-Multiphysics simulation
 Municipal or urban engineering
 Nanotechnology
-Nastran
 Naval architecture
-Nek5000
-Nektar++
-Node (networking)
 Nuclear engineering
 Numerical control
 Offshore engineering
-Onshape
 Ontology engineering
-OpenFOAM
 Open Cascade Technology
 Optical engineering
 Outline of computer engineering
 Outline of engineering
-Outline of metalworking
-PTC Creo
 Packaging engineering
-Pantograph
 Paper engineering
 Petroleum engineering
 Pharmaceutical engineering
-Photochemical machining
-Planer (metalworking)
 Polymer engineering
 Power engineering
-Predictive engineering analytics
 Privacy engineering
 Process engineering
-Product Lifecycle Management
 Product lifecycle
 Prototype
-QBlade
-RFEM
 Radio-frequency engineering
 Railway engineering
-Reamer
 Regulation and licensure in engineering
 Rehabilitation engineering
 River engineering
 Robotics engineering
-Rotary table
-Rotary transfer machine
-SDRC
-SESAM (FEM)
 Safety engineering
-Salome (software)
 Sandpaper
 Sanitary engineering
 Security engineering
 Semiconductor device
-Shaper
-Sharpening stone
 Siemens NX
 Signal processing
-SimScale
-Simcenter STAR-CCM+
-Skiving (metalworking)
-Smart system
 Software engineering
-SolidWorks
-Spark testing
-Speeds and feeds
 Sports engineering
-Stanford University Unstructured
-Stewart platform
-Stress analysis
 Structural engineering
 Surface engineering
-Surface grinding
 Survey engineering
 Sustainable engineering
-Swarf
 Systems engineering
-Tap and die
-Tap wrench
-Tech Soft 3D
 Telecommunications engineering
 Textile engineering
 Thermal engineering
-Threading (manufacturing)
 Tissue engineering
-Tool and cutter grinder
-Tool and die maker
 Traffic engineering (transportation)
-Tramp oil
 Transportation engineering
 Tribology
-Turning
-Ultrasonic machining
-VE-Suite
-Virtual prototyping
 Voxel
-Welding
-Wiggler (tool)
-Workpiece

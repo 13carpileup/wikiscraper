@@ -1,4 +1,3 @@
-"Hello, World!" program
 API
 Amdahl's law
 Analysis of parallel algorithms
@@ -7,17 +6,11 @@ Array (data structure)
 Asymmetric multiprocessing
 Ateji PX
 Automatic parallelization
-BLAST (biotechnology)
-BOINC
 Barrier (computer science)
 Beowulf cluster
 Bioinformatics
 Bit-level parallelism
-Boost (C++ libraries)
-Brute-force search
 Bulldozer (microarchitecture)
-C++ AMP
-CPU core
 CUDA
 Cache-only memory architecture
 Cache coherence
@@ -27,11 +20,8 @@ Central processing unit
 Chapel (programming language)
 Charm++
 Cilk
-Cleve Moler
-Closed-circuit television
 Cloud computing
 Coarray Fortran
-Colin Percival
 Computer animation
 Computer cluster
 Computer graphics
@@ -40,33 +30,23 @@ Computer multitasking
 Computer network
 Computer programming
 Concurrency (computer science)
-Connection Machine
-Constraint programming
-Convolutional neural network
 Cost efficiency
-Cryptocurrency
 Cryptography
 Data parallelism
 Dataflow architecture
 Dataflow programming
 Deadlock (computer science)
 Deterministic algorithm
-Discrete Fourier transform
-Distributed.net
 Distributed computing
 Distributed memory
 Distributed shared memory
 Doi (identifier)
 Dryad (programming)
 Explicit parallelism
-Facial recognition system
 Fiber (computer science)
 Flynn's taxonomy
-GPU
 GPUOpen
 General-purpose computing on graphics processing units
-General number field sieve
-Genetic algorithm
 Global Arrays
 Graphics processing unit
 Grid computing
@@ -75,34 +55,25 @@ HPX
 Hardware acceleration
 Hardware scout
 High-performance computing
-Homotopy
 ISBN (identifier)
 Implicit parallelism
-Inherently serial problem
 Instruction-level parallelism
 Instruction pipelining
 Instruction window
 Karp–Flatt metric
 Loop-level parallelism
 MATLAB
-Mandelbrot set
 Manycore processor
-Map (parallel pattern)
-Marching squares
 Massively parallel
 Memory-level parallelism
 Memory coherence
 Message Passing Interface
-Monte Carlo analysis
 Multiple instruction, multiple data
 Multiple instruction, single data
 Multiprocessing
 Multithreading (computer architecture)
-No Fly List
 Non-blocking algorithm
 Non-uniform memory access
-Numerical integration
-Numerical weather prediction
 OpenACC
 OpenCL
 OpenHMPP
@@ -114,30 +85,20 @@ Parallel Virtual Machine
 Parallel computing
 Parallel external memory
 Parallel programming model
-Parallel rendering
 Parallel slowdown
 Particle physics
-Password cracking
 Perlin noise
 Pipeline (computing)
 Preemption (computing)
-Process-oriented programming
 Process (computing)
-Proof-of-work
 Pthreads
-Quadratic sieve
 ROCm
-R (programming language)
 Race condition
 RaftLib
-Random forest
 Ray tracing (graphics)
 Rendering (computer graphics)
-Rogues gallery
 Scalability
 Semiconductor memory
-Server farm
-Shared-nothing architecture
 Shared memory
 Simultaneous and heterogeneous multithreading
 Simultaneous multithreading
@@ -148,9 +109,7 @@ Software lockout
 Speculative multithreading
 Speedup
 Starvation (computer science)
-Statistical ensemble (mathematical physics)
 Stream processing
-Supercomputer
 Superscalar processor
 Symmetric multiprocessing
 Synchronization (computer science)
@@ -162,6 +121,3 @@ Threading Building Blocks
 Unified Parallel C
 Uniform memory access
 Vector processor
-Video frame
-Volunteer computing
-ZPL (programming language)

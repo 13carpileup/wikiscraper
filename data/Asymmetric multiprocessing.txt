@@ -5,7 +5,6 @@ Vector processor
 Operating system
 ROCm
 Bulldozer (microarchitecture)
-IBM System/360
 General-purpose computing on graphics processing units
 HPX
 Hardware scout
@@ -23,9 +22,6 @@ Thread (computing)
 Dataflow programming
 Multiple instruction, single data
 GPUOpen
-IBM System/370 Model 168
-Multiprocessor
-Cellular multiprocessing
 Array (data structure)
 Concurrency (computer science)
 Parallel Virtual Machine
@@ -33,14 +29,12 @@ Wayback Machine
 Coarray Fortran
 Hardware acceleration
 Unified Parallel C
-Multi-core (computing)
 Pthreads
 OpenACC
 OpenHMPP
 OpenCL
 Fiber (computer science)
 Process (computing)
-C++ AMP
 Computer programming
 Distributed shared memory
 Synchronization (computer science)
@@ -50,16 +44,12 @@ CUDA
 Global Arrays
 Instruction-level parallelism
 Cilk
-Heterogeneous computing
 Ateji PX
-Burroughs B5000
 Loop-level parallelism
 Flynn's taxonomy
 Scalability
-Giant lock
 Explicit parallelism
 Application checkpointing
-PDP-11
 Preemption (computing)
 Message Passing Interface
 Single instruction, single data
@@ -70,16 +60,12 @@ Superscalar processor
 Parallel computing
 Gustafson's law
 Cloud computing
-Boost (C++ libraries)
 Memory-level parallelism
 Cache invalidation
-ZPL (programming language)
 Simultaneous multithreading
-CDC 6000 series
 Bit-level parallelism
 ISBN (identifier)
 Chapel (programming language)
-3B20C
 Memory coherence
 OpenMP
 Grid computing
@@ -101,7 +87,6 @@ Semiconductor memory
 API
 Multiprocessing
 Multithreading (computer architecture)
-DECsystem-10
 Simultaneous and heterogeneous multithreading
 Temporal multithreading
 Parallel external memory
@@ -119,7 +104,6 @@ Data parallelism
 VAX
 Beowulf cluster
 Multiple instruction, multiple data
-RSX-11M
 Cache coherence
 Implicit parallelism
 Computer cluster

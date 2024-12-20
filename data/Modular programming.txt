@@ -1,256 +1,64 @@
-.NET Framework
-ALGOL
-ALGOL 68
-ALGOL 68-R
-ALGOL 68C
 Abductive logic programming
-Action language
-Actor model
-Ada (programming language)
-Agent-oriented programming
 Algebraic modeling language
 Anonymous function
-Answer set programming
-Applicative programming language
-Architecture description language
-Array programming
-Aspect-oriented programming
-Assembly (CLI)
-Attribute-oriented programming
-Automata-based programming
 Automatic mutual exclusion
-Automatic programming
-Bayesian program synthesis
-BlitzMax
-Block (programming)
 C++
-C++20
 COBOL
-CPAN
 C (programming language)
 C Sharp (programming language)
-C with Classes
-Charles H. Lindsey
-Choreographic programming
-Class-based programming
-Clojure
-Code reuse
-Coding conventions
-Cohesion (computer science)
-Command language
-Common Lisp
-Comparison of functional programming languages
-Comparison of multi-paradigm programming languages
 Comparison of programming languages (object-oriented programming)
 Compiler
 Component-based software engineering
-Component Pascal
 Computer program
-Concatenative programming language
 Concurrent computing
-Concurrent constraint logic programming
-Concurrent logic programming
-Concurrent object-oriented programming
-Constraint logic programming
-Constraint programming
-Control Language
-Control flow
-Conway's law
-Coupling (computer science)
 D (programming language)
-Dart (programming language)
 Data-driven programming
-Data-oriented design
 Data structure
 Dataflow programming
-David Parnas
 Declarative programming
-Decomposition (computer science)
 Dependent type
 Design by contract
-Differentiable programming
-Directed acyclic graph
 Distributed computing
 Doi (identifier)
 Domain-specific language
-Dynamic programming language
 ECMAScript
-Elixir (programming language)
-Elm (programming language)
-End-user development
-Erlang (programming language)
-Event-driven programming
-Expression-oriented programming language
-Extensible programming
-F (programming language)
 F Sharp (programming language)
-Feature-oriented programming
-Filter (software)
-Flow-based programming
-Fortran
-Function-level programming
-Functional logic programming
-Functional programming
-Functional reactive programming
 Generalized algebraic data type
-Generic programming
 Go (programming language)
-Grammar-oriented programming
-Graph rewriting
 Haskell
-Header file
-Higher-order programming
-Homoiconicity
-Hygienic macro
-IBM/360
-IBM Basic assembly language and successors
-IBM RPG
-IBM i
-IOS 7
 ISBN (identifier)
-Immutable object
 Imperative programming
-Implementation
-Inductive logic programming
-Inductive programming
-Inferential programming
-Information hiding
-Integrated Language Environment
-Intentional programming
-Interactive programming
-Interface-based programming
 Interface (computing)
-Interface description language
-Invariant-based programming
-Jackson structured programming
 JavaScript
 Java (programming language)
-Java 9
-Java Module System
-Java package
-Julia (programming language)
-Just-in-time compilation
-Language-oriented programming
-Larry Constantine
 Library (computing)
-Linker (computing)
 List comprehension
-List of object-oriented programming languages
 List of system quality attributes
 Literate programming
-Logic programming
-Low-code development platform
 MATLAB
-ML (programming language)
 Macro (computer science)
-Macroprogramming
-Mesa (programming language)
-Metalinguistic abstraction
 Metaprogramming
 Modeling language
-Modula
-Modula-2
-Modula-3
-Modular design
 Multi-stage programming
-Multitier programming
-NEWP
 Natural-language programming
-Nested function
-Niklaus Wirth
-Non-English-based programming languages
 Non-structured programming
-Nondeterministic programming
-NuGet
-OCaml
-Oberon-2
-Oberon (programming language)
-Object-based language
 Object-oriented programming
-Object (computer science)
-Object Pascal
 Objective-C
-Ontology language
-Organic computing
 PHP
-PL/I
-Package (package management system)
-Page description language
 Parallel computing
 Parallel programming model
 Partial application
-Partitioned global address space
 Pascal (programming language)
 Pattern matching
 Perl
-Perl 5
-Persistent programming language
-Pipeline (software)
 Plug-in (computing)
-Probabilistic logic programming
-Probabilistic programming
 Procedural programming
-Process-oriented programming
-Production system (computer science)
-Program synthesis
-Programming by demonstration
-Programming by example
-Programming idioms
-Programming in the large and programming in the small
 Programming paradigm
-Prototype-based programming
-PureBasic
-Purely functional programming
 Python (programming language)
-Qualified name
-Quantum programming
-Query language
-R (programming language)
-Reactive programming
-Recursion (computer science)
-Reflective programming
-Relativistic programming
-Role-oriented programming
 Ruby (programming language)
-Run time (program lifecycle phase)
-Rust (programming language)
 Scientific programming language
 Scripting language
 Self-modifying code
-Separate compilation
-Separation of concerns
-Service-oriented programming
-Set theoretic programming
-Signal programming
-Simulation language
-Snippet (programming)
-Software component
 Software design
-Software system
 Spacecraft command language
-Stack-oriented programming
-Standard ML
 Stream processing
-Strict programming language
-Structured Analysis
-Structured concurrency
-Structured programming
-Subject-oriented programming
-Symbolic programming
-Synchronous programming language
-System programming language
-Tacit programming
-Tactile programming language
-Template metaprogramming
-Template processor
-Total functional programming
-Transformation language
-Turbo Pascal
-UCSD Pascal
-Uniform Function Call Syntax
-Value-level programming
-Visual Basic (.NET)
-Visual Basic .NET
-Visual programming language
-WebDNA
-Xerox PARC

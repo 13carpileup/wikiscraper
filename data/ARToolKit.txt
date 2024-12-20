@@ -1,9 +1,7 @@
 360-degree video
 3D audio effect
-3D graphics
 ARCore
 ARKit
-ARTag
 Accel World
 AltspaceVR
 Android (operating system)
@@ -31,10 +29,8 @@ Char Davies
 Cinematic virtual reality
 Code Lyoko
 Computer-mediated reality
-Cross-platform
 Cyberith Virtualizer
 Daniel J. Sandin
-Daqri
 Den-noh Coil
 Dieter Schmalstieg
 Digimon
@@ -45,14 +41,11 @@ Extended reality
 EyeTap
 Eye tracking
 Face tracking
-Fiduciary marker
 Finger tracking
 Foveated rendering
 Fred Brooks
-Free and open source software
 Free viewpoint television
 Futurama
-GNU Lesser General Public License
 Game engine
 GitHub
 Godot (game engine)
@@ -70,7 +63,6 @@ Haptic suit
 Head-mounted display
 Head-up display
 Henry Fuchs
-Hirokazu Kato
 HoloLens 2
 Holodeck
 Horizon Worlds
@@ -78,7 +70,6 @@ IOS
 Image-based modeling and rendering
 Immersion (virtual reality)
 Interactive art
-Ivan Poupyrev
 Ivan Sutherland
 Jaron Lanier
 Jerome Foster II
@@ -86,7 +77,6 @@ Jetpack Compose
 John Carmack
 Khronos Group
 Kiss Me First (TV series)
-Launchpad (website)
 Lawrence J. Rosenblum
 Leap Motion
 Linux
@@ -100,7 +90,6 @@ List of software related to augmented reality
 List of virtual reality headsets
 Mac OS X
 Magic Leap
-Mark Billinghurst
 Mark Bolas
 Mark Stephen Meadows
 Mark Zuckerberg
@@ -119,7 +108,6 @@ Ming C. Lin
 Mixed reality
 Morton Heilig
 Myron W. Krueger
-Nara Institute of Science and Technology
 NeosVR
 Netrunner
 Neuromancer
@@ -137,7 +125,6 @@ Oculus Touch
 Omnidirectional (360-degree) camera
 Omnidirectional treadmill
 On-set virtual production
-OpenSceneGraph
 OpenVR
 OpenXR
 Open Source Virtual Reality
@@ -169,12 +156,10 @@ Ready Player Two
 Real life
 Reality Labs
 Rec Room (video game)
-Repository (version control)
 Resonite
 Rokoko (company)
 Room-scale
 SSSS.Gridman
-Samsung
 Samsung Electronics
 Samsung Gear VR
 Sansar (video game)
@@ -195,7 +180,6 @@ Snow Crash
 Software categories
 Software license
 Software release life cycle
-SourceForge.net
 Spatial computing
 Steven K. Feiner
 Sundar Pichai
@@ -217,7 +201,6 @@ Tim Cook
 Tony Parisi (software developer)
 Transhumanism
 Unity (game engine)
-University of Washington
 Unreal Engine
 VFX1 Headgear
 VPL Research
@@ -250,6 +233,5 @@ Wearable computer
 WebXR
 White Christmas (Black Mirror)
 Windows Mixed Reality
-Windows Phone 7.5
 Wired glove
 Wizdish ROVR

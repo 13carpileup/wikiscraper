@@ -1,9 +1,5 @@
 ACM Computing Classification System
-Abramowitz and Stegun
 Abstract algebra
-Acoustics
-Actuary
-Adhemar Bultheel
 Algebra
 Algebraic geometry
 Algebraic number theory
@@ -14,44 +10,23 @@ Algorithmic efficiency
 Analysis of algorithms
 Analytic geometry
 Analytic number theory
-Analytical mechanics
 Application security
 Applied mathematics
-Applied physics
-Approximation
-Approximation theory
 ArXiv (identifier)
-Arbitrary-precision arithmetic
 Arithmetic
 Arithmetic geometry
 Artificial intelligence
-Association for Computing Machinery
-Astrophysics
-Atmospheric physics
-Atomic, molecular, and optical physics
-Atomic physics
 Automata theory
 Automated planning and scheduling
 Basic research
-Biophysics
-Bisection method
-Branches of physics
 C (programming language)
 Calculus
-California State University Fullerton
 Cambridge University Press
 Category theory
-Celestial mechanics
-Charles F. Van Loan
-Chemical physics
-Cholesky decomposition
 Classical electromagnetism
-Classical mechanics
-Classical optics
 Classical physics
 Combinatorics
 Commutative algebra
-Comparison of numerical-analysis software
 Compiler construction
 Complex analysis
 Computability theory
@@ -63,11 +38,9 @@ Computational engineering
 Computational geometry
 Computational mathematics
 Computational physics
-Computational science
 Computational social science
 Computer accessibility
 Computer algebra
-Computer algebra system
 Computer animation
 Computer architecture
 Computer data storage
@@ -81,11 +54,7 @@ Computing
 Computing platform
 Concurrency (computer science)
 Concurrent computing
-Condensed matter physics
-Conjugate gradient method
 Constraint (mathematics)
-Continuum (set theory)
-Continuum mechanics
 Control theory
 Control variable (programming)
 Cross-validation (statistics)
@@ -99,30 +68,22 @@ Decision support system
 Dependability
 Derivative
 Derivative (finance)
-Diagonal
 Differential equation
-Differential equations
 Differential geometry
 Differential topology
-Digital Library of Mathematical Functions
 Digital art
-Digital computer
 Digital library
 Digital marketing
 Diophantine geometry
 Discrete geometry
 Discrete mathematics
-Discretization
-Discretization error
 Distributed artificial intelligence
 Distributed computing
 Document management system
 Doi (identifier)
 Domain-specific language
 E-commerce
-E. T. Whittaker
 Educational technology
-Eigenvalue decomposition
 Electronic design automation
 Electronic publishing
 Electronic voting
@@ -133,46 +94,24 @@ Engineering mathematics
 Engineering physics
 Enterprise information system
 Enterprise software
-Error propagation
 Euclidean geometry
-Euler's method
-Euler method
 European Mathematical Society
-Experimental physics
-Extrapolation
-Finite difference
-Finite element method
 Finite geometry
-Finite volume method
-Floating-point arithmetic
 Form factor (design)
 Formal language
 Formal methods
-Fortran
 Foundations of mathematics
-Francis B. Hildebrand
-FreeMat
 Free software
 Function (mathematics)
 Functional analysis
 Future of mathematics
-GMRES
-GNU Octave
-GNU Scientific Library
 Game theory
 Gaussian elimination
-Gaussian quadrature
-Gauss–Seidel method
-Gene H. Golub
-General relativity
 General topology
 Geographic information system
 Geometric topology
-Geometrical optics
 Geometry
-Geophysics
 Glossary of mathematical symbols
-Gordon Bell Prize
 Graph theory
 Graphics processing unit
 Green computing
@@ -183,74 +122,41 @@ Hardware security
 Harmonic analysis
 Hdl (identifier)
 Health informatics
-Herman Goldstine
 Hermitian matrix
 History of mathematics
-History of physics
 Homological algebra
 Homotopy theory
-Horner scheme
 Human–computer interaction
 Hypercomplex analysis
-IDL (programming language)
-IMSL Numerical Libraries
 ISBN (identifier)
 ISSN (identifier)
-IT++
 Image compression
 Informal mathematics
 Information retrieval
 Information security
 Information system
 Information theory
-Institute of Mathematics and its Applications
 Integral
 Integrated circuit
 Integrated development environment
 Interaction design
 Internet Archive
-Interpolation
 Interpreter (computing)
-Interval arithmetic
 Intrusion detection system
-Iterative method
-Jacobi iteration
-Jacobi method
-James H. Wilkinson
-Jeffery J. Leader
-John von Neumann
-Journal of the Royal Statistical Society, Series C (Applied Statistics)
-Journal on Numerical Analysis
-Julia (programming language)
 Knowledge representation and reasoning
 LU decomposition
-Lagrange multipliers
-Lagrange polynomial
-Lemonade stand
-Leslie Fox Prize for Numerical Analysis
 Library (computing)
-Limit of a sequence
 Linear algebra
-Linear interpolation
 Linear programming
-Linearization
 List of computer size categories
 List of films about mathematicians
-List of mathematicians
-List of numerical-analysis software
-List of numerical analysis topics
 Lists of mathematics topics
-Lloyd N. Trefethen
-Local linearization method
 Logic in computer science
 MATLAB
 Machine learning
-Mahidol University
-Markov chain
 Massachusetts Institute of Technology
 Materials science
 MathWorld
-Mathematica
 Mathematical analysis
 Mathematical and theoretical biology
 Mathematical chemistry
@@ -263,33 +169,22 @@ Mathematical psychology
 Mathematical sociology
 Mathematical software
 Mathematical statistics
-Mathematicians
 Mathematics
 Mathematics and art
 Mathematics education
 Matrix decomposition
-Matrix splitting
 Measure (mathematics)
-Mechanical calculator
-Medical physics
 Microsoft Excel
 Middleware
 Mixed reality
 Model of computation
 Modeling language
-Modern physics
-Molecular physics
-Monte Carlo integration
-Monte Carlo method
 Multi-task learning
 Multilinear algebra
 Multimedia database
 Multiprocessing
 Multithreading (computer architecture)
-NIST
 Natural language processing
-Naval Surface Warfare Center
-Netlib
 Network architecture
 Network performance
 Network protocol
@@ -297,54 +192,23 @@ Network scheduler
 Network security
 Network service
 Networking hardware
-Newton's laws of motion
-Newton's method
-Newton–Cotes formulas
-Nicholas Higham
-Nobel Prize in Physics
-Non-equilibrium thermodynamics
 Nuclear physics
-NumPy
 Number theory
-Numerical Algorithms Group
-Numerical Recipes
-Numerical differentiation
-Numerical integration
-Numerical linear algebra
-Numerical method
-Numerical methods for linear least squares
-Numerical ordinary differential equations
-Numerical partial differential equations
-Numerical weather prediction
-Numerically stable
-Numerische Mathematik
 OCLC (identifier)
-Objective function
 Open-source software
 Operating system
 Operations research
 Optics
 Order theory
-Ordinary differential equation
-Ordinary differential equations
 Outline of computer science
-Oxford University
 Parallel computing
 Partial differential equation
-Partial differential equations
 Particle physics
 Peripheral
 Philosophy of artificial intelligence
 Philosophy of mathematics
-Philosophy of physics
 Photograph manipulation
-Physical oceanography
-Physical optics
-Physics education
-Positive-definite matrix
-Principal component analysis
 Printed circuit board
-Probabilistic numerics
 Probability
 Probability theory
 Process control
@@ -355,45 +219,24 @@ Programming paradigm
 Programming team
 Programming tool
 Python (programming language)
-QR decomposition
-Quadrature (mathematics)
-Quantitative finance
 Quantum Computing
-Quantum information science
 Quantum mechanics
-Quasi-Monte Carlo method
-R (programming language)
 Randomized algorithm
 Real-time computing
 Real analysis
 Real number
 Recreational mathematics
-Regression analysis
 Reinforcement learning
-Relativistic mechanics
 Rendering (computer graphics)
 Requirements analysis
-Residual (numerical analysis)
-Root-finding algorithm
-Round-off error
-Royal Statistical Society
-S-PLUS
 S2CID (identifier)
-SciPy
-Scilab
 Security hacker
 Security service (telecommunication)
 Semantics (computer science)
 Set theory
-Sexagesimal
-Share capital
-Simplex algorithm
-Simplex method
-Simpson's rule
 Singular value decomposition
 Social computing
 Social software
-Society for Industrial and Applied Mathematics
 Software
 Software configuration management
 Software construction
@@ -406,57 +249,33 @@ Software framework
 Software maintenance
 Software quality
 Software repository
-Solid-state physics
 Solid modeling
-Sparse grid
-Special relativity
-Spreadsheet
 Square root of 2
-Statistical mechanics
 Statistics
 Stochastic computing
-Stochastic differential equation
-Successive over-relaxation
 Supervised learning
-SymPy
-Symbolic-numeric computation
-Symbolic computation
 Symmetric matrix
 System of linear equations
 System on a chip
-Systems of linear equations
 Systems science
-TK Solver
 Theoretical computer science
 Theoretical physics
 Theory of computation
-Thermodynamics
-Timeline of fundamental physics discoveries
 Timeline of mathematics
 Topology
-Transactions on Mathematical Software
-Truncation error
 Type theory
 U.S. Department of Energy
 Ubiquitous computing
-Unit square
 Universal algebra
 University of Cambridge
-University of Karlsruhe
-University of Maryland
 University of Pennsylvania
 University of Waterloo
 Unsupervised learning
-Validated numerics
 Very Large Scale Integration
 Video game
 Virtual machine
 Virtual reality
 Visualization (graphics)
 Wayback Machine
-Well-conditioned
-William Kahan
 Word processor
 World Wide Web
-YBC 7289
-Yale Babylonian Collection

@@ -1,519 +1,100 @@
-.NET Framework
 ALT Linux
-ANDOS
 API
-ARM architecture
-ATTRIB
-Aachen
-Academic Free License
-Adns
-Adobe Acrobat
-Advanced Configuration and Power Interface
-Advanced Host Controller Interface
-Alias (command)
-Alternative terms for free software
-Amd64
 Apache License
-Apache Subversion
-Apple Public Source License
 Application programming interface
-ArcaOS
-Architecture of Windows NT
-Artistic License
-Assoc (command)
 Astra Linux
-At (command)
 Audit
-AutoHotkey
 BBC News
-BSD licenses
 Backward compatibility
-BeOS
-Beep (command)
-Beerware
-Berlin
-Binary-code compatibility
 Booting
-Btrfs
-Bus error
 C++
 CD-ROM
-CLS (command)
 C (programming language)
-Cacls
 Calculate Linux
-Call (command)
-Captive NTFS
-Cat (command)
-Cd (command)
-Character Map
-Chcp (command)
-Chinese wall
-Choice (command)
-Civil registration
-Clip (command)
-Clipboard Viewer
 Clone (computing)
 Cloud computing
-Cologne
-Color (command)
-Command-line interface
 Command (computing)
-Command Prompt
-Common Development and Distribution License
-Community of practice
-Comp (command)
-Comparison of DOS operating systems
-Comparison of free and open-source software licenses
-Comparison of free software for audio
-Comparison of open-source and closed-source software
-Comparison of open-source configuration management software
-Comparison of open-source operating systems
-Comparison of open-source wireless drivers
-Comparison of operating systems
-Comparison of shopping cart software
-Comparison of source-code-hosting facilities
-Comparison of user features of operating systems
 Computer architecture
 Computer multitasking
 Computer network
 Computer program
 Computerworld
-Context switch
-Contributor License Agreement
-Cooperative Linux
-Cooperative multitasking
-Copy (command)
-Copyleft
-Creative Commons license
 Crowdfunding
-Ctty (command)
-Cut, copy, and paste
-Czech language
-DEMOS
 DOS
-Date (command)
-Dbgprint (command)
-Debian Free Software Guidelines
-Definition of Free Cultural Works
-Defragmentation
-DejaVu fonts
-Del (command)
-Delay (command)
-Der Spiegel
-Der Standard
-Derivative work
-Desktop environment
-Device Manager
 Device driver
-Device file
-Die Zeit
 Digital rights management
-Dir (command)
-Direct3D
 DirectX
-Direct memory access
-Dirs (command)
 Disassembler
-Disk operating system
 Disk partitioning
-Distributed operating system
-DistroWatch
-Dmitry Medvedev
-Doskey
-Drop-in replacement
 Dutch language
-DxDiag
-EComStation
-Echo (command)
-Echoerr
-Echos (command)
-Echoserr
-Eclipse Public License
-Embedded operating system
-Emergency Management Services
-Endlocal
 English language
-Event Viewer
-Eventcreate
-Exit (command)
-Exokernel
-Ext2
-Extended file system
 File Allocation Table
-File Explorer
-File attribute
 File system
-Find (Windows)
 Finnish language
-Firefox
-Fixed-priority pre-emptive scheduling
-For (command)
-Forensic software engineering
 Fork (software development)
-Free-software license
 FreeBSD
-FreeDOS
-FreeType
-Free (command)
-Free Software Foundation
-Free Software Magazine
-Free Software Movement of India
-Free and open-source graphics device driver
-Free and open-source software
-Free license
 Free software
-Free software movement
 French language
-Fsutil
-GIMP
-GNU Affero General Public License
-GNU FreeFont
 GNU General Public License
-GNU Lesser General Public License
-GNU Manifesto
-GUI
-Geeknet
-General protection fault
 German language
 GitHub
-Google Summer of Code
-Goto (command)
 Graphical user interface
-Gratis versus libre
-Hackathon
-Haiku (operating system)
-Hardware abstraction
 Hebrew
-Heinz Heise
-Help (command)
-History (command)
-History of free and open-source software
-History of operating systems
-Hobbyist operating system
-Hostname
-Hungarian language
-Hybrid kernel
-I586
-IA-32
-IS-DOS
-ISC license
-ISO image
-Icon (computing)
-If (command)
-Indiegogo
 Indonesian language
-Inode
-Installable File System
 Instruction set architecture
 Inter-process communication
-International Components for Unicode
 International Data Group
-Internet Control Message Protocol
-Internet Protocol
-Internet leak
-Interrupt
 Italian language
 Japanese language
-John C. Dvorak
-Journaling file system
-Just enough operating system
 Kernel (operating system)
 Kickstarter
-Kronos (computer)
-Label (command)
-Legacy Plug and Play
-Liberation fonts
 Library (computing)
-LibreOffice
-License proliferation
 Linux
-Linux.com
-Linux Magazine
-Linux XP
 Linux distribution
-List of DOS commands
-List of alternative shells for Windows
-List of commercial open-source applications and services
-List of formerly free and open-source software
-List of formerly proprietary software
-List of free-software events
-List of free and open-source Android applications
-List of free and open-source iOS applications
-List of free and open-source software organizations
-List of free and open-source software packages
-List of free and open-source web applications
-List of free software project directories
-List of free television software
-List of office suites
-List of open-source bioinformatics software
-List of open-source codecs
-List of open-source health software
-List of open-source routing platforms
-List of open-source software for mathematics
-List of open-source video games
-List of operating systems
-Live CD
-Live USB
-Loadable kernel module
-Long-term support
-Longene
-LwIP
-MIT License
-MNOS (operating system)
-MOS (operating system)
 MS-DOS
-MSConfig
-Magnifier (Windows)
-Mailing list
 Mandarin Chinese
-Memory (command)
-Memory management (operating systems)
-Memory paging
-Memory protection
-Mesa (computer graphics)
-Michael Larabel
-Microkernel
-Microsoft Minesweeper
-Microsoft Notepad
-Microsoft Office 2010
-Microsoft Open Specification Promise
-Microsoft Paint
-Microsoft Solitaire
-Microsoft Spider Solitaire
 Microsoft Visual C++
-Microsoft Visual Studio
 Microsoft Windows
 Microsoft Windows library files
-Microsoft litigation
-MinGW
-Minesweeper (video game)
-Ministry of Digital Development, Communications and Mass Media (Russia)
-Mkdir
-Mklink
 Mobile device
 Mobile operating system
-Mode (command)
 Modular programming
 Monolithic kernel
-More (command)
-Move (command)
-Mozilla Public License
-Mozilla software rebranded by Debian
-Multi-booting
-Multikernel
-Multilevel feedback queue
-NDISwrapper
-NEC PC-9800
 NTFS
-Native API
-Network File System
-Network operating system
-Non-maskable interrupt
-Non-volatile memory
-Norwegian language
-OS/2
-OS2000
-OSNews
-Object-oriented operating system
-On-Screen Keyboard
-Open-core model
-Open-source-software movement
-Open-source hardware
-Open-source license
 Open-source software
-Open-source software advocacy
-Open-source software development
-Open-source software security
-OpenGL
-Open Hub
 Operating system
-Outline of free software
-PCWorld
 PC Magazine
 PC World
-PTS-DOS
 Package manager
 Patch (computing)
-Path (command)
-Pause (command)
-Permissive software license
-Persistent memory
 Personal computer
-Personal computing
-Phantom OS
-Phoronix
-Polish language
-PowerPC
-Preboot Execution Environment
 Preemption (computing)
-President of Russia
 Process (computing)
-Process control block
 Process management (computing)
 Programmer
 Programming language
-Prompt (command)
-Proprietary device driver
-Proprietary firmware
 Proprietary software
-Protection ring
 Public domain
-Pushd and popd
-Python License
-Python Software Foundation License
-QEMU
-RISC OS
 ROSA Linux
-RTL8139
-React (JavaScript library)
-Real-time operating system
-Reg (command)
-Registered association (Germany)
-Registry Editor
-ReiserFS
-Rem (command)
-Remote Desktop Connection
-Ren (command)
-Replace (command)
-Repository (version control)
-Revolution OS
-Rmdir
-Round-robin scheduling
-Rump kernel
-Russian Fedora Remix
 Russian language
-Russian ruble
-SCO–Linux disputes
-SORT (DOS command)
-SYSLINUX
-Sc (command)
-Scheduling (computing)
-Schtasks
-Screen (command)
-Segmentation fault
-Self-hosting (compilers)
-Seliger (forum)
 Serial ATA
-Set (command)
-Setlocal
-Shared Source Initiative
-Shell (computing)
-Shift (command)
-Shortest job next
-Shutdown (command)
 Sic
-Side-by-side assembly
-Sleepycat License
 Smartphone
-Snippet (programming)
-Softpedia
 Software license
-Software patents and free software
 Software release life cycle
-Solitaire (game)
-Source-available software
-SourceForge
 Source code
-Sourceforge.net
 Spanish language
-Spider Solitaire
-Start (command)
-Start menu
-State Duma
-Stavropol
-Stipend
-Supercomputer operating system
-Swedish language
-System resource
-TIME (command)
-TYPE (DOS command)
-Tablet computer
-Tango Desktop Project
-Task Manager (Windows)
-Taskkill
-Tax law
-Tee (command)
-Thai language
-The Cathedral and the Bazaar
-The Free Software Definition
-The Open Source Definition
-The Register
 Thread (computing)
-Time-sharing
-Timeline of Intel
-Timeline of Microsoft
-Timeline of Microsoft Windows
-Timeline of free and open-source software
-Timeline of operating systems
-Timeout (command)
-Title (command)
-Tivoization
-Total Commander
-Touch (command)
-Trade secret
-Transmission Control Protocol
-Tree (command)
-Trusted Computing
-UEFI
 USB
 Ukrainian language
-Undocumented feature
-UniATA
-Unikernel
-Unix
-Unix-like
-Unix File System
-Unlicense
-Uptime (command)
-Usage share of operating systems
 User interface
-User space
 User space and kernel space
-VMware
-Vectored I/O
-Ver (command)
-Verify (command)
-Viktor Alksnis
-VirtIO
-VirtualBox
-Virtual DOS machine
-Virtual file system
-Virtual memory
-Virtual tape library
-Vkernel
-Vladimir Putin
-Voice Recorder (Windows)
-Vol (command)
-Voluntary association
-WTFPL
 Wayback Machine
 Web browser
-Whoami
-Wi-Fi
-WinDbg
-Windows 7
 Windows 95
 Windows API
-Windows Calculator
-Windows Driver Model
-Windows Media Player
 Windows NT
-Windows Server 2003
-Windows USER
-Windows Virtual PC
-Windows XP
-Windows service
 Wine (software)
-Winsock
-Wired Equivalent Privacy
-WordPad
-Workstation
-X64
 X86
-X86-64
-X Window System
 Xbox (console)
-Xcopy
 ZDNet
-Zlib License

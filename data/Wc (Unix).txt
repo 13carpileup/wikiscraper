@@ -1,206 +1,34 @@
 Linux
-Ctags
 Printf
-Single Unix Specification
-Spell (Unix)
-Time (Unix)
 Open-source software
-Fold (Unix)
-Cat (Unix)
-Base64
-Rmdir
 Ping (networking utility)
 C (programming language)
-Ex (text editor)
-Standard input
-Bc (programming language)
-Patch (Unix)
-Rm (Unix)
-True and false (commands)
-Character (computing)
-Word count
-Network utility
-Ps (Unix)
-Alias (command)
-ASCII Corporation
-Paste (Unix)
-Tr (Unix)
-List of POSIX commands
-Cut (Unix)
 Tput
-Nohup
 Printf (Unix)
-Expand (Unix)
-Dirname
-V (operating system)
 Unicode
 Byte
 Native (computing)
-Sleep (command)
-Md5sum
 Software license
-Unexpand
 Microsoft Windows
-Ln (Unix)
-Hostid (Unix)
-Grep
 Od (Unix)
-Mktemp
-Exit (command)
-AT&T Bell Laboratories
-Wait (command)
-Xargs
-Passwd
-Yes (Unix)
 Computing platform
-Textutils
-Ed (text editor)
-Mkdir
-Link (Unix)
-Environment variable
-Mesg
-Comm
-The Open Group
-Cron
-Id (Unix)
-Unlink (Unix)
-Tsort
-Truncate
-Users (Unix)
-Stty (Unix)
-Shell builtin
-Iconv
-Uptime
-Sed
-Commercial software
-Printenv
-Ancient UNIX
-Write (Unix)
-Factor (Unix)
 Dd (Unix)
-Strings (Unix)
-Cmp (Unix)
-Uniq
-Pinky (Unix)
-Sha1sum
 FreeBSD
 Programmer
 Cp (Unix)
-Ls
 Man page
-Tty (Unix)
-Mkfifo
-Seq (Unix)
-Cross-platform
-Lex (software)
 Computer file
-Sync (Unix)
-Pwd
-Head (Unix)
 Porting
 Env
-At (command)
 GNU Core Utilities
-Type (Unix)
-Read (Unix)
 Ar (Unix)
-Timeout (computing)
-Nm (Unix)
-Echo (command)
-Vi (text editor)
-Chown
-Stdbuf
-Ipconfig
-Readlink
 IBM
-Who (Unix)
-Numfmt
-Realpath
-Strip (Unix)
-Pax (command)
-Chattr
-Shuf
-Chmod
-Pr (Unix)
-Find (Unix)
-IBM i
 POSIX
-Basename
-Fortune (Unix)
-Nl (Unix)
-MSX-DOS
 Windows API
-Cal (command)
-Yacc
-Pathchk (Unix)
-Fmt (Unix)
-Gzip
-UnxUtils
-MIT License
-Test (Unix)
-Tee (command)
-Pipeline (Unix)
-Ptx (Unix)
-File (command)
-Hoc (programming language)
-Uname
-Plan 9 from Bell Labs
-Touch (command)
-Df (Unix)
-Expr
-Nproc
-Chroot
-Sort (Unix)
-Newline
-List of Unix commands
-Csplit
-Base32
 GNU
-More (command)
-Inferno (operating system)
-Shred (Unix)
-Runcon
-Command-line interface
-Netstat
-Diff
-Kill (command)
-Tail (Unix)
-Unix-like
-Chgrp
-Talk (software)
-GPL-3.0-or-later
-Join (Unix)
 Operating system
-Unix time
-B2sum
-Cd (command)
-AWK
 Job control (Unix)
 Software development
 Logname
-System V printing system
-Sum (Unix)
-X/Open
-Cksum
-Du (Unix)
-Unix
-Eqn (software)
-Install (Unix)
-Fuser (Unix)
-Split (Unix)
-M4 (computer language)
-Dircolors (Unix)
-GnuWin32
-Chcon
-Make (software)
-Nice (Unix)
-Troff
-Coreutils
-Umask
-Mknod
-Mv (Unix)
 Software categories
-Joe Ossanna
 Command (computing)
-Groups (Unix)
-Whoami

@@ -1,8 +1,6 @@
-3Blue1Brown
 A Treatise on Electricity and Magnetism
 Abelian group
 Abstract algebra
-Additive inverse
 Affine space
 Algebra
 Algebra over a field
@@ -10,253 +8,131 @@ Algebraic geometry
 Algebraic number theory
 Algebraic topology
 Algorithm
-Ambient space
-American Mathematical Society
 Analytic geometry
 Analytic number theory
 Ann Arbor, Michigan
 Applied mathematics
 Arithmetic
 Arithmetic geometry
-Arthur Cayley
-Associativity
 Atlanta, Georgia
-Atmosphere
-Augmented matrix
 Axiom
-Banach space
-Basic Linear Algebra Subprograms
 Basis (linear algebra)
-Benjamin Peirce
-Bidual
 Bijection
 Bijective
 Bilinear form
 Bilinear map
 Binary operation
-Bivector
 Block matrix
 Bra–ket notation
-Brisbane, Australia
 Cache (computing)
 Calculus
-Canonical map
 Cardinality
-Cartesian coordinates
-Cartesian geometry
 Category theory
 Cauchy–Schwarz inequality
-Change of basis
 Characteristic polynomial
-Charles F. Van Loan
 Charles Royal Johnson
 Charles Sanders Peirce
-Closed-form expression
-Cokernel
-Column matrix
 Combinatorics
 Commutative algebra
 Commutative ring
-Commutativity
-Comparison of linear algebra libraries
-Complete metric space
 Complex analysis
 Complex conjugate
-Complex plane
 Complex system
-Composite function
 Computational complexity
 Computational complexity theory
-Computational fluid dynamics
 Computational mathematics
 Computer algebra
 Computer graphics
 Computer science
 Computer vision
-Control Data Corporation
 Control theory
-Coordinate change
 Coordinate vector
-Coordinates
 Coral Gables, Florida
 Cramer's rule
-Cray Research, Inc.
-Cross product
-Dan Margalit (mathematician)
 Data structure
-Definite bilinear form
 Determinant
 Diagonal matrix
-Diagonalizable matrix
-Dianne Hansford
-Differential (mathematics)
 Differential equation
-Differential equations
 Differential geometry
 Differential topology
 Dimension (vector space)
-Dimension theorem for vector spaces
 Diophantine geometry
-Direct sum of modules
 Discrete geometry
 Discrete mathematics
-Discretization
 Distributivity
 Doi (identifier)
 Dot product
-Double dual
-Dual basis
 Dual space
-Earth shape
 Eigenvalue
 Eigenvalues and eigenvectors
 Electric power distribution
 Electric power transmission
 Element (mathematics)
 Elementary algebra
-Elementary matrix
-Elementary row operation
 Emil Artin
 Encyclopedia of Mathematics
-Endomorphism
 Engineering
 Engineering mathematics
-Equipollence (geometry)
 Euclidean geometry
-Euclidean space
-Euclidean vector
 European Mathematical Society
 Exterior algebra
 Felix Gantmacher
 Field (mathematics)
 Field extension
-Field theory (physics)
 Finite field
 Finite geometry
-Finitely generated module
-First-order approximation
-Floating-point arithmetic
-Fluid dynamics
-Fluid mechanics
 Foundations of mathematics
-Fourier analysis
-Free module
-Frobenius normal form
 Function (mathematics)
 Function composition
-Function space
 Functional analysis
-Fundamental matrix (computer vision)
-Fundamental theorem of finitely generated abelian groups
 Future of mathematics
-Gabriel Cramer
-Gainesville, Florida
 Game theory
-Gauss
 Gaussian elimination
-Gene H. Golub
-General linear group
 General topology
-Generating set
-Geodesy
-Geometric Algebra (book)
 Geometric algebra
 Geometric topology
 Geometric transformation
 Geometry
-Georgia Institute of Technology
-Georgiy Shilov
 Gilbert Strang
 Glossary of linear algebra
 Glossary of mathematical symbols
-Gottfried Wilhelm Leibniz
 Graduate Texts in Mathematics
-Gram–Schmidt
-Gram–Schmidt process
 Graph theory
-Graphics processing units
 Group representation
 Group theory
 Hadamard product (matrices)
 Harmonic analysis
-Harry Dym
 Heat transfer
-Henryk Minc
-Hermann Grassmann
-Hermitian conjugate
 Hilbert space
-History of Lorentz transformations
 History of mathematics
-Homogeneous system of linear equations
-Homography
 Homological algebra
 Homotopy theory
-Houghton Mifflin Company
 Hypercomplex analysis
-Hypercomplex number
 IBM
-IEEE Transactions on Computers
 ISBN (identifier)
 ISSN (identifier)
 Identity element
 Identity matrix
-Igor Shafarevich
-Image (function)
 Informal mathematics
 Information theory
 Inner product
 Inner product space
-Interscience Publishers
 Inverse element
-Inverse image
-Inverse matrix
-Invertible matrix
-Isometry
-Isomorphic
 Isomorphism
-Israel Gelfand
-JHU Press
 James Clerk Maxwell
-James Demmel
-James Joseph Sylvester
-Jim Hefferon
 John Wiley & Sons
-Johns Hopkins University Press
-Jordan normal form
-Kernel (linear algebra)
-Kernel (linear operator)
 Kronecker product
-LAPACK
-Leon Mirsky
-Limit (mathematics)
 Line (geometry)
 Linear
-Linear combination
 Linear equation
-Linear equation over a ring
 Linear form
-Linear function
-Linear independence
 Linear map
-Linear mapping
 Linear programming
-Linear regression
-Linear span
 Linear subspace
-Linear system
-Linearly independent
 List of films about mathematicians
-List of mathematicians
 Lists of mathematics topics
-Lloyd N. Trefethen
-Lorentz transformation
-Lp space
-MR (identifier)
 Main diagonal
-Manifold
 Map (mathematics)
-Marie A. Vitulli
-Marvin Marcus
 MathWorld
 Mathematical analysis
 Mathematical and theoretical biology
@@ -270,163 +146,71 @@ Mathematical physics
 Mathematical psychology
 Mathematical sociology
 Mathematical statistics
-Mathematicians
 Mathematics
 Mathematics and art
 Mathematics education
 Matrix (mathematics)
 Matrix decomposition
-Matrix inverse
 Matrix multiplication
 Measure (mathematics)
 Mechanics
-Metric (mathematics)
-Minor (linear algebra)
 Module (mathematics)
-Module homomorphism
-Monic polynomial
-Multi-core processor
 Multilinear algebra
 Multilinear map
-Multiplicative identity
 Multiplicative inverse
-Multivariate function
 Multivector
 Möbius transformation
-Navier-Stokes equation
-Non-linear
-Nonlinear system
-Nonlinear systems
 Norm (mathematics)
-Normal matrix
 Normed vector space
 Number theory
 Numerical analysis
-Numerical linear algebra
-Numerical stability
 OCLC (identifier)
 OL (identifier)
 Operations research
 Order theory
-Orthogonal basis
 Orthogonality
-Outer product
-Outermorphism
-Outline of linear algebra
-Parametrization (atmospheric modeling)
-Parametrization (geometry)
-Parity of a permutation
 Partial differential equation
-Paul Halmos
-Peano
-Perspectivity
 Philosophy of mathematics
-Plane (geometry)
-Pointwise
 Polynomial
 Polynomial ring
-Power systems
-Preimage
-Prentice-Hall
-Principal ideal domain
-Prindle, Weber and Schmidt
 Probability theory
 Processor (computing)
-Productive matrix
 Projection (linear algebra)
-Projection (mathematics)
-Projective space
-Quadratic form
 Quantum mechanics
 Quaternion
-Quotient space (linear algebra)
-Range of a function
 Rank (linear algebra)
-Rank of a matrix
-Ray Kunze
 Real analysis
 Real number
 Recreational mathematics
-Reduced row echelon form
-Reflection (mathematics)
-Renewable energy
 René Descartes
-ResearchGate
-Rigid body dynamics
-Rigid motion
 Ring (mathematics)
 Robotics
-Rod calculus
 Roger Horn
-Root of a function
 Rotation
 Rotation (mathematics)
-Row and column spaces
-Row and column vectors
 S2CID (identifier)
 Scalar (mathematics)
 Scalar multiplication
-Scientific computation
 Sequence
-Sequence (mathematics)
-Serge Lang
-Sergei Treil
-Sesquilinear form
 Set (mathematics)
 Set theory
-Seven-dimensional cross product
-Sheldon Axler
-Shin Takahashi
-Similar (linear algebra)
-Singular matrix
-Smart grid
-Space of functions
-Spanning set
-Sparse matrix
-Springer Publishing
 Springer Science+Business Media
 Square-free polynomial
 Square matrix
 Statistics
-Steven Roman
-Subset
-Symmetric group
 Symmetric matrix
-Synthetic geometry
 System of linear equations
-Systems of linear equations
 Systems science
-Telegraph
 Tensor
 Tensor product
 The Nine Chapters on the Mathematical Art
 Theory of computation
-Thermal energy
 Three-dimensional space
 Timeline of mathematics
 Topological space
-Topological vector space
 Topology
-Transformation matrix
-Translation (geometry)
 Transpose
-Transpose of a linear map
-Triple product
 Type theory
-Undergraduate Texts in Mathematics
 Universal algebra
-University Press of Florida
-University of Miami
-University of Queensland
-Vector (mathematics and physics)
-Vector addition
-Vector projection
 Vector space
-Vector spaces
-Wave function
-Weather forecasting
 William Rowan Hamilton
-Yerevan, Armenia
-Yitzhak Katznelson
-Zero matrix
-Zero vector

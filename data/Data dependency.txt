@@ -1,29 +1,7 @@
-Code motion
-Compiler optimizations
-Compiler theory
 Computer science
-Control dependency
-David A. Patterson (scientist)
-Dependence analysis
-Dependency analysis
 Doi (identifier)
-Hazard (computer architecture)
 ISBN (identifier)
 Instruction-level parallelism
-Instruction (computer science)
-Instruction level parallelism
 Instruction pipelining
-Instruction scheduling
-John L. Hennessy
-Loop dependence analysis
-Loop transformation
-Morgan Kaufmann
-Operand forwarding
-Out-of-order execution
-Pipeline stall
 Primary storage
-Processor register
-Program statement
-Register renaming
 Scoreboarding
-Sequential execution model

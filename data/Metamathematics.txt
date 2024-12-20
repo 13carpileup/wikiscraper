@@ -2,31 +2,21 @@ Abductive reasoning
 Abstract algebra
 Alan Turing
 Alfred North Whitehead
-Alfred Tarski
 Algebra
 Algebraic geometry
 Algebraic number theory
 Algebraic topology
 Algorithm
-Alonzo Church
 Analytic geometry
 Analytic number theory
 Analytic philosophy
-Analytical philosophy
-Analytic–synthetic distinction
-Antecedent (logic)
-Antinomy
 Applied mathematics
-Argumentation theory
 Arithmetic
 Arithmetic geometry
 Axiom
 Axiomatic system
-Begriffsschrift
 Bertrand Russell
-Boeotia
 Calculus
-Calculus ratiocinator
 Cantor's theorem
 Category theory
 Church–Turing thesis
@@ -39,18 +29,13 @@ Computational complexity theory
 Computational mathematics
 Computer algebra
 Computer science
-Consequent
 Consistency
 Contradiction
 Control theory
-Critical thinking
 David Hilbert
 Decidability (logic)
 Decision problem
-Deductive closure
 Deductive reasoning
-Definition
-Description
 Differential equation
 Differential geometry
 Differential topology
@@ -58,77 +43,48 @@ Diophantine geometry
 Discrete geometry
 Discrete mathematics
 Douglas Hofstadter
-Effective method
-Effective procedure
-Effectively calculable
 Elementary algebra
-Emil Post
 Engineering mathematics
-Entailment (linguistics)
-Entscheidungsproblem
 Euclidean geometry
 Finite geometry
 First-order logic
 Formal proof
 Formal semantics (natural language)
 Formal system
-Formula
-Foundational crisis of mathematics
 Foundations of geometry
 Foundations of mathematics
 Functional analysis
 Future of mathematics
 Game theory
-Gauss
 General topology
 Geometric topology
 Geometry
 German language
 Glossary of mathematical symbols
-Gottfried Wilhelm Leibniz
 Gottlob Frege
 Graph theory
-Gregory Chaitin
 Group theory
 Gödel's completeness theorem
-Gödel's incompleteness theorem
 Gödel's incompleteness theorems
-Gödel, Escher, Bach
 Harmonic analysis
-Hilary Putnam
 Hilbert's program
-Hilbert's second problem
-Hilbert program
 History of logic
 History of mathematics
 Homological algebra
 Homotopy theory
-Hyperbolic geometry
 Hypercomplex analysis
 ISBN (identifier)
 If and only if
 Independence (mathematical logic)
-Index of logic articles
-Inductive reasoning
 Inference
-Inference rule
-Informal logic
 Informal mathematics
 Information theory
 Interpretation (logic)
-Kurt Gödel
 Lambda calculus
-Language
 Linear algebra
-List of Boolean algebra topics
-List of fallacies
 List of films about mathematicians
 List of logic symbols
-List of logicians
 List of mathematical logic topics
-List of mathematicians
-List of paradoxes
-List of rules of inference
 List of set theory topics
 Lists of mathematics topics
 Logic
@@ -146,60 +102,34 @@ Mathematical logic
 Mathematical optimization
 Mathematical physics
 Mathematical psychology
-Mathematical rigour
 Mathematical sociology
 Mathematical statistics
-Mathematical theorem
-Mathematical theory
-Mathematicians
 Mathematics
 Mathematics and art
 Mathematics education
-Max Newman
 Measure (mathematics)
-Meta (prefix)
-Metalogic
 Metatheorem
-Metatheory
-Michael Dummett
 Modal logic
 Model theory
 Multilinear algebra
-Name
 Natural language
-Natural numbers
-Necessity and sufficiency
 Non-Euclidean geometry
-Non-classical logic
 Number theory
 Numerical analysis
 Operations research
 Order theory
-Outline of logic
-Paradox
-Paul Benacerraf
-Paul Cohen
-Philosophical logic
 Philosophy
 Philosophy of logic
 Philosophy of mathematics
-Predicate logic
-Premise
 Principia Mathematica
 Probability
 Probability theory
 Proof theory
 Proposition
 Real analysis
-Reason
 Recreational mathematics
-Recursion theory
-Recursive definition
-Reference
-Richard's paradox
 Russell's paradox
 Satisfiability
-Schema (logic)
 Semantic theory of truth
 Semantics of logic
 Set theory
@@ -207,16 +137,12 @@ Soundness
 Statement (logic)
 Statistics
 Stephen Cole Kleene
-Stephen Kleene
 Substitution (logic)
 Syntax (logic)
-System of types
 Systems science
 T-schema
 Theorem
 Theory of computation
-Thoralf Skolem
-Thought
 Timeline of mathematics
 Topology
 Truth
@@ -224,8 +150,6 @@ Turing machine
 Type theory
 Type–token distinction
 Universal algebra
-Use–mention distinction
 Validity (logic)
 Wayback Machine
-Willard Quine
 Zermelo–Fraenkel set theory

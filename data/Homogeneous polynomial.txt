@@ -1,74 +1,46 @@
 Algebraic geometry
 Basis (linear algebra)
 Binomial (polynomial)
-Binomial coefficient
 Bivariate polynomial
 Coefficient
 Commutative ring
 Constant function
 Cubic equation
 Cubic function
-David A. Cox
 Degree of a polynomial
-Diagonal form
-Dimensional analysis
-Direct sum
 Discriminant
-Donal O'Shea
 Eric W. Weisstein
-Euclidean distance
-Euler's homogeneous function theorem
 Factorization of polynomials
 Field (mathematics)
-Formal derivative
-Free module
 Function (mathematics)
 Geometry
-Graded algebra
 Gröbner basis
-Hilbert series and Hilbert polynomial
-Homogeneous function
 Horner's method
 ISBN (identifier)
 Irreducible polynomial
 Linear equation
 Linear form
 Linear function (calculus)
-Linear functional
 MathWorld
 Mathematics
 Module (mathematics)
 Monomial
-Multi-homogeneous polynomial
-Multilinear form
 Multilinear map
 Multivariate polynomial
-Nonnegative integer
-Polarization of an algebraic form
 Polynomial
-Polynomial function
 Polynomial greatest common divisor
 Polynomial identity testing
 Polynomial long division
-Polynomial resultant
 Polynomial ring
-Projective algebraic variety
-Projective variety
 Quadratic equation
-Quadratic form
 Quadratic function
 Quartic equation
 Quartic function
 Quasi-homogeneous polynomial
 Quintic function
 Ring (mathematics)
-Schur polynomial
 Septic equation
 Sextic equation
 Square-free polynomial
-Square root
-Symbol of a differential operator
 Trinomial
-Univariate polynomial
 Vector space
-Zero polynomial

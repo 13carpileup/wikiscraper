@@ -1,464 +1,92 @@
-.TXT
-16-bit computing
-16-bit processor
-4690 OS
-8-bit computing
-8-bit processor
-8.3 filename
 86-DOS
-A. C. Nielsen
-ADOS (Russian operating system)
-AMSDOS
-ANDOS
 ASCII
-ASCII art
-Altair 8800
-American Microsystems
-AmigaDOS
-Amstrad CP/M Plus character set
-Amstrad CPC
-Amstrad PCW
-Andy Johnson-Laird
-Apple DOS
 Apple II
-Apple ProDOS
-Apple SOS
-Applied Engineering
 Ars Technica
-Assembler (computing)
 Assembly language
-Assembly language translator
-Atari DOS
-Atari Pascal
 Atari ST
-Atari TOS
-AutoCAD
 BASIC
-BBC Micro
-BDOS
-BDOS (DOS)
-BDOS (MSX)
 BIOS
-BSD licenses
-BW-DOS
 Backward compatibility
-Bank switching
-BatteryMAX
-Bill Gates
-Bondwell-2
-Bootloader
-Bootstrapping (computing)
-Borland
-Borland Delphi
-Bryan Wayne Sparks
-Byte (magazine)
-C't - magazin für computertechnik
-CBASIC
-CMD file (CP/M)
-CMP Books
-CMP Media
-CMP Media LLC
-CODEN (identifier)
-COM file
-CP/CMS
-CP/DOS
-CP/K
-CP/M-80
-CP/M-86
-CP/M-86/80
-CP/M 8-16
-CP/NET
-CP/NOS
-CPMulator
-CSI-DOS
-C (language)
-Caldera, Inc.
-Caldera (company)
 Character set
-Closed source
 Colossal Cave Adventure
 Columbia University
-Command-line interface
-Command.com
 Command (computing)
-Command line
-Commodore 128
-Commodore 1571
-Commodore 1581
 Commodore 64
-Commodore DOS
-Comparison of DOS operating systems
 Compiler
-CompuPro System 816
 Computer History Museum
 Computer file
-Computer platform
 Computer terminal
-Concurrent CP/M-86
-Concurrent DOS
-Concurrent DOS 68K
-Concurrent DOS V60
-Control-Z
 Copy protection
-Cromemco
-Cromemco CDOS
-Cromemco DOS
-Cursor (user interface)
-DATE (CP/M command)
-DBase
-DDT (CP/M command)
-DEC BATCH-11/DOS-11
-DECsystem-10
-DEVICE (CP/M command)
-DIP DOS
-DIRSYS (CP/M command)
-DIRS (CP/M command)
 DOS
-DOS/360
-DOS/V
-DOS API
-DOS Plus
-DOS Protected Mode Services
-DOS XL
-DR-DOS
-DUMP (CP/M command)
-Daisy wheel
-Data General RDOS
-Data entry clerk
-Datapac System Manager
 De facto
-Desk accessory
 Digital Equipment Corporation
 Digital Research
-Digital Research, Inc.
-Dir (command)
-Disk operating system
 Disk sector
-Dorothy McEwen Kildall
-Dr. Dobb's Journal
-Dr. Logo
-Dr. Scheme
-Drive letter
 Dynamic debugging technique
-Dynamic loading
-ED (CP/M command)
-EOS (8-bit operating system)
-ERASE (CP/M command)
-ERA (CP/M command)
-EXORmacs
-Eagle Computer
-East German
-Eastern Bloc
-Edos
-Edward R. McCracken
-Electronic Design
-Elwro 804 Junior
-End-of-file
 English language
-Epson QX-10
-Escape sequence
-FLEX (operating system)
-FORTRAN
 File Allocation Table
-File Control Block
 File system
 Filename extension
-FlexOS
-Floppy-disk controller
-Floppy-disk drive
 Floppy disk
-FreeDOS
-Front panel
-GEMDOS
 GEM character set
-GET (CP/M command)
-Gary Arlen Kildall
-Gary Kildall
-George Morrow (computers)
 GitHub
-Gnat Computers
-Gordon Eubanks
-Gorillas (video game)
-Graphics Environment Manager
-Graphics System Extension
-H-DOS
-HEXCOM (CP/M command)
 Hacker culture
-Hamurabi (video game)
 Hard drive
-Hard sector
-Hardware abstraction
-Hardware abstraction layer
-Heise Verlag
-Help (command)
-Hexadecimal
-Howard W. Sams
-Howard W. Sams & Co.
-Husky (computer)
 IBM
-IBM 3740
-IBM 4680 OS
 IBM PC
-IBM PC DOS
 IBM Personal Computer
-IBM System/34
-IDEDOS
-IMDOS
-IMSAI 8080
-IMS Associates, Inc.
-INITDIR (CP/M command)
-IS-DOS
 ISBN (identifier)
-ISIS (operating system)
-ISO 646
 ISSN (identifier)
 Index of DOS games
-InfoWorld
 Infocom
-Installer
-Instruction set
-Intel 8080
-Intel 8085
-Intel 8086
-Intellec
 Interactive fiction
-Intertec Superbrain
-Invoice
-JRT Pascal
-Jerry Pournelle
-Jim Warren (computer specialist)
-John Harrison Wharton
-K8918-OS
-KAMAS (program)
-Kathryn Strutynski
-Kaypro
-Kenbak-1
 Kermit (protocol)
 Kernel (operating system)
 Kilobyte
-LINK (CP/M command)
-LOAD (CP/M command)
-Larry Magid
-Legacy.com
-Lifeboat Associates
-Lineo
-Lineo, Inc.
-List of DOS commands
-List of computers running CP/M
-List of disk operating systems called DOS
-List of machines running CP/M
-Luggable
 Lunar Lander (video game genre)
-MAC (CP/M command)
-MBASIC
-MOVCPM
-MP/M
-MP/M-80
-MP/M-86
-MP/NET
-MP/NOS
 MS-DOS
-MS-DOS 4.0 (multitasking)
-MS-DOS 7
-MSX
-MSX-DOS
 Mainframe computer
-Megabyte
-Memory buffer
-Michael Swaine (technical author)
-Micro Cornucopia
-Micro Cornucopia Inc.
-Microcomputer
 Microsoft
 Microsoft Excel
 Microsoft Windows
-Mitchell Waite
 Modem
-Modified frequency modulation
 Monolithic kernel
-Monterey Herald
-Motorola 68000
-Multiplan
 Multiprocessing
-Multiuser DOS
-MyDOS
-Myarc Disk Operating System
-NEC V20
-NEC V30
 Natural language
-Naval Postgraduate School
-NetWare PalmDOS
-NewDos/80
 New Jersey
 Non-disclosure agreement
-North Star Computers
-Novell DOS
 OCLC (identifier)
-OS/8
-OS/M
-Olivetti M20
 Open-source software
-OpenDOS
-Open Spectrum Project
-Open source license
 Operating system
-Osborne 1
-Osborne Computer Corporation
-Outline processor
-Outliner
 PBS
-PC-MOS/386
-PC 1715
 PC DOS
 PC Magazine
-PC clone
-PDP-11
-PDP-8
-PL/I
-PL/I-80
-PL/M
-PL/P
-PTDOS
-PTS-DOS
-PUT (CP/M command)
 Package manager
-Pascal/MT+
-Pascal/MT+68k
-Path (computing)
-Paul Freiberger
-PennWell Publications
-PennWell Publishing Company
-Peripheral Interchange Program
 Personal computer
-Popular Computing, Inc.
 Ported
 Printer (computing)
 Programmer
-Programming Language
 Programming language
 Proprietary software
-RCA MicroDOS
-REAL/32
-RENAME (CP/M command)
-RMAC (CP/M command)
-ROM-DOS
 RT-11
-Rainbow 100
-Random-access memory
-Raymond Chen (Microsoft)
 Read-only memory
-RealDOS
-Redirection (computing)
-Ren (command)
-Research Machines
-Resident monitor
-Resource construction set
-Retrocomputing
 Retronym
-Robert W. Lafore
-Rodnay Zaks
-S-100 bus
-SAM Coupé
-SAVE (CP/M command)
-SB-80
-SB-86
-SCP1700
-SCP (operating system)
-SETDEF (CP/M command)
-SET (CP/M command)
-SHOW (CP/M command)
-SID (CP/M command)
-SISNE plus
-STAT (CP/M command)
-SUBMIT (CP/M command)
-SYBEX Inc.
-SYSGEN (CP/M command)
-San Diego, California
-Scott Kildall
-Seattle Computer Products
-Shell builtin
-Shugart Associates
 Simon & Schuster
-Simtel
-Sinclair QDOS
-Single-density
-Single User Control Program
-SmartDOS
-SmartKey
-Soft sector
 Software
 Software bug
-Software bus
 Software license
 Software release life cycle
 Solid-state drive
-Sony SMC-70
-Sorcim
 Source code
-SpartaDOS
-SpartaDOS X
-SpeedStart CP/M
-Star Trek project
-Subdirectories
 Substitute character
-SuperCalc
-System console
-System time
 TOPS-10
-TR-DOS
 TRS-80
-TRS-80 Model 4
-TRSDOS
-TYPE (CP/M command)
-TYP (CP/M command)
-Technical Support SuperDOS
-Telengard
-Terminate and stay resident
 Text adventure
-Text editors
-Text file
-Text mode
-The Computer Journal
 The New York Times
-The Register
-Timeline of DOS operating systems
-Tom Rolander
-Top-DOS
-Towns OS
-TurboDOS
-Turbo Pascal
-UART
-UDOS
-USER (CP/M command)
-USE (CP/M command)
 United States dollar
-Usenet newsgroup
-User group
 User interface
-VAX/VMS
-VEB Robotron
 Video game
-ViewMAX
-VisiCalc
-Walter Isaacson
 Wayback Machine
-Wildcard character
-WordStar
 Word processor
 X86
-XLT86
-XMODEM
-XREF (CP/M command)
-Xerox 820
-Z-80 SoftCard
-Z-DOS
-Z80-RIO
-ZCPR
-ZX Spectrum
-ZX Spectrum +3
-Zenith Data Systems
-Zenith Z-100
-Zero page (CP/M)
 Zilog Z80
-Zilog Z8000
-Zork

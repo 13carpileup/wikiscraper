@@ -1,68 +1,18 @@
-AGRIS
-ANSI
 API
 Abstraction (computer science)
-Academic authorship
-Academic library
-Academic paper
-Accessibility
-Aggregate (data warehouse)
 Agile software development
-Alphanumeric
-Altmetrics
-Anchor modeling
-Anglo-American Cataloguing Rules
-Application-Level Profile Semantics (ALPS)
 Archival science
-Archive
-Archives management
-Archiving
-Archivist
 Arizona Supreme Court
-Aspect-oriented programming
-Audio Interchange File Format
-Audio Video Interleave
-Australian Government Locator Service
-Automatic number-plate recognition
 Backward compatibility
 Bibcode (identifier)
-Bibliographic record
-Bill Inmon
-Biomedicine
-Broadcast
-Broadcast media
 Business intelligence
-Business intelligence software
-Business metadata
-Business object
 CD
-CD-Text
-CDDB
-CDs
-CI/CD
-CIDOC Conceptual Reference Model
-Call detail record
-Call number
-Canon EOS 7D
 Capability Maturity Model Integration
 Cassette tape
 Cataloging (library science)
-Categories for the Description of Works of Art
-Cathryn S. Dippo
-Cenchrus ciliaris
-Classification scheme
 Cloud computing
-Collections Management System
-Collections management
-Collective intelligence
-Column-oriented DBMS
 Common Logic
-Common garden experiment
-Communication studies
 Compact Disc Digital Audio
-Comparison of OLAP servers
-Compatibility layer
-Compatibility mode
 Component-based software engineering
 Computer compatibility
 Computer engineering
@@ -70,429 +20,97 @@ Computer file
 Computer network
 Computer programming
 Computer science
-Content (media)
-Context (computing)
-Controlled vocabulary
 Copyright
-Cornell Law School
-Corporate information factory
-Cory Doctorow
-Crosswalk (metadata)
-Cultural artifact
-Curator
-DOAP
-Dan Linstedt
-Darwin Core
-Dashboard (business)
 Data
-DataONE
-Data Dictionary
-Data Documentation Initiative
-Data Mining Extensions
-Data dictionary
-Data extraction
-Data granularity
-Data hub
-Data loading
-Data management
-Data mart
-Data mesh
 Data mining
-Data model
-Data modeling
-Data provenance
 Data remanence
-Data science
-Data transformation
-Data vault modeling
-Data virtualization
-Data warehouse
-Data warehouse automation
 Database
-Database catalog
-Database design
-Dataspaces
 Decision support system
-Definition
-Degenerate dimension
-Description
-Description logic
-DevOps
 Dewey Decimal Classification
-Digital asset management
-Digital audio file
-Digital humanities
 Digital image
 Digital library
 Digital object identifier
-Digital photo
-Dimension (data warehouse)
-Dimension table
-Dimensional modeling
-Discoverability
 Discovery (law)
-Document
-Documentation science
 Doi (identifier)
 Dublin Core
-Dublin Core Metadata Initiative
-E-GMS
-Early-arriving fact
-Ecological Metadata Language
 Edward Snowden
-Electronic discovery
-Embedded RDF
-Emma Schymanski
-Empirical software engineering
 Enterprise architecture
-Enterprise bus matrix
-Enterprise unified process
-Entity-relationship model
-Entity–relationship model
-Epistemology
-Eprint
 Essential systems analysis
-European System of Central Banks
-Eurostat
-Exchangeable image file format
-Executable UML
-Experimental software engineering
-Extensible Metadata Platform
-Extract, load, transform
-Extract, transform, load
-Extreme programming
-FAIR data
 FIFA World Cup
-FOAF
-Facebook Platform
-Fact (data warehouse)
-Fact table
-Findability
-Focal point modeling
-Folksonomy
 Formal methods
-Forward compatibility
-Francis Bretherton
-Function model
-Functional specification
-GEOMS – Generic Earth Observation Metadata Standard
-GIS
-GRDDL
 Genome
 Geographic coordinate system
 Geospatial metadata
 Geotagging
-Global Positioning System
-Glossary of library and information science
-Gracenote
-Guardian News and Media Limited
-HAtom
-HCalendar
-HCard
-HOLAP
-HProduct
-HRecipe
-HReview
 HTML
-HTML editor
-HTTP
-Hal Draper
 Hdl (identifier)
-Herbarium
-History of libraries
-Hyperdata
-Hypertext
-ID3
-IDEF
-IF-MAP
-IPDirector
-IPTC Information Interchange Model
 ISBN
 ISBN (identifier)
-ISO/IEC 11179
-ISO/IEC 15504
 ISO 25964
 ISSN (identifier)
-IXBRL
 Identifier
 Incremental build model
-Index term
 Information
-Information architecture
-Information history
 Information management
-Information model
 Information retrieval
-Information schema
 Information science
-Intellectual Property Rights
 International Electrotechnical Commission
 International Organization for Standardization
-International Press Telecommunications Council
-International standardization
-Internationalized Resource Identifier
 Internet
 Interoperability
 Iterative and incremental development
-JDBC
-JLIS.it
-JPEG
-JSON-LD
-Knowledge
-Knowledge extraction
 Knowledge management
 Knowledge representation and reasoning
-Knowledge tag
-Law library
-Learning object metadata
-Legal Information Institute
-Librarian
 Library
-Library 2.0
-Library and information science
 Library catalog
-Library cataloging
-Library management
-Library management system
-Library science
 Linked data
 List of Dewey Decimal classes
-List of reporting software
-Litigation
-Lonclass
-MARC standards
-METAFOR
-MOLAP
 MP3
-MP4
-MS Fnd in a Lbry
-Mass spectrometry
-Mass surveillance
-Measure (data warehouse)
-Media clip
-Medical library
-Mercury (metadata search system)
-Meta-analysis
-Meta-communication
-Meta-emotion
-Meta-knowledge
-Meta-language
-Meta-learning
-Meta-object
-Meta-ontology
-Meta-optimization
-Meta-organization
-Meta-reference
-Meta-regulation
-Meta-system
-Meta (prefix)
-Meta element
-Metabibliography
 Metaclass
-Metaclass (Semantic Web)
-Metacognition
-Metacomputing
-Metadata Encoding and Transmission Standard
-Metadata Object Description Schema
-Metadata discovery
-Metadata engine
-Metadata facility for Java
-Metadata modeling
-Metadata publishing
 Metadata registry
-Metadata removal tool
-Metadata repository
-Metadata standards
-Metadesign
-Metadiscourse
-Metaepistemology
-Metaethics
-Metafiction
 Metagaming
-Metagenomics
-Metaheuristic
-Metahistory (concept)
-Metalogic
-Metamaterials
 Metamathematics
-Metamedia
-Metamemory
-Metametaphysics
-Metamodeling
-Metamodernism
-Metamood
-Metamotivation
-Metanarrative
-Metaphenomics
-Metaphilosophy
-Metaphysics
-Metapolitics
-Metapopulation
-Metapragmatics
 Metaprogramming
-Metapsychiatry
-Metapsychology
-Metapuzzle
-Metascience
-Metasemantics
 Metatheorem
-Metatheory
 Metaverse
-Microcontent
-Microdata (HTML)
-Microformat
 Microsoft Office
-Model-driven engineering
 Modeling language
-Molecular biology
-Mp3
-MultiDimensional eXpressions
-Multicam(LSM)
-Multicam (LSM)
-Museum
-MzML
-N-Triples
-NISO
-NSA
-Nikon D3
-Notation3
-OLAP cube
 Object-oriented programming
-Object model
-Observations and Measurements
-Official statistics
 Olympic Games
-Online analytical processing
-Ontology (computer science)
-Ontology (information science)
 OpenDocument
-Operational data store
-Oracle metadata
-Our Research
-Outline of library and information science
 PDF
 PMC (identifier)
 PMID (identifier)
-PNG
-Paratext
-Persistent identifier
-Playlist
-Preservation (library and archive)
-Preservation Metadata
-Privacy
-Private library
 Programming paradigm
 Project management
-Protein Data Bank
-Proteomics
-Protocol for Metadata Harvesting
-PubMed
-Public library
-Public record
-RDF/XML
-RDF Schema
 RDFa
-ROLAP
-Ralph Kimball
-Rapid application development
 Reddit
 Reference (computer science)
-Registrar (museum)
-Relational database
-Reproducibility
 Requirements engineering
-Research Resource Identifier
 Resource Description Framework
 Reusability
-Reverse star schema
 Risk management
 Round-trip engineering
-Rule-based system
-Rule Interchange Format
 S2CID (identifier)
-SAWSDL
 SDMX
-SGML
-SHACL
-SPARQL
 SQL
 Schema.org
-Scholia
-School library
-Science and technology studies
-Science communication
-Science information on Wikipedia
-Scientific citation
-Scientific field
-Scientometrics
-Scrum (software development)
-Search-based software engineering
 Search engine
-Search engine optimization
-Self-referential humor
-Semantic HTML
-Semantic Web
-Semantic Web Rule Language
-Semantic analytics
-Semantic broker
-Semantic computing
-Semantic mapper
-Semantic matching
-Semantic network
-Semantic publishing
-Semantic reasoner
-Semantic search
-Semantic service-oriented architecture
-Semantic triple
-Semantic wiki
-Semantically Interlinked Online Communities
 Semantics (computer science)
-Sequencing
-Service-oriented architecture
-Simple Knowledge Organization System
-Single version of the truth
-Site reliability engineering
-Sixth normal form
 Slate (magazine)
-Slowly changing dimension
-Snowflake schema
-Social software engineering
-Sociology of sociology
 Software
 Software archaeology
-Software architecture
 Software configuration management
 Software deployment
 Software design
 Software development process
 Software engineering
-Software incompatibility
 Software maintenance
-Software prototyping
 Software quality
 Software quality assurance
-Software system
 Software testing
-Software verification and validation
-Solid (web decentralization project)
 Sound recording and reproduction
-Special library
-Sphagnum papillosum
-Spiral model
-Spreadsheets
 Standardization
-Star schema
-Statistical data type
 Streaming media
-Structured analysis
-Surrogate key
-Swiftype
 Systems analysis
-Systems development life cycle
 Systems engineering
-Systems modeling
-Systems modeling language
-TV news
-TV station
-TagLib
-Tag editor

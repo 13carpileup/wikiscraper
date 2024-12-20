@@ -1,28 +1,15 @@
 API
-Abstraction
-Abstraction (software engineering)
-Actor model
-Ada (programming language)
-Algorithms
 Amdahl's law
 Analysis of parallel algorithms
-Apache Flink
-Apache Giraph
-Apache Hama
 Application checkpointing
 Array (data structure)
 Asymmetric multiprocessing
 Ateji PX
 Automatic parallelization
-BSPlib
 Barrier (computer science)
 Beowulf cluster
 Bit-level parallelism
-Boost (C++ libraries)
-Bridging model
-Bulk synchronous parallel
 Bulldozer (microarchitecture)
-C++ AMP
 CUDA
 Cache-only memory architecture
 Cache coherence
@@ -30,11 +17,8 @@ Cache invalidation
 Chapel (programming language)
 Charm++
 Cilk
-Cilk (programming language)
-Circuit (computer science)
 Cloud computing
 Coarray Fortran
-Communicating sequential processes
 Computer cluster
 Computer hardware
 Computer multitasking
@@ -43,8 +27,6 @@ Computer program
 Computer programming
 Computing
 Concurrency (computer science)
-Concurrent Haskell
-Concurrent ML
 Concurrent computing
 Cost efficiency
 D (programming language)
@@ -52,7 +34,6 @@ Data parallelism
 Dataflow architecture
 Dataflow programming
 Deadlock (computer science)
-Degree of parallelism
 Deterministic algorithm
 Distributed computing
 Distributed memory
@@ -61,12 +42,9 @@ Doi (identifier)
 Domain-specific language
 Dryad (programming)
 Embarrassingly parallel
-Erlang (programming language)
 Explicit parallelism
 Fiber (computer science)
 Flynn's taxonomy
-Fortran 2008
-Functional programming
 GPUOpen
 General-purpose computing on graphics processing units
 Global Arrays
@@ -77,7 +55,6 @@ HPX
 Hardware acceleration
 Hardware scout
 High-performance computing
-High Performance Fortran
 ISBN (identifier)
 Implicit parallelism
 Instruction-level parallelism
@@ -87,41 +64,30 @@ Karp–Flatt metric
 Library (computing)
 Limbo (programming language)
 List of concurrent and parallel programming languages
-Locality of reference
 Lock (computer science)
-LogP machine
 Loop-level parallelism
-Lustre (programming language)
 Manycore processor
 Massively parallel
 Memory-level parallelism
 Memory coherence
 Message Passing Interface
-Message passing
 Model of computation
-Monitor (synchronization)
-Multi-core processor
 Multiple instruction, multiple data
 Multiple instruction, single data
 Multiprocessing
 Multithreading (computer architecture)
 Non-blocking algorithm
 Non-uniform memory access
-Occam (programming language)
 OpenACC
 OpenCL
 OpenHMPP
 OpenMP
-Optical Multi-Tree with Shuffle Exchange
 Parallel Extensions
 Parallel RAM
 Parallel Virtual Machine
 Parallel computing
 Parallel external memory
-Parallel external memory (Model)
-Parallel random access machine
 Parallel slowdown
-Partitioned global address space
 Pipeline (computing)
 Preemption (computing)
 Process (computing)
@@ -131,15 +97,10 @@ ROCm
 Race condition
 RaftLib
 S2CID (identifier)
-SHMEM
-SPMD
-Scala (programming language)
 Scalability
 Semaphore (programming)
 Semiconductor memory
 Shared memory
-Shared memory (interprocess communication)
-Side effect (computer science)
 Simultaneous and heterogeneous multithreading
 Simultaneous multithreading
 Single instruction, multiple data
@@ -157,16 +118,10 @@ Synchronization (computer science)
 Systolic array
 Task parallelism
 Temporal multithreading
-TensorFlow
 Thread (computing)
 Threading Building Blocks
 Unified Parallel C
 Uniform memory access
 VHDL
 Vector processor
-Verilog
-VerilogCSP
 Wayback Machine
-X10 (programming language)
-XMTC
-ZPL (programming language)

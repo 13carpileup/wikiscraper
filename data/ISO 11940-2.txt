@@ -1,30 +1,19 @@
 ISO 31-6
-ISO/IEC 8859-5
 MicroPDF417
 DICOM
 On-board diagnostics
 ISO 13485
 MPEG-7
-ISO/IEC 14651
-ISO/IEC 8859-14
 Diacritic
-ISO/IEC 8859-12
-ISO/IEC 15504
 Document Style Semantics and Specification Language
 X3D
 ISO 10962
-Glottal consonant
-ISO/IEEE 11073
 Front vowel
-ISO/IEC 7813
 Open vowel
 Renard series
-ISO/IEC 9995
 ISO 31-0
-ISO/IEC 10116
 ISO 860
 ISO 5964
-ISO
 OCR-B
 Flowchart
 SDMX
@@ -34,13 +23,10 @@ Palatal consonant
 Phonetic transcription
 POSIX
 Fuel oil
-ISO/IEC 11179
 IATF 16949
-ISO/IEC 8859-3
 Digital object identifier
 Close vowel
 ISO 3977
-ISO/IEC 11801
 International Standard Music Number
 ISO 55000
 ISO 15926
@@ -52,30 +38,20 @@ British Standard Pipe
 ISO 21500
 ISO 3166-2
 ISO 5426
-ISO/IEC 20000
 Isofix
 ISO 4031
 ISO 10007
 ISO 9564
 ISO 56000
 ISO 6346
-ISO/IEC 21827
 Multibus
-Open-mid vowel
-ISO/IEC 8859-6
-ISO/IEC 19752
-ISO/IEC 9126
 Aspirated consonant
 Prontor-Compur
 ISO base media file format
-Trill consonant
 110 film
 Voiceless alveolo-palatal affricate
-Thai orthography
 International Securities Identification Number
-Alveolar consonant
 ISO 3166-1
-ISO/IEC 9797-1
 List of ISO standards
 Meta-Object Facility
 Open Virtualization Format
@@ -84,8 +60,6 @@ PHIGS
 ISO 8583
 MPEG-21
 Business Process Model and Notation
-ISO/IEC 2022
-ISO/IEC 17024
 ISO 31000
 ISO 4
 ISO 11992
@@ -93,12 +67,10 @@ ISO 22395
 ISO 668
 MPEG-1
 ASMO 449
-Velar consonant
 ISO 7200
 Motion JPEG 2000
 ISO 14644
 Advanced Video Coding
-ISO/TR 11941
 Dynamic Adaptive Streaming over HTTP
 List of ISO romanizations
 ISO 9660
@@ -113,33 +85,18 @@ ISO 15189
 ISO 15022
 ISO 6438
 Essential Video Coding
-Diphthongs
 Shoe size
-Typographic ligature
-ISO 31-13
-ISO/IEC 15288
-ISO/IEC 4909
-ISO/IEC 7816
 ISO 10160
-Royal Thai General System of Transcription
 MPEG-G
 ISO 999
-ISO/IEC 19770
-ISO 14000
-ISO 7027
 Universal Coded Character Set
 Kappa number
-ISO/IEC 19794-5
 ISO 13399
 ISO 639-5
 PDF
-Stop consonant
-ISO 19092-2
-ISO/IEC 27006
 Guidelines for the Definition of Managed Objects
 ISO-TimeML
 ISO 14971
-PDF/VT
 MPEG-4 Part 2
 PDF417
 ISO 639-2
@@ -147,7 +104,6 @@ ISO 50001
 ISO 704
 Computer Graphics Metafile
 ISO 10218
-Glottal stop
 Phoneme
 ISO 5428
 ISO 3103
@@ -155,14 +111,9 @@ ISO 732
 C++
 Consonant
 ECMAScript for XML
-Language Of Temporal Ordering Specification
 C Sharp (programming language)
-Nasal stop
-ISO/IEC 8859-4
 ISO-8859-8-I
-ISO/IEC 14443
 Z notation
-ISO/IEC 38500
 Pinyin
 Versatile Video Coding
 ISO 15924
@@ -172,11 +123,9 @@ ISO 31-10
 ISO 10303-21
 Film speed
 ISO 22301
-Approximant consonant
 Unified Modeling Language
 MPEG-2
 ISO 20022
-ISO/IEC 8859-16
 RM-ODP
 ISO 8178
 Antimagnetic watch
@@ -185,26 +134,20 @@ JPEG XL
 ISO 639
 ISO 15398
 135 film
-ISO/IEC 8859-1
 ISO 31-8
 ISO 22300
 ISO 2033
 Process Specification Language
-ISO/IEC 5218
 ISO 639-1
 Digraph (orthography)
-ISO/IEC 7064
 ISO 2014
 ISO 3166-3
 ISO 2015
-Tenuis consonant
 126 film
 ISO 2146
 Ada Semantic Interface Specification
-ISO/IEC 9529
 Legal Entity Identifier
 ALGOL 60
-ISO 31-9
 ISO 13567
 ISO 26262
 ISO 898
@@ -215,12 +158,10 @@ ISO 10161
 ISO 16750
 MPEG-4
 Salt spray test
-ISO/IEC 12207
 Hole punch
 Full BASIC
 Quality function deployment
 ISO 5776
-ISO/IEC 8859-13
 ISO 15926 WIP
 Requirements engineering
 ISO 4217
@@ -231,15 +172,11 @@ ISO 7010
 ISO 6385
 Manufacturing Message Specification
 O-ring
-Fricative consonant
 Trusted Platform Module
 OpenDocument
 Software maintenance
 ISO 5427
-ISO/IEC 80000
-ISO/IEC 8859-9
 ISO 8601
-Aspiration (phonetics)
 SQL
 ISO 8691
 ISO 26000
@@ -247,12 +184,9 @@ ISO 2852
 Web Content Accessibility Guidelines
 Simple Features
 IS-IS
-TIFF/EP
-OSI model
 XML Metadata Interchange
 ISO 25964
 ISO 10006
-ISO/IEC 27001
 ISO 14031
 ISO 259
 ISO 31
@@ -275,28 +209,22 @@ Fiber Distributed Data Interface
 STEP-NC
 ISO 10303-28
 Accuracy and precision
-PDF/E
 Labial consonant
 Minimal BASIC
 ISO 7736
 Torx
-ISO/IEC 42010
 ISO 13584
 Whirlpool (hash function)
 ISO 233
 MPEG-4 Part 3
 ECMAScript
-Close-mid vowel
 ISO 3307
 Vowel
 Romanization of Georgian
 ISO 20400
 Kunrei-shiki romanization
-ISO/IEC 8652
-ISO/IEC 27000-series
 ISO 2848
 ISO 4165
-ISO 9000
 ISO 15686
 Diphthong
 ISO 21001
@@ -305,14 +233,9 @@ Common Logic
 ISO 10303-22
 Graph Query Language
 International Standard Recording Code
-Vowel length
-ISO/IEC 27005
 ISO 217
-International Standard Serial Number
 Equal-loudness contour
-ISO/IEC 8859-2
 ISO 7001
-ISO/IEC 8859-15
 ISO 37001
 Magnetic ink character recognition
 Latin alphabet
@@ -321,15 +244,12 @@ ISO 5775
 ISO 7637
 Power take-off
 International Standard Text Code
-ISO/IEC 6523
 LCEVC
 Object Constraint Language
 ISO 28000
 QR code
-ISO/IEC 8859
 ISO 9897
 International Standard Identifier for Libraries and Related Organizations
-Thai alphabet
 List of IEC standards
 ISO 14224
 ISO 10303
@@ -339,26 +259,19 @@ JBIG
 ISO 19011
 ISO 31-3
 International Standard Audiovisual Number
-ISO/IEC 18014
 ISO 22000
 Shock-resistant watch
 Common Criteria
 MPEG-H
 ISO 128
 ISO 8000
-PDF/A
-ISO/IEC 7811
-ISO/IEC 646
-ISO 2047
 ISO 25178
 Horsepower
 Office Open XML
 MPEG-4 Part 11
 Photographic Activity Test
-ISO 12006
 Mixed raster content
 ISO 216
-Fuse (automotive)
 Common Language Infrastructure
 MPEG-D
 ISO metric screw thread
@@ -367,7 +280,6 @@ Common Object Request Broker Architecture
 Standard Generalized Markup Language
 Geography Markup Language
 ISO 9241
-ISO/IEC 10967
 ISO 31-11
 ISO 13406-2
 ISO 1
@@ -377,32 +289,22 @@ EXPRESS (data modeling language)
 Geospatial metadata
 ISO 13490
 ISO 31-1
-ISO/IEC 15693
 Prolog
-ISO/IEC 8859-11
-ISO/IEC 17025
-PDF/X
 International Phonetic Alphabet
 JPEG 2000
 MaxiCode
-ISO/IEC 8859-8
 ISO 31-7
 ArmSCII
 ISO 639-3
-Voiced consonant
 ISO 7002
-ISO/IEC 15897
 International Organization for Standardization
-ISO 8373
 Longitudinal redundancy check
 ISLISP
 International Standard Atmosphere
 Monophthong
 Topic map
-ISO 31-12
 Lexical Markup Framework
 ISO 1745
-ISO/IEC 11404
 ISO 9
 Cloud Infrastructure Management Interface
 File Allocation Table
@@ -418,35 +320,24 @@ ISO 2709
 JPEG XR
 International Standard Musical Work Code
 JPIP
-CAN bus
 Graphical Kernel System
 X.500
 JPEG XS
-ISO/IEC 27002
 Market Identifier Code
-ISO/IEC 27000
 Han Xin code
 ISO 2711
-ISO/IEC TR 12182
 ISO 9362
-ISO/IEC 7810
 ISO 19600
-Nasal consonant
 Romanization of Armenian
-ISO/IEC 8859-7
 ISO 11170
 ISO 10628
-ISO/IEC 8859-10
 FDI World Dental Federation notation
 COBOL
 ISO 657
-ISO/IEC 7812
 Delivery Multimedia Integration Framework
 ISO 6943
 ISO 2
 ISO 31-4
 ANSI C
-PDF/UA
 ISO 3864
 HTML
-ISO 19092-1

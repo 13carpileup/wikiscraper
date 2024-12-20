@@ -10,8 +10,6 @@ ATC code J
 ATC code L
 ATC code M
 ATC code N
-ATC code N02
-ATC code N02C
 ATC code P
 ATC code R
 ATC code S
@@ -19,15 +17,10 @@ ATC code V
 ATCvet code QI
 Addiction medicine
 Alkylating antineoplastic agent
-Almotriptan
-Alniditan
-Amidrine
-Amitriptyline
 Anabolic steroid
 Analgesic
 Anatomical Therapeutic Chemical Classification System
 Anesthetic
-Angiotensin II receptor antagonist
 Anorectic
 Antacid
 Anthelmintic
@@ -35,19 +28,13 @@ Anti-inflammatory
 Anti-obesity medication
 Antianginal
 Antiarrhythmic agent
-Antibacterial
 Anticoagulant
 Anticonvulsant
-Antidementia drug
 Antidepressant
-Antidiarrhoeal
 Antidote
 Antiemetic
 Antifibrinolytic
-Antifungal drug
 Antihemorrhagic
-Antihyperkinetic
-Antihypertensive drug
 Antimetabolite
 Antimicrobial
 Antimycobacterial
@@ -55,193 +42,61 @@ Antineoplastic
 Antiparasitic
 Antiplatelet drug
 Antipropulsive
-Antiprotozoal agent
 Antipruritic
-Antipsoriatic
 Antipsychotic
 Antithrombotic
 Antithyroid agent
 Antiviral drug
 Anxiolytic
 Aphrodisiac
-Atogepant
-Avitriptan
 Beta blocker
 Bile acid sequestrant
 Bisphosphonate
 Blood
 Bone
 Bronchodilator
-CALCRL
-Calcitonin gene-related peptide
-Calcitonin gene-related peptide receptor antagonist
 Calcium channel blocker
-Carbamazepine
 Cardiac glycoside
 Cardiac stimulant
 Cardiotoxicity
 Chemotherapy
-Cicatrizant
 Circulatory system
-Clinical trial
-Clonidine
 Coagulation
-Contrast medium
 Corticosteroid
-Cough medicine
 Decongestant
 Deliriant
 Depressant
 Diabetes medication
-Dietary mineral
-Dihydroergocryptine
-Dihydroergotamine
-Dimetotiazine
 Disease-modifying antirheumatic drug
 Dissociative
-Ditan
 Diuretic
 Doi (identifier)
-Donitriptan
-Dotarizine
 Dressing (medicine)
-Drug class
-Drugs.com
 Ectoparasiticide
-Eletriptan
-Emollient
 Endocrine system
-Entactogen
 Entheogen
-Eptinezumab
-Erenumab
-Ergoline
-Ergot
 Ergotamine
-Ergotamine/caffeine
-Ergotamine/chlorcyclizine/caffeine
-Ergotism
 Euphoria
 Fertility medication
 Fibrate
-Flumedroxone acetate
-Flunarizine
-Fremanezumab
-Frovatriptan
-Galcanezumab
 General anaesthetic
 Genitourinary system
 Glucocorticoid
 H1 antagonist
-H2 antagonist
-Headache
 Hepatotoxicity
 Hormonal contraception
 Human brain
-Human gastrointestinal tract
 Human skin
 Hypnotic
-Hypolipidemic agent
 Hypothalamic–pituitary hormone
 ISBN (identifier)
-Imipramine
 Immune system
-Immunomodulator
 Immunostimulant
 Immunosuppressive drug
 Infection
-Intravenous immunoglobulin
-Iprazochrome
 Joint
-Lasmiditan
-Laxative
-List of withdrawn drugs
-Lisuride
-Local anesthetic
-Lomerizine
-Malignant
-Management of Parkinson's disease
-Management of chronic headaches
-Medication overuse headache
-Melatonin as a medication and supplement
 Metabolism
-Methylergometrine
-Methysergide
-Metoprolol
-Migraine
-Mineralocorticoid
-Monoclonal antibody
-Mood stabilizer
-Motivation-enhancing drug
-Muscle
-Muscle relaxant
-Naratriptan
-Nephrotoxicity
 Nervous system
-Neuroprotective
-Neurotoxin
-Non-steroidal anti-inflammatory drug
-Nonsteroidal anti-inflammatory drug
-Nootropic
-Norepinephrine reuptake inhibitor
-Nortriptyline
-Ophthalmology
-Orexigenic
-Otology
-Oxcarbazepine
-Oxetorone
 PMC (identifier)
 PMID (identifier)
-Paracetamol
-Parenteral
-Paresthesia
-Phases of clinical research
-Pizotifen
-Platelet
-Pregnancy
-Prevention of migraines
-Progestogen
-Propranolol
-Proton-pump inhibitor
-Psychedelic drug
-Psychedelics, dissociatives and deliriants
-Radiopharmacology
-Renin inhibitor
-Renin–angiotensin system
-Respiratory system
-Rimegepant
-Rizatriptan
 S2CID (identifier)
-Sedative
-Selective estrogen receptor modulator
-Selective serotonin reuptake inhibitor
-Senotherapeutics
-Sense
-Serenic
-Serotonin
-Serotonin receptor agonist
-Sex steroid
-Spindle poison
-Statin
-Stimulant
-Sumatriptan
-Sympatholytic
-Thrombolytic drug
-Thyroid hormone
-Timolol
-Topiramate
-Topoisomerase inhibitor
-Tricyclic antidepressant
-Trigeminal nerve
-Triptan
-Ubrogepant
-Vaccine
-Valproate
-Vasoconstriction
-Vasodilation
-Verapamil
-Vitamin
-WHO Model List of Essential Medicines
-Wakefulness-promoting agent
-Zavegepant
-Zolmitriptan

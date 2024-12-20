@@ -1,91 +1,38 @@
-Credibility
-Architecturally significant requirements
-Resilience (network)
 Flexibility (engineering)
 Operability
-Repeatability
-Non-functional requirements
 Reliability engineering
-Data corruption
-Agile manufacturing
-Failure transparency
 Software quality
-Fidelity
-Predictability
 Software quality management
-Survivability
-Accessibility
-Internationalization and localization
 S2CID (identifier)
-Vulnerability
 Doi (identifier)
 Safety
 Interoperability
-Serviceability (computer)
-Business requirements
 Scalability
-Responsiveness
-Transparency (behavior)
 Understandability
-Software system safety
-Software development security
 Dependability
 Orthogonality
-Capability (systems engineering)
 Accuracy and precision
 Adaptability
-Sustainability
-Extensibility
-Relevance
-Durability (database systems)
-Redundancy (engineering)
 Maintainability
 Interchangeable parts
 Orthogonality (programming)
-Traceability
-FURPS
-Thomas Erl
 Software quality control
 Algorithmic efficiency
-Software architects
 Hdl (identifier)
 Data quality
-Adaptation (computer science)
-Timeliness
 Systems engineering
-Stability model
 Standardization
-Reproducibility
-Precision (computer science)
 Availability
 Robustness (computer science)
-Evolvability
 ISBN (identifier)
 Non-functional requirement
-Observability
-Effectiveness
-Self-sustainability
-Simplicity
 Reusability
 Software quality assurance
 Software testability
-Modularity (programming)
 Software portability
-Suffix
-ISO/IEC 9126
-Information quality
 Usability
 Learnability
 Computer programming
 Loose coupling
-Discoverability
-Software architecture
-Fault-tolerance
 Software sizing
 Correctness (computer science)
-ACID
-Cognitive dimensions of notations
-RAMS
-Agility
-Composability
-Service autonomy principle

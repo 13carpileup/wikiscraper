@@ -1,5 +1,3 @@
-/e/ (operating system)
-20 minutos
 4MLinux
 ALT Linux
 AlmaLinux
@@ -27,11 +25,9 @@ Blog
 Bodhi Linux
 CHAOS (operating system)
 CRUX
-Cadena Ser
 Calculate Linux
 Caldera OpenLinux
 CalyxOS
-Campus Party
 CentOS
 CentOS Stream
 Chakra (operating system)
@@ -46,7 +42,6 @@ Comparison of Linux distributions
 Container Linux
 Corel Linux
 CrDroid
-Creative Commons
 CrunchBang Linux
 Cub Linux
 CyanogenMod
@@ -55,9 +50,7 @@ Damn Vulnerable Linux
 Debian
 Deepin
 DemoLinux
-Desktop environment
 Devuan
-DistroWatch
 DivestOS
 DoudouLinux
 Dreamlinux
@@ -89,12 +82,9 @@ Gentoo Linux
 GoboLinux
 Gobuntu
 GrapheneOS
-HackFwd
 HandyLinux
-Hyperbola GNU/Linux-libre
 Immunix
 IodéOS
-Jon "maddog" Hall
 Jurix
 KDE neon
 KaOS
@@ -110,8 +100,6 @@ Korora (operating system)
 Kubuntu
 Kwort Linux
 LXLE Linux
-La Nueva España
-Langreo
 Libranet
 LinHES
 LineageOS
@@ -120,7 +108,6 @@ Linux
 LinuxTLE
 Linux Caixa Mágica
 Linux Lite
-Linux Magazine (United States)
 Linux Mint
 Linux Router Project
 Linux distribution
@@ -131,7 +118,6 @@ Lubuntu
 MCC Interim Linux
 MIUI
 MX Linux
-Madrid
 Mageia
 Mandrake Linux
 Mandriva Linux
@@ -141,7 +127,6 @@ Mer (software distribution)
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Musix GNU+Linux
 Natural language
 Network Security Toolkit
 NimbleX
@@ -150,7 +135,6 @@ NixOS
 Nobara Linux
 Nova (operating system)
 OmniROM
-Onda Cero
 One UI
 Open-source software
 OpenELEC
@@ -158,10 +142,8 @@ OpenMandriva Lx
 OpenSUSE
 Open Enterprise Server
 Oracle Linux
-Oviedo
 PCLinuxOS
 Package manager
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
@@ -178,12 +160,10 @@ PureOS
 Q4OS
 Qubes OS
 ROSA Linux
-Radiotelevisión del Principado de Asturias
 Raspberry Pi OS
 Red Hat Enterprise Linux
 Red Hat Linux
 Red Star OS
-Remastersys
 Remix OS
 Replicant (operating system)
 Resurrection Remix OS
@@ -204,7 +184,6 @@ Software release life cycle
 Solus (operating system)
 SolydXK
 Source Mage
-Spanish Socialist Workers' Party
 SparkyLinux
 Splashtop OS
 SteamOS
@@ -212,17 +191,14 @@ Sunwah Linux
 SystemRescue
 T2 SDE
 Tails (operating system)
-Televisión Española
 Think Blue Linux
 Tiny Core Linux
 Tizen
 TopologiLinux
-Triskelion
 Trisquel
 Turbolinux
 Turkix
 Ubuntu
-Ubuntu (operating system)
 Ubuntu Budgie
 Ubuntu Cinnamon
 Ubuntu GNOME
@@ -233,14 +209,10 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 User interface
 VectorLinux
 Vine Linux
 Void Linux
-Voluntary association
-Web apps
 Whonix
 Wubuntu
 XB Machine

@@ -1,16 +1,9 @@
-.exit
-.onion
-.tor
-/e/ (operating system)
 4MLinux
-64-bit processor
 ALT Linux
-APT (Debian)
 AlmaLinux
 Alpine Linux
 Android-x86
 Android (operating system)
-Anonym.OS
 Anonymity
 Antergos
 AntiX
@@ -27,15 +20,11 @@ BackBox
 BackTrack
 Barton Gellman
 Bharat Operating System Solutions
-Binary blob
 BioSLAX
 BlackArch
 Black Lab Linux
 BlankOn Linux
 Bodhi Linux
-Briar (software)
-Bruce Schneier
-Buster Hernandez
 CHAOS (operating system)
 CRUX
 Calculate Linux
@@ -47,45 +36,29 @@ Chakra (operating system)
 Chimera Linux
 ChromeOS
 ChromiumOS
-Cindy Cohn
 ClearOS
 Clear Linux OS
-Cold boot attack
 ColorOS
 Commodore OS
-Communications security
 Comparison of Linux distributions
-Computer appliance
 Container Linux
 Corel Linux
 CrDroid
 CrunchBang Linux
-Crypto-anarchism
-Cryptographic hashing
-Cryptographic signing
 Cub Linux
 CyanogenMod
-DARPA
 Damn Small Linux
 Damn Vulnerable Linux
-Dark web
-Das Erste
 Debian
-Deep web
 Deepin
 DemoLinux
-Der Spiegel
 Devuan
-Digital footprint
-DistroWatch
 DivestOS
 DoudouLinux
-Dpkg
 Dreamlinux
 EMUI
 Edubuntu
 Edward Snowden
-Electronic Frontier Foundation
 Elementary OS
 Elive
 Emmabuntüs
@@ -97,49 +70,32 @@ Facebook
 Familiar Linux
 Feather Linux
 Fedora Linux
-File sharing
 Fire OS
 Firefox OS
-Firmware
 Floppyfw
 Foresight Linux
-Free Haven Project
 FreedomBox
-Freedom of information
-Freedom of the Press Foundation
 Freespire
 Frugalware Linux
-GNOME
-GNOME 3
 GNU
 GNU General Public License
 GNU Guix System
-GNU Privacy Guard
 GNewSense
 GOS (operating system)
-Gabriella Coleman
 Garuda Linux
 GeckoLinux
 Gentoo Linux
 Glenn Greenwald
-GlobaLeaks
 GoboLinux
 Gobuntu
 GrapheneOS
 Graphical user interface
 HandyLinux
 Hard drive
-Hyperbola GNU/Linux-libre
-I2P
-Ian Goldberg
 Immunix
 Instant messaging
 Internet censorship
-Internet privacy
-Internet surveillance
 IodéOS
-J-CODE
-Jacob Appelbaum
 Jurix
 KDE neon
 KaOS
@@ -149,15 +105,12 @@ Kali Linux
 Kanotix
 KateOS
 Kernel (operating system)
-Knight Foundation
 Knoppix
 Kongoni (operating system)
 Korora (operating system)
 Kubuntu
 Kwort Linux
-LWN.net
 LXLE Linux
-Laura Poitras
 Libranet
 LinHES
 LineageOS
@@ -165,15 +118,12 @@ Linpus Linux
 Linux
 LinuxTLE
 Linux Caixa Mágica
-Linux Journal
 Linux Lite
 Linux Mint
 Linux Router Project
 Linux distribution
 Linux for PlayStation 2
 List of Linux distributions
-Live DVD
-Live USB
 Lubuntu
 MCC Interim Linux
 MIUI
@@ -183,19 +133,11 @@ Mandrake Linux
 Mandriva Linux
 Manjaro
 Massachusetts Institute of Technology
-Matt Blaze
 MeeGo
-Megan Price
 Mer (software distribution)
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Mozilla
-Mozilla Foundation
-Musix GNU+Linux
-NSA
-National Science Foundation
-National Security Agency
 Natural language
 Network Security Toolkit
 NimbleX
@@ -203,67 +145,43 @@ Nitix
 NixOS
 Nobara Linux
 Nova (operating system)
-Off-the-record messaging
-Office of Naval Research
 OmniROM
 One UI
-Onion routing
 Open-source software
 OpenELEC
 OpenMandriva Lx
 OpenSUSE
 Open Enterprise Server
-Open Technology Fund
 Operating system
-Operation Bayonet (darknet)
-Operation Dark Huntor
-Operation Lobos 1
-Operation Onymous
-Operation Pacifier
-Operation Torpedo
 Oracle Linux
-Orbot
 PCLinuxOS
 Package manager
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
-Peer-to-peer web hosting
 Pentoo
 Peppermint OS
 Personal computer
 Pinguy OS
-PirateBrowser
 PixelExperience
 Platypux
 Pop! OS
 Porteus (operating system)
 Programmer
-Project Habitance
-Proxifier
-Proxy server
-Pseudo-top-level domain
 Puppy Linux
 PureOS
 Q4OS
 Qubes OS
 ROSA Linux
-Random access memory
 Raspberry Pi OS
 Red Hat Enterprise Linux
 Red Hat Linux
 Red Star OS
 Remix OS
 Replicant (operating system)
-Repository (version control)
 Resurrection Remix OS
-Ricochet (software)
 Rocks Cluster Distribution
 Rocky Linux
-Roger Dingledine
-SRI International
-SSD
 SUSE Linux
 SUSE Linux Enterprise
 SUSE Studio
@@ -272,11 +190,8 @@ Sabily
 Sailfish OS
 Salix OS
 Scientific Linux
-Security-focused operating system
-Signal (messaging app)
 Slackware
 Slax
-Snowflake (software)
 Softlanding Linux System
 Software license
 Software release life cycle
@@ -288,31 +203,16 @@ SparkyLinux
 Splashtop OS
 SteamOS
 Sunwah Linux
-Swedish International Development Cooperation Agency
 SystemRescue
 T2 SDE
-TecChannel
 TechCrunch
-The H
-The Tor Project, Inc
 Think Blue Linux
 Tiny Core Linux
 Tizen
 TopologiLinux
-Tor2web
-TorChat
-Tor (anonymity network)
-Tor (network)
-Tor Browser
-Tor Browser Bundle
-Tor Phone
-Tor Project
-Tribler
 Trisquel
 Turbolinux
 Turkix
-U.S. Agency for Global Media
-UBlock Origin
 Ubuntu
 Ubuntu Budgie
 Ubuntu Cinnamon
@@ -323,32 +223,20 @@ Ubuntu Studio
 Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
-United States Department of Defense
 United States Department of State
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 User interface
 User space and kernel space
 VectorLinux
 Vice (magazine)
-Vidalia (software)
 Vine Linux
 Virtual machine
 Void Linux
-Vuze
 Web browser
-Wendy Seltzer
 Whonix
-Wireless onion router
 Wubuntu
-X86-64
-XB Browser
 XB Machine
-XKeyscore
 Xubuntu
 Yellow Dog Linux
 Zenwalk
-Zero-day vulnerability
-ZeroNet
 Zorin OS

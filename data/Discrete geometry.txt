@@ -1,36 +1,15 @@
-4-polytope
 Abstract algebra
-Abstract polytope
-Abstract simplicial complex
-Affine plane (incidence geometry)
-Alexander Lubotzky
 Algebra
 Algebraic geometry
 Algebraic number theory
 Algebraic topology
-Analysis on fractals
 Analytic geometry
 Analytic number theory
-Apeirotope
-Aperiodic tiling
 Applied mathematics
 Arithmetic
 Arithmetic geometry
-Armand Borel
-Arrangement of hyperplanes
-Arrangement of lines
-Augustin-Louis Cauchy
-Axel Thue
-Borsuk-Ulam theorem
-Building (mathematics)
 Calculus
 Category theory
-Cauchy's theorem (geometry)
-Circle
-Circle packing
-Combinatorial geometry
-Combinatorial optimization
-Combinatorial topology
 Combinatorics
 Commutative algebra
 Complex analysis
@@ -40,112 +19,51 @@ Computational mathematics
 Computer algebra
 Computer graphics
 Computer science
-Configuration (geometry)
 Control theory
-Convex geometry
-Convex lattice polytope
-Cycle graph
-Delaunay triangulation
 Differential equation
 Differential geometry
 Differential topology
-Digital data
-Digital geometry
-Digitizing
-Dimension
 Diophantine geometry
-Directed graph
-Discrete Laplace operator
-Discrete Morse theory
-Discrete and Computational Geometry
-Discrete calculus
-Discrete differential geometry
-Discrete exterior calculus
 Discrete group
 Discrete mathematics
-Discrete space
-Discrete subgroup
-Discrete topology
 Edge (graph theory)
-Ehrhart polynomial
 Elementary algebra
 Engineering mathematics
 Ernst Steinitz
 Euclidean geometry
-Euclidean space
-Fair division
-Fano plane
 Field (mathematics)
 Finite geometry
 Finite set
-Finite subdivision rule
-Flexible polyhedron
 Foundations of mathematics
-Four colour theorem
 Functional analysis
 Future of mathematics
 Game theory
 General topology
-Geometric graph theory
 Geometric topology
 Geometry
-Geometry of numbers
-George Mostow
 Glossary of mathematical symbols
 Graph (discrete mathematics)
-Graph drawing
 Graph theory
-Grigory Margulis
 Group (mathematics)
 Group theory
-Hadwiger
-Harish-Chandra
 Harmonic analysis
-Harold Scott MacDonald Coxeter
 Hinge
-Hirsch conjecture
 History of mathematics
 Homological algebra
 Homotopy theory
-Horst Martini
-Hyman Bass
-Hyperbolic space
 Hypercomplex analysis
-Hypersphere
 ISBN (identifier)
-Image
-Image analysis
-Imre Bárány
-Incidence (geometry)
-Incidence structure
 Informal mathematics
 Information theory
 Integer
 Intersection (set theory)
-Invariant measure
-Jacob E. Goodman
-Johannes Kepler
-János Pach
-Kepler conjecture
-Kneser graph
-Károly Bezdek
 Lattice (group)
 Lie group
 Line (geometry)
-Line segment
 Linear algebra
-Linear independence
-Linear optimization
-Linkage (mechanical)
 List of films about mathematicians
-List of mathematicians
 Lists of mathematics topics
-Local field
-Locally compact
-László Fejes Tóth
 László Lovász
-M. S. Raghunathan
-Manifold
 Mathematical analysis
 Mathematical and theoretical biology
 Mathematical chemistry
@@ -157,94 +75,33 @@ Mathematical physics
 Mathematical psychology
 Mathematical sociology
 Mathematical statistics
-Mathematical structure
-Mathematicians
 Mathematics
 Mathematics and art
 Mathematics education
-Matroid
 Measure (mathematics)
 Mesh
-Metric space
 Multilinear algebra
-Möbius plane
-Nilpotent group
 Non-Euclidean geometry
 Number theory
 Numerical analysis
-Opaque set
 Operations research
 Order theory
-Ordered field
-Ordered vector space
-Oriented matroid
-Packing problem
-Paul Erdős
-Periodic graph (geometry)
-Peter M. Gruber
 Philosophy of mathematics
-Pick's theorem
-Plane (geometry)
 Plane (mathematics)
-Point (geometry)
-Polygon
-Polyhedra
-Polyhedral combinatorics
-Polyhedral graph
-Polyhedron
-Polytope
 Probability theory
-Projective configuration
-Projective plane
-Quasicrystal
-Quotient space (topology)
-Random geometric graph
 Raster graphics
-Rational number
 Real analysis
-Real numbers
 Recreational mathematics
-Reflection group
-Regular map (graph theory)
-Relative topology
-Rigid body
-Robert Zimmer (mathematician)
-Rockafellar
 Scale model
-Semisimple algebraic group
 Set (mathematics)
 Set theory
-Simple matroid
-Simplex
-Simplicial complex
-Simplicial complexes
-Simplicial set
-Skeleton (topology)
-Spectral shape analysis
-Sperner's lemma
 Sphere
-Sphere packing
 Statistics
-Structural rigidity
-Subgroup
 Systems science
-Tessellation
 Theory of computation
 Timeline of mathematics
-Topological combinatorics
-Topological group
 Topological space
 Topology
-Toric geometry
-Triangle
-Triangle group
-Tsuneo Tamagawa
 Type theory
-Unit disk graph
 Universal algebra
 Vector space
-Vertex (graph theory)
-Vietoris–Rips complex
-Visibility graphs
-Vladimir Boltyanski
-Voronoi diagram

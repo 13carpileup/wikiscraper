@@ -2,63 +2,31 @@ E-commerce
 Electronic voting
 World Wide Web
 Computer accessibility
-Embedded software
 Quantum Computing
 Bytecode
 Graphics processing unit
 Computer vision
-Personal software process
 Continuous integration
-Off-by-one error
 Race condition
 Distributed artificial intelligence
 Round-trip engineering
 Information retrieval
 Documentation
-Ada Lovelace
-Software development methodology
-Code duplication
-Domain (software engineering)
 Unsupervised learning
 Statistics
-Big O notation
-Scaled agile framework
-Behavior-driven development
-Object model
 Computer network
-Debugger
 Virtual machine
-Herman Hollerith
 Computational mathematics
-Binary numeral system
 Wayback Machine
-Allen Downey
 Flexibility (engineering)
 Capability Maturity Model Integration
-Analytical Engine
-Model-driven engineering
 Mathematical software
-Unified Process
-History of programming languages
-Domain-driven design
-Lean software development
-Infix notation
-Test automation
-Parsing
 Integrated development environment
 Semantics (computer science)
-Ergonomics
 Automata theory
 Model of computation
-Mathematics in medieval Islam
-Visual programming language
 List of system quality attributes
-Comparison of instruction set architectures
-Performance engineering
-Dynamic systems development method
 Risk management
-Code-breaking
-Outline of computer programming
 Project management
 ITIL
 Computational biology
@@ -67,248 +35,135 @@ Doi (identifier)
 Computational complexity
 Digital art
 Loose coupling
-Disciplined agile delivery
 Software framework
 Software testing
 Control theory
-Charles Babbage
 Human–computer interaction
-Software prototyping
 ACM Computing Classification System
 Software design
-Profiling (computer programming)
 Computational geometry
-Separation of presentation and content
 Mathematical optimization
 Hardware security
-Application-release automation
-Book of Ingenious Devices
 Concurrency (computer science)
-Site reliability engineering
-Shared library
 Virtual reality
-Plugboard
 Computer animation
-Logic programming
 Drum machine
-Extreme programming practices
-David Gries
-OOAD
-Extreme programming
 Software engineering
 Instruction set architecture
 Control variable (programming)
 Programming language theory
 Integrated circuit
 Library (computing)
-Paper tape
-Software documentation
 Social software
 Adaptability
-University of Sheffield
-Continuous delivery
 Python (programming language)
-Control flow
 Natural language processing
 Java (programming language)
 Green computing
 Artificial intelligence
-Source code editor
 Orthogonality (programming)
-Data model
 Interaction design
-Enterprise unified process
-Aspect-oriented programming
 Computational social science
-Artifact (software development)
 Foreign language
-High-level language
 COBOL
-Software system safety
 Information theory
-World Scientific
-Software verification and validation
 Computer graphics
-Metamodeling
 C++
 Machine learning
 Electronic publishing
-Glossary of artificial intelligence
-Computer programming in the punched card era
-Flute
 Computing
 Formal methods
-UML tool
 List of computer size categories
-Emacs
 Automated planning and scheduling
 Logic in computer science
 Middleware
 Software sizing
-Service-oriented architecture
-IBM 604
-Machine code
 User experience
 Systems analysis
-InformationWeek
-Model-Driven Architecture
-Kanban (development)
 Interpreter (computing)
 Networking hardware
 Digital library
-Universal Systems Language
 Software deployment
 Numerical analysis
-Cryptographic
-Stand-up meeting
 Central processing unit
-Scrum (software development)
 Lisp (programming language)
 Computational physics
-International Requirements Engineering Board
-Entity–relationship model
 Solid modeling
 Software portability
-Pair programming
 Data storage device
-Banu Musa
 Computer science
-Cleanroom software engineering
 Philosophy of artificial intelligence
 Algorithmic efficiency
 Computer hardware
-Program (machine)
 Information security
 Network architecture
 Database
-Stored-program computer
 Software project management
 Understandability
 Visualization (graphics)
 Programming language
-Grace Hopper
 Computer terminal
-Rational Unified Process
 Procedural programming
-Empirical software engineering
 Domain-specific language
 Vulnerability (computing)
-DevOps
 Hardware acceleration
-Software engineer
-Buffer overflow
-Memory leak
-Gerald Weinberg
 Application security
-Information model
-Executable UML
 Peripheral
-List of programming languages
-System integration
-Systems programming
-Unit record equipment
 Scalability
 Cross-validation (statistics)
 Cyberwarfare
 Software configuration management
-Deployment management
-Programming best practices
 Computerworld
-Build automation
-Use Case
 Cambridge University Press
-IEEE Standards Association
 Bibcode (identifier)
-Command line
-CI/CD
-Frequency analysis
 Distributed computing
 Enterprise information system
 Multithreading (computer architecture)
-Luigi Menabrea
-Jacquard loom
 Supervised learning
 Formal language
 Software quality
-Team software process
-A-0 System
-Structured analysis
 Correctness (computer science)
 Processor (computing)
 Software construction
-Indent style
 Component-based software engineering
-Compiled
-Automaton
-FORTRAN
 Logic
-Project Management Body of Knowledge
-Data modeling
 Enterprise software
 Educational technology
 Unified Modeling Language
-Ontology (information science)
 Iterative and incremental development
-Systems development life cycle
-Function model
 Photograph manipulation
 Concurrent computing
 Video game
 Graphical user interface builder
-Engineering design process
-Microsoft Solutions Framework
 Incremental build model
-Al-Jazari
 Network performance
 Embedded system
-SEMAT
 Al-Kindi
 Printed circuit board
 Data mining
-ISO 9001
 Essential systems analysis
-Temporary file
 Object Management Group
 Computational chemistry
 Modeling language
-Compatibility mode
-Comment (computer programming)
 Object-oriented programming
 ISBN (identifier)
-GDB
-Decomposition (computer science)
 Mathematical analysis
 Accuracy and precision
-IBM 402 Accounting Machine
-ISO/IEC JTC 1/SC 7
-Heuristic (computer science)
 Operations research
 System on a chip
-Organised Sound
 Software repository
-Breakpoint
 Mixed reality
 Multimedia database
-ISO/IEC 9126
 Analysis of algorithms
 Multiprocessing
-Outline of software development
-Acceptance test–driven development
-Fitness function
-Rapid application development
 Computer program
 Network security
 Word processor
 Security service (telecommunication)
 Multi-task learning
-Functional programming
 PMC (identifier)
 Electronic design automation
-Electronic computer
-Specification by example
 Test-driven development
-IBM 602
-Maurice V. Wilkes
 Maintainability
 Network service
 Network scheduler
@@ -316,129 +171,84 @@ Software quality control
 Reinforcement learning
 Information science
 Software bug
-Text editor
 Randomized algorithm
 Parallel computing
-Compatibility layer
 Software archaeology
-High-level programming language
 Information system
 Systems engineering
-Competitive programming
 Programming paradigm
 Geographic information system
 Computer engineering
-Glossary of computer science
 Form factor (design)
 Software quality management
-Software incompatibility
-Social software engineering
 Non-functional requirement
 Enterprise architecture
-Debugging
 Computer architecture
-Specification
 Computer compatibility
-Feature-driven development
 Assembly language
 Algorithm
 Backward compatibility
 Health informatics
-Cam (mechanism)
-View model
 Knowledge representation and reasoning
 Agile software development
 Usability
 Computability theory
-Systems modeling
 Stochastic computing
-Adaptive software development
 Software maintenance
 Source code
-Punched card sorter
 Discrete mathematics
 Reusability
 Reliability engineering
-Static code analysis
-Fortran
 Algorithm design
 Computing platform
 Programming team
-Spiral model
-Programming style
-Bottleneck (software)
 Programming tool
-Card stock
 Computational engineering
-V-model (software development)
-Music sequencer
-Systems modeling language
 Software development
 Software
-Software development security
 Computer
 Document management system
 Network protocol
-Software architecture
 Very Large Scale Integration
 Computer security
 Theory of computation
 Outline of computer science
-Model-driven development
 ISSN (identifier)
 Robustness (computer science)
-Bernoulli numbers
-IDEF
 JSTOR (identifier)
 Programmer
 Glossary of electrical and electronics engineering
 Edsger W. Dijkstra
-Naming conventions (programming)
 Cryptanalysis
 Rendering (computer graphics)
-Argument (computer science)
 Decision support system
 Theoretical computer science
 Open-source software
 Security hacker
 Cryptography
-Search-based software engineering
 C (programming language)
 S2CID (identifier)
-Code refactoring
 PMID (identifier)
 Software testability
 Operating system
 Digital marketing
-Readability
 Computer data storage
 Process control
 Requirements analysis
-Software system
 Software quality assurance
 Compiler construction
 Real-time computing
-Experimental software engineering
-Noel Sharkey
 Waterfall model
 Computer memory
-Entity-Relationship Model
 Requirements engineering
-Code smell
 Ubiquitous computing
-Forward compatibility
 Image compression
 Software development process
 Mainframe computer
-Functional specification
-Punched card
 Social computing
 Scripting language
 Computational complexity theory
-Software Engineering Body of Knowledge
-ISO/IEC 15504
 Dependability
 Abstraction (computer science)
 Probability
 Intrusion detection system
-Infrastructure as code

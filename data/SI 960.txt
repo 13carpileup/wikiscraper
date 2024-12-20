@@ -17,14 +17,11 @@ ARIB STD B24 character set
 ASCII
 ASMO 449
 ATASCII
-Acknowledge character
 Aleph
 Ampersand
-Amstrad CP/M Plus character set
 Amstrad CPC character set
 Apostrophe
 Apple II character set
-Apple Macintosh
 ArmSCII
 Asterisk
 Atari ST character set
@@ -40,7 +37,6 @@ Big5
 Binary Ordered Compression for Unicode
 Bitstream International Character Set
 BraSCII
-Braces (punctuation)
 C
 C0 and C1 control codes
 CCSID
@@ -62,8 +58,6 @@ Chinese Character Code for Information Interchange
 Chinese telegraph code
 Circumflex
 Code page
-Code page 100
-Code page 10005
 Code page 1006
 Code page 1008
 Code page 1009
@@ -79,21 +73,11 @@ Code page 1019
 Code page 1020
 Code page 1021
 Code page 1023
-Code page 1028
-Code page 1034
 Code page 1040
 Code page 1042
 Code page 1043
-Code page 1044
 Code page 1046
-Code page 1052
-Code page 1053
-Code page 1054
-Code page 1055
-Code page 1056
 Code page 1058
-Code page 1082
-Code page 1083
 Code page 1098
 Code page 1101
 Code page 1102
@@ -110,12 +94,9 @@ Code page 1124
 Code page 1127
 Code page 1133
 Code page 1169
-Code page 1255
 Code page 1287
 Code page 1288
-Code page 28598
 Code page 3846
-Code page 38598
 Code page 437
 Code page 668
 Code page 708
@@ -134,7 +115,6 @@ Code page 853
 Code page 855
 Code page 856
 Code page 857
-Code page 858
 Code page 859
 Code page 860
 Code page 861
@@ -151,10 +131,8 @@ Code page 896
 Code page 897
 Code page 899
 Code page 903
-Code page 904
 Code page 912
 Code page 915
-Code page 916
 Code page 921
 Code page 922
 Code page 932 (IBM)
@@ -175,9 +153,6 @@ Cooke and Wheatstone telegraph
 Cork encoding
 D
 DEC Hebrew
-DEC Hebrew (7-bit)
-DEC Hebrew (8-bit)
-DEC National Replacement Character Set
 DEC RADIX 50
 DEC Special Graphics
 DEC Technical Character Set
@@ -187,22 +162,12 @@ DIN 91379
 DKOI
 DOS
 Dalet
-Data link escape
-Device Control 1
-Device Control 2
-Device Control 3
-Device Control 4
 Digital Equipment Corporation
 Digital encoding of APL symbols
 Dollar sign
 E
 EBCDIC
-ECMA-121
 ELOT 927
-End of medium
-End of text
-End of transmission block
-End of transmission character
 Enquiry character
 Equal sign
 Escape character
@@ -212,8 +177,6 @@ Extended Unix Code
 F
 FOCAL character set
 Fieldata
-File separator
-Form feed
 Full stop
 G
 GBK (character encoding)
@@ -227,7 +190,6 @@ GSM 03.38
 Galaksija (computer)
 Gimel
 Greater-than sign
-Group separator
 H
 HP Roman
 HZ (character encoding)
@@ -236,17 +198,13 @@ Hardware code page
 He (letter)
 Hebrew
 Hebrew alphabet
-Hebrew script
 Heth
 Hong Kong Supplementary Character Set
 I
 IBM AIX
-IEC-P27-1
 INIS-8
 INIS character set
 ISBN (identifier)
-ISO-8859-8
-ISO-8859-8-E
 ISO-8859-8-I
 ISO-IR-111
 ISO-IR-169
@@ -254,40 +212,15 @@ ISO-IR-182
 ISO-IR-197
 ISO-IR-200
 ISO-IR-68
-ISO/IEC
-ISO/IEC 10367
-ISO/IEC 10646
-ISO/IEC 2022
-ISO/IEC 646
-ISO/IEC 8859
-ISO/IEC 8859-1
-ISO/IEC 8859-10
-ISO/IEC 8859-11
-ISO/IEC 8859-12
-ISO/IEC 8859-13
-ISO/IEC 8859-14
-ISO/IEC 8859-15
-ISO/IEC 8859-16
-ISO/IEC 8859-2
-ISO/IEC 8859-3
-ISO/IEC 8859-4
-ISO/IEC 8859-5
-ISO/IEC 8859-6
-ISO/IEC 8859-7
-ISO/IEC 8859-8
-ISO/IEC 8859-9
 ISO 2033
 ISO 5426
 ISO 5427
 ISO 5428
 ISO 6438
 ISO 6862
-ISO 8859-8
 ITU T.61
 Indian Script Code for Information Interchange
-Intecolor/Compucolor 8001 character set
 Iran System encoding
-Israeli Standards Institute
 J
 JIS X 0201
 JIS X 0208
@@ -308,13 +241,11 @@ Kamenický encoding
 Kaph
 Kermit (protocol)
 L
-LMBCS-3
 LST 1564
 LST 1590-4
 LY1 encoding
 Lamedh
 Less-than sign
-Line feed
 Lotus International Character Set
 Lotus Multi-Byte Character Set
 M
@@ -339,7 +270,6 @@ Mac OS Hebrew
 Mac OS Icelandic encoding
 Mac OS Inuit
 Mac OS Keyboard encoding
-Mac OS Maltese/Esperanto encoding
 Mac OS Ogham
 Mac OS Roman
 Mac OS Romanian encoding
@@ -348,7 +278,6 @@ Mac OS Turkic Cyrillic
 Mac OS Turkish encoding
 Mac OS Ukrainian encoding
 Macintosh Font X encoding
-Macintosh Hebrew encoding
 Macintosh Latin encoding
 Magnetic ink character recognition
 Mazovia encoding
@@ -363,7 +292,6 @@ N
 NEC APC character set
 National Replacement Character Set
 NeXT character set
-Negative acknowledge character
 Null character
 Number sign
 Nun (letter)
@@ -373,8 +301,6 @@ OMS encoding
 OT1 encoding
 P
 PETSCII
-Parenthesis
-Pe (Semitic letter)
 Percent sign
 Perso-Arabic Script Code for Information Interchange
 Plus and minus signs
@@ -382,59 +308,42 @@ PostScript Latin 1 Encoding
 PostScript Standard Encoding
 Prosigns for Morse code
 Q
-Qoph
 Question mark
 Quotation mark
 R
 RISC OS character set
 RPL character set
-Record separator
-Resh
 Russian Morse code
 S
-SAM Coupé character set
-SI 1311
 SQUOZE
-Samekh
 Sega SC-3000 character set
 Semicolon
 Sharp MZ character set
 Sharp pocket computer character sets
 Shift JIS
-Shift in
-Shift out
-Shin (letter)
 Sinclair QL character set
 Slash (punctuation)
 Space character
-Square bracket
 Standard Compression Scheme for Unicode
-Stanford/ITS character set
 Stanford Extended ASCII
 Start of heading
 Start of text
 Substitute character
 Symbol (typeface)
-Synchronous idle
 T
-T.51/ISO/IEC 6937
 TI calculator character sets
 TRON (encoding)
 TRS-80 character set
-Tab key
 Tamil All Character Encoding
 Tamil Script Code for Information Interchange
-Taw
 TeX
 Telegraph code
 Teletex
 Teletext
 Teletext character set
-Teth
 Thai Industrial Standard 620-2533
 Tilde
 Transcode (character encoding)
-Tsade
 U
 UTF-1
 UTF-16
@@ -446,7 +355,6 @@ Underscore
 Unicode
 Unicode control characters
 Unified Hangul Code
-Unit separator
 Universal Coded Character Set
 V
 VISCII
@@ -456,13 +364,11 @@ VT220
 Variable-width encoding
 Ventura International
 Vertical bar
-Vertical tab
 Videotex
 Videotex character set
 W
 Wabun code
 Wang International Standard Code for Information Interchange
-Waw (letter)
 Whitespace character
 Windows-1250
 Windows-1251
@@ -474,9 +380,6 @@ Windows-1256
 Windows-1257
 Windows-1258
 Windows-1270
-Windows Cyrillic + Finnish
-Windows Cyrillic + French
-Windows Cyrillic + German
 Windows Polytonic Greek
 Windows code page
 World System Teletext
@@ -484,9 +387,7 @@ X
 Xerox Character Code Standard
 Y
 YUSCII
-Yodh
 Z
 ZX80 character set
 ZX81 character set
 ZX Spectrum character set
-Zayin

@@ -1,11 +1,8 @@
-Abraham Robinson
 Abstract logic
 Ackermann set theory
 Aleph number
 Algebraic logic
-Algebraically closed
 Alphabet (formal languages)
-Anatoly Maltsev
 Argument
 Arity
 Atomic formula
@@ -16,34 +13,26 @@ Axiom
 Axiom of choice
 Axiom schema
 Axiomatic system
-Axiomatization of Boolean algebras
-Ax–Grothendieck theorem
 Banach–Tarski paradox
-Barwise compactness theorem
 Bijection
 Binary operation
 Boolean algebra
 Boolean algebras canonically defined
 Boolean function
-Boolean prime ideal theorem
 Cantor's diagonal argument
 Cantor's paradox
 Cantor's theorem
-Cardinal number
 Cardinality
 Cartesian product
 Categorical theory
 Category (mathematics)
 Category of sets
 Category theory
-Characteristic (algebra)
 Church encoding
 Church–Turing thesis
 Class (set theory)
 Classical logic
-Closed set
 Codomain
-Compact space
 Complement (set theory)
 Complete theory
 Complex number
@@ -61,11 +50,9 @@ Continuum hypothesis
 Countable set
 Decidability (logic)
 Decision problem
-Deductive system
 Diagram (mathematical logic)
 Doi (identifier)
 Domain of a function
-Effective method
 Element (mathematics)
 Elementary diagram
 Elementary equivalence
@@ -82,20 +69,16 @@ Extension by definitions
 Extension by new constant and function names
 Extensionality
 Field (mathematics)
-Filter (set theory)
 Finitary relation
 Finite-valued logic
-Finite intersection property
 Finite model theory
 Finite set
 First-order logic
-First-order predicate calculus
 Fixed-point logic
 Forcing (mathematics)
 Formal grammar
 Formal language
 Formal proof
-Formal semantics (logic)
 Formal system
 Formation rule
 Foundations of geometry
@@ -109,20 +92,15 @@ General set theory
 Graduate Texts in Mathematics
 Grothendieck universe
 Ground expression
-Ground formula
 Gödel's completeness theorem
 Gödel's incompleteness theorems
 Gödel numbering
 Halting problem
-Herbrand's theorem
 Hereditary set
 Higher-order logic
 Hilbert's axioms
 Hilbert system
 History of logic
-History of mathematical logic
-Howard Jerome Keisler
-Hyperreal number
 ISBN (identifier)
 ISSN (identifier)
 Image (mathematics)
@@ -134,26 +112,17 @@ Infinite set
 Information theory
 Inhabited set
 Injective function
-Injective map
-Internet Encyclopedia of Philosophy
 Interpretation (logic)
 Interpretation (model theory)
-Interpretation function
 Intersection (set theory)
 Isomorphism
 JSTOR (identifier)
-John Truss
 Kolmogorov complexity
-Kripke's theory of truth
 Kripke–Platek set theory
-Kurt Gödel
 Lambda calculus
 Large cardinal
-Lefschetz principle
 Lemma (mathematics)
 Lindström's theorem
-List of Boolean algebra topics
-List of Hilbert systems
 List of axioms
 List of first-order theories
 List of formal systems
@@ -180,7 +149,6 @@ Mathematical object
 Mathematical proof
 Metalanguage
 Minimal axioms for Boolean algebra
-Model (model theory)
 Model complete theory
 Model theory
 Monadic predicate calculus
@@ -193,7 +161,6 @@ Negation
 New Foundations
 Non-Euclidean geometry
 Non-logical symbol
-Non-standard analysis
 Non-standard model
 Non-standard model of arithmetic
 OCLC (identifier)
@@ -205,18 +172,15 @@ P (complexity)
 P versus NP problem
 Paradoxes of set theory
 Partition of a set
-Peano arithmetic
 Peano axioms
 Philosophy of mathematics
 Polynomial
 Power set
 Predicate (mathematical logic)
-Predicate logic
 Predicate variable
 Primitive recursive arithmetic
 Primitive recursive function
 Principia Mathematica
-Product topology
 Proof of impossibility
 Proof theory
 Proposition
@@ -226,13 +190,9 @@ Propositional variable
 Quantifier (logic)
 Quantifier rank
 Recursion
-Recursive set
 Relation (mathematics)
 Reverse mathematics
 Ring (mathematics)
-Robert Goldblatt
-Robert Lawson Vaught
-Robinson's principle
 Robinson arithmetic
 Rule of inference
 Russell's paradox
@@ -256,30 +216,24 @@ Soundness
 Spectrum of a sentence
 Spectrum of a theory
 Square of opposition
-Stone space
 Strength (mathematical logic)
-String (formal languages)
 Structure (mathematical logic)
-Subset
 Substitution (logic)
 Substructure (mathematics)
 Supertask
 Surjective function
-Surjective map
 Syllogism
 Symbol (formal)
 Syntax (logic)
 T-schema
 Tarski's axiomatization of the reals
 Tarski's axioms
-Tarski's theory of truth
 Tarski's undefinability theorem
 Tarski–Grothendieck set theory
 Tautology (logic)
 Term (logic)
 Term logic
 Theorem
-Theories of truth
 Theory (mathematical logic)
 Three-valued logic
 Timeline of mathematical logic
@@ -291,10 +245,8 @@ Truth predicate
 Truth table
 Truth value
 Turing machine
-Tychonoff's theorem
 Type (model theory)
 Type theory
-Ultrafilter (set theory)
 Ultraproduct
 Uncountable set
 Undecidable problem
@@ -304,7 +256,6 @@ Uniqueness quantification
 Universal quantification
 Universal set
 Universe (mathematics)
-Upward Löwenheim–Skolem theorem
 Urelement
 Validity (logic)
 Variable (mathematics)
@@ -312,5 +263,4 @@ Venn diagram
 Von Neumann universe
 Von Neumann–Bernays–Gödel set theory
 Well-formed formula
-Wilfrid Hodges
 Zermelo–Fraenkel set theory

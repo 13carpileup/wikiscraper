@@ -15,14 +15,12 @@ Software portability
 Software testing
 Software sizing
 Reusability
-Program specification
 Software testability
 Understandability
 Program derivation
 Communications of the ACM
 Doi (identifier)
 Lambda calculus
-Deep result
 Software quality assurance
 Software quality management
 Non-functional requirement
@@ -30,7 +28,6 @@ Algorithm
 Acta Informatica
 Orthogonality (programming)
 Curry–Howard correspondence
-Termination proof
 Hoare logic
 Theoretical computer science
 S2CID (identifier)
@@ -44,16 +41,10 @@ Number theory
 Computer programming
 Formal verification
 Undecidable problem
-Constructive logic
-C.A.R. Hoare
 Usability
 C (programming language)
 Reliability engineering
 Flexibility (engineering)
 Adaptability
-Software system safety
-ISO/IEC 9126
 List of system quality attributes
 Integer
-CiteSeerX (identifier)
-Software development security

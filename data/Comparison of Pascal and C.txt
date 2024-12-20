@@ -1,36 +1,20 @@
-ACM Queue
-ALGOL
-ALGOL 58
 ALGOL 60
-ALGOL 68
-ALGOL W
 ANSI C
 API
-Ada (programming language)
 Alef (programming language)
 Amsterdam Compiler Kit
 Anjuta
 Anonymous function
 Apple Pascal
-Array data type
-Assignment (computer science)
-BCPL
 B (programming language)
 Bionic (software)
 Bitwise operation
-Boolean data type
-Borland Kylix
-Borland Turbo C
-Bounds checking
-Brian Kernighan
 Byte
 C++
 C11 (C standard revision)
 C17 (C standard revision)
 C23 (C standard revision)
 C99
-CLion
-CPL (programming language)
 C (programming language)
 C POSIX library
 C Sharp (programming language)
@@ -38,179 +22,62 @@ C character classification
 C data types
 C date and time functions
 C dynamic memory allocation
-C file input/output
 C mathematical functions
 C preprocessor
 C standard library
 C string handling
 C syntax
 Clang
-Clascal
 CodeLite
-Comment (computer programming)
-Comparison of ALGOL 68 and C++
-Comparison of C Sharp and Java
-Comparison of C Sharp and Visual Basic .NET
-Comparison of Java and C++
-Comparison of Object Pascal and C
-Comparison of Pascal and Delphi
-Comparison of Visual Basic and Visual Basic .NET
-Comparison of programming languages
-Comparison of programming languages (algebraic data type)
-Comparison of programming languages (array)
-Comparison of programming languages (associative arrays)
-Comparison of programming languages (basic instructions)
-Comparison of programming languages (functional instructions)
-Comparison of programming languages (higher-order functions)
-Comparison of programming languages (list comprehension)
 Comparison of programming languages (object-oriented programming)
-Comparison of programming languages (operators)
-Comparison of programming languages (string functions)
-Comparison of programming languages (strings)
-Comparison of programming languages (syntax)
-Comparison of programming languages by type system
-Comparison of programming languages with dependent types
-Compatibility of C and C++
 Compiler
-Component Library for Cross Platform
-Component Pascal
-Concurrent Pascal
-Constructor (object-oriented programming)
 D (programming language)
 Data type
-Delphi (programming language)
-Delphi (software)
 Dennis Ritchie
 Dietlibc
-Do while loop
 Doi (identifier)
-Dynamic memory allocation
 Eclipse (software)
 Embedded C
-Embedded GLIBC
-Endianness
-Enumerated type
 Enumeration
-Evaluation strategy
-Exception handling syntax
-FORTRAN
-Filter (higher-order function)
-FireMonkey
-Floating point
-Fold (higher-order function)
 For loop
-Foreach loop
 FreeBSD
-Free Component Library
-Free Pascal
-Free Pascal Runtime Library
-Function pointer
 GNOME Builder
 GNU Compiler Collection
-GNU Pascal
 Geany
-Generator (computer programming)
-Generic programming
 Glibc
 Go (programming language)
-History of Delphi (software)
-Hybris (software)
-IP Pascal
 ISBN (identifier)
 ISSN (identifier)
 Include directive
 Integer
 Integrated development environment
-Intel C++ Compiler
-JRT Pascal
 Java (programming language)
-Joyce (programming language)
 KDevelop
-Kathleen Jensen
 Klibc
 LCC (compiler)
-Lazarus (software)
-Lazarus Component Library
 Limbo (programming language)
-List of C compilers
 MISRA C
 Macro (computer science)
-Map (higher-order function)
-Microcomputer
-Microsoft Pascal
 Microsoft Visual C++
 Microsoft Visual Studio Express
 Microsoft Windows library files
-Modula-2
-Modula-3
-Modulo operation
 Musl
-Nested function
 NetBeans
 Newlib
-Niklaus Wirth
 Norcroft C compiler
-Null-terminated string
-Null coalescing operator
-Oberon-2
-Oberon (programming language)
-Object Pascal
-Object Windows Library
-Object code
-Object composition
 Objective-C
-OpenWire (library)
-Operator (programming)
-Operators in C and C++
-Ordinal data type
-Oxygene (programming language)
-Parsing
-Pascal/MT+
-PascalABC.NET
 Pascal (programming language)
-Pascal MicroEngine
-Pascal Script
-Pic Micro Pascal
-Pointer (computer programming)
 Portable C Compiler
 Porting
-Poul-Henning Kamp
-Preprocessor
 Programming language
-Programming language syntax
-Reserved word
 Rounding
 S2CID (identifier)
-Safe navigation operator
 Scope (computer science)
 Semicolon
-Sentinel value
-Setjmp/longjmp
-Signedness
-Sizeof
 Small Device C Compiler
 Stdarg.h
 String (computer science)
-String literal
-Structured programming
-Subroutine
-SuperPascal
-Tagged union
-Ternary conditional operator
-The C Programming Language
 Tiny C Compiler
-Truncation
-Turbo51
-Turbo Pascal
-Turbo Vision
-Typedef
-UCSD Pascal
 UClibc
 Vala (programming language)
-Variadic function
-Virtual Pascal
-Visual Component Library
 Visual Studio
-Void type
-Watcom C/C++
-While loop

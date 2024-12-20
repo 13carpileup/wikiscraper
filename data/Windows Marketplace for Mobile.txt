@@ -1,6 +1,3 @@
-.NET Compact Framework
-Acer DX900
-ActiveSync
 Allmyapps
 Amazon Appstore
 Amazon Digital Game Store
@@ -11,8 +8,6 @@ Aptoide
 Arcade video game
 Battle.net
 Big Fish Games
-Bing Maps
-Bing Mobile
 BlackBerry World
 Brand
 Cafe Bazaar
@@ -29,10 +24,8 @@ Digital distribution
 Digital distribution of video games
 Digital library
 Direct2Drive
-Direct Push
 Discord (software)
 Download!
-DreamSpark
 EA (service)
 Epic Games Store
 F-Droid
@@ -48,111 +41,51 @@ Game Jolt
 GamersGate
 Games for Windows Marketplace
 Gamesplanet
-Garmin Nüvifone
 GetJar
 Google Play
-HTC Advantage X7500
-HTC Excalibur
-HTC HD2
-HTC HD Mini
-HTC Max 4G
-HTC P4350
-HTC Phoebus
-HTC S710
-HTC S730
-HTC Startrek
-HTC Touch
-HTC Touch2
-HTC Touch 3G
-HTC Touch Cruise
-HTC Touch Diamond
-HTC Touch Diamond2
-HTC Touch Dual
-HTC Touch HD
-HTC Touch Pro
-HTC Touch Pro2
-HTC Touch Viva
-HTC TyTN
-HTC TyTN II
 Handango
-Handheld PC Explorer
 Huawei AppGallery
 Humble Store
-I-mate 810-F
 Impulse (software)
 IndieGala
 Inside Mac Games
 Intel AppUp
-Internet Explorer Mobile
 Itch.io
 KDE Gear
 Kartridge
 Kazaa
-LG Incite
-LG KS20
-LG eXpo
 List of Android app stores
-List of digital distribution platforms for mobile devices
 List of mobile app distribution platforms
 MSN Games
-MSN Mobile
 MacUpdate
 Mac App Store
 Meta Horizon Store
 MiKandi
 Microsoft
-Microsoft Device Emulator
-Microsoft Exchange Server
-Microsoft Office Mobile
-Microsoft Outlook
-Microsoft Silverlight
 Microsoft Store
-Microsoft Voice Command
 Microsoft XNA
-Microsoft mobile services
 Mobile World Congress
 Mobile device
-Mobile network operator
-Motorola A3100
-My Phone
 N-Gage (service)
 NESiCAxLive
 Nintendo eShop
 Nokia Store
 Nutaku
-O2 Xda
 Opera Mobile Store
 Operating system
-Outlook.com
 Over-the-air update
 Package manager
-Palm Treo Pro
 Personal computer
 PlayNow Arena
 PlayStation Store
 Playism
-Pocket PC 2000
-Pocket PC 2002
 Pogo.com
 Pokki
 Programmer
 Proprietary software
 PureOS
-Remote Desktop Services
 Robot Cache
 Rockstar Games Social Club
-SQL Server Compact
-Samsung B7300
-Samsung B7610
-Samsung GT-B7330
-Samsung SGH-i600
-Samsung SGH-i607
-Samsung SGH-i617
-Samsung SGH-i627
-Samsung SGH-i637
-Samsung SGH-i780
-Samsung SGH-i900
-Samsung i8000
 SlideME
 Smart TV
 Snap Store
@@ -160,12 +93,9 @@ Software
 Software categories
 Software distribution
 Software license
-Sony Ericsson Xperia X1
-Sony Ericsson Xperia X2
 Stardock Central
 Steam (service)
 TapTap
-Toshiba TG01
 Triton (content delivery)
 Ubisoft Connect
 Ubuntu App Store
@@ -178,20 +108,9 @@ Vodafone live!
 WeGame
 Wii Shop Channel
 WildTangent
-Windows Error Reporting
-Windows Live
 Windows Marketplace
-Windows Media Center
-Windows Media Player
 Windows Mobile
-Windows Mobile 2003
-Windows Mobile 5.0
-Windows Mobile 6.0
-Windows Mobile 6.1
-Windows Mobile 6.5
-Windows Mobile Device Center
 Windows Phone
-Windows Phone Marketplace
 Windows Phone Store
 Xbox Games Store
 Xbox Live Arcade

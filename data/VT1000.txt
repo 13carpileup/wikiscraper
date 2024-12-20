@@ -1,6 +1,4 @@
-10BASE2
 32-bit
-4K Disk Monitor System
 AdvFS
 Alpha 21064
 Alpha 21164
@@ -13,7 +11,6 @@ BIOS
 Bus (computing)
 CPU Wars
 CVAX
-Cathode ray tube
 Central processing unit
 Character encoding
 Code page 1287
@@ -24,7 +21,6 @@ Computer hardware
 Computer terminal
 DECUS
 DEC Alpha
-DEC BATCH-11/DOS-11
 DEC GT40
 DEC Hebrew
 DEC J-11
@@ -39,7 +35,6 @@ DEC V-11
 DECnet
 DECtalk
 DECtape
-DECwindows
 DECwriter
 DIBOL
 DIGITAL Command Language
@@ -47,24 +42,19 @@ Digital Equipment Corporation
 Digital Federal Credit Union
 Digital Linear Tape
 Digital Storage Systems Interconnect
-Digital UNIX
 Dynamic debugging technique
 Dynamically Redefined Character Set
-Electroluminescent display
 Ethernet
 FOCAL (programming language)
 FX!32
 Firefly (cache coherence protocol)
 Flip-Chip module
-Font
-GPU
 Gold key (DEC)
 Gordon Bell
 HP-Interex
 Hard drive
 Harlan Anderson
 IBM PC
-IMac
 Instruction set architecture
 Interactive Application System
 Ken Olsen
@@ -78,33 +68,24 @@ Maintenance Operations Protocol
 Mass Storage Control Protocol
 Massbus
 MicroVAX 78032
-Modified Modular Jack
-Modular connector
-Motorola 68000
 Multinational Character Set
 NVAX
 National Replacement Character Set
-OS/8
 On-line Debugging Tool
 OpenVMS
 Operating system
 PALcode
 PDP-11 architecture
 PDP-7
-Pizza box form factor
 Processor (computing)
 Programming language
 Q-Bus
 RA90
 RK05
 RL02
-RSTS/E
 RSX-11
-RSX-15
 RT-11
-Random access memory
 ReGIS
-Read only memory
 Record Management Services
 Rigel (microprocessor)
 Robert Palmer (computer businessman)
@@ -115,18 +96,11 @@ Star coupler
 StrongARM
 Synchronous Backplane Interconnect
 System Module
-System Reference Manual
-TCP/IP
-TD/SMP
-TMS34010
 TOPS-10
 TOPS-20
-TSS/8
 TU81
 TURBOchannel
-Terminal emulation
 Terminal emulator
-Texas Instruments
 The Ultimate Entrepreneur
 Ultrix
 Unibus
@@ -135,30 +109,13 @@ VAX
 VAXBI bus
 VAXELN
 VAX MACRO
-VAXstation
-VAXstation 2000
 VT05
 VT100
-VT101
-VT102
-VT103
-VT105
-VT131
 VT180
 VT220
-VT240
-VT241
 VT320
-VT330
-VT340
 VT420
-VT510
 VT52
 VT520
-VT525
-VT55
-VT62
 VT640
 WPS-8
-X11
-X Window System

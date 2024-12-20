@@ -1,48 +1,29 @@
 ISO 11992
-Mean
 International Standard Audiovisual Number
 ISO 2146
 ISO 31-6
 ISO 14644
-PDF/A
 ISO 9241
-ISO/TR 11941
 ISO 15924
-BLEU
-Measurements
 ISO 20121
 ISO 31-7
 IATF 16949
 ISO 11170
-ISO 7027
 MPEG-4 Part 11
 Kunrei-shiki romanization
 ISO 3307
-Phi coefficient
 ISO 31-5
-ISO/IEC 14443
 ISO 2709
-ISO/IEC 8859-16
-Augmented cognition
 ISO 8601
 DICOM
-ISO/IEC 15897
 ISO 10218
 COBOL
-ISO/IEC 27000-series
-Fuse (automotive)
-ISO/IEC 42010
 MP4 file format
 ISO 843
 ISO 7001
-Euclidean distance
-ISO/IEC 4909
-ISO/IEC 9126
 LCEVC
-Psychometrics
 International Standard Recording Code
 Graph Query Language
-ISO/IEC 8859-11
 ISO 9660
 Algorithmic efficiency
 Object Constraint Language
@@ -50,27 +31,17 @@ International Standard Music Number
 ISO 6346
 ISO 4
 MPEG-7
-ISO/IEC 8859-10
-ISO/IEC 8859-9
 ArXiv (identifier)
-Observational error
 Fiber Distributed Data Interface
 PHIGS
 ISO 13584
 Quality function deployment
 Document Style Semantics and Specification Language
-Cross-entropy
 International Standard Text Code
-Ranking (information retrieval)
-ISO/IEC 7812
 ISO 11784 and ISO 11785
 MPEG-4 Part 2
 ISO 5427
-ImageNet
-Intersection over union
-Random and systematic errors
 ISO 3166-3
-Coefficient of determination
 Computer programming
 ISO 2848
 ISO 2788
@@ -79,11 +50,8 @@ CHILL
 ISO 639-3
 ISO 2921
 Motion JPEG 2000
-Random
 ISO 639-1
 ISO 233
-Random errors
-Central tendency
 RELAX NG
 ISBN
 Open Virtualization Format
@@ -95,82 +63,58 @@ MPEG-H
 ISO 14698
 ISO 15686
 JPIP
-ISO/IEC 8859-4
 ISO 13490
 ISO metric screw thread
-PDF/X
 ISO 1
-ISO/IEC 2022
-Information quality
 ISO base media file format
-Discounted cumulative gain
 ISO 732
 ISO 8178
-ISO 31-9
 Cluster analysis
 ISO 5964
-ISO/IEC 11801
 ISO 10303-28
 Database
-ISO/IEC 9529
 HTML
 ISO 55000
-Median absolute deviation
 ISO 10303-21
 ISO 965
-Mean absolute scaled error
-ISO/IEC 38500
 Linux Standard Base
 PDF
 ISO 2711
 ISO 7736
 ISO 13567
-ISO 12006
 International Standard Atmosphere
-ISO/IEC 19752
 ISO 8691
 ECMAScript for XML
 ISO 13485
 ECMAScript
 Ada Semantic Interface Specification
 ISO 10628
-Bias of an estimator
 International Securities Identification Number
 ISO 7200
 ISO 5426
 Hazard symbol
 C++
-Experimental uncertainty analysis
 Reliability engineering
 ALGOL 60
-ISO/IEC 12207
 ISO 14617
 COLLADA
-ISO 31-13
 ISO 10962
 ISO 14971
 ISO 4157
 ISSN (identifier)
-ISO/IEC 20000
-Cosine similarity
-Measurement uncertainty
 ISO 15926 WIP
 Lexical Markup Framework
-Mean absolute percentage error
 ISO 2852
 ISO 25178
 MPEG-A
 ISO 3166
 Delivery Multimedia Integration Framework
 Meta-Object Facility
-Average
 ISO 2
-Observation
 ISO 11783
 Equal-loudness contour
 Prolog
 Process Specification Language
-Mean squared prediction error
 List of IEC standards
 ISO 18245
 Advanced Video Coding
@@ -179,27 +123,18 @@ Isofix
 ISO 16750
 ISO 5428
 National Institute of Standards and Technology
-Dunn index
 Magnetic ink character recognition
-Probability distribution
 ISO 15189
-Measurand
-False precision
 Hole punch
 ISO 704
-Engineering tolerance
 British Standard Pipe
 Han Xin code
 ISO 4165
 ISO 13406-2
 IS-IS
 OpenDocument
-ISO/IEC 15504
-ISO/IEC 6523
 ISO 15022
-ISO/IEC 8859-14
 ISO 6943
-ISO/IEC 7813
 Office Open XML
 ISO 9
 ISO 10303
@@ -207,7 +142,6 @@ ISO 9564
 ISO 22301
 MPEG-D
 ISO 19011
-Calibration
 ISO 19114
 ISO 10303-22
 ISO 20400
@@ -218,9 +152,7 @@ Pinyin
 ASMO 449
 Orthogonality (programming)
 Data quality
-ISO/IEC 10967
 JPEG XL
-ISO 31-12
 MPEG-G
 Business Process Model and Notation
 ISO-8859-8-I
@@ -228,28 +160,18 @@ ISO 21500
 Knowledge Discovery Metamodel
 Longitudinal redundancy check
 ISO 2145
-ISO/IEC 8652
 MPEG-4 Part 3
-ISO/IEC 8859-1
 Linguistic categories
-ISO/IEC 27001
-Pre- and post-test probability
 Hot shoe
 File Allocation Table
 ISO 639-5
 List of ISO standards
 ISO 259
-Mean squared error
-ISO/IEC 8859-8
 Manufacturing Message Specification
-ISO/IEC 7064
-PDF/UA
 ISO 860
 Natural language processing
-Bias-variance tradeoff
 ISO 17100
 Colloquial
-Mean absolute error
 Fuel oil
 ISO 657
 Pascal (programming language)
@@ -258,56 +180,34 @@ ISO 26000
 Numerical analysis
 JBIG
 Engineering
-Cohen's kappa
-Inception score
-ISO 19092-1
 ISO 2033
 Common Language Infrastructure
 Prontor-Compur
 ISO 31-8
-ISO/IEC 27005
-Jaccard index
 ISO 3103
-DIKW Pyramid
-ISO/IEC 646
 ISO 31000
-Perplexity
-ISO/IEC 27006
-ISO/IEC 19770
-ISO/IEC 17024
 Horsepower
 ISO 31-11
-ISO/IEC 8859
-PDF/VT
 MicroPDF417
 International Standard Identifier for Libraries and Related Organizations
-Computer Vision
 POSIX
-ISO/IEC 8859-13
 ISO 3864
 JPEG 2000
 Open Data Protocol
 ISO 10160
-Arithmetic mean
 ISO 6385
 ISO 10006
 Machine learning
 ISO 25964
 ISO 639
-P4-metric
 Common Logic
-ISO/IEC 19794-5
-ISO/IEC 18014
 ISO 898
 FTAM
-ISO 8373
 Guidelines for the Definition of Managed Objects
 ArmSCII
-ISO/IEC 8859-5
 ISO 1000
 OCLC (identifier)
 126 film
-ISO 9000
 Flowchart
 ISO 15926
 Digital object identifier
@@ -315,137 +215,81 @@ ISO 6438
 Full BASIC
 ANSI escape code
 International Standard Musical Work Code
-ISO/IEC 27000
 ISO 37001
 International Organization for Standardization
 RM-ODP
 Non-functional requirement
-Pearson correlation coefficient
 ISBN (identifier)
 ISO 56000
 International Bank Account Number
 ISO 22395
-Accepted and experimental value
 Market Identifier Code
-Davies–Bouldin index
-Regression analysis
 ANSI C
 ISO 31-3
 ISO 668
-ISO/IEC 8859-6
-ISO/IEC 8859-3
 ISO 6344
-ISO/IEC 8859-15
 110 film
 Legal Entity Identifier
 ISO 14224
-ISO 14000
 ISO 11940-2
 OCR-B
 MPEG-1
 ISO 13399
-Confusion matrix
 ISO 8000
 ISO 1629
 Kappa number
-Receiver operating characteristic
-Rand index
-ISO/IEC 8859-2
 Recommender system
-Logic simulation
 A440 (pitch standard)
-Coverage probability
-Language Of Temporal Ordering Specification
 ISO 15919
-OSI model
 ISO 6709
-Grouping (firearms)
 Doi (identifier)
-F-score
 MPEG-4
-ISO/IEC 8859-7
-Reliability (statistics)
-Ground truth
 Renard series
-ISO/IEC TR 12182
 ISO 31-0
-Central limit theorem
 Correctness (computer science)
 MaxiCode
-Quantity
 Graphical Kernel System
 JPEG XR
-Precision at k
 ISO 4217
-Mean reciprocal rank
-International Standard Serial Number
 ISO 7002
-ISO/IEC 9797-1
 ISO 8501-1
-ISO/IEC 80000
 Dynamic Adaptive Streaming over HTTP
 ISO 128
-Mean directional accuracy
-NDCG
-Electronic circuit simulation
 ISO 28000
-ISO 19092-2
 ISO 20022
 Measurement
 ISO 15398
 ISO 22300
-International Vocabulary of Metrology
-Independent variable
-ISO/IEC 10116
 List of system quality attributes
-ISO/IEC 14651
 ISO 31-1
 ISO 5775
 ISO 2015
 ISO 690
-ISO/IEC 7816
-Hopkins statistic
-Cronbach's alpha
 ISO 3166-2
-ISO/IEC 11404
 ISO 10007
-Convolutional neural network
 Photographic Activity Test
 Open Document Architecture
-ISO/IEC 9995
-Evaluation of binary classifiers
 Probability
-Measurement resolution
 Maintainability
 FDI World Dental Federation notation
-ISO/IEC 8859-12
 ISO 2014
 ISO 3166-1
 ISO 8583
 O-ring
 ISO 216
 ISO 4031
-ISO/IEC 27002
 Power take-off
-Precision (statistics)
 ISO 9897
 MPEG-2
 Common Object Request Broker Architecture
-Evaluation measures (information retrieval)
-Psychophysics
 ISO 9362
 PMID (identifier)
 ISO 26262
 QR code
 ISO 31-4
-ISO/IEC 15693
 ISO 217
-ISO/IEC 7811
 ISO 7637
-Bias (statistics)
 Multibus
-ISO/IEC 15288
-ISO/IEC 21827
 Antimagnetic watch
 Computer Graphics Metafile
 Common Criteria
@@ -453,47 +297,30 @@ EXPRESS (data modeling language)
 ISO 11940
 OCR-A
 ISO 639-6
-PSNR
 MPEG-21
-Calinski-Harabasz index
-Precision and recall
 Film speed
 Geography Markup Language
-ISO/IEC 11179
 ISO 19439
 Rectangular Micro QR Code
-PDF/E
 List of ISO romanizations
-ISO/IEEE 11073
 ISO 19600
-ISO/IEC 7810
 Cloud Infrastructure Management Interface
-CAN bus
 Mixed raster content
 ISO 21001
 Flexibility (engineering)
-ISO/IEC 17025
 ISO 31-10
 ISO-TimeML
 ISO 5776
-Binary classification
-Fréchet inception distance
 JPEG XS
 ISO 50001
-Intra-list Similarity
 ISO 7010
 Geospatial metadata
 Adaptability
 ISO 639-2
-ISO 2047
-Average precision
 ISO 3977
 ISO 22000
-Cognitive augmentation
-Floating point arithmetic
 International Standard Name Identifier
 On-board diagnostics
-ISO/IEC 5218
 ISLISP
 135 film
 PDF417

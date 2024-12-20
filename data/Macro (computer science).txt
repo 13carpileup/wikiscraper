@@ -1,313 +1,77 @@
-AI Memo
 Abductive logic programming
-Abstract syntax tree
-Access methods
-Action language
-Actor model
-Agent-oriented programming
 Algebraic modeling language
 Algorithm
-AmigaOS
-Anaphoric macro
 Anonymous function
-Answer set programming
-Applicative programming language
-Argument (computer science)
-Array programming
-Aspect-oriented programming
 Assembly language
-Attribute-oriented programming
-Automata-based programming
-Automate
 Automatic mutual exclusion
-Automatic programming
-Bayesian program synthesis
-Bell Labs
-Block (programming)
-Bootstrapping (compilers)
-Bootstrapping (computing)
-CLIST
-CMS EXEC
 COBOL
-CP/M-86
 C (programming language)
 C Sharp (programming language)
 C preprocessor
-Character (computing)
-Choreographic programming
-Christopher Strachey
-Class-based programming
-Code reuse
 Command (computing)
-Command language
-Comparison of functional programming languages
-Comparison of multi-paradigm programming languages
 Comparison of programming languages (object-oriented programming)
-Compiled language
 Component-based software engineering
-Compound operator
 Computer program
 Computer programming
 Computer virus
 Computing platform
-Concatenative programming language
 Concurrent computing
-Concurrent constraint logic programming
-Concurrent logic programming
-Concurrent object-oriented programming
-Conditional assembly language
-Constraint logic programming
-Constraint programming
 Continuation
-Control structures
-Conversational Monitor System
-Cross-platform software
-DOS/360 and successors
 Data-driven programming
-Data-oriented design
-Data Control Block
 Dataflow programming
 Declarative programming
 Dependent type
 Design by contract
-Differentiable programming
-Digital computer
 Distributed computing
 Doi (identifier)
 Domain-specific language
-Domain-specific languages
-Douglas McIlroy
-Dylan (programming language)
-Dynamic programming language
 EULA
-EXEC2
-EXEC 2
-Elixir (programming language)
-Emacs
-End-user development
-Erlang (programming language)
-Esoteric programming language
-Event-driven programming
-Expression-oriented programming language
-Extensible programming
-FORTRAN
-Feature-oriented programming
-Fexpr
-Fifth-generation programming language
-Filter (software)
-First-generation programming language
-Flow-based programming
-Fourth-generation programming language
-Frame technology (software engineering)
-Function-level programming
-Function (computer science)
-Functional logic programming
-Functional programming
-Functional reactive programming
-Fused operation
-General-purpose macro processor
 Generalized algebraic data type
-Generic programming
 Go (programming language)
-Grammar-oriented programming
-Graph rewriting
 Greek language
-Haxe
 Hdl (identifier)
-High-level programming language
-High-level programming languages
-Higher-order programming
-Homoiconicity
-Hygienic macro
 IBM
-IBM High Level Assembler
 ISBN (identifier)
-ISO 639 macrolanguage
-Immutable object
 Imperative programming
-Inductive logic programming
-Inductive programming
-Inferential programming
 Inline expansion
-Inline function
-Intentional programming
-Interactive programming
-Interface description language
-Interpreted language
-Invariant-based programming
-JEdit
-Jackson structured programming
 JavaScript
-Job Control Language
-Julia (programming language)
-Language-oriented programming
-Lazy evaluation
-Lexical token
 Linux
 Lisp (programming language)
-Lisp programming language
 List comprehension
-List of object-oriented programming languages
 Literate programming
-Logic programming
-Loop unwinding
-Low-code development platform
-Low-level programming language
-M4 (computer language)
-METAL
-ML/I
 MS-DOS
-Machine code
 Machine language
-MacroML
-Macro Assembler
-Macro and security
-Macro language
-Macro recorder
 Macro virus (computing)
-Macroprogramming
 Map (mathematics)
 Massively multiplayer online role-playing game
-Matthias Felleisen
-Metalinguistic abstraction
 Metaprogramming
 Microsoft
 Microsoft Office
 Modeling language
 Modular programming
 Multi-stage programming
-Multitier programming
 Natural-language programming
-Nemerle
-Nested function
-Nim (programming language)
-Non-English-based programming languages
 Non-structured programming
-Nondeterministic programming
-Nroff
-OS/2
-OS/360
-Object-based language
 Object-oriented programming
-Object REXX
-Ontology language
 Operating system
-Organic computing
 Oxford English Dictionary
 PHP
-PL/I
-Page description language
 Parallel computing
 Parallel programming model
 Partial application
-Partitioned global address space
-Pattern
 Pattern matching
-Paul Layzell
-Persistent programming language
-Pipeline (software)
-Portability (software)
-Preprocessor
-Probabilistic logic programming
-Probabilistic programming
-Procedural language
 Procedural programming
-Process-oriented programming
-Production system (computer science)
-Program statement
-Program synthesis
-Programming by demonstration
-Programming by example
-Programming in the large and programming in the small
 Programming language
-Programming language generations
 Programming paradigm
 Prolog
-Prototype-based programming
-Purely functional programming
-Quantum programming
-Query language
-R5RS
-R6RS
-R7RS
-REXX
-Racket (programming language)
-Reactive programming
-Recursion (computer science)
-Referential transparency
-Reflective programming
-Relativistic programming
-Role-oriented programming
-Run-time code generation
-Rust (programming language)
-S-expression
 S2CID (identifier)
-SCRIPT (markup)
-STAGE2
-Scala (programming language)
-Scheme (programming language)
 Scientific programming language
-Screenplay
 Scripting language
-Second-generation programming language
 Self-modifying code
-Separation of concerns
-Service-oriented programming
-Set theoretic programming
-Shell (computing)
-Side effect (computer science)
-Signal programming
-Simulation language
-SmartKey
 Software application
-Software component
 Spacecraft command language
-Spreadsheet
-Stack-oriented programming
-Standard library
-State machine
-Static typing
 Stream processing
-Strict function
-Strict programming language
-String interpolation
-Structured concurrency
-Structured programming
-Subject-oriented programming
-Subroutine
-Supervisor call
-Symbolic Assembly Program
-Symbolic programming
-Synchronous programming language
-System Generation (OS)
 System call
-System programming language
-TRAC programming language
-Tacit programming
-Tactile programming language
 TeX
-Template Attribute Language
-Template metaprogramming
-Template processor
-Terminate-and-stay-resident
-Terms of Service
-Text Editor and Corrector
-The Hessling Editor
-Third-generation programming language
-Time Sharing Option
-Total functional programming
-Tower of evaluators
-Transformation language
-Troff
-Uniform Function Call Syntax
 VM (operating system)
-Value-level programming
-Very high-level programming language
-Vi (text editor)
-Vim (text editor)
-Vimscript
-Visual Basic for Applications
-Visual programming language
-Win32 API
 Word processor
-XEDIT

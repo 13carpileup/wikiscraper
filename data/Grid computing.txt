@@ -1,375 +1,159 @@
-KnowARC
-INFN Production Grid
 University of Chicago
 Cache invalidation
 Parallel computing
 ROCm
-Superminicomputer
 Object Management Group
-Microcomputer
 Smartglasses
 Deterministic algorithm
-Small form factor PC
 E-commerce
-Information appliance
-Rugged smartphone
-United Devices Cancer Research Project
-Smart band
 Parallel slowdown
 Flynn's taxonomy
 Computer architecture
-Grid Laboratory Uniform Environment
 Process (computing)
 Memory coherence
-Portable data terminal
-Variable Energy Cyclotron Centre
-Virtual organization (grid computing)
-Internet appliance
-Netbook
-Portable media player
-United Devices
 Semiconductor memory
-All-in-one computer
 Starvation (computer science)
-Open Grid Services Architecture
 Personal computer
-Xgrid
 ISSN (identifier)
 Array (data structure)
-Industrial PC
-Ian Foster (computer scientist)
-Camera phone
-Workflow management system
-Earthquake
 ISBN (identifier)
 Loop-level parallelism
-IT-Tude.com
 Home computer
 Dryad (programming)
 Mobile phone
-Portable computer
 Microcontroller
-Antony Davies
-Computer tower
 Task parallelism
-HTCondor
-PL-Grid
-Folding@home
-Instruction cycle
-Foldable smartphone
-Supercomputer
 Minicomputer
 Laptop
-BOINC
-Pizza-box form factor
 European Commission
-Enabling Grids for E-sciencE
 Chapel (programming language)
-Einstein@Home
 Scalability
 CUDA
-CNGrid
 Asymmetric multiprocessing
 Parallel RAM
-Feature phone
 API
-Software as a service
 Cilk
-BEinGRID
-Minisupercomputer
-GridRPC
-Weather
 Doi (identifier)
-Mini PC
 Computer multitasking
 University of Southern California
 Symmetric multiprocessing
-Metaphor
-Workstation
 Seismic analysis
 Server (computing)
 Gaming computer
-Sensor grid
-DRMAA
 HPX
-Computing resource
 Parallel external memory
 Amdahl's law
 Speedup
 Multiprocessing
-Silvio Pardi
 Non-blocking algorithm
 Manycore processor
-C++ AMP
 Shared memory
 Cloud computing
-Stick PC
 Single instruction, multiple data
-Volunteer computing
-Sixth Framework Programme
-Heterogeneous computing
-Palmtop PC
 Parallel Extensions
 Smart TV
 Message Passing Interface
-Surface computer
 Computer hardware
 Home video game console
-Distributed system
-Grid Security Infrastructure
-NASA Advanced Supercomputing facility
-Cluster (computing)
-Hewlett-Packard
-Model (abstract)
-Nambiar, Raghunath
 Explicit parallelism
-XtreemOS
-Tablet computer
 Pipeline (computing)
 Wayback Machine
 Temporal multithreading
 Hdl (identifier)
 Superscalar processor
-Fitness tracker
-European Grid Infrastructure
-Personal digital assistant
-IsraGrid
-Midrange computer
-Framework programme
 Distributed memory
-Public computer
-Pocket computer
-CERN
-Kris Bubendorfer
 Phablet
 Pthreads
 OpenMP
 Threading Building Blocks
-Sidney Fernbach Award
 IBM
-Pawel Plaszczak
-GStat
 Loose coupling
 RaftLib
-Utility computing
 Synchronization (computer science)
-Scientific calculator
 Automatic parallelization
 List of computer size categories
 Middleware
 Internet
 Simultaneous multithreading
-GARUDA
 Mainframe computer
 Application checkpointing
 Hardware scout
-Cluster computing
-TeraGrid
 Vector processor
 Dataflow architecture
-Intelligent terminal
 Parallel programming model
-Ultra-mobile PC
-Integrated Project (EU)
 Thread (computing)
-Drug discovery
-Classes of computers
-Grand Challenge problem
 Speculative multithreading
-ASIC
 General-purpose computing on graphics processing units
 Instruction pipelining
 Microconsole
-FLOPS
 Deadlock (computer science)
-European Middleware Initiative
-Great Internet Mersenne Prime Search
-OMII-Europe
 Analysis of parallel algorithms
-Smartbook
-Nordic Data Grid Facility
-Handheld PC
 Memory-level parallelism
-Web Services Resource Framework
-Graphing calculator
-Mobile data terminal
-National Grid Service
-Deskside computer
 OpenCL
-Table computer
-Mobile computing
 Preemption (computing)
 Computer memory
-Bitcoin
-Silicon Graphics
-Open Grid Services Infrastructure
-Grid Systems Corporation
-Interactive kiosk
 Uniform memory access
-Nanocomputer
 Single instruction, single data
-Anthony J. G. Hey
-Genetic algorithm
 Computer
 Karp–Flatt metric
-Blade PC
-Global Grid Forum
-Cloudbook
 Unified Parallel C
 Multiple instruction, multiple data
-Smartwatch
 Massively parallel
-Open Science Grid
 Simulator ride
 Protein folding
-Boost (C++ libraries)
-Notebook (laptop)
 Instruction window
-Storage Resource Management (SRM)
-Administrative domain
-GridCC
-Home server
-Condor cycle scavenger
 Instruction-level parallelism
-Fran Berman
-John McCarthy (computer scientist)
-NorduGrid
-Desktop computer
-Charlie Catlett
 Barrier (computer science)
 Software lockout
-Blade server
 Smartphone
-Arcade cabinet
-Cross-platform
 Coarray Fortran
-Power grid
-Information Sciences Institute
 Bulldozer (microarchitecture)
-CiteSeerX (identifier)
 Computer programming
-IO bound
-SAGA (computing)
-Grid MP
-Maozhen Li
 Multithreading (computer architecture)
-Rugged computer
-Node (computer science)
-Heterogeneous
-Techila Grid
-Thin client
-Electronic organizer
 Mobile device
-Subnotebook
-Jungle computing
 Multiple instruction, single data
-Service level agreement
-Calculator
-MilkyWay@Home
 Non-uniform memory access
 Computer bus
 Embedded system
-Smartdust
-Panel PC
-High-throughput computing
-Open standards
-Open Grid Forum
-Worldwide LHC Computing Grid
 Cache-only memory architecture
-Atos Origin
-Univa Grid Engine
 Implicit parallelism
-SHIWA project
-Computer appliance
-Diskless node
-Mobile workstation
-Plug computer
-Smart ring
-Calcutta
-Network interface controller
 Computer network
-Berkeley Open Infrastructure for Network Computing
 Ateji PX
 Distributed computing
-Smart speaker
 Bit-level parallelism
 High-performance computing
 Large Hadron Collider
 Cache coherence
-Economic forecasting
-Climate
-Operating systems
-Web service
-GPS watch
 Concurrency (computer science)
-System resource
 Race condition
-Scientific workflow system
-Geoffrey C. Fox
 Quality of service
-Computer-on-module
-ZPL (programming language)
-Siftable
 Global Arrays
 Handheld game console
-Rajkumar Buyya
-Steve Tuecke
-Tampa, Florida
-Code mobility
-List of grid computing projects
-UNICORE
 OpenHMPP
 Embarrassingly parallel
 Ethernet
-Sun Grid
 Video game console
-INFN Grid
 19-inch rack
-Single-board computer
 Beowulf cluster
 European Union
-Bitcoin network
-Carl Kesselman
-OurGrid
 Stream processing
 Wearable computer
-Back office
 Hardware acceleration
 Watch
-Meikel Poess
 OpenACC
-GLite
-Virtual Organization (Grid computing)
 Parallel Virtual Machine
-Larry Smarr
 Common Object Request Broker Architecture
 GPUOpen
 Simultaneous and heterogeneous multithreading
-2-in-1 laptop
-Dial-up
 Distributed shared memory
-SETI@home
-Distributed.net
-Heinz Stockinger
-Programmable calculator
-GridPP
 Dataflow programming
-Wireless sensor network
-Calculator watch
-E-reader
-D-Grid
 Charm++
-Rich client
 S2CID (identifier)
 Gustafson's law
-SETI@Home
 Systolic array
-World Community Grid
 Cost efficiency
-Gartner
 Computer cluster
 Data parallelism
 Single instruction, multiple threads
 Sun Microsystems
 Fiber (computer science)
-Personal supercomputer

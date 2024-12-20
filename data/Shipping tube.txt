@@ -8,14 +8,12 @@ Box wine
 Temperature data logger
 Napkin
 Shock and vibration data logger
-Modified atmosphere/modified humidity packaging
 Letter (message)
 Visiting card
 Filler (packaging)
 Contract packager
 Bulk box
 Thermal bag
-Pharmaceutical packaging
 Beer bottle
 Radio-frequency identification
 Double seam
@@ -38,10 +36,8 @@ Bioplastic
 Shipping container
 Flame treatment
 Active packaging
-Tamper resistance
 Salvage drum
 Sustainable packaging
-Juicebox (container)
 Boil-in-bag
 Sachet
 Alternative wine closure
@@ -54,7 +50,6 @@ Insulated shipping container
 Industrial robot
 Banana box
 Foam food container
-Stretch wrap
 Shelf life
 Injection moulding
 Hermetic seal
@@ -62,13 +57,11 @@ Clamshell (container)
 Coffee bag
 Growler (jug)
 Flexible intermediate bulk container
-Plastic pallet
 Chub (container)
 Rotary wheel blow molding systems
 Confetti
 Blister pack
 Roll slitting
-Bubble wrap
 Tamper-evident band
 Polyester
 Postcard
@@ -81,14 +74,11 @@ Plastic recycling
 Ultrasonic welding
 Tear tape
 Heat gun
-Sand bag
 Plastic welding
 Plastic bottle
 Time temperature indicator
 PET bottle recycling
-Shearing (manufacturing)
 Glass production
-Form (document)
 Currency packaging
 Extended core stretch wrapper
 Crate
@@ -110,44 +100,32 @@ Jerrycan
 Drink can
 Flexible tank
 Laser cutting
-Wet wipe
 Tub (container)
 Orbital stretch wrapper
 Wooden box
-Passbook
 Corrugated fiberboard
 Shrink tunnel
-Wallpaper
 Track and trace
 Quality assurance
 Drum (container)
 Pamphlet
 Bag-in-box
-Ingrain wallpaper
-Food packaging
 Intermediate bulk container
-Oyster pail
-Closed-loop box reuse
 Aerosol spray dispenser
 Barrel
-Paper model
 Cigarette pack
-Filter paper
 Carboy
 Recycling
 Self-heating food packaging
 Single-serve coffee container
-Living hinge
 Packaging machinery
 BoPET
 Container glass
 Shelf-ready packaging
 Case-ready meat
-Paper sack
 Die cutting (web)
 Security paper
 Packaging waste
-Package testing
 Package delivery
 Shrink wrap
 Aluminum can
@@ -157,24 +135,17 @@ Steel and tin cans
 Printing
 Book
 Lineshaft roller conveyor
-Jar
 Resealable packaging
 Pump dispenser
-Barcode printer
-Bung
-Cushioning
 Edible packaging
 Ampoule
-Coextrusion
 Package theft
 Gas cylinder
-Index card
 Disposable food packaging
 Security printing
 Modified atmosphere
 Electronic article surveillance
 Automatic identification and data capture
-Gel pack
 Plastic film
 Optical disc packaging
 Low-density polyethylene
@@ -183,9 +154,7 @@ Egg carton
 Tape dispenser
 Logistics automation
 Security tape
-Quilling
 Multihead weigher
-Mesh bag
 Induction sealing
 Pressure-sensitive tape
 Die forming (plastics)
@@ -196,14 +165,11 @@ Antistatic bag
 Bag
 Calender
 Carton
-Coating
 Glass recycling
 Keg
 Pail (container)
 Production control
 Extrusion coating
-Business card
-Playing card
 Padded envelope
 Water sachet
 Packaging gas
@@ -211,7 +177,6 @@ Tube (container)
 Plastic extrusion
 Stationery
 Vertical form fill sealing machine
-Postage stamp
 Drink coaster
 Velostat
 Bail handle
@@ -224,7 +189,6 @@ Cartoning machine
 Nonwoven fabric
 Retort pouch
 Polyethylene
-Continental Can Company
 Skin pack
 Life-cycle assessment
 Glass milk bottle
@@ -237,20 +201,14 @@ Cage
 Vacuum forming
 Luxury packaging
 Paperboard
-Paper craft
 Seed-counting machine
 Environmental engineering
 Strapping
-Converting
-Pallet inverter
 Flour sack
-Curtain coating
 Industrial ecology
 Oxygen scavenger
 Packet (container)
-Product development
 Field ration
-Paper towel
 Biodegradable plastic
 Lamination
 Child-resistant packaging
@@ -260,16 +218,13 @@ Gunny sack
 Humidity indicator card
 Meat absorbent pad
 Canning
-Plastic-coated paper
 Box
 Graphic design
 Multi-pack
 Desiccant
 Palletizer
-Paper toys
 Containerization
 Shelf-stable food
-Post-it note
 Authentication
 Label printer applicator
 Molded pulp
@@ -282,9 +237,7 @@ Injection molding machine
 Turntable stretch wrapper
 Envelope
 Toothpaste pump dispenser
-Facial tissue
 Drum pump
-Bottling line
 Conveyor system
 Linear low-density polyethylene
 Plastic wrap
@@ -293,8 +246,6 @@ Heat sealer
 Stand-up pouch
 Lid
 Cosmetic packaging
-Coupon
-Source reduction
 Spray bottle
 Slip sheet
 Dosage form
@@ -302,8 +253,6 @@ Case (goods)
 Sandpaper
 Verification and validation
 Susceptor
-Can collecting
-Coffee cup sleeve
 Hazard analysis and critical control points
 Glass bottle
 Tamper-evident technology
@@ -311,16 +260,10 @@ Multilayered packaging
 Aluminium foil
 Wine bottle
 Blow molding
-Liquid packaging board
-Paper cup
-Greeting card
 Shock detector
 Aseptic processing
 Hot-melt adhesive
-Mat (picture framing)
-Toilet paper
 Mechanical brake stretch wrapper
-Package pilferage
 Paper
 Folding carton
 Microwave popcorn
@@ -333,5 +276,4 @@ Overpackaging
 Purdue Improved Crop Storage bags
 Corrugated box design
 Check weigher
-Notebook
 Vacuum packing

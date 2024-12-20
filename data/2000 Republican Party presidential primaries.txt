@@ -14,8 +14,6 @@
 1860 Democratic National Conventions
 1860 Republican National Convention
 1864 Democratic National Convention
-1864 National Union National Convention
-1864 Republican National Convention
 1868 Democratic National Convention
 1868 Republican National Convention
 1872 Democratic National Convention
@@ -30,7 +28,6 @@
 1884 Greenback National Convention
 1884 Republican National Convention
 1888 Democratic National Convention
-1888 Greenback National Convention
 1888 Republican National Convention
 1892 Democratic National Convention
 1892 Republican National Convention
@@ -54,12 +51,10 @@
 1916 Republican Party presidential primaries
 1920 Democratic National Convention
 1920 Democratic Party presidential primaries
-1920 Progressive National Convention
 1920 Republican National Convention
 1920 Republican Party presidential primaries
 1924 Democratic National Convention
 1924 Democratic Party presidential primaries
-1924 Progressive National Convention
 1924 Republican National Convention
 1924 Republican Party presidential primaries
 1928 Democratic National Convention
@@ -89,7 +84,6 @@
 1948 Republican Party presidential primaries
 1952 Democratic National Convention
 1952 Democratic Party presidential primaries
-1952 Progressive National Convention
 1952 Republican National Convention
 1952 Republican Party presidential primaries
 1956 Democratic National Convention
@@ -116,19 +110,15 @@
 1976 Democratic Party presidential primaries
 1976 Republican National Convention
 1976 Republican Party presidential primaries
-1978 United States House of Representatives elections
 1980 Democratic National Convention
 1980 Democratic Party presidential primaries
 1980 Republican National Convention
 1980 Republican Party presidential primaries
-1982 United States House of Representatives elections
 1983 Libertarian National Convention
 1984 Democratic National Convention
 1984 Democratic Party presidential primaries
 1984 Republican National Convention
 1984 Republican Party presidential primaries
-1984 United States House of Representatives elections
-1986 United States Senate election in Arizona
 1987 Libertarian National Convention
 1988 Democratic National Convention
 1988 Democratic Party presidential primaries
@@ -139,8 +129,6 @@
 1992 Democratic Party presidential primaries
 1992 Republican National Convention
 1992 Republican Party presidential primaries
-1992 United States Senate election in Arizona
-1994 Texas gubernatorial election
 1996 Democratic National Convention
 1996 Democratic Party presidential primaries
 1996 Libertarian National Convention
@@ -148,80 +136,16 @@
 1996 Republican National Convention
 1996 Republican Party presidential primaries
 1996 United States presidential election
-1998 Texas gubernatorial election
-1998 United States Senate election in Arizona
-2000 Alabama Republican presidential primary
-2000 Alaska Republican presidential caucuses
-2000 American Samoa Republican presidential caucuses
-2000 Arizona Republican presidential primary
-2000 Arkansas Republican presidential primary
-2000 California Republican presidential primary
-2000 Colorado Republican presidential primary
-2000 Connecticut Republican presidential primary
-2000 Delaware Republican presidential primary
 2000 Democratic National Convention
 2000 Democratic Party presidential primaries
-2000 District of Columbia Republican presidential primary
-2000 Florida Republican presidential primary
-2000 Georgia Republican presidential primary
 2000 Green National Convention
-2000 Guam Republican presidential caucuses
-2000 Hawaii Republican presidential caucuses
-2000 Idaho Republican presidential primary
-2000 Illinois Republican presidential primary
-2000 Indiana Republican presidential primary
-2000 Iowa Republican presidential caucuses
-2000 Kansas Republican presidential caucuses
-2000 Kentucky Republican presidential primary
 2000 Libertarian National Convention
-2000 Louisiana Republican presidential primary
-2000 Maine Republican presidential primary
-2000 Maryland Republican presidential primary
-2000 Massachusetts Republican presidential primary
-2000 Michigan Republican presidential primary
-2000 Minnesota Republican presidential caucuses
-2000 Mississippi Republican presidential primary
-2000 Missouri Republican presidential primary
-2000 Montana Republican presidential primary
-2000 Nebraska Republican presidential primary
-2000 Nevada Republican presidential caucuses
-2000 New Hampshire Republican presidential primary
-2000 New Jersey Republican presidential primary
-2000 New Mexico Republican presidential primary
-2000 New York Republican presidential primary
-2000 North Carolina Republican presidential primary
-2000 North Dakota Republican presidential caucuses
-2000 Ohio Republican presidential primary
-2000 Oklahoma Republican presidential primary
-2000 Oregon Republican presidential primary
-2000 Pennsylvania Republican presidential primary
-2000 Puerto Rico Republican presidential primary
 2000 Reform Party presidential primaries
 2000 Republican National Convention
 2000 Republican Party vice presidential candidate selection
-2000 Rhode Island Republican presidential primary
-2000 South Carolina Republican presidential primary
-2000 South Dakota Republican presidential primary
-2000 Tennessee Republican presidential primary
-2000 Texas Republican presidential primary
-2000 U.S. Virgin Islands Republican presidential caucuses
-2000 United States House of Representatives elections
-2000 United States Senate election in Missouri
-2000 United States Senate elections
-2000 United States gubernatorial elections
 2000 United States presidential debates
 2000 United States presidential election
-2000 United States presidential election in Florida
 2000 United States presidential election recount in Florida
-2000 Utah Republican presidential primary
-2000 Vermont Republican presidential primary
-2000 Virginia Republican presidential primary
-2000 Washington Republican presidential caucuses
-2000 Washington Republican presidential primary
-2000 West Virginia Republican presidential primary
-2000 Wisconsin Republican presidential primary
-2000 Wyoming Republican presidential caucuses
-2002 State of the Union Address
 2003 State of the Union Address
 2004 Democratic National Convention
 2004 Democratic Party presidential debates and forums
@@ -232,13 +156,9 @@
 2004 Reform Party presidential primaries
 2004 Republican National Convention
 2004 Republican Party presidential primaries
-2004 State of the Union Address
-2004 United States Senate election in Arizona
 2004 United States presidential debates
 2004 United States presidential election
 2005 State of the Union Address
-2006 State of the Union Address
-2007 State of the Union Address
 2008 Democratic National Convention
 2008 Democratic Party presidential debates and forums
 2008 Democratic Party presidential primaries
@@ -251,13 +171,9 @@
 2008 Republican Party presidential debates and forums
 2008 Republican Party presidential primaries
 2008 Republican Party vice presidential candidate selection
-2008 State of the Union Address
 2008 United States presidential debates
 2008 United States presidential election
-2009 Republican National Committee chairmanship election
 2010 Libertarian National Convention
-2010 United States Senate election in Arizona
-2011 Republican National Committee chairmanship election
 2012 Democratic National Convention
 2012 Democratic Party presidential primaries
 2012 Green National Convention
@@ -268,9 +184,7 @@
 2012 Republican National Convention
 2012 Republican Party presidential debates and forums
 2012 Republican Party presidential primaries
-2013 Republican National Committee chairmanship election
 2014 Libertarian National Convention
-2015 Republican National Committee chairmanship election
 2016 Constitution Party presidential primaries
 2016 Democratic National Convention
 2016 Democratic Party presidential debates and forums
@@ -285,9 +199,6 @@
 2016 Republican National Convention
 2016 Republican Party presidential debates and forums
 2016 Republican Party presidential primaries
-2016 United States Senate election in Arizona
-2017 Republican National Committee chairmanship election
-2019 Republican National Committee chairmanship election
 2020 Constitution Party presidential primaries
 2020 Democratic National Convention
 2020 Democratic Party presidential debates
@@ -301,9 +212,6 @@
 2020 Republican National Convention
 2020 Republican Party presidential debates
 2020 Republican Party presidential primaries
-2021 Republican National Committee chairmanship election
-2023 Republican National Committee chairmanship election
-2024 Constitution Party presidential primaries
 2024 Democratic National Convention
 2024 Democratic Party presidential debates and forums
 2024 Democratic Party presidential primaries
@@ -312,187 +220,47 @@
 2024 Libertarian National Convention
 2024 Libertarian Party presidential primaries
 2024 Reform National Convention
-2024 Republican National Committee chairmanship election
 2024 Republican National Convention
 2024 Republican Party presidential debates and forums
 2024 Republican Party presidential primaries
-2028 Democratic Party presidential primaries
 2028 Republican National Convention
-2028 Republican Party presidential primaries
-A Charge to Keep
 Abraham Lincoln
 Administration (government)
 Al Gore
-Al Gore 2000 presidential campaign
-Alabama Republican Party
 Alan Keyes
-Alan Keyes 2000 presidential campaign
 Alaska
-Alaska Republican Party
-Alf Landon
 Andrew Johnson
-Andy Martin
 Arizona
-Arizona's 1st congressional district
-Arizona Republican Party
 Arkansas
 Art Olivier
-Arthur Summerfield
-Assistant Secretary of State for International Organization Affairs
-Axis of evil
-B. Carroll Reece
-Bailey Walsh
 Ballot
 Barack Obama
-Barbara Bush
-Barbara Bush (born 1981)
-Barney (dog)
 Barry Goldwater
-Benjamin Franklin Jones (industrialist)
-Benjamin Ginsberg (lawyer)
 Benjamin Harrison
-Bertrand Snell
-Bibliography of George W. Bush
-Bibliography of the history of the Republican Party
 Bill Bradley
-Bill Bradley 2000 presidential campaign
-Bill Brock
 Bill Clinton
-Bipartisan Campaign Reform Act
 Bob Barr
-Bob Butterworth
 Bob Dole
 Bob Jones University
-Bob Smith (New Hampshire politician)
-Brooks Brothers riot
-Bush Doctrine
-Bush White House email controversy
-Bush family
-Bush v. Gore
-Bush v. Palm Beach County Canvassing Board
-Bushism
-C. Wesley Roberts
-California Democratic Party v. Jones
-California Republican Party
 Calvin Coolidge
-Campaign finance reform in the United States
-Carol McCain
-Carol Roberts (politician)
-Carroll A. Campbell
-Cathy Gordon Brown
-Caucus
-Chad (paper)
-Change (film)
-Character Is Destiny
-Charles A. Halleck
-Charles Curtis
-Charles D. Hilles
-Charles E. Collins (politician)
-Charles Evans Hughes
-Charles G. Dawes
-Charles L. McNary
-Charles W. Fairbanks
 Chester A. Arthur
 Christian right
-Christine Todd Whitman
-Chuck Hagel
-Cindy McCain
-Claudius H. Huston
-Clayton Yeutter
-Climate Stewardship Acts
-Clinton Bush Haiti Fund
-College Republicans
-Colorado Republican Party
 Compassionate conservatism
 Condoleezza Rice
-Congressional Hispanic Conference
-Connecticut Republican Party
 ConservAmerica
-Conservative Political Action Conference
 Constitution Party (United States)
-Constitution Party National Convention
-Craig Waters
 Dan Quayle
-Dan Quayle 2000 presidential campaign
-Dark horse
-David B. Henderson
-David Boies
-David McReynolds
-Dean Burch
-Dean Watkins
-Decision Points
-Delaware Plan
-Democratic National Convention
 Democratic Party (United States)
 Democratic Party presidential debates
-Dennis Hastert
-Detainee Treatment Act
 Dick Cheney
-Dismissal of U.S. attorneys controversy
-District of Columbia Republican Party
-Domestic policy of the George W. Bush administration
-Don't ask, don't tell
-Donald J. Trump
 Donald Trump
 Donald Trump 2000 presidential campaign
-Dorothy Bush Koch
-Durham, New Hampshire
 Dwight D. Eisenhower
-Dwight M. Sabin
-ECOSOC
-Earl Dodge
-Earl Warren
-Early life and military career of John McCain
-Early life of George W. Bush
-Economic policy of the George W. Bush administration
-Ed Gillespie
-Edwin D. Morgan
-Efforts to impeach George W. Bush
-Electoral history of George W. Bush
-Electoral history of John McCain
-Elizabeth Dole
-Eugene Hale
-Everett Sanders
-Ezola Foster
 FactCheck.org
-Factions in the Republican Party (United States)
-Fahrenheit 9/11
-Faith of My Fathers
-Faith of My Fathers (film)
-February 2001 George W. Bush speech to a joint session of Congress
-Fictionalized portrayals of George W. Bush
-Fifth Party System
-First inauguration of George W. Bush
 First presidency of Donald Trump
-Flat tax
-Florida Central Voter File
-Florida election recount
 Forbes
-Foreign policy of the George W. Bush administration
-Fourth Party System
 Frank Fahrenkopf
-Frank Harris Hitchcock
-Frank Knox
-Fred Thompson
-Frederick H. Gillett
-Freedom Caucus
-Frontline (U.S. TV series)
-Fundraising for the 2008 United States presidential election
-Fundraising for the 2012 United States presidential election
-Fundraising in the 2016 United States presidential election
-Fundraising in the 2020 United States presidential election
 Fundraising in the 2024 United States presidential election
-Galusha A. Grow
-Game Change (film)
-Garret Hobart
-Gary Bauer
-Gary Johnson
-George B. Cortelyou
 George H. W. Bush
-George Pataki
 George Shultz
-George Voinovich
 George W. Bush
-George W. Bush 2000 presidential campaign
-George W. Bush 2004 presidential campaign
-George W. Bush Cabinet

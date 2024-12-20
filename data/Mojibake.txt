@@ -1,5 +1,3 @@
-8-bit
-8BITMIME
 ABICOMP character set
 ANSEL
 ANSI escape code
@@ -7,58 +5,36 @@ ARIB STD B24 character set
 ASCII
 ASMO 449
 ATASCII
-Amharic
-AmigaPL
-Amstrad CP/M Plus character set
 Amstrad CPC character set
 Apple II character set
-Arabic language
 ArmSCII
 Armenian language
-Ash
 Atari ST character set
 BCD (character encoding)
 Baudot code
-Belarusian alphabet
 Belarusian language
-Bengali language
 Big5
 Binary Ordered Compression for Unicode
-Binary code
 Bitstream International Character Set
-Bosnian language
 BraSCII
 Brahmic scripts
 British English
-Browser engine
 Bulgarian language
-Bush hid the facts
-Byte order mark
 C0 and C1 control codes
-C1 control codes
 CCSID
 CDC display code
 CER-GS
 CESU-8
 CNS 11643
-CP1252
-CP852
-CP 437
-CP 850
-CP 852
-CP 866
 CSX+ Indic character set
 CSX Indic character set
 CS Indic character set
 CWI-2
 Casio calculator character sets
-Catalan language
-Central Europe
 Character encoding
 Character encodings in HTML
 Charset detection
 Chinese Character Code for Information Interchange
-Chinese character encoding
 Chinese language
 Chinese telegraph code
 Code page
@@ -77,17 +53,10 @@ Code page 1019
 Code page 1020
 Code page 1021
 Code page 1023
-Code page 1034
 Code page 1040
 Code page 1042
 Code page 1043
-Code page 1044
 Code page 1046
-Code page 1052
-Code page 1053
-Code page 1054
-Code page 1055
-Code page 1056
 Code page 1058
 Code page 1098
 Code page 1101
@@ -126,7 +95,6 @@ Code page 853
 Code page 855
 Code page 856
 Code page 857
-Code page 858
 Code page 859
 Code page 860
 Code page 861
@@ -143,7 +111,6 @@ Code page 896
 Code page 897
 Code page 899
 Code page 903
-Code page 904
 Code page 912
 Code page 915
 Code page 921
@@ -157,8 +124,6 @@ Code page 949 (IBM)
 Code page 950
 Code page 951
 Code point
-Codepoint
-Color Graphics Adapter
 Commodore International
 Communication protocol
 Comparison of Unicode encodings
@@ -167,13 +132,7 @@ Control character
 Cooke and Wheatstone telegraph
 Copyright symbol
 Cork encoding
-Croatian language
-Cross-site scripting
-Curly quote
-Currency sign (generic)
 Cyrillic
-Cyrillic (Unicode block)
-Cyrillic alphabet variants
 DEC Hebrew
 DEC RADIX 50
 DEC Special Graphics
@@ -184,37 +143,20 @@ DIN 91379
 DKOI
 DOS
 Danish language
-Dash
-Data comparison
-David Tao
-Democratic Republic of the Congo
 Devanagari
 Diacritic
 Diaeresis (diacritic)
-Differences between standard Bosnian, Croatian and Serbian
 Digital Equipment Corporation
 Digital encoding of APL symbols
 Doi (identifier)
 Dutch language
 EBCDIC
 ELOT 927
-EPROM
-EUC-JP
-East Asian languages
-Eastern Europe
-Em dash
-En dash
-English alphabet
-Enhanced Graphics Adapter
 Eritrea
-Escape sequence
 Ethiopia
-Eudora (e-mail client)
-Euro sign
 Extended ASCII
 Extended Latin-8
 Extended Unix Code
-Extended file attributes
 FOCAL character set
 Faroese language
 Fieldata
@@ -229,27 +171,14 @@ GEM character set
 GOST 10859
 GSM 03.38
 Galaksija (computer)
-Ge'ez script
-Georgian language
 German language
-Gibberish
-Guinea
-Guobiao code
 HP Roman
-HTTP headers
 HZ (character encoding)
 Han unification
 Hardware code page
-Hercules Graphics Card
-Hexadecimal
-Hindustani language
 History of writing in Vietnam
 Hong Kong Supplementary Character Set
-Horn of Africa
-Hungarian language
 IBM AIX
-IEC-P27-1
-IJ (digraph)
 INIS-8
 INIS character set
 ISBN (identifier)
@@ -259,45 +188,16 @@ ISO-IR-182
 ISO-IR-197
 ISO-IR-200
 ISO-IR-68
-ISO/IEC 10367
-ISO/IEC 2022
-ISO/IEC 646
-ISO/IEC 8859
-ISO/IEC 8859-1
-ISO/IEC 8859-10
-ISO/IEC 8859-11
-ISO/IEC 8859-12
-ISO/IEC 8859-13
-ISO/IEC 8859-14
-ISO/IEC 8859-15
-ISO/IEC 8859-16
-ISO/IEC 8859-2
-ISO/IEC 8859-3
-ISO/IEC 8859-4
-ISO/IEC 8859-5
-ISO/IEC 8859-6
-ISO/IEC 8859-7
-ISO/IEC 8859-8
-ISO/IEC 8859-9
 ISO 2033
 ISO 5426
 ISO 5427
 ISO 5428
 ISO 6438
 ISO 6862
-ISO 8859-1
-ISO 8859-15
-ISO 8859-2
-ISO 8859-5
-ISO 8859-6
 ITU T.61
 Icelandic language
-In-band
 Indian Script Code for Information Interchange
-Indo-Aryan languages
-Intecolor/Compucolor 8001 character set
 Interpreter (computing)
-Inverted question and exclamation marks
 Iran System encoding
 Irish language
 Italian language
@@ -308,13 +208,9 @@ JIS X 0212
 JIS X 0213
 Japan
 Japanese language
-Japanese language and computers
 Japanese language in EBCDIC
-Japanese script
 KOI-7
 KOI-8
-KOI7
-KOI8
 KOI8-R
 KOI8-RU
 KOI8-U
@@ -326,24 +222,18 @@ Kamenický encoding
 LST 1564
 LST 1590-4
 LY1 encoding
-Languages of the Caucasus
 Lao script
 Latin alphabet
-Liberia
 Linux distribution
-Locale (computer software)
 Lotus International Character Set
 Lotus Multi-Byte Character Set
 MARC-8
 MIK (character set)
-MIK Code page
 MS-DOS
 MSX character set
 MacArabic encoding
 MacFarsi encoding
 MacGreek encoding
-Mac Arabic
-Mac Cyrillic
 Mac OS Armenian
 Mac OS Barents Cyrillic
 Mac OS Celtic
@@ -359,7 +249,6 @@ Mac OS Hebrew
 Mac OS Icelandic encoding
 Mac OS Inuit
 Mac OS Keyboard encoding
-Mac OS Maltese/Esperanto encoding
 Mac OS Ogham
 Mac OS Roman
 Mac OS Romanian encoding
@@ -367,109 +256,60 @@ Mac OS Sámi
 Mac OS Turkic Cyrillic
 Mac OS Turkish encoding
 Mac OS Ukrainian encoding
-Mac Roman
 Macedonian language
 Macintosh Font X encoding
 Macintosh Latin encoding
 Magnetic ink character recognition
 Mainframe computer
-Malawi
-Manchester United
-Manding languages
-Mandombe alphabet
-Marathi language
 Mazovia encoding
-Meta element
-Meta tag
 Metadata
 Microsoft
-Microsoft AppLocale
 Microsoft Windows
 Mojikyō
-Montenegrin alphabet
 Morse code
 Morse code for non-Latin alphabets
 Multinational Character Set
-Mwangwego alphabet
-N'Ko alphabet
 NEC APC character set
 National Replacement Character Set
 NeXT character set
-Newline
-Nguyễn Du
 Non-breaking space
-Nordic countries
-North Germanic languages
-Norwegian language
 OML encoding
 OMS encoding
 OT1 encoding
-Ole Gunnar Solskjær
-Open sandwich
 Operating system
-Osmanya alphabet
 PETSCII
 Palm OS
-Parser
 Perso-Arabic Script Code for Information Interchange
 Pinyin
-Polish code pages
-Portuguese language
 PostScript Latin 1 Encoding
 PostScript Standard Encoding
-Pound sign
 Prosigns for Morse code
-Punjabi language
-Quotation marks
-Quoted-printable
 RISC OS character set
 RPL character set
-Radical 9
-Replacement character
-Right single quotation mark
-Romanian language
-Russian Federation
 Russian Morse code
 Russian language
-SAM Coupé character set
-SBCS
 SI 960
-SMS
 SQUOZE
 Scottish Gaelic
 Sega SC-3000 character set
-Serbian Cyrillic alphabet
 Serbian language
 Serbo-Croatian
 Sharp MZ character set
 Sharp pocket computer character sets
-Shift-JIS
 Shift JIS
-Simplified Chinese
 Simplified Chinese characters
 Sinclair QL character set
-Slovene language
-Software localisation
-Somali language
 Source code
-South Asia
-Southern Africa
 Soviet Union
 Spanish language
-Specials (Unicode block)
 Standard Compression Scheme for Unicode
-Stanford/ITS character set
 Stanford Extended ASCII
 Substitute character
-Swedish language
 Symbol (typeface)
-T.51/ISO/IEC 6937
-TIS-620
 TI calculator character sets
 TRON (encoding)
 TRS-80 character set
 Taiwan
-Tajik Cyrillic alphabet
 Tamil All Character Encoding
 Tamil Script Code for Information Interchange
 TeX
@@ -477,14 +317,8 @@ Telegraph code
 Teletex
 Teletext
 Teletext character set
-Text file
 Thai Industrial Standard 620-2533
-Tigre language
-Traditional Chinese
 Transcode (character encoding)
-Trial and error
-Truyện Kiều
-UNIX
 US-ASCII
 UTF-1
 UTF-16
@@ -493,8 +327,6 @@ UTF-7
 UTF-8
 UTF-EBCDIC
 Ukrainian language
-Umlaut (diacritic)
 Unicode
 Unicode control characters
-Unicode font
 Unified Hangul Code

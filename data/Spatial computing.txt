@@ -1,34 +1,19 @@
-.NET Gadgeteer
 360-degree video
 3D audio effect
-6LoWPAN
-ANT+
 ARCore
 ARKit
 ARToolKit
 Accel World
-Adam Dunkels
 Affective computing
 AltspaceVR
-AmbieSense
-Ambient Devices
-Ambient IoT
-Ambient device
-Ambient intelligence
-Anders Sandberg
 Android XR
 AntVR
-Antinaturalism (politics)
 Apple Inc.
-Apple R1
 Apple Vision Pro
-Arduino
 Asynchronous reprojection
 Attack of the Killer App
-Aubrey de Grey
 Augmented reality
 Avatar (computing)
-Ben Goertzel
 Black Mirror
 Bob Sproull
 Boštjan Burger
@@ -37,60 +22,34 @@ Brenda Laurel
 Brendan Bradley (actor)
 Brendan Iribe
 Brilliant Labs
-Bruce Sterling
 Carolina Cruz-Neira
 CastAR
 Cave automatic virtual environment
-CeNSE
 Char Davies
 Cinematic virtual reality
 Code Lyoko
 Communications of the ACM
 Computer-mediated reality
 Computer vision
-Connected car
-Context awareness
-Contextual computing
-Contiki
 Cyberith Virtualizer
 Cyberspace
-DASH7
 Daniel J. Sandin
-David Gobel
-David Pearce (transhumanist)
 Den-noh Coil
-Depth camera
-Device ecology
 Dieter Schmalstieg
 Digimon
-Digital environments
 Doi (identifier)
-Don Norman
-ETH Zurich
 Ela Darling
 Elia Petridis
-Eliezer Yudkowsky
-Elon Musk
-Emerging technologies
-Eradication of suffering
 Eric Howlett
 Extended reality
-Extropianism
 EyeTap
 Eye tracking
-FM-2030
 Face tracking
 Finger tracking
-Foresight Institute
 Foveated rendering
-Framework Programmes for Research and Technological Development
 Fred Brooks
 Free viewpoint television
 Futurama
-Future of Humanity Institute
-Gaetano Borriello
-Gennady Stolyarov II
-Geographical Information Systems
 Godot (game engine)
 Golden-i
 Google
@@ -103,69 +62,43 @@ Gundam Build Metaverse
 Gunpei Yokoi
 HTC
 HTC Vive
-Hans Moravec
 Haptic suit
 Head-mounted display
 Head-up display
 Henry Fuchs
 HoloLens 2
 Holodeck
-HomeOS
-Home automation
 Horizon Worlds
-Humanity+
 Human–computer interaction
 Hyperreality
 IEEE 802.15.4
-IPSO Alliance
 ISBN (identifier)
 ISSN (identifier)
 Image-based modeling and rendering
 Immersion (virtual reality)
-Immortalism
-Inertial measurement unit
-Institute for Ethics and Emerging Technologies
 Interactive art
-Internet 0
-Internet of things
-Internet refrigerator
-IoBridge
 Ivan Sutherland
-James Hughes (sociologist)
 Jaron Lanier
 Jerome Foster II
 Jetpack Compose
 John Carmack
-John Seely Brown
-Josef Preishuber-Pflügl
-José Luis Cordeiro
-Julian Huxley
-K. Eric Drexler
-Kevin Ashton
 Khronos Group
 Kiss Me First (TV series)
 Lawrence J. Rosenblum
 Leap Motion
-LessWrong
 Liquid Image
 List of HTC Vive games
 List of Meta Quest games
 List of Oculus Rift games
 List of PlayStation VR2 games
 List of PlayStation VR games
-List of emerging technologies
 List of software related to augmented reality
 List of virtual reality headsets
-Machine to machine
 Magic Leap
-Mark Alan Walker
 Mark Bolas
 Mark Stephen Meadows
-Mark Weiser
 Mark Zuckerberg
-Martine Rothblatt
 Maurice Benayoun
-Max More
 Meta Horizon OS
 Meta Platforms
 Meta Quest 3
@@ -179,30 +112,20 @@ Ming C. Lin
 Mixed reality
 Morton Heilig
 Myron W. Krueger
-Nabaztag
-Natasha Vita-More
-Natural user interface
 NeosVR
-Netduino
 Netrunner
-Neuralink
 Neuromancer
 Niantic, Inc.
-Nick Bostrom
 Nicole Stenger
-Nikolai Fyodorovich Fyodorov
-NodeMCU
 Nonny de la Peña
 Nosedive (Black Mirror)
 OLED
-Object hyperlinking
 Oculus Go
 Oculus Quest
 Oculus Rift
 Oculus Rift CV1
 Oculus Rift S
 Oculus Touch
-Ole Martin Moen
 Omnidirectional (360-degree) camera
 Omnidirectional treadmill
 On-set virtual production
@@ -222,19 +145,13 @@ PlayStation VR
 PlayStation VR2
 Playtest (Black Mirror)
 Pose tracking
-Postgenderism
-Postpoliticism
-Profiling (information science)
 Project Iris
 Projection augmented model
-Projection mapping
 Quantified self
 Quest 2
 R. Bowen Loftin
-RGB color model
 Radio-frequency identification
 Raspberry Pi
-Ray Kurzweil
 Razer Hydra
 Ready Player One
 Ready Player One (film)
@@ -243,12 +160,9 @@ Real life
 Reality Labs
 Rec Room (video game)
 Resonite
-Robin Hanson
-Roel Pieper
 Rokoko (company)
 Room-scale
 SSSS.Gridman
-Samsung
 Samsung Electronics
 Samsung Gear VR
 Sansar (video game)
@@ -262,31 +176,18 @@ Simon Birrell
 Simulation hypothesis
 Simultaneous localization and mapping
 Sinespace
-Singularitarianism
 Six degrees of freedom
 SixthSense
 Smart TV
-Smart city
-Smartdust
-Smarter Planet
 Smartglasses
 Snow Crash
-Spatial audio
-Spatial navigation
-Spime
-Stefano Marzano
 Steven K. Feiner
 Sundar Pichai
 Superhot
 Superhuman Samurai Syber-Squad
-Supranet
 Susumu Tachi
 SwiftUI
 Sword Art Online
-Techno-progressivism
-Technogaianism
-Technological singularity
-Technologies in Minority Report
 Telepresence
 The Dreamland Chronicles
 The Entire History of You
@@ -296,15 +197,10 @@ The Sword of Damocles (virtual reality)
 Thomas A. DeFanti
 Thomas A. Furness III
 Tim Cook
-TinyOS
 Tony Parisi (software developer)
-Transhuman
 Transhumanism
-Transhumanism in fiction
-Transhumanist Party
 Ubiquitous computing
 Unity (game engine)
-University of Illinois
 Unreal Engine
 VFX1 Headgear
 VPL Research
@@ -315,7 +211,6 @@ VTime XR
 VTuber
 Valve Index
 Varjo
-Vernor Vinge
 Virtual Boy
 Virtual fixture
 Virtual graffiti
@@ -334,18 +229,8 @@ Vuforia Augmented Reality SDK
 Vuzix
 Warren Robinett
 Wearable computer
-Web3
 WebXR
-Web of Things
 White Christmas (Black Mirror)
 Windows Mixed Reality
 Wired glove
-Wirehead (science fiction)
-Wireless sensor network
-Wiring (development platform)
 Wizdish ROVR
-XBee
-XDNA
-Xively
-Yuval Harari
-Zoltan Istvan

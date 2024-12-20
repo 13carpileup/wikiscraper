@@ -1,366 +1,125 @@
-"Hello, World!" program
-.NET Framework
-APL (programming language)
-Absorbing element
-Abstract factory pattern
-Action–domain–responder
-Active object
-Active record pattern
-Adapter pattern
-Adjoint functors
-Adjunction (category theory)
 Alternative semantics
 Ambiguity
-Anaphora (linguistics)
 Anonymous function
 Antecedent-contained deletion
-Anti-pattern
-Append
-Applicative functor
-Architectural pattern
-Arrow (computer science)
-Aspect-oriented programming
 Associative
-Asynchronous method invocation
 Autonomy of syntax
-Balking pattern
-Base case (recursion)
-Behavioral pattern
 Binding (linguistics)
-Binding properties pattern
-Blackboard design pattern
-Boilerplate code
-Boolean data type
-Bound variable
-Bridge pattern
-Broker pattern
-Builder pattern
-Business delegate pattern
-Call-with-current-continuation
-Cartesian closed category
 Cataphora
 Categorial grammar
-Categorical dual
 Category (mathematics)
-Category of monoids
 Category of sets
 Category theory
-Chain-of-responsibility pattern
-Christopher Alexander
-CiteSeerX (identifier)
-Clojure
-Code block
 Coercion (linguistics)
-Cofunctor
 Cognitive semantics
-Collection (abstract data type)
-Combinator
 Combinatory categorial grammar
-Command pattern
-Compile time
-Composite entity pattern
-Composite pattern
 Computational semantics
-Concept (generic programming)
-Concurrency pattern
 Conditional sentence
 Conservativity
-Context set
 Continuation
-Continuation-passing style
-Control flow
 Conversational scoreboard
-Counterfactuals
-Creational pattern
 Crossover effects
 Cumulativity (linguistics)
-Data access object
-Data transfer object
 Dataflow programming
 De dicto and de re
 De se
-Debugging
 Declarative programming
-Decorator pattern
 Definiteness
-Delegation pattern
-Delimited continuation
 Denotation
 Deontic modality
-Dependency injection
-Design Patterns
 Discourse relation
 Discourse representation theory
-Disjunction
 Distributional semantics
 Distributive property
-Divide-by-zero
 Doi (identifier)
 Domain-specific language
-Domain logic
-Donkey anaphora
-Double-checked locking
-Douglas C. Schmidt
 Downward entailing
 Dynamic semantics
-Effect system
-Encapsulation (computer programming)
-Endofunctor
-Entailment
-Enterprise Integration Patterns
-Entity component system
-Enumerated type
 Epistemic modality
-Erich Gamma
-Erik Meijer (computer scientist)
-Eugenio Moggi
 Evidentiality
 Exhaustivity
-Existential closure
 Extension (semantics)
 F Sharp (programming language)
-Facade pattern
-Factory method pattern
 Faultless disagreement
 File system
-Flyweight pattern
 Focus (linguistics)
 Formal grammar
 Formal semantics (natural language)
 Formal verification
 Free choice inference
-Free functor
-Free monoid
 Free object
-Free variable
-Front controller
-Function (computer programming)
 Function application
 Function composition
-Function prototype
-Functional programming
-Functor
 Generalized quantifier
 Generative grammar
-Generic type
 Givenness
 Glue semantics
-Grady Booch
-Guarded suspension
-Haskell (programming language)
-Heinrich Kleisli
-Higher-order function
-Homogeneity (linguistics)
 Hurford disjunction
 ISBN (identifier)
 ISSN (identifier)
 Identity element
-Identity map pattern
 Imperative programming
 Inalienable possession
 Indexicality
-Inferentialism
-Infix notation
-Input/output
 Inquisitive semantics
 Intension
 Intensional logic
-Intercepting filter pattern
-Interceptor pattern
 Interpreter (computing)
-Interpreter pattern
 Intersective modifier
-Inversion of control
-Iteratee
-Iterator pattern
-JSP model 2 architecture
-J (programming language)
 JavaScript
-Jim Coplien
-John C. Reynolds
-John Vlissides
-Join-pattern
-Kenneth E. Iverson
-Kent Beck
-Kleisli category
-Kleisli triple
-LINQ
 Lambda calculus
-Lazy evaluation
-Lazy loading
 Lexical semantics
 Library (computing)
-Lift (mathematics)
-Linda Rising
-Linguistic modality
 Linguistics wars
 Linked list
 List comprehension
 Lock (computer science)
-Log file
 Logic translation
 Logical disjunction
 Logical form (linguistics)
 Logophoricity
-ML (programming language)
-Map (higher-order function)
-Markov chain
-Martin Fowler (software engineer)
-Meaning postulate
-Mediator pattern
-Memento pattern
 Mereology
-Method chaining
 Microsoft
 Mirativity
-Mock object
 Modal subordination
-Model–view–controller
-Model–view–presenter
-Model–view–viewmodel
-Monad (category theory)
-Monad transformer
-Monitor (synchronization)
 Monoid
-Monoid (category theory)
 Montague grammar
-Multiset
-Multitier architecture
-Multivalued function
-Naked objects
-Natural transformation
-Near-semiring
 Negation
-Nondeterministic algorithm
 Nth root
-Null object pattern
-OCaml
-Object pool pattern
-Observer pattern
-Opal programming language
 Opaque context
-Operator (computer programming)
-Option type
-Parametric polymorphism
-Parsec (parser)
-Parsing
 Pattern matching
-Paul Hudak
 Performative utterance
 Perl
-Philip Wadler
 Philosophy of language
-Pipeline (Unix)
 Plural quantification
 Polarity item
-Portland Pattern Repository
 Possible world
 Pragmatics
 Presupposition
 Principle of compositionality
 Privative adjective
-Proactor pattern
-Profiling (computer programming)
 Programming paradigm
 Proposition
-Propositional attitudes
-Prototype pattern
-Proxy pattern
-Publish–subscribe pattern
-Purely functional programming
 Python (programming language)
 Quantificational variability effect
 Quantifier (logic)
-Quantifier raising
 Quantization (linguistics)
-Query language
 Question under discussion
-Racket (programming language)
-Ralph Johnson (computer scientist)
-Reactive extensions
-Reactor pattern
-Readers–writer lock
-Reference
-Referential transparency
-Referentially transparent
-Reification (computer science)
 Responsive predicate
-Return value
-Rewriting
-Rising declarative
-Robert C. Martin
-Roger Godement
-Rust (programming language)
 S2CID (identifier)
-SKI combinator calculus
-Saunders Mac Lane
-Scala (programming language)
 Scalar implicature
-Scheduled-task pattern
-Scheduler pattern
-Scheme (programming language)
 Scope (formal semantics)
-Segmented discourse representation theory
 Semantic parsing
 Semantics (computer science)
 Semantics of logic
 Semaphore (programming)
-Separation of concerns
-Servant (design pattern)
-Service locator pattern
 Set (mathematics)
-Side-effect (computer science)
-Simon Peyton Jones
-Singleton pattern
 Situation semantics
-Sloppy identity
-Software design pattern
-Specification pattern
-Speech act
-Squiggle operator
-State (computer science)
-State pattern
-Statement (computer programming)
-Strategy pattern
 Strawson entailment
-Stream (computing)
 Stream processing
 Strict conditional
-Strong monad
-Structural pattern
 Subsective modifier
-Subtrigging
-Subtyping
 Supervaluationism
-Syntactic sugar
-Syntax–semantics interface
-Telicity
-Temperature paradox
-Template method pattern
-Tense–aspect–mood
-The Hillside Group
-Thread-local storage
-Thread pool
-Tiling window manager
-Tree (data structure)
-Truth-conditional semantics
-Twin pattern
-Type Tunnel pattern
-Type class
 Type constructor
-Type conversion
-Type shifter
-Type system
 Type theory
-Type theory with records
-Uniqueness type
-Universal grinder
-Vagueness
-Veridicality
-Visitor pattern
-Ward Cunningham
-Xmonad
 YouTube
-Zero function
-ZipperFS
-Zipper (data structure)

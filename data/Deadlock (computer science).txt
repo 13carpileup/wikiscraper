@@ -1,83 +1,20 @@
-ABA problem
-API-Calculus
-Algebra of Communicating Processes
 Algorithm
-Ambient calculus
-Aporia
-Banker's algorithm
-Calculus of communicating systems
-Catch-22 (logic)
-Cigarette smokers problem
-Circular reference
-CiteSeerX (identifier)
-Communicating sequential processes
-Communications system
 Concurrency (computer science)
-Concurrency control
 Concurrent computing
-Concurrent data structure
-Concurrent hash table
-Concurrent user
-Deadlock detection algorithm
-Deadlock prevention algorithms
-Dining philosophers problem
-Distributed algorithm
 Distributed computing
-Distributed systems
-Distributed transaction
 Doi (identifier)
-Edward A. Ashcroft
-Edward G. Coffman, Jr.
-File locking
 Formal verification
-Gridlock
-Hang (computing)
 ISBN (identifier)
 ISSN (identifier)
-Impasse
-Indeterminacy in concurrent computation
-Infinite loop
-James H. Anderson (computer scientist)
-Join-calculus
-Language Of Temporal Ordering Specification
-Linearizability
-Livelock
-Livelock (video game)
-Lock-free and wait-free algorithms
 Lock (computer science)
-MINIX
-Model checker
 Multiprocessing
-Mutual exclusion
-Non-blocking synchronization
 Operating system
-Optimistic concurrency control
-Ostrich algorithm
-PEPA
 Parallel computing
-Partial order
 Preemption (computing)
-Priority inversion
 Process (computing)
-Process calculus
-Process state
-Producer–consumer problem
 Race condition
-Readers-writer lock
-Readers–writers problem
-Resource starvation
 Rollback (data management)
 S2CID (identifier)
-Serializing tokens
 Set (mathematics)
-Sleeping barber problem
-Spooling
-Stalemate
 Synchronization (computer science)
-System resource
-Thrashing (computer science)
 Thread (computing)
-Turn restriction routing
-UNIX
-Wait-for graph
-Π-calculus

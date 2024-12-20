@@ -1,11 +1,8 @@
-/e/ (operating system)
 32-bit
 4MLinux
-64-bit
 ALT Linux
 AlmaLinux
 Alpine Linux
-Amd64
 Android-x86
 Android (operating system)
 Antergos
@@ -38,11 +35,8 @@ Chakra (operating system)
 Chimera Linux
 ChromeOS
 ChromiumOS
-Cinnamon (desktop environment)
-Cinnamon (software)
 ClearOS
 Clear Linux OS
-Clubic
 ColorOS
 Commodore OS
 Comparison of Linux distributions
@@ -52,7 +46,6 @@ CrDroid
 CrunchBang Linux
 Cub Linux
 CyanogenMod
-DNF (software)
 DVD
 Damn Small Linux
 Damn Vulnerable Linux
@@ -60,10 +53,8 @@ Debian
 Deepin
 DemoLinux
 Devuan
-DistroWatch
 DivestOS
 DoudouLinux
-Drakconf
 Dreamlinux
 EMUI
 Edubuntu
@@ -72,7 +63,6 @@ Elive
 Emmabuntüs
 EndeavourOS
 Endless OS
-Enlightenment (software)
 EulerOS
 Familiar Linux
 Feather Linux
@@ -82,12 +72,10 @@ Firefox OS
 Floppyfw
 Foresight Linux
 Fork (software development)
-Free and open-source software
 Free software
 FreedomBox
 Freespire
 Frugalware Linux
-GNOME
 GNU Core Utilities
 GNU Guix System
 GNewSense
@@ -101,13 +89,9 @@ Gobuntu
 GrapheneOS
 Greek language
 HandyLinux
-Hyperbola GNU/Linux-libre
-I586
 Immunix
 IodéOS
 Jurix
-KDE
-KDE Plasma Desktop
 KDE neon
 KaOS
 KaiOS
@@ -121,9 +105,7 @@ Kongoni (operating system)
 Korora (operating system)
 Kubuntu
 Kwort Linux
-LXDE
 LXLE Linux
-LXQt
 Libranet
 LinHES
 LineageOS
@@ -139,25 +121,18 @@ Linux for PlayStation 2
 Linux kernel
 Liquidation
 List of Linux distributions
-Live DVD
-Live USB
 Lubuntu
-MATE (software)
 MCC Interim Linux
 MIUI
 MX Linux
 Mandrake Linux
-Mandriva
 Mandriva Linux
 Manjaro
-MariaDB
 MeeGo
 Mer (software distribution)
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Musix GNU+Linux
-MySQL
 Natural language
 Network Security Toolkit
 NimbleX
@@ -173,11 +148,9 @@ OpenMandriva Lx
 OpenSUSE
 Open Enterprise Server
 Operating system
-Oracle Corporation
 Oracle Linux
 PCLinuxOS
 Package manager
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
@@ -229,7 +202,6 @@ Think Blue Linux
 Tiny Core Linux
 Tizen
 TopologiLinux
-Tribunal de commerce
 Trisquel
 Turbolinux
 Turkix
@@ -243,11 +215,7 @@ Ubuntu Studio
 Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
-Unity Linux
 Unity Operating System
-Unix-like
-Urpmi
-Uruk GNU/Linux
 User interface
 User space and kernel space
 VectorLinux
@@ -256,8 +224,6 @@ Void Linux
 Whonix
 Wubuntu
 XB Machine
-XFCE
-Xfce
 Xubuntu
 Yellow Dog Linux
 ZDNet

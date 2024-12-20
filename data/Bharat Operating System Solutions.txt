@@ -1,8 +1,5 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
-AMD
-Advanced Packaging Tool
 AlmaLinux
 Alpine Linux
 Android-x86
@@ -14,26 +11,18 @@ ArchLabs
 Arch Linux
 Artix Linux
 Asahi Linux
-Assamese language
 Astra Linux
 Asturix
 Austrumi Linux
 BLAG Linux and GNU
 BackBox
 BackTrack
-Bash (Unix shell)
-Bengali language
-Benjamin Mako Hill
 BioSLAX
 BlackArch
 Black Lab Linux
 BlankOn Linux
 Bodhi Linux
-Bodo language
 Booting
-Booting process of Linux
-Bradley M. Kuhn
-Brian Fox (programmer)
 CHAOS (operating system)
 CRUX
 Calculate Linux
@@ -41,24 +30,18 @@ Caldera OpenLinux
 CalyxOS
 CentOS
 CentOS Stream
-Centre for Development of Advanced Computing
 Chakra (operating system)
 Chimera Linux
 ChromeOS
 ChromiumOS
-Cinnamon (desktop environment)
 ClearOS
 Clear Linux OS
 ColorOS
 Commodore OS
-CompTIA Linux+
 Comparison of Linux distributions
-Comparison of netbook-oriented Linux distributions
 Container Linux
 Corel Linux
 CrDroid
-Criticism of Linux
-Criticism of desktop Linux
 CrunchBang Linux
 Cub Linux
 CyanogenMod
@@ -66,213 +49,95 @@ Damn Small Linux
 Damn Vulnerable Linux
 Debian
 Deepin
-Defective by Design
 DemoLinux
-Desktop computer
-Desktop environment
 Devuan
-DistroWatch
 DivestOS
 DoudouLinux
-Dpkg
 Dreamlinux
 EMUI
 Edubuntu
 Education
-Electric (software)
 Elementary OS
 Elive
 Emmabuntüs
-Empathy (software)
 EndeavourOS
 Endless OS
 English language
 EulerOS
-Evolution (software)
 Familiar Linux
 Feather Linux
-Federico Heinz
 Fedora Linux
 Fire OS
-Firefox
 Firefox OS
 Floppyfw
 Foresight Linux
-Free Software Foundation
-Free Software Foundation Europe
-Free Software Foundation Latin America
-Free Software Foundation anti-Windows campaigns
-Free Software Foundation of India
-Free Software Magazine
-Free culture movement
 Free software
 FreedomBox
 Freespire
 Frugalware Linux
-Full Circle (magazine)
-GIMP
-GNAT Modified General Public License
-GNOME
-GNOME Keyring
-GNOME Shell
 GNU
-GNU/Linux naming controversy
-GNU Affero General Public License
-GNU Archimedes
-GNU Autotools
-GNU Binutils
-GNU Chess
 GNU Compiler Collection
 GNU Core Utilities
-GNU Debugger
-GNU Emacs
-GNU Find Utilities
-GNU Free Documentation License
-GNU GRUB
 GNU General Public License
-GNU Go
-GNU Guix
 GNU Guix System
-GNU Health
-GNU Hurd
-GNU IceCat
-GNU Lesser General Public License
-GNU Manifesto
-GNU Multiple Precision Arithmetic Library
-GNU Octave
-GNU Privacy Guard
-GNU Project
-GNU Scientific Library
-GNU Taler
-GNU TeXmacs
-GNU variants
-GNUmed
-GNUnet
-GNUstep
 GNewSense
 GOS (operating system)
 GPL
-GPL font exception
-GPL linking exception
-GRUB
-GTK+
 Garuda Linux
 GeckoLinux
 Gentoo Linux
-Georg C. F. Greve
 Glibc
-Gnash (software)
-Gnuzilla
 GoboLinux
 Gobuntu
-Government of India
 GrapheneOS
-Gujarati language
-Hacker Public Radio
 HandyLinux
-Hindi
-History of Linux
-History of free and open-source software
-Hyperbola GNU/Linux-libre
-IA-32
-Iceweasel
 Immunix
-Init
 Intel
-Intelligent Input Bus
 IodéOS
-Jami (software)
 Jurix
 KDE neon
 KaOS
 KaiOS
 Kaisen Linux
 Kali Linux
-Kannada
 Kanotix
-Kashmiri language
 KateOS
 Kernel (operating system)
 Knoppix
 Kongoni (operating system)
-Konkani language
 Korora (operating system)
 Kubuntu
 Kwort Linux
-LWN.net
 LXLE Linux
-Languages of India
-Languages of Indian subcontinent
 Laptop
 Libranet
-LibreOffice
-Light-weight Linux distribution
-LilyPond
 LinHES
 LineageOS
 Linpus Linux
-Linus's law
 Linux
-Linux-libre
-Linux.com
-LinuxChix
 LinuxTLE
-LinuxUser
 Linux Caixa Mágica
-Linux Counter
-Linux Documentation Project
-Linux Format
-Linux Foundation
-Linux Foundation Linux Certification
-Linux Gazette
-Linux Journal
 Linux Lite
-Linux Magazine
-Linux Mark Institute
 Linux Mint
-Linux Outlaws
 Linux Router Project
 Linux Standard Base
-Linux Voice
-Linux adoption
-Linux desktop environments
 Linux distribution
 Linux for PlayStation 2
-Linux for mobile devices
-Linux gaming
 Linux kernel
-Linux kernel oops
-Linux malware
-Linux on embedded systems
-Linux range of use
-Linux user group
-List of GNU packages
-List of Linux adopters
 List of Linux distributions
-List of Linux distributions that run from RAM
-List of computer security certifications
-List of software package management systems
 Lubuntu
-LugRadio
 MCC Interim Linux
 MIUI
 MX Linux
 Mageia
-Maithili language
-Malayalam
 Mandrake Linux
 Mandriva Linux
 Manjaro
-Marathi language
 MeeGo
-Meitei language
 Mer (software distribution)
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Musix GNU+Linux
-NRCFOSS
-National Resource Centre for Free/Open Source Software
 Natural language
 Network Security Toolkit
 NimbleX
@@ -280,7 +145,6 @@ Nitix
 NixOS
 Nobara Linux
 Nova (operating system)
-Odia language
 OmniROM
 One UI
 Open-source software
@@ -290,43 +154,33 @@ OpenSUSE
 Open Enterprise Server
 Oracle Linux
 PCLinuxOS
-Package format
 Package manager
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
 Pentoo
 Peppermint OS
-Phoronix Test Suite
-Pidgin (software)
 Pinguy OS
 PixelExperience
 Platypux
 Pop! OS
 Porteus (operating system)
 Programmer
-Punjabi language
 Puppy Linux
 PureOS
 Python (programming language)
 Q4OS
 Qubes OS
 ROSA Linux
-R (programming language)
 Raspberry Pi OS
-Red Hat Certification Program
 Red Hat Enterprise Linux
 Red Hat Linux
 Red Star OS
 Remix OS
 Replicant (operating system)
 Resurrection Remix OS
-Revolution OS
-Richard Stallman
 Rocks Cluster Distribution
 Rocky Linux
-SCO–Linux disputes
 SUSE Linux
 SUSE Linux Enterprise
 SUSE Studio
@@ -336,12 +190,9 @@ Sailfish OS
 Salix OS
 Sanskrit
 Scientific Linux
-Security-focused operating system
 Server (computing)
-Simputer
 Slackware
 Slax
-Smart Common Input Method
 Softlanding Linux System
 Software license
 Software release life cycle
@@ -353,13 +204,8 @@ Splashtop OS
 SteamOS
 Sunwah Linux
 SystemRescue
-Systemd
 T2 SDE
 Tails (operating system)
-Tamil language
-Tanenbaum–Torvalds debate
-Telugu language
-The Code (2001 film)
 Think Blue Linux
 Tiny Core Linux
 Tizen
@@ -367,38 +213,28 @@ TopologiLinux
 Trisquel
 Turbolinux
 Turkix
-Tux (mascot)
 Ubuntu
 Ubuntu Budgie
 Ubuntu Cinnamon
 Ubuntu GNOME
 Ubuntu Kylin
 Ubuntu MATE
-Ubuntu Professional Certification
 Ubuntu Studio
 Ubuntu Touch
 Ubuntu Unity
-Ubuntu User
 Ultramarine Linux
 Unity Operating System
-Unix-like
 Urdu
-Uruk GNU/Linux
 User interface
 User space and kernel space
-VLC media player
 VectorLinux
 Vine Linux
 Void Linux
 Wayback Machine
 Whonix
-William John Sullivan
 Wubuntu
-X.Org Server
 X86
-X86-64
 XB Machine
-Xbmc
 Xubuntu
 Yellow Dog Linux
 Zenwalk

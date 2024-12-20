@@ -5,28 +5,19 @@ ARIB STD B24 character set
 ASCII
 ASMO 449
 ATASCII
-Addison-Wesley Publishing Company, Inc.
-Alt code
-Amateur radio
-American Standard Code for Information Interchange
-Amstrad CP/M Plus character set
 Amstrad CPC character set
 Apple II character set
-Application software
 ArmSCII
 Atari ST character set
 BCD (character encoding)
 Backward compatibility
-Bacon's cipher
 Baudot code
 Big5
 Binary Ordered Compression for Unicode
-Bit
 Bitstream International Character Set
 BraSCII
 Braille
 Byte
-Byte order mark
 C0 and C1 control codes
 CCSID
 CDC display code
@@ -38,12 +29,8 @@ CSX Indic character set
 CS Indic character set
 CWI-2
 Casio calculator character sets
-Character (computing)
-Character Map (Windows)
-Character encoding detection
 Character encodings in HTML
 Charset detection
-Charset sniffing
 Chinese Character Code for Information Interchange
 Chinese telegraph code
 Code page
@@ -62,17 +49,10 @@ Code page 1019
 Code page 1020
 Code page 1021
 Code page 1023
-Code page 1034
 Code page 1040
 Code page 1042
 Code page 1043
-Code page 1044
 Code page 1046
-Code page 1052
-Code page 1053
-Code page 1054
-Code page 1055
-Code page 1056
 Code page 1058
 Code page 1098
 Code page 1101
@@ -94,7 +74,6 @@ Code page 1287
 Code page 1288
 Code page 3846
 Code page 437
-Code page 500
 Code page 668
 Code page 708
 Code page 720
@@ -112,7 +91,6 @@ Code page 853
 Code page 855
 Code page 856
 Code page 857
-Code page 858
 Code page 859
 Code page 860
 Code page 861
@@ -124,13 +102,11 @@ Code page 866
 Code page 867
 Code page 868
 Code page 869
-Code page 872
 Code page 895
 Code page 896
 Code page 897
 Code page 899
 Code page 903
-Code page 904
 Code page 912
 Code page 915
 Code page 921
@@ -147,11 +123,9 @@ Code point
 Comparison of Unicode encodings
 Compucolor II character set
 Computer science
-Console terminal
 Control character
 Cooke and Wheatstone telegraph
 Cork encoding
-Cross-platform
 DEC Hebrew
 DEC RADIX 50
 DEC Special Graphics
@@ -164,11 +138,8 @@ Diacritic
 Digital Equipment Corporation
 Digital encoding of APL symbols
 EBCDIC
-ECMA-6
 ELOT 927
-Escape sequence
 Extended ASCII
-Extended Binary-Coded Decimal Interchange Code
 Extended Latin-8
 Extended Unix Code
 FOCAL character set
@@ -186,57 +157,23 @@ Galaksija (computer)
 Glyph
 Grapheme
 Greek alphabet
-HKSCS
 HP Roman
 HZ (character encoding)
 Han unification
-Hans Schjellerup
 Hard disk drive
 Hardware code page
-Herman Hollerith
-Hexadecimal
 Hong Kong Supplementary Character Set
 IBM
-IBM 1400 series
-IBM 603
-IBM 700/7000 series
-IBM 702
-IBM 704
 IBM AIX
-IBM System/360
-IEC-P27-1
 INIS-8
 INIS character set
 ISBN (identifier)
-ISO
 ISO-IR-111
 ISO-IR-169
 ISO-IR-182
 ISO-IR-197
 ISO-IR-200
 ISO-IR-68
-ISO/IEC 10367
-ISO/IEC 2022
-ISO/IEC 646
-ISO/IEC 6937
-ISO/IEC 8859
-ISO/IEC 8859-1
-ISO/IEC 8859-10
-ISO/IEC 8859-11
-ISO/IEC 8859-12
-ISO/IEC 8859-13
-ISO/IEC 8859-14
-ISO/IEC 8859-15
-ISO/IEC 8859-16
-ISO/IEC 8859-2
-ISO/IEC 8859-3
-ISO/IEC 8859-4
-ISO/IEC 8859-5
-ISO/IEC 8859-6
-ISO/IEC 8859-7
-ISO/IEC 8859-8
-ISO/IEC 8859-9
-ISO 2022
 ISO 2033
 ISO 5426
 ISO 5427
@@ -244,10 +181,7 @@ ISO 5428
 ISO 6438
 ISO 6862
 ITU T.61
-Iconv
 Indian Script Code for Information Interchange
-Intecolor/Compucolor 8001 character set
-International Components for Unicode
 International maritime signal flags
 Iran System encoding
 JIS X 0201
@@ -257,7 +191,6 @@ JIS X 0212
 JIS X 0213
 Japanese language in EBCDIC
 KOI-7
-KOI7
 KOI8-R
 KOI8-RU
 KOI8-U
@@ -266,19 +199,14 @@ KPS 9566
 KS X 1001
 KS X 1002
 Kamenický encoding
-LCCN (identifier)
 LST 1564
 LST 1590-4
 LY1 encoding
 Latin alphabet
-Letter case
-List of GB standards
 Lotus International Character Set
 Lotus Multi-Byte Character Set
-Luit
 MARC-8
 MIK (character set)
-MIK Code page
 MSX character set
 MacArabic encoding
 MacFarsi encoding
@@ -298,7 +226,6 @@ Mac OS Hebrew
 Mac OS Icelandic encoding
 Mac OS Inuit
 Mac OS Keyboard encoding
-Mac OS Maltese/Esperanto encoding
 Mac OS Ogham
 Mac OS Roman
 Mac OS Romanian encoding
@@ -320,31 +247,18 @@ Multinational Character Set
 NEC APC character set
 National Replacement Character Set
 NeXT character set
-Non-directional beacon
-Numeral system
 OML encoding
 OMS encoding
 OT1 encoding
 Operating system
-Oracle Corporation
-PCTerm
 PETSCII
-Page number
-Percent-encoding
 Perso-Arabic Script Code for Information Interchange
-Plane (Unicode)
-Popularity of text encodings
 PostScript Latin 1 Encoding
 PostScript Standard Encoding
-Presentation layer
 Prosigns for Morse code
-Punched tape
-Punctuation
 RISC OS character set
 RPL character set
 Russian Morse code
-SAM Coupé character set
-SAP AG
 SI 960
 SQUOZE
 Sega SC-3000 character set
@@ -353,56 +267,39 @@ Sharp pocket computer character sets
 Shift JIS
 Sinclair QL character set
 Standard Compression Scheme for Unicode
-Stanford/ITS character set
 Stanford Extended ASCII
 String (computer science)
-Supplementary characters
 Symbol (typeface)
-T.51/ISO/IEC 6937
 TI calculator character sets
 TRON (encoding)
 TRS-80 character set
-Tabulating machine
 Tamil All Character Encoding
 Tamil Script Code for Information Interchange
 TeX
 Telegraph code
-Telegraph key
-Telegraphy
 Teletex
 Teletext
 Teletext character set
 Thai Industrial Standard 620-2533
 Transcode (character encoding)
-Transcoding
-Typographic ligature
-UNIVAC I
 UTF-1
 UTF-16
-UTF-16BE
-UTF-16LE
 UTF-32
-UTF-32BE
-UTF-32LE
 UTF-7
 UTF-8
 UTF-EBCDIC
 Unicode
 Unicode control characters
 Unified Hangul Code
-Universal Character Set
-Universal Character Set characters
 Universal Coded Character Set
 VISCII
 VSCII
 VT100 encoding
 VT220
-VT510
 Variable-width encoding
 Ventura International
 Videotex
 Videotex character set
-Vietnamese Standard Code for Information Interchange
 Wabun code
 Wang International Standard Code for Information Interchange
 Web browser
@@ -417,19 +314,14 @@ Windows-1256
 Windows-1257
 Windows-1258
 Windows-1270
-Windows Cyrillic + Finnish
-Windows Cyrillic + French
-Windows Cyrillic + German
 Windows Polytonic Greek
 Windows code page
 Word (computer architecture)
 World System Teletext
 World Wide Web
-Written language
 XML
 Xerox Character Code Standard
 YUSCII
 ZX80 character set
 ZX81 character set
 ZX Spectrum character set
-Émile Baudot

@@ -1,122 +1,61 @@
 0
 1
-Abelian varieties
 Abstract algebra
 Addition
-Additive number theory
-Adolf Hurwitz
-Affine geometry
 Affine space
-Affine variety
-Ahmes
-Alan Baker (mathematician)
 Algebra
-Algebraic curve
 Algebraic expression
 Algebraic geometry
-Algebraic number
 Algebraic number theory
 Algebraic topology
 Algebraic variety
-Alhazen
-Altitude (triangle)
-Anabelian geometry
 Analytic geometry
 Analytic number theory
-André Weil
-Angle
-Apollonius of Perga
 Applied mathematics
-Arakelov geometry
-Arakelov theory
-Archimedes
-Area
-Area of a circle
 Arithmetic
-Arithmetic combinatorics
-Arithmetic dynamics
-Arithmetic function
 Arithmetic geometry
-Arithmetic of abelian varieties
-Arithmetic topology
-Aryabhata
 Basis (linear algebra)
-Baudhayana
-Before Common Era
-Bernhard Riemann
-Blaise Pascal
 Brahmagupta
-C. F. Gauss
 Calculus
 Cambridge University Press
 Carl Friedrich Gauss
 Category theory
-Chinese remainder theorem
-Christiaan Huygens
-Circle
 Circumference
-Class field theory
 Combinatorics
 Commutative algebra
 Complex analysis
-Complex geometry
-Complex multiplication
-Composite number
 Composition algebra
 Computational complexity theory
 Computational geometry
 Computational mathematics
-Computational number theory
 Computer algebra
 Computer science
-Congruence (geometry)
-Conic section
 Control theory
-Convex geometry
 Coordinate vector
-Cube
-Cuboid
-Curve
-Cylinder (geometry)
 David Hilbert
 Degree of a polynomial
 Determinant
-Diagonal
 Diameter
 Differential equation
 Differential geometry
 Differential topology
-Digital geometry
-Dimension (geometry)
-Diophantine approximation
 Diophantine equation
-Discrete differential geometry
 Discrete geometry
 Discrete mathematics
-Dodecahedron
 Dot product
 Eigenvalues and eigenvectors
 Elementary algebra
-Elliptic curve
-Elliptic geometry
 Encyclopedia of Mathematics
 Engineering mathematics
-Enrico Bombieri
 Equation
 Equivalence relation
-Euclid
 Euclidean geometry
 Euclidean norm
 European Mathematical Society
 Exterior algebra
-Faltings's theorem
-Felix Klein
 Field (mathematics)
-Field theory (mathematics)
 Finite geometry
 Foundations of mathematics
-Four-dimensional space
-Fractal
 Free group
 Free object
 Function (mathematics)
@@ -124,13 +63,9 @@ Functional analysis
 Future of mathematics
 Game theory
 General topology
-Genus (curve)
 Geometric algebra
 Geometric topology
 Geometry
-Geometry of numbers
-Gisbert Wüstholz
-Glossary of arithmetic and Diophantine geometry
 Glossary of field theory
 Glossary of linear algebra
 Glossary of mathematical symbols
@@ -141,76 +76,29 @@ Graph theory
 Group (mathematics)
 Group theory
 Harmonic analysis
-Harold Scott MacDonald Coxeter
-Height function
-Henri Poincaré
-Hermann Minkowski
-Hilbert
-Hilbert's irreducibility theorem
 Hilbert space
 History of algebra
-History of geometry
 History of mathematics
-Hodge–Arakelov theory
-Homogeneous co-ordinates
 Homogeneous polynomial
 Homological algebra
 Homotopy theory
-Hyperbolic geometry
 Hypercomplex analysis
-Hypersphere
-Hypersurface
-Hypotenuse
 ISBN (identifier)
-Ibn al-Yasamin
-Icosahedron
-Incidence geometry
 Inequality (mathematics)
 Informal mathematics
 Information theory
 Inner product space
 Integer
-Irrational number
-Irrationality measure
-Iwasawa theory
-Iwasawa–Tate theory
-Jean-Pierre Serre
-John Tate (mathematician)
-Joseph H. Silverman
-Jyeṣṭhadeva
-János Bolyai
 K-theory
-Kite (geometry)
-Kummer theory
-Kātyāyana
-L-function
-L. E. Dickson
-L. J. Mordell
-Lattice point
-Length
-Leonhard Euler
 Lie group
 Line (geometry)
-Line segment
 Linear algebra
 Linear equation
 Linear inequality
 Linear map
 Linear subspace
-List of differential geometry topics
 List of films about mathematicians
-List of geometers
-List of geometry topics
-List of mathematicians
-List of number theory topics
-List of recreational number theory topics
-Lists of geometry topics
 Lists of mathematics topics
-Lists of shapes
-Local zeta-function
-Louis J. Mordell
-Louis Mordell
-Manava
 Mathematical analysis
 Mathematical and theoretical biology
 Mathematical chemistry
@@ -222,145 +110,60 @@ Mathematical physics
 Mathematical psychology
 Mathematical sociology
 Mathematical statistics
-Mathematicians
 Mathematics
 Mathematics and art
 Mathematics education
 Matrix (mathematics)
 Measure (mathematics)
-Michael Atiyah
-Mikhail Leonidovich Gromov
-Minggatu
-Modular arithmetic
-Modular form
 Module (mathematics)
-Mordell's conjecture
-Mordell's theorem
-Mordell curve
-Mordell–Weil theorem
 Multilinear algebra
 Multiplication
 Multivector
-Nasir al-Din al-Tusi
-Natural number
-Nikolai Lobachevsky
-Non-Archimedean geometry
 Non-Euclidean geometry
-Non-abelian class field theory
-Noncommutative algebra
-Noncommutative algebraic geometry
-Noncommutative geometry
 Norm (mathematics)
 Number
 Number theory
 Numerical analysis
-Octahedron
-Omar Khayyám
-One-dimensional space
 Operation (mathematics)
 Operations research
 Order theory
 Orthogonal complement
 Orthogonality
-Oswald Veblen
 Outline of algebra
-P-adic Hodge theory
-P-adic analysis
-P-adic number
-Parallel (geometry)
-Parallelogram
-Parameshvara
-Paul Vojta
 Perpendicular
 Philosophy of mathematics
-Plane (geometry)
-Platonic Solid
-Point (geometry)
-Points at infinity
-Polyform
-Polygon
 Polynomial
-Polynomial function
 Polynomial ring
-Prime number
-Probabilistic number theory
 Probability theory
-Projective geometry
-Pyramid (geometry)
 Pythagoras
-Pythagorean theorem
 Quadratic equation
-Quadratic form
-Quadrilateral
 Quotient group
 Quotient object
 Rank (linear algebra)
-Rational field
-Rational number
-Rational point
 Real analysis
 Recreational mathematics
 Rectangle
 Relation (mathematics)
 René Descartes
 Representation theory
-Rhomboid
-Rhombus
-Riemannian geometry
 Ring (mathematics)
 Ring theory
-Roth's theorem
-Sakabe Kōhan
 Scheme (mathematics)
-Serge Lang
 Set theory
-Shape
-Shiing-Shen Chern
-Siegel's theorem on integral points
-Sieve theory
-Sijzi
-Similarity (geometry)
-Simple continued fraction
-Simultaneous equations
-Solid geometry
 Sphere
-Spherical geometry
-Springer-Verlag
-Square
 Statistics
-Straightedge and compass construction
 Symmetric algebra
-Symmetry
-Symplectic geometry
-Synthetic geometry
 Systems science
 Tensor algebra
-Tesseract
-Tetrahedron
 Theorem
 Theory of computation
 Three-dimensional space
-Thue–Siegel–Roth theorem
-Timeline of geometry
 Timeline of mathematics
 Topology
 Trace (linear algebra)
-Transcendental number
-Transcendental number theory
-Trapezoid
-Triangle
-Trigonometry
 Two-dimensional space
 Type theory
 Universal algebra
 Variable (mathematics)
 Vector space
-Vertex (geometry)
-Virasena
 Volume
-Yang Hui
-Yasuaki Aida
-Zbl (identifier)
-Zero-dimensional space
-Zhang Heng
-Élie Cartan

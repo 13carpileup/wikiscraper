@@ -1,267 +1,43 @@
-*Lisp
-.NET Framework
-Acorn Computers
-Acorn Electron
-Acornsoft Logo
-AgentCubes
-AgentSheets
-Allegro Common Lisp
-Amstrad CPC
-AppleLogo
-Apple Dylan
 Apple II
-Apple II Plus
-Apple IIe
 Apple Inc.
-Apple Logo
-Apple logo
-Arc (programming language)
-Armed Bear Common Lisp
 Artificial intelligence
-Atari 8-bit computers
-Atari Logo
-AutoLISP
-BBC Micro
-BBN LISP
-BBN Technologies
-Bigloo
-Bolt, Beranek and Newman
-Boxer (programming environment)
-Brian Harvey (lecturer)
-CLISP
-CMU Common Lisp
-COWSEL
-CP/M-86
-Cadence SKILL
 Cambridge, Massachusetts
-Cardioid
-Chez Scheme
-Chicken (Scheme implementation)
-Clojure
-Clozure CL
-CodeMirror
 Collision detection
-Comenius University Faculty of Mathematics, Physics and Informatics
 Commodore 64
 Commodore International
-Commodore Plus/4
-CommonLoops
-Common Lisp
-Common Lisp HyperSpec
-Common Lisp Interface Manager
-Common Lisp Object System
-Common Lisp the Language
 Communications of the ACM
-Community of practice
 Compiler
 Computer hardware
-Conditional (computer programming)
-Corman Common Lisp
-Cynthia Solomon
-Daniel G. Bobrow
-Daniel Weinreb
-David A. Moon
-David Luckham
-David Park (computer scientist)
-Denison Bollay
-Developmental psychology
 Device driver
 Digital Research
-Digital Research, Inc.
 Doi (identifier)
-Dr. Logo
-Dylan (programming language)
-Dynamic typing
-Edinburgh University
-Edmund Berkeley
-Educational programming language
-Emacs Lisp
-Embeddable Common Lisp
 Emergence
-Etoys (programming language)
-EuLisp
-FMSLogo
-Flavors (programming language)
-Fractal
-Franz Lisp
-Functional programming
-GNU Common Lisp
-GNU Guile
-Gambit (scheme implementation)
-Game Oriented Assembly Lisp
 Garbage collection (computer science)
-Genera (operating system)
-Gerald Jay Sussman
-Greenspun's tenth rule
-Guy L. Steele Jr.
-Hal Abelson
-Harlequin (software company)
 Hdl (identifier)
-Higher-order function
-History of the Dylan programming language
-History of the Scheme programming language
-How to Design Programs
-Hy (programming language)
-Hypotrochoid
 IBM PC
-IBM PCjr
 ISBN (identifier)
 ISLISP
-Ikarus (Scheme implementation)
-Interlisp
-Interpreted language
-JScheme
-Joel Moses
-John McCarthy (computer scientist)
-Julie Sussman
-KDE
-Kawa (Scheme implementation)
-Kent Pitman
-Kinesthetic
-Knowledge Engineering Environment
-Kojo (programming language)
-L-system
-LFE (programming language)
-LISP
-LeLisp
 Lego
-Lego Logo
-Lexington, Massachusetts
-LibreLogo
-Lindenmayer system
 Linked list
-LispWorks
 Lisp (programming language)
-Lisp Machine Lisp
-Lisp machine
-Lispkit Lisp
-List of Lisp-family programming languages
-Louis Hodes
-Lucid Inc.
-M-expression
-MDL (programming language)
-MIT/GNU Scheme
-MIT Computer Science and Artificial Intelligence Laboratory
-MLisp
-MSWLogo
-MSX
-Macintosh 128K
-Macintosh Common Lisp
-Maclisp
-Macmillan Publishers
 Macro (computer science)
 Massachusetts Institute of Technology
 Mathematical logic
 Mattel Aquarius
-Matthew Flatt
-Matthias Felleisen
-McCLIM
-MicroWorlds
-MicroWorlds JR
-Micro Notes (Digital Research)
-Microsoft Small Basic
 Microsoft Windows
-Mitchel Resnick
-Mocl
-Multi-paradigm programming language
-MultiLisp
-NIL (programming language)
-NetLogo
-NewLISP
-Northwestern University
 OCLC (identifier)
 Object-oriented programming
-ObjectLOGO
-On Lisp
-OpenLisp
 Operating system
-PC-LISP
-PDP-1
-POP-11
-POP-2
-Paul Graham (programmer)
-Philip Greenspun
-Phyllis Fox
-Pico (programming language)
-Picolisp
-Pointer (graphical user interfaces)
-Poplog
-Portable Standard Lisp
-Practical Common Lisp
 Procedural programming
-ProgramByDesign
 Programming language
-Programming language implementation
 Programming paradigm
 Python (programming language)
-Qt (software)
-R. Kent Dybvig
-REBOL
-RPL (programming language)
-Racket (programming language)
-Racket features
-Radio-control
 Read-only memory
-Read–eval–print loop
-Recursion (computer science)
-Reflective programming
-Richard Greenblatt (programmer)
-Richard P. Gabriel
-Richard Stallman
-Robert Bruce Findler
-Robert Tappan Morris
-Robin Popplestone
-Rod Burstall
-S-1 Lisp
-S-expression
 S2CID (identifier)
-SCM (Scheme implementation)
-SIOD
-Scheme (programming language)
-Scheme 48
-Scheme Requests for Implementation
-Scott Fahlman
-Scratch (programming language)
-Scsh
-Self-hosting (compilers)
 Seymour Papert
-Shriram Krishnamurthi
-Smalltalk
-Softsel Hot List
 Software design
 Software developer
-Sonoma State University
-Space-cadet keyboard
-SpeedStart CP/M
-Spice Lisp
-Sprite (computer graphics)
-Squeak
-Stanford University centers and institutes
-StarLogo
-Steel Bank Common Lisp
 Steve Russell (computer scientist)
-Structure and Interpretation of Computer Programs
-Symbolics
-TI-99/4A
-TI Explorer
-TRS-80 Color Computer
-T (programming language)
-Technical standard
-The Micro User
-TinyScheme
-Tree data structure
-Turtle (robot)
-Turtle graphics
-Type system
-UCBLogo
-UC Berkeley
 University of California, Berkeley
-University of Chicago Laboratory Schools
-Vector graphics
-Wally Feurzeig
 Wayback Machine
-William Clinger (computer scientist)
 Wireless
-X3J13
-Xanalys
-Zetalisp

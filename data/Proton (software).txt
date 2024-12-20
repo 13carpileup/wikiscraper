@@ -1,55 +1,34 @@
-*nix
 2Fort
-3-clause BSD
 Alien Swarm
 Aperture Desk Job
 Aperture Hand Lab
-Application Programming Interface for Windows
 Arch Linux
 Artifact (video game)
 Bay Raitt
 Brad Muir
 Campo Santo (company)
-Captive NTFS
-Cedega (software)
 Chet Faliszek
 Chris Remo
-CodeWeavers
-Comparison of platform virtualization software
-Compatibility layer
-Cooperative Linux
 Counter-Strike
 Counter-Strike (video game)
 Counter-Strike 2
-CrossOver (software)
-Cygwin
-DJGPP
-DXVK
-Darwine
 Day of Defeat
 Deadlock (video game)
-Direct3D
-Doom (2016 video game)
 Dota
 Dota 2
 Dota Underlords
 Doug Church
 Dust II
 Erik Wolpaw
-Final Fantasy VI
 Fork (software development)
 Gabe Newell
-Garry's Mod
 GitHub
-GnuWin32
 GoldSrc
 Gunman Chronicles
 Half-Life (series)
 Half-Life (video game)
 Half-Life 2
-Hamilton C shell
 Inferno (Counter-Strike)
-Interix
 Jake Rodkin
 Jane Ng
 Jay Pinkerton
@@ -57,47 +36,31 @@ Jeri Ellsworth
 Jess Cliffe
 Kelly Bailey (composer)
 Kim Swift
-LGPL
 Left 4 Dead
 Left 4 Dead (series)
 Left 4 Dead 2
 Library (computing)
 Linux
 List of Valve games
-Lutris
-MKS Toolkit
-MSYS
-MSYS2
 Marc Laidlaw
-Merge (software)
 Michael Abrash
-Microsoft POSIX subsystem
 Microsoft Windows
 Mike Ambinder
 Mike Harrington
 Mike Morasky
-MinGW
-Mingw-w64
 Minh Le
 Mirage (Counter-Strike)
-NDISwrapper
 Nuke (Counter-Strike)
 Olly Moss
 OpenVR
 Operating system
 Patch (computing)
-Perpetual beta
 Portal (series)
 Portal (video game)
 Portal 2
-PowerShell
 Programmer
 Proprietary software
-Proton AG
-Proton Mail
 Quake (video game)
-Rebasing
-Repository (version control)
 Robin Walker (game designer)
 Sam Lantinga
 Saxxy Awards
@@ -122,25 +85,13 @@ The Lab (video game)
 The Orange Box
 The Steam Awards
 TopologiLinux
-UWIN
-Unix
-Unix-like
 Unreleased Half-Life games
-UnxUtils
 Valve Anti-Cheat
 Valve Corporation
 Valve Index
 Viktor Antonov (art director)
-Vulkan
-WINE@Etersoft
-Wabi (software)
-Willows Toolkit for UNIX
 Windows
-Windows Interface Source Environment
-Windows Services for UNIX
-Windows Subsystem for Linux
 Wine (software)
 World Opponent Network
 Yanis Varoufakis
 ZDNet
-Zlib license

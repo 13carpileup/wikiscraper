@@ -1,15 +1,6 @@
-Software Sizing
-Software development life cycle
-Control flow
-Cyclomatic complexity
-Spiral model
 Agile software development
-Halstead complexity measures
 Software parametric models
-Halstead Complexity Measures
 COCOMO
 Software sizing
-COSYSMO
-Function points
 Software metric
 Source lines of code

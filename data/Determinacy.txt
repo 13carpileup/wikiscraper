@@ -1,389 +1,106 @@
-Abraham Fraenkel
-Adequate pointclass
 Albert W. Tucker
-Alexander Kechris
-All-pay auction
-Almost
-Alpha–beta pruning
-Alternative set theory
-Amorphous set
-Amos Tversky
-Analytic set
-Antoine Augustin Cournot
-Appeasement
 ArXiv (identifier)
-Ariel Rubinstein
-Aspiration window
 Auction
-Aumann's agreement theorem
 Axiom
-Axiom of adjunction
 Axiom of choice
-Axiom of constructibility
-Axiom of countable choice
-Axiom of dependent choice
-Axiom of determinacy
-Axiom of extensionality
-Axiom of global choice
-Axiom of infinity
-Axiom of limitation of size
-Axiom of pairing
-Axiom of power set
-Axiom of projective determinacy
 Axiom of reducibility
-Axiom of regularity
-Axiom of replacement
-Axiom of union
 Axiom schema
-Axiom schema of replacement
-Axiom schema of specification
 Axiomatic system
 Backward induction
-Baire space (set theory)
-Banach–Mazur game
-Bargaining problem
-Battle of the sexes (game theory)
-Bayes correlated equilibrium
-Bayesian Nash equilibrium
-Berge equilibrium
 Bertrand Russell
-Bertrand competition
 Bibcode (identifier)
-Bid shading
 Bijection
-Binary relation
-Blotto game
-Boldface pointclass
-Borel determinacy
-Borel determinacy theorem
-Borel hierarchy
-Borel set
-Bounded rationality
-Burali-Forti paradox
 Cantor's diagonal argument
 Cantor's theorem
-Cardinal number
 Cardinality
 Cartesian product
 Category (mathematics)
 Category of sets
 Category theory
-Centipede game
-Cheap talk
-Chess
-Chicken (game)
 Class (set theory)
 Claude Shannon
-Clopen set
-Closed set
-Coalition-proof Nash equilibrium
 Collusion
-Combinatorial game theory
-Comeager set
 Complement (set theory)
 Computable set
-Conflict escalation
-Confrontation analysis
-Congestion game
 Constructible universe
 Constructive set theory
 Continuum hypothesis
-Cooperative game theory
-Coopetition
-Coordination game
-Core (game theory)
-Correlated equilibrium
 Countable set
-Cournot competition
-Daniel Kahneman
 David Blackwell
 David Gale
-David K. Levine
-David M. Kreps
-De-escalation
 De Morgan's laws
-Deadlock (game theory)
-Decidable language
-Dedekind-infinite set
 Dependent type
 Descriptive set theory
-Determined
-Determined (song)
-Deterministic
-Deterrence theory
-Dictator game
-Disjoint union
 Doi (identifier)
-Dollar auction
-Donald A. Martin
-Donald B. Gillies
-Draughts
-Drew Fudenberg
-Economic equilibrium
-El Farol Bar problem
-Electronic mail game
 Element (mathematics)
 Empty set
-Epsilon-equilibrium
-Eric Maskin
-Ernst Zermelo
-Escalation of commitment
-Evolutionarily stable strategy
-Evolutionary game theory
-Expected value
-Extensive-form game
-Fair cake-cutting
-Fair division
-Family of sets
-Filter (set theory)
 Finite set
-First-player and second-player win
-Folk theorem (game theory)
 Forcing (mathematics)
 Formal system
-Forward induction
 Foundations of mathematics
 Fuzzy set
-Game (mathematics)
-Game complexity
 Game theory
 General set theory
-Georg Cantor
-Gibbs measure
-Gift-exchange game
-Girard's paradox
-Global game
 Glossary of category theory
-Glossary of game theory
-Go (game)
-Graphical game theory
-Greg Hjorth
-Grim trigger
-Guess 2/3 of the average
 Harold W. Kuhn
-Harvey Friedman
 Herbert A. Simon
-Hereditarily finite set
-Hervé Moulin
-Hierarchy of beliefs
 Higher category theory
 Hilbert system
 History of type theory
 Homotopy type theory
 ISBN (identifier)
-Imperfect information
-Indiscernibles
-Induction puzzles
-Infinite chess
 Infinite set
-Information set (game theory)
-Inner model
 Intersection (set theory)
-Intransitive game
 Intuitionistic type theory
 JSTOR (identifier)
-Jean-François Mertens
-Jean Tirole
-Jennifer Tour Chayes
-John Conway
 John Forbes Nash Jr.
-John Harsanyi
-John Maynard Smith
-John von Neumann
 Kenneth Arrow
-Kenneth Binmore
-Kleene–Brouwer order
 Kripke–Platek set theory
-Kuhn poker
-Kurt Gödel
-L(R)
 Large cardinal
-Lazy SMP
-Lebesgue measurable
-Leo Harrington
-Leonid Hurwicz
-Lewis signaling game
-List of category theory topics
-List of game theorists
-List of games in game theory
 List of mathematical logic topics
 List of set identities and relations
 List of set theory topics
 Lloyd Shapley
-Lookup table
-Markov perfect equilibrium
-Markov strategy
-Martin's axiom
-Matching pennies
-Mathematical constructivism
 Mathematical induction
 Mathematical logic
 Mathematical proof
 Mathematics
-Max^n algorithm
-Meager set
-Mean-field game theory
-Measurable cardinal
-Mechanism design
-Melvin Dresher
-Merrill M. Flood
-Mertens-stable equilibrium
-Michael O. Rabin
-Minimax
-Mixed strategy
 Modal logic
 Model theory
 Monadic second-order logic
 Morse–Kelley set theory
-N-player game
 Naive set theory
-Nash equilibrium
 Natural deduction
-Natural number
-Negamax
 New Foundations
-No-win situation
-Normal-form game
-Olga Bondareva
-Optional prisoner's dilemma
-Ordered pair
 Ordinal number
-Oskar Morgenstern
 PMC (identifier)
 PMID (identifier)
-Pairing strategy
 Paradoxes of set theory
-Paranoid algorithm
-Pareto efficiency
-Parity game
-Paul Bernays
-Paul Cohen
-Paul Milgrom
 Peano axioms
-Perfect Bayesian equilibrium
-Perfect information
-Perfect set property
-Peyton Young
 Philip Wolfe (mathematician)
-Pirate game
-Pointclass
-Poisson games
-Poker
-Potential game
 Power set
-Preference (economics)
-Prewellordering
-Princess and monster game
-Principal variation search
 Principia Mathematica
-Prisoner's dilemma
-Probability distribution
-Projective determinacy
-Projective hierarchy
-Projective set
-Proper equilibrium
-Property of Baire
-Public goods game
-Pure strategies
-Purification theorem
-Quantal response equilibrium
-Quasi-perfect equilibrium
-Reinhard Selten
-Rendezvous problem
-Repeated game
-Revelation principle
 Reverse mathematics
-Richard Dedekind
-Risk dominance
 Robert Aumann
-Robert Axelrod (political scientist)
-Robert B. Wilson
-Robert Soare
-Rock paper scissors
-Roger Myerson
 Russell's paradox
 S2CID (identifier)
-S2S (mathematics)
-Samuel Bowles (economist)
-Satisfaction equilibrium
-Scale property
-Screening game
 Second-order arithmetic
-Self-confirming equilibrium
-Sequential equilibrium
-Sequential game
-Set-builder notation
 Set (mathematics)
 Set theory
-Shapley value
-Signaling game
-Simultaneous action selection
-Simultaneous game
 Singleton (mathematics)
-Solution concept
-Solved game
-Sprague–Grundy theorem
-Stackelberg competition
-Stag hunt
-Stanford Encyclopedia of Philosophy
-Stochastic game
-Strategic dominance
-Strategy-stealing argument
-Strategy (game theory)
-Strictly determined game
-Strong Nash equilibrium
 Structuralism (philosophy of mathematics)
-Subgame perfect equilibrium
-Subset
-Succinct game
-Suslin's problem
-Suzanne Scotchmer
-Symmetric difference
-Symmetric game
 Tarski–Grothendieck set theory
-Thomas Jech
-Thomas Schelling
-Thoralf Skolem
-Tic-tac-toe
-Tit for tat
-Topological game
 Topology
 Topos
-Tragedy of the commons
-Transfinite induction
 Transitive set
-Traveler's dilemma
-Tree (descriptive set theory)
-Trembling hand perfect equilibrium
-Tuple
-Turing degree
 Type theory
-Ultimatum game
-Ultrafilter on a set
 Uncountable set
-Uniformization (set theory)
 Union (set theory)
 Univalent foundations
 Universal set
-Universally measurable
-Unscrupulous diner's dilemma
 Venn diagram
-Volunteer's dilemma
 Von Neumann–Bernays–Gödel set theory
-W. Hugh Woodin
-Wadge hierarchy
-War of attrition (game)
-Willard Van Orman Quine
-William Vickrey
-Woodin cardinal
-Yiannis N. Moschovakis
-ZFC
-Zermelo's theorem (game theory)
 Zermelo set theory
 Zermelo–Fraenkel set theory
-Zero-sum game
-Zero sharp
-Ω-automaton
-Ω (ordinal number)
 ∞-groupoid
 ∞-topos

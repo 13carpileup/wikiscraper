@@ -13,7 +13,6 @@ Axiom
 Axiom of choice
 Axiom schema
 Axiomatic system
-Axiomatization of Boolean algebras
 Banach–Tarski paradox
 Bijection
 Binary operation
@@ -48,11 +47,8 @@ Construction of the real numbers
 Constructive set theory
 Continuum hypothesis
 Countable set
-Dana Scott
-David Tall
 Decidability (logic)
 Decision problem
-Deductive system
 Diagram (mathematical logic)
 Domain of a function
 Element (mathematics)
@@ -60,7 +56,6 @@ Elementary diagram
 Elementary equivalence
 Elementary function arithmetic
 Empty set
-Endofunction
 Enumeration
 Equiconsistency
 Equivalence relation
@@ -81,7 +76,6 @@ Forcing (mathematics)
 Formal grammar
 Formal language
 Formal proof
-Formal semantics (logic)
 Formal system
 Formation rule
 Foundations of geometry
@@ -96,7 +90,6 @@ General set theory
 Graph of a function
 Grothendieck universe
 Ground expression
-Ground formula
 Gödel's completeness theorem
 Gödel's incompleteness theorems
 Gödel numbering
@@ -106,9 +99,7 @@ Higher-order logic
 Hilbert's axioms
 Hilbert system
 History of logic
-History of mathematical logic
 ISBN (identifier)
-Ian Stewart (mathematician)
 Image (mathematics)
 Inaccessible cardinal
 Independence (mathematical logic)
@@ -120,20 +111,15 @@ Inhabited set
 Injective function
 Interpretation (logic)
 Interpretation (model theory)
-Interpretation function
 Intersection (set theory)
-Interval (mathematics)
 Isomorphism
 Kolmogorov complexity
-Kripke's theory of truth
 Kripke–Platek set theory
 Lambda calculus
 Large cardinal
 Lemma (mathematics)
 Lindström's theorem
 Linear subspace
-Linear transformation
-List of Hilbert systems
 List of axioms
 List of first-order theories
 List of formal systems
@@ -165,14 +151,12 @@ Model complete theory
 Model theory
 Monadic predicate calculus
 Monadic second-order logic
-Morphism
 Morse–Kelley set theory
 NP (complexity)
 Naive set theory
 Natural deduction
 Negation
 New Foundations
-Nicolas Bourbaki
 Non-Euclidean geometry
 Non-logical symbol
 Non-standard model
@@ -186,11 +170,9 @@ P versus NP problem
 Paradoxes of set theory
 Partition of a set
 Peano axioms
-Peter Eccles (mathematician)
 Philosophy of mathematics
 Power set
 Predicate (mathematical logic)
-Predicate logic
 Predicate variable
 Primitive recursive arithmetic
 Primitive recursive function
@@ -203,10 +185,8 @@ Propositional formula
 Propositional variable
 Quantifier (logic)
 Quantifier rank
-Range of a function
 Rank (linear algebra)
 Recursion
-Recursive set
 Relation (mathematics)
 Reverse mathematics
 Robinson arithmetic
@@ -214,7 +194,6 @@ Rule of inference
 Russell's paradox
 Satisfiability
 Saturated model
-Saunders Mac Lane
 Schröder–Bernstein theorem
 Second-order arithmetic
 Second-order logic
@@ -232,15 +211,11 @@ Soundness
 Spectrum of a sentence
 Spectrum of a theory
 Square of opposition
-Square root function
 Strength (mathematical logic)
-String (formal languages)
 Structure (mathematical logic)
-Subset
 Substitution (logic)
 Substructure (mathematics)
 Supertask
-Surjection
 Surjective function
 Syllogism
 Symbol (formal)
@@ -248,16 +223,13 @@ Syntax (logic)
 T-schema
 Tarski's axiomatization of the reals
 Tarski's axioms
-Tarski's theory of truth
 Tarski's undefinability theorem
 Tarski–Grothendieck set theory
 Tautology (logic)
 Term (logic)
 Term logic
 Theorem
-Theories of truth
 Theory (mathematical logic)
-Thomas Forster (mathematician)
 Three-valued logic
 Timeline of mathematical logic
 Transfer principle
@@ -269,7 +241,6 @@ Truth value
 Turing machine
 Type (model theory)
 Type theory
-Ultrafilter (set theory)
 Ultraproduct
 Uncountable set
 Undecidable problem

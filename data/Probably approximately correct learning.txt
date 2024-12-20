@@ -1,147 +1,14 @@
-Active learning (machine learning)
-AlexNet
-Anomaly detection
-Apprenticeship learning
 ArXiv (identifier)
-Artificial neural network
-Association rule learning
-Autoencoder
-Automated machine learning
-BIRCH
-Batch learning
-Bayesian network
-Bias–variance tradeoff
-Boltzmann machine
-Boosting (machine learning)
-Bootstrap aggregating
-CURE algorithm
-Canonical correlation
-Character recognition
 Cluster analysis
-Coefficient of determination
-Compressible (Littlestone and Warmuth)
 Computational complexity theory
-Computational learning theory
-Concept class
-Conditional random field
-Conference on Neural Information Processing Systems
-Confusion matrix
-Convolutional neural network
-Crowdsourcing
-Curriculum learning
-DBSCAN
-Data cleaning
 Data mining
-Decision tree learning
-DeepDream
-Deep learning
-Density estimation
-Diffusion model
-Dimensionality reduction
 Doi (identifier)
-ECML PKDD
-Echo state network
-Electrochemical RAM
-Empirical distribution function
-Empirical risk minimization
-Ensemble learning
-Error tolerance (PAC learning)
-Expectation–maximization algorithm
-Factor analysis
-Feature engineering
-Feature learning
-Feedforward neural network
-Fuzzy clustering
-Gated recurrent unit
-Generalization error
-Generative adversarial network
-Generative model
-Glivenko–Cantelli theorem
-Glossary of artificial intelligence
-Grammar induction
-Graphical model
-Hidden Markov model
-Hierarchical clustering
-Human-in-the-loop
-Independent component analysis
-International Conference on Learning Representations
-International Conference on Machine Learning
-International Joint Conference on Artificial Intelligence
-Isolation forest
-Journal of Machine Learning Research
-K-means clustering
-K-nearest neighbors algorithm
-Kernel machines
-LeNet
-Learning curve (machine learning)
-Learning to rank
-Leslie Valiant
-Likelihood
-Linear discriminant analysis
-Linear regression
-List of datasets for machine-learning research
-List of datasets in computer vision and image processing
-Local outlier factor
-Logistic regression
-Long short-term memory
-Machine Learning (journal)
 Machine learning
-Mamba (deep learning architecture)
-Mean shift
-Memtransistor
-Meta-learning (computer science)
-Morphological skeleton
 Multi-agent reinforcement learning
-Multimodal learning
-Naive Bayes classifier
-Neural radiance field
-Neuro-symbolic AI
-Neuromorphic engineering
-Non-negative matrix factorization
-OPTICS algorithm
-Occam learning
 Online machine learning
-Ontology learning
-Outline of machine learning
-Perceptron
-Pixel connectivity
 Polynomial
-Principal component analysis
-Proper generalized decomposition
-Q-learning
-Quantum machine learning
-Random forest
-Random sample consensus
-Real numbers
-Receiver operating characteristic
-Recurrent neural network
-Regression analysis
 Reinforcement learning
-Reinforcement learning from human feedback
-Relevance vector machine
-Reservoir computing
-Restricted Boltzmann machine
-Rule-based machine learning
 S2CID (identifier)
-Sample complexity
-Self-organizing map
-Self-play (reinforcement learning technique)
-Self-supervised learning
-Semantic analysis (machine learning)
-Semi-supervised learning
-Sparse dictionary learning
-Spiking neural network
-State–action–reward–state–action
 Statistical classification
-Statistical learning theory
-Structured prediction
 Supervised learning
-Support vector machine
-T-distributed stochastic neighbor embedding
-Temporal difference learning
-Transformer (machine learning model)
-U-Net
 Unsupervised learning
-VC dimension
-Vapnik–Chervonenkis theory
-Vision transformer

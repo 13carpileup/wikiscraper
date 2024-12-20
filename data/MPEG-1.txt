@@ -1,261 +1,61 @@
-.m2ts
 19-inch rack
-3GPP
-3GP and 3G2
-842 (compression algorithm)
-A-law algorithm
-AAC-LD
 AES3
 AES47
-AMV video format
 ANSI C
 ANSI escape code
-APNG
 AT&T Corporation
-AV1
-AVIF
-Absolute threshold of hearing
 Ada Semantic Interface Specification
-Adaptive Huffman coding
-Adaptive Multi-Rate Wideband
-Adaptive Multi-Rate audio codec
-Adaptive Transform Acoustic Coding
-Adaptive coding
-Adaptive differential pulse-code modulation
-Advanced Audio Coding
-Advanced Systems Format
 Advanced Video Coding
-Algebraic code-excited linear prediction
-Aliasing
-Alliance for Open Media
-Amplitude
-Apple Lossless Audio Codec
-Apple ProRes
-Apple Video
-AptX
 Archive.today
-Arithmetic coding
-Asao (codec)
-Asymmetric numeral systems
-Au file format
-Audio Interchange File Format
-Audio Lossless Coding
-Audio Video Interleave
-Audio Video Standard
-Audio Vivid
-Audio codec
 Audio coding format
 Audio frequency
-Auditory masking
-Average bitrate
-Avid Audio
-Avid DNxHD
 BBC
-BMP file format
-Basic rate interface
 Battery nomenclature
-Bayer filter
-Bell Labs
-Better Portable Graphics
-Bink Video
-Bit rate
-Bitrate
-Bitstream
-Blockiness
-Bluetooth Special Interest Group
-Brotli
-Burrows–Wheeler transform
-Byte pair encoding
-Bzip2
 C++
-CCIR 601
-CCITT
 CD-i
-CELT
 CHILL
 COBOL
-CSELT
 C (programming language)
 C Sharp (programming language)
 Cable television
-Canonical Huffman code
-Centre commun d'études de télévision et télécommunications
-Chain code
-Checksum
-Chroma subsampling
-Chrominance
-CineForm
-Cinepak
-CiteSeerX (identifier)
-Code-excited linear prediction
-Codec
-Codec 2
-Coding tree unit
-Color banding
-Color space
 Common Criteria
 Common Logic
-Communication channel
 Communications of the ACM
 Compact Disc Digital Audio
-Companding
 Comparative Tracking Index
-Comparison of audio coding formats
-Comparison of video codecs
-Compressed data structure
-Compressed suffix array
-Compression artifact
-Compression artifacts
 Computational complexity theory
 Computer Graphics Metafile
-Constant bitrate
-Constrained parameters bitstream
-Container format (computing)
-Container format (digital)
-Context mixing
-Context tree weighting
-Convolution
 Cornell University
-Cut (transition)
 Cyclic redundancy check
-DEFLATE
-DSM CC
-DTS (sound system)
-DVD-Video
-DV (video format)
-Daala
-Daimler Benz AG
-Data buffer
 Data compression
-Data compression symmetry
-Daubechies wavelet
-Deblocking filter
-Deflate
 Delivery Multimedia Integration Framework
-Delta encoding
-Delta modulation
-Description Definition Language
-Deutsches Museum Bonn
-Dictionary coder
-Differential pulse-code modulation
 Digital Addressable Lighting Interface
-Digital Audio Broadcasting
-Digital Compact Cassette
-Digital Item
-Digital Signal 1
-Digital Video Broadcasting
-Digital Video Interactive
-Digital audio broadcasting
-Digital audio players
-Digital container format
-Dimensional
-Diminishing returns
-Dirac (video compression format)
-Discoloration
 Discrete cosine transform
-Discrete sine transform
-Discrete wavelet transform
 Display resolution
 DivX
-Divisible
-DjVu
-Doctoral thesis
 Document Style Semantics and Specification Language
 Doi (identifier)
-Dolby AC-4
-Dolby Digital
 Dynamic Adaptive Streaming over HTTP
-Dynamic Markov compression
-Dynamic Resolution Adaptation
-Dynamic range
-E-carrier
-E. F. Schroeder
 ECMAScript
 ECMAScript for XML
 EN 62262
-ETSI
-EUREKA 147
 E series of preferred numbers
-Elias gamma coding
-Embedded zerotrees of wavelet transforms
-Enhanced VOB
-Enhanced Variable Rate Codec
-Enhanced Variable Rate Codec B
-Enhanced Voice Services
-Enhanced full rate
 Entropy (information theory)
-Entropy coding
-Entropy encoding
 Essential Video Coding
 European Broadcasting Union
-Exponential-Golomb coding
-Extended Adaptive Multi-Rate – Wideband
-Extremetech.com
-FFV1
-FLAC
-FM-index
-Fast Fourier transform
-Fibonacci coding
 Fieldbus
 File Allocation Table
-File format
 Filename extension
-Film frame
-Filter bank
-Flash Video
-Fourier transform
-Fractal compression
 Frame rate
-Fraunhofer IIS
-Free Lossless Image Format
-Frequency domain
-Fujitsu
 Full BASIC
-Full Rate
-G.711
-G.718
-G.719
 G.722
-G.722.1
-G.723
-G.723.1
-G.726
-G.728
-G.729
-G.729.1
-GIF
-General Exchange Format
-Golomb coding
-Grammar-based code
 Graph Query Language
 Graphical Kernel System
-Green Book (CD-interactive standard)
-Group 4 compression
-Group of Pictures
-Group of pictures
 Guidelines for the Definition of Managed Objects
-H.120
-H.261
-H.262/MPEG-2 Part 2
 H.263
-H.264/MPEG-4 AVC
 HTML
-Half Rate
-Harmonic Vector Excitation Coding
-Hewlett-Packard
-High-Efficiency Advanced Audio Coding
-High Efficiency Image File Format
-High Efficiency Video Coding
-Hiroshi Yasuda
-House of Commons Library
-Huffman Coding
-Huffman code
 Huffman coding
-Huffyuv
-Hutter Prize
 IBM
-ICER (file format)
-IDCT
 IEC 60027
 IEC 60034
 IEC 60038
@@ -272,7 +72,6 @@ IEC 60870-5
 IEC 60870-6
 IEC 60906-1
 IEC 60929
-IEC 60980-344
 IEC 61030
 IEC 61131
 IEC 61131-3
@@ -295,7 +94,6 @@ IEC 62196
 IEC 62264
 IEC 62304
 IEC 62325
-IEC 62351
 IEC 62366
 IEC 62379
 IEC 62455
@@ -306,194 +104,46 @@ IEC 63119
 IEC 63382
 IEC 81346
 IEEE
-IEEE 1180
 IEEE 754
-IEEE Computer Society
 IO-Link
 IP-XACT
 ISBN (identifier)
-ISDN
 ISLISP
-ISO/IEC 10021
-ISO/IEC 10116
-ISO/IEC 10967
-ISO/IEC 11179
-ISO/IEC 11404
-ISO/IEC 11801
-ISO/IEC 12207
-ISO/IEC 14443
-ISO/IEC 14651
-ISO/IEC 15288
-ISO/IEC 15504
-ISO/IEC 15693
-ISO/IEC 15897
-ISO/IEC 17024
-ISO/IEC 17025
-ISO/IEC 18014
-ISO/IEC 19752
-ISO/IEC 19770
-ISO/IEC 19788
-ISO/IEC 20000
-ISO/IEC 2022
-ISO/IEC 21827
-ISO/IEC 24727
-ISO/IEC 24744
-ISO/IEC 27000
-ISO/IEC 27000-series
-ISO/IEC 27002
-ISO/IEC 27040
-ISO/IEC 29119
-ISO/IEC 33001
-ISO/IEC 38500
-ISO/IEC 42010
-ISO/IEC 4909
-ISO/IEC 5218
-ISO/IEC 646
-ISO/IEC 6523
-ISO/IEC 7810
-ISO/IEC 7811
-ISO/IEC 7812
-ISO/IEC 7813
-ISO/IEC 7816
-ISO/IEC 80000
-ISO/IEC 8652
-ISO/IEC 8859
-ISO/IEC 9126
-ISO/IEC 9529
-ISO/IEC 9995
-ISO/IEC JTC 1
-ISO/IEC JTC 1/SC 29
-ISO/IEC base media file format
 ISO base media file format
 ITU-T
 ITunes
 Image compression
-Image resolution
-Incremental encoding
-Indeo
 Information theory
-Installed base
-Institut für Rundfunktechnik
-Institution of Engineering and Technology
-Interchange File Format
-Interlaced
-Interlaced video
-International Conference on Digital Audio Effects
 International Electrotechnical Commission
 International Organization for Standardization
 International Standard Identifier for Libraries and Related Organizations
 International standard
-Internet Engineering Task Force
-Internet Low Bitrate Codec
-Internet Speech Audio Codec
-Internet Video Coding
-J. D. Johnston
-J. Petit
 JBIG
-JBIG2
-JPEG
-JPEG-LS
 JPEG 2000
 JPEG XL
 JPEG XR
 JPEG XS
-JPEG XT
-Joint Photographic Experts Group
-Joint encoding
-Joint stereo
-Karhunen–Loève theorem
-Karlheinz Brandenburg
-Key frame
 Kolmogorov complexity
-LAME
-LC3 (codec)
 LCEVC
-LDAC (codec)
-LHA (file format)
-LHDC (codec)
-LZ4 (compression algorithm)
-LZ77 and LZ78
-LZFSE
-LZJB
-LZRW
-LZWL
-LZX
-Lagarith
-Lapped transform
-Latency (audio)
-Lempel–Ziv–Markov chain algorithm
-Lempel–Ziv–Oberhumer
-Lempel–Ziv–Stac
-Lempel–Ziv–Storer–Szymanski
-Lempel–Ziv–Welch
-Leonardo Chiariglione
-Levenshtein coding
-Libavcodec
 Library of Congress
-Line spectral pairs
-Linear predictive coding
-Linux Journal
 Linux Standard Base
 List of IEC standards
-List of codecs
-Log area ratio
-Lossless compression
-Lossy
-Lossy compression
-Luma (video)
-Luminance
-Lyra (codec)
 MHEG-5
-MJPEG
-MOD and TOD
 MP3
-MP3 CD
-MPEG
-MPEG-1 Audio Layer I
-MPEG-1 Audio Layer II
-MPEG-1 Audio Layer III
 MPEG-2
 MPEG-21
-MPEG-2 Audio Layer II
-MPEG-2 Part 3
-MPEG-3
 MPEG-4
-MPEG-4 IVC
 MPEG-4 Part 11
-MPEG-4 Part 14
-MPEG-4 Part 17
 MPEG-4 Part 2
 MPEG-4 Part 20
 MPEG-4 Part 3
-MPEG-4 SLS
-MPEG-5
 MPEG-7
 MPEG-A
 MPEG-D
 MPEG-G
 MPEG-H
 MPEG-H 3D Audio
-MPEG-I
-MPEG LA
 MPEG Multichannel
-MPEG Surround
-MPEG elementary stream
-MPEG media transport
 MPEG program stream
-MPEG transport stream
-MSU Lossless Video Codec
-MT9
-Macroblock
-Macroblocks
-Mark Adler
-Masking threshold
-Master Quality Authenticated
-Material Exchange Format
-Matroska
-Matsushita Electric Industrial Co., Ltd.
 Media type
-Microsoft Video 1
-Mitsubishi Electric
-Mixed-excitation linear prediction
 Mixed raster content
-Modified Huffman coding

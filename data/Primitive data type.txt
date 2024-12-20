@@ -1,173 +1,52 @@
 ANSI C
-Abstract data type
-Ada (programming language)
-Algebraic data type
-Arbitrary-precision arithmetic
-Array data type
 Associative array
 BASIC
-Base64
-Bfloat16 floating-point format
-Binary data
-Binary numeral system
-Bit
 Bit array
-Boolean data type
-Boolean type
 Bottom type
-Boxing (computer science)
-Brian Kernighan
 Byte
 C++
-C++11
 C23 (C standard revision)
 C99
 C (programming language)
 C Sharp (programming language)
 C data types
-Calendar date
 Central processing unit
-Character (computing)
-Class (computer programming)
-Common Lisp
-Complex data type
-Composite data type
 Computer science
-Container (abstract data type)
 D (programming language)
 Data structure
 Data type
 Decimal
-Decimal data type
 Dennis Ritchie
 Dependent type
-Double-precision floating-point format
-Double precision
-Elixir (programming language)
-Empty type
-Englewood Cliffs, NJ
-Enumerated type
-Erlang (programming language)
 Exception handling
-Extended precision
-First-class function
-Fixed-point arithmetic
-Floating-point
-Floating-point arithmetic
-Floating point
-Fortran
-Function type
-Functional programming
 Generalized algebraic data type
-Generic programming
 Go (programming language)
 Half-precision floating-point format
-Haskell (programming language)
-Hexadecimal
-IA-32
 ISBN (identifier)
-Immutable
-Inductive type
-Integer (computer science)
 Interface (object-oriented programming)
-Intersection type
-Interval arithmetic
 Intuitionistic type theory
 JavaScript
 Java (programming language)
-Kind (type theory)
-Language primitive
-Limits.h
 Lisp (programming language)
-List (abstract data type)
-List of data structures
-Long double
-Lua (programming language)
-Memory address
 Metaclass
-Metaobject
-Method (computer programming)
-Minifloat
-Non-negative integer
-Null-terminated string
-Nullptr t
-Object (computer science)
-Object type
-Object wrapper
-Octet (computing)
-Octuple-precision floating-point format
-Opaque data type
-Option type
 Order of magnitude
 PHP
 POSIX
-Parametric polymorphism
 Pascal (programming language)
 Perl
-Physical address
-Plain text
-Pointer (computer programming)
-Precision (computer science)
-Prentice Hall
-Primitive wrapper class
-Product type
 Programming language
-Property (programming)
 Python (programming language)
-QName
-Quadruple-precision floating-point format
-Range (computer programming)
 Rational data type
-Rational number
 Real number
 Record (computer science)
-Recursive data type
 Reference (computer science)
-Refinement type
 Ruby (programming language)
-SIMD
-Scala (programming language)
-Scheme (programming language)
-Scientific notation
 Semaphore (programming)
-Set (abstract data type)
 Signed number representations
-Signedness
-Single-precision floating-point format
-Single precision
-Standard ML
-Stdbool.h
-Stream (computing)
 String (computer science)
-Strongly typed identifier
-Subtyping
-Swift (programming language)
-Symbol (programming)
-Tagged union
-Ternary numeral system
-The C Programming Language
-Top type
-Tuple
-Two's complement
-Type class
 Type constructor
-Type conversion
-Type system
 Type theory
-URI
 UTF-8
-Unicode characters
-Unicode code point
-Union type
-Unit type
-Units of information
-Universal Character Set characters
-Value type
 Variable (computer science)
-Virtual address space
-Visual Basic .NET
-Void type
 Word (computer architecture)
 X86
-X86-64
-XML Schema Definition

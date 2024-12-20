@@ -15,7 +15,6 @@
 1860 Democratic National Conventions
 1860 Republican National Convention
 1864 Democratic National Convention
-1864 Republican National Convention
 1868 Democratic National Convention
 1868 Republican National Convention
 1872 Democratic National Convention
@@ -30,7 +29,6 @@
 1884 Greenback National Convention
 1884 Republican National Convention
 1888 Democratic National Convention
-1888 Greenback National Convention
 1888 Republican National Convention
 1892 Democratic National Convention
 1892 Republican National Convention
@@ -54,12 +52,10 @@
 1916 Republican Party presidential primaries
 1920 Democratic National Convention
 1920 Democratic Party presidential primaries
-1920 Progressive National Convention
 1920 Republican National Convention
 1920 Republican Party presidential primaries
 1924 Democratic National Convention
 1924 Democratic Party presidential primaries
-1924 Progressive National Convention
 1924 Republican National Convention
 1924 Republican Party presidential primaries
 1928 Democratic National Convention
@@ -90,7 +86,6 @@
 1948 Republican Party presidential primaries
 1952 Democratic National Convention
 1952 Democratic Party presidential primaries
-1952 Progressive National Convention
 1952 Republican National Convention
 1952 Republican Party presidential primaries
 1956 Democratic National Convention
@@ -105,7 +100,6 @@
 1964 Democratic Party presidential primaries
 1964 Republican National Convention
 1964 Republican Party presidential primaries
-1966 United States Senate election in Minnesota
 1968 Democratic National Convention
 1968 Democratic Party presidential primaries
 1968 Republican National Convention
@@ -114,10 +108,8 @@
 1972 Democratic Party presidential primaries
 1972 Republican National Convention
 1972 Republican Party presidential primaries
-1972 United States Senate election in Minnesota
 1976 Democratic National Convention
 1976 Democratic Party presidential primaries
-1976 Democratic Party vice presidential candidate selection
 1976 Republican National Convention
 1976 Republican Party presidential primaries
 1976 United States presidential debates
@@ -128,125 +120,12 @@
 1980 Republican Party presidential primaries
 1980 United States presidential election
 1983 Libertarian National Convention
-1984 Anchorage mayoral election
-1984 Arizona House of Representatives election
-1984 Arizona Senate election
-1984 Arkansas gubernatorial election
-1984 Baton Rouge mayoral election
-1984 Delaware gubernatorial election
 1984 Democratic Party presidential primaries
-1984 Democratic Party vice presidential candidate selection
-1984 Indiana gubernatorial election
-1984 Iowa Senate election
-1984 Minnesota House of Representatives election
-1984 Missouri gubernatorial election
-1984 Missouri lieutenant gubernatorial election
-1984 Montana gubernatorial election
-1984 New Hampshire gubernatorial election
-1984 North Carolina gubernatorial election
-1984 North Carolina lieutenant gubernatorial election
-1984 North Dakota gubernatorial election
-1984 Orlando mayoral election
 1984 Republican National Convention
 1984 Republican Party presidential primaries
-1984 Rhode Island gubernatorial election
-1984 San Diego mayoral election
-1984 San Juan, Puerto Rico mayoral election
-1984 Summer Olympics
-1984 United States House of Representatives election in Alaska
-1984 United States House of Representatives election in Delaware
-1984 United States House of Representatives election in North Dakota
-1984 United States House of Representatives election in South Dakota
-1984 United States House of Representatives election in Vermont
-1984 United States House of Representatives election in Wyoming
-1984 United States House of Representatives election in the District of Columbia
-1984 United States House of Representatives elections
-1984 United States House of Representatives elections in Alabama
-1984 United States House of Representatives elections in Arizona
-1984 United States House of Representatives elections in Arkansas
-1984 United States House of Representatives elections in California
-1984 United States House of Representatives elections in Colorado
-1984 United States House of Representatives elections in Connecticut
-1984 United States House of Representatives elections in Florida
-1984 United States House of Representatives elections in Georgia
-1984 United States House of Representatives elections in Hawaii
-1984 United States House of Representatives elections in Idaho
-1984 United States House of Representatives elections in Illinois
-1984 United States House of Representatives elections in Indiana
-1984 United States House of Representatives elections in Iowa
-1984 United States House of Representatives elections in Kansas
-1984 United States House of Representatives elections in Kentucky
-1984 United States House of Representatives elections in Louisiana
-1984 United States House of Representatives elections in Maine
-1984 United States House of Representatives elections in Maryland
-1984 United States House of Representatives elections in Massachusetts
-1984 United States House of Representatives elections in Michigan
-1984 United States House of Representatives elections in Minnesota
-1984 United States House of Representatives elections in Mississippi
-1984 United States House of Representatives elections in Missouri
-1984 United States House of Representatives elections in Montana
-1984 United States House of Representatives elections in Nebraska
-1984 United States House of Representatives elections in Nevada
-1984 United States House of Representatives elections in New Hampshire
-1984 United States House of Representatives elections in New Jersey
-1984 United States House of Representatives elections in New Mexico
-1984 United States House of Representatives elections in New York
-1984 United States House of Representatives elections in North Carolina
-1984 United States House of Representatives elections in Ohio
-1984 United States House of Representatives elections in Oklahoma
-1984 United States House of Representatives elections in Oregon
-1984 United States House of Representatives elections in Pennsylvania
-1984 United States House of Representatives elections in Rhode Island
-1984 United States House of Representatives elections in South Carolina
-1984 United States House of Representatives elections in Tennessee
-1984 United States House of Representatives elections in Texas
-1984 United States House of Representatives elections in Utah
-1984 United States House of Representatives elections in Virginia
-1984 United States House of Representatives elections in Washington
-1984 United States House of Representatives elections in West Virginia
-1984 United States House of Representatives elections in Wisconsin
-1984 United States Senate election in Alabama
-1984 United States Senate election in Alaska
-1984 United States Senate election in Arkansas
-1984 United States Senate election in Colorado
 1984 United States Senate election in Delaware
-1984 United States Senate election in Georgia
-1984 United States Senate election in Idaho
-1984 United States Senate election in Illinois
-1984 United States Senate election in Iowa
-1984 United States Senate election in Kansas
-1984 United States Senate election in Kentucky
-1984 United States Senate election in Louisiana
-1984 United States Senate election in Maine
-1984 United States Senate election in Massachusetts
-1984 United States Senate election in Michigan
-1984 United States Senate election in Minnesota
-1984 United States Senate election in Mississippi
-1984 United States Senate election in Montana
-1984 United States Senate election in Nebraska
-1984 United States Senate election in New Hampshire
-1984 United States Senate election in New Jersey
-1984 United States Senate election in New Mexico
-1984 United States Senate election in North Carolina
-1984 United States Senate election in Oklahoma
-1984 United States Senate election in Oregon
-1984 United States Senate election in Rhode Island
-1984 United States Senate election in South Carolina
-1984 United States Senate election in South Dakota
-1984 United States Senate election in Tennessee
-1984 United States Senate election in Texas
-1984 United States Senate election in Virginia
-1984 United States Senate election in West Virginia
-1984 United States Senate election in Wyoming
-1984 United States Senate elections
-1984 United States elections
-1984 United States gubernatorial elections
 1984 United States presidential debates
 1984 United States presidential election
-1984 Utah gubernatorial election
-1984 Vermont gubernatorial election
-1984 Washington gubernatorial election
-1984 West Virginia gubernatorial election
 1987 Libertarian National Convention
 1988 Democratic National Convention
 1988 Democratic Party presidential primaries
@@ -335,7 +214,6 @@
 2020 Republican Party presidential debates
 2020 Republican Party presidential primaries
 2021 Democratic National Committee chairmanship election
-2024 Constitution Party presidential primaries
 2024 Democratic National Convention
 2024 Democratic Party presidential debates and forums
 2024 Democratic Party presidential primaries
@@ -349,11 +227,7 @@
 2024 Republican Party presidential debates and forums
 2024 Republican Party presidential primaries
 2025 Democratic National Committee chairmanship election
-2028 Democratic Party presidential primaries
 2028 Republican National Convention
-2028 Republican Party presidential primaries
-ASIN (identifier)
-A Tale of Two Cities (speech)
 Abram Hewitt
 Adlai Stevenson I
 Adlai Stevenson II
@@ -363,138 +237,38 @@ African Americans
 Al Gore
 Al Smith
 Alabama Democratic Party
-Alan Cranston
 Alaska Democratic Party
 Alben W. Barkley
 Allen G. Thurman
 Alton B. Parker
-American Jews
 American Samoa Democratic Party
 Andrew Jackson
 Andrew Stevenson
-Angela Davis
 Arab Americans
 Arizona Democratic Party
 Arthur P. Gorman
 Arthur Sewall
-Astrodome
 Atlanta, Georgia
-Attorney General of Minnesota
 August Belmont
 Augustus Schell
 B. Gratz Brown
 Barack Obama
-Ben Fernandez
 Benjamin F. Hallett
 Bill Clinton
-Bill Graham Civic Auditorium
-Billy Davis (Mississippi politician)
 Blue Dog Coalition
-Bobbi Campbell
-Businessperson
 California
-California Democratic Party
-California Democratic Party v. Jones
-Calvin S. Brice
-Carl Albert
-Caucus
-Chairman of the Democratic National Committee
-Champ Clark
-Charles A. Culberson
-Charles Frederick Crisp
-Charles Manatt
-Charles T. Manatt
-Charles W. Bryan
 Chicago
-Chris Dodd
 Chuck Schumer
-Citizens Party (United States)
-Claude Kitchin
-Clem L. Shaver
-Cobo Hall
-College Democrats of America
 Colorado
-Colorado Democratic Party
-Communist Party USA
-Congressional Progressive Caucus
-Conservative Political Action Conference
-Cordell Hull
 Dallas
-Daly City, California
-David Allen Smalley
-David B. Culberson
-David Bergland
-David Turpie
-David Wilhelm
-Debbie Wasserman Schultz
-Debra DeLee
-Delaware Democratic Party
-Delaware Plan
-Democratic Attorneys General Association
-Democratic Congressional Campaign Committee
-Democratic Governors Association
-Democratic Legislative Campaign Committee
-Democratic National Committee
-Democratic National Convention
-Democratic Party (Northern Mariana Islands)
-Democratic Party (Puerto Rico)
 Democratic Party (United States)
-Democratic Party (United States) organizations
-Democratic Party of Arkansas
-Democratic Party of Connecticut
-Democratic Party of Georgia
-Democratic Party of Guam
-Democratic Party of Hawaii
-Democratic Party of Illinois
-Democratic Party of New Mexico
-Democratic Party of Oregon
-Democratic Party of Virginia
-Democratic Party of Wisconsin
-Democratic Party of the Virgin Islands
 Democratic Party presidential debates
-Democratic Senatorial Campaign Committee
-Democrats Abroad
 Detroit
-Dianne Feinstein
-Dick Gephardt
 Disability in the United States
-District of Columbia Democratic State Committee
-Donald Fowler
-Earl Dodge
-Earl Ravenal
-Ed Rendell
-Edmund Muskie
-Edward J. Flynn
-Edward Winn
-Eleanor Mondale
-Electoral history of Walter Mondale
 Environmental movement in the United States
-Ernest McFarland
-Estes Kefauver
-Factions in the Democratic Party (United States)
-Fifth Party System
-Finis J. Garrett
 Florida
-Florida Democratic Party
-Fourth Party System
-Francis Preston Blair Jr.
-Frank C. Walker
-Frank E. McKinney
 Franklin D. Roosevelt
 Franklin Pierce
-Fred R. Harris
-Fritz Hollings
-Front-runner
-Fundraising for the 2008 United States presidential election
-Fundraising for the 2012 United States presidential election
-Fundraising in the 2016 United States presidential election
-Fundraising in the 2020 United States presidential election
 Fundraising in the 2024 United States presidential election
-GLBT Historical Society
-Gary Hart
-Gavrielle Holmes
-Gay rights
-Gene Burns
 George B. McClellan
-George H. Pendleton
 George H. W. Bush

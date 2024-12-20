@@ -1,161 +1,31 @@
-AA tree
-AVL tree
-Abstract data type
-Allen Newell
-Amortized analysis
-Append
 Array (data structure)
-Array data structure
-Array data type
 Artificial intelligence
-Association list
 Associative array
-Asymptotic time complexity
-B-tree
-Big-O notation
-Binary decision diagram
-Binary heap
-Binary search tree
-Binary tree
-Binomial heap
 Bit array
-Boolean value
-CAR and CDR
-CDR coding
-CPU cache
-Car and cdr
-Carnegie Mellon University
-Character (computing)
-Charles E. Leiserson
-Circular buffer
-Cliff Shaw
-Clifford Stein
-Collection (abstract data type)
 Communications of the ACM
 Computer science
-Cons
-Container (abstract data type)
-Cycle detection
-Data (computing)
-Data buffer
 Data structure
-Deterministic acyclic finite state automaton
-Dictionary of Algorithms and Data Structures
-Directed acyclic graph
-Disjoint-set data structure
 Doi (identifier)
-Donald Knuth
-Double-ended priority queue
-Double-ended queue
-Doubly linked list
-Dynamic array
-Dynamic list
-Dynamic memory allocation
-FIFO (computing and electronics)
-Face-edge data structure
-Fibonacci heap
-Fragmentation (computer)
-Free list
-Functional programming language
-General Problem Solver
 Graph (abstract data type)
-Hans Peter Luhn
-Hash table
-Hash tree (persistent data structure)
-Hashed array tree
-Heap (data structure)
-Heapsort
 Herbert A. Simon
 Hilbert R-tree
 IBM
 ISBN (identifier)
-Index (database)
-Information Processing Language
 Instruction pipelining
-Introduction to Algorithms
-Iteration
-John McCarthy (computer scientist)
-Josephus problem
-LISP
-Linear search
 Linguistics
-Linked data structure
 Lisp (programming language)
-Lisp programming language
-List
-List (abstract data type)
-List of data structures
 List ranking
-Locality of reference
 MIT Lincoln Laboratory
-Machine translation
 Massachusetts Institute of Technology
-Maurice Vincent Wilkes
-Memory pool
-Merge algorithm
-Min-list
-Motorola 6800
-Multimap
 National Institute of Standards and Technology
 Natural language
-Node (computer science)
-Null pointer
-Parallel algorithm
-Parallel array
-Pat Morin
-Persistent data structure
-Pointer (computer programming)
-Polygon
-Priority queue
 Programming language
-Pseudocode
-Quad-edge data structure
-Queue (abstract data type)
-Queue (data structure)
-R* tree
-R+ tree
-R-tree
 RAND Corporation
-Random access
-Random access list
 Record (computer science)
 Recursion
-Red–black tree
 Reference (computer science)
-Retrieval Data Structure
-Robert Sedgewick (computer scientist)
-Ronald L. Rivest
-Rootkits
-Round-robin scheduling
-Run time (program lifecycle phase)
-S-expression
 S2CID (identifier)
-Scheme (programming language)
-Self-balancing binary search tree
-Self-organizing list
-Sentinel node
-Sentinel value
 Sequence
-Sequential access
-Serialization
-Set (abstract data type)
-Skew binary number system
-Skew binary random access list
 Skip list
-Smoke Signal Broadcasting
-Sparse matrix
-Splay tree
-Stack (abstract data type)
-Stack (data structure)
-Tail-sharing
-Technical Systems Consultants
-Thomas H. Cormen
-Time complexity
-Time sharing
-Tree (data structure)
-Trie
-Turing Award
 UNESCO
 Unrolled linked list
-Victor Yngve
-XOR linked list

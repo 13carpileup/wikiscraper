@@ -1,5 +1,4 @@
 API
-Algorithmic skeleton
 Amdahl's law
 Analysis of parallel algorithms
 Application checkpointing
@@ -10,9 +9,7 @@ Automatic parallelization
 Barrier (computer science)
 Beowulf cluster
 Bit-level parallelism
-Boost (C++ libraries)
 Bulldozer (microarchitecture)
-C++ AMP
 CPU
 CUDA
 Cache-only memory architecture
@@ -22,7 +19,6 @@ Central processing unit
 Chapel (programming language)
 Charm++
 Cilk
-Cilk Plus
 Cloud computing
 Coarray Fortran
 Computer cluster
@@ -31,7 +27,6 @@ Computer multitasking
 Computer network
 Computer programming
 Concurrency (computer science)
-Conditional (programming)
 Cost efficiency
 Data parallelism
 Dataflow architecture
@@ -46,16 +41,12 @@ Embarrassingly parallel
 Explicit parallelism
 Fiber (computer science)
 Flynn's taxonomy
-Fork–join model
 GPUOpen
 General-purpose computing on graphics processing units
 Global Arrays
-Goroutine
-Grand Central Dispatch
 Grid computing
 Gustafson's law
 HPX
-Hardware Description Language
 Hardware acceleration
 Hardware scout
 High-performance computing
@@ -64,7 +55,6 @@ Implicit parallelism
 Instruction-level parallelism
 Instruction pipelining
 Instruction window
-Java concurrency
 Karp–Flatt metric
 Loop-level parallelism
 Manycore processor
@@ -72,7 +62,6 @@ Massively parallel
 Memory-level parallelism
 Memory coherence
 Message Passing Interface
-Multi-core
 Multiple instruction, multiple data
 Multiple instruction, single data
 Multiprocessing
@@ -90,17 +79,13 @@ Parallel computing
 Parallel external memory
 Parallel programming model
 Parallel slowdown
-Parallelization
 Pipeline (computing)
 Preemption (computing)
 Process (computing)
-Pseudocode
 Pthreads
 ROCm
 Race condition
 RaftLib
-Run time (program lifecycle phase)
-SPMD
 Scalability
 Semiconductor memory
 Server (computing)
@@ -120,16 +105,10 @@ Superscalar processor
 Symmetric multiprocessing
 Synchronization (computer science)
 Systolic array
-Task (computing)
-Task Parallel Library
 Temporal multithreading
-Thread (computer science)
 Thread (computing)
 Threading Building Blocks
 Unified Parallel C
 Uniform memory access
 VHDL
 Vector processor
-Verilog
-Workflow
-ZPL (programming language)

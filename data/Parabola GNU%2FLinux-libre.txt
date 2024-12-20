@@ -1,7 +1,5 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
-AMD64
 ARMv7
 AlmaLinux
 Alpine Linux
@@ -12,7 +10,6 @@ AntiX
 ArchBang
 ArchLabs
 Arch Linux
-Arch Linux ARM
 Artix Linux
 Asahi Linux
 Astra Linux
@@ -41,12 +38,10 @@ ChromiumOS
 ClearOS
 Clear Linux OS
 ColorOS
-Command-line interface
 Commodore OS
 Comparison of Linux distributions
 Container Linux
 Corel Linux
-Covenant (law)
 CrDroid
 CrunchBang Linux
 Cub Linux
@@ -57,7 +52,6 @@ Debian
 Deepin
 DemoLinux
 Devuan
-DistroWatch
 DivestOS
 DoudouLinux
 Dreamlinux
@@ -69,7 +63,6 @@ Emmabuntüs
 EndeavourOS
 Endless OS
 EulerOS
-FSDG
 Familiar Linux
 Feather Linux
 Fedora Linux
@@ -77,20 +70,13 @@ Fire OS
 Firefox OS
 Floppyfw
 Foresight Linux
-Free Software Foundation
-Free and open-source software
-Free culture movement
 Free software
 FreedomBox
 Freespire
 Frugalware Linux
 GNU
-GNU/Linux naming controversy
 GNU Core Utilities
-GNU Free System Distribution Guidelines
 GNU Guix System
-GNU Project
-GNU variants
 GNewSense
 GOS (operating system)
 Garuda Linux
@@ -100,9 +86,6 @@ GoboLinux
 Gobuntu
 GrapheneOS
 HandyLinux
-Hyperbola GNU/Linux-libre
-I686
-IRC
 ISO 9660
 Immunix
 IodéOS
@@ -120,15 +103,12 @@ Kongoni (operating system)
 Korora (operating system)
 Kubuntu
 Kwort Linux
-LXDE
 LXLE Linux
-Lemote
 Libranet
 LinHES
 LineageOS
 Linpus Linux
 Linux
-Linux-libre
 LinuxTLE
 Linux Caixa Mágica
 Linux Lite
@@ -138,9 +118,7 @@ Linux distribution
 Linux for PlayStation 2
 Linux kernel
 List of Linux distributions
-Loongson
 Lubuntu
-MATE (software)
 MCC Interim Linux
 MIPS architecture
 MIUI
@@ -154,14 +132,12 @@ Mer (software distribution)
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Musix GNU+Linux
 Network Security Toolkit
 NimbleX
 Nitix
 NixOS
 Nobara Linux
 Nova (operating system)
-OSNews
 OmniROM
 One UI
 OpenELEC
@@ -171,7 +147,6 @@ Open Enterprise Server
 Oracle Linux
 PCLinuxOS
 Package manager
-Pacman (software)
 Paranoid Android (operating system)
 Parrot OS
 Parsix
@@ -194,11 +169,9 @@ Red Hat Linux
 Red Star OS
 Remix OS
 Replicant (operating system)
-Repository (version control)
 Resurrection Remix OS
 Rocks Cluster Distribution
 Rocky Linux
-Rolling release
 SUSE Linux
 SUSE Linux Enterprise
 SUSE Studio
@@ -209,7 +182,6 @@ Salix OS
 Scientific Linux
 Slackware
 Slax
-Social contract
 Softlanding Linux System
 Software license
 Software release life cycle
@@ -223,8 +195,6 @@ Sunwah Linux
 SystemRescue
 T2 SDE
 Tails (operating system)
-TalkingArch
-The Free Software Definition
 Think Blue Linux
 Tiny Core Linux
 Tizen
@@ -243,8 +213,6 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 User interface
 User space and kernel space
 VectorLinux
@@ -252,10 +220,8 @@ Vine Linux
 Void Linux
 Whonix
 Wubuntu
-X86-64
 XB Machine
 Xubuntu
 Yellow Dog Linux
 Zenwalk
 Zorin OS
-Zsh

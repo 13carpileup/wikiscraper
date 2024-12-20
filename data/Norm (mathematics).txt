@@ -1,407 +1,65 @@
-Absolute continuity
 Absolute value
-Absolute value (algebra)
-Absolutely convex
-Absolutely convex set
-Absorbing set
-Abstract Wiener space
-Abuse of terminology
-Adjoint operator
-Affine hull
 Affine space
-Albert Wilansky
 Algebra over a field
-Algebraic interior
-Almost open linear map
-Anderson–Kadec theorem
-Andrey Kolmogorov
-Approximation property
-Asplund space
-Asymmetric norm
-Auxiliary normed space
-B-convex space
-BK-space
-Ba space
-Balanced set
-Ball (mathematics)
-Banach algebra
-Banach bundle
-Banach lattice
-Banach manifold
-Banach space
-Banach–Alaoglu theorem
-Banach–Mazur compactum
-Banach–Mazur distance
-Banach–Mazur theorem
-Banach–Saks theorem
-Barrelled space
-Besov space
-Bessel's inequality
 Bilinear form
 Bilinear map
-Bilinear operator
-Birkhäuser
-Birnbaum–Orlicz space
-Bochner integral
-Bochner space
-Borel functional calculus
-Bornological space
-Bounded inverse theorem
 Bounded operator
-Bounded set
-Bounded set (topological vector space)
-Bounded variation
-Bounding point
-Brauner space
-Bs space
 C*-algebra
-C space
-Calculus of variations
 Cauchy–Schwarz inequality
-Choquet theory
-Circle
-Closed graph theorem
-Closed graph theorem (functional analysis)
-Closed linear operator
-Closed range theorem
 Coding theory
-Column vector
 Compact operator
-Compact operator on Hilbert space
-Complemented subspace
-Complete topological vector space
 Complex conjugate
-Complex coordinate space
-Complex dot product
 Complex number
-Complex plane
 Composition algebra
-Cone (linear algebra)
-Conjugate transpose
-Continuous function
-Continuous functional calculus
-Continuous functions on a compact Hausdorff space
-Continuous linear operator
-Convenient vector space
-Convex cone
-Convex function
-Convex hull
-Convex series
-Convex set
 Coordinate vector
-Countably barrelled space
-Cross polytope
-DF-space
-David Donoho
-Definite matrix
-Definite quadratic form
-Degree of a field extension
-Densely defined
-Densely defined operator
 Derivative
-Differential operator
-Differentiation in Fréchet spaces
 Dimension (vector space)
-Directed set
-Discontinuous linear map
-Discrete metric
-Distance function
-Distinguished space
-Distribution (mathematics)
-Division algebra
 Doi (identifier)
 Dot product
-Dual norm
 Dual space
-Dual topology
-Dunford integral
-Eberlein–Šmulian theorem
 Eigenvalues and eigenvectors
 Equivalence relation
-Equivariant map
-Euclidean distance
 Euclidean norm
 Euclidean plane
-Euclidean space
-Euclidean vector space
-Extreme point
-F-seminorm
-F-space
-F. Riesz's theorem
-FK-AK space
-FK-space
 Field extension
-Field homomorphism
-Field norm
-Finer topology
-Finite element method
-Finite extension
-François Trèves
-Fredholm kernel
-Fredholm operator
-Freudenthal spectral theorem
-Fréchet derivative
-Fréchet space
 Function (mathematics)
-Functional (mathematics)
 Functional analysis
-Functional calculus
-Functional derivative
-Gateaux derivative
-Gelfand–Mazur theorem
-Gelfand–Naimark theorem
-Gene H. Golub
-Generalized function
-Generalized mean
-Glossary of functional analysis
-Goldstine theorem
-Gowers norm
 Graduate Texts in Mathematics
-Grothendieck space
-Group algebra of a locally compact group
-Haar measure
 Hadamard product (matrices)
-Hahn–Banach theorem
-Hamel basis
-Hamming distance
-Hardy space
 Harmonic analysis
-Hausdorff space
-Heat kernel
-Helmut H. Schaefer
-Hermitian adjoint
 Hilbert space
 Hilbert–Schmidt operator
-Holomorphic functional calculus
-Homogeneous function
 Homomorphism
-Hurwitz's theorem (composition algebras)
-Hypercube
-Hyperplane separation theorem
-Hölder's inequality
-Hölder space
 ISBN (identifier)
 ISSN (identifier)
-Ideal norm
 Identity matrix
-Index theorem
-Infimum
-Infinite-dimensional Lebesgue measure
-Infinite-dimensional holomorphy
 Information theory
-Infrabarreled space
 Injective function
-Injective tensor product
 Inner product
 Inner product space
-Inseparable degree
 Integral
-Integral linear operator
-Interior (topology)
-Interpolation space
-Invariant subspace problem
 Involution (mathematics)
 Isomorphism
-Isotropic quadratic form
-Jones polynomial
-K-space (functional analysis)
-Kadec norm
-Kakutani fixed-point theorem
-Krein–Milman theorem
-L-infinity
-L-semi-inner product
-LB-space
-LF-space
-Least-squares spectral analysis
-Lecture Notes in Mathematics
 Linear form
 Linear map
-Linear operator
-Linear span
-Linear transformation
-List of Banach spaces
-List of functional analysis topics
-Local basis
-Locally convex topological vector space
-Lp space
-M. Riesz extension theorem
-MR (identifier)
-Mackey space
-Mackey–Arens theorem
-Magnitude (mathematics)
-Mahalanobis distance
-Mahler's conjecture
 Manhattan
-Manhattan distance
-Mathematical formulation of quantum mechanics
 Mathematics
-Matrix norm
-Matrix norms
-Maximum norm
-Mazur's lemma
-Measurable function
 Measure (mathematics)
-Metric geometry
-Metrizable topological vector space
-Min-max theorem
-Minkowski addition
-Minkowski distance
-Minkowski functional
-Modes of convergence
-Montel space
-Morrey–Campanato space
-N-sphere
 New York City
-Nicolas Bourbaki
-Noncommutative geometry
-Nonnegative
-Norm (group)
-Normable
-Normal operator
-Normed space
 Normed vector space
-Nuclear operator
-Nuclear space
-Null vector
 OCLC (identifier)
-Octahedron
-Octonion
-Open mapping theorem (functional analysis)
-Operator algebra
-Operator norm
-Operator space
-Operator theory
-Operator topologies
 Origin (mathematics)
-Orlicz space
 Orthonormal basis
-Paley–Wiener integral
-Parallelogram
-Paranorm
-Parseval's identity
-Pettis integral
-Polar decomposition
-Polar set
-Polarization identity
-Polynomially reflexive space
-Positive definiteness
-Positive linear functional
-Prevalent and shy sets
-Prewellordering
-Prism (geometry)
 Probability theory
-Projection-valued measure
-Projective tensor product
-Pseudo-monotone operator
-Ptak space
-Pythagorean theorem
-Quadratic form
-Quasi-complete
-Quasi-derivative
-Quasi-ultrabarrelled space
-Quasibarrelled space
-Quasinorm
 Quaternion
-Radial set
-Real-valued function
 Real number
-Reflexive relation
-Reflexive space
-Regulated integral
-Relation of norms and metrics
-Reverse triangle inequality
-Riemann hypothesis
-Riesz's lemma
-Riesz representation theorem
-Riesz space
-Schauder fixed-point theorem
-Schwartz TVS
-Schwartz space
-Segal–Bargmann space
-Self-adjoint operator
-Semi-complete
-Semi-reflexive space
-Seminorm
-Separable space
-Separation axiom
 Sequence
-Sequence space
-Sesquilinear form
 Signal processing
 Singular value decomposition
-Smith space
-Sobolev inequality
-Sobolev space
-Spectral radius
-Spectral theorem
 Spectral theory
-Spectral theory of ordinary differential equations
-Spectrum (functional analysis)
-Spectrum of a C*-algebra
-Spectrum of a matrix
-Split algebra
-Springer-Verlag
-Square-integrable function
-Square (geometry)
-Square root
-Square root of a matrix
-Star domain
 Statistics
-Stereotype space
-Street grid
-Strictly convex space
-Strictly singular operator
-Strong operator topology
-Strong topology
-Strong topology (polar topology)
-Strongly measurable functions
-Subadditive function
-Sublinear function
-Superellipse
-Supremum norm
 Symmetric matrix
-Symmetric relation
-Symmetric set
-Taxicab geometry
-Tensor product of Hilbert spaces
-Tomita–Takesaki theory
-Topological homomorphism
-Topological quantum field theory
-Topological tensor product
-Topological vector space
 Topology
-Topology of uniform convergence
-Totally bounded space
 Trace class
-Transitive relation
 Transpose
-Transpose of a linear map
-Triangle inequality
-Triebel–Lizorkin space
-Ultrabarrelled space
-Ultrabornological space
-Ultrastrong topology
-Ultraweak topology
-Unbounded operator
-Uniform boundedness principle
-Uniform norm
-Uniformly convex space
-Uniformly isomorphic
-Uniformly smooth space
-Unit ball
-Unit circle
-Unitary operator
-Ursescu theorem
-Validated numerics
-Vector-valued Hahn–Banach theorems
-Vector measure
 Vector space
-Von Neumann algebra
-Weak operator topology
-Weak topology
-Weak topology (polar topology)
-Weakly measurable function
-Webbed space
-Wiener amalgam space
-Zonotope
-Éléments de mathématique

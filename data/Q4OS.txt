@@ -1,9 +1,5 @@
-/e/ (operating system)
-32-bit processor
 4MLinux
 ALT Linux
-APT (software)
-ARM architecture family
 AlmaLinux
 Alpine Linux
 Android-x86
@@ -13,8 +9,6 @@ AntiX
 ArchBang
 ArchLabs
 Arch Linux
-Arm64
-Armhf
 Artix Linux
 Asahi Linux
 Astra Linux
@@ -45,7 +39,6 @@ Clear Linux OS
 ColorOS
 Commodore OS
 Comparison of Linux distributions
-Comparison of light-weight Linux distributions
 Container Linux
 Corel Linux
 CrDroid
@@ -53,24 +46,20 @@ CrunchBang Linux
 Cub Linux
 CyanogenMod
 Czech Republic
-Daemon (computing)
 Damn Small Linux
 Damn Vulnerable Linux
 Debian
 Deepin
 DemoLinux
 Devuan
-DistroWatch
 DivestOS
 DoudouLinux
-Dpkg
 Dreamlinux
 EMUI
 Edubuntu
 Elementary OS
 Elive
 Emmabuntüs
-End-of-life product
 EndeavourOS
 Endless OS
 EulerOS
@@ -81,8 +70,6 @@ Fire OS
 Firefox OS
 Floppyfw
 Foresight Linux
-FreeDOS
-Free software licenses
 FreedomBox
 Freespire
 Frugalware Linux
@@ -100,15 +87,10 @@ GoboLinux
 Gobuntu
 GrapheneOS
 HandyLinux
-Hyperbola GNU/Linux-libre
-I386
-IceDove
 Immunix
 IodéOS
 Jurix
-KDE Plasma 5
 KDE neon
-K Desktop Environment 3
 KaOS
 KaiOS
 Kaisen Linux
@@ -122,27 +104,20 @@ Korora (operating system)
 Kubuntu
 Kwort Linux
 LXLE Linux
-LXQt
-Legacy system
 Libranet
-Light-weight Linux distribution
 LinHES
 LineageOS
 Linpus Linux
 Linux
-Linux.com
 LinuxTLE
 Linux Caixa Mágica
 Linux Lite
 Linux Mint
 Linux Router Project
-Linux XP
 Linux distribution
 Linux for PlayStation 2
 Linux kernel
 List of Linux distributions
-Long-term support
-Look and feel
 Lubuntu
 MCC Interim Linux
 MIUI
@@ -154,11 +129,8 @@ Mandriva Linux
 Manjaro
 MeeGo
 Mer (software distribution)
-Microsoft Edge
 Miracle Linux
 Mobilinux
-Mozilla Thunderbird
-Musix GNU+Linux
 Natural language
 Network Security Toolkit
 NimbleX
@@ -173,12 +145,9 @@ OpenELEC
 OpenMandriva Lx
 OpenSUSE
 Open Enterprise Server
-Operating systems
-Optical disc image
 Oracle Linux
 PCLinuxOS
 Package manager
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
@@ -189,7 +158,6 @@ PixelExperience
 Platypux
 Pop! OS
 Porteus (operating system)
-Prague
 Programmer
 Proprietary software
 Puppy Linux
@@ -216,14 +184,11 @@ Salix OS
 Scientific Linux
 Slackware
 Slax
-Snap (package manager)
 Softlanding Linux System
-Softpedia
 Software license
 Software release life cycle
 Solus (operating system)
 SolydXK
-SourceForge
 Source Mage
 SparkyLinux
 Splashtop OS
@@ -233,17 +198,14 @@ SystemRescue
 T2 SDE
 Tails (operating system)
 TechRadar
-The Register
 Theme (computing)
 Think Blue Linux
 Tiny Core Linux
 Tizen
 TopologiLinux
-Trinity Desktop Environment
 Trisquel
 Turbolinux
 Turkix
-UEFI
 Ubuntu
 Ubuntu Budgie
 Ubuntu Cinnamon
@@ -255,7 +217,6 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Uruk GNU/Linux
 User interface
 User space and kernel space
 VectorLinux
@@ -263,12 +224,8 @@ Vine Linux
 Void Linux
 Whonix
 Windows 10
-Windows 2000
-Windows 7
 Windows 8
-Windows XP
 Wubuntu
-X86-64
 XB Machine
 Xubuntu
 Yellow Dog Linux

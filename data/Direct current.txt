@@ -1,83 +1,35 @@
-42 V electrical system
-AC-to-AC converter
-AC adapter
 AC motor
-ATX
 Albert Einstein
 Alessandro Volta
 Alfred-Marie Liénard
 Alternating current
 Alternator
 Aluminum
-Amplidyne
 Ampère's circuital law
 André-Marie Ampère
-Antonio Pacinotti
 Arc lamp
-Archaism
-Armature (electrical)
-Automotive battery
-Axial flux motor
-Ball bearing motor
-Barlow's wheel
-Battery (electricity)
-Battery electric vehicle
-Battery management system
-Bias tee
 Biot–Savart law
-Blocked rotor test
-Braking chopper
 Bremsstrahlung
-Brush (electric)
-Brushed DC electric motor
-Brushless DC electric motor
 Capacitance
 Capacitor
 Carl Friedrich Gauss
 Charge density
 Charles-Augustin de Coulomb
 Charles Proteus Steinmetz
-Circle diagram
 Classical electromagnetism
 Classical electromagnetism and special relativity
-Coil winding technology
-Coilgun
-Combined Charging System
-Common external power supply
 Commutator (electric)
 Computational electromagnetics
-Conductor (material)
 Coulomb's law
 Covariant formulation of classical electromagnetism
-Current (electricity)
 Current density
-Current source
-Cycloconverter
 Cyclotron radiation
-DC-DC converter
-DC Power FC
-DC bias
-DC connector
-DC injection braking
 DC motor
-DC power
-DC steady state
-Dahlander pole changing motor
-Damper winding
-Diesel engine
-Differential equations
-Diode bridge
-Direct torque control
 Displacement current
 Doi (identifier)
-Doubly fed electric machine
-Doubly fed induction generator
-Dual-rotor permanent magnet induction motor
-Dynamo
 Eddy current
 Electret
 Electric charge
-Electric circuit
 Electric current
 Electric dipole moment
 Electric field
@@ -88,18 +40,12 @@ Electric motor
 Electric potential
 Electric potential energy
 Electric power
-Electrical circuit
 Electrical conductor
 Electrical impedance
-Electrical insulation
 Electrical network
-Electrical polarity
 Electrical resistance and conductance
 Electricity
-Electrochemical cell
-Electrochemistry
 Electrolysis
-Electromagnetic coil
 Electromagnetic field
 Electromagnetic four-potential
 Electromagnetic induction
@@ -109,31 +55,21 @@ Electromagnetic stress–energy tensor
 Electromagnetic tensor
 Electromagnetism
 Electromotive force
-Electron beam
 Electronics
 Electrostatic discharge
 Electrostatic induction
-Electrostatic motor
 Electrostatics
 Emil Lenz
 Emil Wiechert
-Extra-low voltage
 Faraday's law of induction
-Field coil
-Flux switching alternator
 Four-current
-Frank J. Sprague
 Franz Ernst Neumann
-François Arago
-Fuel cells
 Félix Savart
 Galileo Ferraris
 Gauss's law
 Gauss's law for magnetism
 Georg Ohm
 George Singer
-Giuseppe Domenico Botto
-Ground (electricity)
 Gustav Kirchhoff
 Gyrator–capacitor model
 Hans Christian Ørsted
@@ -143,22 +79,16 @@ Hermann von Helmholtz
 High-voltage direct current
 Hippolyte Fizeau
 Hippolyte Pixii
-History of electric power transmission
 History of electromagnetic theory
-Homopolar motor
 Humphry Davy
 IEC 62700
 ISBN (identifier)
 ISSN (identifier)
-Inchworm motor
 Inductance
-Induction generator
 Induction motor
 Inductor
 Insulator (electricity)
-Inverter (electrical)
 J. J. Thomson
-Jack (connector)
 James Clerk Maxwell
 James Prescott Joule
 Jean-Baptiste Biot
@@ -167,26 +97,18 @@ John Henry Poynting
 John Hopkinson
 Joseph Henry
 Joseph Larmor
-Joseph Saxton
 Joule heating
-Kent State University Press
 Kirchhoff's circuit laws
 Larmor formula
 Lenz's law
-Light fixture
 Linear alternator
-Linear induction motor
 Linear motor
-Lippincott Williams & Wilkins
 List of electrical phenomena
 List of textbooks in electromagnetism
 Liénard–Wiechert potential
 London equations
 Lord Kelvin
 Lorentz force
-Low voltage
-Lynch motor
-Magnet
 Magnetic circuit
 Magnetic complex reluctance
 Magnetic field
@@ -197,123 +119,48 @@ Magnetic scalar potential
 Magnetic vector potential
 Magnetism
 Magnetization
-Magneto
 Magnetomotive force
 Magnetostatics
 Mathematical descriptions of the electromagnetic field
 Maxwell's equations
 Maxwell's equations in curved spacetime
 Maxwell stress tensor
-Mendocino motor
-Metadyne
 Michael Faraday
 Mikhail Dolivo-Dobrovolsky
-Moritz von Jacobi
-Motor controller
-Motor drive
-Motor soft starter
-Mouse mill motor
 Network analysis (electrical circuits)
-Neutral direct-current telegraph system
 Nikola Tesla
-NorNed
-Ohio History
 Ohm's law
 Oleg D. Jefimenko
 Oliver Heaviside
-Open-circuit test
-Open-loop controller
 Optics
-Permanent magnet motor
-Permanent magnet synchronous generator
 Permeability (electromagnetism)
 Permeance
 Permittivity
-Peter Barlow (mathematician)
-Piezoelectric motor
-Polarity symbols
 Polarization density
-Power-to-weight ratio
-Power stations
 Power supply
-Power supply unit (computer)
-PoweredUSB
 Poynting vector
-Public utility
-Railgun
-Railway electrification system
 Rectifier
 Relativistic electromagnetism
-Reluctance motor
-Repulsion motor
-Resistor
 Resonator
 Right-hand rule
-Robert Davidson (inventor)
-Robert H. Park
 Rotor (electric)
-Semiconductor
 Series and parallel circuits
-Servomotor
-Shaded-pole motor
 Siméon Denis Poisson
-Single-phase generator
-Slip ring
-Smart battery
-Solar panel
-Solar power
-Starter (engine)
-State of charge
-State of health
 Static electricity
-Stationary process
 Stator
-Stepper motor
-Superconducting electric machine
-Switch
-Switched reluctance motor
-Synchronous motor
 Synchrotron radiation
-TEFC motor
-Tata McGraw-Hill Education
 Telephone
-Telephone exchange
-Third rail
-Thomas Davenport (inventor)
 Thomas Edison
-Timeline of the electric motor
 Traction motor
 Transformer
-Transient state
 Triboelectric effect
 Twisted pair
-Two-phase electric power
 USB
-USB Power Delivery
-Ultrasonic motor
 Unicode
-Unipolar motor
-Universal Power Adapter for Mobile Devices
-Universal motor
-Urban area
-Vacuum
-Variable-frequency drive
-Vector control (motor)
-Volkswagen Beetle
 Volt
 Voltage
-Voltage controller
-Voltage regulator
-Voltage source
-Voltaic pile
-Ward Leonard control
 Watt
 Waveguide (radio frequency)
 Wayback Machine
-Werner von Siemens
 Wilhelm Eduard Weber
 William Ritchie (physicist)
-William Sturgeon
-Wound rotor motor
-Zénobe Gramme
-Ányos Jedlik

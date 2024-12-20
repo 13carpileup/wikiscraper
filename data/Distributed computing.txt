@@ -1,34 +1,21 @@
-ACM SIGACT News
 API
 ARPANET
-Actor model
-Addison–Wesley
-Aircraft
 Algorithm
 Amdahl's law
 Analysis of parallel algorithms
-AppScale
 Application checkpointing
-Application server
-Architectural patterns
 Array (data structure)
 Asymmetric multiprocessing
 Ateji PX
 Automatic parallelization
-BOINC
 Barrier (computer science)
 Beowulf cluster
 Bibcode (identifier)
 Bit-level parallelism
 BitTorrent
-Bitcoin network
-Boolean circuits
-Boost (C++ libraries)
 Bulldozer (microarchitecture)
 Burst buffer
 Byte
-Byzantine fault tolerance
-C++ AMP
 CUDA
 Cache-only memory architecture
 Cache coherence
@@ -36,26 +23,14 @@ Cache invalidation
 Cambridge University Press
 Cellular network
 Chapel (programming language)
-Charles E. Leiserson
 Charm++
 Christos Papadimitriou
 Cilk
-CiteSeerX (identifier)
-Client–server
-Clock synchronization
 Cloud computing
-Cluster (computing)
-Cluster computing
 Coarray Fortran
-Code mobility
-Cole–Vishkin algorithm
-Communication complexity
-Communication system
 Communications of the ACM
-Compare-and-swap
 Computability theory
 Computational complexity theory
-Computational problem
 Computer cluster
 Computer hardware
 Computer multitasking
@@ -63,55 +38,28 @@ Computer network
 Computer program
 Computer programming
 Computer science
-Computer system
 Concurrency (computer science)
 Concurrent computing
-Consensus (computer science)
 Cost efficiency
 Data parallelism
 Database
-Database-centric architecture
 Dataflow architecture
 Dataflow programming
-David Peleg (scientist)
 Deadlock (computer science)
-Decentralized computing
 Deterministic algorithm
-Diameter (graph theory)
-Dijkstra Prize
-Dining philosophers problem
-Distributed GIS
-Distributed algorithm
-Distributed algorithmic mechanism design
-Distributed application
-Distributed cache
-Distributed database
-Distributed database management system
-Distributed file system
 Distributed memory
-Distributed networking
-Distributed operating system
-Distributed rendering
 Distributed shared memory
 Doi (identifier)
 Dryad (programming)
-E-mail
-Edsger W. Dijkstra Prize in Distributed Computing
 Embarrassingly parallel
 Ethernet
-Event driven architecture
-Eventual consistency
 Explicit parallelism
-Fallacies of distributed computing
 Fault tolerance
 Federation (information technology)
 Fiber (computer science)
 FidoNet
 Finite-state machine
-Flat neighborhood network
 Flynn's taxonomy
-Fog computing
-Folding@home
 GPUOpen
 General-purpose computing on graphics processing units
 Global Arrays
@@ -119,71 +67,36 @@ Graph (discrete mathematics)
 Grid computing
 Gustafson's law
 HPX
-Hagit Attiya
 Halting problem
-Happened-before
 Hardware acceleration
 Hardware scout
 HarmonyOS
 High-performance computing
 ISBN (identifier)
 ISSN (identifier)
-Idit Keidar
 Implicit parallelism
-Industrial control system
-Inferno (operating system)
 Information
 Instruction-level parallelism
 Instruction pipelining
 Instruction window
 Inter-process communication
-International Symposium on Distributed Computing
 Internet
-Internet GIS
-Introduction to Algorithms
-Jungle computing
-K. Mani Chandy
 Karp–Flatt metric
-Larry Stockmeyer
 Latency (engineering)
-Layered queueing network
-Leader election
-Library Oriented Architecture
-List of distributed computing conferences
-List of volunteer computing projects
-Local-area networks
-Logical clock
 Loop-level parallelism
 Loose coupling
-MIT Press
-Main/sub (technology)
 Manycore processor
 Marginal cost
 Massively multiplayer online game
 Massively parallel
-Maurice Herlihy
 Memory-level parallelism
-Memory (computers)
 Memory coherence
-Message-oriented middleware
 Message Passing Interface
-Message passing
-Microservices
 Model checking
-Moni Naor
-Monolithic application
-Morgan Kaufmann
 Multiple instruction, multiple data
 Multiple instruction, single data
 Multiprocessing
 Multithreading (computer architecture)
-Multitier architecture
-Mutual exclusion
-NC (complexity)
-Nancy Lynch
-Nati Linial
-Nir Shavit
-Node (networking)
 Non-blocking algorithm
 Non-uniform memory access
 OCLC (identifier)
@@ -193,24 +106,16 @@ OpenHMPP
 OpenHarmony
 OpenMP
 Operating system
-Output (computing)
 PMID (identifier)
-PSPACE-complete
 Parallel Extensions
 Parallel RAM
 Parallel Virtual Machine
-Parallel computation
 Parallel computing
-Parallel distributed processing
 Parallel external memory
 Parallel programming model
-Parallel random-access machine
 Parallel slowdown
 Peer-to-peer
-Peer-to-peer network
 Pipeline (computing)
-Plan 9 from Bell Labs
-Polylogarithmic time
 Preemption (computing)
 Process (computing)
 Pthreads
@@ -218,69 +123,36 @@ ROCm
 Race condition
 RaftLib
 Random-access machine
-Remote procedure call
-Ring network
 Robert G. Gallager
-Roger M. Needham
-Ron Rivest
-Routing algorithm
 S2CID (identifier)
-SIAM
-Saga interaction pattern
-Sanjeev Arora
 Scalability
-Scientific computing
-Self-stabilisation
 Semiconductor memory
-Serverless computing
-Service-oriented architecture
-Shamkant Navathe
-Shared-disk architecture
-Shared-memory architecture
 Shared memory
-Shared nothing
-Shared nothing architecture
-Shay Kutten
-Shlomi Dolev
-Shlomo Moran
 Simultaneous and heterogeneous multithreading
 Simultaneous multithreading
 Single instruction, multiple data
 Single instruction, multiple threads
 Single instruction, single data
-Single point of failure
 Software lockout
-Sorting network
 Speculative multithreading
 Speedup
 Starvation (computer science)
-Stateless protocol
 Stream processing
 Superscalar processor
 Symmetric multiprocessing
-Symposium on Principles of Distributed Computing
 Synchronization (computer science)
-Synchronizer (algorithm)
 Systolic array
 Task parallelism
 Telecommunications
-Telephone network
 Temporal multithreading
 Theoretical computer science
-Thomas H. Cormen
 Thread (computing)
 Threading Building Blocks
-Three-tier (computing)
 Undecidable problem
 Unified Parallel C
 Uniform memory access
-Universal Turing machine
 Usenet
-Uzi Vishkin
 Vector processor
 Virtual reality
 Wayback Machine
-Web GIS
-Wireless sensor network
 World Wide Web
-ZPL (programming language)

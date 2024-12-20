@@ -1,99 +1,30 @@
 Abstract machine
-Academic Press
-Algebraic data type
-Analogy
-Andrey Kolmogorov
-Apply
-Arend Heyting
-Automath
-Axiom-scheme
 Axiom of choice
-Axiom scheme
-BHK interpretation
 Bibcode (identifier)
-BrookGPU
 Brouwer–Heyting–Kolmogorov interpretation
-Calculus of Constructions
-Call-by-name
-Call-by-value
-Call-with-current-continuation
-Cartesian closed categories
-Categorical logic
 Category theory
-CiteSeerX (identifier)
 Classical logic
-Closed monoidal category
-Cobordism
-Combinatory logic
 Computer program
 Computer programming
 Continuation
-Continuation-passing style
-Coq (software)
-Corecursion
-Curry's paradox
-Curry (programming language)
-Currying
-Dag Prawitz
 Data type
-Deduction theorem
 Dependent type
-Dialectica interpretation
 Doi (identifier)
 Double-negation translation
-Elsevier
-Elsevier Science
-Empty type
-Evaluation strategy
 Existential quantification
 Formal system
-Formula (mathematical logic)
-Function type
-Functional programming language
 Genetic programming
-Gentzen
-Georg Kreisel
-Grothendieck topology
 Haskell
-Haskell Curry
 Higher-order logic
-Hilbert-style deduction system
-Homotopy
 Homotopy type theory
-Hypotheses
-INRIA
 ISBN (identifier)
 ISSN (identifier)
-Identity type
-Implication elimination
-Implication introduction
-Inference rules
-Institute for Advanced Study
-Internal language
-International Conference on Logic Programming and Automated Reasoning
-Intuitionism
-Intuitionistic
 Intuitionistic logic
 Intuitionistic type theory
-J. Roger Hindley
 JSTOR (identifier)
-Jean Gallier
-Joachim Lambek
-Jonathan P. Seldin
-Kolmogorov
-Kurt Gödel
-L. E. J. Brouwer
-LCCN (identifier)
-Lambda-mu calculus
 Lambda calculus
-Linear logic
-Linear type system
-Logic programming
 Logical conjunction
 Logical disjunction
-Logical implication
-Logician
-Martin-Löf
 Mathematical induction
 Mathematical proof
 Mathematician
@@ -102,55 +33,20 @@ Modal logic
 Model of computation
 Modus ponens
 Monad (functional programming)
-Namesake
 Natural deduction
-Nicolaas Govert de Bruijn
-Normalization property (lambda-calculus)
 Open-source software
 Oxford University Press
-P.T. Johnstone
 PMC (identifier)
 PMID (identifier)
-Peirce's law
-Philip Wadler
-Principal type
-Product type
-Program correctness
 Programming language
 Programming language theory
-Proof-carrying code
 Proof calculus
 Proof theory
-Realizability
-Recursion (computer science)
-Relevant logic
-Return type
-Ruy de Queiroz
 S2CID (identifier)
-Sequent
 Sequent calculus
 Set theory
-Simply typed lambda calculus
-Springer-Verlag
 Springer Science+Business Media
 Stephen Cole Kleene
-Stephen Kleene
-String theory
-Sum type
-System F
 Tautology (logic)
-Terminal object
-Thierry Coquand
-Total functional programming
-Turing-complete
-Turing completeness
-Type inhabitation problem
-Type systems
 Type theory
-Typed lambda calculus
-Typing context
-Typing rule
-Unit type
-Univalence axiom
 Universal quantification
-William Alvin Howard

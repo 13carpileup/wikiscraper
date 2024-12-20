@@ -1,117 +1,52 @@
 AC motor
-ADM formalism
 A Dynamical Theory of the Electromagnetic Field
 A Treatise on Electricity and Magnetism
-Acoustics
-Aharonov–Bohm effect
 Albert Einstein
-Alcubierre drive
 Alessandro Volta
-Alexander Friedmann
 Alfred-Marie Liénard
-Algebra of physical space
 Alternating current
 Ampère's circuital law
-Ampère's force law
-Ampère–Maxwell law
-Analytical mechanics
 André-Marie Ampère
-Anomalous dispersion
-Applied physics
-Apsidal precession
 ArXiv (identifier)
-Artech House
-Arthur Eddington
-Astrophysics
-Atmospheric physics
-Atomic, molecular, and optical physics
 Atomic nucleus
-Atomic physics
-Atomic scale
-BKL singularity
-BSSN formalism
-Bar magnet
 Basic research
 Bibcode (identifier)
-Biophysics
 Biot–Savart law
-Biquaternion
-Bit
 Black hole
-Bound charge
-Bound current
-Boundary (topology)
-Boundary condition
-Boundary value problem
-Branches of physics
-Brans–Dicke theory
 Bremsstrahlung
 Capacitance
 Capacitor
 Carl Friedrich Gauss
-Celestial mechanics
-Centimetre gram second system of units
-Charge conservation
 Charge density
 Charles-Augustin de Coulomb
 Charles Proteus Steinmetz
-Charles W. Misner
-Chemical physics
-Circulation (fluid dynamics)
 Classical electromagnetism
 Classical electromagnetism and special relativity
-Classical field theory
-Classical mechanics
-Classical optics
 Classical physics
-Coherent system of units
-Cohomology
 Computational electromagnetics
 Computational physics
-Condensed matter physics
-Conformal geometry
 Constitutive equation
-Constitutive relation
-Continuum mechanics
-Cornell University Press
 Coulomb's law
-Covariant derivative
 Covariant formulation of classical electromagnetism
 Crystallography
 Curl (mathematics)
 Current density
 Cyclotron radiation
-D'Alembert operator
 DC motor
 David Hilbert
-David J. Griffiths
-De Rham cohomology
 Del
 Dielectric
-Differential form
-Differentiation under the integral sign
-Dimensional analysis
-Dipole
 Direct current
 Dispersion (optics)
 Displacement current
 Divergence
 Divergence theorem
 Doi (identifier)
-Doubly special relativity
 Duane–Hunt law
-Earth's magnetic field
 Eddy current
-Edward Arthur Milne
-Einstein cross
-Einstein field equations
-Einstein rings
 Electret
 Electric charge
-Electric charge density
 Electric current
-Electric current density
-Electric dipole
 Electric dipole moment
 Electric displacement field
 Electric field
@@ -125,7 +60,6 @@ Electric power
 Electrical conductor
 Electrical impedance
 Electrical network
-Electrical potential
 Electrical resistance and conductance
 Electricity
 Electrolysis
@@ -140,7 +74,6 @@ Electromagnetic tensor
 Electromagnetic wave equation
 Electromagnetic waves
 Electromagnetism
-Electromagnetism uniqueness theorem
 Electromotive force
 Electron
 Electrostatic discharge
@@ -150,351 +83,124 @@ Emil Lenz
 Emil Wiechert
 Encyclopedia of Mathematics
 Engineering physics
-Equivalence principle
-Ernst equation
 Euler–Heisenberg Lagrangian
 European Mathematical Society
-Event horizon
-Exact solutions in general relativity
-Experimental physics
-Exterior calculus
-Exterior derivative
 Faraday's law of induction
-Faraday tensor
-Finite-difference time-domain method
-Finite element analysis
-Finite element method
-Flow velocity
-Fluid dynamics
 Four-current
-Four-potential
-Frame-dragging
-Frame of reference
 Franz Ernst Neumann
 Frequency
-Fresnel equations
-Friedmann equations
-Friedmann–Lemaître–Robertson–Walker metric
-Fritz Zwicky
 Félix Savart
-GEO600
-Galilean invariance
-Galilean transformation
 Gamma ray
-Gauge fixing
 Gauss's law
 Gauss's law for magnetism
-Gaussian surface
-Gaussian units
-General relativity
-Geodesics in general relativity
-Geodetic effect
 Geomagnetic storm
 Geometric algebra
-Geometrical optics
-Geophysics
 Georg Ohm
 George Singer
-Georges Lemaître
-Google Books
 Gradient
 Gravitational-wave astronomy
-Gravitational-wave observatory
-Gravitational lens
-Gravitational physics
-Gravitational redshift
-Gravitational singularity
-Gravitational wave
-Gravitoelectromagnetism
 Gustav Kirchhoff
 Gyrator–capacitor model
-Gyromagnetic ratio
-Gödel metric
-Hamilton–Jacobi–Einstein equation
 Hans Christian Ørsted
 Hdl (identifier)
-Heaviside–Lorentz units
 Heinrich Hertz
-Helmholtz equation
 Hendrik Lorentz
-Henri Poincaré
-Hermann Bondi
-Hermann Weyl
 Hermann von Helmholtz
 Hippolyte Fizeau
-History of Maxwell's equations
 History of electromagnetic theory
-History of physics
-Hodge star
 Homology (mathematics)
-Howard P. Robertson
-Hulse–Taylor binary
 Humphry Davy
-Hyperbolic orthogonality
-Hysteresis
 ISBN (identifier)
 ISSN (identifier)
 If and only if
-Igor Dmitriyevich Novikov
 Inductance
 Induction motor
-Inertial frame
-Inhomogeneous electromagnetic wave equation
-Initial condition
 Insulator (electricity)
 Integral
-Interface conditions for electromagnetic fields
-Interior Schwarzschild metric
-Introduction to Solid State Physics
-Introduction to general relativity
 J. J. Thomson
 James Clerk Maxwell
 James Prescott Joule
 Jean-Baptiste Biot
 Jefimenko's equations
-John Archibald Wheeler
 John Henry Poynting
 John Hopkinson
 Joseph Henry
-Joseph Hooton Taylor Jr.
 Joseph Larmor
 Joule heating
-Julius Adams Stratton
-Jürgen Ehlers
 Kaluza–Klein theory
-Karl Schwarzschild
-Kasner metric
-Kelvin–Stokes theorem
-Kerr metric
-Kerr–Newman metric
-Kip Thorne
 Kirchhoff's circuit laws
-LIGO
-LIGO Scientific Collaboration
-LISA Pathfinder
-La Science et l'Hypothèse
-Ladder paradox
-Laplace–Beltrami operator
 Larmor formula
-Lemaître–Tolman metric
-Length contraction
-Lense–Thirring precession
 Lenz's law
-Leyden jar
 Light
-Light cone
-Line integral
 Linear motor
-Linearized gravity
-List of contributors to general relativity
 List of electrical phenomena
-List of electromagnetism equations
 List of textbooks in electromagnetism
-List of textbooks on relativity
-Lithosphere
 Liénard–Wiechert potential
 London equations
 Lord Kelvin
 Lorentz force
-Lorentz transformation
-Lorenz force
-Mach's principle
-Magnetic-core memory
-Magnetic charge
 Magnetic circuit
 Magnetic complex reluctance
-Magnetic core
 Magnetic field
 Magnetic flux
 Magnetic moment
-Magnetic monopole
 Magnetic reluctance
 Magnetic scalar potential
 Magnetic vector potential
 Magnetism
 Magnetization
-Magnetizing field
 Magnetomotive force
 Magnetostatics
-Manifest covariance
-Mass in special relativity
-Mass–energy equivalence
 Materials science
 Mathematical descriptions of the electromagnetic field
 Mathematical physics
-Mathematics of general relativity
-Matrix representation of Maxwell's equations
 Maxwell's equations in curved spacetime
-Maxwell relations
 Maxwell stress tensor
-Medical physics
-Metre per second
-Metric tensor
 Michael Faraday
-Milne model
-Minkowski diagram
-Minkowski space
-Modern physics
-Molecular physics
 Moving magnet and conductor problem
-Nabla symbol
 National Institute of Standards and Technology
 Network analysis (electrical circuits)
-New SI
-Newton's laws of motion
 Nikola Tesla
-Nobel Prize in Physics
-Non-equilibrium thermodynamics
-Nonclassical light
-Nondimensionalization
-Nonlinear optics
-Normal (geometry)
 Nuclear physics
-Numerical partial differential equations
-Numerical relativity
 Ohm's law
 Oleg D. Jefimenko
 Oliver Heaviside
 Optics
-Overdetermined system
-Ozsváth–Schücking metric
 PMC (identifier)
 PMID (identifier)
-Parameterized post-Newtonian formalism
 Partial differential equation
-Partial differential equations
 Particle physics
-Penrose diagram
-Perfectly matched layer
-Periodic boundary conditions
 Permeability (electromagnetism)
-Permeability of free space
 Permeance
 Permittivity
-Permittivity of free space
 Phase (waves)
 Phase velocity
-Philosophy of physics
-Photoelectric effect
 Photon
-Photon–photon scattering
-Physical law
-Physical oceanography
-Physical optics
-Physics education
-Planck's law
 Polarization density
-Position vector
-Power grid
 Poynting vector
-Pp-wave spacetime
-Prentice Hall
-Principle of relativity
-Proper acceleration
-Proper length
-Proper time
-Pseudo-Riemannian manifold
-Pseudovector
 Pulsar timing array
-Quantum cryptography
 Quantum electrodynamics
-Quantum entanglement
-Quantum field theory
-Quantum gravity
-Quantum information science
 Quantum mechanics
-Quantum optics
 Quaternion
 Radio wave
-Rainer Weiss
-Rapidity
-Raychaudhuri equation
-Reissner–Nordström metric
-Relative permittivity
-Relativistic Doppler effect
-Relativistic disk
 Relativistic electromagnetism
-Relativistic mechanics
-Relativistically invariant
-Relativity of simultaneity
 Resonator
-Ricci calculus
-Ricci tensor
-Richard Courant
-Riemannian geometry
-Riemann–Silberstein vector
 Right-hand rule
-Robert Geroch
-Robert Grayson Littlejohn
-Roger Penrose
 Rotor (electric)
-Roy Kerr
-Rudolf Kohlrausch
-Russell Alan Hulse
-SI system
-Scalar (physics)
-Schwarzschild metric
 Series and parallel circuits
-Shapiro time delay
-Shing-Tung Yau
 Siméon Denis Poisson
-Single-photon avalanche diode
-Sinusoidal
-Sinusoidal plane-wave solutions of the electromagnetic wave equation
-Solenoidal vector field
-Solid-state physics
-Spacetime
-Spacetime algebra
-Special relativity
 Speed of light
-Spin ice
 Static electricity
-Statistical mechanics
 Stator
-Stephen Hawking
-Stokes' theorem
-Stress–energy tensor
-Subrahmanyan Chandrasekhar
-Surface integral
 Synchrotron radiation
-Taub–NUT space
 Tensor
-Tensor calculus
-Terrell rotation
-Tests of general relativity
-The Maxwellians
 Theoretical physics
-Theory of relativity
-Thermodynamics
-Thomas precession
-Time dilation
-Timeline of fundamental physics discoveries
-Tolman–Oppenheimer–Volkoff equation
-Topological insulator
 Transformer
 Triboelectric effect
-Twin paradox
-Two-body problem in general relativity
-Unification (physics)
-Unit normal
-Universal constant
-Vacuum permeability
 Vacuum permittivity
-Van Stockum dust
-Vector (geometric)
-Vector area
-Vector calculus
-Vector calculus identities
 Vector field
-Vector potential
-Virgo interferometer
 Virtual particle
 Voltage
-Volume element
-Volume integral
-Vorticity
-Walter Lewin
 Watt
-Wave equation
 Waveguide
 Waveguide (radio frequency)

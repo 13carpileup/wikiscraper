@@ -1,227 +1,61 @@
-APL programming language
 Abelian group
-Abstract index notation
-Adjacency matrix
-Adjoint functor
-Adjoint representation of a Lie algebra
-Affine connection
 Albert Einstein
-Algebra (ring theory)
 Algebra over a field
 Algebraic variety
 Algebraically closed field
-American Mathematical Society
-Angular momentum
-Antisymmetric tensor
 ArXiv (identifier)
-Array programming languages
 Associative
-Augustin-Louis Cauchy
-Automorphism
 Basis (linear algebra)
-Bernhard Riemann
-Bifunctor
 Bilinear form
 Bilinear map
-Canonical isomorphism
 Carl Friedrich Gauss
-Cartan formalism (physics)
 Cartesian product
 Category (mathematics)
 Category theory
-Cauchy stress tensor
-Characteristic (algebra)
 Clifford algebra
-Cokernel
-Commutative
-Commutative diagram
 Commutative ring
-Compact closed category
-Complete metric space
 Computer vision
-Connection form
-Continuum mechanics
 Coordinate system
 Coordinate vector
-Cotangent space
-Covariance and contravariance of vectors
-Covariant derivative
-Derived tensor product
-Differentiable function
-Differential form
 Differential geometry
-Dimension
-Dimension (linear algebra)
-Direct sum
-Dual basis
 Dual space
-Dual vector space
-Dyadic product
-Dyadics
 Eigenvalues and eigenvectors
-Einstein notation
-Einstein tensor
 Electromagnetic tensor
 Electromagnetism
-Elwin Bruno Christoffel
 Engineering
 Euclidean geometry
-Exact functor
-Exact sequence
-Extension of scalars
 Exterior algebra
-Exterior calculus
-Exterior covariant derivative
-Exterior derivative
-Exterior form
-Exterior power
-Exterior product
-Fiber bundle
 Field (mathematics)
-Fortran
-François Trèves
-Free abelian group
-Free module
 Function (mathematics)
-Galois extension
 Galois theory
 Garrett Birkhoff
-General relativity
-Geodesic
-Glossary of tensor theory
-Gluon field strength tensor
-Graded vector space
-Graduate Studies in Mathematics
 Graduate Texts in Mathematics
-Graph homomorphism
-Gravitational field
-Gregorio Ricci-Curbastro
-Hermann Grassmann
-Hermann Weyl
-Higher-order function
 Hilbert space
 Hilbert–Schmidt operator
-Hodge star operator
 Homogeneous polynomial
 ISBN (identifier)
-Index notation
-Injective
 Inner product
-Invertible matrix
 Irreducible polynomial
 Isomorphism
-J programming language
-Jacobian matrix and determinant
-Jan Arnoldus Schouten
-Kronecker delta
 Kronecker product
-Leonhard Euler
-Levi-Civita connection
-Levi-Civita symbol
 Lie algebra
-Lie derivative
 Linear map
-Linear span
 Linear subspace
-Linearly independent
-Littlewood–Richardson rule
 MATLAB
-MR (identifier)
-Manifold
 Mathematician
 Mathematics
 Matrix (mathematics)
-Matrix rank
-Metric tensor
-Metric tensor (general relativity)
-Minor (linear algebra)
-Mixed tensor
 Module (mathematics)
-Moment of inertia
-Monoidal category
-Morphism of algebraic varieties
-Multi-index notation
 Multilinear algebra
-Multilinear form
 Multivector
-Nicolas Bourbaki
-Noncommutative ring
-Nonmetricity tensor
 OCLC (identifier)
-Object (category theory)
 Operation (mathematics)
-Ordered pair
-Outer product
-Paul Halmos
-Penrose graphical notation
-Permutation
 Physics
-Pointwise operation
-Presentation of a module
-Product (category theory)
-Projective spaces
-Pseudotensor
-Quotient space (linear algebra)
-Raising and lowering indices
-Ricci calculus
-Ricci curvature
-Riemann curvature tensor
-Right exact functor
 Ring (mathematics)
-Saunders Mac Lane
-Schauder basis
-Serge Lang
-Sheaf of modules
-Space-time
-Spin tensor
-Spinor
-Stress–energy tensor
-Surjective
 Symmetric algebra
-Symmetric monoidal category
-Symmetric tensor
-Symmetrization
 Tensor
-Tensor (intrinsic definition)
 Tensor algebra
-Tensor bundle
-Tensor calculus
 Tensor contraction
-Tensor density
-Tensor field
-Tensor operator
-Tensor product bundle
-Tensor product of Hilbert spaces
-Tensor product of algebras
-Tensor product of fields
-Tensor product of graphs
-Tensor product of linear maps
-Tensor product of modules
-Tensor product of quadratic forms
-Tensor product of representations
-Tensor rank
-Tensors in curvilinear coordinates
-Tetrad (index notation)
-Thomas W. Hungerford
-Tim Gowers
-Topological tensor product
-Tor functor
-Torsion tensor
-Transport phenomena
 Transpose
-Tullio Levi-Civita
-Two-point tensor
-Universal enveloping algebra
-Universal property
 Up to
-Van der Waerden notation
-Vector (mathematics and physics)
-Vector bundle
 Vector space
-Voigt notation
-Well-defined
-Weyl algebra
-Weyl tensor
-Woldemar Voigt
-Zbl (identifier)
-Élie Cartan

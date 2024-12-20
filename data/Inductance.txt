@@ -1,55 +1,35 @@
-2019 revision of the SI
 AC motor
-Admittance parameters
 Albert Einstein
 Alessandro Volta
 Alfred-Marie Liénard
 Alternating current
-Amber
-American wire gauge
-Ampere
-Ampere's circuital law
-Ampere's law
-Ampere (unit)
-Amplitude
 Ampère's circuital law
 André-Marie Ampère
 Angular frequency
 ArXiv (identifier)
-Back-EMF
-Back EMF
 Bandpass filter
 Bibcode (identifier)
-Big O notation
 Biot–Savart law
 Bremsstrahlung
 Capacitance
 Carl Friedrich Gauss
-Chain rule
 Charge density
 Charles-Augustin de Coulomb
 Charles Proteus Steinmetz
-CiteSeerX (identifier)
 Classical electromagnetism
 Classical electromagnetism and special relativity
-Complex frequency
 Computational electromagnetics
 Coulomb's law
-Coupling coefficient (inductors)
 Covariant formulation of classical electromagnetism
 Current density
 Cyclotron radiation
 DC motor
-Dimensional analysis
 Direct current
 Displacement current
 Doi (identifier)
-Dot convention
-Double tuned
 Eddy current
 Electret
 Electric charge
-Electric circuit
 Electric current
 Electric dipole moment
 Electric field
@@ -59,17 +39,13 @@ Electric motor
 Electric potential
 Electric potential energy
 Electric power
-Electrical circuit
-Electrical component
 Electrical conductor
-Electrical current
 Electrical impedance
 Electrical network
 Electrical resistance
 Electrical resistance and conductance
 Electricity
 Electrolysis
-Electromagnetic coil
 Electromagnetic field
 Electromagnetic four-potential
 Electromagnetic induction
@@ -87,40 +63,27 @@ Emil Lenz
 Emil Wiechert
 Energy
 Faraday's law of induction
-Ferromagnetic
-Flux linkage
 Four-current
 Franz Ernst Neumann
 Frequency
-Fritz Langford-Smith
 Félix Savart
-Galvanometer
 Gauss's law
 Gauss's law for magnetism
 Georg Ohm
 George Singer
 Gustav Kirchhoff
-Gyrator
 Gyrator–capacitor model
 Hans Christian Ørsted
 Heinrich Hertz
-Heinrich Lenz
-Helix
 Hendrik Lorentz
-Henry (unit)
 Hermann von Helmholtz
-Hertz (unit)
 Hippolyte Fizeau
 History of electromagnetic theory
-Homopolar generator
 Humphry Davy
-Hydraulic analogy
 ISBN (identifier)
 ISSN (identifier)
-Impedance analogy
 Induction motor
 Inductive coupling
-Inductive reactance
 Inductor
 Insulator (electricity)
 International System of Units
@@ -136,36 +99,24 @@ Joseph Henry
 Joseph Larmor
 Joule
 Joule heating
-Karl Küpfmüller
 Kilogram
-Kinetic inductance
 Kirchhoff's circuit laws
-LC circuit
-Laplace equation
 Larmor formula
-Leakage inductance
 Lenz's law
 Lightning
-Linear circuit
 Linear motor
 List of electrical phenomena
 List of textbooks in electromagnetism
 Liénard–Wiechert potential
-Lodestone
 London equations
 Lord Kelvin
 Lorentz force
 Magnetic circuit
 Magnetic complex reluctance
-Magnetic constant
-Magnetic core
-Magnetic domain
 Magnetic field
 Magnetic flux
 Magnetic moment
-Magnetic permeability
 Magnetic reluctance
-Magnetic saturation
 Magnetic scalar potential
 Magnetic vector potential
 Magnetism
@@ -180,65 +131,36 @@ Metre
 Michael Faraday
 Network analysis (electrical circuits)
 Nikola Tesla
-Number of turns
 Ohm's law
-Ohm (unit)
 Oleg D. Jefimenko
 Oliver Heaviside
 Optics
 Out of phase
 PMID (identifier)
 Permeability (electromagnetism)
-Permeability of free space
 Permeance
 Permittivity
 Polarization density
 Poynting vector
-Q factor
-RLC circuit
-RL circuit
-Radian
-Reactance (electronics)
 Relativistic electromagnetism
-Resonant circuit
 Resonant frequency
-Resonant inductive coupling
 Resonator
-Retarded potential
 Right-hand rule
 Rotor (electric)
 S2CID (identifier)
-SI
-SI base unit
-SI unit
-Saturation (magnetic)
 Second
 Series and parallel circuits
 Siméon Denis Poisson
-Sinusoidal
 Skin effect
-Solenoid
 Static electricity
 Stator
-Stokes' theorem
-Symmetry of second derivatives
 Synchrotron radiation
-Systeme International
-Time
 Transformer
-Transformer types
 Triboelectric effect
 Tuned circuit
-Two-port network
-U.S. Bureau of Standards
-Vacuum permeability
-Vector potential
 Volt
-Volt (unit)
 Voltage
 Watt
 Waveguide (radio frequency)
 Wilhelm Eduard Weber
 William Ritchie (physicist)
-Wireless power transfer
-Z parameters

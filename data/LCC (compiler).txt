@@ -10,35 +10,25 @@ ISBN (identifier)
 Newlib
 Software portability
 Porting
-CLion
 Dietlibc
-Cross-platform
 ANSI C
 Vala (programming language)
-Watcom C/C++
 Klibc
 Clang
 C99
 Microsoft Windows library files
 DEC Alpha
 Bionic (software)
-List of C compilers
-Subroutine
 Noweb
-Christopher W. Fraser
-Compatibility of C and C++
 C17 (C standard revision)
 Eclipse (software)
-Borland Turbo C
 C preprocessor
 C standard library
 C POSIX library
 NetBeans
-Retargetable compiler
 GNU Compiler Collection
 Literate programming
 Virtual machine
-Portable C compiler
 Bytecode
 Compiler
 C (programming language)
@@ -53,10 +43,7 @@ Software categories
 D (programming language)
 Dennis Ritchie
 Mod (video gaming)
-Amd64
 Microsoft Visual Studio Express
-Hybris (software)
-C file input/output
 David Hanson (computer scientist)
 Programmer
 Geany
@@ -80,14 +67,10 @@ MIPS architecture
 Operating system
 Integrated development environment
 File system
-Operators in C and C++
 GitHub
 Norcroft C compiler
 Embedded C
-Intel C++ Compiler
 X86
-Embedded GLIBC
-Software fork
 Visual Studio
 GNOME Builder
 Comparison of integrated development environments
@@ -102,7 +85,6 @@ Free software
 MathWorks
 Id Tech 3
 KDevelop
-Pelles C
 Objective-C
 Microsoft Visual C++
 C date and time functions

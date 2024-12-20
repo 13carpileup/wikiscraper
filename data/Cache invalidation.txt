@@ -9,15 +9,11 @@ Automatic parallelization
 Barrier (computer science)
 Beowulf cluster
 Bit-level parallelism
-Blacklist (computing)
-Boost (C++ libraries)
 Bulldozer (microarchitecture)
-C++ AMP
 CUDA
 Cache-only memory architecture
 Cache (computing)
 Cache coherence
-Caching proxy
 Chapel (programming language)
 Charm++
 Cilk
@@ -29,7 +25,6 @@ Computer hardware
 Computer multitasking
 Computer network
 Computer programming
-Computer system
 Concurrency (computer science)
 Cost efficiency
 Data parallelism
@@ -56,7 +51,6 @@ Hardware scout
 High-performance computing
 Implicit parallelism
 Instruction-level parallelism
-Instruction cycle
 Instruction pipelining
 Instruction window
 Karp–Flatt metric
@@ -87,7 +81,6 @@ Pipeline (computing)
 Preemption (computing)
 Process (computing)
 Pthreads
-Push technology
 ROCm
 Race condition
 RaftLib
@@ -112,9 +105,7 @@ Task parallelism
 Temporal multithreading
 Thread (computing)
 Threading Building Blocks
-Time to live
 Unified Parallel C
 Uniform memory access
 Value (computer science)
 Vector processor
-ZPL (programming language)

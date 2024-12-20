@@ -1,231 +1,114 @@
-/e/ (operating system)
-32-bit application
 4MLinux
 64-bit computing
 ALT Linux
 AOL
-APT (Debian)
-APT (Package Manager)
-APT (software)
-ARM64
-ARM architecture
-ARM v7
-ARMhf
 ARMv7
 ATI Technologies
 Adobe Flash
 Advanced Micro Devices
-Advanced Packaging Tool
-Alliance 90/The Greens
-Alliteration
 AlmaLinux
-Almquist shell
 Alpine Linux
-Amazon EC2
 Amazon Web Services
 Android-x86
 Android (operating system)
-Answer to the Ultimate Question of Life, the Universe and Everything
 Antergos
 AntiX
-AppArmor
-Aptitude (software)
 ArchBang
 ArchLabs
 Arch Linux
 Ars Technica
 Artix Linux
 Asahi Linux
-Ashlee Vance
-Ask Ubuntu
 Astra Linux
 Asturix
-Asus
-Asus Eee PC
 Austrumi Linux
 BIOS
 BLAG Linux and GNU
 BackBox
 BackTrack
-Backport
 Barack Obama
-Barack Obama presidential campaign, 2012
-Bash (Unix shell)
-Benjamin Mako Hill
 Bharat Operating System Solutions
-Binary blob
-Binary compatible
-Binary numeral system
 BioSLAX
 BlackArch
 Black Lab Linux
 BlankOn Linux
 Bluetooth
 Bodhi Linux
-Braid (video game)
-Brasero (software)
-Budgie (desktop environment)
-Buffer overflow protection
 CHAOS (operating system)
 CRUX
 Calculate Linux
 Caldera OpenLinux
 CalyxOS
-Canonical (company)
-Canonical Group
 CentOS
 CentOS Stream
 Chakra (operating system)
 Chimera Linux
 ChromeOS
 ChromiumOS
-Cinnamon (desktop environment)
-Citrix Systems
 ClearOS
 Clear Linux OS
 Cloud computing
-Code name
-Codec
 ColorOS
-Command-line tool
 Commodore OS
-Communications-Electronics Security Group
 Comparison of Linux distributions
 Computerworld
 Container Linux
 Corel Linux
-Cory Doctorow
 CrDroid
 CrunchBang Linux
 Cub Linux
 CyanogenMod
-DPDK
-DVD-Video
 Damn Small Linux
 Damn Vulnerable Linux
-Data Protection Directive
-Datamation
-Deb (file format)
 Debian
-Debian Free Software Guidelines
-Debian configuration system
 Deepin
-Deepin Desktop Environment
-Default (computer science)
 Dell
-Dell Inc.
 DemoLinux
-Desktop computer
-Desktop environment
-Desktop metaphor
 Device driver
 Devuan
-Dieter Reiter
-DigitalOcean
-Disk image
-DistroWatch
 DivestOS
 DoudouLinux
-Dpkg
 Dreamlinux
 EMUI
-ESXi
-EasyPeasy
 Edubuntu
 Elementary OS
 Elive
 Emmabuntüs
-End-of-life (product)
 EndeavourOS
 Endless OS
 Engadget
 EulerOS
-Evolution (software)
-Exaflop
 Familiar Linux
 Feather Linux
-Feature freeze
-Fedora (operating system)
 Fedora Linux
-Fingerprint scanner
 Fire OS
-Firefox
 Firefox OS
-Firewall (computing)
-Firmware
-Flatpak
 Floppyfw
 Foresight Linux
-Free Software Foundation
-Free and open-source software
 Free software
 FreedomBox
 Freespire
 Frugalware Linux
-Full Circle (magazine)
-GIMP
-GNOME
-GNOME 2
-GNOME 3
-GNOME Files
 GNOME Software
-GNU Bazaar
 GNU Compiler Collection
 GNU Core Utilities
 GNU Guix System
 GNewSense
 GOS (operating system)
-GTK
-GUI
 Garuda Linux
 GeckoLinux
-GendBuntu
 Gentoo Linux
-GetDeb
-Gigabyte
 GoboLinux
 Gobuntu
-Goobuntu
 GrapheneOS
-Graphics card
-Green500
-HDMI
-HP Cloud
 HandyLinux
 Hard drive
-Hardening (computing)
-Hardware virtualization
-Hasee
-Hyper-V
-Hyperbola GNU/Linux-libre
-Hypervisor
 IBM PC compatible
-IBM System z
-IBM cloud computing
-IBM z14 (microprocessor)
-IBM zEnterprise System
 ISBN (identifier)
-ISO image
-IaaS
-Ian Jackson
-Ian Murdock
 Immunix
-InfoWorld
-Information Commissioner's Office
-Initial ramdisk
 Intel
-Intel Compute Stick
-Internet of things
 IodéOS
-Jamie Hyneman
-Jane Silber
-Jeff Waugh
-Jono Bacon
-Joyent
-Juju (software)
 Jurix
-KDE
-KDE Plasma 5
 KDE neon
 KaOS
 KaiOS
@@ -233,223 +116,125 @@ Kaisen Linux
 Kali Linux
 Kanotix
 KateOS
-Kernel-based Virtual Machine
 Kernel (operating system)
 Knoppix
 Kongoni (operating system)
 Korora (operating system)
 Kubuntu
 Kwort Linux
-LXC
-LXDE
 LXLE Linux
-LXQt
-Landscape (software)
-Launchpad (website)
-Legacy software
-LiMux
 Libranet
-LightDM
-LinDVD
 LinHES
 LineageOS
 Linpus Linux
 Linux
-LinuxONE
 LinuxTLE
-LinuxWorld Conference and Expo
 Linux Caixa Mágica
-Linux Foundation
-Linux Journal
 Linux Lite
 Linux Mint
 Linux Router Project
-Linux User Group
 Linux distribution
 Linux for PlayStation 2
 Linux kernel
-Linux on IBM Z
 List of Linux distributions
-Live DVD
-Live USB
-Live image
-Logical Volume Manager (Linux)
-Long-term support
 Lubuntu
-MATE (software)
 MCC Interim Linux
 MIUI
 MP3
 MX Linux
 Mageia
-Mail server
 Mandrake Linux
 Mandriva Linux
 Manjaro
-Mark Shuttleworth
-Medibuntu
 MeeGo
 Mer (software distribution)
-Meritocracy
-Message of the day
 Microsoft
-Microsoft Azure
 Microsoft Office
 Microsoft Windows
 Minecraft
-Mir (software)
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Mscorefonts
-Multi-core processor
-Munich
-Musix GNU+Linux
-MythBusters
-Mythbuntu
-National Gendarmerie
 Natural language
-Netplan
 Network Security Toolkit
-Nguni people
 NimbleX
 Nitix
 NixOS
 Nobara Linux
-North Macedonia
 Nova (operating system)
-Oil Rush
 OmniROM
 One UI
 Open-source software
-OpenCD
 OpenELEC
 OpenMandriva Lx
 OpenOffice.org
 OpenSUSE
-OpenStack
 Open Enterprise Server
-Operating-system-level virtualization
-Oracle Corporation
 Oracle Linux
 PCLinuxOS
-PCWorld
 PC World (magazine)
-POWER8
-Package management
 Package manager
-Paper cut bug
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
 Pentoo
 Peppermint OS
-Persistence (computer science)
 Personal computer
-Pidgin (software)
 Pinguy OS
 PixelExperience
 Platypux
-Polkit
 Pop! OS
 Porteus (operating system)
-Position-independent code
-PowerPC
-PowerShell
-Power ISA
-Ppc64le
-Preschool
 Primary education
-Principle of least privilege
 Programmer
 Proprietary software
 Puppy Linux
 PureOS
 Q4OS
-QEMU
 Qubes OS
-RAR (file format)
-RISC-V
 ROSA Linux
-Random-access memory
 Raspberry Pi OS
 Red Hat Enterprise Linux
 Red Hat Linux
 Red Star OS
 Remix OS
-Remmina
 Replicant (operating system)
-Repository (version control)
 Resurrection Remix OS
-Robot
 Rocks Cluster Distribution
 Rocky Linux
-Root account
-S390x
 SPARC
 SUSE Linux
 SUSE Linux Enterprise
-SUSE S.A.
 SUSE Studio
 Sabayon Linux
 Sabily
 Sailfish OS
 Salix OS
-Samba (software)
 Scientific Linux
-Scott James Remnant
 Secondary education
 Server (computing)
-Sharp Corporation
-Side Stage
 Slackware
 Slax
 Smartphone
-Snap (package manager)
 Snap Store
-Snap store
-Snappy (package manager)
-Social Democratic Party of Germany
 Softlanding Linux System
-Software Updater
-Software bloat
-Software developers
 Software development
 Software license
-Software package (installation)
-Software regression
 Software release life cycle
 Software repository
-Software versioning
 Solus (operating system)
 SolydXK
 Source Mage
 Source code
 SparkyLinux
 Splashtop OS
-StartUp-Manager
-Startup Disk Creator
 SteamOS
 Steam (service)
-Stephen Fry
-Sudo
 Sunwah Linux
-Supercomputer
-Sway (window manager)
-Synaptic (software)
-System76
 SystemRescue
 System call
-Systemd
 T2 SDE
-TOP500
 Tails (operating system)
-Tertiary education
-Text-based user interface
-The Hitchhiker's Guide to the Galaxy
-The Inquirer
-The Register
 The Verge
 Think Blue Linux
 Tiny Core Linux
@@ -459,89 +244,35 @@ Trisquel
 Turbolinux
 Turin
 Turkix
-Tuxedo Computers
-UNetbootin
 USB flash drive
-Ubiquity (software)
-Ubuntu-restricted-extras
-Ubuntu (philosophy, linked from Ubuntu article text)
-Ubuntu (philosophy, linked from hatnote)
-Ubuntu (typeface)
 Ubuntu Budgie
 Ubuntu Cinnamon
-Ubuntu Edge
-Ubuntu Forums
 Ubuntu GNOME
-Ubuntu JeOS
 Ubuntu Kylin
-Ubuntu Live USB creator
 Ubuntu MATE
-Ubuntu Netbook Edition
-Ubuntu One
-Ubuntu Professional Certification
-Ubuntu Single Sign On
-Ubuntu Software
 Ubuntu Software Center
 Ubuntu Studio
-Ubuntu Titling
 Ubuntu Touch
 Ubuntu Unity
-Ubuntu User
-Ubuntu for Android
-Ubuntu philosophy
-Ubuntu version history
 Ultramarine Linux
-Uncomplicated Firewall
-Unity (user interface)
-Unity Dash
 Unity Operating System
-Universal USB Installer
-Unix-like
-Unstable (Debian)
-Upstart (software)
-Uruk GNU/Linux
-User agent
 User interface
-User space
 User space and kernel space
-Usplash
-VFPv3-D16
-VMware
 Valve Corporation
 VectorLinux
-Vendor lock-in
-Ventoy
 Vine Linux
 Virtual machine
-Virtual private server
-Vodafone
 Void Linux
 Vox Media
 Web server
 Whonix
-Wikimedia Foundation
-Wikipedia
 Windows 10
-Windows Media Audio
-Windows Media Video
-Windows Subsystem for Linux
-Windows Vista
-Windows XP
 Wine (software)
-WoW64
-Wubi (software)
 Wubuntu
 X86
-X86-64
 XB Machine
-XSplash
-X Window System
-XenServer
-Xfce
 Xubuntu
 Yellow Dog Linux
-Z/Architecture
 ZDNet
-ZFS
 Zenwalk
 Zorin OS

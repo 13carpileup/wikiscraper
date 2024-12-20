@@ -2,29 +2,19 @@
 2D computer graphics
 3D computer graphics
 3D projection
-3D rendering
 Affine transformation
-Aliasing
 Alpha compositing
 Anisotropic filtering
-Arion (software)
-Autodesk Vred (software)
 Back-face culling
-Beam tracing
 Blackbody radiation
-Cel shading
-Checkerboard rendering
 Clipping (computer graphics)
 Collision detection
 Comparison of vector graphics editors
-Computer graphics (computer science)
 Computer graphics lighting
 Cone tracing
-Cornell Box
 Deferred shading
 Diffusion curve
 Electromagnetic spectrum
-Emission spectrum
 Fluid animation
 Global illumination
 Graphics software
@@ -32,23 +22,19 @@ Hidden-surface determination
 Image-based modeling and rendering
 Isometric video game graphics
 Layers (digital image editing)
-List of 3D animation software
 List of 3D computer graphics software
 List of 3D modeling software
 List of 3D rendering software
 List of computer graphics algorithms
 LuxCoreRender
-Mental ray
 Mode 7
 Octane Render
 Parallax scrolling
 Path tracing
-Photon mapping
 Pixel
 Planar projection
 Polygon mesh
 Raster graphics editor
-Ray casting
 Ray tracing (graphics)
 Reflection (computer graphics)
 Rendering (computer graphics)
@@ -58,17 +44,11 @@ Scanline rendering
 Shader
 Shading
 Shadow mapping
-Shadow volume
 Shear matrix
 Skybox (video games)
-Spectral reflectance curve
 Surface triangulation
 Texel (graphics)
-Text-to-image model
-Translation (geometry)
 Triangle mesh
 Unbiased rendering
-Vector graphics
-Volume rendering
 Voxel
 Wire-frame model

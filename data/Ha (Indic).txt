@@ -10,322 +10,70 @@
 9 (number)
 A (Indic)
 Abugida
-Acute accent
 Ahom script
 Ai (Indic)
-Aksharapalli
 Anusvara
-Aryabhata
 Ashoka
-Ashokan Brahmi
 Assamese alphabet
 Au (Indic)
-Avagraha
 Ba (Indic)
-Bali (script)
-Batak (script)
-Beng (script)
 Bengali alphabet
 Bengali–Assamese script
 Bha (Indic)
-Bhaiksuki
-Bhutasamkhya system
-Bodo language
-Brahmi
 Brahmi script
 Brahmic scripts
-Bugi (script)
-Buhd (script)
-Burmese (script)
-Ca (Indic)
-Candrakkala
-Cans (script)
-Cha (Indic)
-Chakma (script)
-Cham (script)
 Chandrabindu
 Consonant
 Cyrillic script
 Da (Indic)
-Danda
-Daṇḍa
-Deva (script)
 Devanagari
-Devanagari (Unicode block)
 Devanagari Braille
-Devanagari Extended
-Devanagari Extended-A
-Devanagari conjuncts
-Devanagari numerals
-Devanagari transliteration
 Dha (Indic)
 Diacritic
-Diak (script)
-Dogr (script)
 E
 E (Indic)
-Edicts of Ashoka
 Epsilon
 Eta
 Ga (Indic)
 Gaudi script
 Gha (Indic)
-Gong (script)
-Gonm (script)
-Government of Kerala
 Grantha script
 Grave accent
 Greek alphabet
-Greek numerals
-Gujarati language
 Gujarati script
-Gujr (script)
 Gupta script
-Guru (script)
 H
-Ha (Javanese)
-Half form
-Hang (script)
-Hano (script)
-Harvard-Kyoto
 He (letter)
 Hebrew alphabet
-Hindi
-Hunterian transliteration
-IAST
 ISBN (identifier)
-ISCII
 ISO 15919
-ITRANS
 I (Indic)
 Imperial Aramaic
 Indian Script Code for Information Interchange
-Indian numerals
-Indian rupee sign
-Indic letters
-Inherent vowel
-International Alphabet of Sanskrit Transliteration
 Ja (Indic)
-Java (script)
-Jha (Indic)
 Ka (Indic)
 Kadamba script
-Kaithi script
-Kannada (script)
 Kannada script
-Katapayadi system
-Kawi (script)
-Kayah Li (script)
 Kha (Indic)
-Kharoshthi
 Kharosthi
-Khmer (script)
-Khoj (script)
-Konkani language
-Kthi (script)
-Kushana Brahmi
-Kutchi language
 La (Indic)
-Lao (script)
 Latin script
 Laṇḍā scripts
-Lepcha (script)
-Limbu (script)
 Ma (Indic)
-Mahj (script)
-Maithili language
-Maka (script)
-Malayalam (script)
 Malayalam script
-Marathi language
-Marc (script)
-Modi (script)
-Modi alphabet
-Mtei (script)
-Mult (script)
 Na (Indic)
-Nand (script)
-National Library at Kolkata romanisation
-Nepali language
-Newa script
-Northern Nagari
 Numeric character reference
-Nuqta
 O (Indic)
 Odia script
-Old Mon script
-Om
-Origin of Hangul
-Orya (script)
-Pa (Indic)
-Pali
 Pallava script
-Pha (Indic)
-Phag (script)
-Pluti
-Prakrit
-Punctuation
 Pyu script
-Ra (Indic)
-Ranj (script)
-Rejang (script)
-SLP1
-Sa (Indic)
 Sanskrit
-Saurashtra (script)
-Schwa deletion in Indo-Aryan languages
-Sharada (script)
-Siddham script
-Siddhaṃ
 Siddhaṃ script
-Sind (script)
-Sindhi language
-Sinh (script)
 Sinhala script
-Soyo (script)
-Specials (Unicode block)
-Sund (script)
-Syllabic consonant
-Sylo (script)
-Ta (Indic)
-Tagb (script)
-Tai Le (script)
-Tai Tham (script)
-Tai Viet (script)
-Takri (script)
-Talu (script)
-Tamil (script)
 Tamil script
-Telugu (script)
 Telugu script
-Tglg (script)
-Tha (Indic)
-Thai (script)
 Thai script
-Tibetan script
-Tirhuta script
-Tocharian alphabet
-Tocharian script
-Transliteration
 UTF-16
 UTF-8
-U (Indic)
 Unicode
-Unicode Standard
-Va (Indic)
-Vedic Extensions
-Vedic accent
-Velthuis
-Virama
-Visarga
-Voiced glottal fricative
-Voiceless glottal fricative
 Vowel
-WX notation
-Ya (Indic)
-Ya phala
-Zanb (script)
-Ña (Indic)
-Ā (Indic)
-Āryabhaṭa numeration
-Ī (Indic)
-Śa (Indic)
-Ū (Indic)
-ऄ
-अ
-अं
-आ
-इ
-ई
-उ
-ऊ
-ऋ
-ऌ
-ऍ
-ऎ
-ए
-ऐ
-ऑ
-ऒ
-ओ
-औ
-क
-क़
-ख
-ख़
-ग
-ग़
-घ
-ङ
-च
-छ
-ज
-ज़
-झ
-झ़
-ञ
-ट
-ठ
-ड
-ड़
-ढ
-ढ़
-ण
-त
-थ
-द
-ध
-न
-ऩ
-प
-फ
-फ़
-ब
-भ
-म
-य
-य़
-र
-ऱ
-ल
-ळ
-ऴ
-व
-श
-ष
-स
-ह
-ॠ
-ॡ
-॰
-ॱ
-ॲ
-ॳ
-ॴ
-ॵ
-ॶ
-ॷ
-ॸ
-ॹ
-ॺ
-ॻ
-ॼ
-ॽ
-ॾ
-ॿ
-ᳵ
-ᳶ
-Ḍa (Indic)
-Ḍha (Indic)
-Ḷ (Indic)
-Ḷa (Indic)
-Ḹ
-Ḻa (Indic)
-Ṅa (Indic)
-Ṇa (Indic)
-Ṛ (Indic)
-Ṝ
-Ṟa (Indic)
-Ṣa (Indic)
-Ṭa (Indic)
-Ṭha (Indic)

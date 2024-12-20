@@ -1,480 +1,120 @@
-1-bit computing
-12-bit computing
-128-bit computing
-16-bit computing
-24-bit computing
-256-bit computing
-32-bit computing
-3DS
 4-bit computing
-48-bit computing
-512-bit computing
 64-bit computing
-8-bit computing
-ACPI
-AI accelerator
-AMD Am29000
-ARC (processor)
-ARM architecture
-ARM architecture family
-AT&T Hobbit
-AVR32
-AVR microcontrollers
-AWS Graviton
 Abstract machine
-Acorn Archimedes
-Adapteva
-Adapteva Epiphany
-Adder (electronics)
-Address decoder
-Address generation unit
-Addressing mode
-Advanced Power Management
-Alternating Turing machine
-Analog Devices
-Analogue electronics
-Andrew Tanenbaum
 Android (operating system)
-Apollo Guidance Computer
-Apollo PRISM
 Apple Inc.
-Apple M1
 Apple TV
-Apple Watch
-Apple silicon
-Application-specific instruction set processor
-Application-specific integrated circuit
-Arduino
-Arithmetic logic unit
 Ars Technica
-Association for Computing Machinery
-Atmel
-Atmel AVR
-Atomic operations (computing)
-BMW
-BSD Unix
-Backronym
-Barrel processor
-Barrel shifter
-Baseband processor
-Berkeley RISC
-Binary-coded decimal
-Binary decoder
-Binary multiplier
-Binary translation
-Bit
 Bit-level parallelism
-Bit-serial architecture
-Bit slicing
 BlackBerry Limited
-Blackfin
-Boolean circuit
-Boy Genius Report
-Branch delay slot
-Branch predictor
-Branch target predictor
 Bus (computing)
 Byte
-Byte (magazine)
-CDC 6600
-CPU cache
-CPU multiplier
 Cache (computing)
 Cache coherence
-Cache hierarchy
-Cache performance measurement and metric
-Cache replacement policies
-Cavium
-Celerity Computing
-Cellular architecture
 Cellular automaton
 Central processing unit
-Channel controller
-Charles Stark Draper Prize
-Chip carrier
-Chromebook
-Circuit (computer science)
-CiteSeerX (identifier)
-Classic RISC pipeline
-Clipper architecture
-Clock frequencies
-Clock gating
-Clock rate
-Clock signal
-Cognitive computing
-Combinational logic
-CompactRISC
 Compaq
-Comparison of instruction set architectures
 Compiler
-Complex instruction set computer
-Complex instruction set computing
-Complex programmable logic device
-Compressed instruction set
-Computer (magazine)
 Computer architecture
 Computer data storage
-Computer performance
-Computer performance by orders of magnitude
 Computer science
 Computerworld
-Control hazard
-Control unit
-Cooperative multitasking
 Coprocessor
-Counter (digital)
-Counter machine
 Cray
-Cycles per instruction
-Cypress PSoC
 DEC Alpha
 DEC PRISM
-Data buffer
-Data cache
 Data dependency
 Data parallelism
 Data type
 Dataflow architecture
-Datapath
-David Patterson (computer scientist)
-David Patterson (scientist)
-Demultiplexer
-Deterministic finite automaton
 Digital Equipment Corporation
-Digital electronics
-Digital signal processor
-Distributed architecture
 Doi (identifier)
 Dreamcast
-Dynamic frequency scaling
-Dynamic voltage scaling
-ESi-RISC
-ETRAX CRIS
-Electronic circuit
 Electronics
-Electronics (magazine)
-Embedded processor
 Embedded system
-Emulator
-Endianness
 Engadget
-European Processor Initiative
-Execution unit
-Explicit data graph execution
-Explicitly parallel instruction computing
-FIFO (computing and electronics)
-FLOPS
-FPGA
-Fabric computing
-False sharing
 Field-programmable gate array
-Field-programmable object array
 Finite-state machine
-Finite-state machine with datapath
-Floating-point
-Floating-point unit
 Flynn's taxonomy
-Fugaku (supercomputer)
-Fujitsu
-Fujitsu A64FX
 GameCube
 Game Boy Advance
-Gate array
 General-purpose computing on graphics processing units
-General-purpose register
-Glue logic
 Graphics processing unit
-HP Inc
 Hardware acceleration
-Hardware register
 Hardware security module
-Hardwired control unit
-Harvard architecture
-Hazard (computer architecture)
-Heterogeneous System Architecture
-Heterogeneous computing
-Hewlett-Packard
-Hierarchical state machine
-History of general-purpose CPUs
-Hitachi
-Hyper-threading
-Hypercomputation
-I960
-IA-64
 IBM
-IBM 801
-IBM POWER architecture
-IBM Power microprocessors
-IBM ROMP
-IBM RT PC
-IBM System/360 architecture
-IBM System/370
-IBM System/390
 IPad
 IPhone
 IPod Touch
 ISBN (identifier)
-Image processor
-Imagination META
 Instruction-level parallelism
-Instruction cache
-Instruction cycle
-Instruction decoder
-Instruction per cycle
-Instruction pipeline
 Instruction pipelining
 Instruction set architecture
-Instruction unit
 Instructions per cycle
-Instructions per second
 Integrated circuit
 Intel
-Intel 80386
-Intel i860
-Intel i960
-Iron law of processor performance
-Jack Dongarra
-John Cocke (computer scientist)
-John L. Hennessy
-John R. Mashey
-LEON
 Laser printer
-LatticeMico32
-LatticeMico8
-Lenovo
-Libre-SOC
-Linksys WRT54G series
-Little man computer
-Load–store
-Load–store architecture
-Load–store unit
 Logic gate
-LoongArch
-M32R
-MIPS-X
-MIPS Computer Systems
-MIPS Technologies
 MIPS architecture
-Mac (computer)
-Mac transition to Apple silicon
-Mac transition to Intel processors
 Macintosh
 Manycore processor
 Memory-level parallelism
-Memory address register
-Memory buffer register
-Memory controller
-Memory dependence prediction
 Memory hierarchy
-Memory management unit
-Michael J. Flynn
-MicroBlaze
 Microarchitecture
-Microcode
 Microcontroller
 Microprocessor
-Microprocessor chronology
 Microsoft
 Microsoft Surface
 Minicomputer
-Minimal instruction set computer
-Mixed-signal integrated circuit
-Mobile processor
 Model of computation
-Modified Harvard architecture
-Motorola 68000
-Motorola 68000 family
-Motorola 68000 series
-Motorola 88000
-Multi-chip module
-Multi-core processor
 Multiple instruction, multiple data
 Multiple instruction, single data
-Multiplexer
 Multiprocessing
-Multiprocessor system on a chip
 Multithreading (computer architecture)
-M·CORE
 National Academy of Engineering
-Network on a chip
-Network processor
-Neuromorphic engineering
 Nintendo 64
 Nintendo DS
 Nintendo Switch
-No instruction set computing
 Non-uniform memory access
-Nondeterministic Turing machine
-Norman Jouppi
 OCLC (identifier)
-One-instruction set computer
-Opcode
-Open-source hardware
-OpenRISC
-OpenSPARC
-Open standard
-Operand forwarding
-Oracle Corporation
-Orthogonal instruction set
-Out-of-order execution
-PA-RISC
 PDP-11 architecture
-PDP-8
-PL/I
-Package on a package
-Palm (PDA)
 Parallel computing
-Performance per watt
-Physics processing unit
-PicoBlaze
-Pin grid array
-Pipeline stall
 PlayStation (console)
 PlayStation 2
 PlayStation 3
 PlayStation Portable
-Pointer machine
-Post–Turing machine
-PowerPC
-Power ISA
-Power Management Unit
 Power management
-Power management integrated circuit
 Preemption (computing)
-Probabilistic Turing machine
-Procedure call
 Process (computing)
 Processor (computing)
-Processor design
-Processor register
-Program counter
-Programmable Array Logic
-Pyramid Technology
-Qualcomm
-Qualcomm Snapdragon
-Quantum Turing machine
-Quantum cellular automaton
-Quantum circuit
-Quantum computing
-Quantum logic gate
-Queue automaton
-R2000 microprocessor
-RAD750
-RISC
-RISC-V
-RISC pipeline
-ROM image
-RT PC
 Random-access machine
-Random-access stored-program machine
 Raspberry Pi
-Re-order buffer
-Register file
-Register machine
-Register renaming
-Register window
-Register–memory architecture
-Renesas
-Renesas Electronics
-Reservation station
-Residential gateway
-Ridge Computers
-Rosetta 2
 Router (computing)
 S2CID (identifier)
 SPARC
-SUPS
-SWAR
-Sabbatical
-Scalar processor
 Scoreboarding
-Scratchpad memory
-Secondary storage
-Secure cryptoprocessor
 Sega
 Sega Saturn
-Semiconductor device fabrication
-Sequential logic
-Seymour Cray
-Sierra (supercomputer)
-Silicon Graphics
-Silicon Valley
 Simultaneous and heterogeneous multithreading
 Simultaneous multithreading
-Single-board computer
-Single-core
 Single instruction, multiple data
 Single instruction, multiple threads
 Single instruction, single data
-Single program, multiple data
-Soft microprocessor
-Sole source
-Sophie Wilson
-Speculative execution
 Speculative multithreading
-Stack machine
-Stack register
-Stanford MIPS
 Stanford University
-Status register
-Steve Furber
-Stored-program computer
 Stream processing
 String (computer science)
-Structural hazard
-Subroutine
-Sum-addressed decoder
-Summit (supercomputer)
 Sun Microsystems
-Sunway (processor)
-Sunway TaihuLight
-SuperH
-Super 32X
-Supercomputer
 Superscalar processor
-Switch
-System in a package
 System on a chip
-System on chip
-TOP500
-TRIPS architecture
-Tablet computer
 Task parallelism
-Telephone switch
 Temporal multithreading
-Tensor Processing Unit
 Thread (computing)
-Three-dimensional integrated circuit
-Tick–tock model
-Tile processor
-Tomasulo's algorithm
-Transactions per second
-Transistor
-Transistor count
-Translation lookaside buffer
-Transport triggered architecture
 Turing machine
-Ultra-low-voltage processor
-Unicore
 Uniform memory access
-Universal Turing machine
 University of California, Berkeley
-Unix
-Usenet (identifier)
-Usenet newsgroup
-User space
-V850
 VAX
-VISC architecture
-VLSI Project
-Vector processing
 Vector processor
-Very long instruction word
-Virtual address space
-Virtual memory
-Vision processing unit
-Von Neumann architecture
-Wide-issue
 Wii
 Wii U
 Windows
@@ -482,13 +122,7 @@ Windows 10
 Windows Mobile
 Windows Phone
 Word (computer architecture)
-Workstation
-Write buffer
 X86
 Xbox (console)
 Xbox 360
-Xilinx
-Z/Architecture
-Zeno machine
-Zero instruction set computer
 Zilog Z80

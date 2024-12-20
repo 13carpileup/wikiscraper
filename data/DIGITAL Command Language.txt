@@ -1,4 +1,3 @@
-4K Disk Monitor System
 API
 AdvFS
 Alpha 21064
@@ -7,30 +6,20 @@ Alpha 21264
 Alpha 21364
 Alpha 21464
 AltaVista
-Array (data type)
 BASIC-8
-Bit
 Bus (computing)
-COPY/FTP (command)
-COPY (command)
 CPU Wars
 CVAX
 Character encoding
 Code page 1287
 Code page 1288
-Command-line interface
 Command (computing)
-Command language
 Commercial Operating System
 Compaq
-Comparison of command shells
-Compiled language
 Computer hardware
 Computer terminal
-Conditional (computer programming)
 DECUS
 DEC Alpha
-DEC BATCH-11/DOS-11
 DEC GT40
 DEC Hebrew
 DEC J-11
@@ -46,7 +35,6 @@ DECnet
 DECtalk
 DECtape
 DECwriter
-DELETE (command)
 DIBOL
 DOS
 Data type
@@ -54,18 +42,12 @@ Digital Equipment Corporation
 Digital Federal Credit Union
 Digital Linear Tape
 Digital Storage Systems Interconnect
-Digital UNIX
-Directory (OpenVMS command)
 Dynamic debugging technique
 Dynamically Redefined Character Set
 FOCAL (programming language)
 FX!32
 Firefly (cache coherence protocol)
 Flip-Chip module
-Floating-point arithmetic
-Fortran
-Function (computer programming)
-GOTO
 GitHub
 Gold key (DEC)
 Gordon Bell
@@ -74,13 +56,11 @@ Harlan Anderson
 ISBN (identifier)
 Imperative programming
 Instruction set architecture
-Integer (computer science)
 Interactive Application System
 Ken Olsen
 Kernel (operating system)
 LK201
 LK421
-LOGOUT (command)
 Library (computing)
 Local Area Transport
 MACRO-10
@@ -95,34 +75,25 @@ Microsoft Windows
 Multinational Character Set
 NVAX
 National Replacement Character Set
-OS/2
-OS/8
 On-line Debugging Tool
 OpenVMS
 Operating system
 PALcode
 PDP-11 architecture
 PDP-7
-PRINT (command)
-Path (computing)
 Processor (computing)
-Program loop
 Programming language
 Programming paradigm
 Q-Bus
 RA90
-RENAME (command)
 RK05
 RL02
-RSTS/E
 RSX-11
-RSX-15
 RT-11
 ReGIS
 Record Management Services
 Rigel (microprocessor)
 Robert Palmer (computer businessman)
-SET (command)
 Scripting language
 Sixel
 Software design
@@ -132,18 +103,13 @@ Star coupler
 StrongARM
 Synchronous Backplane Interconnect
 System Module
-System Reference Manual
-TD/SMP
 TOPS-10
 TOPS-20
-TSS/8
 TU81
 TURBOchannel
 The Ultimate Entrepreneur
-Type (OpenVMS command)
 Ultrix
 Unibus
-Unix
 VAX
 VAXBI bus
 VAXELN
@@ -151,27 +117,11 @@ VAX MACRO
 VT05
 VT100
 VT1000
-VT101
-VT102
-VT103
-VT105
-VT131
 VT180
 VT220
-VT240
-VT241
 VT320
-VT330
-VT340
 VT420
-VT510
 VT52
 VT520
-VT525
-VT55
-VT62
 VT640
 WPS-8
-While loop
-Windows PowerShell
-XLNT

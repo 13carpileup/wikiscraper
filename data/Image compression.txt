@@ -1,438 +1,55 @@
-.m2ts
-.tga
-3GPP
-3GP and 3G2
-842 (compression algorithm)
-A-law algorithm
-AAC-LD
-AMV video format
-APNG
-AV1
-AVIF
-Abraham Lempel
-Academic Press
-Adaptive Huffman coding
-Adaptive Multi-Rate Wideband
-Adaptive Multi-Rate audio codec
-Adaptive Transform Acoustic Coding
-Adaptive coding
-Adaptive differential pulse-code modulation
-Advanced Audio Coding
-Advanced Systems Format
 Advanced Video Coding
-Algebraic code-excited linear prediction
 Algorithm
-Alliance for Open Media
-Apple Lossless Audio Codec
-Apple ProRes
-Apple Video
-AptX
-Arithmetic coding
-Asao (codec)
-Asymmetric numeral systems
-Au file format
-Audio Interchange File Format
-Audio Lossless Coding
-Audio Video Interleave
-Audio Video Standard
-Audio Vivid
-Audio codec
 Audio coding format
-Average bitrate
-Avid Audio
-Avid DNxHD
 BBC
 BBC News
-BMP file format
-BT.com
-BT Group
-Better Portable Graphics
 Bibcode (identifier)
-Bink Video
-Bit rate
-Block Truncation Coding
-Bluetooth Special Interest Group
-Brotli
-Burrows–Wheeler transform
-Byte pair encoding
-Bzip2
-CCITT
-CELT
-Canonical Huffman code
-Chain code
-Chroma subsampling
-CineForm
-Cinepak
-CiteSeerX (identifier)
-Claude Elwood Shannon
 Clip art
-Code-excited linear prediction
-Codec 2
-Coding tree unit
-Cohen-Daubechies-Feauveau wavelet
-Color Cell Compression
-Color quantization
-Color space
-Color space encoding
-Companding
-Comparison of audio coding formats
-Comparison of video codecs
-Compressed data structure
-Compressed suffix array
-Compression artifact
 Computer data storage
-Constant bitrate
-Container format (computing)
-Context mixing
-Context tree weighting
-Convolution
-Convolutional neural network
-DEFLATE
-DPCM
-DTS (sound system)
-DV (video format)
-Daala
 Data compression
-Data compression symmetry
-Data transmission
-Daubechies wavelet
-David Albert Huffman
-Deblocking filter
-Deflate
-Delta encoding
-Delta modulation
-Dictionary coder
-Differential pulse-code modulation
-Diffusion model
-Digital Signal Processing (journal)
-Digital Video Interactive
-Digital cinema
-Digital container format
 Digital image
-Digital images
-Digital photo
-Dirac (video compression format)
-Discrete Cosine Transform
 Discrete cosine transform
-Discrete sine transform
-Discrete wavelet transform
 Display resolution
-Dithering
 DivX
-DjVu
 Doi (identifier)
-Dolby AC-4
-Dolby Digital
-Dynamic Markov compression
-Dynamic Resolution Adaptation
-Dynamic range
-ETSI
-Elias gamma coding
-Embedded zerotrees of wavelet transforms
-Enhanced VOB
-Enhanced Variable Rate Codec
-Enhanced Variable Rate Codec B
-Enhanced Voice Services
-Enhanced full rate
 Entropy (information theory)
-Entropy coding
-Entropy encoding
 Essential Video Coding
-Exponential-Golomb coding
-Extended Adaptive Multi-Rate – Wideband
-FFV1
-FLAC
-FM-index
-Fast Fourier transform
-Fibonacci coding
-Film frame
-Flash Video
-Fourier transform
-Fractal compression
 Frame rate
-Free Lossless Image Format
-Full Rate
-G.711
-G.718
-G.719
 G.722
-G.722.1
-G.723
-G.723.1
-G.726
-G.728
-G.729
-G.729.1
-GIF
-General Exchange Format
-Generative adversarial network
-Golomb coding
-Grammar-based code
-Graphics Interchange Format
-Group 4 compression
-H.120
-H.261
-H.262/MPEG-2 Part 2
 H.263
-H.264/MPEG-4 AVC
-HEIF
-Hadamard transform
-Half Rate
-Harmonic Vector Excitation Coding
 Hdl (identifier)
-High-Efficiency Advanced Audio Coding
-High-Fidelity Generative Image Compression
-High Efficiency Image File Format
-High Efficiency Video Coding
 Huffman coding
-Huffyuv
-Hutter Prize
-ICER (file format)
 ISBN (identifier)
-ISO/IEC base media file format
 ITU-T
-Image file format
-Image resolution
-Incremental encoding
-Indeo
 Information theory
-Ingrid Daubechies
-Interchange File Format
-Interlaced video
 International Electrotechnical Commission
 International Organization for Standardization
-Internet Engineering Task Force
-Internet Low Bitrate Codec
-Internet Speech Audio Codec
 JBIG
-JBIG2
-JPEG
-JPEG-LS
 JPEG 2000
 JPEG XL
 JPEG XR
 JPEG XS
-JPEG XT
-Jacob Ziv
-Joint Photographic Experts Group
-K. R. Rao
-Karhunen–Loève theorem
 Kolmogorov complexity
-L. Peter Deutsch
-LC3 (codec)
 LCEVC
-LDAC (codec)
-LHA (file format)
-LHDC (codec)
-LZ4 (compression algorithm)
-LZ77 and LZ78
-LZFSE
-LZJB
-LZRW
-LZW
-LZWL
-LZX
-Lagarith
-Lapped transform
-Latency (audio)
-Lempel–Ziv–Markov chain algorithm
-Lempel–Ziv–Oberhumer
-Lempel–Ziv–Stac
-Lempel–Ziv–Storer–Szymanski
-Lempel–Ziv–Welch
-Levenshtein coding
-Line spectral pairs
-Linear predictive coding
-List of Fourier-related transforms
-List of codecs
-Log area ratio
-Lossless compression
-Lossy compression
-Lyra (codec)
 MATLAB
-MOD and TOD
 MP3
 MPEG-1
-MPEG-1 Audio Layer I
-MPEG-1 Audio Layer II
 MPEG-2
 MPEG-21
 MPEG-4
-MPEG-4 IVC
-MPEG-4 Part 14
 MPEG-4 Part 2
-MPEG-4 SLS
-MPEG-5
 MPEG-H
 MPEG-H 3D Audio
-MPEG-I
-MPEG LA
 MPEG Multichannel
-MPEG Surround
-MPEG elementary stream
-MPEG media transport
 MPEG program stream
-MPEG transport stream
-MSU Lossless Video Codec
-MT9
-Machine Learning
-Macroblock
-Mark Adler
-Master Quality Authenticated
-Material Exchange Format
-Matroska
-Microsoft Video 1
-Mixed-excitation linear prediction
-Modified Huffman coding
-Modified discrete cosine transform
-Monkey's Audio
-Motion JPEG
 Motion JPEG 2000
-Motion compensation
-Motion estimation
-Motion vector
-Move-to-front transform
-Moving Picture Experts Group
-Multilayer perceptron
-Multimedia
 Multiple-image Network Graphics
-Musepack
-N. Ahmed
-NETVC
-Nyquist–Shannon sampling theorem
-OMS Video
-Ogg
-On2 Technologies
-OpenCV
-OpenEXR
-OptimFROG
-Opus (audio format)
-Original Sound Quality
-PAQ
-PCX
 PMID (identifier)
-Packetized elementary stream
-Palette (computing)
-Peak signal-to-noise ratio
-Phil Katz
 Pixel
-Pixlet
-Portable Network Graphics
-Posterization
-Prediction by partial matching
-Prefix code
-Preview (computing)
-ProRes 422
-ProRes 4444
-Proceedings of the IRE
-Processing power
-Progressive Graphics File
-Psychoacoustics
-Pulse-code modulation
-Pyramid (image processing)
-QOI (image format)
-Qualcomm code-excited linear prediction
-Quantization (image processing)
-Quantization (signal processing)
-QuickTime Animation
-QuickTime File Format
-QuickTime Graphics
 QuickTime VR
-RTAudio
-RTVideo
-Range coding
-RatDVD
-Rate–distortion theory
-Re-Pair
-Real-time Transport Protocol
-RealAudio
-RealMedia
-RealVideo
-Redundancy (information theory)
-Relaxed code-excited linear prediction
-Request for Comments
-Resource Interchange File Format
-Run-length encoding
 S2CID (identifier)
-S2TC
-S3 Texture Compression
-SBC (codec)
-SILK
-SVOPC
-Sampling (signal processing)
-Selectable Mode Vocoder
-Sequitur algorithm
-Set partitioning in hierarchical trees
-Shannon coding
-Shannon–Fano coding
-Shannon–Fano–Elias coding
-SheerVideo
-Shorten file format
-Silence compression
-Siren (codec)
-Smacker video
-Smallest grammar problem
-Snappy (compression)
-Society of Motion Picture and Television Engineers
-Sorenson Media
-Sound quality
-Speech coding
-Speex
-Springer Science & Business Media
-Standard test image
-Statistical
-Sub-band coding
-Super Audio CD
-TIFF
-TIFF/EP
-TIFF/IT
 Taylor & Francis
-TensorFlow
-Terry Welch
-Texture compression
 The Atlantic
-Theora
-Thor (video codec)
-Timeline of information theory
-Transform coding
-Tunstall coding
-TwinVQ
-Unary coding
-Unified Speech and Audio Coding
-Universal code (data compression)
-Ut Video Codec Suite
-VC-1
-VC-6
-VOB
-VP3
-VP6
-VP7
-VP8
-VP9
-Variable-Rate Multimode Wideband
-Variable bitrate
-Vector sum excited linear prediction
 Versatile Video Coding
 Video
-Video Coding Experts Group
-Video codec
-Video coding format
-Video coding standard
-Video compression picture types
-Video quality
 Visual perception
-Vorbis
-WAV
-Warped linear predictive coding
-WavPack
-Wavelet
-Wavelet transform
-WebM
-WebP
-Windows Media Audio
-Windows Media Video
-Wireless Application Protocol Bitmap Format
-World Wide Web Consortium
-YULS
-Zstd
-Μ-law algorithm

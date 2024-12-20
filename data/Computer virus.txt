@@ -1,376 +1,110 @@
-.COM files
-.EXE
-ADAPSO
-APL (programming language)
 ARPANET
-AV-TEST
-Advanced persistent threat
 Adware
-Alan Oppenheimer
 Algorithm
-Amiga
-Andrew Ross (sociologist)
-Android (robot)
-Anomaly detection
-Anti-keylogger
-Anti-malware
-Antivirus
-Antivirus software
-Apple DOS
 Application security
-Arbitrary code execution
-Artificial life
-Assembler (computer programming)
 Assembly language
 Authentication
-Authorization
-Automata
-Automotive security
-BBN Technologies
-Backdoor (computing)
-Backup
-Benchmark (computing)
-Binary executables
 Biology
-Bizatch
-Bliss (virus)
 Boot sector
-Bootable
 Booting
-Bootkit
 Botnet
-Brain (computer virus)
-Browser Helper Object
 Browser security
-Bulletin board
-Bulletin board system
 CD
-CIH virus
-CMD (Windows)
 CNBC
-CPU power dissipation
 Central processing unit
-ClamWin
-Cleartext
-Clickjacking
 Clone (computing)
-Clustered file system
-Code injection
-Code obfuscation
-Common Vulnerabilities and Exposures
-Comparison of computer viruses
-Component Object Model
-Compression virus
-Computer access control
-Computer and network surveillance
-Computer fraud
-Computer fraud and abuse act
 Computer language
 Computer program
-Computer programs
 Computer security
-Computer security software
 Computer worm
 Conficker
-Control flow
 Copy protection
 Copyright infringement
-Core Wars
 Credit card
-Creeper (program)
-Crimeware
-Cross-site leaks
-Cross-site scripting
-Cryptographic hash function
-Cryptographic key
-Cryptojacking
-Cryptovirology
-Cybercrime
-Cybergeddon
-Cybersecurity
-Cybersex trafficking
-Cyberterrorism
 Cyberwarfare
 Cyclic redundancy check
-DOM clobbering
 DOS
-DOS API
 DVD
-Data-centric security
-Data breach
-Data loss prevention software
-Data masking
-Data scraping
 Database
-David Gerrold
 Debit card
-Deception
-Decryption
-Defensive computing
 Denial-of-service attack
-Desktop computer
-Desktop environments
-Dialer
 Digital Equipment Corporation
 Digital image
 Digital rights management
 Diplom
-Disc cloning
-Disk image
-Disk storage
 Doi (identifier)
-Downloading
-Drive-by download
-E-mail
-E-mail attachment
-Eavesdropping
-Electromagnetic warfare
-Elk Cloner
 Email
-Email attachment
-Email fraud
 Email spam
-Email spoofing
-Emulator
 Encryption
-Evolutionary algorithm
 Exclusive or
-Executable file
-Executable files
 Exploit (computer security)
-FORTRAN
-File extension
 File system
-File system permissions
-Firewall (computing)
-Flash drives
-Fleeceware
 Floppy disk
-Floppy disks
-Fork bomb
-Form grabbing
-Fred Cohen
-Function (computer programming)
-Function (programming)
-Genetic diversity
 Google
-Gregory Benford
-Hacker
-Hacktivism
-Hard disk
 Hard disk drive
 Hard drive
-Hardware Trojan
-Hardware backdoor
-Hash (computing)
-Heuristic (computer science)
-Heuristic analysis
-Hex dump
-History of antivirus software
-History of malware
-History of ransomware
-History sniffing
 Home computer
-Honeypot (computing)
-Host-based intrusion detection system
-HyperCard viruses
 IBM PC compatible
 ISBN (identifier)
 ISSN (identifier)
-Income
-InformationWeek
-Information risk management
 Information security
-Information security management
-Information warfare
-Infostealer
-Insecure direct object reference
 Instant messaging
-Integration testing
 Internet
-Internet Crime Complaint Center
 Internet bot
 Internet security
-Interrupt handling
 Intrusion detection system
-J. B. Gunn
-Jerusalem (computer virus)
-John Brunner (novelist)
-John von Neumann
-Jussi Parikka
-Keylogger
-Keystroke logging
 Kilobyte
-Lahore
-Lawrence Berkeley National Laboratory
-Leonard Adleman
 Linux
-Linux malware
-List of computer worms
-Live CD
-Logic bomb
 Login
 Los Angeles Times
-MP4
-MacMag
 Mac OS
 Macintosh
 Macro (computer science)
-Macro language
-Macro virus
 Malware
-Malware research
 Man-in-the-browser
-Man-in-the-middle attack
-Mark Russinovich
-Master Boot Record
-Metamorphic code
-Michael Crichton
 Microsoft
 Microsoft Excel
 Microsoft Office
-Microsoft Outlook
-Microsoft Safety Scanner
-Microsoft Security Essentials
 Microsoft Windows
-Microsoft Word
-Misuse case
-Mobile malware
-Mobile security
 Modem
-Mount Lebanon High School
-Multi-factor authentication
 Mutation
-NTFS file system
-National Vulnerability Database
 Network security
 OCLC (identifier)
 Object lifetime
 Open-source software
 Operating system
 Optical disc
-Overclocking
-PDF files
-PDP-10
-Palm OS viruses
-Password
 Patch (computing)
-Patch Tuesday
-Payload (computing)
 Personal computer
 Phishing
 Pittsburgh
-Polymorphic code
-Polymorphic engine
-Portable Executable
-Privacy-invasive software
-Privilege escalation
 Process (computing)
 RAM
-Random Access Memory
-Ransom
-Ransomware
-Ransomware (malware)
-Reboot (computing)
-Registry (computing)
-Remote access trojan
 Removable media
-Richard Skrenta
-Rogue security software
-Rootkit
-Runtime application self-protection
 S2CID (identifier)
-SCA (computer virus)
-SQL injection
 Sabotage
-Safe mode
-Samy (computer worm)
-Scam
-Scareware
 Sci-fi
-Search algorithm
-Secunia
-Secure by design
-Secure coding
-Security-focused operating system
-Security bug
-Security information and event management
 Self-modifying code
 Self-replication
 Shareware
-Shellcode
-Site isolation
-Social engineering (security)
 Software
 Software bug
 Software engineering
 Software testing
 Solid-state drive
-Source code virus
 Spam (electronic)
 Spamming
-Spinlock
-Spreadsheet
-Spyware
-Statistical pattern analysis
 Superuser
-System File Checker
-System Restore
 System administrator
-TENEX (operating system)
-Task Manager
-Technical support scam
-Telephone modem
 The New York Times
-The Register
-The Shockwave Rider
-The Terminal Man
-Thermal design power
-Thermal energy
-Threat (computer)
-Time bomb (software)
-Timeline of computer viruses and worms
 Trojan horse (computing)
-USB flash drive security
-Ubuntu Linux
-Uniform Resource Locator
-University of Dortmund
-University of Illinois Urbana-Champaign
 University of Southern California
 Usenet
-Vector (malware)
-Virus
-VirusTotal
-Virus hoax
-Virus signature
-Voice phishing
 Vulnerability (computing)
-W32/Simile
 Wayback Machine
-Web shell
-Web threat
-Westworld (film)
-When HARLIE Was One
-Win32.Cabanas
-WinVir
-Windows 3.0
-Windows 7
-Windows 7 File Recovery
 Windows 95
 Windows API
-Windows Defender
-Windows Malicious Software Removal Tool
-Windows Me
-Windows Media Video
 Windows NT
-Windows Security and Maintenance
-Windows Update
-Windows Vista
-Windows XP
 Wine (software)
-Wiper (malware)
 Yahoo!
-Zero-day attack
-Zip bomb
 Zombie (computer science)
-Zombie (computing)

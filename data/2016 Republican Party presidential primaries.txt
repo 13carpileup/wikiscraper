@@ -14,8 +14,6 @@
 1860 Democratic National Conventions
 1860 Republican National Convention
 1864 Democratic National Convention
-1864 National Union National Convention
-1864 Republican National Convention
 1868 Democratic National Convention
 1868 Republican National Convention
 1872 Democratic National Convention
@@ -30,7 +28,6 @@
 1884 Greenback National Convention
 1884 Republican National Convention
 1888 Democratic National Convention
-1888 Greenback National Convention
 1888 Republican National Convention
 1892 Democratic National Convention
 1892 Republican National Convention
@@ -54,12 +51,10 @@
 1916 Republican Party presidential primaries
 1920 Democratic National Convention
 1920 Democratic Party presidential primaries
-1920 Progressive National Convention
 1920 Republican National Convention
 1920 Republican Party presidential primaries
 1924 Democratic National Convention
 1924 Democratic Party presidential primaries
-1924 Progressive National Convention
 1924 Republican National Convention
 1924 Republican Party presidential primaries
 1928 Democratic National Convention
@@ -90,7 +85,6 @@
 1948 United States presidential election
 1952 Democratic National Convention
 1952 Democratic Party presidential primaries
-1952 Progressive National Convention
 1952 Republican National Convention
 1952 Republican Party presidential primaries
 1956 Democratic National Convention
@@ -170,9 +164,7 @@
 2008 Republican Party presidential debates and forums
 2008 Republican Party presidential primaries
 2008 United States presidential election
-2009 Republican National Committee chairmanship election
 2010 Libertarian National Convention
-2011 Republican National Committee chairmanship election
 2012 Democratic National Convention
 2012 Democratic Party presidential primaries
 2012 Green National Convention
@@ -184,177 +176,28 @@
 2012 Republican Party presidential debates and forums
 2012 Republican Party presidential primaries
 2012 United States presidential election
-2012 Wisconsin gubernatorial recall election
-2013 Republican National Committee chairmanship election
 2014 Libertarian National Convention
-2015 Republican National Committee chairmanship election
-2016 Alabama Republican presidential primary
-2016 Alaska Republican presidential caucuses
-2016 American Samoa Republican caucus
-2016 American Samoa Republican presidential caucuses
-2016 Arizona Republican presidential primary
-2016 Arkansas Republican presidential primary
-2016 California Republican presidential primary
-2016 California Republican primary
-2016 Colorado Republican presidential caucuses
-2016 Connecticut Republican presidential primary
-2016 Constitution Party National Convention
 2016 Constitution Party presidential primaries
-2016 Delaware Republican presidential primary
 2016 Democratic National Convention
-2016 Democratic Party presidential candidates
 2016 Democratic Party presidential debates and forums
 2016 Democratic Party presidential primaries
 2016 Democratic Party vice presidential candidate selection
-2016 District of Columbia Republican convention
 2016 Donald Trump Chicago rally protest
 2016 Donald Trump Las Vegas rally incident
-2016 Florida Republican presidential primary
-2016 Georgia Republican presidential primary
 2016 Green National Convention
 2016 Green Party presidential debates and forums
 2016 Green Party presidential primaries
-2016 Guam Republican caucus
-2016 Guam Republican presidential caucuses
-2016 Hawaii Republican presidential caucuses
-2016 Idaho Republican presidential caucuses
-2016 Idaho Republican presidential primary
-2016 Illinois Republican presidential primary
-2016 Indiana Republican presidential primary
-2016 Iowa Republican presidential caucuses
-2016 Kansas Republican presidential caucuses
-2016 Kentucky Republican presidential caucuses
 2016 Libertarian National Convention
 2016 Libertarian Party presidential debates and forums
 2016 Libertarian Party presidential primaries
-2016 Louisiana Republican presidential primary
-2016 Maine Republican caucuses
-2016 Maine Republican presidential caucuses
-2016 Maryland Republican presidential primary
-2016 Massachusetts Republican presidential primary
-2016 Michigan Republican presidential primary
-2016 Minnesota Republican presidential caucuses
-2016 Mississippi Republican presidential primary
-2016 Missouri Republican presidential primary
-2016 Montana Republican presidential primary
-2016 Nebraska Republican presidential primary
-2016 Nevada Republican presidential caucuses
-2016 New Hampshire Republican presidential primary
-2016 New Jersey Republican presidential primary
-2016 New Mexico Republican presidential primary
-2016 New York Republican presidential primary
-2016 North Carolina Republican presidential primary
-2016 North Dakota Republican presidential caucuses
-2016 Northern Mariana Islands Republican caucus
-2016 Northern Mariana Islands Republican presidential caucuses
-2016 Ohio Republican presidential primary
-2016 Oklahoma Republican presidential primary
-2016 Oregon Republican presidential primary
-2016 Pennsylvania Republican presidential primary
-2016 Puerto Rico Republican presidential primary
-2016 Puerto Rico Republican primary
 2016 Reform Party presidential primaries
 2016 Republican National Convention
-2016 Republican Party presidential candidates
 2016 Republican Party presidential debates and forums
 2016 Republican Party vice presidential candidate selection
-2016 Rhode Island Republican presidential primary
-2016 South Carolina Republican presidential primary
-2016 South Dakota Republican presidential primary
-2016 Tennessee Republican presidential primary
-2016 Texas Republican presidential primary
-2016 United States House of Representatives elections
-2016 United States Senate elections
-2016 United States Virgin Islands Republican caucuses
-2016 United States Virgin Islands Republican presidential caucuses
 2016 United States elections
-2016 United States gubernatorial elections
 2016 United States presidential debates
 2016 United States presidential election
-2016 United States presidential election in Alabama
-2016 United States presidential election in Alaska
-2016 United States presidential election in Arizona
-2016 United States presidential election in Arkansas
-2016 United States presidential election in California
-2016 United States presidential election in Colorado
-2016 United States presidential election in Connecticut
-2016 United States presidential election in Delaware
-2016 United States presidential election in Florida
-2016 United States presidential election in Georgia
-2016 United States presidential election in Hawaii
-2016 United States presidential election in Idaho
-2016 United States presidential election in Illinois
-2016 United States presidential election in Indiana
-2016 United States presidential election in Iowa
-2016 United States presidential election in Kansas
-2016 United States presidential election in Kentucky
-2016 United States presidential election in Louisiana
-2016 United States presidential election in Maine
-2016 United States presidential election in Maryland
-2016 United States presidential election in Massachusetts
-2016 United States presidential election in Michigan
-2016 United States presidential election in Minnesota
-2016 United States presidential election in Mississippi
-2016 United States presidential election in Missouri
-2016 United States presidential election in Montana
-2016 United States presidential election in Nebraska
-2016 United States presidential election in Nevada
-2016 United States presidential election in New Hampshire
-2016 United States presidential election in New Jersey
-2016 United States presidential election in New Mexico
-2016 United States presidential election in New York
-2016 United States presidential election in North Carolina
-2016 United States presidential election in North Dakota
-2016 United States presidential election in Ohio
-2016 United States presidential election in Oklahoma
-2016 United States presidential election in Oregon
-2016 United States presidential election in Pennsylvania
-2016 United States presidential election in Rhode Island
-2016 United States presidential election in South Carolina
-2016 United States presidential election in South Dakota
-2016 United States presidential election in Tennessee
-2016 United States presidential election in Texas
-2016 United States presidential election in Utah
-2016 United States presidential election in Vermont
-2016 United States presidential election in Virginia
-2016 United States presidential election in Washington (state)
-2016 United States presidential election in West Virginia
-2016 United States presidential election in Wisconsin
-2016 United States presidential election in Wyoming
-2016 United States presidential election in the District of Columbia
-2016 United States presidential election recounts
-2016 Utah Republican presidential caucuses
-2016 Vermont Republican presidential primary
-2016 Virginia Republican presidential primary
-2016 Washington Republican presidential primary
-2016 West Virginia Republican presidential primary
-2016 West Virginia Republican primary
-2016 Wisconsin Republican presidential primary
-2016 Wyoming Republican presidential caucuses
-2017 Donald Trump speech in Warsaw
-2017 Donald Trump speech to a joint session of Congress
-2017 National Scout Jamboree
-2017 Republican National Committee chairmanship election
-2017 Riyadh summit
-2017 Shayrat missile strike
-2017 United States Electoral College vote count
-2017 United States–Saudi Arabia arms deal
-2017 dismissal of U.S. attorneys
-2017 opinion polling on the Donald Trump administration
-2017–2018 North Korea crisis
-2018 North Korea–United States Singapore Summit
-2018 Russia–United States summit
 2018 State of the Union Address
-2018 United States elections
-2018 opinion polling on the Donald Trump administration
-2018–19 Korean peace process
-2018–2019 United States federal government shutdown
-2019 Koreas–United States DMZ Summit
-2019 North Korea–United States Hanoi Summit
-2019 Oval Office address
-2019 Republican National Committee chairmanship election
-2019 State of the Union Address
-2019 opinion polling on the Donald Trump administration
 2020 Constitution Party presidential primaries
 2020 Democratic National Convention
 2020 Democratic Party presidential debates
@@ -364,23 +207,15 @@
 2020 Green Party presidential primaries
 2020 Libertarian National Convention
 2020 Libertarian Party presidential primaries
-2020 Oval Office address
 2020 Reform Party presidential primaries
 2020 Republican National Convention
 2020 Republican Party presidential debates
 2020 Republican Party presidential primaries
-2020 State of the Union Address
-2020 Trump Tulsa rally
-2020 United States federal government data breach
 2020 United States presidential debates
 2020 United States presidential election
-2020 dismissal of inspectors general
 2020–2021 U.S. troop withdrawal from Afghanistan
 2021 Conservative Political Action Conference
-2021 Republican National Committee chairmanship election
 2021 United States inauguration week protests
-2023 Republican National Committee chairmanship election
-2024 Constitution Party presidential primaries
 2024 Democratic National Convention
 2024 Democratic Party presidential debates and forums
 2024 Democratic Party presidential primaries
@@ -389,112 +224,49 @@
 2024 Libertarian National Convention
 2024 Libertarian Party presidential primaries
 2024 Reform National Convention
-2024 Republican National Committee chairmanship election
 2024 Republican National Convention
 2024 Republican Party presidential debates and forums
 2024 Republican Party presidential primaries
 2024 Republican Party vice presidential candidate selection
 2024 United States presidential debates
 2024 United States presidential election
-2028 Democratic Party presidential primaries
 2028 Republican National Convention
-2028 Republican Party presidential primaries
-85-15 Wareham Place
 ABC News (United States)
-Abraham Accords
 Abraham Lincoln
-Acela Express
 Administration (government)
 African-American
-Aftermath of the January 6 United States Capitol attack
 Age and health concerns about Donald Trump
-Ajamu Baraka
-Alabama Republican Party
-Alabama Republican primary, 2016
 Alaska
-Alaska Republican Party
-Alf Landon
 Alyson Kennedy
 Amalija Knavs
-America's Water Infrastructure Act of 2018
 America First (policy)
-American Delta Party
 American Independent Party
-American Samoa Republican caucus, 2016
 American Solidarity Party
-Amtrak
-Amy Coney Barrett Supreme Court nomination
 Andrew Johnson
-Angela Nicole Walker
-April 2018 missile strikes against Syria
 Arizona
-Arizona Republican Party
-Arizona Republican primary, 2016
-Arthur Summerfield
-Assassination of Qasem Soleimani
 Associated Press
 Attempted assassination of Donald Trump in Florida
 Attempted assassination of Donald Trump in Pennsylvania
 Attempts to overturn the 2020 United States presidential election
-Austin Petersen
-B. Carroll Reece
-Bahrain–Israel normalization agreement
-Bailey Walsh
 Barack Obama
 Barry Goldwater
 Ben Carson
-Ben Carson 2016 presidential campaign
-Ben Carson presidential campaign, 2016
-Benjamin Franklin Jones (industrialist)
 Benjamin Harrison
 Bernie Sanders
-Bernie Sanders 2016 presidential campaign
-Bertrand Snell
-Better for America
 Bibliography of Donald Trump
-Bibliography of the history of the Republican Party
 Bikers for Trump
-Bill Brock
-Bill Weld
 Black Voices for Trump
-Blacks for Trump
 Blaine Trump
 Bob Dole
-Bobby Jindal
-Bobby Jindal 2016 presidential campaign
 Bradford Lyttle
-Brett Kavanaugh Supreme Court nomination
 Business career of Donald Trump
 Business projects of Donald Trump in Russia
-C. Wesley Roberts
 CNN
-CPAC Straw Poll
-California Democratic Party v. Jones
-California Republican Party
-California Republican primary, 2016
 Calvin Coolidge
 Canada
-Cannabis policy of the first Donald Trump administration
-Carly Fiorina
-Carly Fiorina 2016 presidential campaign
-Carly Fiorina presidential campaign, 2016
-Caucus
-Charles A. Halleck
-Charles Curtis
-Charles D. Hilles
-Charles Evans Hughes
-Charles G. Dawes
-Charles L. McNary
-Charles W. Fairbanks
 Chester A. Arthur
-China–United States trade war
 Chris Christie
-Chris Christie 2016 presidential campaign
-Chris Christie presidential campaign, 2016
 Christian right
-Claudius H. Huston
-Clayton Yeutter
 Cleveland
 Club for Growth
-College Republicans
 Colorado

@@ -1,271 +1,49 @@
-4680 OS
-4690 Operating System
-AIM alliance
 API
-ARM7
-ARM9
-ARM Cortex-A
-ARM Cortex-A8
-ARM Cortex-M
-ARM Cortex-M3
-ARM Cortex-M4
-ARM Cortex-M7
-ARM Cortex-R
-ARM architecture
-AROS Research Operating System
-ARX (operating system)
-AVR32
-Adam Dunkels
-Adaptive Domain Environment for Operating Systems
-Altera
 Amazon (company)
 Amazon Web Services
-Amiga
-AmigaOS
-Amoeba (operating system)
 Andrew S. Tanenbaum
-Apache Mynewt
 Assembly language
-Atmel
-Atmel AVR
-Avie Tevanian
-BeRTOS
 C (programming language)
-C language
-Call stack
-Capability-based security
-Ceva (semiconductor company)
-ChibiOS/RT
-ChorusOS
-Coalescence (computer science)
-Comparison of real-time operating systems
-Concurrent DOS
-Contiki
-Copland (operating system)
-Coroutine
-Cosmos (operating system)
-Cypress Semiconductor
-DNIX
 DOS
-DSOS
-DSP Group
-Dan Dodge
-Dave Cutler
-David Cheriton
 Device driver
 Digital Equipment Corporation
-DioneOS
-ECos
-EFM32
-EKA1
-EKA2
 EPOC (operating system)
-ERIKA Enterprise
-EROS (microkernel)
-ESP32
-ESP8266
-ESi-RISC
-Embedded device
-Embedded operating system
 Embedded system
-Energy Micro
 EulerOS
-Eumel
-Exec (Amiga)
-FlexOS
-Freescale
-Freescale ColdFire
-Fujitsu
-GNOSIS
-GNU Hurd
-GNU Mach
-Genode
-Gernot Heiser
 GitHub
-Gordon Bell (QNX)
-Green Hills Software
-H8 Family
-HCS12
 HarmonyOS
 HarmonyOS NEXT
-Harmony (operating system)
-Hazard and operability study
-HelenOS
-Hercules (processors)
-Hydra (operating system)
 IBM
 IEC 61508
-ITRON project
-Ike Nassi
-Infineon
-Infineon XMC4000
-Input/output
-Integrity (operating system)
 Intel
-Intel 8051
-Internet of things
-JX (operating system)
-James G. Mitchell
-JavaOS
-Java virtual machine
-Jochen Liedtke
-Junos OS
-K42
-Ken Sakamura
 Kernel (operating system)
-KeyKOS
-L3 microkernel
-L4Linux
-L4 microkernel family
 Linux
 LiteOS
-Lites
-LynxOS
-MIT License
-MQX
-MSP430
-MacMach
-Mac OS 8
-Mac OS nanokernel
-MachTen
-Mach (kernel)
 Macintosh
-Meiko Scientific
-Memory management
-Micro-Controller Operating Systems
-MicroBlaze
-MicroEmpix
-Micro T-Kernel
-Microchip Technology
 Microcontroller
-Microkernel
-Microsemi
 Microsoft
 Microsoft Windows
-Microware
-Midori (operating system)
-Minix
-Minix-vmd
 Minix 3
-MkLinux
-MorphOS
-Multi-Environment Real-Time
-Multiclet
-Multiuser DOS
-Mutex
-NLTSS
-NXP LPC
-NXP Semiconductors
-Nano-RK
 Natural language
-Nios II
-NuKernel
-Nucleus RTOS
-NuttX
-OS-9
-OS2000
 Open-source software
-OpenComRTOS
 OpenHarmony
-Open Kernel Labs
-Operating System Embedded
 Operating system
-PDP-11
-PIC microcontroller
 POSIX
-PSOS (real-time operating system)
-PSoC
-PX5 RTOS
-Per Brinch Hansen
-Phantom OS
-PikeOS
-PowerPC
-PowerPC 400
-PowerUP (accelerator)
 Programmer
 Programming language
-Psion (company)
 QNX
-Quark (kernel)
-RC 4000 multiprogramming system
-REAL/32
-REX OS
-RIOT (operating system)
-RISC-V
-RMX (operating system)
 RSX-11
 RT-11
-RT-Thread
-RTAI
-RTEMS
-RTLinux
 Read-only memory
-Real-Time Linux
 Real-time computing
-Real-time operating system
-Redox (operating system)
-Renesas Technology
-Repository (version control)
-Richard Rashid
-Robot Operating System
-Round-robin scheduling
-Runtime (program lifecycle phase)
-SHAKTI (microprocessor)
-SPIN (operating system)
-STM32
-STMicroelectronics
-ScreenOS
-SeL4
-Segger Microcontroller Systems
 Semaphore (programming)
-SharpOS
-Silicon Labs
-Singularity (operating system)
-Sintran III
-SmartFusion
 Software development kit
 Software framework
 Software license
 Software release life cycle
-Software timer
-Spring (operating system)
-SuperH
 Symbian
-T-Engine Forum
-T-Kernel
-T-License
-THEOS
-TI-RTOS
-TRON project
-Taligent
-Task (computing)
-Texas Instruments
-Thomas Bushnell
-Thoth (operating system)
 ThreadX
 Thread (computing)
-Tickless kernel
-Tinix
-Transaction Processing Facility
-TriCore
-UNICOS
-UNOS (operating system)
-Unix-like
-V850
 VAX
 VAXELN
-VSTa
-V (operating system)
-Vanguard (microkernel)
-Versatile Real-Time Executive
-Verve (operating system)
-VxWorks
-WarpOS
-William Wulf
-Windows Embedded Compact
-Wombat (operating system)
-Workplace OS
 X86
-Xenomai
-Xilinx
-Zephyr (operating system)

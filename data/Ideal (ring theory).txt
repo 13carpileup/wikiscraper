@@ -1,182 +1,37 @@
-Additive group
-Algebraic number field
 Algebraic number theory
 Algebraic structure
-Annihilator (ring theory)
-Artinian ring
-Ascending chain
-Associated prime
 Associative algebra
-Boolean prime ideal theorem
-Category of rings
-Chinese remainder theorem
 Clifford algebra
 Closure (mathematics)
-Cohen–Macaulay ring
 Commutative algebra
 Commutative ring
-Commutator (ring theory)
-Complete lattice
-Congruence relation
-Continuous function
-David Eisenbud
 David Hilbert
-Dedekind domain
-Dirichlet
-Distributive lattice
-Division ring
 Doi (identifier)
-Embedding
 Emmy Noether
-Equidimensionality
 Equivalence class
 Equivalence relation
-Ernst Kummer
-Euclidean division
-Euclidean domain
-Even numbers
-Factor ring
 Field (mathematics)
 Field extension
 Finite field
-Finitely generated module
-Forgetful functor
-Formal power series ring
-Fractional ideal
 Free algebra
-Free product of associative algebras
-Frobenius endomorphism
-Fundamental theorem of arithmetic
-GCD domain
 Geometric algebra
-Grade (ring theory)
-Graded ring
 Graduate Texts in Mathematics
 Group theory
-Hideyuki Matsumura
 ISBN (identifier)
-Ian G. Macdonald
-Ideal (order theory)
-Ideal norm
-Ideal number
-Ideal quotient
-Ideal sheaf
-Ideal theory
-Idealizer
-Inclusion map
-Inner automorphism
 Integer
-Integers modulo n
-Integral domain
-Integral extension
-Integrally closed domain
-Introduction to Commutative Algebra
-Invertible ideal
-Involutive ring
-Irreducible ideal
-Jacobson radical
-John Milnor
-Jordan ring
-Kernel (algebra)
-Krull's theorem
-Left module
 Lie algebra
-Lie ring
-Linear combinations
-MR (identifier)
-Macaulay 2
 Mathematics
 Matrix (mathematics)
-Matrix ring
-Maximal ideal
-Maximal submodule
-Michael Atiyah
-Michiel Hazewinkel
-Minimal ideal
-Minimal prime ideal
-Modular arithmetic
-Modular lattice
 Module (mathematics)
 Monoid
-Monoid object
-Nakayama's lemma
-Natural number
-Nil ideal
-Nilpotent element
-Nilpotent ideal
-Nilradical of a ring
-Noether isomorphism theorem
-Non-associative ring
-Non-negative integer
-Noncommutative algebra
-Noncommutative algebraic geometry
-Noncommutative ring
-Normal subgroup
 Number theory
-Operator algebra
 Order theory
-P-adic integer
-P-adic number
-Parameter ideal
-Perfect ideal
-Pointwise multiplication
 Polynomial
 Polynomial ring
-Primary ideal
-Prime ideal
-Prime number
-Prime ring
-Primitive ideal
-Princeton University Press
-Principal ideal
-Principal ideal domain
-Product of rings
-Projective dimension
-Proper subset
-Prüfer group
-Quantale
-Quotient field
 Quotient group
-Quotient module
 Quotient ring
-Radical of a ring
-Radical of an ideal
-Reduced ring
-Regular ideal
-Regular sequence
-Richard Dedekind
 Ring (mathematics)
-Ring homomorphism
 Ring of integers
 Ring theory
-Rng (mathematics)
-Semifield
-Semiprime ideal
-Semiprime ring
-Semiprimitive ring
-Semiring
-Serge Lang
-Simple module
-Simple ring
-Skew-field
-Splitting of prime ideals in Galois extensions
-Springer-Verlag
-Stack Exchange
-Subgroup
-Submodule
-Subobject
 Subring
-Subset
-Surjective
 Surjective function
-System of parameters
-Tensor product of algebras
-Tor functor
-Total ring of fractions
-Unique factorization domain
-Unit element
-Unmixed ideal
-Vorlesungen über Zahlentheorie
-Zbl (identifier)
-Zero ring
-Zorn's lemma

@@ -1,7 +1,3 @@
-1858 Bradford sweets poisoning
-2007 pet food recalls
-2022 Aqaba toxic gas leak
-4-Dimethylaminophenol
 ACE inhibitor
 ATC code A
 ATC code B
@@ -18,31 +14,16 @@ ATC code P
 ATC code R
 ATC code S
 ATC code V
-ATC code V03
 ATCvet code QI
-ATP2B1
-Acceptable daily intake
-Acetylcysteine
-Activated carbon
-Activated charcoal
-Acute toxicity
 Addiction medicine
 Adenosine
-Adsorption
-Agonist
-Alcohol (medicine)
 Alcohol intoxication
 Alkylating antineoplastic agent
 Amatoxin
-Amyl nitrite
 Anabolic steroid
 Analgesic
-Anaphylactic shock
 Anatomical Therapeutic Chemical Classification System
-Andexanet alfa
-Anecdote
 Anesthetic
-Angiotensin II receptor antagonist
 Anorectic
 Antacid
 Anthelmintic
@@ -50,322 +31,84 @@ Anti-inflammatory
 Anti-obesity medication
 Antianginal
 Antiarrhythmic agent
-Antibacterial
 Antibody
-Anticholinergic
 Anticoagulant
 Anticonvulsant
-Antidementia drug
 Antidepressant
-Antidiarrhoeal
 Antiemetic
 Antifibrinolytic
-Antifungal drug
 Antihemorrhagic
-Antihyperkinetic
-Antihypertensive drug
 Antimetabolite
 Antimicrobial
 Antimigraine drug
-Antimuscarinic
 Antimycobacterial
 Antineoplastic
 Antiparasitic
 Antiplatelet drug
 Antipropulsive
-Antiprotozoal agent
 Antipruritic
-Antipsoriatic
 Antipsychotic
 Antithrombotic
 Antithyroid agent
-Antitoxin
-Antivenom
 Antiviral drug
 Anxiolytic
 Aphrodisiac
 Aquatic toxicology
-Arsenic poisoning
-Arthropod
-Aspirin
-Atropine
-Barbiturate overdose
 Batrachotoxin
-Bee
-Bemegride
-Benzodiazepine overdose
-Benztropine mesylate
 Beta blocker
-Bhopal disaster
 Bibcode (identifier)
 Bile acid sequestrant
-Bioaccumulation
-Biological warfare
-Biomagnification
-Biperiden
 Bisphosphonate
 Blood
 Bone
-Box jellyfish
 Bronchodilator
-CRISPR
 Cadmium poisoning
-Caffeine
 Calcium channel blocker
-Calcium channel blocker toxicity
-Calcium chloride
-Calcium gluconate
-Carbamate
-Carbon monoxide poisoning
 Carcinogen
 Cardiac glycoside
 Cardiac stimulant
-Cathartic
-Chelation therapy
-Chelator
 Chemotherapy
-Cholinesterase
-Cicatrizant
 Circulatory system
-Clinical trial
 Coagulation
-Consumption of Tide Pods
-Contrast medium
-Copper(II) sulfate
 Corticosteroid
-Cough medicine
-Cyanide
-Cyanide poisoning
-Cyprodenate
-Cyproheptadine
 Cytotoxicity
-Dabigatran etexilate
 Decongestant
-Deferoxamine
 Deliriant
 Depressant
 Diabetes medication
-Diazepam
-Dietary mineral
-Digoxin Immune Fab
-Digoxin immune fab
-Digoxin toxicity
-Dimercaprol
-Dimercaptosuccinic acid
-Diphenhydramine hydrochloride
-Diprenorphine
-Direct Xa inhibitor
 Disease-modifying antirheumatic drug
 Dissociative
 Diuretic
 Doi (identifier)
-Dorland's medical reference works
-Doxapram
 Dressing (medicine)
-EDTA
-Ecotoxicology
 Ectoparasiticide
-Emetic
-Emollient
 Endocrine system
-Entactogen
 Entheogen
-Entomotoxicology
-Environmental toxicology
-Epinephrine
-Etamivan
-Ethanol
-Ethylene glycol poisoning
-Ethylenediaminetetraacetic acid
 Euphoria
-Extrapyramidal symptoms
 Fertility medication
 Fibrate
-Fixed-dose procedure
-Flumazenil
-Fomepizole
-Food safety
-Forensic toxicology
-Fresh frozen plasma
-GHB overdose
-Gastric lavage
 General anaesthetic
 Genitourinary system
-Glucagon
 Glucocorticoid
-Glutathione
-Gyromitra
 H1 antagonist
-H2 antagonist
 Hazard symbol
-Hemodialysis
-Hemoperfusion
 Heparin
 Hormonal contraception
 Human brain
-Human gastrointestinal tract
 Human skin
-Hydrofluoric acid
-Hydroxocobalamin
-Hyperbaric oxygen therapy
 Hypnotic
-Hypoglycemic
-Hypolipidemic agent
 Hypothalamic–pituitary hormone
 ISSN (identifier)
-Idarucizumab
 Immune system
-Immunomodulator
 Immunostimulant
 Immunosuppressive drug
-In vitro toxicology
 Infection
-Insulin
-Intralipid
-Intravenous immunoglobulin
-Iodine-131
-Iron poisoning
-Isoniazid
 Joint
-Latrodectus
-Laxative
-Lead poisoning
-Lethal dose
-Leucovorin
-List of extremely hazardous substances
-List of poisonings
-List of withdrawn drugs
-Local anesthetic
-Malignant
-Management of Parkinson's disease
-Medical toxicology
-Mercury poisoning
 Metabolism
-Metadoxine
-Methanol
-Methanol toxicity
-Methemoglobinemia
-Methionine
-Methotrexate
-Methylene blue
-Minamata disease
-Mineralocorticoid
-Mood stabilizer
-Motivation-enhancing drug
-Muscle
-Muscle relaxant
-Mushroom poisoning
-Mutagen
-N-acetylcysteine
-Nalmefene
-Nalorphine
-Naloxone
-Naloxone hydrochloride
-Naltrexone
-Nerve agent
 Nervous system
-Neuromuscular-blocking drug
-Neuroprotective
-Neurotoxin
-Niigata Minamata disease
-Nitrite
-Non-steroidal anti-inflammatory drug
-Nootropic
-Obidoxime
-Occupational safety and health
-Occupational toxicology
-Octreotide
-Oleander
-Ophthalmology
-Opioid overdose
-Orexigenic
 Organophosphate
-Organophosphate poisoning
-Otology
 Oxidizing agent
-Oxime
-Oxygen
 PMC (identifier)
 PMID (identifier)
-Paracetamol poisoning
-Paracetamol toxicity
-Penicillamine
-Phases of clinical research
-Physostigmine
-Phytomenadione
-Platelet
-Poison
-Poison dart frog
-Poisoning of Alexander Litvinenko
-Potassium iodide
-Potassium permanganate
-Pralidoxime
-Pralidoxime chloride
-Prednisolone/promethazine
-Protamine sulfate
-Proton-pump inhibitor
-Prussian blue
-Psychedelic drug
-Psychedelics, dissociatives and deliriants
-Psychotria ipecacuanha
-Pyridoxine
-Pyrimethamine
-Radiopharmacology
-Renin inhibitor
-Renin–angiotensin system
-Respiratory system
-SCH-50911
-Scorpion
-Sedative
-Selective estrogen receptor modulator
-Senotherapeutics
-Sense
-Serenic
-Serotonin syndrome
-Seveso disaster
-Sex steroid
-Shapur ibn Sahl
-Silibinin
-Snake
-Snakebite (bite)
 Sodium bicarbonate
-Sodium nitrite
-Sodium thiosulfate (medical use)
-Sorbitol
 Spider
-Spindle poison
-Statin
-Steroidal alkaloid
-Stimulant
-Succimer
-Sugammadex
-Syrup of ipecac
-Thallium poisoning
-Theophylline
-Thiamine
-Thiosulfate
-Thrombolytic drug
-Thyroid hormone
-Topoisomerase inhibitor
-Tourniquet
-Toxic capacity
-Toxic heavy metal
-Toxic metal
-Toxicity class
-Toxicogenomics
-Toxicology
-Toxin
-Toxins
-Tricyclic antidepressant
-Trimethoprim
-Universal antidote
-Vaccine
-Vasodilation
-Venom
-Venom (poison)
-Visakhapatnam gas leak
-Vitamin
-WHO Model List of Essential Medicines
-Wakefulness-promoting agent
-Warfarin
-Whole bowel irrigation

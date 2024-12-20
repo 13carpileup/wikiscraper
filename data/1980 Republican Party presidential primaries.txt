@@ -14,8 +14,6 @@
 1860 Democratic National Conventions
 1860 Republican National Convention
 1864 Democratic National Convention
-1864 National Union National Convention
-1864 Republican National Convention
 1868 Democratic National Convention
 1868 Republican National Convention
 1872 Democratic National Convention
@@ -30,7 +28,6 @@
 1884 Greenback National Convention
 1884 Republican National Convention
 1888 Democratic National Convention
-1888 Greenback National Convention
 1888 Republican National Convention
 1892 Democratic National Convention
 1892 Republican National Convention
@@ -54,12 +51,10 @@
 1916 Republican Party presidential primaries
 1920 Democratic National Convention
 1920 Democratic Party presidential primaries
-1920 Progressive National Convention
 1920 Republican National Convention
 1920 Republican Party presidential primaries
 1924 Democratic National Convention
 1924 Democratic Party presidential primaries
-1924 Progressive National Convention
 1924 Republican National Convention
 1924 Republican Party presidential primaries
 1928 Democratic National Convention
@@ -88,208 +83,59 @@
 1948 Republican National Convention
 1948 Republican Party presidential primaries
 1948 United States House of Representatives elections
-1950 United States House of Representatives elections
 1952 Democratic National Convention
 1952 Democratic Party presidential primaries
-1952 Progressive National Convention
 1952 Republican National Convention
 1952 Republican Party presidential primaries
-1952 United States House of Representatives elections
-1954 United States House of Representatives elections
 1956 Democratic National Convention
 1956 Democratic Party presidential primaries
 1956 Republican National Convention
 1956 Republican Party presidential primaries
-1956 United States House of Representatives elections
-1958 United States House of Representatives elections
 1960 Democratic National Convention
 1960 Democratic Party presidential primaries
 1960 Republican National Convention
 1960 Republican Party presidential primaries
-1960 United States House of Representatives elections
-1962 United States House of Representatives elections
 1964 Democratic National Convention
 1964 Democratic Party presidential primaries
 1964 Republican National Convention
 1964 Republican Party presidential primaries
-1964 United States House of Representatives elections
-1964 United States Senate election in Texas
-1966 California gubernatorial election
-1966 United States House of Representatives elections
 1968 Democratic National Convention
 1968 Democratic Party presidential primaries
 1968 Republican National Convention
 1968 Republican Party presidential primaries
-1968 United States House of Representatives elections
-1970 California gubernatorial election
-1970 United States House of Representatives elections
-1970 United States Senate election in Texas
 1972 Democratic National Convention
 1972 Democratic Party presidential primaries
 1972 Republican National Convention
 1972 Republican Party presidential primaries
-1972 United States House of Representatives elections
 1973 United States vice presidential confirmation
-1975 State of the Union Address
 1976 Democratic National Convention
 1976 Democratic Party presidential primaries
 1976 Republican National Convention
 1976 Republican Party presidential primaries
-1976 State of the Union Address
 1976 United States presidential election
-1977 State of the Union Address
-1978 United States elections
-1979 United States elections
-1980 Arizona House of Representatives election
-1980 Arizona Senate election
-1980 Arkansas gubernatorial election
-1980 Baton Rouge mayoral election
-1980 Delaware gubernatorial election
 1980 Democratic National Convention
 1980 Democratic Party presidential primaries
-1980 Indiana gubernatorial election
-1980 Iowa Senate election
-1980 Minnesota House of Representatives election
-1980 Minnesota Senate election
-1980 Missouri gubernatorial election
-1980 Missouri lieutenant gubernatorial election
-1980 Montana gubernatorial election
-1980 New Hampshire Republican presidential primary
-1980 New Hampshire gubernatorial election
-1980 North Carolina gubernatorial election
-1980 North Carolina lieutenant gubernatorial election
-1980 North Dakota gubernatorial election
 1980 Republican National Convention
-1980 Republican Party vice presidential candidate selection
-1980 Rhode Island gubernatorial election
-1980 San Diego mayoral election
-1980 San Juan, Puerto Rico mayoral election
-1980 United States House of Representatives election in Alaska
-1980 United States House of Representatives election in Delaware
-1980 United States House of Representatives election in Nevada
-1980 United States House of Representatives election in North Dakota
-1980 United States House of Representatives election in Vermont
-1980 United States House of Representatives election in Wyoming
-1980 United States House of Representatives election in the District of Columbia
-1980 United States House of Representatives elections
-1980 United States House of Representatives elections in Alabama
-1980 United States House of Representatives elections in Arizona
-1980 United States House of Representatives elections in Arkansas
-1980 United States House of Representatives elections in California
-1980 United States House of Representatives elections in Colorado
-1980 United States House of Representatives elections in Connecticut
-1980 United States House of Representatives elections in Florida
-1980 United States House of Representatives elections in Georgia
-1980 United States House of Representatives elections in Hawaii
-1980 United States House of Representatives elections in Idaho
-1980 United States House of Representatives elections in Illinois
-1980 United States House of Representatives elections in Indiana
-1980 United States House of Representatives elections in Iowa
-1980 United States House of Representatives elections in Kansas
-1980 United States House of Representatives elections in Kentucky
-1980 United States House of Representatives elections in Louisiana
-1980 United States House of Representatives elections in Maine
-1980 United States House of Representatives elections in Maryland
-1980 United States House of Representatives elections in Massachusetts
-1980 United States House of Representatives elections in Michigan
-1980 United States House of Representatives elections in Minnesota
-1980 United States House of Representatives elections in Mississippi
-1980 United States House of Representatives elections in Missouri
-1980 United States House of Representatives elections in Montana
-1980 United States House of Representatives elections in Nebraska
-1980 United States House of Representatives elections in New Hampshire
-1980 United States House of Representatives elections in New Jersey
-1980 United States House of Representatives elections in New Mexico
-1980 United States House of Representatives elections in New York
-1980 United States House of Representatives elections in North Carolina
-1980 United States House of Representatives elections in Ohio
-1980 United States House of Representatives elections in Oklahoma
-1980 United States House of Representatives elections in Oregon
-1980 United States House of Representatives elections in Pennsylvania
-1980 United States House of Representatives elections in Rhode Island
-1980 United States House of Representatives elections in South Carolina
-1980 United States House of Representatives elections in South Dakota
-1980 United States House of Representatives elections in Tennessee
-1980 United States House of Representatives elections in Texas
-1980 United States House of Representatives elections in Utah
-1980 United States House of Representatives elections in Virginia
-1980 United States House of Representatives elections in Washington
-1980 United States House of Representatives elections in West Virginia
-1980 United States House of Representatives elections in Wisconsin
-1980 United States Senate election in Alabama
-1980 United States Senate election in Alaska
-1980 United States Senate election in Arizona
-1980 United States Senate election in Arkansas
-1980 United States Senate election in California
-1980 United States Senate election in Colorado
-1980 United States Senate election in Connecticut
-1980 United States Senate election in Florida
-1980 United States Senate election in Georgia
-1980 United States Senate election in Hawaii
-1980 United States Senate election in Idaho
-1980 United States Senate election in Illinois
-1980 United States Senate election in Indiana
-1980 United States Senate election in Iowa
-1980 United States Senate election in Kansas
-1980 United States Senate election in Kentucky
-1980 United States Senate election in Louisiana
-1980 United States Senate election in Maryland
-1980 United States Senate election in Missouri
-1980 United States Senate election in Nevada
-1980 United States Senate election in New Hampshire
-1980 United States Senate election in New York
-1980 United States Senate election in North Carolina
-1980 United States Senate election in North Dakota
-1980 United States Senate election in Ohio
-1980 United States Senate election in Oklahoma
-1980 United States Senate election in Oregon
-1980 United States Senate election in Pennsylvania
-1980 United States Senate election in South Carolina
-1980 United States Senate election in South Dakota
-1980 United States Senate election in Utah
-1980 United States Senate election in Vermont
-1980 United States Senate election in Washington
-1980 United States Senate election in Wisconsin
-1980 United States Senate elections
-1980 United States elections
-1980 United States gubernatorial elections
 1980 United States presidential election
-1980 Utah gubernatorial election
-1980 Vermont gubernatorial election
-1980 Washington gubernatorial election
-1980 West Virginia gubernatorial election
-1982 State of the Union Address
 1983 Libertarian National Convention
-1983 State of the Union Address
 1984 Democratic National Convention
 1984 Democratic Party presidential primaries
 1984 Republican National Convention
 1984 Republican Party presidential primaries
-1984 State of the Union Address
 1984 United States presidential election
-1985 State of the Union Address
-1986 State of the Union Address
-1986 United States bombing of Libya
 1987 Libertarian National Convention
-1987 State of the Union Address
 1988 Democratic National Convention
 1988 Democratic Party presidential primaries
 1988 Republican National Convention
 1988 Republican Party presidential primaries
-1988 Republican Party vice presidential candidate selection
-1988 State of the Union Address
 1988 United States presidential debates
 1988 United States presidential election
-1989 George H. W. Bush speech to a joint session of Congress
 1990 Chemical Weapons Accord
-1990 State of the Union Address
 1991 Libertarian National Convention
-1991 State of the Union Address
 1992 Democratic National Convention
 1992 Democratic Party presidential primaries
 1992 Republican National Convention
 1992 Republican Party presidential primaries
-1992 State of the Union Address
 1992 United States presidential debates
 1992 United States presidential election
 1996 Democratic National Convention
@@ -325,9 +171,7 @@
 2008 Republican National Convention
 2008 Republican Party presidential debates and forums
 2008 Republican Party presidential primaries
-2009 Republican National Committee chairmanship election
 2010 Libertarian National Convention
-2011 Republican National Committee chairmanship election
 2012 Democratic National Convention
 2012 Democratic Party presidential primaries
 2012 Green National Convention
@@ -338,9 +182,7 @@
 2012 Republican National Convention
 2012 Republican Party presidential debates and forums
 2012 Republican Party presidential primaries
-2013 Republican National Committee chairmanship election
 2014 Libertarian National Convention
-2015 Republican National Committee chairmanship election
 2016 Constitution Party presidential primaries
 2016 Democratic National Convention
 2016 Democratic Party presidential debates and forums
@@ -355,8 +197,6 @@
 2016 Republican National Convention
 2016 Republican Party presidential debates and forums
 2016 Republican Party presidential primaries
-2017 Republican National Committee chairmanship election
-2019 Republican National Committee chairmanship election
 2020 Constitution Party presidential primaries
 2020 Democratic National Convention
 2020 Democratic Party presidential debates
@@ -370,9 +210,6 @@
 2020 Republican National Convention
 2020 Republican Party presidential debates
 2020 Republican Party presidential primaries
-2021 Republican National Committee chairmanship election
-2023 Republican National Committee chairmanship election
-2024 Constitution Party presidential primaries
 2024 Democratic National Convention
 2024 Democratic Party presidential debates and forums
 2024 Democratic Party presidential primaries
@@ -381,117 +218,26 @@
 2024 Libertarian National Convention
 2024 Libertarian Party presidential primaries
 2024 Reform National Convention
-2024 Republican National Committee chairmanship election
 2024 Republican National Convention
 2024 Republican Party presidential debates and forums
 2024 Republican Party presidential primaries
-2028 Democratic Party presidential primaries
 2028 Republican National Convention
-2028 Republican Party presidential primaries
-AEI World Forum
-A Mind Forever Voyaging
-A Time for Choosing
-A World Transformed
 Abraham Lincoln
 Administration (government)
 Alabama
-Alabama Republican Party
-Alaska Republican Party
-Alexander Haig
-Alf Landon
-All the Best (book)
-Ambassadors of the United States
-An American Life
 Andrew Johnson
-Andrew Pulley
-Angela Davis
-Arizona Republican Party
-Arthur Summerfield
-Ash heap of history
-Assassins (musical)
-Attempted assassination of Gerald Ford in Sacramento
-Attempted assassination of Gerald Ford in San Francisco
-Attempted assassination of Ronald Reagan
-B. Carroll Reece
-Bad for Democracy
-Bailey Walsh
-Barbara Bush
-Barbara Bush (born 1981)
-Barry Commoner
 Barry Goldwater
-Bear in the woods
-Ben Fernandez
-Benjamin Bubar Jr.
-Benjamin Franklin Jones (industrialist)
 Benjamin Harrison
-Bertrand Snell
-Betty Ford
-Bibliography of George H. W. Bush
-Bibliography of Ronald Reagan
-Bibliography of the history of the Republican Party
-Bill Brock
 Bill Clinton
-Birthplace of Ronald Reagan
 Bob Dole
-Bush School of Government and Public Service
-Bush family
-C&O desk
-C. Wesley Roberts
 California
-California Democratic Party v. Jones
-California Republican Party
-California governor
 Calvin Coolidge
-Cannabis policy of the George H. W. Bush administration
-Cannabis policy of the Gerald Ford administration
-Cannabis policy of the Ronald Reagan administration
-Cattle call
-Caucus
 Central Intelligence Agency
-Charles A. Halleck
-Charles Curtis
-Charles D. Hilles
-Charles Evans Hughes
-Charles G. Dawes
-Charles H. Percy
-Charles Henry King
-Charles L. McNary
-Charles Mathias
-Charles W. Fairbanks
 Chester A. Arthur
-Chicken Kiev speech
-Citizens Party (United States)
-Clarence Thomas Supreme Court nomination
-Claudius H. Huston
-Clayton Yeutter
-Clifton DeBerry
 Cold War
-Cold War (1979–1985)
-Cold War (1985–1991)
-College Republicans
-Colorado Republican Party
-Communist Party (United States)
-Congressional Hispanic Conference
 Connecticut
-Connecticut Republican Party
 ConservAmerica
-Conservative Political Action Conference
-Constructive engagement
-Cultural depictions of Ronald Reagan
 Dan Quayle
-David B. Henderson
-David Koch
-David McReynolds
-Dean Burch
-Death and state funeral of George H. W. Bush
-Death and state funeral of Gerald Ford
-Death and state funeral of Ronald Reagan
-Deirdre Griswold
-Delaware Plan
-Democratic National Convention
 Democratic Party (United States)
 Democratic Party presidential debates
-Dennis Hastert
-Destiny and Power
 Detroit
-Diane Drufenbrock

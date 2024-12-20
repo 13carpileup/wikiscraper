@@ -1,12 +1,9 @@
 Dataflow programming
 Cost efficiency
-Parallel processor
 High-performance computing
 Starvation (computer science)
-C++ AMP
 Concurrency (computer science)
 Fiber (computer science)
-Virginia Tech
 Task parallelism
 Thread (computing)
 Instruction-level parallelism
@@ -14,7 +11,6 @@ Computer cluster
 Deadlock (computer science)
 OpenACC
 Parallel Virtual Machine
-Boost (C++ libraries)
 Flynn's taxonomy
 GPUOpen
 Hardware acceleration
@@ -23,7 +19,6 @@ Hardware scout
 Stream processing
 Data parallelism
 Parallel slowdown
-Parallel algorithm
 Distributed memory
 Multiprocessing
 ROCm
@@ -34,7 +29,6 @@ Beowulf cluster
 Parallel programming model
 Massively parallel
 ISBN (identifier)
-Parallelization
 Computer multitasking
 Pipeline (computing)
 Uniform memory access
@@ -62,14 +56,12 @@ Speedup
 Deterministic algorithm
 Ateji PX
 Grid computing
-Descriptive statistic
 Cilk
 Array (data structure)
 Software lockout
 Shared memory
 Manycore processor
 Memory-level parallelism
-Computational overhead
 Bulldozer (microarchitecture)
 Scalability
 Coarray Fortran
@@ -91,10 +83,8 @@ Single instruction, single data
 Algorithmic efficiency
 Barrier (computer science)
 Semiconductor memory
-Load balancing (computing)
 Temporal multithreading
 Single instruction, multiple data
-Serial fraction
 Instruction window
 Computer network
 Gustafson's law
@@ -107,7 +97,6 @@ Asymmetric multiprocessing
 Cache coherence
 Systolic array
 Doi (identifier)
-Amdahl's Law
 Automatic parallelization
 Computer programming
 Computer science
@@ -121,4 +110,3 @@ Single instruction, multiple threads
 Chapel (programming language)
 Message Passing Interface
 HPX
-ZPL (programming language)

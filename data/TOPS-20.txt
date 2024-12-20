@@ -1,4 +1,3 @@
-4K Disk Monitor System
 AdvFS
 Alpha 21064
 Alpha 21164
@@ -6,38 +5,21 @@ Alpha 21264
 Alpha 21364
 Alpha 21464
 AltaVista
-Append
 Assembly language
 BASIC-8
-BBN Technologies
-BBN Time-Sharing System
-Berkeley Timesharing System
-Bolt, Beranek and Newman
-Burroughs MCP
 Bus (computing)
-CDC Kronos
-CP/CMS
 CPU Wars
 CVAX
 Character encoding
 Code page 1287
 Code page 1288
-Command-line completion
-Command-line interface
 Command (computing)
-Comment (computer programming)
 Commercial Operating System
-Commercial Operating System (COS)
 Compaq
-Compatible Time-Sharing System
 Computer hardware
 Computer terminal
-Copy (command)
-Cray Time Sharing System
-DECSYSTEM-20
 DECUS
 DEC Alpha
-DEC BATCH-11/DOS-11
 DEC GT40
 DEC Hebrew
 DEC J-11
@@ -55,18 +37,12 @@ DECtape
 DECwriter
 DIBOL
 DIGITAL Command Language
-Dartmouth Time-Sharing System
-Debug (command)
-Del (command)
 Digital Equipment Corporation
 Digital Federal Credit Union
 Digital Linear Tape
 Digital Storage Systems Interconnect
-Digital UNIX
-Dir (command)
 Dynamic debugging technique
 Dynamically Redefined Character Set
-Edinburgh Multiple Access System
 English language
 FOCAL (programming language)
 FX!32
@@ -76,50 +52,31 @@ Gold key (DEC)
 Gordon Bell
 HP-Interex
 Harlan Anderson
-Help (command)
-IBM Remote Access Computing
-Incompatible Timesharing System
 Instruction set architecture
 Interactive Application System
 Ken Olsen
 LK201
 LK421
-Livermore Time Sharing System
 Local Area Transport
 Login
 MACRO-10
 MACRO-11
 MUMPS
-MUSIC/SP
 Mainframe computer
 Maintenance Operations Protocol
 Mass Storage Control Protocol
 Massbus
-Michigan Terminal System
 MicroVAX 78032
-Mount (computing)
-Multics
 Multinational Character Set
-Multiple Console Time Sharing System
-NLTSS
-NOS/VE
-NOS (operating system)
 NVAX
 National Replacement Character Set
 Natural language
-ORVYL and WYLBUR
-OS/8
-OS4000
 On-line Debugging Tool
 OpenVMS
 Operating system
 PALcode
-PDP-10
 PDP-11 architecture
 PDP-7
-Paul Allen
-Pick operating system
-Print (command)
 Processor (computing)
 Programmer
 Programming language
@@ -128,78 +85,41 @@ Q-Bus
 RA90
 RK05
 RL02
-RSTS/E
 RSX-11
-RSX-15
 RT-11
 ReGIS
 Record Management Services
-Ren (command)
 Rigel (microprocessor)
 Robert Palmer (computer businessman)
-Run command
-SDF Public Access Unix System
 Sixel
 Software license
 Software release life cycle
 Standard Disk Interconnect
 Star coupler
-Start (command)
-Status key
 StrongARM
 Synchronous Backplane Interconnect
 System Module
-System Reference Manual
-TD/SMP
-TENEX (operating system)
 TOPS-10
-TSS/8
-TSS (operating system)
 TU81
 TURBOchannel
-TYPE (DOS command)
 The Ultimate Entrepreneur
-Time-sharing
-Time-sharing system evolution
-Time Sharing Operating System
-Time Sharing Option
 Ultrix
-Undeletion
 Unibus
-Universal Time-Sharing System
-Unix
 User interface
 VAX
 VAXBI bus
 VAXELN
 VAX MACRO
 VM (operating system)
-VP/CSS
-VPS/VM
 VT05
 VT100
 VT1000
-VT101
-VT102
-VT103
-VT105
-VT131
 VT180
 VT220
-VT240
-VT241
 VT320
-VT330
-VT340
 VT420
-VT510
 VT52
 VT520
-VT525
-VT55
-VT62
 VT640
-WAITS
 WPS-8
 Wayback Machine
-XKL

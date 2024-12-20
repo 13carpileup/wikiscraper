@@ -1,80 +1,47 @@
 3ve
 Akbot
-Alureon
-Anti-spam
-Antivirus software
 Asprox botnet
 BASHLITE
 Bagle (computer worm)
 Botnet
 Bredolab botnet
 Browser security
-Celebrity
-Client side
 Computer virus
 Computer worm
 Computerworld
 Conficker
 Cutwail botnet
 Device driver
-Domain name
 Donbot botnet
-Email address
 Email spam
-Estonia
 Festi botnet
 File system
-FireEye, Inc.
-Firewall (computer)
-Gameover ZeuS
 Grum botnet
 Gumblar
-Hardcoded
-Helpful worm
 IP address
 Internet bot
-Internet crime
 Internet security
 Kelihos botnet
-Kernel mode
 Koobface
 Kraken botnet
 Lethic botnet
-MPack (software)
 Malware
 Man-in-the-browser
 Mariposa botnet
-McColo
 Mega-D botnet
 Metulji botnet
 Mirai (malware)
 NTFS
-Network Driver Interface Specification
-Network packet
 Network security
 Nitol botnet
-NortonLifeLock
 Operating system
-Packet analyzer
-Political spam
-Presidential candidate
 Python (programming language)
-Regin (malware)
-Ron Paul
-Rootkit
-Rustock
 Rustock botnet
 Sality
-Server-side
 Server (computing)
-Shadowserver
 Slenfbot
-Social engineering (security)
-Software as a service
-SpamAssassin
 Spam (electronic)
 Storm botnet
-TCP/IP
 TDL-4
 Torpig
 Trojan horse (computing)
@@ -84,8 +51,6 @@ User (computing)
 Virut
 Vulcanbot
 Waledac botnet
-Web component
-ZIP (file format)
 ZeroAccess botnet
 Zeus (malware)
 Zombie (computer science)

@@ -1,8 +1,5 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
-APT-RPM
-APT (Debian)
 ATI Technologies
 AlmaLinux
 Alpine Linux
@@ -54,9 +51,7 @@ Damn Vulnerable Linux
 Debian
 Deepin
 DemoLinux
-Desktop computer
 Devuan
-DistroWatch
 DivestOS
 DoudouLinux
 Dreamlinux
@@ -67,9 +62,7 @@ Elive
 Emmabuntüs
 EndeavourOS
 Endless OS
-Enlightenment (window manager)
 EulerOS
-Ext4
 Familiar Linux
 Feather Linux
 Fedora Linux
@@ -77,12 +70,10 @@ Fire OS
 Firefox OS
 Floppyfw
 Foresight Linux
-Fork (software)
 Free software
 FreedomBox
 Freespire
 Frugalware Linux
-GNOME
 GNU Core Utilities
 GNU Guix System
 GNewSense
@@ -96,15 +87,10 @@ GrapheneOS
 Graphical user interface
 HandyLinux
 Hard disk drive
-Hyperbola GNU/Linux-libre
 Immunix
 IodéOS
 Jurix
-KDE Plasma 4
-KDE Plasma 5
-KDE Plasma Desktop
 KDE neon
-K Desktop Environment 3
 KaOS
 KaiOS
 Kaisen Linux
@@ -117,11 +103,8 @@ Kongoni (operating system)
 Korora (operating system)
 Kubuntu
 Kwort Linux
-LXDE
 LXLE Linux
-LXQt
 Libranet
-LibreOffice
 LinHES
 LineageOS
 Linpus Linux
@@ -135,11 +118,7 @@ Linux distribution
 Linux for PlayStation 2
 Linux kernel
 List of Linux distributions
-List of remastering software
-Live CD
-Live USB
 Lubuntu
-MATE (software)
 MCC Interim Linux
 MIUI
 MX Linux
@@ -150,11 +129,9 @@ Manjaro
 MeeGo
 Mer (software distribution)
 Miracle Linux
-Mklivecd
 Mobilinux
 Modular programming
 Monolithic kernel
-Musix GNU+Linux
 Network Security Toolkit
 NimbleX
 Nitix
@@ -169,12 +146,9 @@ OpenELEC
 OpenMandriva Lx
 OpenSUSE
 Open Enterprise Server
-Openbox
 Operating system
 Oracle Linux
-Package management system
 Package manager
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
@@ -192,7 +166,6 @@ Q4OS
 Qubes OS
 RAM
 ROSA Linux
-RPM Package Manager
 Raspberry Pi OS
 Red Hat Enterprise Linux
 Red Hat Linux
@@ -202,7 +175,6 @@ Replicant (operating system)
 Resurrection Remix OS
 Rocks Cluster Distribution
 Rocky Linux
-Rolling release
 SUSE Linux
 SUSE Linux Enterprise
 SUSE Studio
@@ -216,7 +188,6 @@ Slax
 Softlanding Linux System
 Software license
 Software release life cycle
-Software remastering
 Solus (operating system)
 SolydXK
 Source Mage
@@ -225,7 +196,6 @@ SparkyLinux
 Splashtop OS
 SteamOS
 Sunwah Linux
-Synaptic Package Manager
 SystemRescue
 T2 SDE
 Tails (operating system)
@@ -233,13 +203,11 @@ Think Blue Linux
 Tiny Core Linux
 Tizen
 TopologiLinux
-Trinity (desktop environment)
 Trisquel
 Turbolinux
 Turkix
 Tweet (social media)
 Twitter
-UNetbootin
 USB flash drive
 Ubuntu
 Ubuntu Budgie
@@ -252,9 +220,6 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Urpmi
-Uruk GNU/Linux
 User interface
 User space and kernel space
 VectorLinux
@@ -262,10 +227,7 @@ Vine Linux
 Void Linux
 Whonix
 Wubuntu
-X86-64
 XB Machine
-XFCE
-Xfce
 Xubuntu
 Yellow Dog Linux
 Zenwalk

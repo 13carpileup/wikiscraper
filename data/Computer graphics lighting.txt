@@ -3,119 +3,69 @@
 3D computer graphics
 3D modeling
 3D projection
-3D rendering
 Affine transformation
-Aliasing
 Alpha compositing
 Anisotropic filtering
 Back-face culling
-Beam tracing
 Bibcode (identifier)
-Blinn–Phong reflection model
-Bump mapping
 Cartoon
-Caustic (optics)
-Cel shaded
-Cel shading
-Checkerboard rendering
-CiteSeerX
 Clipping (computer graphics)
 Collision detection
-Color spectrum
 Comparison of vector graphics editors
 Computational complexity
-Computer Graphics (Publication)
 Computer graphics
-Computer graphics (computer science)
-Cone
 Cone tracing
 Deferred shading
-Depth of field
 Diffuse reflection
 Diffusion curve
 Doi (identifier)
 Fluid animation
-Fragment (computer graphics)
 Global illumination
-Gouraud shading
 Graphics software
 Hidden-surface determination
 ISBN (identifier)
 ISSN (identifier)
 Image-based modeling and rendering
 Intensity (physics)
-Interpolation
 Isometric video game graphics
 Layers (digital image editing)
 Lighting
-List of 3D animation software
 List of 3D computer graphics software
 List of 3D modeling software
 List of 3D rendering software
 List of computer graphics algorithms
 Mode 7
-Monte Carlo sampling
-Nancy Pollard
-Normal (geometry)
-Overexposure
 PDF
 PMID (identifier)
 Parallax scrolling
 Particle
-Particle system
 Path tracing
-Per-pixel lighting
-Phong reflection model
-Phong shading
 Photon
-Photon mapping
 Pixel
 Planar projection
 Polygon mesh
-Radiosity (computer graphics)
-Randomness
 Raster graphics editor
-Rasterisation
-Ray casting
 Ray tracing (graphics)
 Real-time computing
-Reflectance
 Reflection (computer graphics)
-Reflection coefficient
-Reflection mapping
-Reflectively
-Refracted
-Refracts
 Rendering (computer graphics)
 Rotation (mathematics)
 S2CID (identifier)
 Scaling (geometry)
 Scanline rendering
-Scattering
 Shader
 Shading
 Shadow mapping
-Shadow volume
 Shear matrix
 Skybox (video games)
 Spectral rendering
-Specular highlight
 Style (visual arts)
 Surface triangulation
 Team Fortress 2
 Texel (graphics)
-Text-to-image model
 Texture mapping
-Translation (geometry)
 Triangle mesh
-Trigonometric functions
 Unbiased rendering
-Unit vector
-Vector graphics
-Vertex (geometry)
-Vertex normal
-Volume rendering
 Voxel
-Wave function
 Wayback Machine
 Wire-frame model

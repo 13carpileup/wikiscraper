@@ -16,42 +16,34 @@ ARIB STD B24 character set
 ASCII
 ASMO 449
 ATASCII
-Acknowledge character
-Acknowledgement (data networks)
 Adlam script
 Ahom script
 Ampersand
-Amstrad CP/M Plus character set
 Amstrad CPC character set
 Anatolian hieroglyphs
 Ancient North Arabian
 Ancient South Arabian script
 Apostrophe
 Apple II character set
-Application Program Command
 Arabic script
 Aramaic alphabet
 ArmSCII
 Armenian alphabet
 Asterisk
-At sign
 Atari ST character set
 Avestan alphabet
 B
 BCD (character encoding)
-BOCU-1
 Backslash
 Backspace
 Balinese script
 Bamum script
-Bassa Vah alphabet
 Batak script
 Baudot code
 Baybayin
 Bell character
 Bengali–Assamese script
 Bhaiksuki script
-Bidirectional text
 Big5
 Binary Ordered Compression for Unicode
 Bitstream International Character Set
@@ -60,18 +52,14 @@ BraSCII
 Bracket
 Brahmi script
 Braille
-Break permitted here
 Buhid script
 Byte
-Byte order mark
 C
 C0 and C1 control codes
-C1 control code
 CCSID
 CDC display code
 CER-GS
 CESU-8
-CJK Unified Ideographs
 CNS 11643
 COBOL
 CSX+ Indic character set
@@ -81,15 +69,12 @@ CWI-2
 Canadian Aboriginal syllabics
 Cancel character
 Carian alphabets
-Carriage Return
 Casio calculator character sets
 Caucasian Albanian script
 Chakma script
 Cham script
 Character encoding
 Character encodings in HTML
-Character tabulation set
-Character tabulation with justification
 Charset detection
 Cherokee syllabary
 Chinese Character Code for Information Interchange
@@ -111,18 +96,10 @@ Code page 1019
 Code page 1020
 Code page 1021
 Code page 1023
-Code page 1034
 Code page 1040
 Code page 1042
 Code page 1043
-Code page 1044
 Code page 1046
-Code page 1047
-Code page 1052
-Code page 1053
-Code page 1054
-Code page 1055
-Code page 1056
 Code page 1058
 Code page 1098
 Code page 1101
@@ -161,7 +138,6 @@ Code page 853
 Code page 855
 Code page 856
 Code page 857
-Code page 858
 Code page 859
 Code page 860
 Code page 861
@@ -178,7 +154,6 @@ Code page 896
 Code page 897
 Code page 899
 Code page 903
-Code page 904
 Code page 912
 Code page 915
 Code page 921
@@ -193,18 +168,13 @@ Code page 950
 Code page 951
 Code point
 Colon (punctuation)
-Combining character
 Combining grapheme joiner
 Comma
 Common Locale Data Repository
 Comparison of Unicode encodings
 Compucolor II character set
-ConScript Unicode Registry
-Control Pictures
-Control Sequence Introducer
 Control character
 Cooke and Wheatstone telegraph
-Coptic script
 Cork encoding
 Cuneiform
 Currency symbol
@@ -220,36 +190,21 @@ DG International
 DIN 66003
 DIN 91379
 DKOI
-Data Link Escape
-Delete character
 Deseret alphabet
 Devanagari
-Device Control 1
-Device Control 2
-Device Control 3
-Device Control 4
-Device Control String
 Dhives Akuru
 Diacritic
 Digital Equipment Corporation
 Digital encoding of APL symbols
 Dogri script
 Dollar sign
-Duplicate characters in Unicode
 Duployan shorthand
 E
 EBCDIC
 ELOT 927
 Egyptian hieroglyphs
-Elbasan
 Elymaic
 Emoji
-End Transmission Block character
-End of Medium
-End of Protected Area
-End of Selected Area
-End of Text
-End of Transmission
 Enquiry character
 Equals sign
 Escape character
@@ -259,8 +214,6 @@ Extended Unix Code
 F
 FOCAL character set
 Fieldata
-File Separator
-Form Feed
 Fraser script
 Full stop
 G
@@ -281,12 +234,9 @@ Glossary of mathematical symbols
 Gondi writing
 Gothic alphabet
 Grantha script
-Greek script in Unicode
-Group Separator
 Gujarati script
 Gunjala Gondi script
 Gurmukhi
-Gurung Khema
 H
 HP Roman
 HZ (character encoding)
@@ -297,18 +247,12 @@ Hanifi Rohingya script
 Hanja
 Hanunoo script
 Hardware code page
-Hatran alphabet
 Hebrew alphabet
-High octet preset
 Hiragana
-Homoglyph
 Hong Kong Supplementary Character Set
-Horizontal Tab
 I
 IBM
 IBM AIX
-IBM Db2
-IEC-P27-1
 INIS-8
 INIS character set
 ISO-IR-111
@@ -317,27 +261,6 @@ ISO-IR-182
 ISO-IR-197
 ISO-IR-200
 ISO-IR-68
-ISO/IEC 10367
-ISO/IEC 14651
-ISO/IEC 2022
-ISO/IEC 646
-ISO/IEC 8859
-ISO/IEC 8859-1
-ISO/IEC 8859-10
-ISO/IEC 8859-11
-ISO/IEC 8859-12
-ISO/IEC 8859-13
-ISO/IEC 8859-14
-ISO/IEC 8859-15
-ISO/IEC 8859-16
-ISO/IEC 8859-2
-ISO/IEC 8859-3
-ISO/IEC 8859-4
-ISO/IEC 8859-5
-ISO/IEC 8859-6
-ISO/IEC 8859-7
-ISO/IEC 8859-8
-ISO/IEC 8859-9
 ISO 15924
 ISO 2033
 ISO 5426
@@ -346,13 +269,7 @@ ISO 5428
 ISO 6438
 ISO 6862
 ITU T.61
-Ideographic Research Group
-Index character
 Indian Script Code for Information Interchange
-Intecolor/Compucolor 8001 character set
-International Components for Unicode
-International Ideographs Core
-Internationalized domain name
 Iran System encoding
 J
 JIS X 0201
@@ -384,24 +301,15 @@ Khitan small script
 Khmer script
 Khojki script
 Khudabadi script
-Khwarezmian language
-Kirat Rai
 L
 LST 1564
 LST 1590-4
 LY1 encoding
 Lao script
-Latin script in Unicode
-Left-to-right mark
 Lepcha script
 Limbu script
-Line Feed
-Line tabulation set
-Linear A
 Linear B
-List of Unicode characters
 List of XML and HTML character entity references
-List of precomposed Latin characters in Unicode
 Lontara script
 Lotus International Character Set
 Lotus Multi-Byte Character Set
@@ -429,7 +337,6 @@ Mac OS Hebrew
 Mac OS Icelandic encoding
 Mac OS Inuit
 Mac OS Keyboard encoding
-Mac OS Maltese/Esperanto encoding
 Mac OS Ogham
 Mac OS Roman
 Mac OS Romanian encoding
@@ -442,18 +349,15 @@ Macintosh Latin encoding
 Magnetic ink character recognition
 Mahajani
 Mainframe computer
-Makassarese language
 Malayalam script
 Mandaic alphabet
 Manichaean script
 Marchen script
-Mathematical operators and symbols in Unicode
 Mazovia encoding
 Medefaidrin
 Meitei script
 Mende Kikakui script
 Meroitic script
-Message Waiting
 Modi script
 Mojibake
 Mojikyō
@@ -468,18 +372,13 @@ N
 N'Ko script
 NEC APC character set
 Nabataean script
-Nag Mundari
 Nandinagari
 National Replacement Character Set
 NeXT character set
 New Tai Lue alphabet
-Next Line
-No break here
 Null character
 Number sign
-Numerals in Unicode
 Numeric character reference
-Nyiakeng Puachue Hmong
 Nüshu
 O
 OML encoding
@@ -494,7 +393,3 @@ Old Italic scripts
 Old Permic script
 Old Persian cuneiform
 Old Turkic script
-Old Uyghur
-Operating System Command
-Oracle Corporation
-Oracle database

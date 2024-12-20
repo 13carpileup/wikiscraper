@@ -1,4 +1,3 @@
-4K Disk Monitor System
 AdvFS
 Alpha 21064
 Alpha 21164
@@ -7,7 +6,6 @@ Alpha 21364
 Alpha 21464
 AltaVista
 Arcade system board
-Atari System 2
 BASIC-8
 Bus (computing)
 CPU Wars
@@ -21,7 +19,6 @@ Computer hardware
 Computer terminal
 DECUS
 DEC Alpha
-DEC BATCH-11/DOS-11
 DEC GT40
 DEC Hebrew
 DEC J-11
@@ -38,12 +35,10 @@ DECtape
 DECwriter
 DIBOL
 DIGITAL Command Language
-Dan Dobberpuhl
 Digital Equipment Corporation
 Digital Federal Credit Union
 Digital Linear Tape
 Digital Storage Systems Interconnect
-Digital UNIX
 Dynamic debugging technique
 Dynamically Redefined Character Set
 FOCAL (programming language)
@@ -69,15 +64,12 @@ Massbus
 MicroVAX 78032
 Microprocessor
 Multinational Character Set
-NMOS logic
 NVAX
 National Replacement Character Set
-OS/8
 On-line Debugging Tool
 OpenVMS
 Operating system
 PALcode
-PDP-11
 PDP-11 architecture
 PDP-7
 Processor (computing)
@@ -86,9 +78,7 @@ Q-Bus
 RA90
 RK05
 RL02
-RSTS/E
 RSX-11
-RSX-15
 RT-11
 ReGIS
 Record Management Services
@@ -97,18 +87,13 @@ Robert Palmer (computer businessman)
 Russian language
 Sixel
 Soviet Union
-Soviet integrated circuit designation
 Standard Disk Interconnect
 Star coupler
 StrongARM
 Synchronous Backplane Interconnect
-Synertek
 System Module
-System Reference Manual
-TD/SMP
 TOPS-10
 TOPS-20
-TSS/8
 TU81
 TURBOchannel
 The Ultimate Entrepreneur
@@ -121,24 +106,11 @@ VAX MACRO
 VT05
 VT100
 VT1000
-VT101
-VT102
-VT103
-VT105
-VT131
 VT180
 VT220
-VT240
-VT241
 VT320
-VT330
-VT340
 VT420
-VT510
 VT52
 VT520
-VT525
-VT55
-VT62
 VT640
 WPS-8

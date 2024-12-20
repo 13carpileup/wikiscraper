@@ -1,4 +1,3 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
 AlmaLinux
@@ -46,15 +45,12 @@ CrDroid
 CrunchBang Linux
 Cub Linux
 CyanogenMod
-D-Bus
-Daemon (computer software)
 Damn Small Linux
 Damn Vulnerable Linux
 Debian
 Deepin
 DemoLinux
 Devuan
-DistroWatch
 DivestOS
 DoudouLinux
 Dreamlinux
@@ -76,7 +72,6 @@ Foresight Linux
 FreedomBox
 Freespire
 Frugalware Linux
-GNOME
 GNU Guix System
 GNewSense
 GOS (operating system)
@@ -86,9 +81,7 @@ Gentoo Linux
 GoboLinux
 Gobuntu
 GrapheneOS
-HAL (software)
 HandyLinux
-Hyperbola GNU/Linux-libre
 Immunix
 IodéOS
 Jurix
@@ -118,7 +111,6 @@ Linux Router Project
 Linux distribution
 Linux for PlayStation 2
 List of Linux distributions
-Live CD
 Lubuntu
 MCC Interim Linux
 MIUI
@@ -132,7 +124,6 @@ Mer (software distribution)
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Musix GNU+Linux
 Network Security Toolkit
 NimbleX
 Nitix
@@ -149,9 +140,6 @@ Open Enterprise Server
 Oracle Linux
 PCLinuxOS
 PHP
-PHP-GTK
-Package management
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
@@ -195,10 +183,8 @@ SolydXK
 Source Mage
 SparkyLinux
 Splashtop OS
-Squashfs
 SteamOS
 Sunwah Linux
-Suspend mode
 SystemRescue
 T2 SDE
 Tails (operating system)
@@ -218,19 +204,14 @@ Ubuntu MATE
 Ubuntu Studio
 Ubuntu Touch
 Ubuntu Unity
-Udev
 Ultramarine Linux
-Unionfs
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 VectorLinux
 Vine Linux
 Void Linux
 Whonix
 Wubuntu
 XB Machine
-Xfce
 Xubuntu
 Yellow Dog Linux
 Zenwalk

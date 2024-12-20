@@ -1,12 +1,8 @@
 AC motor
-Admittance
 Albert Einstein
 Alessandro Volta
 Alfred-Marie Liénard
 Alternating current
-Amp-turn
-Ampere
-Ampere-turn
 Ampère's circuital law
 André-Marie Ampère
 Angular frequency
@@ -31,12 +27,9 @@ DC motor
 Direct current
 Displacement current
 Doi (identifier)
-Duality (electrical circuits)
-Dynamical systems theory
 Eddy current
 Electret
 Electric charge
-Electric conductance
 Electric current
 Electric dipole moment
 Electric field
@@ -67,12 +60,7 @@ Electrostatic induction
 Electrostatics
 Emil Lenz
 Emil Wiechert
-Extensive property
-Farad
 Faraday's law of induction
-Farads
-Ferromagnetic materials
-Field theory (physics)
 Four-current
 Franz Ernst Neumann
 Félix Savart
@@ -81,20 +69,15 @@ Gauss's law for magnetism
 Georg Ohm
 George Singer
 Gustav Kirchhoff
-Gyrator
-Hall effect sensor
 Hans Christian Ørsted
 Hdl (identifier)
 Heinrich Hertz
 Hendrik Lorentz
-Henry (unit)
 Hermann von Helmholtz
 Hippolyte Fizeau
 History of electromagnetic theory
 Humphry Davy
-Hysteresis
 ISSN (identifier)
-Impedance analogy
 Inductance
 Induction motor
 Insulator (electricity)
@@ -108,11 +91,8 @@ John Hopkinson
 Joseph Henry
 Joseph Larmor
 Joule heating
-Karl Küpfmüller
 Kirchhoff's circuit laws
 Larmor formula
-Leakage flux
-Leakage inductance
 Lenz's law
 Linear motor
 List of electrical phenomena
@@ -121,15 +101,10 @@ Liénard–Wiechert potential
 London equations
 Lord Kelvin
 Lorentz force
-Lumped-element model
-Lumped element model
-Magnetic capacitance
 Magnetic circuit
 Magnetic complex reluctance
-Magnetic current
 Magnetic field
 Magnetic flux
-Magnetic inductivity
 Magnetic moment
 Magnetic reluctance
 Magnetic scalar potential
@@ -142,14 +117,10 @@ Mathematical descriptions of the electromagnetic field
 Maxwell's equations
 Maxwell's equations in curved spacetime
 Maxwell stress tensor
-Mechanical–electrical analogies
-Meter
 Michael Faraday
 Network analysis (electrical circuits)
 Newton (unit)
 Nikola Tesla
-Nonlinear element
-Ohm
 Ohm's law
 Oleg D. Jefimenko
 Oliver Heaviside
@@ -157,41 +128,28 @@ Optics
 Permeability (electromagnetism)
 Permeance
 Permittivity
-Phasor analysis
 Polarization density
 Poynting vector
-Quotient
 Real analysis
 Relativistic electromagnetism
-Reluctance
-Remanent magnetism
-Resistance–reluctance model
 Resonance
 Resonator
 Right-hand rule
 Rotor (electric)
 S2CID (identifier)
-SI unit
-Saturation (magnetic)
 Series and parallel circuits
-Siemens (unit)
 Siméon Denis Poisson
 Static electricity
 Stator
 Synchrotron radiation
 Three-phase
-Transducer
 Transformer
 Triboelectric effect
-Two-port network
 Ultra high frequency
-Vacuum permeability
 Very high frequency
 Volt
 Voltage
-Volts
 Watt
 Waveguide (radio frequency)
-Weber (unit)
 Wilhelm Eduard Weber
 William Ritchie (physicist)

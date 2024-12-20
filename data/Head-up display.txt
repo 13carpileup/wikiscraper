@@ -1,212 +1,87 @@
 360-degree video
 3D audio effect
-AIRPASS
-AI Mk. IV radar
-AI Mk. VIII radar
 ARCore
 ARINC 429
 ARKit
 ARToolKit
 Accel World
-Accommodation (eye)
-Acronyms and abbreviations in avionics
-Air data inertial reference unit
-Airbus A318
-Aircraft carrier
-Aircraft heading
-Aircraft periscope
-Aircraft pilot
-Airspeed
-Airspeed indicator
-Altimeter
-Altitude
 AltspaceVR
-American Airlines Flight 965
 Ames Research Center
 Android XR
-Angle of attack
 AntVR
 Apple Inc.
 Apple Vision Pro
-Approach and departure angles
-Artificial horizon
 Asynchronous reprojection
 Attack of the Killer App
-Attitude indicator
 Augmented reality
-Automobile roof
-Automotive design
-Automotive head-up display
-Automotive lighting
-Automotive night vision
 Autostereoscopy
 Avatar (computing)
 BAE Systems
-BMW E60
-Backbone chassis
-Beam splitter
-Beltline (automotive)
-Bionic contact lens
 Black Mirror
-Blackburn Buccaneer
 Bob Sproull
-Body-on-frame
 Boeing 737
-Boeing 737 Classic
-Boeing 737 Next Generation
-Boeing 787
 Boštjan Burger
 Brain–computer interface
-Breakover angle
 Brenda Laurel
 Brendan Bradley (actor)
 Brendan Iribe
 Brilliant Labs
-Bumper (car)
-Bumper sticker
-Butterfly doors
-C-130J
-Cabrio coach
-Canadair RJ
-Car
-Car door
-Car platform
 Carolina Cruz-Neira
 CastAR
 Cathode-ray tube
-Cessna Caravan
 Char Davies
 Chassis
 Cinematic virtual reality
-Cintel
-Cirrus SR22
-Coachbuilder
 Code Lyoko
-Collimated
-Collimator
-Compass
-Computer-generated holography
 Computer-mediated reality
 Computerworld
-Concave mirror
-Conformal projection
-Continental tire
-Convex lens
-Course deviation indicator
-Crumple zone
-Curb feeler
 Cyberith Virtualizer
-Dagmar bumper
 Daniel J. Sandin
-Daytime running lamp
-De Havilland Mosquito
-Deflection (ballistics)
 Den-noh Coil
 Dieter Schmalstieg
 Digimon
-Digital light processing
-Diving mask
-Dogfight
 Doi (identifier)
 Ela Darling
-Elbit
-Electronic centralised aircraft monitor
-Electronic flight instrument system
 Elia Petridis
-Elliott Brothers (computer company)
-Emerging technologies
-English Electric Lightning
-Enhanced flight vision system
 Eric Howlett
-Eurofighter
 Extended reality
 EyeTap
 Eye tracking
-Eyes-on-the-Road-Benefit
-F-16
-F-35
-F-35 Lightning II
-F/A-18
 Face tracking
 Federal Aviation Administration
-Fender (vehicle)
-Fender skirts
-Ferroelectric liquid crystal display
-Field-emission display
 Fighter aircraft
-Fighter jet
 Finger tracking
-Flexible display
-Flight International
-Flight dynamics
-Flight instruments
 Foveated rendering
 Fred Brooks
 Free viewpoint television
-Front-end bra
 Futurama
-General aviation
-Glass cockpit
-Glass run channel
-Global Positioning System
 Godot (game engine)
 Golden-i
 Google
 Google Cardboard
 Google Daydream
 Google Glass
-Greenhouse (car)
-Grille (car)
-Gulfstream V
-Gull-wing door
-Gun harmonisation
 Gundam Build Divers
 Gundam Build Metaverse
 Gunpei Yokoi
-Gyro gunsight
 Gyroscope
-Gyroscopic
 HTC
 HTC Vive
 HUD (video gaming)
 Haptic suit
 Head-mounted display
-Heading indicator
-Headlamp
-Helicopter
-Helmet-mounted display
 Henry Fuchs
-Hidden headlamp
-High-intensity discharge lamp
 HoloLens 2
 Holodeck
-Holographic display
-Holographic optical element
-Hood (car)
-Hood ornament
-Hood scoop
 Horizon
 Horizon Worlds
-Horizontal situation indicator
 ISBN (identifier)
 ISSN (identifier)
 Image-based modeling and rendering
 Immersion (virtual reality)
-Index of aviation articles
-Inertial navigation system
-Infantry
-Infinity
-Information overload
 Infrared
-Instrument Landing System
-Instrument flight rules
-Integrated standby instrument system
 Interactive art
-Interferometric modulator display
-International Journal of Aviation Psychology
-Israel Defense Forces
 Ivan Sutherland
-Japan black
 Jaron Lanier
 Jerome Foster II
 Jetpack Compose
@@ -214,37 +89,23 @@ John Carmack
 Khronos Group
 Kiss Me First (TV series)
 LED
-LED display
 Laser
-Laser-powered phosphor display
-Laser TV
 Lawrence J. Rosenblum
 Leap Motion
 Liquid Image
-Liquid crystal display
-Liquid crystal displays
-Liquid crystal on silicon
 List of HTC Vive games
 List of Meta Quest games
 List of Oculus Rift games
 List of PlayStation VR2 games
 List of PlayStation VR games
-List of auto parts
-List of automotive light bulb types
-List of emerging technologies
 List of software related to augmented reality
-List of vehicle instruments
 List of virtual reality headsets
-Luminance
-MIL-STD-1553
-Machmeter
 Magic Leap
 Mark Bolas
 Mark Stephen Meadows
 Mark Zuckerberg
 Mashable
 Maurice Benayoun
-McDonnell Douglas F/A-18 Hornet
 Meta Horizon OS
 Meta Platforms
 Meta Quest 3
@@ -252,30 +113,18 @@ Meta Quest 3S
 Meta Quest Pro
 Metaverse
 Michelle and Uri Kranot
-MicroLED
 Microsoft Corporation
 Microsoft HoloLens
-Military
-Milliradian
 Ming C. Lin
-Minutes of arc
 Mixed reality
-Monochromatic
-Monocoque
 Morton Heilig
-Motor vehicle theft
-Motorcycle helmet
-Multi-primary color display
 Myron W. Krueger
 NASA
 NeosVR
-Nerf bar
 Netrunner
 Neuromancer
-Next generation of display technology
 Niantic, Inc.
 Nicole Stenger
-Night fighter
 Nonny de la Peña
 Nosedive (Black Mirror)
 OLED
@@ -285,55 +134,31 @@ Oculus Rift
 Oculus Rift CV1
 Oculus Rift S
 Oculus Touch
-Oldsmobile Cutlass Supreme
 Omnidirectional (360-degree) camera
 Omnidirectional treadmill
-Omniview technology
 On-set virtual production
 OpenVR
 OpenXR
 Open Source Virtual Reality
-Opera window
 Optical head-mounted display
-Optical waveguide
-Organic light-emitting diode
-Organic light-emitting transistor
-Overhang (vehicles)
-PZL TS-11 Iskra
 Palmer Luckey
 Pancake lens
-Parabolic aluminized reflector
-Parallax
-Pepper's ghost
 Persistent world
 Pervasive game
 Philippe Bekaert
 Pico 4
-Pilatus PC-12
-Pillar (car)
 Pimax
-Pioneer Corporation
-Pitot-static
-Pitot–static system
 PlayStation Move
 PlayStation VR
 PlayStation VR2
 Playtest (Black Mirror)
-Ponton (car)
 Pose tracking
-Power side-view mirror
-Power window
-Primary flight display
 Project Iris
 Projection augmented model
 Quantified self
-Quantum dot display
-Quarter glass
-Quarter panel
 Quest 2
 R. Bowen Loftin
 Radar
-Rangefinding telemeter
 Razer Hydra
 Ready Player One
 Ready Player One (film)
@@ -341,105 +166,49 @@ Ready Player Two
 Real life
 Reality Labs
 Rec Room (video game)
-Reflector sight
-Required Navigation Performance
 Resonite
-Reticle
 Retina
-Ride height
 Rokoko (company)
-Roll center
-Roof rack
 Room-scale
-Royal Air Force
-Royal Aircraft Establishment
-Royal Navy
-Run-flat tire
 S2CID (identifier)
 SSSS.Gridman
-Samsung
 Samsung Electronics
 Samsung Gear VR
 Sansar (video game)
-Satellite navigation
 Satya Nadella
-Scissor doors
 Scott Fisher (technologist)
 Screen-door effect
-Screenless video
-See-through display
 Sega VR
 Sensorama
 Sensorium Corporation
-Shaker scoop
-Side-stick
-Side-view mirror
 Simon Birrell
 Simulation hypothesis
 Simultaneous localization and mapping
 Sinespace
 Six degrees of freedom
 SixthSense
-Sliding door (car)
-Slip indicator
 Smartglasses
 Snow Crash
-Space Integrated GPS/INS
-Space Shuttle
-Spare tire
 Spatial computing
-Speedometer
-Spoiler (car)
 Steven K. Feiner
-Stressed member engine
-Subframe
-Suicide door
 Sundar Pichai
-Sunroof
 Superhot
 Superhuman Samurai Syber-Squad
-Supplemental type certificate
-Surface-conduction electron-emitter display
 Susumu Tachi
-Swan doors
 SwiftUI
 Sword Art Online
-Symbology (avionics)
-Synthetic vision
-Synthetic vision system
-Tablet computer
-Tachometer
-Telecommunications Research Establishment
 Telepresence
-Telescopic pixel display
 The Dreamland Chronicles
 The Entire History of You
 The Matrix
 The Matrix (franchise)
 The New York Times
 The Sword of Damocles (virtual reality)
-Thermal image
-Thick-film dielectric electroluminescent technology
 Thomas A. DeFanti
 Thomas A. Furness III
 Tim Cook
-Time-multiplexed optical shutter
-Tire
-Tonneau
 Tony Parisi (software developer)
-Tow hitch
-Toyota Prius
-Trafficators
 Transhumanism
-Trunk (car)
-Trunk lid
-Turn and slip indicator
-Turn coordinator
-Turn indicator
-Turning radius
-UK Ministry of Defence
-US Navy
-Ultra-high-definition television
 Unity (game engine)
 Unreal Engine
 VFX1 Headgear
@@ -450,18 +219,8 @@ VR photography
 VR positional tracking
 VTime XR
 VTuber
-V speeds
 Valve Index
-Vanity plate
-Variometer
 Varjo
-Vehicle canopy
-Vehicle frame
-Vehicle glass
-Vehicle horn
-Vehicle identification number
-Vehicle registration plate
-Vignetting
 Virtual Boy
 Virtual fixture
 Virtual graffiti
@@ -479,20 +238,12 @@ VisionOS 2
 Volumetric display
 Vuforia Augmented Reality SDK
 Vuzix
-WAAS
 Warren Robinett
 Wavelength
-WayRay
 Wayback Machine
 Wearable computer
 WebXR
-Weight distribution
 White Christmas (Black Mirror)
-Window deflector
 Windows Mixed Reality
-Windscreen wiper
-Windshield
-Windshield washer fluid
 Wired glove
 Wizdish ROVR
-Yaw string

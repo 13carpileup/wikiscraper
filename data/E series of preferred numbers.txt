@@ -5,12 +5,8 @@ AM broadcasting
 ANSI C
 ANSI escape code
 Ada Semantic Interface Specification
-Allied Electronics
-American Standards Association
 Antique radio
 Battery nomenclature
-Bourns, Inc.
-British National Committee
 C++
 CHILL
 COBOL
@@ -23,8 +19,6 @@ Compact Disc Digital Audio
 Comparative Tracking Index
 Computer Graphics Metafile
 Consumer electronics
-Dash
-Decade (log scale)
 Digital Addressable Lighting Interface
 Document Style Semantics and Specification Language
 Doi (identifier)
@@ -32,18 +26,11 @@ ECMAScript
 ECMAScript for XML
 EN 62262
 E number
-Electrolytic capacitor
-Electronic color code
 Electronic component
-Engineering tolerance
-Farad
-Federal Telephone and Radio Corporation
 Fieldbus
 File Allocation Table
 Full BASIC
-Fuse (electrical)
 Geometric progression
-Golden Age of Radio
 Graph Query Language
 Graphical Kernel System
 Guidelines for the Definition of Managed Objects
@@ -51,7 +38,6 @@ HTML
 IEC 60027
 IEC 60034
 IEC 60038
-IEC 60062
 IEC 60068
 IEC 60228
 IEC 60269
@@ -65,7 +51,6 @@ IEC 60870-5
 IEC 60870-6
 IEC 60906-1
 IEC 60929
-IEC 60980-344
 IEC 61030
 IEC 61131
 IEC 61131-3
@@ -88,7 +73,6 @@ IEC 62196
 IEC 62264
 IEC 62304
 IEC 62325
-IEC 62351
 IEC 62366
 IEC 62379
 IEC 62455
@@ -98,59 +82,11 @@ IEC 63110
 IEC 63119
 IEC 63382
 IEC 81346
-IEC TC 12
 IEEE 754
 IO-Link
 IP-XACT
 ISBN (identifier)
 ISLISP
-ISO/IEC 10021
-ISO/IEC 10116
-ISO/IEC 10967
-ISO/IEC 11179
-ISO/IEC 11404
-ISO/IEC 11801
-ISO/IEC 12207
-ISO/IEC 14443
-ISO/IEC 14651
-ISO/IEC 15288
-ISO/IEC 15504
-ISO/IEC 15693
-ISO/IEC 15897
-ISO/IEC 17024
-ISO/IEC 17025
-ISO/IEC 18014
-ISO/IEC 19752
-ISO/IEC 19770
-ISO/IEC 19788
-ISO/IEC 20000
-ISO/IEC 2022
-ISO/IEC 21827
-ISO/IEC 24727
-ISO/IEC 24744
-ISO/IEC 27000
-ISO/IEC 27000-series
-ISO/IEC 27002
-ISO/IEC 27040
-ISO/IEC 29119
-ISO/IEC 33001
-ISO/IEC 38500
-ISO/IEC 42010
-ISO/IEC 4909
-ISO/IEC 5218
-ISO/IEC 646
-ISO/IEC 6523
-ISO/IEC 7810
-ISO/IEC 7811
-ISO/IEC 7812
-ISO/IEC 7813
-ISO/IEC 7816
-ISO/IEC 80000
-ISO/IEC 8652
-ISO/IEC 8859
-ISO/IEC 9126
-ISO/IEC 9529
-ISO/IEC 9995
 ISSN (identifier)
 Inductor
 Institute of Radio Engineers
@@ -160,12 +96,9 @@ International Standard Identifier for Libraries and Related Organizations
 JBIG
 JPEG 2000
 JPEG XL
-KiCad
 LORAN
 Linux Standard Base
 List of IEC standards
-List of World War II electronic warfare equipment
-Logarithmic scale
 MHEG-5
 MPEG-1
 MPEG-2
@@ -175,47 +108,25 @@ MPEG-7
 MPEG-A
 MPEG-D
 MPEG-H
-McGraw-Hill
-Mid-20th century baby boom
-Military communications
 Mixed raster content
-N-th root
-Ohm
 OpenDocument
 Open Data Protocol
 Open Document Architecture
 PHIGS
 POSIX
-Preferred number
-Proceedings of the Institute of Radio Engineers
-Pull-up resistor
 QR code
 RELAX NG
 RKM code
 Radar
 Radar jamming and deception
-Radio-Television Manufacturers Association
-RadioShack
-Radio Manufacturers Association
-Reference designator
 Renard series
-Resistor
 Rounding
-Scientific notation
-Significant figures
-Subset
-Technology during World War II
-Three-character marking code for resistors
 Topic map
-Transistor
-Transistor radio
-Two-character marking code for capacitors
 USB
 Universal Coded Character Set
 Universal Disk Format
 Universal Remote Console
 Vacuum tube
-Vishay Intertechnology
 World War II
 Z notation
 Zener diode

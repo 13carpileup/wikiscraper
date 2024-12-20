@@ -1,55 +1,8 @@
-Ammeter
-Arbitrary waveform generator
-Boundary Scan
 Bus analyzer
-Capacitance meter
-Data set
-Digital circuit
-Digital pattern generator
-Digital storage oscilloscope
-Digital timing diagram
-Distortionmeter
 Electricity meter
 Ethernet
 Field-programmable gate array
-Frequency counter
-Function generator
-Galvanometer
 Integrated circuit
 I²C
-LCR meter
 LED
-List of electrical and electronic measuring equipment
-Logic signal
-Megohmmeter
-Microwave power meter
-Multimeter
-Network analyzer (electrical)
-Ohmmeter
-Opcode
-Oscilloscope
-Peak meter
-Peak programme meter
-Psophometer
-Q meter
-Serial Peripheral Interface
-Signal analyzer
-Signal generator
-Spectrum analyzer
-State machine
-Sweep generator
-System under test
-Time-domain reflectometer
-Time-to-digital converter
-Transformer ratio arm bridge
-Transistor tester
-Tube tester
 USB
-Universal asynchronous receiver-transmitter
-VU meter
-Vectorscope
-Video-signal generator
-Video borescope
-Voltmeter
-Wattmeter
-Waveform monitor

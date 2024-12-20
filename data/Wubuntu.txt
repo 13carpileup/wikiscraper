@@ -1,43 +1,34 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
-APT (Package Manager)
 AlmaLinux
-Almquist shell
 Alpine Linux
 Android-x86
 Android (operating system)
 Antergos
 AntiX
-AppArmor
-Aptitude (software)
 ArchBang
 ArchLabs
 Arch Linux
 Artix Linux
 Asahi Linux
-Ask Ubuntu
 Astra Linux
 Asturix
 Austrumi Linux
 BLAG Linux and GNU
 BackBox
 BackTrack
-Benjamin Mako Hill
 Bharat Operating System Solutions
 BioSLAX
 BlackArch
 Black Lab Linux
 BlankOn Linux
 Bodhi Linux
-Brasero (software)
 Brazil
 CHAOS (operating system)
 CRUX
 Calculate Linux
 Caldera OpenLinux
 CalyxOS
-Canonical (company)
 CentOS
 CentOS Stream
 Chakra (operating system)
@@ -57,18 +48,14 @@ Cub Linux
 CyanogenMod
 Damn Small Linux
 Damn Vulnerable Linux
-Deb (file format)
 Debian
-Debian configuration system
 Deepin
 DemoLinux
 Devuan
 DivestOS
 DoudouLinux
-Dpkg
 Dreamlinux
 EMUI
-EasyPeasy
 Edubuntu
 Elementary OS
 Elive
@@ -86,28 +73,18 @@ Foresight Linux
 FreedomBox
 Freespire
 Frugalware Linux
-Full Circle (magazine)
-GNOME Files
-GNU Bazaar
 GNU Guix System
 GNewSense
 GOS (operating system)
 Garuda Linux
 GeckoLinux
 Gentoo Linux
-GetDeb
 GoboLinux
 Gobuntu
 GrapheneOS
 HandyLinux
-Hyperbola GNU/Linux-libre
-Ian Jackson
 Immunix
 IodéOS
-Jane Silber
-Jeff Waugh
-Jono Bacon
-Juju (software)
 Jurix
 KDE neon
 KaOS
@@ -118,16 +95,12 @@ Kanotix
 KateOS
 Kernel (operating system)
 Knoppix
-Kodi (software)
 Kongoni (operating system)
 Korora (operating system)
 Kubuntu
 Kwort Linux
 LXLE Linux
-Landscape (software)
-Launchpad (website)
 Libranet
-LightDM
 LinHES
 LineageOS
 Linpus Linux
@@ -148,18 +121,13 @@ Mageia
 Mandrake Linux
 Mandriva Linux
 Manjaro
-Mark Shuttleworth
-Medibuntu
 MeeGo
 Mer (software distribution)
 Microsoft
 Microsoft Windows
-Mir (software)
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Musix GNU+Linux
-Mythbuntu
 Network Security Toolkit
 NimbleX
 Nitix
@@ -168,8 +136,6 @@ Nobara Linux
 Nova (operating system)
 OmniROM
 One UI
-OnlyOffice
-OpenCD
 OpenELEC
 OpenMandriva Lx
 OpenSUSE
@@ -177,8 +143,6 @@ Open Enterprise Server
 Operating system
 Oracle Linux
 PCLinuxOS
-Paper cut bug
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
@@ -190,7 +154,6 @@ PixelExperience
 Platypux
 Pop! OS
 Porteus (operating system)
-Productivity software
 Proprietary software
 Puppy Linux
 PureOS
@@ -214,13 +177,9 @@ Sabily
 Sailfish OS
 Salix OS
 Scientific Linux
-Scott James Remnant
-Side Stage
 Slackware
 Slax
-Snappy (package manager)
 Softlanding Linux System
-Software Updater
 Software license
 Software release life cycle
 Solus (operating system)
@@ -228,11 +187,8 @@ SolydXK
 Source Mage
 SparkyLinux
 Splashtop OS
-StartUp-Manager
-Startup Disk Creator
 SteamOS
 Sunwah Linux
-System76
 SystemRescue
 T2 SDE
 Tails (operating system)
@@ -243,39 +199,18 @@ TopologiLinux
 Trisquel
 Turbolinux
 Turkix
-Tuxedo Computers
-Ubiquity (software)
 Ubuntu
-Ubuntu-restricted-extras
-Ubuntu (typeface)
 Ubuntu Budgie
 Ubuntu Cinnamon
-Ubuntu Edge
-Ubuntu Forums
 Ubuntu GNOME
-Ubuntu JeOS
 Ubuntu Kylin
 Ubuntu MATE
-Ubuntu Netbook Edition
-Ubuntu One
-Ubuntu Professional Certification
-Ubuntu Single Sign On
 Ubuntu Software Center
 Ubuntu Studio
-Ubuntu Titling
 Ubuntu Touch
 Ubuntu Unity
-Ubuntu User
-Ubuntu for Android
-Ubuntu philosophy
-Ubuntu version history
 Ultramarine Linux
-Uncomplicated Firewall
-Unity (user interface)
 Unity Operating System
-Upstart (software)
-Uruk GNU/Linux
-Usplash
 VectorLinux
 Vine Linux
 Void Linux
@@ -283,9 +218,7 @@ Web browser
 Whonix
 Windows 10
 Wine (software)
-Wubi (software)
 XB Machine
-XSplash
 Xubuntu
 Yellow Dog Linux
 Zenwalk

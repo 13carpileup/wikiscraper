@@ -1,20 +1,11 @@
-12-bit computing
-18-bit computing
-4K Disk Monitor System
-9-track tape
 AdvFS
-Advanced Digital Recording
-Advanced Intelligent Tape
 Alpha 21064
 Alpha 21164
 Alpha 21264
 Alpha 21364
 Alpha 21464
 AltaVista
-ArVid
-Automatix
 BASIC-8
-Beltsville, Maryland
 Block (data storage)
 Booting
 Bus (computing)
@@ -25,22 +16,16 @@ Clone (computing)
 Code page 1287
 Code page 1288
 Commercial Operating System
-Commodore Datasette
-Compact cassette
 Compaq
 Computer
 Computer hardware
 Computer terminal
-D/CAS
-DC100
 DECUS
 DEC Alpha
-DEC BATCH-11/DOS-11
 DEC GT40
 DEC Hebrew
 DEC J-11
 DEC MICA
-DEC PDP-8
 DEC PRISM
 DEC RADIX 50
 DEC Special Graphics
@@ -54,24 +39,12 @@ DECwriter
 DIBOL
 DIGITAL Command Language
 DOS
-Data8
-Data General
-Data General Nova
-Data Storage Technology
-Diagnostic program
-Digital Data Storage
 Digital Equipment Corporation
 Digital Federal Credit Union
-Digital Instrumentation Recorder
 Digital Linear Tape
 Digital Storage Systems Interconnect
-Digital Tape Format
-Digital UNIX
-Ditto (drive)
-Drum memory
 Dynamic debugging technique
 Dynamically Redefined Character Set
-Exatron Stringy Floppy
 FOCAL (programming language)
 FX!32
 Firefly (cache coherence protocol)
@@ -80,143 +53,68 @@ Floppy disk
 Gold key (DEC)
 Gordon Bell
 HP-Interex
-HP 2100
-Hacker (term)
-Hard disk
 Harlan Anderson
-Hewlett-Packard
-Honeywell 316
-IBM 3480 Family
-IBM 3590
-IBM 3592
-IBM 7-track
-IBM 7340
-IBM Magstar MP 3570
-IBM cassette tape
 ISBN (identifier)
 Instruction set architecture
 Interactive Application System
-Interdata 7/32 and 8/32
-Kansas City standard
 Ken Olsen
-LINC
-LINC-8
 LK201
 LK421
-Lincoln Laboratory
-Linear Tape-Open
 Local Area Transport
 MACRO-10
 MACRO-11
-MIT
 MUMPS
-Machine vision
-Magnetic-tape data storage
-Magnetic tape data storage
 Maintenance Operations Protocol
-Manchester code
 Mass Storage Control Protocol
 Massbus
 MicroVAX 78032
-Microcode
 Multinational Character Set
-Mylar
 NVAX
 National Replacement Character Set
-OS/8
 On-line Debugging Tool
 OpenVMS
 Operating system
 PALcode
-PDP-1
-PDP-10
-PDP-11
 PDP-11 architecture
-PDP-12
-PDP-15
-PDP-4
-PDP-5
-PDP-6
 PDP-7
-PDP-8
-PDP-9
 Processor (computing)
 Programming language
 Q-Bus
-QL Microdrive
-Quarter-inch cartridge
 RA90
 RK05
 RL02
 RS-232
-RSTS/E
 RSX-11
-RSX-15
 RT-11
-RT11
 ReGIS
 Record Management Services
 Rigel (microprocessor)
 Robert Palmer (computer businessman)
-Rotronics Wafadrive
-Scalable Linear Recording
-Serial interface
 Sixel
 Standard Disk Interconnect
 Star coupler
-StorageTek tape formats
 StrongARM
-Swap file
 Synchronous Backplane Interconnect
 System Module
-System Reference Manual
-TD/SMP
 TOPS-10
 TOPS-20
-TSS/8
 TU81
 TURBOchannel
-TX-2
-TX-2 Tape System
-Tarbell Cassette Interface
 The Ultimate Entrepreneur
-Timesharing
-Travan
-UNISERVO
-US Patent and Trademark Office
 Ultrix
 Unibus
-Universal asynchronous receiver/transmitter
 VAX
-VAX-11
 VAXBI bus
 VAXELN
 VAX MACRO
 VT05
 VT100
 VT1000
-VT101
-VT102
-VT103
-VT105
-VT131
 VT180
 VT220
-VT240
-VT241
 VT320
-VT330
-VT340
 VT420
-VT510
 VT52
 VT520
-VT525
-VT55
-VT62
 VT640
-VXA
-Varian Inc.
 WPS-8
-Wesley A. Clark
-ZX Microdrive

@@ -1,57 +1,21 @@
-A/B testing
 ACM Computing Classification System
-API testing
 Abstraction (computer science)
-Acceptance testing
-Acceptance test–driven development
-Accessibility
-Ad hoc testing
-Adaptive software development
 Agile software development
 Agile testing
 Algorithm
 Algorithm design
 Algorithmic efficiency
-All-pairs testing
-Americans with Disabilities Act of 1990
 Analysis of algorithms
-Application-release automation
-Application programming interfaces
 Application security
-Application software
-Artifact (software development)
 Artificial intelligence
-Aspect-oriented programming
 Automata theory
 Automated planning and scheduling
-Backdoor (computing)
 Backward compatibility
-Baseline (configuration management)
-Behavior-driven development
-Benchmark (computing)
-Bertrand Meyer
-Beta version
-Bi-directional text
-Black-box testing
-Boundary value analysis
-Build automation
-Build verification test
-CI/CD
-CJK characters
 C (programming language)
 Cambridge University Press
-Capability Maturity Model
 Capability Maturity Model Integration
-Cem Kaner
-Certification
 Character encoding
-Cleanroom software engineering
-Code coverage
-Code review
 Combinatorics
-Compatibility layer
-Compatibility mode
-Compatibility testing
 Compiler
 Compiler construction
 Component-based software engineering
@@ -68,199 +32,95 @@ Computational social science
 Computer accessibility
 Computer animation
 Computer architecture
-Computer bug
 Computer compatibility
 Computer data storage
 Computer engineering
 Computer graphics
 Computer hardware
 Computer network
-Computer performance
 Computer programming
 Computer science
 Computer security
-Computer security audit
 Computer terminal
 Computer vision
 Computing
 Computing platform
-Concolic testing
 Concurrency (computer science)
 Concurrent computing
-Concurrent testing
-Configuration file
-Conformance testing
 Constraint (mathematics)
-Continuous delivery
-Continuous deployment
 Continuous integration
-Continuous testing
-Control flow
 Control theory
 Control variable (programming)
 Correctness (computer science)
-Cross-browser testing
 Cross-validation (statistics)
 Cryptography
 Currency
 Cyberwarfare
 Data mining
-Data model
-Data modeling
-Data validation
 Database
-Database testing
-Date and time notation by country
-Dave Gelperin
-Dead code
-Debug
-Debugger
-Debugging
 Decision support system
-Decision table
 Dependability
-Deployment management
-Design by Contract
-Desktop metaphor
-Destructive testing
-Deterministic simulation testing
-DevOps
-Development testing
-Differential testing
 Digital art
 Digital library
 Digital marketing
-Disciplined agile delivery
 Discrete mathematics
 Distributed artificial intelligence
 Distributed computing
 Document management system
 Documentation
 Doi (identifier)
-Domain-driven design
 Domain-specific language
-Domain testing
-Dynamic program analysis
-Dynamic systems development method
-Dynamic testing
 E-commerce
 Educational technology
 Electronic design automation
 Electronic publishing
 Electronic voting
 Embedded system
-Empirical software engineering
-End-to-end testing
 Enterprise architecture
 Enterprise information system
 Enterprise software
-Enterprise unified process
-Entity–relationship model
-Environment variable
-Equivalence partitioning
 Essential systems analysis
 Exception handling
-Executable UML
-Experimental software engineering
-Exploratory testing
-Extreme programming
-Extreme programming practices
-Fault injection
-Feature-driven development
-Feedback
-File comparison
 Form factor (design)
 Formal language
 Formal methods
 Formal verification
-Forward compatibility
-Function (computer science)
-Function model
-Function points
-Functional requirements
-Functional specification
-Functional testing
-Fuzz testing
-GUI
 Geographic information system
-Glenford J. Myers
-Glenford Myers
-Glossary of artificial intelligence
-Glossary of computer science
 Glossary of electrical and electronics engineering
 Graphical user interface builder
-Graphical user interface testing
 Graphics processing unit
-Gray box testing
 Green computing
-Grey-box testing
-Hacker (computer security)
-Hard coding
 Hardware acceleration
 Hardware security
 Health informatics
-High-level design
 Human–computer interaction
-IDEF
-IEEE 829
-IEEE Standards Association
 ISBN (identifier)
-ISO/IEC 15504
-ISO/IEC 29119
-ISO/IEC 9126
-ISO/IEC JTC 1/SC 7
-ISO 9001
 ITIL
 Image compression
-In-circuit test
 Incremental build model
-Independent test organization
-Information model
 Information retrieval
 Information science
 Information security
 Information system
 Information theory
-Infrastructure as code
-Installation testing
 Integrated circuit
 Integrated development environment
-Integration testing
 Interaction design
-International Requirements Engineering Board
 International Software Testing Qualifications Board
-Internationalization and localization
 Interpreter (computing)
 Intrusion detection system
 Iterative and incremental development
-James Bach
-Jane Cleland-Huang
-Kanban (development)
-Katowice
-Keyboard layout
-Keyboard shortcut
 Knowledge representation and reasoning
-Lean software development
 Library (computing)
 List of computer size categories
-Load testing
-Log analysis
 Logic in computer science
 Machine learning
 Maintainability
-Manual testing
 Mathematical analysis
 Mathematical optimization
 Mathematical software
-Metamodeling
-Metamorphic testing
-Method stub
-Microsoft Solutions Framework
 Middleware
 Mixed reality
-Model-based testing
-Model-driven development
-Model-driven engineering
 Model of computation
 Modeling language
 Modular programming
@@ -268,11 +128,8 @@ Multi-task learning
 Multimedia database
 Multiprocessing
 Multithreading (computer architecture)
-Mutation testing
-NIST
 National Institute of Standards and Technology
 Natural language processing
-Negative testing
 Network architecture
 Network performance
 Network protocol
@@ -280,28 +137,16 @@ Network scheduler
 Network security
 Network service
 Networking hardware
-Non-functional requirements
-Non-functional testing
 Numerical analysis
 Object-oriented programming
 Object Management Group
-Object model
-Ontology (information science)
 Open-source software
 Operating system
-Operations readiness and assurance
 Operations research
-Orthogonal array testing
 Outline of computer science
-Outline of software development
 Outsourcing
-Pair programming
-Pair testing
 Parallel computing
-Performance
 Peripheral
-Perpetual beta
-Personal software process
 Philosophy of artificial intelligence
 Photograph manipulation
 Porting
@@ -309,189 +154,80 @@ Printed circuit board
 Probability
 Process control
 Processor (computing)
-Profiling (computer programming)
 Programmer
 Programming language
 Programming language theory
 Programming paradigm
 Programming team
 Programming tool
-Project Management Body of Knowledge
 Project management
-Property testing
-Pseudolocalization
 Quality (business)
 Quality assurance
 Quality management system
 Quantum Computing
-QuickCheck
-Random testing
 Randomized algorithm
-Rapid application development
-Rational Unified Process
 Real-time computing
-Real-time testing
-Recovery testing
-Regression testing
 Reinforcement learning
-Reliability (engineering)
 Reliability engineering
 Rendering (computer graphics)
-Requirement
 Requirements analysis
 Requirements engineering
-Requirements traceability
-Reverse coding
-Reverse semantic traceability
-Risk
 Risk management
 Robustness (computer science)
 Round-trip engineering
-Run time (program lifecycle phase)
-Runtime verification
 S2CID (identifier)
-SEMAT
 SQL
-Sanity testing
 Scalability
-Scalability testing
-Scaled agile framework
-Scenario (computing)
-Scenario test
-Scenario testing
-Scrum (software development)
-Search-based software engineering
-Section 508 Amendment to the Rehabilitation Act of 1973
 Security hacker
 Security service (telecommunication)
-Security testing
 Semantics (computer science)
-Service-oriented architecture
-Site reliability engineering
-Smoke testing (software)
-Soak testing
 Social computing
 Social software
-Social software engineering
 Software
-Software Engineering Body of Knowledge
 Software archaeology
-Software architecture
 Software bug
 Software configuration management
 Software construction
 Software deployment
 Software design
 Software development
-Software development life cycle
-Software development methodology
 Software development process
-Software documentation
 Software engineering
 Software framework
-Software incompatibility
-Software inspection
 Software maintenance
 Software metric
-Software performance testing
 Software project management
-Software prototyping
 Software quality
 Software quality assurance
 Software quality control
-Software regression
 Software release life cycle
-Software reliability testing
 Software repository
-Software system
 Software testability
-Software testing controversies
-Software testing tactics
-Software validation
-Software verification
-Software verification and validation
-Software versioning
-Software walkthrough
 Solid modeling
 Source code
-Source data
-Specification
-Specification by example
-Spiral model
-Stand-up meeting
-State transition table
-Static code analysis
-Static program analysis
-Static testing
 Statistics
 Stochastic computing
-Stress testing
-Stress testing (software)
 String (computer science)
-Structured analysis
 Supervised learning
-Symbolic execution
 System on a chip
-System testing
 Systems analysis
-Systems development life cycle
 Systems engineering
-Systems modeling
-Systems modeling language
-Team software process
 Test-driven development
-Test automation
-Test case
-Test design
-Test effort
-Test fixture
-Test harness
-Test management tool
-Test oracle
-Test plan
-Test script
-Test strategy
-Test suite
-Testbed
 Theoretical computer science
 Theory of computation
-Trace table
-Traceability matrix
-UML tool
 Ubiquitous computing
 Unified Modeling Language
-Unified Process
-Unintended consequence
-Unit testing
-Unit tests
-Universal Systems Language
-University of Sheffield
 Unsupervised learning
 Usability
-Usability testing
-Use case
 User (computing)
-User acceptance testing
 User experience
-User experience design
-V-model (software development)
-Verification and validation (software)
 Very Large Scale Integration
 Video game
-View model
 Virtual machine
 Virtual reality
 Visualization (graphics)
-Volume testing
 Waterfall model
 Wayback Machine
-Web Accessibility Initiative
-Web application
 Web browser
-Web testing
-White-box testing
-Wikiversity
-William C. Hetzel
 Word processor
 World Wide Web
-World Wide Web Consortium

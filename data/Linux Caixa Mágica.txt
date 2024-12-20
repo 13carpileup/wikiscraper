@@ -1,6 +1,4 @@
-/e/ (operating system)
 4MLinux
-ADETTI
 ALT Linux
 AlmaLinux
 Alpine Linux
@@ -36,8 +34,6 @@ Chakra (operating system)
 Chimera Linux
 ChromeOS
 ChromiumOS
-Chromium (web browser)
-Classmate PC
 ClearOS
 Clear Linux OS
 ColorOS
@@ -54,12 +50,10 @@ Damn Vulnerable Linux
 Debian
 Deepin
 DemoLinux
-Desktop computer
 Devuan
 DivestOS
 Doi (identifier)
 DoudouLinux
-Dpkg
 Dreamlinux
 EMUI
 Edubuntu
@@ -73,7 +67,6 @@ Familiar Linux
 Feather Linux
 Fedora Linux
 Fire OS
-Firefox
 Firefox OS
 Floppyfw
 Foresight Linux
@@ -81,10 +74,7 @@ Free software
 FreedomBox
 Freespire
 Frugalware Linux
-GIMP
-GNOME
 GNU Core Utilities
-GNU General Public Licence
 GNU Guix System
 GNewSense
 GOS (operating system)
@@ -95,15 +85,11 @@ GoboLinux
 Gobuntu
 GrapheneOS
 HandyLinux
-Hyperbola GNU/Linux-libre
 ISBN (identifier)
-ISCTE-IUL
 Immunix
 IodéOS
 Jurix
-KDE
 KDE neon
-K Desktop Environment
 KaOS
 KaiOS
 Kaisen Linux
@@ -119,7 +105,6 @@ Kwort Linux
 LXLE Linux
 Laptop
 Libranet
-LibreOffice
 LinHES
 LineageOS
 Linpus Linux
@@ -131,9 +116,7 @@ Linux Router Project
 Linux distribution
 Linux for PlayStation 2
 Linux kernel
-Lisbon
 List of Linux distributions
-List of Ubuntu-based Linux distributions
 Lubuntu
 MCC Interim Linux
 MIUI
@@ -147,7 +130,6 @@ Mer (software distribution)
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Musix GNU+Linux
 Natural language
 Network Security Toolkit
 NimbleX
@@ -166,7 +148,6 @@ Operating system
 Oracle Linux
 PCLinuxOS
 Package manager
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
@@ -177,7 +158,6 @@ PixelExperience
 Platypux
 Pop! OS
 Porteus (operating system)
-Portugal
 Primary education
 Programmer
 Public administration
@@ -216,7 +196,6 @@ SparkyLinux
 Splashtop OS
 SteamOS
 Sunwah Linux
-SuperTux
 SystemRescue
 T2 SDE
 Tails (operating system)
@@ -238,19 +217,14 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 User interface
 User space and kernel space
 VectorLinux
 Vine Linux
 Void Linux
 Whonix
-Windows 7
-Windows XP
 Wubuntu
 X86
-X86-64
 XB Machine
 Xubuntu
 Yellow Dog Linux

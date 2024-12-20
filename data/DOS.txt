@@ -1,399 +1,74 @@
-$IDLE$
 16-bit
-386MAX
-4690 OS
-8-bit
-8.3 filename
 86-DOS
-ADOS (Russian operating system)
-AMSDOS
-ANDOS
 API
 AT&T
-AUTOEXEC.BAT
-Abandonware
-Altos MS-DOS 2.11
-AmigaDOS
-Apple CP/M
-Apple DOS
 Apple II
-Apple ProDOS
-Apple SOS
-Arachne (web browser)
-Atari DOS
-Atari TOS
 BASIC
-BASICA
 BIOS
-BW-DOS
-BYTE
-Background process
-Batch file
-Bill Gates
-BootGUI
 Boot sector
 Booting
-Bootstrap loader
-Borland
-Borland Sidekick
-Bus error
 Business Wire
-COMMAND.COM
-COM (hardware interface)
-CONFIG.SYS
-CP/K
-CP/M
-CP/M-80
-CP/M-86
 CPU
-CSI-DOS
-Caldera (company)
-Canon PowerShot Pro
 Central processing unit
-CodeView
 Colon (punctuation)
-Command-line interface
-Commodore DOS
-Compaq MS-DOS 3.31
-Comparison of DOS operating systems
-Comparison of operating systems
-Comparison of user features of operating systems
 Computer History Museum
 Computer architecture
 Computer hardware
-Computer mouse
 Computer multitasking
 Computer network
-Computer printer
-Concurrent CP/M-86
-Concurrent DOS
-Concurrent DOS 68K
-Concurrent DOS V60
-Conditional (programming)
-Context switch
-Cooperative multitasking
-Cromemco DOS
-DBase
-DEC BATCH-11/DOS-11
-DESQview
-DIP DOS
-DJGPP
-DOS-C
-DOS/360
-DOS/360 and successors
-DOS/NT
-DOS/V
-DOSBox
-DOSEMU
-DOSKEY
-DOS API
-DOS Navigator
-DOS Plus
-DOS Shell
-DOS XL
-DOS memory management
-DR-DOS
-DR-DOS 7.02
-DR-DOS 7.03
-DR DOS
-DR DOS 5.0
-Data General RDOS
 Database
-Datapac System Manager
-Defragmentation
 Dell
 Denial-of-service attack
-DeviceLogics
 Device driver
-Device file
 Digital Research
-Disk Control Program
-Disk Parameter Table
-Disk operating system
 Disk partitioning
-Distributed operating system
 Doom (1993 video game)
-Drive letter assignment
-EMM386
-EOS (8-bit operating system)
-Edos
-Embedded operating system
 Embedded system
-Emulator
-Exokernel
-Expanded Memory Specification
-Extended Memory Specification
-Extended partition
 FAT12
 FAT16
-FAT16B
 FAT32
-FAT directory table
-FLEX (operating system)
 File Allocation Table
-File attribute
-File manager
 File system
 Filename extension
-Fixed-priority pre-emptive scheduling
-FlexOS
-Floppy drives
-Forensic software engineering
-Fragmentation (computer)
-FreeDOS
-GEMDOS
 GEOS (16-bit operating system)
 GNU Compiler Collection
 GNU General Public License
-GOTO
-GW-BASIC
-Gary Kildall
-General protection fault
-Gordon Letwin
 Graphical user interface
-Graphics Environment Manager
-H-DOS
-HIMEM.SYS
-HP Portable Plus
-Hard drives
-Hardware abstraction
-Harvard Graphics
-Hewlett-Packard
-Hewlett-Packard Company
-High memory area
-History of Microsoft Windows
-History of operating systems
-Hobbyist operating system
-Hybrid kernel
 IBM
-IBMBIO.COM
-IBMDOS.COM
-IBM 4680 OS
 IBM PC
-IBM PC DOS
 IBM PC compatible
 IBM Personal Computer
-IDEDOS
-IMDOS
-IO.SYS
-IS-DOS
 ISBN (identifier)
-ISIS (operating system)
 Index of DOS games
-InfoWorld
-Inode
 Intel
-Intel 80386
-Intel 8080
-Intel 8086
-Intel 8088
 Inter-process communication
-International Computers Limited
-Interrupt
-James Hall (programmer)
-Jim Hall (programmer)
-John Charles Dvorak
-John Opel
-Journaling file system
-Just enough operating system
-K8918-OS
-Kernel (computer science)
 Kernel (operating system)
-Kibibytes
-King's Quest
-LSI-11
-Legacy Plug and Play
-Lineo
 Linux
-List of DOS commands
-List of DOS operating systems
-List of disk operating systems called DOS
-List of operating systems
-Live CD
-Live USB
-Load drive
-Loadable kernel module
-Lotus 1-2-3
-MP/M
-MP/M-86
 MS-DOS
-MS-DOS 2.11
-MS-DOS 4.0 (multitasking)
-MS-DOS 6
-MS-DOS 7
-MS-DOS 7.0
-MSCDEX
-MSDOS.SYS
-MSX-DOS
-Mary Maxwell Gates
-Master Boot Record
-Master boot record
-McGraw-Hill
-Mebibyte
-Memory management (operating systems)
-Memory paging
-Memory protection
-Microkernel
 Microsoft
-Microsoft C
-Microsoft Macro Assembler
 Microsoft Windows
 Mobile operating system
 Modem
 Monolithic kernel
-Motorola 68000
-Multikernel
-Multilevel feedback queue
-Multiuser DOS
-MyDOS
-Myarc Disk Operating System
-NetWare PalmDOS
-Network operating system
-NewDos/80
-New Executable
 No Starch Press
-Non-volatile memory
-Norton Commander
-Novell
-Novell DOS
-Null device
-OS/2
-OS/2 1.0
-OS/M
-OS kernel
-Object-oriented operating system
-OpenDOS
 Operating system
-Optical disc drive
 Original equipment manufacturer
-Osborne McGraw-Hill
-PC-MOS/386
 PC DOS
 PC Magazine
-PKZIP
-PRINT (command)
-PTDOS
-PTS-DOS
 PalmDOS
-Parallel port
-Parsing
-Pat Villani
-Paul Freiberger
-Personal information manager
-Plotter
-Preboot Execution Environment
 Preemption (computing)
-Presentation
-Primary partition
-ProComm
 Process (computing)
-Process control block
 Process management (computing)
-Protection ring
-QEMM
-Qmodem
-Que Publishing
-RAM disk
-RCA MicroDOS
-REAL/32
-ROM-DOS
-Raymond Chen (Microsoft)
 Read-only memory
-Real-time operating system
-RealDOS
-Real mode
-Reentrant (subroutine)
-Reserved word
-Round-robin scheduling
-Rump kernel
-RxDOS
-S-100 bus
-SB-80
-SB-86
-SCP1700
-SCP MS-DOS 1.25
-SISNE plus
-Scheduling (computing)
-Seattle Computer Products
-Segmentation fault
 Shareware
-Shell (computing)
-Shell script
-Shortest job next
-Sinclair QDOS
-Single User Control Program
-SmartDOS
-SpartaDOS
-SpartaDOS X
-Spreadsheet
-Supercomputer operating system
-System resource
-TR-DOS
-TRSDOS
-Technical Support SuperDOS
-TeleVideo PC DOS 2.11
-Telix
-Terminate-and-stay-resident program
-Text user interface
 The New York Times
 Thread (computing)
-Tim Paterson
-Time-sharing
-Timeline of DOS operating systems
-Timeline of operating systems
-Tom Rolander
-Top-DOS
-Towns OS
-Track0
-TurboDOS
-Turbo Assembler
-Turbo BASIC
-Turbo C
-Turbo Pascal
-Turbo Prolog
-UDOS
-Unikernel
-Unix-like
-Upper memory block
-Upward compatible
-Usage share of operating systems
-Usenet (identifier)
-Usenet newsgroup
 User interface
 User space and kernel space
-VEB Robotron
-VGA-compatible text mode
-Video card
-ViewMAX
-Virtual 8086 mode
-Virtual DOS machine
-Virtual file system
 Virtual machine
-Virtual memory
-Virtual tape library
-Vkernel
-Volkov Commander
-Volume Boot Record
-WIMP (computing)
-Watcom
-Watcom C/C++
 Wayback Machine
 Web browser
-WinDOS
 Windows 95
-Windows 98
-Windows 9x
-Windows Vista
-Windows XP
-WordPerfect
-WordStar
 Word processor
 X86
-XEDOS
-XTree
-Xenix
-Z-80 SoftCard
-Z-DOS
-Z80-RIO
-Zilog Z-8000
 Zilog Z80

@@ -1,271 +1,104 @@
-&
-A&P
 ALGOL 60
-APA style
 ASCII
 AZERTY
-Ada (programming language)
-Adam Bede
-Adobe Systems
-Albertus (typeface)
-Allen & Unwin
-Alt key
-American Telephone and Telegraph
-An Essay Concerning Human Understanding
 André-Marie Ampère
 Apostrophe
-AppleScript
-Apple Pie ABC
-Applesoft BASIC
 Armenian alphabet
 Armenian language
 Arrow (symbol)
 Asterisk
-Asterism (typography)
-At sign
-BASIC-PLUS
-BASIC programming language
-BBC BASIC
 Backslash
-Bash (Unix shell)
 Basis point
-Bed and breakfast
-Binary operator
-Bit
 Bitwise operation
-Boolean data type
 Bracket
-Bullet (typography)
-Byrhtferth
 C++
 C (programming language)
 Cambridge University Press
 Caret
 Carolingian minuscule
-Character (computing)
-Chinese punctuation
 Colon (punctuation)
 Comma
-Commodore 128
-Common Lisp
-Computer Modern
 Contradiction
 Copyright symbol
-Corruption (linguistics)
 Currency symbol
 Dagger (mark)
-Dash
-Degree symbol
-Delimiter
 Diacritic
 Diameter
 Digital Equipment Corporation
-Dinkus
-Ditto mark
-Division sign
-Dolce & Gabbana
-Double hyphen
 Double turnstile
-Drum and bass
 Dungeons & Dragons
-Dyalog APL
 E
-Ellipsis
-English alphabet
 Epsilon
 Escape character
-Et cetera
 Exclamation mark
 Existential quantification
 False (logic)
-False etymology
-FileMaker
-File descriptor
 Film
-Fleuron (typography)
-Formal logic
-Fortran
-Frederic Goudy
 Full stop
-Function (programming)
 Function application
-Geoffrey Glaister
-George Eliot
 GitHub
 Go (programming language)
-Grammatical conjunction
 Greek alphabet
-Green thread
 Guillemet
 HTML
-Halfwidth and Fullwidth Forms (Unicode block)
-Handwriting
-Haskell (programming language)
-Hebrew punctuation
-Heta
-Hexadecimal
-Horseshoe (symbol)
-HyperTalk
-Hyphen
 Hyphen-minus
-IBM Generalized Markup Language
-IBM System/360
 ISBN (identifier)
-Ideographic
 If and only if
 Information system
 Insular script
 International Phonetic Alphabet
 Interpunct
-Interrobang
-Inverted question and exclamation marks
 Irish language
-Irony punctuation
-Italic type
 Japanese punctuation
 Java (programming language)
-Jessie Bedford
 Job control (Unix)
 Johnson & Johnson
-Kai (abbreviation)
-Keyboard layout
-Korean punctuation
 Latin
 Latin alphabet
-Latin language
 Latin script
-Letter case
-Letterlike Symbols
-Ligature (typography)
-Lingo (programming language)
 List of logic symbols
-List of mathematical symbols
-List of typographical symbols and punctuation marks
 Logical conjunction
 Logical consequence
 Logical disjunction
 Logogram
-Logographic
-Lozenge (shape)
-Machine code monitor
 Machine language
-Manicule
-Marks & Spencer
-Markup language
 Material conditional
-Medieval
-Memory address
-Metacharacter
 Microsoft Windows
-Miller (typeface)
-Minimal evaluation
-Minus-plus sign
-Motorway (typeface)
-Multiplication sign
-MySQL
-Name–value pair
-Navision
 Negation
-Notes and Queries
-Noto Sans
 Number sign
 Numero sign
-OCR-A font
-Octal
-Online Etymology Dictionary
-Ordinal indicator
 Oxford English Dictionary
 Oxford University Press
-P&O (company)
-PDP-11
 PHP
 POSIX
-Parameter (computer science)
 Pascal (programming language)
-Per mille
-Per se (terminology)
 Percent sign
 Perl
 Phonetic transcription
-Pilcrow
 Plus and minus signs
-Plus sign
-Plus–minus sign
-Portuguese Angola
-Prime (symbol)
 Printing
-Profit and loss
 Project Gutenberg
-Punctuation
-QWERTY
-Query string
 Question mark
 Quotation mark
-RSS (file format)
-Radical symbol
-Raku (programming language)
 Read-only memory
-Reference (C++)
-Reference mark
-Registered trademark symbol
 Regular expression
-Relation algebra
 Renaissance
-Research and development
 Rhythm and blues
-Robert Nares
-Roman cursive
-SGML
-SGML entity
 Scottish Gaelic
-Screenplay
 Section sign
 Semicolon
-Sentential connective
-Service mark symbol
 Sheffer stroke
-Shorthand
-Sigil (computer programming)
-Sindhi alphabet
 Slash (punctuation)
-Sound recording copyright symbol
 Space (punctuation)
-Specials (Unicode block)
-String concatenation
-Subset
 T
-Tabstop
 Tautology (logic)
 TeX
-Tee (symbol)
-The MLA Style Manual
-Therefore sign
-Tie (typography)
-Tiffany & Co.
 Tilde
-Tironian notes
-Trademark symbol
-Trebuchet MS
 Triple bar
-True (logic)
-Turned A
-Turnstile (symbol)
-Typographic ligature
-Typography
-URL
 Underscore
 Unicode
-Uniform Resource Locator
 Universal quantification
-Up tack
-VICE
-Vel (symbol)
 Vertical bar
-Vocative case
 Wayback Machine
-Wedge (symbol)
 Whitespace character
-Windows Forms
-Wingdings
-Writers Guild of America
 XML

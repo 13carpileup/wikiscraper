@@ -2,30 +2,20 @@
 2D computer graphics
 3D computer graphics
 3D projection
-3D rendering
 Affine transformation
-Aliasing
 Alpha compositing
-Andrew Glassner
 Anisotropic filtering
 Array (data structure)
 Back-face culling
-Beam tracing
-Cel shading
-Centroid
-Checkerboard rendering
-Clamping (graphics)
 Clipping (computer graphics)
 Collision detection
 Comparison of vector graphics editors
 Computer graphics
-Computer graphics (computer science)
 Computer graphics lighting
 Cone tracing
 Deferred shading
 Diffusion curve
 Digital image
-Eric Haines
 Fluid animation
 Global illumination
 Graphics processing unit
@@ -33,55 +23,35 @@ Graphics software
 Hidden-surface determination
 ISBN (identifier)
 Image-based modeling and rendering
-Image segmentation
 Integer
 Isometric video game graphics
 Layers (digital image editing)
-Linda Shapiro
-List of 3D animation software
 List of 3D computer graphics software
 List of 3D modeling software
 List of 3D rendering software
 List of computer graphics algorithms
-Midpoint
 Mode 7
 Parallax scrolling
 Path tracing
 Pixel
 Planar projection
-Polygon
 Polygon mesh
 Raster graphics editor
-Ray casting
 Ray tracing (graphics)
 Reflection (computer graphics)
 Rendering (computer graphics)
-Resel
 Rotation (mathematics)
 Scaling (geometry)
 Scanline rendering
 Shader
 Shading
 Shadow mapping
-Shadow volume
 Shear matrix
 Skybox (video games)
 Spectral rendering
 Surface triangulation
-Text-to-image model
-Texture filtering
 Texture mapping
-Texture maps
-Texture space
-Thresholding (image processing)
-Translation (geometry)
 Triangle mesh
-UV mapping
 Unbiased rendering
-Vector graphics
-Volume rendering
-Voronoi diagram
-Voronoi polygon
 Voxel
 Wire-frame model
-Wrapping (graphics)

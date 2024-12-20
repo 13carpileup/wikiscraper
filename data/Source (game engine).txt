@@ -1,184 +1,74 @@
 1UP.com
 2Fort
-3D GameStudio
-4A Engine
-5th Cell
-ACE Team
 Activision
-Adventure Game Studio
 Akella
 Alien Swarm
 Amazon Lumberyard
 Aperture Desk Job
 Aperture Hand Lab
-Aperture Tag
-Apex Legends
 Arkane Studios
 Artifact (video game)
-Away3D
 Backward compatibility
 Bay Raitt
-Binary space partitioning
-Bink Video
-Bitsquid
-Black Mesa (video game)
-Blade Symphony
-Blender Game Engine
-Bloody Good Time
-Bork3D Game Engine
 Brad Muir
-Brush (video games)
-Build (game engine)
-Buildbox
 C++
-C4 Engine
 Campo Santo (company)
 Chet Faliszek
 Chris Remo
-Chrome Engine
-Clickteam
-Cobra (game engine)
-Cocos2d
-Code refactoring
-Color correction
 Computer facial animation
-Consortium (video game)
-Construct (game engine)
-Contagion (video game)
 Counter-Strike
 Counter-Strike (video game)
 Counter-Strike 2
-Creation Engine
-CryEngine
-Crystal Space
-Crystal Tools
-Curve Digital
-Dark Engine
-Dark Messiah of Might and Magic
 Day of Defeat
-Day of Infamy (video game)
 Deadlock (video game)
-Dear Esther
-Decima (game engine)
-Defold
-Delta3D
-Diesel (game engine)
-Dim3
-Dino D-Day
-Doom engine
 Dota
 Dota 2
-Dota 2 Reborn
 Dota Underlords
 Doug Church
 Dust II
-Dystopia (video game)
 E3
 Ego (game engine)
 Electronic Arts
 Erik Wolpaw
-Essence Engine
-Euphoria (software)
-Facepunch Studios
-Felgo
-Filmation (game engine)
-First-person shooter engine
-Fistful of Frags
-Flare3D
 Fork (software development)
-Fox Engine
-Free and open-source software
-Freescape
 Frostbite (game engine)
 Full-motion video
-GDevelop
 GPUOpen
-G String (video game)
 Gabe Newell
-Game-Maker
-GameMaker
-GameSalad
 GameSpot
 Game Developer (magazine)
 Game Developers Conference
-Game Editor
-Game creation system
 Game engine
-Game engine recreation
-Game integrated development environment
-Gamebryo
-Garry's Mod
 Genie Engine
 Godot (game engine)
 GoldSrc
-Gold Box
 Gunman Chronicles
 Half-Life (series)
 Half-Life (video game)
 Half-Life 2
 Handheld game console
-Hard-coded
-Havok (software)
-HeroEngine
-Hidden Path Entertainment
-High-dynamic-range rendering
-Horde3D
-Hunt Down the Freeman
-Hybrid (video game)
 IGN
 ISBN (identifier)
-IW (game engine)
-Iceberg Interactive
-Id Tech
 Id Tech 3
-Id Tech 4
-Id Tech 5
-Id Tech 6
-Id Tech 7
 Ignite (game engine)
 Image-based modeling and rendering
 Inferno (Counter-Strike)
-Infra (video game)
-Input/output
-Insurgency (video game)
-Irrlicht Engine
-JMonkeyEngine
 Jake Rodkin
 Jane Ng
 Jay Pinkerton
-Jedi (game engine)
 Jeri Ellsworth
 Jess Cliffe
 John Carmack
 Kelly Bailey (composer)
 Kim Swift
-Kynapse
-Leadwerks
 Left 4 Dead
 Left 4 Dead (series)
 Left 4 Dead 2
-Level editor
-LibGDX
-Lightweight Java Game Library
-Lip-syncing
-List of Source engine mods
-List of Source mods
 List of Valve games
-List of first-person shooter engines
-List of game engine recreations
-List of game engines
-List of visual novel engines
-LithTech
-Luminous Engine
-Löve (game engine)
-MT Framework
 Marc Laidlaw
-Marmalade (software)
 MediaWiki
-Metamod
 Michael Abrash
 Microsoft Studios
-Microsoft Visual SourceSafe
 Middleware
 Mike Ambinder
 Mike Harrington
@@ -186,99 +76,41 @@ Mike Morasky
 Mindscape (company)
 Minh Le
 Mirage (Counter-Strike)
-Moai (software)
 Mod (video gaming)
-Mugen (game engine)
-NeoTokyo (video game)
-New World Interactive
-Nexon
-No More Room in Hell
-Nomenclature
 Non-player character
-Nuclear Dawn
 Nuke (Counter-Strike)
 Nvidia
-Nvidia GameWorks
-Nvidia Shield
-OGPlanet
-OGRE
-OHRRPGCE
-ORX
 OS X
 Oculus Rift
 Olly Moss
-OpenFL
-OpenGL
 OpenVR
-Open 3D Engine
-Open Wonderland
-Outerlight
 PC Gamer
 PC Zone
-Panda3D
-Panta Rhei (game engine)
-Papervision3D
-Particle system
-Phong shading
-PhyreEngine
 Physics engine
-Pie in the Sky (game engine)
-Pixel Game Maker MV
-Plasma (game engine)
-Platinum Arts Sandbox
-PlayCanvas
 PlayStation 3
 Polygon (computer graphics)
 Polygon (website)
 Portal (series)
 Portal (video game)
 Portal 2
-Postal III
 Prima Games
-Prism Studios
 Process (computing)
 Programmer
 Proprietary software
 Proton (software)
-Pygame
-Q (game engine)
-Quake II engine
 Quake engine
-RE Engine
-RPG Maker
-Raylib
-Reality Lab
-Ren'Py
 RenderWare
-Retro Engine
-Ritual Entertainment
 Robin Walker (game designer)
 Rock, Paper, Shotgun
-Rockstar Advanced Game Engine
-Running with Scissors (company)
-SAGE (game engine)
-SCUMM
 SIGGRAPH
 Sam Lantinga
 Saxxy Awards
-Scratch (programming language)
 Sean Vanaman
 Shark 3D
-SiN Episodes
-Silent Storm engine
-Sim RPG Maker
-Simple DirectMedia Layer
-Snap! (programming language)
-Snowdrop (game engine)
 Software development kit
 Software license
-Solar2D
-Sony Computer Entertainment America
 Source 2
 Source Filmmaker
-Source port
-Spring Engine
-Squirrel (programming language)
 SteamOS
 Steam (service)
 Steam Controller
@@ -286,63 +118,28 @@ Steam Deck
 Steam Link
 Steam Machine (computer)
 Steam Trading Cards
-Stencyl
-Stratagus
-Stride (game engine)
-Tactical Intervention
 Team Fortress 2
 Team Fortress Classic
-Tegra 4
 Texture mapping
-The Beginner's Guide
-The Chinese Room
 The Crossing (video game)
 The Lab (video game)
 The Orange Box
-The Ship (video game)
 The Stanley Parable
 The Steam Awards
-Thousand Parsec
-Titan (game engine)
-Titanfall (video game)
-Titanfall 2
-Torque (game engine)
-Tripwire Interactive
 Troika Games
 UbiArt Framework
 Ubisoft
-Ubisoft Anvil
-Unigine
 Unity (game engine)
-Unreal Engine 1
-Unreal Engine 2
 Unreal Engine 3
-Unreal Engine 4
 Unreal Engine 5
 Unreleased Half-Life games
 Valve Anti-Cheat
 Valve Corporation
-Valve Hammer
 Valve Index
-Valve hammer
-Vassal Engine
-Vicious Engine
 Viktor Antonov (art director)
-Vindictus
-Virtual Theatre
 Virtual reality
-Vision (game engine)
-Visual3D Game Engine
-Voxel Space
-Vulkan (API)
-WebM
 Wiki
-Wintermute Engine
 World Opponent Network
 Xbox 360
 Xbox Live
 Yanis Varoufakis
-Z-machine
-Zeno Clash
-Zero (game engine)
-Zillions of Games

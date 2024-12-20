@@ -9,9 +9,7 @@ Automatic parallelization
 Barrier (computer science)
 Beowulf cluster
 Bit-level parallelism
-Boost (C++ libraries)
 Bulldozer (microarchitecture)
-C++ AMP
 CUDA
 Cache-only memory architecture
 Cache coherence
@@ -19,7 +17,6 @@ Cache invalidation
 Chapel (programming language)
 Charm++
 Cilk
-CiteSeerX (identifier)
 Cloud computing
 Coarray Fortran
 Computer cluster
@@ -29,7 +26,6 @@ Computer network
 Computer programming
 Concurrency (computer science)
 Cost efficiency
-Cross-platform
 Data parallelism
 Dataflow architecture
 Dataflow programming
@@ -47,7 +43,6 @@ Flynn's taxonomy
 Free software
 GPUOpen
 General-purpose computing on graphics processing units
-Global address space
 Grid computing
 Gustafson's law
 HPX
@@ -56,7 +51,6 @@ Hardware scout
 High-performance computing
 ISBN (identifier)
 ISSN (identifier)
-Ian Foster (computer scientist)
 Imperative programming
 Implicit parallelism
 Instruction-level parallelism
@@ -64,8 +58,6 @@ Instruction pipelining
 Instruction window
 Karp–Flatt metric
 Loop-level parallelism
-MOLCAS
-MOLPRO
 Manycore processor
 Massively parallel
 Memory-level parallelism
@@ -75,7 +67,6 @@ Multiple instruction, multiple data
 Multiple instruction, single data
 Multiprocessing
 Multithreading (computer architecture)
-NWChem
 Non-blocking algorithm
 Non-uniform memory access
 OCLC (identifier)
@@ -84,13 +75,11 @@ OpenCL
 OpenHMPP
 OpenMP
 Operating system
-Pacific Northwest National Laboratory
 Parallel Extensions
 Parallel RAM
 Parallel Virtual Machine
 Parallel computing
 Parallel external memory
-Parallel programming
 Parallel programming model
 Parallel slowdown
 Pipeline (computing)
@@ -103,7 +92,6 @@ ROCm
 Race condition
 RaftLib
 S2CID (identifier)
-ScaLAPACK
 Scalability
 Semiconductor memory
 Shared memory
@@ -117,23 +105,16 @@ Software release life cycle
 Speculative multithreading
 Speedup
 Starvation (computer science)
-Static typing
 Stream processing
-Structured programming
 Superscalar processor
 Symmetric multiprocessing
 Synchronization (computer science)
 Systolic array
-TURBOMOLE
 Task parallelism
 Temporal multithreading
 Thread (computing)
 Threading Building Blocks
-Type system
-UTChem
 Unified Parallel C
 Uniform memory access
 Vector processor
 Wayback Machine
-Weak typing
-ZPL (programming language)

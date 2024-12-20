@@ -1,48 +1,15 @@
-A* search algorithm
 ACM Computing Classification System
-AI Magazine
-AI boom
-AI control problem
-AI safety
-AI takeover
-AI winter
-Advice Taker
 Algorithm
 Algorithm design
 Algorithmic efficiency
-Allen Newell
-Alphabet of human thought
 Analysis of algorithms
 Application security
-Applications of artificial intelligence
-Artificial consciousness
-Artificial general intelligence
 Artificial intelligence
-Artificial intelligence arms race
 Artificial intelligence art
-Artificial intelligence in government
-Artificial intelligence in healthcare
-Artificial intelligence in industry
-Artificial intelligence in mental health
-Artificial intelligence systems integration
 Automata theory
 Automated planning and scheduling
-Automated reasoning
 Automated theorem proving
-Backward chaining
-Bayesian network
-Belief revision
 Bibcode (identifier)
-Boolean satisfiability problem
-Brian Cantwell Smith
-CLOS
-Chinese room
-Chunking (psychology)
-Closed world assumption
-Cognitive revolution
-Common sense reasoning
-Commonsense knowledge (artificial intelligence)
-Commonsense reasoning
 Compiler construction
 Completeness (logic)
 Computability theory
@@ -55,7 +22,6 @@ Computational geometry
 Computational mathematics
 Computational physics
 Computational social science
-Computer-aided diagnosis
 Computer accessibility
 Computer animation
 Computer architecture
@@ -68,27 +34,16 @@ Computer security
 Computer vision
 Computing
 Computing platform
-Conceptual graph
 Concurrency (computer science)
 Concurrent computing
 Control theory
 Control variable (programming)
-Cordell Green
 Cross-validation (statistics)
 Cryptography
 Cyberwarfare
-Cyc
-CycL
-DATR
-DIKW pyramid
 Data mining
 Database
 Decision support system
-Declarative language
-Deep learning
-Deepfake
-Default reasoning
-Defense Advanced Research Projects Agency
 Dependability
 Digital art
 Digital library
@@ -100,7 +55,6 @@ Document management system
 Doi (identifier)
 Domain-specific language
 E-commerce
-Ed Feigenbaum
 Educational technology
 Electronic design automation
 Electronic publishing
@@ -108,46 +62,24 @@ Electronic voting
 Embedded system
 Enterprise information system
 Enterprise software
-Ethics of artificial intelligence
-Evolutionary algorithm
 Existential quantification
-Existential risk from artificial general intelligence
-Expert system
-Expert systems
-FO(.)
 First-order logic
-First Order Logic
 Form factor (design)
 Formal language
 Formal methods
 Formal system
-Forward chaining
-Frame (artificial intelligence)
-Frame language
-Frame problem
-Friendly artificial intelligence
 Functional completeness
-Fuzzy logic
-General Problem Solver
-General game playing
-Generative artificial intelligence
-Generative audio
 Geographic information system
-Glossary of artificial intelligence
 Graphics processing unit
 Green computing
 Hardware acceleration
 Hardware security
 Health informatics
-Hector J. Levesque
 Herbert A. Simon
-History of artificial intelligence
 Horn clause
 Human–computer interaction
-Hybrid intelligent system
 ISBN (identifier)
 Image compression
-Inference engine
 Information
 Information retrieval
 Information security
@@ -155,60 +87,30 @@ Information system
 Information theory
 Integrated circuit
 Integrated development environment
-IntelliCorp (software)
-Intelligent agent
 Interaction design
 Interpreter (computing)
 Intrusion detection system
-Is-a
-John Alan Robinson
-John F. Sowa
-John McCarthy (computer scientist)
-Joseph Y. Halpern
-KL-ONE
-Knowledge-based systems
-Knowledge Engineering Environment
-Knowledge base
-Knowledge graph
-Knowledge graphs
 Knowledge management
-Knowledge representation language
-LCCN (identifier)
 Lambda calculus
 Library (computing)
-List of artificial intelligence projects
 List of computer size categories
 Logic
 Logic in computer science
-Logic programming
-Logico-linguistic modeling
-Lumped element model
-MYCIN
 Machine learning
-Machine learning in bioinformatics
-Machine learning in earth sciences
-Machine learning in physics
-Machine translation
-Marvin Minsky
 Massachusetts Institute of Technology
 Mathematical analysis
 Mathematical logic
 Mathematical optimization
 Mathematical software
 Middleware
-Mind map
 Mixed reality
 Model of computation
 Modeling language
-Moshe Y. Vardi
 Multi-task learning
 Multimedia database
 Multiprocessing
 Multithreading (computer architecture)
-Music and artificial intelligence
 Natural language processing
-Natural language understanding
-Natural language user interface
 Negation as failure
 Network architecture
 Network performance
@@ -217,63 +119,39 @@ Network scheduler
 Network security
 Network service
 Networking hardware
-Non-monotonic logic
 Numerical analysis
-Ontology (information science)
 Ontology engineering
-Ontology language
 Open-source software
 Operating system
 Operations research
 Outline of computer science
 Parallel computing
-Pat Hayes
 Peripheral
-Peter Norvig
 Philosophy of artificial intelligence
 Photograph manipulation
-Predicate calculus
 Printed circuit board
 Probability
-Procedural code
 Process control
 Processor (computing)
-Production system (computer science)
 Programming language
 Programming language theory
 Programming paradigm
 Programming team
 Programming tool
-Progress in artificial intelligence
 Prolog
 Quantum Computing
 Randomized algorithm
 Real-time computing
-Recursive self-improvement
-Reflection (computer programming)
-Regulation of artificial intelligence
 Reinforcement learning
 Rendering (computer graphics)
 Requirements analysis
-Resolution prover
 Resource Description Framework
-Rick Hayes-Roth
 Robotics
-Ronald Fagin
-Ronald J. Brachman
-Rule-based system
 S2CID (identifier)
-SLD resolution
 Scientific American
 Security hacker
 Security service (telecommunication)
-Semantic Web
-Semantic network
-Semantic networks
-Semantic technology
 Semantics (computer science)
-Situation calculus
-Smalltalk
 Social computing
 Social software
 Software configuration management
@@ -291,34 +169,20 @@ Solid modeling
 Statistical classification
 Statistics
 Stochastic computing
-Stuart J. Russell
-Subsumption relation
 Supervised learning
-Symbolic artificial intelligence
-Symbolics
 System on a chip
-Texas Instruments
 Theoretical computer science
 Theory of computation
-Timeline of artificial intelligence
-Tom Gruber
-Truth maintenance system
 Turing test
 Ubiquitous computing
-Unique name assumption
 Universal quantification
-Universals
 Unsupervised learning
-Valuation-based system
 Very Large Scale Integration
 Video game
 Virtual machine
 Virtual reality
 Visualization (graphics)
-W3C
 Wayback Machine
-Web Ontology Language
 Word processor
 World Wide Web
 Xerox
-Yoram Moses

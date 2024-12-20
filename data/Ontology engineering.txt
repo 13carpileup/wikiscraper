@@ -1,17 +1,12 @@
-ABox
 ACM Computing Classification System
-Abox
 Acoustical engineering
 Aerospace engineering
 Agricultural engineering
 Algorithm
 Algorithm design
 Algorithmic efficiency
-Algorithms
 Analysis of algorithms
-Application-Level Profile Semantics (ALPS)
 Application security
-Applied ontology
 ArXiv (identifier)
 Architectural engineering
 Artificial intelligence
@@ -19,10 +14,8 @@ Artificial intelligence engineering
 Audio engineer
 Automata theory
 Automated planning and scheduling
-Automated reasoning
 Automation engineering
 Automotive engineering
-Axioms
 Bachelor of Engineering
 Bachelor of Science
 Biochemical engineering
@@ -37,14 +30,11 @@ Building services engineering
 Ceramic engineering
 Chemical engineering
 Chemical reaction engineering
-CiteSeerX (identifier)
 Civil engineering
 Climate engineering
 Clinical engineering
 Coastal engineering
-Collective intelligence
 Common Logic
-Common logic
 Compiler construction
 Computability theory
 Computational biology
@@ -70,37 +60,25 @@ Computer security
 Computer vision
 Computing
 Computing platform
-Conceptual model (computer science)
-Conceptualization
 Concurrency (computer science)
 Concurrent computing
 Construction engineering
 Control engineering
 Control theory
 Control variable (programming)
-Controlled vocabulary
 Copyright status of works by the federal government of the United States
 Corrosion engineering
 Cross-validation (statistics)
 Cryptography
 Cybersecurity engineering
 Cyberwarfare
-Cyc
-CycL
-DAMLplusOIL
-DARPA Agent Markup Language
-DOAP
-DOGMA
 Data engineering
 Data mining
 Database
-Dataspaces
 Decision support system
 Dependability
-Description logic
 Design engineer
 Digital art
-Digital humanities
 Digital library
 Digital marketing
 Discrete mathematics
@@ -110,7 +88,6 @@ Doctorate
 Document management system
 Doi (identifier)
 Domain-specific language
-Domain model
 Dublin Core
 E-commerce
 Earthquake engineering
@@ -123,7 +100,6 @@ Electronic design automation
 Electronic engineering
 Electronic publishing
 Electronic voting
-Embedded RDF
 Embedded system
 Energy engineering
 Engineer
@@ -138,24 +114,14 @@ Enterprise information system
 Enterprise software
 Environmental engineering
 Explosives engineering
-F-Logic
-FOAF
-Facebook Platform
 Facilities engineering
 Fire protection engineering
 First-order logic
-First-order predicate calculus
-Folksonomy
 Food engineering
 Forensic engineering
 Form factor (design)
 Formal language
 Formal methods
-Functional genomics
-GRDDL
-Gellish
-Gene Ontology
-Generic Model Organism Database
 Genetic engineering
 Geographic information system
 Geological engineering
@@ -171,14 +137,6 @@ Glossary of structural engineering
 Graduate certificate
 Graphics processing unit
 Green computing
-HAtom
-HCalendar
-HCard
-HOZO
-HProduct
-HRecipe
-HReview
-HTTP
 Hardware acceleration
 Hardware security
 Health informatics
@@ -186,15 +144,9 @@ Health technology
 History of engineering
 Human–computer interaction
 Hydraulic engineering
-Hyperdata
-Hypertext
-IDEF5
 ISBN (identifier)
-ISO/IEC 21838
-IXBRL
 Image compression
 Industrial engineering
-Information architecture
 Information engineering
 Information retrieval
 Information science
@@ -207,22 +159,12 @@ Integrated circuit
 Integrated development environment
 Interaction design
 Interdisciplinarity
-Internationalized Resource Identifier
 Internet
 Interpreter (computing)
 Intrusion detection system
-JSON-LD
-Journal of Universal Computer Science
-KAON
-Knowledge Interchange Format
-Knowledge base
-Knowledge domain
-Knowledge extraction
 Knowledge management
 Knowledge representation and reasoning
-Large language model
 Library (computing)
-Library 2.0
 Linked data
 List of computer size categories
 List of engineering branches
@@ -241,8 +183,6 @@ Mechanical engineering
 Mechatronics
 Metadata
 Metallurgy
-Microdata (HTML)
-Microformat
 Microwave engineering
 Middleware
 Military engineering
@@ -256,7 +196,6 @@ Multimedia database
 Multiprocessing
 Multithreading (computer architecture)
 Municipal or urban engineering
-N-Triples
 Nanotechnology
 Natural language processing
 Naval architecture
@@ -267,23 +206,10 @@ Network scheduler
 Network security
 Network service
 Networking hardware
-Notation3
 Nuclear engineering
 Numerical analysis
 Offshore engineering
-OntoClean
-OntoUML
-Ontology
-Ontology (computer science)
-Ontology (information science)
-Ontology Inference Layer
-Ontology components
-Ontology double articulation
-Ontology language
-Ontology learning
-Ontology modularization
 Open-source software
-Open Biomedical Ontologies
 Operating system
 Operations research
 Optical engineering
@@ -300,7 +226,6 @@ Petroleum engineering
 Pharmaceutical engineering
 Philosophy of artificial intelligence
 Photograph manipulation
-Plant ontology
 Polymer engineering
 Power engineering
 Printed circuit board
@@ -314,68 +239,34 @@ Programming language theory
 Programming paradigm
 Programming team
 Programming tool
-Protégé (software)
 Quantum Computing
-RDF/XML
-RDFS
-RDF Schema
 RDFa
 Radio-frequency engineering
 Railway engineering
 Randomized algorithm
 Real-time computing
 Reference (computer science)
-Region of interest
 Regulation and licensure in engineering
 Rehabilitation engineering
 Reinforcement learning
 Rendering (computer graphics)
 Requirements analysis
-Research Resource Identifier
 Resource Description Framework
 River engineering
 Robotics engineering
-Rudi Studer
-Rule-based system
-Rule Interchange Format
-S-expression
 S2CID (identifier)
-SAWSDL
-SHACL
-SPARQL
 Safety engineering
 Sanitary engineering
 Schema.org
 Security engineering
 Security hacker
 Security service (telecommunication)
-Semantic HTML
-Semantic Web
-Semantic Web Rule Language
-Semantic analytics
-Semantic broker
-Semantic computing
-Semantic decision table
-Semantic integration
-Semantic mapper
-Semantic matching
-Semantic network
-Semantic publishing
-Semantic reasoner
-Semantic search
-Semantic service-oriented architecture
-Semantic technology
-Semantic triple
-Semantic wiki
-Semantically Interlinked Online Communities
 Semantics
 Semantics (computer science)
 Semiconductor device
 Signal processing
-Simple Knowledge Organization System
 Social computing
 Social software
-Software agents
 Software configuration management
 Software construction
 Software deployment
@@ -387,13 +278,11 @@ Software framework
 Software maintenance
 Software quality
 Software repository
-Solid (web decentralization project)
 Solid modeling
 Sports engineering
 Statistics
 Stochastic computing
 Structural engineering
-Structured data
 Supervised learning
 Surface engineering
 Survey engineering
@@ -409,27 +298,15 @@ Tissue engineering
 Topic map
 Traffic engineering (transportation)
 Transportation engineering
-TriG (syntax)
-TriX (serialization format)
 Tribology
-Turtle (syntax)
 Ubiquitous computing
-Uniform Resource Identifier
-Uniform resource identifier
 Unsupervised learning
 Very Large Scale Integration
 Video game
-View model
 Virtual machine
 Virtual reality
 Visualization (graphics)
 Wayback Machine
-Web 2.0
-Web Ontology Language
-Web Science Trust
-Web engineering
-Web resource
 Word processor
 World Wide Web
-XBRL
 XML

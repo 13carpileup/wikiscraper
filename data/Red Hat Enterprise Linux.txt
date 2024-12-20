@@ -1,54 +1,35 @@
-/e/ (operating system)
-4690 Operating System
 4MLinux
 ALT Linux
-ARM64
 AlmaLinux
 Alpine Linux
 Android-x86
 Android (operating system)
-Ansible (software)
 Antergos
 AntiX
-Apache Derby
-Application binary interface
 ArchBang
 ArchLabs
 Arch Linux
 Artix Linux
 Asahi Linux
-Asianux
 Astra Linux
 Asturix
 Austrumi Linux
 BLAG Linux and GNU
-BOS/360
 BackBox
 BackTrack
-Backport
-Bash (Unix shell)
-Berkeley sockets
-Berry Linux
 Bharat Operating System Solutions
-Binary blob
 BioSLAX
 BlackArch
 Black Lab Linux
 BlankOn Linux
-Bob Young (businessman)
 Bodhi Linux
-C2Net
 CHAOS (operating system)
-CNK operating system
 CRUX
 Calculate Linux
 Caldera OpenLinux
 CalyxOS
-Carbon Design System
 CentOS
 CentOS Stream
-Ceph (software)
-Cgidev2
 Chakra (operating system)
 Chief technology officer
 Chimera Linux
@@ -56,83 +37,46 @@ ChromeOS
 ChromiumOS
 ClearOS
 Clear Linux OS
-CloudLinux OS
-Cockpit (software)
 ColorOS
-Commerce
-Commercial products based on Red Hat Enterprise Linux
-Commercial software
 Commodore OS
-Common Public License
 Comparison of Linux distributions
-Computer system
 Container Linux
-Control Program Facility
 Corel Linux
 CrDroid
 CrunchBang Linux
 Cub Linux
 CyanogenMod
-Cygnus Solutions
-DNF (software)
-DOS/360 and successors
-DOS/V
 Damn Small Linux
 Damn Vulnerable Linux
 Debian
-Debian version history
 Deepin
 DemoLinux
-Desktop computer
 Devuan
-DistroWatch
 DivestOS
-Dnfdragora
 DoudouLinux
 Dreamlinux
-EGL (programming language)
 EMUI
 Eclipse (software)
-Eclipse Che
-Eclipse Foundation
 Edubuntu
 Elementary OS
 Elive
-Emerging markets
 Emmabuntüs
 EndeavourOS
-Endianness
 Endless OS
 Enterprise software
 EulerOS
-Ext2
-Ext3
 Familiar Linux
 Feather Linux
-Fedora 12
 Fedora Linux
-Fedora Linux release history
-Fedora Project
-Fermi Linux
 Fire OS
 Firefox OS
-Flatpak
-FlexOS
 Floppyfw
 Forbes
 Foresight Linux
-FreeOTP
-Free Software Foundation
-Free Software Foundation, Inc.
-Free and open-source software
 Free software
 FreedomBox
 Freespire
 Frugalware Linux
-Fuduntu
-GFS2
-GNOME
-GNOME Shell
 GNOME Software
 GNU Core Utilities
 GNU General Public License
@@ -142,39 +86,16 @@ GOS (operating system)
 Garuda Linux
 GeckoLinux
 Gentoo Linux
-Gluster
 GoboLinux
 Gobuntu
 GrapheneOS
-Groupe Bull
-HElib
 HandyLinux
-History of CP/CMS
-Hortonworks
-Hyperbola GNU/Linux-libre
 IBM
-IBM 7090/94 IBSYS
-IBM 8100 DPCX
 IBM AIX
-IBM Airline Control Program
-IBM DPPX
-IBM Db2
-IBM PC DOS
-IBM Power Systems
-IBM Public License
-IBM RT PC
-IBM Remote Access Computing
-IBM Z
-IBM i
-INK (operating system)
 ISBN (identifier)
 Immunix
-Inktank Storage
-Inspur K-UX
 IodéOS
-Jim Whitehurst
 Jurix
-K42
 KDE neon
 KaOS
 KaiOS
@@ -183,10 +104,8 @@ Kali Linux
 Kanotix
 KateOS
 Kernel (operating system)
-Kitura
 Knoppix
 Kongoni (operating system)
-Koozali SME Server
 Korora (operating system)
 Kubuntu
 Kwort Linux
@@ -201,12 +120,9 @@ Linux Caixa Mágica
 Linux Lite
 Linux Mint
 Linux Router Project
-Linux Technology Center
 Linux distribution
 Linux for PlayStation 2
 Linux kernel
-Linux on IBM Z
-List of Fedora versions
 List of Linux distributions
 Lubuntu
 MCC Interim Linux
@@ -218,160 +134,90 @@ Mainframe computer
 Mandrake Linux
 Mandriva Linux
 Manjaro
-Marc Ewing
-Matthew Szulik
 MeeGo
 Mer (software distribution)
-MetaMatrix
-Michael Tiemann
 Miracle Linux
 Mobilinux
 Monolithic kernel
 Mugshot (website)
-Musix GNU+Linux
 Natural language
-NetRexx
-NetworkManager
 Network Security Toolkit
 NimbleX
 Nitix
 NixOS
 Nobara Linux
-Node-RED
 Nova (operating system)
 OCLC (identifier)
-OS/2
-OS/360 and successors
-OS/390
-OS/VS1
-OS/VS2 (SVS)
-Obfuscated code
-Object REXX
 OmniROM
 One UI
 Open-source software
-OpenAFS
 OpenELEC
-OpenJ9
 OpenMandriva Lx
-OpenPOWER Foundation
-OpenSSL
 OpenSUSE
-OpenShift
 Open Enterprise Server
-Open Invention Network
-Open Mainframe Project
-Open Source Security Foundation
 Open source
 Open source software
 Operating system
-Oracle Corporation
-Oracle Database
 Oracle Linux
-PC/IX
 PCLinuxOS
 Package manager
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
-Patch file
-Paul Cormier (engineer)
 Pentoo
 Peppermint OS
 Pinguy OS
 PixelExperience
-Planet CCRMA
 Platypux
-Podman
 Point of sale
 Pop! OS
 Porteus (operating system)
-Postfix (software)
-PowerLinux
-Power ISA
-Power user
 Programmer
-Project Monterey
-Project Trillian
 Puppy Linux
 PureOS
 Q4OS
-Qiskit
 Qubes OS
-Qumranet
 ROSA Linux
-RPM Package Manager
 Raspberry Pi OS
-RedSleeve
-Red Flag Linux
 Red Hat
-Red Hat Certification Program
-Red Hat Cluster Suite
-Red Hat Enterprise Linux derivatives
 Red Hat Linux
-Red Hat Network
-Red Hat Tower
-Red Hat Virtualization
 Red Star OS
 Remix OS
 Replicant (operating system)
 Resurrection Remix OS
-Rexx
 Rocks Cluster Distribution
 Rocky Linux
-SHARE (computing)
 SUSE Linux
 SUSE Linux Enterprise
-SUSE S.A.
 SUSE Studio
 Sabayon Linux
 Sabily
 Sailfish OS
 Salix OS
-Satellite (software)
 Scientific Linux
-Secure Shell
-Security-Enhanced Linux
 Server (computing)
-Simple Protocol for Independent Computing Environments
 Slackware
 Slax
 Softlanding Linux System
-Software Testing Automation Framework
-Software Updater
 Software license
 Software release life cycle
 Solus (operating system)
 SolydXK
 Source Mage
 Source code
-Spacewalk (software)
 SparkyLinux
-Special Real Time Operating System
 Splashtop OS
-StartCom
 SteamOS
-Stratis (configuration daemon)
-Stratus VOS
 Sunwah Linux
-Supercomputer
 SystemRescue
-System Support Program
-Systemd
 T2 SDE
-TOS/360
-TSS (operating system)
 Tails (operating system)
-Taligent
 TechCrunch
-Textpack
 Think Blue Linux
 Tiny Core Linux
 Tizen
 TopologiLinux
 Trademark
-Transaction Processing Facility
 Trisquel
 Turbolinux
 Turkix
@@ -384,34 +230,18 @@ Ubuntu MATE
 Ubuntu Studio
 Ubuntu Touch
 Ubuntu Unity
-Ubuntu version history
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Upstream (software development)
-Uruk GNU/Linux
 User interface
 User space and kernel space
-VMware ESX
-VSE (operating system)
 VectorLinux
 Vine Linux
-Virtual Machine Manager
 Void Linux
 Wayback Machine
-Wayland (display server protocol)
 Whonix
-WildFly
-Workplace OS
-Workstation
 Wubuntu
-X10 (programming language)
-X86-64
 XB Machine
 Xubuntu
 Yellow Dog Linux
-Yellowdog Updater, Modified
-Yumex
-Z/OS
 Zenwalk
 Zorin OS

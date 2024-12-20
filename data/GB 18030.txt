@@ -7,7 +7,6 @@ ASMO 449
 ATASCII
 Adlam script
 Ahom script
-Amstrad CP/M Plus character set
 Amstrad CPC character set
 Anatolian hieroglyphs
 Ancient North Arabian
@@ -20,17 +19,13 @@ Armenian alphabet
 Atari ST character set
 Avestan alphabet
 BCD (character encoding)
-Backport
 Balinese script
 Bamum script
-Basic Multilingual Plane
-Bassa Vah alphabet
 Batak script
 Baudot code
 Baybayin
 Bengali–Assamese script
 Bhaiksuki script
-Bidirectional text
 Big5
 Binary Ordered Compression for Unicode
 Bitstream International Character Set
@@ -39,17 +34,11 @@ BraSCII
 Brahmi script
 Braille
 Buhid script
-Byte-oriented protocol
-Byte order mark
 C0 and C1 control codes
 CCSID
 CDC display code
 CER-GS
 CESU-8
-CJK Unified Ideographs
-CJK Unified Ideographs (Unicode block)
-CJK Unified Ideographs Extension I
-CJK characters
 CNS 11643
 CSX+ Indic character set
 CSX Indic character set
@@ -63,16 +52,12 @@ Chakma script
 Cham script
 Character encoding
 Character encodings in HTML
-Character repertoire
 Character set
 Charset detection
 Cherokee syllabary
 China
-China Electronics Standardization Institute
 Chinese Character Code for Information Interchange
-Chinese character encoding
 Chinese characters
-Chinese input methods
 Chinese language
 Chinese telegraph code
 Clear Script
@@ -92,17 +77,10 @@ Code page 1019
 Code page 1020
 Code page 1021
 Code page 1023
-Code page 1034
 Code page 1040
 Code page 1042
 Code page 1043
-Code page 1044
 Code page 1046
-Code page 1052
-Code page 1053
-Code page 1054
-Code page 1055
-Code page 1056
 Code page 1058
 Code page 1098
 Code page 1101
@@ -124,7 +102,6 @@ Code page 1287
 Code page 1288
 Code page 3846
 Code page 437
-Code page 54936
 Code page 668
 Code page 708
 Code page 720
@@ -142,7 +119,6 @@ Code page 853
 Code page 855
 Code page 856
 Code page 857
-Code page 858
 Code page 859
 Code page 860
 Code page 861
@@ -159,7 +135,6 @@ Code page 896
 Code page 897
 Code page 899
 Code page 903
-Code page 904
 Code page 912
 Code page 915
 Code page 921
@@ -173,21 +148,15 @@ Code page 949 (IBM)
 Code page 950
 Code page 951
 Code point
-Code points
-Combining character
 Combining grapheme joiner
 Common Locale Data Repository
 Comparison of Unicode encodings
 Compucolor II character set
-ConScript Unicode Registry
-Control Pictures
 Control character
 Cooke and Wheatstone telegraph
-Coptic script
 Cork encoding
 Cuneiform
 Currency symbol
-Cygwin
 Cypriot syllabary
 Cypro-Minoan syllabary
 Cyrillic script in Unicode
@@ -199,7 +168,6 @@ DG International
 DIN 66003
 DIN 91379
 DKOI
-DengXian
 Deseret alphabet
 Devanagari
 Dhives Akuru
@@ -207,28 +175,21 @@ Diacritic
 Digital Equipment Corporation
 Digital encoding of APL symbols
 Dogri script
-Duplicate characters in Unicode
 Duployan shorthand
 EBCDIC
 ELOT 927
-EUC-CN
 Egyptian hieroglyphs
-Elbasan
 Elymaic
 Emoji
-Ethnic minorities in China
-Euro sign
 Extended ASCII
 Extended Latin-8
 Extended Unix Code
 FOCAL character set
 Fieldata
 Fraser script
-GB/T 20542
 GBK (character encoding)
 GB 12052
 GB 12345
-GB 16959
 GB 2312
 GEM character set
 GOST 10859
@@ -244,13 +205,9 @@ Glossary of mathematical symbols
 Gondi writing
 Gothic alphabet
 Grantha script
-Greek script in Unicode
 Gujarati script
 Gunjala Gondi script
-Guobiao code
-Guobiao standards
 Gurmukhi
-Gurung Khema
 HP Roman
 HZ (character encoding)
 Halfwidth and fullwidth forms
@@ -260,50 +217,19 @@ Hanifi Rohingya script
 Hanja
 Hanunoo script
 Hardware code page
-Hatran alphabet
 Hebrew alphabet
-Hexadecimal
 Hiragana
-Homoglyph
 Hong Kong Supplementary Character Set
 IBM AIX
-IEC-P27-1
 INIS-8
 INIS character set
 ISBN (identifier)
-ISO-2022-CN
-ISO-2022-JP
-ISO-2022-KR
 ISO-IR-111
-ISO-IR-165
 ISO-IR-169
 ISO-IR-182
 ISO-IR-197
 ISO-IR-200
 ISO-IR-68
-ISO/IEC 10367
-ISO/IEC 14651
-ISO/IEC 2022
-ISO/IEC 646
-ISO/IEC 8859
-ISO/IEC 8859-1
-ISO/IEC 8859-10
-ISO/IEC 8859-11
-ISO/IEC 8859-12
-ISO/IEC 8859-13
-ISO/IEC 8859-14
-ISO/IEC 8859-15
-ISO/IEC 8859-16
-ISO/IEC 8859-2
-ISO/IEC 8859-3
-ISO/IEC 8859-4
-ISO/IEC 8859-5
-ISO/IEC 8859-6
-ISO/IEC 8859-7
-ISO/IEC 8859-8
-ISO/IEC 8859-9
-ISO/IEC JTC 1/SC 2
-ISO 10646
 ISO 15924
 ISO 2033
 ISO 5426
@@ -312,14 +238,7 @@ ISO 5428
 ISO 6438
 ISO 6862
 ITU T.61
-Iconv
-Ideographic Description Characters
-Ideographic Research Group
 Indian Script Code for Information Interchange
-Intecolor/Compucolor 8001 character set
-International Components for Unicode
-International Ideographs Core
-Internationalized domain name
 Iran System encoding
 JIS X 0201
 JIS X 0208
@@ -327,7 +246,6 @@ JIS X 0211
 JIS X 0212
 JIS X 0213
 JIS encoding
-Japanese input methods
 Japanese language in EBCDIC
 Javanese script
 KOI-7
@@ -340,39 +258,24 @@ KS X 1001
 KS X 1002
 Kaithi
 Kamenický encoding
-Kangxi Radicals (Unicode block)
 Kanji
 Kannada script
 Katakana
 Kawi script
 Kayah Li alphabet
-Kazakh alphabets
 Kharosthi
 Khitan small script
 Khmer script
 Khojki script
 Khudabadi script
-Khwarezmian language
-Kirat Rai
-Korean language
-Korean language and computers
-Kyrgyz alphabets
 LST 1564
 LST 1590-4
 LY1 encoding
 Lao script
-Latin script in Unicode
-Left-to-right mark
 Lepcha script
-Libiconv
 Limbu script
-Linear A
 Linear B
-List of CJK fonts
-List of Commonly Used Standard Chinese Characters
-List of Unicode characters
 List of XML and HTML character entity references
-List of precomposed Latin characters in Unicode
 Lisu language
 Lontara script
 Lotus International Character Set
@@ -400,7 +303,6 @@ Mac OS Hebrew
 Mac OS Icelandic encoding
 Mac OS Inuit
 Mac OS Keyboard encoding
-Mac OS Maltese/Esperanto encoding
 Mac OS Ogham
 Mac OS Roman
 Mac OS Romanian encoding
@@ -412,25 +314,20 @@ Macintosh Font X encoding
 Macintosh Latin encoding
 Magnetic ink character recognition
 Mahajani
-Makassarese language
 Malayalam script
 Manchu alphabet
 Mandaic alphabet
 Manichaean script
 Marchen script
-Mathematical operators and symbols in Unicode
 Mazovia encoding
 Medefaidrin
 Meitei script
 Mende Kikakui script
 Meroitic script
-Miao script
 Microsoft
-Microsoft YaHei
 Modi script
 Mojibake
 Mojikyō
-Mongolian language
 Mongolian script
 Mon–Burmese script
 Morse code
@@ -441,14 +338,11 @@ Multinational Character Set
 N'Ko script
 NEC APC character set
 Nabataean script
-Nag Mundari
 Nandinagari
 National Replacement Character Set
 NeXT character set
 New Tai Lue alphabet
-Numerals in Unicode
 Numeric character reference
-Nyiakeng Puachue Hmong
 Nüshu
 OML encoding
 OMS encoding
@@ -462,39 +356,22 @@ Old Italic scripts
 Old Permic script
 Old Persian cuneiform
 Old Turkic script
-Old Uyghur
 Osage script
-Osmanya alphabet
 PETSCII
 Pahawh Hmong
 Pahlavi scripts
-Palmyrene alphabet
-Parthian language
 Pau Cin Hau script
-People's Republic of China
 Perso-Arabic Script Code for Information Interchange
 Phoenician alphabet
-Phonetic symbols in Unicode
-Plane (Unicode)
 Pollard script
 PostScript Latin 1 Encoding
 PostScript Standard Encoding
 Pracalit script
-Precomposed character
-Private Use Area
-Private Use Areas
 Prosigns for Morse code
-Punctuation
-Punycode
 RISC OS character set
 RPL character set
 Ranjana script
 Regional indicator symbol
-Rejang alphabet
-Religious and political symbols in Unicode
-Right-to-left mark
-Rune
 Russian Morse code
-SAM Coupé character set
 SI 960
 SQUOZE

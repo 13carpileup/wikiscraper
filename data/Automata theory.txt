@@ -1,51 +1,24 @@
-2-category
 ACM Computing Classification System
 Abstract algebra
 Abstract machine
-Algebra of physical space
-Algebraic structures
 Algorithm
 Algorithm design
 Algorithmic efficiency
-Alphabet (computer science)
-Alternating automaton
-An Introduction to Cybernetics
-Analog automata
 Analysis of algorithms
-Analytical mechanics
-Anil Nerode
-Aperiodic finite state automaton
 Application security
 Applied mathematics
-Approximation theory
 ArXiv (identifier)
 Artificial intelligence
-Artificial life
-Arto Salomaa
 Automata theory
 Automated planning and scheduling
 Automated theorem proving
-Automaton
-Boolean differential calculus
-Bosonic string theory
-Büchi automaton
-Calculus of variations
 Cambridge University Press
-Cartesian closed category
-Categories of groupoids
 Category (mathematics)
-Cellular automata
-Chaos theory
 Chapman & Hall
 Chomsky hierarchy
-Clarendon Press
-Classical field theory
 Claude Shannon
 Clifford algebra
-Clifford analysis
 Coding theory
-Colimit
-Combinational logic
 Combinatorics
 Compiler construction
 Computability theory
@@ -56,11 +29,8 @@ Computational complexity theory
 Computational engineering
 Computational geometry
 Computational mathematics
-Computational number theory
 Computational physics
-Computational problem
 Computational social science
-Computational statistics
 Computer accessibility
 Computer algebra
 Computer animation
@@ -73,44 +43,19 @@ Computer science
 Computer security
 Computer vision
 Computing
-Computing device
 Computing platform
 Concurrency (computer science)
 Concurrent computing
-Conformal field theory
-Constraint programming
-Constraint satisfaction problem
-Context-free grammar
-Context-free language
-Context-sensitive grammar
-Context-sensitive language
-Continuous automata
 Control theory
 Control variable (programming)
-Conway's Game of Life
-Countable
 Cross-validation (statistics)
 Cryptography
 Cyberwarfare
-DFA minimization
-Dana Scott
 Data mining
 Database
-David T. Barnard
-Decider (Turing machine)
 Decision support system
-Decision theory
 Dependability
-Deterministic Finite Automaton
-Deterministic Turing machine
-Deterministic acyclic finite state automaton
-Deterministic automaton
-Deterministic context-free grammar
-Deterministic context-free language
-Deterministic pushdown automaton
-Differential calculus
 Differential equation
-Differential form
 Differential geometry
 Digital art
 Digital library
@@ -125,69 +70,36 @@ Domain-specific language
 Dynamical system
 E-commerce
 Educational technology
-Edward F. Moore
-Edward Fredkin
-Effective field theory
-Effective method
-Elaine Rich
 Electronic design automation
-Electronic lock
 Electronic publishing
 Electronic voting
-Embedded pushdown automaton
 Embedded system
 Enterprise information system
 Enterprise software
-European Community on Computational Methods in Applied Sciences
 Exterior algebra
-Exterior calculus
-Field theory (physics)
 Finite-state machine
-Finite-state transducer
-Finite automata
-Finite automaton
 Finite field
-Finite language
 Form factor (design)
 Formal grammar
-Formal grammars
 Formal language
-Formal languages
 Formal methods
 Formal verification
-Fourier analysis
 Functional analysis
 Functional completeness
-Functional integration
 Game theory
 Gauge theory
-Gauge theory (mathematics)
 Geographic information system
 Geometric algebra
-Geometric analysis
-Geometric automata
-Geometric calculus
 Graph theory
 Graphics processing unit
 Greek language
 Green computing
-Groupoid
-Groupoid category
-Hamiltonian mechanics
 Hardware acceleration
-Hardware design
 Hardware security
-Harmonic analysis (mathematics)
 Health informatics
 Human–computer interaction
-Hybrid automaton
 ISBN (identifier)
-Igor Aleksander
 Image compression
-Indexed grammar
-Indexed language
-Induction of regular languages
-Infinite tree automaton
 Information retrieval
 Information security
 Information system
@@ -195,43 +107,17 @@ Information theory
 Integrated circuit
 Integrated development environment
 Interaction design
-International Council for Industrial and Applied Mathematics
 Interpreter (computing)
 Introduction to Automata Theory, Languages, and Computation
-Introduction to the Theory of Computation
 Intrusion detection system
 Irreducible polynomial
-James P. Schmeiser
-Japan Society for Industrial and Applied Mathematics
 Jeffrey Ullman
 John Hopcroft
-John Horton Conway
-John M. Howie
-John von Neumann
-Juris Hartmanis
 Knowledge representation and reasoning
-Konrad Zuse
-Lagrangian mechanics
 Library (computing)
-Limit (category theory)
-Linear bounded automata
-Linear bounded automaton
-Linear context-free rewriting language
-Linear context-free rewriting system
-List of arbitrary-precision arithmetic software
 List of computer size categories
-List of finite element software packages
-List of interactive geometry software
-List of mathematics topics
-List of numerical-analysis software
-List of optimization software
-List of statistical software
-Log-space transducer
 Logic in computer science
-MR (identifier)
 Machine learning
-Malliavin calculus
-Marvin Minsky
 Mathematical analysis
 Mathematical and theoretical biology
 Mathematical chemistry
@@ -244,29 +130,18 @@ Mathematical psychology
 Mathematical sociology
 Mathematical software
 Mathematics
-Metric automata
-Michael O. Rabin
-Michael Sipser
 Middleware
 Mixed reality
 Model of computation
 Modeling language
 Monoid
-Monoidal category
-Muller automaton
 Multi-task learning
 Multilinear algebra
 Multimedia database
 Multiprocessing
-Multitape Turing machine
 Multithreading (computer architecture)
-Multivariable calculus
-Myhill–Nerode theorem
-N-tuple
 Natural language
 Natural language processing
-Nested stack automaton
-Nested word
 Network architecture
 Network performance
 Network protocol
@@ -275,96 +150,45 @@ Network security
 Network service
 Networking hardware
 Noam Chomsky
-Non-recursive grammar
-Nondeterministic Finite Automaton
-Nondeterministic Push Down Automaton
-Nondeterministic Turing machine
 Norbert Wiener
 Numerical analysis
-Numerical linear algebra
-Numerical methods for ordinary differential equations
-Numerical methods for partial differential equations
-Omega-regular language
-Omega automaton
-Omega language
 Open-source software
 Operating system
 Operations research
-Operator algebra
-Operator theory
-Ordinary differential equation
 Outline of computer science
 PMID (identifier)
-PTIME
 Parallel computing
 Parameter (computer programming)
-Parity automaton
-Parsing
 Partial differential equation
-Particle physics and representation theory
 Path integral formulation
 Peripheral
-Perturbation theory
-Perturbation theory (quantum mechanics)
-Petri net
 Philosophy of artificial intelligence
 Photograph manipulation
-Poisson algebra
-Potential theory
 Printed circuit board
-Probabilistic Turing machine
 Probability
-Probability distribution
 Probability theory
 Process control
 Processor (computing)
 Programming language
-Programming language specification
 Programming language theory
 Programming paradigm
 Programming team
 Programming tool
-Proper subset
-Pumping lemma for regular languages
-Pushdown automata
-Pushdown automaton
 Quantum Computing
-Quantum field theory
-Quantum finite automaton
-Quantum group
-Queue (abstract data type)
-Queue machine
-Rabin automaton
 Rajeev Motwani
-Random variable
 Randomized algorithm
-Range concatenation grammars
-Range concatenation language
 Real-time computing
-Recognizable language
-Recursive language
-Recursively enumerable language
-Regular grammar
-Regular language
-Regular languages
 Reinforcement learning
 Rendering (computer graphics)
-Renormalization group
 Requirements analysis
-Richard E. Stearns
 S2CID (identifier)
-Saunders Mac Lane
 Security hacker
 Security service (telecommunication)
 Semantics (computer science)
 Semigroup
-Sequential machine
 Set theory
-Social choice theory
 Social computing
 Social software
-Society for Industrial and Applied Mathematics
-Société de Mathématiques Appliquées et Industrielles
 Software configuration management
 Software construction
 Software deployment
@@ -377,67 +201,25 @@ Software maintenance
 Software quality
 Software repository
 Solid modeling
-Solver
-Spacetime algebra
-Stack (abstract data type)
-Star-free language
-State (computer science)
-State diagram
-Statistical field theory
 Statistics
 Stephen Cole Kleene
-Stochastic calculus
 Stochastic computing
-Stochastic differential equation
-Stochastic process
-Streett automaton
-String theory
 Superalgebra
-Supersymmetric quantum mechanics
-Supersymmetric theory of stochastic dynamics
-Supersymmetry
-Supersymmetry algebra
 Supervised learning
 Symbol (formal)
-Symbolic language (programming)
 System
 System on a chip
 Systems theory
 Tensor
-Tensor calculus
-Tensor software
-Text processing
-The Human Use of Human Beings
-The Unreasonable Effectiveness of Mathematics in the Natural Sciences
 Theoretical computer science
 Theory of computation
-Thread automaton
-Topic outline of mathematics
-Topological field theory
-Topological string theory
-Transition (computer science)
-Transition table
-Tree-adjoining grammar
-Tree (automata theory)
-Tree automaton
-Tree stack automaton
 Turing machine
-Turing machine equivalents
-Two-way finite automaton
 Ubiquitous computing
-Unrestricted grammar
 Unsupervised learning
-Validated numerics
-Vector calculus
 Very Large Scale Integration
 Video game
 Virtual machine
 Virtual reality
 Visualization (graphics)
-Věra Trnková
-W. Ross Ashby
-Weighted automaton
-Word (mathematics)
 Word processor
 World Wide Web
-Zbl (identifier)

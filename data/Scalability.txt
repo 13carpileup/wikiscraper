@@ -1,5 +1,3 @@
-Small-world network
-Extensibility
 Unified Parallel C
 NoSQL
 Reliability engineering
@@ -9,127 +7,75 @@ Non-blocking algorithm
 Embarrassingly parallel
 Social network analysis
 Flexibility (engineering)
-Partial differential equations
-Complex adaptive system
-Second-order cybernetics
 Business model
-Nonlinear system
-Goal-oriented
 OpenCL
 Peer-to-peer
 Gustafson's law
 Availability
 Pipeline (computing)
-Parity bit
-Swarm behaviour
 OpenACC
 Phase space
-Eventual consistency
-Web indexing
 Software quality
 Synchronization (computer science)
-Bounded rationality
 Memory-level parallelism
 List of system quality attributes
 Analysis of parallel algorithms
-Small-world networks
 Fault tolerance
-Reaction-diffusion systems
 Internet
-Variety (cybernetics)
-Population dynamics
 Implicit parallelism
 Closure (mathematics)
 Correctness (computer science)
-Ant colony optimization
 Loop-level parallelism
-Disk array controller
-Time series
 Search engine
 Non-functional requirement
 Symmetric multiprocessing
 Scale (analytical tool)
-Elasticity (system resource)
 Speculative multithreading
 Computer multitasking
-Disk array
-RAID levels
-Standard RAID levels
-Replication (computing)
 Bulldozer (microarchitecture)
 Coupled map lattice
-Self-organization
-Performance engineering
 Race condition
-Multistability
-Similitude (model)
-Dynamic network analysis
 Cache coherence
-Scalable Video Coding
 Machine learning
 Non-standard RAID levels
-High performance computing
 Domain Name System
 OpenHMPP
 Computational complexity theory
-Disk mirroring
 Systems science
 ROCm
 Self-replication
 Orthogonality (programming)
 Seismic analysis
-Conversation theory
 Single instruction, multiple data
 Marginal cost
-Evolutionary robotics
-Autopoiesis
 Accuracy and precision
-Ant colony optimization algorithms
-Coupled map lattices
 Grid computing
 Cellular automaton
 Genetic programming
 Cilk
 Preemption (computing)
-Evolvability
 Data scrubbing
 Loose coupling
-Dissipative structures
-Reaction–diffusion system
 Parallel computing
-Throughput
 Systems theory
 Shared memory
 Parallel Extensions
 Explicit parallelism
-Oracle ZFS
-ZPL (programming language)
-Supercomputer
-Evolutionary developmental biology
-Fractal
 Flynn's taxonomy
 Maintainability
 Software quality assurance
 Software sizing
 Robustness (computer science)
 HPX
-Distributed system
 Instruction pipelining
 Manycore processor
-Network function virtualization
 Non-RAID drive architectures
-Agent-based modelling
 Global Arrays
 Dataflow architecture
-Rational choice theory
-Emergency response
 Karp–Flatt metric
-Network motif
 Dataflow programming
 Instruction window
 Deadlock (computer science)
-Software development security
-ISO/IEC 9126
 Hard disk drive
 Bit-level parallelism
 Cloud computing
@@ -139,30 +85,20 @@ Multiple instruction, multiple data
 Semiconductor memory
 Distributed memory
 Computer program
-Artificial neural network
-Database scalability
-Network science
-Percolation
 Scale-free network
 Amdahl's law
 OpenMP
 Computer data storage
 Thread (computing)
 Self-reference
-Homeostasis
 Graph theory
 Cache invalidation
 Concurrency (computer science)
 Barrier (computer science)
 Vector processor
 Memory coherence
-Data striping
-Amdahl's Law
-Degraded mode
 Massively parallel
 Parallel RAM
-Distributed systems
-Bifurcation theory
 Bioctl
 Fiber (computer science)
 Information theory
@@ -173,15 +109,12 @@ Doi (identifier)
 General-purpose computing on graphics processing units
 Threading Building Blocks
 Computer hardware
-Routing table
 Distributed shared memory
 Charm++
-Protocol (computing)
 Non-uniform memory access
 Array (data structure)
 John Wiley & Sons
 Message Passing Interface
-Spatial ecology
 Biotechnology
 Theory of computation
 Adaptability
@@ -189,52 +122,28 @@ Hardware scout
 Temporal multithreading
 Software testability
 Hardware acceleration
-BitTorrent (protocol)
 Algorithmic efficiency
-Routing protocol
 Ateji PX
 Computer cluster
 Simultaneous multithreading
-Artificial life
 Server (computing)
 GEOM
 Single instruction, multiple threads
 Goal orientation
-RAID
-Feedback
 Parallel external memory
 Superscalar processor
-Chaos theory
-Mdadm
 High-performance computing
-Neil J. Gunther
 Speedup
-Attractor
-Collective intelligence
-Big O notation
 Systolic array
 Cost efficiency
-Operationalization
 API
-Computation theory
 Deterministic algorithm
 Artificial intelligence
 Distributed computing
-Ordinary differential equations
-Phase transition
-Memcached
-Centrality
-Time series analysis
-Herd mentality
 Parallel slowdown
 Software lockout
-Load balancing (computing)
-CouchDB
-Collective behavior
 Multithreading (computer architecture)
 Uniform memory access
-Prisoner's dilemma
-Entropy
 Understandability
 Data parallelism
 Synchronization
@@ -242,69 +151,39 @@ Social dynamics
 RaftLib
 Simultaneous and heterogeneous multithreading
 Systems thinking
-C++ AMP
 Economics
 Automatic parallelization
 Dryad (programming)
 Application checkpointing
-Online transaction processing
 Computer network
-Nested RAID levels
 Scalar multiplication
-Parity drive
 System dynamics
 Single instruction, single data
-Collective consciousness
 Agent-based model
 ISSN (identifier)
-Geomorphology
-Evolutionary computation
 Lock (computer science)
 Multiple instruction, single data
 Software quality control
 Task parallelism
-Evolutionary game theory
 Coarray Fortran
 Game theory
-Cellular automata
-Collective action
-Adaptation
 Cache-only memory architecture
-Failover
-Data redundancy
-Ordinary differential equation
-Self-organized criticality
 Stream processing
-Gnutella
-Nonlinear dynamics
 Partial differential equation
-Boost (C++ libraries)
 Interface (computing)
-Serverless computing
-Performance tuning
 Computer programming
-Percolation theory
 CUDA
-Genetic algorithms
 ISBN (identifier)
 Software portability
-Software system safety
 Algorithm
-Shared-nothing architecture
 Particle swarm optimization
 Asymmetric multiprocessing
 Evolution
 Emergence
 Usability
-Database management system
-Sensemaking
-Genetic algorithm
 Process (computing)
 Open architecture
-Incident Command System
 Beowulf cluster
-Pattern formation
-Dissipative system
 Parallel programming model
 Cybernetics
 GPUOpen
@@ -313,4 +192,3 @@ Instruction-level parallelism
 Parallel Virtual Machine
 Multiprocessing
 Chapel (programming language)
-Query flooding

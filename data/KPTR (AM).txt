@@ -1,130 +1,64 @@
-AM 1090
 AM broadcasting
-AM radio
-AM stereo
-AP News
-Air America Radio
 All-news radio
-American Radio Systems
-At Home with Gary Sullivan
 Baltimore
 Bellevue, Washington
 Belltown, Seattle
-Ben Ferguson
 Bill Handel
-Bill Press
 Black Information Network
-Bloomberg Radio
-Bob Rivers
-Bonneville International
 Bossa nova
-Brand extension
 Broadcast relay station
 Broadcasting & Cable
 CBS
 CBS Radio
-CBS Sports Radio
 Call sign
 Call signs in North America
-Classic country
 Classical music
-Clear-channel
 Clear Channel Outdoor
 Clear Channel UK
 Clear Channel memorandum
-Commercial radio
-Conservative talk radio
 Contemporary hit radio
 Country music
-Cumulus Media
-Democracy Now!
 Directional antenna
-Don and Mike
-Dorothy Bullitt
-Downtown Seattle
 Drive time
-EZ Communications
-Ed Schultz
-Entercom
 Evolution (radio network)
-FCC
 FM broadcasting
 Facebook
 Facility ID
 Federal Communications Commission
-Flagship (radio)
 Fox Sports Radio
 Frequency
 Geographic coordinate system
-Glenn Beck Radio Program
 HD Radio
 Hertz
-Hot talk
 HowStuffWorks
 IHeartMedia
-IHeartMedia, Inc.
 IHeartRadio
-Infinity Broadcasting
 Irving Azoff
 J. C. Watts
 Jazz
-Jim Rome
-K201EN
-K205DF
-K206CJ
-K206DM
-K207AP
-K207AZ
-K209FO
-K209FQ
-K211FH
-K212GL
-K221FJ
-K221FR
-K233BU
-K237GN
 K242CE
 K244FE
 K246CI
-K249DX
 K251AU
-K253CG
-K262CX
 K265CA
-K266CJ
-K271BS
 K273BH
-K277AE
 K280DD
-K281CI
-K281CQ
-K289AK
-K289BZ
-K293AY
 K296GB
-K297BD
-KAAY
 KAAZ-FM
 KABQ-FM
 KABQ (AM)
-KAFE
 KAGG
 KAJA (FM)
 KAKC
 KAKQ-FM
 KALZ
-KAPY-LP
-KARR (AM)
-KASB
 KASE-FM
 KASH-FM
 KASI
 KATZ-FM
 KATZ (AM)
 KBCO
-KBCS
 KBEB
-KBFG-LP
 KBFM
 KBFP-FM
 KBFP (AM)
@@ -132,32 +66,25 @@ KBFX (FM)
 KBGO
 KBIG
 KBKS-FM
-KBLE
 KBME (AM)
 KBMR
 KBOS-FM
 KBPI
 KBPL
 KBQI
-KBRO
 KBRQ
-KBSN
 KCAD
 KCBL
 KCCY-FM
 KCDA
-KCIS
 KCJB
-KCMS
 KCOL-FM
 KCOL (AM)
 KCQL
 KCQQ
-KCSC-LP
 KCSJ
 KCYZ
 KDAG
-KDDS-FM
 KDFD
 KDFO
 KDGE
@@ -168,15 +95,11 @@ KDNN
 KDON-FM
 KDRB
 KDWB-FM
-KDXB-LP
-KEDO (AM)
 KEEY-FM
 KEGL
 KEIB
-KELA (AM)
 KENI
 KESZ
-KEXP-FM
 KEX (AM)
 KEZA
 KFAB
@@ -186,11 +109,9 @@ KFBK (AM)
 KFBT
 KFBW
 KFBX
-KFC (AM)
 KFFF (FM)
 KFI
 KFIV
-KFLD
 KFMQ
 KFOO-FM
 KFOO (AM)
@@ -203,22 +124,14 @@ KFYR (AM)
 KGB-FM
 KGBX-FM
 KGB (AM)
-KGDC
 KGGI
 KGHM (AM)
-KGHP
 KGLI
 KGLX
 KGME
-KGMI
 KGMY
-KGNW
 KGOR
 KGOT
-KGRG-FM
-KGRG (AM)
-KGTK
-KHB60
 KHEY-FM
 KHEY (AM)
 KHFI-FM
@@ -228,11 +141,9 @@ KHKN
 KHKS
 KHKZ
 KHOW
-KHTP
 KHTS-FM
 KHTY
 KHUD
-KHUH-LP
 KHVH
 KHVN
 KHYL
@@ -243,21 +154,13 @@ KIIS-FM
 KIIX (AM)
 KIIZ-FM
 KIKI (AM)
-KING-FM
-KING-TV
 KIOC
 KIOI
 KION (AM)
 KIOZ
-KIRO-FM
-KIRO (AM)
 KISC
 KISO (FM)
 KISQ
-KISW
-KITZ
-KIT (AM)
-KIXI
 KIZS
 KIZZ
 KJAQ
@@ -272,50 +175,31 @@ KJYO
 KKBD
 KKCW
 KKDM
-KKDZ
 KKED
 KKFG
 KKGM
 KKIX
 KKLI
-KKMO
 KKMY
-KKNW
-KKOL (AM)
 KKRQ
 KKRZ
-KKSF (AM)
 KKSY-FM
 KKTX (AM)
-KKWF
-KKWN
-KKXA
 KKXL-FM
 KKXL (AM)
 KKYS
-KKZU (Washington)
 KKZX
 KLAC
-KLAY
-KLCK (AM)
-KLFE
 KLFX
 KLOU
 KLSD
-KLSW
-KLSY
 KLTC
 KLTH
 KLVI
 KMAG (FM)
-KMAS (AM)
-KMAX (AM)
 KMCX-FM
 KMEL
 KMFX-FM
-KMGP-LP
-KMIA (AM)
-KMIH
 KMJM (AM)
 KMJX
 KMMA (FM)
@@ -329,27 +213,17 @@ KMXP
 KMXR
 KMYI
 KMYT (FM)
-KNCL518
 KNCN
-KNDD
 KNEW (AM)
 KNFX-FM
-KNHC
 KNIX-FM
-KNKX
-KNLI-LP
 KNRS-FM
 KNRS (AM)
 KNST
-KNTB
-KNTS (AM)
-KNWN-FM
-KNWN (AM)
 KOA (AM)
 KOCN
 KODA
 KODJ
-KODX-LP
 KOGA-FM
 KOGA (AM)
 KOGO (AM)
@@ -357,37 +231,26 @@ KOHT
 KOKQ
 KOLT-FM
 KOLZ (FM)
-KONA (AM)
-KONP
 KOSF
 KOSO
 KOST
 KOSY-FM
 KOY
-KOZI (AM)
 KPAW
 KPEK
 KPEZ
 KPHT
-KPLZ-FM
-KPNW-FM
 KPOJ
-KPQ (AM)
 KPRC-FM
 KPRC (AM)
 KPRR
 KPWK (AM)
 KQBT
 KQDY
-KQES-LP
 KQHT
-KQMV
 KQNT
 KQOD
 KQQL
-KQQQ
-KQWZ-LP
-KQXI
 KQXT-FM
 KQXX-FM
 KRAB
@@ -395,20 +258,15 @@ KRBB
 KRCH
 KRDU
 KRFX
-KRIZ
-KRKO
 KRPT
 KRQQ
 KRRL
 KRRZ
 KRVE
-KRWM
 KRYS-FM
 KRZR
 KSAB
-KSBN (AM)
 KSD (FM)
-KSER
 KSEZ
 KSFT-FM
 KSLZ
@@ -423,78 +281,54 @@ KSSN
 KSSS
 KSSX
 KSTE
-KSUH
-KSWD (FM)
 KSWF
-KTAH-LP
 KTBT
 KTBZ-FM
 KTBZ (AM)
 KTCL
 KTCZ-FM
-KTDD (FM)
 KTEG
-KTEL (AM)
 KTEX
 KTGX
 KTHR
 KTKR
 KTLK-FM
-KTLK (AM)
 KTMQ
 KTOK
 KTOM-FM
 KTOZ-FM
-KTQA-LP
 KTRA-FM
 KTRH
 KTSM-FM
 KTSM (AM)
 KTST
-KTTH
 KTZN
 KTZR (AM)
 KUBE (AM)
-KUBE (FM)
 KUBT
 KUCD
-KUCP-LP
-KUJ (AM)
 KUNO (AM)
-KUOW-FM
-KUPS
 KUUL
 KVDU
 KVET-FM
 KVET (AM)
-KVI
-KVI (AM)
 KVJM
 KVNS
-KVRU-LP
-KVSH-LP
-KVTI
 KVUU
 KVVS
 KWBL
-KWFJ
 KWHN
-KWJZ-LP
 KWNR
 KWNW
 KWSL
 KWSX
 KWTX-FM
 KWTX (AM)
-KWYZ
 KXBG
 KXEW
 KXIC
 KXJM
 KXKT
-KXLE (AM)
-KXLY (AM)
 KXMR
 KXNO-FM
 KXNO (AM)
-KXPA

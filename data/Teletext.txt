@@ -1,283 +1,70 @@
 1080i
 1080p
-180-line television system
-1seg
-343-line television system
-375-line television system
-405-line television system
-441-line television system
-455-line television system
 480i
-480p
-4K resolution
-525 lines
-567-line television system
-576i
-576p
-625 lines
-7-bit ASCII
 720p
-819 line
-8K resolution
-ARD (broadcaster)
 ASCII
-ATSC 3.0
-ATSC standards
-Active Format Description
-Advanced Audio Coding
 Advanced Video Coding
-Aertel
 Afrikaans
-Analog television
-Antiope (teletext)
-Application software
-Audio Video Standard
-Audio signal
-Austext
 Australia
-B-MAC
 BBC
-BBC Cheese Wedge
-BBC Micro
 BBC News
-BBC Red Button
 Bandwidth (computing)
-Bandwidth (signal processing)
-Basque language
 Belgium
-Binary file
-Bits per second
 Brazil
-British Telecom
-Broadcast-safe
-Broadcast flag
-Broadcasting (networking)
-CCIR System A
-CCIR System B
-CCIR System C
-CCIR System D
-CCIR System E
-CCIR System G
-CCIR System H
-CCIR System I
-CCIR System K
-CCIR System L
-CCIR System M
-CCIR System N
-CEPT1
-CGMS-A
-CNN International
-CVBS
 Canada
-Catalan language
-Ceefax
 China
-ChinaSat 9
-China Multimedia Mobile Broadcasting
 Chinese characters
-CiteSeerX (identifier)
-Clear-Vision
 Closed captioning
 Colombia
-Crowdsourcing
-DTS (sound system)
-DVB
-DVB-CPCM
-DVB-TXT
-DVB-VBI
-DVB 3D-TV
 Denmark
-Digital Cinema Initiative
-Digital Terrestrial Multimedia Broadcast
-Digital Video Broadcasting
-Digital cinema
-Digital multimedia broadcasting
-Digital switchover dates in the United Kingdom
 Digital television
-Digitiser
-Display motion blur
 Doi (identifier)
-Dolby AC-4
-Dolby Digital
-Dumb Terminal
-Dutch public broadcasting system
-Dynamic Resolution Adaptation
-EIA-608
-EIAJ MTS
-ETSI
-Electra (teletext)
 Electronic program guide
-Enhanced-definition television
-Extended Data Services
-ExtraVision
-Field-sequential color system
 Finland
 France
-Galician language
-General Post Office
 Germany
-Ghost-canceling reference
 Guide Plus
-H.262/MPEG-2 Part 2
-HD-MAC
-Hamming code
-Hexadecimal
-High-Efficiency Advanced Audio Coding
-High-definition television
-High Efficiency Video Coding
 ISBN (identifier)
-ISDB
-ISDB-T International
-ITU-R
-ITV (TV network)
-Independent Television Authority
 India
-InfoChammel
-Infonet
-Intercast
-Interlaced video
 Internet
 Ireland
 Italy
-JTES
 Japan
-La7
-Least significant bit
-Linear pulse-code modulation
-List of teletext services
-Low-definition television
 MHEG-5
-MPEG-1 Audio Layer II
 MPEG-4 Part 2
 MPEG-H 3D Audio
 MPEG Multichannel
-MPEG transport stream
-MTV (Italy)
 Malaysia
-Mbit/s
-Mechanical television
-MediaCorp
-MediaCorp Teletext
-Mediaset
-Mediavideo
-Memory buffer
-Minitel
-MobaHo!
 Modem
-Most significant bit
-Mullard SAA5050
-Multichannel television sound
-Multimedia Home Platform
-Multiple sub-Nyquist sampling encoding
-Multiplexed Analogue Components
-Museum of Teletext Art
-NABTS
-NAPLPS
-NBC Teletext
-NHK
-NICAM
-NTSC
-NTSC-J
-NU.nl
-Nederlandse Omroep Stichting
 Netherlands
 New Zealand
-NexTView
-Non-return-to-zero
 Norway
-Norwegian Broadcasting Corporation
-ORACLE (Teletext)
-ORACLE (teletext)
 Online chat
-PAL
-PAL-M
-PALplus
-PC Pro
-Parity bit
-Park Avenue (teletext soap)
 Philips
-Philips P2000
 Poland
-Prestel
 Prison
-Programme Delivery Control
-Progressive scan
-Pulse-code modulation
-Push-button telephone
-RAI
 RSS
 RTÉ
-RTÉ Aertel
-Radio Data System
 Raspberry Pi
-Remote control
-Republic of Ireland
-Reverse Standards Conversion
 Reverse engineering
 S2CID (identifier)
-SECAM
-SWISS TXT
-Sbectel
-Second audio program
 September 11 attacks
-Serbia and Montenegro
-Set-top box
 Seven Network
 Singapore
 Sixel
-Sky Text
-Sound-in-Syncs
 South Africa
-Soviet Central Television
 Spain
-Standard-definition television
 Standardization
-Surround sound
 Sweden
-TVNZ
-TVNZ Teletext
-Telesoftware
 Teletex
-Teletext Ltd.
 Teletext character set
-Teletext ČT
-Televideo (teletext)
 Television
-Television standards conversion
-Television systems before 1940
 Television transmitter
-Telidon
-Test card
-Text semigraphics
-Transistor-transistor logic
 Turkey
-Turkish language
-Tweakers
-Téacs TG4
-Ukraine
-Ultra-high-definition television
 United Kingdom
 United States
-VIT signals
-VRT (broadcaster)
-Vertical Blanking Interval
-Vertical blanking interval
-Vertical interval timecode
 Video
-Video Encoded Invisible Light
-Video Program System
-Video Programming System
-Video Programming by Teletext
-Video capture
-Video on demand
-Video processing
 Videotex
-Viewdata
-Western Latin character sets (computing)
-Widescreen signaling
-Wireless World
 World System Teletext
 World Wide Web
-Yle
 YouTube
-Zweikanalton

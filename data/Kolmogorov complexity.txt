@@ -1,56 +1,27 @@
-842 (compression algorithm)
-A-law algorithm
 ASCII
 Abstract logic
 Ackermann set theory
-Adaptive Huffman coding
-Adaptive coding
-Adaptive differential pulse-code modulation
 Aleph number
-Algebraic code-excited linear prediction
 Algebraic logic
-Algorithmic information theory
-Algorithmic probability
-Algorithmically random sequence
 Alphabet (formal languages)
-Andrey Kolmogorov
 ArXiv (identifier)
 Argument
-Arithmetic coding
 Arity
-Asymmetric numeral systems
 Atomic formula
 Atomic sentence
-Audio codec
 Automata theory
 Automated theorem proving
-Average bitrate
 Axiom
 Axiom of choice
 Axiom schema
 Axiomatic system
-Axiomatization of Boolean algebras
 Banach–Tarski paradox
-Bayesian probability
-Berry's paradox
-Berry paradox
 Bibcode (identifier)
-Big-O notation
 Bijection
-Binary entropy function
 Binary operation
-Bit
-Bit rate
-Blum axioms
 Boolean algebra
 Boolean algebras canonically defined
 Boolean function
-Brotli
-Burrows–Wheeler transform
-Busy beaver
-Byte pair encoding
-Bzip2
-Canonical Huffman code
 Cantor's diagonal argument
 Cantor's paradox
 Cantor's theorem
@@ -60,96 +31,53 @@ Categorical theory
 Category (mathematics)
 Category of sets
 Category theory
-Chain code
-Chain rule for Kolmogorov complexity
-Chaitin's constant
-Chris Wallace (computer scientist)
-Chroma subsampling
 Church encoding
 Church–Turing thesis
-CiteSeerX (identifier)
 Class (set theory)
 Classical logic
-Code-excited linear prediction
-Code golf
-Coding tree unit
 Codomain
-Color space
 Compactness theorem
-Companding
 Complement (set theory)
 Complete theory
-Complexity
-Compressed data structure
-Compressed suffix array
-Compression artifact
 Computability theory
 Computable function
 Computable set
 Computably enumerable set
-Computation
 Computer program
 Computer science
 Concrete category
 Conservative extension
 Consistency
-Constant bitrate
 Constructible universe
 Construction of the real numbers
 Constructive set theory
-Context mixing
-Context tree weighting
 Continuum hypothesis
-Convolution
 Countable set
 Data compression
-Data compression symmetry
 Data structure
-Daubechies wavelet
-Deblocking filter
 Decidability (logic)
 Decision problem
-Deductive system
-Deflate
-Delta encoding
-Delta modulation
-Descriptive complexity theory
 Diagram (mathematical logic)
-Dictionary coder
-Differential pulse-code modulation
 Discrete cosine transform
-Discrete sine transform
-Discrete wavelet transform
 Display resolution
 Doi (identifier)
 Domain of a function
-Dynamic Markov compression
-Dynamic range
 Element (mathematics)
 Elementary diagram
 Elementary equivalence
 Elementary function arithmetic
-Elias delta code
-Elias gamma coding
-Embedded zerotrees of wavelet transforms
 Empty set
 Entropy (information theory)
-Entropy coding
 Enumeration
 Equiconsistency
 Equivalence relation
 Euclid's Elements
 Euclidean geometry
 Existential quantification
-Exponential-Golomb coding
 Expression (mathematics)
 Extension by definitions
 Extension by new constant and function names
 Extensionality
-FM-index
-Fast Fourier transform
-Fibonacci coding
-Film frame
 Finitary relation
 Finite-valued logic
 Finite model theory
@@ -160,32 +88,20 @@ Forcing (mathematics)
 Formal grammar
 Formal language
 Formal proof
-Formal semantics (logic)
 Formal system
 Formation rule
 Foundations of geometry
 Foundations of mathematics
-Fourier transform
-Fractal
-Fractal compression
 Frame rate
 Free logic
 Free variables and bound variables
-Full employment theorem
 Function (mathematics)
 Functional predicate
 Fuzzy set
 General set theory
-Geometric series
-Golomb coding
-Grammar-based code
-Grammar induction
-Gregory Chaitin
 Grothendieck universe
 Ground expression
-Ground formula
 Gödel's completeness theorem
-Gödel's incompleteness theorem
 Gödel's incompleteness theorems
 Gödel numbering
 Halting problem
@@ -195,75 +111,37 @@ Higher-order logic
 Hilbert's axioms
 Hilbert system
 History of logic
-History of mathematical logic
 Huffman coding
-Hutter Prize
 ISBN (identifier)
 ISSN (identifier)
 Image (mathematics)
 Image compression
-Image resolution
 Inaccessible cardinal
-Incompressible string
-Incremental encoding
 Independence (mathematical logic)
-Indirect argument
-Inductive reasoning
 Inference
 Infinite-valued logic
 Infinite set
 Information theory
 Inhabited set
 Injective function
-Interlaced video
 Interpretation (logic)
 Interpretation (model theory)
-Interpretation function
 Interpreter (computing)
 Intersection (set theory)
 Isomorphism
 JSTOR (identifier)
 Java (programming language)
-Juergen Schmidhuber
-Karhunen–Loève theorem
-Kolmogorov structure function
-Kripke's theory of truth
 Kripke–Platek set theory
-LHA (file format)
-LZ4 (compression algorithm)
-LZ77 and LZ78
-LZFSE
-LZJB
-LZRW
-LZWL
-LZX
 Lambda calculus
-Lapped transform
 Large cardinal
-Latency (audio)
 Lemma (mathematics)
-Lempel–Ziv–Markov chain algorithm
-Lempel–Ziv–Oberhumer
-Lempel–Ziv–Stac
-Lempel–Ziv–Storer–Szymanski
-Lempel–Ziv–Welch
-Leonid Levin
-Levenshtein coding
-Levenshtein distance
 Lindström's theorem
-Line spectral pairs
-Linear predictive coding
-Linear scale
-Lisp programming language
-List of Hilbert systems
 List of axioms
 List of first-order theories
 List of formal systems
 List of mathematical theories
 List of set identities and relations
 List of statements independent of ZFC
-Log area ratio
-Logarithmic scale
 Logic
 Logical biconditional
 Logical conjunction
@@ -275,61 +153,34 @@ Logical equality
 Logical equivalence
 Logical truth
 Logicism
-Lossless compression
-Lossy compression
-Lower bound
 Löwenheim–Skolem theorem
-MR (identifier)
-Macroblock
-Mandelbrot set
-Manuel Blum
 Many-valued logic
 Map (mathematics)
-Marcus Hutter
-Mark Adler
-Markov information source
-Martingale (probability theory)
 Material conditional
 Mathematical logic
 Mathematical object
 Mathematics
-Matthew effect (sociology)
-Measure theory
 Metalanguage
-Ming Li
 Minimal axioms for Boolean algebra
-Minimum message length
 Model complete theory
 Model of computation
 Model theory
-Modified Huffman coding
-Modified discrete cosine transform
 Monadic predicate calculus
 Monadic second-order logic
 Morse–Kelley set theory
-Motion compensation
-Motion estimation
-Motion vector
-Move-to-front transform
-Multiple discovery
-Mutual information
 NP (complexity)
 Naive set theory
 Natural deduction
-Natural number
 Negation
 New Foundations
 Non-Euclidean geometry
 Non-logical symbol
 Non-standard model
 Non-standard model of arithmetic
-Nyquist–Shannon sampling theorem
-One-way function
 Open formula
 Operation (mathematics)
 Ordinal analysis
 Ordinal number
-PAQ
 PMC (identifier)
 PMID (identifier)
 P (complexity)
@@ -337,93 +188,54 @@ P versus NP problem
 Paradoxes of set theory
 Partition of a set
 Pascal (programming language)
-Peak signal-to-noise ratio
 Peano axioms
 Philosophy of mathematics
-Pigeonhole principle
 Pixel
-Portable Network Graphics
 Power set
 Predicate (mathematical logic)
-Predicate logic
 Predicate variable
-Prediction by partial matching
-Prefix code
 Primitive recursive arithmetic
 Primitive recursive function
 Principia Mathematica
 Probability
 Programming language
-Proof by contradiction
 Proof of impossibility
 Proof theory
 Proposition
 Propositional calculus
 Propositional formula
 Propositional variable
-Pseudo-code
-Psychoacoustics
-Pyramid (image processing)
-Q.E.D.
 Quantifier (logic)
 Quantifier rank
-Quantization (image processing)
-Quantization (signal processing)
-Randomness
-Range coding
-Rate–distortion theory
-Ray Solomonoff
-Re-Pair
 Recursion
-Recursive set
-Redundancy (information theory)
 Relation (mathematics)
 Reverse mathematics
 Robinson arithmetic
 Rule of inference
-Run-length encoding
 Russell's paradox
 S2CID (identifier)
-Sample entropy
-Sampling (signal processing)
 Satisfiability
 Saturated model
 Schröder–Bernstein theorem
 Second-order arithmetic
 Second-order logic
-Self-delimiting program
-Self-extracting archive
 Self-verifying theories
 Semantic theory of truth
 Semantics of logic
 Sentence (mathematical logic)
 Sequent calculus
-Sequitur algorithm
 Set (mathematics)
-Set partitioning in hierarchical trees
 Set theory
-Shannon coding
-Shannon–Fano coding
-Shannon–Fano–Elias coding
 Signature (logic)
-Silence compression
 Singleton (mathematics)
 Skolem arithmetic
-Smallest grammar problem
-Snappy (compression)
-Solomonoff's theory of inductive inference
-Sound quality
 Soundness
 Spectrum of a sentence
 Spectrum of a theory
-Speech coding
 Square of opposition
-Standard test image
 Strength (mathematical logic)
 String (computer science)
-String (formal languages)
 Structure (mathematical logic)
-Sub-band coding
 Substitution (logic)
 Substructure (mathematics)
 Supertask
@@ -434,43 +246,30 @@ Syntax (logic)
 T-schema
 Tarski's axiomatization of the reals
 Tarski's axioms
-Tarski's theory of truth
 Tarski's undefinability theorem
 Tarski–Grothendieck set theory
 Tautology (logic)
 Term (logic)
 Term logic
-Texture compression
 Theorem
-Theories of truth
 Theory (mathematical logic)
 Three-valued logic
-Timeline of information theory
 Timeline of mathematical logic
 Transfer principle
-Transform coding
 Transitive set
 True arithmetic
 Truth predicate
 Truth table
 Truth value
-Tunstall coding
-Turing complete
-Turing degree
 Turing machine
 Type (model theory)
 Type theory
-Ultrafilter (set theory)
 Ultraproduct
-Unary coding
 Uncountable set
 Undecidable problem
-Uniform distribution (discrete)
 Uninterpreted function
 Union (set theory)
 Uniqueness quantification
-Universal Turing machine
-Universal code (data compression)
 Universal quantification
 Universal set
 Universe (mathematics)
@@ -478,17 +277,9 @@ Up to
 Urelement
 Validity (logic)
 Variable (mathematics)
-Variable bitrate
 Venn diagram
 Video
-Video codec
-Video compression picture types
-Video quality
 Von Neumann universe
 Von Neumann–Bernays–Gödel set theory
-Warped linear predictive coding
-Wavelet transform
 Well-formed formula
 Zermelo–Fraenkel set theory
-Zstd
-Μ-law algorithm

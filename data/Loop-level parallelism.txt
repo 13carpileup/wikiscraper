@@ -6,7 +6,6 @@ Shared memory
 Coarray Fortran
 Instruction window
 Dryad (programming)
-Boost (C++ libraries)
 Global Arrays
 Threading Building Blocks
 Doi (identifier)
@@ -20,19 +19,15 @@ S2CID (identifier)
 Parallel Extensions
 Systolic array
 Vector processor
-C++ AMP
 Multithreading (computer architecture)
 Single instruction, single data
 Instruction-level parallelism
 Thread (computing)
-Serializability
 Parallel Virtual Machine
 Embarrassingly parallel
 Grid computing
 Hardware acceleration
-Data structures
 Deterministic algorithm
-Process scheduling
 Unified Parallel C
 Bulldozer (microarchitecture)
 Cache invalidation
@@ -53,7 +48,6 @@ Semiconductor memory
 Semaphore (programming)
 Computer multitasking
 Cloud computing
-ZPL (programming language)
 Flynn's taxonomy
 Parallel external memory
 Cilk
@@ -73,7 +67,6 @@ Task parallelism
 Array (data structure)
 Parallel computing
 Distributed memory
-DOACROSS parallelism
 Implicit parallelism
 Analysis of parallel algorithms
 Cost efficiency
@@ -90,12 +83,10 @@ Parallel RAM
 Computer network
 Concurrency (computer science)
 Distributed shared memory
-Control flow
 Application checkpointing
 Speedup
 OpenACC
 Amdahl's law
-Message passing
 Deadlock (computer science)
 Computer cluster
 API
@@ -109,14 +100,11 @@ Non-uniform memory access
 Multiple instruction, single data
 Parallel slowdown
 Process (computing)
-Random access
 Dataflow architecture
 Uniform memory access
 Memory-level parallelism
 Temporal multithreading
 GPUOpen
-Parallelism (computing)
-Software programming
 Cache-only memory architecture
 Charm++
 ROCm

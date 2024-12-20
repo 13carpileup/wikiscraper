@@ -1,10 +1,8 @@
 AC motor
-Aerodynamic
 Albert Einstein
 Alessandro Volta
 Alfred-Marie Liénard
 Alternating current
-Ampere
 Ampère's circuital law
 André-Marie Ampère
 Bremsstrahlung
@@ -14,23 +12,17 @@ Charge density
 Charged particle
 Charles-Augustin de Coulomb
 Charles Proteus Steinmetz
-Chemical shift
 Classical electromagnetism
 Classical electromagnetism and special relativity
-Closed curve
 Computational electromagnetics
-Conventional current
 Coulomb's law
 Covariant formulation of classical electromagnetism
 Curl (mathematics)
 Current density
 Cyclotron radiation
 DC motor
-Darwin Lagrangian
-Dirac delta function
 Direct current
 Displacement current
-Displacement vector
 Doi (identifier)
 Eddy current
 Electret
@@ -62,12 +54,10 @@ Electromotive force
 Electrostatic discharge
 Electrostatic induction
 Electrostatics
-Elliptic integrals
 Emil Lenz
 Emil Wiechert
 Faraday's law of induction
 Four-current
-Four-force
 Franz Ernst Neumann
 Félix Savart
 Gauss's law
@@ -78,7 +68,6 @@ Gustav Kirchhoff
 Gyrator–capacitor model
 Hans Christian Ørsted
 Heinrich Hertz
-Helmholtz coil
 Hendrik Lorentz
 Hermann von Helmholtz
 Hippolyte Fizeau
@@ -87,10 +76,7 @@ Humphry Davy
 ISBN (identifier)
 Inductance
 Induction motor
-Infinitesimal
-Inhomogeneous electromagnetic wave equation
 Insulator (electricity)
-Integration by parts
 J. J. Thomson
 James Clerk Maxwell
 James Prescott Joule
@@ -104,8 +90,6 @@ Joule heating
 Kirchhoff's circuit laws
 Larmor formula
 Lenz's law
-Line integral
-Linear differential equation
 Linear motor
 List of electrical phenomena
 List of textbooks in electromagnetism
@@ -113,23 +97,17 @@ Liénard–Wiechert potential
 London equations
 Lord Kelvin
 Lorentz force
-Lorentz transformation
-Lorentz transformations
 Magnetic circuit
 Magnetic complex reluctance
-Magnetic constant
 Magnetic field
 Magnetic flux
 Magnetic moment
 Magnetic reluctance
-Magnetic sail
 Magnetic scalar potential
-Magnetic susceptibility
 Magnetic vector potential
 Magnetism
 Magnetization
 Magnetomotive force
-Magnetostatic
 Magnetostatics
 Mathematical descriptions of the electromagnetic field
 Maxwell's equations
@@ -146,37 +124,21 @@ Permeability (electromagnetism)
 Permeance
 Permittivity
 Physics
-Pierre-Simon Laplace
 Polarization density
 Poynting vector
-Random House Webster's Unabridged Dictionary
 Relativistic electromagnetism
 Resonator
-Retarded potential
 Right-hand rule
-Rita G. Lerner
 Rotor (electric)
-SI
 Series and parallel circuits
 Siméon Denis Poisson
-Solenoid
 Static electricity
 Stator
-Superposition principle
 Synchrotron radiation
-Tesla (unit)
-The Feynman Lectures on Physics
 Transformer
 Triboelectric effect
-Unit vector
-Vector (geometry)
-Vector calculus identities
-Vector sum
 Velocity
 Voltage
-Volume element
-Vortex
-Vorticity
 Watt
 Waveguide (radio frequency)
 Wilhelm Eduard Weber

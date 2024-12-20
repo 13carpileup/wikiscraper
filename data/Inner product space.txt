@@ -1,275 +1,80 @@
-Absolute homogeneity
-Academic Press
-Adjoint operator
 Affine transformation
-Aleph-null
-Almost surely
-Angle
-Angle brackets
-Antilinear map
-Approximation property
-Balanced set
-Banach algebra
-Banach space
-Banach–Alaoglu theorem
-Banach–Mazur distance
-Barrelled space
-Basic Linear Algebra Subprograms
 Basis (linear algebra)
-Besov space
-Bessel's inequality
 Bijective
 Bilinear form
 Bilinear map
-Binomial expansion
-Biorthogonal system
-Bivector
 Block matrix
 Bounded operator
-Bra-ket
 Bra–ket notation
 C*-algebra
-Calculus of variations
 Cambridge University Press
 Cardinality
-Cartesian coordinates
-Cauchy sequence
 Cauchy–Schwarz inequality
-Change of basis
-Choquet theory
 Clifford algebra
-Closed graph theorem (functional analysis)
-Closure (topology)
 Compact operator
-Compact operator on Hilbert space
-Comparison of linear algebra libraries
-Complete metric space
-Complete topological vector space
 Complex conjugate
 Complex number
-Complex vector space
-Conjugate transpose
-Continuous linear operator
-Cosine similarity
 Cramer's rule
-Cross product
-Data analysis
-Definite bilinear form
-Dense subset
-Densely defined operator
 Determinant
-Differential form
 Differential geometry
-Dimension (mathematics)
 Dimension (vector space)
-Direct sum of modules
-Distribution (mathematics)
 Doi (identifier)
 Dot product
 Dual space
 Eigenvalues and eigenvectors
-Energetic space
-Eric Schechter
 Euclidean geometry
-Euclidean space
-Euclidean vector
-Euclidean vector space
-Expected value
 Exterior algebra
-Exterior product
 Field (mathematics)
-Floating-point arithmetic
-Fourier series
-François Trèves
 Frobenius inner product
-Fréchet space
-Function space
 Functional analysis
-Functional calculus
 Gaussian elimination
-Gelfand–Naimark theorem
-Gelfand–Naimark–Segal construction
-Generalized function
 Geometric algebra
-Giuseppe Peano
-Glossary of functional analysis
 Glossary of linear algebra
 Graduate Texts in Mathematics
-Gram–Schmidt process
-Group algebra of a locally compact group
 Hadamard product (matrices)
-Hahn–Banach theorem
-Hamel dimension
-Hardy space
-Hausdorff maximal principle
-Hausdorff space
-Heat kernel
-Helmut H. Schaefer
-Hermitian adjoint
-Hermitian form
 Hermitian matrix
-Hilbert projection theorem
 Hilbert space
-Hilbert spaces
 Hilbert–Schmidt operator
-Hölder space
 ISBN (identifier)
 Identity matrix
-Imaginary part
-Index theorem
-Injective
 Inner product
-Integral linear operator
-Interior product
-Invariant subspace problem
-Invertible matrix
-Isometry
 JSTOR (identifier)
-Jean Dieudonné
-Jones polynomial
-Kakutani fixed-point theorem
-Kernel (linear algebra)
-Krein space
-Krein–Milman theorem
 Kronecker product
-L-semi-inner product
 Linear
 Linear algebra
-Linear combination
-Linear independence
 Linear map
-Linear span
 Linear subspace
-Linearly independent
-List of functional analysis topics
-Locally convex topological vector space
-Mahler's conjecture
 Mathematical induction
 Mathematics
 Matrix (mathematics)
-Matrix algebra
 Matrix decomposition
 Matrix multiplication
-Mazur–Ulam theorem
-McGraw-Hill Science/Engineering/Math
-Mercer's theorem
-Min-max theorem
-Minkowski distance
-Minkowski space
-Minor (linear algebra)
-Morphism
 Multilinear algebra
 Multilinear map
 Multivector
-Noncommutative geometry
-Nondegenerate form
 Norm (mathematics)
-Normal operator
 Normed vector space
-Nuclear operator
-Nuclear space
-Numerical linear algebra
-Numerical stability
 OCLC (identifier)
 Operation (mathematics)
-Operator algebra
-Operator theory
-Orlicz space
-Orthogonal basis
 Orthogonal complement
-Orthogonal matrix
 Orthogonality
-Orthogonality (mathematics)
 Orthonormal basis
-Outer product
-Outermorphism
-Outline of linear algebra
-Parallelogram law
-Parseval's identity
 Paul Dirac
-Paul Richard Halmos
-Peter D. Lax
 Physics
-Polarization identity
-Positive-definite matrix
-Prehilbert space
 Probability
-Productive matrix
 Projection (linear algebra)
-Pseudo-Euclidean space
-Pseudo-Riemannian manifold
-Ptolemy's inequality
-Pythagorean theorem
 Quantum mechanics
-Quotient space (linear algebra)
-Random variable
-Random vector
 Rank (linear algebra)
-Real and imaginary parts of a linear functional
-Real coordinate space
 Real number
-Real part
-Real vector space
-Reflexive space
-Restriction (mathematics)
-Riemann hypothesis
-Riemannian manifold
-Riesz representation theorem
-Row and column spaces
-Row and column vectors
 Scalar (mathematics)
 Scalar multiplication
-Scale factor
 Scaling (geometry)
-Schwartz space
-Segal–Bargmann space
-Self-adjoint operator
-Semi-norm
-Seminorm
-Separable space
-Sesquilinear form
-Seven-dimensional cross product
-Sign (mathematics)
-Sign convention
-Simple tensor
-Sobolev space
-Sparse matrix
-Spectral theorem
-Spectral theory of ordinary differential equations
-Spectrum of a C*-algebra
-Springer-Verlag
-Springer Publishing
-Surjective
-Sylvester's law of inertia
-Symmetric map
 Symmetric matrix
 System of linear equations
 Tensor
 Tensor product
-Tomita–Takesaki theory
-Topological quantum field theory
-Topological vector space
-Topology (structure)
 Trace (linear algebra)
 Trace class
-Transformation matrix
 Transpose
-Transpose of a linear map
-Triangle inequality
-Trigonometric polynomial
-Triple product
-Unbounded operator
-Uniform boundedness principle
-Unitary matrix
-Unitary operator
 Vector field
-Vector projection
 Vector space
-Von Neumann algebra
-Walter Rudin
-Weak topology
-Wedge product
-Weierstrass approximation theorem
-Weight function
-Wiley-Interscience
-Zorn's lemma

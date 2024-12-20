@@ -1,9 +1,6 @@
-/e/ (operating system)
-32-bit computing
 4MLinux
 64-bit computing
 ALT Linux
-ARM architecture
 AlmaLinux
 Alpine Linux
 Android-x86
@@ -17,28 +14,22 @@ Artix Linux
 Asahi Linux
 Astra Linux
 Asturix
-Aufs
 Austrumi Linux
 BLAG Linux and GNU
 BackBox
 BackTrack
-Berkeley Software Distribution
 Bharat Operating System Solutions
 BioSLAX
 BlackArch
 Black Lab Linux
 BlankOn Linux
 Bodhi Linux
-Bootstrapping (compilers)
-Bourne shell
-C++14
 CHAOS (operating system)
 CRUX
 C (programming language)
 Calculate Linux
 Caldera OpenLinux
 CalyxOS
-Cell (microprocessor)
 CentOS
 CentOS Stream
 Chakra (operating system)
@@ -48,33 +39,22 @@ ChromiumOS
 ClearOS
 Clear Linux OS
 ColorOS
-Command line interface
 Commodore OS
 Comparison of Linux distributions
 Container Linux
 Corel Linux
-Coupling (computer programming)
 CrDroid
 CrunchBang Linux
 Cub Linux
 CyanogenMod
-Cygnus Solutions
-Cygwin
 DEC Alpha
 Damn Small Linux
 Damn Vulnerable Linux
-Daniel Robbins (computer programmer)
-Darktable
 Dd (Unix)
 Debian
 Deepin
 DemoLinux
-Dependency graph
-Design philosophy
-Desktop computer
-Desktop environment
 Devuan
-DistroWatch
 DivestOS
 DoudouLinux
 Dreamlinux
@@ -90,46 +70,32 @@ Familiar Linux
 Feather Linux
 Fedora Linux
 Fire OS
-Firefox
 Firefox OS
 Floppyfw
 Foresight Linux
 FreeBSD
-FreeSBIE
 Free software
 FreedomBox
 Freespire
 Frugalware Linux
-GNOME
 GNU Compiler Collection
 GNU Core Utilities
 GNU Guix System
-GNU Hurd
 GNewSense
 GOS (operating system)
 Garuda Linux
 GeckoLinux
-Genkernel
-Gentoo/Alt
-Gentoo penguin
 GitHub
 GoboLinux
 Gobuntu
 GrapheneOS
 HandyLinux
-Hyperbola GNU/Linux-libre
-IA-32
-IBM Z
 ISBN (identifier)
 Immunix
-Init
 Instruction set architecture
 Internet Relay Chat
 IodéOS
-Itanium
 Jurix
-KDE
-KDE Plasma 5
 KDE neon
 KaOS
 KaiOS
@@ -143,32 +109,22 @@ Kongoni (operating system)
 Korora (operating system)
 Kubuntu
 Kwort Linux
-LWN.net
 LXLE Linux
 Libranet
-LibreOffice
 Lightweight Directory Access Protocol
 LinHES
 LineageOS
 Linpus Linux
 Linux
 LinuxTLE
-LinuxWorld Conference and Expo
 Linux Caixa Mágica
-Linux From Scratch
-Linux Journal
 Linux Lite
 Linux Mint
 Linux Router Project
 Linux distribution
 Linux for PlayStation 2
 Linux kernel
-List of Gentoo Linux derivatives
 List of Linux distributions
-List of tools to create Live USB systems
-Live CD
-Live USB
-Look and feel
 Lubuntu
 MCC Interim Linux
 MIPS architecture
@@ -181,13 +137,10 @@ Mandriva Linux
 Manjaro
 MeeGo
 Mer (software distribution)
-Meta (prefix)
 Miracle Linux
 Mobilinux
 Modular programming
 Monolithic kernel
-Mozilla
-Musix GNU+Linux
 Network Security Toolkit
 New Mexico
 NimbleX
@@ -195,24 +148,17 @@ Nitix
 NixOS
 Nobara Linux
 Nova (operating system)
-O'Reilly Media
-OSNews
 OmniROM
 One UI
 Open-source software
 OpenELEC
 OpenMandriva Lx
 OpenOffice.org
-OpenRC
 OpenSUSE
-OpenSolaris
 Open Enterprise Server
 Oracle Linux
-PA-RISC
 PCLinuxOS
-Package management system
 Package manager
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
@@ -220,17 +166,11 @@ Pentoo
 Peppermint OS
 Perl
 Pinguy OS
-Pipeline (Unix)
 PixelExperience
 Platypux
 Pop! OS
-Portage (software)
 Porteus (operating system)
 Porting
-Ports collection
-Position-independent code
-PowerPC
-Program optimization
 Programmer
 Programming language
 Public-key cryptography
@@ -238,9 +178,7 @@ Puppy Linux
 PureOS
 Python (programming language)
 Q4OS
-Qt (software)
 Qubes OS
-RAM drive
 ROSA Linux
 Raspberry Pi OS
 Red Hat Enterprise Linux
@@ -249,12 +187,9 @@ Red Star OS
 Reddit
 Remix OS
 Replicant (operating system)
-Repository (version control)
 Resurrection Remix OS
 Rocks Cluster Distribution
 Rocky Linux
-Rolling release
-SELinux
 SPARC
 SUSE Linux
 SUSE Linux Enterprise
@@ -264,7 +199,6 @@ Sabily
 Sailfish OS
 Salix OS
 Scientific Linux
-Self-hosting (compilers)
 Server (computing)
 Slackware
 Slax
@@ -279,22 +213,16 @@ Splashtop OS
 SteamOS
 Sunwah Linux
 SystemRescue
-Systemd
 T2 SDE
 Tails (operating system)
-Tar (computing)
-Tar (file format)
 TechCrunch
-The Register
 Think Blue Linux
 Tiny Core Linux
 Tizen
-Toolchain
 TopologiLinux
 Trisquel
 Turbolinux
 Turkix
-Tux (mascot)
 Ubuntu
 Ubuntu Budgie
 Ubuntu Cinnamon
@@ -306,22 +234,15 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Unreal Tournament 2003
-Uruk GNU/Linux
 User interface
-User space
 User space and kernel space
 VectorLinux
 Vine Linux
 Void Linux
 Wayback Machine
 Whonix
-Window manager
 Wubuntu
-X86-64
 XB Machine
-X Window System
 Xubuntu
 Yellow Dog Linux
 Zenwalk

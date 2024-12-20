@@ -1,54 +1,27 @@
-4K Disk Monitor System
-Adder (electronics)
-Address bus
 AdvFS
-AlphaServer
-AlphaStation
 Alpha 21164
 Alpha 21264
 Alpha 21364
 Alpha 21464
 AltaVista
-Aluminium interconnect
-Application-specific integrated circuit
-Arithmetic logic unit
 BASIC-8
-Barrel shifter
-Binary multiplier
-Booth algorithm
-Branch (computer science)
-Branch misprediction
-Branch prediction
 Bus (computing)
-Byte (magazine)
 CPU Wars
-CPU cache
 CVAX
 Character encoding
-Chipset
-Circuit design
 Code page 1287
 Code page 1288
 Commercial Operating System
 Compaq
 Computer hardware
 Computer terminal
-Computergram International
-Control unit
 Cray
-Cray T3D
 DECUS
-DEC 2000 AXP
-DEC 3000 AXP
-DEC 4000 AXP
-DEC 7000/10000 AXP
 DEC Alpha
-DEC BATCH-11/DOS-11
 DEC GT40
 DEC Hebrew
 DEC J-11
 DEC MICA
-DEC Multia
 DEC PRISM
 DEC RADIX 50
 DEC Special Graphics
@@ -57,7 +30,6 @@ DEC T-11
 DEC Technical Character Set
 DEC V-11
 DECnet
-DECpc AXP 150
 DECtalk
 DECtape
 DECwriter
@@ -67,37 +39,20 @@ Digital Equipment Corporation
 Digital Federal Credit Union
 Digital Linear Tape
 Digital Storage Systems Interconnect
-Digital UNIX
-Dirk Meyer
 Dynamic debugging technique
 Dynamically Redefined Character Set
-ECC memory
-Electronic News
 Embedded system
-Encore Computer
-Error-correcting code
 FOCAL (programming language)
 FX!32
 Firefly (cache coherence protocol)
-Firmware
 Flip-Chip module
-Floating-point unit
-Floating point unit
-Framebuffer
 Gold key (DEC)
 Gordon Bell
-Graphics accelerator
 HP-Interex
 Harlan Anderson
-Heat spreader
-Heatsink
-Hudson, Massachusetts
 IBM
-IEEE Micro
-Instruction pipeline
 Instruction set architecture
 Interactive Application System
-International Solid-State Circuits Conference
 Ken Olsen
 Kilobyte
 LK201
@@ -110,115 +65,62 @@ MUMPS
 Maintenance Operations Protocol
 Mass Storage Control Protocol
 Massbus
-Memory bus
-Memory controller
 MicroVAX 78032
 Micrometre
 Microprocessor
-Microprocessor Report
-Mitsubishi Electric
 Multinational Character Set
-Multiplicand
-Multiprocessor
 NVAX
 National Replacement Character Set
 NetApp
-NetApp filer
-OS/8
 On-line Debugging Tool
 OpenVMS
 Operating system
 Original equipment manufacturer
-Out-of-order execution
-Overclocking
 PALcode
 PDP-11 architecture
 PDP-7
-POWER2
-Page (computer science)
-Page table
-Parity bit
 Personal computer
-Phase-locked loop
-Physical address
-Physical memory
-Pin grid array
 Processor (computing)
 Programming language
 Q-Bus
 RA90
 RK05
 RL02
-RSTS/E
 RSX-11
-RSX-15
 RT-11
 ReGIS
 Record Management Services
-Register file
 Rigel (microprocessor)
 Robert Palmer (computer businessman)
-Second source
-Semiconductor fabrication plant
 Server (computing)
-Sign bit
-Single-board computer
 Sixel
-South Queensferry
 Standard Disk Interconnect
 Star coupler
-Static random access memory
 StrongARM
-Supercomputer
-Superpipelined
-Superscalar
 Synchronous Backplane Interconnect
 System Module
-System Reference Manual
-TD/SMP
 TOPS-10
 TOPS-20
-TSS/8
 TU81
 TURBOchannel
-Tadpole Computer
 The Ultimate Entrepreneur
-Translation lookaside buffer
 Ultrix
 Unibus
-Uniprocessor system
 VAX
 VAXBI bus
 VAXELN
 VAX MACRO
-VRAM
 VT05
 VT100
 VT1000
-VT101
-VT102
-VT103
-VT105
-VT131
 VT180
 VT220
-VT240
-VT241
 VT320
-VT330
-VT340
 VT420
-VT510
 VT52
 VT520
-VT525
-VT55
-VT62
 VT640
-Virtual address
-Virtual memory
 Volt
 WPS-8
 Wayback Machine
 Windows NT
-Workstation

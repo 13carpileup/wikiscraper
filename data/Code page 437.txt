@@ -1,14 +1,7 @@
 !
-"
 $
-%
-&
 '
 (
-)
-+
-,
--
 0 (number)
 1
 2
@@ -25,18 +18,12 @@ $
 A
 ABICOMP character set
 ANSEL
-ANSI
 ANSI escape code
 API
 ARIB STD B24 character set
 ASCII
 ASMO 449
 ATASCII
-Addison-Wesley
-Alt code
-Alt codes
-Alt key
-Amstrad CP/M Plus character set
 Amstrad CPC character set
 Apple II character set
 ArmSCII
@@ -44,23 +31,12 @@ Asterisk
 Atari ST character set
 B
 BCD (character encoding)
-BEL (ASCII)
-BS (ASCII)
 Backslash
-Basque language
 Baudot code
-Beta (letter)
 Big5
-Bill Gates
 Binary Ordered Compression for Unicode
-Bitmap
 Bitstream International Character Set
-Box-drawing character
 BraSCII
-Braces (punctuation)
-Broken bar
-Bullet (punctuation)
-Bullet (typography)
 C
 C0 and C1 control codes
 CCSID
@@ -68,24 +44,17 @@ CDC display code
 CER-GS
 CESU-8
 CNS 11643
-CP1252
-CP850
-CR (ASCII)
 CSX+ Indic character set
 CSX Indic character set
 CS Indic character set
 CWI-2
 C string handling
 Casio calculator character sets
-Catalan language
-Cent (currency)
 Character encoding
 Character encodings in HTML
 Charset detection
-Check mark
 Chinese Character Code for Information Interchange
 Chinese telegraph code
-Chinese yuan
 Code page
 Code page 1006
 Code page 1008
@@ -102,17 +71,10 @@ Code page 1019
 Code page 1020
 Code page 1021
 Code page 1023
-Code page 1034
 Code page 1040
 Code page 1042
 Code page 1043
-Code page 1044
 Code page 1046
-Code page 1052
-Code page 1053
-Code page 1054
-Code page 1055
-Code page 1056
 Code page 1058
 Code page 1098
 Code page 1101
@@ -150,7 +112,6 @@ Code page 853
 Code page 855
 Code page 856
 Code page 857
-Code page 858
 Code page 859
 Code page 860
 Code page 861
@@ -167,7 +128,6 @@ Code page 896
 Code page 897
 Code page 899
 Code page 903
-Code page 904
 Code page 912
 Code page 915
 Code page 921
@@ -182,7 +142,6 @@ Code page 950
 Code page 951
 Code point
 Colon (punctuation)
-Color Graphics Adapter
 Comparison of Unicode encodings
 Compucolor II character set
 Control character
@@ -198,25 +157,18 @@ DIN 66003
 DIN 91379
 DKOI
 Danish language
-Datamaster (IBM)
-David Bradley (engineer)
 Delta (letter)
 Diacritic
 Diameter
 Digital Equipment Corporation
 Digital encoding of APL symbols
-Dingbat
-Dutch guilder
 E
 EBCDIC
 ELOT 927
 Element (mathematics)
 Empty set
 English language
-Enhanced Graphics Adapter
 Epsilon
-Eth
-Euro sign
 Exclamation mark
 Extended ASCII
 Extended Latin-8
@@ -224,7 +176,6 @@ Extended Unix Code
 F
 FOCAL character set
 Fieldata
-Fraction
 French language
 Full stop
 G
@@ -237,7 +188,6 @@ GEM character set
 GOST 10859
 GSM 03.38
 Galaksija (computer)
-Gender symbol
 German language
 Glyph
 Greater-than sign
@@ -248,17 +198,13 @@ HZ (character encoding)
 Halfwidth and fullwidth forms
 Han unification
 Hardware code page
-Hexadecimal
 Hong Kong Supplementary Character Set
 I
 IBM
 IBM AIX
-IBM Electric typewriter
-IBM Monochrome Display Adapter
 IBM PC
 IBM PC compatible
 IBM Personal Computer
-IEC-P27-1
 INIS-8
 INIS character set
 ISBN (identifier)
@@ -268,26 +214,6 @@ ISO-IR-182
 ISO-IR-197
 ISO-IR-200
 ISO-IR-68
-ISO/IEC 10367
-ISO/IEC 2022
-ISO/IEC 646
-ISO/IEC 8859
-ISO/IEC 8859-1
-ISO/IEC 8859-10
-ISO/IEC 8859-11
-ISO/IEC 8859-12
-ISO/IEC 8859-13
-ISO/IEC 8859-14
-ISO/IEC 8859-15
-ISO/IEC 8859-16
-ISO/IEC 8859-2
-ISO/IEC 8859-3
-ISO/IEC 8859-4
-ISO/IEC 8859-5
-ISO/IEC 8859-6
-ISO/IEC 8859-7
-ISO/IEC 8859-8
-ISO/IEC 8859-9
 ISO 2033
 ISO 5426
 ISO 5427
@@ -298,11 +224,7 @@ ITU T.61
 Icelandic language
 Indian Script Code for Information Interchange
 Inequality (mathematics)
-Intecolor/Compucolor 8001 character set
-Integral symbol
-Internet Assigned Numbers Authority
 Interpunct
-Intersection
 Iran System encoding
 Italian language
 J
@@ -323,13 +245,11 @@ KS X 1001
 KS X 1002
 Kamenický encoding
 L
-LF (ASCII)
 LST 1564
 LST 1590-4
 LY1 encoding
 Less-than sign
 Linux
-Long s
 Lotus International Character Set
 Lotus Multi-Byte Character Set
 M
@@ -354,7 +274,6 @@ Mac OS Hebrew
 Mac OS Icelandic encoding
 Mac OS Inuit
 Mac OS Keyboard encoding
-Mac OS Maltese/Esperanto encoding
 Mac OS Ogham
 Mac OS Roman
 Mac OS Romanian encoding
@@ -365,90 +284,57 @@ Mac OS Ukrainian encoding
 Macintosh Font X encoding
 Macintosh Latin encoding
 Magnetic ink character recognition
-Malay language
 Mazovia encoding
-Micro sign
 Microsoft
 Microsoft Corporation
-Microsoft Press
 Microsoft Windows
-Miscellaneous Technical
 Mojibake
 Mojikyō
 Morse code
 Morse code for non-Latin alphabets
-Mu (letter)
 Multinational Character Set
-Multiplication dot
 N
 NEC APC character set
-NON-BREAKING SPACE
 National Replacement Character Set
 NeXT character set
-Norwegian language
 Null character
 Number sign
-Numeric keypad
 O
-OEM code page
-OEM font
 OML encoding
 OMS encoding
 OT1 encoding
-Octet (computing)
-Ohm (unit)
 Omega
 P
 PETSCII
-Partial derivative
-Paul Allen
 Perso-Arabic Script Code for Information Interchange
-Phi (letter)
 Pi (letter)
 Pixel
-Portuguese language
 PostScript Latin 1 Encoding
 PostScript Standard Encoding
-Pound sterling
 Product (mathematics)
 Prosigns for Morse code
 Q
-Quaver
 R
 RISC OS character set
-ROM-BIOS
 RPL character set
 Read-only memory
 Russian Morse code
 S
-SAM Coupé character set
 SI 960
 SQUOZE
 Sega SC-3000 character set
 Semicolon
-Semigraphical character
-Semiquaver
 Sharp MZ character set
 Sharp pocket computer character sets
 Shift JIS
 Sigma
 Sinclair QL character set
 Slash (punctuation)
-Slashed zero
 Spanish language
-Spanish peseta
-Square brackets
-Square root
 Standard Compression Scheme for Unicode
-Stanford/ITS character set
 Stanford Extended ASCII
-Star Micronics
-Suit (cards)
-Summation
-Swedish language
 Symbol (typeface)
 T
-T.51/ISO/IEC 6937
 TI calculator character sets
 TRON (encoding)
 TRS-80 character set
@@ -459,15 +345,10 @@ Telegraph code
 Teletex
 Teletext
 Teletext character set
-Terminal (typeface)
 Thai Industrial Standard 620-2533
-The Unicode Consortium
 Theta
-Tooltip
 Transcode (character encoding)
 Triple bar
-Turkmen alphabet
-Turkmen language
 U
 US-ASCII
 UTF-1
@@ -480,21 +361,16 @@ Underscore
 Unicode
 Unicode Consortium
 Unicode control characters
-Unicode symbols
 Unified Hangul Code
-Universal Character Set
 Universal Coded Character Set
 V
-VGA-compatible text mode
 VISCII
 VSCII
 VT100 encoding
 VT220
 Variable-width encoding
-Variadic function
 Ventura International
 Vertical bar
-Video Graphics Array
 Videotex
 Videotex character set
 W

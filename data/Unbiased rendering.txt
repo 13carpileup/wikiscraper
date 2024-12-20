@@ -2,76 +2,49 @@
 2D computer graphics
 3D computer graphics
 3D projection
-3D rendering
 Affine transformation
-Aliasing
 Alpha compositing
 Anisotropic filtering
-Arion (software)
 Arnold (software)
 Back-face culling
-Beam tracing
-Bias (statistics)
 Blender (software)
-Caustic (optics)
-Cel shading
-Checkerboard rendering
-CiteSeerX (identifier)
 Clipping (computer graphics)
 Collision detection
 Comparison of vector graphics editors
-Computation
 Computer graphics
-Computer graphics (computer science)
 Computer graphics lighting
 Cone tracing
 Data
 Deferred shading
 Diffusion curve
-Error
 Fluid animation
 Global illumination
 Graphics software
 Hidden-surface determination
 High frequency
 Houdini (software)
-Image
 Image-based modeling and rendering
-Infinity
 Isometric video game graphics
 Kerkythea
 Layers (digital image editing)
 Lighting
-List of 3D animation software
 List of 3D computer graphics software
 List of 3D modeling software
 List of 3D rendering software
 List of computer graphics algorithms
-LuxRender
-Maxwell Render
-Mean
-Metropolis light transport
 Mode 7
-Noiseless
 Non-photorealistic rendering
 Octane Render
-Optimizing compiler
 Parallax scrolling
-Pat Hanrahan
 Path tracing
-Peter Shirley
-Photon mapping
 Physically based rendering
 Pixel
 Planar projection
-Point source
 Polygon mesh
 Raster graphics editor
-Ray casting
 Ray tracing (graphics)
 Real-time computing
 Reflection (computer graphics)
-Reflection seismology
 Rendering (computer graphics)
 Rotation (mathematics)
 Scaling (geometry)
@@ -79,19 +52,11 @@ Scanline rendering
 Shader
 Shading
 Shadow mapping
-Shadow volume
 Shear matrix
 Skybox (video games)
 Spectral rendering
-Standard deviation
 Surface triangulation
-Systematic errors
 Texel (graphics)
-Text-to-image model
-Translation (geometry)
 Triangle mesh
-Variance
-Vector graphics
-Volume rendering
 Voxel
 Wire-frame model

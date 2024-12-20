@@ -1,15 +1,7 @@
 !
-"
 $
-%
-&
 '
 (
-)
-*
-+
-,
--
 0
 1
 2
@@ -20,7 +12,6 @@ $
 7
 8
 9
-;
 =
 ?
 @
@@ -32,13 +23,9 @@ ARIB STD B24 character set
 ASCII
 ASMO 449
 ATASCII
-Acknowledge character
-Acute accent
-Amstrad CP/M Plus character set
 Amstrad CPC character set
 Apple II character set
 Apple Inc.
-Approximation
 ArmSCII
 Atari ST character set
 B
@@ -51,8 +38,6 @@ Big5
 Binary Ordered Compression for Unicode
 Bitstream International Character Set
 BraSCII
-Breve
-Bullet (typography)
 C
 C0 and C1 control codes
 CCSID
@@ -65,11 +50,8 @@ CSX Indic character set
 CS Indic character set
 CWI-2
 Cancel character
-Caron
 Carriage return
 Casio calculator character sets
-Cedilla
-Cent (currency)
 Character encoding
 Character encodings in HTML
 Charset detection
@@ -92,17 +74,10 @@ Code page 1019
 Code page 1020
 Code page 1021
 Code page 1023
-Code page 1034
 Code page 1040
 Code page 1042
 Code page 1043
-Code page 1044
 Code page 1046
-Code page 1052
-Code page 1053
-Code page 1054
-Code page 1055
-Code page 1056
 Code page 1058
 Code page 1098
 Code page 1101
@@ -141,7 +116,6 @@ Code page 853
 Code page 855
 Code page 856
 Code page 857
-Code page 858
 Code page 859
 Code page 860
 Code page 861
@@ -158,7 +132,6 @@ Code page 896
 Code page 897
 Code page 899
 Code page 903
-Code page 904
 Code page 912
 Code page 915
 Code page 921
@@ -177,7 +150,6 @@ Compucolor II character set
 Control character
 Cooke and Wheatstone telegraph
 Cork encoding
-Currency sign (generic)
 D
 DEC Hebrew
 DEC RADIX 50
@@ -187,45 +159,24 @@ DG International
 DIN 66003
 DIN 91379
 DKOI
-Dagger (typography)
-Dash
-Data link escape
-Degree symbol
-Delete character
 Delta (letter)
-Device Control 1
-Device Control 2
-Device Control 3
-Device Control 4
 Diacritic
 Diaeresis (diacritic)
 Digital Equipment Corporation
 Digital encoding of APL symbols
-Dot (diacritic)
-Dotless I
-Double acute accent
 E
 EBCDIC
 ELOT 927
-Ellipsis
-End of medium
-End of text
-End of transmission block
-End of transmission character
 English language
 Enquiry character
 Equals sign
 Escape character
-Euro sign
 Extended ASCII
 Extended Latin-8
 Extended Unix Code
 F
 FOCAL character set
 Fieldata
-File separator
-Fonts on Macintosh
-Form feed
 Full stop
 G
 GBK (character encoding)
@@ -238,19 +189,15 @@ GOST 10859
 GSM 03.38
 Galaksija (computer)
 Greater-than sign
-Group separator
 Guillemet
 H
 HP Roman
 HZ (character encoding)
 Han unification
 Hardware code page
-Hexadecimal
 Hong Kong Supplementary Character Set
-Horizontal tabulation
 I
 IBM AIX
-IEC-P27-1
 INIS-8
 INIS character set
 ISBN (identifier)
@@ -260,26 +207,6 @@ ISO-IR-182
 ISO-IR-197
 ISO-IR-200
 ISO-IR-68
-ISO/IEC 10367
-ISO/IEC 2022
-ISO/IEC 646
-ISO/IEC 8859
-ISO/IEC 8859-1
-ISO/IEC 8859-10
-ISO/IEC 8859-11
-ISO/IEC 8859-12
-ISO/IEC 8859-13
-ISO/IEC 8859-14
-ISO/IEC 8859-15
-ISO/IEC 8859-16
-ISO/IEC 8859-2
-ISO/IEC 8859-3
-ISO/IEC 8859-4
-ISO/IEC 8859-5
-ISO/IEC 8859-6
-ISO/IEC 8859-7
-ISO/IEC 8859-8
-ISO/IEC 8859-9
 ISO 2033
 ISO 5426
 ISO 5427
@@ -289,11 +216,7 @@ ISO 6862
 ITU T.61
 Indian Script Code for Information Interchange
 Inequality (mathematics)
-Infinity symbol
-Intecolor/Compucolor 8001 character set
-Integral symbol
 Interpunct
-Inverted question and exclamation marks
 Iran System encoding
 J
 JIS X 0201
@@ -319,7 +242,6 @@ LY1 encoding
 Left curly bracket
 Left square bracket
 Less-than sign
-Line feed
 Lotus International Character Set
 Lotus Multi-Byte Character Set
 M
@@ -330,7 +252,6 @@ MacArabic encoding
 MacFarsi encoding
 MacGreek encoding
 MacOS
-Mac OS 8
 Mac OS Armenian
 Mac OS Barents Cyrillic
 Mac OS Celtic
@@ -346,7 +267,6 @@ Mac OS Hebrew
 Mac OS Icelandic encoding
 Mac OS Inuit
 Mac OS Keyboard encoding
-Mac OS Maltese/Esperanto encoding
 Mac OS Ogham
 Mac OS Romanian encoding
 Mac OS Sámi
@@ -356,14 +276,12 @@ Mac OS Ukrainian encoding
 Macintosh
 Macintosh Font X encoding
 Macintosh Latin encoding
-Macron (diacritic)
 Magnetic ink character recognition
 Mazovia encoding
 Mojibake
 Mojikyō
 Morse code
 Morse code for non-Latin alphabets
-Mu (letter)
 Multinational Character Set
 Multiplication
 N
@@ -371,7 +289,6 @@ NEC APC character set
 National Replacement Character Set
 NeXT character set
 Negation
-Negative acknowledge character
 Non-breaking space
 Null character
 Number sign
@@ -380,32 +297,22 @@ OML encoding
 OMS encoding
 OT1 encoding
 Obelus
-Ogonek
 Omega
-Ordinal indicator
 P
 PETSCII
 Perso-Arabic Script Code for Information Interchange
-Pi
-Pilcrow
 PostScript Latin 1 Encoding
 PostScript Standard Encoding
-Pound sign
-Private Use (Unicode)
 Prosigns for Morse code
 Q
 Quotation mark
 R
 RISC OS character set
 RPL character set
-Record separator
-Registered trademark symbol
 Right curly bracket
 Right square bracket
-Ring (diacritic)
 Russian Morse code
 S
-SAM Coupé character set
 SI 960
 SQUOZE
 Section sign
@@ -413,24 +320,16 @@ Sega SC-3000 character set
 Sharp MZ character set
 Sharp pocket computer character sets
 Shift JIS
-Shift in
-Shift out
 Sinclair QL character set
 Slash (punctuation)
 Space character
-Square root
 Standard Compression Scheme for Unicode
-Stanford/ITS character set
 Stanford Extended ASCII
 Start of heading
 Start of text
 Substitute character
-Summation
 Symbol (typeface)
-Synchronous idle
-System 6
 T
-T.51/ISO/IEC 6937
 TI calculator character sets
 TRON (encoding)
 TRS-80 character set
@@ -443,9 +342,7 @@ Teletext
 Teletext character set
 Thai Industrial Standard 620-2533
 Tilde
-Trademark symbol
 Transcode (character encoding)
-Typographic ligature
 U
 UTF-1
 UTF-16
@@ -457,7 +354,6 @@ Underscore
 Unicode
 Unicode control characters
 Unified Hangul Code
-Unit separator
 Universal Coded Character Set
 V
 VISCII
@@ -467,13 +363,11 @@ VT220
 Variable-width encoding
 Ventura International
 Vertical bar
-Vertical tabulation
 Videotex
 Videotex character set
 W
 Wabun code
 Wang International Standard Code for Information Interchange
-Western Latin character sets (computing)
 Whitespace character
 Windows-1250
 Windows-1251
@@ -485,9 +379,6 @@ Windows-1256
 Windows-1257
 Windows-1258
 Windows-1270
-Windows Cyrillic + Finnish
-Windows Cyrillic + French
-Windows Cyrillic + German
 Windows Polytonic Greek
 Windows code page
 World System Teletext

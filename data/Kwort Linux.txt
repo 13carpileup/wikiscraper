@@ -1,4 +1,3 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
 AlmaLinux
@@ -52,7 +51,6 @@ Debian
 Deepin
 DemoLinux
 Devuan
-DistroWatch
 DivestOS
 DoudouLinux
 Dreamlinux
@@ -85,8 +83,6 @@ Gobuntu
 GrapheneOS
 HandyLinux
 Hard drive
-Hyperbola GNU/Linux-libre
-ISO image
 Immunix
 IodéOS
 Jurix
@@ -127,7 +123,6 @@ MeeGo
 Mer (software distribution)
 Miracle Linux
 Mobilinux
-Musix GNU+Linux
 Network Security Toolkit
 NimbleX
 Nitix
@@ -141,11 +136,9 @@ OpenELEC
 OpenMandriva Lx
 OpenSUSE
 Open Enterprise Server
-Openbox
 Oracle Linux
 PCLinuxOS
 Package manager
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
@@ -161,7 +154,6 @@ PureOS
 Q4OS
 Qubes OS
 ROSA Linux
-Random-access memory
 Raspberry Pi OS
 Red Hat Enterprise Linux
 Red Hat Linux
@@ -211,16 +203,12 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 User interface
 VectorLinux
 Vine Linux
 Void Linux
 Whonix
 Wubuntu
-X64
-X86-64
 XB Machine
 Xubuntu
 Yellow Dog Linux

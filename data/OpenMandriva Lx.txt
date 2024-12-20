@@ -1,9 +1,5 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
-AMD64
-ARM64
-ARM (architecture)
 AlmaLinux
 Alpine Linux
 Android-x86
@@ -50,14 +46,12 @@ CrDroid
 CrunchBang Linux
 Cub Linux
 CyanogenMod
-DNF (software)
 Damn Small Linux
 Damn Vulnerable Linux
 Debian
 Deepin
 DemoLinux
 Devuan
-DistroWatch
 DivestOS
 DoudouLinux
 Dreamlinux
@@ -81,27 +75,21 @@ Free software
 FreedomBox
 Freespire
 Frugalware Linux
-GNOME
 GNU Core Utilities
 GNU Guix System
 GNewSense
 GOS (operating system)
 GPL
 Garuda Linux
-Gaël Duval
 GeckoLinux
 Gentoo Linux
 GoboLinux
 Gobuntu
 GrapheneOS
 HandyLinux
-Hyperbola GNU/Linux-libre
-I586
 Immunix
 IodéOS
 Jurix
-KDE
-KDE Plasma 5
 KDE neon
 KaOS
 KaiOS
@@ -116,9 +104,7 @@ Korora (operating system)
 Kubuntu
 Kwort Linux
 LXLE Linux
-LXQt
 Libranet
-LibreOffice
 LinHES
 LineageOS
 Linpus Linux
@@ -138,7 +124,6 @@ MIUI
 MX Linux
 Mageia
 Mandrake Linux
-Mandriva
 Mandriva Linux
 Manjaro
 MeeGo
@@ -146,8 +131,6 @@ Mer (software distribution)
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Mozilla Firefox
-Musix GNU+Linux
 Network Security Toolkit
 NimbleX
 Nitix
@@ -163,38 +146,31 @@ Open Enterprise Server
 Oracle Linux
 PCLinuxOS
 Package manager
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
 Pentoo
 Peppermint OS
 Pinguy OS
-PipeWire
 PixelExperience
 Platypux
 Pop! OS
 Porteus (operating system)
 Programmer
-PulseAudio
 Puppy Linux
 PureOS
 Q4OS
 Qubes OS
-RISC-V
 ROSA Linux
-RPM Package Manager
 Raspberry Pi OS
 Red Hat Enterprise Linux
 Red Hat Linux
 Red Star OS
 Remix OS
 Replicant (operating system)
-Repository (version control)
 Resurrection Remix OS
 Rocks Cluster Distribution
 Rocky Linux
-Rolling release
 SUSE Linux
 SUSE Linux Enterprise
 SUSE Studio
@@ -236,8 +212,6 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 User interface
 User space and kernel space
 VectorLinux

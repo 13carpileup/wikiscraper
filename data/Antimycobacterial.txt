@@ -1,5 +1,3 @@
-2-Oxazolidone
-4-Aminosalicylic acid
 ACE inhibitor
 ATC code A
 ATC code B
@@ -9,7 +7,6 @@ ATC code D09
 ATC code G
 ATC code H
 ATC code J
-ATC code J04
 ATC code L
 ATC code M
 ATC code N
@@ -18,17 +15,12 @@ ATC code R
 ATC code S
 ATC code V
 ATCvet code QI
-Acedapsone
 Addiction medicine
-Alanine
 Alkylating antineoplastic agent
-Amikacin
-Aminoglycoside
 Anabolic steroid
 Analgesic
 Anatomical Therapeutic Chemical Classification System
 Anesthetic
-Angiotensin II receptor antagonist
 Anorectic
 Antacid
 Anthelmintic
@@ -36,21 +28,14 @@ Anti-inflammatory
 Anti-obesity medication
 Antianginal
 Antiarrhythmic agent
-Antibacterial
 Anticoagulant
 Anticonvulsant
-Antidementia drug
 Antidepressant
-Antidiarrhoeal
 Antidote
 Antiemetic
 Antifibrinolytic
 Antifolate
-Antifungal drug
 Antihemorrhagic
-Antihyperkinetic
-Antihypertensive drug
-Antiinfective
 Antimetabolite
 Antimicrobial
 Antimigraine drug
@@ -58,172 +43,53 @@ Antineoplastic
 Antiparasitic
 Antiplatelet drug
 Antipropulsive
-Antiprotozoal agent
 Antipruritic
-Antipsoriatic
 Antipsychotic
 Antithrombotic
 Antithyroid agent
 Antiviral drug
 Anxiolytic
 Aphrodisiac
-Arabinogalactan
-Arabinosyltransferase
-Bedaquiline
 Beta blocker
 Bile acid sequestrant
 Bisphosphonate
 Blood
 Bone
 Bronchodilator
-Calcium aminosalicylate
 Calcium channel blocker
-Capreomycin
 Cardiac glycoside
 Cardiac stimulant
-Cell envelope antibiotic
 Chemotherapy
-Cicatrizant
 Circulatory system
-Clinical trial
-Clofazimine
 Coagulation
-Contrast medium
 Corticosteroid
-Cough medicine
-Cycloserine
-Dapsone
 Decongestant
-Delamanid
 Deliriant
 Depressant
 Diabetes medication
-Dietary mineral
-Dihydropteroate synthetase inhibitor
 Disease-modifying antirheumatic drug
 Dissociative
-Diucifon
 Diuretic
 Dressing (medicine)
 Ectoparasiticide
-Emollient
 Endocrine system
-Entactogen
 Entheogen
-Ethambutol
-Ethambutol/isoniazid
-Ethambutol/isoniazid/pyrazinamide/rifampicin
-Ethambutol/isoniazid/rifampicin
-Ethionamide
-Ethylenediamine
 Euphoria
 Fertility medication
 Fibrate
-Gatifloxacin
 General anaesthetic
 Genitourinary system
 Glucocorticoid
 H1 antagonist
-H2 antagonist
 Hormonal contraception
 Human brain
-Human gastrointestinal tract
 Human skin
-Hydrazide
 Hypnotic
-Hypolipidemic agent
 Hypothalamic–pituitary hormone
 Immune system
-Immunomodulator
 Immunostimulant
 Immunosuppressive drug
 Infection
-Intravenous immunoglobulin
-Isoniazid
-Isoniazid/pyridoxine/sulfamethoxazole/trimethoprim
-Isoxazole
 Joint
-Kanamycin
-Laxative
-Leprostatic agent
-Linezolid
-List of withdrawn drugs
-Local anesthetic
-Malignant
-Management of Parkinson's disease
 Metabolism
-Methaniazide
-Mineralocorticoid
-Mood stabilizer
-Morinamide
-Motivation-enhancing drug
-Moxifloxacin
-Muscle
-Muscle relaxant
-Mycobacteria
-Mycolic acid
 Nervous system
-Neuroprotective
-Neurotoxin
-Nitroimidazole
-Non-steroidal anti-inflammatory drug
-Nootropic
-Nucleic acid inhibitor
-Ophthalmology
-Orexigenic
-Otology
-Peptidoglycan
-Pharmaceutical drug
-Phases of clinical research
-Phenazine
-Platelet
-Polypeptide antibiotic
-Pretomanid
-Promin
-Protein synthesis inhibitor
-Prothionamide
-Proton-pump inhibitor
-Psychedelic drug
-Psychedelics, dissociatives and deliriants
-Pyrazinamide
-Pyrazine
-Quinolone antibiotic
-RNA polymerase
-Radiopharmacology
-Renin inhibitor
-Renin–angiotensin system
-Respiratory system
-Rifabutin
-Rifalazil
-Rifampicin
-Rifampicin/isoniazid/pyrazinamide
-Rifamycin
-Rifapentine
-SQ109
-Sedative
-Selective estrogen receptor modulator
-Senotherapeutics
-Sense
-Serenic
-Sex steroid
-Sodium aminosalicylate
-Solasulfone
-Spindle poison
-Statin
-Stimulant
-Streptomycin
-Sulfoxone
-Sutezolid
-Terizidone
-Thioacetazone
-Thiocarbamide
-Thiocarlide
-Thrombolytic drug
-Thyroid hormone
-Topoisomerase inhibitor
-Tuberculosis treatment
-Vaccine
-Vasodilation
-Vitamin
-WHO Model List of Essential Medicines
-Wakefulness-promoting agent

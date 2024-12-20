@@ -1,6 +1,4 @@
 Abstract algebra
-Ada (programming language)
-Addend
 Addition
 Affine space
 Algebra
@@ -16,35 +14,26 @@ Analytic number theory
 Applied mathematics
 Arithmetic
 Arithmetic geometry
-Arithmetic operations
-Asymptotic
 Basis (linear algebra)
 Binary operation
 Calculus
-Cancelling out
 Caret
 Cartesian product
 Category theory
-Circle
 Circumference
 Coefficient
 Combinatorics
 Commutative algebra
-Commutativity
 Completing the square
 Complex analysis
 Complex number
-Complex numbers
 Composition algebra
 Computational complexity theory
 Computational mathematics
 Computer algebra
 Computer science
 Control theory
-Coordinate
 Coordinate vector
-Cube root
-Cynthia Y. Young
 Derivative
 Determinant
 Diameter
@@ -58,7 +47,6 @@ Distributive property
 Division (mathematics)
 Dot product
 Eigenvalues and eigenvectors
-Elements of Algebra
 Engineering mathematics
 Equals sign
 Equation
@@ -69,15 +57,10 @@ Euclidean norm
 Exponentiation
 Expression (mathematics)
 Exterior algebra
-FOIL rule
-Factor (arithmetic)
 Factorization
 Field (mathematics)
-Field theory (mathematics)
 Finite geometry
-Fortran
 Foundations of mathematics
-Fraction
 Free group
 Free object
 Function (mathematics)
@@ -99,7 +82,6 @@ Graph theory
 Group (mathematics)
 Group theory
 Harmonic analysis
-Herbert Ellsworth Slaught
 Hilbert space
 History of algebra
 History of mathematics
@@ -108,32 +90,24 @@ Homotopy theory
 Hypercomplex analysis
 ISBN (identifier)
 Identity (mathematics)
-Imaginary number
-Inconsistent system
 Inequality (mathematics)
 Informal mathematics
 Information theory
 Inner product space
 Integer
-Integers
 John Wiley & Sons
 K-theory
-Leonhard Euler
 Linear algebra
-Linear combination
 Linear equation
-Linear function
 Linear inequality
 Linear map
 Linear subspace
 List of films about mathematicians
-List of mathematicians
 Lists of mathematics topics
 Logarithm
 Mathematical analysis
 Mathematical and theoretical biology
 Mathematical chemistry
-Mathematical constant
 Mathematical economics
 Mathematical finance
 Mathematical logic
@@ -143,7 +117,6 @@ Mathematical physics
 Mathematical psychology
 Mathematical sociology
 Mathematical statistics
-Mathematicians
 Mathematics
 Mathematics and art
 Mathematics education
@@ -152,13 +125,10 @@ Measure (mathematics)
 Module (mathematics)
 Multilinear algebra
 Multiplication
-Multiplicity (mathematics)
 Multivector
-Noncommutative algebra
 Norm (mathematics)
 Nth root
 Number
-Number line
 Number theory
 Numerical analysis
 Operation (mathematics)
@@ -167,61 +137,41 @@ Order theory
 Orthogonal complement
 Orthogonality
 Outline of algebra
-Overdetermined system
 Perl
 Philosophy of mathematics
-Pi
-Plain text
-Plus–minus sign
 Polynomial
-Polynomial expansion
-Polynomial function
 Polynomial ring
 Probability theory
-Pythagorean theorem
 Python (programming language)
 Quadratic equation
 Quadratic formula
 Quotient group
 Quotient object
 Rank (linear algebra)
-Rational number
-Rationals
 Real analysis
 Real number
-Real numbers
 Recreational mathematics
-Reflexive relation
 Relation (mathematics)
 Representation theory
-Right angle
 Ring (mathematics)
 Ring theory
 Ruby (programming language)
 Scheme (mathematics)
 Science
-Secondary school
 Set (mathematics)
 Set theory
-Square root
-Stack Exchange
 Statistics
-Substitution (algebra)
 Substitution (logic)
 Subtraction
 Symmetric algebra
-Symmetric relation
 System of linear equations
 Systems science
-Tarquin Press
-Tarski's high school algebra problem
 TeX
 Tensor algebra
 Theory of computation
 Timeline of mathematics
 Topology
 Trace (linear algebra)
-Transitive relation
 Type theory
 Underdetermined system
 United States
@@ -229,6 +179,3 @@ Universal algebra
 Variable (mathematics)
 Vector space
 Wayback Machine
-X axis
-Zero
-Zero-product property

@@ -18,9 +18,7 @@ ARIB STD B24 character set
 ASCII
 ASMO 449
 ATASCII
-Acute accent
 Ampersand
-Amstrad CP/M Plus character set
 Amstrad CPC character set
 Apostrophe
 Apple II character set
@@ -35,12 +33,9 @@ Big5
 Binary Ordered Compression for Unicode
 Bitstream International Character Set
 BraSCII
-Braces (punctuation)
 Bracket
-Bullet (typography)
 C
 C0 and C1 control codes
-C1 control codes
 CCSID
 CDC display code
 CER-GS
@@ -73,17 +68,10 @@ Code page 1019
 Code page 1020
 Code page 1021
 Code page 1023
-Code page 1034
 Code page 1040
 Code page 1042
 Code page 1043
-Code page 1044
 Code page 1046
-Code page 1052
-Code page 1053
-Code page 1054
-Code page 1055
-Code page 1056
 Code page 1058
 Code page 1098
 Code page 1101
@@ -122,7 +110,6 @@ Code page 853
 Code page 855
 Code page 856
 Code page 857
-Code page 858
 Code page 859
 Code page 860
 Code page 861
@@ -139,7 +126,6 @@ Code page 896
 Code page 897
 Code page 899
 Code page 903
-Code page 904
 Code page 912
 Code page 915
 Code page 921
@@ -160,7 +146,6 @@ Control character
 Cooke and Wheatstone telegraph
 Copyright symbol
 Cork encoding
-Curved quotes
 D
 DEC Hebrew
 DEC RADIX 50
@@ -170,26 +155,19 @@ DG International
 DIN 66003
 DIN 91379
 DKOI
-Dash (punctuation)
-Degree symbol
 Digital Equipment Corporation
 Digital encoding of APL symbols
 Dollar sign
 E
 EBCDIC
 ELOT 927
-Ellipsis
 Equal sign
-Eth
-Evertype
 Exclamation mark
 Extended Latin-8
 Extended Unix Code
 F
 FOCAL character set
 Fieldata
-Finnish Romani
-Finnish Standards Association
 Full stop
 G
 GBK (character encoding)
@@ -210,44 +188,17 @@ HP Roman
 HZ (character encoding)
 Han unification
 Hardware code page
-Hexadecimal
 Hong Kong Supplementary Character Set
 Hyphen-minus
 I
 IBM AIX
-IEC-P27-1
 INIS-8
 INIS character set
-ISO-8859-10
-ISO-8859-4
-ISO-IR
 ISO-IR-111
-ISO-IR-158
 ISO-IR-169
 ISO-IR-182
 ISO-IR-200
 ISO-IR-68
-ISO/IEC 10367
-ISO/IEC 2022
-ISO/IEC 646
-ISO/IEC 8859
-ISO/IEC 8859-1
-ISO/IEC 8859-10
-ISO/IEC 8859-11
-ISO/IEC 8859-12
-ISO/IEC 8859-13
-ISO/IEC 8859-14
-ISO/IEC 8859-15
-ISO/IEC 8859-16
-ISO/IEC 8859-2
-ISO/IEC 8859-3
-ISO/IEC 8859-4
-ISO/IEC 8859-5
-ISO/IEC 8859-6
-ISO/IEC 8859-7
-ISO/IEC 8859-8
-ISO/IEC 8859-9
-ISO/IEC JTC 1/SC 2
 ISO 2033
 ISO 5426
 ISO 5427
@@ -258,10 +209,7 @@ ITU T.61
 Indian Script Code for Information Interchange
 Inequation
 Information Processing Society of Japan
-Intecolor/Compucolor 8001 character set
 Interpunct
-Inverted exclamation mark
-Inverted question mark
 Iran System encoding
 J
 JIS X 0201
@@ -284,9 +232,7 @@ L
 LST 1564
 LST 1590-4
 LY1 encoding
-Latin-1
 Less-than sign
-Logical not
 Lotus International Character Set
 Lotus Multi-Byte Character Set
 M
@@ -311,7 +257,6 @@ Mac OS Hebrew
 Mac OS Icelandic encoding
 Mac OS Inuit
 Mac OS Keyboard encoding
-Mac OS Maltese/Esperanto encoding
 Mac OS Ogham
 Mac OS Roman
 Mac OS Romanian encoding
@@ -329,7 +274,6 @@ Mojikyō
 Morse code
 Morse code for non-Latin alphabets
 Multinational Character Set
-Multiplication sign
 N
 NEC APC character set
 National Replacement Character Set
@@ -344,13 +288,10 @@ Obelus
 P
 PETSCII
 Percent sign
-Permille
 Perso-Arabic Script Code for Information Interchange
-Pilcrow
 Plus and minus signs
 PostScript Latin 1 Encoding
 PostScript Standard Encoding
-Pound sign
 Prosigns for Morse code
 Q
 Question mark
@@ -360,8 +301,6 @@ RISC OS character set
 RPL character set
 Russian Morse code
 S
-SAM Coupé character set
-SBCS
 SI 960
 SQUOZE
 Section sign
@@ -371,19 +310,13 @@ Sharp MZ character set
 Sharp pocket computer character sets
 Shift JIS
 Sinclair QL character set
-Skolt Sámi
 Slash (punctuation)
 Soft hyphen
 Space character
-Square brackets
 Standard Compression Scheme for Unicode
-Stanford/ITS character set
 Stanford Extended ASCII
-Swedish Institute for Standards
 Symbol (typeface)
-Sámi languages
 T
-T.51/ISO/IEC 6937
 TI calculator character sets
 TRON (encoding)
 TRS-80 character set
@@ -395,9 +328,7 @@ Teletex
 Teletext
 Teletext character set
 Thai Industrial Standard 620-2533
-Thorn (letter)
 Tilde
-Trademark symbol
 Transcode (character encoding)
 U
 UTF-1
@@ -435,9 +366,6 @@ Windows-1256
 Windows-1257
 Windows-1258
 Windows-1270
-Windows Cyrillic + Finnish
-Windows Cyrillic + French
-Windows Cyrillic + German
 Windows Polytonic Greek
 Windows code page
 World System Teletext
@@ -449,48 +377,16 @@ Z
 ZX80 character set
 ZX81 character set
 ZX Spectrum character set
-®
 À
 Á
 Â
-Ã
-Ä
-Å
-Æ
 Ç
 È
 É
 Ê
-Ë
-Ì
-Í
 Î
 Ï
-Ñ
-Ò
-Ó
-Ô
-Õ
-Ö
-Ø
-Ù
-Ú
 Û
-Ü
-Ý
 ß
 Č
-Đ
-Ŋ
-Œ
-Š
-Ŧ
-Ÿ
-Ž
 Ƒ
-Ʒ
-Ǥ
-Ǧ
-Ǩ
-Ǯ
-Ȟ

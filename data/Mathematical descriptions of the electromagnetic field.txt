@@ -1,69 +1,36 @@
-4-current
-4-potential
 AC motor
-Academic Press
-Action (physics)
-Aharonov–Bohm effect
 Albert Einstein
 Alessandro Volta
 Alfred-Marie Liénard
-Algebra of physical space
 Alternating current
 Ampère's circuital law
-Ampère-Maxwell equation
-Ampère-Maxwell law
 André-Marie Ampère
-Anticommutative
 Biot–Savart law
 Bremsstrahlung
-Canadian Mathematical Bulletin
-Canonical quantization
 Capacitance
 Carl Friedrich Gauss
 Charge density
 Charles-Augustin de Coulomb
 Charles Proteus Steinmetz
-Charles W. Misner
-Christoffel symbol
-Christoffel symbols
 Classical electromagnetism
 Classical electromagnetism and special relativity
 Classical physics
 Clifford algebra
-Closed form (calculus)
 Computational electromagnetics
-Conformal geometry
-Connection (mathematics)
-Connection (principal bundle)
-Continuity equation
-Contractible space
 Coulomb's law
-Coulomb gauge
-Covariance
-Covariance and contravariance of vectors
-Covariant derivative
 Covariant formulation of classical electromagnetism
 Current density
-Curvature form
 Cyclotron radiation
-D'Alembertian
 DC motor
-David Hestenes
 Determinant
-Differential form
 Differential geometry
-Dirac equation
-Dirac spinor
 Direct current
 Dispersion (optics)
 Displacement current
 Doi (identifier)
-EM tensor
 Eddy current
-Einstein notation
 Electret
 Electric charge
-Electric constant
 Electric current
 Electric dipole moment
 Electric field
@@ -78,7 +45,6 @@ Electrical impedance
 Electrical network
 Electrical resistance and conductance
 Electricity
-Electrodynamics
 Electrolysis
 Electromagnetic field
 Electromagnetic four-potential
@@ -91,94 +57,58 @@ Electromagnetic wave equation
 Electromagnetism
 Electromotive force
 Electrostatic discharge
-Electrostatic field
 Electrostatic induction
 Electrostatics
 Emil Lenz
 Emil Wiechert
-Equations of motion
 Exterior algebra
-Exterior derivative
-Exterior product
 Faddeev–Popov ghost
 Faraday's law of induction
-Field operator
 Four-current
 Franz Ernst Neumann
-Free space
 Fundamental interaction
 Félix Savart
-Gamma matrices
-Gauge fixing
 Gauge theory
-Gauge transformation
 Gauss's law
 Gauss's law for magnetism
-Gaussian units
-General relativity
 Geometric algebra
 Georg Ohm
 George Singer
-Gram matrix
-Green's functions
-Green–Kubo relations
-Group action (mathematics)
 Gustav Kirchhoff
 Gyrator–capacitor model
 Hans Christian Ørsted
-Harley Flanders
 Heinrich Hertz
 Hendrik Lorentz
 Hermann von Helmholtz
 Hippolyte Fizeau
 History of electromagnetic theory
-Hodge dual
-Hodge star
-Hodge star operator
-Holonomy
 Humphry Davy
 ISBN (identifier)
 Inductance
 Induction motor
-Inertial frame
 Insulator (electricity)
-International System of Quantities
 J. J. Thomson
 James Clerk Maxwell
 James Prescott Joule
 Jean-Baptiste Biot
 Jefimenko's equations
-John Archibald Wheeler
 John Henry Poynting
 John Hopkinson
 Joseph Henry
 Joseph Larmor
 Joule heating
-Kinetic term
-Kip Thorne
 Kirchhoff's circuit laws
-Lagrangian (field theory)
 Larmor formula
-Least action
 Lenz's law
-Levi-Civita connection
-Levi-Civita symbol
-Line bundle
 Linear motor
 List of electrical phenomena
-List of electromagnetism equations
 List of textbooks in electromagnetism
 Liénard–Wiechert potential
 London equations
 Lord Kelvin
 Lorentz force
-Lorentz invariant
-Lorenz gauge
-Lorenz gauge condition
-Ludvig Lorenz
 Magnetic circuit
 Magnetic complex reluctance
-Magnetic constant
 Magnetic field
 Magnetic flux
 Magnetic moment
@@ -188,25 +118,15 @@ Magnetic vector potential
 Magnetism
 Magnetization
 Magnetomotive force
-Magnetostatic field
 Magnetostatics
-Manifestly covariant
-Manifold
-Matter
 Maxwell's equations
 Maxwell's equations in curved spacetime
 Maxwell stress tensor
-Metric signature
-Metric tensor
 Michael Faraday
-Minkowski space
 Moving magnet and conductor problem
 Multivector
-Natural units
-Near and far field
 Network analysis (electrical circuits)
 Nikola Tesla
-Nonlinear optics
 Ohm's law
 Oleg D. Jefimenko
 Oliver Heaviside
@@ -216,46 +136,25 @@ Pauli matrices
 Permeability (electromagnetism)
 Permeance
 Permittivity
-Poincaré lemma
-Poisson's equation
 Polarization density
 Poynting vector
-Principal bundle
-Pseudoscalar
 Quantum electrodynamics
-Quantum field theory
 Relativistic electromagnetism
 Resonator
-Ricci calculus
-Riemann–Silberstein vector
 Right-hand rule
 Rotor (electric)
-SI units
-Scalar potential
 Series and parallel circuits
-Sign convention
 Siméon Denis Poisson
-Spacetime
-Spacetime algebra
-Special relativity
 Speed of light
 Static electricity
 Stator
 Synchrotron radiation
-Tensor index notation
 Topology
 Transformer
 Triboelectric effect
-U(1)
-University of Adelaide
-Vacuum
 Vector field
-Vector fields
-Vector potential
 Voltage
-Volume form
 Watt
-Wave equation
 Waveguide (radio frequency)
 Wilhelm Eduard Weber
 William Ritchie (physicist)

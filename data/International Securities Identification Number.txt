@@ -18,19 +18,12 @@ Bond (finance)
 British Standard Pipe
 Business Process Model and Notation
 C++
-CAE number
-CAN bus
 CD-ROM
 CHILL
 COBOL
 COLLADA
-CUSIP
 C Sharp (programming language)
-Central Index Key
 Central bank
-Check digit
-Clearing (finance)
-Clearing house (finance)
 Cloud Infrastructure Management Interface
 Common Criteria
 Common Language Infrastructure
@@ -49,27 +42,18 @@ EXPRESS (data modeling language)
 Equal-loudness contour
 Essential Video Coding
 European Commission
-European Economic Area
-Exchange-traded fund
 FDI World Dental Federation notation
 FTAM
 Fiber Distributed Data Interface
 File Allocation Table
 Film speed
-Financial data vendors
-Financial firm
-Financial regulator
-Fixed income
 Flowchart
 Fuel oil
 Full BASIC
-Fuse (automotive)
-Futures contract
 Geography Markup Language
 Geospatial metadata
 Graph Query Language
 Graphical Kernel System
-Group of Thirty
 Guidelines for the Definition of Managed Objects
 HTML
 Han Xin code
@@ -80,76 +64,9 @@ Hot shoe
 IATF 16949
 IS-IS
 ISBN
-ISIN
 ISLISP
-ISO
 ISO-8859-8-I
 ISO-TimeML
-ISO/IEC 10116
-ISO/IEC 10967
-ISO/IEC 11179
-ISO/IEC 11404
-ISO/IEC 11801
-ISO/IEC 12207
-ISO/IEC 14443
-ISO/IEC 14651
-ISO/IEC 15288
-ISO/IEC 15504
-ISO/IEC 15693
-ISO/IEC 15897
-ISO/IEC 17024
-ISO/IEC 17025
-ISO/IEC 18014
-ISO/IEC 19752
-ISO/IEC 19770
-ISO/IEC 19794-5
-ISO/IEC 20000
-ISO/IEC 2022
-ISO/IEC 21827
-ISO/IEC 27000
-ISO/IEC 27000-series
-ISO/IEC 27001
-ISO/IEC 27002
-ISO/IEC 27005
-ISO/IEC 27006
-ISO/IEC 38500
-ISO/IEC 42010
-ISO/IEC 4909
-ISO/IEC 5218
-ISO/IEC 646
-ISO/IEC 6523
-ISO/IEC 7064
-ISO/IEC 7810
-ISO/IEC 7811
-ISO/IEC 7812
-ISO/IEC 7813
-ISO/IEC 7816
-ISO/IEC 80000
-ISO/IEC 8652
-ISO/IEC 8859
-ISO/IEC 8859-1
-ISO/IEC 8859-10
-ISO/IEC 8859-11
-ISO/IEC 8859-12
-ISO/IEC 8859-13
-ISO/IEC 8859-14
-ISO/IEC 8859-15
-ISO/IEC 8859-16
-ISO/IEC 8859-2
-ISO/IEC 8859-3
-ISO/IEC 8859-4
-ISO/IEC 8859-5
-ISO/IEC 8859-6
-ISO/IEC 8859-7
-ISO/IEC 8859-8
-ISO/IEC 8859-9
-ISO/IEC 9126
-ISO/IEC 9529
-ISO/IEC 9797-1
-ISO/IEC 9995
-ISO/IEC TR 12182
-ISO/IEEE 11073
-ISO/TR 11941
 ISO 1
 ISO 1000
 ISO 10006
@@ -161,7 +78,6 @@ ISO 10303
 ISO 10303-21
 ISO 10303-22
 ISO 10303-28
-ISO 10383
 ISO 10628
 ISO 10962
 ISO 11170
@@ -170,7 +86,6 @@ ISO 11784 and ISO 11785
 ISO 11940
 ISO 11940-2
 ISO 11992
-ISO 12006
 ISO 128
 ISO 13399
 ISO 13406-2
@@ -178,7 +93,6 @@ ISO 13485
 ISO 13490
 ISO 13567
 ISO 13584
-ISO 14000
 ISO 14031
 ISO 14224
 ISO 14617
@@ -199,8 +113,6 @@ ISO 17100
 ISO 1745
 ISO 18245
 ISO 19011
-ISO 19092-1
-ISO 19092-2
 ISO 19114
 ISO 19439
 ISO 19600
@@ -211,7 +123,6 @@ ISO 2014
 ISO 2015
 ISO 2033
 ISO 20400
-ISO 2047
 ISO 21001
 ISO 2145
 ISO 2146
@@ -240,20 +151,16 @@ ISO 31-0
 ISO 31-1
 ISO 31-10
 ISO 31-11
-ISO 31-12
-ISO 31-13
 ISO 31-3
 ISO 31-4
 ISO 31-5
 ISO 31-6
 ISO 31-7
 ISO 31-8
-ISO 31-9
 ISO 31000
 ISO 3103
 ISO 3166
 ISO 3166-1
-ISO 3166-1 alpha-2
 ISO 3166-2
 ISO 3166-3
 ISO 3307
@@ -293,7 +200,6 @@ ISO 6943
 ISO 7001
 ISO 7002
 ISO 7010
-ISO 7027
 ISO 704
 ISO 7200
 ISO 732
@@ -301,7 +207,6 @@ ISO 7637
 ISO 7736
 ISO 8000
 ISO 8178
-ISO 8373
 ISO 843
 ISO 8501-1
 ISO 8583
@@ -310,7 +215,6 @@ ISO 8601
 ISO 8691
 ISO 898
 ISO 9
-ISO 9000
 ISO 9241
 ISO 9362
 ISO 9564
@@ -320,18 +224,15 @@ ISO 9897
 ISO 999
 ISO base media file format
 ISO metric screw thread
-Interested Parties Information
 International Bank Account Number
 International Organization for Standardization
 International Standard Atmosphere
 International Standard Audiovisual Number
 International Standard Identifier for Libraries and Related Organizations
-International Standard Link Identifier
 International Standard Music Number
 International Standard Musical Work Code
 International Standard Name Identifier
 International Standard Recording Code
-International Standard Serial Number
 International Standard Text Code
 Isofix
 JBIG
@@ -344,7 +245,6 @@ Kappa number
 Knowledge Discovery Metamodel
 Kunrei-shiki romanization
 LCEVC
-Language Of Temporal Ordering Specification
 Legal Entity Identifier
 Lexical Markup Framework
 Linguistic categories
@@ -377,13 +277,9 @@ Minimal BASIC
 Mixed raster content
 Motion JPEG 2000
 Multibus
-NSIN
-National Securities Identifying Number
-National numbering agency
 O-ring
 OCR-A
 OCR-B
-OSI model
 Object Constraint Language
 Office Open XML
 On-board diagnostics
@@ -391,13 +287,7 @@ OpenDocument
 Open Data Protocol
 Open Document Architecture
 Open Virtualization Format
-Option (finance)
 PDF
-PDF/A
-PDF/E
-PDF/UA
-PDF/VT
-PDF/X
 PDF417
 PHIGS
 POSIX
@@ -405,7 +295,6 @@ Pascal (programming language)
 Photographic Activity Test
 Pinyin
 Power take-off
-Pre-emption right
 Process Specification Language
 Prolog
 Prontor-Compur
@@ -421,25 +310,14 @@ Romanization of Armenian
 Romanization of Georgian
 Ruby (programming language)
 SDMX
-SEDOL
 SQL
 STEP-NC
 Salt spray test
-Securities
-Security (finance)
-Settlement (finance)
 Shock-resistant watch
 Shoe size
 Simple Features
 Software maintenance
-Solvency II Directive 2009
-Standard & Poor's
 Standard Generalized Markup Language
-Stock
-Stock exchange
-System for Award Management
-TIFF/EP
-Ticker symbol
 Topic map
 Torx
 Trusted Platform Module
@@ -447,8 +325,6 @@ Unified Modeling Language
 Universal Coded Character Set
 Versatile Video Coding
 Vicat softening point
-Virtual International Authority File
-Warrant (finance)
 Water Resistant mark
 Wayback Machine
 Web Content Accessibility Guidelines

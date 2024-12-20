@@ -1,11 +1,9 @@
 3ve
 Akbot
-Armenia
 Asprox botnet
 BASHLITE
 BBC News
 Bagle (computer worm)
-Bot herder
 Botnet
 Browser security
 Computer virus
@@ -14,12 +12,7 @@ Conficker
 Cutwail botnet
 DDoS
 Donbot botnet
-Drive-by download
-E-mail spam
-EvoSwitch
 Festi botnet
-FireEye
-Georgy Avanesov
 Grum botnet
 Gumblar
 Internet bot
@@ -27,7 +20,6 @@ Internet security
 Kelihos botnet
 Koobface
 Kraken botnet
-LeaseWeb
 Lethic botnet
 Malware
 Man-in-the-browser
@@ -37,11 +29,8 @@ Metulji botnet
 Mirai (malware)
 Network security
 Nitol botnet
-Reverse engineered
 Rustock botnet
 Sality
-Scareware
-Security vulnerabilities
 Server (computing)
 Slenfbot
 Srizbi botnet
@@ -54,4 +43,3 @@ Vulcanbot
 Waledac botnet
 ZeroAccess botnet
 Zeus (malware)
-Zombie computer

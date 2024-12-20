@@ -1,30 +1,11 @@
 API
-Aaron Swartz
-Access to Knowledge movement
-ActiveX
-Active Server Pages
-Aggregate data
 Agile software development
-Ajax (programming)
-Alexandra Elbakyan
-All rights reversed
 Alternative media
 Anonymous blog
-Anti-copyright notice
-Apache HTTP Server
-Apache JServ Protocol
-Application server
-Application software
 Art blog
-Artificial scarcity
 Astroturfing
-Asynchronous Server Gateway Interface
 Atom (Web standard)
-Atom (standard)
 Atom (web standard)
-Biological patent
-Biopiracy
-Bioprospecting
 BitTorrent
 Blawg
 Blog
@@ -32,338 +13,139 @@ Blog carnival
 Blog fiction
 Blogosphere
 Broadcatching
-Browser Helper Object
 Browser extension
-Business models for open-source software
 CSS
-Canvas element
-Caspio
-Censorship by copyright
 Citizen journalism
 Classical music blog
-Client-side
-Client-side persistent data
 Client (computing)
 Columnist
-Commercial use of copyleft works
-Common Gateway Interface
-Commons-based peer production
 Communication
 Communication protocol
 Comparison of feed aggregators
-Copyleft
-Copyright Alliance
-Copyright alternatives
 Copyright infringement
-Copyright troll
 Corporate blog
-Cory Doctorow
-Create, read, update and delete
-Creative Commons
-Criticism of copyright
-Cross-origin resource sharing
-Cross-site scripting
-Cultural environmentalism
-DOM event
 Data feed
 Database journalism
-Digital identity
 Digital rights management
-Document Object Model
 Dream diary
-Dynamic HTML
-Dynamic Web page
-Dynamic web page
-EMML
 Editing
 Edublog
-Electronic Frontier Foundation
 Electronic journal
-Electronic money
-Electronic sell-through
 Email
-Encrypted Media Extensions
 Enhanced podcast
 Escribitionist
 Fashion blog
-FastCGI
-Façade pattern
 FeedSync
 Feed URI scheme
 Food blogging
-Free-culture movement
-Free-software license
-Free Software Foundation
-Free content
-Free software movement
-Frontend and backend
-GUI widget
-Gears (software)
 GeoRSS
 Geolocation software
 Geotagging
-Geovisualization
 Glossary of blogging
-Good Copy Bad Copy
-Google Native Client
-Google map
-GraphQL
-Gripe site
 HTML
-HTML5 File API
-HTML audio
-HTML video
-HTTP
-HTTP/2
-HTTP/3
-HTTPS
-HTTP handler
 Hashtag
 Health blog
 History of blogging
 History of podcasting
 History of web syndication technology
-Hydration (web development)
 ISBN (identifier)
-Index (search engine)
-Indexed Database API
-Inducement prize contest
-Information visualization
 Instant messaging
 Intellectual property
 Inter-process communication
-Internet Server Application Programming Interface
-JSGI
-JSON
-JSON-RPC
-JSR 168
-JSR 286
-Jakarta Servlet
-Jargon
 JavaScript
-Java Portlet Specification
 Journalism
-KML
 Khronos Group
-Lawrence Lessig
-Legal aspects of file sharing
-Libertarian perspectives on intellectual property
 Lifelog
 Linkback
-List of Apache modules
-List of application servers
 List of family-and-homemaking blogs
 List of search engines
 Liveblogging
 MP3 blog
-Mashup (culture)
-Mashup (music)
-Mashup (video)
-Mashup novel
 Media RSS
-Media Source Extensions
-Melting pot
 Memetics
-Metasearch engines
 Microblogging
-Microservices
 Mobile blogging
 Mobilecast
-Mod jk
-Mod lisp
-Mod mono
-Mod parrot
-Mod perl
-Mod proxy
-Mod python
-Mod ruby
-Mod wsgi
-Monopolies of knowledge
 Mormon blogosphere
 Motovlog
-Multitier architecture
 Music piracy
-NPAPI
 Narrowcasting
-Netscape Server Application Programming Interface
 NewsML
 NewsML-G2
 NewsML 1
 News aggregator
 Niche blogging
-Notification system
 OPML
 Online diary
-Open-design movement
-Open-source hardware
 Open-source software
-Open API
-Open Mashup Alliance
-Open Rights Group
-Open Web Interface for .NET
-Open content
-Open music model
 Open source
 Operating system
 Organization for Transformative Works
-Orphan work
 PHP
-Patent troll
-Patentleft
 Pay-per-click
 Peercasting
 Permalink
-Peter Suber
-Peter Sunde
 Photoblog
 Photofeed
-Phusion Passenger
 Ping (blogging)
 Pingback
-Piratbyrån
-Pirate Party
-Plack (software)
 Plug-in (computing)
 Police blog
 Poll aggregator
-Portlet
 Posting style
-Prizes as an alternative to patents
 Product feed
 Programming language
-Progressive web app
 Project diary
-Protocol (computing)
-Public Knowledge
 Public domain
-Push technology
-REST
 RSS
 RSS Advisory Board
 RSS TV
 RSS editor
 RSS enclosure
 RSS tracking
-Rack (web server interface)
 Reblogging
 Refback
 Reference (computer science)
-Remote scripting
-Representational State Transfer
-Resource-oriented architecture
 Resource Description Framework
 Reverse blog
 Review aggregator
-Rich Internet Application
-Rich web applications
-Richard Stallman
-Rick Falkvinge
 Rollback (data management)
-SOAP
-SVG
-Salad bar
-Sci-Hub
 Screencast
 Search aggregator
-Server-sent events
-Server-side
-Server-side scripting
 Server (computing)
-Server Side Includes
-Server application programming interface
-Service-oriented architecture
-Shadow library
-Share-alike
 Sideblog
-Simple Common Gateway Interface
-Single-page application
 Slashdot effect
 Slidecasting
 Social software
-Societal views on patents
-Software as a service
-Software patent
-Software patent debate
-Solution stack
 Spam blog
 Spam in blogs
-Speech processing
-Static web page
-Steal This Film
 Streaming media
-Students for Free Culture
-TPB AFK
-The Internet's Own Boy
-The Pirate Bay
 Thread (Internet)
 Trackback
-Translation
 Travel blog
-Two-phase commit protocol
-URL shortening
 Usenet
-User interaction
 User interface
 Uses of podcasting
 Video aggregator
 Video blog
-Video on demand
 Videocast
 Vlog
-W3C Geolocation API
-WHATWG
 Warblog
-Web-oriented architecture
 WebAssembly
-WebAuthn
-WebCL
-WebDAV
 WebGL
 WebGPU
-WebRTC
-WebSocket
-WebUSB
 WebXR
-Web 1.0
-Web 2.0
 Web API
-Web API security
-Web IDL
-Web Messaging
-Web SQL Database
-Web Server Gateway Interface
-Web Services for Remote Portlets
 Web Slice
-Web application
 Web browser
-Web container
-Web development
 Web directory
 Web feed
-Web framework
-Web page
 Web portal
-Web resource
-Web scraping
 Web series
-Web service
-Web standards
-Web storage
 Web syndication
-Web worker
 Webcomic
-Webhook
 Webtoon
-Wikipediavision
 World Wide Web
-World Wide Web Consortium
-XAML Browser Applications
 XBEL
-XHTML
 XML
-XML-RPC
-XMLHTTPRequest
-XMLHttpRequest
 XOXO (microformat)
-Yahoo! Pipes
-Yahoo! Query Language

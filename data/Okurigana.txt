@@ -1,30 +1,20 @@
 ARIB STD B24 character set
 Adjective
-Affix
-Agatsuma Line
 Akita dialect
 Alexandria
-Amagasaki
 Amami Japanese
 Amami Ōshima language
 Ateji
 Awaji dialect
 Bamboo English
 Banshū dialect
-Bikago
 Bingo dialect
 Bonin English
 Braille kanji
-Cardinal number
 Chi (letter)
 Chikuzen dialect
-Chūgoku dialect
 Classical Japanese
-Continuous and progressive aspects
 Cyrillization of Japanese
-Denominative verb
-Deverbal noun
-Dictionary form
 Early Middle Japanese
 Early Modern Japanese
 Eastern Old Japanese
@@ -34,17 +24,12 @@ Engrish
 Extended Unix Code
 Extended shinjitai
 Furigana
-Gairaigo
 Gender differences in Japanese
-Gerund
-Gikun
 Glossary of Japanese words of Dutch origin
 Glossary of Japanese words of Portuguese origin
 Go-on
 Gojūon
-Grammatical aspect
 Greek language
-Gugyeol
 Gunma dialect
 Hachijō grammar
 Hachijō language
@@ -58,18 +43,10 @@ Hiragana
 Hiragana (Unicode block)
 Historical kana orthography
 Hokkaido dialects
-Hokuriku dialect
 Honorific speech in Japanese
 Hyōgai kanji
-Hyōgaiji
-Hōnichi dialect
-ISO/IEC 2022
 Ibaraki dialect
-Imperfective aspect
-Inflection
 Inshū dialect
-Intransitive verb
-Iteration mark
 Iyo dialect
 JIS X 0201
 JIS X 0208
@@ -77,12 +54,9 @@ JIS X 0211
 JIS X 0212
 JIS X 0213
 JSL romanization
-Japan Times
 Japanese-based creole languages
 Japanese Braille
 Japanese adjectives
-Japanese books
-Japanese compound verbs
 Japanese counter word
 Japanese dialects
 Japanese dictionary
@@ -103,12 +77,9 @@ Japanese pronouns
 Japanese punctuation
 Japanese script reform
 Japanese sound symbolism
-Japanese verb conjugation
 Japanese writing system
 Japonic languages
-Jinmeiyō kanji
 Jōdai Tokushu Kanazukai
-Jōyō kanji
 Kaga dialect
 Kagoshima dialect
 Kan-on
@@ -122,7 +93,6 @@ Kanazukai
 Kanbun
 Kanji
 Kansai dialect
-Kantō dialect
 Katakana
 Katakana (Unicode block)
 Katakana Phonetic Extensions
@@ -131,31 +101,22 @@ Kikai language
 Kishū dialect
 Kokuji
 Kumamoto dialect
-Kun'yomi
 Kunigami language
 Kunrei-shiki romanization
 Kyowa-go
-Kyōiku kanji
 Late Middle Japanese
 List of Japanese speculative fiction writers
-List of Japanese typographic symbols
 List of Japanese writers
 List of classical Japanese texts
-List of jōyō kanji
-List of kanji by stroke count
 List of kanji radicals by frequency
 List of kanji radicals by stroke count
 Logogram
 Man'yōgana
-Mazegaki
 Mikawa dialect
-Ministry of Education, Culture, Sports, Science and Technology (Japan)
 Mino dialect
 Miyakoan language
 Modern kana usage
 Mora (linguistics)
-Morpheme
-Morphemes
 Nagaoka dialect
 Nagasaki dialect
 Nagoya dialect
@@ -168,17 +129,10 @@ Northern Ryukyuan languages
 Nyōbō kotoba
 Okinawan Japanese
 Okinawan language
-Okinoerabu language
 Okuyoshino dialect
 Old Japanese
-On'yomi
 Ordinal number
-Orthography
-Perfective aspect
-Phonetic complement
-Phono-semantic
 Polivanov system
-Present participle
 Pseudo-Chinese
 Rendaku
 Romanization of Japanese
@@ -186,18 +140,14 @@ Ryakuji
 Ryukyuan languages
 Saga dialect
 Sanuki dialect
-Sen no Rikyū
 Shift JIS
 Shikoku dialect
 Shizuoka dialect
-Shōwa era
 Sino-Japanese vocabulary
 Small Kana Extension
 Southern Amami Ōshima language
 Southern Ryukyuan languages
-Stroke order
 Sōgana
-Table of Japanese kanji radicals
 Tarama language
 Tochigi dialect
 Tokunoshima language
@@ -206,27 +156,19 @@ Topic marker
 Tosa dialect
 Transcription into Japanese
 Transcription of the Japanese language in Esperanto
-Transitive verb
 Tsugaru dialect
 Tsushima dialect
 Tō-on
 Tōhoku dialect
-Tōkai–Tōsan dialect
-Tōyō kanji
 Umpaku dialect
-Verb
-Verbal noun
 Wasei-eigo
 Wasei-kango
 Wāpuro rōmaji
 Yaeyama language
 Yakuwarigo
-Yamanote Line
-Yamato kotoba
 Yilan Creole Japanese
 Yokohama Pidgin Japanese
 Yonaguni language
 Yoron language
 Yotsugana
 Ōita dialect
-ヶ

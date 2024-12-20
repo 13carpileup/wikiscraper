@@ -1,103 +1,31 @@
-1-Wire
 ARINC 429
-ARINC 825
-AS-Interface
-Automatic meter reading
-Avionics Full-Duplex Switched Ethernet
-BACnet
-BatiBUS
 Baud
-Bristol Standard Asynchronous Protocol
-Building automation
-C-Bus (protocol)
-CAN bus
-CANopen
-CC-Link Industrial Networks
-CEBus
-Common Industrial Protocol
 Communications protocol
-ControlNet
-Cyphal
-DF-1 Protocol
 DNP3
 DeviceNet
 Digital Addressable Lighting Interface
-Digital Serial Interface
-DirectNET Protocol
-DyNet
-EnOcean
-EtherCAT
-EtherNet/IP
-Ethernet Global Data Protocol
 Ethernet Powerlink
-European Home Systems Protocol
-European Installation Bus
-FOUNDATION fieldbus
-Factory Instrumentation Protocol
 Factory Interface Network Service
-Fleet Management System
 FlexRay
-Foundation Fieldbus H1
-Higher Speed Ethernet
 Highway Addressable Remote Transducer Protocol
-HostLink Protocol
 IEBus
 IEC 60870
 IEC 60870-5
 IEC 60870-6
 IEC 61850
 IEC 62056
-IEC 62351
-INTERBUS
 IO-Link
 ISBN (identifier)
-ISO 11898
-ISO 9141
-Industrial control system
 International Organization for Standardization
-KNX
-List of automation protocols
 Local Interconnect Network
-LonTalk
-MECHATROLINK
-MOST Bus
-MTConnect
 MelsecNet
 Meter-Bus
 Modbus
-NMEA 2000
-OBIX
-OPC Data Access
-OPC Historical Data Access
-OPC Unified Architecture
-OSI model
-On-board vehicle diagnostics
-OpenTherm
 Optomux
-PROFIBUS
-PROFINET
 PieP
 Power-system automation
-RAPIEnet
-SAE J1587
-SAE J1708
-SAE J1939
-SDS Protocol
-SENT (protocol)
 SERCOS III
-SERCOS interface
-Serial communication
-Service Request Transport Protocol
 Sinec H1
-Smart meter
-SynqNet
-TTEthernet
-Unified Diagnostic Services
 Vehicle Area Network
-Vehicle bus
-Very Simple Control Protocol
-X10 (industry standard)
 XAP Home Automation protocol
-XPL Protocol
 Z-Wave
-Zigbee

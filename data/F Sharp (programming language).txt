@@ -1,446 +1,69 @@
-Visual Studio Code
-MsQuic
-.NET Reflector
-Lennart Augustsson
-.NET Compiler Platform
-Marionnet
-Futhark (programming language)
-DiskSpd
 Distributed computing
 Visual Studio
-HOL Light
-Kernel-Mode Driver Framework
-Managed Extensibility Framework
-Penny Black (research project)
 Automated theorem proving
-Emacs
 Object-oriented programming
-Virtual Execution System
-ClearType
-NodeXL
-ProcDump
-Allegiance (video game)
-Higher-order function
-Assembly (CLI)
-Cobra (programming language)
-XUnit.net
-Microsoft Power Fx
 Haskell
-LightGBM
 Domain-specific language
 Comparison of integrated development environments
-Proof assistant
 Software license
 Computing platform
-SONiC (operating system)
-Tail call
 Source code
-Actor model
-Mono (software)
-Open Neural Network Exchange
-Image Composite Editor
-IronScheme
-Microsoft Enterprise Library
-Kodu Game Lab
-Xamarin
-Project Mu
 Parallel Extensions
-MacroML
-MTASC
-Microsoft SEAL
-Benevolent dictator for life
 API
-Array data structure
-Metadata (CLI)
-Axum (programming language)
-Generic programming
-MonoDevelop
-Wallop
-Concurrent ML
-Xavier Leroy
-Cross-platform software
-Microsoft Holoportation
-Open-source model
-StyleCop
-Voldemort (distributed data store)
-AjaxView
-Entity Framework
-SILK
-Curry function
-Microsoft Live Labs
-.NET Framework version history
-Type inference
-Native Image Generator
-Open Management Infrastructure
-Photosynth
 3D Movie Maker
-BitFunnel
-XAMLPad
-Windows Communication Foundation
 Common Intermediate Language
-TouchLight
-Rider (software)
-Strong and weak typing
 List comprehension
-HomeOS
 Operating system
-Semgrep
 Microsoft
-.NET Remoting
-Extensible Storage Engine
-Hindley–Milner type system
-Project Verona
-Microsoft Public License
-Frank Pfenning
-ASP.NET
-Ur (programming language)
-Atom (text editor)
-Closure (computer science)
-DeepSpeed
-MyLifeBits
-Agent-oriented programming
-XSP (software)
-Orleans (software framework)
-Currying
 Dryad (programming)
-U-Prove
-Project Digits
 Integrated development environment
-OCaml
-Microsoft Small Basic
-Group Shot
-Open Service Mesh
-Npm
-Docs.com
 Wayback Machine
-Comparison of C Sharp and Visual Basic .NET
 Freeware
-Conference XP
-Roslyn (compiler)
-Common Type System
-Alice (programming language)
-Microsoft PixelSense
 Cambridge University Press
-Control flow
-HoneyMonkey
-Code Access Security
 Programming language
-ASP.NET AJAX
-Microsoft adCenter Labs
 Programming tool
-Oxygene (programming language)
-Microsoft Research
-TrueSkill
-Windows Forms
-Read–eval–print loop
-Gérard Huet
 Imperative programming
-Functional programming
 Metaprogramming
-Frama-C
-XML Notepad
 Anonymous function
-Language Integrated Query
-.NET MAUI
-AirSim
-Windows Console
 Microsoft Office
 MS-DOS
-Units of measurement
-Framework Class Library
-ILAsm
-C++/WinRT
-WinObjC
 Programming paradigm
-LiveStation
-First-class function
-SXM (transactional memory)
-TypeScript
-Lean (proof assistant)
-Windows App SDK
-ASP.NET Razor
-Visual J Sharp
-List of .NET libraries and frameworks
-Dafny
 S2CID (identifier)
-Boo (programming language)
 IOS
-Community of practice
-DotGNU
-Reflective programming
-WinJS
-Process Monitor
-Scala (programming language)
 Software release life cycle
-Standard Libraries (CLI)
-Gazelle (web browser)
-Delegate (CLI)
-Windows Template Library
-Deep Zoom
-Microsoft Live Labs Volta
-Algebraic data types
-Extended ML
-Alt-Ergo
-Python Tools for Visual Studio
-RecursiveExtractor
-Confidential Consortium Framework
 Python (programming language)
-Microsoft and open source
-ASP.NET Dynamic Data
-Microsoft Cognitive Toolkit
-User-Mode Driver Framework
-Reason (programming language)
-Lazy evaluation
-NuGet
 JavaScript
-Microsoft Songsmith
-Family.Show
 Software design
 Computer network
-HOL (proof assistant)
-Standard ML of New Jersey
-TLAPS
-Microsoft C++ Standard Library
 Xbox
-Extensible Application Markup Language
-ChronoZoom
-.NET Gadgeteer
-EBPF on Windows
 Monad (functional programming)
-TLA+ Toolbox
-Neural Network Intelligence
-Shared Source Initiative
-.NET Compact Framework
-PhotoDNA
-Dotfuscator
-Bartok (compiler)
-Packt Publishing
-Dynamic Language Runtime
-Asynchronous programming
-Live Clipboard
-Vowpal Wabbit
-High-level programming language
-SharpDevelop
-WikiBhasha
-Infer.NET
-Static typing
-Visual Basic (.NET)
-Generator (computer programming)
-Programming language implementation
-Avalanche (P2P)
 Software developer
 Filename extension
 Common Language Infrastructure
 Linked list
-Windows Calculator
-IronPython
-Playwright (software)
-Software component
-Application domain
-Avalonia (software framework)
-SVNBridge
-ClickOnce
 Microsoft Windows
 Microsoft Visual Studio Express
 Decompiler
-Babylon.js
-Union (computer science)
-P (programming language)
-File Manager (Windows)
-Microsoft Reciprocal License
-XNA Framework
-Astrée (static analysis)
-Logic for Computable Functions
-Global Assembly Cache
-Units of measure
-TPM 2.0 Reference Implementation
-SecPAL
-F Sharp Software Foundation
-Microsoft Automatic Graph Layout
-List of CLI languages
-Microsoft Live Labs Deepfish
 Lambda calculus
-Open Letter to Hobbyists
-Microsoft Silverlight
-Microsoft Academic Search
 Software
-Seadragon Software
-CodePlex
 Obfuscation (software)
-Steven G. Johnson
-Polyphonic C Sharp
-Fluent Design System
-IllumiRoom
-FFTW
-ML.NET
-FourQ
-GeneWeb
-WorldWide Telescope
-Virtual File System for Git
-IronRuby
-Comparison of C Sharp and Java
 Kinect
-Joins (concurrency library)
-Function composition (computer science)
-Microsoft Blend
-Closure (computing)
-Network World
-Apress
-Tuple (computer science)
-Mixed Reality Toolkit
-SLAM project
-CLR Profiler
-Redgate
-PowerShell
 Linux
-ML (programming language)
-JScript .NET
-R Tools for Visual Studio
-Microsoft FUSE Labs
-Microsoft Comic Chat
 Number sign
-Microsoft Live Labs Pivot
-LEGO (proof assistant)
-Bosque (programming language)
-Open-source license
-Q Sharp
-LiveScript (programming language)
-Windows Identity Foundation
-VoTT
-Vim (text editor)
 Plug-in (computing)
-.NET Foundation
 Doi (identifier)
-Microsoft Visual Studio
-Cons
-Microsoft Open Specification Promise
-ATS (programming language)
-Twelf
-Visual Basic .NET
-Freebase (database)
-Sandcastle (software)
-Open XML SDK
-List of CIL instructions
-Standard ML
-MSBuild
-ASP.NET Web Forms
-Open Live Writer
-Microsoft SenseCam
-Manning Publications
-Cω
-Elm (programming language)
-SignalR
-Eff (programming language)
-Vcpkg
-Factorial function
-.NET Micro Framework
-Forge (software)
-GW-BASIC
-Mimalloc
-Open Source Security Foundation
-WCF Data Services
-ASP.NET MVC
-Free and open-source software
-LINQ
-Inversion of control
-Windows Package Manager
-Windows Desktop Gadgets
-JetBrains
-Don Syme
-Windows UI Library
 Open-source software
-Microsoft Live Labs Listas
-WebSharper
 Microsoft XNA
 Arity
-WiX
-F* (programming language)
 Pattern matching
-Comparison of Visual Basic and Visual Basic .NET
-Windows Terminal
-MLton
-T2 Temporal Prover
-Microsoft Detours
-Type-safe
-COM Interop
-Thierry Coquand
-Mod mono
-Electron (software framework)
-Windows Workflow Foundation
-Isabelle (proof assistant)
-ASP.NET Core
-Common Language Runtime
-Accelerator (library)
-Chakra (JavaScript engine)
-Runtime system
-Windows Driver Frameworks
-Barrelfish (operating system)
-General-purpose programming language
-Haxe
-Damien Doligez
-Midori (operating system)
-Poplog
-Simon Thompson (professor)
-O'Reilly Media
 Grid computing
-Blazor
-N-tuple
-Platform Invocation Services
-JoCaml
-Microsoft .NET strategy
-Microsoft Phoenix
-ADO.NET
-Text Template Transformation Toolkit
-Camlp4
-ReactiveX
-Verve (operating system)
-Manifest (CLI)
-XDP for Windows
-Type system
 GitHub
-Windows Presentation Foundation
-C++/CLI
-Z3 Theorem Prover
-MIT License
-Gollum (software)
-Matita
-Software architecture
-Dialect (computing)
-FlexWiki
-Concurrent programming
-BitVault
 Graphics processing unit
-.NET
-Fluid Framework
-Eager evaluation
 Internet
 Proprietary software
 MacOS
-F (programming language)
-Outercurve Foundation
-Phalanger (compiler)
-Tagged union
 C Sharp (programming language)
-A Sharp (.NET)
-Singularity (operating system)
-Don Sannella
-.NET Framework
-Nemerle
 Facebook
 ISBN (identifier)
-Christine Paulin-Mohring
 Associative array
-Dapr
-Microsoft PowerToys
-Robin Milner
-Dependent ML
-LINQPad
-Erlang (programming language)
-Metro (design language)
-OneFuzz
-Xamarin Studio
 Android (operating system)
-Binary code
-Coq (software)
-Caml
-Azure Linux

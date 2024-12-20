@@ -1,4 +1,3 @@
-Yezidi (script)
 Physical constant
 Telugu script
 Nandinagari
@@ -16,15 +15,11 @@ Regional indicator symbol
 Avestan alphabet
 Cypriot syllabary
 Chakma script
-List of mathematical symbols by subject
 Bopomofo
 Unicode and email
 Hangul
 Cherokee syllabary
-Rune
 Sogdian alphabet
-Internationalized domain name
-Blackboard bold
 International Committee for Information Technology Standards
 Khitan small script
 Arabic script
@@ -34,44 +29,31 @@ Sharada script
 Sunwar language
 Notation in probability and statistics
 Mathematics
-Nyiakeng Puachue Hmong
 Pahlavi scripts
 Currency symbol
 Combining grapheme joiner
-Punycode
-ISO/IEC 8859
 Khudabadi script
 Pahawh Hmong
 Pollard script
-℘
 Sorang Sompeng script
 List of XML and HTML character entity references
-Roundhand
 Standard Compression Scheme for Unicode
 Kharosthi
-Letterlike Symbols
 Gujarati script
 CESU-8
-Punctuation
 Devanagari
 UTF-32
 DIN 91379
 Mongolian script
 Code point
-Ugaritic alphabet
-Unicode character property
-Makassarese language
 Meitei script
 Pau Cin Hau script
 Soyombo script
-Specials (Unicode block)
 Gothic alphabet
 Ancient North Arabian
 Tai Tham script
 Ranjana script
-Kirat Rai
 Tai Le script
-Khwarezmian language
 Garay alphabet
 Mru language
 Takri script
@@ -79,7 +61,6 @@ SignWriting
 Tagbanwa script
 Emoji
 Comparison of Unicode encodings
-Nag Mundari
 Bengali–Assamese script
 Shavian alphabet
 Samaritan script
@@ -88,118 +69,56 @@ Halfwidth and fullwidth forms
 Old Hungarian script
 Dogri script
 Sylheti Nagri
-Osmanya alphabet
-Left-to-right mark
-Right-to-left mark
-Unicode collation algorithm
-ConScript Unicode Registry
-Warang Citi
 ISO 15924
-List of mathematical abbreviations
 Cham script
-Vai syllabary
-Tirhuta script
 Buhid script
-List of mathematical constants
-Plane (Unicode)
-Miscellaneous Mathematical Symbols-B
-ʼPhags-pa script
-Phonetic symbols in Unicode
 Ahom script
 Marchen script
-Patrick Ion
 Javanese script
-Homoglyph
 Numeric character reference
 Anatolian hieroglyphs
-Todhri alphabet
-List of mathematical uses of Latin letters
-Zanabazar square script
-Latin script in Unicode
-Typeface
-Geometric Shapes (Unicode block)
 Old Permic script
 Meroitic script
 UTF-EBCDIC
 Braille
-Numerical digit
-Greek script in Unicode
 Mathematical notation
-Unicode compatibility characters
-ISO/IEC 14651
-Gurung Khema
-Cursive
 Latin alphabet
-Elbasan
-Zero-width non-joiner
 Georgian scripts
-Liter symbol
 Gunjala Gondi script
-Duplicate characters in Unicode
 Lepcha script
 Malayalam script
 Baybayin
 Mandaic alphabet
-Unicode and HTML
 Duployan shorthand
 Nüshu
 Common Locale Data Repository
 Cyrillic script in Unicode
-Number Forms
-Bidirectional text
-Tangsa language
 Phoenician alphabet
 Katakana
-Yi script
-Parthian language
-Word joiner
 Siddhaṃ script
-Zero-width space
-ISO/IEC JTC 1/SC 2
 Thai script
 Arrow (symbol)
 Canadian Aboriginal syllabics
-Palmyrene alphabet
-Language of mathematics
-CJK Unified Ideographs
-Unicode input
 List of logic symbols
-Italic type
 Hanunoo script
-List of Unicode characters
-Toto language
-Old Uyghur
 Social media
 Geʽez script
 Glagolitic script
 Batak script
-Precomposed character
 Lycian alphabet
 Dhives Akuru
 Old Persian cuneiform
 Khmer script
-Private Use Areas
-Sans-serif
 Greek alphabet
-Unicode equivalence
 Kaithi
-Religious and political symbols in Unicode
 Miscellaneous Symbols and Arrows
-Computer font
-List of precomposed Latin characters in Unicode
 UTF-7
 Lydian alphabet
 Balinese script
 Kayah Li alphabet
 Unicode Consortium
-Mathematical Operators (Unicode block)
-Unicode font
 Tangut script
 Kanji
-Tibetan script
-Email filtering
-Linear A
-Z-variant
 N'Ko script
 Glossary of mathematical symbols
 Brahmi script
@@ -207,59 +126,35 @@ GB 18030
 UTF-8
 Diacritic
 Lao script
-Letterlike symbols (Unicode block)
 Whitespace character
 Deseret alphabet
 Binary Ordered Compression for Unicode
 Syriac alphabet
 Grantha script
-Coptic script
-Vithkuqi alphabet
 Limbu script
-Combining character
 Ol Chiki script
 Saurashtra script
 Unicode block
 Mende Kikakui script
-Miscellaneous Technical
-Unicode symbol
-Control Pictures
 Ancient South Arabian script
-Tifinagh
 Old Italic scripts
-MathML
 Aramaic alphabet
-Supplemental Mathematical Operators
 Sundanese script
 Ol Onal
-List of letters used in mathematics, science, and engineering
 Mon–Burmese script
 Hanja
 Pracalit script
-Mathematical operators and symbols in Unicode
-Byte order mark
-Bassa Vah alphabet
 Armenian alphabet
 Fraktur
-Supplementary Multilingual Plane
-ℓ
-Zero-width joiner
-Variation selectors
-Table of mathematical symbols by introduction date
 Gurmukhi
 Elymaic
 Hiragana
 Symbols for zero
 Multani script
-Hatran alphabet
 Odia script
-Latin letters used in mathematics, science, and engineering
 Space (punctuation)
-Azimuthal quantum number
-Variant form (Unicode)
 Bhaiksuki script
 Sinhala script
-Monospaced font
 UTF-1
 Carian alphabets
 Hanifi Rohingya script
@@ -268,42 +163,23 @@ Nabataean script
 Kawi script
 Kannada script
 ISO 31-11
-Ideographic Research Group
 Tamil script
-Universal Character Set characters
-Tigalari script
-International Ideographs Core
 Khojki script
 APL syntax and symbols
-List of common physics notations
 Caucasian Albanian script
-Wancho script
-Chancery hand
 Medefaidrin
 Gondi writing
 Cypro-Minoan syllabary
-Markup language
 Old Turkic script
 Bamum script
-Rejang alphabet
 Soft hyphen
 Thaana
 Modi script
-Mark Davis (Unicode)
 Linear B
 Han unification
-Unicode alias names and abbreviations
 UTF-16
 Adlam script
-Unicode anomaly
-Miscellaneous Mathematical Symbols-A
-Serif
 New Tai Lue alphabet
-List of typographical symbols and punctuation marks
-International Components for Unicode
 Cuneiform
 Mahajani
-Numerals in Unicode
-Tai Dam language
-Emphasis (typography)
 Manichaean script

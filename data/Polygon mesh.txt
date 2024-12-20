@@ -1,127 +1,31 @@
-.3ds
-.blend (file format)
-.dae
-.fbx
-3D Systems
 3D computer graphics
-ASTM International
-Additive Manufacturing File Format
-AutoCAD
-AutoCAD DWG
-AutoCAD DXF
 Autodesk
 Autodesk 3ds Max
-Bentley Systems
 Blender (software)
-Blender Foundation
-Boolean logic
 Boundary representation
-CINEMA 4D
-CNC
 COLLADA
-Chew's second algorithm
 Cinema 4D
-CiteSeerX (identifier)
 Collision detection
 Computational geometry
 Computer graphics
-Concave polygon
-Connectivity information
-Constructive solid geometry
-Convex polygon
-Coplanar
 DirectX
 Doi (identifier)
 Dolphin
 Eric W. Weisstein
-Euler operator (digital geometry)
-FBX
-Face (geometry)
-File format
-GMsh mesh
-Geometric modeling
-Gmsh
-Half-edge data structure
-Hypergraph
-Image-based meshing
 Khronos Group
-Kitware
-LAI4D
-Laplacian smoothing
-Level of detail (computer graphics)
-LightWave 3D
-Low poly
-Manifold
-Marching cubes
-Marching tetrahedra
 MathWorld
-Maxon Computer GmbH
-Mesh generation
-Mesh subdivision
-MicroStation
-MikuMikuDance
 Morph target animation
-N-gons
-NewTek
-OGRE mesh
-OpenGL
 PDF
-PLY (file format)
-Parallel mesh generation
-Paraview
-Phong shading
 Polygon (computer graphics)
-Polygon modeling
-Polygon with holes
-Polygonizer
-Polyhedron
-Principles of Grid Generation
-Progressive meshes
-Quad-edge
-Quadrilateral
-Raw mesh
 Ray tracing (graphics)
-Real-time rendering
-Regular grid
 Rendering (computer graphics)
-Rhinoceros 3D
-Rigid-body dynamics
-Ruppert's algorithm
-STL (file format)
-Shaders
-Simplex
 Skeletal animation
 Solid modeling
 Sony Computer Entertainment
 Stanford University
 Stereolithography
-Stretched grid method
-Subdivision surfaces
-Surface
-Surface normal
 Surface triangulation
-T-spline
-Tessellation (computer graphics)
-Texture map
-Triangle
-Triangle fan
 Triangle mesh
-Triangulation (geometry)
-Types of mesh
-UV coordinates
-Unstructured grid
 VRML
-VTK
-Vega FEM
-Vertex (graph theory)
-Volume mesh
-Wavefront .obj file
-Wavefront Technologies
-Web3D Consortium
-Weighting
-Winged edge
-Winter School of Computer Graphics
 Wire-frame model
 X3D
-Z3d
-Zmodeler

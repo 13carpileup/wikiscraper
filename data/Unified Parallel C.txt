@@ -1,6 +1,5 @@
 ANSI C
 API
-Address space
 Alef (programming language)
 Amdahl's law
 Amsterdam Compiler Kit
@@ -15,16 +14,12 @@ Barrier (computer science)
 Beowulf cluster
 Bionic (software)
 Bit-level parallelism
-Boost (C++ libraries)
-Borland Turbo C
 Bulldozer (microarchitecture)
 C++
-C++ AMP
 C11 (C standard revision)
 C17 (C standard revision)
 C23 (C standard revision)
 C99
-CLion
 CUDA
 C (programming language)
 C POSIX library
@@ -33,7 +28,6 @@ C character classification
 C data types
 C date and time functions
 C dynamic memory allocation
-C file input/output
 C mathematical functions
 C preprocessor
 C standard library
@@ -51,7 +45,6 @@ Cloud computing
 Coarray Fortran
 CodeLite
 Comparison of Pascal and C
-Compatibility of C and C++
 Computer cluster
 Computer hardware
 Computer multitasking
@@ -59,7 +52,6 @@ Computer network
 Computer programming
 Concurrency (computer science)
 Cost efficiency
-Cross-platform
 D (programming language)
 Data parallelism
 Dataflow architecture
@@ -75,7 +67,6 @@ Dryad (programming)
 Eclipse (software)
 Embarrassingly parallel
 Embedded C
-Embedded GLIBC
 Explicit parallelism
 Fiber (computer science)
 Flynn's taxonomy
@@ -93,8 +84,6 @@ HPX
 Hardware acceleration
 Hardware scout
 High-performance computing
-High Performance Fortran
-Hybris (software)
 Imperative programming
 Implicit parallelism
 Include directive
@@ -102,23 +91,18 @@ Instruction-level parallelism
 Instruction pipelining
 Instruction window
 Integrated development environment
-Intel C++ Compiler
 KDevelop
 Karp–Flatt metric
 Klibc
 LCC (compiler)
 Limbo (programming language)
-List of C compilers
 Loop-level parallelism
 MISRA C
-Manifest typing
 Manycore processor
 Massively parallel
 Memory-level parallelism
 Memory coherence
-Memory management
 Message Passing Interface
-Message passing
 Microsoft Visual C++
 Microsoft Visual Studio Express
 Microsoft Windows library files
@@ -129,7 +113,6 @@ Multithreading (computer architecture)
 Musl
 NetBeans
 Newlib
-Non-Uniform Memory Access
 Non-blocking algorithm
 Non-uniform memory access
 Norcroft C compiler
@@ -139,30 +122,24 @@ OpenCL
 OpenHMPP
 OpenMP
 Operating system
-Operators in C and C++
 Parallel Extensions
 Parallel RAM
 Parallel Virtual Machine
 Parallel computing
 Parallel external memory
-Parallel machine
-Parallel programming
 Parallel programming model
 Parallel slowdown
-Partitioned global address space
 Pipeline (computing)
 Portable C Compiler
 Preemption (computing)
 Procedural programming
 Process (computing)
 Programmer
-Programming language implementation
 Programming paradigm
 Pthreads
 ROCm
 Race condition
 RaftLib
-SPMD
 Scalability
 Semiconductor memory
 Shared memory
@@ -175,35 +152,23 @@ Small Device C Compiler
 Software design
 Software lockout
 Software release life cycle
-Software transactional memory
 Speculative multithreading
 Speedup
-Split-C
 Starvation (computer science)
-Static typing
 Stdarg.h
 Stream processing
-Structured programming
-Subroutine
 Superscalar processor
-Superset
 Symmetric multiprocessing
 Synchronization (computer science)
 Systolic array
 Task parallelism
 Temporal multithreading
-Thread (computer science)
 Thread (computing)
 Threading Building Blocks
 Tiny C Compiler
-Type system
 UClibc
 Uniform memory access
 Vala (programming language)
 Vector processor
 Visual Studio
-Watcom C/C++
 Wayback Machine
-Weak typing
-X10 (programming language)
-ZPL (programming language)

@@ -3,7 +3,6 @@ Anonymous blog
 Art blog
 Astroturfing
 Atom (Web standard)
-Atom (standard)
 Atom (web standard)
 BitTorrent
 Blawg
@@ -12,7 +11,6 @@ Blog carnival
 Blog fiction
 Blogosphere
 Broadcatching
-Catalog Service for the Web
 Citizen journalism
 Classical music blog
 Columnist
@@ -29,13 +27,9 @@ Escribitionist
 Fashion blog
 FeedSync
 Feed URI scheme
-Feed aggregator
 Filename extension
 Food blogging
-GeoPackage
-GeoSPARQL
 Geography Markup Language
-Geospatial Content Management System
 Geotagging
 Glossary of blogging
 Hashtag
@@ -45,9 +39,7 @@ History of podcasting
 History of web syndication technology
 Instant messaging
 Inter-process communication
-Internet Engineering Task Force
 Journalism
-Keyhole Markup Language
 Lifelog
 Linkback
 List of family-and-homemaking blogs
@@ -69,11 +61,8 @@ NewsML-G2
 NewsML 1
 News aggregator
 Niche blogging
-OGC Reference Model
 OPML
-Observations and Measurements
 Online diary
-Open Geospatial Consortium
 Pay-per-click
 Peercasting
 Permalink
@@ -99,24 +88,17 @@ Resource Description Framework
 Reverse blog
 Review aggregator
 Rollback (data management)
-SRID
 Screencast
 Search aggregator
-SensorML
-Sensor Observation Service
 Sideblog
-Simple feature access
 Slashdot effect
 Slidecasting
 Social software
 Spam blog
 Spam in blogs
 Streaming media
-Styled Layer Descriptor
 Thread (Internet)
-Tile Map Service
 Trackback
-TransducerML
 Travel blog
 Usenet
 Uses of podcasting
@@ -125,13 +107,6 @@ Video blog
 Videocast
 Vlog
 Warblog
-WaterML
-Web Coverage Service
-Web Feature Service
-Web Map Service
-Web Map Tile Service
-Web Processing Service
-Web Registry Service
 Web Slice
 Web browser
 Web directory
@@ -140,7 +115,6 @@ Web series
 Web syndication
 Webcomic
 Webtoon
-World Geodetic System
 World Wide Web
 XBEL
 XML

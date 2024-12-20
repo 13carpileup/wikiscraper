@@ -104,8 +104,6 @@ ROSAT
 Radiation length
 Radiation shield
 Radiative cooling
-Radiative loss
-Radiative recombination (plasma)
 Reduced Planck constant
 Relativistic particle
 Reuven Ramaty High Energy Solar Spectroscopic Imager
@@ -132,12 +130,9 @@ Vertex function
 Virtual particle
 Virtual photon
 Voltage
-Ward–Takahashi identity
 Water
 Wavelength
 Wiggler (synchrotron)
-Wood
 X-ray
 X-ray generator
 X-ray tube
-XMM-Newton

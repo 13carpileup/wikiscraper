@@ -6,13 +6,11 @@ Algorithm
 ArXiv (identifier)
 Architectural engineering
 Artificial intelligence
-Artificial intelligence systems integration
 Audio engineer
 Automation engineering
 Automotive engineering
 Bachelor of Engineering
 Bachelor of Science
-Bayesian optimization
 Bibcode (identifier)
 Biochemical engineering
 Bioinformatics
@@ -23,7 +21,6 @@ Biomedical engineering
 Bioresource engineering
 Broadcast engineering
 Building services engineering
-Carbon footprint
 Ceramic engineering
 Chemical engineering
 Chemical reaction engineering
@@ -32,41 +29,26 @@ Climate engineering
 Clinical engineering
 Cloud computing
 Coastal engineering
-Computational power
 Computer engineering
 Computer network engineering
 Construction engineering
 Control engineering
-Convolutional neural network
 Corrosion engineering
 Cross-validation (statistics)
 Cybersecurity engineering
 Data
-Data anonymization
-Data augmentation
 Data center
 Data engineering
-Data lake
-Data poisoning
-Data privacy
-Data scientists
-Data storage
 Database
-Dataset
-Deep learning
 Design engineer
-DevOps
 Doctorate
 Doi (identifier)
-Early stopping
 Earthquake engineering
 Ecological engineering
-Edge computing
 Electrical engineering
 Electrochemical engineering
 Electromechanics
 Electronic engineering
-Electronic hardware
 Encryption
 Energy
 Energy engineering
@@ -79,18 +61,12 @@ Engineering management
 Engineering mathematics
 Engineering physics
 Environmental engineering
-Environmental impact
-Explainable artificial intelligence
 Explosives engineering
-Extract, transform, load
 Facilities engineering
-Fine-tuning (deep learning)
 Fire protection engineering
 Food engineering
 Forensic engineering
-Formal logic
 General Data Protection Regulation
-Generative pre-trained transformer
 Genetic engineering
 Geological engineering
 Geomatics engineering
@@ -102,26 +78,19 @@ Glossary of electrical and electronics engineering
 Glossary of mechanical engineering
 Glossary of structural engineering
 Graduate certificate
-Green data center
-Grid search
 Hdl (identifier)
 Health technology
 History of engineering
 Hydraulic engineering
-Hyperparameter optimization
-Hyperparameter tuning
 ISBN (identifier)
 ISSN (identifier)
-IT operations
 Industrial engineering
 Information engineering
 Instrumentation and control engineering
 Instrumentation engineering
 Interdisciplinarity
-Key performance indicators
 List of engineering branches
 Logistics engineering
-MLOps
 Machine learning
 Manufacturing engineering
 Marine engineering
@@ -136,43 +105,31 @@ Military engineering
 Mining engineering
 Molecular engineering
 Municipal or urban engineering
-Named-entity recognition
 Nanotechnology
 Natural language processing
 Naval architecture
-Neural network (machine learning)
 NoSQL
-Normalization (machine learning)
 Nuclear engineering
 Offshore engineering
-On-premises software
 Ontology engineering
 Optical engineering
 Outline of computer engineering
 Outline of engineering
-Overfitting
 PMC (identifier)
 PMID (identifier)
 Packaging engineering
 Paper engineering
-Parallelization
-Part of speech
 Petroleum engineering
 Pharmaceutical engineering
 Pipeline (computing)
 Polymer engineering
 Power engineering
 Privacy engineering
-Probabilistic reasoning
 Process engineering
-Pruning (artificial neural network)
 Radio-frequency engineering
 Railway engineering
-Recurrent neural network
-Regression analysis
 Regulation and licensure in engineering
 Rehabilitation engineering
-Renewable energy
 River engineering
 Robotics engineering
 SQL
@@ -181,7 +138,6 @@ Sanitary engineering
 Security engineering
 Semiconductor device
 Signal processing
-Software components
 Software engineering
 Sports engineering
 Statistical classification
@@ -189,15 +145,12 @@ Structural engineering
 Surface engineering
 Survey engineering
 Sustainable engineering
-Symbolic artificial intelligence
 Systems engineering
 Telecommunications engineering
 Textile engineering
 Thermal engineering
 Tissue engineering
 Traffic engineering (transportation)
-Transfer learning
-Transformer (deep learning architecture)
 Transportation engineering
 Tribology
 User interface

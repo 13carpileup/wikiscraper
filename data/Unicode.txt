@@ -1,39 +1,27 @@
 Code page 864
-ISO/IEC 8859
 Domain Name System
-ISO/IEC 8859-3
 KOI8-R
 LST 1590-4
-EUC-JP
 ATASCII
 Code page 1009
 Code page 1019
 Code page 852
 INIS character set
-Java virtual machine
 Kannada script
-Linux distributions
 Aramaic alphabet
 Hebrew alphabet
 Atari ST character set
 ISO-IR-68
 Code page 921
 Latin script
-Control Pictures
-Code page 904
-DirectWrite
 Code page 777
 Currency symbol
 Code page 1013
 Hyphen-minus
-Hindko
 Dhives Akuru
 ISO 2033
 ISO-IR-169
-Coptic alphabet
 Carian alphabets
-Gardiner's sign list
-Indic Siyaq Numbers
 FOCAL character set
 Code page 1006
 Cork encoding
@@ -44,39 +32,25 @@ Cooke and Wheatstone telegraph
 GSM 03.38
 Code page 895
 FreeBSD
-Character property (Unicode)
 Code page 899
 LST 1564
 KOI-7
 Character set
-Code page 1055
-Ideographic Description Sequences
 ASCII
-Gurung Khema
 KPS 9566
 CSX Indic character set
 Hentaigana
 Code page 737
 Diacritic
-ISO/IEC 8859-5
-Combining diacritical mark
 Inscriptional Pahlavi
 Kanji
-Code page 1056
-Bidirectional Text
 Devanagari
 Amstrad CPC character set
-Halfwidth and Fullwidth Forms (Unicode block)
 ISO 6862
-ISO 8859-9
-Kangxi radicals
-Hausa language
 JIS X 0208
-Ligature (typography)
 CSX+ Indic character set
 Bengali–Assamese script
 Cypro-Minoan syllabary
-ISO/IEC 14755
 CER-GS
 Code page 1014
 Arabic script
@@ -85,17 +59,11 @@ Code page 1098
 KOI8-U
 Halfwidth and fullwidth forms
 Gunjala Gondi script
-Dotless I
-Capital ẞ
 LY1 encoding
-Left-to-right mark
 Indian Script Code for Information Interchange
-Lee Collins (Unicode)
 Charset detection
 Glagolitic script
 Cuneiform
-Greek Extended
-Dominoes
 Hiragana
 Code page 776
 Code page 1103
@@ -107,112 +75,67 @@ KS X 1001
 ISO 5427
 Khudabadi script
 Code page 932 (IBM)
-Greek script in Unicode
-Dot above
-Code page 858
-Box Drawing
-Fraction
 Code page 942
-ISO/IEC 8859-8
 GEM character set
 Combining grapheme joiner
 Code page 1042
-Ideographic Research Group
-Currency Symbols (Unicode block)
 Code page 861
-Block (Unicode)
-ISO/IEC 8859-15
 Asterisk
-Amstrad CP/M Plus character set
 HP Roman
-IETF
-International Ideographs Core
 Code page 950
 Code page 1015
 Code page 1107
 ARIB STD B24 character set
-April Fools' Day RFC
-Bidirectional text
 Hardware code page
 JIS X 0213
-Fitzpatrick scale
-Apple Advanced Typography
 Code page 936 (IBM)
 CNS 11643
 Code page 1117
 Doi (identifier)
 Kawi script
-CCCII
-Hatran alphabet
 Aleph
 Inscriptional Parthian
 ELOT 927
 Code page 1040
-Hanazono University
 C0 and C1 control codes
 Chinese characters
 Code page 1023
-Gmail
 Code page 1287
-ISO/IEC 8859-7
-Font
 Armenian alphabet
 GB 18030
 Code page 865
 Code page 857
 Glyph
-Bob Belleville
-16-bit computing
 Hong Kong Supplementary Character Set
-ISO/IEC 8859-16
 Braille
 ArmSCII
 Chakma script
-Latin Extended-B
 Grapheme
 GBK (character encoding)
 Code page 708
-Dingbat
 Hanunoo script
 Insular script
 Code page 850
-Character sets
-Intecolor/Compucolor 8001 character set
-IPA Extensions
 Code page 1012
-IETF language tag
 Code page 1102
 Code page 853
 Code page 856
 Apple II character set
-Byzantine music
-ISO/IEC JTC 1/SC 2
-Joseph D. Becker
 ISO-IR-197
-Latin-1 Supplement (Unicode block)
 Code page 1016
 Burmese alphabet
 Bracket
 Han unification
 Baybayin
 Code page 1043
-Basic Latin (Unicode block)
 Kaithi
-ISO/IEC 8859-10
-Kirat Rai
 Code page 1133
 BCD (character encoding)
-Indo-Aryan languages
-Hexagram (I Ching)
 Code page 1127
-Hangul Jamo
 Brahmi script
 Kayah Li alphabet
-ISO/IEC 8859-9
 Character encodings in HTML
-Ideographic Variation Database
 Code page 775
-ISO/IEC 8859-2
 Hong Kong
 ISO 5426
 INIS-8
@@ -221,75 +144,45 @@ List of XML and HTML character entity references
 Code page 1046
 Code point
 Batak script
-Block Elements
 Klingon scripts
-IEC-P27-1
 DEC Technical Character Set
-Homoglyph
 ISBN (identifier)
 =
 Ancient South Arabian script
-African Reference Alphabet
 Abugida
 CS Indic character set
 Code page 862
 Code page 1104
 GNU Compiler Collection
-International Components for Unicode
 Bopomofo
 Allograph
-Code page 1053
-Euro sign
 Code page 855
-Acute accent
 DEC Special Graphics
 Code page 866
-Georgian alphabet
-List of Unicode characters
-Elbasan
 Digital Equipment Corporation
-Ligature (writing)
-Latin character
-Ideograph
 Buhid script
 Khitan small script
 Chinese Character Code for Information Interchange
 Cyrillic
 JIS X 0212
 ArXiv (identifier)
-ISCII
-List of Unicode fonts
-ISO/IEC 8859-6
 European Committee for Standardization
 IBM AIX
-Duplicate characters in Unicode
-ATSUI
 E
 Limbu script
 ISO-IR-200
-Letterlike Symbols
-ISO/IEC 2022
 Code page 951
-Internationalized Domain Names
-+
 Code page 949 (IBM)
 Code page 867
-ISO/IEC 8859-13
 ISO 5428
-Cyrillic (Unicode block)
 CWI-2
-List of binary codes
 Cyrillic script
 Control character
-Code page 1034
 Code page 851
 Greek alphabet
 Code page 1018
 Binary Ordered Compression for Unicode
 BraSCII
-Cocoa text system
-Font substitution
-ISO/IEC 8859-14
 Carriage return
 Code page 868
 Glossary of mathematical symbols
@@ -299,125 +192,74 @@ ASMO 449
 Caucasian Albanian script
 Code page 3846
 ISO-IR-111
-.NET Framework
-List of precomposed Latin characters in Unicode
 Code page 1017
-Dave Opstad
-Injective
 Jurchen script
 Bitstream International Character Set
 Ancient North Arabian
 JIS X 0201
 Adobe Inc.
 Code page 1058
-Ken Lunde
 KOI character encodings
 Hangul
 Khojki script
-ISO/IEC 8859-1
-IDNA
 Compucolor II character set
 Adlam script
 Code page 897
 Grantha script
 Code page 936 (Microsoft Windows)
-Latin Extended Additional
 COVID-19 pandemic
-GNOME
-Base64
-Hyphen
 Code page 778
-ISO/IEC 8859-12
 Chinese telegraph code
 Geʽez script
 Code page 1021
-Character (computing)
 Code page 1101
 Code page 1124
-Arrows (Unicode block)
 Avestan alphabet
 Code page 773
 Code page 860
 DG International
-ISO/IEC 8859-11
-Bitcoin
 ISO-IR-182
 Code page 915
 Character encoding
-ConScript Unicode Registry
 Code page 1288
-Last Resort font
 Gurmukhi
-Georgian lari
-Code page 1052
-Gurmukhi script
-KDE
 KOI8-RU
-High-level programming language
-Graphite (SIL)
-CJK characters
 Galaksija (computer)
 Hanifi Rohingya script
 Lepcha script
-Code page 1054
 Ahom script
 Code page
-Linear A
 Kamenický encoding
 Byte
-Alchemical symbol
-ISO/IEC 10367
 Extended ASCII
-Indian rupee sign
 CCSID
 Google
 ANSEL
 GB 12052
 IBM
 Code page 896
-Charis SIL
 Javanese script
 Code page 859
 Georgian scripts
 Iran System encoding
-ISO/IEC 646
-ISO 6937
 Code page 1008
 Cham script
-Latin Extended-A
 Code page 770
 Cypriot syllabary
-ISO/IEC 14651
 ISO 15924
-FTP
-Internationalized domain name
 GOST 10859
 Khitan large script
-Apple Computer
 Garay alphabet
 KS X 1002
-Byte order mark
-Azeri alphabet
 Bengali alphabet
 DIN 66003
-Greek and Coptic
-Geometric Shapes (Unicode block)
-ISO-2022
 Common Locale Data Repository
-Endianness
-32-bit computing
 JIS X 0211
 CESU-8
 ISO 6438
-Indic script
 Code page 869
 Code page 1116
-Combining character
-Latin script in Unicode
-Core Text
-Bassa Vah script
 Hanja
-Alphabetic Presentation Forms
 Linear B
 Alphabet
 GB 2312
@@ -425,71 +267,45 @@ Canadian Aboriginal syllabics
 Fraser script
 Egyptian hieroglyphs
 ITU T.61
-Kyrgyzstani som
 Gujarati script
-Diminishing returns
-Leading zero
-ISO 8859-1
 DIN 91379
 Digital encoding of APL symbols
 Elymaic
 Code page 1020
 EBCDIC
 CDC display code
-CJK Unified Ideographs
 Khmer script
 Code page 1169
-Coptic script
-Internet Explorer
 DEC Hebrew
 Digraph (orthography)
 Code page 1106
 Code page 1010
 Apple Inc.
-Character repertoire
 Code page 1118
 Code page 437
-ISO/IEC 6429
-Basic Multilingual Plane
-Khwarezmian language
-GTK+
 Kurdish alphabets
 Emoji
 Baudot code
-Canonical equivalence
 Duployan shorthand
 Code page 912
 Casio calculator character sets
 Code page 922
 Code page 668
 Code page 863
-ISO/IEC 8859-4
-Joe Becker (Unicode)
-Hexadecimal
-Homoglyphs
 Code page 1115
 ABICOMP character set
-Emoticons
 Exclamation mark
 Cyrillic script in Unicode
-Elbasan script
 GB 12345
-HTTP
 ANSI escape code
 Anatolian hieroglyphs
-General Punctuation
-Dot (diacritic)
-Code page 1044
 HZ (character encoding)
 Comparison of Unicode encodings
 Dogri script
-Bassa Vah alphabet
-CJK Radicals Supplement
 Extended Latin-8
 Lao script
 DKOI
 HTML
-Arabic script in Unicode
 Gothic alphabet
 Bamum script
 Fieldata

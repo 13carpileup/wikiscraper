@@ -1,14 +1,7 @@
 !
-"
 $
-%
-&
 '
 (
-)
-+
-,
--
 0 (number)
 1 (number)
 2 (number)
@@ -19,7 +12,6 @@ $
 7 (number)
 8 (number)
 9 (number)
-;
 =
 ?
 @
@@ -31,9 +23,7 @@ ARIB STD B24 character set
 ASCII
 ASMO 449
 ATASCII
-Amstrad CP/M Plus character set
 Amstrad CPC character set
-Anne van Kesteren
 Apple II character set
 ArmSCII
 Arrow (symbol)
@@ -46,14 +36,12 @@ Big5
 Binary Ordered Compression for Unicode
 Bitstream International Character Set
 BraSCII
-Braces (punctuation)
 C
 C0 and C1 control codes
 CCSID
 CDC display code
 CER-GS
 CESU-8
-CJK
 CNS 11643
 CSX+ Indic character set
 CSX Indic character set
@@ -81,17 +69,10 @@ Code page 1019
 Code page 1020
 Code page 1021
 Code page 1023
-Code page 1034
 Code page 1040
 Code page 1042
 Code page 1043
-Code page 1044
 Code page 1046
-Code page 1052
-Code page 1053
-Code page 1054
-Code page 1055
-Code page 1056
 Code page 1058
 Code page 1098
 Code page 1101
@@ -130,7 +111,6 @@ Code page 853
 Code page 855
 Code page 856
 Code page 857
-Code page 858
 Code page 859
 Code page 860
 Code page 861
@@ -142,27 +122,22 @@ Code page 866
 Code page 867
 Code page 868
 Code page 869
-Code page 891
 Code page 895
 Code page 896
 Code page 897
 Code page 899
 Code page 903
-Code page 904
 Code page 912
 Code page 915
 Code page 921
 Code page 922
 Code page 932 (IBM)
 Code page 932 (Microsoft Windows)
-Code page 933
 Code page 936 (IBM)
 Code page 936 (Microsoft Windows)
 Code page 942
-Code page 944
 Code page 950
 Code page 951
-Code page 970
 Colon (punctuation)
 Comparison of Unicode encodings
 Compucolor II character set
@@ -178,13 +153,11 @@ DG International
 DIN 66003
 DIN 91379
 DKOI
-Deprecated
 Digital Equipment Corporation
 Digital encoding of APL symbols
 E
 EBCDIC
 ELOT 927
-EUC-KR
 Exclamation mark
 Extended ASCII
 Extended Latin-8
@@ -203,7 +176,6 @@ GEM character set
 GOST 10859
 GSM 03.38
 Galaksija (computer)
-Gender symbol
 Greater-than sign
 H
 HP Roman
@@ -214,55 +186,28 @@ Han unification
 Hangul
 Hanja
 Hardware code page
-Hexadecimal
 Hong Kong Supplementary Character Set
 I
 IANA
 IBM
 IBM AIX
-IEC-P27-1
 INIS-8
 INIS character set
-ISO-IR
 ISO-IR-111
 ISO-IR-169
 ISO-IR-182
 ISO-IR-197
 ISO-IR-200
 ISO-IR-68
-ISO/IEC 10367
-ISO/IEC 2022
-ISO/IEC 646
-ISO/IEC 8859
-ISO/IEC 8859-1
-ISO/IEC 8859-10
-ISO/IEC 8859-11
-ISO/IEC 8859-12
-ISO/IEC 8859-13
-ISO/IEC 8859-14
-ISO/IEC 8859-15
-ISO/IEC 8859-16
-ISO/IEC 8859-2
-ISO/IEC 8859-3
-ISO/IEC 8859-4
-ISO/IEC 8859-5
-ISO/IEC 8859-6
-ISO/IEC 8859-7
-ISO/IEC 8859-8
-ISO/IEC 8859-9
 ISO 2033
 ISO 5426
 ISO 5427
 ISO 5428
 ISO 6438
-ISO 646
 ISO 6862
 ITU T.61
 Indian Script Code for Information Interchange
 Information Processing Society of Japan
-Input method editor
-Intecolor/Compucolor 8001 character set
-International Components for Unicode
 Iran System encoding
 J
 JIS X 0201
@@ -271,7 +216,6 @@ JIS X 0211
 JIS X 0212
 JIS X 0213
 Japanese language in EBCDIC
-Johab
 K
 KOI-7
 KOI8-R
@@ -282,10 +226,7 @@ KPS 9566
 KS X 1001
 KS X 1002
 Kamenický encoding
-Kelvin
-Korean language
 L
-LMBCS-17
 LST 1564
 LST 1590-4
 LY1 encoding
@@ -314,7 +255,6 @@ Mac OS Hebrew
 Mac OS Icelandic encoding
 Mac OS Inuit
 Mac OS Keyboard encoding
-Mac OS Maltese/Esperanto encoding
 Mac OS Ogham
 Mac OS Roman
 Mac OS Romanian encoding
@@ -326,7 +266,6 @@ Macintosh Font X encoding
 Macintosh Latin encoding
 Magnetic ink character recognition
 Mazovia encoding
-Miscellaneous Technical (Unicode block)
 Mojibake
 Mojikyō
 Morse code
@@ -341,14 +280,12 @@ Number sign
 O
 OML encoding
 OMS encoding
-OS/2
 OT1 encoding
 P
 PETSCII
 Perso-Arabic Script Code for Information Interchange
 PostScript Latin 1 Encoding
 PostScript Standard Encoding
-Private Use Areas
 Prosigns for Morse code
 Python (programming language)
 Q
@@ -357,25 +294,20 @@ RISC OS character set
 RPL character set
 Russian Morse code
 S
-SAM Coupé character set
 SI 960
 SQUOZE
 Sega SC-3000 character set
 Sharp MZ character set
 Sharp pocket computer character sets
 Shift JIS
-Shift Out
 Sinclair QL character set
 Slash (punctuation)
 South Korea
 Space character
-Square brackets
 Standard Compression Scheme for Unicode
-Stanford/ITS character set
 Stanford Extended ASCII
 Symbol (typeface)
 T
-T.51/ISO/IEC 6937
 TI calculator character sets
 TRON (encoding)
 TRS-80 character set
@@ -407,13 +339,11 @@ VSCII
 VT100 encoding
 VT220
 Variable-width encoding
-Variable width encoding
 Ventura International
 Vertical bar
 Videotex
 Videotex character set
 W
-WHATWG
 Wabun code
 Wang International Standard Code for Information Interchange
 Whitespace character
@@ -427,13 +357,8 @@ Windows-1256
 Windows-1257
 Windows-1258
 Windows-1270
-Windows-949
-Windows Cyrillic + Finnish
-Windows Cyrillic + French
-Windows Cyrillic + German
 Windows Polytonic Greek
 Windows code page
-Won sign
 World System Teletext
 X
 Xerox Character Code Standard
@@ -448,23 +373,8 @@ ZX Spectrum character set
 `
 ~
 ¢
-¦
 ¬
 ¶
-ǂ
-ʺ
 •
-‾
-∟
-≦
-≧
 ▲
 ▼
-◄
-○
-◘
-◙
-☼
-♪
-♫
-￤

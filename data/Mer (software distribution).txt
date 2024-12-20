@@ -1,235 +1,114 @@
-ARM architecture
-Allwinner A20
 Amazon Kindle
 Android (operating system)
 Android Go
-Aqua Fish
-AsteroidOS
 B2G OS
 Bada (operating system)
-Beagleboard
 Binary Runtime Environment for Wireless
 BlackBerry 10
 BlackBerry OS
 BlackBerry Tablet OS
-Booting process of Linux
 BridgeOS
 Central processing unit
 ChromeOS
 ChromeOS Flex
-CompTIA Linux+
 Comparison of Linux distributions
 Comparison of mobile operating systems
-Comparison of netbook-oriented Linux distributions
-Criticism of Linux
-Criticism of desktop Linux
-DistroWatch
 EMUI
 EPOC (operating system)
-Enlightenment Foundation Libraries
-FOSDEM
-FOSS
-FeatherPad
 Fedora Linux
 Firefox OS
 Fork (software development)
 FreeBSD
 FreeRTOS
-Free Software Magazine
-Free and open-source software
 Fuchsia (operating system)
-Full Circle (magazine)
 GEOS (16-bit operating system)
 GNU
-GNU/Linux naming controversy
-Gambas
 Graphical user interface
 HMD Global
 HTML5
-Hacker Public Radio
-Halium
 HarmonyOS
 HarmonyOS NEXT
-History of Linux
-Hybris (software)
 IOS
 IPadOS
-Instruction set
 Intel
-Intel Atom
 Intel Management Engine
-Intel x86
 Jolla
-Jolla (smartphone)
-KDE
 KDE Partition Manager
-KDE Plasma
-KDE Plasma Workspaces
 KaiOS
-Kdenlive
 Kernel (operating system)
-LWN.net
-LXQt
-Libhybris
-Light-weight Linux distribution
-Linus's law
 Linux
-Linux-libre
-Linux.com
-LinuxChix
-LinuxUser
-Linux Counter
-Linux Documentation Project
-Linux Format
-Linux Foundation
-Linux Foundation Linux Certification
-Linux Gazette
-Linux Journal
 Linux Kernel
-Linux Magazine
-Linux Mark Institute
-Linux Outlaws
-Linux Voice
-Linux adoption
-Linux desktop environments
 Linux distribution
-Linux for mobile devices
-Linux gaming
 Linux kernel
-Linux kernel oops
-Linux malware
-Linux on embedded systems
-Linux range of use
-Linux user group
-List of Linux adopters
 List of Linux distributions
-List of Linux distributions that run from RAM
-List of computer security certifications
 List of custom Android distributions
-List of language bindings for Qt 4
-List of language bindings for Qt 5
 List of mobile app distribution platforms
 List of open-source mobile phones
-List of software package management systems
 LiteOS
 Lubuntu
-LugRadio
-Lumina (desktop environment)
 LuneOS
 MIPS architecture
 MacOS
 Maemo
 Magic Cap
 Manjaro
-Manjaro Linux
 MeeGo
-Meritocracy
-Meta-object System
 Microsoft Windows
 Middleware
 Minix 3
 Mobian
-Mobile OS
 Mobile app development
 Mobile operating system
 Mobilinux
 Moblin
 MontaVista
 MotoMagx
-Multicore CPU
 NetBSD
 Nintendo
 Nintendo 3DS system software
 Nintendo DSi system software
 Nintendo Switch system software
 Nokia Asha platform
-Nokia Internet Tablet
-Nokia N800
-Nokia N810
-Nokia N9
-Nokia N900
-Nokia N950
 Open-source software
 OpenEZX
 OpenEmbedded
 OpenHarmony
-Open Build Service
 Open Handset Alliance
 Open Mobile Alliance
 Openmoko Linux
 Operating system
-Package format
 Package manager
 PalmDOS
 Palm OS
-Phoronix Test Suite
-Plasma Active
 PlayStation Portable system software
 PlayStation Vita system software
 PostmarketOS
 PureOS
-PuzzlePhone
-PyQt
-PySide
-QML
 QNX
-Qbs (build tool)
-Qmake
-Qt5
 QtMoko
-QtRuby
-QtScript
-Qt (framework)
-Qt (software)
-Qt Creator
-Qt Jambi
-Qt Project
-Qt Quick
-RPM Package Manager
 Raspberry Pi
-Red Hat Certification Program
-Revolution OS
 S60 (software platform)
-SCO–Linux disputes
 SHR (operating system)
 Sailfish OS
-Samsung
-Security-focused operating system
 Series 30
 Series 30+
 Series 40
 Series 80 (software platform)
 Series 90 (software platform)
-Signals and slots
-Skanlite
 Smart TV
 Software license
-Software requirements specification
 Sony Ericsson Java Platform
 SteamOS
 Symbian
 System on a chip
-Systemd
-Tanenbaum–Torvalds debate
-The Code (2001 film)
-The Qt Company
 ThreadX
 Tizen
-Tux (mascot)
 UBports
 UIQ
-Ubuntu (operating system)
-Ubuntu Professional Certification
 Ubuntu Touch
-Ubuntu User
-VLC media player
-VxWorks
 WatchOS
-Wayland (display server protocol)
-Wayland compositor
 Wear OS
 WebOS
-Weston (software)
 Windows 10
 Windows 10 Mobile
 Windows 11

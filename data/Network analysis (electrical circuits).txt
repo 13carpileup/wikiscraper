@@ -1,123 +1,31 @@
-ABCD-parameters
-Adaptive step size
-Admittance
-Admittance parameters
-Backward Euler method
-Bartlett's bisection theorem
-Biasing
-Biasing (electronics)
 Bibcode (identifier)
-Binomial coefficient
-Black box
-Boolean algebra (logic)
 Boolean algebra (structure)
-Bulk resistance
 Capacitance
 Capacitor
-Capacitors in parallel
-Capacitors in series
-Circuit theory
 Complex number
 Constitutive equation
 Control theory
-Current (electricity)
-Current division
-Current source
-Differential-algebraic system of equations
-Diode
 Direct current
-Direct current circuit
-Distributed-element model
 Doi (identifier)
-Dual impedance
-Effective medium approximations
-Elastance
 Electric current
-Electrical circuit
-Electrical component
-Electrical conductance
-Electrical element
 Electrical engineering
 Electrical impedance
 Electrical network
-Electrical reactance
 Electrical resistance
-Electronic circuit simulation
 Electronic component
-Electronic filter
 Electronics
 Equation solving
-Equivalent impedance transforms
-Generator (circuit theory)
 Graph (discrete mathematics)
-Hybrid parameters
 ISBN (identifier)
-Image impedance
-Impedance parameters
 Inductance
 Inductor
-Inductors in parallel
-Inductors in series
-Initial value problem
-Inverse hybrid parameters
 Kirchhoff's circuit laws
-Kirchhoff's current law
-Kirchoff's current law
-Kirchoff's voltage law
-Laplace transform
-Linear circuit
-Load line (electronics)
-Lumped parameters
 Mesh
-Mesh analysis
-Millman's theorem
-Modified nodal analysis
 Network analysis (electrical circuits)
-Nodal analysis
-Node (circuits)
-Norton's theorem
-Numerical linear algebra
 Ohm's law
-One-port
-Ordinary differential equation
-P-n junction
-Phasor (electronics)
-Planar graph
-Port (circuit theory)
-Reciprocity (electrical networks)
-Resistive circuit
-Resistor
-Resistors
-Resistors in parallel
-Resistors in series
-Ronald M. Foster
-Root-finding algorithms
-S-domain
 S2CID (identifier)
-Scattering parameters
 Series and parallel circuits
 Sidney Darlington
-Small-signal model
-Small signal
-Spintronics
-Stable polynomial
-Star-mesh transform
-Superposition theorem
-Susceptance
-Symbolic circuit analysis
 System of linear equations
-Tellegen's theorem
-Temporal discretization
-Terminal (electronics)
-Thévenin's theorem
-Transfer function
 Transmission line
-Tunnel diode
-Two-port network
-Vitold Belevitch
 Voltage
-Voltage controlled amplifier
-Voltage division
-Voltage source
-Wilhelm Cauer
-Y-Δ transform

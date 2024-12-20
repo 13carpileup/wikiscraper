@@ -1,73 +1,38 @@
-ARM architecture
 Andrew S. Tanenbaum
 Apple II
 Arcade game
-Assembly code
 Assembly language
 Atari 2600
-Atari 8-bit computers
 Atari VCS
-Autotools
-BCPL
-Bootstrapping (compilers)
 C++
 C (programming language)
 Central processing unit
 Commodore 64
-Compilers
 Compiling
-Compute!'s Gazette
 Computer architecture
 Computing platform
-Console emulator
-Cross-compiling
-Cross-platform
-Dan Bunten
 Doi (identifier)
 Eiffel (programming language)
 Embedded systems
-Emulator
-Esterel
-Executable code
 GNU Compiler Collection
-Game port
-High-level programming language
 ISBN (identifier)
-Instruction set
-Intermediate code
-Intermediate language
 International Organization for Standardization
 Interpreter (computing)
 Java (programming language)
-Java virtual machine
-Just in time compiler
 Killer app
-Language binding
-Library (computer science)
-Library (software)
 Linux
 List of system quality attributes
 M.U.L.E.
 MacOS
-Machine code
-Martin Richards (computer scientist)
 Microsoft Windows
-Mobile computing
 Neo Geo (system)
 Operating system
 Origin Systems
-Origins Game Fair
-Ozark Softscape
 POSIX
 Pac-Man
 Pac-Man (Atari 2600)
 Personal computer
-Platform (computing)
-Portability (software)
-Poshlib
-Program transformation
 Programming language
-ROM
 Richard Garriott
 S2CID (identifier)
 SNK
@@ -75,20 +40,10 @@ Software
 Software engineering
 Software portability
 Software testing
-Source-to-source compiler
-Source port
 Space Invaders
-Sprite (computer graphics)
-Steven L. Kent
-The Hobbit (1982 video game)
-The Seven Cities of Gold (video game)
-Three Rivers Press
-Ultimate History of Video Games
-Unified memory
 Video game
 Video game console
 Video game crash of 1983
 Video game port
 Virtual machine
-Write once, compile anywhere
 X86

@@ -1,15 +1,10 @@
 IEC 60309
 IP-XACT
 Topic map
-ISO/IEC 15504
 IEC 60870
-ISO/IEC 11179
 MPEG-7
-ISO/IEC 42010
 IEC 61508
 IEC 60068
-ISO/IEC 2022
-ISO/IEC 38500
 IEC 61511
 MPEG-21
 International Standard Identifier for Libraries and Related Organizations
@@ -17,38 +12,26 @@ Universal Remote Console
 JBIG
 C++
 International Electrotechnical Commission
-ISO/IEC 7810
 ECMAScript
 JPEG 2000
-ISO/IEC 27000
 IEC 60870-6
-ISO/IEC 24744
 Full BASIC
 Digital rights management
-ISO/IEC 7816
-ISO/IEC 27000-series
-ISO/IEC 10116
 IEC 60269
 IEC 61360
-ISO/IEC 17024
 19-inch rack
 MHEG-5
 AES47
 MPEG-H
 ANSI escape code
-ISO/IEC 7812
-ISO/IEC 21827
 IEEE 754
 IEC 61499
 Universal Disk Format
-ISO/IEC 8652
 IEC 81346
 OpenDocument
 IEC 61334
 IEC 61850
 Z notation
-ISO/IEC 4909
-ISO/IEC 9529
 IEC 60601
 Digital Addressable Lighting Interface
 Graphical Kernel System
@@ -57,7 +40,6 @@ COBOL
 Common Logic
 Compact Disc Digital Audio
 MPEG-1
-ISO/IEC 19752
 ISLISP
 IEC 62056
 Fieldbus
@@ -65,10 +47,8 @@ IEC 63382
 E series of preferred numbers
 IEC 61030
 AES3
-ISO/IEC 19770
 Standardization
 IEC 61970
-ISO/IEC 7811
 CHILL
 Battery nomenclature
 IEC 60228
@@ -77,69 +57,44 @@ Mixed raster content
 IEC 63110
 EN 62262
 POSIX
-ISO/IEC 15897
 Computer Graphics Metafile
-ISO/IEC 27040
-ISO/IEC 6523
 IEC 60906-1
 USB
-ISO/IEC 20000
-ISO/IEC 17025
-ISO/IEC 9126
 QR code
 Open Data Protocol
-ISO/IEC 9995
-ISO/IEC 12207
 IEC 62379
 List of IEC standards
-ISO/IEC 15693
 HTML
-ISO/IEC 5218
 IEC 62325
 IEC 61355
 IEC 62682
 Linux Standard Base
 IEC 60320
 MPEG-4
-ISO/IEC 7813
 Graph Query Language
 IEC 60870-5
 IEC 61131-3
 Guidelines for the Definition of Managed Objects
 IEC 60446
-ISO/IEC 80000
 ECMAScript for XML
-ISO/IEC 33001
 MPEG-A
-ISO/IEC 15288
-Digital Video Broadcasting
 IEC 62700
-IEC 60980-344
 PHIGS
-ISO/IEC 8859
 IO-Link
 IEC 60929
 C Sharp (programming language)
-ISO/IEC 14443
-ISO/IEC 24727
 IEC 61162
-ISO/IEC 18014
 Measurement
 IEC 62264
 JPEG XL
 IEC 63119
-IEC 62351
 Open Document Architecture
 IEC 60034
-ISO/IEC 19788
-ISO/IEC 11404
 IEC 61400
 IEC 61968
 Ada Semantic Interface Specification
 IEC 62366
-ISO/IEC 14651
 IEC 62304
-ISO/IEC 29119
 IEC 61131
 MPEG-2
 Document Style Semantics and Specification Language
@@ -148,16 +103,11 @@ IEC 62196
 Common Criteria
 ANSI C
 Comparative Tracking Index
-ISO/IEC 27002
-ISO/IEC 10021
 RKM code
 IEC 62061
-ISO/IEC 646
-ISO/IEC 10967
 IEC 60027
 Universal Coded Character Set
 RELAX NG
-ISO/IEC 11801
 IEC 61851
 MPEG-D
 IEC 60038

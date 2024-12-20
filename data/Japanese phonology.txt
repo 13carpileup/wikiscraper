@@ -1,164 +1,75 @@
 ARIB STD B24 character set
-Abkhaz phonology
-Acehnese phonology
-Adyghe phonology
-Affricate consonant
 Afrikaans phonology
-Agglutinative language
 Akita dialect
-Allomorph
 Allophone
-Alveolar approximant
-Alveolar consonant
-Alveolar lateral flap
-Alveolar ridge
-Alveolar trill
-Alveolo-palatal consonant
 Amami Japanese
 Amami Ōshima language
-American Sign Language phonology
-Ancient Greek phonology
 Apical consonant
 Approximant
-Arabic phonology
-Archiphoneme
 Aspirated consonant
-Assimilation (linguistics)
-Assimilation (phonology)
 Ateji
-Australian English phonology
-Avestan phonology
 Awaji dialect
 Back vowel
 Bamboo English
 Banshū dialect
-Belarusian phonology
-Bengali phonology
-Bernard Bloch (linguist)
-Bernese German phonology
 Bibcode (identifier)
-Biblical Hebrew
-Bilabial approximant
-Bilabial consonant
 Bingo dialect
 Bonin English
-Boris Yeltsin
 Braille kanji
-Bulgarian phonology
-Burmese phonology
-Cantonese phonology
 Catalan phonology
 Central vowel
 Chikuzen dialect
 Chinese characters
-Chroneme
-Chukchi phonology
-Chūgoku dialect
 Classical Japanese
-Clipped compound
-Close back compressed vowel
-Close back unrounded vowel
-Close central rounded vowel
-Close central unrounded vowel
 Close front unrounded vowel
 Close vowel
-Colognian phonology
 Consonant
-Consonant cluster
-Consonant mutation
-Copula (linguistics)
-Cornish phonology
-Coronal consonant
 Cyrillization of Japanese
 Czech phonology
-Daijirin
-Daijisen
-Dakuten
-Danish phonology
-Dental, alveolar and postalveolar lateral approximants
-Dialects of Japanese
 Doi (identifier)
 Dutch phonology
 Early Middle Japanese
 Early Modern Japanese
 Eastern Old Japanese
-Egyptian Arabic phonology
-Elision
 Enclosed CJK Letters and Months
 Enclosed Ideographic Supplement
 English language
-English phonology
 Engrish
-Epenthesis
-Esperanto phonology
 Estonian phonology
 Extended Unix Code
 Extended shinjitai
-Extra-shortness
-Faroese phonology
-Fenghuang
 Finnish phonology
 French language
 French phonology
-Fricative consonant
 Front vowel
 Furigana
-Fusion (phonetics)
-Fusional language
-Gairaigo
-Galician phonology
-Geminate consonant
-Gemination
 Gender differences in Japanese
-General American English
 Generative grammar
 Glossary of Japanese words of Dutch origin
 Glossary of Japanese words of Portuguese origin
-Glottal consonant
-Glottal stop
 Go-on
 Gojūon
-Greenlandic phonology
-Gujarati phonology
 Gunma dialect
 Hachijō grammar
 Hachijō language
 Hakata dialect
 Halfwidth and fullwidth forms
-Handakuten
-Hawaiian phonology
 Hdl (identifier)
-Hejazi Arabic phonology
 Hentaigana
 Hepburn romanization
-Hiatus (linguistics)
 Hichiku dialect
 Hida dialect
-Hindustani phonology
 Hiragana
 Hiragana (Unicode block)
-Historical Chinese phonology
 Historical kana orthography
-Historical kana usage
 Hokkaido dialects
-Hokkien phonology
-Hokuriku dialect
 Honorific speech in Japanese
-Hungarian phonology
-Hypocorism
-Hōnichi dialect
 ISBN (identifier)
-ISO/IEC 2022
 Ibaraki dialect
 Icelandic phonology
-Ingrian phonology
 Inshū dialect
 International Phonetic Alphabet
-International Phonetic Association
-Inuit phonology
 Irish phonology
-Isochrony
-Italian phonology
 Iyo dialect
 JIS X 0201
 JIS X 0208
@@ -167,13 +78,9 @@ JIS X 0212
 JIS X 0213
 JSL romanization
 JSTOR (identifier)
-James D. McCawley
-Janet Pierrehumbert
 Japanese-based creole languages
 Japanese Braille
 Japanese adjectives
-Japanese books
-Japanese conjugation
 Japanese counter word
 Japanese dialects
 Japanese dictionary
@@ -182,8 +89,6 @@ Japanese grammar
 Japanese honorifics
 Japanese irregular verbs
 Japanese language
-Japanese language and computers
-Japanese language education
 Japanese literature
 Japanese loanwords in Hawaii
 Japanese numerals
@@ -195,7 +100,6 @@ Japanese pronouns
 Japanese punctuation
 Japanese script reform
 Japanese sound symbolism
-Japanese verb conjugation
 Japanese writing system
 Japonic languages
 Jōdai Tokushu Kanazukai
@@ -212,77 +116,32 @@ Kanazukai
 Kanbun
 Kanji
 Kansai dialect
-Kanto dialects
-Kantō dialect
 Katakana
 Katakana (Unicode block)
 Katakana Phonetic Extensions
-Kerkrade dialect phonology
 Kesen dialect
 Kikai language
-Kiowa phonology
 Kishū dialect
-Koine Greek phonology
 Kokuji
-Konkani phonology
-Korean phonology
 Kumamoto dialect
-Kun'yomi
 Kunigami language
 Kunrei-shiki romanization
-Kurdish phonology
 Kyowa-go
-Kyrgyz phonology
-Kōjien
-Labialized velar approximant
-Laminal consonant
-Language (journal)
 Late Middle Japanese
-Latgalian phonology
-Latin influence in English
-Latin phonology and orthography
-Latvian phonology
-Lax vowel
-Lenition
-Levantine Arabic phonology
-Liquid consonant
 List of Japanese speculative fiction writers
 List of Japanese writers
 List of classical Japanese texts
-List of kanji by stroke count
 List of kanji radicals by frequency
 List of kanji radicals by stroke count
-Lists of languages
-Lithuanian phonology
-Loanwords in Japanese
 Logogram
-Luxembourgish phonology
-Maastrichtian dialect phonology
-Macedonian phonology
-Malay phonology
-Maldivian phonology
 Man'yōgana
-Marathi phonology
-Mary Beckman
-Massachusett phonology
-Medumba phonology
-Mid back rounded vowel
-Mid front unrounded vowel
 Mid vowel
-Middle Chinese
 Middle English phonology
 Mikawa dialect
 Mino dialect
 Miyakoan language
-Modern Greek phonology
-Modern Hebrew phonology
 Modern kana usage
 Mora (linguistics)
-Moroccan Arabic
-Morpheme
-Morphophonemic
-Morphophonology
-Māori phonology
 N (kana)
 Nagaoka dialect
 Nagasaki dialect
@@ -290,118 +149,50 @@ Nagoya dialect
 Nairiku dialect
 Nanbu dialect
 Narada dialect
-Nasal consonant
-Nasal vowel
-Nasalized
-National Institute for Japanese Language and Linguistics
-Navajo phonology
-Nepali phonology
-Neutralization (linguistics)
-New Zealand English phonology
 Nihon-shiki romanization
-Nihon Kokugo Daijiten
-No audible release
-North American English regional phonology
 Northern Izu Archipelago dialects
 Northern Ryukyuan languages
-Northern Wu phonology
 Norwegian phonology
 Nyōbō kotoba
 OCLC (identifier)
-Obstruent
-Occitan phonology
-Ojibwe phonology
 Okinawan Japanese
 Okinawan language
-Okinoerabu language
 Okurigana
 Okuyoshino dialect
-Old Chinese phonology
-Old English phonology
 Old Japanese
-Old Saxon phonology
-On'yomi
-On (Japanese prosody)
-Onbin
-Open central unrounded vowel
 Open vowel
-Oromo phonology
-Orsmaal-Gussenhoven dialect phonology
-Ottawa phonology
 PMID (identifier)
 Palatal consonant
-Palatalization (phonetics)
-Pashto phonology
-Pausa
-Persian phonology
-Peter Ladefoged
 Phoneme
 Phonetic transcription
-Phonological history of Scots
-Phonology
-Phonotactics
-Pitch accent
-Place of articulation
 Plosive
-Polish phonology
 Polivanov system
 Portuguese phonology
-Prenasalized consonant
-Prop vowel
-Proto-Indo-European phonology
-Proto-Japonic
 Pseudo-Chinese
 Quebec French phonology
-Real-time MRI
 Received Pronunciation
 Rendaku
-Retroflex flap
-Retroflex lateral approximant
 Romanian phonology
 Romanization of Japanese
-Roundedness
-Russian phonology
 Ryakuji
 Ryukyuan languages
 S2CID (identifier)
 Saga dialect
-Samaritan Hebrew
-Sandhi
 Sanuki dialect
-Sardinian phonology
-Scottish Gaelic phonology and orthography
 Semivowel
 Serbo-Croatian phonology
-Shichi-Go-San
 Shift JIS
 Shikoku dialect
 Shizuoka dialect
 Sino-Japanese vocabulary
-Slovak phonology
-Slovene phonology
 Small Kana Extension
-Sokuon
-Somali phonology
-Sotho phonology
 Southern Amami Ōshima language
 Southern Ryukyuan languages
-Spanish dialects and varieties
 Spanish phonology
-Standard Canadian English
-Standard Chinese phonology
-Standard German phonology
-Stress (phonology)
-Swedish phonology
 Syllable
 Sōgana
-Tagalog phonology
-Tamil phonology
-Taos phonology
 Tarama language
-Tiberian Hebrew
-Timing (linguistics)
 Tochigi dialect
-Tohoku dialect
 Tokunoshima language
 Tokyo dialect
 Topic marker
@@ -410,88 +201,28 @@ Transcription into Japanese
 Transcription of the Japanese language in Esperanto
 Tsugaru dialect
 Tsushima dialect
-Tunisian Arabic phonology
-Turkish phonology
 Tō-on
 Tōhoku dialect
-Tōkai–Tōsan dialect
-Ubykh phonology
-Ukrainian phonology
 Umpaku dialect
-Uvular consonant
-Uyghur phonology
-Velar approximant
-Velar consonant
-Vietnamese phonology
-Voice (phonetics)
-Voice onset time
-Voiced alveolar affricate
-Voiced alveolar approximant
 Voiced alveolar fricative
-Voiced alveolar lateral approximant
-Voiced alveolar lateral flap
-Voiced alveolar lateral fricative
-Voiced alveolar nasal
-Voiced alveolar plosive
-Voiced alveolar stop
-Voiced alveolar trill
-Voiced alveolo-palatal affricate
 Voiced alveolo-palatal fricative
-Voiced alveolo-palatal nasal
-Voiced bilabial approximant
-Voiced bilabial fricative
-Voiced bilabial nasal
-Voiced bilabial plosive
-Voiced consonant
-Voiced dental and alveolar taps and flaps
-Voiced glottal fricative
 Voiced labial–velar approximant
-Voiced lateral fricative
 Voiced palatal approximant
-Voiced palatal nasal
-Voiced postalveolar flap
-Voiced retroflex flap
-Voiced retroflex lateral approximant
-Voiced retroflex plosive
-Voiced retroflex stop
-Voiced uvular nasal
-Voiced velar approximant
-Voiced velar fricative
-Voiced velar nasal
 Voiced velar plosive
-Voiceless alveolar affricate
 Voiceless alveolar fricative
-Voiceless alveolar plosive
 Voiceless alveolo-palatal affricate
 Voiceless alveolo-palatal fricative
-Voiceless bilabial fricative
-Voiceless bilabial plosive
-Voiceless glottal fricative
-Voiceless palatal fricative
-Voiceless velar plosive
-Voicelessness
 Vowel
-Vowel chart
-Vowel length
-Vowel reduction
-Wago
 Wasei-eigo
 Wasei-kango
 Welsh phonology
-West Frisian phonology
-White South African English phonology
-Word
 Wāpuro rōmaji
 Yaeyama language
 Yakuwarigo
-Yamato kotoba
 Yiddish phonology
 Yilan Creole Japanese
 Yokohama Pidgin Japanese
 Yonaguni language
 Yoron language
 Yotsugana
-Yōon
-Zero (linguistics)
-Zuni phonology
 Ōita dialect

@@ -9,25 +9,19 @@ ATC code H
 ATC code J
 ATC code L
 ATC code M
-ATC code M05
 ATC code N
 ATC code P
 ATC code R
 ATC code S
 ATC code V
 ATCvet code QI
-Abaloparatide
 Addiction medicine
 Adenosine triphosphate
-Alendronate
-Alendronic acid
 Alkylating antineoplastic agent
-Aluminium chlorohydrate
 Anabolic steroid
 Analgesic
 Anatomical Therapeutic Chemical Classification System
 Anesthetic
-Angiotensin II receptor antagonist
 Anorectic
 Antacid
 Anthelmintic
@@ -35,19 +29,13 @@ Anti-inflammatory
 Anti-obesity medication
 Antianginal
 Antiarrhythmic agent
-Antibacterial
 Anticoagulant
 Anticonvulsant
-Antidementia drug
 Antidepressant
-Antidiarrhoeal
 Antidote
 Antiemetic
 Antifibrinolytic
-Antifungal drug
 Antihemorrhagic
-Antihyperkinetic
-Antihypertensive drug
 Antimetabolite
 Antimicrobial
 Antimigraine drug
@@ -56,9 +44,7 @@ Antineoplastic
 Antiparasitic
 Antiplatelet drug
 Antipropulsive
-Antiprotozoal agent
 Antipruritic
-Antipsoriatic
 Antipsychotic
 Antithrombotic
 Antithyroid agent
@@ -66,213 +52,56 @@ Antiviral drug
 Anxiolytic
 Aphrodisiac
 Apoptosis
-Atrial fibrillation
 Beta blocker
 Bibcode (identifier)
 Bile acid sequestrant
-Bisphosphonate-induced osteonecrosis of the jaw
 Blood
 Bone
-Bone density
-Bone disease
-Bone grafting
-Bone metastasis
-Bone mineral density
-Bone morphogenetic protein
-Bone morphogenetic protein 2
-Bone remodeling
-Bone resorption
-Bone tissue
-Bone turnover
 Bronchodilator
-Calcitonin
 Calcium
 Calcium channel blocker
-Carbon
 Cardiac glycoside
 Cardiac stimulant
-Cathepsin K
 Cell (biology)
-Cell membrane
 Chemotherapy
-Cicatrizant
 Circulatory system
-Clodronate
-Clodronic acid
 Coagulation
-Complex regional pain syndrome
-Contrast medium
 Corticosteroid
-Cough medicine
-Covalent
 Decongestant
 Deliriant
-Denosumab
 Depressant
 Diabetes medication
-Diaphysis
-Dietary mineral
-Diphosphate
-Diphosphonate
-Discovery and development of bisphosphonates
 Disease-modifying antirheumatic drug
 Dissociative
 Diuretic
 Doi (identifier)
 Dressing (medicine)
 Ectoparasiticide
-Emollient
 Endocrine system
-Entactogen
 Entheogen
-Eptotermin alfa
-Esophagitis
 Esophagus
-Etidronic acid
 Euphoria
-Farnesol
-Farnesyl diphosphate synthase
-Femur
 Fertility medication
 Fibrate
-Fibrous dysplasia
-Flu-like symptoms
 Food and Drug Administration
-Food and Drug Administration (United States)
-Fracture (bone)
-GGPS1
-Gamma/delta T cells
 General anaesthetic
 Genitourinary system
-Geranylgeraniol
 Glucocorticoid
 H1 antagonist
-H2 antagonist
-HMG-CoA reductase pathway
 Half-life
-Homeostasis
 Hormonal contraception
 Human brain
-Human gastrointestinal tract
 Human skin
-Human trochanter
-Hydroxylapatite
-Hypercalcemia
 Hypnotic
-Hypolipidemic agent
 Hypothalamic–pituitary hormone
 ISSN (identifier)
-Ibandronate
-Ibandronic acid
 Immune system
-Immunomodulator
 Immunostimulant
 Immunosuppressive drug
-Incadronic acid
 Infection
-Intravenous
-Intravenous immunoglobulin
-Ipriflavone
-Isoprene
 Joint
-Laxative
-Lipid-anchored protein
-Local anesthetic
-Malignant
-Management of Parkinson's disease
-Mandible
-Maxilla
-Medronate
-Merck & Co.
 Metabolism
-Metastasis
-Mineralocorticoid
-Minodronic acid
-Mood stabilizer
-Motivation-enhancing drug
-Multiple myeloma
-Muscle
-Muscle relaxant
-Myocardial infarction
-Neridronate
-Neridronic acid
 Nervous system
-Neuroprotective
-Neurotoxin
-Nitrogen
-Non-steroidal anti-inflammatory drug
-Nootropic
-Odanacatib
-Olpadronate
-Ophthalmology
-Orexigenic
-Osteitis deformans
-Osteoblasts
-Osteoclast
-Osteoclasts
-Osteogenesis imperfecta
-Osteoporosis
-Otology
-Otosclerosis
-Oxidronate
 PMC (identifier)
 PMID (identifier)
-Paget's disease of bone
-Pamidronate
-Pamidronic acid
-Parathyroid hormone-related protein
-Paula Roberson
-Pharmacokinetics
-Phosphonate
-Phossy jaw
-Platelet
-Primary hyperparathyroidism
-Proton-pump inhibitor
-Psychedelic drug
-Psychedelics, dissociatives and deliriants
-Pulmonary embolism
-Pyrophosphate
-RANKL
-Rac (GTPase)
-Radiopharmacology
-Raloxifene
-Ras (protein)
-Renin inhibitor
-Renin–angiotensin system
-Respiratory system
-Rho family of GTPases
-Risedronate
-Risedronic acid
-Romosozumab
 S2CID (identifier)
-Sclerostin
-Sedative
-Selective estrogen receptor modulator
-Senotherapeutics
-Sense
-Serenic
-Sex steroid
-Spindle poison
-Statin
-Steroid induced osteoporosis
-Stimulant
-Stomach
-Strontium ranelate
-Structural analog
-Substituent
-Technetium
-Teriparatide
-Thrombolytic drug
-Thyroid hormone
-Tiludronate
-Tiludronic acid
-Topoisomerase inhibitor
-Vaccine
-Vasodilation
-Venous thromboembolism
-Vertebral fracture
-Vitamin
-Vitamin D
-Wakefulness-promoting agent
-Zoledronate
-Zoledronic acid

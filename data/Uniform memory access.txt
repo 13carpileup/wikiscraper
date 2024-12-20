@@ -1,4 +1,3 @@
-AMD
 API
 Amdahl's law
 Analysis of parallel algorithms
@@ -10,9 +9,7 @@ Automatic parallelization
 Barrier (computer science)
 Beowulf cluster
 Bit-level parallelism
-Boost (C++ libraries)
 Bulldozer (microarchitecture)
-C++ AMP
 CPU
 CUDA
 Cache-only memory architecture
@@ -30,7 +27,6 @@ Computer network
 Computer programming
 Concurrency (computer science)
 Cost efficiency
-Crossbar switch
 Data parallelism
 Dataflow architecture
 Dataflow programming
@@ -44,7 +40,6 @@ Embarrassingly parallel
 Explicit parallelism
 Fiber (computer science)
 Flynn's taxonomy
-GPU
 GPUOpen
 General-purpose computing on graphics processing units
 Global Arrays
@@ -53,7 +48,6 @@ Gustafson's law
 HPX
 Hardware acceleration
 Hardware scout
-Heterogeneous System Architecture
 High-performance computing
 ISBN (identifier)
 Implicit parallelism
@@ -70,7 +64,6 @@ Message Passing Interface
 Multiple instruction, multiple data
 Multiple instruction, single data
 Multiprocessing
-Multistage interconnection networks
 Multithreading (computer architecture)
 Non-blocking algorithm
 Non-uniform memory access
@@ -81,7 +74,6 @@ OpenMP
 Parallel Extensions
 Parallel RAM
 Parallel Virtual Machine
-Parallel computer
 Parallel computing
 Parallel external memory
 Parallel programming model
@@ -97,7 +89,6 @@ Real-time computing
 Scalability
 Semiconductor memory
 Shared memory
-Shared memory architecture
 Simultaneous and heterogeneous multithreading
 Simultaneous multithreading
 Single instruction, multiple data
@@ -116,7 +107,5 @@ Task parallelism
 Temporal multithreading
 Thread (computing)
 Threading Building Blocks
-Time sharing
 Unified Parallel C
 Vector processor
-ZPL (programming language)

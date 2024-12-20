@@ -1,9 +1,6 @@
-Abstract syntax
 Alternative semantics
 Ambiguity
-Anaphora (linguistics)
 Antecedent-contained deletion
-Aspects of the Theory of Syntax
 Autonomy of syntax
 Binding (linguistics)
 Cataphora
@@ -15,97 +12,64 @@ Combinatory categorial grammar
 Computational semantics
 Conditional sentence
 Conservativity
-Construction grammar
-Context-free grammar
-Context set
 Continuation
 Conversational scoreboard
-Counterfactuals
 Crossover effects
 Cumulativity (linguistics)
 De dicto and de re
 De se
-Decoding Chomsky
-Deep structure and surface structure
 Definiteness
 Denotation
 Deontic modality
 Discourse relation
 Discourse representation theory
-Disjunction
 Distributional semantics
 Doi (identifier)
-Donkey anaphora
 Downward entailing
 Dynamic semantics
-Entailment
 Epistemic modality
 Evidentiality
 Exhaustivity
-Existential closure
 Extension (semantics)
 Faultless disagreement
-Ferdinand de Saussure
 First-order logic
 Focus (linguistics)
 Formal grammar
 Formal semantics (natural language)
-Frame semantics (linguistics)
-Frederick Newmeyer
 Free choice inference
 Function application
 Generalized quantifier
 Generative grammar
-Generative semantics
 George Lakoff
 Givenness
 Glue semantics
-Homogeneity (linguistics)
 Hurford disjunction
 ISBN (identifier)
 ISSN (identifier)
 Inalienable possession
 Indexicality
-Inferentialism
 Inquisitive semantics
 Intension
 Intensional logic
 Intersective modifier
 JSTOR (identifier)
-James D. McCawley
-Jerry Fodor
-John Goldsmith (linguist)
-John R. Ross
 Lambda calculus
-Leonard Bloomfield
 Lexical semantics
-Lexicalist hypothesis
-Linguistic modality
 Logic translation
 Logical form (linguistics)
 Logophoricity
-Louis Hjelmslev
-Meaning postulate
-Memorization
 Mereology
-Minimalist program
 Mirativity
 Modal subordination
 Monad (functional programming)
 Montague grammar
-Morpheme
 Negation
-Neurolinguistics
 Noam Chomsky
 Opaque context
-Parse tree
-Paul Postal
 Perception
 Performative utterance
 Philosophy of language
-Phone (phonetics)
 Phrase
-Phrase structure grammar
 Plural quantification
 Polarity item
 Possible world
@@ -114,46 +78,19 @@ Presupposition
 Principle of compositionality
 Privative adjective
 Proposition
-Propositional attitudes
 Quantificational variability effect
 Quantifier (logic)
-Quantifier raising
 Quantization (linguistics)
 Question under discussion
-Ray C. Dougherty
-Ray Jackendoff
-Reference
 Responsive predicate
-Rising declarative
 Scalar implicature
 Scope (formal semantics)
-Segmented discourse representation theory
 Semantic parsing
 Semantics
 Semantics of logic
-Sentence (linguistics)
 Situation semantics
-Sloppy identity
-Speech act
-Squiggle operator
 Strawson entailment
 Strict conditional
 Subsective modifier
-Subtrigging
 Supervaluationism
-Syntactic Structures
-Syntactic category
-Syntax
-Syntax–semantics interface
-Telicity
-Temperature paradox
-Tense–aspect–mood
-Theoretical linguists
-Transformational grammar
-Truth-conditional semantics
-Type shifter
 Type theory
-Type theory with records
-Universal grinder
-Vagueness
-Veridicality

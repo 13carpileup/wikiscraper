@@ -1,151 +1,60 @@
-Algebraic multiplicity
 Algorithm
 ArXiv (identifier)
-Basic Linear Algebra Subprograms
 Basis (linear algebra)
 Bibcode (identifier)
 Bilinear map
-Bivector
-Block LU decomposition
 Block matrix
-Change of basis
-Cholesky decomposition
-Circular matrix
-Collaborative filtering
-Comparison of linear algebra libraries
-Complete orthogonal decomposition
 Complex conjugate
-Conjugate transpose
 Cramer's rule
-Cross product
 David Hilbert
 Determinant
 Diagonal matrix
-Direct sum of modules
 Doi (identifier)
 Dot product
-Doubly stochastic matrix
 Dual space
-Eigendecomposition (matrix)
-Eigendecomposition of a matrix
 Eigenvalue
-Eigenvalue equation
 Eigenvalues and eigenvectors
-Eigenvector
-Erhard Schmidt
-Euclidean space
-Euclidean vector
 Exterior algebra
 Factorization
-Floating-point arithmetic
-Floating point
-Function space
 Gaussian elimination
 Geometric algebra
-Geometric multiplicity
 Glossary of linear algebra
-Gram–Schmidt process
-GraphLab
 Hadamard product (matrices)
-Hermitian matrices
 Hermitian matrix
-Hessenberg matrix
 ISBN (identifier)
 ISSN (identifier)
 Identity matrix
 Inner product space
-Integral operator
-Interpolative decomposition
-Invertible matrix
-Ivar Fredholm
 JSTOR (identifier)
-Jordan normal form
-Jordan–Chevalley decomposition
-Kernel (linear algebra)
 Kronecker product
-LDL decomposition
-LDU decomposition
-LUP decomposition
 LU decomposition
-LU reduction
 Linear algebra
-Linear combination
-Linear independence
 Linear map
-Linear span
 Linear subspace
-Lower triangular matrix
 Mathematics
 Matrix (mathematics)
-Matrix factorization of a polynomial
 Matrix multiplication
-Matrix rank
-Matrix splitting
-Matrix transpose
-Minor (linear algebra)
-Moore–Penrose pseudoinverse
 Multilinear algebra
 Multilinear map
 Multivector
-Non-negative matrix factorization
-Normal matrix
 Numerical analysis
-Numerical linear algebra
-Numerical range
-Numerical stability
-Numerically stable
 OCLC (identifier)
-Orthogonal matrix
 Orthogonality
-Outer product
-Outermorphism
-Outline of linear algebra
 PMC (identifier)
 PMID (identifier)
 Permutation matrix
-Polar decomposition
-Positive-definite matrix
-Positive semidefinite matrix
-Principal component analysis
 Proceedings of the Royal Society
-Productive matrix
 Projection (linear algebra)
-QR decomposition
-QZ decomposition
-Quotient space (linear algebra)
-RRQR factorization
 Rank (linear algebra)
-Rank factorization
-Row and column spaces
-Row and column vectors
-Row echelon form
 S2CID (identifier)
 Scalar (mathematics)
 Scalar multiplication
-Schur decomposition
-Schur form
-Seven-dimensional cross product
-Singular value
 Singular value decomposition
-Sinkhorn's theorem
-Skew-Hermitian matrix
-Skew-symmetric matrix
-Society for Industrial and Applied Mathematics
-Sparse matrix
-Spectral decomposition (Matrix)
 Square matrix
-Square root of a matrix
 Symmetric matrix
-Symplectic matrix
 System of linear equations
 Tensor
 Tensor product
-Transformation matrix
 Transpose
 Triangular matrix
-Triple product
-Unitary matrix
-Upper triangular
-Upper triangular matrix
-Vector projection
 Vector space

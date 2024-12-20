@@ -1,28 +1,21 @@
 AC motor
-Adjustable-speed drive
 Albert Einstein
 Alessandro Volta
 Alfred-Marie Liénard
 Alternating current
 Aluminum can
-American Petroleum Institute
 Ampère's circuital law
 André-Marie Ampère
-Bently Nevada
 Biot–Savart law
-Brake (technology)
 Bremsstrahlung
 Capacitance
 Carl Friedrich Gauss
-Charge carrier
 Charge density
 Charles-Augustin de Coulomb
 Charles Proteus Steinmetz
 Classical electromagnetism
 Classical electromagnetism and special relativity
 Computational electromagnetics
-Conductor (material)
-Conventional current
 Copper
 Coulomb's law
 Covariant formulation of classical electromagnetism
@@ -30,18 +23,10 @@ Curl (mathematics)
 Current density
 Cyclotron radiation
 DC motor
-David E. Hughes
 Density
 Direct current
 Displacement current
 Doi (identifier)
-Donald E. Bently
-Eddy-current testing
-Eddy (fluid dynamics)
-Eddy Current (comics)
-Eddy Current Suppression Ring
-Eddy current brake
-Eddy current separator
 Electret
 Electric charge
 Electric current
@@ -51,7 +36,6 @@ Electric flux
 Electric generator
 Electric machine
 Electric motor
-Electric motors
 Electric potential
 Electric potential energy
 Electric power
@@ -61,12 +45,9 @@ Electrical impedance
 Electrical network
 Electrical resistance
 Electrical resistance and conductance
-Electrical steel
 Electricity
 Electricity meter
-Electrodynamic suspension
 Electrolysis
-Electromagnet
 Electromagnetic field
 Electromagnetic four-potential
 Electromagnetic induction
@@ -77,7 +58,6 @@ Electromagnetic tensor
 Electromagnetism
 Electromotive force
 Electron
-Electronic speed control
 Electrostatic discharge
 Electrostatic induction
 Electrostatics
@@ -85,15 +65,8 @@ Elementary charge
 Emil Lenz
 Emil Wiechert
 Faraday's law of induction
-Ferraris sensor
-Ferrite (magnet)
-Ferrite core
-Fluid dynamics
-Flux
-Flux linkage
 Four-current
 Franz Ernst Neumann
-François Arago
 Félix Savart
 Gauss's law
 Gauss's law for magnetism
@@ -102,10 +75,7 @@ Georg Ohm
 George Singer
 Gustav Kirchhoff
 Gyrator–capacitor model
-Hall effect
 Hans Christian Ørsted
-Heat
-Heat exchanger
 Heinrich Hertz
 Hendrik Lorentz
 Hermann von Helmholtz
@@ -114,8 +84,6 @@ History of electromagnetic theory
 Humphry Davy
 ISBN (identifier)
 Inductance
-Induction cooking
-Induction heating
 Induction motor
 Inductor
 Insulator (electricity)
@@ -132,11 +100,8 @@ Joseph Larmor
 Joule heating
 Kinetic energy
 Kirchhoff's circuit laws
-Laminated core
-Laminations
 Larmor formula
 Lenz's law
-Linear induction motor
 Linear motor
 List of electrical phenomena
 List of textbooks in electromagnetism
@@ -144,53 +109,36 @@ Liénard–Wiechert potential
 London equations
 Lord Kelvin
 Lorentz force
-Léon Foucault
-Maglev
-Magnet
 Magnetic circuit
 Magnetic complex reluctance
-Magnetic core
-Magnetic damping
 Magnetic field
 Magnetic flux
-Magnetic levitation
 Magnetic moment
-Magnetic permeability
 Magnetic reluctance
 Magnetic scalar potential
 Magnetic vector potential
 Magnetism
 Magnetization
-Magnetizing field
 Magnetomotive force
 Magnetostatics
 Mathematical descriptions of the electromagnetic field
 Maxwell's equations
 Maxwell's equations in curved spacetime
 Maxwell stress tensor
-Meissner effect
-Metal detector
 Michael Faraday
-Neodymium
 Network analysis (electrical circuits)
 Nikola Tesla
-Nondestructive testing
 Ohm's law
 Oleg D. Jefimenko
 Oliver Heaviside
 Optics
-Penny (United States coin)
 Permeability (electromagnetism)
 Permeance
 Permittivity
 Polarization density
 Poynting vector
-Proximity effect (electromagnetism)
-Proximity sensor
-Proximity sensors
 Quantum mechanical
 Relativistic electromagnetism
-Resin
 Resistivity
 Resonator
 Right-hand rule
@@ -200,17 +148,11 @@ Series and parallel circuits
 Siméon Denis Poisson
 Skin depth
 Skin effect
-Slug (coin)
-Speedometer
 Static electricity
 Stator
 Synchrotron radiation
 Transformer
 Triboelectric effect
-Turbomachinery
-Vacuum permeability
-Vector calculus identities
-Vending machine
 Voltage
 Water
 Watt

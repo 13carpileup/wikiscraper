@@ -19,20 +19,15 @@ Computational mathematics
 Computational physics
 Computational social science
 Computer
-Computer Peripherals
 Computer accessibility
 Computer animation
 Computer architecture
 Computer data storage
 Computer graphics
 Computer hardware
-Computer monitor
-Computer mouse
 Computer network
-Computer peripherals
 Computer science
 Computer security
-Computer speakers
 Computer vision
 Computing
 Computing platform
@@ -51,7 +46,6 @@ Digital art
 Digital library
 Digital marketing
 Discrete mathematics
-Disk storage
 Display device
 Distributed artificial intelligence
 Distributed computing
@@ -60,19 +54,15 @@ Domain-specific language
 E-commerce
 Educational technology
 Electronic design automation
-Electronic hardware
 Electronic publishing
 Electronic voting
 Embedded system
 Encyclopædia Britannica
 Enterprise information system
 Enterprise software
-Expansion card
 Form factor (design)
 Formal language
 Formal methods
-Game controller
-Gateway (telecommunications)
 Geographic information system
 Graphics processing unit
 Green computing
@@ -83,18 +73,15 @@ Health informatics
 Human–computer interaction
 ISBN (identifier)
 Image compression
-Image scanner
 Information retrieval
 Information security
 Information system
 Information theory
-Input device
 Integrated circuit
 Integrated development environment
 Interaction design
 Interpreter (computing)
 Intrusion detection system
-Keyboard technology
 Knowledge representation and reasoning
 Library (computing)
 List of computer size categories
@@ -115,7 +102,6 @@ Multimedia database
 Multiprocessing
 Multithreading (computer architecture)
 Natural language processing
-Network adapter
 Network architecture
 Network performance
 Network protocol
@@ -128,7 +114,6 @@ Open-source software
 Operating system
 Operations research
 Outline of computer science
-Output device
 Parallel computing
 Philosophy of artificial intelligence
 Photograph manipulation
@@ -142,8 +127,6 @@ Programming language theory
 Programming paradigm
 Programming team
 Programming tool
-Punched card input/output
-Punched tape
 Quantum Computing
 Randomized algorithm
 Real-time computing
@@ -174,8 +157,6 @@ Statistics
 Stochastic computing
 Supervised learning
 System on a chip
-Tablet computer
-Tape drive
 Theoretical computer science
 Theory of computation
 USB flash drive
@@ -183,12 +164,10 @@ Ubiquitous computing
 Unsupervised learning
 Very Large Scale Integration
 Video game
-Video game accessory
 Video game console
 Virtual machine
 Virtual reality
 Visualization (graphics)
 Watch
-Webcam
 Word processor
 World Wide Web

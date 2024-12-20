@@ -1,275 +1,36 @@
-.NET
-AbiWord
-Accessibility Toolkit
 Adobe Flash
-Adobe Flash Builder
-Adwaita (design language)
-Android Studio
-Apache Subversion
-AppCode
-AppStream
-Aptana
-Archive Manager
-Arduino IDE
-Atom (text editor)
-Autocomplete
-Avant Window Navigator
 BASIC
-Balsa (email client)
-Banshee (media player)
-Basic-256
-Basic4GL
-BlueJ
-Borland Kylix
-Borland Turbo C
-Brasero (software)
-C't
 C++
-C++Builder
-CA-Realizer
-CLion
 C (programming language)
-Cairo (graphics)
-Cantarell (typeface)
-Chromium (web browser)
-Cinnamon (software)
-Clearlooks
-Client-Side Decoration
-Cloud9 IDE
 CodeLite
-CodeWarrior
-Codelobster
 Common Language Infrastructure
 Comparison of integrated development environments
 Compiler
 Computing platform
-Concurrent Versions System
-D-Bus
-Dconf
-Delphi (software)
-Dev-C++
-Dev-Pascal
-DevEco Studio
-Devhelp
-Dia (software)
-Diodon (software)
-DrJava
 Eclipse (software)
-Eclipse Che
-Ekiga
-Emacs
-Empathy (software)
-Eric (software)
-Evince
-F-Spot
-FreeBASIC
-Free Pascal
-Freedesktop.org
 Freeware
-FutureBASIC
-GDK
-GIMP
-GIO (software)
-GLBasic
-GLib
-GNOME
-GNOME-DB
-GNOME Boxes
 GNOME Builder
-GNOME Calculator
-GNOME Calendar
-GNOME Character Map
-GNOME Chess
-GNOME Connections
-GNOME Core Applications
-GNOME Devhelp
-GNOME Dictionary
-GNOME Disks
-GNOME Display Manager
-GNOME Do
-GNOME Evolution
-GNOME Files
-GNOME Foundation
-GNOME Fractal
-GNOME Games
-GNOME Keyring
-GNOME LaTeX
-GNOME Mines
-GNOME Panel
-GNOME Shell
-GNOME Snapshot
 GNOME Software
-GNOME SoundConverter
-GNOME Terminal
-GNOME Text Editor
-GNOME Users And Developers European Conference
-GNOME Videos
-GNOME Web
-GNU Debugger
 GNU General Public License
-GObject
 GParted
-GStreamer
-GTK
-GTK Scene Graph Kit
-GThumb
-GUI
-GVfs
-Gambas
-Gbrainy
 Geany
-Geary (e-mail client)
-Gedit
-Glade Interface Designer
-GnomeVFS
-Gnote
-Gnumeric
 Go (programming language)
-Gobby
-Golem.de
-Greenfoot
-Gtranslator
-HarfBuzz
-Havoc Pennington
-Haxe
-IDLE
-Inkscape
 Integrated development environment
-IntelliJ IDEA
-Intelligent Input Bus
-JBuilder
-JDeveloper
-JGRASP
-Jami (software)
 JavaScript
 Java (programming language)
-Java (software platform)
-JetBrains
 KDevelop
-Kakoune
-Karen Sandler
-Komodo Edit
-Komodo IDE
-LabWindows/CVI
-Lazarus (software)
-Liberty BASIC
-Librsvg
-Libxml2
-Libxslt
-Light Table (software)
-LinuxUser
-List of GNOME applications
-List of GTK applications
-Loupe (software)
-Luis Villa
-MATE (software)
-Meld (software)
-Metacity
-Microsoft Pascal
-Microsoft Small Basic
 Microsoft Visual Studio Express
-Miguel de Icaza
-MonoDevelop
-Mutter (software)
-MyEclipse
-NS Basic
-Nemiver
 NetBeans
-NetworkManager
-Ninja-IDE
-OCRFeeder
-Object Pascal
-Online integrated development environment
 Open-source software
-OpenBSD
 Operating system
-Oracle Developer Studio
-Orca (assistive technology)
-Outreachy
 PHP
-PHPEdit
-POP-11
-PackageKit
-Pango
-PascalABC.NET
 Pascal (programming language)
-PhpStorm
-Pitivi
-Poplog
-Poppler (software)
-Powerflasher FDT
 Programmer
-Programming languages
 Proprietary software
-PulseAudio
-PureBasic
-PyCharm
-PyChess
-PyDev
-PythonAnywhere
 Python (programming language)
-QB64
-QBasic
-QDevelop
-Qt Creator
-QuickBASIC
-QuickC
-RStudio
-R (programming language)
-R Tools for Visual Studio
-RapidQ
-Rational Software Architect
-Repository (version control)
-Retail software
-Rhythmbox
-SBOBET
-Scanner Access Now Easy
-SdlBasic
-Seahorse (software)
-SharpDevelop
-Shotwell (software)
-SlickEdit
 Software categories
 Software license
 Software release life cycle
-Sound Juicer
-SourceLair
-Source code editor
-Spyder (software)
-Sublime Text
-Sun Java Studio Creator
-Sushi (software)
-Syntax highlighting
-Tango Desktop Project
-The GNOME Project
-Thonny
-TinySPARQL
-Tomboy (software)
-Transmission (BitTorrent client)
-Turbo C++
-Turbo Pascal
-Ultimate++
-Understand (software)
-Unix-like
-VS Code
 Vala (programming language)
-Version control
-Vi (text editor)
-Vim (text editor)
-Virtual Pascal
-VisualAge
 Visual Basic (classic)
-Visual Café
-Visual J++
 Visual Studio
-Visual Studio Code
-Watcom C/C++
-Wayland (display server protocol)
-Wing IDE
-X.Org Server
-Xamarin Studio
-Xcode
-Xelfi
-Xojo
-Yelp (software)
-Zend Studio

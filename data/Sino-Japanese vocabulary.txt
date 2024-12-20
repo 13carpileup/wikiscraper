@@ -1,52 +1,24 @@
 ARIB STD B24 character set
-Affricate consonant
 Akita dialect
-Alveolar consonant
 Amami Japanese
 Amami Ōshima language
-Asian languages
 Aspirated consonant
-Aspiration (phonetics)
 Ateji
 Awaji dialect
-Baekje
 Bamboo English
 Banshū dialect
-Baxter's transcription for Middle Chinese
-Beijing
-Bernhard Karlgren
-Bilabial consonant
 Bingo dialect
 Bonin English
 Braille kanji
-Buddhism in Japan
-Bushido
 Calque
 Chikuzen dialect
-Chinese character
 Chinese language
-Chungking
-Chōnin
-Chūgoku dialect
-Classical Chinese
 Classical Japanese
-Classical compound
-Closed class
-Closed syllable
-Comparative military ranks of Korea
-Coronal consonant
 Cyrillization of Japanese
-Dai Kan-Wa Jiten
-Daimyō
-Dakuten and handakuten
-Dojo
-Early Middle Chinese
 Early Middle Japanese
 Early Modern Japanese
 East Asia
-East Asian cultural sphere
 Eastern Old Japanese
-Edo period
 Enclosed CJK Letters and Months
 Enclosed Ideographic Supplement
 Engrish
@@ -54,51 +26,32 @@ Extended Unix Code
 Extended shinjitai
 French language
 Fricative
-Fricative consonant
 Front vowel
 Furigana
-Fuzhou dialect
-Gairaigo
-Geisha
-Gemination
 Gender differences in Japanese
 Glossary of Japanese words of Dutch origin
 Glossary of Japanese words of Portuguese origin
-Glottal consonant
 Go-on
 Gojūon
-Gonghe Regency
 Greek language
 Gunma dialect
 Hachijō grammar
 Hachijō language
-Haiku
 Hakata dialect
-Hakka Chinese
 Halfwidth and fullwidth forms
-Han Chinese
-Hanyu pinyin
-Hanzi
-Hentai
 Hentaigana
 Hepburn romanization
 Hichiku dialect
 Hida dialect
 Hiragana
 Hiragana (Unicode block)
-Historical Chinese phonology
 Historical kana orthography
 Hokkaido dialects
-Hokuriku dialect
 Honorific speech in Japanese
-Hōnichi dialect
 ISBN (identifier)
-ISO/IEC 2022
 Ibaraki dialect
-Imperial Japanese Armed Forces
 Inshū dialect
 International Phonetic Alphabet
-International scientific vocabulary
 Italian language
 Iyo dialect
 JIS X 0201
@@ -110,7 +63,6 @@ JSL romanization
 Japanese-based creole languages
 Japanese Braille
 Japanese adjectives
-Japanese books
 Japanese counter word
 Japanese dialects
 Japanese dictionary
@@ -131,12 +83,10 @@ Japanese pronouns
 Japanese punctuation
 Japanese script reform
 Japanese sound symbolism
-Japanese verb conjugation
 Japanese writing system
 Japonic languages
 Judo
 Jōdai Tokushu Kanazukai
-Jōyō kanji
 Kaga dialect
 Kagoshima dialect
 Kan-on
@@ -150,142 +100,71 @@ Kanazukai
 Kanbun
 Kanji
 Kansai dialect
-Kantō dialect
 Katakana
 Katakana (Unicode block)
 Katakana Phonetic Extensions
-Kendo
 Kesen dialect
 Kikai language
 Kishū dialect
 Kokuji
-Korean language
 Kumamoto dialect
-Kun'yomi
 Kunigami language
 Kunrei-shiki romanization
-Kyoto
 Kyowa-go
 Labial consonant
 Labiodental consonant
-Lamian
 Late Middle Japanese
 Lateral consonant
 Latin
-Length (phonetics)
-Li Rong (linguist)
-List of Chinese–Japanese false friends
-List of English words of Chinese origin
 List of Japanese speculative fiction writers
 List of Japanese writers
-List of Spanish words of Chinese origin
 List of classical Japanese texts
-List of kanji by stroke count
 List of kanji radicals by frequency
 List of kanji radicals by stroke count
-Literary and colloquial readings of Chinese characters
 Logogram
 Man'yōgana
 Mandarin Chinese
-Mariapaola Imperio
-Matcha
-Meiji Restoration
-Meiji period
-Metamorphosis
-Middle Chinese
-Middle Chinese finals
-Middle Chinese phonology
 Mikawa dialect
-Min Chinese
 Mino dialect
 Miyakoan language
-Modern Standard Chinese
 Modern kana usage
-Mount Huangbo
-NHK
 Nagaoka dialect
 Nagasaki dialect
 Nagoya dialect
 Nairiku dialect
 Nanbu dialect
 Narada dialect
-National Institute for Japanese Language
 Nihon-shiki romanization
-Ninja
 Northern Izu Archipelago dialects
 Northern Ryukyuan languages
-Northern and Southern dynasties
 Nyōbō kotoba
-Obstruent
 Okinawan Japanese
 Okinawan language
-Okinoerabu language
 Okurigana
 Okuyoshino dialect
 Old Japanese
-On'yomi
-Onset (linguistics)
 Palatal consonant
-Palatal nasal
-Palatalization (sound change)
-Peking
-Periphrasis
-Pe̍h-ōe-jī
-Phonation
 Pinyin
-Place of articulation
 Polivanov system
-Proto-Japonic
 Pseudo-Chinese
-Qi
-Ramen
-Ranks of the Imperial Japanese Army
-Ranks of the People's Liberation Army Air Force
-Ranks of the People's Liberation Army Ground Force
-Ranks of the People's Liberation Army Navy
-Reborrowing
 Rendaku
-Republic of China Armed Forces rank insignia
 Retroflex consonant
-Rime table
-Ritsuryō
 Romanization of Japanese
 Ryakuji
 Ryukyuan languages
-Rúlái
 Saga dialect
 Sanuki dialect
-Scientific terminology
-Semantic field
-Sencha
-Seoul
-Seppuku
-Shanghainese
 Shift JIS
 Shikoku dialect
-Shinto
 Shizuoka dialect
-Shogi
-Sibilant consonant
-Singdarin
-Sino-Korean vocabulary
-Sino-Vietnamese vocabulary
-Sino-Xenic pronunciations
-Sino-Xenic vocabularies
 Small Kana Extension
-Song dynasty
 Sonorant
-Southeast Asia
 Southern Amami Ōshima language
-Southern Min
 Southern Ryukyuan languages
 Spanish language
 Standard Chinese
-Stop consonant
 Syllable
-Syllable rime
 Sōgana
-Tang dynasty
 Tarama language
 Tochigi dialect
 Tokunoshima language
@@ -293,43 +172,23 @@ Tokyo
 Tokyo dialect
 Topic marker
 Tosa dialect
-Traditional Chinese characters
 Transcription into Japanese
 Transcription of the Japanese language in Esperanto
 Tsugaru dialect
 Tsushima dialect
 Tō-on
 Tōhoku dialect
-Tōkai–Tōsan dialect
-Ume
 Umpaku dialect
-Unaspirated
-Varieties of Chinese
-Velar consonant
-Velar nasal
 Vietnamese language
-Vietnamese military ranks and insignia
-Voiced consonant
-Voiceless consonant
-Vowel length
-Waka (poetry)
 Wasei-eigo
 Wasei-kango
-Washi
 Wayback Machine
-William H. Baxter
-Wu (region)
-Wu Chinese
 Wāpuro rōmaji
 Yaeyama language
 Yakuwarigo
-Yamato kotoba
 Yilan Creole Japanese
 Yokohama Pidgin Japanese
 Yonaguni language
 Yoron language
 Yotsugana
-Yue Chinese
-Zen
-Zhangzhou dialect
 Ōita dialect

@@ -1,125 +1,35 @@
 ACM Computing Classification System
-Ab initio
-Ab initio quantum chemistry methods
-Acid dissociation constant
-Acrolein
-Actinide chemistry
-Activation energy
-Active site
-Agricultural chemistry
-Alchemy
 Algorithm
 Algorithm design
 Algorithmic efficiency
-Alkane stereochemistry
-Amateur chemistry
 Analysis of algorithms
-Analytical chemistry
-Ansatz
 Application security
 ArXiv (identifier)
-Arieh Warshel
 Artificial intelligence
-Astrochemistry
-Atmospheric chemistry
 Atom
-Atom cluster
 Automata theory
 Automated planning and scheduling
-Automatic programming
-Azulene
-Basis set (chemistry)
-Beeman's algorithm
-Benzene
 Bibcode (identifier)
-BindingDB
-Biochemistry
-Biogeochemistry
 Bioinformatics
-Bioinorganic chemistry
-Biomolecular
-Bioorganic chemistry
-Bioorganometallic chemistry
-Bioorthogonal chemistry
-Biophysical chemistry
-Biosynthesis
-Butadiene
-CNDO/2
-Calorimetry
-Carbochemistry
-Carbohydrate chemistry
-Car–Parrinello molecular dynamics
-Catalysis
-Cell biology
-Ceramic chemistry
 Ceramic engineering
-ChEMBL
-Characterization (materials science)
-Charles Coulson
-Chebyshev polynomials
-Chemical biology
 Chemical bond
-Chemical compound
-Chemical database
 Chemical element
 Chemical engineering
-Chemical kinetics
-Chemical physics
-Chemical reaction
 Chemical structure
-Chemical substance
-Chemical synthesis
-Chemical thermodynamics
 Chemistry
-Chemistry education
-Chromatography
-Clandestine chemistry
-Classical mechanics
-Clay chemistry
-Click chemistry
-Clinical chemistry
-Combinatorial chemistry
-Comparison of force field implementations
-Comparison of nucleic acid simulation software
-Comparison of software for molecular mechanics modeling
 Compiler construction
-Complementarity (physics)
 Computability theory
-Computational Chemistry List
-Computational anatomy
-Computational and Theoretical Chemistry
-Computational astrophysics
 Computational biology
-Computational chemical methods in solid-state physics
-Computational cognition
 Computational complexity
 Computational complexity theory
-Computational economics
 Computational electromagnetics
 Computational engineering
-Computational finance
-Computational fluid dynamics
-Computational genomics
 Computational geometry
-Computational geophysics
-Computational lexicology
 Computational linguistics
-Computational materials science
 Computational mathematics
-Computational mechanics
-Computational neuroscience
-Computational particle physics
-Computational phylogenetics
 Computational physics
-Computational politics
-Computational science
 Computational semantics
-Computational semiotics
 Computational social science
-Computational sociology
-Computational statistics
-Computational thermodynamics
-Computational transportation science
 Computer accessibility
 Computer animation
 Computer architecture
@@ -132,207 +42,85 @@ Computer science
 Computer security
 Computer simulation
 Computer vision
-Computers & Chemical Engineering
 Computing
 Computing platform
 Concurrency (computer science)
 Concurrent computing
-Condensed phase
-Configuration interaction
 Control theory
 Control variable (programming)
-Coordination complex
-Correlation
-Cosmochemistry
-Coupled cluster
 Cross-validation (statistics)
-Cryochemistry
 Cryptography
 Crystallography
 Cyberwarfare
 Data mining
 Database
 Decision support system
-Degrees of freedom (physics and chemistry)
-Density functional theory
 Dependability
 Differential equation
 Digital art
 Digital library
 Digital marketing
-Dihydrogen cation
-Dirac equation
-Discovery of chemical elements
 Discrete mathematics
 Distributed artificial intelligence
 Distributed computing
 Document management system
 Doi (identifier)
 Domain-specific language
-DrugBank
-Drug carrier
-Drug design
-Drug development
-Dynamic covalent chemistry
 E-commerce
-EDSAC
-Edgar Bright Wilson
 Educational technology
-Electroanalytical methods
-Electrochemistry
-Electron density
-Electron ionization
-Electronic correlation
-Electronic density
 Electronic design automation
 Electronic publishing
-Electronic structure
 Electronic voting
-Elemental analysis
 Embedded system
-Enantioselective synthesis
 Enterprise information system
 Enterprise software
-Environmental chemistry
 Enzyme
-Equilibrium chemistry
-Erich Hückel
-Experiment
-Extended Hückel method
-Femtochemistry
-Food chemistry
-Food physical chemistry
-Force field (chemistry)
-Forensic chemistry
-Forensic toxicology
 Form factor (design)
 Formal language
 Formal methods
-Francis Boys
-Fritz London
-Fullerene
-Fullerene chemistry
-Functional (mathematics)
-Gas chromatography
-Gaussian (software)
-Gaussian orbital
-General chemistry
-Geochemistry
 Geographic information system
-Glossary of chemical formulae
 Graphics processing unit
-Green chemistry
 Green computing
-HOMO and LUMO
-Hamiltonian (quantum mechanics)
 Hardware acceleration
 Hardware security
-Harmonic oscillator
-Hartree–Fock method
 Hdl (identifier)
 Health informatics
-Henry Eyring (chemist)
-High-performance liquid chromatography
-History of chemistry
-History of quantum mechanics
 Human–computer interaction
-Hybrid functional
-Hückel method
 ISBN (identifier)
 ISSN (identifier)
 Image compression
-In silico
-Inductively coupled plasma mass spectrometry
 Information retrieval
 Information security
 Information system
 Information theory
-Infrared spectroscopy
-Inorganic chemistry
-Instrumental chemistry
 Integrated circuit
 Integrated development environment
 Interaction design
 Interdisciplinarity
-Interface and colloid science
-International Academy of Quantum Molecular Science
 Interpreter (computing)
 Intrusion detection system
 Ion
-Ising model
-Isomer
-Isosurface
-John Pople
-Journal of Chemical Information and Modeling
-Journal of Chemical Theory and Computation
-Journal of Cheminformatics
-Journal of Computational Chemistry
-Journal of Theoretical and Computational Chemistry
 Knowledge representation and reasoning
-Kohn–Sham equations
 Library (computing)
-Linear combination of atomic orbitals
-Linus Pauling
-List of biomolecules
-List of complexity classes
-List of computational chemists
 List of computer size categories
-List of important publications in chemistry
-List of inorganic compounds
-List of protein structure prediction software
-List of quantum chemistry and solid-state physics software
 Logic in computer science
-MIT
 Machine learning
-Magnetochemistry
-Many-body problem
-Martin Karplus
-Mass spectrometry
 Materials science
 Mathematical analysis
-Mathematical biology
 Mathematical chemistry
 Mathematical optimization
 Mathematical software
-Matrix-assisted laser desorption/ionization
-Mechanochemistry
-Medicinal chemistry
 Metallurgy
 Methane
-Michael Levitt (biophysicist)
-Micromeritics
-Microwave chemistry
 Middleware
 Mixed reality
 Model of computation
 Modeling language
-Modelling biological systems
-Molden
-Molecular Hamiltonian
-Molecular Informatics
-Molecular biology
-Molecular design software
-Molecular dynamics
-Molecular geometry
-Molecular graphics
-Molecular mechanics
-Molecular modeling on GPUs
-Molecular modelling
-Molecular orbital theory
-Molecular physics
 Molecule
-Monte Carlo method
-Monte Carlo molecular modeling
-Multi-configuration time-dependent Hartree
-Multi-configurational self-consistent field
 Multi-task learning
 Multimedia database
 Multiprocessing
 Multithreading (computer architecture)
-NP-hardness
-Nanochemistry
-Nanomaterials
-Naphthalene
 Natural language processing
 Network architecture
 Network performance
@@ -341,48 +129,18 @@ Network scheduler
 Network security
 Network service
 Networking hardware
-Neurochemistry
-Newton's laws of motion
-Nobel Prize
-Nobel Prize in Chemistry
-Norman Allinger
-Nuclear chemistry
-Nuclear magnetic resonance spectroscopy
-Nuclear structure
 Numerical analysis
 OCLC (identifier)
-Ocean chemistry
 Open-source software
 Operating system
 Operations research
-Operator (physics)
-Organic chemistry
-Organic reactions
-Organic synthesis
-Organolanthanide chemistry
-Organometallic chemistry
 Outline of computer science
-Ovalene
 PMC (identifier)
 PMID (identifier)
 Parallel computing
-Periodic table
 Peripheral
-Petrochemistry
-Pharmacology
-Phenomena
 Philosophy of artificial intelligence
-Photochemistry
-Photoelectrochemistry
-Photogeochemistry
 Photograph manipulation
-Physical chemistry
-Physical organic chemistry
-Polymer chemistry
-Polymer science
-Post-Hartree–Fock
-Post-mortem chemistry
-Potential energy surface
 Printed circuit board
 Probability
 Process control
@@ -392,40 +150,17 @@ Programming language theory
 Programming paradigm
 Programming team
 Programming tool
-Protein Data Bank
-Protein dynamics
-QM/MM
-Quantitative structure–activity relationship
 Quantum Computing
-Quantum chemistry
-Quantum chemistry composite methods
-Quantum computational chemistry
-Quantum computing
 Quantum mechanics
-Quantum phase estimation
-Radiation chemistry
-Radiochemistry
-Raman spectroscopy
 Randomized algorithm
 Real-time computing
 Reinforcement learning
 Rendering (computer graphics)
 Requirements analysis
-Retrosynthetic analysis
-Roald Hoffmann
 S2CID (identifier)
-Scattering theory
-Schrödinger equation
-Scientific computing
 Security hacker
 Security service (telecommunication)
 Semantics (computer science)
-Semi-empirical quantum chemistry method
-Semi-empirical quantum chemistry methods
-Semisynthesis
-Separation of variables
-Separation process
-Slater orbital
 Social computing
 Social software
 Software configuration management
@@ -439,57 +174,20 @@ Software framework
 Software maintenance
 Software quality
 Software repository
-Soil chemistry
-Solid-state chemistry
 Solid modeling
-Solvent models
-Sonochemistry
-Spectroelectrochemistry
-Spectroscopy
-Spin chemistry
-Standard enthalpy change of formation
-Statistical mechanics
 Statistics
-Stellar chemistry
-Stereochemistry
 Stochastic computing
-Stoichiometry
-Structural chemistry
 Supervised learning
-Supramolecular chemistry
-Surface science
 System on a chip
-The central science
-Theoretical Chemistry Accounts
-Theoretical chemistry
 Theoretical computer science
 Theory of computation
-Thermochemistry
-Time evolution
-Timeline of chemistry
-Titration
-Total synthesis
-Transition state theory
 Ubiquitous computing
-Ultraviolet–visible spectroscopy
-University of Minnesota
 Unsupervised learning
-VSEPR theory
-Valence bond programs
-Valence bond theory
-Verlet integration
 Very Large Scale Integration
-Vibronic coupling
 Video game
 Virtual machine
 Virtual reality
 Visualization (graphics)
-Walter Heitler
-Walter Kohn
-Wave equation
-Wave packet
 Wayback Machine
-Wet chemistry
-Word length
 Word processor
 World Wide Web

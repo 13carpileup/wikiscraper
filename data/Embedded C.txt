@@ -1,26 +1,15 @@
 ANSI C
-Ada (programming language)
 Alef (programming language)
-Almquist shell
 Amsterdam Compiler Kit
 Anjuta
-Application-specific integrated circuit
 Assembly language
-Barebox
 Bionic (software)
-BitBake
-Board support package
 Booting
-Bootloader
-Borland Turbo C
-Buildroot
-BusyBox
 C++
 C11 (C standard revision)
 C17 (C standard revision)
 C23 (C standard revision)
 C99
-CLion
 C (programming language)
 C POSIX library
 C Sharp (programming language)
@@ -28,70 +17,35 @@ C character classification
 C data types
 C date and time functions
 C dynamic memory allocation
-C file input/output
 C mathematical functions
 C preprocessor
 C standard library
 C string handling
 C syntax
 Clang
-Closed platform
 CodeLite
-Communication Access Programming Language
 Comparison of Pascal and C
-Comparison of lightweight web browsers
-Compatibility of C and C++
 Consumer electronics
-Crippleware
-Cross compiler
-Custom firmware
 D (programming language)
-Das U-Boot
-Defective by Design
 Dennis Ritchie
 Dietlibc
 Eclipse (software)
-Embedded C++
-Embedded GLIBC
-Embedded Java
-Embedded database
-Embedded hypervisor
-Embedded operating system
-Embedded software
 Embedded system
 Field-programmable gate array
-Firmware
-Fixed-point arithmetic
 GNOME Builder
 GNU Compiler Collection
 Geany
 Glibc
 Go (programming language)
-Hacking of consumer electronics
 Homebrew (video games)
-Hybris (software)
-I/O
-IOS jailbreaking
-ISO/IEC JTC 1/SC 22
 Include directive
 Integrated development environment
-Intel C++ Compiler
-Internet of things
 KDevelop
 Klibc
 LCC (compiler)
 Library (computing)
-Light-weight Linux distribution
 Limbo (programming language)
-Linux for mobile devices
-Linux on embedded systems
-List of C compilers
-List of open-source hardware
-LwIP
 MISRA C
-Memory bank
-Memory footprint
-MicroPython
 Microcontroller
 Microprocessor
 Microsoft Visual C++
@@ -102,31 +56,16 @@ NetBeans
 Newlib
 Norcroft C compiler
 Objective-C
-Open-source robotics
 OpenEmbedded
-Operators in C and C++
-PlayStation 3 Jailbreak
 Portable C Compiler
 Programming language
 Programming tool
-Proprietary firmware
 Raspberry Pi
-Real-time operating system
-Rooting (Android)
-Single-board computer
 Small Device C Compiler
-Stand-alone shell
 Stdarg.h
-Subroutine
 System on a chip
 Tiny C Compiler
 Toybox
 UClibc
-UEFI
 Vala (programming language)
-Vendor lock-in
 Visual Studio
-Watcom C/C++
-Windows Embedded Compact
-Windows IoT
-Yocto Project

@@ -1,64 +1,23 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
-AOKP
 API
-ARM64
 ARMv7
-AdMob
-AliOS
 AlmaLinux
 Alpine Linux
 Amazon Kindle
 Android-x86
 Android (operating system)
-Android 10
 Android 11
-Android 12
-Android 13
-Android 14
-Android 15
-Android 16
-Android App Bundle
-Android Automotive
-Android Cupcake
-Android Debug Bridge
-Android Developer Challenge
-Android Developer Lab
-Android Donut
-Android Eclair
-Android Froyo
 Android Gingerbread
 Android Go
-Android Honeycomb
 Android Ice Cream Sandwich
 Android Jelly Bean
 Android KitKat
 Android Lollipop
-Android Marshmallow
-Android NDK
 Android Nougat
-Android One
-Android Open Accessory Development Kit
-Android Open Source Project
-Android Oreo
 Android Pie
-Android Runtime
-Android SDK
-Android Studio
-Android TV
-Android Things
-Android application package
-Android lawn statues
-Android recovery mode
-Android software development
-Android version history
-Androidland
 Antergos
 AntiX
-Apache Harmony
-Apk (file format)
-App Inventor for Android
 ArchBang
 ArchLabs
 Arch Linux
@@ -66,18 +25,14 @@ Artix Linux
 Asahi Linux
 Astra Linux
 Asturix
-Asus ZenUI
 Austrumi Linux
 B2G OS
 BLAG Linux and GNU
 BackBox
 BackTrack
 Bada (operating system)
-Baidu Yi
-Barnes & Noble Nook
 Bharat Operating System Solutions
 Binary Runtime Environment for Wireless
-Bing (search engine)
 BioSLAX
 Bionic (software)
 BlackArch
@@ -85,18 +40,9 @@ BlackBerry 10
 BlackBerry OS
 BlackBerry Tablet OS
 Black Lab Linux
-Black Shark (phone)
-Black Shark 2
-Black Shark 3
-Black Shark 4
-Black Shark 5
-Black Shark Helo
 BlankOn Linux
-BlueStacks
 Bodhi Linux
-Booting process of Android devices
 BridgeOS
-Bug bounty program
 C++
 CHAOS (operating system)
 CRUX
@@ -113,26 +59,19 @@ Chimera Linux
 China
 ChromeOS
 ChromeOS Flex
-Chromecast
 ChromiumOS
 ClearOS
 Clear Linux OS
-ClockworkMod
 ColorOS
 Commodore OS
-Community of practice
-Comparison of Android Go products
-Comparison of Java and Android API
 Comparison of Linux distributions
 Comparison of mobile operating systems
 Container Linux
-CopperheadOS
 Corel Linux
 CrDroid
 CrunchBang Linux
 Cub Linux
 CyanogenMod
-Dalvik (software)
 Damn Small Linux
 Damn Vulnerable Linux
 Database
@@ -143,7 +82,6 @@ Devuan
 DivestOS
 DoudouLinux
 Dreamlinux
-Droid (typeface)
 EMUI
 EPOC (operating system)
 Eclipse (software)
@@ -157,16 +95,11 @@ Entrepreneurship
 EulerOS
 European Union
 Familiar Linux
-Fastboot
 Feather Linux
 Fedora Linux
 Fire OS
-Firebase
-Firebase Cloud Messaging
 Firefox OS
-Firmware
 Floppyfw
-Font
 Foresight Linux
 Fork (software development)
 FreeBSD
@@ -181,51 +114,29 @@ GNU General Public License
 GNU Guix System
 GNewSense
 GOS (operating system)
-Galaxy Nexus
 Garuda Linux
 GeckoLinux
 Gentoo Linux
 GitHub
-Gmail
 GoboLinux
 Gobuntu
 Google
-Google (search engine)
 Google Cardboard
-Google Cloud Messaging
 Google Daydream
-Google Developers
-Google I/O
-Google LLC v. Oracle America, Inc.
 Google Maps
 Google Mobile Services
-Google Nexus
-Google Pixel
 Google Play
-Google Play Services
-Google Search
-Gradle
 GrapheneOS
-Great Firewall
 HMD Global
-HTC One (M7)
-HTC One (M8)
-HTC Sense
 HandyLinux
 HarmonyOS
 HarmonyOS NEXT
-Hive UI
-Honor (brand)
-HyperOS
-Hyperbola GNU/Linux-libre
 IOS
 IPadOS
 ISBN (identifier)
 Immunix
-Index of Android OS articles
 Integrated development environment
 Intel Management Engine
-IntelliJ IDEA
 IodéOS
 Java (programming language)
 Jurix
@@ -234,23 +145,15 @@ KaOS
 KaiOS
 Kaisen Linux
 Kali Linux
-Kali NetHunter
 Kanotix
 KateOS
 Kernel (operating system)
-Kingo Root
 Knoppix
 Kongoni (operating system)
 Korora (operating system)
-Kotlin (programming language)
 Kubuntu
 Kwort Linux
-LG G Pad 8.3
-LG UX
 LXLE Linux
-LeWa OS
-Lei Jun
-Lenovo smartphones
 Libranet
 LinHES
 LineageOS
@@ -265,20 +168,12 @@ Linux Router Project
 Linux distribution
 Linux for PlayStation 2
 Linux kernel
-List of Android TV devices
-List of Android apps by Google
 List of Android launchers
-List of Android smartphones
-List of Google Play edition devices
 List of Linux distributions
-List of Xiaomi products
 List of custom Android distributions
-List of features in Android
-List of free and open-source Android applications
 List of mobile app distribution platforms
 List of open-source mobile phones
 LiteOS
-Lock screen
 Lubuntu
 LuneOS
 MCC Interim Linux
@@ -287,20 +182,12 @@ MX Linux
 Maemo
 Mageia
 Magic Cap
-Magisk (software)
 Mandrake Linux
 Mandriva Linux
 Manjaro
-Material Design
-MediaNama
 MeeGo
-Meizu
 Mer (software distribution)
 Meta Horizon OS
-Mi Box
-Mi TV
-Mi TV Stick
-MicroG
 Microsoft Windows
 Minix 3
 Miracle Linux
@@ -312,27 +199,10 @@ Moblin
 Monolithic kernel
 MontaVista
 MotoMagx
-Moto G (1st generation)
-Motoblur
-Mount Siguniang
-Musix GNU+Linux
-NDTV
 Natural language
 NetBSD
 Network Security Toolkit
-Nexus 10
-Nexus 4
-Nexus 5
-Nexus 5X
-Nexus 6
-Nexus 6P
-Nexus 7 (2012)
-Nexus 7 (2013)
-Nexus 9
-Nexus One
 Nexus Player
-Nexus Q
-Nexus S
 NimbleX
 Nintendo
 Nintendo 3DS system software
@@ -342,20 +212,15 @@ Nitix
 NixOS
 Nobara Linux
 Nokia Asha platform
-Nokia X family
-Noto fonts
 Nova (operating system)
-OPhone
 Oculus Go
 OmniROM
 One UI
 Open-source software
-OpenBinder
 OpenELEC
 OpenEZX
 OpenEmbedded
 OpenHarmony
-OpenJDK
 OpenMandriva Lx
 OpenSUSE
 Open Enterprise Server
@@ -363,15 +228,11 @@ Open Handset Alliance
 Open Mobile Alliance
 Openmoko Linux
 Operating system
-Optimus UI
 Oracle Linux
-OxygenOS
 PCLinuxOS
-POCO (company)
 Package manager
 PalmDOS
 Palm OS
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
@@ -379,32 +240,9 @@ Pentoo
 Peppermint OS
 Pinguy OS
 PixelExperience
-Pixel (1st generation)
-Pixel 2
-Pixel 3
-Pixel 3a
-Pixel 4
-Pixel 4a
-Pixel 5
-Pixel 5a
-Pixel 6
-Pixel 6a
-Pixel 7
-Pixel 7a
-Pixel 8
-Pixel 8a
-Pixel 9 Pro Fold
-Pixel C
-Pixel Fold
-Pixel Tablet
 Platypux
 PlayStation Portable system software
 PlayStation Vita system software
-Poco (company)
-Poco (smartphone)
-Poco C40
-Poco M5
-Poco X3
 Pop! OS
 Porteus (operating system)
 PostmarketOS
@@ -421,102 +259,23 @@ QtMoko
 Qubes OS
 ROSA Linux
 Raspberry Pi OS
-Realme
 Red Hat Enterprise Linux
 Red Hat Linux
 Red Star OS
-Redmi
-RedmiBook
-Redmi 1
-Redmi 10
-Redmi 10A
-Redmi 10C
-Redmi 10X
-Redmi 10 5G
-Redmi 12
-Redmi 12C
-Redmi 13
-Redmi 13C
-Redmi 14C
-Redmi 1S
-Redmi 2
-Redmi 2A
-Redmi 3
-Redmi 4
-Redmi 4A
-Redmi 4X
-Redmi 5
-Redmi 5A
-Redmi 6
-Redmi 6A
-Redmi 7
-Redmi 7A
-Redmi 8
-Redmi 9
-Redmi 9A
-Redmi 9C
-Redmi A1
-Redmi A2
-Redmi A3
-Redmi A4
-Redmi G Gaming Laptop
-Redmi Go
-Redmi K20
-Redmi K30
-Redmi K30 Pro
-Redmi K40
-Redmi K50
-Redmi K60
-Redmi K70
-Redmi K80
-Redmi Note
-Redmi Note 10
-Redmi Note 11
-Redmi Note 12
-Redmi Note 13
-Redmi Note 14
-Redmi Note 2
-Redmi Note 3
-Redmi Note 4
-Redmi Note 5
-Redmi Note 5A
-Redmi Note 6 Pro
-Redmi Note 7
-Redmi Note 8
-Redmi Note 9
-Redmi Note 9 4G
-Redmi Note Prime
-Redmi Pad
-Redmi Pad Pro
-Redmi Pad SE
-Redmi Pro
-Redmi S2
-Redmi Smart Band
-Redmi Smart Band 2
-Redmi Smart Band 3
-Redmi TV
-Redmi Turbo 3
 Remix OS
-RenderScript
 Replicant (operating system)
 Resurrection Remix OS
-Roboto
 Rocks Cluster Distribution
 Rocky Linux
-Rooting (Android)
 S60 (software platform)
 SHR (operating system)
-SQLite
 SUSE Linux
 SUSE Linux Enterprise
 SUSE Studio
 Sabayon Linux
 Sabily
-SafetyNet API
 Sailfish OS
 Salix OS
-Samsung Experience
-Samsung Galaxy S4
 Scientific Linux
 Search engine
 Series 30
@@ -524,30 +283,22 @@ Series 30+
 Series 40
 Series 80 (software platform)
 Series 90 (software platform)
-Skia Graphics Engine
 Slackware
 Slax
-SlimRoms
-Smartphone patent wars
-Smartphones
 Softlanding Linux System
 Software license
 Software release life cycle
 Solus (operating system)
 SolydXK
 Sony Ericsson Java Platform
-Sony Xperia Z Ultra
 Source Mage
 SparkyLinux
 Splashtop OS
 SteamOS
 Sunwah Linux
-SuperSU
 Symbian
 SystemRescue
 T2 SDE
-TCL Technology
-TWRP (software)
 Tails (operating system)
 Theme (computing)
 Think Blue Linux
@@ -555,11 +306,9 @@ ThreadX
 Tiny Core Linux
 Tizen
 TopologiLinux
-TouchWiz
 Trisquel
 Turbolinux
 Turkix
-Typeface
 UBports
 UIQ
 Ubuntu
@@ -571,10 +320,8 @@ Ubuntu MATE
 Ubuntu Studio
 Ubuntu Touch
 Ubuntu Unity
-Ubuntu for Android
 Ultramarine Linux
 Unity Operating System
-Uruk GNU/Linux
 User interface
 VectorLinux
 Vine Linux
@@ -598,108 +345,11 @@ Windows Phone 8.1
 Windows RT
 Windows XP editions
 Wubuntu
-X64
 X86
 XB Machine
 XML
 XNU
-Xiaomi
-Xiaomi 11T
-Xiaomi 12
-Xiaomi 12S
-Xiaomi 12 Lite
-Xiaomi 13
-Xiaomi 14
-Xiaomi 14T
-Xiaomi 14 Civi
-Xiaomi 15
-Xiaomi Civi
-Xiaomi Civi 3
-Xiaomi HyperOS
-Xiaomi M365
-Xiaomi MIX 4
-Xiaomi MIX Flip
-Xiaomi MIX Fold 2
-Xiaomi MIX Fold 3
-Xiaomi MIX Fold 4
-Xiaomi Mi 1
-Xiaomi Mi 10
-Xiaomi Mi 10T
-Xiaomi Mi 10 Lite
-Xiaomi Mi 10 Ultra
-Xiaomi Mi 11
-Xiaomi Mi 11 Lite
-Xiaomi Mi 1S
-Xiaomi Mi 1S Youth
-Xiaomi Mi 1 Youth
-Xiaomi Mi 2
-Xiaomi Mi 2A
-Xiaomi Mi 2S
-Xiaomi Mi 3
-Xiaomi Mi 4
-Xiaomi Mi 4S
-Xiaomi Mi 4c
-Xiaomi Mi 4i
-Xiaomi Mi 5
-Xiaomi Mi 5c
-Xiaomi Mi 5s
-Xiaomi Mi 5s Plus
-Xiaomi Mi 6
-Xiaomi Mi 8
-Xiaomi Mi 8 EE
-Xiaomi Mi 8 Lite
-Xiaomi Mi 8 SE
-Xiaomi Mi 9
-Xiaomi Mi 9 Pro
-Xiaomi Mi 9 SE
-Xiaomi Mi A1
-Xiaomi Mi A2
-Xiaomi Mi A2 Lite
-Xiaomi Mi A3
-Xiaomi Mi Band
-Xiaomi Mi Band 2
-Xiaomi Mi Band 3
-Xiaomi Mi CC9
-Xiaomi Mi CC9 Pro
-Xiaomi Mi Gaming Laptop
-Xiaomi Mi MIX
-Xiaomi Mi MIX 2
-Xiaomi Mi MIX 2S
-Xiaomi Mi MIX 3
-Xiaomi Mi MIX Alpha
-Xiaomi Mi MIX Fold
-Xiaomi Mi Max
-Xiaomi Mi Max 2
-Xiaomi Mi Max 3
-Xiaomi Mi Note
-Xiaomi Mi Note 10 Lite
-Xiaomi Mi Note 2
-Xiaomi Mi Note 3
-Xiaomi Mi Notebook
-Xiaomi Mi Pad
-Xiaomi Mi Pad 2
-Xiaomi Mi Pad 3
-Xiaomi Mi Pad 4
-Xiaomi Mi Pad 4 Plus
-Xiaomi Mi Play
-Xiaomi Mi Smart Band 4
-Xiaomi Mi Smart Band 5
-Xiaomi Mi Smart Band 6
-Xiaomi Mini PC
-Xiaomi Pad 5
-Xiaomi Pad 6
-Xiaomi Pad 7
-Xiaomi Pocophone F1
-Xiaomi SU7
-Xiaomi Smart Band 7
-Xiaomi Smart Band 8
-Xiaomi Smart Band 9
-Xiaomi Smart Home
-Xiaomi Vela
-Xiaomi YU7
-XobotOS
 Xubuntu
-YI Technology
 Yellow Dog Linux
 YouTube
 YouTube video (identifier)

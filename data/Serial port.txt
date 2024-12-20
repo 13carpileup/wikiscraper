@@ -1,235 +1,63 @@
-10P10C
-16550 UART
-8250
-8P8C
 ANSI escape code
 ASCII
-Amateur radio
 AppleTalk
-Asynchronous serial
-BACnet
-Bar code scanner
-Basic Rate Interface
 Baud
-Baud rate
 Baudot code
-Bell 101 modem
-Bell 103 modem
-Bell 202
-Bell 212A
-Bit
-Bit banging
-Bit rate
-Bits per second
-Blu-ray
 Byte
-CNC controller
-COM (hardware interface)
 CPU
 Central processing unit
-Chipset
 Cisco Systems
 Communication protocol
 Compact disc
 Computer
-Computer case
 Computer data storage
 Computer hardware
 Computer keyboard
 Computer memory
-Computer monitor
-Computer mouse
 Computer network
-Computer port (hardware)
-Computer speakers
 Computer terminal
-Crossover cable
-Crystal oscillator
 D-subminiature
-DB-25
-DE-9
-DMX512
 DOS
 DVD
-Data buffer
-Data circuit-terminating equipment
-Data frame
-Data terminal equipment
-Digi International
-Digital Visual Interface
-Digital signal
-Disk pack
-DisplayPort
-EIA/TIA-561
-Econet
-Electronic visual display
-Error correction
-Escape sequence
 Ethernet
-Expansion card
-Fax modem
-FireWire
-Firewall (computing)
-Firmware
-Flash memory
-Flat-panel display
 Floppy disk
-Flow control (data)
-GPS
-Game controller
-Game port
-Gender changer
-Gender of connectors and fasteners
-Graphics card
 Graphics processing unit
-Graphics tablet
-Graphing calculator
-HDMI
-Handshake (computing)
 Hard disk drive
-History of computing hardware
-History of computing hardware (1960s–present)
-History of personal computers
 Home computer
-IBM 2741
 IBM PC
 IBM PC compatible
-IBM Personal Computer/AT
-IBM XT
-IEEE 1394
 ISBN (identifier)
-ISDN
-ITU-T V.21
-ITU-T V.22
-ITU-T V.24
-ITU-T V.32
-ITU-T V.34
-ITU-T V.44
-ITU-T V.90
-Image scanner
-In-band signaling
-Industry Standard Architecture
-Input/output
-Input device
 Integrated circuit
 Interface (computing)
-Kermit protocol
 LCD
 LED
-Large-scale integration
-Least significant bit
-Light pen
-Line noise
 Linux
-List of Bluetooth profiles
-List of pioneers in computer science
-Load balancer
-LocalTalk
 MIDI
-MOSFET
 Macintosh
-Macintosh LC
-Mainframe
 Memory card
 Microcontroller
 Microphone
 Microprocessor
-Microprocessor development board
 Microsoft
 Mini-DIN connector
-Mini DIN-8
 Minicomputer
 Modbus
 Modem
-Modified Modular Jack
 Morse code
-Most significant bit
-Motherboard
-Multimeter
-NMEA 0183
-NVM Express
-National Instruments
-Network interface controller
-Network switch
 Networking hardware
-Nonvolatile BIOS memory
-Null modem
-Octopus cable
 Optical disc
-Optical mouse
-Optical trackpad
-Output device
-PCI Express
-PS/2 port
-Parallel communication
-Parallel port
-Parity bit
 Peripheral
 Personal computer
-Phone connector (audio)
-Pin header
-Plotter
 Point of sale
-Pointing device
 Pointing stick
-PowerBook
-Power MOSFET
-Power supply unit (computer)
 Printer (computing)
 RS-232
-RS-422
-RS-485
-Random-access memory
 Refreshable braille display
 Removable media
-Ribbon cable
-Rollover cable
 Router (computing)
-SATA
-Satellite phone
-Semtech
 Serial ATA
-Serial communication
-Serial over LAN
 Server (computing)
-Single-ended signaling
-Softcam
 Solid-state drive
-Solid-state hybrid drive
-Sound card
-Sound chip
-State (computer science)
-Stenotype
-Stream (computing)
-Super I/O
-Switched-mode power supply
-TIA-574
-Teleprinter
-Teletype
-Termcap
-Terminal adapter
-Thunderbolt (interface)
-Touchpad
-Touchscreen
-Trackball
-Transmission Control Protocol
-Two-way radio
-UART
 USB
-USB-to-serial converter
 USB flash drive
-USRobotics
-Uninterruptible power supply
-Unix
-Unix-like
-V.22bis
-V.27ter
-V.32bis
-V.42bis
-V.92
-VGA connector
-Virtual COM port
-Voltage regulator module
-Webcam
 Windows
-XON/XOFF

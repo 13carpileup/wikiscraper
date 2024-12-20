@@ -10,7 +10,6 @@ Bingo dialect
 Bonin English
 Braille kanji
 Chikuzen dialect
-Chūgoku dialect
 Classical Japanese
 Close vowel
 Cyrillization of Japanese
@@ -22,9 +21,7 @@ Enclosed Ideographic Supplement
 Engrish
 Extended Unix Code
 Extended shinjitai
-Fukui Prefecture
 Furigana
-Gairaigo
 Gender differences in Japanese
 Glossary of Japanese words of Dutch origin
 Glossary of Japanese words of Portuguese origin
@@ -34,10 +31,7 @@ Gunma dialect
 Hachijō grammar
 Hachijō language
 Hakata dialect
-Hakusan, Ishikawa
 Halfwidth and fullwidth forms
-Hanamachi
-Haruhiko Kindaichi
 Hentaigana
 Hepburn romanization
 Hichiku dialect
@@ -46,15 +40,10 @@ Hiragana
 Hiragana (Unicode block)
 Historical kana orthography
 Hokkaido dialects
-Hokuriku dialect
 Honorific speech in Japanese
-Hōnichi dialect
-ISO/IEC 2022
 ISO 639-3
 Ibaraki dialect
-Imajō, Fukui
 Inshū dialect
-Ishikawa Prefecture
 Iyo dialect
 JIS X 0201
 JIS X 0208
@@ -66,7 +55,6 @@ Japan
 Japanese-based creole languages
 Japanese Braille
 Japanese adjectives
-Japanese books
 Japanese counter word
 Japanese dialects
 Japanese dictionary
@@ -87,14 +75,10 @@ Japanese pronouns
 Japanese punctuation
 Japanese script reform
 Japanese sound symbolism
-Japanese verb conjugation
 Japanese writing system
 Japonic languages
 Jōdai Tokushu Kanazukai
-Kaga, Ishikawa
-Kaga Province
 Kagoshima dialect
-Kahoku, Ishikawa
 Kan-on
 Kana
 Kana Extended-A
@@ -102,13 +86,10 @@ Kana Extended-B
 Kana Supplement
 Kana ligature
 Kanagawa dialect
-Kanazawa
 Kanazukai
 Kanbun
 Kanji
 Kansai dialect
-Kantō dialect
-Kantō region
 Katakana
 Katakana (Unicode block)
 Katakana Phonetic Extensions
@@ -116,19 +97,14 @@ Kesen dialect
 Kikai language
 Kishū dialect
 Kokuji
-Komatsu, Ishikawa
 Kumamoto dialect
 Kunigami language
 Kunrei-shiki romanization
-Kyoto
 Kyowa-go
-Language family
-Language island
 Late Middle Japanese
 List of Japanese speculative fiction writers
 List of Japanese writers
 List of classical Japanese texts
-List of kanji by stroke count
 List of kanji radicals by frequency
 List of kanji radicals by stroke count
 Logogram
@@ -145,18 +121,15 @@ Nairiku dialect
 Nanbu dialect
 Narada dialect
 Nihon-shiki romanization
-Niigata Prefecture
 Northern Izu Archipelago dialects
 Northern Ryukyuan languages
 Nyōbō kotoba
 Okinawan Japanese
 Okinawan language
-Okinoerabu language
 Okurigana
 Okuyoshino dialect
 Old Japanese
 Open vowel
-Osaka
 Polivanov system
 Pseudo-Chinese
 Rendaku
@@ -167,11 +140,9 @@ Saga dialect
 Sanuki dialect
 Shift JIS
 Shikoku dialect
-Shiramine, Ishikawa
 Shizuoka dialect
 Sino-Japanese vocabulary
 Small Kana Extension
-Sokuon
 Southern Amami Ōshima language
 Southern Ryukyuan languages
 Sōgana
@@ -187,18 +158,14 @@ Tsugaru dialect
 Tsushima dialect
 Tō-on
 Tōhoku dialect
-Tōkai–Tōsan dialect
 Umpaku dialect
-Voiced consonant
 Vowel
 Wasei-eigo
 Wasei-kango
-Western Japanese
 World War II
 Wāpuro rōmaji
 Yaeyama language
 Yakuwarigo
-Yamato kotoba
 Yilan Creole Japanese
 Yokohama Pidgin Japanese
 Yonaguni language

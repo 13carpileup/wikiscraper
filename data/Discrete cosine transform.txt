@@ -1,500 +1,124 @@
-.m2ts
 2D-plus-depth
-3D video
-3GPP
-3GP and 3G2
-842 (compression algorithm)
-A-law algorithm
-AAC+
-AAC-LD
-AMV video format
-APNG
 ARPANET
-ATSC 3.0
-AV1
-AVIF
-Academic Press
-Acoustic echo cancellation
-Adaptive Huffman coding
-Adaptive Multi-Rate Wideband
-Adaptive Multi-Rate audio codec
-Adaptive Transform Acoustic Coding
-Adaptive coding
-Adaptive differential pulse-code modulation
-Adaptive feedback cancellation
-Advanced Audio Coding
-Advanced Systems Format
 Advanced Video Coding
-Advanced z-transform
 Alexander Graham Bell
 Alexander Stepanovich Popov
 Alfred Vail
-Algebraic code-excited linear prediction
-Aliasing
-Alliance for Open Media
 Almon Brown Strowger
 Amos Dolbear
-Amplitude
-Analog-to-digital conversion
 Android (operating system)
-Anil K. Jain (electrical engineer, born 1946)
-Animated GIF
 Animation
-Anti-aliasing filter
 Antonio Meucci
 Aperture synthesis
 Apple Inc.
-Apple Lossless Audio Codec
-Apple ProRes
-Apple Video
-Apple community
-AptX
 ArXiv (identifier)
-Arithmetic circuit
-Arithmetic coding
 Artist
-Asao (codec)
-Astronomical image processing
-Asymmetric numeral systems
-Au file format
-Audio Engineering Society
-Audio Interchange File Format
-Audio Lossless Coding
-Audio Video Interleave
-Audio Video Standard
-Audio Vivid
-Audio codec
-Audio coding
 Audio coding format
-Audio compression (data)
-Audio data compression
-Audio signal processing
-Average bitrate
-Avid Audio
-Avid DNxHD
 BBC
 BBC News
 BITNET
-BMP file format
-BT.com
-BT Group
 Bandwidth (computing)
 Beacon
-Beamforming
-Better Portable Graphics
 Bibcode (identifier)
-Bilinear transform
-Bink Video
 Biometrics
-Bit
-Bit rate
-Bitmovin
 BlackBerry
-Blu-ray
-Blu-ray Disc
-Blu-ray Discs
-Bluetooth Special Interest Group
 Bob Kahn
-Bokeh
-Boundary condition
-Brain compression
-Brain tumor
-Brotli
-Burrows–Wheeler transform
-Butterfly (FFT algorithm)
-Byte pair encoding
-Bzip2
-CCITT
 CD
-CELT
 CRC Press
 CYCLADES
 Cable protection system
 Cable television
-Camcorders
 Camille Tissot
-Canonical Huffman code
 Cellular network
-Chain code
 Charles Bourseul
 Charles Grafton Page
 Charles K. Kao
 Charles Sumner Tainter
 Charles Wheatstone
-Chebyshev approximation
-Chebyshev polynomials
-China Multimedia Mobile Broadcasting
-Chroma subsampling
-CineForm
-Cinepak
 Circuit switching
-CiteSeerX (identifier)
 Classification of discontinuities
 Claude Chappe
 Claude Shannon
-Clenshaw–Curtis quadrature
 Coaxial cable
 Code-division multiple access
-Code-excited linear prediction
-Codec 2
-Coding tree unit
-Color
-Color space
 Communication protocol
 Communications satellite
-Companding
-Comparison of audio coding formats
-Comparison of video codecs
-Complex cepstrum
-Complex exponential
-Compressed data structure
-Compressed suffix array
-Compression artifact
-Compression artifacts
-Compressive sampling
 Computer memory
 Computer network
-Computers
-Constant-Q transform
-Constant bitrate
 Consumer electronics
-Container format (computing)
-Content-based image retrieval
-Context mixing
-Context tree weighting
-Convolution
-Cook Codec
 Cooley–Tukey FFT algorithm
 Copyright
-Corner detection
-Cosine
-Cosine series
 Cryptography
-DAB+
-DEFLATE
-DTS (sound system)
-DVB-H
 DVD
-DV (video format)
-Daala
 Daniel Davis Jr.
 Data communication
 Data compression
-Data compression ratio
-Data compression symmetry
-Data extraction
-Data points
-Daubechies wavelet
 Dawon Kahng
-Deblocking filter
-Deflate
-Delta encoding
-Delta modulation
-Detection theory
-Dictionary coder
-Differential pulse-code modulation
-Digital Audio Broadcasting
-Digital Radio Mondiale
-Digital Signal Processing (journal)
-Digital Video Interactive
 Digital audio
-Digital audio broadcasting
-Digital audio radio service
-Digital camera
-Digital cameras
-Digital cassettes
-Digital cinema
-Digital cinematography
-Digital container format
 Digital distribution
-Digital electronics
 Digital image
-Digital image processing
-Digital images
-Digital imaging
 Digital media
-Digital movie camera
-Digital photo
-Digital photography
-Digital radio
-Digital signal processing
-Digital signal processor
-Digital signal processors
-Digital telephony
 Digital television
-Digital television broadcasting
-Digital versatile disc
-Digital video
-Digital watermarking
-Dirac (video compression format)
-Dirichlet condition
-Discrete-time Fourier transform
-Discrete Fourier transform
-Discrete signal
-Discrete sine transform
-Discrete time and continuous time
-Discrete wavelet transform
 Display resolution
 DivX
-DjVu
 Doi (identifier)
-Dolby AC-4
-Dolby Digital
-Dolby Laboratories
 Domain of a function
 Donald Davies
-Downsampling
-Downsampling (signal processing)
 Drums in communication
-Dynamic Markov compression
-Dynamic Resolution Adaptation
-Dynamic range
-EE Times
-EISSN (identifier)
-ETSI
-Edge detection
 Edholm's law
 Edwin Howard Armstrong
 Electrical telegraph
-Electrocardiography
-Elias gamma coding
 Elisha Gray
-Elsevier
-Embedded zerotrees of wavelet transforms
 Emile Berliner
-Encoding
 Encryption
-Engineering and Technology History Wiki
-Enhanced VOB
-Enhanced Variable Rate Codec
-Enhanced Variable Rate Codec B
-Enhanced Voice Services
-Enhanced full rate
 Entropy (information theory)
-Entropy coding
-Entropy encoding
 Erna Schneider Hoover
-Error concealment
 Essential Video Coding
-Estimation theory
 Ethernet
 European Broadcasting Union
-Even and odd functions
-Event data recorder
-Exponential-Golomb coding
-Extended Adaptive Multi-Rate – Wideband
-FFTPACK
-FFTW
-FFV1
-FLAC
-FM-index
-FaceTime
-Face detection
-Facial recognition system
-Facial recognition systems
-Fast Fourier transform
 Fax
-Feature extraction
 Fiber-optic communication
-Fibonacci coding
 FidoNet
 Film
-Film editing
-Film frame
-Filter (signal processing)
-Fingerprint
-Flash Video
-Focus (optics)
-Forgery detection
-Fourier series
-Fourier transform
-Foveated imaging
-Fractal compression
 Frame rate
 Francis Blake (inventor)
-Fraunhofer IIS
 Free-space optical communication
-Free Lossless Image Format
 Frequencies
 Frequency
 Frequency-division multiplexing
-Full Rate
 Function (mathematics)
-G.711
-G.718
-G.719
 G.722
-G.722.1
-G.723
-G.723.1
-G.726
-G.728
-G.729
-G.729.1
-GIF
 GNU General Public License
-Game consoles
-Gardiner Greene Hubbard
-General Exchange Format
-Geophysical
-Gerlind Plonka
-Glitch art
-Golomb coding
 Google
-Grammar-based code
-Group 4 compression
 Guglielmo Marconi
-H.120
-H.261
-H.262/MPEG-2 Part 2
 H.263
-H.264/MPEG-4 AVC
-H.26x
-H.320
-HDTV
 HD Radio
-HD video
-HEIF
-HEVC
 HTML5
-Half Rate
-Harmonic Vector Excitation Coding
-Harold Hopkins (physicist)
 Hdl (identifier)
-Hedy Lamarr
 Heliograph
-Henry Sutton (inventor)
-Hewlett-Packard Journal
-High-Definition Coding
-High-Efficiency Advanced Audio Coding
-High-definition TV
-High-definition television
 High-definition video
-High-dynamic-range imaging
-High Efficiency Image File Format
-High Efficiency Image Format
-High Efficiency Video Coding
-History of broadcasting
-History of mobile phones
-History of prepaid mobile phones
 History of radio
-History of telecommunication
-History of television
-History of the Internet
-History of the telephone
-History of the transistor
-History of videotelephony
-House of Commons Library
 Huffman coding
-Huffyuv
-Hutter Prize
-Hydraulic telegraph
-ICER (file format)
-IEEE Transactions on Communications
-IEEE Transactions on Computers
 IOS
 ISBN (identifier)
-ISO/IEC
-ISO/IEC base media file format
 ISSN (identifier)
 ITU-T
 ITunes
-Image
-Image analysis
 Image compression
-Image enhancement
-Image file format
-Image format
-Image fusion
-Image noise
-Image processing
-Image quality
-Image reconstruction
-Image resolution
-Image segmentation
-Image texture
-Image watermarking
-Impulse invariance
-Incremental encoding
-Indeo
-Information Age
-Information revolution
 Information theory
-Innocenzo Manzetti
-Inpainting
 Institute of Electrical and Electronics Engineers
-Institution of Engineering and Technology
 Integer
-Integral transform
-Integrated Services Digital Network
 Integrated circuit
-Inter-frame
-Interchange File Format
-Interlaced video
 International Electrotechnical Commission
 International Organization for Standardization
 Internet
-Internet2
-Internet Engineering Task Force
-Internet Low Bitrate Codec
-Internet Speech Audio Codec
-Internet video
-Interpolation
-Intra-frame coding
-JANET
 JBIG
-JBIG2
-JPEG
-JPEG-LS
 JPEG 2000
 JPEG XL
 JPEG XR
 JPEG XS
-JPEG XT
-Jagadish Chandra Bose
-Johann Philipp Reis
-John Bardeen
-John Logie Baird
-John Makhoul
 John Wiley & Sons
-Joint Photographic Experts Group
-Journal of Electronic Imaging
-Jun-ichi Nishizawa
-Just-noticeable difference
-K. R. Rao
-Kansas State University
-Karhunen-Loève transform
-Karhunen–Loève theorem
 Kolmogorov complexity
-LC3 (codec)
-LCCN (identifier)
 LCEVC
-LDAC (codec)
-LHA (file format)
-LHDC (codec)
-LZ4 (compression algorithm)
-LZ77 and LZ78
-LZFSE
-LZJB
-LZRW
-LZWL
-LZX
-Lagarith
-Laplace transform
-Lapped transform
-Latency (audio)
-Lee de Forest
-Lempel–Ziv–Markov chain algorithm
-Lempel–Ziv–Oberhumer
-Lempel–Ziv–Stac
-Lempel–Ziv–Storer–Szymanski
-Lempel–Ziv–Welch
-Levenshtein coding
 Library of Congress
-Line spectral pairs
 Linear
-Linear combination
-Linear predictive coding
-List of Fourier-related transforms
-List of Internet pioneers
-List of codecs

@@ -1,157 +1,61 @@
-2-in-1 PC
 32-bit
 64-bit computing
-AArch64
-AMD Accelerated Processing Unit
-ARM Holdings
-ARM architecture
-ARM architecture family
 ARMv7
-ASUS Transformer
-Acer Iconia Tab
-Acer Inc.
-AdDuplex
-Advanced Configuration and Power Interface
-Always On, Always Connected
 Amazon Kindle
-AnandTech
 Android (operating system)
 Android Go
 App Store (iOS)
-Application store
 Ars Technica
-Asus
-Asus VivoTab
-Atom (system on chip)
 B2G OS
-Backporting
 Backward compatibility
 Bada (operating system)
-Batch file
 Binary Runtime Environment for Wireless
-BitLocker Drive Encryption
 BlackBerry 10
 BlackBerry OS
 BlackBerry Tablet OS
-Bochs
-Boot Configuration Data
-Boy Genius Report
 BridgeOS
-BrowserChoice.eu
-Browser Helper Object
 CBS Interactive
 CNET
-Cairo (operating system)
-Cannibalization (marketing)
 ChromeOS
 ChromeOS Flex
-Class driver
-Closed platform
-Code signing
-Comparison of Microsoft Windows versions
-Comparison of Windows Vista and Windows XP
 Comparison of mobile operating systems
 Computerworld
 Condé Nast
-Consumer Electronics Show
-Criticism of Microsoft Windows
-Criticism of Windows 10
-Criticism of Windows Vista
-Criticism of Windows XP
 DOS
-Debugger
 Dell
-Dell XPS
-Dell XPS 10
-Development of Windows 95
-Development of Windows Vista
-Development of Windows XP
-Digital signature
 DirectX
 EMUI
 EPOC (operating system)
 Embedded system
-Emulator
-Epson
 European Union
-European Union Microsoft competition case
-Exchange ActiveSync
 ExtremeTech
-Features new to Windows 10
-Features new to Windows 11
-Features new to Windows 7
-Features new to Windows 8
-Features new to Windows Vista
-Features new to Windows XP
 Fedora Linux
-File Explorer
-File manager
-Firefox
 Firefox OS
-Firmware
-Foxconn
 FreeBSD
 FreeRTOS
 Fuchsia (operating system)
-Full disk encryption
 GEOS (16-bit operating system)
 GNU
-GPU
 Google
 Google Play
-Group Policy
 HMD Global
-HP Envy
-HP Pavilion (computer)
-HP Spectre
 HTC
 HarmonyOS
 HarmonyOS NEXT
-Hewlett-Packard
-Huawei
-Huawei MateBook
-Human interface device
-Hybrid kernel
 IOS
 IPadOS
-IPad (3rd generation)
-IdeaPad
-InstantGo
 Intel
 Intel Management Engine
 International Data Group
-Internet Explorer
-Internet Explorer 9
 I²C
-Jen-Hsun Huang
-Julie Larson-Green
-Kaby Lake
 KaiOS
 Kernel (operating system)
-LTE (telecommunication)
-Lenovo
-Lenovo IdeaPad D330
-Lenovo IdeaPad Duet 3i
-Lenovo IdeaPad Yoga 11
-Lenovo IdeaPad Yoga 11S
-Lenovo IdeaPad Yoga 13
-Lenovo IdeaTab Lynx
 Linux
 Linux Kernel
-List of Microsoft Surface accessories
-List of Microsoft Windows components
-List of Microsoft Windows versions
 List of custom Android distributions
-List of features removed in Windows 10
-List of features removed in Windows 11
-List of features removed in Windows 7
-List of features removed in Windows 8
-List of features removed in Windows Vista
-List of features removed in Windows XP
 List of mobile app distribution platforms
 List of open-source mobile phones
 LiteOS
-Lumia series
 LuneOS
 Maemo
 Magic Cap
@@ -159,23 +63,12 @@ Malware
 Manjaro
 MeeGo
 Mer (software distribution)
-Metro (design language)
 Microarchitecture
 Microsoft
-Microsoft Mobile
 Microsoft Office
-Microsoft Office 2013
-Microsoft Outlook
-Microsoft Plus!
 Microsoft PowerPoint
-Microsoft PowerToys
-Microsoft Store (digital)
-Microsoft Store (retail)
 Microsoft Surface
-Microsoft Surface 2
 Microsoft Windows
-Microsoft Windows version history
-Microsoft Word
 Microsoft account
 Minix 3
 Mobian
@@ -192,11 +85,7 @@ Nintendo DSi system software
 Nintendo Switch system software
 Nokia
 Nokia Asha platform
-Nokia Lumia 2520
 Nvidia
-OMAP
-Office 2013
-Office 365
 OpenEZX
 OpenEmbedded
 OpenHarmony
@@ -204,219 +93,65 @@ Open Handset Alliance
 Open Mobile Alliance
 Openmoko Linux
 Original equipment manufacturer
-PC Advisor
 PC World
 PalmDOS
 Palm OS
 PlayStation Portable system software
 PlayStation Vita system software
-Plug and play
-Pocket PC 2000
-Pocket PC 2002
-Pop-up ad
 Porting
 PostmarketOS
-Privilege escalation
-Product recall
 Programmer
-PuTTY
 PureOS
 QNX
 QtMoko
-Qualcomm
-Qualcomm Snapdragon LTE modem
-Rack-mount
-Random-access memory
-Ryzen Mobile
 S60 (software platform)
 SHR (operating system)
 Sailfish OS
-Samsung
-Samsung Ativ
-Samsung Ativ Q
-Samsung Ativ Tab
 Samsung Electronics
-Samsung Galaxy Book (2017)
-Samsung Galaxy Book 2
-Samsung Galaxy Book 3
-Samsung Galaxy Book S
-Samsung Galaxy TabPro S
-Sandbox (computer security)
 Satya Nadella
 Series 30
 Series 30+
 Series 40
 Series 80 (software platform)
 Series 90 (software platform)
-Shell (computing)
 Smartphone
-Snapdragon (system on chip)
 Software release life cycle
 Sony Ericsson Java Platform
-Start menu
 SteamOS
-Stephen Elop
 Steve Ballmer
-Steven Sinofsky
-Surface (1st generation)
-Surface (2012 tablet)
-Surface (first generation)
-Surface 2
-Surface 3
-Surface Book
-Surface Book 2
-Surface Book 3
-Surface Go
-Surface Go 2
-Surface Go 3
-Surface Go 4
-Surface Laptop Studio
-Surface Laptop Studio 2
-Surface Mini
-Surface Pen
-Surface Pro
-Surface Pro (11th generation)
-Surface Pro (2017)
-Surface Pro 10
-Surface Pro 2
-Surface Pro 3
-Surface Pro 4
-Surface Pro 6
-Surface Pro 7
-Surface Pro 8
-Surface Pro 9
-Surface Pro X
 Symbian
-System-on-chip
-System Center Configuration Manager
-Tablet computer
 TechRadar
-Tegra 2
-Tegra 3
-Tegra 4
-Texas Instruments
 The Verge
-ThinkPad
-ThinkPad 10
-ThinkPad 8
-ThinkPad Helix
-ThinkPad Tablet 2
-ThinkPad Yoga
 ThreadX
-TightVNC
-Time Warner
 Tizen
-Toshiba
 Trusted Platform Module
-Turnkey
 UBports
-UEFI Secure Boot
 UIQ
 Ubuntu Touch
-Unified Extensible Firmware Interface
 United States dollar
-Universal Serial Bus
-Visual Basic for Applications
 Vox Media
 WatchOS
 Wear OS
 WebOS
 Web browser
-Windows 1.0
 Windows 10
-Windows 10X
 Windows 10 Mobile
-Windows 10 Mobile version history
-Windows 10 S
-Windows 10 editions
-Windows 10 version history
 Windows 11
-Windows 11 editions
-Windows 11 version history
-Windows 2.0
-Windows 2.1
-Windows 2000
-Windows 3.0
-Windows 3.1
-Windows 7
-Windows 7 editions
 Windows 8
 Windows 8.1
-Windows 8 editions
 Windows 95
-Windows 98
-Windows 9x
 Windows API
-Windows CE
-Windows CE 5.0
-Windows Embedded Automotive
-Windows Embedded CE 6.0
-Windows Embedded Compact
-Windows Embedded Compact 7
-Windows Embedded Industry
-Windows Essential Business Server 2008
-Windows Fundamentals for Legacy PCs
-Windows HPC Server 2008
-Windows Home Server
-Windows Home Server 2011
-Windows Intune
-Windows IoT
-Windows Me
-Windows Media Player
 Windows Mobile
-Windows Mobile 2003
-Windows Mobile 5.0
-Windows Mobile 6.0
-Windows Mobile 6.1
-Windows Mobile 6.5
-Windows MultiPoint Server
 Windows NT
-Windows NT 3.1
-Windows NT 3.5
-Windows NT 3.51
-Windows NT 4.0
-Windows Nashville
-Windows Neptune
-Windows Odyssey
 Windows Phone
 Windows Phone 7
-Windows Phone 7.8
 Windows Phone 8
 Windows Phone 8.1
-Windows Phone version history
-Windows Polaris
-Windows Preinstallation Environment
-Windows Runtime
-Windows Server
-Windows Server 2003
-Windows Server 2008
-Windows Server 2008 R2
-Windows Server 2012
-Windows Server 2012 R2
-Windows Server 2016
-Windows Server 2019
-Windows Server 2022
-Windows Server 2025
-Windows Server Essentials
 Windows Store
-Windows Store app
-Windows Update
-Windows Vista
-Windows Vista editions
-Windows XP
-Windows XP Media Center Edition
-Windows XP Professional x64 Edition
 Windows XP editions
-Windows domain
-Windows for Pen Computing
-Wintel
-Write once, run anywhere
 X86
-XDA Developers
 XNU
-Xbox Music
 Xbox One
-Xbox Video
 ZDNet
 Ziff Davis
 Zircon (microkernel)

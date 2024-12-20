@@ -1,95 +1,42 @@
-/e/ (operating system)
-AOKP
 API
-AdMob
-AliOS
 Allmyapps
 Amazon.com
 Amazon Appstore
 Amazon Digital Game Store
 Android-x86
 Android (operating system)
-Android 10
 Android 11
-Android 12
-Android 13
-Android 14
-Android 15
-Android 16
-Android App Bundle
-Android Automotive
-Android Cupcake
-Android Debug Bridge
-Android Developer Challenge
-Android Developer Lab
-Android Donut
-Android Eclair
-Android Froyo
 Android Gingerbread
 Android Go
-Android Honeycomb
 Android Ice Cream Sandwich
 Android Jelly Bean
 Android KitKat
 Android Lollipop
-Android Marshmallow
-Android NDK
 Android Nougat
-Android One
-Android Open Accessory Development Kit
-Android Open Source Project
-Android Oreo
 Android Pie
-Android Runtime
-Android SDK
-Android Studio
-Android TV
-Android Things
-Android application package
-Android lawn statues
-Android recovery mode
-Android software development
-Android version history
-Androidland
-Apache Harmony
-Apk (file format)
-App Inventor for Android
 App Store (Apple)
 App store
 Appland
 Aptoide
 Arcade video game
-Asus ZenUI
-Aurora Store
-Baidu Yi
-Barnes & Noble Nook
 Battle.net
 Big Fish Games
 Bionic (software)
 BlackBerry World
-BlueStacks
-Booting process of Android devices
 C++
 C (programming language)
 Cafe Bazaar
 CalyxOS
 Chrome Web Store
-Chromecast
-ClockworkMod
 Cloud gaming
 Club Nokia
 ColorOS
-Community of practice
-Comparison of Android Go products
-Comparison of Java and Android API
 Content delivery network
-CopperheadOS
 CrDroid
 CyanogenMod
 Cydia
 DLsite
 DMM Games
-Dalvik (software)
 Database
 Desura
 Digital River
@@ -99,23 +46,16 @@ Direct2Drive
 Discord (software)
 DivestOS
 Download!
-Droid (typeface)
 EA (service)
 EMUI
 Eclipse (software)
 Epic Games Store
 F-Droid
-Fastboot
 Fire OS
 Fire Phone
-Firebase
-Firebase Cloud Messaging
 Flathub
-Font
-Free and open-source software
 GNOME Software
 GOG.com
-Galaxy Nexus
 Galaxy Store
 GameAgent
 GameHouse
@@ -128,131 +68,55 @@ Gamesplanet
 GetJar
 Google
 Google Cardboard
-Google Cloud Messaging
 Google Daydream
-Google Developers
-Google I/O
-Google LLC v. Oracle America, Inc.
 Google Maps
 Google Mobile Services
-Google Nexus
-Google Pixel
 Google Play
-Google Play Services
-Google Search
-Gradle
 GrapheneOS
-HTC One (M7)
-HTC One (M8)
-HTC Sense
 Handango
-Hive UI
-Honor (brand)
-Huawei
 Huawei AppGallery
 Humble Store
 Impulse (software)
-Index of Android OS articles
 IndieGala
 Indie game
 Inside Mac Games
 Integrated development environment
 Intel AppUp
-IntelliJ IDEA
 IodéOS
 Itch.io
 Java (programming language)
 KDE Gear
-Kali NetHunter
 Kartridge
 Kazaa
-Kindle Fire
-Kingo Root
-Kotlin (programming language)
-LG G Pad 8.3
-LG UX
-LeWa OS
-Lenovo smartphones
 LineageOS
-List of Android TV devices
-List of Android apps by Google
 List of Android launchers
-List of Android smartphones
-List of Google Play edition devices
 List of custom Android distributions
-List of features in Android
-List of free and open-source Android applications
 List of mobile app distribution platforms
 LiteOS
 MIUI
 MSN Games
 MacUpdate
 Mac App Store
-Magisk (software)
-Material Design
-Meizu
 Meta Horizon OS
 Meta Horizon Store
 MiKandi
-MicroG
 Microsoft Store
 Mobile app
 Mobile device
-Moto G (1st generation)
-Motoblur
-Myket
 N-Gage (service)
 NESiCAxLive
-Nexus 10
-Nexus 4
-Nexus 5
-Nexus 5X
-Nexus 6
-Nexus 6P
-Nexus 7 (2012)
-Nexus 7 (2013)
-Nexus 9
-Nexus One
 Nexus Player
-Nexus Q
-Nexus S
 Nintendo eShop
 Nokia Store
-Nokia X family
-Noto fonts
 Nutaku
-OPhone
 OmniROM
 One UI
-OpenBinder
-OpenJDK
 Opera Mobile Store
 Operating system
-Optimus UI
 Over-the-air update
-OxygenOS
-POCO (company)
 Package manager
 Personal computer
 PixelExperience
-Pixel (1st generation)
-Pixel 2
-Pixel 3
-Pixel 3a
-Pixel 4
-Pixel 4a
-Pixel 5
-Pixel 5a
-Pixel 6
-Pixel 6a
-Pixel 7
-Pixel 7a
-Pixel 8
-Pixel 8a
-Pixel 9 Pro Fold
-Pixel C
-Pixel Fold
-Pixel Tablet
 PlayNow Arena
 PlayStation Store
 Playism
@@ -261,44 +125,24 @@ Pokki
 Programming language
 Programming tool
 PureOS
-Realme
 Remix OS
-RenderScript
 Replicant (operating system)
 Resurrection Remix OS
 Robot Cache
-Roboto
 Rockstar Games Social Club
-Rooting (Android)
-SQLite
-SafetyNet API
-Samsung
-Samsung Experience
-Samsung Galaxy S4
-Samsung Galaxy Store
-Skia Graphics Engine
 SlideME
-SlimRoms
 Smart TV
-Smartphone patent wars
 Snap Store
-Softpedia
 Software
 Software distribution
-Sony Xperia Z Ultra
 Stardock Central
 Steam (service)
-SuperSU
-TCL Technology
-TWRP (software)
 TapTap
-TouchWiz
 Triton (content delivery)
 Ubisoft Connect
 Ubuntu App Store
 Ubuntu Software Center
 Ubuntu Touch
-Ubuntu for Android
 User interface
 Video game console
 Virtual reality
@@ -314,12 +158,8 @@ Windows 11
 Windows Marketplace
 Windows Marketplace for Mobile
 Windows Phone Store
-XDA Developers
 XML
 Xbox Games Store
 Xbox Live Arcade
-Xiaomi HyperOS
-XobotOS
 Yahoo! Games
-Yahoo! Tech
 Zune Marketplace

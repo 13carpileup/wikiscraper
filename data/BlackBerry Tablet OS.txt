@@ -1,370 +1,124 @@
-1G
-2G
-386BSD
-3G
-3G adoption
-4680 OS
-4690 Operating System
-4G
-5G
-6G
-A/UX
-ARM architecture
-Adam Dunkels
-Adobe AIR
-Airplane mode
 Amazon Kindle
 Android (operating system)
 Android Go
-Apache Mynewt
 Arch Linux
-AudioOS
 B2G OS
-BBM (software)
 Bada (operating system)
-BeRTOS
-Berkeley Software Distribution
 Binary Runtime Environment for Wireless
 BlackBerry 10
-BlackBerry 950
-BlackBerry Aurora
-BlackBerry Bold
-BlackBerry Bold 9700
-BlackBerry Charm
-BlackBerry Classic
-BlackBerry Curve
-BlackBerry Curve 8520
-BlackBerry DTEK
-BlackBerry Electron
-BlackBerry Enterprise Server
-BlackBerry Evolve
-BlackBerry Key2
-BlackBerry KeyOne
-BlackBerry Leap
 BlackBerry Limited
-BlackBerry Ltd
-BlackBerry Messenger
-BlackBerry Motion
 BlackBerry OS
-BlackBerry Passport
-BlackBerry Pearl
 BlackBerry PlayBook
-BlackBerry Playbook
-BlackBerry Porsche Design P'9981
-BlackBerry Porsche Design P'9982
-BlackBerry Priv
-BlackBerry Q10
-BlackBerry Q5
-BlackBerry Quark
-BlackBerry Storm
-BlackBerry Storm 2
-BlackBerry Style
-BlackBerry Torch
-BlackBerry Torch 9800
-BlackBerry Tour
-BlackBerry WebWorks
 BlackBerry World
-BlackBerry Z10
-BlackBerry Z3
-BlackBerry Z30
-Box breaker
 BridgeOS
-Camera phone
-Capability-based security
-Car phone
-Carrier IQ
-Cell phone novel
-Cellular frequencies
 Cellular network
-Channel capacity
-ChibiOS/RT
-ChorusOS
 ChromeOS
 ChromeOS Flex
-Clamshell design
-Closed source
-Coherent (operating system)
-Common external power supply
-Comparison of Symbian devices
 Comparison of mobile operating systems
-Comparison of mobile phone standards
-Comparison of real-time operating systems
-Comparison of smartphones
-Compatibility layer
-Concurrent DOS
 Contactless payment
-Contiki
-Cygwin
-DNIX
 DOS
-DSOS
-DYNIX
-Dan Dodge
-Darling (software)
-Darwin (operating system)
-Dave Cutler
-David Cheriton
-De Quervain syndrome
 Debian
 Digital Equipment Corporation
-Digital media use and mental health
-DioneOS
-Documents To Go
-Domain/OS
-DragonFly BSD
-Dual SIM
-ECos
-EKA2
 EMUI
 EPOC (operating system)
-ERIKA Enterprise
-EROS (microkernel)
-ESIM
 EULA
 Electronic waste
 EulerOS
-Eunice (software)
-Feature phone
 Fedora Linux
 Firefox OS
-FlexOS
-Foldable smartphone
-Form factor (mobile phones)
 FreeBSD
 FreeRTOS
 Fuchsia (operating system)
 GEOS (16-bit operating system)
 GNU
-GNU Hurd
-GNU toolchain
-GSM
-GSM services
 Gentoo Linux
-Gordon Bell (QNX)
-Green Hills Software
 HMD Global
-HP-UX
 HarmonyOS
 HarmonyOS NEXT
-Harmony (operating system)
-High Speed Packet Access
-History of Unix
-History of mobile phones
 IBM
 IBM AIX
-IBM i
 IOS
-IOS jailbreaking
 IPadOS
 IPhone
-IRIX
-ITRON project
-Illumos
 Instant messaging
-Integrity (operating system)
 Intel Management Engine
-Interix
-Japanese mobile phone culture
-JavaOS
 Java (programming language)
-Java virtual machine
-John S. Chen
-Junos OS
 KaiOS
-Ken Sakamura
 Kernel (operating system)
-L4Linux
-L4 microkernel family
-LTE Advanced Pro
-Law
-Legality of recording by civilians
 Linux
 Linux Kernel
 List of 3D-enabled mobile phones
-List of BlackBerry 10 devices
-List of BlackBerry products
 List of Linux distributions
-List of Unix systems
-List of Windows phones
 List of custom Android distributions
 List of mobile app distribution platforms
-List of mobile network operators
-List of mobile phone generations
 List of open-source mobile phones
 LiteOS
 LuneOS
-LynxOS
-M-learning
-MHealth
-MKS Toolkit
-MOS (operating system)
-MQX
 MacOS
-MachTen
 Maemo
 Magic Cap
 Manjaro
 MeeGo
 Mer (software distribution)
-Micro-Controller Operating Systems
-Micro T-Kernel
-Microkernel
 Microsoft
-Microsoft POSIX subsystem
 Microsoft Windows
-Microware
-Minix
 Minix 3
 Mobian
-Mobile VoIP
-Mobile advertising
 Mobile app
 Mobile app development
-Mobile application management
 Mobile banking
 Mobile blogging
-Mobile campaign
-Mobile cloud computing
 Mobile comic
-Mobile commerce
-Mobile content
-Mobile dating
 Mobile device
-Mobile donating
-Mobile gambling
 Mobile game
-Mobile local search
-Mobile marketing
-Mobile music
-Mobile news
 Mobile operating system
 Mobile payment
 Mobile phone
-Mobile phone charm
-Mobile phone feature
 Mobile phone operator
-Mobile phone recycling
-Mobile phone signal
-Mobile phone spam
-Mobile phone tracking
-Mobile phones and driving safety
-Mobile phones in prison
-Mobile radio telephone
-Mobile search
-Mobile security
-Mobile social address book
-Mobile social network
-Mobile telephony
-Mobile television
-Mobile ticketing
-Mobile web
 Mobilinux
 Moblin
 MontaVista
 MotoMagx
-Multi-Environment Real-Time
-Multi-band device
-Multimedia Messaging Service
-Multiuser DOS
-Nano-RK
 Natural language
-NeXTSTEP
 NetBSD
 Nintendo
 Nintendo 3DS system software
 Nintendo DSi system software
 Nintendo Switch system software
 Nokia Asha platform
-Nucleus RTOS
-NuttX
-OS-9
-OS2000
-OSF/1
 Open-source software
-OpenBSD
-OpenComRTOS
 OpenEZX
 OpenEmbedded
 OpenHarmony
-OpenServer
-OpenSolaris
 OpenVMS
 Open Handset Alliance
 Open Mobile Alliance
 Openmoko Linux
-Operating System Embedded
 Operating system
-Oracle Solaris
-Over-the-air programming
-P.I.P.S.
-PDP-11
 POSIX
-PSOS (real-time operating system)
-PWS/VSE-AF
-PX5 RTOS
 PalmDOS
 Palm OS
 Phablet
-Phantom OS
-Phantom vibration syndrome
-Phone cloning
-Photography and the law
-PikeOS
 PlayStation Portable system software
 PlayStation Vita system software
 PostmarketOS
 Programmer
-Projector phone
-Psion (company)
 PureOS
-Push email
 QNX
-QNX Neutrino
 QtMoko
-REAL/32
-REX OS
-RIM-900
-RIOT (operating system)
-RMX (operating system)
 RSX-11
 RT-11
-RT-Thread
-RTAI
-RTEMS
-RTLinux
-Real-Time Linux
-Real-time operating system
 Red Hat Enterprise Linux
-Research Unix
-Restrictions on cell phone use while driving in the United States
-Rich Communication Services
-Ringtone
-Roaming
-Robot Operating System
-Rooting (Android)
 S60 (software platform)
 SHR (operating system)
-SIM card
-SIM lock
-SMS language
 SUSE Linux
 Sailfish OS
-Satellite phone
-ScreenOS
-SeL4
-Segger Microcontroller Systems
-Selfie
-SerenityOS
 Series 30
 Series 30+
 Series 40
 Series 80 (software platform)
 Series 90 (software platform)
-Short Message Service
-Silent mode
-Sintran III
 Smartphone
-Smartwatch
 Software
 Software development kit
 Software framework
@@ -372,48 +126,18 @@ Software license
 Software release life cycle
 Sony Ericsson Java Platform
 SteamOS
-SunOS
 Symbian
-T-Engine Forum
-T-Kernel
-T-License
-THEOS
-TI-RTOS
-TRON project
-Tablet computer
-Telephone tapping
-Tethering
-Texas Instruments
-Text messaging
-Texting while driving
-Thoth (operating system)
 ThreadX
 Tizen
-Transaction Processing Facility
-Tru64 UNIX
 TvOS
 UBports
 UIQ
 UNIX System Services
-UNIX System V
-UNOS (operating system)
 Ubuntu
 Ubuntu Touch
 Ultrix
-Unix
-Unix-like
-UnixWare
-Unix architecture
-Unix filesystem
-Unix philosophy
-Unix security
-Unix shell
-UserLAnd Technologies
 VAX
 VAXELN
-Versatile Real-Time Executive
-VxWorks
-Wallpaper (computing)
 WatchOS
 Wayback Machine
 Wear OS
@@ -423,23 +147,14 @@ Windows 10 Mobile
 Windows 11
 Windows 8
 Windows 8.1
-Windows Embedded Compact
 Windows Mobile
 Windows Phone
 Windows Phone 7
 Windows Phone 8
 Windows Phone 8.1
 Windows RT
-Windows Services for UNIX
-Windows Subsystem for Linux
 Windows XP editions
-Wireless Application Protocol
 Wireless device radiation and health
-Wombat (operating system)
-XHTML Mobile Profile
 XNU
-Xenix
-Xenomai
-Zephyr (operating system)
 Zircon (microkernel)
 Ångström distribution

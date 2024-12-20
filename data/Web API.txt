@@ -1,272 +1,35 @@
 API
-API key
-Abiquo Enterprise Edition
-Access token
-ActiveX
-Active Server Pages
-Ahead-of-time compilation
-Ajax (programming)
 Alexa Internet
-Alibaba Cloud
 Amazon Web Services
 Ampersand
-Apache CloudStack
-Apache HTTP Server
-Apache JServ Protocol
-AppScale
 Application programming interface
-Application server
 Astronomer
-Astronomy Picture of the Day
-Asynchronous Server Gateway Interface
-Backend as a service
-Box (company)
-Browser Helper Object
 Browser extension
-Callback (computer programming)
-Canvas element
-Citrix Cloud
-Client-side
-Client-side persistent data
-Client side
-Cloud-based integration
-Cloud-native computing
-CloudBolt
-Cloud Foundry
 Cloud computing
-Cloud computing security
-Cloud database
-Cloud storage
-Cloud storage gateway
-Cocaine (PaaS)
-Common Gateway Interface
 Communication protocol
-Comparison of structured storage software
 Computer network
-Content as a service
-Cross-origin resource sharing
-Cross-site scripting
-DOM event
-Data as a service
 Data center
-Deft (company)
-Desktop as a service
-Dew computing
-DigitalOcean
-Disqus
-Distributed file system for cloud
-Document Object Model
 Doi (identifier)
-Dropbox
-Dynamic HTML
-Dynamic web page
-EMC Atmos
-Encrypted Media Extensions
-End user
-Engine Yard
-Eucalyptus (software)
-FUJITSU Cloud IaaS Trusted Public S5
-FastCGI
-Frontend and backend
-Function as a service
-GET request
-Gears (software)
 Google
-Google App Engine
-Google Cloud Platform
-Google Drive
-Google Native Client
-Google Workspace
-GraphQL
-GreenButton
-GreenQloud
-HPE Helion
-HP Cloud
 HTML5
-HTML5 File API
-HTML audio
-HTML video
-HTTP
-HTTP/2
-HTTP/3
-HTTPS
-HTTP handler
-Hardware virtualization
-Heroku
-Hydration (web development)
-Hypertext Transfer Protocol
-IBM Cloud
-IEEE Internet Computing
 ISBN (identifier)
-Iland
-Indexed Database API
-Infrastructure as a service
-Inktank Storage
 Inter-process communication
 Internet
-Internet Server Application Programming Interface
-JSGI
-JSON
-Jakarta Servlet
 JavaScript
-Java Portlet Specification
-Jelastic
-Joyent
 Khronos Group
-LLVM
-Libguestfs
-Libvirt
-Linode
-List of Apache modules
-List of application servers
-Lunacloud
 Mashup (web application hybrid)
-Media Source Extensions
 Metadata
-Microservices
 Microsoft
-Microsoft 365
-Microsoft Azure
-MindSphere
-Mirantis
-Mobile cloud computing
-Mod jk
-Mod lisp
-Mod mono
-Mod parrot
-Mod perl
-Mod proxy
-Mod python
-Mod ruby
-Mod wsgi
-Mozilla Developer Network
-Mozilla Foundation
 NASA
-NPAPI
-Named pipe
-Native cloud application
 Netflix
-Netlify
-Netscape Server Application Programming Interface
-Network as a service
-Nextcloud
-Nimbula
-Nimbus (cloud computing)
-O'Reilly Media
-OVirt
-OneDrive
-OpenIO
-OpenNebula
-OpenQRM
-OpenShift
-OpenStack
-Open API
-Open Web Interface for .NET
-Oracle Cloud
-OrionVM
-OutSystems
-Overview of RESTful API Description Languages
-Owncloud
 PHP
-Parsing
-Personal cloud
-Phusion Passenger
-Plack (software)
-PlateSpin
-Platform as a service
 Plug-in (computing)
-Predix (software)
-ProgrammableWeb
-Progressive web app
-Proton Drive
-Push technology
-PythonAnywhere
-Query string
 Question mark
-REST
-Rack (web server interface)
-Rackspace Cloud
-Rackspace Technology
-Remote scripting
-Request–response
-Resource-oriented architecture
-Return value
-Rich Internet Application
-RightScale
 S2CID (identifier)
-SAP Cloud Platform
-SOAP
-SVG
-Safe Swiss Cloud
-Salesforce
-Sandbox (computer security)
-Scalr
-Seafile
-Security as a service
-Server-sent events
-Server-side
-Server-side scripting
-Server Side Includes
-Server application programming interface
-Serverless computing
-Simple Common Gateway Interface
-Single-page application
-Software as a service
-Solution stack
-Splunk
-Static web page
-Twilio
-URL
-Uniform Resource Identifier
-VCloud Air
-Vercel
-Virt-manager
-Virtual Private Cloud OnDemand
-Virtual appliance
-Virtual private cloud
-W3C Geolocation API
-WHATWG
-Wakame-vdc
-WaveMaker
-Web-oriented architecture
 WebAssembly
-WebAuthn
-WebCL
-WebDAV
 WebGL
 WebGPU
-WebRTC
-WebSocket
-WebUSB
 WebXR
-Web 2.0
-Web API security
-Web IDL
-Web Messaging
-Web SQL Database
-Web Server Gateway Interface
-Web Services Description Language
-Web Services for Remote Portlets
-Web application
 Web browser
-Web container
-Web development
-Web framework
-Web page
-Web resource
 Web server
-Web service
-Web standards
-Web storage
-Web worker
-Webhook
-White dwarf star
-Workday, Inc.
-World Wide Web Consortium
-XAML Browser Applications
 XML
-XMLHttpRequest
-XML schema
-XML validation
-Zadara
-Zoho Corporation

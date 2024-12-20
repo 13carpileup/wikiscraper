@@ -10,7 +10,6 @@ Adlam script
 Afaka syllabary
 Ahom script
 Akita dialect
-Akkadian cuneiform
 Albanian Braille
 Algerian Braille
 Alphabet
@@ -29,22 +28,17 @@ Archaic Greek alphabets
 Ariyaka script
 Armenian Braille
 Armenian alphabet
-Asomtavruli
-Assyrian cuneiform
 Ateji
 Attic numerals
 Avestan alphabet
 Avoiuli
 Awaji dialect
-Azeri Braille
 Aztec script
-Baekje
 Bagam script
 Balinese script
 Bamboo English
 Bamum script
 Banshū dialect
-Bassa Vah script
 Batak script
 Baybayin
 Belarusian Braille
@@ -62,10 +56,8 @@ Blackfoot language
 Blackletter
 Blissymbols
 Bonin English
-Book Pahlavi
 Bopomofo
 Bosnian Cyrillic
-Bowen script
 Boyd's syllabic shorthand
 Brahmi script
 Brahmic scripts
@@ -89,7 +81,6 @@ Bulgarian Braille
 Burmese Braille
 Byblos syllabary
 Bété syllabary
-CJK characters
 Canadian Aboriginal syllabics
 Canadian currency tactile feature
 Cantonese Braille
@@ -105,33 +96,19 @@ Charles Barbier
 Cherokee syllabary
 Chikuzen dialect
 Chinese bronze inscriptions
-Chinese character classification
-Chinese character components
-Chinese character radicals
-Chinese character strokes
 Chinese characters
-Chinese characters for transcribing Slavonic
-Chinese characters of Empress Wu
 Chinese family of scripts
-Chinese script styles
-Chūgoku dialect
-Chữ Hán
 Chữ Nôm
 Cipher runes
 Cirth
 Classical Japanese
 Clear Script
-Clerical script
 Coelbren y Beirdd
 Computer Braille Code
 Coorgi–Cox alphabet
-Coptic alphabet
 Cretan hieroglyphs
 Cuneiform
-Cuneiform Luwian
-Cursive
 Cursive Hebrew
-Cursive script (East Asia)
 Cypriot syllabary
 Cypro-Minoan syllabary
 Cyrillic alphabets
@@ -139,7 +116,6 @@ Cyrillic script
 Cyrillization of Japanese
 Czech Braille
 Dalecarlian runes
-Debate on traditional and simplified Chinese characters
 Decapoint
 Demotic (Egyptian)
 Deseret alphabet
@@ -158,13 +134,10 @@ Dzongkha Braille
 Early Cyrillic alphabet
 Early Middle Japanese
 Early Modern Japanese
-East Asian Gothic typeface
-East Asian typography
 Eastern Old Japanese
 Eclectic shorthand
 Egyptian hieroglyphs
 Elamite cuneiform
-Elbasan script
 Elder Futhark
 Elifba alphabet
 Elymaic
@@ -180,28 +153,21 @@ Espanca script
 Esperanto Braille
 Estonian Braille
 Etruscan alphabet
-Evenki alphabet
-Eveyla Akuru
 Extended Unix Code
 Extended shinjitai
 Fakkham script
-Fangsong
 Faroese Braille
 Flag semaphore
-Flat brush script
 Fox language
 Fraktur
 Fraser script
 French Braille
 Furigana
 Gabelsberger shorthand
-Gadabuursi Somali script
 Gaelic type
-Gairaigo
 Galik alphabet
 Garay alphabet
 Gardner–Salinas braille codes
-Ge'ez Braille
 Geba syllabary
 Gender differences in Japanese
 George Psalmanazar
@@ -215,7 +181,6 @@ Glossary of Japanese words of Dutch origin
 Glossary of Japanese words of Portuguese origin
 Go-on
 Gojūon
-Golmol script
 Gondi writing
 Gothic alphabet
 Gothic runic inscriptions
@@ -243,7 +208,6 @@ Hanifi Rohingya script
 Hanja
 Hanunoo script
 Harris Mowbray
-Hatran alphabet
 Hawaiian Braille
 Hebrew Braille
 Hebrew alphabet
@@ -252,7 +216,6 @@ Hepburn romanization
 Hichiku dialect
 Hida dialect
 Hieratic
-Himmol script
 Hindu–Arabic numeral system
 Hiragana
 Hiragana (Unicode block)
@@ -261,28 +224,21 @@ History of writing
 History of writing in Vietnam
 Hittite cuneiform
 Hokkaido dialects
-Hokuriku dialect
-Homograph
 Honorific speech in Japanese
 Hungarian Braille
 Hyōgai kanji
-Hōnichi dialect
 IPA Braille
 ISBN (identifier)
-ISO/IEC 2022
 ISSN (identifier)
 Iban language
 Ibaraki dialect
 Icelandic Braille
 Ideogram
 Idu script
-Inariyama Sword
-Incung script
 Inscriptional Pahlavi
 Inscriptional Parthian
 Inshū dialect
 Insular script
-Interlac
 International Phonetic Alphabet
 International maritime signal flags
 International uniformity of braille alphabets
@@ -291,7 +247,6 @@ Irish Braille
 Isotype (picture language)
 Isthmian script
 Italian Braille
-Iteration mark
 Iyo dialect
 Iñupiaq Braille
 JIS X 0201
@@ -305,8 +260,6 @@ Japan Braille Library
 Japanese-based creole languages
 Japanese Braille
 Japanese adjectives
-Japanese archipelago
-Japanese books
 Japanese counter word
 Japanese dialects
 Japanese dictionary
@@ -327,18 +280,13 @@ Japanese pronouns
 Japanese punctuation
 Japanese script reform
 Japanese sound symbolism
-Japanese verb conjugation
 Japanese writing system
 Japonic languages
 Javanese script
 Jindai moji
-Jinmeiyō kanji
-Jiu zixing
 Jurchen script
 Jōdai Tokushu Kanazukai
-Jōyō kanji
 Kadamba script
-Kaddare script
 Kaga dialect
 Kagoshima dialect
 Kaidā glyphs
@@ -353,13 +301,10 @@ Kana ligature
 Kanagawa dialect
 Kanazukai
 Kanbun
-Kangxi Dictionary form
 Kanji
 Kannada Braille
 Kannada script
 Kansai dialect
-Kantō dialect
-Kantō region
 Karani script
 Katakana
 Katakana (Unicode block)
@@ -381,30 +326,20 @@ Khudabadi script
 Kikai language
 Kishū dialect
 Klingon scripts
-Kofun
-Kojiki
 Kokuji
-Kolezhuthu
 Korean Braille
 Kpelle syllabary
 Ktav Ashuri
 Kulitan
 Kumamoto dialect
-Kummol script
 Kunigami language
 Kunrei-shiki romanization
-Kunyomi
 Kurdish alphabets
 Kurrent
 Kurukh language
-Kvemmol script
 Kyowa-go
 Kyrgyz Braille
-Kyōiku kanji
-Kyūjitai
-Kyūshū
 Lai Tay script
-Lampung script
 Langdi
 Lao script
 Large seal script
@@ -413,29 +348,20 @@ Latin script
 Latvian Braille
 Laṇḍā scripts
 Leke script
-Lembak script
 Lepcha script
 Limbu script
 Linear B
 Linear Elamite
-List of Commonly Used Standard Chinese Characters
-List of Graphemes of Commonly-Used Chinese Characters
 List of Japanese speculative fiction writers
-List of Japanese typographic symbols
 List of Japanese writers
 List of classical Japanese texts
 List of constructed scripts
 List of creators of writing systems
-List of jōyō kanji
-List of kanji by stroke count
 List of kanji radicals by frequency
 List of kanji radicals by stroke count
-List of languages by first written accounts
 List of writing systems
 Lisu language
-Literary and colloquial readings
 Lithuanian Braille
-Loanword
 Logogram
 Loma language
 Lontara Bilang-bilang script
@@ -453,35 +379,26 @@ Malayalam script
 Malayanma
 Maldivian writing systems
 Maltese Braille
-Man'yōshū
 Manchu alphabet
 Mandaic alphabet
 Mandombe script
 Manichaean script
 Marchen script
-Marcomannic runes
 Maya script
 Medefaidrin
 Medieval runes
-Meiji era
 Meitei script
 Mende Kikakui script
 Meroitic script
 Merovingian script
-Middle Chinese
 Mikawa dialect
-Ming typefaces
 Mino dialect
 Mixtec writing
 Miyakoan language
-Miꞌkmaw hieroglyphic writing
-Mkhedruli
 Modern kana usage
 Modi script
-Molodtsov alphabet
 Mongolian Braille
 Mongolian script
-Monosyllabic language
 Mon–Burmese script
 Moon type
 Mora (linguistics)

@@ -1,15 +1,7 @@
 !
-"
 $
-%
-&
 '
 (
-)
-*
-+
-,
--
 0
 1
 2
@@ -31,7 +23,6 @@ ARIB STD B24 character set
 ASCII
 ASMO 449
 ATASCII
-Amstrad CP/M Plus character set
 Amstrad CPC character set
 Apple II character set
 ArmSCII
@@ -43,11 +34,9 @@ Baudot code
 Big5
 Binary Ordered Compression for Unicode
 Bitstream International Character Set
-Box-drawing character
 BraSCII
 C
 C0 and C1 control codes
-C0 control codes
 CCSID
 CDC display code
 CER-GS
@@ -80,17 +69,10 @@ Code page 1019
 Code page 1020
 Code page 1021
 Code page 1023
-Code page 1034
 Code page 1040
 Code page 1042
 Code page 1043
-Code page 1044
 Code page 1046
-Code page 1052
-Code page 1053
-Code page 1054
-Code page 1055
-Code page 1056
 Code page 1058
 Code page 1098
 Code page 1101
@@ -129,7 +111,6 @@ Code page 853
 Code page 855
 Code page 856
 Code page 857
-Code page 858
 Code page 859
 Code page 860
 Code page 861
@@ -146,7 +127,6 @@ Code page 896
 Code page 897
 Code page 899
 Code page 903
-Code page 904
 Code page 912
 Code page 915
 Code page 921
@@ -165,7 +145,6 @@ Control character
 Cooke and Wheatstone telegraph
 Cork encoding
 D
-DBCS
 DEC Hebrew
 DEC RADIX 50
 DEC Special Graphics
@@ -181,8 +160,6 @@ Doi (identifier)
 E
 EBCDIC
 ELOT 927
-ETen Chinese System
-Euro sign
 Extended Latin-8
 Extended Unix Code
 F
@@ -201,19 +178,14 @@ GSM 03.38
 Galaksija (computer)
 Greater-than sign
 H
-HKSCS
 HP Roman
 HZ (character encoding)
 Han unification
 Hardware code page
-Hexadecimal
 Hong Kong Supplementary Character Set
 I
 IBM
 IBM AIX
-IBM Db2
-IEC-P27-1
-IETF
 INIS-8
 INIS character set
 ISO-IR-111
@@ -222,26 +194,6 @@ ISO-IR-182
 ISO-IR-197
 ISO-IR-200
 ISO-IR-68
-ISO/IEC 10367
-ISO/IEC 2022
-ISO/IEC 646
-ISO/IEC 8859
-ISO/IEC 8859-1
-ISO/IEC 8859-10
-ISO/IEC 8859-11
-ISO/IEC 8859-12
-ISO/IEC 8859-13
-ISO/IEC 8859-14
-ISO/IEC 8859-15
-ISO/IEC 8859-16
-ISO/IEC 8859-2
-ISO/IEC 8859-3
-ISO/IEC 8859-4
-ISO/IEC 8859-5
-ISO/IEC 8859-6
-ISO/IEC 8859-7
-ISO/IEC 8859-8
-ISO/IEC 8859-9
 ISO 2033
 ISO 5426
 ISO 5427
@@ -250,9 +202,6 @@ ISO 6438
 ISO 6862
 ITU T.61
 Indian Script Code for Information Interchange
-Intecolor/Compucolor 8001 character set
-International Components for Unicode
-Internet Assigned Numbers Authority
 Iran System encoding
 J
 JIS X 0201
@@ -272,7 +221,6 @@ KS X 1001
 KS X 1002
 Kamenický encoding
 L
-LMBCS-18
 LST 1564
 LST 1590-4
 LY1 encoding
@@ -303,7 +251,6 @@ Mac OS Hebrew
 Mac OS Icelandic encoding
 Mac OS Inuit
 Mac OS Keyboard encoding
-Mac OS Maltese/Esperanto encoding
 Mac OS Ogham
 Mac OS Roman
 Mac OS Romanian encoding
@@ -335,8 +282,6 @@ PETSCII
 Perso-Arabic Script Code for Information Interchange
 PostScript Latin 1 Encoding
 PostScript Standard Encoding
-Private Use Area
-Private Use Areas
 Prosigns for Morse code
 Q
 R
@@ -346,8 +291,6 @@ Right curly bracket
 Right square bracket
 Russian Morse code
 S
-SAM Coupé character set
-SBCS
 SI 960
 SQUOZE
 Sega SC-3000 character set
@@ -359,11 +302,9 @@ Sinclair QL character set
 Slash (punctuation)
 Space character
 Standard Compression Scheme for Unicode
-Stanford/ITS character set
 Stanford Extended ASCII
 Symbol (typeface)
 T
-T.51/ISO/IEC 6937
 TI calculator character sets
 TRON (encoding)
 TRS-80 character set
@@ -375,7 +316,6 @@ Teletex
 Teletext
 Teletext character set
 Thai Industrial Standard 620-2533
-Traditional Chinese
 Transcode (character encoding)
 U
 UTF-1
@@ -413,9 +353,6 @@ Windows-1256
 Windows-1257
 Windows-1258
 Windows-1270
-Windows Cyrillic + Finnish
-Windows Cyrillic + French
-Windows Cyrillic + German
 Windows Polytonic Greek
 Windows code page
 World System Teletext
@@ -434,26 +371,8 @@ ZX Spectrum character set
 §
 ¶
 •
-€
-↔
-∟
-⌂
-▬
 ▲
-►
 ▼
-◄
-○
-◘
-◙
-☺
-☻
-☼
-♀
-♂
-♠
 ♣
 ♥
 ♦
-♪
-♫

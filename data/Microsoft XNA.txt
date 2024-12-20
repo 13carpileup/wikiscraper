@@ -1,27 +1,12 @@
-.NET Compact Framework
-.NET Framework
-.NET Framework 2.0
-.NET Micro Framework
-.NET Remoting
 1UP.com
-360 (magazine)
-360 Gamer
-ADO.NET
-ASP.NET
-Access Database Engine
-ActiveX
-ActiveX Data Objects
-Active Template Library
 Activision
 Activision Blizzard
 Activision Blizzard worker organization
-Adobe Integrated Runtime
 Alpha Dog Games
 Android (operating system)
 Arkane Austin
 Arkane Studios
 Avatar (Xbox)
-Background Intelligent Transfer Service
 Beenox
 Bethesda Game Studios
 Bethesda Game Studios Austin
@@ -29,89 +14,42 @@ Bethesda Game Studios Dallas
 Bethesda Softworks
 Blizzard Albany
 Blizzard Entertainment
-Broadcast Driver Architecture
-Browser Helper Object
-CAPICOM
 C Sharp (programming language)
-CodePlex
-Code reuse
-Codeplex
-Common Language Runtime
-Common Log File System
-Community Technology Preview
 Component-based software engineering
-Component Object Model
-Composite UI Application Block
 Compulsion Games
 Computer and Video Games
-Console games
-Cross-platform Audio Creation Tool
-D3DX
-Data Protection API
 Demonware
-Desktop Window Manager
 Device driver
-Direct2D
-Direct3D
-DirectInput
-DirectMusic
-DirectPlay
-DirectShow
-DirectSound
-DirectWrite
 DirectX
-DirectX Graphics Infrastructure
-DirectX Media Objects
-DirectX Video Acceleration
-DirectX plugin
-Distributed Component Object Model
 Double Fine
-Dream.Build.Play
-DreamSpark
-Dream Build Play
-Dynamic Data Exchange
 EULA
-Editing software
-Entity Framework
-Event Viewer
-Extensible Storage Engine
 ExtremeTech
 First-person shooter
-Framework Class Library
 Freeware
 Future Publishing
 Gamasutra
 Game Developers Conference
 Game Room
-Game development
-Game development tool
 Game engine
 Games for Windows
 Games for Windows – Live
 Giant Bomb
 GitHub
-Graphics Device Interface
 Halo Studios
 High Moon Studios
 ID@Xbox
 IOS (Apple)
 ISBN (identifier)
 Id Software
-Image Mastering API
 InXile Entertainment
 Index of DOS games
 Index of Windows games
 Indie game
 Infinity Ward
-Input method
 Inter-process communication
-JScript
-Kernel-Mode Driver Framework
 Kinect
 Kinect Fun Labs
 King (company)
-Language Interface Pack
-Layered Service Provider
 Library (computing)
 Lifehacker
 Linux
@@ -121,21 +59,14 @@ List of Blizzard Entertainment games
 List of Games for Windows titles
 List of Games for Windows – Live titles
 List of Microsoft Gaming video games
-List of Microsoft Windows application programming interfaces and frameworks
 List of Windows 3.x games
 List of Windows Games on Demand
-List of Xbox 360 System Link games
 List of Xbox 360 accessories
 List of Xbox 360 applications
 List of Xbox 360 games
-List of Xbox 360 games (A–L)
-List of Xbox 360 games (M–Z)
-List of Xbox 360 retail configurations
 List of Xbox Game Studios video games
 List of Xbox Live games on Windows 10
 List of Xbox One X enhanced games
-List of Xbox One and Series X/S accessories
-List of Xbox One and Series X/S applications
 List of Xbox One games
 List of Xbox Series X and Series S games
 List of Xbox Wireless Controller special editions
@@ -143,68 +74,25 @@ List of Xbox games
 List of Xbox games compatible with Xbox 360
 List of Xbox games on Windows Phone
 List of Zune applications
-List of backward-compatible games for Xbox One and Series X/S
-List of best-selling Xbox 360 video games
 List of best-selling Xbox One video games
-List of cancelled Xbox 360 games
 List of games included with Windows
-List of games which support Xbox SmartGlass
 Live Anywhere
-MAPI
-MSDN
-MSDNAA
 MSN Games
-MSXML
 Mac OS X
 MachineGames
-Managed DirectX
-Managed code
-MechCommander 2
-Media Foundation
-Metro-style apps
-Metro (design language)
 Microsoft
-Microsoft Active Accessibility
-Microsoft Connected Services Framework
-Microsoft Corp. v. Baker
-Microsoft CryptoAPI
-Microsoft Customer Care Framework
-Microsoft Data Access Components
-Microsoft Enterprise Library
-Microsoft Foundation Class Library
-Microsoft Gadgets
 Microsoft Gaming
-Microsoft Message Queuing
-Microsoft Messaging Passing Interface
-Microsoft Movies & TV
-Microsoft Points
-Microsoft RPC
 Microsoft SideWinder
-Microsoft Silverlight
-Microsoft Speech API
-Microsoft Sync Framework
-Microsoft UI Automation
-Microsoft Visual C Sharp
-Microsoft Visual Studio
 Microsoft Windows
 Microsoft XNA Game Studio
 Microsoft and unions
 Mixer (service)
 Mobile games
 Mojang Studios
-MonoGame
-Mono (software)
 Multi-touch
-Multilingual User Interface
-Network Driver Interface Specification
-Networked games
 Ninja Theory
-ODBC
-OLE DB
-OUYA
 Obsidian Entertainment
 Official Xbox Magazine
-Open Packaging Conventions
 Operating system
 OurColony
 Platform game
@@ -212,103 +100,39 @@ Platinum Hits
 PlayStation Mobile
 PlayStation Vita
 Playground Games
-PowerShell
-Power Processing Element
-Programming environment
 Programming language
 Proletariat (company)
 Rare (company)
 Raspberry Pi
 Raven Software
 Real-time strategy
-Recursive acronym
-RedOctane X-Plorer Controller
 Roundhouse Studios
-Runtime environment
-Runtime system
-Sams
 San Jose, California
-Security Support Provider Interface
-Shadow Copy
 Sledgehammer Games
-Software Factory (Microsoft .NET)
 Software developer
 Summer of Arcade
-System Link
 Tango Gameworks
-Task Parallel Library
-Telephony Application Programming Interface
-Text Object Model
-Text Services Framework
 The Coalition (company)
 The Initiative (company)
 Toys for Bob
 Treyarch
-Trident (software)
 Turn 10 Studios
-TypeScript
 Undead Labs
-Uniscribe
-Universal Audio Architecture
-User-Mode Driver Framework
-VBScript
-Video for Windows
 Video game
 Video games
-Visual Basic
-Visual Basic .NET
-Visual Studio 2005
-Visual Studio 2010
-VxD
 Wayback Machine
-Win32 console
-WinG
-Windows 7
 Windows 8
-Windows Advanced Rasterization Platform
-Windows CardSpace
-Windows Color System
-Windows Communication Foundation
-Windows Display Driver Model
-Windows Driver Frameworks
-Windows Driver Model
-Windows Error Reporting
-Windows Filtering Platform
-Windows Image Acquisition
-Windows Imaging Component
-Windows Installer
-Windows Management Instrumentation
-Windows Media
 Windows Phone
 Windows Phone 8
-Windows Presentation Foundation
-Windows RSS Platform
 Windows RT
-Windows Rally
-Windows Runtime
-Windows Script Host
-Windows Task Scheduler
-Windows Template Library
-Windows UI Library
-Windows Vista
-Windows Vista I/O technologies
-Windows Vista networking technologies
-Windows Workflow Foundation
-Windows XP
-Winsock
 World's Edge
 World Collection
-X-One
-XAudio2
-XMLHttpRequest
-XNA Game Studio Express
 X (Xbox show)
 Xbox
 Xbox (app)
 Xbox (console)
 Xbox 360
 Xbox 360 HD DVD Player
-Xbox 360 Lounge
 Xbox 360 Wireless Headset
 Xbox 360 Wireless Racing Wheel
 Xbox 360 controller
@@ -325,7 +149,6 @@ Xbox Games Store
 Xbox Live
 Xbox Live Arcade
 Xbox Live Indie Games
-Xbox Live Marketplace
 Xbox Live Vision
 Xbox One
 Xbox Series X and Series S
@@ -334,9 +157,5 @@ Xbox controller
 Xbox network
 Xbox system software
 Xbox technical specifications
-Xenon (processor)
-Xenos (graphics chip)
-Xinput
 ZeniMax Media
 ZeniMax Online Studios
-Zune

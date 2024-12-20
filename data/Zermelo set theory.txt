@@ -1,37 +1,10 @@
-Abraham Fraenkel
-Aleph numbers
-Almost
-Alternative set theory
-Amorphous set
-Antinomy
 Axiom
-Axiom of adjunction
 Axiom of choice
-Axiom of constructibility
-Axiom of countable choice
-Axiom of dependent choice
-Axiom of determinacy
-Axiom of extensionality
-Axiom of global choice
-Axiom of infinity
-Axiom of limitation of size
-Axiom of pairing
-Axiom of power set
-Axiom of projective determinacy
-Axiom of regularity
-Axiom of replacement
-Axiom of separation
-Axiom of union
 Axiom schema
-Axiom schema of replacement
-Axiom schema of specification
 Bertrand Russell
-Beth number
 Bijection
-Burali-Forti paradox
 Cantor's diagonal argument
 Cantor's theorem
-Cardinal number
 Cardinality
 Cartesian product
 Class (set theory)
@@ -41,80 +14,39 @@ Constructible universe
 Continuum hypothesis
 Countable set
 De Morgan's laws
-Dedekind-infinite set
-Disjoint union
 Doi (identifier)
 Element (mathematics)
 Empty set
-Ernst Zermelo
-Family of sets
-Filter (set theory)
 Finite set
 Forcing (mathematics)
 Fuzzy set
 General set theory
-Georg Cantor
-Hereditarily finite set
 ISBN (identifier)
 Infinite set
 Intersection (set theory)
-Jean van Heijenoort
-John von Neumann
 Kripke–Platek set theory
-Kurt Gödel
 Large cardinal
-Limit ordinal
 List of set identities and relations
-MR (identifier)
-Martin's axiom
 Morse–Kelley set theory
 Naive set theory
-Natural number
-Natural number object
 New Foundations
-Ordered pair
 Ordinal number
 Paradoxes of set theory
-Paul Bernays
-Paul Cohen
 Power set
 Principia Mathematica
-Principia mathematica
-Proper class
-Propositional function
-Richard Dedekind
 Russell's paradox
-Russell paradox
 S2CID (identifier)
-S (set theory)
-Saunders Mac Lane
 Second-order logic
-Set-builder notation
 Set (mathematics)
 Set theory
 Singleton (mathematics)
-Singular cardinal
-Strong limit cardinal
-Subset
-Suslin's problem
-Symmetric difference
 Tarski–Grothendieck set theory
-Thomas Jech
-Thoralf Skolem
-Topos theory
-Transfinite induction
 Transitive set
-Tuple
-Ultrafilter on a set
-Uncountable
 Uncountable set
 Union (set theory)
 Universal set
-Urelements
 Venn diagram
-Von Neumann ordinal
 Von Neumann universe
 Von Neumann–Bernays–Gödel set theory
 Well-formed formula
-Willard Van Orman Quine
 Zermelo–Fraenkel set theory

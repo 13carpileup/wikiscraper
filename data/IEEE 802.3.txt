@@ -1,352 +1,41 @@
-GDMO
-Fiber-optic inter-repeater link
-IEEE 754-1985
-SystemVerilog
-IEEE 802.1Q
-IEEE 802.11ah
-IEEE 1284
 IEEE 802.15.4
-802.3j
-Kilotete
 JTAG
-IEEE 802.15
-IEEE 802.24
-802.3e
-802.3bz
-802.3bt
-IEEE 802.15.4d
-25GBASE-T
-802.3cc
 IEEE 2030
-IEEE 802.11ad
-IETF
-10BASE-FB
 Ethernet
-IEEE P1619
-Stream Reservation Protocol
 Working group
-Single-mode optical fiber
-IEEE 1471
-IEEE 1613
-802.3a
-802.3bu
-Passive Optical Network
-IEEE Standards Association
-802.3ct
-IEEE 802.18
-IEEE 802.11j-2004
 IEEE 802.20
-802.3ac
-IEEE 802.15.1
-CSMA/CD
-10BASE2
-10BASE5
-Link Aggregation Control Protocol
-IEEE 802.11 (legacy mode)
-IEEE 802.11-1997
-802.3af
-10BASE-FL
-802.3by
-Ethernet over fiber
-802.3cb
-IEEE 802.3x
-802.3az
-802.3at
 Local area network
-802.3cz
-Service Interoperability in Ethernet Passive Optical Networks
-Rosetta-lang
-IEEE-488
-OC-768
-IEEE 802.15.5
 Coaxial cable
-Futurebus
-100BASE-FX
-10GBASE-T
 IEEE 854-1987
-Media-independent interface
-Power over Ethernet
-Open Firmware
-802.3y
 Router (computing)
-IEEE 802.1ah-2008
-40GBASE-T
-IEEE 802.15.3
-VLAN
 DNP3
-IEEE 802.10
-Jumbo frame
-802.3cs
-IEEE 802.11d-2001
-Terabit Ethernet
-Ethernet flow control
-802.3de
-Fast Ethernet
-Mbit/s
-10BROAD36
 IEEE 754
-1000BASE-T
-Long Reach Ethernet
-Carrier Ethernet
-802.3ae
 Token bus network
 Bluetooth
-Category 6 cable
-IEEE 1394
-IEEE 802.1ag
-IEEE 1722
-Ethernet in the first mile
-Ethernet passive optical network
-EAD socket
-IEEE 1901
-100BASE-TX
-Multiple Registration Protocol
-Media access control
-802.3cv
-Cable modem
-StarLAN
-Resilient Packet Ring
-802.3au
-Link aggregation
-400GbE
-IEEE 1619
 IEEE 802.15.4a
-RuBee
-IEEE 802.7
-IEEE 802.11be
-High-level architecture
 Gigabit Ethernet
-Request for Comments
 Twisted pair
-XFP transceiver
-IEEE 802.11s
-100BASE-T1
-IEEE 802.11h-2003
-25 Gigabit Ethernet
-Spanning Tree Protocol
-Data Center Bridging
-IEEE 802.1D
-802.3cg
-Megabyte
-Inter-Access Point Protocol
-Plastic optical fiber
-IEEE 802.1AB
-200GbE
-ISO/IEC 12207
-IEEE 754-2008 revision
-IEEE 802.11
-802.3ba
-100 Gigabit Ethernet
 Requirements engineering
-IEEE 802.11z
-IEEE 802.15.4b
-802.3df
-Wi-Fi 6
-Audio over Ethernet
-IEEE 1219
-IEEE 802.11af
-IEEE 802.22
-Twinaxial cable
-802.3av
 SystemC
-Unified Power Format
-IEEE 802.15.2
-Provider Backbone Bridge Traffic Engineering
-Attachment Unit Interface
-PoE
-Wireless networking
-IEEE 802.11ac
 Institute of Electrical and Electronics Engineers
-IEEE 802.11c
-IEEE 802.11ay
-MultiGigBASE-T1
 IEEE 802.11w-2009
-IEEE 802.15.4f
-IEEE 802.11v
-802.3cp
-Software requirements specification
-Wi-Fi 5
 Risk management
 IEEE P1906.1
-802.3cr
 IEEE 802.11e-2005
-802.3an
 Wide area network
-IEEE 802.1Qbb
-OTU3
-10 gigabit media-independent interface
-IEEE 802.21
 IEEE 802.11u
 IEEE 802.11k-2008
-802.3ad
-10G-EPON
-Link Layer Discovery Protocol
-802.3ca
-802.3ck
-Data center bridging
 IEEE 802.11y-2008
-IEEE 802.1X
-IEEE 802.15.6
 Project management
-802.3ce
-IEEE 802.1Qav
-802.3aq
-802.3i
-IEEE 693
-IEEE 802.1AX
-List of ISO standards 10000–11999
 IEEE 802.11b-1999
 Software configuration management
-1000BASE-X
-Physical Medium Dependent
-IEEE 1547
-Gigabit
-Bus network
-802.3dd
-VMEbus
-IEEE 802.1AS
-IEEE 802.1AE
-Micro T-Kernel
-Classic Ethernet
-Concept of operations
-IEEE 802.1
-802.3ab
-802.3da
-ISO/IEEE 11073
-Data link layer
-IEEE 802.11bb
-802.3cn
-Small Form-factor Pluggable
-Transceiver
-IEEE 802.9
 Software quality assurance
-IEEE 1667
-WiGig
-Energy-Efficient Ethernet
 Software maintenance
-IEEE 1451
 Optical fiber
-IEEE 802.6
-802.3cm
-Management Information Base
-Automotive Ethernet
-Carrier-sense multiple access with collision detection
-Ethernet physical layer
-Verilog
-IEEE P1363
-ISO/IEC 42010
-802.3db
-Distributed Interactive Simulation
-WiMAX
-Ethernet Alliance
-Zigbee
-IEEE 802.8
-802.3b
-DySPAN
-Advanced Physical Layer
-IEEE 1733
-IEEE 802.2
 Printed circuit board
-802.3ak
-802.3d
-802.3cq
-802.1AX
-IEEE 802.11p
-IEEE 802.15.7
-Ethernet over twisted pair
-Category 5e cable
-Industrial Ethernet
-Metro Ethernet
-IEEE 802.11ai
-Ethernet hub
-IEEE 1541-2002
-Multi-mode optical fiber
-Software test documentation
-XAUI
-IEEE 1905
-Audio Video Bridging
-IEEE 802.11bn
-Wi-Fi
-Synchronous Ethernet
-1000BASE-T1
 IEEE 802.11r-2008
 VHDL
-IEEE 1849
-Software design description
-10BASE-T1S
-LattisNet
-Precision Time Protocol
-Internet protocol suite
-Medium Attachment Unit
-2.5GBASE-T and 5GBASE-T
 IP-XACT
 IEEE 802
-802.3cd
-802.3u
-802.3z
-Network switch
-Wi-Fi 8
-802.3cy
 IEEE 802.11i-2004
-IEEE 1164
-Medium-dependent interface
-Universal Power Adapter for Mobile Devices
-IEEE 802.15.4c
-10GBASE-CX4
-IEEE 802.11n-2009
-IEEE 802.11ax
-802.3cw
-802.3ah
-Single UNIX Specification
-Property Specification Language
-Backplane
-X2 transceiver
-100BASE-T2
-100BaseVG
-IEEE P802.1p
-Token Ring
-Frank Effenberger
-802.3ch
-Scalable Coherent Interface
-100BASE-T4
-Xerox PARC
-10 Gigabit Ethernet
-802.3cx
-MAC address
-STM-256
-IEEE 802.11aj
-PILOT
-10BASE-F
-IEEE 1584
-Wi-Fi 4
-IEEE 802.11g-2003
-802.1p
-Standard Delay Format
-DWDM
-Gigabit interface converter
-IEEE 802.16
-IEEE 802.15.4e
-Autonegotiation
-10BASE-T
-IEEE 1355
-IEEE 802.15.4z
-IEEE 1675-2008
-IEEE 1855
-802.3cu
-1BASE5
-XENPAK
 IEEE 802.1ad
-Packet over SONET
-EtherType
-Ethernet over coax
-Advanced Library Format
-IEEE 802.1aq
-Wi-Fi 7
-IEEE 802.15.4g
-Ethernet in the First Mile
-IEEE 802.11a-1999
-Physical layer
-C form-factor pluggable
-10GBASE-LRM
-Ethernet frame
-Gigabit media-independent interface

@@ -1,32 +1,16 @@
 ANSI C
-ARM architecture
-AVR32
-Ada (programming language)
 Alef (programming language)
-Almquist shell
 Alpine Linux
 Amsterdam Compiler Kit
 Anjuta
-Application-specific integrated circuit
-Approximation
 Assembly language
-Barebox
 Bionic (software)
-BitBake
-Blackfin
-Board support package
 Booting
-Bootloader
-Borland Turbo C
-Buildroot
-BusyBox
-Busybox
 C++
 C11 (C standard revision)
 C17 (C standard revision)
 C23 (C standard revision)
 C99
-CLion
 C (programming language)
 C POSIX library
 C Sharp (programming language)
@@ -34,85 +18,44 @@ C character classification
 C data types
 C date and time functions
 C dynamic memory allocation
-C file input/output
 C mathematical functions
 C preprocessor
 C standard library
 C string handling
 C syntax
 Clang
-Closed platform
 CodeLite
-Communication Access Programming Language
 Comparison of Pascal and C
-Comparison of lightweight web browsers
-Compatibility of C and C++
 Computing
 Computing platform
 Consumer electronics
-Contiki
-Crippleware
-Cross compiler
-Custom firmware
 D (programming language)
-Das U-Boot
-Defective by Design
 Dennis Ritchie
 Dietlibc
 Eclipse (software)
 Embedded C
-Embedded C++
-Embedded GLIBC
-Embedded Java
-Embedded Linux
-Embedded database
-Embedded hypervisor
-Embedded operating system
-Embedded software
 Embedded system
 Field-programmable gate array
-Firmware
 Fork (software development)
-Free and open-source software
 GNOME Builder
-GNU C Library
 GNU Compiler Collection
-GNU Lesser General Public License
 Geany
 Glibc
 Go (programming language)
-H8 Family
-Hacking of consumer electronics
 Homebrew (video games)
-Hybris (software)
-IOS jailbreaking
 ISBN (identifier)
 Include directive
 Integrated development environment
-Intel 386
-Intel C++ Compiler
-Internet of things
 KDevelop
 Klibc
 LCC (compiler)
 Latin script
 Library (computing)
-Light-weight Linux distribution
 Limbo (programming language)
 Linux
-Linux for embedded systems
-Linux for mobile devices
 Linux kernel
-Linux on embedded systems
-List of C compilers
-List of open-source hardware
-LwIP
-M68k
 MIPS architecture
 MISRA C
-Memory footprint
-Memory management unit
-MicroPython
 Microcontroller
 Microsoft Visual C++
 Microsoft Visual Studio Express
@@ -122,48 +65,22 @@ NetBeans
 Newlib
 Norcroft C compiler
 Objective-C
-Open-source robotics
 OpenEmbedded
-OpenWRT
-OpenWrt
 Operating system
-Operators in C and C++
-PlayStation 3 Jailbreak
 Portable C Compiler
-PowerPC
 Programmer
 Programming language
 Programming tool
-Proprietary firmware
 Raspberry Pi
-Real-time operating system
-Repository (version control)
-Romanization
-Rooting (Android)
-Runtime library
 SPARC
-Single-board computer
 Small Device C Compiler
 Software categories
 Software license
 Software release life cycle
-Stand-alone shell
 Stdarg.h
-Subroutine
-SuperH
 System call
 System on a chip
 Tiny C Compiler
 Toybox
-UEFI
-V850
 Vala (programming language)
-Vendor lock-in
 Visual Studio
-Watcom C/C++
-Windows Embedded Compact
-Windows IoT
-X86-64
-Yocto Project
-Μ
-ΜClinux

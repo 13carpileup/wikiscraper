@@ -1,187 +1,29 @@
-Adjacency matrix
 Adjugate matrix
-Alternant matrix
-Alternating sign matrix
-Anti-diagonal matrix
-Arrowhead matrix
-Augmented matrix
-Band matrix
-Biadjacency matrix
-Bias (statistics)
-Bidiagonal matrix
-Bisymmetric matrix
-Block-diagonal matrix
 Block matrix
-Block tridiagonal matrix
-Boolean matrix
-Bézout matrix
-Cabibbo–Kobayashi–Maskawa matrix
-Carleman matrix
-Cartan matrix
-Cauchy matrix
-Centering matrix
-Centrosymmetric matrix
-Change of basis
-Circle
-Circulant matrix
-Cofactor matrix
-Column space
-Commutation matrix
-Companion matrix
-Complex Hadamard matrix
-Conference matrix
-Confusion matrix
-Convergent matrix
-Copositive matrix
-Correlation matrix
-Covariance matrix
-Coxeter matrix
-DFT matrix
-Defective matrix
-Definite matrix
-Degree matrix
-Density matrix
-Dependent and independent variables
-Design matrix
 Determinant
 Diagonal matrix
-Diagonalizable
-Diagonalizable matrix
-Diagonally dominant matrix
-Distance matrix
-Doubly stochastic matrix
-Duplication and elimination matrices
 Econometrics
-Edmonds matrix
 Eigenvalue
 Eigenvalues and eigenvectors
-Elementary matrix
-Equivalent matrix
-Euclidean distance matrix
-Exchange matrix
-Fisher information matrix
-Frobenius matrix
-Fundamental matrix (computer vision)
-Fundamental matrix (linear differential equation)
-Fuzzy associative matrix
-Gamma matrices
-Gell-Mann matrices
-Generalized permutation matrix
-Generator matrix
-Gram matrix
 Graph theory
-Hadamard matrix
-Hamiltonian matrix
-Hankel matrix
-Hat matrix
 Hermitian matrix
-Hessenberg matrix
-Hessian matrix
-Hilbert matrix
-Hollow matrix
-Householder transformation
-Hurwitz-stable matrix
 ISBN (identifier)
-Idempotence
-Idempotent element (ring theory)
 Identity matrix
-Incidence matrix
-Integer matrix
-Inverse of a matrix
-Invertible matrix
-Involutory matrix
-Irregular matrix
-Jacobian matrix and determinant
-Jordan normal form
-Laplacian matrix
-Lehmer matrix
 Linear algebra
-Linear independence
-List of matrices
-Logical matrix
 Matrix (mathematics)
-Matrix congruence
 Matrix exponential
 Matrix multiplication
-Matrix of ones
-Matrix product
-Matrix representation of conic sections
-Matrix ring
 Matrix similarity
-Matrix unit
-Metzler matrix
-Moment matrix
-Moore matrix
-Nilpotent
 Nilpotent matrix
-Nonnegative matrix
-Normal matrix
-Null space
-Ordinary least squares
-Orthogonal matrix
-Orthogonal projection
-Overlap matrix
-Pascal matrix
 Pauli matrices
-Payoff matrix
-Pentadiagonal matrix
-Perfect matrix
 Permutation matrix
-Persymmetric matrix
-Pick matrix
-Polynomial matrix
-Positive-definite matrix
-Precision (statistics)
 Projection (linear algebra)
-Projection matrix
-Pseudoinverse
 Quadratic equation
-Quaternionic matrix
-Random matrix
 Rank (linear algebra)
-Redheffer matrix
-Regression analysis
-Rotation matrix
-Routh–Hurwitz matrix
-Row echelon form
-S-matrix
-Seidel adjacency matrix
-Seifert matrix
 Shear matrix
-Shift matrix
-Signature matrix
-Similarity matrix
-Singular matrix
-Skew-Hermitian matrix
-Skew-symmetric matrix
-Skyline matrix
-Sparse matrix
 Square matrix
-State-transition matrix
 Statistics
-Stieltjes matrix
-Stochastic matrix
-Substitution matrix
-Sylvester matrix
 Symmetric matrix
-Symplectic matrix
-Toeplitz matrix
-Totally positive matrix
-Totally unimodular matrix
 Trace (linear algebra)
-Transformation matrix
 Transpose
 Triangular matrix
-Tridiagonal matrix
-Tutte matrix
-Unimodular matrix
-Unipotent
-Unitary matrix
-Vandermonde matrix
-Variance
-Walsh matrix
-Weighing matrix
-Wronskian
-Z-matrix (chemistry)
-Z-matrix (mathematics)
-Zero matrix

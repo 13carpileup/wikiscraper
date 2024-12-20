@@ -1,94 +1,55 @@
-Digital asset
 ISO 10303
-ISO/IEC 27000-series
 ISO 15919
 ISO 31-10
 ISO 11992
-Criterion Software
 ISO 639-3
-GLGE (programming library)
-ISO/IEC 7813
 Object Constraint Language
-Lottie (file format)
-ISO/IEC 38500
 ISO 19600
 MPEG-7
-HLSL
 ISO 25178
 Essential Video Coding
 Lexical Markup Framework
 MPEG-G
 Document Style Semantics and Specification Language
-Alias Systems Corporation
 Physics engine
 ISO 45001
 JPEG 2000
-ISO/IEC 8859
-ISO/IEC 15504
 ISO 14031
 ISO 639-5
-ISO/TR 11941
-ISO/IEC 14443
 ISO 19011
 ISO 3977
 ISO 14971
-JT (visualization format)
-3DXML
-OpenRAVE
 ISO 20400
 Geospatial metadata
-ISO/IEC 7816
 ISO 3103
-JanusVR
 OpenDocument
 Prolog
 ISO 690
-Microstation
 ISO 10628
-GeoGebra
 ISO 4031
-OpenVG
 ISO 22300
-ISO/IEC 8859-14
 ISO 843
 ISO 8178
-ISO 2047
-CityEngine
-ISO/IEC 7810
 Accuracy and precision
-ISO/IEC 42010
 ISO 6943
 ISO 14617
 ISO 7637
-MetaPost
 ISO 13490
 ISO 965
 Power take-off
 International Organization for Standardization
-GLSL
-OpenGL
-Extensible Application Markup Language
 ISO 10007
 ISO 10303-21
 Multibus
 E-on Vue
-ISO/IEC 27000
 ASMO 449
-FBX
 Meta-Object Facility
 ECMAScript
 Kunrei-shiki romanization
-Kinematics
-GlTF
 ISO 22000
-CryEngine 2
-FireMonkey
-ISO/IEC 646
 International Securities Identification Number
 ISO 15926
-PRC (file format)
 Fuel oil
-AnyLogic
 ISO 10962
 International Standard Recording Code
 ISO 668
@@ -98,117 +59,68 @@ ISO 233
 ISO 5776
 ISO 1745
 ISO 31
-ISO/IEC 27001
 ISO 3166-1
 MaxiCode
 ISO 999
-ISO/IEC 11801
 ISO 9897
 ISO 8501-1
 Hole punch
 Equal-loudness contour
 Clara.io
-ISO/IEC 8859-16
-ArcGIS
-ISO/IEC 8859-13
 British Standard Pipe
-OpenSL ES
-Fuse (automotive)
 ISO 10006
-CAN bus
 IS-IS
 Longitudinal redundancy check
 Delivery Multimedia Integration Framework
-OpenGL ES
-Morph target
 ISO 28000
 FDI World Dental Federation notation
 ISO 7001
 Motion JPEG 2000
 Process Specification Language
 MPEG-2
-ISO/IEC 20000
 ISO 5964
-Ardor3D
 Computer Graphics Metafile
 ISO 13567
 ISO 9660
 Knowledge Discovery Metamodel
 ISO 6438
-3ds Max
-Avid Technology
-ISO/IEC 7811
 Digital object identifier
 Hot shoe
-ISO 7027
 ISO 10218
 ISO 4157
-ISO/IEC 19794-5
 ISO 639
 ISO 7200
-ISO/IEC 10967
-Open Dynamics Engine
-ISO/IEC 8859-15
-ISO 12006
 ISO 657
 Horsepower
-OpenGL SC
 ISO 2015
-BricsCAD
 Autodesk
-ISO/IEC 21827
-Maple (software)
-Language Of Temporal Ordering Specification
-3DMLW
 ISO 31-3
-BeamNG.drive
-Bullet (software)
 ISO 10303-28
 Graphical Kernel System
 ISO 1000
-Panda3d
 ISO 11783
 ISO 2711
 CHILL
 OpenXR
 ISO 3166
-ISO/IEC 2022
-ISO 9000
-Open Game Engine Exchange
-Google Earth
 Advanced Video Coding
-Asymptote (vector graphics language)
 OCR-A
-ISO/IEC 80000
-FormZ
-Maya (software)
 RELAX NG
 C++
-IBooks Author
 International Standard Musical Work Code
 ISO 2788
-Office Open XML file formats
 ISO 21001
 Common Language Infrastructure
-ISO/IEC 15288
 Graph Query Language
 ISO 11784 and ISO 11785
 POSIX
-OSI model
-Preview (Mac OS)
-ISO 14000
-List of vector graphics markup languages
 MakeHuman
-HPL Engine 1
 ANSI escape code
 MeshLab
 ISO 7736
-ISO 31-12
 PHIGS
 Common Criteria
-ISO/IEC 5218
 Manufacturing Message Specification
-ISO/IEC 14651
 Fiber Distributed Data Interface
 Market Identifier Code
 ISO 732
@@ -221,149 +133,97 @@ JPEG XL
 JPEG XR
 ISO 5428
 Poser (software)
-OpenMAX
 ISO 13485
-ISO/IEC 9126
 Prontor-Compur
 Open Document Architecture
 ISO 8000
 Common Object Request Broker Architecture
 ISO metric screw thread
 Requirements engineering
-PDF/A
 ISO 8583
-Blender Game Engine
-ISO/IEEE 11073
-ISO/IEC 8859-5
 Bryce (software)
 ISO 217
 Linguistic categories
-Haiku Vector Icon Format
-ISO/IEC 8859-8
-Open standard
 ANSI C
-PDF/VT
 ISO 639-2
-ISO 19092-1
 ISO 15926 WIP
 International Bank Account Number
-International Standard Serial Number
 Cloud Infrastructure Management Interface
 Common Logic
-Design Web Format
 COBOL
 MP4 file format
 Pascal (programming language)
 OpenCL
 MPEG-4
 ISO 6344
-PDF/E
 ISO 31-1
 ISO 2145
 110 film
 Full BASIC
 ISO 31000
-C4 Engine
 Guidelines for the Definition of Managed Objects
 ISO 2014
 Carrara (software)
 ISO 11170
 ISO 25964
-Neural Network Exchange Format
 IATF 16949
 ISO 3166-3
 C Sharp (programming language)
 DICOM
 Hazard symbol
-ISO/IEC 8859-3
-JigLib
 International standard
 ISO 31-8
-ISO/IEC 12207
 ISO 9
-ISO/IEC 11179
 Flowchart
 MPEG-4 Part 2
 International Standard Name Identifier
 MPEG-H
-ISO/IEC 9995
-PGF/TikZ
 On-board diagnostics
 ISO 216
 3D computer graphics
-ISO/IEC 8859-1
-ISO/IEC 27002
 ISO 1629
 International Standard Audiovisual Number
-ISO/IEC 8859-12
-ISO 31-9
 Han Xin code
 Kerbal Space Program
 Media type
-ISO/IEC TR 12182
-ISO/IEC 8859-2
 ISO 15686
 ISO 5427
-PSTricks
 ISO 3307
-IGES
 Minimal BASIC
 Rectangular Micro QR Code
 ISO 6346
 ISO 10303-22
-Delphi (programming language)
-Mathematica
 Khronos Group
 LCEVC
-Pyrogenesis
 Godot (game engine)
 ISO 31-0
-ISO 19092-2
 ISO 9362
-OpenVX
 ISO 16750
 ISO 15022
-ISO/IEC 8859-4
-ISO/IEC 15693
-Adobe Photoshop
-ISO/IEC 4909
-OpenWF
-EGL (API)
 ISO 2033
 MPEG-4 Part 3
 O-ring
 ISO 18245
 JPEG XS
 Ada Semantic Interface Specification
-ArchiCAD
-ISO/IEC 17025
 ISO 4217
-OpenSimulator
-ISO/IEC 7812
 ISO 20121
 ISO 26000
 ISO 639-1
 ISO 2921
-ISO 8373
 Dynamic Adaptive Streaming over HTTP
 ISO 2852
 ISO 31-4
 ISO 17100
 MicroPDF417
 MPEG-1
-NASA World Wind
 ISO 13406-2
-Digital content creation
 ISO-8859-8-I
-ISO/IEC 8859-7
 ISO 2848
 Geography Markup Language
 Open Virtualization Format
 ISO 37001
-ISO 31-13
 ISO 56000
-ISO/IEC 8859-9
-ISO/IEC 19752
 ISO 31-6
 RM-ODP
 ISO 14698
@@ -376,41 +236,29 @@ ISO 31-5
 List of IEC standards
 ISO 13399
 ISO 50001
-ISO/IEC 8859-11
-OpenTissue
 ISO 11940-2
-ISO/IEC 6523
 MPEG-D
 ISO 31-11
 ISO 9564
 Kappa number
-Cg programming language
 Isofix
-ISO/IEC 27005
 International Standard Identifier for Libraries and Related Organizations
 ECMAScript for XML
 Mixed raster content
-Remote Imaging Protocol
 ISO 1
 ISO 14224
-LightWave 3D
 ISO 7010
 ALGOL 60
 ISO 10161
 ISO 2709
 MPEG-4 Part 11
-PDF/UA
-ISO/IEC 17024
 ISO 22395
-ArtiosCAD
-File format
 Open Data Protocol
 List of ISO standards
 ISO 639-6
 PDF417
 ISO 860
 ISO 9241
-ISO/IEC 7064
 ISO 259
 ISO 11940
 ISO 4
@@ -419,18 +267,14 @@ ISO 21500
 International Standard Atmosphere
 QR code
 ISO 14644
-PDF/X
 International Standard Text Code
 ISO 7002
 ISBN
 Office Open XML
-Graphics Layout Engine
 ISLISP
 EXPRESS (data modeling language)
-Linden Scripting Language
 ISO 13584
 ISO-TimeML
-ISO/IEC 8859-6
 Quality function deployment
 ISO 2
 Antimagnetic watch
@@ -439,62 +283,40 @@ ISO 10160
 FreeCAD
 List of ISO romanizations
 ISO 2146
-ISO/IEC 18014
-Irrlicht Engine
 Daz Studio
 Filename extension
-Precision Graphics Markup Language
-OpenKODE
 ISO 19439
 International Standard Music Number
 ISO 6385
 ISO 20022
-Chief Architect Software
-3-D computer graphics
-Modo (software)
 ArmSCII
 ISO 704
-ISO/IEC 27006
 OCR-B
-Keyhole Markup Language
 ISO base media file format
 ISO 15924
 FTAM
-PhysX
 HTML
-ISO/IEC 9529
 Cinema 4D
 Magnetic ink character recognition
 Blender (software)
 Linux Standard Base
-ISO/IEC 11404
-ISO/IEC 8652
 ISO 128
 ISO 15398
 ISO 22301
 JPIP
-B-rep
 ISO 8691
 ISO 31-7
-Physics Abstraction Layer
 JBIG
 ISO 6709
-Game engines
 GitHub
 ISO 4165
 PDF
-ISO/IEC 19770
 ISO 5426
 ISO 5775
-ISO/IEC 8859-10
-Open Wonderland
 ISO 55000
 ISO 15189
 Pinyin
-ISO/IEC 10116
-ISO/IEC 9797-1
 Photographic Activity Test
 Legal Entity Identifier
 ISO 3166-2
-ISO/IEC 15897
 Film speed

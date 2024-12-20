@@ -3,144 +3,75 @@
 3D Movie Maker
 3D computer graphics
 3D modeling
-3d geometry
 64-bit computing
 AC3D
-ACIS
 Amapi
-Amiga
-Apple–Intel architecture
 Arnold (software)
 Autodesk 3ds Max
 Autodesk Alias
-Autodesk Maya
 Autodesk Mudbox
-Autodesk Softimage
-Beta version
-Binary space partitioning
 Blackmagic Fusion
 Blender (software)
-Bounding volume
 Bryce (software)
-Bulletin board system
-Bump mapping
 C++
-C3D Toolkit
-Capillary wave
 Carrara (software)
-Caustic (optics)
 Cinema 4D
 Clara.io
 Closed-source
 CloudCompare
-Clouds
-Comparison of 3D computer graphics software
 Compiler
 CompuServe
 Computer compatibility
-Conroe (microprocessor)
-Constructive solid geometry
-Copyleft license
-Cross-platform
-Cross-platform software
 Cyber Studio
 Daz Studio
 Degree of a polynomial
 Dice
-Dual-core
 Dynamation (software)
 E-on Vue
 Electric Image Animation System
-FLOSS Weekly
-Focal blur
-Fog
-Fork (software)
-Four-dimensional space
 FreeCAD
-Free Software Foundation
-Free and open-source software
 Free software
-GNU Affero General Public License
 GNU General Public License
-Geometric primitive
 GigaMesh Software Framework
-Gilles Tran
 Golaem Crowd
-HOOPS 3D Graphics System
-Heightfield
 Hexagon (software)
-High-dynamic-range imaging
 Houdini (software)
-Icosphere
 Imagine (3D modeling software)
-Infinity
-Intel Corporation
 IntelliCAD
-Isosurface
-JPEG
-Julia set
 Kerkythea
 KernelCAD
-License incompatibility
-LightWave 3D
-Light source
 Linux
 List of 3D computer graphics software
 List of 3D modeling software
 List of 3D rendering software
 LuxCoreRender
 MASSIVE (software)
-Mac (computer)
 Mac OS X
 MakeHuman
-Mathematical functions
 MeshLab
-Messiah (software)
 Microsoft Windows
-Modo (software)
 MoonRay
 Multiprocessing
 N-World
-Nuke (software)
 Octane Render
 Oculus Medium
-Online forum
 Open-source software
-OpenEXR
 OpenFX (software)
-OpenSCAD
 Open Cascade Technology
-Open Source Definition
-Open Source Initiative
 Open source software
 Operating system
-Paint 3D
-Parametric feature based modeler
 Parasolid
-Photon mapping
-Pixar RenderMan
 Point Cloud Library
 Polygon mesh
 Polynomial
-Portable Network Graphics
 Poser (software)
-PowerAnimator
 Presto (animation software)
-Primitives (computer graphics)
-Procedural texture
 Programmer
-Radiance (software)
-Radiosity (computer graphics)
 Ray tracing (graphics)
 Reflection (physics)
 Refraction
 Remo 3D
-Repository (version control)
-Rhinoceros 3D
-Romulus (modelling kernel)
 Russian Geometric Kernel
-Salvador Dalí
-Sculpt 3D
 Seamless3d
 Shade 3D
 Shader
@@ -148,45 +79,26 @@ ShapeManager
 Shark 3D
 Silo (software)
 SketchUp
-Sketchup
-Smoke
 Softimage 3D
 Software categories
 Software license
 Software release life cycle
 Source Filmmaker
 Source code
-Source port
 Sphere
-Spline (mathematics)
 StrataVision 3D
 Strata 3D
-Sunflow
-Superellipse
-Supersampling
 Sweet Home 3D
 Swift 3D
 Symmetric multiprocessing
 Teigha
 Terragen
-Texture (computer graphics)
-The Persistence of Memory
-Torus
-Triangle
 TrueSpace
-Truevision Targa file format
 TurboSilver
-Turing-completeness
-UV mapping
-UV sphere
-Unix
 Usenet
-User documentation
 Venn diagram
 VistaPro
 Wayback Machine
-Web interface
 Wings 3D
-Wrinkle
 X86
 ZBrush

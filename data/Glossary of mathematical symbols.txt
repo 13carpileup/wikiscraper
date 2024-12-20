@@ -1,81 +1,42 @@
 !
-*
 APL syntax and symbols
 Abelian group
-Abelian subgroup
-Absolute complement
 Absolute value
 Abstract algebra
 Acceleration
 Addition
-Additive inverse
-Affine geometry
 Affine space
 Aleph
 Aleph number
 Algebra
 Algebraic closure
 Algebraic geometry
-Algebraic number
 Algebraic number theory
 Algebraic topology
 Algebraically closed field
 Analytic geometry
 Analytic number theory
-Antiderivative
 Applied mathematics
-Approximate equality
 Arithmetic
 Arithmetic geometry
 Arrow (symbol)
-Assignment (computer science)
 Asterisk
-Asymptotic equivalence
-Asymptotic growth
-Asynchronous logic
-Automorphism group
 Backslash
-Because sign
 Bet (letter)
-Beth number
-Big O notation
-Binomial coefficient
-Black board
-Blackboard bold
-Boldface
 Boolean algebra
-Boolean variable
-Bottom element
-Boundary (topology)
-Bounded lattice
-Bourbaki dangerous bend symbol
-Bracket (mathematics)
-Brackets
 Bra–ket notation
 Calculus
-Capital-pi notation
-Capital-sigma notation
-Cardinal number
-Cardinal of the continuum
 Cardinality
-Cardinality of the continuum
 Caret
 Cartesian product
 Category (mathematics)
 Category theory
-Ceiling function
 Circumflex
 Classical logic
-Closed curve
-Closed interval
-Closed subset
-Closure (topology)
 Codomain
 Colon (punctuation)
 Combinatorics
 Commutative algebra
-Commutator (group theory)
-Commutator (ring theory)
 Complex analysis
 Complex conjugate
 Complex number
@@ -84,123 +45,62 @@ Computational complexity theory
 Computational mathematics
 Computer algebra
 Computer science
-Concatenation
-Conditional probability
-Congruence (geometry)
-Congruence modulo n
-Connected sum
 Constant (mathematics)
 Control theory
-Convergent series
-Coproduct
-Copy and paste
-Covariant derivative
-Covector
-Cross product
 Cryptography
-D'Alembertian
 De Morgan's laws
-Decimal digit
-Decimal mark
-Definite integral
-Degree of a field extension
 Del
 Delta (letter)
-Dependent variable
-Derangements
 Derivative
-Descending wedge
 Determinant
 Diacritic
 Differential equation
 Differential geometry
 Differential topology
 Diophantine geometry
-Direct product
-Direct product of groups
-Direct product of rings
-Direct sum
 Discrete geometry
 Discrete mathematics
-Disjoint union
-Displacement (geometry)
-Divisibility
 Division (mathematics)
-Division sign
 Domain of a function
 Dot product
-Double factorial
 Dual space
 Electrical engineering
 Elementary algebra
-Elementary arithmetic
-Elementary geometry
 Email
 Empty set
 Engineering mathematics
-English-speaking world
-Equality (mathematics)
 Equals sign
-Equation (mathematics)
 Equivalence class
 Equivalence relation
 Euclidean geometry
 Euclidean norm
-Euclidean space
 Exclusive or
 Existential quantification
-Expected value
 Exponentiation
 Expression (mathematics)
-Extended real line
-Extension field
-Exterior product
-Factorial
 Field (mathematics)
 Field extension
-Field theory (mathematics)
-Finite difference
 Finite field
 Finite geometry
-Floor and ceiling functions
-Floor function
-Formula
 Foundations of mathematics
-Four-gradient
 Fraktur
-Free variable
 Function (mathematics)
 Function composition
-Functional (mathematics)
 Functional analysis
-Functional derivative
-Functional notation
 Future of mathematics
 Game theory
 General topology
-Generating set
-Geometric Shapes (Unicode block)
-Geometric shape
 Geometric topology
 Geometry
-Ghostscript
 Glossary
 Gradient
 Graph theory
 Greater-than sign
-Greater than
-Greater than or equal to
-Greatest common divisor
-Greatest lower bound
 Greek alphabet
 Greek letters used in mathematics, science, and engineering
 Group (mathematics)
-Group homomorphism
-Group isomorphism
 Group theory
 Hadamard product (matrices)
-Hadamard product (series)
-Half-open interval
 Harmonic analysis
 Hebrew alphabet
 Hindu–Arabic numeral system
@@ -210,88 +110,33 @@ Homomorphism
 Homotopy theory
 Hypercomplex analysis
 ISO 31-11
-ISO 80000-2
 Ideal (ring theory)
 Identity (mathematics)
 If and only if
 Image (mathematics)
-Independent variable
-Index of a subgroup
 Inequality (mathematics)
-Infinite product
-Infinite sequence
-Infinity (mathematics)
-Infinity symbol
 Informal mathematics
 Information theory
 Initialism
 Inner product
 Inner product space
 Integer
-Integers modulo n
 Integral
-Integral part
-Interior (topology)
-Interpoint
 Interpunct
 Isomorphism
-Italic type
-Iverson bracket
-Jacobi symbol
-Join (lattice theory)
-Knot (mathematics)
-Kronecker delta function
-Kronecker symbol
 LaTeX
-Lagrange's notation
-Language of mathematics
-Laplace operator
-Laplacian
 Latin alphabet
-Latin language
-Latin letters used in mathematics, science, and engineering
-Lattice theory
-Least upper bound
-Legendre symbol
-Leibniz's notation
 Less-than sign
-Less than
-Less than or equal to
-Letter form
-Letterlike Symbols
 Lie algebra
-Lie bracket
-Limit ordinal
 Line (geometry)
-Line integral
-Line segment
 Linear algebra
-Linear forms
-Linear span
 Linear subspace
-List of Unicode characters
-List of common physics notations
 List of films about mathematicians
-List of letters used in mathematics, science, and engineering
 List of logic symbols
-List of mathematical abbreviations
-List of mathematical constants
-List of mathematical symbols by subject
-List of mathematicians
-List of typographical symbols and punctuation marks
 Lists of mathematics topics
-Logical and
 Logical equivalence
-Logical implication
-Logical negation
-Logical or
-Logical predicate
-Logical symbol
-Manifolds
-Maps to
 Material conditional
 Mathematical Alphanumeric Symbols
-Mathematical Operators (Unicode block)
 Mathematical analysis
 Mathematical and theoretical biology
 Mathematical chemistry
@@ -300,200 +145,71 @@ Mathematical finance
 Mathematical logic
 Mathematical notation
 Mathematical object
-Mathematical operators and symbols in Unicode
 Mathematical optimization
 Mathematical physics
 Mathematical psychology
 Mathematical sociology
 Mathematical statistics
-Mathematical structure
-Mathematical structures
-Mathematicians
 Mathematics
 Mathematics and art
 Mathematics education
 Matrix (mathematics)
 Matrix multiplication
 Matrix similarity
-Mean value
 Measure (mathematics)
-Measure theory
-Meet (lattice theory)
-Minus-plus sign
-Minus sign
-Miscellaneous Mathematical Symbols-A
-Miscellaneous Mathematical Symbols-B
 Miscellaneous Symbols and Arrows
-Miscellaneous Technical
-Modular arithmetic
 Module (mathematics)
-Monomorphism
-Morphism
-Much greater than
-Much less than
 Multilinear algebra
 Multiplication
-Multiplication sign
-Multivariable calculus
-Multivariate function
-Nabla symbol
-Natural number
-Nearest integer function
 Negation
-Newton's notation
-Nonnegative integer
 Norm (mathematics)
-Normal subgroup
 Normed vector space
-Not-equal sign
-Not sign
 Notation in probability and statistics
 Nth root
-Number Forms
 Number sign
-Number system
 Number theory
 Numerical analysis
-Octonion
 Omega
-Open interval
 Operation (mathematics)
 Operations research
 Order of magnitude
-Order of operations
 Order theory
-Ordered pair
-Ordered set
-Orders of magnitude
 Ordinal number
 Orthogonal complement
-Orthogonal subspace
 Orthogonality
-P-adic integer
-P-adic number
-Pair (mathematics)
-Parallel (geometry)
-Parallel (operator)
-Parallel resistors
-Partial derivative
-Partial order
 Perpendicular
-Perpendicularity
 Philosophy of mathematics
 Physical constant
-Piecewise
-Plus sign
-Plus–minus sign
-Point (geometry)
-Pointed space
 Polynomial
-Positive integer
-Positive number
 Predicate (mathematical logic)
-Preorder
-Prime (symbol)
-Prime number
-Prime omega function
-Prime power
-Primorial
 Probability
-Probability distribution
 Probability theory
-Product (category theory)
 Product (mathematics)
-Product topology
 Programming language
-Projectively extended real line
-Proper subgroup
-Proper subset
-Proportionality (mathematics)
-Punctuation mark
-Q.E.D.
-Quadratic non-residue
-Quadratic residue
 Quaternion
-Quotient category
 Quotient group
-Quotient set
-Radical symbol
-Random variable
-Ratio
-Rational number
 Real analysis
-Real line
 Real number
 Recreational mathematics
-Restriction (mathematics)
-Riemann zeta function
-Right angle
 Ring (mathematics)
 Scalar (mathematics)
-Scalar triple product
-Script typeface
 Search engine
-Second derivative
-Semidirect product
-Sequention
-Series (mathematics)
-Set-builder notation
-Set-theoretic complement
-Set-theoretic intersection
-Set-theoretic union
 Set (mathematics)
-Set complement
-Set difference
-Set inclusion
-Set membership
 Set theory
-Sign (mathematics)
-Similarity (geometry)
-Simultaneous equations
-Singleton set
 Slash (punctuation)
-Square function
 Square matrix
-Square root
-Standard normal distribution
-Statistical distance
 Statistics
-Strict inequality
-Strict order
-Subfactorial
-Subgroup
-Submodule
-Subset
 Subtraction
-Sum of series
-Summation
-Superscript
-Supplemental Mathematical Operators
-Surface integral
 Symbols for zero
-Symmetric difference
 Systems science
-Table of mathematical symbols by introduction date
-Tee (symbol)
 Tensor product
 Theory of computation
-Therefore sign
 Tilde
 Timeline of mathematics
-Tombstone (typography)
-Top element
-Topological closure
 Topological space
-Topological subspace
 Topology
-Total derivative
-Translation (geometry)
 Transpose
-Triangle
 Triple bar
-Truncation
 Truth value
-Tuple
-Turned A
 Type theory
-Typeface
-Typography
 Unicode

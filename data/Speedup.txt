@@ -6,17 +6,11 @@ Array (data structure)
 Asymmetric multiprocessing
 Ateji PX
 Automatic parallelization
-BLAST (biotechnology)
-Backtracking
 Barrier (computer science)
 Beowulf cluster
 Bit-level parallelism
-Boost (C++ libraries)
-Branch predictor
 Brooks's law
 Bulldozer (microarchitecture)
-C++ AMP
-CPU cache
 CUDA
 Cache-only memory architecture
 Cache coherence
@@ -36,7 +30,6 @@ Computer network
 Computer programming
 Concurrency (computer science)
 Cost efficiency
-Cycle per instruction
 Data parallelism
 Dataflow architecture
 Dataflow programming
@@ -63,8 +56,6 @@ High-performance computing
 ISBN (identifier)
 Implicit parallelism
 Instruction-level parallelism
-Instruction per cycle
-Instruction pipeline
 Instruction pipelining
 Instruction window
 Instructions per cycle
@@ -77,7 +68,6 @@ Memory-level parallelism
 Memory coherence
 Memory hierarchy
 Message Passing Interface
-Morgan Kaufmann
 Multiple instruction, multiple data
 Multiple instruction, single data
 Multiprocessing
@@ -112,7 +102,6 @@ Single instruction, multiple threads
 Single instruction, single data
 Software lockout
 Speculative multithreading
-Speed up
 Starvation (computer science)
 Stream processing
 Superscalar processor
@@ -123,9 +112,6 @@ Task parallelism
 Temporal multithreading
 Thread (computing)
 Threading Building Blocks
-Throughput
 Unified Parallel C
 Uniform memory access
 Vector processor
-Working set
-ZPL (programming language)

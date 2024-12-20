@@ -1,7 +1,5 @@
 API
-Algorithms
 Amdahl's law
-An Introduction to Parallel Algorithms
 Analysis of algorithms
 Application checkpointing
 Array (data structure)
@@ -10,21 +8,15 @@ Ateji PX
 Automatic parallelization
 Barrier (computer science)
 Beowulf cluster
-Big O notation
 Bit-level parallelism
-Boost (C++ libraries)
 Bulldozer (microarchitecture)
-C++ AMP
 CUDA
 Cache-only memory architecture
 Cache coherence
 Cache invalidation
 Chapel (programming language)
-Charles E. Leiserson
 Charm++
 Cilk
-CiteSeerX (identifier)
-Clifford Stein
 Cloud computing
 Coarray Fortran
 Communications of the ACM
@@ -66,7 +58,6 @@ Implicit parallelism
 Instruction-level parallelism
 Instruction pipelining
 Instruction window
-Introduction to Algorithms
 Karp–Flatt metric
 Loop-level parallelism
 Manycore processor
@@ -91,17 +82,14 @@ Parallel Virtual Machine
 Parallel computing
 Parallel external memory
 Parallel programming model
-Parallel random-access machine
 Parallel slowdown
 Pipeline (computing)
-Practical PRAM Programming
 Preemption (computing)
 Process (computing)
 Pthreads
 ROCm
 Race condition
 RaftLib
-Ron Rivest
 S2CID (identifier)
 Scalability
 Semiconductor memory
@@ -122,12 +110,8 @@ Synchronization (computer science)
 Systolic array
 Task parallelism
 Temporal multithreading
-Thomas H. Cormen
 Thread (computing)
 Threading Building Blocks
-Time complexity
 Unified Parallel C
 Uniform memory access
-Uzi Vishkin
 Vector processor
-ZPL (programming language)

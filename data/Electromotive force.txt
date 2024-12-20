@@ -1,53 +1,37 @@
 AC motor
-Absolute temperature
 Albert Einstein
 Alessandro Volta
 Alfred-Marie Liénard
 Alternating current
 Ampère's circuital law
 André-Marie Ampère
-Bandgap
-Battery (electricity)
 Bibcode (identifier)
 Biot–Savart law
 Bremsstrahlung
 Capacitance
 Carl Friedrich Gauss
-Cations and anions
-Centimeter gram second system of units
 Charge density
 Charles-Augustin de Coulomb
 Charles Proteus Steinmetz
 Chemical bond
-Chemical energy
-Chemical potential
-Chemical reaction
 Classical electromagnetism
 Classical electromagnetism and special relativity
 Computational electromagnetics
-Conjugate variables (thermodynamics)
-Conservative field
-Conservative force
 Coulomb
 Coulomb's law
-Counter-electromotive force
 Covariant formulation of classical electromagnetism
-Current-voltage relationship
 Current density
 Cyclotron radiation
 DC motor
-Daniell cell
 Diaphragm (acoustics)
 Direct current
 Displacement current
 Doi (identifier)
 Dot product
-Earth's magnetic field
 Eddy current
 Electret
 Electric battery
 Electric charge
-Electric circuit
 Electric current
 Electric dipole moment
 Electric field
@@ -60,20 +44,13 @@ Electric potential energy
 Electric power
 Electrical conductor
 Electrical energy
-Electrical generator
-Electrical grid
 Electrical impedance
 Electrical load
 Electrical network
 Electrical resistance and conductance
-Electrical transformer
 Electricity
-Electrochemical cell
-Electrochemical potential
 Electrode
 Electrolysis
-Electrolyte
-Electrolytic cell
 Electromagnetic field
 Electromagnetic four-potential
 Electromagnetic induction
@@ -83,64 +60,42 @@ Electromagnetic stress–energy tensor
 Electromagnetic tensor
 Electromagnetism
 Electron
-Electron hole
-Electronic circuit
 Electronics
-Electron–hole pair
 Electrostatic discharge
-Electrostatic field
 Electrostatic induction
-Electrostatic unit
 Electrostatics
 Elementary charge
 Emil Lenz
 Emil Wiechert
 Energy
-Energy transformation
-Entropy
 Erg
 Faraday's law of induction
-Faraday constant
-Fermi level
-Flux linkage
-Force
-Forward voltage
 Four-current
 Franz Ernst Neumann
 Fuel cell
 Félix Savart
-Galvani potential
-Galvanic cell
 Gauss's law
 Gauss's law for magnetism
 Geomagnetic storm
 Georg Ohm
 George Singer
-Gibbs free energy
 Gustav Kirchhoff
 Gyrator–capacitor model
 Hans Christian Ørsted
-Hazel Rossotti
 Heinrich Hertz
 Hendrik Lorentz
 Hermann von Helmholtz
 Hippolyte Fizeau
 History of electromagnetic theory
 Humphry Davy
-Hydraulic analogy
 ISBN (identifier)
-ISO
-Ideality factor
 Inductance
 Induction motor
 Inductor
 Insulator (electricity)
-Internal resistance
 International Electrotechnical Commission
 International Organization for Standardization
 International System of Units
-Isobarically
-Isothermally
 J. J. Thomson
 James Clerk Maxwell
 James Prescott Joule
@@ -153,14 +108,11 @@ Joseph Larmor
 Joule
 Joule heating
 Kirchhoff's circuit laws
-LCCN (identifier)
 Larmor formula
-Lead–acid battery
 Lenz's law
 Linear motor
 List of electrical phenomena
 List of textbooks in electromagnetism
-Lithium-ion battery
 Liénard–Wiechert potential
 Logarithm
 London equations
@@ -179,99 +131,43 @@ Magnetization
 Magnetomotive force
 Magnetostatics
 Mathematical descriptions of the electromagnetic field
-Max Abraham
 Maxwell's equations
 Maxwell's equations in curved spacetime
-Maxwell relation
 Maxwell stress tensor
-Mechanical energy
-Mechanical work
-Mercury cell
 Michael Faraday
 Microphone
-Minimum total potential energy principle
-Mischmetal
-Mutual induction
 Nature (journal)
-Nernst equation
 Network analysis (electrical circuits)
-Nickel–cadmium battery
-Nickel–metal hydride battery
 Nikola Tesla
-Nonelectrostatic electric fields
 OCLC (identifier)
 Ohm's law
 Oleg D. Jefimenko
 Oliver Heaviside
-Open-circuit voltage
 Optics
-P-n junction
 PMID (identifier)
 Permeability (electromagnetism)
 Permeance
 Permittivity
-Photodiode
 Photon
-Pickup (music technology)
-Piezoelectric crystal
-Piezoelectric sensor
 Polarization density
-Potential difference
-Potential energy
 Poynting vector
 Pump
-P–n diode
-P–n junction
-Redox
 Relativistic electromagnetism
 Resonator
-Reverse saturation current
 Right-hand rule
-Room temperature
 Rotor (electric)
 S2CID (identifier)
-Salt bridge
-Semiconductor
 Series and parallel circuits
-Signal
 Siméon Denis Poisson
-Solar cell
-Solar cells
-Solenoid
-Sound waves
-Standard enthalpy of reaction
 Static electricity
 Stator
-Statvolt
-Superseded theories in science
 Synchrotron radiation
-Tata McGraw-Hill Publishing Company Limited
-Terminal (electronics)
-Theory of solar cells
-Thermal voltage
-Thermocouple
-Thermodynamic equilibrium
-Thermoelectric effect
-Thermopiles
-Thévenin's theorem
-Transducer
 Transformer
-Transition state
 Triboelectric effect
 Van de Graaff generator
-Vector potential
 Volt
-Volta potential
 Voltage
-Voltage source
-Voltaic Cell
-Voltaic pile
-Voltmeter
-Walther Nernst
 Watt
 Waveguide (radio frequency)
 Wilhelm Eduard Weber
 William Ritchie (physicist)
-Work (physics)
-Z. Phys. Chem.
-Zinc–carbon battery

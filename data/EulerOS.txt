@@ -1,38 +1,23 @@
-/e/ (operating system)
 4MLinux
-AArch64
-AI accelerator
 ALT Linux
-ARM architectures
 AlmaLinux
 Alpine Linux
 Android-x86
 Android (operating system)
 Antergos
 AntiX
-Apache license
-App (file format)
 ArchBang
 ArchLabs
 Arch Linux
-ArkData
-ArkTS
-ArkUI
-Ark Compiler
 Artix Linux
 Asahi Linux
-Asianux
 Astra Linux
 Asturix
 Austrumi Linux
 BLAG Linux and GNU
 BackBox
 BackTrack
-Base station subsystem
-Berry Linux
 Bharat Operating System Solutions
-BiSheng Compiler
-BiSheng compiler
 BioSLAX
 BlackArch
 Black Lab Linux
@@ -44,8 +29,6 @@ CRUX
 Calculate Linux
 Caldera OpenLinux
 CalyxOS
-Cangjie (programming language)
-Celia (virtual assistant)
 CentOS
 CentOS Stream
 Central processing unit
@@ -62,7 +45,6 @@ Comparison of Linux distributions
 Container Linux
 Corel Linux
 CrDroid
-Criticism of Huawei
 CrunchBang Linux
 Cub Linux
 CyanogenMod
@@ -71,15 +53,11 @@ Damn Vulnerable Linux
 Debian
 Deepin
 DemoLinux
-DevEco Studio
 Devuan
-Digital subscriber line
 DivestOS
 DoudouLinux
 Dreamlinux
 EMUI
-EROFS
-Edge computing
 Edubuntu
 Elementary OS
 Elive
@@ -90,8 +68,6 @@ Endless OS
 Familiar Linux
 Feather Linux
 Fedora Linux
-Fermi Linux
-Find Device
 Fire OS
 Firefox OS
 Floppyfw
@@ -99,211 +75,21 @@ Foresight Linux
 FreedomBox
 Freespire
 Frugalware Linux
-Fuduntu
-GNOME
 GNU Core Utilities
 GNU Guix System
 GNewSense
 GOS (operating system)
 Garuda Linux
-GaussDB
 GeckoLinux
 Gentoo Linux
-Gitee
 GoboLinux
 Gobuntu
 GrapheneOS
 HandyLinux
 HarmonyOS
 HarmonyOS NEXT
-HarmonyOS Sans
-HarmonyOS kernel
-HarmonyOS version history
-Harmony Intelligent Mobility Alliance
-HiSilicon
-Honor 4X
-Honor 5X
-Honor 6X
-Hot swapping
-Huawei
-Huawei 4G eLTE
 Huawei AppGallery
-Huawei Ascend
-Huawei Ascend (phone)
-Huawei Ascend G300
-Huawei Ascend G330
-Huawei Ascend G600
-Huawei Ascend Mate
-Huawei Ascend Mate 2 4G
-Huawei Ascend Mate 7
-Huawei Ascend P1
-Huawei Ascend P2
-Huawei Ascend P6
-Huawei Ascend P7
-Huawei Ascend W1
-Huawei Ascend W2
-Huawei Ascend Y300
-Huawei Cloud Services
-Huawei Developer Conference
-Huawei E220
-Huawei E5
-Huawei FreeBuds
-Huawei G6600 Passport
-Huawei G8
-Huawei GR3
-Huawei GT3
-Huawei GameCenter
-Huawei Health
-Huawei HiCar
-Huawei Honor 3X
-Huawei Honor 4C
-Huawei Honor Tablet 5
-Huawei IDEOS U8150
-Huawei Ideos Tablet S7
-Huawei Intelligent Automotive Solution
-Huawei M835
-Huawei MateBook
-Huawei MateBook X Pro
-Huawei MateBook series
-Huawei MatePad Pro
-Huawei MateStation
-Huawei MateView
-Huawei Mate 10
-Huawei Mate 20
-Huawei Mate 30
-Huawei Mate 40
-Huawei Mate 50
-Huawei Mate 60
-Huawei Mate 70
-Huawei Mate 8
-Huawei Mate 9
-Huawei Mate S
-Huawei Mate X
-Huawei Mate X2
-Huawei Mate X3
-Huawei Mate X5
-Huawei Mate X6
-Huawei Mate XT
-Huawei Mate Xs 2
-Huawei Mate series
-Huawei Mediapad M5
-Huawei Mediapad M6
-Huawei Mobile Services
-Huawei Music
-Huawei Nova
-Huawei Nova 10
-Huawei Nova 10 Pro
-Huawei Nova 10 SE
-Huawei Nova 10z
-Huawei Nova 11
-Huawei Nova 11 Pro
-Huawei Nova 11 SE
-Huawei Nova 11i
-Huawei Nova 12
-Huawei Nova 12 Pro
-Huawei Nova 12 SE
-Huawei Nova 12i
-Huawei Nova 12s
-Huawei Nova 13
-Huawei Nova 13 Pro
-Huawei Nova 2
-Huawei Nova 2 Plus
-Huawei Nova 2 lite
-Huawei Nova 2s
-Huawei Nova 3
-Huawei Nova 3e
-Huawei Nova 3i
-Huawei Nova 4
-Huawei Nova 4e
-Huawei Nova 5
-Huawei Nova 5T
-Huawei Nova 5 Pro
-Huawei Nova 5i
-Huawei Nova 5i Pro
-Huawei Nova 5z
-Huawei Nova 6
-Huawei Nova 7
-Huawei Nova 7 Pro
-Huawei Nova 7 SE
-Huawei Nova 7 SE 5G Youth
-Huawei Nova 7i
-Huawei Nova 8
-Huawei Nova 8 Pro
-Huawei Nova 8 SE
-Huawei Nova 8 SE Youth
-Huawei Nova 8i
-Huawei Nova 9
-Huawei Nova 9 SE
-Huawei Nova Flip
-Huawei Nova Smart
-Huawei Nova Y60
-Huawei Nova Y61
-Huawei Nova Y70
-Huawei Nova Y90
-Huawei Nova Youth
-Huawei Nova lite
-Huawei Nova lite+
-Huawei Nova lite 2017
-Huawei Ox Horn Campus
-Huawei P10
-Huawei P20
-Huawei P30
-Huawei P40
-Huawei P50
-Huawei P50 Pocket
-Huawei P60
-Huawei P8
-Huawei P8 Max
-Huawei P8 lite 2017
-Huawei P9
-Huawei P9 Plus
-Huawei P9 lite
-Huawei PanGu
-Huawei Pocket 2
-Huawei Pocket S
-Huawei Premia
-Huawei Pura 70
-Huawei Pura series
-Huawei STREAM X GL07S
-Huawei SingleRAN
-Huawei Sonic
-Huawei Sound Joy
-Huawei Sound X
-Huawei Symantec
-Huawei T156
-Huawei T158
-Huawei T161L
-Huawei T201
-Huawei T208
-Huawei T211
-Huawei T261L
-Huawei T330
-Huawei Technologies
-Huawei Themes
-Huawei U1000
-Huawei U1100
-Huawei U120
-Huawei U121
-Huawei U1250
-Huawei U1270
-Huawei U2801
-Huawei U3300
-Huawei U7310
-Huawei U7510
-Huawei U8100
-Huawei U8110
-Huawei U8230
-Huawei U8800
-Huawei U9130 Compass
-Huawei U9150
-Huawei Video
-Huawei Vision
-Huawei Watch
-Hyperbola GNU/Linux-libre
-IA-32
-IP Multimedia Subsystem
 Immunix
-Inspur K-UX
 IodéOS
 Jurix
 KDE neon
@@ -314,17 +100,12 @@ Kali Linux
 Kanotix
 KateOS
 Kernel (operating system)
-Kirin 990
 Knoppix
 Kongoni (operating system)
-Koozali SME Server
 Korora (operating system)
 Kubuntu
-Kunpeng 920
 Kwort Linux
 LXLE Linux
-Li Hongyuan incident
-Liang Hua
 Libranet
 LinHES
 LineageOS
@@ -338,10 +119,8 @@ Linux Router Project
 Linux distribution
 Linux for PlayStation 2
 Linux kernel
-List of Huawei phones
 List of Linux distributions
 LiteOS
-LoongArch
 Lubuntu
 MCC Interim Linux
 MIUI
@@ -351,34 +130,20 @@ Mandrake Linux
 Mandriva Linux
 Manjaro
 MeeGo
-Meng Wanzhou
 Mer (software distribution)
-MetaERP
-Microkernel
-MindSpore
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Musix GNU+Linux
-Nano Memory
-NearLink
 Network Security Toolkit
-Network switch
-Network switching subsystem
-New IP
-Nexus 6P
 NimbleX
 Nitix
 NixOS
 Nobara Linux
 Nova (operating system)
-Object storage
 OmniROM
 One UI
 Open-source software
-OpenAtom Foundation
 OpenELEC
-OpenGauss
 OpenHarmony
 OpenMandriva Lx
 OpenSUSE
@@ -387,18 +152,14 @@ Operating system
 Oracle Linux
 PCLinuxOS
 POSIX
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
-Passive optical network
 Pentoo
 Peppermint OS
 Personal computer
-Petal Maps
 Pinguy OS
 PixelExperience
-Planet CCRMA
 Platypux
 Pop! OS
 Porteus (operating system)
@@ -407,19 +168,13 @@ Puppy Linux
 PureOS
 Q4OS
 Qubes OS
-RISC-V
 ROSA Linux
-RTOS
 Raspberry Pi OS
-RedSleeve
-Red Flag Linux
 Red Hat Enterprise Linux
 Red Hat Linux
 Red Star OS
 Remix OS
-Ren Zhengfei
 Replicant (operating system)
-Repository (version control)
 Resurrection Remix OS
 Rocks Cluster Distribution
 Rocky Linux
@@ -432,13 +187,9 @@ Sailfish OS
 Salix OS
 Scientific Linux
 Server (computing)
-Service delivery platform
-Shutdown (computing)
-Single UNIX Specification
 Slackware
 Slax
 Softlanding Linux System
-Softswitch
 Software license
 Software release life cycle
 Solus (operating system)
@@ -447,15 +198,10 @@ Source Mage
 SparkyLinux
 Splashtop OS
 SteamOS
-Sun Yafang
 Sunwah Linux
 SystemRescue
-System integration
-T-Mobile Pulse
-T-Mobile Tap
 T2 SDE
 Tails (operating system)
-The Open Group
 Think Blue Linux
 Tiny Core Linux
 Tizen
@@ -463,7 +209,6 @@ TopologiLinux
 Trisquel
 Turbolinux
 Turkix
-UKUI
 Ubuntu
 Ubuntu Budgie
 Ubuntu Cinnamon
@@ -475,25 +220,13 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix
-Unix-like
-Uruk GNU/Linux
 User space and kernel space
 VectorLinux
 Vine Linux
 Void Linux
-Watch Fit
-Watch GT 2
-Watch GT 2 Pro
-Watch GT 2e
 Whonix
 Wubuntu
-X86-64
 XB Machine
-X Gentle Monster Eyewear
-X Gentle Monster Eyewear II
-Xfce
-Xu Zhijun
 Xubuntu
 Yellow Dog Linux
 Zenwalk

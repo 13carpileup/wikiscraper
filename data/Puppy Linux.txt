@@ -1,12 +1,5 @@
-.deb
-.rpm
-.tgz
-.txz
-/e/ (operating system)
 4MLinux
 ALT Linux
-ARM architecture
-AbiWord
 AlmaLinux
 Alpine Linux
 Android-x86
@@ -31,7 +24,6 @@ BlackArch
 Black Lab Linux
 BlankOn Linux
 Bodhi Linux
-Boot disk
 CHAOS (operating system)
 CRUX
 Calculate Linux
@@ -43,7 +35,6 @@ Chakra (operating system)
 Chimera Linux
 ChromeOS
 ChromiumOS
-Chromium (web browser)
 ClearOS
 Clear Linux OS
 ColorOS
@@ -61,7 +52,6 @@ Debian
 Deepin
 DemoLinux
 Devuan
-DistroWatch
 DivestOS
 DoudouLinux
 Dreamlinux
@@ -72,7 +62,6 @@ Elive
 Emmabuntüs
 EndeavourOS
 Endless OS
-Enlightenment (window manager)
 EulerOS
 Familiar Linux
 Feather Linux
@@ -80,30 +69,22 @@ Fedora Linux
 Fire OS
 Firefox OS
 Floppyfw
-Fluxbox
 Foresight Linux
 FreedomBox
 Freespire
 Frugalware Linux
-GNU GPL
 GNU Guix System
 GNewSense
 GOS (operating system)
 Garuda Linux
 GeckoLinux
 Gentoo Linux
-Gnumeric
 GoboLinux
 Gobuntu
 GrapheneOS
 HandyLinux
 Hard disk drive
-Hyperbola GNU/Linux-libre
-ISO image
-IceWM
 Immunix
-Initramfs
-Internet suite
 IodéOS
 Jurix
 KDE neon
@@ -121,8 +102,6 @@ Kubuntu
 Kwort Linux
 LXLE Linux
 Libranet
-Light-weight Linux distribution
-Lightweight Linux distribution
 LinHES
 LineageOS
 Linpus Linux
@@ -136,27 +115,18 @@ Linux distribution
 Linux for PlayStation 2
 Linux kernel
 List of Linux distributions
-List of Linux distributions that run from RAM
-Live CD
-Live USB
 Lubuntu
 MCC Interim Linux
 MIUI
-MPlayer
 MX Linux
 Mageia
 Mandrake Linux
 Mandriva Linux
 Manjaro
 MeeGo
-Memory footprint
 Mer (software distribution)
-Midori (web browser)
 Miracle Linux
 Mobilinux
-Mozilla Firefox
-MtPaint
-Musix GNU+Linux
 Network Security Toolkit
 NimbleX
 Nitix
@@ -170,12 +140,10 @@ OpenELEC
 OpenMandriva Lx
 OpenSUSE
 Open Enterprise Server
-Opera (web browser)
 Operating system
 Oracle Linux
 PCLinuxOS
 Package manager
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
@@ -186,15 +154,11 @@ PixelExperience
 Platypux
 Pop! OS
 Porteus (operating system)
-Preboot Execution Environment
 Programmer
 PureOS
 Q4OS
 Qubes OS
 ROSA Linux
-ROX Desktop
-Ramdisk
-Random-access memory
 Raspberry Pi
 Raspberry Pi OS
 Red Hat Enterprise Linux
@@ -202,12 +166,10 @@ Red Hat Linux
 Red Star OS
 Remix OS
 Replicant (operating system)
-Rescue disk
 Resurrection Remix OS
 Rocks Cluster Distribution
 Rocky Linux
 SD card
-SRWare Iron
 SUSE Linux
 SUSE Linux Enterprise
 SUSE Studio
@@ -216,7 +178,6 @@ Sabily
 Sailfish OS
 Salix OS
 Scientific Linux
-SeaMonkey
 Slackware
 Slax
 Softlanding Linux System
@@ -229,7 +190,6 @@ SparkyLinux
 Splashtop OS
 SteamOS
 Sunwah Linux
-SuperDisk
 Superuser
 SystemRescue
 T2 SDE
@@ -252,31 +212,19 @@ Ubuntu MATE
 Ubuntu Studio
 Ubuntu Touch
 Ubuntu Unity
-Ubuntu version history
 Ultramarine Linux
-UnionFS
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 Usability
 User interface
 VectorLinux
-Vector Linux
 Vine Linux
 Void Linux
 Web browser
 Whonix
-Window manager
-Windows 9x
-Windows Me
-Wizard (software)
-Woof (software)
 Wubuntu
 X86
-X86-64
 XB Machine
 Xubuntu
 Yellow Dog Linux
 Zenwalk
-Zip drive
 Zorin OS

@@ -1,7 +1,5 @@
-ISO/IEC 8859-10
 Mathematical Alphanumeric Symbols
 Unicode block
-PDF/UA
 FTAM
 ISO 2848
 ISO 7002
@@ -10,7 +8,6 @@ ISO 3977
 MP4 file format
 Symbols for zero
 ISO 15926 WIP
-ISO/IEC 7810
 APL syntax and symbols
 ISO 14644
 Simple Features
@@ -18,16 +15,12 @@ ISO 7010
 ISO 8691
 ISO 31-4
 ISO 13485
-ISO/IEC 27000
-ISO/IEC 18014
 ISO 26000
 ISO 28000
 ISO 19011
 ISO 259
 ISO 7637
 C++
-ISO/IEC 27001
-List of mathematical symbols by subject
 ISO 10303-22
 ISO 14971
 ISO 11992
@@ -45,7 +38,6 @@ Mathematical symbols
 ISO 10303-28
 Topic map
 ISO 2852
-ISO/IEC 80000
 Geospatial metadata
 Torx
 Kunrei-shiki romanization
@@ -53,13 +45,11 @@ Universal Coded Character Set
 ISO 639
 ISO 13567
 ISO metric screw thread
-ISO/IEC 8859
 List of IEC standards
 Coordinate system
 List of logic symbols
 ISO 21001
 ISO 31000
-ISO/IEC 19794-5
 Han Xin code
 Arrow (symbol)
 ISO-8859-8-I
@@ -71,33 +61,22 @@ Trusted Platform Module
 ISO base media file format
 COLLADA
 110 film
-ISO/IEC 8652
 List of ISO standards
 ISO 14224
 ALGOL 60
-OSI model
 ISO 10962
 MPEG-A
 ISO 843
 ISO 50001
-ISO/IEC 19752
 MPEG-4
 International Securities Identification Number
 ISO 9
-ISO/IEC 17025
 Legal Entity Identifier
-ISO/IEC 15288
 MaxiCode
-Language Of Temporal Ordering Specification
-List of typographical symbols and punctuation marks
-ISO/IEC 8859-1
 Web Content Accessibility Guidelines
 Physical constant
-ISO/IEC 8859-13
-ISO/IEC 20000
 ISO 6438
 Shock-resistant watch
-ISO/IEC 2022
 LaTeX
 SQL
 Object Constraint Language
@@ -106,23 +85,16 @@ ISO 13399
 ISO 217
 Z notation
 ISO 31-8
-ISO/IEC 8859-4
-ISO/IEEE 11073
 ISO 704
 ISO 13406-2
-ISO/IEC 10967
 ISO 13584
 ANSI escape code
 ISO 55000
-Fuse (automotive)
 Dynamic Adaptive Streaming over HTTP
 ISO 9241
-ISO/IEC 9995
-ISO/IEC 27002
 ISO 732
 Prontor-Compur
 International standard
-ISO/IEC 15693
 ISO 5428
 Horsepower
 ISO 9362
@@ -132,30 +104,21 @@ ISO 3864
 MPEG-21
 Guidelines for the Definition of Managed Objects
 ISO 6943
-CAN bus
-ISO/TR 11941
 XML Metadata Interchange
 ISO 3166-3
 ISO 31-6
 Business Process Model and Notation
-ISO/IEC 7813
-International Standard Serial Number
 ISO 20400
 ISO 8178
 On-board diagnostics
 MPEG-4 Part 2
-ISO 19092-1
 ISO 16750
 ISO 25178
-Mathematical Operators (Unicode block)
 Mixed raster content
-Mathematical relation
 ISO 11940
 ISO 9660
 Antimagnetic watch
 Delivery Multimedia Integration Framework
-Miscellaneous Mathematical Symbols-A
-ISO/IEC 8859-6
 ISO 31-1
 Computer Graphics Metafile
 Open Virtualization Format
@@ -164,10 +127,8 @@ Meta-Object Facility
 O-ring
 ISO 7200
 QR code
-ISO/IEC 38500
 Graphical Kernel System
 ISO 3166
-ISO/IEC 7812
 International Standard Text Code
 CHILL
 ISO 639-1
@@ -176,17 +137,12 @@ ISO 6709
 Knowledge Discovery Metamodel
 Mathematical logic
 ISO 4
-ISO/IEC 8859-3
-ISO/IEC 8859-8
-ISO/IEC 8859-16
 ISO 10161
 Unicode
 EXPRESS (data modeling language)
-ISO/IEC 8859-12
 MPEG-H
 ISO 15189
 JPEG XS
-Language of mathematics
 Set theory
 ISO 18245
 OpenDocument
@@ -195,7 +151,6 @@ ISO 999
 ISO 15686
 Function (mathematics)
 ISO 3307
-ISO/IEC 8859-15
 ISLISP
 ISO 10628
 ISO 4217
@@ -208,31 +163,21 @@ ISO 1
 Accuracy and precision
 Tensor
 RELAX NG
-ISO/IEC 9797-1
-ISO/IEC 5218
 International Standard Music Number
 Fiber Distributed Data Interface
-ISO 12006
 ISO 690
 Geography Markup Language
 Motion JPEG 2000
 ISO 3166-1
-Letterlike Symbols
 Whirlpool (hash function)
 Shoe size
 IATF 16949
-Supplemental Mathematical Operators
-List of mathematical abbreviations
 ISO 965
 ISO 11170
 ISO 10160
 ISO 22000
-Geometric Shapes (Unicode block)
 Market Identifier Code
 Minimal BASIC
-ISO/IEC 27000-series
-ISO 19092-2
-ISO/IEC 8859-14
 JBIG
 ISO 639-5
 Power take-off
@@ -241,26 +186,17 @@ X.500
 Water Resistant mark
 Graph Query Language
 Mathematics
-NIST
-Special function
-Miscellaneous Mathematical Symbols-B
 COBOL
 135 film
 British Standard Pipe
-PDF/VT
-ISO 31-13
 ISO 11784 and ISO 11785
 Common Criteria
-Latin letters used in mathematics, science, and engineering
 ISO 4031
 PDF417
 Longitudinal redundancy check
 Process Specification Language
-List of letters used in mathematics, science, and engineering
 ISO 4157
 SDMX
-List of Unicode characters
-ISO/IEC 15897
 MPEG-D
 ISO 31-5
 ISO 20022
@@ -270,64 +206,43 @@ ISO 5776
 ISO 20121
 ISO 860
 MPEG-2
-List of mathematical constants
-ISO/IEC 15504
 File Allocation Table
 ISO 14698
 Magnetic ink character recognition
-TIFF/EP
 X3D
 ISO 22301
 ISO 639-2
-ISO/IEC TR 12182
 ISO 639-3
 ISO 898
 ISO 2145
 Open Data Protocol
 Linguistic categories
 International Bank Account Number
-PDF/A
 Isofix
-ISO/IEC 7816
 ISO 5964
 ISO 2788
 ISO 31-7
-ISO/IEC 14443
-Blackboard bold
 ISO 2014
-ISO/IEC 7064
-ISO 9000
 Common Object Request Broker Architecture
-ISO/IEC 8859-2
 ISO 45001
-ISO/IEC 8859-9
 International Organization for Standardization
 Matrix (mathematics)
 International Standard Musical Work Code
-List of common physics notations
-Vector (mathematics)
 ISO 11783
 ISO 15926
 Cloud Infrastructure Management Interface
 ISO 31-0
 STEP-NC
-ISO/IEC 9126
 ISO 2709
 Ada Semantic Interface Specification
 International Standard Identifier for Libraries and Related Organizations
-ISO/IEC 27005
-ISO/IEC 11179
 ISO 19600
 ISBN
 Romanization of Armenian
-ISO/IEC 646
 Essential Video Coding
 ISO 1745
 ISO 8583
-ISO/IEC 17024
-ISO/IEC 6523
 ISO 2921
-ISO/IEC 8859-5
 Hole punch
 ISO 15919
 ISO 14031
@@ -336,11 +251,9 @@ JPEG 2000
 Romanization of Georgian
 Prolog
 List of ISO romanizations
-ISO/IEC 7811
 MPEG-4 Part 3
 Pascal (programming language)
 ISO 8601
-ISO/IEC 19770
 ISO 5426
 Renard series
 ISO 2015
@@ -349,8 +262,6 @@ ISO 15022
 ISO 128
 Advanced Video Coding
 ISO 22300
-ISO/IEC 8859-7
-ISO/IEC 11801
 Ruby (programming language)
 Greek letters used in mathematics, science, and engineering
 ISO 13490
@@ -369,19 +280,15 @@ Diacritic
 ISO 2146
 Unified Modeling Language
 ISO 10303
-ISO 7027
 ISO 7736
 JPEG XR
 ISO 11940-2
 MicroPDF417
 ISO 8501-1
-ISO/IEC 8859-11
 ISO 56000
-Mathematical operators and symbols in Unicode
 International Standard Name Identifier
 ECMAScript
 ISO 31-10
-Miscellaneous Technical
 Salt spray test
 ISO 9564
 Open Document Architecture
@@ -394,36 +301,27 @@ International Standard Recording Code
 JPEG XL
 Mathematical notation
 ISO 6344
-PDF/X
 ISO 639-6
 Document Style Semantics and Specification Language
 Fuel oil
 Pinyin
 ISO 10218
 POSIX
-ISO/IEC 27006
 ISO 2
 ISO 6346
-ISO/IEC 10116
 OCR-A
 ISO 37001
 C Sharp (programming language)
 MPEG-4 Part 11
 ISO 25964
-ISO/IEC 11404
 ANSI C
 Full BASIC
 IS-IS
-Table of mathematical symbols by introduction date
-ISO 2047
 A440 (pitch standard)
 ISO 668
 ISO 216
-ISO/IEC 14651
 MPEG-1
 126 film
-Number Forms
-ISO/IEC 12207
 ISO 19439
 ISO 10006
 Complex number
@@ -432,23 +330,15 @@ Common Language Infrastructure
 Vicat softening point
 Quality function deployment
 Rectangular Micro QR Code
-ISO 8373
 Standard Generalized Markup Language
 Flowchart
 RM-ODP
 ISO 4165
-ISO 14000
-PDF/E
-ISO/IEC 9529
-ISO/IEC 4909
-ISO 31-12
 DICOM
 MPEG-G
 ISO-TimeML
 ISO 6385
 FDI World Dental Federation notation
-ISO/IEC 21827
-ISO 31-9
 ISO 31-3
 ECMAScript for XML
 Multibus
@@ -456,6 +346,5 @@ International Standard Atmosphere
 ISO 8000
 ISO 1000
 HTML
-ISO/IEC 42010
 ISO 10303-21
 Hazard symbol

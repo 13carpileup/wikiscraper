@@ -15,7 +15,6 @@
 1860 Democratic National Conventions
 1860 Republican National Convention
 1864 Democratic National Convention
-1864 Republican National Convention
 1868 Democratic National Convention
 1868 Republican National Convention
 1872 Democratic National Convention
@@ -30,7 +29,6 @@
 1884 Greenback National Convention
 1884 Republican National Convention
 1888 Democratic National Convention
-1888 Greenback National Convention
 1888 Republican National Convention
 1892 Democratic National Convention
 1892 Republican National Convention
@@ -54,12 +52,10 @@
 1916 Republican Party presidential primaries
 1920 Democratic National Convention
 1920 Democratic Party presidential primaries
-1920 Progressive National Convention
 1920 Republican National Convention
 1920 Republican Party presidential primaries
 1924 Democratic National Convention
 1924 Democratic Party presidential primaries
-1924 Progressive National Convention
 1924 Republican National Convention
 1924 Republican Party presidential primaries
 1928 Democratic National Convention
@@ -79,26 +75,19 @@
 1940 Democratic Party presidential primaries
 1940 Republican National Convention
 1940 Republican Party presidential primaries
-1940 United States House of Representatives elections
-1942 United States House of Representatives elections
 1944 Democratic National Convention
 1944 Democratic Party presidential primaries
 1944 Republican National Convention
 1944 Republican Party presidential primaries
-1944 United States House of Representatives elections
-1946 United States House of Representatives elections
 1948 Democratic National Convention
 1948 Democratic Party presidential primaries
 1948 Progressive National Convention
 1948 Republican National Convention
 1948 Republican Party presidential primaries
-1948 United States Senate elections
 1952 Democratic National Convention
 1952 Democratic Party presidential primaries
-1952 Progressive National Convention
 1952 Republican National Convention
 1952 Republican Party presidential primaries
-1954 United States Senate elections
 1956 Democratic National Convention
 1956 Democratic Party presidential primaries
 1956 Republican National Convention
@@ -108,160 +97,19 @@
 1960 Republican National Convention
 1960 Republican Party presidential primaries
 1960 United States presidential election
-1962 Alabama gubernatorial election
-1963 United States elections
-1964 Arizona House of Representatives election
-1964 Arizona Senate election
-1964 Arizona gubernatorial election
-1964 Arkansas gubernatorial election
-1964 California's 5th congressional district special election
-1964 California's 6th congressional district special election
-1964 Delaware gubernatorial election
-1964 Democratic Convention
 1964 Democratic National Convention
-1964 Democratic Party vice presidential candidate selection
-1964 Florida gubernatorial election
-1964 Illinois House of Representatives election
-1964 Illinois gubernatorial election
-1964 Indiana gubernatorial election
-1964 Iowa Senate election
-1964 Iowa gubernatorial election
-1964 Kansas gubernatorial election
-1964 Louisiana's 4th congressional district special election
-1964 Louisiana gubernatorial election
-1964 Massachusetts gubernatorial election
-1964 Michigan gubernatorial election
-1964 Missouri gubernatorial election
-1964 Missouri lieutenant gubernatorial election
-1964 Montana gubernatorial election
-1964 Nebraska gubernatorial election
-1964 Nebraska lieutenant gubernatorial election
-1964 New Hampshire Democratic presidential primary
-1964 New Hampshire gubernatorial election
-1964 New Mexico gubernatorial election
-1964 North Carolina gubernatorial election
-1964 North Carolina lieutenant gubernatorial election
-1964 North Dakota gubernatorial election
-1964 Pennsylvania's 5th congressional district special election
 1964 Republican National Convention
 1964 Republican Party presidential primaries
-1964 Rhode Island gubernatorial election
-1964 South Dakota gubernatorial election
-1964 State of the Union Address
-1964 Texas gubernatorial election
-1964 United States House of Representatives election in Alaska
-1964 United States House of Representatives election in Delaware
-1964 United States House of Representatives election in Hawaii
-1964 United States House of Representatives election in Montana
-1964 United States House of Representatives election in New Mexico
-1964 United States House of Representatives election in South Dakota
-1964 United States House of Representatives election in Vermont
-1964 United States House of Representatives election in Wyoming
-1964 United States House of Representatives elections
-1964 United States House of Representatives elections in Alabama
-1964 United States House of Representatives elections in Arizona
-1964 United States House of Representatives elections in Arkansas
-1964 United States House of Representatives elections in California
-1964 United States House of Representatives elections in Colorado
-1964 United States House of Representatives elections in Connecticut
-1964 United States House of Representatives elections in Florida
-1964 United States House of Representatives elections in Georgia
-1964 United States House of Representatives elections in Idaho
-1964 United States House of Representatives elections in Illinois
-1964 United States House of Representatives elections in Indiana
-1964 United States House of Representatives elections in Iowa
-1964 United States House of Representatives elections in Kansas
-1964 United States House of Representatives elections in Kentucky
-1964 United States House of Representatives elections in Louisiana
-1964 United States House of Representatives elections in Maine
-1964 United States House of Representatives elections in Maryland
-1964 United States House of Representatives elections in Massachusetts
-1964 United States House of Representatives elections in Michigan
-1964 United States House of Representatives elections in Minnesota
-1964 United States House of Representatives elections in Mississippi
-1964 United States House of Representatives elections in Missouri
-1964 United States House of Representatives elections in Nebraska
-1964 United States House of Representatives elections in Nevada
-1964 United States House of Representatives elections in New Hampshire
-1964 United States House of Representatives elections in New Jersey
-1964 United States House of Representatives elections in New York
-1964 United States House of Representatives elections in North Carolina
-1964 United States House of Representatives elections in North Dakota
-1964 United States House of Representatives elections in Ohio
-1964 United States House of Representatives elections in Oklahoma
-1964 United States House of Representatives elections in Oregon
-1964 United States House of Representatives elections in Pennsylvania
-1964 United States House of Representatives elections in Rhode Island
-1964 United States House of Representatives elections in South Carolina
-1964 United States House of Representatives elections in Tennessee
-1964 United States House of Representatives elections in Texas
-1964 United States House of Representatives elections in Utah
-1964 United States House of Representatives elections in Virginia
-1964 United States House of Representatives elections in Washington
-1964 United States House of Representatives elections in West Virginia
-1964 United States House of Representatives elections in Wisconsin
-1964 United States Senate election in Arizona
-1964 United States Senate election in California
-1964 United States Senate election in Connecticut
-1964 United States Senate election in Delaware
-1964 United States Senate election in Florida
-1964 United States Senate election in Hawaii
-1964 United States Senate election in Indiana
-1964 United States Senate election in Maine
-1964 United States Senate election in Maryland
-1964 United States Senate election in Massachusetts
-1964 United States Senate election in Michigan
-1964 United States Senate election in Minnesota
-1964 United States Senate election in Mississippi
-1964 United States Senate election in Missouri
-1964 United States Senate election in Montana
-1964 United States Senate election in Nebraska
-1964 United States Senate election in Nevada
-1964 United States Senate election in New Jersey
-1964 United States Senate election in New Mexico
-1964 United States Senate election in New York
-1964 United States Senate election in North Dakota
-1964 United States Senate election in Ohio
-1964 United States Senate election in Pennsylvania
-1964 United States Senate election in Rhode Island
-1964 United States Senate election in Tennessee
-1964 United States Senate election in Texas
-1964 United States Senate election in Utah
-1964 United States Senate election in Vermont
-1964 United States Senate election in Virginia
-1964 United States Senate election in Washington
-1964 United States Senate election in West Virginia
-1964 United States Senate election in Wisconsin
-1964 United States Senate election in Wyoming
-1964 United States Senate elections
-1964 United States Senate special election in New Mexico
-1964 United States Senate special election in Oklahoma
-1964 United States Senate special election in Tennessee
-1964 United States elections
-1964 United States gubernatorial elections
 1964 United States presidential election
-1964 Utah gubernatorial election
-1964 Vermont gubernatorial election
-1964 Washington gubernatorial election
-1964 West Virginia gubernatorial election
-1964 Wisconsin gubernatorial election
-1965 State of the Union Address
-1965 United States elections
-1966 State of the Union Address
-1967 State of the Union Address
 1968 Democratic National Convention
 1968 Democratic Party presidential primaries
 1968 Republican National Convention
 1968 Republican Party presidential primaries
-1968 State of the Union Address
 1968 United States presidential election
-1969 State of the Union Address
-1970 Alabama gubernatorial election
 1972 Democratic National Convention
 1972 Democratic Party presidential primaries
 1972 Republican National Convention
 1972 Republican Party presidential primaries
-1974 Alabama gubernatorial election
 1976 Democratic National Convention
 1976 Democratic Party presidential primaries
 1976 Republican National Convention
@@ -270,7 +118,6 @@
 1980 Democratic Party presidential primaries
 1980 Republican National Convention
 1980 Republican Party presidential primaries
-1982 Alabama gubernatorial election
 1983 Libertarian National Convention
 1984 Democratic National Convention
 1984 Democratic Party presidential primaries
@@ -363,7 +210,6 @@
 2020 Republican Party presidential debates
 2020 Republican Party presidential primaries
 2021 Democratic National Committee chairmanship election
-2024 Constitution Party presidential primaries
 2024 Democratic National Convention
 2024 Democratic Party presidential debates and forums
 2024 Democratic Party presidential primaries
@@ -376,16 +222,11 @@
 2024 Republican Party presidential debates and forums
 2024 Republican Party presidential primaries
 2025 Democratic National Committee chairmanship election
-2028 Democratic Party presidential primaries
 2028 Republican National Convention
-2028 Republican Party presidential primaries
-AFL–CIO
-Abraham Ribicoff
 Abram Hewitt
 Adlai Stevenson I
 Adlai Stevenson II
 Administration (government)
-Affidavit
 African American
 Al Gore
 Al Smith
@@ -393,107 +234,31 @@ Alabama
 Alabama Democratic Party
 Alaska Democratic Party
 Alben W. Barkley
-Albert S. Porter
-All the Way (2016 film)
 All the Way (play)
 Allen G. Thurman
 Alton B. Parker
-AmeriCorps VISTA
 American Civil War
 American Independent Party
 American Samoa Democratic Party
-An Assassin's Diary
 Andrew Jackson
 Andrew Stevenson
 Anti-communism
-Architectural Barriers Act of 1968
 Arizona
 Arizona Democratic Party
-Arthur Bremer
 Arthur P. Gorman
 Arthur Sewall
-Assassination of John F. Kennedy
-Atlantic City
 August Belmont
 Augustus Schell
 B. Gratz Brown
-Backlash (sociology)
 Baltimore
 Barack Obama
 Barry Goldwater
 Barry Goldwater 1964 presidential campaign
-Bashir Ahmad (camel driver)
 Benjamin F. Hallett
 Bible Belt
 Bill Clinton
-Birch Bayh
-Black Power
 Blue Dog Coalition
-Box 13 scandal
 California
-California Democratic Party
-California Democratic Party v. Jones
-Calvin S. Brice
-Cambridge, Maryland
-Cannabis policy of the Lyndon B. Johnson administration
-Carl Albert
-Carol Channing
-Caucus
-Champ Clark
-Charles A. Culberson
-Charles Frederick Crisp
-Charles Manatt
-Charles W. Bryan
-Child Nutrition Act
-Chris Dodd
-Chuck Robb
 Chuck Schumer
 Civil Rights Act of 1964
-Civil Rights Act of 1968
-Claude Kitchin
-Clean Air Act (United States)
-Clem L. Shaver
-Clifton DeBerry
-Closed primary
-Coinage Act of 1965
-College Democrats of America
-Colorado Democratic Party
-Committee for the Preservation of the White House
-Congressional Progressive Caucus
-Conservative Political Action Conference
-Cordell Hull
-Cornelia Wallace
-Coroner
-Credibility gap
-Czechoslovakia
-Daisy (advertisement)
-Daniel Brewster
-Daniel Inouye
-David Allen Smalley
-David B. Culberson
-David Turpie
-David Wilhelm
-Debbie Wasserman Schultz
-Debra DeLee
-Deep South
-Delaware Democratic Party
-Delaware Plan
-Democratic Attorneys General Association
-Democratic Congressional Campaign Committee
-Democratic Governors Association
-Democratic Legislative Campaign Committee
-Democratic National Committee
-Democratic National Convention
-Democratic Party (Northern Mariana Islands)
-Democratic Party (Puerto Rico)
 Democratic Party (United States)
-Democratic Party (United States) organizations
-Democratic Party of Arkansas
-Democratic Party of Connecticut
-Democratic Party of Georgia
-Democratic Party of Guam
-Democratic Party of Hawaii
-Democratic Party of Illinois
-Democratic Party of New Mexico
-Democratic Party of Oregon
-Democratic Party of Virginia

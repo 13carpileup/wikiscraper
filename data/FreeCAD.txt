@@ -1,235 +1,48 @@
-.dwg
-3D Manufacturing Format
 3D computer graphics
 3D modeling
-4D BIM
-5D BIM
-6D BIM
-ABViewer
-ACIS
-Additive manufacturing file format
-Alibre Design
-Allegro (CAD software)
-Altium Designer
-ArchiCAD
 Architecture
-Arduino
-AutoCAD
-AutoCAD DXF
-AutoCAD Electrical
-AutoTURN
 Autodesk
 Autodesk Alias
-Autodesk Inventor
-Autodesk Maya
-Autodesk Revit
-Autotrax
-BIM Collaboration Format
-BIM Task Group
-BRL-CAD
-Bentley Systems
 Blender (software)
-BoardStation
 Boundary representation
-BricsCAD
-Brussels
-BuildingSMART
-Building Information Modeling
-Building information modeling
 C++
-C3D Toolkit
-CADKEY
-CADSTAR
-CAD kernel
-CATIA
-COBie
 COLLADA
-CR-2000
-CR-3000
-CR-5000
-CR-8000
-Cadwork
-Cadwork informatik AG
-Centre for Digital Built Britain
-Cimatron
 Cinema 4D
-CircuitMaker
-Cobalt (CAD program)
-CodeBook
-Coin3D
-Comparison of computer-aided design software
 Computer-aided design
 Computer-aided engineering
 Computer-aided manufacturing
 Construction
-Constructive solid geometry
-Creative Commons license
-Creo (design software)
-DAC-1
-DXF
-Data Design System
 Debian
-Delta Design
-DesignSpark Mechanical
-DesignSpark PCB
-Design Web Format
-Digital Project
-DipTrace
-EAGLE (program)
-EasyCAD
-EasyEDA
-Easytrax
-Electric (software)
 Electrical engineering
 Electronic design automation
 Engineering
-FINE MEP
-FORAN System
-FOSDEM
-FastCAD
-File format
-Finite Element Method
-Finite element method
 FreeBSD
-FreePCB
-FreeStyle (CAD software)
-Free Software Foundation
-Free and open-source software
 Free software
-Fritzing
-Fusion 360
-Fórum Internacional Software Livre
-GEDA
-GNU Lesser General Public License
-GNU LibreDWG
-GPLv3
-GRAITEC
-Gable CAD
-Geometric modeling kernel
-Graphisoft
-Grasshopper 3D
-GstarCAD
-HeeksCAD
-History of CAD software
-Horizon EDA
-IGES
-IRONCAD
 ISBN (identifier)
 ISO 10303
-Industry Foundation Classes
-IntegraStation
 IntelliCAD
-KTechLab
 KernelCAD
-KeyCreator
-KiCad
-LTspice
-LibreCAD
-Libre Graphics Meeting
-License compatibility
 Linux
-List of 3D printing software
-List of BIM software
 London
-MEDUSA4
 MacOS
-Magic (software)
 Mechanical engineering
-Mechanical systems drawing
-Micro-Cap
-MicroStation
 Microsoft Windows
-NI Multisim
-NI Ultiboard
-Navisworks
-Nemetschek
-Ngspice
 Oculus Rift
-Onshape
 Open-source software
-OpenDWG
-OpenSCAD
-OpenStudio
-Open CASCADE Technology
 Open Cascade Technology
-Open Design Alliance
-Open Inventor
-Open Packaging Conventions
 Operating system
-OrCAD
-Oregano (software)
-P-CAD
-PADS (CAD software)
-PCB (software)
-PDMS (software)
-PLY (file format)
-PSpice circuit file
-PTC Creo Elements/Direct Drafting
-PTC Creo Elements/Pro
-Packt Publishing
 Parasolid
-Phoronix
-Porto Alegre
-Pro/DESKTOP
 Product lifecycle management
 Programmer
 Proprietary software
-Protel (CAD software)
-Proteus Design Suite
-Pulsonix
 Python (programming language)
-QCAD
-Qt (framework)
-Quite Universal Circuit Simulator
-RFEM
-RUCAPS
-Raspberry Pi Foundation
-Raster image processor
-RattleCAD
-Reflex (building design software)
-Repository (version control)
-Rhinoceros 3D
-Romulus (modelling kernel)
 Russian Geometric Kernel
-STL (file format)
-Salome (software)
-Scalable Vector Graphics
-Scientific computing
 ShapeManager
 Siemens NX
-Sketchpad
 Software categories
 Software license
 Software release life cycle
-Software relicensing
-SolidWorks
-Solid Edge
-Solid Modeling Solutions
 Solid modeling
-SolveSpace
-Sonata (building design software)
-Source-available
-SpaceClaim
-Specctra
-T-FLEX CAD
-TARGET (CAD software)
-TangoPCB
 Teigha
-Tekla
-Tekla Structures
-Tinkercad
-TopoR
-Trimble Navigation
-Trimble SketchUp
-TurboCAD
-UNISURF
-Unix
-Upverter
-VariCAD
-Vectorworks
-VisualARQ
-Wavefront .obj file
 Windows
-XCircuit
 XML
-Xpedition (CAD software)

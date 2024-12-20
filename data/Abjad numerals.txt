@@ -1,89 +1,50 @@
-'Ilm al-Huruf
 1829 braille
 ASLwrite
 Abjad
-Abu Muhammad al-Hasan al-Hamdani
 Abugida
 Accessible publishing
 Adinkra symbols
 Adlam script
-Aegean numerals
 Afaka syllabary
 Ahom script
-Ajami script
-Akkadian cuneiform
-Aksharapalli
 Albanian Braille
 Aleph
-Aleppo Arabic
-Algerian Arabic
 Algerian Braille
-Algerian Saharan Arabic
 Allah
 Alphabet
-Alphabetic numeral system
-Alphanumeric code
-Alphasyllabic numeral system
 American Braille
 American Printing House for the Blind
-Anatolian Arabic
 Anatolian hieroglyphs
 Ancient North Arabian
 Ancient South Arabian script
 Ancient history
-Andalusi Arabic
 Anglo-Saxon runes
 Arab world
 Arabic
-Arabic-based creole languages
 Arabic Braille
 Arabic alphabet
 Arabic diacritics
-Arabic grammar
-Arabic keyboard
-Arabic language
 Arabic literature
-Arabic name
-Arabic numerals
-Arabic phonology
 Arabic script
-Arabic script in Unicode
 Aramaic alphabet
 Archaic Greek alphabets
 Ariyaka script
 Armenian Braille
 Armenian alphabet
-Armenian numerals
-Asomtavruli
-Assyrian cuneiform
-Asymmetric numeral systems
 Attic numerals
 Avestan alphabet
 Avoiuli
 Ayin
-Azeri Braille
 Aztec script
 B
-Babylonian cuneiform numerals
 Bagam script
-Baghdad Jewish Arabic
-Baghdadi Arabic
-Bahraini Gulf Arabic
-Bahrani Arabic
-Balanced ternary
-Balinese numerals
 Balinese script
 Bamum script
-Bareqi Arabic
-Basmala
-Bassa Vah script
 Batak script
 Baybayin
-Bedouin Arabic
 Belarusian Braille
 Beneventan script
 Bengali Braille
-Bengali numerals
 Bengali–Assamese script
 Bet (letter)
 Bhaiksuki script
@@ -91,20 +52,13 @@ Bharati Braille
 Bharati script
 Bhattiprolu script
 Bhujimol script
-Bijective numeration
-Bimbashi Arabic
-Binary number
 Bird-worm seal script
 Blackfoot language
 Blackletter
 Blissymbols
-Bongor Arabic
-Book Pahlavi
 Bopomofo
 Bosnian Cyrillic
-Bowen script
 Boyd's syllabic shorthand
-Brahmi numerals
 Brahmi script
 Brahmic scripts
 Braigo
@@ -125,7 +79,6 @@ Buda script
 Buhid script
 Bulgarian Braille
 Burmese Braille
-Burmese numerals
 Byblos syllabary
 Bété syllabary
 Canadian Aboriginal syllabics
@@ -137,8 +90,6 @@ Carrier syllabics
 Catalan Braille
 Caucasian Albanian script
 Celtiberian script
-Central Asian Arabic
-Chadian Arabic
 Chakma script
 Cham script
 Charles Barbier
@@ -146,52 +97,36 @@ Cherokee syllabary
 Chinese bronze inscriptions
 Chinese characters
 Chinese family of scripts
-Chinese numerals
-Chuvash numerals
 Chữ Nôm
-Cilician Arabic
 Cipher runes
 Cirth
-Cistercian numerals
 Classical Arabic
 Clear Script
 Code page 708
 Code page 720
 Code page 864
 Coelbren y Beirdd
-Complex-base system
 Computer Braille Code
 Coorgi–Cox alphabet
-Coptic alphabet
-Coptic numerals
-Cottonera dialect
-Counting rods
 Cretan hieroglyphs
 Cuneiform
-Cuneiform Luwian
 Cursive Hebrew
-Cypriot Arabic
 Cypriot syllabary
 Cypro-Minoan syllabary
 Cyrillic alphabets
-Cyrillic numerals
 Cyrillic script
 Czech Braille
 D
-Dagger alif
 Dalecarlian runes
 Dalet
-Damascus Arabic
 Decapoint
 Decimal
 Demotic (Egyptian)
 Deseret alphabet
 Devanagari
 Devanagari Braille
-Devanagari numerals
 Dham script
 Dhives Akuru
-Dhofari Arabic
 Ditema tsa Dinoko
 Diwani
 Dogri script
@@ -201,20 +136,13 @@ Duodecimal
 Duployan shorthand
 Dutch Braille
 Dzongkha Braille
-Dzongkha numerals
 Early Cyrillic alphabet
-Eastern Arabic numerals
-Eastern Morocco Arabic
 Eclectic shorthand
-Egyptian Arabic
 Egyptian hieroglyphs
-Egyptian numerals
 Elamite cuneiform
-Elbasan script
 Elder Futhark
 Elifba alphabet
 Elymaic
-Emirati Arabic
 Emoji
 English Braille
 Enochian
@@ -224,47 +152,32 @@ Espanca script
 Esperanto Braille
 Estonian Braille
 Etruscan alphabet
-Etruscan numerals
-Evenki alphabet
-Eveyla Akuru
 F
-Factorial number system
 Fakkham script
 Faroese Braille
-Fessi dialect
 Flag semaphore
 Fox language
 Fraktur
 Fraser script
 French Braille
 Gabelsberger shorthand
-Gadabuursi Somali script
 Gaelic type
 Galik alphabet
 Garay alphabet
 Gardner–Salinas braille codes
-Ge'ez Braille
 Geba syllabary
-Gematria
 George Psalmanazar
 Georgian Braille
-Georgian numerals
 Georgian scripts
 German Braille
 Geʽez script
 Ghanaian braille
-Ghayn
-Gilit Mesopotamian Arabic
 Gimel
-Glagolitic numerals
 Glagolitic script
-Golden ratio base
-Golmol script
 Gondi writing
 Gothic alphabet
 Gothic runic inscriptions
 Goykanadi
-Gozitan dialects
 Grantha script
 Grapheme
 Great Lakes Algonquian syllabics
@@ -272,73 +185,49 @@ Greco-Iberian alphabet
 Greek Braille
 Greek alphabet
 Greek language
-Greek numerals
 Gregg shorthand
 Guarani Braille
 Gujarati Braille
-Gujarati numerals
 Gujarati script
-Gulf Arabic
-Gulf Pidgin Arabic
 Gunjala Gondi script
 Gupta script
 Gurmukhi
-Gurmukhi numerals
 H
-Hadhrami Arabic
-Hamza
 Hangul
 Hanifi Rohingya script
 Hanja
 Hanunoo script
 Harris Mowbray
-Hassaniya Arabic
-Hatran alphabet
 Hawaiian Braille
 He (letter)
 Hebrew Braille
 Hebrew alphabet
 Hebrew language
-Hebrew numerals
-Hejazi Arabic
 Hentaigana
 Heth
-Hexadecimal
 Hieratic
-Hijazi script
-Hilalian dialects
-Himmol script
 Hindu–Arabic numeral system
 Hiragana
-History of ancient numeral systems
-History of the Arabic alphabet
 History of writing
 History of writing in Vietnam
 Hittite cuneiform
-Hokkien numerals
 Hungarian Braille
 Hurufism
 IPA Braille
 ISBN (identifier)
-ISO/IEC 8859-6
 Iban language
 Icelandic Braille
 Ideogram
 Idu script
-Imāla
-Incung script
-Influence of Arabic on other languages
 Inscriptional Pahlavi
 Inscriptional Parthian
 Insular script
-Interlac
 International Phonetic Alphabet
 International maritime signal flags
 International uniformity of braille alphabets
 Inuktitut Braille
 Irish Braille
 Islamic calligraphy
-Isopsephy
 Isotype (picture language)
 Isthmian script
 Italian Braille
@@ -347,33 +236,13 @@ J
 Japan Braille Library
 Japanese Braille
 Japanese numerals
-Javanese numerals
 Javanese script
-Jawi script
-Jebli Arabic
-Jeli Thuluth
-Jijel Arabic
 Jindai moji
-Jordanian Arabic
-Jordanian Bengali Pidgin Arabic
-Juba Arabic
-Judeo-Algerian Arabic
-Judeo-Arabic
-Judeo-Egyptian Arabic
-Judeo-Iraqi Arabic
-Judeo-Moroccan Arabic
-Judeo-Tripolitanian Arabic
-Judeo-Tunisian Arabic
-Judeo-Yemeni Arabic
 Jurchen script
 K
-Kabbalah
 Kadamba script
-Kaddare script
 Kaidā glyphs
-Kairouani calligraphy
 Kaithi
-Kaktovik numerals
 Kalinga script
 Kana
 Kanji
@@ -382,63 +251,45 @@ Kannada script
 Kaph
 Karani script
 Katakana
-Katapayadi system
 Kawi script
 Kayah Li alphabet
 Kazakh Braille
 Kharosthi
-Kharosthi numerals
 Khema script
 Khitan large script
 Khitan small script
 Khmer Braille
-Khmer numerals
 Khmer script
 Khojki script
 Khom Thai script
 Khom script (Ong Kommadam)
-Khorasani Arabic
 Khudabadi script
-Khuzestani Arabic
 Klingon scripts
-Kolezhuthu
 Korean Braille
-Korean numerals
 Kpelle syllabary
 Ktav Ashuri
 Kufic
 Kulitan
-Kummol script
 Kurdish alphabets
 Kurrent
 Kurukh language
-Kuwaiti Arabic
-Kvemmol script
 Kyrgyz Braille
 L
 Lai Tay script
 Lamedh
-Lampung script
 Langdi
-Language death
 Lao script
 Large seal script
 Latin script
 Latvian Braille
 Laṇḍā scripts
-Lebanese Arabic
 Leke script
-Lembak script
 Lepcha script
-Levantine Arabic
-Libyan Arabic
 Limbu script
 Linear B
 Linear Elamite
 List of constructed scripts
 List of creators of writing systems
-List of languages by first written accounts
-List of numeral systems
 List of writing systems
 Lisu language
 Lithuanian Braille
@@ -453,32 +304,23 @@ Lycian alphabet
 Lydian alphabet
 M
 MacArabic encoding
-Maghrebi Arabic
-Maghrebi script
 Mahajani
 Mainland Chinese Braille
 Makasar script
 Malayalam Braille
-Malayalam numerals
 Malayalam script
 Malayanma
 Maldivian writing systems
 Maltese Braille
-Maltese alphabet
 Maltese language
-Maltralian
 Man'yōgana
 Manchu alphabet
 Mandaic alphabet
 Mandombe script
 Manichaean script
 Marchen script
-Marcomannic runes
-Maridi Arabic
-Mashq
 Mashriq
 Mater lectionis
-Maya numerals
 Maya script
 Medefaidrin
 Medieval runes
@@ -487,14 +329,7 @@ Mem
 Mende Kikakui script
 Meroitic script
 Merovingian script
-Mesopotamian Arabic
-Michael C. A. Macdonald
-Mixed radix
 Mixtec writing
-Miꞌkmaw hieroglyphic writing
-Mkhedruli
 Modern Standard Arabic
 Modi script
-Molodtsov alphabet
 Mongolian Braille
-Mongolian numerals

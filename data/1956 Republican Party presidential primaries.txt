@@ -14,8 +14,6 @@
 1860 Democratic National Conventions
 1860 Republican National Convention
 1864 Democratic National Convention
-1864 National Union National Convention
-1864 Republican National Convention
 1868 Democratic National Convention
 1868 Republican National Convention
 1872 Democratic National Convention
@@ -30,7 +28,6 @@
 1884 Greenback National Convention
 1884 Republican National Convention
 1888 Democratic National Convention
-1888 Greenback National Convention
 1888 Republican National Convention
 1892 Democratic National Convention
 1892 Republican National Convention
@@ -52,15 +49,12 @@
 1916 Progressive National Convention
 1916 Republican National Convention
 1916 Republican Party presidential primaries
-1919 Motor Transport Corps convoy
 1920 Democratic National Convention
 1920 Democratic Party presidential primaries
-1920 Progressive National Convention
 1920 Republican National Convention
 1920 Republican Party presidential primaries
 1924 Democratic National Convention
 1924 Democratic Party presidential primaries
-1924 Progressive National Convention
 1924 Republican National Convention
 1924 Republican Party presidential primaries
 1928 Democratic National Convention
@@ -90,157 +84,17 @@
 1948 Republican Party presidential primaries
 1952 Democratic National Convention
 1952 Democratic Party presidential primaries
-1952 Progressive National Convention
 1952 Republican National Convention
 1952 Republican Party presidential primaries
 1952 United States presidential election
-1953 Iranian coup d'état
-1954 State of the Union Address
-1955 State of the Union Address
-1955 United States elections
-1956 Arizona House of Representatives election
-1956 Arizona Senate election
-1956 Arizona gubernatorial election
-1956 Arkansas gubernatorial election
-1956 Colorado gubernatorial election
-1956 Delaware gubernatorial election
 1956 Democratic National Convention
 1956 Democratic Party presidential primaries
-1956 Florida gubernatorial election
-1956 Illinois Republican presidential primary
-1956 Illinois gubernatorial election
-1956 Indiana gubernatorial election
-1956 Iowa Senate election
-1956 Iowa gubernatorial election
-1956 Kansas gubernatorial election
-1956 Maine gubernatorial election
-1956 Massachusetts gubernatorial election
-1956 Michigan gubernatorial election
-1956 Minnesota Republican Presidential Primary
-1956 Minnesota gubernatorial election
-1956 Minnesota lieutenant gubernatorial election
-1956 Missouri gubernatorial election
-1956 Missouri lieutenant gubernatorial election
-1956 Montana gubernatorial election
-1956 Nebraska gubernatorial election
-1956 Nebraska lieutenant gubernatorial election
-1956 New Hampshire Republican presidential primary
-1956 New Hampshire gubernatorial election
-1956 New Mexico gubernatorial election
-1956 North Carolina gubernatorial election
-1956 North Carolina lieutenant gubernatorial election
-1956 North Dakota gubernatorial election
-1956 Ohio gubernatorial election
-1956 Oregon gubernatorial special election
 1956 Republican National Convention
-1956 Rhode Island gubernatorial election
-1956 South Dakota gubernatorial election
-1956 State of the Union Address
-1956 Texas gubernatorial election
-1956 United States House of Representatives election in Delaware
-1956 United States House of Representatives election in Nevada
-1956 United States House of Representatives election in New Mexico
-1956 United States House of Representatives election in North Dakota
-1956 United States House of Representatives election in Vermont
-1956 United States House of Representatives election in Wyoming
-1956 United States House of Representatives elections
-1956 United States House of Representatives elections in Alabama
-1956 United States House of Representatives elections in Arizona
-1956 United States House of Representatives elections in Arkansas
-1956 United States House of Representatives elections in California
-1956 United States House of Representatives elections in Colorado
-1956 United States House of Representatives elections in Connecticut
-1956 United States House of Representatives elections in Florida
-1956 United States House of Representatives elections in Georgia
-1956 United States House of Representatives elections in Idaho
-1956 United States House of Representatives elections in Illinois
-1956 United States House of Representatives elections in Indiana
-1956 United States House of Representatives elections in Iowa
-1956 United States House of Representatives elections in Kansas
-1956 United States House of Representatives elections in Kentucky
-1956 United States House of Representatives elections in Louisiana
-1956 United States House of Representatives elections in Maine
-1956 United States House of Representatives elections in Maryland
-1956 United States House of Representatives elections in Massachusetts
-1956 United States House of Representatives elections in Michigan
-1956 United States House of Representatives elections in Minnesota
-1956 United States House of Representatives elections in Mississippi
-1956 United States House of Representatives elections in Missouri
-1956 United States House of Representatives elections in Montana
-1956 United States House of Representatives elections in Nebraska
-1956 United States House of Representatives elections in New Hampshire
-1956 United States House of Representatives elections in New Jersey
-1956 United States House of Representatives elections in New York
-1956 United States House of Representatives elections in North Carolina
-1956 United States House of Representatives elections in Ohio
-1956 United States House of Representatives elections in Oklahoma
-1956 United States House of Representatives elections in Oregon
-1956 United States House of Representatives elections in Pennsylvania
-1956 United States House of Representatives elections in Rhode Island
-1956 United States House of Representatives elections in South Carolina
-1956 United States House of Representatives elections in South Dakota
-1956 United States House of Representatives elections in Tennessee
-1956 United States House of Representatives elections in Texas
-1956 United States House of Representatives elections in Utah
-1956 United States House of Representatives elections in Virginia
-1956 United States House of Representatives elections in Washington
-1956 United States House of Representatives elections in West Virginia
-1956 United States House of Representatives elections in Wisconsin
-1956 United States Senate election in Alabama
-1956 United States Senate election in Arizona
-1956 United States Senate election in Arkansas
-1956 United States Senate election in California
-1956 United States Senate election in Colorado
-1956 United States Senate election in Connecticut
-1956 United States Senate election in Florida
-1956 United States Senate election in Georgia
-1956 United States Senate election in Idaho
-1956 United States Senate election in Illinois
-1956 United States Senate election in Indiana
-1956 United States Senate election in Iowa
-1956 United States Senate election in Kansas
-1956 United States Senate election in Kentucky
-1956 United States Senate election in Louisiana
-1956 United States Senate election in Maryland
-1956 United States Senate election in Missouri
-1956 United States Senate election in Nevada
-1956 United States Senate election in New Hampshire
-1956 United States Senate election in New York
-1956 United States Senate election in North Carolina
-1956 United States Senate election in North Dakota
-1956 United States Senate election in Ohio
-1956 United States Senate election in Oklahoma
-1956 United States Senate election in Oregon
-1956 United States Senate election in Pennsylvania
-1956 United States Senate election in South Carolina
-1956 United States Senate election in South Dakota
-1956 United States Senate election in Utah
-1956 United States Senate election in Vermont
-1956 United States Senate election in Washington
-1956 United States Senate election in Wisconsin
-1956 United States Senate elections
-1956 United States Senate special election in Kentucky
-1956 United States Senate special election in South Carolina
-1956 United States Senate special election in West Virginia
-1956 United States elections
-1956 United States gubernatorial elections
 1956 United States presidential election
-1956 Utah gubernatorial election
-1956 Vermont gubernatorial election
-1956 Washington gubernatorial election
-1956 West Virginia gubernatorial election
-1956 Wisconsin Democratic presidential primary
-1956 Wisconsin gubernatorial election
-1957 State of the Union Address
-1957 United States elections
-1958 State of the Union Address
-1959 State of the Union Address
 1960 Democratic National Convention
 1960 Democratic Party presidential primaries
 1960 Republican National Convention
 1960 Republican Party presidential primaries
-1960 State of the Union Address
-1960 U-2 incident
 1960 United States presidential election
 1964 Democratic National Convention
 1964 Democratic Party presidential primaries
@@ -310,9 +164,7 @@
 2008 Republican National Convention
 2008 Republican Party presidential debates and forums
 2008 Republican Party presidential primaries
-2009 Republican National Committee chairmanship election
 2010 Libertarian National Convention
-2011 Republican National Committee chairmanship election
 2012 Democratic National Convention
 2012 Democratic Party presidential primaries
 2012 Green National Convention
@@ -323,9 +175,7 @@
 2012 Republican National Convention
 2012 Republican Party presidential debates and forums
 2012 Republican Party presidential primaries
-2013 Republican National Committee chairmanship election
 2014 Libertarian National Convention
-2015 Republican National Committee chairmanship election
 2016 Constitution Party presidential primaries
 2016 Democratic National Convention
 2016 Democratic Party presidential debates and forums
@@ -340,8 +190,6 @@
 2016 Republican National Convention
 2016 Republican Party presidential debates and forums
 2016 Republican Party presidential primaries
-2017 Republican National Committee chairmanship election
-2019 Republican National Committee chairmanship election
 2020 Constitution Party presidential primaries
 2020 Democratic National Convention
 2020 Democratic Party presidential debates
@@ -355,9 +203,6 @@
 2020 Republican National Convention
 2020 Republican Party presidential debates
 2020 Republican Party presidential primaries
-2021 Republican National Committee chairmanship election
-2023 Republican National Committee chairmanship election
-2024 Constitution Party presidential primaries
 2024 Democratic National Convention
 2024 Democratic Party presidential debates and forums
 2024 Democratic Party presidential primaries
@@ -366,135 +211,31 @@
 2024 Libertarian National Convention
 2024 Libertarian Party presidential primaries
 2024 Reform National Convention
-2024 Republican National Committee chairmanship election
 2024 Republican National Convention
 2024 Republican Party presidential debates and forums
 2024 Republican Party presidential primaries
-2028 Democratic Party presidential primaries
 2028 Republican National Convention
-2028 Republican Party presidential primaries
 Abraham Lincoln
 Adlai Stevenson II
 Administration (government)
-Agricultural Act of 1954
-Agricultural Act of 1956
-Agricultural Trade Development and Assistance Act of 1954
-Air Pollution Control Act of 1955
-Alabama Republican Party
 Alaska
-Alaska Republican Party
-Alaska Statehood Act
-Alf Landon
-Allied-occupied Germany
-Allied invasion of Sicily
-American Vegetarian Party
-And I don't care what it is
 Andrew Johnson
-Anne Eisenhower
-Arizona Republican Party
-Armistice of Cassibile
-Arthur Eisenhower
-Arthur Summerfield
-Atomic Energy Act of 1954
-Atoms for Peace
-Atoms for Peace Award
-B. Carroll Reece
-Backstairs at the White House
-Bailey Walsh
-Bank Holding Company Act
 Barry Goldwater
-Benjamin Franklin Jones (industrialist)
 Benjamin Harrison
-Berlin Declaration (1945)
-Bertrand Snell
-Bibliography of Dwight D. Eisenhower
-Bibliography of the history of the Republican Party
-Bill Brock
 Bob Dole
-C. Wesley Roberts
 California
-California Democratic Party v. Jones
-California Republican Party
 Calvin Coolidge
 Camp David
-Caucus
-Chance for Peace speech
-Charles A. Halleck
-Charles Curtis
-Charles D. Hilles
-Charles Evans Hughes
-Charles G. Dawes
-Charles L. McNary
-Charles W. Fairbanks
 Chester A. Arthur
 Chief of Staff of the United States Army
-Civil Rights Act of 1957
-Civil Rights Act of 1960
-Claudius H. Huston
-Clayton Yeutter
 Cold War
-Cold War (1953–1962)
-College Republicans
-Colorado Republican Party
-Congressional Hispanic Conference
-Connecticut Republican Party
 ConservAmerica
-Conservative Political Action Conference
-Crusade in Europe
-DARPA
 Dan Quayle
-Darlington Hoopes
-David B. Henderson
-David Eisenhower
-Dean Burch
-Delaware Plan
-Democratic National Convention
 Democratic Party (United States)
 Democratic Party presidential debates
-Dennis Hastert
 Dick Cheney
-Disarmed Enemy Forces
-District of Columbia Republican Party
-Domino theory
 Donald Trump
-Draft Eisenhower movement
 Dwight D. Eisenhower
-Dwight D. Eisenhower Army Medical Center
-Dwight D. Eisenhower Memorial
 Dwight D. Eisenhower Presidential Library, Museum and Boyhood Home
-Dwight D. Eisenhower Supreme Court candidates
-Dwight Eisenhower
-Dwight M. Sabin
-EURATOM Cooperation Act of 1958
-Earl D. Eisenhower
-Earl Warren
-Ed Gillespie
-Eddie Slovik
-Edgar N. Eisenhower
-Edwin D. Morgan
-Eisenhower's farewell address
-Eisenhower Birthplace State Historic Site
-Eisenhower Centennial silver dollar
-Eisenhower Doctrine
 Eisenhower Executive Office Building
-Eisenhower Fellowships
-Eisenhower Golf Club
-Eisenhower Home
-Eisenhower Institute
-Eisenhower Medical Center
-Eisenhower Monument
-Eisenhower National Historic Site
-Eisenhower Tree
-Eisenhower Trophy
-Eisenhower baseball controversy
-Eisenhower dollar
-Eisenhower jacket
 Elections in the United States
-Enoch A. Holtwick
-Eric Hass
-Estes Kefauver
-Eugene Hale
-European Advisory Commission
-European Theater of Operations United States Army
-Everett Sanders
-Excise Tax Reduction Act of 1954

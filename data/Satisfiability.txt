@@ -1,4 +1,3 @@
-2-satisfiability
 Abstract logic
 Ackermann set theory
 Aleph number
@@ -15,14 +14,12 @@ Axiom
 Axiom of choice
 Axiom schema
 Axiomatic system
-Axiomatization of Boolean algebras
 Banach–Tarski paradox
 Bijection
 Binary operation
 Boolean algebra
 Boolean algebras canonically defined
 Boolean function
-Boolean satisfiability problem
 Cantor's diagonal argument
 Cantor's paradox
 Cantor's theorem
@@ -32,14 +29,10 @@ Categorical theory
 Category (mathematics)
 Category of sets
 Category theory
-Christel Baier
 Church encoding
 Church–Turing thesis
-Circuit satisfiability
 Class (set theory)
 Classical logic
-Classical propositional logic
-Co-NP-complete
 Codomain
 Compactness theorem
 Complement (set theory)
@@ -48,38 +41,27 @@ Completeness (logic)
 Computability theory
 Computable function
 Computable set
-Computably enumerable
 Computably enumerable set
 Computational complexity theory
 Concrete category
-Congruence closure
 Conservative extension
 Consistency
-Constraint satisfaction
-Constraint satisfaction problem
 Constructible universe
 Construction of the real numbers
 Constructive set theory
 Continuum hypothesis
 Countable set
-Cylindrical algebraic decomposition
-Daniel Kroening
 David Hilbert
 Decidability (logic)
-Decidable problem
 Decision problem
-Deductive system
 Diagram (mathematical logic)
 Domain of a function
-Effective method
 Element (mathematics)
 Elementary diagram
 Elementary equivalence
 Elementary function arithmetic
 Empty set
-Entscheidungsproblem
 Enumeration
-Equational theory
 Equiconsistency
 Equivalence relation
 Euclid's Elements
@@ -91,7 +73,6 @@ Extension by new constant and function names
 Extensionality
 Finitary relation
 Finite-valued logic
-Finite model property
 Finite model theory
 Finite set
 First-order logic
@@ -100,12 +81,10 @@ Forcing (mathematics)
 Formal grammar
 Formal language
 Formal proof
-Formal semantics (logic)
 Formal system
 Formation rule
 Foundations of geometry
 Foundations of mathematics
-Franz Baader
 Free logic
 Free variables and bound variables
 Function (mathematics)
@@ -114,7 +93,6 @@ Fuzzy set
 General set theory
 Grothendieck universe
 Ground expression
-Ground formula
 Gödel's completeness theorem
 Gödel's incompleteness theorems
 Gödel numbering
@@ -122,10 +100,8 @@ Halting problem
 Hereditary set
 Higher-order logic
 Hilbert's axioms
-Hilbert's tenth problem
 Hilbert system
 History of logic
-History of mathematical logic
 ISBN (identifier)
 Image (mathematics)
 Inaccessible cardinal
@@ -136,15 +112,11 @@ Infinite set
 Information theory
 Inhabited set
 Injective function
-Integer programming
 Interpretation (logic)
 Interpretation (model theory)
-Interpretation function
 Intersection (set theory)
 Isomorphism
-Karp's 21 NP-complete problems
 Kolmogorov complexity
-Kripke's theory of truth
 Kripke–Platek set theory
 Lambda calculus
 Large cardinal
@@ -152,11 +124,9 @@ Lemma (mathematics)
 Lindström's theorem
 Linear inequality
 Linear programming
-List of Hilbert systems
 List of axioms
 List of first-order theories
 List of formal systems
-List of logic systems
 List of mathematical theories
 List of set identities and relations
 List of statements independent of ZFC
@@ -179,7 +149,6 @@ Mathematical logic
 Mathematical object
 Mathematical optimization
 Metalanguage
-Metalogic
 Metamathematics
 Metatheorem
 Minimal axioms for Boolean algebra
@@ -198,12 +167,10 @@ Non-Euclidean geometry
 Non-logical symbol
 Non-standard model
 Non-standard model of arithmetic
-Ofer Strichman
 Open formula
 Operation (mathematics)
 Ordinal analysis
 Ordinal number
-PTIME
 P (complexity)
 P versus NP problem
 Paradoxes of set theory
@@ -212,7 +179,6 @@ Peano axioms
 Philosophy of mathematics
 Power set
 Predicate (mathematical logic)
-Predicate logic
 Predicate variable
 Primitive recursive arithmetic
 Primitive recursive function
@@ -222,20 +188,15 @@ Proof theory
 Proposition
 Propositional calculus
 Propositional formula
-Propositional logic
-Propositional satisfiability
 Propositional variable
 Quantifier (logic)
 Quantifier rank
-RE (complexity)
 Recursion
-Recursive set
 Relation (mathematics)
 Reverse mathematics
 Robinson arithmetic
 Rule of inference
 Russell's paradox
-Satisfiability modulo theories
 Saturated model
 Schröder–Bernstein theorem
 Second-order arithmetic
@@ -244,7 +205,6 @@ Self-verifying theories
 Semantic theory of truth
 Semantics
 Semantics of logic
-Semidecidable
 Sentence (mathematical logic)
 Sequent calculus
 Set (mathematics)
@@ -257,8 +217,6 @@ Spectrum of a sentence
 Spectrum of a theory
 Square of opposition
 Strength (mathematical logic)
-String (formal languages)
-Structure (logic)
 Structure (mathematical logic)
 Substitution (logic)
 Substructure (mathematics)
@@ -271,21 +229,15 @@ System of linear equations
 T-schema
 Tarski's axiomatization of the reals
 Tarski's axioms
-Tarski's theory of truth
 Tarski's undefinability theorem
 Tarski–Grothendieck set theory
 Tautology (logic)
 Term (logic)
 Term logic
-Term rewriting
 Theorem
-Theories of truth
-Theory (logic)
 Theory (mathematical logic)
 Three-valued logic
 Timeline of mathematical logic
-Tobias Nipkow
-Trakhtenbrot's theorem
 Transfer principle
 Transitive set
 True arithmetic
@@ -296,11 +248,9 @@ Turing machine
 Type (model theory)
 Type theory
 Type–token distinction
-Ultrafilter (set theory)
 Ultraproduct
 Uncountable set
 Undecidable problem
-Unification (computer science)
 Uninterpreted function
 Union (set theory)
 Uniqueness quantification
@@ -309,9 +259,7 @@ Universal quantification
 Universal set
 Universe (mathematics)
 Urelement
-Use–mention distinction
 Validity (logic)
-Variable-free
 Variable (mathematics)
 Venn diagram
 Von Neumann universe

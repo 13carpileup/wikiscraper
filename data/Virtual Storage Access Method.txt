@@ -1,54 +1,8 @@
-Access method
-B+ tree
-BDAM
-Basic Direct Access Method
-Basic Partitioned Access Method
-Basic Sequential Access Method
-Basic Telecommunications Access Method
-CICS
-CiteSeerX (identifier)
-Control interval
-DOS/360 and successors
 Data set (IBM mainframe)
 Data structure
-Datamation
 Digital Equipment Corporation
-Direct-access storage device
 Direct access storage device
-Distributed Data Management Architecture
-Enscribe
-Entry-sequenced data set
-Execute Channel Program
-Execute Channel Program in Real Storage
-Execute Direct Access Program
-Geneva ERS
 IBM
-IBM Db2
-IBM mainframe utility programs
-IMS/DB
-ISAM
-Indexed Sequential Access Method
-Job Control Language
-Key-sequenced data set
 Kilobyte
-Linear data set
 MVS
-Memory-mapped file
-Multiple Virtual Storage
-OS/360 and successors
-OS/VS1
-OS/VS2 (SVS)
-Object Access Method
-Queued Sequential Access Method
-Queued Teleprocessing Access Method
-Random access
-Record-oriented filesystem
 Record Management Services
-Relative record data set
-Start Input/Output
-Tandem Computers
-Telecommunications Access Method
-Transactional VSAM
-Virtual Telecommunications Access Method
-Virtual memory
-Z/OS

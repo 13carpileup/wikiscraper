@@ -1,9 +1,7 @@
 Modbus
 Digital Addressable Lighting Interface
 USB
-ISO/IEC 19752
 File Allocation Table
-ISO/IEC 14443
 Vehicle Area Network
 ECMAScript for XML
 XAP Home Automation protocol
@@ -12,111 +10,56 @@ Ada Semantic Interface Specification
 COBOL
 DeviceNet
 Wide area network
-ISO/IEC 8652
 Meter-Bus
 Common Logic
-ISO/IEC 20000
-ISO/IEC 2022
 ECMAScript
-SAE J1708
-ISO/IEC 80000
 Full BASIC
 Communications protocol
-SERCOS interface
-KNX
 IO-Link
-European Installation Bus
-NMEA 2000
-Unified Diagnostic Services
 IEC 62304
-Common Industrial Protocol
 MPEG-7
 IEC 60269
 IEC 61131
 Universal Disk Format
 Common Criteria
-CAN bus
 IEC 63119
 Sinec H1
 Encryption
-ISO/IEC 6523
 Wayback Machine
-ISO/IEC 14651
-ISO/IEC 10021
-IEC 60980-344
 IEC 62325
 IEC 61030
 CHILL
-DF-1 Protocol
-INTERBUS
 IEC 62700
 Guidelines for the Definition of Managed Objects
 MPEG-H
 Local Interconnect Network
-Power system automation
-ISO/IEC 27000-series
 QR code
-Automatic meter reading
-MOST Bus
-C-Bus (protocol)
 IEC 61968
 MHEG-5
-ISO/IEC 11179
-Zigbee
 ANSI C
 IEC 62379
-ISO/IEC 4909
-ISO/IEC 15897
 ARINC 429
 Linux Standard Base
-PROFINET
-ISO/IEC 19788
-ISO/IEC 18014
 Battery nomenclature
 Fieldbus
 IEC 62682
-SDS Protocol
 IEC 60446
-Bristol Standard Asynchronous Protocol
-ISO/IEC 33001
-ISO/IEC 12207
 Electrical engineering
-ISO/IEC 24744
 IEC 60364
-ISO/IEC 646
 AES47
 MPEG-4
 IEC 60601
-Digital Serial Interface
-OPC Data Access
 IEC 60228
-ISO/IEC 7810
-TCP/IP
-ISO/IEC 17024
 IEC 62455
 IEC 61355
-ISO/IEC 8859
-ControlNet
 Z notation
-European Home Systems Protocol
 DNP3
 PHIGS
 MPEG-21
-CEBus
-Factory Instrumentation Protocol
-IEC 62351
-Industrial control system
-OBIX
-ISO/IEC 9995
-CC-Link Industrial Networks
-MTConnect
-Fleet Management System
 International Standard Identifier for Libraries and Related Organizations
 IEC 61162
-EtherCAT
 IEC 60038
 RKM code
-ISO/IEC 9126
 IEC 61131-3
 JPEG XL
 IEC 60320
@@ -125,136 +68,73 @@ Document Style Semantics and Specification Language
 IEC 61970
 IEC 60027
 List of IEC standards
-DyNet
-ISO/IEC 15693
 IEC 61883
-HostLink Protocol
 Highway Addressable Remote Transducer Protocol
-ISO/IEC 10116
 International Electrotechnical Commission
-CANopen
 MPEG-A
 MPEG-D
 Ethernet Powerlink
 IEBus
-OSI model
-ISO/IEC 10967
 IEC 81346
 IEC 60870
 Authentication
-ISO/IEC 11404
-ISO/IEC 17025
 PieP
-Supervisory control and data acquisition
-AS-Interface
-BatiBUS
 IEC 60906-1
-MECHATROLINK
-ISO/IEC 9529
-SAE J1587
 Optomux
 EN 62262
-ISO/IEC 15504
-ISO/IEC 7813
-OPC Historical Data Access
 Mixed raster content
 Computer Graphics Metafile
 IEC 62061
-ISO/IEC 21827
 IEC 60309
-ISO/IEC 42010
 IEC 60929
-EtherNet/IP
 Universal Coded Character Set
-ISO/IEC 7812
 19-inch rack
 IP-XACT
 C Sharp (programming language)
-ISO/IEC 27040
-Foundation Fieldbus H1
-Higher Speed Ethernet
-Service Request Transport Protocol
 Power-system automation
 IEC 62196
-BACnet
 AES3
 JBIG
 E series of preferred numbers
-SAE J1939
-TTEthernet
-OpenTherm
-Cyphal
-SENT (protocol)
-OPC Unified Architecture
 Manufacturing Message Specification
-1-Wire
 C++
 IEC 62056
 Compact Disc Digital Audio
 HTML
-ISO/IEC 27000
-DirectNET Protocol
-Smart meter
 RELAX NG
 IEC 61508
-Building automation
 IEC TC 57
 FlexRay
 Graphical Kernel System
 IEC 63110
-ISO/IEC 27002
 IEC 61400
 IEC 61850
-ISO/IEC 5218
 IEC 61334
 IEC 63382
 Universal Remote Console
 IEC 60068
-ISO/IEC 7816
 MelsecNet
 MPEG-1
-XPL Protocol
 IEC 60870-5
 IEC 61360
 IEC 60034
-Avionics Full-Duplex Switched Ethernet
 ANSI escape code
-LonTalk
-ISO/IEC 24727
-SynqNet
-ISO/IEC 11801
 POSIX
-ISO/IEC 15288
 JPEG 2000
-Very Simple Control Protocol
-Vehicle bus
 Open Data Protocol
 Topic map
 IEC 61499
 SERCOS III
 OpenDocument
-List of automation protocols
-EnOcean
 Open Document Architecture
-SCADA
 IEEE 754
 IEC 62264
 MPEG-2
-X10 (industry standard)
-FOUNDATION fieldbus
-PROFIBUS
 IEC 61851
-ISO/IEC 19770
 Z-Wave
-ARINC 825
-Ethernet Global Data Protocol
 Ethernet
 IEC 61511
-ISO/IEC 38500
-ISO/IEC 29119
 Keyword Protocol 2000
 ISLISP
 IEC 62366
-RAPIEnet
 Graph Query Language
-ISO/IEC 7811

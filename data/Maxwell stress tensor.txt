@@ -20,16 +20,13 @@ Covariant formulation of classical electromagnetism
 Current density
 Cyclotron radiation
 DC motor
-David J. Griffiths
 Direct current
 Displacement current
 Divergence
 Doi (identifier)
-Dyadic product
 Eddy current
 Electret
 Electric charge
-Electric constant
 Electric current
 Electric dipole moment
 Electric field
@@ -66,7 +63,6 @@ Franz Ernst Neumann
 Félix Savart
 Gauss's law
 Gauss's law for magnetism
-Gaussian units
 Georg Ohm
 George Singer
 Gustav Kirchhoff
@@ -93,7 +89,6 @@ Joseph Henry
 Joseph Larmor
 Joule heating
 Kirchhoff's circuit laws
-Kronecker's delta
 Larmor formula
 Lenz's law
 Linear motor
@@ -103,29 +98,22 @@ Liénard–Wiechert potential
 London equations
 Lord Kelvin
 Lorentz force
-Lorentz force law
 Magnetic circuit
 Magnetic complex reluctance
-Magnetic constant
 Magnetic field
 Magnetic flux
 Magnetic moment
-Magnetic pressure
 Magnetic reluctance
 Magnetic scalar potential
-Magnetic tension
 Magnetic vector potential
 Magnetism
 Magnetization
-Magnetizing field
 Magnetomotive force
 Magnetostatics
 Mathematical descriptions of the electromagnetic field
-Matrix determinant lemma
 Maxwell's equations
 Maxwell's equations in curved spacetime
 Michael Faraday
-Momentum
 Network analysis (electrical circuits)
 Nikola Tesla
 Ohm's law
@@ -139,28 +127,19 @@ Permeance
 Permittivity
 Physics
 Polarization density
-Poynting's theorem
 Poynting vector
-Product rule
 Relativistic electromagnetism
 Resonator
-Ricci calculus
 Right-hand rule
 Rotor (electric)
 Series and parallel circuits
-Sherman–Morrison formula
 Siméon Denis Poisson
-Spacetime
 Static electricity
 Stator
-Stress–energy tensor
 Synchrotron radiation
-Tension (physics)
 Tensor
 Transformer
 Triboelectric effect
-Vector calculus
-Vector calculus identity
 Voltage
 Watt
 Waveguide (radio frequency)

@@ -1,7 +1,4 @@
-16-bit computing
-32-bit computing
 4-bit computing
-8-bit computing
 API
 Amdahl's law
 Analysis of parallel algorithms
@@ -12,10 +9,8 @@ Ateji PX
 Automatic parallelization
 Barrier (computer science)
 Beowulf cluster
-Boost (C++ libraries)
 Bulldozer (microarchitecture)
 Bus (computing)
-C++ AMP
 CUDA
 Cache-only memory architecture
 Cache coherence
@@ -32,8 +27,6 @@ Computer network
 Computer programming
 Concurrency (computer science)
 Cost efficiency
-DDR1 SDRAM
-DDR2 SDRAM
 Data parallelism
 Dataflow architecture
 Dataflow programming
@@ -93,10 +86,8 @@ Pthreads
 ROCm
 Race condition
 RaftLib
-SWAR
 Scalability
 Semiconductor memory
-Serial computer
 Shared memory
 Simultaneous and heterogeneous multithreading
 Simultaneous multithreading
@@ -119,8 +110,3 @@ Threading Building Blocks
 Unified Parallel C
 Uniform memory access
 Vector processor
-Very-large-scale integration
-Whirlwind (computer)
-Word (data type)
-X86-64
-ZPL (programming language)

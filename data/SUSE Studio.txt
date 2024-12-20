@@ -1,4 +1,3 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
 Adobe Flash
@@ -10,7 +9,6 @@ Android-x86
 Android (operating system)
 Antergos
 AntiX
-Application software
 ArchBang
 ArchLabs
 Arch Linux
@@ -56,10 +54,7 @@ Damn Vulnerable Linux
 Debian
 Deepin
 DemoLinux
-Desktop metaphor
 Devuan
-Disk image
-Disk images
 Dissolution (law)
 DivestOS
 DoudouLinux
@@ -82,7 +77,6 @@ Foresight Linux
 FreedomBox
 Freespire
 Frugalware Linux
-GNOME
 GNU Guix System
 GNewSense
 GOS (operating system)
@@ -92,18 +86,12 @@ Gentoo Linux
 GoboLinux
 Gobuntu
 Google
-Google Chrome
 GrapheneOS
 HTML
 HandyLinux
-Hyperbola GNU/Linux-libre
-Hyperlink
-ISO image
 Immunix
 IodéOS
-JeOS
 Jurix
-KDE
 KDE neon
 KaOS
 KaiOS
@@ -111,7 +99,6 @@ Kaisen Linux
 Kali Linux
 Kanotix
 KateOS
-Kernel-based Virtual Machine
 Knoppix
 Kongoni (operating system)
 Korora (operating system)
@@ -129,10 +116,8 @@ Linux Lite
 Linux Mint
 Linux Router Project
 Linux distribution
-Linux distro
 Linux for PlayStation 2
 List of Linux distributions
-Live CD
 Lubuntu
 MCC Interim Linux
 MIUI
@@ -145,7 +130,6 @@ MeeGo
 Mer (software distribution)
 Miracle Linux
 Mobilinux
-Musix GNU+Linux
 Network Security Toolkit
 NimbleX
 Nitix
@@ -154,18 +138,14 @@ Nobara Linux
 Nova (operating system)
 OmniROM
 One UI
-Online
 OpenELEC
 OpenMandriva Lx
 OpenOffice.org
 OpenSUSE
-OpenSUSE Project
-Open Build Service
 Open Enterprise Server
 Open Virtualization Format
 Oracle Linux
 PCLinuxOS
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
@@ -173,11 +153,9 @@ Pentoo
 Peppermint OS
 Pinguy OS
 PixelExperience
-Platform as a service
 Platypux
 Pop! OS
 Porteus (operating system)
-Preboot Execution Environment
 Puppy Linux
 PureOS
 Q4OS
@@ -194,9 +172,6 @@ Rocks Cluster Distribution
 Rocky Linux
 SUSE Linux
 SUSE Linux Enterprise
-SUSE S.A.
-SUSE Studio Express
-SUSE Studio ImageWriter
 Sabayon Linux
 Sabily
 Sailfish OS
@@ -205,7 +180,6 @@ Scientific Linux
 Slackware
 Slax
 Softlanding Linux System
-Software appliance
 Solus (operating system)
 SolydXK
 Source Mage
@@ -219,12 +193,10 @@ Tails (operating system)
 Think Blue Linux
 Tiny Core Linux
 Tizen
-Tool
 TopologiLinux
 Trisquel
 Turbolinux
 Turkix
-USB image
 Ubuntu
 Ubuntu Budgie
 Ubuntu Cinnamon
@@ -236,23 +208,14 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Uruk GNU/Linux
-VHD (file format)
-VMDK
 VectorLinux
 Vine Linux
-VirtualBox
-Virtual appliance
 Void Linux
 Wayback Machine
-Web application
 Whonix
 Wubuntu
 XB Machine
-Xen
 Xubuntu
-YaST
 Yellow Dog Linux
-ZYpp
 Zenwalk
 Zorin OS

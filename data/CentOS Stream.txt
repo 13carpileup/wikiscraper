@@ -1,7 +1,4 @@
-.rpm
-/e/ (operating system)
 4MLinux
-AArch64
 ALT Linux
 AlmaLinux
 Alpine Linux
@@ -20,7 +17,6 @@ Austrumi Linux
 BLAG Linux and GNU
 BackBox
 BackTrack
-Bash (Unix shell)
 Bharat Operating System Solutions
 BioSLAX
 BlackArch
@@ -48,13 +44,11 @@ CrDroid
 CrunchBang Linux
 Cub Linux
 CyanogenMod
-DNF (software)
 Damn Small Linux
 Damn Vulnerable Linux
 Debian
 Deepin
 DemoLinux
-Desktop computer
 Devuan
 DivestOS
 DoudouLinux
@@ -78,9 +72,6 @@ Foresight Linux
 FreedomBox
 Freespire
 Frugalware Linux
-GNOME
-GNOME Shell
-GNU GPL
 GNU Guix System
 GNewSense
 GOS (operating system)
@@ -91,8 +82,6 @@ GoboLinux
 Gobuntu
 GrapheneOS
 HandyLinux
-Hyperbola GNU/Linux-libre
-IBM Z
 Immunix
 IodéOS
 Jurix
@@ -138,7 +127,6 @@ Meta Platforms
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Musix GNU+Linux
 Network Security Toolkit
 NimbleX
 Nitix
@@ -154,21 +142,17 @@ OpenSUSE
 Open Enterprise Server
 Oracle Linux
 PCLinuxOS
-PackageKit
 Package manager
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
 Pentoo
 Peppermint OS
-Phoronix
 Pinguy OS
 PixelExperience
 Platypux
 Pop! OS
 Porteus (operating system)
-Ppc64le
 Programmer
 Puppy Linux
 PureOS
@@ -180,10 +164,8 @@ Red Hat
 Red Hat Enterprise Linux
 Red Hat Linux
 Red Star OS
-Release Candidate
 Remix OS
 Replicant (operating system)
-Repository (version control)
 Resurrection Remix OS
 Rocks Cluster Distribution
 Rocky Linux
@@ -208,7 +190,6 @@ SparkyLinux
 Splashtop OS
 SteamOS
 Sunwah Linux
-Supercomputer
 SystemRescue
 T2 SDE
 Tails (operating system)
@@ -220,7 +201,6 @@ Trisquel
 Turbolinux
 Turkix
 Twitter
-USENIX
 Ubuntu
 Ubuntu Budgie
 Ubuntu Cinnamon
@@ -232,18 +212,12 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 User interface
 VectorLinux
-Verizon
 Vine Linux
 Void Linux
-WhatsApp
 Whonix
-Workstation
 Wubuntu
-X86-64
 XB Machine
 Xubuntu
 Yellow Dog Linux

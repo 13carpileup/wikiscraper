@@ -9,16 +9,13 @@ Automatic parallelization
 Barrier (computer science)
 Beowulf cluster
 Bit-level parallelism
-Boost (C++ libraries)
 Bulldozer (microarchitecture)
-C++ AMP
 CUDA
 Cache coherence
 Cache invalidation
 Chapel (programming language)
 Charm++
 Cilk
-CiteSeerX (identifier)
 Cloud computing
 Coarray Fortran
 Computer cluster
@@ -29,7 +26,6 @@ Computer network
 Computer programming
 Concurrency (computer science)
 Cost efficiency
-DRAM
 Data parallelism
 Dataflow architecture
 Dataflow programming
@@ -58,7 +54,6 @@ Implicit parallelism
 Instruction-level parallelism
 Instruction pipelining
 Instruction window
-International Symposium on Computer Architecture
 Karp–Flatt metric
 Loop-level parallelism
 Manycore processor
@@ -69,9 +64,7 @@ Message Passing Interface
 Multiple instruction, multiple data
 Multiple instruction, single data
 Multiprocessing
-Multiprocessor
 Multithreading (computer architecture)
-Non-Uniform Memory Access
 Non-blocking algorithm
 Non-uniform memory access
 OpenACC
@@ -117,4 +110,3 @@ Threading Building Blocks
 Unified Parallel C
 Uniform memory access
 Vector processor
-ZPL (programming language)

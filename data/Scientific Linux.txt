@@ -1,4 +1,3 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
 AlmaLinux
@@ -12,14 +11,12 @@ ArchLabs
 Arch Linux
 Artix Linux
 Asahi Linux
-Asianux
 Astra Linux
 Asturix
 Austrumi Linux
 BLAG Linux and GNU
 BackBox
 BackTrack
-Berry Linux
 Bharat Operating System Solutions
 BioSLAX
 BlackArch
@@ -27,7 +24,6 @@ Black Lab Linux
 BlankOn Linux
 Bluetooth
 Bodhi Linux
-CERN
 CHAOS (operating system)
 CRUX
 Calculate Linux
@@ -41,32 +37,25 @@ ChromeOS
 ChromiumOS
 ClearOS
 Clear Linux OS
-Cluster (computing)
-Codec
 ColorOS
 Commodore OS
 Comparison of Linux distributions
-Compiz
 Container Linux
 Corel Linux
 CrDroid
 CrunchBang Linux
 Cub Linux
 CyanogenMod
-DESY
 Damn Small Linux
 Damn Vulnerable Linux
 Debian
 Deepin
 DemoLinux
-Desktop computer
 Devuan
-DistroWatch
 DivestOS
 DoudouLinux
 Dreamlinux
 EMUI
-ETH Zurich
 Edubuntu
 Elementary OS
 Elive
@@ -77,19 +66,13 @@ EulerOS
 Familiar Linux
 Feather Linux
 Fedora Linux
-Fermi Linux
-Fermilab
 Fire OS
 Firefox OS
 Floppyfw
 Foresight Linux
-Free and open-source software
 FreedomBox
 Freespire
 Frugalware Linux
-Fuduntu
-GNOME
-GNU GPL
 GNU Guix System
 GNewSense
 GOS (operating system)
@@ -101,11 +84,7 @@ Gobuntu
 GrapheneOS
 HandyLinux
 High-performance computing
-High Performance Computing
-Hyperbola GNU/Linux-libre
-I386
 Immunix
-Inspur K-UX
 IodéOS
 Jurix
 KDE neon
@@ -118,7 +97,6 @@ KateOS
 Kernel (operating system)
 Knoppix
 Kongoni (operating system)
-Koozali SME Server
 Korora (operating system)
 Kubuntu
 Kwort Linux
@@ -137,7 +115,6 @@ Linux distribution
 Linux for PlayStation 2
 Linux kernel
 List of Linux distributions
-Long-term support
 Lubuntu
 MCC Interim Linux
 MIUI
@@ -151,7 +128,6 @@ Mer (software distribution)
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Musix GNU+Linux
 Network Security Toolkit
 NimbleX
 Nitix
@@ -168,9 +144,7 @@ Open Enterprise Server
 Operating system
 Oracle Linux
 PCLinuxOS
-PackageKit
 Package manager
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
@@ -178,21 +152,16 @@ Pentoo
 Peppermint OS
 Pinguy OS
 PixelExperience
-Planet CCRMA
 Platypux
 Pop! OS
 Porteus (operating system)
-Poseidon Linux
 Programmer
 Puppy Linux
 PureOS
 Q4OS
 Qubes OS
 ROSA Linux
-RPM Package Manager
 Raspberry Pi OS
-RedSleeve
-Red Flag Linux
 Red Hat
 Red Hat Enterprise Linux
 Red Hat Linux
@@ -209,7 +178,6 @@ Sabayon Linux
 Sabily
 Sailfish OS
 Salix OS
-Samba (software)
 Server (computing)
 Slackware
 Slax
@@ -245,8 +213,6 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 User interface
 VectorLinux
 Vine Linux
@@ -255,10 +221,8 @@ Whonix
 Wireless network
 Wubuntu
 X86
-X86-64
 XB Machine
 Xubuntu
 Yellow Dog Linux
-Yellow dog Updater, Modified
 Zenwalk
 Zorin OS

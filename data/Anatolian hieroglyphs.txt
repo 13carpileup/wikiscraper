@@ -1,5 +1,4 @@
 1829 braille
-A. H. Sayce
 ASLwrite
 Abjad
 Abjad numerals
@@ -9,20 +8,15 @@ Adinkra symbols
 Adlam script
 Afaka syllabary
 Ahom script
-Akkadian cuneiform
 Albanian Braille
 Algerian Braille
 Alphabet
-Alphabets of Anatolia
-Alphabets of Asia Minor
 American Braille
 American Printing House for the Blind
 Anatolia
-Anatolian Hieroglyphs (Unicode block)
 Ancient North Arabian
 Ancient South Arabian script
 Anglo-Saxon runes
-Anna Morpurgo Davies
 Arabic Braille
 Arabic script
 Aramaic alphabet
@@ -30,20 +24,15 @@ Archaic Greek alphabets
 Ariyaka script
 Armenian Braille
 Armenian alphabet
-Asomtavruli
-Assyrian cuneiform
 Attic numerals
 Avestan alphabet
 Avoiuli
-Azeri Braille
 Aztec script
 Bagam script
 Balinese script
 Bamum script
-Bassa Vah script
 Batak script
 Baybayin
-Bedřich Hrozný
 Belarusian Braille
 Beneventan script
 Bengali Braille
@@ -57,14 +46,9 @@ Bird-worm seal script
 Blackfoot language
 Blackletter
 Blissymbols
-Bonus2.vir2
-Book Pahlavi
 Bopomofo
 Bosnian Cyrillic
-Boustrophedon
-Bowen script
 Boyd's syllabic shorthand
-Boğazkale
 Brahmi script
 Brahmic scripts
 Braigo
@@ -110,11 +94,8 @@ Clear Script
 Coelbren y Beirdd
 Computer Braille Code
 Coorgi–Cox alphabet
-Coptic alphabet
 Cretan hieroglyphs
 Cuneiform
-Cuneiform Luwian
-Cuneiform transliteration
 Cursive Hebrew
 Cypriot syllabary
 Cypro-Minoan syllabary
@@ -125,7 +106,6 @@ Dalecarlian runes
 Decapoint
 Demotic (Egyptian)
 Deseret alphabet
-Determinative
 Devanagari
 Devanagari Braille
 Dham script
@@ -142,12 +122,9 @@ Early Cyrillic alphabet
 Eclectic shorthand
 Egyptian hieroglyphs
 Elamite cuneiform
-Elbasan script
 Elder Futhark
 Elifba alphabet
 Elymaic
-Emil Forrer
-Emmanuel Laroche
 Emoji
 English Braille
 Enochian
@@ -157,8 +134,6 @@ Espanca script
 Esperanto Braille
 Estonian Braille
 Etruscan alphabet
-Evenki alphabet
-Eveyla Akuru
 Fakkham script
 Faroese Braille
 Flag semaphore
@@ -167,12 +142,10 @@ Fraktur
 Fraser script
 French Braille
 Gabelsberger shorthand
-Gadabuursi Somali script
 Gaelic type
 Galik alphabet
 Garay alphabet
 Gardner–Salinas braille codes
-Ge'ez Braille
 Geba syllabary
 George Psalmanazar
 Georgian Braille
@@ -182,7 +155,6 @@ Germany
 Geʽez script
 Ghanaian braille
 Glagolitic script
-Golmol script
 Gondi writing
 Gothic alphabet
 Gothic runic inscriptions
@@ -205,24 +177,18 @@ Hangul
 Hanifi Rohingya script
 Hanja
 Hanunoo script
-Harrassowitz Verlag
 Harris Mowbray
-Hatran alphabet
 Hawaiian Braille
 Hebrew Braille
 Hebrew alphabet
 Hentaigana
 Hieratic
-Hieroglyphic Luwian
-Himmol script
 Hindu–Arabic numeral system
 Hiragana
 History of writing
 History of writing in Vietnam
 Hittite cuneiform
-Hittite language
 Hungarian Braille
-Hurrian language
 IPA Braille
 ISBN (identifier)
 ISO 15924
@@ -231,17 +197,14 @@ Icelandic Braille
 Ideogram
 Idu script
 Ignace Gelb
-Incung script
 Inscriptional Pahlavi
 Inscriptional Parthian
 Insular script
-Interlac
 International Phonetic Alphabet
 International maritime signal flags
 International uniformity of braille alphabets
 Inuktitut Braille
 Irish Braille
-Iron Age
 Isotype (picture language)
 Isthmian script
 Italian Braille
@@ -251,10 +214,8 @@ Japan Braille Library
 Japanese Braille
 Javanese script
 Jindai moji
-Johann Ludwig Burckhardt
 Jurchen script
 Kadamba script
-Kaddare script
 Kaidā glyphs
 Kaithi
 Kalinga script
@@ -278,47 +239,37 @@ Khom Thai script
 Khom script (Ong Kommadam)
 Khudabadi script
 Klingon scripts
-Kolezhuthu
 Korean Braille
 Kpelle syllabary
 Ktav Ashuri
 Kulitan
-Kummol script
 Kurdish alphabets
 Kurrent
 Kurukh language
-Kvemmol script
 Kyrgyz Braille
 Lai Tay script
-Lampung script
 Langdi
 Lao script
 Large seal script
-Late Bronze Age
-Late Bronze Age Troy
 Latin script
 Latvian Braille
 Laṇḍā scripts
 Leke script
-Lembak script
 Lepcha script
 Limbu script
 Linear B
 Linear Elamite
 List of constructed scripts
 List of creators of writing systems
-List of languages by first written accounts
 List of writing systems
 Lisu language
 Lithuanian Braille
 Logogram
-Logographic
 Loma language
 Lontara Bilang-bilang script
 Lontara script
 Louis Braille
 Luo script
-Luwian language
 Luxembourgish Braille
 Lycian alphabet
 Lydian alphabet
@@ -335,9 +286,7 @@ Manchu alphabet
 Mandaic alphabet
 Mandombe script
 Manichaean script
-Marash
 Marchen script
-Marcomannic runes
 Maya script
 Medefaidrin
 Medieval runes
@@ -345,12 +294,8 @@ Meitei script
 Mende Kikakui script
 Meroitic script
 Merovingian script
-Mira (kingdom)
 Mixtec writing
-Miꞌkmaw hieroglyphic writing
-Mkhedruli
 Modi script
-Molodtsov alphabet
 Mongolian Braille
 Mongolian script
 Mon–Burmese script
@@ -365,12 +310,10 @@ Māori Braille
 N'Ko script
 Nabataean script
 Nandinagari
-Naples
 National Braille Association
 Navajo Braille
 Nemeth Braille
 Nepalese scripts
-New Epoch Notation Painting
 New Tai Lue alphabet
 New York Point
 Nigerian braille
@@ -378,13 +321,11 @@ Night writing
 Northeastern Iberian script
 Northern Sámi Braille
 Nsibidi
-Nuskhuri
 Nwagu Aneke script
 Nüshu
 Nāgarī script
 Odia Braille
 Odia script
-Ogan script
 Ogham
 Ojibwe writing systems
 Ol Chiki script
@@ -400,13 +341,10 @@ Olmec hieroglyphs
 Optical braille recognition
 Oracle bone script
 Osage script
-Osmanya script
-Pachumol script
 Pahawh Hmong
 Pahlavi scripts
 Paleo-Hebrew alphabet
 Pallava script
-Pasemah script
 Pau Cin Hau script
 Pazend
 Pegon script
@@ -415,7 +353,6 @@ Perkins Brailler
 Persian Braille
 Philippine Braille
 Phoenician alphabet
-Phonetic complement
 Phonetic transcription
 Phrygian alphabet
 Pisidian language
@@ -425,22 +362,17 @@ Pollard script
 Portuguese Braille
 Pracalit script
 Proto-Elamite script
-Proto-Indo-European
 Proto-Sinaitic script
 Psalter Pahlavi
-Punic alphabet
 Punjabi Braille
 Pyu script
 Qiang language
 Ranjana script
 Rashi script
 Refreshable braille display
-Rejang script
-Richard Francis Burton
 RoboBraille
 Roman numerals
 Romanian Braille
-Runes
 Russian Braille
 Róża Czacka
 S'gaw Karen alphabet
@@ -453,10 +385,7 @@ Saurashtra script
 Sawndip
 Scandinavian Braille
 Scribal abbreviation
-Seal (device)
 Seal script
-Semi-syllabaries
-Serawai script
 Shan alphabet
 Sharada script
 Shavian alphabet
@@ -490,8 +419,6 @@ Sunuwar alphabet
 Sunwar language
 Sylheti Nagri
 Syllabary
-Syllabogram
-Syllabograms
 Syria
 Syriac alphabet
 Sütterlin

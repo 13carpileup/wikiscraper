@@ -4,7 +4,6 @@ Aleph number
 Algebra
 Algebraic logic
 Alphabet (formal languages)
-Apply
 Argument
 Arity
 Atomic formula
@@ -15,10 +14,8 @@ Axiom
 Axiom of choice
 Axiom schema
 Axiomatic system
-Axiomatization of Boolean algebras
 Banach–Tarski paradox
 Bijection
-Bijection, injection and surjection
 Binary operation
 Boolean algebra
 Boolean algebras canonically defined
@@ -40,7 +37,6 @@ Codomain
 Compactness theorem
 Complement (set theory)
 Complete theory
-Complex numbers
 Computability theory
 Computable function
 Computable set
@@ -51,14 +47,11 @@ Consistency
 Constructible universe
 Construction of the real numbers
 Constructive set theory
-Continuous function
 Continuum hypothesis
 Countable set
 Decidability (logic)
 Decision problem
-Deductive system
 Diagram (mathematical logic)
-Discrete-time dynamical system
 Domain of a function
 Dynamical system
 Element (mathematics)
@@ -86,7 +79,6 @@ Forcing (mathematics)
 Formal grammar
 Formal language
 Formal proof
-Formal semantics (logic)
 Formal system
 Formation rule
 Foundations of geometry
@@ -101,7 +93,6 @@ Geometry
 Graph theory
 Grothendieck universe
 Ground expression
-Ground formula
 Group representation
 Group theory
 Gödel's completeness theorem
@@ -113,8 +104,6 @@ Higher-order logic
 Hilbert's axioms
 Hilbert system
 History of logic
-History of mathematical logic
-Homeomorphism
 Homomorphism
 ISBN (identifier)
 Image (mathematics)
@@ -128,24 +117,17 @@ Inhabited set
 Injective function
 Interpretation (logic)
 Interpretation (model theory)
-Interpretation function
 Intersection (set theory)
-Isometries
 Isomorphism
 Kolmogorov complexity
-Kripke's theory of truth
 Kripke–Platek set theory
 Lambda calculus
 Large cardinal
 Lemma (mathematics)
 Lindström's theorem
 Linear algebra
-Linear function
 Linear map
-Linear polynomial
-List of Hilbert systems
 List of axioms
-List of chaotic maps
 List of first-order theories
 List of formal systems
 List of mathematical theories
@@ -165,8 +147,6 @@ Logicism
 Löwenheim–Skolem theorem
 Many-valued logic
 Map
-Maplet arrow
-Mapping class group
 Material conditional
 Mathematical analysis
 Mathematical logic
@@ -178,7 +158,6 @@ Model complete theory
 Model theory
 Monadic predicate calculus
 Monadic second-order logic
-Morphism
 Morse–Kelley set theory
 NP (complexity)
 Naive set theory
@@ -191,21 +170,16 @@ Non-standard model
 Non-standard model of arithmetic
 Open formula
 Operation (mathematics)
-Operator (mathematics)
 Ordinal analysis
 Ordinal number
 P (complexity)
 P versus NP problem
 Paradoxes of set theory
-Partial function
 Partition of a set
-Paul Halmos
 Peano axioms
-Permutation group
 Philosophy of mathematics
 Power set
 Predicate (mathematical logic)
-Predicate logic
 Predicate variable
 Primitive recursive arithmetic
 Primitive recursive function
@@ -218,10 +192,7 @@ Propositional formula
 Propositional variable
 Quantifier (logic)
 Quantifier rank
-Real numbers
 Recursion
-Recursive set
-Regular map (algebraic geometry)
 Relation (mathematics)
 Reverse mathematics
 Robinson arithmetic
@@ -237,7 +208,6 @@ Semantic theory of truth
 Semantics of logic
 Sentence (mathematical logic)
 Sequent calculus
-Serge Lang
 Set (mathematics)
 Set theory
 Signature (logic)
@@ -248,7 +218,6 @@ Spectrum of a sentence
 Spectrum of a theory
 Square of opposition
 Strength (mathematical logic)
-String (formal languages)
 Structure (mathematical logic)
 Substitution (logic)
 Substructure (mathematics)
@@ -260,21 +229,17 @@ Syntax (logic)
 T-schema
 Tarski's axiomatization of the reals
 Tarski's axioms
-Tarski's theory of truth
 Tarski's undefinability theorem
 Tarski–Grothendieck set theory
 Tautology (logic)
 Term (logic)
 Term logic
 Theorem
-Theories of truth
 Theory (mathematical logic)
 Three-valued logic
 Timeline of mathematical logic
-Tom M. Apostol
 Topology
 Transfer principle
-Transformation (function)
 Transitive set
 True arithmetic
 Truth predicate
@@ -283,7 +248,6 @@ Truth value
 Turing machine
 Type (model theory)
 Type theory
-Ultrafilter (set theory)
 Ultraproduct
 Uncountable set
 Undecidable problem

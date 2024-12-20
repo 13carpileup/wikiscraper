@@ -1,38 +1,24 @@
-1,9-Pyrazoloanthrone
 AB5 toxin
 AB toxin
 Abrin
 Actinomycetota
-Acute toxicity
 Adenoma
 Aflatoxin
 Agitoxin
 Allopumiliotoxin 267A
-Alpha-Amanitin
-Alpha-Bungarotoxin
-Alpha-Latrotoxin
 Amatoxin
 Amphibian
 Amygdalin
 Androctonus australis hector insect toxin
-Aneuploidy
 Anisatin
 Anthrax toxin
 Antiarin
-Aqueous solution
 Arenobufagin
-Aspergillus
-Aspergillus oryzae
 Bacilli
 Batrachotoxin
-Bcl-2
-Bcl-2-associated X protein
 Bestoxin
-Beta-Amanitin
-Beta-Bungarotoxin
 Beta-Nitropropionic acid
 Bibcode (identifier)
-Biosynthesis
 Birtoxin
 BmKAEP
 Botulinum toxin
@@ -41,7 +27,6 @@ Bufotalin
 Bufotenin
 Bufotoxin
 Bungarotoxin
-C-Jun N-terminal kinases
 CAS Registry Number
 CSTX
 Calcicludine
@@ -49,59 +34,41 @@ Calciseptine
 Carcinogen
 Cardiotoxicity
 Cardiotoxin III
-Caspase
-Caspase 3
-ChEMBL
 Chaconine
 Charybdotoxin
 ChemSpider
-Chemical decomposition
 Chemical formula
 Cholera toxin
-Chromosome abnormality
 Cicutoxin
 Ciguatoxin
 Cinobufagin
-Citrinin (data page)
 Clostridium
 Clostridium botulinum
-Clostridium difficile (bacteria)
-Clostridium difficile toxin A
-Clostridium difficile toxin B
 Clostridium enterotoxin
 Clostridium perfringens
 Clostridium perfringens alpha toxin
 Clostridium tetani
 Clumping factor A
-Coccus
 CompTox Chemicals Dashboard
 Coniine
 Conotoxin
 Cord factor
 Cry1Ac
 Cry34Ab1
-Cry3Bb1
 Cry6Aa
 Cupiennin
 Cytochalasin
-Cytochrome c
 Cytotoxicity
-Danubian endemic familial nephropathy
 Daphnin
-Dehydrogenase
 Delphinine
-Delta endotoxin
 Diphtheria toxin
 Divicine
 Djenkolic acid
 Doi (identifier)
-ECHA InfoCard
 Eledoisin
-Endotoxin
 Enterotoxin
 Enterotoxin type B
 Epibatidine
-Epsilon-Amanitin
 Ergotamine
 Exfoliatin
 Exotoxin
@@ -110,179 +77,28 @@ Falcarinol
 Fibronectin binding protein A
 Fish
 Food and Agriculture Organization
-Frontiers Media
-Frontiers in Microbiology
 Fumonisin
 Fumonisin B1
 Fumonisin B2
 Fumonisin B4
-GHS hazard pictograms
-GHS hazard statements
-GHS precautionary statements
-Gamma-Amanitin
-Gene cluster
 Genotoxicity
 Gliotoxin
-Globally Harmonized System of Classification and Labelling of Chemicals
 Gossypol
 Gram-negative bacteria
 Gram-positive bacteria
-HL60
 Hdl (identifier)
-Heat-labile enterotoxin
 Heat-stable enterotoxin
 Hefutoxin
-Helenalin
-Hemotoxin
-Hepatocyte
 Hepatotoxicity
-Hepatotoxin
-HgeTx1
-Histrionicotoxin
-HsTx1
-Huwentoxin
-Hyoscine hydrobromide
-IL1B
 ISBN (identifier)
 ISSN (identifier)
-Ibotenic acid
-Imperatoxin
-Interferon-gamma
-Interleukin 6
-Interleukin 8
-International Chemical Identifier
-International Union of Pure and Applied Chemistry
-Intraperitoneal injection
 Intravenous therapy
 Invertebrate
-JSmol
-KEGG
-Kaliotoxin
-Latrotoxin
-Ledol
-Leukocidin
-Linamarin
-Lipid A
-Lipopolysaccharide
-Listeriolysin O
-Lolitrem B
-Lotaustralin
-Lq2
-Margatoxin
-Marinobufagenin
-Maurotoxin
-Median lethal dose
 Melting point
-Microbial toxin
-Micronucleus
-Mimosine
 Molar mass
-Mollusca
-Monascus
-Muscimol
-Mutagen
-Mycotoxin
-NF-κB
-Nature Portfolio
-Nature Reviews Drug Discovery
-Nephrotoxicity
-Neurotoxin
-Nitric oxide
-Nitric oxide synthase
-Nuclear magnetic resonance
-ORCID
-Ochratoxin
-Ochratoxin A
-Oenanthotoxin
-Oleandrin
-Onchidal
-Orellanine
-Oxidoreductase
-Oxygenase
-PAK2
 PMC (identifier)
 PMID (identifier)
-Pandinus imperator (Pi3) toxin
-Panton–Valentine leukocidin
-Patulin
-Penicillium
-Persin
-Pertussis toxin
-Phaiodotoxin
-Phalloidin
-Phoneutria nigriventer toxin-3
-Phototoxin
 Plant
-Polyketide
-Pore-forming toxin
-Preferred IUPAC name
-Protoanemonin
-Pseudaconitine
-Pseudomonas exotoxin
-PubChem
-Pumiliotoxin 251D
-Reactive oxygen species
-Reptile
-Resiniferatoxin
-Retronecine
-Ricin
 S2CID (identifier)
-STAT protein
-Safety data sheet
-Samandaridine
-Samandarin
-Saxitoxin
-Scorpion
-Scyllatoxin
-Serine hydrolase
-Shiga toxin
-Simplified molecular-input line-entry system
-Single strand break
-Sister chromatid exchange
-Slotoxin
-Snake venom
-Solamargine
-Solanidine
-Solanine
-Solasodamine
-Solasodine
-Solasonine
-Solauricidine
-Solauricine
 Spider
 Standard state
-Staphylococcus
-Staphylococcus aureus alpha toxin
-Staphylococcus aureus beta toxin
-Staphylococcus aureus delta toxin
-Sterigmatocystin
-Streptolysin
-Stromatoxin
-Strychnine
-Subcutaneous injection
-Superantigen
-Swainsonine
-TGF beta 1
-Tagetitoxin
-Taicatoxin
-Tetanolysin
-Tetanospasmin
-Tetrodotoxin
-Tinyatoxin
-Tomatine
-Toxalbumin
-Toxic shock syndrome toxin
-Toxin
-Transformation (genetics)
-Trichothecene
-Tumor necrosis factor alpha
-Tutin (toxin)
-Unique Ingredient Identifier
-Vanillotoxin
-Vertebrate
-Virulence factor
-Vomitoxin
-World Health Organization
-Zearalenone
-Zeranol
-Zetekitoxin AB

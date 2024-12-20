@@ -1,169 +1,68 @@
-Abraham Fraenkel
-Akihiro Kanamori
-Almost
-Alternative set theory
-Amorphous set
-Antichain
-Antisymmetric relation
 ArXiv (identifier)
-Atom (order theory)
 Axiom
-Axiom of adjunction
 Axiom of choice
-Axiom of constructibility
-Axiom of countable choice
-Axiom of dependent choice
-Axiom of determinacy
-Axiom of extensionality
-Axiom of global choice
-Axiom of infinity
-Axiom of limitation of size
-Axiom of pairing
-Axiom of power set
-Axiom of projective determinacy
-Axiom of regularity
-Axiom of replacement
-Axiom of union
 Axiom schema
-Axiom schema of replacement
-Axiom schema of specification
 Bertrand Russell
 Bibcode (identifier)
 Bijection
-Boolean-valued model
 Boolean algebra (structure)
-Borel subset
-Burali-Forti paradox
 Cantor's diagonal argument
 Cantor's theorem
-Cardinal number
 Cardinality
 Cartesian product
 Class (set theory)
-Closure (topology)
 Compactness theorem
 Complement (set theory)
 Computable set
 Consistency
-Consistency proof
 Constructible universe
 Continuum hypothesis
-Countability
-Countable chain condition
 Countable set
-Dana Scott
 De Morgan's laws
-Dedekind-infinite set
-Dedekind cut
 Descriptive set theory
-Directed set
-Disjoint union
 Doi (identifier)
-Easton's theorem
 Element (mathematics)
-Elsevier
 Empty set
 Encyclopedia of Mathematics
-Epsilon-induction
 Eric W. Weisstein
-Ernst Zermelo
 European Mathematical Society
-Family of sets
-Filter (mathematics)
-Filter (set theory)
 Finite set
 First-order logic
-First uncountable ordinal
-Forcing (computability)
 Fuzzy set
 General set theory
-Generic filter
-Georg Cantor
-Gödel's second incompleteness theorem
-Hereditarily finite set
 ISBN (identifier)
 If and only if
 Independence (mathematical logic)
 Infinite set
 Intersection (set theory)
-John von Neumann
-Kenny Easwaran
 Kripke–Platek set theory
-Kurt Gödel
-König's theorem (set theory)
 Large cardinal
-Lebesgue measure
-Limit ordinal
-List of forcing notions
 List of set identities and relations
 Löwenheim–Skolem theorem
-MR (identifier)
-Martin's axiom
 MathWorld
 Mathematical logic
-Measurable function
 Model theory
 Morse–Kelley set theory
-Mostowski collapse lemma
 Naive set theory
 New Foundations
-Nice name
-Order type
-Ordered pair
 Ordinal number
 Oxford University Press
-PCF theory
 PMC (identifier)
 PMID (identifier)
 Paradoxes of set theory
-Partial order
-Paul Bernays
-Paul Cohen
-Paul Cohen (mathematician)
-Pi
-Poset
 Power set
-Preorder
 Principia Mathematica
-Proceedings of the National Academy of Sciences of the United States of America
-Ramified forcing
-Random algebra
-Rank (set theory)
-Rasiowa–Sikorski lemma
-Recursion theory
-Reflection principle
-Regular cardinal
 Relation (mathematics)
-Richard Dedekind
-Robert M. Solovay
 Russell's paradox
-Saharon Shelah
 Sentence (mathematical logic)
-Set-builder notation
 Set (mathematics)
 Set theory
-Simple field extension
 Singleton (mathematics)
-Skolem's paradox
 Springer Science+Business Media
-Standard model (set theory)
-Strong antichain
 Structure (mathematical logic)
-Subset
-Successor ordinal
-Suslin's problem
-Symmetric difference
 Tarski–Grothendieck set theory
-Thomas Jech
-Thoralf Skolem
-Timothy Chow
-Transfinite induction
-Transfinite recursion
 Transitive set
 Truth value
-Tuple
-Ultrafilter
-Ultrafilter on a set
 Uncountable set
 Union (set theory)
 Universal set
@@ -171,9 +70,5 @@ Universe (mathematics)
 Venn diagram
 Von Neumann universe
 Von Neumann–Bernays–Gödel set theory
-Well-ordering
-Willard Van Orman Quine
-William Bigelow Easton
 Zermelo set theory
 Zermelo–Fraenkel set theory
-Zorn's lemma

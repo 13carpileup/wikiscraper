@@ -1,22 +1,15 @@
 ACM Computing Classification System
 ASCII
-ASN.1
-Abstraction layer
-Address Resolution Protocol
 Algorithm
 Algorithm design
 Algorithmic efficiency
 Analysis of algorithms
 AppleTalk
-Application layer
 Application security
 Artificial intelligence
-Asynchronous Transfer Mode
-Authentication server
 Automata theory
 Automated planning and scheduling
 Bluetooth
-Border Gateway Protocol
 Client (computing)
 Client–server model
 Communication protocol
@@ -39,7 +32,6 @@ Computer data storage
 Computer graphics
 Computer hardware
 Computer network
-Computer network programming
 Computer science
 Computer security
 Computer vision
@@ -52,31 +44,20 @@ Control variable (programming)
 Cross-validation (statistics)
 Cryptography
 Cyberwarfare
-DHCPv6
-DNS hosting service
-Data link layer
 Data mining
 Database
-Datagram Congestion Control Protocol
 Decision support system
 Dependability
 Digital art
 Digital library
 Digital marketing
-Digital subscriber line
-Directory services
 Discrete mathematics
 Distributed artificial intelligence
 Distributed computing
-Distributed file system
 Document management system
 Domain-specific language
 Domain Name System
-Dynamic Host Configuration Protocol
-E-Mail
 E-commerce
-E-mail
-E-mail hosting service
 Educational technology
 Electronic design automation
 Electronic publishing
@@ -84,45 +65,17 @@ Electronic voting
 Embedded system
 Enterprise information system
 Enterprise software
-Explicit Congestion Notification
-External Data Representation
-File Transfer Protocol
-File server
-File sharing
 Form factor (design)
 Formal language
 Formal methods
-Frame Relay
-G.hn
-Generic Framing Procedure
 Geographic information system
-Gopher (protocol)
 Graphics processing unit
 Green computing
-HTTP
-HTTP/3
-HTTPS
 Hardware acceleration
 Hardware security
 Health informatics
-High-Level Data Link Control
 Human–computer interaction
-Hypertext Transfer Protocol
-I.430
-I.431
-ICMPv6
-IEEE 1394
-IEEE 802.11
-IEEE 802.15
-IEEE 802.16
-IEEE 802.2
 IEEE 802.3
-IPX/SPX
-IP network
-IPsec
-IPv4
-IPv6
-IRC
 IS-IS
 Image compression
 Information retrieval
@@ -133,36 +86,18 @@ Instant messaging
 Integrated circuit
 Integrated development environment
 Interaction design
-Internet Control Message Protocol
-Internet Group Management Protocol
-Internet Message Access Protocol
-Internet Protocol
-Internet hosting service
-Internet layer
-Internet protocol suite
-Internetwork Packet Exchange
 Interpreter (computing)
 Intrusion detection system
 Knowledge representation and reasoning
-LAPB
-Layer 2 Tunneling Protocol
 Library (computing)
 Lightweight Directory Access Protocol
-Link Access Procedure for Frame Relay
-Link layer
-List of ITU-T V-series recommendations
 List of computer size categories
 Local area network
 Logic in computer science
-Logical link control
-MIME
-MQTT
 Machine learning
 Mathematical analysis
 Mathematical optimization
 Mathematical software
-Media Gateway Control Protocol
-Medium access control
 Middleware
 Mixed reality
 Model of computation
@@ -171,50 +106,24 @@ Multi-task learning
 Multimedia database
 Multiprocessing
 Multithreading (computer architecture)
-NETCONF
-Named pipe
 Natural language processing
-Neighbor Discovery Protocol
-NetBIOS
-Network File System
-Network News Transfer Protocol
-Network Time Protocol
 Network architecture
-Network congestion
-Network layer
 Network performance
 Network protocol
 Network scheduler
 Network security
-Network service provider
 Networking hardware
 Numerical analysis
-OSI model
 Online game
 Open-source software
-Open Network Computing Remote Procedure Call
-Open Shortest Path First
 Operating system
 Operations research
-Optical Transport Network
 Outline of computer science
-Packet Layer Protocol
-Parallel Line Internet Protocol
 Parallel computing
-Passive optical network
 Peer-to-peer
 Peripheral
 Philosophy of artificial intelligence
 Photograph manipulation
-Physical layer
-Plesiochronous digital hierarchy
-Point-to-Point Protocol
-Point-to-Point Tunneling Protocol
-Post Office Protocol
-Precision Time Protocol
-Presentation layer
-Pretty Good Privacy
-Print server
 Printed circuit board
 Printing
 Probability
@@ -225,34 +134,17 @@ Programming language theory
 Programming paradigm
 Programming team
 Programming tool
-QUIC
 Quantum Computing
 RS-232
-RS-449
 Randomized algorithm
-Real-time Transport Protocol
 Real-time computing
-Real Time Streaming Protocol
 Reinforcement learning
 Rendering (computer graphics)
 Requirements analysis
-Resource Reservation Protocol
-Routing Information Protocol
-SDxCentral
-SOCKS
-Secure Shell
 Security hacker
 Security service (telecommunication)
 Semantics (computer science)
-Serial Line Internet Protocol
 Server (computing)
-Session Announcement Protocol
-Session Initiation Protocol
-Session layer
-Short Message Peer-to-Peer
-Simple Mail Transfer Protocol
-Simple Network Management Protocol
-Simple Sensor Interface protocol
 Social computing
 Social software
 Software configuration management
@@ -269,36 +161,19 @@ Software repository
 Solid modeling
 Statistics
 Stochastic computing
-Stream Control Transmission Protocol
 Supervised learning
-Synchronous Data Link Control
-Synchronous optical networking
 System on a chip
-Telnet
 Theoretical computer science
 Theory of computation
-Time server
-Transmission Control Protocol
 Transport Layer Security
-Transport layer
-Tunneling protocol
 USB
 Ubiquitous computing
 Unsupervised learning
-User Datagram Protocol
 User interface
 Very Large Scale Integration
 Video game
-Video on demand
-Video telephony
 Virtual machine
 Virtual reality
 Visualization (graphics)
-Voice over IP
-Web hosting service
-Well-known port number
-Wireless sensor network
 Word processor
 World Wide Web
-X.25
-XMPP

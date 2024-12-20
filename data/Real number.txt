@@ -1,404 +1,115 @@
-0.999...
-Abraham Robinson
-Absolute difference
 Absolute value
-Abuse of notation
-Abū Kāmil Shujā ibn Aslam
 Accuracy and precision
 Addition
-Additive identity
-Additive inverse
-Adolf Hurwitz
-Adrien-Marie Legendre
-Affinely extended real number system
 Aleph number
-Alfred Tarski
-Algebra of physical space
-Algebraic number
 Algebraically closed field
 Algorithm
-Algorithmically random sequence
-Almost all
-American Scientist
-Amos Tversky
 Analytic geometry
 ArXiv (identifier)
-Arbitrary-precision arithmetic
-Archimedean field
-Archimedean property
-Arithmetic operation
 Associative
 Associative algebra
-Augustin Louis Cauchy
 Axiom
 Axiom of choice
 Axiomatic system
-Baire space (set theory)
 Basis (linear algebra)
-Bernhard Riemann
 Bibcode (identifier)
-Bicomplex number
 Bijection
-Binary number
 Binary operation
-Bioctonion
-Biquaternion
-Blackboard bold
-Calculator
 Calculus
 Cantor's diagonal argument
-Cantor's first set theory article
-Cantor's first uncountability proof
-Cantor set
-Cantor–Dedekind axiom
-Cardinal number
 Cardinality
-Cardinality of the continuum
-Carol Schumacher
 Cartesian coordinate system
-Cartesian coordinates
 Cartesian product
-Cauchy
-Cauchy sequence
-Charles Hermite
-Charles Méray
-Chinese mathematics
-Classical mechanics
 Clifford algebra
-Closed-form expression
 Coefficient
-Commutative
-Compact space
 Compiler
-Complete lattice
-Complete metric space
-Complete space
-Completeness (topology)
-Completeness of the real numbers
 Complex conjugate
 Complex number
-Complex plane
-Composite number
 Composition algebra
-Computable number
-Computational science
-Computer algebra system
 Computer data storage
 Computer programming
-Computers
-Connected space
-Constant problem
-Constructible number
 Construction of the real numbers
-Constructive mathematics
-Constructivism (mathematics)
-Continued fraction
-Continuous function
-Continuous variable
 Continuum hypothesis
-Contractible
-Coordinate space
-Countable
-Countably infinite
-Cours d'Analyse
-Crelle's Journal
-Cube root
-Cyclic order
 David Hilbert
-Decidability of first-order theories of the real numbers
 Decimal
-Decimal digit
-Decimal expansion
-Decimal fraction
-Decimal point
-Decimal representation
-Dedekind-complete
-Dedekind complete
-Dedekind completeness
-Dedekind cut
-Definable number
-Definable real number
-Dense set
 Derivative
-Descartes
 Descriptive set theory
-Dimension
-Displacement (geometry)
-Distance
 Distributive property
 Division (mathematics)
-Division algebra
 Doi (identifier)
-Double-precision floating-point format
-Dual-complex number
-Dual number
-Dual quaternion
-Dyadic rational
-E (mathematical constant)
 Edmund F. Robertson
-Edmund Landau
-Eduard Heine
 Edward N. Zalta
-Edward Nelson
-Edwin Hewitt
-Eigenvector
-Eisenstein integer
 Electromagnetism
-Elementary arithmetic
 Encyclopedia of Mathematics
 Equation
 Equivalence class
-Essentially unique
-Euclidean space
-Eudoxus of Cnidus
-Euler
 European Mathematical Society
-Exponential function
-Exponential growth
-Extended natural numbers
-Extended real number line
-Extension field
-Ferdinand von Lindemann
 Field (mathematics)
-Finite decimal
 First-order logic
-First-order predicate
-Fixed-point arithmetic
-Floating-point arithmetic
-Floating-point number
-Foundational crisis of mathematics
-Foundations of Physics
-Fourier series
-Fraction
 Fraction (mathematics)
 Fundamental theorem of algebra
-Fuzzy number
-Gaussian integer
-Gaussian rational
-General relativity
 General topology
 Geometric algebra
-Georg Cantor
-Greater than
-Greater than or equal to
 Greek mathematics
-Gregory number
-Haar measure
-Hausdorff dimension
-Helaine Selin
-Henk J. M. Bos
-Hermann Hankel
 Higher-order logic
 Hilbert space
-Hilbert spaces
-History of Egypt
 History of mathematics
-Homeomorphic
 Homomorphism
-Hyperbolic quaternion
-Hypercomplex number
-Hyperreal number
 ISBN (identifier)
 If and only if
-Imaginary number
-Indian mathematics
-Infinite sequence
-Infinite series
 Infinite set
-Infinitesimal
-Infinitesimal calculus
-Infinity
 Integer
-Internal set theory
-Irrational number
-Isomorphic
 Isomorphism
 JSTOR (identifier)
-Jean Dieudonné
-Johann Heinrich Lambert
-John Archibald Wheeler
-John Mackintosh Howie
-John Stillwell
-Joseph Liouville
-Largest element
-Least element
-Least upper bound
-Lebesgue measure
-Leibniz
-Less than
-Less than or equal to
-Levi-Civita field
 Lie algebra
-Limit (mathematics)
-Limit of a sequence
 Line (geometry)
-Linear combination
-List of types of numbers
-Local compactness
-Long line (topology)
 Löwenheim–Skolem theorem
 MacTutor History of Mathematics Archive
-Magnitude (mathematics)
-Manava
 Mathematical analysis
 Mathematical induction
 Mathematical logic
 Mathematical notation
 Mathematics
-Mathematics in medieval Islam
-Mathematische Annalen
 Matrix (mathematics)
 Measure (mathematics)
 Measurement
-Metric space
-Middle Ages
-Multicomplex number
 Multiplication
-Multiplicative identity
 Multiplicative inverse
-Natural number
-Negative integer
-Negative number
-New York Academy of Sciences
-Non-Archimedean ordered field
-Nonstandard analysis
-Nonstandard model
-Normal number
-Normal operator
 Noun
 Nth root
 Number
-Number line
-Number system
-Numeral base
 Numerical analysis
-Numerical stability
 OCLC (identifier)
-Octonion
-One
-One-to-one function
-Open interval
-Order relation
-Order topology
-Ordered field
-Ordered group
-Ordered monoid
-Ordered ring
 Ordinal number
 Oxford English Dictionary
-P-adic number
 Paris
-Partial sum
-Patrick Suppes
-Paul Cohen (mathematician)
-Paul Gordan
 Peano axioms
-Period (algebraic geometry)
-Peter Koellner
-Pi
-Plane-based geometric algebra
-Point (geometry)
 Polynomial
-Positive-definite
-Positive real numbers
-Power of ten
 Power set
-Prime number
-Profinite integer
-Projectively extended real line
 Pythagoras
 Quadratic equation
-Quantification (logic)
-Quantity
 Quantum mechanics
 Quaternion
-R. Duncan Luce
-Rational number
-Rational zeta series
 Real analysis
-Real closed field
-Real coordinate space
-Real function
-Real line
-Real projective line
 René Descartes
-Repeating decimal
 Reverse mathematics
-Richard Dedekind
-Riemann sphere
-Root of a polynomial
 S2CID (identifier)
-Saunders Mac Lane
-Scientific notation
-Sedenion
-Self-adjoint operator
-Separable space
-Separation relation
 Sequence
 Set (mathematics)
 Set theory
-Shulba Sutras
-Significant figures
-Simon Stevin
-Simply connected
-Smooth manifolds
-Solenoid (mathematics)
-Solomon Feferman
-Spacetime algebra
-Split-biquaternion
-Split-complex number
-Split-octonion
-Split-quaternion
-Springer-Verlag
 Springer Science+Business Media
-Square root
 Square root of 2
-Standard model
-Subfield (mathematics)
-Subset
 Subtraction
-Successor function
-Supernatural number
-Superreal number
-Supremum
-Surreal number
-Symbolic computation
 Tarski's axiomatization of the reals
-Temperature
 Theorem
-Time
-Topological group
 Topological space
 Topology
-Total order
-Transcendental number
-Transcendental numbers
-Trigintaduonion
-Truncation
-Tuple
-Type conversion
-Ubiratan D'Ambrosio
-Umberto Bottazzini
-Uncountable
 Uncountable set
 Undecidable problem
-Uniform space
-Unit complex number
 Unit interval
-Univariate polynomial
 University of St Andrews
 Up to
-Upper bound
-V=L
 Vector space
-Vedic civilization
-Vitali set
 Wayback Machine
-Well-order
-Well-ordering theorem
-Yiannis N. Moschovakis
-Zermelo–Fraenkel
 Zermelo–Fraenkel set theory
-Zero
 Zero of a function
-École Normale Supérieure

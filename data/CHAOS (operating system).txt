@@ -1,7 +1,5 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
-Ad hoc
 AlmaLinux
 Alpine Linux
 Android-x86
@@ -19,7 +17,6 @@ Austrumi Linux
 BLAG Linux and GNU
 BackBox
 BackTrack
-Bash (Unix shell)
 Bharat Operating System Solutions
 BioSLAX
 BlackArch
@@ -38,7 +35,6 @@ ChromeOS
 ChromiumOS
 ClearOS
 Clear Linux OS
-ClusterKnoppix
 ColorOS
 Commodore OS
 Comparison of Linux distributions
@@ -86,7 +82,6 @@ GoboLinux
 Gobuntu
 GrapheneOS
 HandyLinux
-Hyperbola GNU/Linux-libre
 Immunix
 IodéOS
 Jurix
@@ -117,8 +112,6 @@ Linux Router Project
 Linux distribution
 Linux for PlayStation 2
 List of Linux distributions
-List of Live CDs
-Live CD
 Lubuntu
 MCC Interim Linux
 MIUI
@@ -132,25 +125,21 @@ Mer (software distribution)
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Musix GNU+Linux
 Network Security Toolkit
 NimbleX
 Nitix
 NixOS
 Nobara Linux
-Node (networking)
 Nova (operating system)
 OmniROM
 One UI
 Open-source software
 OpenELEC
 OpenMandriva Lx
-OpenMosix
 OpenSUSE
 Open Enterprise Server
 Oracle Linux
 PCLinuxOS
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
@@ -165,7 +154,6 @@ Programmer
 Puppy Linux
 PureOS
 Q4OS
-Quantian
 Qubes OS
 ROSA Linux
 Raspberry Pi OS
@@ -218,8 +206,6 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 User interface
 VectorLinux
 Vine Linux

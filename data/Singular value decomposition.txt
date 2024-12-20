@@ -1,356 +1,47 @@
-*-algebra
-Abstract index group
-Adjoint operator
-Advances in Space Research
-Almost Mathieu operator
-Alon–Boppana bound
-Amenable Banach algebra
-Approximate identity
-Approximation property
 ArXiv (identifier)
-Astrodynamics
-Automatically Tuned Linear Algebra Software
-Balanced set
-Banach *-algebra
-Banach algebra
-Banach algebra cohomology
-Banach function algebra
-Banach space
-Banach–Alaoglu theorem
-Banach–Mazur distance
-Barrelled space
-Basic Linear Algebra Subprograms
-Basis vectors
-Bauer–Fike theorem
-Besov space
 Bibcode (identifier)
-Bidiagonal matrix
-Big O notation
-Big data
 Bilinear form
-Borel functional calculus
 Bounded operator
 C*-algebra
-CPU cache
-Cache-oblivious algorithm
-Calculus of variations
-Camille Jordan
-Canonical correlation
-Canonical form
-Carl Eckart
-Charles F. Van Loan
-Choquet theory
-Christian Reinsch
-CiteSeerX (identifier)
-Closed graph theorem (functional analysis)
-Cohen–Hewitt factorization theorem
-Cokernel
-Column space
 Compact operator
-Compact operator on Hilbert space
-Compact space
-Comparison of linear algebra libraries
-Comparison of numerical-analysis software
-Complete set of invariants
-Complete topological vector space
 Complex number
-Conjugate transpose
-Continuous spectrum (functional analysis)
-Corona theorem
-Correspondence analysis
 Curse of dimensionality
-Decomposition of spectrum (functional analysis)
-Defective matrix
-Definite matrix
 Del
-Diagonalizable
-Diagonalizable matrix
 Differential geometry
-Digital signal processing
-Dimensionality reduction
-Dirac spectrum
-Direct integral
-Dirichlet eigenvalue
-Discrete spectrum (mathematics)
-Disease surveillance
-Disk algebra
-Distribution (mathematics)
-Divide-and-conquer eigenvalue algorithm
 Doi (identifier)
 Dual space
-Eigendecomposition
-Eigendecomposition of a matrix
-Eigenvalue algorithm
-Eigenvalue decomposition
-Eigenvalues
-Eigenvector
-Eigenvectors
-Ellipse
-Ellipsoid
-Empirical orthogonal functions
-Endomorphism
 Engineering
-Ensemble forecasting
-Erhard Schmidt
-Ervand Kogbetliantz
-Essential spectrum
-Euclidean space
-Eugenio Beltrami
-Extensions of symmetric operators
-Extreme value theorem
-Finite-rank operator
-Floating point
-Fourier analysis
-Fredholm theory
-Frobenius norm
-Fréchet space
 Function composition
 Functional analysis
-Functional calculus
-GNU Scientific Library
-Gabor filter
-Gale J. Young
-Gelfand representation
-Gelfand–Mazur theorem
-Gelfand–Naimark theorem
-Gene H. Golub
-Generalized function
-Generalized singular value decomposition
-Givens rotation
-Glossary of functional analysis
-Group algebra of a locally compact group
-Hahn–Banach theorem
-Hardy space
 Hdl (identifier)
-Hearing the shape of a drum
-Heat kernel
 Hermitian matrix
-Higher-order singular value decomposition
 Hilbert space
 Hilbert–Schmidt operator
-Homogeneous linear equation
-Householder reflection
-Householder transformation
-Hölder space
 ISBN (identifier)
 Identity matrix
-Image processing
-Index theorem
-Integral linear operator
-Integral operator
 Invariant (mathematics)
-Invariant subspace problem
-Inverse problem
-Isospectral
-Iterative method
 JSTOR (identifier)
-Jacobi eigenvalue algorithm
-Jacobi orthogonalization
-Jacobi rotation
-Jacobi transformation
-James Demmel
-James Joseph Sylvester
-Jeffrey Uhlmann
-John T. Riedl
-Jones polynomial
-Joseph A. Konstan
-K-SVD
-Kabsch algorithm
-Kakutani fixed-point theorem
-Kernel (linear algebra)
-Kernel (matrix)
-Krein–Milman theorem
-Krein–Rutman theorem
-Kuznetsov trace formula
-Ky Fan
-LAPACK
-LQ decomposition
-Lagrange multipliers
-Lanczos algorithm
-Latent semantic analysis
-Latent semantic indexing
-Lax pair
-Least squares
-Limiting absorption principle
 Linear algebra
-Linear least squares (mathematics)
-Linear transformation
-List of Fourier-related transforms
-List of functional analysis topics
-Lloyd N. Trefethen
-Locality-sensitive hashing
-Locally convex topological vector space
-Low-rank approximation
-Luis M. Rocha
-Léon Autonne
 MATLAB
-MR (identifier)
-Machine epsilon
-Magnus Hestenes
-Mahler's conjecture
 Matrix (mathematics)
 Matrix decomposition
 Matrix multiplication
-Matrix multiplication algorithm
-Matrix norm
-Matrix splitting
-Min-max theorem
-Modal analysis
-Mode shape
-Moore–Penrose inverse
-Moore–Penrose pseudoinverse
-Multilinear principal component analysis
-Multiplication operator
 Multiplicative inverse
 Multiprocessing
-Nearest neighbor search
-Non-linear iterative partial least squares
-Noncommutative geometry
-Noncommutative topology
 Norm (mathematics)
-Normal eigenvalue
-Normal element
-Normal matrix
-Normal operator
-Nuclear C*-algebra
-Nuclear operator
-Nuclear space
-Null space
-Numerical linear algebra
-Numerical range
-Numerical stability
-Numerical weather prediction
-Operator algebra
-Operator norm
-Operator space
-Orbital station-keeping
-Orlicz space
-Orthogonal Procrustes problem
-Orthogonal basis
-Orthogonal matrix
-Orthonormal
 Orthonormal basis
-Orthonormal vectors
-Outbreak
-Outer product
 PMC (identifier)
 PMID (identifier)
-Partial isometry
-Pattern recognition
 Pauli matrices
-Point spectrum
-Polar decomposition
-Positive-definite matrix
-Positive operator-valued measure
-Principal axis theorem
-Principal component analysis
 Process control
-Product topology
-Projection-valued measure
-Proto-value function
-Pseudospectrum
-Psychometrika
-QR algorithm
-QR decomposition
-Quantum entanglement
-Quantum information
-Radial basis functions
-Ramanujan graph
-Range of a matrix
-Rank of a matrix
-Rank–nullity theorem
-Rayleigh–Faber–Krahn inequality
 Real number
-Recommender systems
-Rectangular diagonal matrix
-Reflection (geometry)
-Reflexive space
-Riemann hypothesis
-Riesz projector
-Riesz representation theorem
-Rigged Hilbert space
-Rotation (geometry)
-Rotation matrix
-Rounding error
-Row space
 S2CID (identifier)
-Scalar product
 Scaling (geometry)
-Scaling matrix
-Schatten norm
-Schmidt decomposition
-Schröder–Bernstein theorems for operator algebras
-Schur–Horn theorem
-Schwartz space
-Self-adjoint
-Self-adjoint operator
-Semi-minor axis
-Semi-orthogonal matrix
-Separable space
-Shape analysis (digital geometry)
-Shear mapping
-Sherman–Takeda theorem
-Shilov boundary
 Signal processing
 Single instruction, multiple data
-Singular value
-Singular values
-Smith normal form
-Sobolev space
-Sparse matrix
-Spectral abscissa
-Spectral asymmetry
-Spectral gap
-Spectral geometry
-Spectral method
-Spectral radius
-Spectral theorem
 Spectral theory
-Spectral theory of compact operators
-Spectral theory of normal C*-algebras
-Spectral theory of ordinary differential equations
-Spectrum (functional analysis)
-Spectrum of a C*-algebra
-Spike-triggered average
 Square matrix
-Standard basis
 Statistics
-Structure space
-Sturm–Liouville theory
-Superstrong approximation
 Symmetric matrix
 System of linear equations
-Tikhonov regularization
-Time series
-Tomita–Takesaki theory
-Topological quantum field theory
-Topological vector space
-Total least squares
 Trace class
-Transfer operator
-Transform theory
-Transformation (geometry)
-Translation lookaside buffer
-Transpose of a linear map
-Two-dimensional singular-value decomposition
-Unbounded operator
-Uniform algebra
-Uniform boundedness principle
-Unit (ring theory)
-Unit disc
-Unitary element
-Unitary matrix
-Unitary operator
-Unitary transform
-University of Minnesota
-Vector norm
-Von Neumann's trace inequality
-Von Neumann algebra
-Wahba's problem
-Wavelet compression
-Weak topology
-Weyl law
-Wiener algebra
-Wiener–Khinchin theorem
-William Kahan
-Émile Picard

@@ -1,4 +1,3 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
 AlmaLinux
@@ -39,7 +38,6 @@ ChromiumOS
 ClearOS
 Clear Linux OS
 ColorOS
-Command-line interface
 Commodore OS
 Comparison of Linux distributions
 Container Linux
@@ -54,7 +52,6 @@ Debian
 Deepin
 DemoLinux
 Devuan
-DistroWatch
 DivestOS
 DoudouLinux
 Dreamlinux
@@ -75,7 +72,6 @@ Floppyfw
 Foresight Linux
 FreedomBox
 Freespire
-GNOME
 GNU Guix System
 GNewSense
 GOS (operating system)
@@ -86,13 +82,9 @@ GoboLinux
 Gobuntu
 GrapheneOS
 HandyLinux
-Hyperbola GNU/Linux-libre
 Immunix
-Init
 IodéOS
-Isaac Asimov
 Jurix
-KDE Plasma Desktop
 KDE neon
 KaOS
 KaiOS
@@ -106,14 +98,12 @@ Kongoni (operating system)
 Korora (operating system)
 Kubuntu
 Kwort Linux
-LXDE
 LXLE Linux
 Libranet
 LinHES
 LineageOS
 Linpus Linux
 Linux
-Linux.com
 LinuxTLE
 Linux Caixa Mágica
 Linux Lite
@@ -135,7 +125,6 @@ Mer (software distribution)
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Musix GNU+Linux
 Network Security Toolkit
 NimbleX
 Nitix
@@ -150,12 +139,8 @@ OpenMandriva Lx
 OpenSUSE
 Open Enterprise Server
 Oracle Linux
-P6 (microarchitecture)
 PCLinuxOS
-Package management system
 Package manager
-Pacman (package manager)
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
@@ -222,18 +207,13 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 User interface
 VectorLinux
 Vine Linux
 Void Linux
 Whonix
 Wubuntu
-X86 64
 XB Machine
-XZ Utils
-Xfce
 Xubuntu
 Yellow Dog Linux
 Zenwalk

@@ -1,207 +1,127 @@
 Universal Remote Console
 IEC 62455
-Binary Alignment Map
 MPEG-2
-ISO/IEC 2022
 Mixed raster content
 RKM code
-MPEG Surround
-ISO/IEC 646
 International Electrotechnical Commission
-H.262/MPEG-2 Part 2
 MPEG program stream
 IEC 63119
 File Allocation Table
-ISO/IEC 7813
 IEC 60601
 IEC 62056
 ISSN (identifier)
 IEC 61131
 IEC 62700
 JPEG 2000
-ISO/IEC 15897
 Universal Disk Format
 Battery nomenclature
 IEC 61970
-ISO/IEC 27000-series
-MPEG-I
 IEC 60027
-MPEG-2 Part 3
 IEC 61131-3
 EN 62262
-ISO/IEC 9995
 IEC 60446
 IEC 60870
-MPEG media transport
 IEC 60034
-MPEG-1 Audio Layer I
 Open Document Architecture
 IEC 81346
-MPEG-4 Part 17
 AES47
-ISO/IEC 15288
 RELAX NG
 MPEG-H 3D Audio
-Open Font Format
-ISO/IEC 10021
-MPEG
 C++
 Ada Semantic Interface Specification
-ISO/IEC 11801
 IEC 61355
 Common Logic
 IEC 61400
 Fieldbus
 IEC 60038
-ISO/IEC 24727
 ECMAScript
 IEC 61850
-ISO/IEC 7811
 IEC 62196
 MPEG Multichannel
-ISO/IEC 12207
 IEC 61883
 Dynamic Adaptive Streaming over HTTP
-ISO/IEC 11179
-ISO/IEC 38500
 Full BASIC
-IEC 60980-344
-ISO/IEC 29119
-ISO/IEC 19752
-ISO/IEC 4909
 MPEG-4
-High-throughput sequencing
-ISO/IEC 14651
 ECMAScript for XML
 PHIGS
-MPEG transport stream
 IEC 61851
 Digital Addressable Lighting Interface
-ISO/IEC 15693
-ISO/IEC 18014
-IEC 62351
-ISO/IEC 7812
-Description Definition Language
 IEC 62682
 ANSI escape code
 ANSI C
-MPEG-1 Audio Layer II
 Universal Coded Character Set
 IEC 60068
-Internet Video Coding
 Doi (identifier)
 IEC 63382
-Unified Speech and Audio Coding
 IEC 63110
-ISO/IEC 24744
-H.261
 IO-Link
 Comparative Tracking Index
 IEC 61360
 International Standard Identifier for Libraries and Related Organizations
-Digital Item
 IEC 61334
 H.263
-ISO/IEC 21827
 Document Style Semantics and Specification Language
-ISO/IEC 7816
-ISO/IEC 10116
 IEC 62325
-High Efficiency Image File Format
-High Efficiency Video Coding
-ISO/IEC 17025
 HTML
 IEC 60870-5
 MPEG-H
-MPEG-4 Part 14
 CHILL
-ISO/IEC 9126
 Open Data Protocol
-ISO/IEC 9529
 MP3
 Z notation
 JPEG XL
 COBOL
 POSIX
 USB
-FASTA format
-ISO/IEC 27002
 MPEG-4 Part 20
-ISO/IEC 17024
 IEC 61030
-Advanced Audio Coding
-ISO/IEC 14443
-ISO/IEC
 IEC 60870-6
 MPEG-1
 MPEG-21
-MPEG-3
-ISO/IEC 7810
-ISO/IEC 27000
 IEC 62366
 MPEG-4 Part 3
 MPEG-A
 IEC 62304
-ISO/IEC 20000
 IEC 61162
 MPEG-7
 IEEE 754
 E series of preferred numbers
 ISO base media file format
 IEC 62379
-ISO/IEC 8652
 IEC 61968
 Graph Query Language
 MPEG-D
 IEC 61508
-ISO/IEC 6523
-MPEG-2 Audio Layer II
 IEC 61511
 MHEG-5
-ISO/IEC 27040
 IEC 60320
-ISO/IEC 11404
-SAM (file format)
-ISO/IEC 10967
 GitHub
 API
 IP-XACT
 Delivery Multimedia Integration Framework
 Computer Graphics Metafile
-ISO/IEC 80000
 Essential Video Coding
-ISO/IEC 19770
 IEC 61499
 List of IEC standards
 IEC 60364
 Graphical Kernel System
-ISO/IEC 33001
-ISO/IEC 8859
-CRAM (file format)
-Moving Picture Experts Group
 AES3
-DSM CC
 Versatile Video Coding
 Guidelines for the Definition of Managed Objects
 MPEG-4 Part 2
 IEC 62264
-FASTQ format
 IEC 60228
-ISO/IEC 19788
 IEC 60929
 MPEG-4 Part 11
 Advanced Video Coding
 QR code
 Linux Standard Base
-Rights Expression Language
-ISO/IEC 15504
 Compact Disc Digital Audio
 S2CID (identifier)
 IEC 62061
 19-inch rack
 IEC 60269
 C Sharp (programming language)
-ISO/IEC 5218
 IEC 60906-1
 OpenDocument
 LCEVC
@@ -209,7 +129,4 @@ ISLISP
 Common Criteria
 Topic map
 IEC 60309
-MPEG-5
-ISO/IEC JTC 1/SC 29
 JBIG
-ISO/IEC 42010

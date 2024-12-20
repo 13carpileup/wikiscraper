@@ -1,99 +1,22 @@
 ACM Computing Classification System
 Abnormal psychology
-Abraham Maslow
-Acceptance
-Acute stress reaction
-Admiration
-Adoration
 Aesthetic emotions
-Affect (education)
-Affect (psychology)
-Affect consciousness
-Affect control theory
-Affect measures
-Affect theory
-Affection
-Affective design
-Affective forecasting
-Affective gaming
-Affective haptics
-Affective neuroscience
-Affective science
-Affective spectrum
-Albert Bandura
 Algorithm
 Algorithm design
 Algorithmic efficiency
 Alternate reality game
-Amos Tversky
-Amusement
-Amygdala hijack
 Analysis of algorithms
-Anger
-Angst
-Anguish
-Animal testing
-Annoyance
-Anomalistic psychology
-Anticipation
-Anticipation (emotion)
-Anxiety
-Apathy
-Appeal to emotion
 Application security
-Applied behavior analysis
-Applied psychology
-Appraisal theory
 ArXiv (identifier)
-Archival research
-Arousal
-Art and emotion
-Artificial empathy
 Artificial intelligence
-Artificial neural network
-Artistic inspiration
 Attention
 Autism
 Automata theory
 Automated planning and scheduling
-Awe
-B. F. Skinner
-Basic science (psychology)
-Behavior
-Behavioral epigenetics
-Behavioral neuroscience
 Behaviorism
-Behavioural genetics
-Belongingness
 Bibcode (identifier)
-Biofeedback
 Blast Theory
-Boredom
-Bounded emotionality
 Brain–computer interface
-Bruce McEwen
-Bullying and emotional intelligence
-Calmness
-Carl-Herman Hjortsjö
-Carl Jung
-Carl Rogers
-Case study
-Character Computing
-Chatterbot
-Chronic stress
-CiteSeerX (identifier)
-Clark L. Hull
-Clinical psychology
-Coaching psychology
-Cognition
-Cognitive neuroscience
-Cognitive psychology
-Cognitive science
-Cognitivism (psychology)
-Community psychology
-Comparative psychology
-Compassion
-Competence (polyseme)
 Compiler construction
 Computability theory
 Computational biology
@@ -120,308 +43,84 @@ Computing platform
 Concurrency (computer science)
 Concurrent computing
 Confidence
-Confusion
-Consciousness
 Consumer behaviour
-Contempt
-Content analysis
-Contentment
-Context awareness
 Control theory
 Control variable (programming)
-Counseling psychology
-Courage
-Critical psychology
-Cross-cultural psychology
 Cross-validation (statistics)
-Crossmedia
-Cruelty
 Cryptography
-Cultural psychology
-Curiosity
 Cyberwarfare
-Cynicism (contemporary)
-Daniel Kahneman
 Data mining
 Database
-David McClelland
 Decision support system
-Decision tree learning
-Defeatism
 Dependability
-Depression (mood)
-Desire
-Developmental psychology
-Differential psychology
-Digital Games Research Association
 Digital art
 Digital library
 Digital marketing
-Disappointment
-Discrete emotion theory
 Discrete mathematics
-Disgust
 Distributed artificial intelligence
 Distributed computing
-Distrust
 Document management system
 Doi (identifier)
 Domain-specific language
-Donald O. Hebb
-Donald T. Campbell
-Doubt
 E-commerce
-Ecological psychology
-Ecstasy (emotion)
-Ed Diener
-Educational psychology
 Educational technology
-Edward Thorndike
 Electronic design automation
 Electronic publishing
 Electronic voting
-Elliot Aronson
-Embarrassment
 Embedded system
 Emergence
-Emotion
-Emotion Markup Language
-Emotion and memory
-Emotion classification
-Emotion in animals
-Emotion perception
-Emotion recognition
-Emotion recognition in conversation
-Emotion work
-Emotional aperture
-Emotional bias
-Emotional blackmail
-Emotional competence
-Emotional conflict
-Emotional contagion
-Emotional detachment
-Emotional dysregulation
-Emotional eating
-Emotional exhaustion
-Emotional expression
-Emotional intelligence
-Emotional intimacy
-Emotional isolation
-Emotional lability
-Emotional labor
-Emotional lateralization
-Emotional literacy
-Emotional prosody
-Emotional reasoning
-Emotional responsivity
-Emotional security
-Emotional self-regulation
-Emotional symbiosis
-Emotional thought method
-Emotional well-being
-Emotionality
-Emotions and culture
-Emotions in decision-making
-Emotions in the workplace
-Emotions in virtual communication
-Emotive Internet
-Empathy
-Empathy quotient
-Emptiness
-Endel Tulving
 Enterprise information system
 Enterprise software
-Enthusiasm
-Envy
-Ergonomics
-Eric Zimmerman
-Erik Erikson
-Ernest Hilgard
 Euphoria
-Evolution of emotion
-Evolutionary psychology
-Exergame
 Experimental psychology
-Expressed emotion
-Face recognition
-Facial Action Coding System
-Facial electromyography
-Facial expression databases
-Faith
-Fatalism
-Fear
-Feeling
-Feminist psychology
-Flash mob
-Flow (psychology)
-Forensic psychology
 Form factor (design)
 Formal language
 Formal methods
-Friendly artificial intelligence
-Frustration
-Functional accounts of emotion
-Galvanic skin response
 Gamemaster
-Gamepad
-Gaussian blur
-Gaussian mixture model
-Gender and emotional expression
 Geographic information system
-George Armitage Miller
-Gestalt psychology
-Gesture recognition
-Gordon Allport
-Grandiosity
 Graphics processing unit
-Gratification
-Gratitude
-Greed
 Green computing
-Grief
-Group affective tone
-Group emotion
-Guilt (emotion)
-Hagit Hel-Or
-Hans Eysenck
-Happiness
 Hardware acceleration
 Hardware security
-Harry Harlow
-Hatred
 Hdl (identifier)
 Health informatics
 Health psychology
-Hedonism
 Herbert A. Simon
-Hidden Markov model
-Hiraeth
-History of emotions
-History of psychology
-Homeostatic emotion
-Homesickness
-Hope
-Horror and terror
-Hostility
-Hubris
-Human Technology
-Human computer interaction
-Human subject research
-Humanistic psychology
 Human–computer interaction
 Humiliation
-Hygge
-Hysteria
-IEEE Transactions on Pattern Analysis and Machine Intelligence
 ISBN (identifier)
 ISSN (identifier)
-Ikigai
 Image compression
-Index of psychology articles
-Industrial and organizational psychology
-Infatuation
 Information retrieval
 Information security
 Information system
 Information theory
-Insecurity (emotion)
-Insult
 Integrated circuit
 Integrated development environment
-Intelligence
 Interaction design
-Interactions between the emotional and executive brain systems
-Interest (emotion)
-Interpersonal attraction
-Interpersonal emotion regulation
 Interpreter (computing)
-Interview (research)
 Intrusion detection system
-Irritability
-Isolation (psychology)
-Ivan Pavlov
-J. P. Guilford
-Jane McGonigal
-Janyce Wiebe
-Jealousy
-Jealousy in art
-Jean Piaget
-Jerome Bruner
-Jerome Kagan
-Jia Li
-John B. Watson
-John Robert Anderson (psychologist)
-Joie de vivre
-Joseph E. LeDoux
-Joy
-K-nearest neighbor algorithm
-Kindness
-Kismet (robot)
-Knowledge base
 Knowledge representation and reasoning
-Kurt Lewin
-LNCS
-Larry Squire
-Lawrence Kohlberg
-Lecture Notes in Computer Science
-Legal psychology
-Leon Festinger
 Library (computing)
-Limerence
-Linear classifier
-List of branches of psychology
 List of computer size categories
-List of psychological research methods
-List of psychological schools
-List of psychologists
-List of psychology organizations
-List of psychotherapies
 Live action role-playing game
-Location-based game
 Logic in computer science
-Loneliness
-Love
-Love at first sight
-Lust
-MIT Press
 Machine learning
-Martin Seligman
-Marvin Minsky
 Mathematical analysis
 Mathematical optimization
 Mathematical psychology
 Mathematical software
-Media psychology
-Medical psychology
-Melancholia
-Meta-emotion
-MethodsX
-Michael Posner (psychologist)
 Middleware
-Military psychology
-Mind
-Misanthropy
 Mixed reality
 Mobile game
-Modality (human–computer interaction)
 Model of computation
 Modeling language
 Mojang
-Mono no aware
-Moral emotions
-Moral psychology
 Multi-task learning
 Multimedia database
-Multimodal sentiment analysis
 Multiprocessing
 Multithreading (computer architecture)
-Music and emotion
-Music psychology
 Natural language processing
-Neal E. Miller
-Negative affectivity
-Negative emotion
-Neglect
 Network architecture
 Network performance
 Network protocol
@@ -429,56 +128,24 @@ Network scheduler
 Network security
 Network service
 Networking hardware
-Neuroimaging
-Neuropsychology
-Niantic (company)
-Nihilism
 Noam Chomsky
 Nostalgia
 Numerical analysis
 OCLC (identifier)
-Observation
-Occupational health psychology
 Open-source software
 Operating system
 Operations research
-Optical flow
-Optimism
 Outline of computer science
-Outline of counseling
-Outline of psychology
-Outrage (emotion)
 PMC (identifier)
 PMID (identifier)
-Pain
-Panic
 Parallel computing
-Passion (emotion)
-Pastoral psychology
-Pathognomy
-Pathos
-Paul Dourish
-Paul Ekman
 Perception
 Performing arts
 Peripheral
 Persistent world
-Personality psychology
 Pervasive game
-Pessimism
 Philosophy of artificial intelligence
-Philosophy of psychology
-Phoebe Sengers
 Photograph manipulation
-Photoplethysmography
-Physiological
-Pity
-Pleasure
-Political psychology
-Positive affectivity
-Positive psychology
-Pragmatism
-Pride
 Printed circuit board
 Probability
 Process control
@@ -488,13 +155,5 @@ Programming language theory
 Programming paradigm
 Programming team
 Programming tool
-Prosody (linguistics)
-Psycholinguistics
-Psychological stress
-Psychological testing
 Psychologist
 Psychology
-Psychology of religion
-Psychometrics
-Psychomotor agitation
-Psychomotor learning

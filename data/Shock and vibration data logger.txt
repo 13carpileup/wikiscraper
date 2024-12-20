@@ -7,7 +7,6 @@ Extrusion coating
 Containerization
 Overpackaging
 Low plastic water bottle
-Mesh bag
 Stand-up pouch
 Foam food container
 Shrink wrap
@@ -15,20 +14,15 @@ Flame treatment
 Evidence packaging
 Security tape
 Euro container
-Paper sack
-Shearing (manufacturing)
 Paper recycling
 Double seam
 Vial
 Packaging engineering
-EEPROM
-Can collecting
 Jerrycan
 Pallet
 Flexible intermediate bulk container
 Endcap
 Polyethylene
-Pallet inverter
 Papermaking
 Currency packaging
 Logistics automation
@@ -57,24 +51,19 @@ Paper pallet
 Screw cap (wine)
 Can seamer
 Drum (container)
-Shock response spectrum
-Closed-loop box reuse
 Filler (packaging)
 Label
 Tamper-evident technology
 Label printer applicator
-Measurement instrument
 Banana box
 Envelope
 Multilayered packaging
-Sensors
 Staple (fastener)
 Plastic bottle
 Seed-counting machine
 Edible packaging
 Packaging gas
 Hermetic seal
-Sand bag
 Low-density polyethylene
 Litter
 Lid
@@ -87,14 +76,12 @@ Metallised film
 Biodegradable plastic
 Environmental engineering
 Authentication
-Bubble wrap
 Plastic extrusion
 Glass milk bottle
 Plastic bag
 Security bag
 Wine bottle
 Slip sheet
-Tamper resistance
 Water bottle
 Coffee bag
 Life-cycle assessment
@@ -108,10 +95,8 @@ Material-handling equipment
 Child-resistant packaging
 Milk bag
 Oxygen scavenger
-Coating
 Industrial ecology
 Nonwoven fabric
-Modified atmosphere/modified humidity packaging
 Clamshell (container)
 Ammunition box
 Padded envelope
@@ -126,17 +111,13 @@ Vertical form fill sealing machine
 Bag
 Shelf-stable food
 Carton
-Data logger
-Curtain coating
 Flip-top
 Luxury packaging
 Susceptor
 Aseptic processing
-Bottling line
 Induction sealing
 Overwrap
 Track and trace
-Plastic pallet
 Spray paint
 Die cutting (web)
 Seasonal packaging
@@ -144,15 +125,12 @@ Plastic film
 Aluminium bottle
 Chub (container)
 Intermediate bulk container
-Test method
 Gunny sack
 Container
 Boil-in-bag
 Thermoforming
 Graphic design
-Barcode printer
 Automatic identification and data capture
-Plastic-coated paper
 Orbital stretch wrapper
 Velostat
 Insulated shipping container
@@ -173,16 +151,13 @@ Paper bag
 Resealable packaging
 Check weigher
 Palletizer
-Vibrations
 Polypropylene
 Vacuum forming
-Jar
 Electronic article surveillance
 Hazard analysis and critical control points
 Recycling
 Cosmetic packaging
 Ultrasonic welding
-G-force
 Production control
 PET bottle recycling
 Tinning
@@ -198,11 +173,8 @@ Desiccant
 Modified atmosphere
 Lamination
 Radio-frequency identification
-Stretch wrap
 Biodegradable bag
 Single-serve coffee container
-Biomechanics
-Liquid packaging board
 Paper
 Corona treatment
 Beer bottle
@@ -223,36 +195,26 @@ Plastic wrap
 Foam peanut
 Salvage drum
 Tub (container)
-Wind turbine
-Helmet
 Waste management
 Temperature data logger
 Barcode reader
 Blister pack
 Multihead weigher
 Squround
-Converting
 Alternative wine closure
 Spray bottle
-Product development
 Turntable stretch wrapper
 Gas cylinder
 Meat absorbent pad
 Container glass
 Shipping tube
-GPS tracking unit
 Skin pack
 Pump dispenser
-Living hinge
-Cushioning
 Bulk box
 Multi-pack
-Production lines
-Juicebox (container)
 Barrel
 Laser cutting
 Printing
-Coextrusion
 Shock detector
 Active packaging
 Heat gun
@@ -262,18 +224,13 @@ Shipping container
 Plastic welding
 Drink can
 Disposable cup
-Food packaging
 S2CID (identifier)
 Physical test
 Acceleration
 Tape dispenser
 Glass bottle
 Reuse of bottles
-Calibration
-Pharmaceutical packaging
-Source reduction
 Keg
-Gel pack
 Molding (process)
 Toothpaste pump dispenser
 Cage
@@ -284,7 +241,6 @@ Package theft
 Extrusion
 Wooden box
 Roll slitting
-Bung
 Growler (jug)
 Water sachet
 Cartoning machine
@@ -292,16 +248,12 @@ Industrial robot
 Case-ready meat
 Tube (container)
 Packaging
-Package testing
-Oyster pail
-Shock (mechanics)
 Fuel container
 Disposable food packaging
 Case (goods)
 Inhaler
 PMID (identifier)
 Dosage form
-Conveyor belts
 Glass recycling
 Calender
 Die forming (plastics)
@@ -315,4 +267,3 @@ Bottle
 Molded pulp
 Shrink tunnel
 Packaging waste
-Package pilferage

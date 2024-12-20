@@ -1,174 +1,51 @@
 Abstract and concrete
-Abstract data type
-Action at distance (computer science)
-Algebraic data type
-Aliasing (computing)
-Arbitrary-precision arithmetic
-Array data type
-Array index
-Assignment (computer science)
 Associative array
-Attribute (computing)
 Automatic variable
-Bfloat16 floating-point format
 Bibcode (identifier)
-Bit
 Bit array
-Block scope
-Boolean data type
 Bottom type
-Boxing (computer science)
 Byte
 C++
 C (programming language)
 C Sharp (programming language)
-Call stack
-Case-sensitivity
-Character (computing)
-Class (computer programming)
-Closure (computer science)
-Common Lisp
-Compiler (computing)
-Complex data type
-Composite data type
 Computer programming
-Constant (programming)
-Container (abstract data type)
-Control flow
 Control variable (programming)
-Dangling pointer
-Data (computer science)
 Data structure
 Data type
-Datatype
-Decimal data type
 Dependent type
-Dereference
-Double-precision floating-point format
-Dynamic memory allocation
-Dynamic scope
-Dynamic typing
-Dynamic variable scoping
-Edsger Dijkstra
-Empty type
-Enumerated type
 Equation
 Exception handling
-Execution (computing)
-Extended precision
-Fixed-point arithmetic
-Floating-point arithmetic
-Formula
 Free variables and bound variables
-Function (computer programming)
-Function scope
-Function type
-Functional programming
 Garbage collection (computer science)
 Generalized algebraic data type
-Generic programming
-Global variable
 Half-precision floating-point format
-Haskell (programming language)
 ISBN (identifier)
-Identifier (computer languages)
 Imperative programming
-Inductive type
-Integer (computer science)
 Interface (object-oriented programming)
-Intersection type
-Interval arithmetic
 Intuitionistic type theory
 Java (programming language)
-Kind (type theory)
-Lexical scope
-Lexical variable scoping
 Lisp (programming language)
-List (abstract data type)
-Local variable
 Lock (computer science)
-Logic programming
-Long double
-Machine code
-Malloc
-Memory address
-Memory leak
 Metaclass
-Metaobject
-Minifloat
-Name binding
-Name resolution (programming languages)
-Namespace
-Namespace (programming)
-Naming conventions (programming)
-Non-local variable
-Null-terminated string
-Null pointer
-Object (computer science)
 Object lifetime
-Octuple-precision floating-point format
-Opaque data type
-Option type
 Parameter (computer programming)
-Parametric polymorphism
-Physical address
-Plain text
-Pointer (computer programming)
 Primitive data type
-Product type
 Programming language
 Pure function
 Python (programming language)
-Quadruple-precision floating-point format
 Rational data type
 Record (computer science)
-Recursive data type
 Reference (computer science)
-Referential transparency
-Refinement type
-Run time (program lifecycle phase)
-Runtime environment
 Scalar (mathematics)
 Scope (computer science)
-Scope (programming)
 Semaphore (programming)
-Set (abstract data type)
-Sigil (computer programming)
-Signedness
-Single-precision floating-point format
 Source code
-Stack (abstract data type)
-Static local variable
-Static typing
-Static variable
-Stream (computing)
 String (computer science)
-Strongly typed identifier
-Subroutine
-Subtyping
 Symbol
-Tagged union
 Temporary variable
-Ternary numeral system
-Top type
-Type class
 Type constructor
-Type conversion
-Type polymorphism
-Type signature
-Type system
 Type theory
-Undefined behavior
 Underscore
-Uninitialized variable
-Union type
-Unit type
-Units of information
 Value (computer science)
 Variable (mathematics)
-Variable interpolation
-Virtual address space
-Virtual functions
-Void type
-Wild pointer
 Word (computer architecture)

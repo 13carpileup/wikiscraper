@@ -15,7 +15,6 @@
 1860 Democratic National Conventions
 1860 Republican National Convention
 1864 Democratic National Convention
-1864 Republican National Convention
 1868 Democratic National Convention
 1868 Republican National Convention
 1872 Democratic National Convention
@@ -30,7 +29,6 @@
 1884 Greenback National Convention
 1884 Republican National Convention
 1888 Democratic National Convention
-1888 Greenback National Convention
 1888 Republican National Convention
 1892 Democratic National Convention
 1892 Republican National Convention
@@ -54,12 +52,10 @@
 1916 Republican Party presidential primaries
 1920 Democratic National Convention
 1920 Democratic Party presidential primaries
-1920 Progressive National Convention
 1920 Republican National Convention
 1920 Republican Party presidential primaries
 1924 Democratic National Convention
 1924 Democratic Party presidential primaries
-1924 Progressive National Convention
 1924 Republican National Convention
 1924 Republican Party presidential primaries
 1928 Democratic National Convention
@@ -83,149 +79,14 @@
 1944 Republican National Convention
 1944 Republican Party presidential primaries
 1944 United States presidential election
-1947 United States elections
-1948 Arizona gubernatorial election
-1948 Arkansas gubernatorial election
-1948 Colorado gubernatorial election
-1948 Connecticut gubernatorial election
-1948 Delaware gubernatorial election
 1948 Democratic National Convention
-1948 Florida gubernatorial election
-1948 Georgia gubernatorial special election
-1948 Illinois gubernatorial election
-1948 Indiana gubernatorial election
-1948 Iowa Senate election
-1948 Iowa gubernatorial election
-1948 Kansas gubernatorial election
-1948 Kentucky's 2nd congressional district special election
-1948 Kentucky's 9th congressional district special election
-1948 Louisiana gubernatorial election
-1948 Maine gubernatorial election
-1948 Massachusetts gubernatorial election
-1948 Michigan gubernatorial election
-1948 Minnesota gubernatorial election
-1948 Minnesota lieutenant gubernatorial election
-1948 Missouri's 10th congressional district special election
-1948 Missouri gubernatorial election
-1948 Missouri lieutenant gubernatorial election
-1948 Montana gubernatorial election
-1948 Nebraska gubernatorial election
-1948 Nebraska lieutenant gubernatorial election
-1948 New Hampshire gubernatorial election
-1948 New Mexico gubernatorial election
-1948 North Carolina gubernatorial election
-1948 North Carolina lieutenant gubernatorial election
-1948 North Dakota gubernatorial election
-1948 Ohio gubernatorial election
-1948 Oregon gubernatorial special election
 1948 Progressive National Convention
 1948 Republican National Convention
 1948 Republican Party presidential primaries
-1948 Rhode Island gubernatorial election
-1948 South Dakota gubernatorial election
-1948 Tennessee gubernatorial election
-1948 Texas's 15th congressional district special election
-1948 Texas gubernatorial election
-1948 United States House of Representatives election in Alaska Territory
-1948 United States House of Representatives election in Delaware
-1948 United States House of Representatives election in Hawaii Territory
-1948 United States House of Representatives election in Nevada
-1948 United States House of Representatives election in New Mexico
-1948 United States House of Representatives election in North Dakota
-1948 United States House of Representatives election in Vermont
-1948 United States House of Representatives election in Wyoming
 1948 United States House of Representatives elections
-1948 United States House of Representatives elections in Alabama
-1948 United States House of Representatives elections in Arizona
-1948 United States House of Representatives elections in Arkansas
-1948 United States House of Representatives elections in California
-1948 United States House of Representatives elections in Colorado
-1948 United States House of Representatives elections in Connecticut
-1948 United States House of Representatives elections in Florida
-1948 United States House of Representatives elections in Georgia
-1948 United States House of Representatives elections in Idaho
-1948 United States House of Representatives elections in Illinois
-1948 United States House of Representatives elections in Indiana
-1948 United States House of Representatives elections in Iowa
-1948 United States House of Representatives elections in Kansas
-1948 United States House of Representatives elections in Kentucky
-1948 United States House of Representatives elections in Louisiana
-1948 United States House of Representatives elections in Maine
-1948 United States House of Representatives elections in Maryland
-1948 United States House of Representatives elections in Massachusetts
-1948 United States House of Representatives elections in Michigan
-1948 United States House of Representatives elections in Minnesota
-1948 United States House of Representatives elections in Mississippi
-1948 United States House of Representatives elections in Missouri
-1948 United States House of Representatives elections in Montana
-1948 United States House of Representatives elections in Nebraska
-1948 United States House of Representatives elections in New Hampshire
-1948 United States House of Representatives elections in New Jersey
-1948 United States House of Representatives elections in New York
-1948 United States House of Representatives elections in North Carolina
-1948 United States House of Representatives elections in Ohio
-1948 United States House of Representatives elections in Oklahoma
-1948 United States House of Representatives elections in Oregon
-1948 United States House of Representatives elections in Pennsylvania
-1948 United States House of Representatives elections in Rhode Island
-1948 United States House of Representatives elections in South Carolina
-1948 United States House of Representatives elections in South Dakota
-1948 United States House of Representatives elections in Tennessee
-1948 United States House of Representatives elections in Texas
-1948 United States House of Representatives elections in Utah
-1948 United States House of Representatives elections in Virginia
-1948 United States House of Representatives elections in Washington
-1948 United States House of Representatives elections in West Virginia
-1948 United States House of Representatives elections in Wisconsin
-1948 United States Senate election in Alabama
-1948 United States Senate election in Arkansas
-1948 United States Senate election in Colorado
-1948 United States Senate election in Delaware
-1948 United States Senate election in Georgia
-1948 United States Senate election in Idaho
-1948 United States Senate election in Illinois
-1948 United States Senate election in Iowa
-1948 United States Senate election in Kansas
-1948 United States Senate election in Kentucky
-1948 United States Senate election in Louisiana
-1948 United States Senate election in Maine
-1948 United States Senate election in Massachusetts
-1948 United States Senate election in Michigan
-1948 United States Senate election in Minnesota
-1948 United States Senate election in Mississippi
-1948 United States Senate election in Montana
-1948 United States Senate election in Nebraska
-1948 United States Senate election in New Hampshire
-1948 United States Senate election in New Jersey
-1948 United States Senate election in New Mexico
-1948 United States Senate election in North Carolina
-1948 United States Senate election in Oklahoma
-1948 United States Senate election in Oregon
-1948 United States Senate election in Rhode Island
-1948 United States Senate election in South Carolina
-1948 United States Senate election in South Dakota
-1948 United States Senate election in Tennessee
-1948 United States Senate election in Texas
-1948 United States Senate election in Virginia
-1948 United States Senate election in West Virginia
-1948 United States Senate election in Wyoming
-1948 United States Senate elections
-1948 United States Senate special election in Louisiana
-1948 United States Senate special election in North Carolina
-1948 United States elections
-1948 United States gubernatorial elections
 1948 United States presidential election
-1948 Utah gubernatorial election
-1948 Vermont gubernatorial election
-1948 Virginia's 4th congressional district special election
-1948 Virginia's 6th congressional district special election
-1948 Washington gubernatorial election
-1948 West Virginia gubernatorial election
-1948 Wisconsin gubernatorial election
-1949 United States elections
 1952 Democratic National Convention
 1952 Democratic Party presidential primaries
-1952 Progressive National Convention
 1952 Republican National Convention
 1952 Republican Party presidential primaries
 1952 United States presidential election
@@ -349,7 +210,6 @@
 2020 Republican Party presidential debates
 2020 Republican Party presidential primaries
 2021 Democratic National Committee chairmanship election
-2024 Constitution Party presidential primaries
 2024 Democratic National Convention
 2024 Democratic Party presidential debates and forums
 2024 Democratic Party presidential primaries
@@ -362,9 +222,7 @@
 2024 Republican Party presidential debates and forums
 2024 Republican Party presidential primaries
 2025 Democratic National Committee chairmanship election
-2028 Democratic Party presidential primaries
 2028 Republican National Convention
-2028 Republican Party presidential primaries
 Abram Hewitt
 Adlai Stevenson I
 Adlai Stevenson II
@@ -383,7 +241,6 @@ Andrew Stevenson
 Arizona Democratic Party
 Arthur P. Gorman
 Arthur Sewall
-Arthur Vandenberg
 August Belmont
 Augustus Schell
 B. Gratz Brown
@@ -392,109 +249,13 @@ Benjamin F. Hallett
 Bill Clinton
 Blue Dog Coalition
 California
-California Democratic Party
-California Democratic Party v. Jones
-Calvin S. Brice
-Carl Albert
-Caucus
-Champ Clark
-Charles A. Culberson
-Charles Frederick Crisp
-Charles Manatt
-Charles W. Bryan
-Chris Dodd
 Chuck Schumer
-Claude A. Watson
-Claude Kitchin
-Clem L. Shaver
-College Democrats of America
-Colorado Democratic Party
-Congressional Progressive Caucus
-Conservative Political Action Conference
-Cordell Hull
-Dale H. Learn
-David Allen Smalley
-David B. Culberson
-David Turpie
-David Wilhelm
-Debbie Wasserman Schultz
-Debra DeLee
-Delaware Democratic Party
-Delaware Plan
-Delegate (American politics)
-Democratic Attorneys General Association
-Democratic Congressional Campaign Committee
-Democratic Governors Association
-Democratic Legislative Campaign Committee
-Democratic National Committee
-Democratic National Convention
-Democratic Party (Northern Mariana Islands)
-Democratic Party (Puerto Rico)
 Democratic Party (United States)
-Democratic Party (United States) organizations
-Democratic Party of Arkansas
-Democratic Party of Connecticut
-Democratic Party of Georgia
-Democratic Party of Guam
-Democratic Party of Hawaii
-Democratic Party of Illinois
-Democratic Party of New Mexico
-Democratic Party of Oregon
-Democratic Party of Virginia
-Democratic Party of Wisconsin
-Democratic Party of the Virgin Islands
 Democratic Party presidential debates
-Democratic Senatorial Campaign Committee
-Democrats Abroad
-Dick Gephardt
-District of Columbia Democratic State Committee
-Dixiecrat
-Donald Fowler
 Douglas MacArthur
-Dwight Eisenhower
-Earl Warren
-Ed Rendell
-Edmund Muskie
-Edward J. Flynn
-Edward Martin (Pennsylvania politician)
-Ernest McFarland
-Estes Kefauver
-Factions in the Democratic Party (United States)
-Farrell Dobbs
-Fielding L. Wright
-Fifth Party System
-Finis J. Garrett
 Florida
-Florida Democratic Party
-Fourth Party System
-Francis Preston Blair Jr.
-Frank C. Walker
-Frank E. McKinney
 Franklin D. Roosevelt
 Franklin Pierce
-Fred R. Harris
-Fundraising for the 2008 United States presidential election
-Fundraising for the 2012 United States presidential election
-Fundraising in the 2016 United States presidential election
-Fundraising in the 2020 United States presidential election
 Fundraising in the 2024 United States presidential election
 George B. McClellan
-George H. Pendleton
 George J. Mitchell
-George M. Dallas
-George McGovern
-George S. Houston
-George Washington Jones (Tennessee politician)
-George White (Ohio politician)
-Gerald L. K. Smith
-Geraldine Ferraro
-Gilbert Hitchcock
-Glen H. Taylor
-Grace Carlson
-Graduated Random Presidential Primary System
-Green National Convention
-Greenback Party
-Grover Cleveland
-Hakeem Jeffries
-Harley M. Kilgore
-Harold Stassen

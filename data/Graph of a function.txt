@@ -1,391 +1,56 @@
-(ε, δ)-definition of limit
 Aaron Koblin
-Abel's test
-Ade Olufeko
-Adequality
-Adolphe Quetelet
-Alan MacEachren
-Alfred Inselberg
-Algebraic function
-Alternating series
-Alternating series test
-Analytic function
-André-Michel Guerry
-Antiderivative
-Arc length
-Arithmetico-geometric sequence
-Arthur H. Robinson
-Arthur Lyon Bowley
-Asymptote
-August Kekulé
-Bang Wong
-Ben Fry
-Ben Shneiderman
-Bernoulli number
 Bijection
-Binary relation
-Binomial series
-Binomial theorem
-Biological data visualization
-Bivariate function
-Boolean-valued function
 Boolean function
-Borden Dent
-Brook Taylor
-Bruce H. McCormick
-CPK coloring
 Calculus
 Cartesian coordinate system
-Cartesian coordinates
-Cartesian plane
 Cartesian product
-Cartography
-Catherine Plaisant
-Cauchy condensation test
-Chain rule
-Charles-René de Fourcroy
-Charles Booth (social reformer)
-Charles Dupin
-Charles Joseph Minard
-Chart
-Chartjunk
-Chemical imaging
-Christopher R. Johnson
-Claudio Silva (computer scientist)
-Clifford A. Pickover
 Codomain
-Colin Maclaurin
-Color coding in data visualization
-Complex-valued function
 Computer graphics
-Computer graphics (computer science)
-Concave function
 Constant function
-Constant of integration
-Constantin Zălinescu
-Continuous function
-Contour integral
-Contour line
-Convex function
-Crime mapping
-Critical point (mathematics)
 Curl (mathematics)
-Curvature
-Cynthia Brewer
-Data visualization
-David Goodsell
-David McCandless
 Derivative
-Diagram
-Differential (mathematics)
-Differential calculus
 Differential equation
-Differential form
-Differential geometry of curves
-Differential geometry of surfaces
-Differential operator
-Differentiation rules
-Direct comparison test
-Directional derivative
-Dirichlet's test
-Disc integration
 Divergence
 Divergence theorem
 Domain of a function
-E (mathematical constant)
-Edgar Anderson
-Edmond Halley
-Edward Tufte
-Edward Walter Maunder
-Ejnar Hertzsprung
 Engineering
 Engineering drawing
-Epigraph (mathematics)
-Erwin Raisz
-Euler substitution
-Euler–Maclaurin formula
-Exponential function
-Exterior derivative
-Extreme value theorem
-Factorial
-Fernanda Viégas
 Finance
-Finite difference
-First derivative test
-Florence Nightingale
-Flow visualization
-Fluxion
 Foundations of mathematics
-Fourier series
-Francis Amasa Walker
-Francis Galton
 Free variables and bound variables
-Fritz Kahn
 Function (mathematics)
 Function composition
-Function of a complex variable
-Function of a real variable
-Function of several complex variables
-Function of several real variables
-Function space
-Functional graph
-Functor
-Fundamental Theorem of Line Integrals
-Fundamental theorem of calculus
-Gabriel's horn
-Gaspard Monge
-General Leibniz rule
-Generality of algebra
-Generalized Stokes' theorem
-Geometric calculus
-Geometric series
-Georg von Mayr
-George Furnas
-George G. Robertson
-Geovisualization
-Gordon Kindlmann
-Gottfried Wilhelm Leibniz
 Gradient
-Graph drawing
 Graphic design
-Graphic organizer
-Green's theorem
-Hadley Wickham
-Hans Rosling
-Hanspeter Pfister
-Harmonic series (mathematics)
-Harry Beck
-Henry Gantt
-Henry Norris Russell
-Hessian matrix
-Higher-order function
-History of calculus
-History of the function concept
-Howard G. Funkhouser
-Howard T. Fisher
-Howard Wainer
 ISBN (identifier)
-Identity function
 Ideogram
-Imaging science
-Implicit differentiation
-Implicit function
-Indeterminate form
-Infinite series
-Infinitesimal
-Infinitesimal calculus
-Infographic
-Information art
 Information science
-Information visualization
 Injective function
-Integer-valued function
 Integral
-Integral calculus
-Integral equation
-Integral of secant cubed
-Integral of the secant function
-Integral test for convergence
-Integration Bee
-Integration by parts
-Integration by substitution
-Integro-differential equation
 Internet Archive
-Interval (mathematics)
-Inverse function
-Inverse functions and differentiation
-Isaac Newton
-Jacobian matrix and determinant
-Jacques Bertin
-Jeffrey Heer
-Jessica Hullman
-Jock D. Mackinlay
-John B. Peddle
-John Maeda
-John Snow
 John Tukey
-John Venn
-Joseph Priestley
-Karl Wilhelm Pohlke
-Kwan-Liu Ma
-L'Hôpital's rule
-Lagrange multiplier
 Lambda calculus
-Laplace operator
-Law of Continuity
 Lawrence J. Rosenblum
-Leibniz's notation
-Leibniz integral rule
-Leland Wilkinson
-Leonhard Euler
-Limit (mathematics)
-Limit comparison test
-Limit of a function
-Limit of a sequence
-Line integral
-Linear function
 Linear map
-Linearity of differentiation
-List of integrals of exponential functions
-List of integrals of hyperbolic functions
-List of integrals of inverse hyperbolic functions
-List of integrals of inverse trigonometric functions
-List of integrals of irrational functions
-List of integrals of logarithmic functions
-List of integrals of rational functions
-List of integrals of trigonometric functions
-List of limits
-List of mathematical functions
-List of types of functions
-Lists of integrals
-Logarithmic derivative
-Luigi Perozzo
-MR (identifier)
-Maclaurin series
-Manifold
-Manuel Lima
 Map
 Map (mathematics)
-Martin Krzywinski
-Martin M. Wattenberg
-Mary Eleanor Spear
-Mathematical diagram
 Mathematics
 Matrix calculus
-Matthew Henry Phineas Riall Sankey
-Mauro Martino
-Max O. Lorenz
-Maximum and minimum
-Mean value theorem
-Measurable function
 Medical imaging
-Method of Fluxions
-Michael Friendly
-Michael Maltz
-Miriah Meyer
-Misleading graph
-Molecular graphics
-Moritz Stefaner
-Morphism
-Multiple integral
-Multivalued function
-Multivariable calculus
-Natural logarithm
-Neuroimaging
-Newton's method
-Newton's notation for differentiation
-Nigel Holmes
-Normal (geometry)
-Notation for differentiation
 OCLC (identifier)
-Oliver Byrne (mathematician)
-One-sided limit
-Order of approximation
-Ordered pair
-Ordered triple
-Ordinary differential equation
-Otto Neurath
-Partial derivative
 Partial differential equation
-Partial fractions in integration
-Partial function
-Pat Hanrahan
-Patent drawing
 Photograph
-Pictogram
-Plane (geometry)
-Plane curve
-Plot (graphics)
-Polo Chau
 Polynomial
-Power rule
-Power series
-Precalculus
-Product rule
-Proof that 22/7 exceeds π
-Quadratic integral
-Quotient rule
-Radian
-Range of a function
-Ratio test
 Rational function
-Real-valued function
-Real line
 Real number
-Rectangular coordinate system
-Regiomontanus' angle maximization problem
-Related rates
 Relation (mathematics)
-Restriction (mathematics)
-Riemann integral
-Rolle's theorem
-Root test
-Rudolf Modley
-Sankey diagram
-Schematic
 Science
-Scientific modelling
-Scientific visualization
-Secant line
-Second derivative
-Second derivative test
 Sequence
-Set-valued function
 Set theory
-Sheelagh Carpendale
-Shell integration
-Skeletal formula
-Slope
-Smooth function
-Social visualization
-Software visualization
-Spatial analysis
-Stationary point
-Statistical graphics
-Steinmetz solid
-Stirling's approximation
-Stochastic differential equation
-Stokes' theorem
-Stuart Card
-Sum rule in differentiation
-Surface (mathematics)
-Surface integral
-Surface plot (graphics)
 Surjective function
-Table (information)
-Tamara Munzner
-Tangent
-Tangent half-angle substitution
-Taylor's theorem
-Taylor series
-Technical drawing
-Technical illustration
 Technology
-Telescoping series
 Tensor
-Tensor calculus
-Term test
-Tetraview
-The Method of Mechanical Theorems
 Thomas A. DeFanti
 Three-dimensional space
-Tom M. Apostol
-Toussaint Loua
-Trapezoidal rule
-Trigonometric function
-Trigonometric substitution
-User interface design
-Vector calculus
-Vertical translation
-Visual analytics
-Visual culture
 Visual perception
 Visualization (graphics)
-Volume cartography
-Volume integral
-Volume rendering
-W. E. B. Du Bois
-William Playfair
-William S. Cleveland
-World Scientific Publishing
-Y-intercept

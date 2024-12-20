@@ -1,8 +1,5 @@
-/e/ (operating system)
 4MLinux
-AIGLX
 ALT Linux
-ATI (brand)
 AlmaLinux
 Alpine Linux
 Android-x86
@@ -20,7 +17,6 @@ Austrumi Linux
 BLAG Linux and GNU
 BackBox
 BackTrack
-Beryl (window manager)
 Bharat Operating System Solutions
 BioSLAX
 BlackArch
@@ -55,7 +51,6 @@ Debian
 Deepin
 DemoLinux
 Devuan
-DistroWatch
 DivestOS
 DoudouLinux
 EMUI
@@ -77,7 +72,6 @@ Foresight Linux
 FreedomBox
 Freespire
 Frugalware Linux
-GNU GPL
 GNU Guix System
 GNewSense
 GOS (operating system)
@@ -88,8 +82,6 @@ GoboLinux
 Gobuntu
 GrapheneOS
 HandyLinux
-Hyperbola GNU/Linux-libre
-IA-32
 Immunix
 IodéOS
 Jurix
@@ -120,8 +112,6 @@ Linux Router Project
 Linux distribution
 Linux for PlayStation 2
 List of Linux distributions
-Live CD
-Live USB
 Lubuntu
 MCC Interim Linux
 MIUI
@@ -135,8 +125,6 @@ Mer (software distribution)
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Musix GNU+Linux
-NVIDIA
 Natural language
 Network Security Toolkit
 NimbleX
@@ -153,7 +141,6 @@ Open Enterprise Server
 Operating system
 Oracle Linux
 PCLinuxOS
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
@@ -164,7 +151,6 @@ PixelExperience
 Platypux
 Pop! OS
 Porteus (operating system)
-Portuguese language
 Puppy Linux
 PureOS
 Q4OS
@@ -194,7 +180,6 @@ Software license
 Software release life cycle
 Solus (operating system)
 SolydXK
-SourceForge
 Source Mage
 SparkyLinux
 Splashtop OS
@@ -210,7 +195,6 @@ TopologiLinux
 Trisquel
 Turbolinux
 Turkix
-UNetbootin
 Ubuntu
 Ubuntu Budgie
 Ubuntu Cinnamon
@@ -222,8 +206,6 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 VectorLinux
 Vine Linux
 Void Linux

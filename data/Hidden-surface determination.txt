@@ -6,81 +6,52 @@
 3D modeling
 3D printing
 3D projection
-3D rendering
-3D scanning
 Affine transformation
 Algorithm
-Aliasing
 Alpha compositing
 Animation
 Anisotropic filtering
-BSP tree
 Back-face culling
-Beam tracing
-Binary space partitioning
-Bounding volume hierarchy
-Cel shading
-Centroid
-Checkerboard rendering
 Clipping (computer graphics)
-Clipping plane
 Collision detection
 Comparison of vector graphics editors
 Computer-aided design
 Computer-generated imagery
 Computer animation
-Computer graphics (computer science)
 Computer graphics lighting
 Computer representation of surfaces
 Cone tracing
 Crowd simulation
 Deferred shading
-Depth complexity
 Diffusion curve
-Divide-and-conquer algorithm
 Fluid animation
 Global illumination
 Graphic design
-Graphical projection
 Graphics software
-Hidden-line removal
 Image-based modeling and rendering
 Isometric video game graphics
-Kd-tree
 Layers (digital image editing)
-List of 3D animation software
 List of 3D computer graphics software
 List of 3D modeling software
 List of 3D rendering software
 List of computer graphics algorithms
 Mode 7
 Motion capture
-Octree
-Painter's algorithm
 Parallax scrolling
 Path tracing
 Pixel
 Planar projection
 Polygon mesh
-Portal rendering
-Potentially visible set
-Quake I
 Raster graphics editor
-Rasterization
-Ray casting
 Ray tracing (graphics)
 Reflection (computer graphics)
 Rendering (computer graphics)
-Rendering algorithm
-Rendering pipeline
 Rotation (mathematics)
-S-buffer
 Scaling (geometry)
 Scanline rendering
 Shader
 Shading
 Shadow mapping
-Shadow volume
 Shear matrix
 Skeletal animation
 Skybox (video games)
@@ -88,25 +59,14 @@ Sorting
 Spectral rendering
 Surface triangulation
 Texel (graphics)
-Text-to-image model
 Texture mapping
-Translation (geometry)
 Triangle mesh
 Unbiased rendering
-Vector graphics
 Video game
-Viewing frustum
-Virtual camera
 Virtual cinematography
-Virtual engineering
 Virtual reality
-Visibility problem
 Visual effects
 Visualization (graphic)
-Volume rendering
 Voxel
-Warnock algorithm
 Wayback Machine
 Wire-frame model
-Z-buffering
-Z-fighting

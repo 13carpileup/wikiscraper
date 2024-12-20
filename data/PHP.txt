@@ -1,499 +1,97 @@
-"Hello, World!" program
-.NET Framework
 32-bit
-64-bit
-ALGOL
 API
-APL (programming language)
-ASP.NET
-Abstract Syntax Tree
-Abstract method
-Abstract type
-Academic Free License
-ActiveX
-Active Server Pages
-Ada (programming language)
 Adobe Flash
-Ajax (programming)
-Alternative PHP Cache
-Alternative terms for free software
 Amazon Web Services
-Andi Gutmans
-Andrei Zmievski
-Anonymous class
 Anonymous function
-Apache HTTP Server
-Apache JServ Protocol
 Apache License
-Apple Public Source License
-Application server
-Aptana
-Archive format
-Array data type
-Artistic License
 Assembly language
-Asynchronous Server Gateway Interface
-Automattic
 BASIC
-BSD license
-BSD licenses
-Beerware
-Behat (software)
 Beta development stage
-Binary code
-Binary number
-Birthday attack
 Bloomberg Businessweek
-Boilerplate code
-Boolean data type
 Bottom type
-Branching (version control)
-Browser Helper Object
 Browser extension
 C++
-C-programming
 COBOL
-CSPRNG
-CURL
 C (programming language)
 C Sharp (programming language)
-C variable types and declarations
 Cache (computing)
-CakePHP
-Callback function
-Canvas element
-Client-side
-Client-side persistent data
 Client (computing)
-Closure (computer programming)
 Cloud computing
-CodeIgniter
-Code review
-Codelobster
-Command-line
-Command-line interface
-Command line interface
-Commit (version control)
-Common Development and Distribution License
-Common Gateway Interface
 Common Intermediate Language
 Communication protocol
-Community of practice
-Comparison of free and open-source software licenses
-Comparison of free software for audio
 Comparison of integrated development environments
-Comparison of open-source and closed-source software
-Comparison of open-source configuration management software
-Comparison of open-source operating systems
-Comparison of open-source wireless drivers
-Comparison of programming languages
-Comparison of programming languages (syntax)
-Comparison of shopping cart software
-Comparison of source-code-hosting facilities
-Compiled language
 Compiler
 Compiling
-Composer (software)
 Computing platform
-Constructor (computer science)
-Constructor (object-oriented programming)
-Content management system
-Contributor License Agreement
-Control structure
-Copyleft
-Creative Commons license
-Cross-origin resource sharing
-Cross-site scripting
-DOM event
-Daemon (computing)
-Danish Canadians
 Data structure
-Data validation
 Database
 De facto
-Debian Free Software Guidelines
-Definition of Free Cultural Works
-Delimiter
-Destructor (computer science)
 Device driver
 Digital rights management
 Disjunctive normal form
-Doctrine (PHP)
-Document Object Model
 Dollar sign
-Drupal
-Dynamic-link library
-Dynamic HTML
-Dynamic dispatch
-Dynamic typing
-Dynamic web application
-Dynamic web page
-EZ Platform
-EZ Publish
 Eclipse (software)
-Eclipse Public License
-Elephant
-Encrypted Media Extensions
-Enumerated type
-Erlang (programming language)
-Exception (computer science)
 Exception handling
-Execution (computing)
-FastCGI
-Fat-Free Framework
-File Transfer Protocol
-File inclusion vulnerability
 Filename extension
-Final method
-Final type
-Floating-point number
-Foo
-Foreach loop
-Foreign function interface
 Fork (software development)
-Formal specification
-Forth (programming language)
-Fortran
-Free-form language
-Free-software license
-Free Software Foundation
-Free Software Movement of India
-Free and open-source graphics device driver
-Free and open-source software
-Free license
 Free software
-Free software movement
-Frontend and backend
-FuelPHP
-Function pointer
-Function prototype
-Function table
-Functional programming
-GNU Affero General Public License
 GNU General Public License
-GNU Lesser General Public License
-GNU Manifesto
 Garbage collection (computer science)
-Gears (software)
-General-purpose programming language
-Generational list of programming languages
-Generator (computer programming)
 GitHub
-Global variable
 Go (programming language)
-Google Native Client
-Goto
-Gradual typing
-GraphQL
 Graphical user interface
 Graphics processing unit
-Gratis versus libre
-Grav (CMS)
-Gyroscope (software)
-HHVM
 HTML
-HTML5 File API
-HTML audio
-HTML video
-HTTP
-HTTP/2
-HTTP/3
-HTTPS
-HTTP handler
-Hack (programming language)
-Handle (computing)
-Hash function
-Hash table
-Hash values
 Haskell
-Here document
-Heredoc
-Hexadecimal
-HipHop for PHP
-History of free and open-source software
-History of programming languages
-Horde (software)
-Hydration (web development)
-IA-32
 IBM
-IBM Z
-IBM i
 ISBN (identifier)
-ISC license
 Imperative programming
-Implementation
-Indexed Database API
-Indiana University
-Information hiding
-Inherited class
-Integer (computer science)
 Interface (computing)
-Intermediate language
-International Components for Unicode
 Internet
-Internet Information Services
 Internet Relay Chat
-Internet Server Application Programming Interface
 Interpreter (computing)
 Israel
-Iterator
-IteratorAggregate
-JIT compilation
-JSGI
-JSON
-Jakarta Server Pages
-Jakarta Servlet
 JavaScript
-JavaServer Pages
 Java (programming language)
-Java Portlet Specification
-Java bytecode
-JetBrains
-Jim Winstead
-Joomla
-Julia (programming language)
-Just-in-time compilation
-Just-in-time compiler
-Keyword (computer programming)
 Khronos Group
-Kotlin (programming language)
-LAMP (software bundle)
-Laminas
-Language construct
-Laravel
-Late static binding
-Left-shift operator
-Li3 (software)
 Library (computing)
-License proliferation
 Lightweight Directory Access Protocol
 Linux
 Lisp (programming language)
-List of Apache modules
-List of Apache–MySQL–PHP packages
-List of PHP accelerators
-List of PHP editors
-List of PHP extensions
-List of PHP libraries
-List of application servers
-List of commercial open-source applications and services
-List of formerly free and open-source software
-List of formerly proprietary software
-List of free-software events
-List of free and open-source Android applications
-List of free and open-source iOS applications
-List of free and open-source software organizations
-List of free and open-source software packages
-List of free and open-source web applications
-List of free software project directories
-List of free television software
-List of office suites
-List of open-source bioinformatics software
-List of open-source codecs
-List of open-source health software
-List of open-source routing platforms
-List of open-source software for mathematics
-List of open-source video games
-List of programming languages
-List of programming languages by type
-Local variable
-Long-term support
-Lua (programming language)
-MAMP
 MATLAB
-MD5
-MIME
-MIT License
-ML (programming language)
-MODX
 MacOS
-Magic quotes
 Mashup (web application hybrid)
 MediaWiki
-Media Source Extensions
-Member variable
-Microservices
 Microsoft
-Microsoft Azure
-Microsoft Open Specification Promise
-Microsoft SQL Server
 Microsoft Windows
-Midgard (software)
-Mod jk
-Mod lisp
-Mod mono
-Mod parrot
-Mod perl
-Mod proxy
-Mod python
-Mod ruby
-Mod wsgi
-Moodle
-Mozilla Public License
-Mozilla software rebranded by Debian
-Multi-paradigm programming language
-Multithreading (software)
-MySQL
-NPAPI
-Name binding
-Namespace
-National Vulnerability Database
-Neos Flow
 NetBeans
-Netscape Server Application Programming Interface
-Newline
-Non-English-based programming languages
-Null coalescing operator
-Object-Relational Mapping
 Object-oriented programming
-Object (computer science)
-Object Pascal
-Object–relational mapping
-Octal
-Opcode
-Open-core model
-Open-source-software movement
-Open-source hardware
-Open-source license
 Open-source software
-Open-source software advocacy
-Open-source software development
-Open-source software security
 OpenVMS
-Open API
-Open Web Interface for .NET
 Operating system
-Oracle iPlanet Web Server
-Outline of free software
-PEAR
-PHP-Fusion
-PHP-GTK
-PHP-Nuke
-PHPEdit
-PHPUnit
-PHP Extension Community Library
-PHP License
-PHP accelerator
-PHP syntax and semantics
-PRADO (framework)
 Parameter (computer programming)
-Parrot VM
-Parrot intermediate representation
-Parrot virtual machine
-Parser
-Parsing
 Pascal (programming language)
-Password hashing
-PeachPie
 Perl
-Permissive software license
-Personal homepage
-Phalanger (compiler)
-Phalcon (framework)
-PhpBB
-PhpStorm
-Phusion Passenger
-Plack (software)
 Plug-in (computing)
-Plugin (computing)
-Plush toy
-Pop PHP Framework
-PostgreSQL
-PrestaShop
-Primitive type
 Procedural programming
-ProcessWire
 Programmer
 Programming language
-Programming language implementation
 Programming language theory
 Programming paradigm
-Progressive web app
 Prolog
-Proprietary device driver
-Proprietary firmware
 Proprietary software
-Pseudorandom number generator
 Public domain
-Push technology
 Python (programming language)
-Python License
-Python Software Foundation License
-Qcodo
-Quercus (software)
-REST
-R (programming language)
-Rack (web server interface)
-Ramat Gan
-Rapid application development
-Rasmus Lerdorf
-React (JavaScript library)
-Recursive acronym
-Reference implementation
-Reflective programming
-Relational database management system
-Remote scripting
-Request for Comments
-Resin (software)
-Resource-oriented architecture
-Revolution OS
-Rewrite (programming)
-Rich Internet Application
-Right-shift operator
-Roslyn (compiler)
 Ruby (programming language)
-Rust (programming language)
-SCO–Linux disputes
 SQL
-SQLite
-SVG
-Sam Ruby
-Sascha Schumann
-Scientific notation
-Scratch (programming language)
 Scripting language
-Server-sent events
-Server-side
-Server-side scripting
-Server Side Includes
-Server application programming interface
-Shane Caraveo
-Shared Source Initiative
-Shared memory (interprocess communication)
-Shared web hosting
-Shell script
-Sigil (computer programming)
 Signed number representations
-SilverStripe
-Silverstripe CMS
-Simple Common Gateway Interface
-Simple Machines Forum
-Simula
-Single-page application
-Sleepycat License
-Smalltalk
 Software bug
 Software design
 Software developer
 Software development kit
-Software extension
 Software framework
 Software license
-Software patents and free software
 Software release life cycle
 Software testing
-Software versioning
-Solution stack
-Source-available software
 Source code
-Sovereign Tech Fund
-Speech synthesis
-Squid (software)
-Stack Overflow
-Static variable
-Static web page
-Stdio.h
-Stig Bakken
-Strcmp
-String (computing)
-String literal

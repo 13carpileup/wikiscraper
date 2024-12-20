@@ -1,33 +1,19 @@
-Corman Common Lisp
 IEC 61355
-Hal Abelson
 ISO 31-3
 File Allocation Table
 ISO 15926 WIP
-History of the Scheme programming language
 ISO 10962
-Common Lisp Interface Manager
 ISO 2709
-ISO/IEC 8859-14
-CommonLoops
-Genera (operating system)
 ISO 22000
-ISO/IEC 27005
 Flowchart
-Common Lisp HyperSpec
 ISO 639
 ISO 732
-ISO/IEC 80000
 IEC 62682
 ISO 21001
 ISO 14031
-LispWorks
-Gerald Jay Sussman
 International Bank Account Number
 ISO 55000
-Guy L. Steele Jr.
 ISO 10303-21
-ISO/IEC 17025
 ISO 20400
 ISO 2921
 IATF 16949
@@ -35,18 +21,11 @@ Isofix
 ISO 2848
 IEC 61030
 ISO 31-6
-ISO 14000
 135 film
-ISO/IEC 7816
 IEC 62455
-ISO 8373
-Bigloo
 ISO 7002
-Edmund Berkeley
 Interpreter (computing)
-ISO/IEC 17024
 ISO 860
-ISO/IEC 7813
 ArmSCII
 ISO 9660
 IEC 62196
@@ -54,59 +33,33 @@ FreeBSD
 ISO 3166
 EN 62262
 Film speed
-HP-UX
-IEC 62351
-Daniel Weinreb
-Dynamic typing
 Fieldbus
 ISO 13399
 DEC Alpha
-Flavors (programming language)
 IS-IS
 ISO 10161
 ISO 19439
 ISO 6943
 Delivery Multimedia Integration Framework
-ISO/IEC 10021
 International Standard Atmosphere
-ISO/IEC 7064
 ISO 18245
 IEC 60870
-ISO/IEC 10967
-Chicken (Scheme implementation)
 ISO 31-4
-ISO/IEC 27006
-ISO/IEC 15288
 IEC 81346
-CLISP
 ISO 3103
-Dialect (computing)
 Computer architecture
 IEC 61360
-Common Lisp Object System
-ISO/IEC 27000
 DOS
-Harlequin (software company)
-Lisp Machine Lisp
 Horsepower
 IEC 61511
-ISO/IEC 29119
-ISO/IEC 5218
 ISO 19600
 IEEE 754
-ISO/IEC 15504
-ISO/IEC 27001
-ISO/IEC 8652
 C++
-ISO 7027
 ALGOL 60
 International Standard Identifier for Libraries and Related Organizations
-Allegro Common Lisp
 C Sharp (programming language)
-ISO/IEC 14651
 ISO 9897
 ISO 2711
-ISO/IEC 27040
 Guidelines for the Definition of Managed Objects
 IEC 62061
 Common Criteria
@@ -115,28 +68,16 @@ AES3
 ISO 15924
 IEC 60906-1
 ISO 690
-EuLisp
-ISO/IEC 8859-13
-Functional programming
 IEC 60929
-ISO/IEC 8859-15
 ISO 10160
 ISO 639-5
-LeLisp
 Computing platform
 International Standard Text Code
-ISO/IEC 21827
 ISO-TimeML
 COBOL
-*Lisp
-How to Design Programs
-ISO 19092-1
-ISO/IEC 8859-3
-Fuse (automotive)
 ISO 3166-2
 Full BASIC
 IEC 61131
-Embeddable Common Lisp
 Computer hardware
 ISO 22300
 Graph Query Language
@@ -146,10 +87,8 @@ CHILL
 Garbage collection (computer science)
 Advanced Video Coding
 ISO 5427
-BSD licenses
 ISO 31000
 Lexical Markup Framework
-Daniel G. Bobrow
 ISO 843
 ISO 5426
 Cloud Infrastructure Management Interface
@@ -158,15 +97,10 @@ ECMAScript for XML
 Knowledge Discovery Metamodel
 ISO 15022
 ISO 10006
-ISO/IEC 24727
 IEC 62379
 Equal-loudness contour
 ISO 7010
-ISO/IEC 33001
-Clojure
 IEC 60870-5
-ISO/IEC 24744
-ISO/IEC 11404
 Common Language Infrastructure
 ISO 657
 ISO 965
@@ -174,79 +108,56 @@ Digital object identifier
 ISO 639-6
 Han Xin code
 Kappa number
-ISO/IEC 8859-10
 ISO 15926
 ISO 4031
 Common Object Request Broker Architecture
 ISO 20022
 ISO 10628
 Dynamic Adaptive Streaming over HTTP
-ISO/IEC 19794-5
 FTAM
-ISO/IEC 19770
-ISO/IEC 10116
-Berkeley Software Distribution
 ISO 31-10
-ISO 31-9
 ISO 31-7
-BBN Technologies
 ISO 19011
 ISO 4157
 ISO 10218
-ISO 9000
 Battery nomenclature
 ISO 50001
-ISO/IEC 7812
-Cadence SKILL
-ISO/IEC 20000
 ISO 259
 Business Process Model and Notation
 IEC 60034
 ISO 2033
 ISO 6438
-Cygwin
 GitHub
 AES47
 ISO 45001
 ISO 8583
 Linked list
 ISO 11940-2
-ISO/IEC 19788
 International Securities Identification Number
 IEC 60038
 ISO 639-3
 ISO base media file format
 ISO 10303-28
-ISO/IEC 42010
 ISO 3166-3
 Apple Inc.
-BBN LISP
-ISO/IEC 11179
 ISO 13485
 ISO 14617
 FDI World Dental Federation notation
 ISO 4
 IEC 60027
-David Luckham
-Emacs Lisp
 Bytecode
-ISO/IEC 7811
 Linguistic categories
 International Electrotechnical Commission
-ISO/IEC 7810
 EXPRESS (data modeling language)
 ISO 17100
 ISO 1629
 ISO 26262
-JScheme
-Lisp-1 vs. Lisp-2
 ASMO 449
 Hole punch
 ISO 2145
 Geospatial metadata
 ECMAScript
 Geography Markup Language
-Greenspun's tenth rule
 JPEG XL
 ISO 5428
 IEC 61970
@@ -254,7 +165,6 @@ ISO 28000
 Android (operating system)
 IEC 60364
 ISBN
-ISO/IEC 8859-12
 IEC 63110
 Fuel oil
 ISO 15189
@@ -263,30 +173,20 @@ ISO 26000
 ISO 999
 ISO 216
 ISO 5776
-ISO/IEEE 11073
 Lisp (programming language)
-Common Lisp the Language
-Apple Dylan
 Compiler
-International Standard Serial Number
-Common Lisp
 ANSI escape code
 Fiber Distributed Data Interface
 JBIG
 ISO 11940
 Computer Graphics Metafile
-John McCarthy (computer scientist)
 ISO 11170
-ISO/IEC 8859-9
 IEC 62700
 IEC 60320
 ISO 10303-22
 ISO 6709
 ISO 31-1
-ISO/IEC 2022
-Julie Sussman
 ANSI C
-Dylan (programming language)
 ISO 14698
 ISO 31-11
 ISO 7637
@@ -298,41 +198,23 @@ ISO 1745
 ISO 31-8
 ISO 7736
 ISO 8000
-IA-64
 C (programming language)
-ARM architecture
 ISO 14971
-AutoLISP
 IEC 60601
-David A. Moon
-ISO/IEC 11801
-COWSEL
 ISO 22301
-Gambit (scheme implementation)
 ISO 5964
-IEC 60980-344
 IEC 60870-6
 ISO 1
 ISO 898
 ISO 233
 IEC 62304
-ISO/IEC 27002
-Hy (programming language)
-ISO/TR 11941
 ISO 4217
 British Standard Pipe
 IEC 61499
-Cynthia Solomon
 A440 (pitch standard)
 Ada Semantic Interface Specification
-ISO/IEC 9995
-Brian Harvey (lecturer)
-Denison Bollay
-ISO/IEC 8859-5
-ISO 19092-2
 IEC 60228
 GNU General Public License
-ISO/IEC 12207
 ISO 5775
 ISO 13584
 Common Logic
@@ -340,125 +222,82 @@ DICOM
 International Standard Music Number
 ISO 15686
 ISO 128
-ISO/IEC 9529
-ISO/IEC 8859-2
 International standard
 ISO 2015
-Interlisp
 IEC 62056
 Accuracy and precision
 ISO 6344
 ISO 3166-1
-ISO 12006
-ISO/IEC 19752
-ISO/IEC 6523
 ISO 11992
-ISO 2047
 ISO 14644
 IEC 61334
 International Standard Name Identifier
-ISO/IEC 8859-4
 ISO 8501-1
 ISO 4165
-ISO 31-13
-ISO/IEC 15897
 Hazard symbol
 ISO 1000
-ISO/IEC 38500
-Franz Lisp
-History of the Dylan programming language
 E series of preferred numbers
 IEC 61162
 ISO 10007
 ISO 22395
-Community of practice
 Comparative Tracking Index
 IEC 62264
-ISO 31-12
 ISO 31
 ISO 2852
 Essential Video Coding
 Java (programming language)
 Legal Entity Identifier
-ISO/IEC 8859-16
-ISO/IEC 8859-6
 ISO 11784 and ISO 11785
 ISO 2
 IEC 63382
-CAN bus
 COLLADA
 ISO 6346
-Kawa (Scheme implementation)
 IEC 60446
 JPEG XR
 ISO 668
-Clozure CL
 ISO 21500
-ISO/IEC 27000-series
 ISO-8859-8-I
-LISP 2
 ISO 3307
 ISO 15398
 ISO 2788
 ISO 3977
-ISO/IEC 18014
 Kunrei-shiki romanization
-ISO/IEC 646
 IEC 61883
 ISO 639-2
 ISO 9362
 IEC 61968
-LFE (programming language)
 ISO 8601
 JPIP
-David Park (computer scientist)
 JavaScript
 ISO 16750
-Chez Scheme
 IEC 60068
-ISO/IEC 8859-8
 ISO 9564
-GNU Guile
-Arc (programming language)
 IEC 60309
-ISO/IEC 8859-1
 ISO 7200
 Antimagnetic watch
-Language Of Temporal Ordering Specification
 ISO 10303
-ISO/IEC 8859
 International Standard Musical Work Code
 ISO 9241
 ISO 13406-2
 ISO 8178
-ISO/IEC 15693
 IO-Link
 ISO 2146
 International Standard Audiovisual Number
-Conditional (computer programming)
 Go (programming language)
 Hot shoe
-Armed Bear Common Lisp
-Knowledge Engineering Environment
 ISO 217
 ISO 11783
-ISO/IEC 4909
 ISO 56000
 ISO 8691
 IEC 63119
 IBM AIX
-Ikarus (Scheme implementation)
 ISO 3864
 IP-XACT
 IEC 61508
-Kent Pitman
 ISO 2014
 ISO 31-5
 IEC 62366
-AArch64
-ISO/IEC TR 12182
 19-inch rack
-Le Lisp
 ISO 13567
 ISO 13490
 JPEG XS
@@ -467,33 +306,21 @@ ISO 7001
 IEC 62325
 Digital Addressable Lighting Interface
 ISO 20121
-Joel Moses
-ISO/IEC 8859-7
 ISO 704
-ISO/IEC 9126
 ISO 9
 ISO 31-0
 IEC 61850
 LCEVC
 International Organization for Standardization
-ISO/IEC 8859-11
-Game Oriented Assembly Lisp
-Gambit (Scheme implementation)
 ISO 6385
 ISO 639-1
 ISO 14224
 IEC 60269
 ISO 15919
-Higher-order function
 HTML
 Graphical Kernel System
-CMU Common Lisp
-ISO/IEC 14443
 JPEG 2000
-GNU Common Lisp
-IA-32
 IEC 61851
-ISO/IEC 9797-1
 International Standard Recording Code
 Linux Standard Base
 IEC 61131-3

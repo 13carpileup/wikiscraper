@@ -8,17 +8,13 @@ Accel World
 Algorithm
 Algorithm design
 Algorithmic efficiency
-Algorithms
 AltspaceVR
-Ammunition
 Analysis of algorithms
 Android XR
 AntVR
 Apple Inc.
 Apple Vision Pro
 Application security
-Armstrong Labs
-Artificial brain
 Artificial intelligence
 Asynchronous reprojection
 Attack of the Killer App
@@ -27,11 +23,7 @@ Augmented reality
 Automata theory
 Automated planning and scheduling
 Avatar (computing)
-Bamzooki
-Behavior informatics
 Bibcode (identifier)
-Bio-inspired computing
-Biophysical environment
 Black Mirror
 Bob Sproull
 Boštjan Burger
@@ -43,12 +35,9 @@ Brilliant Labs
 Carolina Cruz-Neira
 CastAR
 Cave automatic virtual environment
-Cellular computing
 Char Davies
 Cinematic virtual reality
-Circuit (computer science)
 Code Lyoko
-Cognitive informatics
 Commercial off-the-shelf
 Communication
 Compiler construction
@@ -60,10 +49,8 @@ Computational complexity theory
 Computational engineering
 Computational geometry
 Computational mathematics
-Computational neuroscience
 Computational physics
 Computational social science
-Computational theory of mind
 Computer-mediated reality
 Computer accessibility
 Computer animation
@@ -77,7 +64,6 @@ Computer security
 Computer vision
 Computing
 Computing platform
-Conceptual blending
 Concurrency (computer science)
 Concurrent computing
 Control theory
@@ -88,12 +74,9 @@ Cyberith Virtualizer
 Cyberwarfare
 Daniel J. Sandin
 Data mining
-Data processing
 Database
 Decision-making
 Decision support system
-Decision theory
-Decoding the Universe
 Den-noh Coil
 Dependability
 Dieter Schmalstieg
@@ -101,7 +84,6 @@ Digimon
 Digital art
 Digital library
 Digital marketing
-Digital twin
 Discrete mathematics
 Distributed artificial intelligence
 Distributed computing
@@ -119,12 +101,10 @@ Embedded system
 Enterprise information system
 Enterprise software
 Eric Howlett
-Event processing
 Extended reality
 EyeTap
 Eye tracking
 Face tracking
-FightBox
 Finger tracking
 Form factor (design)
 Formal language
@@ -133,9 +113,7 @@ Foveated rendering
 Fred Brooks
 Free viewpoint television
 Futurama
-Genome informatics
 Geographic information system
-Gilles Fauconnier
 Godot (game engine)
 Golden-i
 Google
@@ -166,24 +144,15 @@ ISSN (identifier)
 Image-based modeling and rendering
 Image compression
 Immersion (virtual reality)
-Improbable (company)
-Inforg
-Information overload
-Information processing theory
 Information retrieval
 Information security
-Information storage
-Information structure
 Information system
 Information technology
 Information theory
-Infosphere
 Integrated circuit
 Integrated development environment
-Intelligence
 Interaction design
 Interactive art
-International Symposium on Mixed and Augmented Reality
 Interpreter (computing)
 Intrusion detection system
 Ivan Sutherland
@@ -192,13 +161,10 @@ Jerome Foster II
 Jetpack Compose
 John Carmack
 Khronos Group
-Kinesthetic learning
 Kiss Me First (TV series)
 Knowledge representation and reasoning
-Language barrier
 Lawrence J. Rosenblum
 Leap Motion
-Learning
 Library (computing)
 Liquid Image
 List of HTC Vive games
@@ -206,7 +172,6 @@ List of Meta Quest games
 List of Oculus Rift games
 List of PlayStation VR2 games
 List of PlayStation VR games
-List of augmented reality software
 List of computer size categories
 List of software related to augmented reality
 List of virtual reality headsets
@@ -215,7 +180,6 @@ Machine learning
 Magic Leap
 Mark Bolas
 Mark Stephen Meadows
-Mark Turner (cognitive scientist)
 Mark Zuckerberg
 Mathematical analysis
 Mathematical optimization
@@ -231,24 +195,17 @@ Michelle and Uri Kranot
 Microsoft Corporation
 Microsoft HoloLens
 Middleware
-Mind
-Mind uploading
 Ming C. Lin
-Mixed Reality (album)
-Mixed reality game
 Mobile device
-Mockup
 Model of computation
 Modeling language
 Morton Heilig
 Multi-agent system
 Multi-task learning
 Multimedia database
-Multimodal interaction
 Multiprocessing
 Multithreading (computer architecture)
 Myron W. Krueger
-Natural computing
 Natural language processing
 NeosVR
 Netrunner
@@ -259,17 +216,12 @@ Network scheduler
 Network security
 Network service
 Networking hardware
-Neural computation
-Neurocomputing
-Neuroinformatics
 Neuromancer
 Niantic, Inc.
 Nicole Stenger
-Noise-canceling headphones
 Nonny de la Peña
 Nosedive (Black Mirror)
 Numerical analysis
-Object permanence
 Oculus Go
 Oculus Quest
 Oculus Rift
@@ -299,9 +251,7 @@ Personal protective equipment
 Pervasive game
 Philippe Bekaert
 Philosophy of artificial intelligence
-Philosophy of information
 Photograph manipulation
-Physical computing
 Pico 4
 Pimax
 PlayStation Move
@@ -335,19 +285,15 @@ Ready Player Two
 Real-time computing
 Real life
 Reality Labs
-Reason
 Rec Room (video game)
 Reinforcement learning
-Remote control
 Rendering (computer graphics)
 Requirements analysis
 Resonite
-Robot
 Rokoko (company)
 Room-scale
 S2CID (identifier)
 SSSS.Gridman
-Samsung
 Samsung Electronics
 Samsung Gear VR
 Sansar (video game)
@@ -358,10 +304,8 @@ Security hacker
 Security service (telecommunication)
 Sega VR
 Semantics (computer science)
-Semiotics
 Sensorama
 Sensorium Corporation
-Signal
 Simon Birrell
 Simulated reality
 Simulation hypothesis
@@ -372,8 +316,6 @@ SixthSense
 Smartglasses
 Snow Crash
 Social computing
-Social influence
-Social information processing
 Social software
 Software configuration management
 Software construction
@@ -388,12 +330,10 @@ Software quality
 Software repository
 Solid modeling
 Spatial computing
-State (computer science)
 Statistics
 Steven K. Feiner
 Stochastic computing
 Stream processing
-Stryker
 Sundar Pichai
 Superhot
 Superhuman Samurai Syber-Squad
@@ -420,7 +360,6 @@ Transhumanism
 Ubiquitous computing
 United States Air Force
 United States Army
-United States Army Research Laboratory
 Unity (game engine)
 Unreal Engine
 Unsupervised learning
@@ -436,7 +375,6 @@ Varjo
 Very Large Scale Integration
 Video game
 Virtual Boy
-Virtual environment
 Virtual fixture
 Virtual graffiti
 Virtual machine

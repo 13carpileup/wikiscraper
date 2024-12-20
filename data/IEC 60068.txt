@@ -1,19 +1,13 @@
 IEC 60870-6
-List of International Electrotechnical Commission standards
 IEC 62056
 International standard
 Universal Coded Character Set
-Shock (mechanics)
 HTML
-ISO/IEC 12207
 Guidelines for the Definition of Managed Objects
 Graph Query Language
 File Allocation Table
-ISO/IEC 19788
-ISO/IEC 5218
 Full BASIC
 AES3
-ISO/IEC 24727
 IEC 62304
 IEC 60446
 IEC 61883
@@ -21,70 +15,44 @@ IEC 60870
 MPEG-D
 IEC 61499
 IEC 60929
-ISO/IEC 9995
-IEC 60980-344
-MIL-HDBK-2036
 Universal Disk Format
-ISO/IEC 15693
 IEC 61508
 Ada Semantic Interface Specification
-ISO/IEC 80000
-MIL-STD-810
-IEC 62351
-ISO/IEC 4909
-ISO/IEC 14443
 IEC 60038
 MPEG-2
 MHEG-5
 USB
-ISO/IEC 38500
 Linux Standard Base
-ISO/IEC 19770
-ISO/IEC 15897
 International Standard Identifier for Libraries and Related Organizations
 IEC 60228
-ISO/IEC 10116
 IEC 62196
 IEC 61131-3
 ECMAScript
 IEC 62061
 MPEG-1
-ISO/IEC 7811
 IEC 60601
-ISO/IEC 10967
 IEC 61400
 IEC 60364
-ISO/IEC 8652
 MPEG-7
-ISO/IEC 6523
-ISO/IEC 20000
-Electrotechnics
 JPEG XL
 CHILL
 MPEG-A
 Comparative Tracking Index
 IEC 63110
 Common Criteria
-ISO/IEC 33001
-MIL-STD-461
-ISO/IEC 27002
 ANSI escape code
 ANSI C
 IEC 61851
 International Electrotechnical Commission
 IEC 61334
 IEC 61030
-ISO/IEC 24744
 Battery nomenclature
 IEC 60870-5
 IEC 62455
 EN 62262
 Digital Addressable Lighting Interface
-IEC 60945
 MPEG-H
 COBOL
-ISO/IEC 7812
-ISO/IEC 10021
 IEC 60034
 IEC 62379
 Document Style Semantics and Specification Language
@@ -95,14 +63,8 @@ POSIX
 List of IEC standards
 Graphical Kernel System
 RKM code
-ISO/IEC 11801
-ISO/IEC 27040
-ISO/IEC 11179
 Open Data Protocol
-ISO/IEC 21827
 IEC 61360
-ISO/IEC 27000
-ISO/IEC 18014
 19-inch rack
 JPEG 2000
 IEC 61131
@@ -112,60 +74,39 @@ IEC 62366
 IEC 60269
 Z notation
 Common Logic
-Environmental testing
 IEC 60027
 IEC 60309
 Compact Disc Digital Audio
-ISO/IEC 646
 IEC 61511
-ISO/IEC 15288
 E series of preferred numbers
 IO-Link
 IEC 63382
-DO-160
 PHIGS
 ECMAScript for XML
-ISO/IEC 2022
 QR code
 IP-XACT
-Mold
 IEC 61970
-ISO/IEC 27000-series
 MPEG-21
 Computer Graphics Metafile
-ISO/IEC 42010
 ISLISP
-ISO/IEC 7816
 Open Document Architecture
 IEC 81346
 Universal Remote Console
-ISO/IEC 7813
-ISO/IEC 15504
 C++
 RELAX NG
 Topic map
 IEC 61850
-ISO/IEC 11404
-ISO/IEC 17024
-ISO/IEC 19752
 IEC 62682
 IEC 61355
-ISO/IEC 7810
 IEC 61162
 IEEE 754
 IEC 60906-1
-ISO/IEC 17025
 C Sharp (programming language)
 IEC 62700
 AES47
 Fieldbus
 MPEG-4
-ISO/IEC 14651
-ISO/IEC 9529
-ISO/IEC 8859
 JBIG
-ISO/IEC 9126
 IEC 61968
 Salt spray test
 OpenDocument
-ISO/IEC 29119

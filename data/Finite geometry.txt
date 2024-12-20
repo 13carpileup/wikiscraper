@@ -1,171 +1,75 @@
 Abstract algebra
-Affine geometry
-Affine plane (incidence geometry)
 Affine space
-Ahmes
 Algebra
 Algebraic geometry
 Algebraic number theory
 Algebraic topology
-Alhazen
-Altitude (triangle)
-American Mathematical Monthly
 Analytic geometry
 Analytic number theory
-Angle
-Apollonius of Perga
 Applied mathematics
 ArXiv (identifier)
-Archimedes
-Area
-Area of a circle
 Arithmetic
 Arithmetic geometry
-Aryabhata
 Axiom
-Axiomatic projective space
-Baudhayana
-Before Common Era
-Beniamino Segre
-Benz plane
-Bernhard Riemann
-Binomial coefficient
-Blaise Pascal
-Block design
 Brahmagupta
-Bruck–Ryser theorem
-Burkard Polster
 Calculus
 Cambridge University Press
 Carl Friedrich Gauss
 Category theory
-Christiaan Huygens
-Circle
 Circumference
-Collineation
-Collineation group
 Combinatorics
-Combinatorics of Finite Geometries
 Commutative algebra
 Complex analysis
-Complex geometry
 Computational complexity theory
 Computational geometry
 Computational mathematics
-Computer-assisted proof
 Computer algebra
 Computer science
-Congruence (geometry)
 Control theory
-Convex geometry
-Cube
-Cuboid
-Curve
-Cylinder (geometry)
 David Hilbert
-Desargues's theorem
-Desarguesian plane
-Diagonal
 Diameter
 Differential equation
 Differential geometry
 Differential topology
-Digital geometry
-Dimension (geometry)
 Diophantine geometry
-Discrete differential geometry
 Discrete geometry
 Discrete mathematics
-Discrete space
-Division ring
-Dodecahedron
 Doi (identifier)
-Duality (mathematics)
 Elementary algebra
-Elliptic geometry
 Empty set
 Engineering mathematics
-Ergebnisse der Mathematik und ihrer Grenzgebiete
 Eric W. Weisstein
-Euclid
 Euclidean geometry
-Exponent
-Fano plane
-Felix Klein
 Finite field
 Finite set
-Finite space
 Foundations of mathematics
-Four-dimensional space
-Fractal
 Functional analysis
 Future of mathematics
-GF(2)
-Galois field
-Galois geometry
 Game theory
-Gaussian binomial coefficient
-General linear group
 General topology
-Generalized polygon
 Geometric topology
 Geometry
-Gino Fano
 Glossary of mathematical symbols
 Graph theory
 Group (mathematics)
 Group theory
 Harmonic analysis
-Harold Scott MacDonald Coxeter
-Henri Poincaré
-Hermann Minkowski
-Hesse configuration
 History of mathematics
-Homogeneous coordinates
 Homological algebra
 Homotopy theory
-Hyperbolic geometry
 Hypercomplex analysis
-Hypersphere
-Hypotenuse
 ISBN (identifier)
 ISSN (identifier)
-Ibn al-Yasamin
-Icosahedron
-Incidence (geometry)
-Incidence geometry
-Incidence relation
-Incidence structure
 Informal mathematics
 Information theory
 Integer
-Inversive geometry
 Isomorphism
 Italians
 JSTOR (identifier)
-James William Peter Hirschfeld
-Jean-Pierre Serre
-Jyeṣṭhadeva
-János Bolyai
-Karl Georg Christian von Staudt
-Kirkman's schoolgirl problem
-Kite (geometry)
-Kātyāyana
-Laguerre plane
-Length
-Leonhard Euler
 Line (geometry)
-Line segment
 Linear algebra
-Linear space (geometry)
 List of films about mathematicians
-List of geometers
-List of geometry topics
-List of mathematicians
 Lists of mathematics topics
-Lynn Batten
-MR (identifier)
-Manava
 MathWorld
 Mathematical analysis
 Mathematical and theoretical biology
@@ -178,110 +82,38 @@ Mathematical physics
 Mathematical psychology
 Mathematical sociology
 Mathematical statistics
-Mathematicians
 Mathematics
 Mathematics and art
 Mathematics education
 Measure (mathematics)
-Michael Atiyah
-Mikhail Leonidovich Gromov
-Minggatu
 Multilinear algebra
-Möbius plane
-Nasir al-Din al-Tusi
-Near polygon
-Nikolai Lobachevsky
-Non-Archimedean geometry
-Non-Desarguesian plane
 Non-Euclidean geometry
-Noncommutative algebraic geometry
-Noncommutative geometry
 Number theory
 Numerical analysis
-Octahedron
-Omar Khayyám
-One-dimensional space
 Operations research
 Order theory
 Orthogonality
-Oswald Veblen
-PG(3,2)
-PSL(2,7)
-Parallel (geometry)
-Parallelogram
-Parameshvara
-Partial geometry
-Partition (set theory)
-Pasch's axiom
 Perpendicular
 Philosophy of mathematics
 Pixel
-Plane (geometry)
-Platonic Solid
-Playfair's axiom
-Point (geometry)
-Polar space
-Polygon
-Positive integer
-Positive number
-Prime number
-Prime power
 Probability theory
-Projective geometry
-Projective plane
-Projective space
-Pyramid (geometry)
 Pythagoras
-Pythagorean theorem
-Quadrilateral
 Real analysis
 Recreational mathematics
 Rectangle
 René Descartes
-Rhomboid
-Rhombus
-Riemannian geometry
 S2CID (identifier)
-Sakabe Kōhan
 Set theory
-Shiing-Shen Chern
-Sijzi
-Similarity (geometry)
 Sphere
-Spherical geometry
-Spread (projective geometry)
-Springer-Verlag
-Square
-Square (algebra)
 Statistics
-Straightedge and compass construction
-Symmetry
-Symplectic geometry
-Synthetic geometry
 Systems science
-Terence Tao
-Tesseract
-Tetrahedron
 Theory of computation
-Thomas Penyngton Kirkman
 Three-dimensional space
 Timeline of mathematics
 Topology
-Transactions of the American Mathematical Society
-Trapezoid
-Triangle
 Two-dimensional space
 Type theory
 Universal algebra
-Veblen–Young theorem
 Vector space
-Vertex (geometry)
-Virasena
 Volume
 Wayback Machine
-Wedderburn's little theorem
-Yang Hui
-Yasuaki Aida
-Zero-dimensional space
-Zhang Heng
-Élie Cartan

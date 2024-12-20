@@ -1,7 +1,3 @@
-4680 OS
-4690 Operating System
-4K Disk Monitor System
-Adam Dunkels
 AdvFS
 Alpha 21064
 Alpha 21164
@@ -9,44 +5,26 @@ Alpha 21264
 Alpha 21364
 Alpha 21464
 AltaVista
-Andy Wilson (computer scientist)
-Apache Mynewt
-Asynchronous System Trap
 BASIC-8
-BLISS
-BeRTOS
-Binary-code compatibility
 Bus (computing)
-Byte (magazine)
 CD-ROM
-COMECON
 CPU Wars
 CVAX
-Capability-based security
 Character encoding
-ChibiOS/RT
-ChorusOS
-Closed source
 Code page 1287
 Code page 1288
-Command-line interface
 Commercial Operating System
 Compaq
-Comparison of real-time operating systems
 Computer hardware
 Computer terminal
-Concurrent DOS
-Contiki
 Copyright
 DECUS
 DEC Alpha
-DEC BATCH-11/DOS-11
 DEC GT40
 DEC Hebrew
 DEC J-11
 DEC MICA
 DEC PRISM
-DEC Professional (computer)
 DEC RADIX 50
 DEC Special Graphics
 DEC Systems Research Center
@@ -59,161 +37,70 @@ DECtape
 DECwriter
 DIBOL
 DIGITAL Command Language
-DNIX
 DOS
-DSOS
-Dan Dodge
-Dave Cutler
-David Cheriton
-Digital Command Language
 Digital Equipment Corporation
 Digital Federal Credit Union
 Digital Linear Tape
 Digital Storage Systems Interconnect
-Digital UNIX
-DioneOS
 Doi (identifier)
 Dynamic debugging technique
 Dynamically Redefined Character Set
-ECos
-EKA2
-ERIKA Enterprise
-EROS (microkernel)
-ES EVM
-Eastern bloc
-Emulator
 EulerOS
 FOCAL (programming language)
 FX!32
-Files-11
 Firefly (cache coherence protocol)
-FlexOS
 Flip-Chip module
 FreeRTOS
-Garth Wolfendale
 Gold key (DEC)
 Gordon Bell
-Gordon Bell (QNX)
-Green Hills Software
 HP-Interex
-HP Inc.
 Harlan Anderson
-Harmony (operating system)
-Help (command)
-Henry Krejci
-Hewlett-Packard
-Hewlett Packard Enterprise
 IBM
-IBM mainframes
 ISBN (identifier)
-ITRON project
-Input/output
 Instruction set architecture
-Integrity (operating system)
 Interactive Application System
-JavaOS
-Java virtual machine
-Junos OS
 Ken Olsen
-Ken Sakamura
 Kernel (operating system)
-L4Linux
-L4 microkernel family
 LK201
 LK421
 LiteOS
 Literal translation
 Local Area Transport
-LynxOS
 MACRO-10
 MACRO-11
-MQX
 MUMPS
 Maintenance Operations Protocol
-Mark Russinovich
 Mass Storage Control Protocol
 Massbus
-Memory footprint
-Mentec PDP-11
-Micro-Controller Operating Systems
 MicroVAX 78032
-Micro T-Kernel
-Microkernel
 Microsoft
-Microware
-Multi-Environment Real-Time
-Multi-user
 Multinational Character Set
-Multiuser DOS
 NVAX
-Nano-RK
 National Replacement Character Set
-Nucleus RTOS
-NuttX
-OS-9
-OS/8
-OS2000
 On-line Debugging Tool
 Open-source software
-OpenComRTOS
 OpenVMS
-Operating System Embedded
 Operating system
-Overlay (programming)
 PALcode
-PDP-10
-PDP-11
-PDP-11/40
-PDP-11/45
 PDP-11 architecture
-PDP-15
 PDP-7
 POSIX
-PSOS (real-time operating system)
-PX5 RTOS
-Personal computers
-Phantom OS
-PikeOS
 Process control
 Processor (computing)
 Programmer
 Programming language
 Proprietary software
-Psion (company)
 Q-Bus
-QIO
 QNX
 RA90
-RADIX-50
-REAL/32
-REX OS
-RIOT (operating system)
 RK05
 RL02
-RMX (operating system)
-RSTS/E
-RSX-15
 RT-11
-RT-Thread
-RTAI
-RTEMS
-RTLinux
 ReGIS
-Real-Time Linux
-Real-time operating system
 Record Management Services
 Rigel (microprocessor)
 Robert Palmer (computer businessman)
-Robot Operating System
-Romania
-Ron McLean (computer scientist)
 Russian language
-SIMH
-SM EVM
-ScreenOS
-SeL4
-Segger Microcontroller Systems
-Sintran III
 Sixel
 Software bug
 Software development kit
@@ -224,34 +111,15 @@ Star coupler
 StrongARM
 Symbian
 Synchronous Backplane Interconnect
-System/360
 System Module
-System Reference Manual
-System generation
-T-Engine Forum
-T-Kernel
-T-License
-TD/SMP
-THEOS
-TI-RTOS
 TOPS-10
 TOPS-20
-TRON project
-TRW Inc.
-TSS/8
 TU81
 TURBOchannel
-Texas Instruments
-The Register
 The Ultimate Entrepreneur
-Thoth (operating system)
 ThreadX
-Time sharing
-Transaction Processing Facility
-UNOS (operating system)
 Ultrix
 Unibus
-Unix-like
 User interface
 VAX
 VAXBI bus
@@ -260,33 +128,13 @@ VAX MACRO
 VT05
 VT100
 VT1000
-VT101
-VT102
-VT103
-VT105
-VT131
 VT180
 VT220
-VT240
-VT241
 VT320
-VT330
-VT340
 VT420
-VT510
 VT52
 VT520
-VT525
-VT55
-VT62
 VT640
-Versatile Real-Time Executive
-Virtual address
-VxWorks
 WPS-8
 Wayback Machine
-Windows Embedded Compact
 Windows NT
-Wombat (operating system)
-Xenomai
-Zephyr (operating system)

@@ -17,7 +17,6 @@ ASCII
 ASMO 449
 ATASCII
 Ampersand
-Amstrad CP/M Plus character set
 Amstrad CPC character set
 Apostrophe
 Apple II character set
@@ -49,7 +48,6 @@ Character encodings in HTML
 Charset detection
 Chinese Character Code for Information Interchange
 Chinese telegraph code
-Circumflex accent
 Code page
 Code page 1006
 Code page 1008
@@ -66,17 +64,10 @@ Code page 1019
 Code page 1020
 Code page 1021
 Code page 1023
-Code page 1034
 Code page 1040
 Code page 1042
 Code page 1043
-Code page 1044
 Code page 1046
-Code page 1052
-Code page 1053
-Code page 1054
-Code page 1055
-Code page 1056
 Code page 1058
 Code page 1098
 Code page 1101
@@ -115,7 +106,6 @@ Code page 853
 Code page 855
 Code page 856
 Code page 857
-Code page 858
 Code page 859
 Code page 860
 Code page 861
@@ -132,7 +122,6 @@ Code page 896
 Code page 897
 Code page 899
 Code page 903
-Code page 904
 Code page 912
 Code page 915
 Code page 921
@@ -147,12 +136,10 @@ Code page 950
 Code page 951
 Colon (punctuation)
 Comma
-Commercial at
 Comparison of Unicode encodings
 Compucolor II character set
 Control character
 Cooke and Wheatstone telegraph
-Copyright sign
 Cork encoding
 D
 DEC Hebrew
@@ -200,7 +187,6 @@ Hong Kong Supplementary Character Set
 Hyphen-minus
 I
 IBM AIX
-IEC-P27-1
 INIS-8
 INIS character set
 ISO-IR-111
@@ -209,26 +195,6 @@ ISO-IR-182
 ISO-IR-197
 ISO-IR-200
 ISO-IR-68
-ISO/IEC 10367
-ISO/IEC 2022
-ISO/IEC 646
-ISO/IEC 8859
-ISO/IEC 8859-1
-ISO/IEC 8859-10
-ISO/IEC 8859-11
-ISO/IEC 8859-12
-ISO/IEC 8859-13
-ISO/IEC 8859-14
-ISO/IEC 8859-15
-ISO/IEC 8859-16
-ISO/IEC 8859-2
-ISO/IEC 8859-3
-ISO/IEC 8859-4
-ISO/IEC 8859-5
-ISO/IEC 8859-6
-ISO/IEC 8859-7
-ISO/IEC 8859-8
-ISO/IEC 8859-9
 ISO 2033
 ISO 5426
 ISO 5427
@@ -239,7 +205,6 @@ ITU T.61
 Identity (mathematics)
 Indian Script Code for Information Interchange
 Inequality (mathematics)
-Intecolor/Compucolor 8001 character set
 Iran System encoding
 J
 JIS X 0201
@@ -266,7 +231,6 @@ Left curly bracket
 Left parenthesis
 Left square bracket
 Less-than sign
-Line feed
 Lotus International Character Set
 Lotus Multi-Byte Character Set
 M
@@ -291,7 +255,6 @@ Mac OS Hebrew
 Mac OS Icelandic encoding
 Mac OS Inuit
 Mac OS Keyboard encoding
-Mac OS Maltese/Esperanto encoding
 Mac OS Ogham
 Mac OS Roman
 Mac OS Romanian encoding
@@ -323,15 +286,12 @@ PETSCII
 Percent sign
 Perso-Arabic Script Code for Information Interchange
 Pi (letter)
-Plus sign
 PostScript Latin 1 Encoding
 PostScript Standard Encoding
-Pound sign
 Prosigns for Morse code
 Q
 Question mark
 Quotation mark
-Q̬
 R
 RISC OS character set
 RPL character set
@@ -340,7 +300,6 @@ Right parenthesis
 Right square bracket
 Russian Morse code
 S
-SAM Coupé character set
 SI 960
 SQUOZE
 Sega SC-3000 character set
@@ -348,16 +307,12 @@ Semicolon
 Sharp MZ character set
 Sharp pocket computer character sets
 Shift JIS
-Sinclair QL
-Sinclair Research
 Slash (punctuation)
 Space character
 Standard Compression Scheme for Unicode
-Stanford/ITS character set
 Stanford Extended ASCII
 Symbol (typeface)
 T
-T.51/ISO/IEC 6937
 TI calculator character sets
 TRON (encoding)
 TRS-80 character set
@@ -407,9 +362,6 @@ Windows-1256
 Windows-1257
 Windows-1258
 Windows-1270
-Windows Cyrillic + Finnish
-Windows Cyrillic + French
-Windows Cyrillic + German
 Windows Polytonic Greek
 Windows code page
 World System Teletext
@@ -421,80 +373,21 @@ Z
 ZX80 character set
 ZX81 character set
 ZX Spectrum character set
-¡
 ¢
 ¤
-¥
-¦
 §
-«
-®
 °
 ±
-²
-³
-¹
-»
 ½
-¿
 À
 Á
 Â
-Ã
-Ä
-Å
-Æ
 Ç
 È
 É
 Ê
-Ë
-Ì
-Í
 Î
 Ï
-Ñ
-Ò
-Ó
-Ô
-Õ
-Ö
-Ø
-Ù
-Ú
 Û
-Ü
 ß
 ÷
-Ħ
-Œ
-Α
-Γ
-Δ
-Ε
-Ζ
-Η
-Θ
-Ι
-Κ
-Λ
-Μ
-Ξ
-Ρ
-Σ
-Τ
-Υ
-Φ
-Χ
-Ψ
-Ω
-ᴬ
-ᴮ
-ᴰ
-ᴱ
-†
-‡
-…
-⁰
-⁴
-⁵

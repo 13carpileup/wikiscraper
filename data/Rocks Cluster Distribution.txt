@@ -1,9 +1,7 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
 AlmaLinux
 Alpine Linux
-Anaconda (installer)
 Android-x86
 Android (operating system)
 Antergos
@@ -13,14 +11,12 @@ ArchLabs
 Arch Linux
 Artix Linux
 Asahi Linux
-Asianux
 Astra Linux
 Asturix
 Austrumi Linux
 BLAG Linux and GNU
 BackBox
 BackTrack
-Berry Linux
 Bharat Operating System Solutions
 BioSLAX
 BlackArch
@@ -28,7 +24,6 @@ Black Lab Linux
 BlankOn Linux
 Bodhi Linux
 CHAOS (operating system)
-CNK operating system
 CRUX
 Calculate Linux
 Caldera OpenLinux
@@ -41,16 +36,12 @@ ChromeOS
 ChromiumOS
 ClearOS
 Clear Linux OS
-Cluster (computing)
 ColorOS
 Commodore OS
 Comparison of Linux distributions
-Compute Node Linux
-Condor cycle scavenger
 Container Linux
 Corel Linux
 CrDroid
-Cray Linux Environment
 CrunchBang Linux
 Cub Linux
 CyanogenMod
@@ -75,7 +66,6 @@ EulerOS
 Familiar Linux
 Feather Linux
 Fedora Linux
-Fermi Linux
 Fire OS
 Firefox OS
 Floppyfw
@@ -83,11 +73,9 @@ Foresight Linux
 FreedomBox
 Freespire
 Frugalware Linux
-Fuduntu
 GNU Guix System
 GNewSense
 GOS (operating system)
-Ganglia (software)
 Garuda Linux
 GeckoLinux
 Gentoo Linux
@@ -95,14 +83,10 @@ Germany
 GoboLinux
 Gobuntu
 GrapheneOS
-GridKa
 HandyLinux
 High-performance computing
-Hyperbola GNU/Linux-libre
 Immunix
-Inspur K-UX
 IodéOS
-Java (Sun)
 Jurix
 KDE neon
 KaOS
@@ -110,13 +94,10 @@ KaiOS
 Kaisen Linux
 Kali Linux
 Kanotix
-Karlsruhe
-Karlsruhe Institute of Technology
 KateOS
 Kernel (operating system)
 Knoppix
 Kongoni (operating system)
-Koozali SME Server
 Korora (operating system)
 Kubuntu
 Kwort Linux
@@ -136,7 +117,6 @@ Linux for PlayStation 2
 Linux kernel
 List of Linux distributions
 Lubuntu
-Lustre (file system)
 MCC Interim Linux
 MIUI
 MX Linux
@@ -150,8 +130,6 @@ Message Passing Interface
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Musix GNU+Linux
-National Science Foundation
 Natural language
 Network Security Toolkit
 NimbleX
@@ -168,7 +146,6 @@ OpenSUSE
 Open Enterprise Server
 Oracle Linux
 PCLinuxOS
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
@@ -176,7 +153,6 @@ Pentoo
 Peppermint OS
 Pinguy OS
 PixelExperience
-Planet CCRMA
 Platypux
 Pop! OS
 Porteus (operating system)
@@ -187,8 +163,6 @@ Q4OS
 Qubes OS
 ROSA Linux
 Raspberry Pi OS
-RedSleeve
-Red Flag Linux
 Red Hat Enterprise Linux
 Red Hat Linux
 Red Star OS
@@ -203,7 +177,6 @@ Sabayon Linux
 Sabily
 Sailfish OS
 Salix OS
-San Diego Supercomputer Center
 Scientific Linux
 Slackware
 Slax
@@ -216,7 +189,6 @@ Source Mage
 SparkyLinux
 Splashtop OS
 SteamOS
-Sun Grid Engine
 Sunwah Linux
 SystemRescue
 T2 SDE
@@ -239,9 +211,6 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-University of California, San Diego
-Unix-like
-Uruk GNU/Linux
 VectorLinux
 Vine Linux
 Void Linux

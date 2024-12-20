@@ -3,7 +3,6 @@ ATC code A
 ATC code B
 ATC code C
 ATC code D
-ATC code D04
 ATC code D09
 ATC code G
 ATC code H
@@ -16,46 +15,26 @@ ATC code R
 ATC code S
 ATC code V
 ATCvet code QI
-Active ingredient
-Acupuncture
 Addiction medicine
-Adrenocorticotropic hormone
-Agonist
-Alcohols (medicine)
-Alexander of Tralles
 Alkylating antineoplastic agent
-Allergic reaction
-Alum
-Aluminium triacetate
-Ammonium hydroxide
 Anabolic steroid
 Analgesic
 Anatomical Therapeutic Chemical Classification System
 Anesthetic
-Angiotensin II receptor antagonist
-Animal model
 Anorectic
-Anorgasmia
 Antacid
 Anthelmintic
 Anti-inflammatory
 Anti-obesity medication
 Antianginal
 Antiarrhythmic agent
-Antibacterial
 Anticoagulant
 Anticonvulsant
-Antidementia drug
 Antidepressant
-Antidiarrhoeal
 Antidote
 Antiemetic
 Antifibrinolytic
-Antifungal drug
 Antihemorrhagic
-Antihistamine
-Antihyperkinetic
-Antihypertensive drug
 Antimetabolite
 Antimicrobial
 Antimigraine drug
@@ -64,270 +43,68 @@ Antineoplastic
 Antiparasitic
 Antiplatelet drug
 Antipropulsive
-Antiprotozoal agent
-Antipsoriatic
 Antipsychotic
 Antithrombotic
 Antithyroid agent
 Antiviral drug
-Anxiety
 Anxiolytic
 Aphrodisiac
-Atopic dermatitis
-Atypical antidepressant
-Bamipine
-Benzocaine
 Beta blocker
-Betamethasone
 Bile acid sequestrant
 Bisphosphonate
 Blood
 Blood–brain barrier
 Bone
 Bronchodilator
-Burow's solution
-Butorphanol
 Byzantine Empire
-Calamine lotion
-Calcium channel
 Calcium channel blocker
-Camphor
-Cannabinoid
-Cannabis
-Capsaicin
-Carbolic Acid
 Cardiac glycoside
 Cardiac stimulant
-Cetirizine
 Chemotherapy
-Chickenpox
-Chili pepper
-Chloropyramine
-Chlorphenamine
-Chlorpheniramine
-Chlorphenoxamine
-Cholestatic pruritus
-Chronic kidney disease
-Chrysanthemum
-Cicatrizant
-Ciclosporin
-Cinchocaine
 Circulatory system
-Clemastine
 Coagulation
-Common fig
-Contact dermatitis
-Contrast medium
 Corticosteroid
-Corticotropin-releasing hormone
-Cough medicine
-Counterirritant
-Cream (pharmaceutical)
-Crisaborole
 Culture
 Decongestant
 Deliriant
-Depersonalization
 Depressant
 Diabetes
 Diabetes medication
-Dibucaine
-Dictamnus
-Dietary mineral
-Difelikefalin
-Dimetindene
-Diphenhydramine
 Disease-modifying antirheumatic drug
 Dissociative
 Diuretic
 Doi (identifier)
-Doxepin
 Dressing (medicine)
 Ectoparasiticide
-Eczema
-Emollient
 Endocrine system
-Entactogen
 Entheogen
 Euphoria
-Evidence-based medicine
 Fertility medication
-Fexofenadine
 Fibrate
-Flea
-Fluoxetine
 Food and Drug Administration
-Food and Drug Administration (United States)
-Fungal infection in animals
-Gabapentin
-Gardenia
 General anaesthetic
 Genitourinary system
 Glucocorticoid
-Greeks
 H1 antagonist
-H2 antagonist
-HPA axis suppression
 Histamine
-Histamine H1 receptor
-Histamine antagonist
-Hives
 Hormonal contraception
 Human brain
-Human gastrointestinal tract
 Human skin
-Hydrocortisone
-Hydroxyzine
-Hyperglycemia
 Hypnotic
-Hypolipidemic agent
 Hypothalamic–pituitary hormone
-Hypothyroidism
 ISBN (identifier)
 ISSN (identifier)
 Immune system
-Immunodeficiency
-Immunomodulator
 Immunostimulant
 Immunosuppressive drug
 Infection
-Insect bites and stings
-Intravenous immunoglobulin
-Iron(III) oxide
-Isothipendyl
-Itch
-Janus kinase inhibitor
-Jewelweed
 Joint
-Kidney disease
-Laxative
-Lidocaine
-Lidocaine/prilocaine
-Lightheadedness
-Liver disease
-Local anesthetic
-Lorsch monastery
-Malignant
-Management of Parkinson's disease
-Medication
-Medscape
-Mentha
-Menthol
-Mepyramine
 Mercury (element)
 Metabolism
-Mineralocorticoid
-Mirtazapine
-Mite
-Mood stabilizer
-Moon face
-Morphine
-Mosquito
-Motivation-enhancing drug
-Moxibustion
-Mung bean
-Muscle
-Muscle relaxant
-Nalfurafine
-Nalmefene
-Naloxone
-Naltrexone
-Naphthol
 Nervous system
-Nettle
-Neuroprotective
-Neurotoxin
-Non-steroidal anti-inflammatory drug
-Nootropic
 OCLC (identifier)
-Oclacitinib
-Olive oil
-Omega-3 fatty acid
-Ophthalmology
-Opioid withdrawal
-Opium
-Orexigenic
-Otology
-Over-the-counter drugs
-Oxybuprocaine
 PMC (identifier)
 PMID (identifier)
-Papain
-Paul of Aegina
-Pharmacopoeia
-Pheniramine
-Phosphodiesterase-4 inhibitor
-Platelet
-Poison ivy
-Poison oak
-Poison sumac
-Portulaca oleracea
-Pramocaine
-Pramoxine
-Pregabalin
-Pregnancy
-Prescription drug
-Promethazine
-Proton-pump inhibitor
-Pruritus
-Psoriasis
-Psychedelic drug
-Psychedelics, dissociatives and deliriants
-Quinisocaine
-Radiopharmacology
-Renin inhibitor
-Renin–angiotensin system
-Respiratory system
-Roflumilast
-Rue
 S2CID (identifier)
-Salicylic acid
-Saraca asoca
-Scabies
-Sedative
-Selective estrogen receptor modulator
-Selective serotonin reuptake inhibitor
-Senotherapeutics
-Sense
-Serenic
-Sericin
-Serotonin
-Sertraline
-Sex steroid
 Sodium bicarbonate
-Spindle poison
-Spray (liquid drop)
-Squill
-Statin
-Stimulant
-Stinging nettle
-Stretch marks
-Sunburn
-Systemic drug
-Tachyphylaxis
-Tar
-Tetracaine
-Thalidomide
-Thenalidine
-Thonzylamine
-Thrombolytic drug
-Thymol
-Thyroid hormone
-Tolpropamine
-Topical
-Topical medication
-Topical steroid
-Topoisomerase inhibitor
-Traditional Chinese medicine
-Tripelennamine
-Uremic pruritus
-Urticaria
-Urushiol-induced contact dermatitis
-Vaccine
-Vasodilation
-Vitamin
-Wakefulness-promoting agent
 Wayback Machine
-Zinc oxide
-Κ-opioid receptor
-Μ-opioid receptor

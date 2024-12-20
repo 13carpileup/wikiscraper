@@ -1,11 +1,8 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
-AMD
 ATI Technologies
 AlmaLinux
 Alpine Linux
-Amarok (software)
 Android-x86
 Android (operating system)
 Antergos
@@ -17,12 +14,10 @@ Artix Linux
 Asahi Linux
 Astra Linux
 Asturix
-Aufs
 Austrumi Linux
 BLAG Linux and GNU
 BackBox
 BackTrack
-Backport
 Bharat Operating System Solutions
 BioSLAX
 BlackArch
@@ -34,8 +29,6 @@ CRUX
 Calculate Linux
 Caldera OpenLinux
 CalyxOS
-CeBIT
-CeBit
 CentOS
 CentOS Stream
 Chakra (operating system)
@@ -53,16 +46,13 @@ CrDroid
 CrunchBang Linux
 Cub Linux
 CyanogenMod
-DFSG
 DVD
 Damn Small Linux
 Damn Vulnerable Linux
 Debian
 Deepin
 DemoLinux
-Desktop environment
 Devuan
-DistroWatch
 DivestOS
 DoudouLinux
 Dreamlinux
@@ -75,19 +65,15 @@ EndeavourOS
 Endless OS
 EulerOS
 Familiar Linux
-Fangtooth
 Feather Linux
 Fedora Linux
-Fglrx
 Fire OS
-Firefox
 Firefox OS
 Floppyfw
 Foresight Linux
 FreedomBox
 Freespire
 Frugalware Linux
-GIMP
 GNU Guix System
 GNewSense
 GOS (operating system)
@@ -98,19 +84,11 @@ Gentoo Linux
 GoboLinux
 Gobuntu
 GrapheneOS
-Grub2
 HandyLinux
-Hard disk
 Hard disk drive
-Hyperbola GNU/Linux-libre
 Immunix
-Inkscape
 IodéOS
 Jurix
-K3b
-KDE Plasma Desktop
-KDE Software Compilation
-KDE Software Compilation 4
 KDE neon
 KaOS
 KaiOS
@@ -123,16 +101,13 @@ Kongoni (operating system)
 Korora (operating system)
 Kubuntu
 Kwort Linux
-LXDE
 LXLE Linux
 Libranet
-LibreOffice
 LinHES
 LineageOS
 Linpus Linux
 Linux
 LinuxTLE
-LinuxTag
 Linux Caixa Mágica
 Linux Lite
 Linux Mint
@@ -140,7 +115,6 @@ Linux Router Project
 Linux distribution
 Linux for PlayStation 2
 List of Linux distributions
-Live CD
 Lubuntu
 MCC Interim Linux
 MIUI
@@ -154,20 +128,11 @@ Mer (software distribution)
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Mozilla Thunderbird
-Musix GNU+Linux
-NTFS-3G
-NdisWrapper
-Netbook
-Network Manager
 Network Security Toolkit
-Nickname
-Nightly build
 NimbleX
 Nitix
 NixOS
 Nobara Linux
-Notebook computer
 Nova (operating system)
 Nvidia
 OmniROM
@@ -180,13 +145,11 @@ Open Enterprise Server
 Operating system
 Oracle Linux
 PCLinuxOS
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
 Pentoo
 Peppermint OS
-Pidgin (software)
 Pinguy OS
 PixelExperience
 Platypux
@@ -207,7 +170,6 @@ Replicant (operating system)
 Resurrection Remix OS
 Rocks Cluster Distribution
 Rocky Linux
-Rolling release
 SUSE Linux
 SUSE Linux Enterprise
 SUSE Studio
@@ -216,7 +178,6 @@ Sabily
 Sailfish OS
 Salix OS
 Scientific Linux
-Sidux
 Slackware
 Slax
 Softlanding Linux System
@@ -252,19 +213,14 @@ Ubuntu Studio
 Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
-Unionfs
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 User interface
 VectorLinux
-Video Disk Recorder
 Vine Linux
 Void Linux
 Wayback Machine
 Whonix
 Wine (software)
-Wireless LAN
 Wubuntu
 XB Machine
 Xubuntu

@@ -1,5 +1,4 @@
 1829 braille
-Abbreviation
 Abugida
 Accessible publishing
 Albanian Braille
@@ -10,7 +9,6 @@ Anusvara
 Arabic Braille
 Arabic script
 Armenian Braille
-Azeri Braille
 Belarusian Braille
 Bengali Braille
 Bharati Braille
@@ -39,7 +37,6 @@ Cyrillic alphabets
 Czech Braille
 Decapoint
 Devanagari Braille
-Ditto mark
 Dutch Braille
 Dzongkha Braille
 English Braille
@@ -48,8 +45,6 @@ Estonian Braille
 Faroese Braille
 French Braille
 Gardner–Salinas braille codes
-Ge'ez Braille
-Genevieve Caulfield
 Georgian Braille
 German Braille
 Ghanaian braille
@@ -74,8 +69,6 @@ Kazakh Braille
 Khmer Braille
 Korean Braille
 Kyrgyz Braille
-Lao alphabet
-Lao language
 Latvian Braille
 Lithuanian Braille
 Louis Braille
@@ -103,7 +96,6 @@ Philippine Braille
 Polish Braille
 Portuguese Braille
 Punjabi Braille
-Reduplication
 Refreshable braille display
 RoboBraille
 Romanian Braille
@@ -117,27 +109,8 @@ Slate and stylus
 Slovak Braille
 South African braille
 Spanish Braille
-Specials (Unicode block)
 Tactile alphabet
 Taiwanese Braille
 Tamil Braille
 Tatar Braille
 Telugu Braille
-Thai alphabet
-Thai language
-Thakur Vishva Narain Singh
-Tibetan Braille
-Turkish Braille
-Two-cell Chinese Braille
-Ukrainian Braille
-Unified English Braille
-Urdu Braille
-Valentin Haüy
-Vibratese
-Vietnamese Braille
-Virama
-Welsh Braille
-William Bell Wait
-World Braille
-Yugoslav Braille
-Zambian Braille

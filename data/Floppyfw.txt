@@ -1,4 +1,3 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
 AlmaLinux
@@ -24,7 +23,6 @@ BlackArch
 Black Lab Linux
 BlankOn Linux
 Bodhi Linux
-BusyBox
 CD
 CHAOS (operating system)
 CRUX
@@ -48,7 +46,6 @@ CrDroid
 CrunchBang Linux
 Cub Linux
 CyanogenMod
-DHCP
 Damn Small Linux
 Damn Vulnerable Linux
 Debian
@@ -71,7 +68,6 @@ Feather Linux
 Fedora Linux
 Fire OS
 Firefox OS
-Firewall (computing)
 Floppy disk
 Foresight Linux
 FreedomBox
@@ -87,9 +83,7 @@ GoboLinux
 Gobuntu
 GrapheneOS
 HandyLinux
-Hyperbola GNU/Linux-libre
 Immunix
-Intel 80386SX
 IodéOS
 Jurix
 KDE neon
@@ -130,10 +124,8 @@ MeeGo
 Mer (software distribution)
 Miracle Linux
 Mobilinux
-Musix GNU+Linux
 Natural language
 Network Security Toolkit
-Network address translation
 NimbleX
 Nitix
 NixOS
@@ -148,8 +140,6 @@ OpenSUSE
 Open Enterprise Server
 Oracle Linux
 PCLinuxOS
-PPPoE
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
@@ -203,7 +193,6 @@ Think Blue Linux
 Tiny Core Linux
 Tizen
 TopologiLinux
-Traffic shaping
 Trisquel
 Turbolinux
 Turkix
@@ -218,7 +207,6 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Uruk GNU/Linux
 VectorLinux
 Vine Linux
 Void Linux

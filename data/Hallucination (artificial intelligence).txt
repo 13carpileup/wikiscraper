@@ -1,279 +1,47 @@
-AI alignment
-AI boom
-AI effect
-AI safety
-Abstract (summary)
-Action selection
-Activation function
-Active learning (machine learning)
-Adversarial machine learning
 Alan Turing
-AlexNet
-Alex Graves (computer scientist)
-Alex Krizhevsky
-Algorithmic bias
-Allen Newell
-AlphaFold
-AlphaGo
-AlphaZero
-Andrej Karpathy
-Andrew Ng
 ArXiv (identifier)
 Ars Technica
-Artificial general intelligence
-Artificial imagination
 Artificial intelligence
-Artificial neural network
-Artificial stupidity
-Association for Computing Machinery
-Attention (machine learning)
-Aurora (text-to-image model)
-AutoGPT
-Autoencoder
-Automated driving
-Autoregressive model
-Avianca
-BERT (language model)
-BLOOM (language model)
-Backpropagation
-Bad faith
-Ballad of Dwight Fry
-Batch normalization
-Bernard Widrow
-Bias–variance tradeoff
 Bibcode (identifier)
-Black holes
-Brantley Starr
-Brief (law)
 CBC News
 CNBC
-ChatGPT
-Chinchilla (language model)
-Churros
-Claude (language model)
 Claude Shannon
-Cliff Shaw
 Cluster analysis
-Complaint
 Computer vision
 Condé Nast
-Confabulation
-Conjugate gradient method
-Constructed language
-Convolution
-Convolutional neural network
-Cureus
-DALL-E
-Data augmentation
-David Silver (computer scientist)
-Deep learning
-Deep learning speech synthesis
-Defamatory
-Demis Hassabis
-Differentiable neural computer
-Diffusion process
 Digital object identifier
-Discover (magazine)
-Distill (journal)
 Doi (identifier)
-Double-track railway
-Double descent
-Dream Machine (text-to-video model)
-Echo state network
-ElevenLabs
 Embezzlement
-Eugene Volokh
-Face hallucination
-Facial recognition system
-Fact
-False positive
-Fast Company
-Fei-Fei Li
-Flux (text-to-image model)
-Foundation model
-Frank Rosenblatt
 Fraud
-GPT-1
-GPT-2
-GPT-3
-GPT-4
-GPT-4o
-GPT-J
-Gated recurrent unit
-Gating mechanism
-Gemini (chatbot)
-Gemini (language model)
-Generative adversarial network
-Generative pre-trained transformer
-Geoffrey Hinton
 Georgia (U.S. state)
 GitHub
-Glenfinnan Viaduct
-GloVe
-Google Bard
-Google Cloud Platform
-Google Search
-Gradient descent
-Graph neural network
-Grok (chatbot)
-Gun rights
-Handwriting recognition
-Hard coding
-Harold Coward
-Harry Potter (film series)
 Herbert A. Simon
-Highway network
-Huawei PanGu
-Human image synthesis
-Hyperparameter (machine learning)
-IBM Granite
-IBM Watson
-IBM Watsonx
 ISBN (identifier)
 ISSN (identifier)
-Ian Goodfellow
-Ideogram (text-to-image model)
-Ilya Sutskever
-Imagen (Google Brain)
-Imitation learning
-Instruction tuning
-John Hopfield
-John McCarthy (computer scientist)
-John von Neumann
 Joseph Weizenbaum
-Jürgen Schmidhuber
-Kling (text-to-video model)
-LaMDA
 LaTeX
-Language model
-Large language model
-Latent diffusion model
-List of artificial intelligence companies
-List of artificial intelligence projects
-Llama (language model)
 Logic
-Lojban
-Long short-term memory
-Loss functions for classification
 Lotfi A. Zadeh
 Machine learning
-Mamba (deep learning architecture)
-Marvin Minsky
-Meta AI
 Meta Platforms
 Microsoft Bing
-Midjourney
-Misinformation
-Misleading information
-Mississippi State University
-MuZero
-Multilayer perceptron
-Music and artificial intelligence
 NPR
-Nathaniel Rochester (computer scientist)
-Natural language generation
 Natural language processing
-Neural Turing machine
-Neural machine translation
-Neural network (machine learning)
-New Brunswick
-No-hair theorem
-Normalization (machine learning)
-Northeastern University
-Northern District of Texas
-Northwestern University
-Novelty
 Nvidia
 OCLC (identifier)
-Object detection
-Oliver Selfridge
 OpenAI
-OpenAI Five
-OpenAI o1
-Optical character recognition
-Oren Etzioni
-Overfitting
-Overleaf
-P. Kevin Castel
 PMC (identifier)
 PMID (identifier)
-PaLM
-Parameter
-Paul Werbos
-Percept
-Personal injury
-Project Debater
-Prompt engineering
-Proof-of-concept
-Q-learning
-Quasi-Newton method
-Rectifier (neural networks)
-Recurrent neural network
-Regression analysis
-Regularization (mathematics)
 Reinforcement learning
-Reinforcement learning from human feedback
-Residual neural network
-Retrieval-augmented generation
-Revised Standard Version
-Robert W. Ferguson
-Robot control
 S2CID (identifier)
-Salon (magazine)
-Samantha Bee
 Santa Claus
 Science (journal)
 Sea urchin
-Second Amendment Foundation
-Section 230
-Self-driving car
-Self-supervised learning
-Seppo Linnainmaa
-Seq2seq
 Seymour Papert
-Sigmoid function
-Single-track railway
 Slate (magazine)
-Softmax function
-Sora (text-to-video model)
-Southern District of New York
-Speech recognition
-Speech synthesis
-Stable Diffusion
-Starfish
-State–action–reward–state–action
-Stephen Grossberg
-Stochastic gradient descent
-Substack
-Suno AI
 Surrealism
-T5 (language model)
-Teresa Amabile
-Test bed
-Text-to-image model
-Text-to-video model
-The Jacobite (steam train)
 The New York Times
 The Verge
-Tick
-Training, validation, and test data sets
-Transformer (deep learning architecture)
 Turing test
-Udio
-Usama Fayyad
-Variational autoencoder
-Vicuna LLM
-VideoPoet
-Vision transformer
-Walter Pitts
-Warren Sturgis McCulloch
-WaveNet
-Weight initialization
-Wharton School of the University of Pennsylvania
-Whisper (speech recognition system)
 Wired (magazine)
-Word2vec
-Word embedding
-Yann LeCun
-Yoshua Bengio
 ZDNET

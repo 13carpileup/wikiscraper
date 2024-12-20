@@ -1,7 +1,6 @@
 Beer bottle
 Endcap
 Extrusion
-Living hinge
 Intermediate bulk container
 Authentication
 Aluminum can
@@ -20,7 +19,6 @@ Envelope
 Shelf-ready packaging
 Desiccant
 Lid
-Conveyor
 Aluminium foil
 Linear low-density polyethylene
 Paper recycling
@@ -39,8 +37,6 @@ Resealable packaging
 Screw cap (wine)
 Hazard analysis and critical control points
 Inhaler
-Package testing
-Curtain coating
 Salvage drum
 Pallet
 Microwave popcorn
@@ -56,7 +52,6 @@ Plastic extrusion
 Dosage form
 Industrial ecology
 Skin pack
-Stretch wrap
 Package delivery
 Velostat
 Vacuum packing
@@ -68,11 +63,9 @@ Tamper-evident band
 Life-cycle assessment
 Filler (packaging)
 Waste management
-Pallet truck
 Environmental engineering
 Molding (process)
 Multilayered packaging
-Oyster pail
 Milk bag
 Tear tape
 Staple (fastener)
@@ -109,27 +102,20 @@ Active packaging
 Staple gun
 Plastic welding
 Shipping tube
-Tamper resistance
 Growler (jug)
 Tetra Brik
-Pharmaceutical packaging
 Aseptic processing
 Low-density polyethylene
 Tamper-evident technology
-Coating
-Juicebox (container)
 Corrugated box design
 Security printing
 Packet (container)
 Package handle
-Shearing (manufacturing)
-Plastic pallet
 Container
 Contract packager
 Meat absorbent pad
 Gunny sack
 Tub (container)
-Product development
 Polypropylene
 Material-handling equipment
 Jug
@@ -137,13 +123,11 @@ Packaging
 Ammunition box
 Closure (container)
 Adhesive
-Bubble wrap
 Aerosol spray dispenser
 Overwrap
 Vertical form fill sealing machine
 Containerization
 Heat sealer
-Cushioning
 Euro container
 Unit load
 Thermoforming
@@ -170,10 +154,8 @@ Double seam
 Squround
 Industrial robot
 Cage
-Converting
 Case (goods)
 Polyester
-Barcode printer
 Bulk box
 Cartoning machine
 Pump dispenser
@@ -191,23 +173,18 @@ Slip sheet
 Production control
 Laser cutting
 Disposable cup
-Mesh bag
-Sand bag
 Tube (container)
 Kraft paper
 Flexible intermediate bulk container
 Track and trace
 Glass milk bottle
 Plastic bag
-Pallet inverter
 Bottle
 Steel and tin cans
-Coextrusion
 Automatic identification and data capture
 Gas cylinder
 Recycling
 Crate
-Gel pack
 Palletizer
 Biodegradable bag
 Security tape
@@ -222,7 +199,6 @@ Electronic article surveillance
 Egg carton
 Label
 Conveyor system
-Jar
 Sustainable packaging
 Ampoule
 Label printer applicator
@@ -230,12 +206,9 @@ Nonwoven fabric
 Glass production
 Multi-pack
 Insulated shipping container
-Closed-loop box reuse
-Can collecting
 Drum pump
 Case sealer
 Toothpaste pump dispenser
-Paper sack
 Shelf life
 Carton
 Screw cap
@@ -244,14 +217,11 @@ Rotary wheel blow molding systems
 Strapping
 Glass bottle
 Plastic film
-Package pilferage
 Paper
-Source reduction
 Wooden box
 Packaging machinery
 Purdue Improved Crop Storage bags
 Molded pulp
-Food packaging
 Stand-up pouch
 Plastic bottle
 Reuse of bottles
@@ -264,10 +234,8 @@ Currency packaging
 Multihead weigher
 Boil-in-bag
 Extrusion coating
-Bottling line
 Hermetic seal
 Disposable food packaging
-Bung
 Drum (container)
 Shock detector
 Antistatic bag
@@ -277,10 +245,8 @@ Polyethylene
 Printing
 Luxury packaging
 Blow fill seal
-Modified atmosphere/modified humidity packaging
 Barcode reader
 Ultrasonic welding
-Liquid packaging board
 PET bottle recycling
 Field ration
 Case-ready meat
@@ -288,7 +254,6 @@ Paper bag
 Coated paper
 Packaging waste
 Can seamer
-Plastic-coated paper
 Vial
 Keg
 Thermal bag

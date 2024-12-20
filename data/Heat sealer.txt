@@ -3,7 +3,6 @@ Barrel
 Lid
 Oxygen scavenger
 Active packaging
-Coextrusion
 Glass bottle
 Retort pouch
 Tube (container)
@@ -23,33 +22,23 @@ BoPET
 S2CID (identifier)
 Glass production
 Roll slitting
-Shearing (manufacturing)
-Induction welding
-HACCP
 PET bottle recycling
 Tear tape
 Molded pulp
-Pallet inverter
-Barcode printer
 Bioplastic
-Technical standard
-Mesh bag
 Automatic identification and data capture
 Electronic article surveillance
 Quality management system
-Can collecting
 Packet (container)
 Reverse logistics
 Package handle
 Meat absorbent pad
 Blister pack
-Telecommunications equipment
 Production control
 Cartoning machine
 Euro container
 Lamination
 Container
-Test method
 Packaging gas
 Hot-melt adhesive
 Laser cutting
@@ -81,10 +70,8 @@ Inhaler
 Life-cycle assessment
 Growler (jug)
 Clamshell (container)
-Oyster pail
 Bulk box
 Plastic bag
-Paper sack
 Ammunition box
 Ampoule
 Consumer electronics
@@ -94,20 +81,16 @@ Aluminium foil
 Packaging waste
 Polypropylene
 Multihead weigher
-Juicebox (container)
 Package delivery
 Low-density polyethylene
 Currency packaging
-Coating
 Bag-in-box
 Containerization
 Aerosol spray dispenser
 Tamper-evident technology
 Flour sack
 Vacuum packing
-Hot melt adhesive
 Cage
-Liquid packaging board
 Resealable packaging
 Industrial robot
 Nonwoven fabric
@@ -116,14 +99,11 @@ Lineshaft roller conveyor
 Packaging
 Quality assurance
 Thermoplastic
-Time
 Insulated shipping container
 Child-resistant packaging
 Purdue Improved Crop Storage bags
 Verification and validation
-Pressure
 Wrap rage
-Temperature
 Folding carton
 Unit load
 Packaging engineering
@@ -143,16 +123,10 @@ Banana box
 Blow molding
 Desiccant
 Security printing
-Curtain coating
 Turntable stretch wrapper
-Plastic pallet
 Aseptic processing
 Medical device
-Living hinge
-Stretch wrap
 Reusable packaging
-Moving belt
-Converting
 Endcap
 Intermediate bulk container
 Cellophane
@@ -162,31 +136,26 @@ Stand-up pouch
 Vial
 Egg carton
 Material-handling equipment
-Synthetic rubber
 Shipping container
 Carton
 Steel and tin cans
 Seal (mechanical)
 Tamper-evident band
-Heat
 Sustainable packaging
 Flexible tank
 Double seam
 Drum pump
 Waste management
 Barcode reader
-Package pilferage
 Corona treatment
 Tub (container)
 Litter
-Cushioning
 Injection moulding
 Plastic extrusion
 Product (business)
 Ultrasonic welding
 Field ration
 Evidence packaging
-Birefringence
 Shelf-ready packaging
 Environmental engineering
 Optical disc packaging
@@ -204,21 +173,16 @@ Integrity
 Statistical process control
 Tinning
 Box wine
-Specification
-Tensile testing
 Flexible intermediate bulk container
 Humidity indicator card
 Die cutting (web)
 Gas cylinder
-ISO 9000
 Crate
 Time temperature indicator
 Printed circuit board
-Package testing
 Bail handle
 Palletizer
 Spray paint
-Bottling line
 Sachet
 Plastic welding
 Papermaking
@@ -231,15 +195,12 @@ Temperature data logger
 Shock and vibration data logger
 Glass recycling
 Box
-Laminate
 Shipping tube
 Injection molding machine
 Bag
 Track and trace
 Disposable cup
 Overwrap
-Heat staking
-Bioengineering
 Contract
 Foam food container
 Linear low-density polyethylene
@@ -250,29 +211,19 @@ Paper pallet
 Paperboard
 Salvage drum
 Thermal bag
-Sand bag
-Nichrome
 Polyethylene
 Shrink tunnel
 Thermoforming
 Edible packaging
 Water bottle
 Heat gun
-Food packaging
 Milk bag
-Tamper resistance
 Case sealer
 Conveyor system
-Greenhouse
 Tape dispenser
-Modified atmosphere/modified humidity packaging
 Flame treatment
-Polarized light
-Foil sealing
 Staple gun
-Regulation
 Alternative wine closure
-Source reduction
 Jerrycan
 Graphic design
 Keg
@@ -283,33 +234,24 @@ Die forming (plastics)
 Aluminum can
 Metallised film
 Contract packager
-Bubble wrap
 Pressure-sensitive tape
 Plastic film
 Doi (identifier)
-Pharmaceutical packaging
 Induction sealing
 Single-serve coffee container
 Aluminium bottle
 Spray bottle
 Industrial ecology
-Plastic-coated paper
 Low plastic water bottle
 Biodegradation
 Label
-Gel pack
-Jar
-Shed
-Product development
 Dosage form
 Blow fill seal
 Adhesive
 Seed-counting machine
 ISSN (identifier)
 Printing
-Waxtite
 Machine
-Closed-loop box reuse
 Plastic milk container
 ISBN (identifier)
 Jug
@@ -334,6 +276,4 @@ Padded envelope
 Hermetic seal
 Biodegradable bag
 Paper bag
-Bung
 Calender
-Vacuum

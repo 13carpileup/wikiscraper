@@ -1,108 +1,66 @@
 ISO 860
 ISO 9
 IEEE 754
-ISO/IEC JTC 1/SC 29
 ISO 999
-ISO/IEC 8859-2
-IEC 62262
 International Standard Recording Code
 ISO 3166-2
 Event tree analysis
 ISO 657
 ISO 31-3
 ISO 4031
-CAN bus
-ISO/IEC 8859-6
 Kunrei-shiki romanization
 ISO 11940
 ISO 639-6
-ISO/IEC 15897
 ISO 18245
 Compact Disc Digital Audio
-IEC 60559
 ISO 11940-2
 ISO 22000
 126 film
 ISO 732
-ISO/IEC 27006
 ISO 1745
 ISO 26000
 ISO 11783
-Fault tree analysis
 ISO 37001
-IEC 61960
 ISO 19114
 ISO 2015
-ISO/IEC JTC 1/SWG-A
 IEC 61355
-ISO/IEC 19770
 IEC 60929
-ISO/IEEE 11073
-ISO/IEC JTC 1/SC 27
 ISO 217
 ISO 10628
 ISO 8000
 IEC 62061
 ISO 31-5
-ISO/IEC 9797-1
-IEC 60757
 Ada Semantic Interface Specification
-ISO/IEC 6523
 ISO 8178
 IEC 61968
 Geography Markup Language
 Fuel oil
 IEC 61511
-ISO/IEC 17025
 ISO 13567
-ISO/IEC 11179
 IEC 61850
-IEC 61951
 IEC 62682
-ISO/IEC 10116
-ISO/IEC 8859-15
 ISO 7001
-ISO/IEC 19788
 IEC 60601
-ISO/IEC 18014
 ISO 8601
 ISO 5964
-AC power plugs and socket-outlets
 ISO 5776
-ISO/IEC JTC 1
 FDI World Dental Federation notation
-International Standard Serial Number
 LCEVC
 ISO 14617
-ISO 19092-1
-Ferrite core
 ISO 8501-1
 ISO 15919
-ISO/IEC 9995
-ISO/IEC 27040
 ISO 5426
 ALGOL 60
-Fluorescent lamp
 COBOL
 IEC 63110
 ISO 639-3
 ISO 31-0
-ISO/IEC 7816
-ISO/IEC 8859-11
 ISO 2145
 ISO 5427
-ISO/IEC 646
 ISO 10303-22
-ISO 8373
-ISO/IEC 7811
 Digital Addressable Lighting Interface
-ISO/IEC JTC 1/SC 32
-Inverter-based resource
-ISO/IEC 38500
-ISO/IEC JTC 1/SC 2
 IEC 61883
 International Securities Identification Number
-Advanced Library Format
 ISO 233
 Hazard symbol
 ISO 17100
@@ -111,40 +69,24 @@ ISO 7200
 CISPR
 ANSI escape code
 ISO 10303
-Hazard and operability study
 CHILL
 ISO 7002
 ISO 31-1
 ISO 56000
 ASMO 449
-IEC 62014-4
 ISO 639-5
-ISO 19092-2
 ISLISP
 ISO 45001
-ISO/IEC 8859-12
-ISO 31-9
-ISO/IEC 8859-9
 E series of preferred numbers
-ISO/IEC 8859-14
 ISO 2014
 ISO 10006
 International Standard Musical Work Code
 IEC 60364
-Digital radio mondiale
-ISO/IEC 4909
-Environmental monitoring
-ISO/IEC JTC 1/SC 6
 ISO 8691
-IEC 60488
-ISO/IEC 7810
-IEC 62386
 ISO 898
 Compact disc
 Knowledge Discovery Metamodel
-ISO/IEC 7813
 ISO 2921
-Edison screw
 ISO 31000
 International Standard Name Identifier
 IEC 62366
@@ -155,47 +97,29 @@ Horsepower
 Electromagnetic
 ISO 3307
 IEC 60228
-Design review
-ISO/IEC 8859-1
 ISO 31
 Dynamic Adaptive Streaming over HTTP
 ISO 668
 IEC 60269
 ISBN
-ISO/IEC 27000
 ISO 55000
-ISO/TS 80004
-Electrical ballast
 Electrostatics
 ISO 10007
 JPEG 2000
-Language Of Temporal Ordering Specification
 ISO 843
-FASTBUS
-ISO/IEC 27002
 IEC 60068
 ISO 16750
-Global Maritime Distress and Safety System
-ISO/IEC JTC 1/SC 39
-ISO/IEC JTC 1/SC 17
-Askarel
 IEC 61400
-ISO/IEC 8859-5
 ISO 15022
 ISO 639-1
-IP Code
-ISO 12006
 ISO 15924
-IEC TC 12
 ISO 9897
 ISO 13485
 ISO 14644
-Electroacoustics
 ISO 25964
 ISO 31-8
 ISO 11784 and ISO 11785
 IEC 62264
-ISO/IEC 19752
 Electricity meter
 Business Process Model and Notation
 ISO 11170
@@ -203,177 +127,115 @@ FTAM
 ISO 2709
 Battery nomenclature
 ISO 2788
-ISO/IEC JTC 1/SC 38
 ISO 22395
 International Organization for Standardization
-IEC 60297
 IO-Link
-IEC 61690
-ISO/IEC 10021
 ISO metric screw thread
 ISO 10160
 IEC 61334
 19-inch rack
 ISO 8583
 ISO 20400
-ISO/IEC 11404
 ISO 3166-3
 ISO 3166
 IEC 60027
 ISO 639-2
 ISO 6709
-Digital Living Network Alliance
 AES47
 IEC 81346
 JPEG XR
-IEC 60204
 International Standard Text Code
 IEC 61360
 ISO 19011
 IEC 60309
-Battery (electricity)
 IEC 61162
 IATF 16949
-EDIF
-IEC 61108
 Graph Query Language
 ISO 639
-IEC 62351
 ISO 10962
-ISO 14000
 C++
 Hot shoe
-Boiling water reactor
 ISO 2146
 ISO 14971
 Electronics
 ISO 10303-28
 High-voltage direct current
-ISO/IEC 7812
 ISO 2
 IEC 63382
 Delivery Multimedia Integration Framework
 ISO 1
 ISO 4217
-ISO/IEC JTC 1/SC 40
 International Electrotechnical Vocabulary
-ISO/IEC 80000
 ISO 14698
 Fieldbus
 IEC 61851
 ISO 6346
-ISO/IEC 5218
-ISO/IEC 24727
-IEC 62680
-ISO/IEC JTC 1/SC 34
 ISO 13584
-ISO 2047
-ISO/IEC JTC 1/SC 37
 Hole punch
-ISO/IEC 15288
 Kappa number
-Electrical
 International Electrotechnical Commission
 ISO 690
-Energy storage
 ISO 128
 Full BASIC
 ISO 704
 ArmSCII
 ISO 2711
-ISO/IEC 33001
-ISO 7027
-IEC 60958
 International Standard Identifier for Libraries and Related Organizations
 ISO 15926 WIP
 ISO 15398
-ISO/IEC 8859-13
 ISO 6438
 ISO 9564
-ISO/IEC 7064
 IEC 61970
 JPIP
 IEC 62455
-ISO 31-13
 ISO 4165
 IEC 62700
-ISO/IEC 8859-4
 ISO 13490
 IEC 60870
-IEC 60908
 ISO base media file format
-ISO/TR 11941
 Common Logic
 ISO 14031
 Common Criteria
-ISO/IEC JTC 1/SC 31 Automatic identification and data capture techniques
 Geospatial metadata
-Floating point
 ISO 13406-2
 IEC 61131-3
-ISO/IEC 27005
-ISO/IEC 24744
 ISO 9362
 Common Object Request Broker Architecture
-Direct-current
-IEC 61375
-IEC 61346
 IEC 61499
-IEC 61784
-Home automation
 ISO 15189
 EN 62262
-IEC 62443
 C Sharp (programming language)
-ISO/IEC 19794-5
 ISO 19439
 IEC 60038
 ISO 7010
 ISO 5428
-ISO/IEC JTC 1/SC 35 User interfaces
-IEC 62365
 ISO 15926
 IEC 61131
-ISO/IEC 8859-8
 ISO-TimeML
-Aramid
 HTML
 ISO 10161
 ISO 25178
-ISO/IEC 9126
 ECMAScript for XML
-Global navigation satellite systems
 ISO 3166-1
 ISO 20022
-IEC 62026
-ISO/IEC 8859-10
 ISO 965
-Emitter-coupled logic
 ISO 11992
 ISO 28000
 British Standard Pipe
 Information Technology Task Force
-ISO/IEC 14651
 Electromagnetic interference
-Fuse (automotive)
 IEC 60446
-Crimp connection
 File Allocation Table
 ISO 31-10
 Film speed
-ISO/IEC 10967
 ISO 22301
 ISO 3977
-ATML
 ANSI C
-ISO/IEC JTC 1/SC 7
 JPEG XS
-Common external power supply
 IS-IS
 ISO 4157
 International Standard Music Number
 Comparative Tracking Index
-Electrical equipment in hazardous areas
 AES3
 ISO 3103
 IEC 61030
@@ -381,42 +243,22 @@ ISO 6385
 ISO 10303-21
 IEC 62379
 Document Style Semantics and Specification Language
-ISO/IEC JTC 1/SC 25
 ISO 31-7
-ISO/IEC JTC 1/SC 24
-ISO/IEC 27000-series
 ISO 15686
-ISO/IEC 14443
 Equal-loudness contour
 JPEG XL
-ISO/IEC 12207
-Failure mode and effects analysis
-IEC 60086
 ISO 31-4
 International Standard Atmosphere
 IEC 60320
 EXPRESS (data modeling language)
-ISO/IEC 2022
-ISO/IEC 17024
-ISO/IEC TR 12182
-ISO/IEC 20000
 ISO 216
-ISO/IEC 29119
 110 film
 ISO 10218
 JBIG
 IEC 62196
-IEC 60112
 ISO 13399
 IEC 60906-1
-ISO/IEC 9529
 IEC 60870-6
-ISO/IEC 27001
-Electromagnetic compatibility
-ISO/IEC JTC 1/SC 22
-ISO/IEC 8859-7
-Electric vehicles
-ISO/IEC 42010
 Advanced Video Coding
 Insulator (electricity)
 French language
@@ -424,29 +266,21 @@ Flowchart
 A440 (pitch standard)
 Essential Video Coding
 Computer Graphics Metafile
-ISO/IEC 15693
 ISO 2852
-Electric vehicle
 ISO 4
 ISO 259
-Electronic chart display and information system
 ISO 5775
 IEC 62325
-ISO/IEC JTC 1/SC 28
-IEC 60063
 DICOM
 ISO 21500
 ISO 3864
-ISO/IEC 8859
 ISO 21001
 ISO 31-11
 IEC 61508
 International Standard Audiovisual Number
 ISO 20121
 ISO 7637
-ISO/IEC 11801
 ISO 6344
-ISO/IEC 15504
 IEC 63119
 ISO-8859-8-I
 Isofix
@@ -456,45 +290,28 @@ ISO 22300
 International Bank Account Number
 IEC 62056
 IEC TC 25
-Instrument transformer
 IEC TC 57
 Han Xin code
-ISO/IEC 8652
 Laser safety
 135 film
 Cloud Infrastructure Management Interface
 ECMAScript
-Colour measurement
-ISO/IEC JTC 1/SC 23
 IEC 62304
 ISO 9241
-ISO/IEC 8859-3
 IEC 60870-5
-IEC 80000
 ISO 1629
-Circuit breaker
 Digital object identifier
 Common Language Infrastructure
-IEC 61158
-ISO/IEC 21827
 Graphical Kernel System
 ISO 1000
-IEC 60980-344
-Computer Automated Measurement and Control
-ISO/IEC JTC 1/SC 36
 IEC 60034
 Accuracy and precision
 ISO 14224
-ISO 31-12
 ISO 9660
 ISO 2848
 Antimagnetic watch
 ISO 50001
-ISO 9000
-ISO/IEC 8859-16
-IEC 60062
 ISO 31-6
-IEC 61937
 Guidelines for the Definition of Managed Objects
 IP-XACT
 ISO 7736

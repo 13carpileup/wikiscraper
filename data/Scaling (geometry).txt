@@ -2,61 +2,38 @@
 2D computer graphics
 3D computer graphics
 3D projection
-3D rendering
-Affine geometry
 Affine transformation
-Aliasing
 Alpha compositing
 Anisotropic
 Anisotropic filtering
-Area
 Back-face culling
-Beam tracing
-Cel shading
-Checkerboard rendering
 Clipping (computer graphics)
 Coefficient
 Collision detection
 Comparison of vector graphics editors
 Computer graphics
-Computer graphics (computer science)
 Computer graphics lighting
 Cone tracing
-Congruence (geometry)
-Constant of proportionality
 Deferred shading
 Diagonal matrix
 Diameter
 Diffusion curve
-Digital zoom
-Dilation (metric space)
-Eigenspace
 Eigenvalue
-Eigenvector
 Fluid animation
 Global illumination
 Graphics software
 Hidden-surface determination
-Homogeneous coordinates
-Homogeneous function
-Homothetic transformation
-Homothety
 If and only if
 Image-based modeling and rendering
-Image scaling
 Isometric video game graphics
 Isotropic
 Layers (digital image editing)
-Linear transformation
-List of 3D animation software
 List of 3D computer graphics software
 List of 3D modeling software
 List of 3D rendering software
 List of computer graphics algorithms
 Matrix (mathematics)
 Mode 7
-Oblique angle
-Orthogonal coordinates
 Parallax scrolling
 Path tracing
 Photograph
@@ -64,49 +41,26 @@ Pixel
 Planar projection
 Polygon mesh
 Projection (linear algebra)
-Projective geometry
-Projective transformation
 Raster graphics editor
-Ray casting
 Ray tracing (graphics)
 Reflection (computer graphics)
-Reflection (mathematics)
 Rendering (computer graphics)
 Rotation (mathematics)
 Scalar (mathematics)
 Scalar multiplication
-Scale (map)
-Scale (ratio)
-Scale factor
-Scale factor (computer science)
-Scale factor (cosmology)
 Scale model
-Scale parameter
-Scaling in gravity
 Scanline rendering
 Shader
 Shading
 Shadow mapping
-Shadow volume
-Shape
 Shear matrix
-Sierpinski triangle
-Similarity (geometry)
 Skybox (video games)
 Spectral rendering
-Squeeze mapping
 Surface triangulation
 Symmetric matrix
 Texel (graphics)
-Text-to-image model
-The Wolfram Demonstrations Project
-Transformation matrix
-Translation (geometry)
 Triangle mesh
 Unbiased rendering
-Vector (geometric)
-Vector graphics
 Volume
-Volume rendering
 Voxel
 Wire-frame model

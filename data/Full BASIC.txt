@@ -1,19 +1,13 @@
 ISO 13490
 ISO 37001
-ISO 19092-1
 ISO 15686
 IP-XACT
 ISO 5775
-ISO/IEC 8859-2
-ISO/IEC 7064
 American Express
 List of IEC standards
-ISO/IEC 9797-1
 ANSI escape code
 ISO 19600
-ISO/IEC 27005
 MPEG-D
-ISO/IEC 8859-6
 ISO 843
 Linguistic categories
 IEC 61970
@@ -34,23 +28,16 @@ Common Criteria
 ISO 2711
 ArmSCII
 Magnetic tape
-Array slicing
 ISO 217
 ISO 19114
 CHILL
-GE-200 series
 MPEG-1
 Manufacturing Message Specification
 ISO 216
 ISO 14617
 Market Identifier Code
-ISO/IEC 7812
 ISO 31-3
-ISO/IEC 27002
 ISO 2709
-Line editor
-ISO/IEC 7811
-Linear Tape-Open
 Guidelines for the Definition of Managed Objects
 Isofix
 MPEG-4 Part 3
@@ -72,13 +59,9 @@ ISBN (identifier)
 ISO 20121
 ISO 639-3
 ISO 11783
-ISO 8373
 ISO 860
 ISO 31-6
-Language Of Temporal Ordering Specification
-ISO/IEC 19752
 Longitudinal redundancy check
-John G. Kemeny
 ISO 639-6
 ISO 690
 IEC 61968
@@ -90,95 +73,65 @@ ISO 5427
 ISO 3977
 LCEVC
 JPEG XL
-ISO/IEC 80000
 Microsoft BASIC
-ISO/IEC 11801
 Common Logic
 ISO 11170
 ISO 3166
 Mixed raster content
-ISO/IEC 11179
 IEC 60269
 ISO 732
 ISO 3166-2
 ISO 639-1
 ISO 25964
 ISO 8583
-ISO/IEC 8859-13
 ISO 31-0
-ISO 14000
-ISO/IEC 42010
 Digital Linear Tape
 IEC 60320
 Computer file
-Floating point
-Data General
 ISO base media file format
-C++/CLI
 ISO 6385
-ISO/IEC 15504
 Knowledge Discovery Metamodel
 International Standard Text Code
 Fuel oil
-Digital Data Storage
 ISO 6344
-ISO/IEC 8859-9
 IATF 16949
-Control Data
 IEC 62682
 Minimal BASIC
-Dartmouth College
 List of ISO romanizations
 Digital Addressable Lighting Interface
 ISO 11992
 ISO 13584
-JSON
 Home computer
 ISO 3166-1
 IEC 62196
 IEC 60038
 IEC 62379
-Near-field communication
-OSI model
 Antimagnetic watch
-ISO/IEC 15693
 MPEG-4 Part 11
 COLLADA
 International Standard Atmosphere
 ISO 14224
-ISO 31-9
 Han Xin code
 ISO 7010
 International standard
-ISO/IEC 19794-5
 IEC 62700
 JPIP
 ISO 8501-1
 Geospatial metadata
-ISO/IEC 5218
 ISO 31-5
-ISO 12006
 ISO 15022
 ISO 9362
 IEC 62455
 ISO 31000
 ISO 3166-3
-ISO/IEC 7813
-GEnie
 IEC 63110
 ISO 1629
 ISO 4157
 MPEG-4
-ISO/IEC 9126
 ISO 15926 WIP
-ISO/IEC 21827
-BASIC programming language
 MP4 file format
 JPEG XR
-ISO/IEC 27000
-ISO/IEC 15288
 Eiffel (programming language)
-Local variable
 C Sharp (programming language)
 AES3
 Lexical Markup Framework
@@ -189,14 +142,9 @@ ISO 31
 ISO 9
 ISO 8000
 ISO 657
-ISO/IEC 8859-10
 ISO 10218
 Legal Entity Identifier
-ISO/IEC 29119
 IEEE 754
-ISO/IEC 10116
-ISO 2047
-ISO/IEC 8859-11
 OCR-A
 IEC 60601
 ISO 2788
@@ -204,30 +152,21 @@ ISO 128
 Flowchart
 ISO 5426
 ISO 10303-28
-College Board
 ISO 4
 ISO 3864
 ISO 4031
 IEC 81346
-Dartmouth BASIC
-Format string
-ISO/IEC 8859-3
 Floppy disk
-ISO/IEC 14443
 ISO 10006
 ISO 8178
 ISO 55000
-FAT16B
 MPEG-H
 Kappa number
 ISO 26262
 FTAM
 International Standard Identifier for Libraries and Related Organizations
 Comparative Tracking Index
-ISO/IEC 4909
 ISO 9897
-Forward declaration
-Mainframe
 ISO 2015
 International Standard Audiovisual Number
 ISO 25178
@@ -235,43 +174,30 @@ ISO 14971
 International Securities Identification Number
 IEC 60870-5
 International Standard Recording Code
-ISO/IEC 8859-1
 ISO 31-8
 ISO metric screw thread
 ISO 31-4
-ISO 19092-2
 ISO 28000
 Compact Disc Digital Audio
 ISO 6346
 ISO 5428
-Microcomputer
-ISO/IEC 19770
 ISO 14698
 ISO 15189
 ISO 13485
-HP Time-Shared BASIC
-ISO/IEC 8859-12
-ISO/IEC 27001
 ISO 56000
 IEC 61508
 Meta-Object Facility
 IEC 62056
 ISO 3103
 ISO 10962
-John Dvorak
 ISO 31-11
 MPEG-21
-Online service provider
 Digital Equipment Corporation
 IEC 60929
 ISO 5776
-ISO/IEC 38500
 ISO 10628
-ISO/TR 11941
 ISO 15919
-ISO/IEC 646
 IBM
-Line number
 ISO 259
 ISBN
 ISO 19439
@@ -281,44 +207,27 @@ Fiber Distributed Data Interface
 JPEG 2000
 A440 (pitch standard)
 IEC 62366
-Input/output
 ISO 18245
-CAN bus
 Battery nomenclature
 110 film
 MHEG-5
-ISO/IEC 8859
 Document Style Semantics and Specification Language
-ISO/IEEE 11073
 On-board diagnostics
-FORTRAN
-ISO/IEC 8859-16
 JBIG
-ISO/IEC 7816
 ISO 16750
 General Electric
 OCR-B
-ISO 31-13
 IEC 61355
 IEC 60364
 ISO 13406-2
 ISO 22000
 JPEG XS
 Motion JPEG 2000
-Graphics Kernel System
-ISO/IEC 24744
-Arthur Luehrmann
 Common Object Request Broker Architecture
-ISO/IEC 6523
 ISO 19011
 MPEG-7
-International Standard Serial Number
-ISO/IEC 17024
-ISO/IEC 9529
 ISO 2014
-Kodak
 ISO 26000
-BASIC-PLUS
 IEC 61883
 IEC 62304
 ISO 7200
@@ -332,25 +241,16 @@ ISO 639-5
 ISO 11784 and ISO 11785
 ISO 45001
 MPEG-A
-ISO/IEC 10967
 Business Process Model and Notation
 Cloud Infrastructure Management Interface
 Graphical Kernel System
 ISO 5964
 ASCII
-ISO/IEC 8859-8
-ISO 7027
 E series of preferred numbers
-ISO/IEC 8859-7
-ISO/IEC 8859-4
 FAT12
-ISO/IEC 19788
 19-inch rack
-ISO/IEC 11404
 ISO 639-2
 MaxiCode
-ISO/IEC TR 12182
-ISO 9000
 DICOM
 HTML
 IEC 60034
@@ -358,24 +258,14 @@ Equal-loudness contour
 ISO 6943
 COBOL
 ISO 14031
-3M
 Graph Query Language
-ISO/IEC 2022
 ISO 2848
-Advanced Intelligent Tape
-IEC 60980-344
-ISO/IEC 14651
 MPEG-G
 ISO 965
-ISO/IEC 8652
-ISO/IEC 18014
 Computer Graphics Metafile
 ISO 15398
-Application Programming Interface for Windows
 ISO 9660
-Global variable
 ISO-8859-8-I
-Dart (programming language)
 ISLISP
 ANSI C
 ISO 22300
@@ -392,10 +282,7 @@ IEC 63119
 Minicomputer
 IEC 61360
 JSTOR (identifier)
-ISO/IEC 20000
-ISO/IEC 9995
 ISO 2
-ISO/IEC 8859-5
 ISO 14644
 ISO 10303
 International Standard Music Number
@@ -403,16 +290,11 @@ ISO 1
 ISO 2921
 Matrix (mathematics)
 Horsepower
-ISO/IEC 7810
 IEC 60027
-ISO/IEC 8859-15
 IEC 61511
 ISO 9564
-ISO/IEC 33001
 British Standard Pipe
-ISO 31-12
 International Standard Name Identifier
-List of Ecma standards
 Multibus
 IEC 60870
 ISO 4217
@@ -423,13 +305,11 @@ ISO 2033
 ISO 6438
 Essential Video Coding
 FAT16
-ISO/IEC 27000-series
 Fieldbus
 ASMO 449
 Advanced Video Coding
 ISO 17100
 ISO 22395
-ISO/IEC 24727
 ECMAScript for XML
 IEC 60870-6
 ISO 50001
@@ -443,22 +323,16 @@ ISO 999
 Common Language Infrastructure
 ISO 10161
 CD-ROM
-ISO/IEC 12207
 ISO 10303-22
 Ecma International
-ISO/IEC 27040
 Hazard symbol
 ISO 20400
 ISO 8691
 EXPRESS (data modeling language)
-Microsoft Visual Basic
 Doi (identifier)
-Hewlett-Packard
 Object Constraint Language
-ISO/IEC 8859-14
 ISO 31-1
 ISO 31-7
-Jerry Pournelle
 IEC 61499
 File Allocation Table
 ALGOL 60
@@ -466,23 +340,15 @@ ISO 2145
 ISO-TimeML
 ISO 20022
 OpenDocument
-ISO/IEC 15897
-ISO/IEC 27006
 IEC 61850
 Dynamic Adaptive Streaming over HTTP
-Function overloading
-ISO/IEC 17025
 MPEG-2
 Ada Semantic Interface Specification
 Digital object identifier
-Holographic Versatile Disc
 IEC 60228
-ISO/IEC 10021
 ISO 10007
 ISO 898
 Film speed
-IEC 62351
-HP 2000
 Accuracy and precision
 International Standard Musical Work Code
 Magnetic ink character recognition
@@ -491,7 +357,6 @@ MPEG-4 Part 2
 IEC 61131
 ISO 31-10
 ISO 7002
-Fuse (automotive)
 IEC 60906-1
 IEC 61030
 ISO 704

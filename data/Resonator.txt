@@ -1,21 +1,13 @@
 AC motor
-Acoustic resonance
-Acoustics
-Aftermarket (automotive)
 Albert Einstein
 Alessandro Volta
 Alfred-Marie Liénard
 Alternating current
-Amplitude
 Ampère's circuital law
 André-Marie Ampère
 ArXiv (identifier)
-Australian Synchrotron
-Balance wheel
 Bandpass filter
-Bandwidth (signal processing)
 Banjo
-Beamline
 Bibcode (identifier)
 Biot–Savart law
 Bluegrass music
@@ -23,35 +15,20 @@ Bremsstrahlung
 Capacitance
 Capacitor
 Carl Friedrich Gauss
-Cavity magnetron
 Charge density
 Charles-Augustin de Coulomb
 Charles Proteus Steinmetz
 Classical electromagnetism
 Classical electromagnetism and special relativity
-Clock signal
 Computational electromagnetics
-Coplanar waveguide
 Coulomb's law
-Coupling coefficient of resonators
 Covariant formulation of classical electromagnetism
-Crab cavity
-Crystal lattice
-Crystal oscillator
 Current density
 Cyclotron radiation
 DC motor
-Degrees of freedom (engineering)
-Dielectric resonator
-Dimensional metrology
 Direct current
 Displacement current
-Distributed-element model
-Dobro
 Doi (identifier)
-Double pendulum
-Drum
-EBow
 Eddy current
 Electret
 Electric charge
@@ -69,7 +46,6 @@ Electrical impedance
 Electrical network
 Electrical resistance
 Electrical resistance and conductance
-Electrical resonance
 Electricity
 Electrolysis
 Electromagnetic field
@@ -84,21 +60,16 @@ Electromagnetic waves
 Electromagnetism
 Electromotive force
 Electron
-Electronic circuit
-Electronic oscillator
 Electrostatic discharge
 Electrostatic induction
 Electrostatics
 Emil Lenz
 Emil Wiechert
-Exhaust system
 Faraday's law of induction
-Filter (signal processing)
 Folk music
 Four-current
 Franz Ernst Neumann
 Frequency
-Fundamental frequency
 Félix Savart
 Gauss's law
 Gauss's law for magnetism
@@ -108,11 +79,7 @@ Guitar
 Gustav Kirchhoff
 Gyrator–capacitor model
 Hans Christian Ørsted
-Harmonic
-Harmonic oscillator
 Heinrich Hertz
-Helical resonator
-Helmholtz resonance
 Hendrik Lorentz
 Hermann von Helmholtz
 Hippolyte Fizeau
@@ -123,7 +90,6 @@ Inductance
 Induction motor
 Inductor
 Insulator (electricity)
-Interference (physics)
 J. J. Thomson
 James Clerk Maxwell
 James Prescott Joule
@@ -134,21 +100,16 @@ John Hopkinson
 Joseph Henry
 Joseph Larmor
 Joule heating
-Journal of Applied Physics
-Keyboard percussion
 Kirchhoff's circuit laws
-Klystron
 Larmor formula
 Laser
 Lenz's law
 Light
 Linear motor
-Linear particle accelerator
 List of electrical phenomena
 List of textbooks in electromagnetism
 Liénard–Wiechert potential
 London equations
-Loop-gap resonator
 Lord Kelvin
 Lorentz force
 Magnetic circuit
@@ -167,95 +128,47 @@ Mathematical descriptions of the electromagnetic field
 Maxwell's equations
 Maxwell's equations in curved spacetime
 Maxwell stress tensor
-Mechanical filter
-Mechanical resonance
 Michael Faraday
-Microstrip
 Microwave
-Microwave cavity
-Muffler
-Musical acoustics
 Musical instrument
-Narciso Yepes
-Natural frequency
 Network analysis (electrical circuits)
 Nikola Tesla
-Normal modes
-Nuclear magnetic resonance
-Office of Technology Assessment
 Ohm's law
 Oleg D. Jefimenko
 Oliver Heaviside
-Optical cavity
-Optical ring resonators
 Optics
-Organ (instrument)
-Organ pipe
-Oscillation
-Overtone
 PMID (identifier)
-Parasitic capacitance
-Parasitic oscillation
 Particle accelerator
-Pendulum
 Permeability (electromagnetism)
 Permeance
 Permittivity
 Phase (waves)
-Phase shift
-Piezoelectricity
 Polarization density
 Poynting vector
-Q factor
 Quartz clock
-Quartz crystal
-RLC circuit
 Radio frequency
 Radio transmitter
-Reflex klystron
 Relativistic electromagnetism
-Resistor
 Resonance
 Resonance chamber
-Resonance frequency
-Resonant circuit
 Resonant frequency
-Resonant stub
-Resonator guitar
 Right-hand rule
 Rotor (electric)
 S2CID (identifier)
-Sensor
 Series and parallel circuits
-Short circuit
 Siméon Denis Poisson
-Sinusoidal
-Sound box
 Standing wave
 Static electricity
 Stator
-Stringed instrument
-Stripline
-Superconducting RF
-Superconducting radio frequency
-Sustain
 Synchrotron radiation
-Ten-string guitar
-Tesla coil
 Transformer
 Transmission line
-Tremolo
 Triboelectric effect
 Tuned circuit
-Tuned exhaust
 Tuning fork
-Vibraphone
-Violin
 Voltage
 Watt
 Waveguide
 Waveguide (radio frequency)
 Wilhelm Eduard Weber
 William Ritchie (physicist)
-Woodwind
-Xylophone

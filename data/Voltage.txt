@@ -5,12 +5,8 @@ Alfred-Marie Liénard
 Alternating current
 Ampère's circuital law
 André-Marie Ampère
-Annales de chimie et de physique
-Automotive battery
-Battery (electricity)
 Biot–Savart law
 Bremsstrahlung
-Bridge circuit
 Capacitance
 Capacitor
 Carl Friedrich Gauss
@@ -20,17 +16,13 @@ Charles Proteus Steinmetz
 Classical electromagnetism
 Classical electromagnetism and special relativity
 Computational electromagnetics
-Conservative force
-Conventional current
 Coulomb
 Coulomb's law
-Coulomb Gauge
 Covariant formulation of classical electromagnetism
 Curl (mathematics)
 Current density
 Cyclotron radiation
 DC motor
-Dimensional analysis
 Direct current
 Displacement current
 Doi (identifier)
@@ -38,7 +30,6 @@ Eddy current
 Electret
 Electric battery
 Electric charge
-Electric circuit
 Electric current
 Electric dipole moment
 Electric field
@@ -57,8 +48,6 @@ Electrical impedance
 Electrical network
 Electrical resistance and conductance
 Electricity
-Electrochemical
-Electrochemical potential
 Electrolysis
 Electromagnetic field
 Electromagnetic four-potential
@@ -70,30 +59,21 @@ Electromagnetic tensor
 Electromagnetism
 Electromotive force
 Electron
-Electroscope
-Electrostatic
 Electrostatic discharge
 Electrostatic induction
-Electrostatic potential
 Electrostatics
 Emil Lenz
 Emil Wiechert
 Energy
 English language
 Faraday's law of induction
-Fermi level
-Fluid pressure
 Four-current
 Franz Ernst Neumann
 Félix Savart
-Galvani potential
-Gauge fixing
 Gauss's law
 Gauss's law for magnetism
 Georg Ohm
 George Singer
-Giovanni Aldini
-Ground (electricity)
 Gustav Kirchhoff
 Gyrator–capacitor model
 Hans Christian Ørsted
@@ -104,7 +84,6 @@ High voltage
 Hippolyte Fizeau
 History of electromagnetic theory
 Humphry Davy
-Hydraulic analogy
 ISBN (identifier)
 Inductance
 Induction motor
@@ -118,13 +97,11 @@ John Henry Poynting
 John Hopkinson
 Joseph Henry
 Joseph Larmor
-Josephson effect
 Joule
 Joule heating
 Kirchhoff's circuit laws
 Larmor formula
 Lenz's law
-Line integral
 Linear motor
 List of electrical phenomena
 List of textbooks in electromagnetism
@@ -132,8 +109,6 @@ Liénard–Wiechert potential
 London equations
 Lord Kelvin
 Lorentz force
-Lorenz gauge condition
-Lumped element model
 Magnetic circuit
 Magnetic complex reluctance
 Magnetic field
@@ -146,75 +121,43 @@ Magnetism
 Magnetization
 Magnetomotive force
 Magnetostatics
-Mains electricity
 Mains electricity by country
 Mathematical descriptions of the electromagnetic field
 Maxwell's equations
 Maxwell's equations in curved spacetime
-Maxwell-Faraday equation
 Maxwell stress tensor
 Michael Faraday
-Multimeter
-Mutual inductance
 Network analysis (electrical circuits)
 Nikola Tesla
 OCLC (identifier)
 Ohm's law
 Oleg D. Jefimenko
 Oliver Heaviside
-Open-circuit voltage
 Optics
-Orders of magnitude (voltage)
-Oscilloscope
-Overhead line
 Permeability (electromagnetism)
 Permeance
 Permittivity
-Phantom voltage
 Physical constant
-Piezoelectric effect
-Pipework
 Polarization density
-Potential
-Potential difference
-Potentiometer (measuring instrument)
 Poynting vector
-Pressure
 Pump
-Quantity
-Quantum Hall effect
 Relativistic electromagnetism
-Resistor
 Resonator
-Retarded potential
 Right-hand rule
 Rotor (electric)
-SI base unit
-SI derived unit
-SI unit
-Scalar (physics)
 Series and parallel circuits
-Simply connected space
 Siméon Denis Poisson
 Speed of light
-Starter motor
 Static electricity
 Stator
 Synchrotron radiation
-Test particle
-Thermoelectric effect
 Transformer
 Triboelectric effect
-Turbine
 Vacuum tube
 Volt
-Voltage drop
-Voltaic pile
-Voltmeter
 Volume
 Watt
 Waveguide (radio frequency)
 Wayback Machine
 Wilhelm Eduard Weber
 William Ritchie (physicist)
-Work (electrical)

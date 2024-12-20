@@ -1,67 +1,31 @@
-AI mayor
-Agent-based computational economics
 Agent-based model
 Agent-based model in biology
-Agent-based social simulation
-Agent-oriented programming
-Agent Communication Language
-Agent mining
 Alexander Bogdanov
 Algorithm
-Algorithms
 Allenna Leonard
 Anatol Rapoport
-Anthony Stafford Beer
 Anthony Wilden
 ArXiv (identifier)
-Artificial brain
 Artificial intelligence
-Artificial life
 Attention
-Auto-GPT
-Autonomous Agents and Multi-Agent Systems
-Autonomous agent
-BDI software agent
 Barbara J. Grosz
-Behavior informatics
 Bibcode (identifier)
-Bio-inspired computing
 Biological system
-Biophysical environment
-Black box
-Blackboard system
 Botnet
 Brain–computer interface
 Béla H. Bánáthy
 C. West Churchman
 Cambridge University Press
-Cellular computing
 Charles A. S. Hall
-ChatGPT
-Circuit (computer science)
-CiteSeerX (identifier)
 Claude Shannon
-Cognitive informatics
 Communication
-Comparison of agent-based modeling software
-Comparison of platforms for software agents
 Complex system
-Complex systems
 Computational biology
-Computational neuroscience
-Computational theory of mind
-Consensus dynamics
 Control theory
-Cooperative distributed problem solving
 Coupled human–environment system
 Cybernetics
-Data processing
 Decision-making
-Decision theory
-Decoding the Universe
-Discrete event simulation
 Distributed artificial intelligence
-Distributed constraint optimization
 Doi (identifier)
 Donella Meadows
 Doubling time
@@ -72,17 +36,9 @@ Edsger W. Dijkstra
 Edward Norton Lorenz
 Emergence
 Eric Trist
-Event processing
-Evolutionary computation
-Faina Mihajlovna Kirillova
-Foundation for Intelligent Physical Agents
 Francisco Varela
 Fred Emery
-Friendly artificial intelligence
-Function (computer science)
-GORITE
 Game theory
-Genome informatics
 Geographic information system
 George Dantzig
 George Klir
@@ -92,47 +48,28 @@ Hallucination (artificial intelligence)
 Hdl (identifier)
 Heinz von Foerster
 Howard T. Odum
-Human-based genetic algorithm
 Human–computer interaction
 Humberto Maturana
-Hybrid intelligent system
 ISBN (identifier)
 ISSN (identifier)
 Ilya Prigogine
-Inforg
-Information overload
-Information processing theory
-Information storage
-Information structure
 Information system
 Information technology
 Information theory
-Infosphere
-Intelligence
-Intelligent agent
-JACK Intelligent Agents
 James Grier Miller
 James J. Kay
-Java Agent Development Framework
 Jay Wright Forrester
 Jennifer Wilby
 John Seddon
 John Wiley & Sons
-KQML
 Kathleen Carley
 Katia Sycara
 Kenneth E. Boulding
 Kevin Warwick
-Knowledge Query and Manipulation Language
-Large Language Models
-Large language model
-Learning
 Limiting factor
-List of agent-based modeling software
 List of systems sciences organizations
 List of systems scientists
 Living systems
-Lotka–Volterra
 Ludwig von Bertalanffy
 Lydia Kavraki
 Manfred Clynes
@@ -140,81 +77,40 @@ Manuela M. Veloso
 Margaret Boden
 Margaret Mead
 Mary Cartwright
-Massive (software)
-Microbial intelligence
 Mihajlo D. Mesarovic
 Mike Jackson (systems scientist)
-Mind
-Mind uploading
 Mixed reality
-Monolithic system
-Multi-agent learning
-Multi-agent pathfinding
-Multi-agent planning
 Multi-agent reinforcement learning
-Multi-agent simulation
 Murray Bowen
-Natural computing
 Negative feedback
 Nervous system
-Neural computation
-Neurocomputing
-Neuroinformatics
 Niklas Luhmann
 Norbert Wiener
 OCLC (identifier)
 Object Management Group
-Pattern-oriented modeling
 Perception
-Peter Norvig
 Peter Senge
-Pheromone
 Philosophy of artificial intelligence
-Philosophy of information
-Physical computing
-PlatBox Project
 Positive feedback
-Power system
 Principia Cybernetica
 Process (computing)
 Processor (computing)
 Qian Xuesen
 Radhika Nagpal
-Reason
 Recommender system
 Reinforcement learning
-Remote control
 Richard E. Bellman
-Ron Sun
 Russell L. Ackoff
 Ruzena Bajcsy
 S2CID (identifier)
-Scientific community metaphor
-Scientific method
-Search algorithm
-Self-driving car
-Self-organisation
-Self-propelled particles
-Self-reconfiguring modular robot
-Semiotics
-Signal
 Simulated reality
-Smartgrids
-Social influence
-Social information processing
-Social simulation
 Social system
 Sociotechnical system
 Software agent
 Software bot
 Springer Science+Business Media
-State (computer science)
 Stephanie Forrest
-Stephen Smale
 Stream processing
-Stuart J. Russell
-Swarm intelligence
-Swarm robotics
 System
 System dynamics
 Systemics
@@ -235,14 +131,10 @@ Systems theory in political science
 Systems thinking
 Talcott Parsons
 Theory of computation
-Transportation
 Twelve leverage points
 Ubiquitous computing
-University of Massachusetts Amherst
 Urban metabolism
 Victor Aladjev
 Virtual reality
 Virtual world
-Waymo
-William Ross Ashby
 World-systems theory

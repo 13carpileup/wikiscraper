@@ -1,119 +1,82 @@
 Market Identifier Code
 Database
 Han Xin code
-Extensible Stylesheet Language
 ANSI escape code
-RDF/XML
 ISO 639-6
 ISO 15926
 ISO 31-11
 RM-ODP
 HTML
-ISO/IEC 8859-1
 ISO 6709
 ISO 17100
 MP4 file format
-AAP DTD
-TIFF/EP
 Motion JPEG 2000
 International standard
 ISO 2788
 126 film
 ISO 31-3
 JBIG
-ISO/IEC 9995
 Mixed raster content
-ISO/IEC 8859-14
 Equal-loudness contour
 ISO 5776
 Fuel oil
-ISO/IEC 27001
-ISO 12083
 ISO 22000
 International Bank Account Number
 ISO 9241
 STEP-NC
 ISO 28000
 Pascal (programming language)
-International Business Machines
 ISO 7001
-International Standard Serial Number
 Regular expression
 ISO 4
-S-expression
 Prolog
 Rectangular Micro QR Code
 ISO 10007
 Kunrei-shiki romanization
 OCR-A
-ISO 12006
 Antimagnetic watch
 ISO 31
 File Allocation Table
-PDF/A
 MPEG-D
 Open Document Architecture
 ISO 7002
 ISO 7010
 Longitudinal redundancy check
-SGMLguid
 ISO 11784 and ISO 11785
-Lexical analysis
 MicroPDF417
 ISLISP
 Multibus
-ISO 31-13
 Torx
 ISO-8859-8-I
-ISO/IEC 20000
 Unified Modeling Language
 LaTeX
 MPEG-2
 Photographic Activity Test
 ISO 11783
-Implementation
-ISO/IEC 19752
-ISO/IEC 7816
-ISO/IEC 7810
 HTML5
 Open Virtualization Format
 ISO 2014
 ISO metric screw thread
-ISO/IEC 8859-8
-Scala (programming language)
 ISO 3864
 COLLADA
-Directed graph
 Isofix
-Hewlett-Packard
-ISO/IEC 27002
 Simple Features
-ISO/IEC 8859-4
 RELAX NG
 ISO 5427
-ISO/IEC 14651
 ISO 732
 MPEG-4
 CHILL
-ISO/IEC 42010
 Trusted Platform Module
 Lexical Markup Framework
 Open Data Protocol
-Electronic document
 ISO 31-5
-PDF/E
 ISO 2015
 ISO 657
-Simple Object Access Protocol
 ISO 13485
-ISO 31-12
 IBM
-Melvin Conway
-ISO/IEC 7811
 ISO 31-6
 ISO 5428
 FTAM
-ISO/IEC 17025
 ECMAScript
 Requirements engineering
 Magnetic ink character recognition
@@ -123,17 +86,13 @@ ISO 5775
 ISO 15398
 ISO 9897
 ISO 2711
-ISO/IEC 14443
 ISO 7200
 ISO 31000
 PDF
-ISO/IEC 7812
 MPEG-4 Part 11
 Delivery Multimedia Integration Framework
 ISO 20400
-ISO/IEC 9529
 ISO 233
-ISO/IEC 11404
 ISO 5426
 Automata theory
 JPEG 2000
@@ -149,32 +108,22 @@ ISO 2709
 ISBN (identifier)
 MPEG-21
 ECMAScript for XML
-ISO/IEC 8859-13
-ISO 31-9
 Formal grammar
-Parse tree
 Cloud Infrastructure Management Interface
 Science
 Process Specification Language
-ISO/IEC 6523
-Automata
 ISO 21500
 ISO 9
-ISO/TR 11941
-Association of American Publishers
 ISO 965
 Hazard symbol
 ISO 37001
 ISO 6438
 ISO 4157
-Parsing
 ISO 639-5
 Information technology
 SQL
-ISO/IEC 2022
 Linux
 Filename extension
-JavaServer Pages
 ISO 10160
 ISO 8501-1
 ISO 31-1
@@ -185,12 +134,9 @@ Business Process Model and Notation
 ISO 15924
 Advanced Video Coding
 Oxford English Dictionary
-CERN
 Legal Entity Identifier
 POSIX
-ISO/IEC 15504
 ISO 5964
-Document type definition
 ISO 639
 ISO-TimeML
 ISO 25178
@@ -198,45 +144,28 @@ ANSI C
 C Sharp (programming language)
 EXPRESS (data modeling language)
 Film speed
-Profile (engineering)
-Tim Berners-Lee
-Grammar
 ISO 10303
-SGML entity
 PHIGS
 Geospatial metadata
-PDF/X
-Language Of Temporal Ordering Specification
-List of general purpose markup languages
 ISO 128
 ISO 14644
 ISO 16750
 ISO 8691
 ISO 10218
-ISO/IEC 27006
 Power take-off
 JPEG XR
 Ada Semantic Interface Specification
 JPEG XS
 MPEG-4 Part 2
-Concrete syntax
 ISO 999
-Scalable vector graphics
 ISO 11170
-ISO/IEC 8859
-Rich Text Format
-IBM Generalized Markup Language
 ISO 6943
 ISO 8601
-ISO/IEC 10967
-Postulate
 ISO 6344
 Topic map
 ISO 10962
 Shoe size
-LinuxDoc
 International Standard Text Code
-Tree-adjoining grammar
 ISO 14971
 ISO 15189
 ISO 50001
@@ -245,110 +174,75 @@ O-ring
 Linguistic categories
 ArmSCII
 ISBN
-Delimiter
 On-board diagnostics
 LCEVC
 International Standard Musical Work Code
-ISO/IEC 8859-9
-ISO/IEC 8859-11
 ISO 26000
 Ruby (programming language)
 ISO 2852
 Colon (punctuation)
-ISO/IEC 27000-series
 JPIP
-ISO/IEC 27000
 Versatile Video Coding
-CALS (DOD)
 ISO 3166-3
 Romanization of Armenian
 MPEG-H
 ISO 56000
 Meta-Object Facility
-ISO/IEC 15288
 Computer Graphics Metafile
 ISO 1629
-Charles Babbage Institute
 ISO 13584
 ISO 15919
-ISO 7027
 ISO 25964
 C++
-ISO/IEC 8859-10
 MPEG-7
 Pinyin
 ISO 2
-DocBook
 Full BASIC
 ISO 15022
-Concurrent markup
-DSSSL
 Metalanguage
 FDI World Dental Federation notation
 Essential Video Coding
-Internationalization
 ISO 10303-22
 Renard series
-ISO 14000
 Linux Standard Base
 International Standard Music Number
 QR code
-ISO/IEC 8859-6
 Digital object identifier
-Hypertext
 ISO 3166-1
-Chris Lilley (W3C)
 ISO 31-10
-ISO/IEC 8859-7
-Uniform Type Identifier
 ISO 10006
 ISO 1
 A440 (pitch standard)
-ISO/IEC TR 12182
 ISO 11992
 ISO 22301
-Atom (standard)
 ISO 10628
-PDF/VT
 ISO 18245
 ISO 20022
 Graph Query Language
 MPEG-A
-John McCarthy (computer scientist)
 ISO 15926 WIP
 ISO 1745
-ISO/IEC 21827
 ISO 3977
-Tag omission
 ISO 3166
 ISO 11940-2
 ISO 2848
 Dynamic Adaptive Streaming over HTTP
 ISO 19011
 IS-IS
-ISO/IEC 27005
 Shock-resistant watch
 International Standard Atmosphere
-Document Type Definition
 ISO 21001
 Hole punch
-ISO 19092-1
-Fuse (automotive)
-Two-level grammar
 ISO 8583
 ISO 9564
-HyTime
 ISO 4031
-Text Encoding Initiative
 Full stop
 ISO 10161
 110 film
 ISO 3103
 ISO 13399
 ISO 216
-ISO/IEC 646
 Media type
-ISO/IEC 8859-16
 ISO 2145
 International Securities Identification Number
 ASMO 449
@@ -358,32 +252,20 @@ ISO 14698
 International Standard Recording Code
 ALGOL 60
 Quality function deployment
-ISO/IEC 7064
-ISO/IEEE 11073
-PDF/UA
-ISO/IEC 10116
 ISO 55000
 International Standard Identifier for Libraries and Related Organizations
 OpenDocument
 ISO 13567
-ISO/IEC 4909
 ISO 20121
 ISO 31-8
-ISO/IEC 8652
 ISO 639-1
-ISO/IEC 17024
-ISO/IEC 18014
 ISO 19114
 Graphical Kernel System
-Coroutines
 Geography Markup Language
 Object Constraint Language
-ISO/IEC 12207
 List of IEC standards
 SDMX
 ISO 22395
-State machine
-COCOA (digital humanities)
 ISO 10303-28
 Unicode
 ISO 31-0
@@ -396,105 +278,63 @@ Kappa number
 ISO 7736
 ISO base media file format
 ISO 31-4
-ISO/IEC 11801
-Charles F. Goldfarb
-W-grammar
-Machine-readable data
 OCR-B
-ISO/IEC 19770
-ISO/IEC 15897
 ISO 26262
 ISO 6385
 ISO 13490
-ISO 19092-2
 Guidelines for the Definition of Managed Objects
 ISO 259
 Slash (punctuation)
-ISO/IEC 7813
 ISO 6346
 Universal Coded Character Set
-ISO/IEC 9797-1
 135 film
-ISO/IEC 8859-12
 ISO 217
 MPEG-1
-ISO/IEC 8859-15
-ISO 8373
 ISO 704
 ISO 639-2
 Minimal BASIC
 ISO 9362
 ISO 2146
 ISO 31-7
-ISO/IEC 19794-5
 Doi (identifier)
 PDF417
-Markup language
-Mike Cowlishaw
-Scheme programming language
-Adaptive grammar
 ISO 19439
 ISO 45001
-OASIS (organization)
 ISO 15686
 ISO 11940
-OSI model
 ISO 668
 Fiber Distributed Data Interface
-ISO/IEC 15693
-Document type declaration
-ISO/IEC 8859-5
 ISO 19600
-ISO/IEC 11179
 Software maintenance
 ISO 14224
 ISO 2033
-RSS (file format)
 ISO 1000
 British Standard Pipe
 ISO 14031
-SGML declaration
-Parser
 Open source software
-ISO/IEC 5218
 List of ISO standards
 Salt spray test
-Abstract syntax tree
 IATF 16949
-ISO/IEC 8859-2
 ISO 3307
 MPEG-4 Part 3
-ISO/IEC 38500
 International Standard Name Identifier
 COBOL
 ISO 9660
-Scheme (programming language)
 Bracket
 Prontor-Compur
 ISO 8000
-LEXX (text editor)
 ISO 22300
-Charles Goldfarb
 ISO 4217
 ISO 13406-2
-EDGAR
-Processing instruction
 ISO 10303-21
 Office Open XML
 Horsepower
-ISO/IEC 80000
 Manufacturing Message Specification
-CAN bus
 ISO 3166-2
 Document Style Semantics and Specification Language
 Accuracy and precision
 Hot shoe
 Common Logic
-ISO/IEC 9126
 DICOM
-ISO 9000
-ISO/IEC JTC 1/SC 34
-ISO/IEC 8859-3
 ISO 898
-ISO 2047
 ISO 860

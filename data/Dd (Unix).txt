@@ -1,324 +1,62 @@
-.img
-/dev/null
-/dev/random
-/dev/sda
-/dev/sdc
-/dev/urandom
-/dev/zero
 ASCII
-AT&T Bell Laboratories
-AWK
-AcetoneISO
-Acronis Cyber Protect Home Office
-Alcohol 120%
-Alias (command)
 Ar (Unix)
-Ashampoo Burning Studio
-At (command)
-B2sum
-Backblaze
-Backup
-Backup software
-Base32
-Base64
-Basename
-Bc (programming language)
-Bit shift
-BlindWrite
 Block (data storage)
-Blu-ray
 Boot sector
-Borg (backup software)
-Brasero (software)
 Byte
-Byte order
-CDBurnerXP
-CDRWIN
-CDRoller
-CDemu
 C (programming language)
-Cal (command)
-Carbon Copy Cloner
-Cat (Unix)
-Cd (command)
-Cdrdao
-Cdrkit
-Cdrtools
-Chattr
-Chcon
-Chgrp
-Chmod
-Chown
-Chroot
-Cksum
-CloneCD
-CloneDVD
-Clonezilla
-Cmp (Unix)
-Code42
-Comm
-Command-line interface
-Command-line option
-Command-line utility
 Command (computing)
-Command line
-Commercial software
 Communications protocol
 Compact disc
-Comparison of disc authoring software
-Comparison of disc image software
 Computing platform
-Coreutils
 Cp (Unix)
-Cron
-Cross-platform
-Cross-platform software
-Csplit
-Ctags
-Cut (Unix)
-Cygwin
 DVD
-Daemon Tools
-Darwin (operating system)
 Data erasure
 Data recovery
 Data remanence
-Ddrescue
 Debian
-DeepBurner
 Dennis Ritchie
-Department of Defense Cyber Crime Center
-Device file
-Df (Unix)
-Diff
 Digital Equipment Corporation
-Dircolors (Unix)
-Dirname
-DiscJuggler
-Disco (software)
-Disk Copy
 Disk Utility
-Disk cloning
-Disk image
-Disk wipe
 Doi (identifier)
-Doug McIlroy
-Douglas McIlroy
-Du (Unix)
-Dvd+rw-tools
 EBCDIC
-Echo (command)
-Ed (text editor)
-End-of-file
 Env
-Environment variable
-Eqn (software)
 Eric S. Raymond
-Ex (text editor)
-Exbibyte
-Exit (command)
-Expand (Unix)
-Expr
-Factor (Unix)
-File (command)
-Find (Unix)
 Floppy disk
-Fmt (Unix)
-Fold (Unix)
 Fork (software development)
-Fortune (Unix)
 FreeBSD
-Fuser (Unix)
 GNU
 GNU Core Utilities
-GPLv3+
-Gibibyte
-Grep
-Groups (Unix)
-Gzip
 Hard disk drive
-Hard disk partition
 Hdparm
-Head (Unix)
-Hoc (programming language)
-Hostid (Unix)
 IBM
 IEEE
 ISBN (identifier)
-ISO image
-Iconv
-Id (Unix)
-ImgBurn
-InCD
-Inferno (operating system)
-InfraRecorder
-Install (Unix)
 International System of Units
-Ipconfig
-IsoBuster
-Job Control Language
 Job control (Unix)
-Join (Unix)
-K3b
-K9Copy
-Ken Thompson
-Kibibytes
-Kill (command)
-Kilobytes
-Lex (software)
-Libburnia
-Link (Unix)
 Linux
-List of POSIX commands
-List of Unix commands
-List of optical disc authoring software
-Ln (Unix)
 Logname
-Ls
-M4 (computer language)
-MIT License
-MKS Toolkit
 MacOS
-MagicISO
-Make (software)
 Man page
-Master boot record
-Md5sum
-Mebibytes
-Mesg
 Microsoft Windows
-Mkdir
-Mkfifo
-Mknod
-Mktemp
-More (command)
-Mv (Unix)
 Native (computing)
-Nero Burning ROM
-Nero Linux
-Nero Multimedia Suite
-Netstat
-Network packet
-Network utility
-Nice (Unix)
-Nl (Unix)
-Nm (Unix)
-Nohup
-Nproc
-Numfmt
 Od (Unix)
 Open-source software
 OpenSUSE
 Operating system
-Optical disc authoring
 POSIX
-POSIX shell
-Passwd
-Paste (Unix)
-Patch (Unix)
-Pathchk (Unix)
-Pax (command)
-Pebibyte
 Ping (networking utility)
-Pinky (Unix)
-Plan 9 from Bell Labs
 Porting
-Pr (Unix)
-Printenv
 Printf
 Printf (Unix)
 Programmer
-Ps (Unix)
-Ptx (Unix)
-Pwd
-Read (Unix)
-Readlink
-Realpath
-Repository (version control)
-Rm (Unix)
-Rmdir
-Roxio Creator
-Roxio Toast
-Runcon
-SIGINFO
-Secure Digital
 Secure Erase
-Sed
 Seed7
-Seq (Unix)
-Sha1sum
-Shell builtin
-Shred (Unix)
-Shuf
-Single UNIX Specification
-Single Unix Specification
-Sleep (command)
 Software categories
 Software development
 Software license
 Solid-state drive
-Sort (Unix)
-Spell (Unix)
-Split (Unix)
-Standard error stream
-Standard input
-Standard out
-Standard streams
-Stdbuf
-Stdin
-Strings (Unix)
-Strip (Unix)
-Stty (Unix)
-Sum (Unix)
-Sync (Unix)
-System V printing system
-Tail (Unix)
-Talk (software)
-Tebibyte
-Tee (command)
-Test (Unix)
-The Open Group
-Time (Unix)
-Time Machine (macOS)
-Timeout (computing)
-Touch (command)
 Tput
-Tr (Unix)
-Troff
-True and false (commands)
-Truncate
-Tsort
-Tty (Unix)
-Type (Unix)
 USB flash drive
-UltraISO
-Umask
-Uname
-Unexpand
-Uniq
-Unix
-Unix-like
-Unix time
-Unlink (Unix)
-UnxUtils
-Uptime
-Usenet (identifier)
-Usenet newsgroup
-Users (Unix)
-Version 5 Unix
-Vi (text editor)
-Wait (command)
 Wc (Unix)
-Who (Unix)
-Whoami
-WinCDEmu
 Windows
 Windows API
-Write (Unix)
-X-CD-Roast
-X/Open
-Xargs
-Yacc
-Yes (Unix)
-Yobibyte
-Zebibyte

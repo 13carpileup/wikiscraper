@@ -1,7 +1,3 @@
-16-bit computing
-18-bit computing
-36-bit computing
-4K Disk Monitor System
 ABICOMP character set
 ANSEL
 ANSI escape code
@@ -16,15 +12,12 @@ Alpha 21264
 Alpha 21364
 Alpha 21464
 AltaVista
-Amstrad CP/M Plus character set
 Amstrad CPC character set
 Apple II character set
 ArmSCII
 Atari ST character set
 BASIC-8
 BCD (character encoding)
-Base 40
-Base conversion
 Baudot code
 Big5
 Binary Ordered Compression for Unicode
@@ -47,7 +40,6 @@ Casio calculator character sets
 Character encoding
 Character encodings in HTML
 Charset detection
-Chen–Ho encoding
 Chinese Character Code for Information Interchange
 Chinese telegraph code
 Code page
@@ -66,17 +58,10 @@ Code page 1019
 Code page 1020
 Code page 1021
 Code page 1023
-Code page 1034
 Code page 1040
 Code page 1042
 Code page 1043
-Code page 1044
 Code page 1046
-Code page 1052
-Code page 1053
-Code page 1054
-Code page 1055
-Code page 1056
 Code page 1058
 Code page 1098
 Code page 1101
@@ -115,7 +100,6 @@ Code page 853
 Code page 855
 Code page 856
 Code page 857
-Code page 858
 Code page 859
 Code page 860
 Code page 861
@@ -132,7 +116,6 @@ Code page 896
 Code page 897
 Code page 899
 Code page 903
-Code page 904
 Code page 912
 Code page 915
 Code page 921
@@ -147,7 +130,6 @@ Code page 950
 Code page 951
 Commercial Operating System
 Compaq
-Compaq Computer Corporation
 Comparison of Unicode encodings
 Compucolor II character set
 Computer hardware
@@ -155,10 +137,8 @@ Computer terminal
 Control character
 Cooke and Wheatstone telegraph
 Cork encoding
-DECSYSTEM-20
 DECUS
 DEC Alpha
-DEC BATCH-11/DOS-11
 DEC GT40
 DEC Hebrew
 DEC J-11
@@ -179,14 +159,11 @@ DIGITAL Command Language
 DIN 66003
 DIN 91379
 DKOI
-Densely packed decimal
 Digital Equipment Corporation
 Digital Federal Credit Union
 Digital Linear Tape
 Digital Storage Systems Interconnect
-Digital UNIX
 Digital encoding of APL symbols
-Douglas W. Jones
 Dynamic debugging technique
 Dynamically Redefined Character Set
 EBCDIC
@@ -216,11 +193,9 @@ HZ (character encoding)
 Han unification
 Hardware code page
 Harlan Anderson
-Hertz encoding
 Hong Kong Supplementary Character Set
 IBM
 IBM AIX
-IEC-P27-1
 INIS-8
 INIS character set
 ISO-IR-111
@@ -229,26 +204,6 @@ ISO-IR-182
 ISO-IR-197
 ISO-IR-200
 ISO-IR-68
-ISO/IEC 10367
-ISO/IEC 2022
-ISO/IEC 646
-ISO/IEC 8859
-ISO/IEC 8859-1
-ISO/IEC 8859-10
-ISO/IEC 8859-11
-ISO/IEC 8859-12
-ISO/IEC 8859-13
-ISO/IEC 8859-14
-ISO/IEC 8859-15
-ISO/IEC 8859-16
-ISO/IEC 8859-2
-ISO/IEC 8859-3
-ISO/IEC 8859-4
-ISO/IEC 8859-5
-ISO/IEC 8859-6
-ISO/IEC 8859-7
-ISO/IEC 8859-8
-ISO/IEC 8859-9
 ISO 2033
 ISO 5426
 ISO 5427
@@ -258,7 +213,6 @@ ISO 6862
 ITU T.61
 Indian Script Code for Information Interchange
 Instruction set architecture
-Intecolor/Compucolor 8001 character set
 Interactive Application System
 Iran System encoding
 JIS X 0201
@@ -309,7 +263,6 @@ Mac OS Hebrew
 Mac OS Icelandic encoding
 Mac OS Inuit
 Mac OS Keyboard encoding
-Mac OS Maltese/Esperanto encoding
 Mac OS Ogham
 Mac OS Roman
 Mac OS Romanian encoding
@@ -336,27 +289,18 @@ National Replacement Character Set
 NeXT character set
 OML encoding
 OMS encoding
-OS/8
 OT1 encoding
-Octal
 On-line Debugging Tool
 OpenVMS
 Operating system
 PALcode
-PDP-10
-PDP-11
 PDP-11 architecture
-PDP-15
-PDP-6
 PDP-7
-PDP-9
 PETSCII
-Packed BCD
 Perso-Arabic Script Code for Information Interchange
 PostScript Latin 1 Encoding
 PostScript Standard Encoding
 Processor (computing)
-Programmed Data Processor
 Programming language
 Prosigns for Morse code
 Q-Bus
@@ -365,17 +309,13 @@ RISC OS character set
 RK05
 RL02
 RPL character set
-RSTS/E
 RSX-11
-RSX-15
 RT-11
 ReGIS
 Record Management Services
 Rigel (microprocessor)
 Robert Palmer (computer businessman)
 Russian Morse code
-SAM Coupé character set
-SHARE Operating System
 SI 960
 SQUOZE
 Sega SC-3000 character set
@@ -383,28 +323,20 @@ Sharp MZ character set
 Sharp pocket computer character sets
 Shift JIS
 Sinclair QL character set
-Six-bit character code
 Sixel
-Split octal
 Standard Compression Scheme for Unicode
 Standard Disk Interconnect
-Stanford/ITS character set
 Stanford Extended ASCII
 Star coupler
 StrongARM
 Symbol (typeface)
-Symbol table
 Synchronous Backplane Interconnect
 System Module
-System Reference Manual
-T.51/ISO/IEC 6937
-TD/SMP
 TI calculator character sets
 TOPS-10
 TOPS-20
 TRON (encoding)
 TRS-80 character set
-TSS/8
 TU81
 TURBOchannel
 Tamil All Character Encoding
@@ -416,7 +348,6 @@ Teletext
 Teletext character set
 Thai Industrial Standard 620-2533
 The Ultimate Entrepreneur
-The University of Iowa
 Transcode (character encoding)
 UTF-1
 UTF-16
@@ -430,7 +361,6 @@ Unicode
 Unicode control characters
 Unified Hangul Code
 Universal Coded Character Set
-University of Miami
 VAX
 VAXBI bus
 VAXELN
@@ -441,25 +371,12 @@ VT05
 VT100
 VT1000
 VT100 encoding
-VT101
-VT102
-VT103
-VT105
-VT131
 VT180
 VT220
-VT240
-VT241
 VT320
-VT330
-VT340
 VT420
-VT510
 VT52
 VT520
-VT525
-VT55
-VT62
 VT640
 Variable-width encoding
 Ventura International
@@ -479,9 +396,6 @@ Windows-1256
 Windows-1257
 Windows-1258
 Windows-1270
-Windows Cyrillic + Finnish
-Windows Cyrillic + French
-Windows Cyrillic + German
 Windows Polytonic Greek
 Windows code page
 Word (computer architecture)

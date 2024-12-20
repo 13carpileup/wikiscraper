@@ -1,159 +1,49 @@
 ARIB STD B24 character set
-Abutsu-ni
 Akita dialect
 Amami Japanese
 Amami Ōshima language
-Amanotekorashū
-Asuka Kiyomihara Code
 Ateji
 Awaji dialect
-Azuma Kagami
-Baishōron
 Bamboo English
-Banmin Tokuyo
 Banshū dialect
-Benmei
-Bimiyu Genko
 Bingo dialect
 Bonin English
 Braille kanji
-Bungo no Kuni Fudoki
-Bunka Shūreishū
-Bussokuseki-kahi
-Chikamoto Nikki
 Chikuzen dialect
-Chiteiki
-Chōshūeisō
-Chūgoku dialect
-Chūyūki
 Classical Japanese
 Cyrillization of Japanese
-Dai Nihon Shi
-Daigaku Kuwakumon
-Denkoroku
-Dojimon
 Early Middle Japanese
 Early Modern Japanese
 Eastern Old Japanese
-Eiga Monogatari
-Emperor Hanazono
-Emperor Uda
 Enclosed CJK Letters and Months
 Enclosed Ideographic Supplement
-Engishiki
 Engrish
-Entairyaku
 Extended Unix Code
 Extended shinjitai
-Fudoki
-Fujiwara no Kanezane
-Fujiwara no Michinaga
-Fujiwara no Moromichi
-Fujiwara no Munetada
-Fujiwara no Nagako
-Fujiwara no Sanesuke
-Fujiwara no Sukefusa
-Fujiwara no Tadahira
-Fujiwara no Teika
-Fujiwara no Tsuneko
-Fujiwara no Yorinaga
-Fujiwara no Yukinari
 Furigana
-Fusō Ryakuki
-Fusōshū
-Fuyu no hi
-Fūga Wakashū
-Fūyō Wakashū
-Gairaigo
-Gangōji Garan Engi
 Gender differences in Japanese
-Gengo (text)
-Genji Monogatari
-Genpei Seisuiki
-Gensanmi Yorimasashū
-Genshi Banroku
-Genshi Koroku
-Genshi Shiroku
-Genshi Tetsuroku
-Genshiroku
-Gikeiki
 Glossary of Japanese words of Dutch origin
 Glossary of Japanese words of Portuguese origin
-Go-Fukakusa In no Nijō
 Go-on
-Go (board game)
 Gojūon
-Gomo Jiki
-Gonijō Moromichi-ki
-Gonki
-Gosen Wakashū
-Goshūi Wakashū
-Gukanshō
 Gunma dialect
-Gyokuyō
-Gyokuyō Wakashū
-Gōdanshō
-Gōrihōshū
 Hachijō grammar
 Hachijō language
-Haikai
 Hakata dialect
 Halfwidth and fullwidth forms
-Hamamatsu Chūnagon Monogatari
-Hanazono Tennō Shinki
-Hankanfu
-Harima no Kuni Fudoki
-Haru No Hi
-Hatsubi Sanpō
-Heian period
-Heichū Monogatari
-Heihanki
-Heikoki
 Hentaigana
 Hepburn romanization
 Hichiku dialect
 Hida dialect
-Hikawa Seiwa
 Hiragana
 Hiragana (Unicode block)
-Hisago
 Historical kana orthography
-Hitachi Fudoki
-Hobutsushu
-Hogen Monogatari
 Hokkaido dialects
-Hokke Gisho
-Hokuriku dialect
-Honchō Hokke Genki
-Honchō Monzui
-Honchō Shinsenden
-Honchō Tsugan
-Honkō Kokushi Nikki
 Honorific speech in Japanese
-Hosshinshū
-Hōjōki
-Hōnichi dialect
 ISBN (identifier)
-ISO/IEC 2022
 Ibaraki dialect
-Igo Hatsuyōron
-Igoshiki
-Iki no Hakatoko no Sho
-Ima Monogatari
-Imakagami
 Inshū dialect
-Iroha Jiruishō
-Ise Monogatari
-Iseshū
-Ishin Sūden
-Ishinpō
-Isoho Monogatari
-Iwashimizu Monogatari
 Iyo dialect
-Izayoi Nikki
-Izumi Shikibu
-Izumi Shikibu Nikki
-Izumu no Kuni Fudoki
 JIS X 0201
 JIS X 0208
 JIS X 0211
@@ -163,7 +53,6 @@ JSL romanization
 Japanese-based creole languages
 Japanese Braille
 Japanese adjectives
-Japanese books
 Japanese counter word
 Japanese dialects
 Japanese dictionary
@@ -184,24 +73,11 @@ Japanese pronouns
 Japanese punctuation
 Japanese script reform
 Japanese sound symbolism
-Japanese verb conjugation
 Japanese writing system
 Japonic languages
-Jikkunshō
-Jikyōshū
-Jinkōki
-Jinnō Shōtōki
-Jurinhyo
 Jōdai Tokushu Kanazukai
-Jōgū Shōtoku Hōō Teisetsu
 Kaga dialect
-Kagakushū
-Kagerō Nikki
 Kagoshima dialect
-Kaifūsō
-Kaikoku Heidan
-Kaitenshishi
-Kakyō Hyōshiki
 Kan-on
 Kana
 Kana Extended-A
@@ -211,289 +87,71 @@ Kana ligature
 Kanagawa dialect
 Kanazukai
 Kanbun
-Kanginshū
 Kanji
-Kanmon Nikki
-Kanpyō Gyoki
 Kansai dialect
-Kanshi (poetry)
-Kantō dialect
 Katakana
 Katakana (Unicode block)
 Katakana Phonetic Extensions
-Katsuyo Sanpo
-Kazashi no Himegimi
-Keikodan
-Keikokushū
-Keisei Hisaku
-Kenkon Bensetsu
-Kenrei-mon In Ukyō No Daibu Shū
 Kesen dialect
-Ki no Tsurayuki
 Kikai language
-Kin'yō Wakashū
-Kingyoku Wakashū
-Kinkai Wakashū
 Kishū dialect
-Kodo Taii
-Kogo Shūi
-Kohon Setsuwashū
-Kojiki
-Koke no Koromo
-Kokin Chomonjo
-Kokin Wakashū
-Kokki
-Kokuiko
 Kokuji
-Komo Yowa
-Kondo Hisaku
-Konjaku Monogatarishū
-Koshitsu (text)
-Kouyou Gunkanki
-Kuji Hongi
 Kumamoto dialect
 Kunigami language
 Kunrei-shiki romanization
-Kyogyoshinsho
 Kyowa-go
-Kyukeidan
-Kyuo Dowa
-Kyuritsu
-Kyūji
 Late Middle Japanese
-List of Japanese poetry anthologies
 List of Japanese speculative fiction writers
 List of Japanese writers
-List of National Treasures of Japan (writings)
-List of kanji by stroke count
 List of kanji radicals by frequency
 List of kanji radicals by stroke count
 Logogram
 Man'yōgana
-Man'yōshū
-Masukagami
-Matsuuramiya Monogatari
-Meigetsuki
-Meitokuki
-Midō Kampakuki
-Mikawa Monogatari
 Mikawa dialect
 Mino dialect
 Miyakoan language
-Mizukagami
 Modern kana usage
-Murasaki Shikibu Nikki
 Nagaoka dialect
 Nagasaki dialect
 Nagoya dialect
 Nairiku dialect
-Nakamikado Nobutane
-Nakatsukasa no Naishi Nikki
-Nakayama Sadachika
 Nanbu dialect
-Naobinomitama
 Narada dialect
 Nihon-shiki romanization
-Nihon Gaishi
-Nihon Kōki
-Nihon Montoku Tennō Jitsuroku
-Nihon Ryōiki
-Nihon Sandai Jitsuroku
-Nihon Seiki
-Nihon Shoki
-Nihon Ōdai Ichiran
-Nihon Ōjō Gokurakuki
-Nijūichidaishū
-Ninagawa Chikamoto
-Ninomiyaou Yowa
-Nippo Jisho
-Nobutane Kyōki
 Northern Izu Archipelago dialects
 Northern Ryukyuan languages
 Nyōbō kotoba
-Ochikubo Monogatari
-Okina Mondō
 Okinawan Japanese
 Okinawan language
-Okinoerabu language
-Oku no Hosomichi
 Okurigana
 Okuyoshino dialect
 Old Japanese
-Oninki
-Onkochishinsho
-Oritaku Shiba no Ki
-Otogizōshi
 Polivanov system
-Prince Sadafusa
 Pseudo-Chinese
 Rendaku
-Renri Hishō
 Romanization of Japanese
-Rongo Kogi
-Rongo Shitsuchu
-Ruiju Myōgishō
-Ruijū Kokushi
 Ryakuji
 Ryukyuan languages
-Ryushi Shinron
-Ryōunshū
 Saga dialect
-Sagoromo Monogatari
-Saiiki Monogatari
-Sakkaiki
-Sandaiki
-Sanetaka Kōki
-Sangoku Tsūran Zusetsu
-Sangyō Gisho
-Sangō Shiiki
-Sanjōnishi Sanetaka
-Sankashū
-Sanpō Ekotoba
-Santokushō
 Sanuki dialect
-Sanuki no Suke Nikki
-Sarashina Nikki
-Sarumino
-Seidan
-Seikenroku
-Seikyo Yoroku
-Seisuishō
-Seiyō Kibun
-Sekka Zusetsu
-Senchakushū
-Senjoshū
-Senshin Dosakki
-Senzai Wakashū
-Setsuyōshū
-Seventeen-article constitution
-Shaku Nihongi
-Shasekishū
 Shift JIS
-Shika Wakashū
 Shikoku dialect
-Shin'yaku Kegonkyō Ongi Shiki
-Shin Kokin Wakashū
-Shinchoki
-Shinchokusen Wakashū
-Shingosen Wakashū
-Shingoshūi Wakashū
-Shinkiron
-Shinron
-Shinsen Inutsukubashū
-Shinsen Jikyō
-Shinsen Man'yōshū
-Shinsen Shōjiroku
-Shinsen Tsukubashū
-Shinsenzai Wakashū
-Shinshokukokin Wakashū
-Shinshūi Wakashū
-Shinyō Wakashū
-Shizen Shineido
 Shizuoka dialect
-Sho Shōgi Zushiki
-Shogi
-Shogi Kenshoku
-Shoku Hankanfu
-Shoku Nihon Kōki
-Shoku Nihongi
-Shokugenyō Wakashū
-Shokugosen Wakashū
-Shokugoshūi Wakashū
-Shokukokin Wakashū
-Shokusenzai Wakashū
-Shokushūi Wakashū
-Shozan Kanwa
-Shozan Taiwa
-Shugi Gaisho
-Shugi Washo
-Shunki
-Shutsujo Kougo
-Shutsujo Shogo
-Shōbōgenzō
-Shōgi Rokushu no Zushiki
-Shōgi Zushiki
-Shōmangyō Gisho
-Shōmonki
-Shōryōshū
-Shōyūki
-Shūgyokushū
-Shūi Wakashū
 Sino-Japanese vocabulary
 Small Kana Extension
-Sobo Kigen
-Soga Monogatari
 Southern Amami Ōshima language
 Southern Ryukyuan languages
-Suigakuki
-Sumidawara
-Sumiyoshi Monogatari
 Sōgana
-Taiheiki
-Taihō Code
-Taikōki
-Taira no Nobunori
-Taira no Tokinori
-Taira no Tsunetaka
-Takahashi Ujibumi
-Takamura Monogatari
-Taketori Monogatari
-Tamonnin Nikki
-Tannisho
 Tarama language
-Teiki
-Teishin Kōki
-Tennōki
-Tenrei Banshō Meigi
-The Book of Five Rings
-The Murasaki Shikibu Diary
-The Pillow Book
-The Tale of the Heike
-The Unfettered Mind
 Tochigi dialect
-Tohi Mondo
-Tokikuni Kyōki
-Tokinoriki
-Tokitsugu Kyōki
-Tokitsune Kyōki
 Tokunoshima language
-Tokushi Yoron
-Tokushi Zeigi
 Tokyo dialect
-Tomonorishū
 Topic marker
-Torikaebaya Monogatari
-Tosa Nikki
 Tosa dialect
-Towazugatari
 Transcription into Japanese
 Transcription of the Japanese language in Esperanto
 Tsugaru dialect
-Tsukubashū
-Tsuneiekyōshū
-Tsurezuregusa
 Tsushima dialect
-Tsutsumi Chūnagon Monogatari
 Tō-on
 Tōhoku dialect
-Tōin Kinkata
-Tōkaidōchū Hizakurige
-Tōkai–Tōsan dialect
-Tōshi Kaden
-Uchigikishū
-Ugen (Japanese text)
-Ugetsu Monogatari
-Uiyamabumi
-Uji Shūi Monogatari
-Ukiyoburo
 Umpaku dialect
-University of British Columbia Press
-University of Tokyo Press
-Utsubo Monogatari
-Uwai Kakuken Nikki
-Uwai Satokane
-Wagokuhen
-Waka (poetry)
-Wakan Sansai Zue
-Wakan rōeishū
-Wakankensakushū

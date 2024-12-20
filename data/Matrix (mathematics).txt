@@ -1,499 +1,157 @@
-APL (programming language)
 Absolute value
-Absolutely convergent series
-Absorbing state
-Abstract index notation
-Academic Press
-Addison-Wesley
 Addition
-Adjacency matrix
 Adjugate matrix
-Admittance
-Affine connection
 Albert Einstein
 Alfred North Whitehead
-Alfred Tarski
 Algebra
-Algebraic multiplicity
 Algebraically closed field
 Algorithm
-American Mathematical Society
-Angular momentum
-Antisymmetric tensor
-Apparent variable
-Arthur Cayley
 Associative algebra
-Associativity
 Asterisk
-Augustin-Louis Cauchy
 Axiom
 Axiom of reducibility
-BLAS
-Bareiss algorithm
-Basic Linear Algebra Subprograms
 Basis (linear algebra)
-Bernhard Riemann
 Bertrand Russell
 Bijection
 Bilinear form
 Bilinear map
 Binary operation
-Bivector
 Block matrix
-Bohemian matrices
-Branch of mathematics
-Brian Conrey
-Cabibbo–Kobayashi–Maskawa matrix
 Cambridge University Press
 Carl Friedrich Gauss
 Carl Gustav Jacob Jacobi
-Cartan formalism (physics)
 Category (mathematics)
-Category of matrices
-Cauchy stress tensor
-Cayley–Hamilton theorem
-Change of basis
 Characteristic polynomial
-Charles F. Van Loan
 Charles Royal Johnson
 Chemical bond
 Chemistry
-Chinese mathematics
-Chris Godsil
 Clifford algebra
-Closed subset
 Coding theory
 Coefficient
-Column vector
-Column vectors
 Combinatorics
-Commutative
 Commutative property
 Commutative ring
-Comparison of linear algebra libraries
 Complex conjugate
 Complex number
-Complexity analysis
-Computer algebra system
 Computer graphics
 Computer vision
-Condition number
-Conjugate gradient method
-Conjugate transpose
-Connection form
-Continuous function
-Continuum mechanics
 Control theory
-Coordinate change
 Coordinate system
-Covariance and contravariance of vectors
-Covariance matrix
-Covariant derivative
 Cramer's rule
-Critical point (mathematics)
-Cross product
-Cuthbert Edmund Cullis
-Cyclic permutation
-Dartmouth BASIC
-Data matrix (multivariate statistics)
-Definiteness of a matrix
 Degree of a polynomial
-Density matrix
-Descriptive statistics
 Determinant
 Diagonal matrix
-Diagonalizable matrix
-Differentiable function
-Differential form
 Differential geometry
-Dimension
-Dimensionality reduction
-Dimensionless quantity
-Direct sum of modules
-Distance matrix
 Distributivity
 Division (mathematics)
-Document-term matrix
 Doi (identifier)
 Dot product
-Dover Publications
 Dual space
 Dutch language
-Dyadics
-EISPACK
-Eberhard Knobloch
 Economics
-Eigenbasis
-Eigendecomposition
-Eigenstates
 Eigenvalue
-Eigenvalue, eigenvector and eigenspace
 Eigenvalues and eigenvectors
-Eigenvector
-Einstein notation
-Einstein tensor
 Electrical impedance
 Electromagnetic tensor
 Electromagnetism
 Electronic component
 Element (mathematics)
-Elementary matrix
 Elementary particle
-Ellipse
-Elliptic partial differential equation
-Elwin Bruno Christoffel
-Emphasis (typography)
-Empty product
 Encryption
 Encyclopedia of Mathematics
-Endomorphism ring
 Engineering
-Equations of motion
-Equivalence of categories
 Euclidean geometry
-Euclidean space
-Euclidean vector
 European Mathematical Society
 Expression (mathematics)
-Extension (predicate logic)
 Exterior algebra
-Exterior calculus
-Exterior covariant derivative
-Exterior derivative
-Exterior form
-Exterior product
-Fermion
-Fiber bundle
 Field (mathematics)
-Finite element method
 Finite field
-Finite graph
-Finite group
-Floating-point arithmetic
-Fock matrix
-Force
-Forward substitution
 Function composition
-Function space
 Functional analysis
-GNU Octave
-Gabriel Cramer
 Game theory
-Gamma matrices
-Gauge group
-Gauss
-Gauss elimination
 Gaussian elimination
-Gauss–Jordan elimination
-Gell-Mann matrices
-Gene H. Golub
-General linear group
-General relativity
-Generalized inverse
-Geodesic
 Geometric algebra
-Geometric multiplicity
 Geometric transformation
-Geometrical optics
 Geometry
-Georg Frobenius
 German language
 Gerolamo Cardano
 Glossary of linear algebra
-Glossary of tensor theory
-Gluon field strength tensor
-Gordon Royle
-Gottfried Wilhelm Leibniz
-Gotthold Eisenstein
 Graduate Texts in Mathematics
-Gram–Schmidt process
 Graph theory
-Gregorio Ricci-Curbastro
 Group (mathematics)
 Group representation
-HP 9800 series
-HP 9830
 Hadamard product (matrices)
-Hamel dimension
-Hartree–Fock method
-Helmut Rechenberg
-Hermann Grassmann
-Hermann Weyl
-Hermitian form
 Hermitian matrix
-Hessian matrix
 Hilbert space
-Hill cipher
-Historia Mathematica
-Hodge star operator
-Houghton Mifflin Co.
-Hyperbola
-Hypercomplex number
-Hyperlink
 ISBN (identifier)
 ISSN (identifier)
 Identity matrix
 If and only if
 Image (mathematics)
-Imperial College
-Implicit function theorem
-Incidence matrix
-Indefinite matrix
 Independent equation
-Indeterminate (variable)
-Index notation
-Infinitesimal
-Infinity
 Inner product
 Inner product space
-Inverse matrix
-Invertible
-Invertible matrix
-Irregular matrix
-Isomorphic
-Jacobian matrix and determinant
-Jagdish Mehra
-James Joseph Sylvester
-Jan Arnoldus Schouten
-Jan de Witt
-Japanese mathematics
-Jean Dieudonné
-Jean Tirole
 John Wiley & Sons
-John von Neumann
-Jordan normal form
-Joseph Needham
-Karl Weierstrass
-Kernel (linear algebra)
-Kernel (matrix)
-Kronecker delta
 Kronecker product
-Kurt Hensel
-LAPACK
-LCCN (identifier)
-LINPACK
 LU decomposition
-Laplace expansion
-Leibniz formula (determinant)
-Leibniz formula for determinants
-Lens (optics)
-Leon Mirsky
-Leonhard Euler
-Leopold Kronecker
-Levi-Civita connection
-Levi-Civita symbol
-Lie derivative
-Light wave
-Limit of a sequence
-Linda Reichl
 Linear algebra
-Linear combination
-Linear differential equation
 Linear equation
-Linear independence
-Linear least squares
 Linear map
-Linear operator
-Linear span
 Linear subspace
-Linear system
-Linear transformation
-List of named matrices
-List of numerical-analysis software
-Lloyd N. Trefethen
-Local minimum
 Logical equivalence
-Logical matrix
-Lorentz group
-Lower-case
-Lower triangular matrix
 MATLAB
-MIT Press
-MR (identifier)
 Main diagonal
-Manifold
-Marcel Dekker
-Markov chain
 Mass
-Mathematica
-Mathematical formulation of quantum mechanics
 Mathematical object
 Mathematician
 Mathematics
 Matrix addition
 Matrix calculus
 Matrix decomposition
-Matrix diagonalization
-Matrix equivalence
 Matrix exponential
-Matrix field
-Matrix function
-Matrix group
-Matrix inverse
-Matrix logarithm
-Matrix mechanics
 Matrix multiplication
-Matrix multiplication algorithm
-Matrix norm
-Matrix normal distribution
-Matrix product
-Matrix ring
-Matrix subtraction
-Matrix theory
-Matrix theory (physics)
-Max Born
-Maxime Bôcher
-McGraw–Hill
-Mesh analysis
-Metric tensor
-Metric tensor (general relativity)
-Michael Artin
-Michael Healy (statistician)
-Minor (linear algebra)
-Mixed tensor
 Module (mathematics)
-Molecular orbital
 Molecules
-Moment of inertia
-Monic polynomial
-Multi-index notation
 Multilinear algebra
 Multilinear map
 Multiplication
 Multivector
-Neil Trudinger
-Network theory
-Nodal analysis
-Non-commutative
-Noncommutative ring
-Nonmetricity tensor
 Norm (mathematics)
-Normal matrix
-Normal mode
-NumPy
 Number
 Number theory
 Numerical analysis
-Numerical linear algebra
-Numerical stability
-O'Reilly Media
 OCLC (identifier)
 Operation (mathematics)
-Orientation (mathematics)
-Orthogonal
-Orthogonal group
-Orthogonal matrix
 Orthogonality
-Orthonormality
-Outer product
-Outermorphism
-Outline of linear algebra
-Overlap matrix
 Oxford University Press
-Parallelogram
-Parentheses
-Partial derivative
 Partial differential equation
 Particle accelerator
-Pascual Jordan
-Paul Halmos
 Pauli matrices
-Payoff matrix
-Penrose graphical notation
 Permutation matrix
 Physics
 Polynomial
 Polynomial ring
-Positive-definite matrix
 Positive definite matrix
-Prentice Hall
 Principia Mathematica
-Probability distribution
-Probability vector
-Productive matrix
 Programming language
 Projection (linear algebra)
-Pseudotensor
-Quadratic form
-Quadratic programming
-Quantum chromodynamics
-Quantum field theory
 Quantum mechanics
 Quark
 Quaternion
-Quotient space (linear algebra)
-R (programming language)
-Raising and lowering indices
-Random matrix
-Random variable
 Rank (linear algebra)
-Rank of a matrix
-Rank–nullity theorem
-Rational number
-Ray (geometry)
-Ray (optics)
-Ray transfer matrix analysis
 Real number
 Rectangle
-Reflection (mathematics)
-Regular representation
 Representation theory
-Ricci calculus
-Ricci curvature
-Riemann curvature tensor
 Ring (mathematics)
-Roger Cooke (mathematician)
 Roger Horn
-Roothaan equations
 Rotation (mathematics)
-Rotation matrix
-Row and column spaces
-Row and column vectors
-Row echelon form
-Row operations
-Row vector
-Rule of Sarrus
-S-matrix
-Saddle point
-Saul Teukolsky
 Scalar (mathematics)
 Scalar multiplication
 Scaling (geometry)
-Schur decomposition
-SciPy
-Second derivative
-Seki Kowa
-Sequence (mathematics)
-Serge Lang
-Sesquilinear form
 Set (mathematics)
-Seven-dimensional cross product
-Shear mapping
 Singular value decomposition
-Skew-symmetric matrix
-Sparse matrix
 Special linear group
-Special unitary group
-Spectral theorem
-Spectroscopy
-Spin group
-Spin tensor
-Spinor
-Springer-Verlag
-Square bracket
-Square matrices
 Square matrix
-Square root of a matrix
-Squeeze mapping
 Statistics
-Stephen Wolfram
-Stiffness method
-Stochastic matrix
-Strassen algorithm
-Stress–energy tensor
-Subgroup
 Subtraction
-Supermatrix
-Superring
-Sylvester equation
 Symbol (formal)

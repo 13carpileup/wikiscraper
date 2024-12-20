@@ -1,480 +1,81 @@
-12AX7
-5965
-6GH8
-6SN7
-7AK7
-8974
-AC/DC receiver design
 AC power plugs and sockets
-A battery
-Acorn tube
-Additron tube
-All American Five
-Alternating Current
-Aluminium oxide
-Amplifier
-Amplitude modulated
-Analog-to-digital converter
-Analog computer
-Analog television
-Anode
-Antifuse
 Antique radio
-Archive-It
-Argon
-Audio amplifier
-Audio and video interfaces and connectors
 Audio frequency
-Audio power amplifier
-Audion
-Audion tube
-Audiophile
-Automatic gain control
-Avalanche diode
 BBC
-B battery
-Backward-wave oscillator
 Bakelite
-Barium
-Barium orthosilicate
-Barium oxide
-Battery (electricity)
-Battery (vacuum tube)
-Battery eliminator
-Batteryless radio
-Beam deflection tube
-Beam tetrode
-Bernard D. H. Tellegen
-BiCMOS
 Bibcode (identifier)
-Bio-FET
-Bipolar junction transistor
 Black-body radiation
-Bletchley Park
 Bluetooth
-Bogey value
-Boost converter
 Borosilicate glass
-British Valve Association
-Buck converter
-Buck–boost converter
-Bypass capacitor
-CMOS
-C battery
-Calcium oxide
 Capacitance
 Capacitor
-Capacitor types
-Carcinotron
-Cathode
 Cathode-ray tube
-Cathode bias
-Cathode poisoning
-Cavity magnetron
 Ceramic
-Ceramic resonator
-Charactron
-Charge pump
-Cheater cord
-Cheater plug
-Chemical field-effect transistor
-Chrominance
-Coherer
-Cold cathode
-Collimated beam
-Colossus computer
-Compactron
-Computer monitor
-Constant-current diode
-Control grid
-Convection
-Crookes tube
-Crossatron
-Crossed-field amplifier
-Crystal detector
-Crystal oscillator
-Cunife
-Cut-off (electronics)
-DIAC
-Darlington transistor
-Deionized water
-Dekatron
 Demodulator
-Depletion-load NMOS logic
-Detector (radio)
-Die (manufacturing)
 Dielectric heating
-Diffused junction transistor
-Diffusion
-Diffusion pump
-Digital circuit
-Digital computer
-Digital potentiometer
-Diode
 Direct current
-Discharge tube
 Display device
 Doi (identifier)
-Double diode triode
-Dry cell
-Dynatron oscillator
-Dynode
-EFUSE
-ENIAC
-Edison and Swan Electric Light Company
-Edison effect
-Eidophor
-Eimac
-Electric arc
 Electric current
-Electric discharge in gases
 Electric field
-Electrical filament
 Electrical impedance
-Electrical reactance
 Electrode
-Electrodes
-Electrolytic capacitor
-Electrolytic detector
 Electromagnetic pulse
 Electromagnetic radiation
 Electron
-Electron beam lithography
-Electron microscopy
-Electronic amplifier
 Electronic component
-Electronic switch
 Electronics
-Eric Tigerstedt
-Eugen Goldstein
-Fernico
-Ferranti Mark 1
-Ferrite core
-Fetron
-Field-effect transistor
-Field electron emission
-Field emission display
-Field emitter array
-FinFET
-Flat panel
-Flat panel display
-Fleming valve
-Floating-gate MOSFET
-Frederick Guthrie (scientist)
 Free-electron laser
-Free fall
-Frequency mixer
-Fuse (electrical)
-GB Battery
-Gallium nitride
-Galvanometer
-Gas-filled tube
-Gas ionizes
-Geiger–Müller tube
-Geissler tube
 General Electric
-General Electric Company
-General Post Office
 Geomagnetic storm
-Getter
-Glass-to-metal seal
-Glen Ballou
-Glow discharge
-Glowing plate
-Grid bias
 Guglielmo Marconi
 Guitar amplifier
-Gunn diode
-Gyrotron
-H. J. Round
-Hardware stress test
-Heath Robinson (codebreaking machine)
-Heinrich Geissler
 Helium
-Heterostructure barrier varactor
-Hot-wire barretter
-Hot cathode
-Huntsville, Alabama
-Hybrid integrated circuit
 IBM
-IBM 701
 ISBN (identifier)
-ISFET
 ISSN (identifier)
-Iconoscope
-Ignitron
-Image intensifier
-Image orthicons
-Incandescent lamp
 Incandescent light bulb
-Induction heating
-Inductive output tube
 Inductor
-Inert gas
 Information
-Inrush current
-Insulated-gate bipolar transistor
 Integrated circuit
-Interlock (engineering)
 Internet Archive
 Ionization
 Ionizing radiation
-Irving Langmuir
-JFET
-JIS tube designation
-Johann Wilhelm Hittorf
-John Ambrose Fleming
-John Stone Stone
-Jukebox
-Junction field-effect transistor
-Kinescope
-Klystron
-Kovar
-Krytron
-LCCN (identifier)
-LCC (identifier)
-LC circuit
-LDMOS
-Laser diode
-Lead–acid battery
-Lee de Forest
-Light-emitting diode
-Light-emitting transistor
-Light bulb
-Light emitting capacitor
-Linear regulator
 Liquid-crystal display
-Liquid scintillation counting
 List of battery sizes
-List of vacuum-tube computers
-List of vacuum tubes
-Local oscillator
-Loewe 3NF
-Lorenz cipher
-Low-dropout regulator
-MOSFET
-MOS integrated circuit
-Magic eye tube
-Magnetic detector
-Magnetron
-Mains electricity
-Mains hum
-Marconi-Osram tube designation
-Marconi Company
 Maser
 Massachusetts Institute of Technology
 Mean free path
-Mean time to failure
-Mechanical computer
-Memistor
-Memory cell (computing)
-Memristor
-Memtransistor
-Mercury-arc valve
 Mercury (element)
-Mercury relay
-Metal-oxide varistor
-MiG-25
-Michael Smith (newspaper reporter)
-Microchannel plate
-Microphonics
 Microwave
 Microwave oven
-Miller effect
-Mixed-signal integrated circuit
-Monoscope
-Mullard–Philips tube designation
-Multigate device
-NMOS logic
-Nanoscale vacuum-channel transistor
-Negative resistance
-Neon
-Neon lamp
-Neutrodyne
-Neutron generator
 Nikola Tesla
-Nixie tube
-Nonode
-Nuclear explosion
 Nuclear weapon
-Nuvistor
 OCLC (identifier)
 OLED
-Operating temperature
-Organic field-effect transistor
-Organic light-emitting transistor
-Organic semiconductor
-Orthicon
-Oscilloscope
-Oscilloscopes
-Oxygen
-PIN diode
 PMC (identifier)
 PMID (identifier)
-PMOS logic
-Parametron
 Particle accelerator
-Pascal (pressure)
-Pentagrid converter
-Pentode
-Pentode transistor
-Phenolic insulation
-Photodetector
-Photodiode
-Photoelectric effect
-Photomultiplier tube
 Photon
-Phototube
-Plate electrode
-Pneumatic tube
-Point-contact transistor
-Potentiometer
-Power MOSFET
 Power supply
-Power transformer
-Preamplifier
 Printed circuit board
-Printed electronics
-Product detector
-Programmable unijunction transistor
-Public address system
-Quantum circuit
-Quiescent current
 RCA
-RETMA tube designation
-RF CMOS
-RF connector
-RMA tube designation
 Radar
 Radio
-Radio Electronics Television Manufacturers' Association
 Radio frequency
-Radiotron Designer's Handbook
 Rectifier
-Reed relay
-Relativity (physics)
-Relay
-Resettable fuse
-Resistor
-Robert von Lieben
-Russian tube designations
 S2CID (identifier)
-Satellite
-Schenectady, New York
-Schottky diode
-Science History Institute
 Scintillation counter
-Screen grid
-Secondary emission
-Selectron tube
-Semi Automatic Ground Environment
 Semiconductor device
-Signal generator
-Silica
-Silicate
-Silicon
-Silicon-controlled rectifier
-Silicon controlled rectifier
-Single-ended primary-inductor converter
-Single-photon avalanche diode
-Single-sideband modulation
-Solaristor
-Solid-state electronics
-Solid state electronics
-Sound-on-film
 Sound recording and reproduction
-Space charge
-Spark gap transmitter
-Split-pi topology
-Static induction thyristor
-Static induction transistor
-Step recovery diode
-Storage tube
-Strontium oxide
-Submarine communications cable
-Superheterodyne receiver
-Suppressor grid
-Sutton tube
-Switch
-Switched capacitor
-Switching regulator
-TM (triode)
-TRIAC
-Talaria projector
-Tektronix
 Telephone
 Television
-Tetrode
-Tetrode transistor
-Thermal shock
-Thermionic
-Thermionic emission
-Thermistor
-Thimble
-Thin-film transistor
 Thomas Edison
-Thomson Consumer Electronics
 Thorium
-Three-dimensional integrated circuit
-Thyratron
-Thyristor
-Tommy Flowers
-Top cap
-Torr
-Trancitor
-Transconductance
 Transformer
-Transistor
-Traveling-wave tube
-Trigatron
-Triode
-Trochotron
-Tube caddy
-Tube socket
-Tube sound
-Tube tester
-Tungsten
-Tungsten carbide
-Tunnel diode
-UHF
-UNIVAC I
 Ultra high frequency
-Unijunction transistor
-VHF
-VMOS
-Vacutainer
-Vacuum
-Vacuum diode
-Vacuum fluorescent display
-Vacuum fluorescent displays
-Vacuum pump
-Valve
-Valve amplifier
-Valve transmitters
-Variable capacitor
-Varicap
-Varistor
-Video camera tube
 Voltage
-Voltage-regulator tube
-Voltage doubler
-Voltage regulator
-WAAY-TV
-Walter H. Schottky
-Warm sound
 Wayback Machine
-Whirlwind (computer)
-Whirlwind I
-Wi-Fi
-Williams tube
-Wire
-Wolfgang Gaede
-Wollaston wire
-Work function
 X-ray
-X-ray computed tomography
 X-ray tube
 Zener diode
-Zetatron
-Zirconium
-Ćuk converter

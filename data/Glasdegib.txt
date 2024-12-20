@@ -1,9 +1,7 @@
-ANXA2
 ATC code L01
 Abemaciclib
 Acalabrutinib
 Adagrasib
-Adipotide
 Afatinib
 Aflibercept
 Alectinib
@@ -16,7 +14,6 @@ Anatomical Therapeutic Chemical Classification System
 Antineoplastic
 Asciminib
 Atezolizumab
-Atezolizumab/hyaluronidase
 Aumolertinib
 Avapritinib
 Avelumab
@@ -24,20 +21,16 @@ Axatilimab
 Axitinib
 BRAF (gene)
 Baricitinib
-Bcr-abl fusion protein
 Belantamab mafodotin
 Bermekimab
 Bevacizumab
 Binimetinib
 Blinatumomab
 Bosutinib
-Boxed warning
 Brentuximab vedotin
 Brigatinib
 Bruton's tyrosine kinase
-C-Met
 CAS Registry Number
-CD117
 CD135
 CD20
 CD30
@@ -53,12 +46,9 @@ Cediranib
 Cemiplimab
 Ceritinib
 Cetuximab
-ChEBI
-ChEMBL
 ChemSpider
 Chemical formula
 Chemotherapy
-ClinicalTrials.gov
 Cobimetinib
 CompTox Chemicals Dashboard
 Copanlisib
@@ -71,15 +61,10 @@ Dalpiciclib
 Daratumumab
 Dasatinib
 Denileukin diftitox
-Dinutuximab beta
 Doi (identifier)
 Dostarlimab
-DrugBank
-Drug nomenclature
-Drugs.com
 Durvalumab
 Duvelisib
-ECHA InfoCard
 EML4
 Edrecolomab
 Elotuzumab
@@ -87,16 +72,13 @@ Elranatamab
 Encorafenib
 Enfortumab vedotin
 Entrectinib
-EpCAM
 Epcoritamab
 Epidermal growth factor receptor
 ErbB
 Erdafitinib
 Erlotinib
-European Medicines Agency
 Everolimus
 Exotoxin
-FDA
 Fedratinib
 Fibroblast growth factor receptor
 Filgotinib
@@ -107,159 +89,23 @@ Futibatinib
 Gefitinib
 Gemtuzumab ozogamicin
 Gilteritinib
-Glasdegib (data page)
 Glofitamab
-HER2/neu
 Hedgehog signaling pathway
-IUPAC nomenclature of chemistry
 Ibritumomab tiuxetan
 Ibrutinib
 Icotinib
 Idelalisib
 Imatinib
-Immunomodulator
 Inavolisib
 Infigratinib
 Inotuzumab ozogamicin
 Interleukin 2
-International Chemical Identifier
 Ipilimumab
 Isatuximab
-JSmol
 Janus kinase
-KEGG
 KRAS
 Lapatinib
-Larotrectinib
-Lazertinib
-Lenvatinib
-Lestaurtinib
-Leukemia
-Loncastuximab tesirine
-Lorlatinib
-Lymphatic system
-Lymphoma
-MEN1
-MTOR inhibitor
-Masitinib
-MedlinePlus
-Midostaurin
-Mirvetuximab soravtansine
-Mitogen-activated protein kinase kinase
-Mobocertinib
-Mogamulizumab
 Molar mass
-Momelotinib
-Monoclonal antibody therapy
-Mosunetuzumab
-Moxetumomab pasudotox
-Myeloid
-Naxitamab
-Necitumumab
-Neratinib
-Nilotinib
-Nintedanib
-Nivolumab
-Non-receptor tyrosine kinase
-Obinutuzumab
-Odronextamab
-Ofatumumab
-Olaratumab
-Olmutinib
-Oportuzumab monatox
-Orelabrutinib
-Orphan drug
-Osimertinib
 PMID (identifier)
-Pacritinib
-Palbociclib
-Panitumumab
-Parsaclisib
-Pazopanib
-Pembrolizumab
-Pemigatinib
-Pertuzumab
-Pexidartinib
-Pharmaceutical drug
-Pi3K inhibitor
-Pirtobrutinib
-Platelet-derived growth factor receptor
-Polatuzumab vedotin
-Ponatinib
-Pralsetinib
-Prescription drug
-Priority review
-Proapoptotic
-Prohibitin
-Prolgolimab
-PubChem
 Public domain
-Quizartinib
-RET proto-oncogene
-RTK class III
-Radotinib
-Ramucirumab
-Receptor tyrosine kinase
-Regorafenib
-Regulation of therapeutic goods
-Repotrectinib
-Retifanlimab
-Revumenib
-Ribociclib
-Ridaforolimus
-Ripretinib
-Rituximab
-Rociletinib
-Ruxolitinib
 S2CID (identifier)
-Sabatolimab
-Sacituzumab govitecan
-Selpercatinib
-Selumetinib
-Semaxanib
-Serplulimab
-Simplified molecular-input line-entry system
-Sirolimus
-Smoothened
-Sonic hedgehog
-Sonidegib
-Sorafenib
-Sotorasib
-Src (gene)
-Sugemalimab
-Sunitinib
-Tafasitamab
-Talquetamab
-Targeted cancer therapy
-Tarlatamab
-Tebentafusp
-Teclistamab
-Temsirolimus
-Tepotinib
-Tislelizumab
-Tisotumab vedotin
-Tivozanib
-Toceranib
-Toripalimab
-Tositumomab
-Trametinib
-Trastuzumab
-Trastuzumab/hyaluronidase
-Trastuzumab deruxtecan
-Trastuzumab emtansine
-Tremelimumab
-Trilaciclib
-Tucatinib
-Tyrosine kinase inhibitor
-Unique Ingredient Identifier
-VEGF receptors
-Vandetanib
-Vascular endothelial growth factor
-Vascular endothelial growth factor A
-Vemurafenib
-Venetoclax
-Vismodegib
-Zanidatamab
-Zanubrutinib
-Zenocutuzumab
-Zolbetuximab

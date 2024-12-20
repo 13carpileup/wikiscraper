@@ -1,34 +1,23 @@
-ISO/IEC 42010
-ISO/IEC 9126
 HTML
 Ada Semantic Interface Specification
 JBIG
 MPEG-D
 Fieldbus
 C Sharp (programming language)
-ISO/IEC 14443
 IEC 62455
 IEC 62366
-ISO/IEC 19788
 MPEG-A
 Graph Query Language
 Topic map
-ISO/IEC 9995
-ISO/IEC 11179
 International Electrotechnical Commission
 IEC 61334
 IEC 60068
 IEC 61400
 IEC 60320
-ISO/IEC 8652
-ISO/IEC 27040
-ISO/IEC 10967
 Computer Graphics Metafile
 POSIX
-ISO/IEC 15288
 IEC 61508
 Common Criteria
-ISO/IEC 17024
 ECMAScript
 International Standard Identifier for Libraries and Related Organizations
 IEC 81346
@@ -37,21 +26,16 @@ Mixed raster content
 IEC 60364
 Z notation
 IEC TC 57
-IEC 62351
 IO-Link
 RKM code
-ISO/IEC 10021
 IEC 61850
 IEC 60269
-ISO/IEC 15897
 List of IEC standards
-ISO/IEC 10116
 IEC 60601
 IP-XACT
 Universal Disk Format
 IEC 62682
 Universal Remote Console
-ISO/IEC 7811
 IEC 62379
 IEC 61162
 OpenDocument
@@ -63,7 +47,6 @@ IEC 62061
 IEC 61355
 IEC 61360
 IEC 61131
-ISO/IEC 21827
 IEC 60870-6
 RELAX NG
 IEC 61851
@@ -71,83 +54,53 @@ IEC 62304
 Open Data Protocol
 IEC 60228
 Battery nomenclature
-ISO/IEC 33001
 Open Document Architecture
 IEC 60446
-ISO/IEC 14651
 19-inch rack
 IEEE 754
-ISO/IEC 19770
 EN 62262
 Linux Standard Base
 QR code
 MPEG-7
 JPEG 2000
-ISO/IEC 8859
 Electric power
 IEC 62056
 IEC 60027
-ISO/IEC 19752
 MPEG-1
 IEC 60034
 IEC 60309
-ISO/IEC 27000-series
-ISO/IEC 2022
-ISO/IEC 646
 AES47
-ISO/IEC 15693
 IEC 62196
-ISO/IEC 4909
 IEC 60870
-ISO/IEC 29119
 IEC 60870-5
-Common Information Model (electricity)
-ISO/IEC 7810
 Common Logic
 Graphical Kernel System
 Digital Addressable Lighting Interface
 Full BASIC
-ISO/IEC 15504
 JPEG XL
-IEC 60980-344
 ANSI C
-ISO/IEC 17025
-ISO/IEC 80000
 Compact Disc Digital Audio
 IEC 61499
-ISO/IEC 11801
 MPEG-2
 CHILL
 IEC 61511
-ISO/IEC 24727
-ISO/IEC 27000
-ISO/IEC 18014
 IEC 61970
 Guidelines for the Definition of Managed Objects
-ISO/IEC 27002
 IEC 60038
 IEC 61030
 C++
-ISO/IEC 11404
 E series of preferred numbers
-ISO/IEC 6523
 IEC 61968
-ISO/IEC 12207
 COBOL
 IEC 60929
-ISO/IEC 24744
 MPEG-H
 IEC 63110
 ANSI escape code
 Document Style Semantics and Specification Language
-ISO/IEC 7812
 IEC 61131-3
-ISO/IEC 7813
 AES3
-ISO/IEC 5218
 IEC 62700
 IEC 62264
-ISO/IEC 9529
 IEC 60906-1
 IEC 63382
 PHIGS
@@ -155,8 +108,5 @@ MHEG-5
 IEC 61883
 USB
 File Allocation Table
-ISO/IEC 20000
 ECMAScript for XML
 MPEG-4
-ISO/IEC 38500
-ISO/IEC 7816

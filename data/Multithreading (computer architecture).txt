@@ -1,103 +1,44 @@
-1-bit computing
-12-bit computing
-128-bit computing
-16-bit computing
-24-bit computing
-256-bit computing
-32-bit computing
 4-bit computing
-48-bit computing
-512-bit computing
 64-bit computing
-8-bit computing
 ACM Computing Classification System
-ACPI
-AI accelerator
-AMD
 API
-ARM architecture family
 Abstract machine
-Adapteva
-Adder (electronics)
-Address decoder
-Address generation unit
-Addressing mode
-Advanced Power Management
 Algorithm
 Algorithm design
 Algorithmic efficiency
 Alpha 21464
-Alternating Turing machine
-AltiVec
 Amdahl's law
-Analogue electronics
 Analysis of algorithms
 Analysis of parallel algorithms
-Apollo Guidance Computer
-Application-specific instruction set processor
-Application-specific integrated circuit
 Application checkpointing
 Application security
-Arithmetic logic unit
 Array (data structure)
 Artificial intelligence
 Assembly language
-Association for Computing Machinery
 Asymmetric multiprocessing
-Async/await
 Ateji PX
 Automata theory
 Automated planning and scheduling
 Automatic parallelization
-Barrel processor
-Barrel shifter
 Barrier (computer science)
-Baseband processor
 Beowulf cluster
-Binary decoder
-Binary multiplier
 Bit-level parallelism
-Bit-serial architecture
-Bit slicing
-Boolean circuit
-Boost (C++ libraries)
-Branch predictor
-Branch target predictor
 Bulldozer (microarchitecture)
 Bus (computing)
-C++ AMP
-CPU cache
-CPU multiplier
 CUDA
 Cache-only memory architecture
 Cache (computing)
 Cache coherence
-Cache hierarchy
 Cache invalidation
-Cache performance measurement and metric
-Cache replacement policies
-Cellular architecture
 Cellular automaton
 Central processing unit
 Chapel (programming language)
 Charm++
-Chip carrier
 Cilk
-Circuit (computer science)
-Classic RISC pipeline
-Clipper architecture
-Clock gating
-Clock rate
-Clock signal
 Cloud computing
 Coarray Fortran
-Cognitive computing
-Combinational logic
 Compaq
-Comparison of instruction set architectures
 Compiler construction
-Complex instruction set computer
-Complex programmable logic device
 Computability theory
 Computational biology
 Computational chemistry
@@ -117,8 +58,6 @@ Computer graphics
 Computer hardware
 Computer multitasking
 Computer network
-Computer performance
-Computer performance by orders of magnitude
 Computer programming
 Computer science
 Computer security
@@ -127,48 +66,30 @@ Computing
 Computing platform
 Concurrency (computer science)
 Concurrent computing
-Context switch
-Control hazard
 Control theory
-Control unit
 Control variable (programming)
-Cooperative multitasking
 Coprocessor
 Cost efficiency
-Counter (digital)
-Counter machine
 Cray
-Cray XMT
 Cross-validation (statistics)
 Cryptography
 Cyberwarfare
-Cycles per instruction
-Cypress PSoC
 DEC Alpha
-Data buffer
-Data cache
 Data dependency
 Data mining
 Data parallelism
 Database
 Dataflow architecture
 Dataflow programming
-Datapath
 Deadlock (computer science)
 Decision support system
-Demultiplexer
 Dependability
 Deterministic algorithm
-Deterministic finite automaton
 Digital Equipment Corporation
 Digital art
-Digital electronics
 Digital library
 Digital marketing
-Digital signal processor
-Direct memory access
 Discrete mathematics
-Distributed architecture
 Distributed artificial intelligence
 Distributed computing
 Distributed memory
@@ -176,94 +97,52 @@ Distributed shared memory
 Document management system
 Domain-specific language
 Dryad (programming)
-Dynamic frequency scaling
-Dynamic voltage scaling
 E-commerce
-ETRAX CRIS
 Educational technology
-Electronic circuit
 Electronic design automation
 Electronic publishing
 Electronic voting
 Embarrassingly parallel
 Embedded system
-Endianness
 Enterprise information system
 Enterprise software
-Execution unit
-Explicit data graph execution
 Explicit parallelism
-Explicitly parallel instruction computing
-FIFO (computing and electronics)
-FLOPS
-Fabric computing
-False sharing
 Fiber (computer science)
 Field-programmable gate array
-Field-programmable object array
 Finite-state machine
-Finite-state machine with datapath
-Floating-point unit
 Flynn's taxonomy
 Form factor (design)
 Formal language
 Formal methods
 GPUOpen
-Gate array
 General-purpose computing on graphics processing units
 Geographic information system
 Global Arrays
-Glue logic
 Graphics processing unit
 Green computing
 Grid computing
 Gustafson's law
 HPX
 Hardware acceleration
-Hardware register
 Hardware scout
 Hardware security
 Hardware security module
-Hardwired control unit
-Harvard architecture
-Hazard (computer architecture)
 Health informatics
-Heterogeneous System Architecture
-Heterogeneous computing
-Hierarchical state machine
 High-performance computing
-History of general-purpose CPUs
 Human–computer interaction
-Hyper-Threading Technology
-Hyper-threading
-Hypercomputation
-IA-64
 IBM
-IBM POWER architecture
-IBM System/360 architecture
-IBM System/370
-IBM System/390
-IBM z13 (microprocessor)
-IBM z14 (microprocessor)
-IBM z15 (microprocessor)
 ISBN (identifier)
 Image compression
-Image processor
 Implicit parallelism
 Information retrieval
 Information security
 Information system
 Information theory
 Instruction-level parallelism
-Instruction cache
-Instruction cycle
-Instruction decoder
 Instruction pipelining
 Instruction set architecture
-Instruction unit
 Instruction window
 Instructions per cycle
-Instructions per second
 Integrated circuit
 Integrated development environment
 Intel
@@ -274,16 +153,10 @@ Karp–Flatt metric
 Knowledge representation and reasoning
 Library (computing)
 List of computer size categories
-Little man computer
-Load–store architecture
-Load–store unit
 Logic gate
 Logic in computer science
 Loop-level parallelism
-M32R
-MIPS-X
 MIPS architecture
-MMX (instruction set)
 Machine learning
 Manycore processor
 Massively parallel
@@ -291,76 +164,41 @@ Mathematical analysis
 Mathematical optimization
 Mathematical software
 Memory-level parallelism
-Memory address register
-Memory buffer register
 Memory coherence
-Memory controller
-Memory dependence prediction
 Memory hierarchy
-Memory management unit
 Message Passing Interface
-MicroBlaze
 Microarchitecture
-Microcode
 Microcontroller
 Microprocessor
-Microprocessor chronology
 Middleware
-Minimal instruction set computer
-Mixed-signal integrated circuit
 Mixed reality
-Mobile processor
 Model of computation
 Modeling language
-Modified Harvard architecture
-Motorola 68000 series
-Multi-chip module
-Multi-core processor
 Multi-task learning
 Multimedia database
 Multiple instruction, multiple data
 Multiple instruction, single data
-Multiplexer
 Multiprocessing
-Multiprocessor system on a chip
-Multitasking of computer programs
 Natural language processing
 Network architecture
-Network on a chip
 Network performance
-Network processor
 Network protocol
 Network scheduler
 Network security
 Network service
 Networking hardware
-Neuromorphic engineering
-No instruction set computing
 Non-blocking algorithm
 Non-uniform memory access
-Nondeterministic Turing machine
 Numerical analysis
-One-instruction set computer
 Open-source software
 OpenACC
 OpenCL
 OpenHMPP
 OpenMP
-OpenRISC
-Operand forwarding
 Operating system
 Operations research
-Orthogonal instruction set
-Out-of-order execution
 Outline of computer science
 PDP-11 architecture
-POWER5
-POWER6
-POWER7
-POWER8
-POWER9
-Package on a package
-Paradigm
 Parallel Extensions
 Parallel RAM
 Parallel Virtual Machine
@@ -368,33 +206,17 @@ Parallel computing
 Parallel external memory
 Parallel programming model
 Parallel slowdown
-Performance per watt
 Peripheral
 Philosophy of artificial intelligence
 Photograph manipulation
-Physics processing unit
-Pin grid array
 Pipeline (computing)
-Pipeline stall
-Pointer machine
-Post–Turing machine
-PowerPC
-Power ISA
-Power Management Unit
 Power management
-Power management integrated circuit
 Preemption (computing)
 Printed circuit board
-Probabilistic Turing machine
 Probability
 Process (computing)
 Process control
-Process state
 Processor (computing)
-Processor design
-Processor register
-Program counter
-Programmable Array Logic
 Programming language
 Programming language theory
 Programming paradigm
@@ -402,58 +224,31 @@ Programming team
 Programming tool
 Pthreads
 Quantum Computing
-Quantum Turing machine
-Quantum cellular automaton
-Quantum circuit
-Quantum computing
-Quantum logic gate
-Queue automaton
-RISC-V
 ROCm
-ROM image
 Race condition
 RaftLib
 Random-access machine
-Random-access stored-program machine
 Randomized algorithm
-Re-order buffer
 Real-time computing
-Real-time operating system
 Reduced instruction set computer
-Register file
-Register machine
-Register renaming
-Register–memory architecture
 Reinforcement learning
 Rendering (computer graphics)
 Requirements analysis
-Reservation station
 SPARC
-SUPS
-SWAR
 Scalability
-Scalar processor
 Scoreboarding
-Scratchpad memory
-Secondary storage
-Secure cryptoprocessor
 Security hacker
 Security service (telecommunication)
 Semantics (computer science)
-Semiconductor device fabrication
 Semiconductor memory
-Sequential logic
 Shared memory
 Simultaneous and heterogeneous multithreading
 Simultaneous multithreading
-Single-core
 Single instruction, multiple data
 Single instruction, multiple threads
 Single instruction, single data
-Single program, multiple data
 Social computing
 Social software
-Soft microprocessor
 Software configuration management
 Software construction
 Software deployment
@@ -467,34 +262,19 @@ Software maintenance
 Software quality
 Software repository
 Solid modeling
-Speculative execution
 Speculative multithreading
 Speedup
-Stack machine
-Stack register
-Stanford MIPS
 Starvation (computer science)
 Statistics
-Status register
-Stave (wood)
 Stochastic computing
-Stored-program computer
 Stream processing
-Structural hazard
-Sum-addressed decoder
 Sun Microsystems
-Super-threading
-SuperH
 Superscalar processor
 Supervised learning
-Switch
 Symmetric multiprocessing
 Synchronization (computer science)
-System in a package
 System on a chip
 Systolic array
-TRIPS architecture
 Task parallelism
 Temporal multithreading
-Tensor Processing Unit
 Theoretical computer science

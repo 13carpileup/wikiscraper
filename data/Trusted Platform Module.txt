@@ -1,86 +1,50 @@
-ACPI
-ISO/IEC 9797-1
 ISO 31-8
 IBM
-International Standard Serial Number
 ISO 5776
 ISO 31-3
 ISO 22300
-ISO/IEC 27002
-Late binding
 Integrated circuit
 ISO 15924
-Common Firmware Environment
 ISO 11992
 ISO 639
 Command (computing)
-Loadlin
-Hibernation (computing)
 Graph Query Language
-Distinguished Encoding Rules
-ISO/IEC 10116
 Document Style Semantics and Specification Language
 ISO 19600
 ISO 26262
 MPEG-21
 MPEG-D
-ARM TrustZone
 ISO 10007
-Fwupd
-ISO/IEC 8859-3
-ISO 31-9
 ISO 8501-1
 ISO 2852
 ANSI C
 Geospatial metadata
-ISO/IEC 11801
 ISO 2033
 ArmSCII
 Microsoft
-ISO/IEC 8859-9
 ISO 7736
 ISO 14617
 ISO 10962
 Identity theft
 ISO 860
-EEPROM
 Longitudinal redundancy check
 Bus (computing)
 ISO 2711
 ISO 1000
-Fuse (automotive)
-ISO/IEC 15897
 COLLADA
-BSD License
-GUID Partition Table
 ISO 20022
 ISO 21001
 Intel
-ISO/IEC 12207
-BootX (Apple)
 ISO 7637
 ISO 2709
-Direct Anonymous Attestation
-ISO/IEC 15693
 Digital object identifier
 ISO 233
-Cryptographic hash function
 ISO 639-2
-ISO/IEC 7816
-Hash-based message authentication code
-Fastboot
-Hengzhi chip
-ISO/IEC 8859-10
-Key generation
 ISO 13406-2
 ISO 11940
-Atmel
 Kappa number
-GPXE
-ISO/IEC 7813
 Equal-loudness contour
 ISO 3103
-Instant-on
 EXPRESS (data modeling language)
 ISO 4031
 ISO 2788
@@ -89,92 +53,46 @@ Fiber Distributed Data Interface
 ISO 2015
 Magnetic ink character recognition
 International Standard Name Identifier
-ISO 31-13
-AMD Platform Security Processor
 ISO 31-4
 ECMAScript
-AMIBIOS
-ISO/IEC 5218
 126 film
-ARC (specification)
 Booting
 ISO 31
-BitLocker
-Defense Information Systems Agency
-ISO/IEEE 11073
 ISO 732
-ISO/IEC 21827
-Google Cloud Platform
-ISO/IEC 8859-11
-BIOS boot partition
-Cold boot attack
-Booting process of Linux
 IATF 16949
 ISO 13567
 Mobile phone
-Identity document
 ISO 11784 and ISO 11785
-ISO 19092-2
 ISO 25964
 MicroPDF417
 ISO 22301
-Data integrity
 Common Logic
-ISO/IEC 20000
 ISO 690
 ISO 11940-2
 MP4 file format
 JPIP
 ISO 6943
-ISO/IEC 27006
 ISO 5428
-IPXE
-Linux Unified Key Setup
-BootManager
-ISO/IEC 11179
-ISO/IEC 11404
 ISO 26000
-ISO/IEC 27001
-/boot/
-ISO/IEC 7064
 Minimal BASIC
 CHILL
 Doi (identifier)
-ISO 19092-1
 MPEG-H
 Advanced Micro Devices
-Advanced Power Management
 ISBN
-ISO/IEC 8652
 FTAM
 ISO 15919
-ISO/IEC 17025
 ISO 31-11
 ISO 10161
-Dm-crypt
-ISO/IEC 14443
-ISO/IEC 2022
 C++
 Common Language Infrastructure
-Christopher Tarnovsky
-FIPS 140-2
-ISO/IEC 8859-8
 ISO 1629
 ISO 3166-2
-Micro-Star International
 ISO 14031
-ISO 8373
-GNU GRUB
-Flashrom (utility)
-Cryptographic keys
 ISO 639-3
 ISO 10006
 ISO 6709
-Infineon
-Command-line interface
-Custom firmware
 ISO 5427
-CVE (identifier)
 International Organization for Standardization
 MPEG-4
 LCEVC
@@ -188,10 +106,8 @@ List of ISO romanizations
 C Sharp (programming language)
 ISO 217
 ISO 31-1
-ISO/IEC 38500
 ISO 9241
 Business Process Model and Notation
-Apple Partition Map
 ISO 3307
 MPEG-2
 JPEG XR
@@ -200,160 +116,99 @@ FDI World Dental Federation notation
 ISO 2145
 A440 (pitch standard)
 IS-IS
-ISO/IEC 8859
 List of ISO standards
 ISO 8601
 ISO 15189
-ISO/IEC 19770
 Intel Management Engine
-AMI Aptio
-ISO/IEC 17024
 ISO 15398
 BIOS
 International Standard Recording Code
 Common Criteria
-ISO/IEC 8859-2
-ISO 31-12
 ISO 5426
 ISO 7200
 ISO 13399
-ISO/IEC 8859-6
-ISO/IEC 10967
-ISO/IEC 8859-16
-Apress
 GNU General Public License
-ISO/TR 11941
-Boot process
-Boot ROM
-Low Pin Count
 GitHub
-Google Compute Engine
-ISO/IEC 18014
-HP Inc.
 ISO 7002
 Manufacturing Message Specification
-Full disk encryption
 International Standard Atmosphere
-Black Hat Briefings
-AMD
-Acronis OS Selector
 ISO 6438
 ISO 2
 ISO 999
 ISO 50001
-ISO/IEC 7811
 ISO 13490
-Booting process of Windows
 MPEG-7
 ISO 15926 WIP
 ISO 639-5
-Elliptic-curve cryptography
 ISO 8691
 ISO 16750
 ISO 2921
 ISO 6346
-ISO/IEC 27000-series
 Linux kernel
 ISO 15022
 Laptop
 ISO 4217
-ISO/IEC 8859-13
 135 film
-Digital signature
 Kunrei-shiki romanization
 ISO 5775
 International Standard Music Number
 Hole punch
 Fuel oil
-Infineon Technologies
 Delivery Multimedia Integration Framework
 COBOL
-ISO 2047
 ISLISP
-Libreboot
 ISO 19439
 ISO 639-1
 ISO 3977
 Film speed
 ISO 10218
 Dynamic Adaptive Streaming over HTTP
-ISO/IEC 27000
 ISO 639-6
 ISO 668
 Linguistic categories
-FTDI
 ALGOL 60
 ISO 21500
 ISO 15926
 Antimagnetic watch
-ISO/IEC 8859-4
 Flowchart
-Blinding (cryptography)
 ISO 56000
 DICOM
-Legacy Plug and Play
 ISO 8000
 International Securities Identification Number
-Microsoft Pluton
 British Standard Pipe
-HMAC
-Computer industry
 ANSI escape code
 ISO 9362
 Ada Semantic Interface Specification
 ISO 3166-3
-ISO/IEC 8859-12
 ISO 31000
 ISO 19011
-Crypto-shredding
-EPROM
-Broadcom
 Hazard symbol
 Authentication
 ISO 31-7
-Microsoft TechNet
 MaxiCode
 ISO 10160
-Microchip Technology
 Market Identifier Code
-ISO/IEC JTC 1
-Hardware certification
 ISO 2848
-ISO/IEC TR 12182
-ISO 9000
 ISO 1745
 ISO 657
 ISO 14698
 Central Intelligence Agency
-ISO/IEC 9995
 Linux Standard Base
 ISO 37001
 ISO 216
 ISO 8583
-IBoot
-Hardware random number generator
 ISO 2014
 Han Xin code
 ISO 9564
 ISO 11783
 110 film
-Lenovo
 Hardware security module
-Fraunhofer Institute
-Certificate Authority
 ISO 7010
-ISO/IEC 19794-5
 ISO 22000
 ISO 13584
 Horsepower
-Advanced Encryption Standard
-EFI system partition
-ISO/IEC 15504
-Chromebook
 ISO 10628
-ISO/IEC 9126
 ISO 17100
-ISO/IEC 42010
 Cloud Infrastructure Management Interface
 ISO base media file format
 Ethernet
@@ -361,140 +216,86 @@ ISO 31-0
 ISO 25178
 ISO 10303-22
 ISO 31-6
-Das U-Boot
-Barebox
-Devicetree
-InstantGo
 ISO 1
 List of IEC standards
 International Bank Account Number
 Digital rights management
-LinuxBoot
-CAN bus
-Coreboot
 ISO 4165
-Bootloaders
-Bootloader unlocking
 Mixed raster content
 ECMAScript for XML
 JPEG XL
 ISO 19114
 MPEG-4 Part 3
-Language Of Temporal Ordering Specification
-ISO/IEC 80000
-ISO/IEC 8859-14
 International Standard Musical Work Code
 JPEG 2000
 Common Object Request Broker Architecture
 MPEG-A
 MPEG-4 Part 11
 ISO 14644
-Bus Pirate
 ISO 3864
 ISO 6344
-Booting process of Windows NT
 Meta-Object Facility
 ISO 10303
-ISO/IEC 27005
-MILO (bootloader)
 Knowledge Discovery Metamodel
 ISO 965
 ISO 20400
 JBIG
-BootX (Linux)
-Master boot record
 ISO 13485
 ISO 7001
 HTML
-Hypervisor
-ISO 12006
 ASMO 449
-ISO/IEC 6523
-ISO/IEC 7812
 ISO 14971
 Hardware security
 Computer Graphics Metafile
 International Electrotechnical Commission
-Comparison of bootloaders
 ISO 4157
-ISO 14000
-ISO/IEC 19752
 ISO 10303-28
 International Standard Text Code
-ISO/IEC 646
-ISO/IEC 15288
 Boot sector
-Kernel-based Virtual Machine
 ISO 3166-1
-ISO/IEC 8859-1
-ISO/IEC 8859-5
-ISO/IEC 8859-15
-Architecture of Windows 9x
 ISO 28000
-ARCS (computing)
 Essential Video Coding
 ISO 898
 Lexical Markup Framework
 Geography Markup Language
-ISO/IEC 7810
 Graphical Kernel System
 ISO 4
 MPEG-G
 ISO 31-5
 ArXiv (identifier)
 ISO 20121
-Award Software
 ISO 2146
-Execute in place
-Firmware
 ISO 10303-21
 ISO 8178
-Insyde Software
-ISO/IEC 4909
-ISO/IEC 14651
-ISO 7027
 ISO 15686
 International Standard Identifier for Libraries and Related Organizations
-American Megatrends
 C (programming language)
-Booting process of Android devices
 ISBN (identifier)
 ISO 9
 Isofix
-Chipset
-Elliptic curve cryptography
-ISO/IEC 8859-7
 ISO-8859-8-I
 Advanced Video Coding
 Cheating in online games
 ISO 55000
-Cellphone
 ISO 18245
 Full BASIC
-Application software
 ISO 22395
 International Standard Audiovisual Number
 JPEG XS
 ISO metric screw thread
 Hot shoe
 ISO 3166
-Key derivation function
 Legal Entity Identifier
 Guidelines for the Definition of Managed Objects
-Keystroke logger
 ISO 704
 File Allocation Table
 ISO 5964
 MPEG-1
 ISO 9897
-Kickstart (Amiga)
 ISO 128
 I²C
 MPEG-4 Part 2
-Microsoft Office 365
 Exclusive or
-ISO/IEC 9529
 ISO 6385
 ISO 45001
-Global surveillance disclosures (2013–present)
 ISO 11170

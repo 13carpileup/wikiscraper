@@ -1,59 +1,24 @@
-4K Disk Monitor System
-9P (protocol)
-AXFS
-Access-control list
-Advanced Disc Filing System
 Alpha 21064
 Alpha 21164
 Alpha 21264
 Alpha 21364
 Alpha 21464
 AltaVista
-Amiga Fast File System
-Amiga Old File System
-Andrew File System
-Apache Hadoop
-Apple File System
-Apple Filing Protocol
-Apple Partition Map
-AtheOS File System
-Aufs
 BASIC-8
-Bcachefs
-Be File System
-BeeGFS
-Bellevue, WA
-Boot File System
-Btrfs
 Bus (computing)
-CDfs
-CHFS
 CPU Wars
 CVAX
-CXFS
-Case preservation
-Ceph (software)
 Character encoding
-Chmod
 Classic Mac OS
-Clustered file system
-Coda (file system)
 Code page 1287
 Code page 1288
 Commercial Operating System
-Compact Disc File System
 Compaq
-Comparison of distributed file systems
 Comparison of file systems
-Computer access control
 Computer hardware
 Computer terminal
-Configfs
-Copy-on-write
-Cramfs
 DECUS
 DEC Alpha
-DEC BATCH-11/DOS-11
 DEC GT40
 DEC Hebrew
 DEC J-11
@@ -71,232 +36,87 @@ DECtape
 DECwriter
 DIBOL
 DIGITAL Command Language
-Data deduplication
 Data scrubbing
-Datalight
-Davfs2
-Debugfs
-Device file
 Digital Equipment Corporation
 Digital Federal Credit Union
 Digital Linear Tape
 Digital Storage Systems Interconnect
-Digital UNIX
-Disc Filing System
-Distributed File System (Microsoft)
 Doi (identifier)
 Dynamic debugging technique
 Dynamically Redefined Character Set
-ECryptfs
-EROFS
-Elliptics
-EncFS
-Encrypting File System
 Engineer
-Episode filesystem
-ExFAT
-Execute in place
-Ext2
-Ext3
-Ext3cow
-Ext4
-Extended file attributes
-Extended file system
-Extent (file systems)
-Extent File System
-F2FS
-FAT filesystem and Linux
 FOCAL (programming language)
-FTPFS
 FX!32
-File-system permissions
 File Allocation Table
-File attribute
-File change log
-File manager
 File system
-File system API
-Files-11
-Filesystem-level encryption
-Filesystem in Userspace
 Firefly (cache coherence protocol)
-Flash file system
-Flash memory
 Flip-Chip module
-Fork (file system)
-Fossil (file system)
-GFS2
 GNU General Public License
-GPFS
-GPLv3
-GUID Partition Table
-Global file system
 Gold key (DEC)
-Google File System
 Gordon Bell
-Grid file system
-HAMMER2
-HAMMER (file system)
-HFS Plus
 HP-Interex
-Hard link
 Harlan Anderson
-Hewlett-Packard
-Hierarchical File System (Apple)
-Hierarchical File System (IBM MVS)
-High Performance File System
-High Sierra Format
-High Throughput File System
 ISBN (identifier)
 ISO 13490
 ISO 9660
-Installable File System
 Instruction set architecture
 Interactive Application System
 Interface (computing)
-JFFS
-JFFS2
-JFS (file system)
-Journaling file system
 Ken Olsen
-Kernfs (BSD)
 LK201
 LK421
-Lawrence Livermore National Laboratory
-License compatibility
-Linear Tape File System
-Linus Torvalds
 Linux kernel
-List of cryptographic file systems
-List of default file systems
 List of file systems
-List of log-structured file systems
-Lnfs
 Local Area Transport
-Log-structured File System (BSD)
-Log-structured file system
-LogFS
-Logical Storage Manager
-Logical volume management
-Lustre (file system)
 MACRO-10
 MACRO-11
-MINIX file system
 MUMPS
 MVS
-Macintosh File System
 Maintenance Operations Protocol
 Mass Storage Control Protocol
 Massbus
-Master Boot Record
 MicroVAX 78032
 Multinational Character Set
-NILFS
-NOVA (filesystem)
 NTFS
 NVAX
-Nashua, NH
 National Replacement Character Set
-NetWare Core Protocol
-NetWare File System
-Network-attached storage
-Network File System
-Next3
-Non-Volatile File System
-Novell Storage Services
-OCFS2
-OS/8
-OSF/1
-Object storage
 On-line Debugging Tool
-OneFS distributed file system
-OpenAFS
 OpenVMS
-OpenZFS
 Operating system
 Optical disc
-Oracle ZFS
-OrangeFS
-OverlayFS
 PALcode
 PDP-11 architecture
 PDP-7
-Parallel Virtual File System
 Processor (computing)
-Procfs
-Professional File System
 Programming language
 Q-Bus
-QFS
-QNX4FS
-Quantcast File System
 RA90
 RK05
 RL02
-RSTS/E
 RSX-11
-RSX-15
 RT-11
-Rational MultiVersion File System
-ReFS
 ReGIS
-Record-oriented filesystem
 Record Management Services
-Reiser4
-ReiserFS
-Remote File Sharing
 Rigel (microprocessor)
 Robert Palmer (computer businessman)
-Rubberhose (file system)
-SSHFS
-Self-certifying File System
-Semantic file system
-Server Message Block
 Sixel
-Smart File System
-Soft updates
 Software developer
 Solid-state drive
-Soup (Apple)
-SourceForge
-SourceForge.net
 Source code
-SquashFS
 Standard Disk Interconnect
 Star coupler
-Steganographic file system
-Sticky bit
-StorNext File System
 StrongARM
 Sun Microsystems
-Symbolic link
 Synchronous Backplane Interconnect
-Synthetic file system
-Sysfs
 System Module
-System Reference Manual
-TD/SMP
 TOPS-10
 TOPS-20
-TSS/8
 TU81
 TURBOchannel
-Tebibyte
 The Ultimate Entrepreneur
-TiVo Media File System
-Tmpfs
-Transaction-Safe FAT File System
-Tru64 UNIX
-Tux3
-UBIFS
 Ultrix
-Undeletion
 Unibus
-UnionFS
 Universal Disk Format
-Unix
-Unix File System
-Unix filesystem
 VAX
 VAXBI bus
 VAXELN
@@ -305,39 +125,11 @@ VM (operating system)
 VT05
 VT100
 VT1000
-VT101
-VT102
-VT103
-VT105
-VT131
 VT180
 VT220
-VT240
-VT241
 VT320
-VT330
-VT340
 VT420
-VT510
 VT52
 VT520
-VT525
-VT55
-VT62
 VT640
-Veritas File System
-Versioning file system
-Virtual file system
 WPS-8
-Wear leveling
-WinFS
-Write Ahead Physical Block Logging
-Write Anywhere File Layout
-XFS
-Xiafs
-Xsan
-YAFFS
-Z/OS
-Z/VM
-ZFS
-ZFS (z/OS file system)

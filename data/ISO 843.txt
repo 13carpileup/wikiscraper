@@ -1,7 +1,6 @@
 Software maintenance
 Object Constraint Language
 Prontor-Compur
-ISO/IEC 11404
 Full BASIC
 SQL
 Fiber Distributed Data Interface
@@ -9,21 +8,17 @@ POSIX
 Open Virtualization Format
 ISO 8501-1
 ISO 9660
-ISO/IEC 80000
 ISO 26262
 ISO 10161
 ISO 6346
-ISO/IEC 9529
 ISO 7010
 Shoe size
-ISO 9000
 Unified Modeling Language
 JPEG XS
 ISO 25178
 Latin alphabet
 ISO 7637
 ISO 13406-2
-ISO/IEC 15897
 ISO 5776
 ISO 13567
 JPIP
@@ -34,15 +29,12 @@ Business Process Model and Notation
 Horsepower
 ISO 639-5
 Pinyin
-CAN bus
 ASMO 449
 Common Object Request Broker Architecture
 ISO 10007
-ISO/IEC 27005
 Dynamic Adaptive Streaming over HTTP
 ISO 20400
 Isofix
-ISO/IEC 11801
 ISO 28000
 Magnetic ink character recognition
 ISO 11170
@@ -50,12 +42,9 @@ Delivery Multimedia Integration Framework
 ISO 31-5
 ISO 4217
 ISO 2852
-Fuse (automotive)
 ISO 5428
 Meta-Object Facility
-ISO/TR 11941
 ISO 10303-21
-ISO/IEC 7064
 SDMX
 ISO 31000
 Simple Features
@@ -64,25 +53,18 @@ Document Style Semantics and Specification Language
 Pascal (programming language)
 Ada Semantic Interface Specification
 ISO 13485
-ISO/IEC 7811
-PDF/UA
-ISO/IEC 27000
 ISO 2709
 ISO 1629
 ISO 639
 ISO 6344
-ISO 19092-2
 O-ring
-ISO/IEC 19770
 ISO 10303-22
 ISO 6438
-ISO/IEC 10967
 ISO 11940
 ISO 10628
 C Sharp (programming language)
 ISO 233
 Whirlpool (hash function)
-ISO/IEC 8859-8
 OpenDocument
 Web Content Accessibility Guidelines
 CHILL
@@ -90,65 +72,48 @@ Linux Standard Base
 ISO 1745
 COLLADA
 Photographic Activity Test
-ISO 12006
 MPEG-G
 EXPRESS (data modeling language)
 On-board diagnostics
 Kappa number
 Quality function deployment
-ISO 19092-1
 LCEVC
 ISO 657
 ISO 19114
 ISO 31-3
 International Standard Atmosphere
 ISO 2033
-ISO/IEC 8859-4
-ISO 14000
-ISO/IEC 8859
 JBIG
 Multibus
-DIN 31634
 Romanization of Georgian
 ISO 8601
 Romanization of Armenian
 Linguistic categories
 ISO 18245
 ISO 26000
-ISO/IEC 42010
-ISO/IEC 7816
 ISO 21001
 ISO 31-8
 MaxiCode
 ANSI escape code
 Guidelines for the Definition of Managed Objects
 ISO 5426
-ISO/IEC 15693
-ISO/IEC 8859-2
-OSI model
 JPEG XR
 ISO 5964
-ISO/IEC 8859-16
 ISO 965
-ISO/IEC 19752
 Rectangular Micro QR Code
 ISO 639-2
 ISO 13490
 ISO 2015
-ISO/IEC 18014
 PDF417
 ISO 9
 International Bank Account Number
 ISO 31-0
 Hot shoe
 ISO 9564
-ISO/IEC 4909
 ISO 22000
 ISO 45001
 ISO 15919
 ISO 4157
-ISO/IEC 9995
-ISO 31-13
 ECMAScript for XML
 ISO 3166-2
 MPEG-4 Part 3
@@ -157,38 +122,28 @@ ISO 2921
 XML Metadata Interchange
 MPEG-2
 ISO 3166-1
-ISO/IEC 8859-3
 Perl
 ISO 999
 Kunrei-shiki romanization
 ISO 2788
 ISO 21500
 MPEG-4
-ISO/IEC 2022
 ISO 259
 Salt spray test
 ISO 732
 ISO 14971
-List of ISO transliterations
 OCR-A
 Mixed raster content
-ISO/IEC 27006
-ISO/IEC 9797-1
 Vicat softening point
-ISO/IEC 7813
 ISO metric screw thread
 List of ISO standards
 ISO 10962
 ISO 17100
-ISO/IEC 17025
 ISO-8859-8-I
-ISO 8373
 ISO 37001
 ISO 31
 ISO 15022
 ISO 9362
-PDF/A
-PDF/VT
 List of ISO romanizations
 110 film
 Z notation
@@ -198,23 +153,17 @@ ISO 2145
 ISO 668
 IATF 16949
 ISO 55000
-PDF/X
 International Standard Identifier for Libraries and Related Organizations
-ISO/IEC 38500
 ISO 11940-2
 Requirements engineering
 Hazard symbol
 ISO 3977
 ANSI C
 Ruby (programming language)
-ISO/IEC 646
 RELAX NG
-ISO/IEC 27000-series
 ISO 19011
 ISO 15398
 HTML
-ISO/IEC 15288
-ISO/IEC 8859-13
 Flowchart
 ISO 1
 ISO 14617
@@ -222,12 +171,10 @@ Accuracy and precision
 Hole punch
 ISO 31-11
 MPEG-H
-ISO/IEC 11179
 MPEG-A
 JPEG 2000
 Open Document Architecture
 ISO 20121
-ISO/IEC 14651
 File Allocation Table
 Han Xin code
 ISO 15189
@@ -238,17 +185,13 @@ ISO 10160
 ISO 31-7
 International Standard Recording Code
 ISO 11992
-ELOT 743
 ISO 6709
 MPEG-7
 British Standard Pipe
 X3D
 FDI World Dental Federation notation
-ISO/IEC 5218
-ISO/IEC 8859-15
 Torx
 Water Resistant mark
-ISO/IEC 17024
 ISO 7002
 JPEG XL
 Common Language Infrastructure
@@ -258,17 +201,14 @@ ISO 2146
 ISO 690
 ISO 8583
 ISO 10303-28
-International Standard Serial Number
 ISO 704
 Greek alphabet
 ISO 3307
 International Standard Audiovisual Number
-ISO/IEC 6523
 ISO 15926 WIP
 ISO 7200
 ISO 22300
 Process Specification Language
-ISO/IEC 10116
 International Standard Musical Work Code
 Knowledge Discovery Metamodel
 ISO 3103
@@ -276,16 +216,11 @@ ISO 15686
 Common Logic
 Trusted Platform Module
 X.500
-ISO/IEC 8652
-ISO/IEC 14443
-PDF/E
-ISO/IEC 8859-7
 International Standard Text Code
 MPEG-4 Part 11
 ISO 19439
 ISO 8691
 ISO 3166
-ISO/IEC 8859-5
 ISO 15926
 ISO 1000
 Market Identifier Code
@@ -306,12 +241,8 @@ ISO 5775
 Universal Coded Character Set
 ISO 639-3
 ISO 8000
-ISO/IEC 8859-11
 Open Data Protocol
-ISO/IEC 27001
 ISO 7736
-ISO/IEC 7812
-ISO/IEC 8859-6
 Minimal BASIC
 PHIGS
 ISO 14644
@@ -320,57 +251,43 @@ ISO 128
 ISLISP
 ISO 50001
 ISO 22395
-ELOT
 RM-ODP
 ISO 10006
 Manufacturing Message Specification
 MPEG-21
 ISO 4165
-ISO/IEC TR 12182
 Power take-off
 ISO base media file format
-TIFF/EP
 OCR-B
-ISO/IEC 21827
 Geospatial metadata
 ISO 11783
 ECMAScript
-Romanization of Greek
-ISO 7027
 Equal-loudness contour
 ISO 7001
-ISO/IEC 7810
 ISO 217
 C++
-ISO/IEC 15504
 ISO 31-4
-ISO 31-12
-ISO/IEC 8859-12
 MPEG-D
 Antimagnetic watch
 ISO 13399
 ISO 11784 and ISO 11785
 Prolog
-Language Of Temporal Ordering Specification
 ArmSCII
 ISBN
 ISO 2014
 IS-IS
 ISO 6385
-ISO/IEC 12207
 ISO 5427
 Geography Markup Language
 STEP-NC
 ISO 20022
 ISO 10303
-ISO/IEC 8859-9
 Motion JPEG 2000
 Graphical Kernel System
 Standard Generalized Markup Language
 Computer Graphics Metafile
 Film speed
 Common Criteria
-ISO/IEC 9126
 Versatile Video Coding
 ISO 9897
 126 film
@@ -379,15 +296,11 @@ Fuel oil
 ISO 3166-3
 ISO 56000
 FTAM
-ISO/IEC 8859-14
 ISO-TimeML
 PDF
 A440 (pitch standard)
-Transliteration
-ISO 2047
 ISO 22301
 International Standard Music Number
-ISO/IEEE 11073
 Advanced Video Coding
 ISO 14031
 Lexical Markup Framework
@@ -397,18 +310,12 @@ International Organization for Standardization
 ISO 8178
 ISO 14698
 Topic map
-ISO/IEC 27002
 ISO 31-1
-ISO/IEC 8859-1
 ISO 4
 ISO 639-1
 ISO 3864
-ISO/IEC 19794-5
 ISO 13584
-Transcription (linguistics)
-ISO/IEC 8859-10
 ISO 9241
-ISO 31-9
 ISO 898
 ISO 31-10
 ALGOL 60
@@ -417,5 +324,4 @@ ISO 16750
 MPEG-1
 MicroPDF417
 ISO 31-6
-ISO/IEC 20000
 ISO 14224

@@ -2,25 +2,20 @@ ISO 6346
 List of ISO romanizations
 IS-IS
 SDMX
-PDF/E
 Meta-Object Facility
-ISO 7027
 ISO 19600
 ISO 8000
 ISO 657
 ISO 690
 ISO 7001
-Apache languages
 Prontor-Compur
 ISO 9564
 MPEG-21
-ISO/IEC 9529
 ISO 9241
 ECMAScript
 ISO 13584
 ISO 11783
 Baltic languages
-Australian languages
 List of IEC standards
 ISO 19114
 ISO 17100
@@ -33,28 +28,22 @@ ISO 233
 Hole punch
 Unified Modeling Language
 ISO 10628
-PDF/UA
 ISO 21001
 EXPRESS (data modeling language)
 PHIGS
 ISO 3307
-ISO/IEC 5218
 International Standard Identifier for Libraries and Related Organizations
 JPEG XR
 ISO 704
 ISO 37001
-ISO/IEC 8859-8
 ISO-TimeML
 ISO 2852
-Language code
 JPIP
 ISO 5426
-Sino-Tibetan languages
 ISO 2033
 List of ISO standards
 C Sharp (programming language)
 ISO 2788
-Sorbian languages
 ISO 2709
 ISO 15022
 ISO 11940-2
@@ -67,7 +56,6 @@ Antimagnetic watch
 ISO 11784 and ISO 11785
 Simple Features
 COLLADA
-Yupik languages
 Linux Standard Base
 International Bank Account Number
 Knowledge Discovery Metamodel
@@ -75,126 +63,76 @@ International standard
 Sign language
 International Securities Identification Number
 FDI World Dental Federation notation
-Chamic languages
 Software maintenance
 Dynamic Adaptive Streaming over HTTP
 ISO 128
-ISO/IEC 14651
-ISO/IEC 17024
 ISO 216
 ISO 6438
 FTAM
-ISO/IEC 15504
-ISO 639 macrolanguage
-ISO/IEC 4909
 ISO 10303-21
 ISO 3977
-TIFF/EP
-ISO 19092-2
 OCR-A
 JPEG XS
 ISO 31000
-List of ISO 639-5 codes
 ISO 7010
 Torx
-ISO/IEC 12207
 Standard Generalized Markup Language
-Bihari languages
-ISO/IEC 6523
 Computer Graphics Metafile
 ISO 31-5
-Altaic languages
 ISO 31-8
-Language Of Temporal Ordering Specification
 Prolog
-ISO 31-13
 International Standard Audiovisual Number
-Pidgin
-ISO 8373
-ISO/IEC 2022
-PDF/X
-Batak languages
 ISO 19439
-PDF/VT
-ISO/IEC 8859-14
 Isofix
-ISO/IEC 7811
 JBIG
 ISO 14617
 Office Open XML
 ISO 22301
 ISO 31-11
 ISO 26000
-ISO/IEC 11404
 ISO 10161
-Siouan languages
 ISO 8691
 ISO 10303-22
-Zande languages
 ISO 6385
 ISLISP
 Common Object Request Broker Architecture
 ISO 10006
 Romanization of Georgian
 Lexical Markup Framework
-Indo-European languages
 ALGOL 60
-Khoisan languages
 ISO 8501-1
 Topic map
-Himachali languages
-Niger–Congo languages
 ISO 639-1
 ISO 15189
 ISO 2848
 ISO 639
-Semitic languages
 MPEG-4 Part 2
-Munda languages
 Longitudinal redundancy check
-ISO 31-9
 Multibus
 Creole language
 Document Style Semantics and Specification Language
 Vicat softening point
 ISO 3103
 Microsoft Windows
-ISO/IEEE 11073
-ISO/IEC 8652
-ISO/IEC 8859
-Manobo languages
 ISO 15919
 ISO 50001
-Indo-Aryan languages
 Pascal (programming language)
 International Standard Music Number
 Renard series
-ISO/IEC 10116
 135 film
-ISO/IEC 8859-13
 STEP-NC
-ISO 31-12
 Common Logic
 ISO 11940
 ISO 2145
 Shoe size
 Water Resistant mark
-ISO/IEC 8859-10
-ISO/IEC 646
-Constructed language
-ISO/IEC 7813
 Motion JPEG 2000
-ISO 9000
 ISO 5428
-ISO/IEC 38500
 ISO 2
 Open Data Protocol
 ISO 1629
-ISO/IEC 9797-1
 ISO 21500
-ISO/IEC 27002
 X3D
-Songhai languages
 ISO 259
 ISO 14031
 Horsepower
@@ -202,74 +140,46 @@ SQL
 ECMAScript for XML
 MPEG-D
 ISO 15926 WIP
-Nahuatl languages
 MPEG-A
-ISO/IEC 8859-3
 Business Process Model and Notation
-ISO/IEC 7810
 Nilo-Saharan languages
 Power take-off
 ANSI escape code
 Whirlpool (hash function)
 Shock-resistant watch
-ISO/IEC 8859-2
 Romanization of Armenian
 International Standard Atmosphere
 ISO 11992
 OpenDocument
-International Standard Serial Number
-ISO/IEC 7816
-Prakrit languages
 ISO 2146
-Mayan languages
-ISO/IEC 11179
-ISO/IEC 80000
 ISO 31-1
-ISO/IEC 19752
-PDF/A
 ISBN
-Algonquian languages
 Fiber Distributed Data Interface
 Digital object identifier
 ASMO 449
 QR code
-Kru languages
 ISO 1000
 DICOM
-North American Indian languages
-ISO/IEC 21827
 ISO 13399
 Ruby (programming language)
 ISO 860
 Guidelines for the Definition of Managed Objects
 Accuracy and precision
-ISO/IEC 11801
 ISO 999
 Object Constraint Language
-ISO/IEC 9995
 ISO 7002
 Web Content Accessibility Guidelines
 PDF
 RELAX NG
-Afro-Asiatic languages
 On-board diagnostics
-Central American Indian languages
 ISO 898
 Cloud Infrastructure Management Interface
-ISO/IEC 8859-16
 International Standard Recording Code
-Fuse (automotive)
 A440 (pitch standard)
 Trusted Platform Module
-ISO/IEC 15897
-Sami languages
 Graphical Kernel System
-CAN bus
 ISO 19011
-Philippine languages
-ISO/TR 11941
 MPEG-4
-ISO/IEC 19794-5
 ISO 5776
 ISO 1
 ISO 31-0
@@ -277,25 +187,19 @@ Requirements engineering
 ArmSCII
 International Standard Name Identifier
 ISO 965
-ISO/IEC 15693
-Tai languages
 ISO 3166-2
 MPEG-7
 ISO 9897
-ISO/IEC 8859-4
-ISO/IEC 15288
 Common Language Infrastructure
 RM-ODP
 ISO 639-3
 MPEG-1
 ISO 639-5
-Finno-Ugrian languages
 Common Criteria
 British Standard Pipe
 Flowchart
 ISO 3166-1
 COBOL
-Iroquoian languages
 ISO 4217
 ISO 843
 Z notation
@@ -307,16 +211,12 @@ Slavic languages
 ISO 9362
 Film speed
 Legacy systems
-ISO/IEC 27005
 Kappa number
 Minimal BASIC
 ISO 13485
 XML Metadata Interchange
 ISO 4157
-ISO/IEC 8859-11
-OSI model
 ISO 2014
-List of ISO 639-2 codes
 ISO 28000
 IATF 16949
 MicroPDF417
@@ -325,7 +225,6 @@ ISO 11170
 ISO-8859-8-I
 Delivery Multimedia Integration Framework
 Manufacturing Message Specification
-ISO/IEC 27000
 ISO 2711
 ISO 14971
 ISO 4
@@ -335,116 +234,76 @@ Open Virtualization Format
 ISO 6943
 ISO 15398
 ISO 15924
-Salishan languages
 ISO 639-6
-ISO 19092-1
 Geospatial metadata
-ISO/IEC 8859-1
 ISO 25964
 Versatile Video Coding
-ISO/IEC 27006
 ISO 13567
 Photographic Activity Test
 Essential Video Coding
-Banda languages
 Kunrei-shiki romanization
 Ada Semantic Interface Specification
-Wakashan languages
 ISO 10303-28
-Cushitic languages
 ISO 16750
 ISO 55000
-Nubian languages
 MPEG-4 Part 11
 ISO 31-6
 MPEG-H
-ISO/IEC 8859-12
 MPEG-4 Part 3
 ISO 732
-South American Indian languages
 POSIX
-ISO/IEC 7064
 ISO 3864
-ISO/IEC 27001
 Iranian languages
 ISO 5427
-ISO 2047
 Advanced Video Coding
-ISO/IEC 8859-6
 Library of Congress
 ISO 10303
 File Allocation Table
 ISO 10160
-Mon–Khmer languages
 International Standard Musical Work Code
-ISO/IEC 14443
 ANSI C
 Graph Query Language
-Land Dayak languages
 Germanic languages
 Equal-loudness contour
-ISO/IEC 8859-15
 Full BASIC
 ISO 14644
-ISO 14000
 Magnetic ink character recognition
 MPEG-2
 ISO 8178
 ISO 31
 OCR-B
-ISO/IEC 8859-5
 ISO 2921
 ISO 56000
-ISO/IEC 8859-9
 ISO 31-3
 Celtic languages
-ISO/IEC 20000
 HTML
 ISO 4165
 MPEG-G
 Fuel oil
 ISO 7736
-Otomian languages
 ISO 22395
 ISO 26262
 ISO 8601
 ISO 8583
 ISO 20400
 JPEG 2000
-Papuan languages
-Pseudolocalization
 ISO 14698
 ISO 9
-Karen languages
 ISO 13406-2
 ISO 668
-ISO/IEC 9126
-List of ISO 639-1 codes
-Austronesian languages
 ISO 20121
 ISO 7637
 ISO 3166-3
-ISO/IEC 19770
-Caucasian languages
 ISO 217
-Bamileke languages
 ISO 31-4
 ISO metric screw thread
 International Organization for Standardization
 CHILL
-Tupi languages
 Hazard symbol
-List of ISO 639-3 codes
 ISO 15926
 ISO 31-7
-Ijo languages
-Berber languages
-ISO/IEC TR 12182
-ISO/IEC 27000-series
 Salt spray test
-ISO/IEC 7812
 JPEG XL
-List of ISO 639-6 codes
 ISO 10007
 Mixed raster content
 ISO 13490
@@ -454,7 +313,6 @@ International Standard Text Code
 MaxiCode
 126 film
 Universal Coded Character Set
-ISO/IEC 17025
 ISO base media file format
 ISO 2015
 ISO 22000
@@ -464,24 +322,16 @@ MP4 file format
 ISO 10218
 Han Xin code
 ISO 20022
-Romance languages
 C++
 ISO 22300
 Open Document Architecture
 ISO 5964
 Process Specification Language
-Athapascan languages
 Hot shoe
-ISO/IEC 8859-7
-Bantu languages
 ISO 15686
 ISO 18245
 110 film
-ISO/IEC 10967
 Rectangular Micro QR Code
-ISO 12006
-ISO/IEC 18014
 Linguistic categories
-ISO/IEC 42010
 ISO 10962
 ISO 3166

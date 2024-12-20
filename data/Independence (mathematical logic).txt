@@ -1,7 +1,5 @@
-AD+
 Abstract logic
 Ackermann set theory
-Addison-Wesley
 Aleph number
 Algebraic logic
 Alphabet (formal languages)
@@ -14,11 +12,8 @@ Automata theory
 Automated theorem proving
 Axiom
 Axiom of choice
-Axiom of determinacy
-Axiom of real determinacy
 Axiom schema
 Axiomatic system
-Axiomatization of Boolean algebras
 Banach–Tarski paradox
 Bibcode (identifier)
 Bijection
@@ -58,7 +53,6 @@ Continuum hypothesis
 Countable set
 Decidability (logic)
 Decision problem
-Deductive system
 Diagram (mathematical logic)
 Doi (identifier)
 Domain of a function
@@ -66,7 +60,6 @@ Element (mathematics)
 Elementary diagram
 Elementary equivalence
 Elementary function arithmetic
-Elliott Mendelson
 Empty set
 Enumeration
 Equiconsistency
@@ -88,7 +81,6 @@ Forcing (mathematics)
 Formal grammar
 Formal language
 Formal proof
-Formal semantics (logic)
 Formal system
 Formation rule
 Foundations of geometry
@@ -102,7 +94,6 @@ General set theory
 Geometry
 Grothendieck universe
 Ground expression
-Ground formula
 Gödel's completeness theorem
 Gödel's incompleteness theorems
 Gödel numbering
@@ -112,7 +103,6 @@ Higher-order logic
 Hilbert's axioms
 Hilbert system
 History of logic
-History of mathematical logic
 ISBN (identifier)
 Image (mathematics)
 Inaccessible cardinal
@@ -124,18 +114,14 @@ Inhabited set
 Injective function
 Interpretation (logic)
 Interpretation (model theory)
-Interpretation function
 Intersection (set theory)
 Isomorphism
 Kolmogorov complexity
-Kripke's theory of truth
 Kripke–Platek set theory
-Kurepa tree
 Lambda calculus
 Large cardinal
 Lemma (mathematics)
 Lindström's theorem
-List of Hilbert systems
 List of axioms
 List of first-order theories
 List of formal systems
@@ -183,14 +169,11 @@ Ordinal number
 P (complexity)
 P versus NP problem
 Paradoxes of set theory
-Parallel postulate
 Partition of a set
 Peano axioms
 Philosophy of mathematics
-Playfair's axiom
 Power set
 Predicate (mathematical logic)
-Predicate logic
 Predicate variable
 Primitive recursive arithmetic
 Primitive recursive function
@@ -204,9 +187,7 @@ Propositional variable
 Quantifier (logic)
 Quantifier rank
 Recursion
-Recursive set
 Relation (mathematics)
-Reports on Mathematical Physics
 Reverse mathematics
 Robinson arithmetic
 Rule of inference
@@ -229,31 +210,25 @@ Skolem arithmetic
 Soundness
 Spectrum of a sentence
 Spectrum of a theory
-Springer-Verlag
 Square of opposition
 Strength (mathematical logic)
-String (formal languages)
-Strongly inaccessible cardinal
 Structure (mathematical logic)
 Substitution (logic)
 Substructure (mathematics)
 Supertask
 Surjective function
-Suslin's problem
 Syllogism
 Symbol (formal)
 Syntax (logic)
 T-schema
 Tarski's axiomatization of the reals
 Tarski's axioms
-Tarski's theory of truth
 Tarski's undefinability theorem
 Tarski–Grothendieck set theory
 Tautology (logic)
 Term (logic)
 Term logic
 Theorem
-Theories of truth
 Theory (mathematical logic)
 Three-valued logic
 Timeline of mathematical logic
@@ -266,7 +241,6 @@ Truth value
 Turing machine
 Type (model theory)
 Type theory
-Ultrafilter (set theory)
 Ultraproduct
 Uncountable set
 Undecidable problem

@@ -1,354 +1,48 @@
-4Suite
-ASN.1
-Action Message Format
-ActivityPub
-Activity Streams (format)
-Agora (web browser)
-Amaya (web editor)
-Apache Avro
-Apache Thrift
-Apple Computer
-Application-Level Profile Semantics (ALPS)
-Arena (web browser)
-Argo (web browser)
-Ascii85
 Atom (web standard)
-BSON
-Base32
-Base64
-Bencode
-Binary file
-Blank node
-Bristol
-Bristol University
-Business Intelligence 2.0
-C-HTML
-CBOR
-CERN httpd
 CSS
-CSS Flexible Box Layout
-CSS Working Group
 CSS animations
-CSS grid layout
-CURIE
-Call Control eXtensible Markup Language
-Canonical XML
-Cap'n Proto
-Certainty
-Class diagram
-Cochrane (organisation)
-Collective intelligence
-Comma-separated values
 Common Logic
-Comparison of data-serialization formats
-Compound Document Format
 Concept
-Conceptual graphs
-Creative Commons
-Cyphal
-DBpedia
-DOAP
-Data exchange
-Data model
-Data portability
-Data serialization
 Database
-Dataspaces
-Definition
-Description logic
-Digital humanities
 Digital library
-Directed graph
-Document Object Model
 Dublin Core
-EDIFACT
-EU Open Data Portal
-Efficient XML Interchange
-Embedded RDF
-Emotion Markup Language
-Encrypted Media Extensions
 English language
-Enterprise Architecture
-Entity–attribute–value model
-Entity–relationship model
-Expressive power (computer science)
-Extensible Forms Description Language
-Extensible User Interface Protocol
-External Data Representation
-FOAF
-FOAF (ontology)
-FOAF (software)
-Facebook Platform
-File format
 Filename extension
-First International Conference on the World-Wide Web
-FlatBuffers
-Folksonomy
-Fragment identifier
-Fuzzy logic
-GRDDL
 Geotagging
-Graham Klyne
-Graph labeling
 Graph theory
-HAtom
-HCalendar
-HCard
-HP Labs
-HProduct
-HRecipe
-HReview
 HTML
 HTML5
-HTML Working Group
-HTTP
-Handheld Device Markup Language
-Haystack (PIM)
-Human-readable medium and data
-Hyperdata
-Hypertext
 IBM
-IDEAS Group
 ISBN (identifier)
-IXBRL
-Improving Web Advertising Business Group
-Indexed Database API
-IndieAuth
-Information architecture
-InkML
 Integer
-International World Wide Web Conference
-International World Wide Web Conferences Steering Committee
 International standard
-Internationalization Tag Set
-Internationalized Resource Identifier
 Internet
-JSON
-JSON-LD
-JSON Web Encryption
-JSON Web Signature
-JSON Web Token
-JavaScript Style Sheets
-KDE Software Compilation 4
-Knowledge extraction
 Knowledge management
-Knowledge representation
 Knowledge representation and reasoning
-LSID
-LV2
-Library 2.0
-Libwww
-Line Mode Browser
 Linguistics
-Linked Data Notifications
 Linked data
 Logic
-MIT
-Machine-readable data
-MathML
-Media Source Extensions
 Media type
-Merlot
-MessagePack
-Meta Content Framework
 Metadata
-Microdata (HTML)
-Microformat
-Micropub (protocol)
 Microsoft
-Multigraph
-MusicBrainz
-N-Quads
-N-Triples
-NEPOMUK (framework)
-Netscape
-Netscape Communications Corporation
 New York (state)
 Nokia
-Notation3
-O'Reilly Media
-Object-oriented design
-Object (grammar)
-Ontology (computer science)
-Ontology components
-Ontology language
-Open file format
-P3P
-Person
-Platform for Internet Content Selection
-Precision Graphics Markup Language
-Predicate (grammar)
-Pronunciation Lexicon Specification
-Property list
-Protocol Buffers
-Publisher
 Python (programming language)
-QName
-RDF/XML
-RDFS
-RDF Schema
-RDF query language
 RDFa
-RDQL
-RSS (file format)
-RSS 1.0
-Ramanathan V. Guha
-Rebol
 Reference (computer science)
-Reification (knowledge representation)
-Relational model
-Research Resource Identifier
-Resource (computer science)
 Reuters
-Rule-based system
-Rule Interchange Format
-SAWSDL
-SCXML
-SHACL
-SMIL Timesheets
-SOAP
-SPARQL
-SPARQL Inferencing Notation
 SQL
-SVG Working Group
-SVG filter effects
-SXBL
-Scalable Vector Graphics
 Schema.org
-SciCrunch
-SeRQL
-Semantic HTML
-Semantic Interpretation for Speech Recognition
-Semantic Web
-Semantic Web Rule Language
-Semantic analytics
-Semantic broker
-Semantic computing
-Semantic mapper
-Semantic matching
-Semantic network
-Semantic publishing
-Semantic reasoner
-Semantic search
-Semantic service-oriented architecture
-Semantic technology
-Semantic triple
-Semantic wiki
-Semantically-Interlinked Online Communities
-Semantically Interlinked Online Communities
 Semantics (computer science)
-Semantics encoding
-Serialization
-Sesame (framework)
-ShEx
-Shelley Powers
-Simple Knowledge Organization System
-Smart-M3
-SoftQuad Software
 Software
-Software componentry
-Solid (web decentralization project)
-Speech Recognition Grammar Specification
-Speech Synthesis Markup Language
-Statement (programming)
-String literal
-Structure of Management Information
-Subject (grammar)
-Subresource Integrity
-Swoogle
-Synchronized Multimedia Integration Language
-TOML
-Tag (metadata)
-Technical Architecture Group
-Thing Description
-Tim Bray
-Timed text
-Title
-Tony Benn
 Topic map
-TriG (syntax)
-TriX (serialization format)
-TriX (syntax)
-Triplestore
-Turtle (syntax)
-UBJSON
 Unicode
-Uniform Resource Identifier
-Uniform resource identifier
-Universal Networking Language
 University of Michigan
-Uuencoding
-Vector Markup Language
-VoID
-VoiceXML
-W3C
-W3C Advisory Board
-W3C Board
-W3C Device Description Working Group
-W3C Geolocation API
-W3C MMI
-W3C Markup Validation Service
-W3C recommendation
-WAI-ARIA
-WHATWG
 WebAssembly
 WebGPU
-WebPlatform.org
-WebSub
-WebVTT
 WebXR
-Web 2.0
-Web Accessibility Initiative
-Web Authentication Working Group
-Web Components
 Web Content Accessibility Guidelines
-Web Ontology Language
-Web Open Font Format
-Web Science Trust
-Web Services Description Language
 Web browser
-Web engineering
-Web of Things
-Web resource
-Web storage
-Weblog
-Webmention
 Wikidata
-Wikipedia
 World Wide Web
-World Wide Web Consortium
-World Wide Web Foundation
-XAdES
-XBL
-XForms
-XFrames
-XHTML
-XHTML+MathML+SVG
-XHTML+RDFa
-XHTML+SMIL
-XInclude
-XLink
 XML
-XML-binary Optimized Packaging
-XMLHttpRequest
-XML Base
-XML Encryption
-XML Events
-XML Information Set
-XML Schema (W3C)
-XML Signature
-XML namespace
-XPath
-XPath 2.0
-XPath 3
-XPointer
-XProc
-XQuery
-XSL
-XSLT
-XSLT elements
-XSL Formatting Objects
-XUL
-YAGO (database)
-YAML
-YEnc

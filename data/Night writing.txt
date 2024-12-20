@@ -1,8 +1,4 @@
-1815
-1823
-1829
 1829 braille
-1832
 Accessible publishing
 Albanian Braille
 Algerian Braille
@@ -11,7 +7,6 @@ American Printing House for the Blind
 Arabic Braille
 Arabic script
 Armenian Braille
-Azeri Braille
 Belarusian Braille
 Bengali Braille
 Bharati Braille
@@ -21,7 +16,6 @@ Braille ASCII
 Braille Institute of America
 Braille Patterns
 Braille Without Borders
-Braille alphabet
 Braille e-book
 Braille embosser
 Braille kanji
@@ -36,9 +30,7 @@ Canadian currency tactile feature
 Cantonese Braille
 Catalan Braille
 Charles Barbier
-Charles Barbier de la Serre
 Computer Braille Code
-Coordinates
 Cyrillic alphabets
 Czech Braille
 Decapoint
@@ -51,7 +43,6 @@ Estonian Braille
 Faroese Braille
 French Braille
 Gardner–Salinas braille codes
-Ge'ez Braille
 Georgian Braille
 German Braille
 Ghanaian braille
@@ -64,7 +55,6 @@ Hebrew Braille
 Hungarian Braille
 IPA Braille
 Icelandic Braille
-Institut National des Jeunes Aveugles
 International uniformity of braille alphabets
 Inuktitut Braille
 Irish Braille
@@ -94,7 +84,6 @@ Nemeth Braille
 New York Point
 Nigerian braille
 Northern Sámi Braille
-Nyctography
 Odia Braille
 Optical braille recognition
 Perforation
@@ -108,7 +97,6 @@ Punjabi Braille
 Refreshable braille display
 RoboBraille
 Romanian Braille
-Royal Institution for Blind Youth
 Russian Braille
 Róża Czacka
 Sabriye Tenberken
@@ -125,20 +113,4 @@ Tamil Braille
 Tatar Braille
 Telugu Braille
 Thai and Lao Braille
-Thakur Vishva Narain Singh
-Tibetan Braille
-Turkish Braille
-Two-cell Chinese Braille
-Ukrainian Braille
 Unicode
-Unicode range
-Unified English Braille
-Urdu Braille
-Valentin Haüy
-Vibratese
-Vietnamese Braille
-Welsh Braille
-William Bell Wait
-Writing system
-Yugoslav Braille
-Zambian Braille

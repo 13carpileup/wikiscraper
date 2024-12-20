@@ -1,194 +1,87 @@
 ANSI C
-Abstract data type
 Alef (programming language)
-Algebraic data type
 Amsterdam Compiler Kit
 Anjuta
-Arbitrary-precision arithmetic
-Array data type
-Assert.h
 Associative array
-Bfloat16 floating-point format
 Bionic (software)
-Bit
 Bit array
-Bit field
-Boolean data type
-Borland Turbo C
 Bottom type
-Boxing (computer science)
 Byte
 C++
 C11 (C standard revision)
 C17 (C standard revision)
 C23 (C standard revision)
 C99
-CLion
 C (programming language)
 C POSIX library
 C Sharp (programming language)
-C alternative tokens
 C character classification
 C date and time functions
 C dynamic memory allocation
-C file input/output
-C localization functions
 C mathematical functions
 C preprocessor
-C process control
-C signal handling
 C standard library
 C string handling
 C syntax
-Character (computing)
 Clang
-Class (computer programming)
 CodeLite
 Comparison of Pascal and C
-Compatibility of C and C++
-Complex data type
 Complex number
-Composite data type
-Const-correctness
-Container (abstract data type)
 D (programming language)
 Data structure
-Data structure alignment
 Data type
-Decimal data type
 Dennis Ritchie
 Dependent type
 Dietlibc
-Double-double arithmetic
-Double-precision floating-point format
 Eclipse (software)
 Embedded C
-Embedded GLIBC
 Embedded system
-Empty type
-Enumerated type
-Errno.h
 Exception handling
-Extended precision
-Fixed-point arithmetic
-Flexible array member
-Floating-point arithmetic
-Function pointer
-Function type
 GNOME Builder
 GNU Compiler Collection
 Geany
 Generalized algebraic data type
-Generic programming
 Glibc
 Go (programming language)
 Half-precision floating-point format
-Hybris (software)
-IEEE 754 quadruple-precision floating-point format
-IEEE floating point
-Imaginary number
 Include directive
-Inductive type
 Integer
-Integer (computer science)
-Integer overflow
 Integrated development environment
-Intel C++ Compiler
 Interface (object-oriented programming)
-Intersection type
-Interval arithmetic
 Intuitionistic type theory
 KDevelop
-Kind (type theory)
 Klibc
 LCC (compiler)
 Limbo (programming language)
-Linked data structure
 Linux
-List (abstract data type)
-List of C compilers
-Long double
 MISRA C
 MS-DOS
-Machine epsilon
-Memory address
 Metaclass
-Metaobject
 Microcontroller
 Microsoft Visual C++
 Microsoft Visual Studio Express
 Microsoft Windows library files
-Minifloat
 Musl
 NetBeans
 Newlib
 Norcroft C compiler
-Null-terminated string
-Object (computer science)
 Objective-C
-Octuple-precision floating-point format
-Offsetof
-Ones' complement
-Opaque data type
-Operators in C and C++
-Option type
 POSIX
-Parametric polymorphism
-Physical address
-Plain text
-Pointer (computer programming)
 Portable C Compiler
 Primitive data type
-Printf format string
-Product type
-Quadruple-precision floating-point format
 Rational data type
 Real number
 Record (computer science)
-Recursive data type
 Reference (computer science)
-Refinement type
-Restrict
-Scanf format string
 Semaphore (programming)
-Set (abstract data type)
-Setjmp.h
-Sign-magnitude
-Signedness
-Single-precision floating-point format
-Sizeof
 Small Device C Compiler
-Standard library
 Stdarg.h
-Stream (computing)
 String (computer science)
-Strongly typed identifier
-Subroutine
-Subtyping
-SunOS
-Tagged union
-Ternary numeral system
 Tiny C Compiler
-Top type
-Two's complement
-Type class
 Type constructor
-Type conversion
-Type qualifier
-Type system
 Type theory
-Typedef
 UClibc
-Uninitialized variable
-Union type
-Unit type
-Units of information
 Vala (programming language)
 Variable (computer science)
-Virtual address space
 Visual Studio
-Void pointer
-Void type
-Volatile (computer programming)
-Watcom C/C++
 Word (computer architecture)

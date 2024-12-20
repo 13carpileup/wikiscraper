@@ -1,11 +1,7 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
-ARM64
-Akamai Technologies
 AlmaLinux
 Alpine Linux
-Amazon EC2
 Amazon Machine Image
 Android-x86
 Android (operating system)
@@ -16,24 +12,18 @@ ArchLabs
 Arch Linux
 Artix Linux
 Asahi Linux
-Asianux
 Astra Linux
 Asturix
-Asynchronous I/O
 Austrumi Linux
-BEA Systems
 BLAG Linux and GNU
 BackBox
 BackTrack
-Berkeley DB
-Berry Linux
 Bharat Operating System Solutions
 BioSLAX
 BlackArch
 Black Lab Linux
 BlankOn Linux
 Bodhi Linux
-Btrfs
 CHAOS (operating system)
 CRUX
 Calculate Linux
@@ -41,13 +31,10 @@ Caldera OpenLinux
 CalyxOS
 CentOS
 CentOS Stream
-Cerner
 Chakra (operating system)
 Chimera Linux
 ChromeOS
 ChromiumOS
-Cisco
-Cisco Unified Computing System
 ClearOS
 Clear Linux OS
 ColorOS
@@ -60,7 +47,6 @@ CrDroid
 CrunchBang Linux
 Cub Linux
 CyanogenMod
-DTrace
 Damn Small Linux
 Damn Vulnerable Linux
 Debian
@@ -68,9 +54,7 @@ Deepin
 Dell
 DemoLinux
 Devuan
-DistroWatch
 DivestOS
-Donald L. Lucas
 DoudouLinux
 Dreamlinux
 EMUI
@@ -80,23 +64,17 @@ Elive
 Emmabuntüs
 EndeavourOS
 Endless OS
-Essbase
 EulerOS
 Familiar Linux
 Feather Linux
 Fedora Linux
-Fermi Linux
 Fire OS
 Firefox OS
 Floppyfw
 Foresight Linux
-Free and open-source software
 FreedomBox
 Freespire
 Frugalware Linux
-Fuduntu
-GNOME
-GNU GPL
 GNU General Public License
 GNU Guix System
 GNewSense
@@ -104,39 +82,16 @@ GOS (operating system)
 Garuda Linux
 GeckoLinux
 Gentoo Linux
-GlassFish
 GoboLinux
 Gobuntu
-Google LLC v. Oracle America, Inc.
 GrapheneOS
-H. Raymond Bingham
 HandyLinux
-Hewlett-Packard
-HotSpot (virtual machine)
-Hyperbola GNU/Linux-libre
-Hyperion Solutions
-Héctor García-Molina
-IA-32
 IBM
 ISBN (identifier)
-Image Packaging System
 Immunix
-InfiniBand
-InnoDB
-Inspur K-UX
-Intel Xeon
 IodéOS
-JD Edwards
-JDeveloper
-Jack Kemp
 Java (programming language)
-Java (software platform)
-Java Desktop System
-Jeffrey Berg
-Jeffrey O. Henley
-Joseph Grundfest
 Jurix
-KDE
 KDE neon
 KaOS
 KaiOS
@@ -144,18 +99,13 @@ Kaisen Linux
 Kali Linux
 Kanotix
 KateOS
-Kernel-based Virtual Machine
 Kernel (operating system)
 Knoppix
 Kongoni (operating system)
-Koozali SME Server
 Korora (operating system)
-Ksplice
 Kubuntu
 Kwort Linux
 LXLE Linux
-Larry Ellison
-Lenovo
 Libranet
 LinHES
 LineageOS
@@ -170,8 +120,6 @@ Linux distribution
 Linux for PlayStation 2
 Linux kernel
 List of Linux distributions
-List of acquisitions by Oracle
-List of commercial products based on Red Hat Enterprise Linux
 Lubuntu
 MCC Interim Linux
 MIUI
@@ -180,78 +128,35 @@ Mageia
 Mandrake Linux
 Mandriva Linux
 Manjaro
-Mark Hurd
-Maxine Virtual Machine
 MeeGo
-Memory (storage engine)
 Mer (software distribution)
-Michael Boskin
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Musix GNU+Linux
-MySQL
-Nashorn (JavaScript engine)
 NetBeans
-NetSuite
 Network Security Toolkit
 NimbleX
 Nitix
 NixOS
 Nobara Linux
-Non-Uniform Memory Access
 Nova (operating system)
-OCFS2
 OmniROM
 One UI
-Online transaction processing
 Open-source software
 OpenELEC
-OpenJDK
 OpenMandriva Lx
 OpenOffice.org
 OpenSUSE
-OpenSolaris
-OpenStack
 Open Enterprise Server
-Oracle Application Express
-Oracle Applications
-Oracle Big Data Appliance
-Oracle Certification Program
-Oracle Cloud
-Oracle Coherence
-Oracle Corporation
-Oracle Database
-Oracle Database Appliance
-Oracle Developer Studio
-Oracle E-Business Suite
-Oracle Exadata
-Oracle Exalogic
-Oracle Forms
-Oracle Fusion Middleware
-Oracle Grid Engine
-Oracle NoSQL Database
-Oracle Rdb
-Oracle SOA Suite
-Oracle SQL Developer
-Oracle Solaris
-Oracle VM Server for x86
-Oracle WebCenter
-Oracle WebLogic Server
 PCLinuxOS
-PL/SQL
-PackageKit
 Package manager
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
 Pentoo
-PeopleSoft
 Peppermint OS
 Pinguy OS
 PixelExperience
-Planet CCRMA
 Platypux
 Pop! OS
 Porteus (operating system)
@@ -261,43 +166,29 @@ PureOS
 Q4OS
 Qubes OS
 ROSA Linux
-RPM Package Manager
 Raspberry Pi OS
-RedSleeve
-Red Flag Linux
 Red Hat Enterprise Linux
-Red Hat Enterprise Linux derivatives
 Red Hat Linux
 Red Star OS
-Reliable Datagram Sockets
 Remix OS
 Replicant (operating system)
 Resurrection Remix OS
-RightNow Technologies
 Rocks Cluster Distribution
 Rocky Linux
 SPARC
-SPARC Enterprise
-SPARC T-Series
-SPARC T4
-SPARC T5
-SPEC
 SUSE Linux
 SUSE Linux Enterprise
 SUSE Studio
 Sabayon Linux
 Sabily
-Safra Catz
 Sailfish OS
 Salix OS
 Scientific Linux
-Siebel Systems
 Slackware
 Slax
 Softlanding Linux System
 Software license
 Software release life cycle
-Solaris (operating system)
 Solid-state drive
 Solus (operating system)
 SolydXK
@@ -306,24 +197,18 @@ Source code
 SparkyLinux
 Splashtop OS
 SteamOS
-Storage Technology Corporation
-Sun Fire
 Sun Microsystems
-Sunopsis
 Sunwah Linux
 SystemRescue
 T2 SDE
 Tails (operating system)
 Think Blue Linux
-TimesTen
 Tiny Core Linux
 Tizen
 TopologiLinux
-Transaction Processing Performance Council
 Trisquel
 Turbolinux
 Turkix
-Tuxedo (software)
 Ubuntu
 Ubuntu Budgie
 Ubuntu Cinnamon
@@ -335,23 +220,15 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 User interface
 VectorLinux
 Vine Linux
-VirtualBox
-Virtual Iron
-VisualVM
 Void Linux
 Whonix
-Windows Azure
 Wubuntu
-X86-64
 XB Machine
 Xubuntu
 Yellow Dog Linux
-Yellowdog Updater, Modified
 YouTube video (identifier)
 Zenwalk
 Zorin OS

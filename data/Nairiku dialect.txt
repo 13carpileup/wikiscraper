@@ -10,12 +10,10 @@ Bingo dialect
 Bonin English
 Braille kanji
 Chikuzen dialect
-Chūgoku dialect
 Classical Japanese
 Cyrillization of Japanese
 Early Middle Japanese
 Early Modern Japanese
-Eastern Japanese
 Eastern Old Japanese
 Enclosed CJK Letters and Months
 Enclosed Ideographic Supplement
@@ -23,11 +21,9 @@ Engrish
 Extended Unix Code
 Extended shinjitai
 Furigana
-Gairaigo
 Gender differences in Japanese
 Glossary of Japanese words of Dutch origin
 Glossary of Japanese words of Portuguese origin
-Glottolog
 Go-on
 Gojūon
 Gunma dialect
@@ -43,10 +39,7 @@ Hiragana
 Hiragana (Unicode block)
 Historical kana orthography
 Hokkaido dialects
-Hokuriku dialect
 Honorific speech in Japanese
-Hōnichi dialect
-ISO/IEC 2022
 ISO 639-3
 Ibaraki dialect
 Inshū dialect
@@ -61,7 +54,6 @@ Japan
 Japanese-based creole languages
 Japanese Braille
 Japanese adjectives
-Japanese books
 Japanese counter word
 Japanese dialects
 Japanese dictionary
@@ -82,7 +74,6 @@ Japanese pronouns
 Japanese punctuation
 Japanese script reform
 Japanese sound symbolism
-Japanese verb conjugation
 Japanese writing system
 Japonic languages
 Jōdai Tokushu Kanazukai
@@ -99,7 +90,6 @@ Kanazukai
 Kanbun
 Kanji
 Kansai dialect
-Kantō dialect
 Katakana
 Katakana (Unicode block)
 Katakana Phonetic Extensions
@@ -111,12 +101,10 @@ Kumamoto dialect
 Kunigami language
 Kunrei-shiki romanization
 Kyowa-go
-Language family
 Late Middle Japanese
 List of Japanese speculative fiction writers
 List of Japanese writers
 List of classical Japanese texts
-List of kanji by stroke count
 List of kanji radicals by frequency
 List of kanji radicals by stroke count
 Logogram
@@ -125,7 +113,6 @@ Mikawa dialect
 Mino dialect
 Miyakoan language
 Modern kana usage
-Mogami, Yamagata
 Nagaoka dialect
 Nagasaki dialect
 Nagoya dialect
@@ -137,7 +124,6 @@ Northern Ryukyuan languages
 Nyōbō kotoba
 Okinawan Japanese
 Okinawan language
-Okinoerabu language
 Okurigana
 Okuyoshino dialect
 Old Japanese
@@ -151,7 +137,6 @@ Saga dialect
 Sanuki dialect
 Shift JIS
 Shikoku dialect
-Shinjō, Yamagata
 Shizuoka dialect
 Sino-Japanese vocabulary
 Small Kana Extension
@@ -170,16 +155,12 @@ Tsugaru dialect
 Tsushima dialect
 Tō-on
 Tōhoku dialect
-Tōkai–Tōsan dialect
 Umpaku dialect
 Wasei-eigo
 Wasei-kango
 Wāpuro rōmaji
 Yaeyama language
 Yakuwarigo
-Yamagata (city)
-Yamagata Prefecture
-Yamato kotoba
 Yilan Creole Japanese
 Yokohama Pidgin Japanese
 Yonaguni language

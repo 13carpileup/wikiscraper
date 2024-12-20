@@ -1,7 +1,6 @@
 ACM Computing Classification System
 Abstract logic
 Ackermann set theory
-Agda (programming language)
 Aleph number
 Alfred North Whitehead
 Algebraic logic
@@ -9,61 +8,45 @@ Algebraic topology
 Algorithm
 Algorithm design
 Algorithmic efficiency
-Alonzo Church
 Alphabet (formal languages)
 Alternative semantics
 Ambiguity
 Analysis of algorithms
-Anaphora (linguistics)
-And (logic)
 Anonymous function
 Antecedent-contained deletion
 Application security
 ArXiv (identifier)
 Argument
-Argument of a function
 Arity
 Artificial intelligence
 Atomic formula
 Atomic sentence
 Automata theory
 Automated planning and scheduling
-Automated proof checking
 Automated theorem proving
-Automath
 Autonomy of syntax
 Axiom
 Axiom of choice
 Axiom of reducibility
 Axiom schema
 Axiomatic system
-Axiomatization of Boolean algebras
-BHK interpretation
 Banach–Tarski paradox
 Bertrand Russell
 Bijection
 Binary operation
 Binding (linguistics)
-Boolean Logic
 Boolean algebra
 Boolean algebra (structure)
 Boolean algebras canonically defined
 Boolean function
 Brouwer–Heyting–Kolmogorov interpretation
-C-monoid
-Calculus of constructions
-Call/cc
-Canonicity (type theory)
 Cantor's diagonal argument
 Cantor's paradox
 Cantor's theorem
 Cardinality
-Cartesian closed category
 Cartesian product
 Cataphora
 Categorial grammar
-Categorical logic
-Categorical semantics
 Categorical theory
 Category (mathematics)
 Category of sets
@@ -76,7 +59,6 @@ Codomain
 Coercion (linguistics)
 Cognitive semantics
 Combinatory categorial grammar
-Combinatory logic
 Compactness theorem
 Compiler
 Compiler construction
@@ -112,35 +94,25 @@ Computing platform
 Concrete category
 Concurrency (computer science)
 Concurrent computing
-Conditional operator
 Conditional sentence
 Conservative extension
 Conservativity
 Consistency
 Constructible universe
 Construction of the real numbers
-Constructive mathematics
 Constructive set theory
-Constructivism (mathematics)
-Constructor (programming)
-Context set
 Continuation
 Continuum hypothesis
 Control theory
 Control variable (programming)
 Conversational scoreboard
-Coq (software)
 Countable set
-Counterfactuals
 Cross-validation (statistics)
 Crossover effects
 Cryptography
-Cubical type theory
 Cumulativity (linguistics)
 Curry–Howard correspondence
-Curry–Howard isomorphism
 Cyberwarfare
-Dana Scott
 Data mining
 Database
 De dicto and de re
@@ -148,23 +120,18 @@ De se
 Decidability (logic)
 Decision problem
 Decision support system
-Deduction system
-Deductive system
 Definiteness
 Denotation
 Deontic modality
 Dependability
 Dependent type
 Diagram (mathematical logic)
-Dialogue systems
 Digital art
 Digital library
 Digital marketing
 Discourse relation
 Discourse representation theory
 Discrete mathematics
-Disjoint union
-Disjunction
 Distributed artificial intelligence
 Distributed computing
 Distributional semantics
@@ -172,9 +139,7 @@ Document management system
 Doi (identifier)
 Domain-specific language
 Domain of a function
-Donkey anaphora
 Dot product
-Double bind
 Double negation
 Downward entailing
 Dynamic semantics
@@ -184,29 +149,23 @@ Electronic design automation
 Electronic publishing
 Electronic voting
 Element (mathematics)
-Elementary Theory of the Category of Sets
 Elementary diagram
 Elementary equivalence
 Elementary function arithmetic
 Embedded system
 Empty set
-Empty type
-Entailment
 Enterprise information system
 Enterprise software
 Enumeration
 Epistemic modality
-Equality (mathematics)
 Equiconsistency
 Equivalence relation
 Euclid's Elements
 Euclidean geometry
 Evidentiality
 Exhaustivity
-Existential closure
 Existential quantification
 Expression (mathematics)
-Expressive power (computer science)
 Extension (semantics)
 Extension by definitions
 Extension by new constant and function names
@@ -220,15 +179,11 @@ First-order logic
 Fixed-point logic
 Focus (linguistics)
 Forcing (mathematics)
-Form (architecture)
 Form factor (design)
 Formal grammar
 Formal language
-Formal logic
 Formal methods
 Formal proof
-Formal semantics (linguistics)
-Formal semantics (logic)
 Formal semantics (natural language)
 Formal system
 Formation rule
@@ -246,7 +201,6 @@ General set theory
 Generalized quantifier
 Generative grammar
 Geographic information system
-Girard's paradox
 Givenness
 Glue semantics
 Gottlob Frege
@@ -255,43 +209,32 @@ Green computing
 Gregory Bateson
 Grothendieck universe
 Ground expression
-Ground formula
 Gödel's completeness theorem
 Gödel's incompleteness theorems
 Gödel numbering
-HOL (proof assistant)
 Halting problem
 Hardware acceleration
 Hardware security
 Hdl (identifier)
 Health informatics
-Henk Barendregt
 Hereditary set
 Higher-order logic
 Hilbert's axioms
 Hilbert system
 History of logic
-History of mathematical logic
 History of type theory
-Homogeneity (linguistics)
-Homotopy
 Homotopy type theory
 Human–computer interaction
 Hurford disjunction
 ISBN (identifier)
 ISSN (identifier)
-Identity type
 Image (mathematics)
 Image compression
 Inaccessible cardinal
 Inalienable possession
 Independence (mathematical logic)
 Indexicality
-Indicator function
-Induction-induction
-Induction-recursion
 Inference
-Inferentialism
 Infinite-valued logic
 Infinite set
 Information retrieval
@@ -308,45 +251,24 @@ Intensional logic
 Interaction design
 Interpretation (logic)
 Interpretation (model theory)
-Interpretation function
 Interpreter (computing)
-Intersection
 Intersection (set theory)
 Intersective modifier
-Intrinsic and extrinsic properties
 Intrusion detection system
 Intuitionistic logic
 Intuitionistic type theory
-Isabelle (proof assistant)
 Isomorphism
-J. Roger Hindley
 JSTOR (identifier)
-John Lane Bell
-Jon Barwise
-Journal of Functional Programming
-Judgment (mathematical logic)
-Julia (programming language)
-Kleene–Rosser paradox
 Knowledge representation and reasoning
 Kolmogorov complexity
-Kripke's theory of truth
 Kripke–Platek set theory
-LEGO (proof assistant)
 Lambda calculus
-Lambda cube
-Lambek
 Large cardinal
-Law of excluded middle
-Lean (proof assistant)
-Left associative
 Lemma (mathematics)
 Lexical semantics
 Library (computing)
 Lindström's theorem
-Linguistic modality
 Linguistics wars
-List (abstract data type)
-List of Hilbert systems
 List of axioms
 List of computer size categories
 List of first-order theories
@@ -354,9 +276,7 @@ List of formal systems
 List of mathematical theories
 List of set identities and relations
 List of statements independent of ZFC
-Locally cartesian closed category
 Logic
-Logic for Computable Functions
 Logic in computer science
 Logic translation
 Logical biconditional
@@ -368,17 +288,13 @@ Logical disjunction
 Logical equality
 Logical equivalence
 Logical form (linguistics)
-Logical framework
-Logical or
 Logical truth
 Logicism
 Logophoricity
 Löwenheim–Skolem theorem
-ML (programming language)
 Machine learning
 Many-valued logic
 Map (mathematics)
-Martin-Löf type theory
 Material conditional
 Mathematical analysis
 Mathematical logic
@@ -386,22 +302,17 @@ Mathematical object
 Mathematical optimization
 Mathematical software
 Mathematics
-Matita
-Meaning postulate
 Mereology
 Metalanguage
-Metavariable
 Middleware
 Minimal axioms for Boolean algebra
 Mirativity
 Mixed reality
-Mizar system
 Modal subordination
 Model complete theory
 Model of computation
 Model theory
 Modeling language
-Mogensen–Scott encoding
 Monad (functional programming)
 Monadic predicate calculus
 Monadic second-order logic
@@ -411,14 +322,11 @@ Multi-task learning
 Multimedia database
 Multiprocessing
 Multithreading (computer architecture)
-NLab
 NP (complexity)
-Naive Set Theory (book)
 Naive set theory
 Natural deduction
 Natural language
 Natural language processing
-Natural number
 Negation
 Network architecture
 Network performance
@@ -432,9 +340,6 @@ Non-Euclidean geometry
 Non-logical symbol
 Non-standard model
 Non-standard model of arithmetic
-Normal form (abstract rewriting)
-Not (logic)
-NuPRL
 Numerical analysis
 Opaque context
 Open-source software
@@ -442,25 +347,15 @@ Open formula
 Operating system
 Operation (mathematics)
 Operations research
-Operator associativity
-Or (logic)
-Order of operations
-Ordered pair
 Ordinal analysis
 Ordinal number
 Outline of computer science
 P (complexity)
 P versus NP problem
-Paradox
 Paradoxes of set theory
 Parallel computing
-Parameter
-Parametricity
 Partition of a set
-Paul Halmos
-Peano arithmetic
 Peano axioms
-Per Martin-Löf
 Performative utterance
 Peripheral
 Philosophy of artificial intelligence
@@ -473,9 +368,7 @@ Possible world
 Power set
 Pragmatics
 Predicate (mathematical logic)
-Predicate logic
 Predicate variable
-Pregroup grammar
 Presupposition
 Primitive recursive arithmetic
 Primitive recursive function
@@ -486,15 +379,11 @@ Privative adjective
 Probability
 Process control
 Processor (computing)
-Program synthesis
 Programming language
 Programming language theory
 Programming paradigm
 Programming team
 Programming tool
-Proof assistant
-Proof by contradiction
 Proof of impossibility
 Proof theory
 Proposition
-Propositional attitudes

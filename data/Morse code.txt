@@ -1,27 +1,20 @@
 0 (number)
-160-meter band
 1829 braille
 1 (number)
-2200-meter band
 2 (number)
 3 (number)
-40-meter band
 4 (number)
-500 kHz
 5 (number)
-630-meter band
 6 (number)
 7 (number)
 8 (number)
 9 (number)
 A
 ABICOMP character set
-ACP 131
 ANSEL
 ANSI escape code
 ARIB STD B24 character set
 ARPANET
-ARRL
 ASCII
 ASLwrite
 ASMO 449
@@ -32,42 +25,27 @@ Abugida
 Accessible publishing
 Adinkra symbols
 Adlam script
-Aeronautical chart
 Afaka syllabary
 Ahom script
-Airship
-Akkadian cuneiform
 Albanian Braille
-Aldis lamp
 Alexander Graham Bell
 Alexander Stepanovich Popov
 Alfred Vail
 Algerian Braille
 Almon Brown Strowger
 Alphabet
-Amateur radio
-Amateur radio frequency allocations
-Amateur radio operators
-Amateur radio repeater
-America (airship)
 American Braille
-American Morse Code
-American Morse code
 American Printing House for the Blind
-American Radio Relay League
 Amos Dolbear
 Ampersand
-Amstrad CP/M Plus character set
 Amstrad CPC character set
 Anatolian hieroglyphs
 Ancient North Arabian
 Ancient South Arabian script
 Anglo-Saxon runes
 Antonio Meucci
-Apostrophe (punctuation)
 Apple II character set
 Arabic Braille
-Arabic numerals
 Arabic script
 Aramaic alphabet
 Archaic Greek alphabets
@@ -75,19 +53,11 @@ Ariyaka script
 ArmSCII
 Armenian Braille
 Armenian alphabet
-Asheville, North Carolina
-Asomtavruli
-Assistive technology
-Assyrian cuneiform
 Atari ST character set
 Attic numerals
 Audio coding format
-Automatic Transmitter Identification System (television)
 Avestan alphabet
-Aviation
-Aviator
 Avoiuli
-Azeri Braille
 Aztec script
 B
 BCD (character encoding)
@@ -96,12 +66,10 @@ Bagam script
 Balinese script
 Bamum script
 Bandwidth (computing)
-Bassa Vah script
 Batak script
 Baudot code
 Baybayin
 Beacon
-Belarus
 Belarusian Braille
 Belgium
 Beneventan script
@@ -114,19 +82,14 @@ Bhattiprolu script
 Bhujimol script
 Big5
 Binary Ordered Compression for Unicode
-Binary search
 Bird-worm seal script
-Bit
 Bitstream International Character Set
 Blackfoot language
 Blackletter
 Blissymbols
-Blitzkrieg
 Bob Kahn
-Book Pahlavi
 Bopomofo
 Bosnian Cyrillic
-Bowen script
 Boy Scouts of America
 Boyd's syllabic shorthand
 BraSCII
@@ -146,7 +109,6 @@ Braille music
 Braille technology
 Braille translator
 Braille watch
-British Army
 Buda script
 Buhid script
 Bulgarian Braille
@@ -161,7 +123,6 @@ CDC display code
 CER-GS
 CESU-8
 CNS 11643
-CQD
 CSX+ Indic character set
 CSX Indic character set
 CS Indic character set
@@ -170,24 +131,19 @@ CYCLADES
 Cable protection system
 Cable television
 Call sign
-Cambridge Companions to Music
 Camille Tissot
 Canadian Aboriginal syllabics
 Canadian currency tactile feature
 Cantonese Braille
 Carian alphabets
-Carl August von Steinheil
 Carl Friedrich Gauss
 Carolingian minuscule
 Carrier syllabics
-Carrier wave
 Casio calculator character sets
 Catalan Braille
 Caucasian Albanian script
-Cayo Largo del Sur
 Cellular network
 Celtiberian script
-Ch (digraph)
 Chakma script
 Cham script
 Character encoding
@@ -232,17 +188,10 @@ Code page 1019
 Code page 1020
 Code page 1021
 Code page 1023
-Code page 1034
 Code page 1040
 Code page 1042
 Code page 1043
-Code page 1044
 Code page 1046
-Code page 1052
-Code page 1053
-Code page 1054
-Code page 1055
-Code page 1056
 Code page 1058
 Code page 1098
 Code page 1101
@@ -281,7 +230,6 @@ Code page 853
 Code page 855
 Code page 856
 Code page 857
-Code page 858
 Code page 859
 Code page 860
 Code page 861
@@ -298,7 +246,6 @@ Code page 896
 Code page 897
 Code page 899
 Code page 903
-Code page 904
 Code page 912
 Code page 915
 Code page 921
@@ -314,7 +261,6 @@ Code page 951
 Coelbren y Beirdd
 Colon (punctuation)
 Comma (punctuation)
-Commercial at
 Communication protocol
 Communications protocol
 Communications satellite
@@ -326,15 +272,11 @@ Continuous wave
 Control character
 Cooke and Wheatstone telegraph
 Coorgi–Cox alphabet
-Coptic alphabet
 Cork encoding
 Cretan hieroglyphs
 Cuneiform
-Cuneiform Luwian
-Curlie
 Currency symbol
 Cursive Hebrew
-Cuxhaven
 Cypriot syllabary
 Cypro-Minoan syllabary
 Cyrillic alphabets
@@ -349,17 +291,12 @@ DG International
 DIN 66003
 DIN 91379
 DKOI
-DXing
-D with stroke
 Dalecarlian runes
-Damped wave (radio transmission)
 Daniel Davis Jr.
 Data communication
 Data compression
-David Kahn (writer)
 Dawon Kahng
 Decapoint
-Delimiter
 Demotic (Egyptian)
 Deseret alphabet
 Devanagari
@@ -367,7 +304,6 @@ Devanagari Braille
 Dham script
 Dhives Akuru
 Diacritic
-Dichotomic search
 Digital Equipment Corporation
 Digital encoding of APL symbols
 Digital media
@@ -395,13 +331,9 @@ Edholm's law
 Edwin Howard Armstrong
 Egyptian hieroglyphs
 Elamite cuneiform
-Elbasan script
 Elder Futhark
 Electric current
-Electrical
 Electrical telegraph
-Electrochemistry
-Electromagnet
 Electromagnetism
 Elifba alphabet
 Elisha Gray
@@ -409,11 +341,9 @@ Elymaic
 Email
 Emile Berliner
 Emoji
-Encrypted
 English Braille
 English language
 Enochian
-Entropy encoding
 Equal sign
 Erna Schneider Hoover
 Ersu Shaba script
@@ -421,16 +351,12 @@ Eskayan script
 Espanca script
 Esperanto Braille
 Estonian Braille
-Eth
 Ethernet
 Etruscan alphabet
-Evenki alphabet
-Eveyla Akuru
 Exclamation mark
 Extended Latin-8
 Extended Unix Code
 F
-FCC
 FOCAL character set
 Fakkham script
 Faroese Braille
@@ -449,10 +375,7 @@ Francis Blake (inventor)
 Fraser script
 Free-space optical communication
 French Braille
-French Navy
 Frequency-division multiplexing
-Frequency-shift keying
-Friedrich Clemens Gerke
 Full stop
 G
 GBK (character encoding)
@@ -461,36 +384,26 @@ GB 12345
 GB 18030
 GB 2312
 GEM character set
-GMDSS
 GOST 10859
 GSM 03.38
 Gabelsberger shorthand
-Gadabuursi Somali script
 Gaelic type
 Galaksija (computer)
 Galik alphabet
 Garay alphabet
-Gardiner Greene Hubbard
 Gardner–Salinas braille codes
-Ge'ez Braille
 Geba syllabary
 George Psalmanazar
 Georgian Braille
 Georgian scripts
-Gerke code
 German Braille
 German language
 Geʽez script
 Ghanaian braille
-Girl Guides
 Glagolitic script
-Global Maritime Distress and Safety System
-God Save the Queen
-Golmol script
 Gondi writing
 Gothic alphabet
 Gothic runic inscriptions
-Gotthard railway
 Goykanadi
 Grantha script
 Grapheme

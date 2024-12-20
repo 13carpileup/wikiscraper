@@ -10,7 +10,6 @@ Bingo dialect
 Bonin English
 Braille kanji
 Chikuzen dialect
-Chūgoku dialect
 Classical Japanese
 Cyrillization of Japanese
 Early Middle Japanese
@@ -22,11 +21,9 @@ Engrish
 Extended Unix Code
 Extended shinjitai
 Furigana
-Gairaigo
 Gender differences in Japanese
 Glossary of Japanese words of Dutch origin
 Glossary of Japanese words of Portuguese origin
-Glottolog
 Go-on
 Gojūon
 Gunma dialect
@@ -42,11 +39,7 @@ Hiragana
 Hiragana (Unicode block)
 Historical kana orthography
 Hokkaido dialects
-Hokuriku dialect
 Honorific speech in Japanese
-Hōnichi dialect
-IETF language tag
-ISO/IEC 2022
 ISO 639-3
 Ibaraki dialect
 Inshū dialect
@@ -61,9 +54,7 @@ Japan
 Japanese-based creole languages
 Japanese Braille
 Japanese adjectives
-Japanese books
 Japanese counter word
-Japanese dialect
 Japanese dialects
 Japanese dictionary
 Japanese godan and ichidan verbs
@@ -83,13 +74,10 @@ Japanese pronouns
 Japanese punctuation
 Japanese script reform
 Japanese sound symbolism
-Japanese verb conjugation
 Japanese writing system
 Japonic languages
 Jōdai Tokushu Kanazukai
 Kaga dialect
-Kagawa Prefecture
-Kagawa prefecture
 Kagoshima dialect
 Kan-on
 Kana
@@ -102,7 +90,6 @@ Kanazukai
 Kanbun
 Kanji
 Kansai dialect
-Kantō dialect
 Katakana
 Katakana (Unicode block)
 Katakana Phonetic Extensions
@@ -114,12 +101,10 @@ Kumamoto dialect
 Kunigami language
 Kunrei-shiki romanization
 Kyowa-go
-Language family
 Late Middle Japanese
 List of Japanese speculative fiction writers
 List of Japanese writers
 List of classical Japanese texts
-List of kanji by stroke count
 List of kanji radicals by frequency
 List of kanji radicals by stroke count
 Logogram
@@ -140,7 +125,6 @@ Northern Ryukyuan languages
 Nyōbō kotoba
 Okinawan Japanese
 Okinawan language
-Okinoerabu language
 Okurigana
 Okuyoshino dialect
 Old Japanese
@@ -152,7 +136,6 @@ Ryakuji
 Ryukyuan languages
 Saga dialect
 Shift JIS
-Shikoku
 Shikoku dialect
 Shizuoka dialect
 Sino-Japanese vocabulary
@@ -172,15 +155,12 @@ Tsugaru dialect
 Tsushima dialect
 Tō-on
 Tōhoku dialect
-Tōkai–Tōsan dialect
 Umpaku dialect
 Wasei-eigo
 Wasei-kango
-Western Japanese
 Wāpuro rōmaji
 Yaeyama language
 Yakuwarigo
-Yamato kotoba
 Yilan Creole Japanese
 Yokohama Pidgin Japanese
 Yonaguni language

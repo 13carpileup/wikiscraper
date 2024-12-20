@@ -1,75 +1,18 @@
-Adversary (online algorithm)
 Algorithm
-Algorithmic paradigm
-Algorithms for calculating variance
-Allan Borodin
 Array (data structure)
 Associative array
-Backtracking
-Bandit problem
-Binary search
-Binary search tree
 Breadth-first search
-Brute-force search
-Canadian Traveller Problem
-Competitive analysis (online algorithm)
 Computer science
 Data structure
-Depth-first search
-Divide-and-conquer algorithm
-Dynamic algorithm
 Dynamic programming
-Fenwick tree
-Fold (higher-order function)
 Graph (abstract data type)
 Graph traversal
-Greedy algorithm
-Hash function
-Hash table
-Heap (data structure)
 ISBN (identifier)
-Insertion sort
-Job shop scheduling
-K-server problem
 Linear search problem
 Linked list
-List of algorithms
-List of data structures
-List update problem
-Metrical task systems
-Minimax
-Odds algorithm
 Offline learning
-Online and offline
 Online machine learning
-Online optimization
 Operations research
-PSPACE-complete
-Page replacement algorithm
-Perceptron
-Prophet inequality
-Queue (abstract data type)
 Randomized algorithm
 Real-time computing
-Recursion (computer science)
-Reservoir sampling
-Root-finding algorithms
-Search games
-Secretary problem
-Segment tree
-Selection sort
-Sequential algorithm
-Shortest path problem
-Ski rental problem
-Sorting algorithm
-Sorting algorithms
-Stack (abstract data type)
-Straight-line grammar
-Streaming algorithm
-String-searching algorithm
 String (computer science)
-Sweep line algorithm
-Topological sorting
-Tree (data structure)
-Trie
-Ukkonen's algorithm

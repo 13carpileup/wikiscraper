@@ -1,205 +1,34 @@
-3D rendering
-ANIM
-ANI (file format)
-APNG
-ART image file format
-AVIF
-Adobe Illustrator
-Adobe Illustrator Artwork
-Adobe Photoshop
-Apple Icon Image format
 Astronomy
-AutoCAD DXF
-BMP file format
-BSAVE
-Bell Labs
-Better Portable Graphics
-Binary image
-Bitmap
-Bits per pixel
-CALS Raster file format
-CMYK
-CMYK color model
-CPT (file format)
-Camera Image File Format
-Cartesian Perceptual Compression
 Cathode-ray tube
-Channel (digital image)
-Charge-coupled device
-Cineon
-Color channel
-Color depth
-Color space
-Color vision
-Comparison of graphics file formats
-Comparison of raster graphics editors
-Computable Document Format
 Computer Graphics Metafile
-Computer art
-Computer display
 Computer graphics
-Computer monitor
-CorelDRAW
-Corel Painter
-Digital Negative
-Digital Picture Exchange
-Digital photography
-DirectDraw Surface
-Dither
-DjVu
 Doi (identifier)
-Dots per inch
-ECW (file format)
-EMF+
 Electromagnetic spectrum
-Electron beam
 Electronic publishing
-Electronic television
-Encapsulated PostScript
-Enhanced Metafile
-Exif
-Extensible Application Markup Language
-Extensible Metadata Platform
-FITS
-FLIC (file format)
-Field (geography)
-FlashPix
-Free Lossless Image Format
 Function composition
-GIF
-GIMP
 Geographic information system
-Geographic information systems
-Georeferencing
-Gerber format
 Graphic design
 Graphics processing unit
-Gray-scale
-Gridding
-HDRi (data format)
-Haiku Vector Icon Format
-Halftone
-High Efficiency Video Coding
-ICER (file format)
-ICO (file format)
-IGES
-ILBM
-Image Cytometry Standard
 Image compression
-Image file
-Image file format
-Image file formats
-Image resolution
-Image sensor
-Image tracing
-Inkjet printing
-Inkscape
-International Press Telecommunications Council
 JBIG
-JBIG2
-JPEG
-JPEG-HDR
 JPEG 2000
-JPEG Network Graphics
 JPEG XL
 JPEG XR
 JPEG XS
-JPEG XT
-Krita
-LZ77 and LZ78
-Laser printing
-Lempel–Ziv–Welch
-Level of measurement
-Line art
 Linear algebra
-Logluv TIFF
-Lookup table
-Lossless JPEG
-MODCA
-Magick Image File Format
-Magnetic resonance imaging
-Map projection
 Matrix (mathematics)
-Mechanical television
 Metadata
-Microsoft Paint
 Multiple-image Network Graphics
-Nearly raw raster data
-Netpbm
-OpenEXR
-OpenRaster
-Optical character recognition
-Overprinting
-PCX
 PDF
-PICT
-PICtor PIC image format
 PMID (identifier)
-PNG
-Paint.NET
-PaintShop Pro
-Palette (computing)
 Paper
 Pixel
-Pixel-art scaling algorithms
-Pixellation
-Pixels
-Pixels per inch
-Plane (geometry)
-Plotter
-Portable Network Graphics
-PostScript
-Precision Graphics Markup Language
-Prepress
 Printing
-Progressive Graphics File
-QOI (image format)
 QuickTime VR
-RGBE image format
-RGB color model
 Raster graphics editor
-Raster graphics file formats
-Raster image processor
-Raster scan
-Rasterisation
-Rastrum
-Raw image format
-Reflection (mathematics)
-Remote sensing
 Rendering (computer graphics)
-Run-length encoding
 S2CID (identifier)
-SWF
-Scalable Vector Graphics
-Silicon Graphics Image
-Smiley
-Steganography
-Sun Raster
-TIFF/EP
-Tag Image File Format
-Tessellation
-Text semigraphics
-Texture atlas
-Tints and shades
 Transpose
-Truevision TGA
-Typesetting
-Ulead PhotoImpact
-Vector Markup Language
-Vector graphics
-Vera C. Rubin Observatory
-Video monitor
 Visible spectrum
-Visual field
 Voxel
-WebP
-Windows Metafile
-Wireless Application Protocol Bitmap Format
 World Wide Web
-XCF (file format)
-X BitMap
-X PixMap
-Xar (graphics)
-Xfig
-Xwd
-Zip (file format)

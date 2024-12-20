@@ -1,12 +1,9 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
-ARM architecture
 AlmaLinux
 Alpine Linux
 Android-x86
 Android (operating system)
-Android application package
 Antergos
 AntiX
 ArchBang
@@ -41,7 +38,6 @@ ChromeOS
 ChromiumOS
 ClearOS
 Clear Linux OS
-Closed source
 ColorOS
 Commodore OS
 Comparison of Linux distributions
@@ -93,8 +89,6 @@ GoboLinux
 Gobuntu
 GrapheneOS
 HandyLinux
-Hyperbola GNU/Linux-libre
-IA-32
 Immunix
 IodéOS
 Java (programming language)
@@ -139,10 +133,8 @@ MeeGo
 Mer (software distribution)
 Miracle Linux
 Mobile app
-Mobile computing
 Mobilinux
 Monolithic kernel
-Musix GNU+Linux
 Natural language
 Network Security Toolkit
 NimbleX
@@ -161,20 +153,17 @@ Operating system
 Oracle Linux
 PCLinuxOS
 Package manager
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
 Pentoo
 Peppermint OS
-Personal Computer
 Personal computer
 Pinguy OS
 PixelExperience
 Platypux
 Pop! OS
 Porteus (operating system)
-Private company
 Programmer
 Programming language
 Puppy Linux
@@ -213,9 +202,7 @@ SteamOS
 Sunwah Linux
 SystemRescue
 T2 SDE
-Tablet computer
 Tails (operating system)
-The Inquirer
 Think Blue Linux
 Tiny Core Linux
 Tizen
@@ -234,7 +221,6 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Uruk GNU/Linux
 VectorLinux
 Vine Linux
 Void Linux
@@ -242,7 +228,6 @@ Wayback Machine
 Whonix
 Wubuntu
 X86
-X86-64
 XB Machine
 Xubuntu
 Yellow Dog Linux

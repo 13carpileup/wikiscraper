@@ -1,11 +1,5 @@
-/e/ (operating system)
 4MLinux
-AArch64
 ALT Linux
-ARM64
-AbiWord
-Accessibility Toolkit
-Adwaita (design language)
 AlmaLinux
 Alpine Linux
 Android-x86
@@ -13,54 +7,37 @@ Android (operating system)
 Anjuta
 Antergos
 AntiX
-AppStream
 ArchBang
 ArchLabs
 Arch Linux
-Archive Manager
 Ars Technica
 Artix Linux
 Asahi Linux
-Asianux
 Astra Linux
 Asturix
 Austrumi Linux
-Avant Window Navigator
 BLAG Linux and GNU
-BSD licenses
 BackBox
 BackTrack
-Balsa (email client)
-Banshee (media player)
-Bash (Unix shell)
-Benefit corporation
-Berry Linux
 Bharat Operating System Solutions
-Binary-code compatibility
 BioSLAX
 BlackArch
 Black Lab Linux
 BlankOn Linux
 Bodhi Linux
-Brasero (software)
 CHAOS (operating system)
 CRUX
-Cairo (graphics)
 Calculate Linux
 Caldera OpenLinux
 CalyxOS
-Cantarell (typeface)
 CentOS
 CentOS Stream
 Chakra (operating system)
 Chimera Linux
 ChromeOS
 ChromiumOS
-Cinnamon (software)
 ClearOS
 Clear Linux OS
-Clearlooks
-Client-Side Decoration
 ColorOS
 Commodore OS
 Comparison of Linux distributions
@@ -70,128 +47,51 @@ CrDroid
 CrunchBang Linux
 Cub Linux
 CyanogenMod
-D-Bus
-DNF (software)
 Damn Small Linux
 Damn Vulnerable Linux
-Dconf
 Debian
 Deepin
 DemoLinux
-Deployment environment
-Desktop computer
 Devuan
-Dia (software)
-Diodon (software)
-DistroWatch
 DivestOS
-Dnfdragora
 DoudouLinux
-Downstream (software development)
 Dreamlinux
 EMUI
 Edubuntu
-Ekiga
 Elementary OS
 Elive
 Emmabuntüs
-Empathy (software)
 EndeavourOS
 Endless OS
 EulerOS
-Evince
-F-Spot
 Familiar Linux
 Feather Linux
 Fedora Linux
-Fermi Linux
 Fire OS
 Firefox OS
-Flatpak
 Floppyfw
 Foresight Linux
-Freedesktop.org
 FreedomBox
 Freespire
 Frugalware Linux
-Fuduntu
-GDK
-GIMP
-GIO (software)
-GLib
-GNOME
-GNOME-DB
-GNOME Boxes
 GNOME Builder
-GNOME Calculator
-GNOME Calendar
-GNOME Character Map
-GNOME Chess
-GNOME Connections
-GNOME Core Applications
-GNOME Devhelp
-GNOME Dictionary
-GNOME Disks
-GNOME Display Manager
-GNOME Do
-GNOME Evolution
-GNOME Files
-GNOME Foundation
-GNOME Fractal
-GNOME Games
-GNOME Keyring
-GNOME LaTeX
-GNOME Mines
-GNOME Panel
-GNOME Shell
-GNOME Snapshot
 GNOME Software
-GNOME SoundConverter
-GNOME Terminal
-GNOME Text Editor
-GNOME Users And Developers European Conference
-GNOME Videos
-GNOME Web
 GNU Core Utilities
 GNU Guix System
 GNewSense
 GOS (operating system)
-GObject
 GParted
-GStreamer
-GTK
-GTK Scene Graph Kit
-GThumb
-GVfs
 Garuda Linux
-Gbrainy
 Geany
-Geary (e-mail client)
 GeckoLinux
-Gedit
-General availability
 Gentoo Linux
 GitHub
-Glade Interface Designer
-GnomeVFS
-Gnote
-Gnumeric
-Gobby
 GoboLinux
 Gobuntu
 GrapheneOS
-Gtranslator
 HandyLinux
-HarfBuzz
-Havoc Pennington
-Hyperbola GNU/Linux-libre
-IBM Z
 Immunix
-Inkscape
-Inspur K-UX
-Intelligent Input Bus
 IodéOS
-Jami (software)
 Jurix
 KDE neon
 KaOS
@@ -199,20 +99,15 @@ KaiOS
 Kaisen Linux
 Kali Linux
 Kanotix
-Karen Sandler
 KateOS
 Kernel (operating system)
 Knoppix
 Kongoni (operating system)
-Koozali SME Server
 Korora (operating system)
 Kubuntu
 Kwort Linux
 LXLE Linux
 Libranet
-Librsvg
-Libxml2
-Libxslt
 LinHES
 LineageOS
 Linpus Linux
@@ -225,14 +120,8 @@ Linux Router Project
 Linux distribution
 Linux for PlayStation 2
 Linux kernel
-Linux on IBM Z
-List of GTK applications
 List of Linux distributions
-Little-endian
-Loupe (software)
 Lubuntu
-Luis Villa
-MATE (software)
 MCC Interim Linux
 MIUI
 MX Linux
@@ -241,24 +130,16 @@ Mandrake Linux
 Mandriva Linux
 Manjaro
 MeeGo
-Meld (software)
 Mer (software distribution)
-Metacity
-Miguel de Icaza
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Musix GNU+Linux
-Mutter (software)
-Nemiver
-NetworkManager
 Network Security Toolkit
 NimbleX
 Nitix
 NixOS
 Nobara Linux
 Nova (operating system)
-OCRFeeder
 OmniROM
 One UI
 OpenELEC
@@ -266,53 +147,33 @@ OpenMandriva Lx
 OpenSUSE
 Open Enterprise Server
 Open source
-Optical disc image
 Oracle Linux
-Orca (assistive technology)
-Outreachy
 PCLinuxOS
-PackageKit
 Package manager
-Pango
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
 Pentoo
 Peppermint OS
 Pinguy OS
-Pitivi
 PixelExperience
-Planet CCRMA
 Platypux
 Pop! OS
-Poppler (software)
 Porteus (operating system)
-PowerPC
-Ppc64le
 Programmer
-PulseAudio
 Puppy Linux
 PureOS
-PyChess
 Q4OS
 Qubes OS
 ROSA Linux
-RPM Package Manager
 Raspberry Pi OS
-RedSleeve
-Red Flag Linux
 Red Hat
 Red Hat Enterprise Linux
 Red Hat Linux
 Red Star OS
-Release candidate
 Remix OS
 Replicant (operating system)
-Repository (version control)
-Reproducible builds
 Resurrection Remix OS
-Rhythmbox
 Rocks Cluster Distribution
 SUSE Linux
 SUSE Linux Enterprise
@@ -321,11 +182,8 @@ Sabayon Linux
 Sabily
 Sailfish OS
 Salix OS
-Scanner Access Now Easy
 Scientific Linux
-Seahorse (software)
 Server (computing)
-Shotwell (software)
 Slackware
 Slax
 Softlanding Linux System
@@ -333,26 +191,18 @@ Software license
 Software release life cycle
 Solus (operating system)
 SolydXK
-Sound Juicer
 Source Mage
 SparkyLinux
 Splashtop OS
 SteamOS
 Sunwah Linux
-Supercomputer
-Sushi (software)
 SystemRescue
 T2 SDE
 Tails (operating system)
-Tango Desktop Project
-The GNOME Project
 Think Blue Linux
-TinySPARQL
 Tiny Core Linux
 Tizen
-Tomboy (software)
 TopologiLinux
-Transmission (BitTorrent client)
 Trisquel
 Turbolinux
 Turkix
@@ -367,24 +217,17 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 User interface
 User space and kernel space
 Vala (programming language)
 VectorLinux
 Vine Linux
 Void Linux
-VzLinux
-Wayland (display server protocol)
 Whonix
 Wubuntu
-X.Org Server
-X86-64-v2
 XB Machine
 Xubuntu
 Yellow Dog Linux
-Yelp (software)
 ZDNet
 Zenwalk
 Zorin OS

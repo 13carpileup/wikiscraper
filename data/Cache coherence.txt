@@ -1,10 +1,8 @@
 API
-ARM Ltd
 Amdahl's law
 Analysis of parallel algorithms
 Application checkpointing
 ArXiv (identifier)
-Arm Ltd.
 Array (data structure)
 Asymmetric multiprocessing
 Ateji PX
@@ -12,15 +10,10 @@ Automatic parallelization
 Barrier (computer science)
 Beowulf cluster
 Bit-level parallelism
-Boost (C++ libraries)
 Bulldozer (microarchitecture)
-Bus sniffing
-Bus snooping
-C++ AMP
 CUDA
 Cache-only memory architecture
 Cache (computing)
-Cache coherency protocols (examples)
 Cache invalidation
 Central processing unit
 Chapel (programming language)
@@ -35,32 +28,25 @@ Computer multitasking
 Computer network
 Computer programming
 Concurrency (computer science)
-Consistency model
 Cost efficiency
 Data parallelism
 Dataflow architecture
 Dataflow programming
-David Patterson (scientist)
 Deadlock (computer science)
 Deterministic algorithm
-Directory-based cache coherence
-Directory-based coherence
 Distributed computing
 Distributed memory
 Distributed shared memory
 Doi (identifier)
-Dragon protocol
 Dryad (programming)
 Embarrassingly parallel
 Explicit parallelism
-False sharing
 Fiber (computer science)
 Firefly (cache coherence protocol)
 Flynn's taxonomy
 GPUOpen
 General-purpose computing on graphics processing units
 Global Arrays
-Granularity
 Grid computing
 Gustafson's law
 HPX
@@ -73,25 +59,13 @@ Implicit parallelism
 Instruction-level parallelism
 Instruction pipelining
 Instruction window
-John L. Hennessy
 Karp–Flatt metric
-Locality of reference
 Loop-level parallelism
-MERSI protocol
-MESIF protocol
-MESI protocol
-MOESI protocol
-MOSI protocol
-MSI protocol
 Manycore processor
 Massively parallel
 Memory-level parallelism
-Memory bandwidth
-Memory barrier
 Memory coherence
 Message Passing Interface
-Morgan Kaufmann
-Morgan and Claypool
 Multiple instruction, multiple data
 Multiple instruction, single data
 Multiprocessing
@@ -120,9 +94,7 @@ RaftLib
 S2CID (identifier)
 Scalability
 Semiconductor memory
-Sequential consistency
 Shared memory
-Shared memory architecture
 Simultaneous and heterogeneous multithreading
 Simultaneous multithreading
 Single instruction, multiple data
@@ -146,5 +118,3 @@ Unified Parallel C
 Uniform memory access
 Vector processor
 Wayback Machine
-Write-once (cache coherence)
-ZPL (programming language)

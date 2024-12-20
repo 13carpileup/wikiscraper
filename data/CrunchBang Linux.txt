@@ -1,20 +1,14 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
-APT (software)
-Advanced Packaging Tool
 AlmaLinux
 Alpine Linux
-Amd64
 Android-x86
 Android (operating system)
 Antergos
 AntiX
-Aptitude (software)
 ArchBang
 ArchLabs
 Arch Linux
-Archive.org
 Artix Linux
 Asahi Linux
 Astra Linux
@@ -23,15 +17,12 @@ Austrumi Linux
 BLAG Linux and GNU
 BackBox
 BackTrack
-Bdale Garbee
-Benjamin Mako Hill
 Bharat Operating System Solutions
 BioSLAX
 BlackArch
 Black Lab Linux
 BlankOn Linux
 Bodhi Linux
-Bruce Perens
 CHAOS (operating system)
 CRUX
 Calculate Linux
@@ -45,46 +36,28 @@ ChromeOS
 ChromiumOS
 ClearOS
 Clear Linux OS
-Code name
 ColorOS
 Commodore OS
 Comparison of Linux distributions
 Container Linux
 Corel Linux
 CrDroid
-Crunchbang
 Cub Linux
 CyanogenMod
 Damn Small Linux
 Damn Vulnerable Linux
-Deb (file format)
-Debbugs
 Debian
-Debian-Installer
-Debian Conference
-Debian Free Software Guidelines
-Debian GNU/Hurd
-Debian GNU/kFreeBSD
-Debian Pure Blend
-Debian Social Contract
-Debian configuration system
-Debian version history
-Debian–Mozilla trademark dispute
 Deepin
 DemoLinux
-Desktop environment
 Devuan
-DistroWatch
 DivestOS
 DoudouLinux
-Dpkg
 Dreamlinux
 EMUI
 Edubuntu
 Elementary OS
 Elive
 Emmabuntüs
-End-of-life (product)
 EndeavourOS
 Endless OS
 EulerOS
@@ -101,7 +74,6 @@ Frugalware Linux
 GNU Guix System
 GNewSense
 GOS (operating system)
-GTK+
 Garuda Linux
 GeckoLinux
 Gentoo Linux
@@ -110,14 +82,8 @@ GoboLinux
 Gobuntu
 GrapheneOS
 HandyLinux
-Hyperbola GNU/Linux-libre
-I486
-I686
-Ian Jackson
-Ian Murdock
 Immunix
 IodéOS
-Jonathan Oxer
 Jurix
 KDE neon
 KaOS
@@ -146,9 +112,7 @@ Linux Router Project
 Linux distribution
 Linux for PlayStation 2
 Linux kernel
-List of Debian project leaders
 List of Linux distributions
-List of Toy Story characters
 Lubuntu
 MCC Interim Linux
 MIUI
@@ -157,13 +121,10 @@ Mageia
 Mandrake Linux
 Mandriva Linux
 Manjaro
-Martin Michlmayr
 MeeGo
 Mer (software distribution)
 Miracle Linux
 Mobilinux
-Muppet Show
-Musix GNU+Linux
 Network Security Toolkit
 NimbleX
 Nitix
@@ -177,11 +138,9 @@ OpenELEC
 OpenMandriva Lx
 OpenSUSE
 Open Enterprise Server
-Openbox
 Oracle Linux
 PCLinuxOS
 Package manager
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
@@ -214,27 +173,18 @@ Sabayon Linux
 Sabily
 Sailfish OS
 Salix OS
-Sam Hocevar
 Scientific Linux
-Scott James Remnant
-Shebang (Unix)
 Slackware
 Slax
 Softlanding Linux System
-Software in the Public Interest
-Software life cycle
 Software release life cycle
 Software repository
-Software versioning
 Solus (operating system)
 SolydXK
 Source Mage
 SparkyLinux
 Splashtop OS
-Squeeze toy aliens
-Statler and Waldorf
 SteamOS
-Stefano Zacchiroli
 Sunwah Linux
 SystemRescue
 T2 SDE
@@ -257,8 +207,6 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 User (computing)
 User interface
 VectorLinux
@@ -266,9 +214,6 @@ Vine Linux
 Void Linux
 Wayback Machine
 Whonix
-Widget toolkit
-Win32-loader
-Window manager
 Wubuntu
 XB Machine
 Xubuntu

@@ -1,6 +1,5 @@
 Romanization of Georgian
 ISO 10006
-ISO/IEC 8859-2
 ISO 2015
 ISO metric screw thread
 ISO 3166
@@ -8,7 +7,6 @@ Kje
 Dzhe
 Romanization of Serbian
 ISO 26000
-ISO/IEC 15288
 ISO 639-1
 MPEG-A
 ISO 4165
@@ -17,51 +15,34 @@ El (Cyrillic)
 ISO 639
 ISO 31-3
 Che (Cyrillic)
-ISO 8373
 ISO 13485
 ISO 9660
-Paleosiberian languages
 ISO 5964
-ISO/IEC 8859-16
 ISO 15919
 Topic map
 Horsepower
 ISO 2014
-ISO/IEC 18014
 CHILL
 Sha (Cyrillic)
 ISO 10628
 Latin alphabet
-ISO/IEC 8859-9
 ISO 31-6
 Magnetic ink character recognition
 ISO 22301
 British Standard Pipe
-Short I
 ISO 3166-3
-ISO/IEC 10116
 List of ISO romanizations
 ISO 1629
 ISO 2
 ISO 31000
 ISO 10303-21
-Shcha (Cyrillic)
 O (Cyrillic)
-ISO 10
 Berber Latin alphabet
-ISO 9000
-ISO/IEC 8652
-Romanisation of Bengali
 Common Language Infrastructure
 ISO 9564
 Kunrei-shiki romanization
-ISO/IEC 11404
 ISO 31-11
-ISO/IEC 9797-1
-Romanization of Cyrillic
 ISO 7736
-Romanization of Bulgarian
-ISO/IEC 27002
 ISO 965
 MaxiCode
 ISO 10161
@@ -72,33 +53,26 @@ Ef (Cyrillic)
 ISO 15924
 ISO 11992
 ISO 5775
-ISO/IEC 14443
 ISO 21001
-ISO/IEC 7813
 ISO 128
 ISO 45001
 International Standard Atmosphere
 Equal-loudness contour
-ISO/IEC 19794-5
 ISO 26262
 ISO 14971
 PHIGS
 Advanced Video Coding
 Multibus
 Dotted I (Cyrillic)
-Romanisation of Telugu
 ISO 7002
 Je (Cyrillic)
 Dje
 Essential Video Coding
-ISO/IEC 17025
 ISO 13399
-GOST 16876-71
 ISO 999
 COLLADA
 ISO 10007
 ISO 16750
-ISO/IEC 4909
 Common Object Request Broker Architecture
 Photographic Activity Test
 Deutsches Institut für Normung
@@ -107,22 +81,14 @@ ISO 3103
 Standard Generalized Markup Language
 IATF 16949
 International Standard Text Code
-ISO 31-12
-Devanagari transliteration
 Full BASIC
-ISO/IEC 8859
-North Caucasian languages
 Romanization of Armenian
-ISO 19092-2
-Romanisation of Malayalam
 Motion JPEG 2000
 Business Process Model and Notation
 ISO 9241
 Romanization of Japanese
 Software maintenance
-List of ISO transliterations
 ISO 690
-ISO/IEC 8859-11
 Open Virtualization Format
 ISO 31-0
 135 film
@@ -133,40 +99,28 @@ Fiber Distributed Data Interface
 ISO 8601
 STEP-NC
 ISO 639-3
-ISO 2047
 List of IEC standards
 ISO 2848
 MPEG-4 Part 3
 ISO 25964
-Roman Urdu
 Shock-resistant watch
 ISO 11783
-ISO/IEC 11801
 ISO 6709
 Open Document Architecture
-ISO standard
-ISO 31-9
-ISO/IEC 8859-5
-ISO/IEC 27000-series
 Digital object identifier
 Pascal (programming language)
-ISO/IEC 8859-15
 Guidelines for the Definition of Managed Objects
-Romanization of Burmese
 COBOL
 Computer Graphics Metafile
-ISO/IEC 7064
 Market Identifier Code
 Ge (Cyrillic)
 ISO 14031
 ISO 8178
 ISO 20400
-Romanization of Khmer
 O-ring
 ISO 11940
 ISO 31-10
 ISO 898
-Romanization of Thai
 ISO 22000
 ISBN
 ISO 3166-1
@@ -175,9 +129,7 @@ ISO 19600
 ISO 56000
 ISO 14224
 Er (Cyrillic)
-Romanization of Macedonian
 Kha (Cyrillic)
-Ge with upturn
 Simple Features
 IS-IS
 International Standard Name Identifier
@@ -189,14 +141,10 @@ ISO 31-8
 Knowledge Discovery Metamodel
 FDI World Dental Federation notation
 E (Cyrillic)
-Romanization of Kyrgyz
 Renard series
 QR code
 Hole punch
-ISO/IEC 646
-PDF/A
 Quality function deployment
-ISO/IEC 38500
 Dze
 Bulgarian language
 ANSI C
@@ -207,38 +155,28 @@ International Standard Musical Work Code
 ISO 216
 ISO 4157
 Gje
-Romanization of Greek
 ISO 19114
 POSIX
 LCEVC
 ISO 3977
 ISO 9897
-ISO/IEC 27001
 Mixed raster content
 ISO 15189
 ISO 14617
 Be (Cyrillic)
 ANSI escape code
 RM-ODP
-Romanization
-Romanization of Lao
-ALA-LC romanization
 ASMO 449
 International Securities Identification Number
 ISO 20121
 Meta-Object Facility
-OSI model
 Pinyin
 Soft sign
 Power take-off
-ISO/IEC 6523
-Romanization of Arabic
 ISO 8583
 Tshe
-Perl module
 Document Style Semantics and Specification Language
 ISO 3166-2
-Phonemic
 Tse (Cyrillic)
 ISO 7200
 ISO 15926 WIP
@@ -246,11 +184,8 @@ ECMAScript
 ISO 2921
 Ruby (programming language)
 ALGOL 60
-TIFF/EP
-PDF/X
 Nje
 Antimagnetic watch
-Kazakh alphabets
 ISO 10160
 ISO 8000
 ISO 5776
@@ -262,72 +197,43 @@ ISO 2033
 110 film
 Shoe size
 ISO 732
-ISO/IEC 15504
-Romanisation of Maldivian
 ISO 25178
 Flowchart
 ISO 639-2
 Common Criteria
 JPIP
-ISO/IEC 8859-6
 MPEG-D
 ISO 3864
-Big yus
-ISO/IEC 17024
 En (Cyrillic)
 On-board diagnostics
-ISO/IEC 15693
 OCR-B
 International Standard Audiovisual Number
-ISO/IEC 9126
-ISO/IEC 5218
 Longitudinal redundancy check
 ISO 2788
-ISO/IEC 27005
-ISO/IEC 42010
-Romanization of Hebrew
-ISO/IEC 14651
-Romanization of Korean
-British Standards
-Scientific transliteration of Cyrillic
 I (Cyrillic)
 OCR-A
-Romanization of Persian
-Romanization of Belarusian
 Process Specification Language
 Lje
-Romanization of Chinese
 Manufacturing Message Specification
 Linux Standard Base
 ISO 2145
 ISO 20022
 PDF
 ISO 28000
-International Standard Serial Number
-ISO 12006
 ISO 843
 ISO 6346
 RELAX NG
 ISO 15022
 A440 (pitch standard)
-ISO 14000
-ISO/IEC 8859-13
 Geʽez script
-ISO/IEC 7810
 MPEG-21
-ISO/IEC 8859-1
 ISO 860
-ISO/IEC 12207
 ISO 13406-2
-ISO/IEC 7816
 ISO 6344
 Torx
 Apostrophe
 ISO 31-7
 SQL
-Combining diacritical marks
-Language Of Temporal Ordering Specification
-ISO/IEC 8859-8
 Short U (Cyrillic)
 JPEG XS
 Isofix
@@ -339,79 +245,53 @@ MPEG-4 Part 11
 Iranian languages
 ISO 1
 ISO 10962
-Tibetan script
 Hot shoe
-ISO/IEC 7812
 ISO 5427
 ISO 13490
 International Bank Account Number
 ECMAScript for XML
 International Organization for Standardization
 ISO 31-1
-ISO/IEC 80000
 ISO 704
 MPEG-2
 Trusted Platform Module
 Es (Cyrillic)
-Romance languages
 ISO 6438
 EXPRESS (data modeling language)
 ISO 37001
 ISO 19011
 ISO 5426
-ISO/IEC 15897
 A (Cyrillic)
-ISO/IEC 10967
 ISO 657
-ISO/IEC 8859-12
-Romanization of Russian
 C++
 ISO 5428
 ISO 13567
 126 film
 International Standard Music Number
 OpenDocument
-ISO/IEC 9995
 ISO 4217
 Em (Cyrillic)
-ISO/IEC 8859-14
 Te (Cyrillic)
 Delivery Multimedia Integration Framework
-Hans Wellisch
 ISO 10303-22
 ISO 259
 ISO 10218
-Inuktitut syllabics
-Romanization of Ukrainian
 Open Data Protocol
 ISO base media file format
-Chinese language romanization in Taiwan
-ISO/TR 11941
-Mongolic languages
-ISO/IEC 27000
 Prontor-Compur
-ISO/IEC 9529
 JBIG
 MicroPDF417
-ISO 7027
 ISO 10303
-Transliteration
 Fita
-CAN bus
 Ka (Cyrillic)
 ISO 21500
-ISO/IEC 19752
 ISO 2146
 ISO 639-6
 ISO 15926
-PDF/E
 Geospatial metadata
-PDF/UA
 ISO 639-5
-GOST
 Ada Semantic Interface Specification
 ISO 668
-ISO/IEC 8859-10
 International Standard Recording Code
 ISO 6943
 ArmSCII
@@ -425,27 +305,19 @@ ISO 233
 De (Cyrillic)
 Slavic languages
 ISO 8501-1
-ISO/IEC 8859-4
 Syriac alphabet
 MPEG-H
 ISO 22395
-BGN/PCGN romanization
 MP4 file format
 Hazard symbol
 ISO 11940-2
-ISO/IEC 19770
 Prolog
 ISO 9362
-ISO/IEC TR 12182
-ISO 31-13
 ISO 4031
-ISO 8
-ISO 19092-1
 PDF417
 ISO 6385
 ISO 14644
 Fuel oil
-ISO/IEC 21827
 Cloud Infrastructure Management Interface
 ISO 2711
 Accuracy and precision
@@ -458,21 +330,16 @@ ISO 17100
 Common Logic
 ISLISP
 DICOM
-ISO/IEC 8859-7
 ISO 31-4
-Gulf Cooperation Council
 ISO 15398
 File Allocation Table
 ISO 31
-ISO/IEC 2022
 Requirements engineering
 ISO 31-5
 JPEG XL
 ISO 15686
-Fuse (automotive)
 ISO 55000
 Object Constraint Language
-ISO/IEEE 11073
 ISO 7637
 MPEG-1
 Salt spray test
@@ -481,20 +348,12 @@ ISO 4
 MPEG-4 Part 2
 ISO 10303-28
 ISO 22300
-ISO/IEC 27006
 ISO 2709
-Chinese language romanisation in Singapore
 Legal Entity Identifier
 Han Xin code
-ISO/IEC 8859-3
 ISO 1745
-PDF/VT
-ISO/IEC 7811
 ISO 217
 ISO 3307
 Film speed
-ISO/IEC 11179
-ISO/IEC 20000
 Pe (Cyrillic)
-DIN 1460
 Geography Markup Language

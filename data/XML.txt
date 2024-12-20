@@ -1,586 +1,91 @@
-.NET Framework
-360 Secure Browser
 A
-AIDX
 AOL Explorer
 API
 ASCII
-ASN.1
-AT&T Pogo
-Abaco (web browser)
-Action Message Format
-Actionscript
-ActivityPub
-Activity Streams (format)
-Agora (web browser)
-Ajax (programming)
-Amaya (web editor)
 Amazon Silk
-Apache Avro
-Apache Thrift
-Application-Level Profile Semantics (ALPS)
 Application programming interface
-Arachne (web browser)
-Arc (web browser)
-Arena (web browser)
-Argo (web browser)
 Armenian alphabet
 Armenian language
-Arora (web browser)
-Ascii85
-Assertion (computing)
 Atom (web standard)
-Avast Secure Browser
-BSON
 Balinese script
-Base32
-Base64
-Basic Multilingual Plane
-Basilisk (web browser)
-Beaker (web browser)
-Bencode
-Beonex Communicator
 Bibcode (identifier)
-Binary XML
-Binary file
-Blazer (web browser)
-Blink (browser engine)
-Bolt (web browser)
-Bookmark (digital)
-Brave (web browser)
-Browser engine
 Browser extension
 Byte
-Byte order mark
-C-HTML
 C0 and C1 control codes
-CBOR
-CDATA
-CERN httpd
-CM Browser
 COLLADA
 CSS
-CSS Flexible Box Layout
-CSS Working Group
 CSS animations
-CSS grid layout
-CURIE
-Cake Browser
-Call Control eXtensible Markup Language
-Callbacks
-Camino (web browser)
-Canonical XML
-Cap'n Proto
 Cham script
 Character encoding
-Charon (web browser)
-Chinese character
-Chromium (web browser)
-Citrio
-Classilla
-Collective intelligence
-Comma-separated values
 Common Logic
 Communication protocol
-Comodo Dragon
-Comodo IceDragon
-Comparison of data-serialization formats
-Comparison of web browsers
-Compound Document Format
-Conkeror
 Control character
-Control characters
-Cyphal
 Cyrillic
-Cốc Cốc
-DOAP
-DOM (XML API)
-DSDL
-Dan Connolly (computer scientist)
-Darwin Information Typing Architecture
-Data exchange
 Data structure
 Data type
 Database
-Dataspaces
-Datatype
-Deepnet Explorer
-Description logic
-Digital humanities
 Digital library
-Digital signature
-Dillo
-Document Object Model
-Document Type Definition
-Document type definition
 Doi (identifier)
-Dolphin Browser
-Dooble
-Draco (lawgiver)
 Dublin Core
-DuckDuckGo Private Browser
 EBCDIC
-EBML
 ECMAScript
 ECMAScript for XML
-EDIFACT
-ELinks
-Efficient XML Interchange
-Electronic document
-Embedded RDF
-Emotion Markup Language
-Encrypted Media Extensions
-Encrypting
-Epic (web browser)
-Escape sequence
-Event-driven programming
-Event handler
-Eww (web browser)
-Extensible Forms Description Language
-Extensible User Interface Protocol
-Extensible programming
-External Data Representation
-FOAF
-Facebook Platform
-Falkon
-Fast Infoset
-Feature (software design)
-File format
 Filename extension
-Firefox
-Firefox Lite
-First-class data type
-First International Conference on the World-Wide Web
-FlatBuffers
-Flock (web browser)
-Floorp
-Flow (web browser)
-Fluid (web browser)
-Folksonomy
 Fork (software development)
-FpML
-Free and Open Source
-GNOME Web
-GNU IceCat
-GRDDL
-GSOAP
-Galeon
-Gazelle (web browser)
-Gecko (software)
 Geotagging
-Ghostzilla
-Google Chrome
-Google TV (smart TV platform)
-GreenBrowser
-HAtom
-HCalendar
-HCard
-HProduct
-HRecipe
-HReview
 HTML
 HTML5
-HTML Working Group
-HTTP
-HTTPS
-HTTP cookie
-Handheld Device Markup Language
-Health Level 7
-History of the Internet
-Homoglyph
 HotJava
-Human-readable
-Human-readable medium and data
-Human languages
-Hyperdata
-Hypertext
-IBM Home Page Reader
-IBM Lotus Symphony
-IBM WebExplorer
-IBrowse
-ICab
-IEC
 ISBN (identifier)
-ISO
-ISO/IEC 8859
-IWXXM
-IXBRL
-Improving Web Advertising Business Group
-Indexed Database API
-IndieAuth
-Information architecture
-Infoset
 Initialism
-InkML
-International World Wide Web Conference
-International World Wide Web Conferences Steering Committee
 International standard
-Internationalization Tag Set
-Internationalized Resource Identifier
 Internet
-Internet Explorer
-Internet Explorer for Mac
-Iris Browser
-Isomorphic
-Iterator pattern
-JSON
-JSON-LD
-JSON Web Encryption
-JSON Web Signature
-JSON Web Token
-James Clark (XML expert)
-James Clark (programmer)
 JavaScript
-JavaScript Style Sheets
 Java (programming language)
-Java Architecture for XML Binding
-Jean Paoli
-John W. Cowan
-Jon Bosak
-K-Meleon
-KML
-Kagi (search engine)
-Kazehakase
-KidZui
-Kirix Strata
-Knowledge extraction
 Knowledge management
 Knowledge representation and reasoning
-Konqueror
-Kylo (web browser)
-LINQ
-Ladybird (web browser)
-Language binding
-Lexical analysis
-Library 2.0
-LibreWolf
-Libwww
-Line Mode Browser
 Lingua franca
-Linked Data Notifications
 Linked data
-Links (web browser)
 List of XML and HTML character entity references
-List of XML markup languages
-List of types of XML schemas
-List of web browsers
-Lunascape
-Lynx (web browser)
-MISMO
-MSN TV
-Machine-readable data
 Macro (computer science)
-Markup language
-MathML
-Maxthon
-MediaBrowser
-Media Source Extensions
 Media type
-Memory
-Mercury Browser
-MessagePack
 Metadata
-Method (computer science)
-Michael Sperberg-McQueen
-MicroB
-Microdata (HTML)
-Microformat
-Micropub (protocol)
-Microsoft Edge
-Microsoft Edge Legacy
-Microsoft Live Labs Deepfish
-Midori (web browser)
-Minimo
-Mosaic (web browser)
-Mozilla
-Mozilla Application Suite
-N-Triples
-Name–value pair
-Naming collision
-National Information Exchange Model
-Naver Whale
-NeoPlanet
-NetCaptor
-NetFront
-NetPositive
-NetSurf
-Netscape
-Netscape (web browser)
-Node (computer science)
-Nokia Browser for Symbian
-Nonbreaking space
-Notation3
 Null character
 Numeric character reference
-O'Reilly Media
-OASIS (organization)
-Object (computer science)
 Office Open XML
-OmniWeb
-Online Certificate Status Protocol
-Ontology (computer science)
 OpenDocument
-OpenTravel Alliance
-Open file format
-Open standard
-Opera (web browser)
-Opera Coast
-Opera Mini
-Opera Mobile
-Origyn Web Browser
-Otter Browser
-P3P
 PHP
-Pale Moon
-Parsing
 Perl
 Phoenician alphabet
-Phrase structure rules
-Pierre Geneves
-PirateBrowser
 Plug-in (computing)
-Postel's law
-Pouya Latifiyan
-Precision Graphics Markup Language
-Private browsing
 Process (computing)
-Processing instruction
-Profile (engineering)
-Pronunciation Lexicon Specification
-Property list
 Proprietary software
-Protocol Buffers
 Publishing
-Puffin Browser
 Python (programming language)
-QQ Browser
-QtWeb
-Qutebrowser
-RDF/XML
-RDF Schema
 RDFa
 RELAX NG
 RSS
-React (JavaScript library)
-Rebol
-Recursive descent parser
-Red (programming language)
-Redcore
-Redundancy (information theory)
 Reference (computer science)
 Regular expression
-Request for Comments
-Research Resource Identifier
 Resource Description Framework
-Rick Jelliffe
-Rockmelt
-Routing
-Rule-based system
-Rule Interchange Format
-S-expression
 S2CID (identifier)
-SAWSDL
-SCXML
-SGML
-SGML entity
-SHACL
-SMIL Timesheets
-SOAP
-SPARQL
-SRWare Iron
 SSRN (identifier)
-SVG
-SVG Working Group
-SVG filter effects
-SXBL
-Safari (web browser)
-SalamWeb
-Samsung Internet
-Scala (programming language)
-Scalable Vector Graphics
 Schema.org
-Schematron
-SeaMonkey
-Self-describing
-Semantic HTML
-Semantic Interpretation for Speech Recognition
-Semantic Web
-Semantic Web Rule Language
-Semantic analytics
-Semantic broker
-Semantic computing
-Semantic mapper
-Semantic matching
-Semantic network
-Semantic publishing
-Semantic reasoner
-Semantic search
-Semantic service-oriented architecture
-Semantic triple
-Semantic wiki
-Semantically Interlinked Online Communities
 Semantics
 Semantics (computer science)
-Serialization
-Shiira
-Simple API for XML
-Simple Knowledge Organization System
-Skunkworks project
-Skweezer
-Skyfire (company)
-Sleipnir (web browser)
-SlimBrowser
-Smalltalk
-Solid (web decentralization project)
-SpaceTime (software)
 Space (punctuation)
-Specials (Unicode block)
-Specification
-Speech Recognition Grammar Specification
-Speech Synthesis Markup Language
-Sputnik (search engine)
-StAX
-Steel (web browser)
-Structure of Management Information
-Subresource Integrity
 Sun Microsystems
-Supermium
-Surf (web browser)
-Swiftfox
-Swiftweasel
-Synchronized Multimedia Integration Language
-TOML
-Tag omission
-Technical Architecture Group
-TenFourFox
-Text Encoding Initiative
-Thing Description
-Third-party cookies
-ThunderHawk
-Tim Bray
-Timberwolf (web browser)
-Timed text
 Topic map
-Tor Browser
-Torch (web browser)
-TriG (syntax)
-TriX (serialization format)
-Trident (software)
-Turtle (syntax)
 Type safety
-Type system
-U+0000
-UBJSON
-UC Browser
 UTF-16
 UTF-8
-Ungoogled-chromium
 Unicode
-Uniform Resource Identifier
-Uniform Type Identifier
-Uuencoding
-Uzbl
-Valid characters in XML
-Vector Markup Language
-Vision Mobile Browser
-Vivaldi (web browser)
-VoiceXML
-W3C
-W3C Advisory Board
-W3C Board
-W3C Device Description Working Group
-W3C Geolocation API
-W3C MMI
-W3C Markup Validation Service
-W3C XML Schema
-W3C recommendation
-W3m
-WAI-ARIA
-WBXML
-WHATWG
-Waterfox
 Wayback Machine
 WebAssembly
 WebGL
 WebGPU
-WebKit
-WebPlatform.org
-WebPositive
-WebRTC
-WebSocket
-WebSub
-WebVTT
 WebXR
-Web 2.0
-Web Accessibility Initiative
-Web Authentication Working Group
-Web Components
 Web Content Accessibility Guidelines
-Web Ontology Language
-Web Open Font Format
-Web Science Trust
-Web Services Description Language
 Web browser
-Web engineering
-Web of Things
-Web service
-Web standards
-Web storage
-Webmention
-Well-formed XML document
-Well-formed document
-Well-formed element
-WinWAP
 Working group
-WorldWideWeb
 World Wide Web
-World Wide Web Consortium
-World Wide Web Foundation
-XAdES
-XBL
-XB Browser
-XForms
-XFrames
-XHP
-XHTML
-XHTML+MathML+SVG
-XHTML+RDFa
-XHTML+SMIL
-XInclude
-XLink
-XML-binary Optimized Packaging
-XMLHttpRequest
-XML Base
-XML Encryption
-XML Events
-XML Information Set
-XML Infoset
-XML Namespace
-XML Protocol
-XML Schema (W3C)
-XML Signature
-XML data binding
-XML database
-XML namespace
-XML schema
-XML validation
-XMPP
-XPath
-XPath 2.0
-XPath 3
-XPointer
-XProc
-XQuery
-XSD
-XSL
-XSL-FO
-XSLT
-XSLT elements
-XSL Formatting Objects
-Xombrero
-YAML
-YEnc
-Yandex Browser
-ZAC Browser
-Zen Browser
-А

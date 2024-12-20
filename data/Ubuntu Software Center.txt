@@ -1,25 +1,15 @@
-APT (Package Manager)
 Allmyapps
-Almquist shell
 Amazon Appstore
 Amazon Digital Game Store
-AppArmor
-AppStream
 App Store (Apple)
 App store
-Apper
 Appland
-Aptitude (software)
 Aptoide
 Arcade video game
-Ask Ubuntu
 Battle.net
-Benjamin Mako Hill
 Big Fish Games
 BlackBerry World
-Brasero (software)
 Cafe Bazaar
-Canonical (company)
 Chrome Web Store
 Cloud gaming
 Club Nokia
@@ -28,9 +18,7 @@ Content delivery network
 Cydia
 DLsite
 DMM Games
-Deb (file format)
 Debian
-Debian configuration system
 Desura
 Digital River
 Digital distribution
@@ -39,24 +27,16 @@ Digital library
 Direct2Drive
 Discord (software)
 Download!
-Dpkg
 EA (service)
-EasyPeasy
 Edubuntu
 Elementary OS
 Emmabuntüs
 Epic Games Store
 F-Droid
 Flathub
-Free and open-source software
-Full Circle (magazine)
-GNOME Files
 GNOME Software
-GNU Bazaar
 GNU General Public License
-GNU Lesser General Public License
 GOG.com
-GTK
 Galaxy Store
 GameAgent
 GameHouse
@@ -66,32 +46,22 @@ Game Jolt
 GamersGate
 Games for Windows Marketplace
 Gamesplanet
-GetDeb
 GetJar
 Gobuntu
 Google Play
 Handango
 Huawei AppGallery
 Humble Store
-Ian Jackson
 Impulse (software)
 IndieGala
 Inside Mac Games
 Intel AppUp
 Itch.io
-Jane Silber
-Jeff Waugh
-Jono Bacon
-Juju (software)
 KDE Gear
 KDE neon
-KPackage
 Kartridge
 Kazaa
 Kubuntu
-Landscape (software)
-Launchpad (website)
-LightDM
 Linux Lite
 Linux Mint
 List of Android app stores
@@ -101,95 +71,56 @@ Lubuntu
 MSN Games
 MacUpdate
 Mac App Store
-Mark Shuttleworth
-Medibuntu
 Meta Horizon Store
 MiKandi
 Microsoft Store
-Mir (software)
 Mobile device
-Mythbuntu
 N-Gage (service)
 NESiCAxLive
 Nintendo eShop
 Nokia Store
 Nutaku
-OpenCD
 Opera Mobile Store
 Over-the-air update
 PC World
 Package manager
-Paper cut bug
 Personal computer
 PlayNow Arena
 PlayStation Store
 Playism
 Pogo.com
 Pokki
-Polkit
 Pop! OS
 Programmer
 PureOS
-PyGTK
 Python (programming language)
-Repository (version control)
 Robot Cache
 Rockstar Games Social Club
-Scott James Remnant
-Side Stage
 SlideME
 Smart TV
 Snap Store
-Snappy (package manager)
 Software
-Software Updater
 Software categories
 Software distribution
 Software license
 Software release life cycle
 Software repository
 Stardock Central
-StartUp-Manager
-Startup Disk Creator
 Steam (service)
-Sudo
-Synaptic (software)
-System76
 TapTap
 Trisquel
 Triton (content delivery)
-Tuxedo Computers
-Ubiquity (software)
 Ubisoft Connect
 Ubuntu
-Ubuntu-restricted-extras
-Ubuntu (typeface)
 Ubuntu App Store
 Ubuntu Budgie
 Ubuntu Cinnamon
-Ubuntu Edge
-Ubuntu Forums
 Ubuntu GNOME
-Ubuntu JeOS
 Ubuntu Kylin
 Ubuntu MATE
-Ubuntu Netbook Edition
-Ubuntu One
-Ubuntu Professional Certification
-Ubuntu Single Sign On
-Ubuntu Software
 Ubuntu Studio
-Ubuntu Titling
 Ubuntu Touch
 Ubuntu Unity
-Ubuntu User
-Ubuntu for Android
-Ubuntu philosophy
-Ubuntu version history
-Uncomplicated Firewall
-Unity (user interface)
-Upstart (software)
-Usplash
 Video game console
 Virtual reality headset
 Viveport
@@ -200,9 +131,7 @@ WildTangent
 Windows Marketplace
 Windows Marketplace for Mobile
 Windows Phone Store
-Wubi (software)
 Wubuntu
-XSplash
 Xbox Games Store
 Xbox Live Arcade
 Xubuntu

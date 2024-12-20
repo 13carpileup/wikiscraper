@@ -1,14 +1,7 @@
 ACM Computing Classification System
 Abstract algebra
-Academic Press
-Adjacency list
-Adjacency matrix
-Alexandre-Théophile Vandermonde
-Alfred Kempe
-Alfréd Rényi
 Algebra
 Algebraic geometry
-Algebraic graph theory
 Algebraic number theory
 Algebraic topology
 Algorithm
@@ -20,37 +13,23 @@ Analytic number theory
 Application security
 Applied mathematics
 ArXiv (identifier)
-Arboricity
 Arithmetic
 Arithmetic geometry
-Arthur Cayley
 Artificial intelligence
 Atom
-August Kekulé
-Augustin-Louis Cauchy
 Augustus De Morgan
 Automata theory
 Automated planning and scheduling
-Automatic theorem prover
 Bibcode (identifier)
-Binary relation
-BioRxiv (identifier)
-Biological pathway
 Biology
 Calculus
 Cambridge University Press
-Camille Jordan
 Category theory
 Chemical bond
-Chemical graph theory
 Chemistry
-Circle packing theorem
-Clique problem
 Combinatorics
 Commutative algebra
 Compiler construction
-Complete bipartite graph
-Complete graph
 Complex analysis
 Computability theory
 Computational biology
@@ -61,7 +40,6 @@ Computational engineering
 Computational geometry
 Computational linguistics
 Computational mathematics
-Computational neuroscience
 Computational physics
 Computational social science
 Computer accessibility
@@ -79,29 +57,18 @@ Computing
 Computing platform
 Concurrency (computer science)
 Concurrent computing
-Condensed matter physics
-Connectomics
 Control theory
 Control variable (programming)
-Covering problem
 Cross-validation (statistics)
-Crossing number (graph theory)
 Cryptography
 Cybernetics
 Cyberwarfare
-Cycle double cover
-Cytoscape
-Daniel P. Sanders
 Data mining
 Data structure
 Database
-Database transaction
 Decision problem
 Decision support system
-Degree (graph theory)
-Degree matrix
 Dependability
-Differential calculus
 Differential equation
 Differential geometry
 Differential topology
@@ -109,23 +76,15 @@ Digital art
 Digital library
 Digital marketing
 Diophantine geometry
-Directed acyclic graph
-Directed graph
 Discrete geometry
 Discrete mathematics
-Distance matrix
 Distributed artificial intelligence
 Distributed computing
 Document management system
 Doi (identifier)
 Domain-specific language
-Dominating set
-Dénes Kőnig
 E-commerce
-Edge coloring
-Edge list
 Educational technology
-Electric circuit
 Electric current
 Electronic design automation
 Electronic publishing
@@ -136,92 +95,44 @@ Encyclopedia of Mathematics
 Engineering mathematics
 Enterprise information system
 Enterprise software
-Enumeration of graphs
-Erdős–Faber–Lovász conjecture
 Euclidean geometry
 European Mathematical Society
-Extremal graph theory
-Feature structure
 Feynman diagram
-Finite-state transducer
 Finite geometry
 Flow network
-Forbidden graph characterization
 Form factor (design)
 Formal language
 Formal methods
 Foundations of mathematics
-Four-color theorem
-Four color problem
-Francis Guthrie
-Frank Harary
-Frank P. Ramsey
 Free software
 Functional analysis
 Future of mathematics
-Gallery of named graphs
 Game theory
 General topology
-Genomics
-Genus (mathematics)
 Geographic information system
-Geometric graph theory
 Geometric topology
 Geometry
-George Pólya
-George Pólya Prize
-Gephi
-Glossary of graph theory
-Glossary of graph theory terms
 Glossary of mathematical symbols
-Gottfried Wilhelm Leibniz
 Graph (abstract data type)
-Graph (data structure)
 Graph (discrete mathematics)
-Graph Theory, 1736–1936
-Graph algorithm
-Graph coloring
 Graph database
-Graph drawing
-Graph enumeration
-Graph factorization
-Graph isomorphism problem
 Graph of a function
-Graph properties
-Graph rewriting
-Graph transformation
-Graphical enumeration
 Graphics processing unit
-Graphviz
 Green computing
 Group theory
 Gustav Kirchhoff
-Hadwiger conjecture (graph theory)
-Hamiltonian path problem
 Hardware acceleration
 Hardware security
 Harmonic analysis
-Hassler Whitney
-Head-driven phrase structure grammar
 Health informatics
-Heinrich Heesch
 History of mathematics
-Homeomorphism (graph theory)
 Homological algebra
 Homotopy theory
-Hugo Hadwiger
 Human–computer interaction
 Hypercomplex analysis
-Hyperlink
 ISBN (identifier)
 ISSN (identifier)
-Igraph
 Image compression
-Incidence matrix
-Independent set (graph theory)
-Independent set problem
-Induced subgraph
-Infinite graph
 Informal mathematics
 Information retrieval
 Information security
@@ -231,47 +142,18 @@ Integrated circuit
 Integrated development environment
 Interaction design
 Interpreter (computing)
-Intersection graph
 Intrusion detection system
-Jacob L. Moreno
-James Joseph Sylvester
-Johann Benedict Listing
-Journal de l'École Polytechnique
-Julius Petersen
-K-vertex-connected graph
-Kazimierz Kuratowski
-Kelmans–Seymour conjecture
-Kenneth Appel
 Kirchhoff's circuit laws
-Kirchhoff's theorem
-Knight's tour
-Knot theory
 Knowledge representation and reasoning
-Kuratowski's theorem
-Königsberg
-Laplacian matrix
-Lattice graph
-Leonhard Euler
 Lexical semantics
 Library (computing)
 Linear algebra
 Linguistics
-List edge-coloring
-List of algorithms
 List of computer size categories
 List of films about mathematicians
-List of graph theory topics
-List of mathematicians
-List of publications in mathematics
-List of unsolved problems in graph theory
 Lists of mathematics topics
 Logic in computer science
-Loop (graph theory)
 Machine learning
-Maple (software)
-Martin Gardner
-Matching (graph theory)
-Mathematica
 Mathematical analysis
 Mathematical and theoretical biology
 Mathematical chemistry
@@ -284,80 +166,45 @@ Mathematical psychology
 Mathematical sociology
 Mathematical software
 Mathematical statistics
-Mathematical structure
-Mathematical structures
-Mathematicians
 Mathematics
 Mathematics and art
 Mathematics education
 Matrix (mathematics)
-Max flow min cut theorem
 Measure (mathematics)
-Mehdi Behzad
-Microsoft Automatic Graph Layout
 Middleware
 Minimum spanning tree
-Minor (graph theory)
 Mixed reality
 Model of computation
 Modeling language
-Molecular biology
-Molecular graph
-Molecule editor
 Multi-task learning
-Multigraph
 Multilinear algebra
 Multimedia database
-Multiple edges
 Multiprocessing
 Multithreading (computer architecture)
-Museum guard problem
-NP-complete problem
 Natural language processing
 Nature (journal)
-Neighbourhood (graph theory)
-Neil Robertson (mathematician)
-NetworkX
 Network architecture
 Network performance
 Network protocol
 Network scheduler
-Network science
 Network security
 Network service
 Networking hardware
-Nicolaas Govert de Bruijn
-North-Holland Publishing Company
 Number theory
 Numerical analysis
 Open-source software
 Operating system
 Operations research
-Optimality theory
 Order theory
-Ordered pair
 Outline of computer science
 PMC (identifier)
 PMID (identifier)
 Parallel computing
-Parsing
-Partial order
-Paul Erdős
-Paul Seymour (mathematician)
-Percolation theory
-Percy John Heawood
 Peripheral
-Persistence (computer science)
-Peter Tait (physicist)
-Philosophical Magazine
 Philosophy of artificial intelligence
 Philosophy of mathematics
 Photograph manipulation
 Physics
-Planar graph
-Planarity (graph theory)
-Porous medium
-Principle of Compositionality
 Principle of compositionality
 Printed circuit board
 Probability
@@ -370,46 +217,24 @@ Programming paradigm
 Programming team
 Programming tool
 Proprietary software
-Pseudograph
-Pál Turán
 Quantum Computing
-Quantum field theory
-Quiver (mathematics)
-Random graph
 Randomized algorithm
 Real-time computing
 Real analysis
-Reconstruction conjecture
 Recreational mathematics
-Regular graph
 Reinforcement learning
 Rendering (computer graphics)
 Representation (mathematics)
 Requirements analysis
-Robin Thomas (mathematician)
-Route inspection problem
-Rumor spread in social network
 S2CID (identifier)
 Security hacker
 Security service (telecommunication)
-Semantic network
 Semantics (computer science)
 Set (mathematics)
-Set cover problem
 Set theory
-Seven Bridges of Königsberg
-Seven bridges of Königsberg
-Shortest path
-Shortest path problem
-Simon Antoine Jean L'Huilier
-Single-cell analysis
-Six Degrees of Kevin Bacon
 Social computing
 Social network analysis
 Social software
-Society for Industrial and Applied Mathematics
-Sociogram
-Sociology
 Software configuration management
 Software construction
 Software deployment
@@ -422,51 +247,27 @@ Software maintenance
 Software quality
 Software repository
 Solid modeling
-Spanning tree
-Sparse graph
-Statistical physics
 Statistics
-Steiner tree
 Stochastic computing
-Strong perfect graph theorem
-Subdivision (graph theory)
-Subgraph isomorphism problem
 Supervised learning
-Syntax
 System on a chip
 Systems science
 Theoretical computer science
 Theory of computation
-Three-cottage problem
 Timeline of mathematics
-Topological graph theory
 Topology
-Total coloring
-Traveling salesman problem
-Tree (graph theory)
-Tulip (software)
-Tuple
 Type theory
 Ubiquitous computing
 Universal algebra
-Unordered pair
 Unsupervised learning
-VerbNet
-Vertex (graph theory)
-Vertex cover problem
 Very Large Scale Integration
 Video game
 Virtual machine
 Virtual reality
 Visualization (graphics)
 Voltage
-W. T. Tutte
-Wagner's theorem
 Wayback Machine
 Website
-Weighted graph
 William Rowan Hamilton
-Wolfgang Haken
-WordNet
 Word processor
 World Wide Web

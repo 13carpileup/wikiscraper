@@ -14,8 +14,6 @@
 1860 Democratic National Conventions
 1860 Republican National Convention
 1864 Democratic National Convention
-1864 National Union National Convention
-1864 Republican National Convention
 1868 Democratic National Convention
 1868 Republican National Convention
 1872 Democratic National Convention
@@ -30,7 +28,6 @@
 1884 Greenback National Convention
 1884 Republican National Convention
 1888 Democratic National Convention
-1888 Greenback National Convention
 1888 Republican National Convention
 1892 Democratic National Convention
 1892 Republican National Convention
@@ -54,12 +51,10 @@
 1916 Republican Party presidential primaries
 1920 Democratic National Convention
 1920 Democratic Party presidential primaries
-1920 Progressive National Convention
 1920 Republican National Convention
 1920 Republican Party presidential primaries
 1924 Democratic National Convention
 1924 Democratic Party presidential primaries
-1924 Progressive National Convention
 1924 Republican National Convention
 1924 Republican Party presidential primaries
 1928 Democratic National Convention
@@ -88,195 +83,52 @@
 1948 Republican National Convention
 1948 Republican Party presidential primaries
 1948 United States House of Representatives elections
-1950 United States House of Representatives elections
 1952 Democratic National Convention
 1952 Democratic Party presidential primaries
-1952 New Hampshire Democratic primary
-1952 Progressive National Convention
 1952 Republican National Convention
 1952 Republican Party presidential primaries
-1952 United States House of Representatives elections
-1954 United States House of Representatives elections
 1956 Democratic National Convention
 1956 Democratic Party presidential primaries
 1956 Republican National Convention
 1956 Republican Party presidential primaries
-1956 United States House of Representatives elections
-1958 United States House of Representatives elections
 1960 Democratic National Convention
 1960 Democratic Party presidential primaries
 1960 Republican National Convention
 1960 Republican Party presidential primaries
-1960 United States House of Representatives elections
-1962 United States House of Representatives elections
 1964 Democratic National Convention
 1964 Democratic Party presidential primaries
 1964 Republican National Convention
 1964 Republican Party presidential primaries
-1964 United States House of Representatives elections
-1966 California gubernatorial election
-1966 United States House of Representatives elections
 1968 Democratic National Convention
 1968 Democratic Party presidential primaries
 1968 Republican National Convention
 1968 Republican Party presidential primaries
-1968 United States House of Representatives elections
-1970 California gubernatorial election
-1970 United States House of Representatives elections
 1972 Democratic National Convention
 1972 Democratic Party presidential primaries
 1972 Republican National Convention
 1972 Republican Party presidential primaries
-1972 United States House of Representatives elections
 1972 United States presidential election
 1973 United States vice presidential confirmation
-1974 United States House of Representatives elections
-1974 United States Senate elections
-1974 United States elections
-1974 and 1975 United States Senate elections in New Hampshire
-1975 State of the Union Address
-1976 Arizona House of Representatives election
-1976 Arizona Senate election
-1976 Arkansas gubernatorial election
-1976 Delaware gubernatorial election
 1976 Democratic National Convention
 1976 Democratic Party presidential primaries
-1976 Illinois gubernatorial election
-1976 Indiana gubernatorial election
-1976 Iowa Senate election
-1976 Minnesota House of Representatives election
-1976 Minnesota Senate election
-1976 Missouri gubernatorial election
-1976 Missouri lieutenant gubernatorial election
-1976 Montana gubernatorial election
-1976 New Hampshire Republican presidential primary
-1976 New Hampshire gubernatorial election
-1976 North Carolina gubernatorial election
-1976 North Carolina lieutenant gubernatorial election
-1976 North Dakota gubernatorial election
 1976 Republican National Convention
-1976 Rhode Island gubernatorial election
-1976 San Juan, Puerto Rico mayoral election
-1976 State of the Union Address
-1976 United States House of Representatives election in Alaska
-1976 United States House of Representatives election in Delaware
-1976 United States House of Representatives election in Nevada
-1976 United States House of Representatives election in North Dakota
-1976 United States House of Representatives election in Vermont
-1976 United States House of Representatives election in Wyoming
-1976 United States House of Representatives election in the District of Columbia
-1976 United States House of Representatives elections
-1976 United States House of Representatives elections in Alabama
-1976 United States House of Representatives elections in Arizona
-1976 United States House of Representatives elections in Arkansas
-1976 United States House of Representatives elections in California
-1976 United States House of Representatives elections in Colorado
-1976 United States House of Representatives elections in Connecticut
-1976 United States House of Representatives elections in Florida
-1976 United States House of Representatives elections in Georgia
-1976 United States House of Representatives elections in Hawaii
-1976 United States House of Representatives elections in Idaho
-1976 United States House of Representatives elections in Illinois
-1976 United States House of Representatives elections in Indiana
-1976 United States House of Representatives elections in Iowa
-1976 United States House of Representatives elections in Kansas
-1976 United States House of Representatives elections in Kentucky
-1976 United States House of Representatives elections in Louisiana
-1976 United States House of Representatives elections in Maine
-1976 United States House of Representatives elections in Maryland
-1976 United States House of Representatives elections in Massachusetts
-1976 United States House of Representatives elections in Michigan
-1976 United States House of Representatives elections in Minnesota
-1976 United States House of Representatives elections in Mississippi
-1976 United States House of Representatives elections in Missouri
-1976 United States House of Representatives elections in Montana
-1976 United States House of Representatives elections in Nebraska
-1976 United States House of Representatives elections in New Hampshire
-1976 United States House of Representatives elections in New Jersey
-1976 United States House of Representatives elections in New Mexico
-1976 United States House of Representatives elections in New York
-1976 United States House of Representatives elections in North Carolina
-1976 United States House of Representatives elections in Ohio
-1976 United States House of Representatives elections in Oklahoma
-1976 United States House of Representatives elections in Oregon
-1976 United States House of Representatives elections in Pennsylvania
-1976 United States House of Representatives elections in Rhode Island
-1976 United States House of Representatives elections in South Carolina
-1976 United States House of Representatives elections in South Dakota
-1976 United States House of Representatives elections in Tennessee
-1976 United States House of Representatives elections in Texas
-1976 United States House of Representatives elections in Utah
-1976 United States House of Representatives elections in Virginia
-1976 United States House of Representatives elections in Washington
-1976 United States House of Representatives elections in West Virginia
-1976 United States House of Representatives elections in Wisconsin
-1976 United States Senate election in Arizona
-1976 United States Senate election in California
-1976 United States Senate election in Connecticut
-1976 United States Senate election in Delaware
-1976 United States Senate election in Florida
-1976 United States Senate election in Hawaii
-1976 United States Senate election in Indiana
-1976 United States Senate election in Maine
-1976 United States Senate election in Maryland
-1976 United States Senate election in Massachusetts
-1976 United States Senate election in Michigan
-1976 United States Senate election in Minnesota
-1976 United States Senate election in Mississippi
-1976 United States Senate election in Missouri
-1976 United States Senate election in Montana
-1976 United States Senate election in Nebraska
-1976 United States Senate election in Nevada
-1976 United States Senate election in New Jersey
-1976 United States Senate election in New Mexico
-1976 United States Senate election in New York
-1976 United States Senate election in North Dakota
-1976 United States Senate election in Ohio
-1976 United States Senate election in Pennsylvania
-1976 United States Senate election in Rhode Island
-1976 United States Senate election in Tennessee
-1976 United States Senate election in Texas
-1976 United States Senate election in Utah
-1976 United States Senate election in Vermont
-1976 United States Senate election in Virginia
-1976 United States Senate election in Washington
-1976 United States Senate election in West Virginia
-1976 United States Senate election in Wisconsin
-1976 United States Senate election in Wyoming
-1976 United States Senate elections
-1976 United States elections
-1976 United States gubernatorial elections
 1976 United States presidential election
-1976 Utah gubernatorial election
-1976 Vermont gubernatorial election
-1976 Washington gubernatorial election
-1976 West Virginia gubernatorial election
-1977 State of the Union Address
-1978 United States elections
 1980 Democratic National Convention
 1980 Democratic Party presidential primaries
 1980 Republican National Convention
 1980 Republican Party presidential primaries
 1980 United States presidential election
-1982 State of the Union Address
 1983 Libertarian National Convention
-1983 State of the Union Address
 1984 Democratic National Convention
 1984 Democratic Party presidential primaries
 1984 Republican National Convention
 1984 Republican Party presidential primaries
-1984 State of the Union Address
 1984 United States presidential election
-1985 State of the Union Address
-1986 State of the Union Address
-1986 United States bombing of Libya
 1987 Libertarian National Convention
-1987 State of the Union Address
 1988 Democratic National Convention
 1988 Democratic Party presidential primaries
 1988 Republican National Convention
 1988 Republican Party presidential primaries
-1988 State of the Union Address
 1991 Libertarian National Convention
 1992 Democratic National Convention
 1992 Democratic Party presidential primaries
@@ -315,9 +167,7 @@
 2008 Republican National Convention
 2008 Republican Party presidential debates and forums
 2008 Republican Party presidential primaries
-2009 Republican National Committee chairmanship election
 2010 Libertarian National Convention
-2011 Republican National Committee chairmanship election
 2012 Democratic National Convention
 2012 Democratic Party presidential primaries
 2012 Green National Convention
@@ -328,9 +178,7 @@
 2012 Republican National Convention
 2012 Republican Party presidential debates and forums
 2012 Republican Party presidential primaries
-2013 Republican National Committee chairmanship election
 2014 Libertarian National Convention
-2015 Republican National Committee chairmanship election
 2016 Constitution Party presidential primaries
 2016 Democratic National Convention
 2016 Democratic Party presidential debates and forums
@@ -345,8 +193,6 @@
 2016 Republican National Convention
 2016 Republican Party presidential debates and forums
 2016 Republican Party presidential primaries
-2017 Republican National Committee chairmanship election
-2019 Republican National Committee chairmanship election
 2020 Constitution Party presidential primaries
 2020 Democratic National Convention
 2020 Democratic Party presidential debates
@@ -360,9 +206,6 @@
 2020 Republican National Convention
 2020 Republican Party presidential debates
 2020 Republican Party presidential primaries
-2021 Republican National Committee chairmanship election
-2023 Republican National Committee chairmanship election
-2024 Constitution Party presidential primaries
 2024 Democratic National Convention
 2024 Democratic Party presidential debates and forums
 2024 Democratic Party presidential primaries
@@ -371,128 +214,25 @@
 2024 Libertarian National Convention
 2024 Libertarian Party presidential primaries
 2024 Reform National Convention
-2024 Republican National Committee chairmanship election
 2024 Republican National Convention
 2024 Republican Party presidential debates and forums
 2024 Republican Party presidential primaries
-2028 Democratic Party presidential primaries
 2028 Republican National Convention
-2028 Republican Party presidential primaries
-AEI World Forum
-A Mind Forever Voyaging
-A Time for Choosing
-Abner Sibal
 Abraham Lincoln
-Adlai Stevenson III
 Administration (government)
-Al Cederberg
-Al Hirt
-Al Quie
-Alabama Crimson Tide football
-Alabama Republican Party
-Alan Steelman
-Alaska Republican Party
 Aleksandr Solzhenitsyn
-Alexander Pirnie
-Alf Landon
-Alphonzo E. Bell Jr.
-Alvin O'Konski
 American Independent Party
 American Party (1969)
-An American Life
-Ancher Nelsen
 Andrew Johnson
-Andy Etchebarren
-Arch Moore Jr.
 Arizona
-Arizona Republican Party
-Arthur Summerfield
-Ash heap of history
-Assassins (musical)
-Attempted assassination of Gerald Ford in Sacramento
-Attempted assassination of Gerald Ford in San Francisco
-Attempted assassination of Ronald Reagan
-B. Carroll Reece
-Bailey Walsh
-Barbara Jordan
-Barber Conable
 Barry Goldwater
-Barry Goldwater Jr.
-Bear Bryant
-Bear in the woods
-Ben Reifel
-Benjamin B. Blackburn
-Benjamin Bubar Jr.
-Benjamin Franklin Jones (industrialist)
-Benjamin Gilman
 Benjamin Harrison
-Benjamin Spock
-Benjamin T. Laney
-Bertrand Snell
-Betty Ford
-Bibliography of Ronald Reagan
-Bibliography of the history of the Republican Party
-Bill Archer
-Bill Brock
-Bill Freehan
-Bill Frenzel
-Bill Gradison
-Bill Harsha
-Bill Phelps
-Bill Young (Florida politician)
-Birch Bayh
-Birthplace of Ronald Reagan
-Bo Callaway
 Bob Dole
-Bob Dornan
-Bob Mathias
-Bob Packwood
-Bob Price (Texas politician)
-Bob Wilson (politician)
-Boston desegregation busing crisis
-Bud Brown (politician)
-Bud Shuster
-Buz Lukens
-C. Wesley Roberts
 California
-California Angels
-California Democratic Party v. Jones
-California Republican Party
-California Supreme Court
 Calvin Coolidge
-Cannabis policy of the Gerald Ford administration
-Cannabis policy of the Ronald Reagan administration
 Capital punishment
-Carl Curtis
-Carleton J. King
-Carlos Moorhead
-Cary Grant
-Caucus
-Chalmers Wylie
-Charles A. Halleck
-Charles Adams Mosher
-Charles Curtis
-Charles D. Hilles
-Charles E. Wiggins
-Charles Evans Hughes
-Charles G. Dawes
-Charles Gubser
-Charles H. Elston
-Charles H. Percy
-Charles Halleck
-Charles Henry King
-Charles L. McNary
-Charles Mathias
-Charles R. Jonas
-Charles Sandman
-Charles W. Fairbanks
-Charles W. Whalen Jr.
 Charleston, West Virginia
 Chester A. Arthur
-Chuck Connors
 Chuck Grassley
 Cincinnati Reds
-Clair Burgener
 Clare Boothe Luce
-Clark MacGregor
-Clarke Reed

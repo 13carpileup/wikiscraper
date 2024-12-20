@@ -6,79 +6,51 @@
 3D modeling
 3D printing
 3D projection
-3D rendering
-3D scanning
 Affine transformation
 Algorithm
-Aliasing
 Alpha compositing
 Ambient occlusion
 Animation
 Anisotropic filtering
 ArXiv (identifier)
 Back-face culling
-Beam tracing
-Bias of an estimator
-Bidirectional scattering distribution function
-Caustic (optics)
-Cel shading
-Checkerboard rendering
 Clipping (computer graphics)
 Collision detection
 Comparison of vector graphics editors
 Computer-aided design
 Computer-generated imagery
 Computer animation
-Computer graphics (computer science)
 Computer graphics lighting
 Cone tracing
-Consistent estimator
 Crowd simulation
 Deferred shading
-Diffuse inter-reflection
 Diffuse reflection
 Diffusion curve
-Distributed ray tracing
 Doi (identifier)
-Finite element analysis
 Fluid animation
 Graphic design
 Graphics software
 Heat transfer
 Hidden-surface determination
-High-dynamic-range imaging
 ISBN (identifier)
-Image-based lighting
 Image-based modeling and rendering
 Isometric video game graphics
 Layers (digital image editing)
-Lightcuts
-List of 3D animation software
 List of 3D computer graphics software
 List of 3D modeling software
 List of 3D rendering software
 List of computer graphics algorithms
-Metropolis light transport
 Mode 7
 Motion capture
 Parallax scrolling
 Path tracing
-Photon mapping
-Photorealism
-Physically-based rendering
 Pixel
 Planar projection
-Point based global illumination
 Polygon mesh
-Radiosity (computer graphics)
 Raster graphics editor
-Ray casting
 Ray tracing (graphics)
-Real-time rendering
-Realistic rendering
 Reflection (computer graphics)
 Rendering (computer graphics)
-Rendering equation
 Rotation (mathematics)
 S2CID (identifier)
 Scaling (geometry)
@@ -86,29 +58,19 @@ Scanline rendering
 Shader
 Shading
 Shadow mapping
-Shadow volume
 Shear matrix
-Signed distance function
 Skeletal animation
 Skybox (video games)
 Spectral rendering
-Specular reflection
-Spherical harmonic lighting
 Surface triangulation
 Texel (graphics)
-Text-to-image model
 Texture mapping
-Translation (geometry)
 Triangle mesh
 Unbiased rendering
-Vector graphics
 Video game
 Virtual cinematography
-Virtual engineering
 Virtual reality
 Visual effects
 Visualization (graphic)
-Volume rendering
-Volumetric path tracing
 Voxel
 Wire-frame model

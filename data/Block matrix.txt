@@ -1,252 +1,66 @@
-Adjacency matrix
 Adjugate matrix
-Alternant matrix
-Alternating sign matrix
-Anti-diagonal matrix
 ArXiv (identifier)
-Arrowhead matrix
-Augmented matrix
-Band matrix
-Basic Linear Algebra Subprograms
 Basis (linear algebra)
-Biadjacency matrix
 Bibcode (identifier)
-Bidiagonal matrix
 Bijection
 Bilinear map
-Biproduct
-Bisymmetric matrix
-Bivector
-Block-diagonal matrix
-Block LU decomposition
-Block tridiagonal matrix
-Boolean matrix
-Bézout matrix
-Cabibbo–Kobayashi–Maskawa matrix
-Carleman matrix
-Cartan matrix
 Category (mathematics)
-Cauchy matrix
-Centering matrix
-Centrosymmetric matrix
-Change of basis
 Characteristic polynomial
-Circulant matrix
-Cofactor matrix
-Commutation matrix
-Commutativity
-Companion matrix
-Comparison of linear algebra libraries
-Complex Hadamard matrix
-Computational fluid dynamics
-Conference matrix
-Conformable matrix
-Confusion matrix
-Convergent matrix
-Copositive matrix
-Correlation matrix
-Covariance matrix
-Coxeter matrix
 Cramer's rule
-Cross product
-DFT matrix
-Defective matrix
-Definite matrix
-Degree matrix
-Density matrix
-Design matrix
 Determinant
 Diagonal matrix
-Diagonalizable
-Diagonalizable matrix
-Diagonally dominant matrix
-Direct sum of matrices
-Direct sum of modules
-Direct sum of vector spaces
-Distance matrix
 Doi (identifier)
 Dot product
-Doubly stochastic matrix
 Dual space
-Duplication and elimination matrices
-Edmonds matrix
 Eigenvalues and eigenvectors
-Einstein notation
-Elementary matrix
-Equivalent matrix
-Euclidean distance matrix
-Euclidean space
-Euclidean vector
-Exchange matrix
 Exterior algebra
-Fisher information matrix
-Floating-point arithmetic
-Frobenius matrix
-Function space
-Fundamental matrix (computer vision)
-Fundamental matrix (linear differential equation)
-Fuzzy associative matrix
-Gamma matrices
 Gaussian elimination
-Gell-Mann matrices
-Generalized permutation matrix
-Generator matrix
 Geometric algebra
 Gilbert Strang
 Glossary of linear algebra
-Gram matrix
-Gram–Schmidt process
 Graph theory
-Hadamard matrix
 Hadamard product (matrices)
-Hamiltonian matrix
-Hankel matrix
-Helmert–Wolf blocking
 Hermitian matrix
-Hessenberg matrix
-Hessian matrix
-Hilbert matrix
-Hollow matrix
-Householder transformation
-Howard Eves
-Hurwitz-stable matrix
 ISBN (identifier)
 ISSN (identifier)
 Idempotent matrix
 Identity matrix
 If and only if
-Incidence matrix
 Inner product space
-Integer matrix
-Inverse of a matrix
-Invertible matrix
-Involutory matrix
-Irregular matrix
 JSTOR (identifier)
-Jacobian matrix and determinant
-Jordan normal form
-Kernel (linear algebra)
 Kronecker product
-LU factorization
-Laplacian matrix
-Lehmer matrix
 Linear algebra
-Linear combination
-Linear independence
 Linear map
-Linear mapping
-Linear span
 Linear subspace
-List of matrices
-Logical matrix
 Main diagonal
 Mathematics
 Matrix (mathematics)
 Matrix addition
-Matrix congruence
 Matrix decomposition
 Matrix exponential
 Matrix multiplication
-Matrix of ones
-Matrix product
-Matrix representation of conic sections
-Matrix unit
-Metzler matrix
-Minor (linear algebra)
-Moment matrix
-Moore matrix
 Multilinear algebra
 Multilinear map
 Multivector
 Nilpotent matrix
-Nonnegative matrix
-Normal matrix
-Numerical linear algebra
-Numerical stability
 OCLC (identifier)
-Offset (computer science)
-Orthogonal matrix
 Orthogonality
-Outer product
-Outermorphism
-Outline of linear algebra
-Overlap matrix
 Partition of a set
-Pascal matrix
 Pauli matrices
-Payoff matrix
-Pentadiagonal matrix
-Perfect matrix
 Permutation matrix
-Persymmetric matrix
-Pick matrix
-Polynomial matrix
-Positive-definite matrix
-Precision (statistics)
-Productive matrix
 Projection (linear algebra)
-Projection matrix
-Pseudoinverse
-Quaternionic matrix
-Quotient space (linear algebra)
-Random matrix
 Rank (linear algebra)
-Redheffer matrix
-Rotation matrix
-Routh–Hurwitz matrix
-Row and column spaces
-Row and column vectors
-Row echelon form
-S-matrix
 S2CID (identifier)
 Scalar (mathematics)
 Scalar multiplication
-Schur complement
-Seidel adjacency matrix
-Seifert matrix
-Seven-dimensional cross product
 Shear matrix
-Shift matrix
-Signature matrix
-Similarity matrix
-Skew-Hermitian matrix
-Skew-symmetric matrix
-Skyline matrix
-Sparse matrix
 Square matrix
-State-transition matrix
 Statistics
-Stieltjes matrix
-Stochastic matrix
-Strassen algorithm
-Substitution matrix
-Sylvester matrix
 Symmetric matrix
-Symplectic matrix
 System of linear equations
 Tensor
 Tensor product
-Thomas algorithm
-Toeplitz matrix
-Totally positive matrix
-Totally unimodular matrix
 Trace (linear algebra)
-Transformation matrix
 Transpose
 Triangular matrix
-Tridiagonal matrix
-Triple product
-Tutte matrix
-Unimodular matrix
-Unipotent
-Unitary matrix
-Vandermonde matrix
-Vector projection
 Vector space
-Walsh matrix
-Weighing matrix
-Weinstein–Aronszajn identity
-Wronskian
-Z-matrix (chemistry)
-Z-matrix (mathematics)
-Zero matrix

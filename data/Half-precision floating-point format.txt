@@ -1,172 +1,44 @@
-.NET
 0 (number)
-16 bit
-3dfx Interactive
-ARM architecture family
-AVX-512
-Abstract data type
-Algebraic data type
-Arbitrary-precision arithmetic
-Array data type
 Associative array
 Bandwidth (computing)
-Bfloat16 floating-point format
-Binary (computing)
-Bit
 Bit array
-Boolean data type
 Bottom type
-Boxing (computer science)
 Byte
 C++
-C++/CLI
-C++/CX
 C Sharp (programming language)
-Cg (programming language)
-Character (computing)
-Class (computer programming)
-Complex data type
-Composite data type
 Computer graphics
 Computer memory
-Computer number format
 Computing
-Container (abstract data type)
-Control register
-D3DX
 Data structure
 Data type
-Datatype
-Decimal128 floating-point format
-Decimal32 floating-point format
-Decimal64 floating-point format
-Decimal data type
 Dependent type
-Direct3D
 Doi (identifier)
-Double-precision floating-point format
-Double precision
-Dynamic range
-Empty type
-Enumerated type
 Exception handling
-Exponent
-Exponent bias
-Extended precision
-F16C
 F Sharp (programming language)
-Fixed-point arithmetic
-Floating-point
-Floating-point arithmetic
-Function type
-G.711
-GIMP
-GNU C Compiler
-GeForce FX
 Generalized algebraic data type
-Generic programming
-IBM hexadecimal floating-point
 IEEE 754
-IEEE 754-2008
 ISBN (identifier)
-ISO/IEC 10967
-Image processing
-Inductive type
-Industrial Light & Magic
-Infinity
 Instruction set architecture
-Integer (computer science)
 Interface (object-oriented programming)
-Intersection type
-Interval arithmetic
 Intuitionistic type theory
 JPEG XR
-Julia (programming language)
-Kind (type theory)
-List (abstract data type)
-Long double
 MATLAB
 Machine learning
-Memory address
 Metaclass
-Metaobject
 Microsoft
-Microsoft Binary Format
-Minifloat
-NaN
-Neural network
-Neural networks
-Null-terminated string
 Nvidia
-Object (computer science)
-Octuple-precision floating-point format
-Offset-binary
-Opaque data type
 OpenCL
-OpenEXR
-OpenGL
-Option type
-Parametric polymorphism
-Physical address
-Plain text
-Pointer (computer programming)
 Polygon mesh
-Power ISA
-Power Management Bus
-Precision (arithmetic)
 Primitive data type
-Product type
-Quadruple-precision floating-point format
-RGBE image format
-RISC-V
-Radix
 Rational data type
 Record (computer science)
-Recursive data type
 Reference (computer science)
-Refinement type
-Rust (programming language)
 S2CID (identifier)
 SIGGRAPH
-SIMD
-Sapphire Rapids (microprocessor)
 Semaphore (programming)
-Set (abstract data type)
-Shadow
-Sign bit
-Signedness
-Significand
-Silicon Graphics
-Single-precision
-Single-precision floating-point format
-Stream (computing)
 String (computer science)
-Strongly typed identifier
-Subnormal numbers
-Subtyping
-Swift (programming language)
-Tagged union
-Tapered floating point
-Tegra
-TensorFloat-32
-Ternary numeral system
-Top type
-Type class
 Type constructor
-Type conversion
-Type system
 Type theory
-Union type
-Unit in the last place
-Unit type
-Units of information
-Unum (number format)
 Variable (computer science)
-Virtual address space
-Visual Basic (.NET)
-Void type
-Vulkan
 Word (computer architecture)
 X86
-Zig (programming language)
-−0

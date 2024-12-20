@@ -1,4 +1,3 @@
-4K Disk Monitor System
 AdvFS
 Alpha 21064
 Alpha 21164
@@ -8,28 +7,18 @@ Alpha 21464
 AltaVista
 BASIC
 BASIC-8
-BBN Time-Sharing System
-Berkeley Timesharing System
-Burroughs MCP
 Bus (computing)
-CDC Kronos
 COBOL
-CP/CMS
 CPU Wars
 CVAX
 Character encoding
 Code page 1287
 Code page 1288
-Commercial Operating System (COS)
 Compaq
-Comparison of operating systems
-Compatible Time-Sharing System
 Computer hardware
 Computer terminal
-Cray Time Sharing System
 DECUS
 DEC Alpha
-DEC BATCH-11/DOS-11
 DEC GT40
 DEC Hebrew
 DEC J-11
@@ -41,25 +30,20 @@ DEC Systems Research Center
 DEC T-11
 DEC Technical Character Set
 DEC V-11
-DECmate II
 DECnet
 DECtalk
 DECtape
 DECwriter
 DIBOL
 DIGITAL Command Language
-Dartmouth Time-Sharing System
 Digital Equipment Corporation
 Digital Federal Credit Union
 Digital Linear Tape
 Digital Storage Systems Interconnect
-Digital UNIX
 Dynamic debugging technique
 Dynamically Redefined Character Set
-Edinburgh Multiple Access System
 English language
 FOCAL (programming language)
-FORTRAN
 FX!32
 Firefly (cache coherence protocol)
 Flip-Chip module
@@ -67,47 +51,29 @@ Gold key (DEC)
 Gordon Bell
 HP-Interex
 Harlan Anderson
-IBM RPG
-IBM Remote Access Computing
-Incompatible Timesharing System
 Instruction set architecture
 Interactive Application System
 Ken Olsen
 LK201
 LK421
-Livermore Time Sharing System
 Local Area Transport
 MACRO-10
 MACRO-11
-MS/8
 MUMPS
-MUSIC/SP
 Maintenance Operations Protocol
 Mass Storage Control Protocol
 Massbus
-Michigan Terminal System
 MicroVAX 78032
-Multics
 Multinational Character Set
-Multiple Console Time Sharing System
-NLTSS
-NOS/VE
-NOS (operating system)
 NVAX
 National Replacement Character Set
 Natural language
-ORVYL and WYLBUR
-OS/8
-OS4000
 On-line Debugging Tool
 OpenVMS
 Operating system
 PALcode
-PDP-11
 PDP-11 architecture
 PDP-7
-PDP-8
-Pick operating system
 Porting
 Processor (computing)
 Programmer
@@ -117,9 +83,7 @@ Q-Bus
 RA90
 RK05
 RL02
-RSTS/E
 RSX-11
-RSX-15
 RT-11
 ReGIS
 Record Management Services
@@ -132,55 +96,26 @@ Star coupler
 StrongARM
 Synchronous Backplane Interconnect
 System Module
-System Reference Manual
-TD/SMP
-TENEX (operating system)
 TOPS-10
 TOPS-20
-TSS/8
-TSS (operating system)
 TU81
 TURBOchannel
 The Ultimate Entrepreneur
-Time-sharing
-Time-sharing system evolution
-Time Sharing Operating System
-Time Sharing Option
-Timeline of operating systems
-Turnkey
 Ultrix
 Unibus
-Universal Time-Sharing System
-Unix
 VAX
 VAXBI bus
 VAXELN
 VAX MACRO
 VM (operating system)
-VP/CSS
-VPS/VM
 VT05
 VT100
 VT1000
-VT101
-VT102
-VT103
-VT105
-VT131
 VT180
 VT220
-VT240
-VT241
 VT320
-VT330
-VT340
 VT420
-VT510
 VT52
 VT520
-VT525
-VT55
-VT62
 VT640
-WAITS
 WPS-8

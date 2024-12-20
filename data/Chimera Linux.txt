@@ -1,9 +1,6 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
-Aarch64
 AlmaLinux
-Almquist shell
 Alpine Linux
 Android-x86
 Android (operating system)
@@ -35,7 +32,6 @@ CalyxOS
 CentOS
 CentOS Stream
 Chakra (operating system)
-Chicken or the egg
 ChromeOS
 ChromiumOS
 ClearOS
@@ -77,7 +73,6 @@ FreeBSD
 FreedomBox
 Freespire
 Frugalware Linux
-GNOME Shell
 GNU
 GNU General Public License
 GNU Guix System
@@ -90,9 +85,7 @@ GoboLinux
 Gobuntu
 GrapheneOS
 HandyLinux
-Hyperbola GNU/Linux-libre
 Immunix
-Init
 IodéOS
 Jurix
 KDE neon
@@ -108,7 +101,6 @@ Kongoni (operating system)
 Korora (operating system)
 Kubuntu
 Kwort Linux
-LLVM
 LXLE Linux
 Libranet
 LinHES
@@ -137,7 +129,6 @@ Mer (software distribution)
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Musix GNU+Linux
 Musl
 Network Security Toolkit
 NimbleX
@@ -155,26 +146,21 @@ Open source
 Oracle Linux
 PCLinuxOS
 Package manager
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
 Pentoo
 Peppermint OS
-Phoronix
 Pinguy OS
 PixelExperience
 Platypux
 Pop! OS
 Porteus (operating system)
-Ppc64
-Ppc64le
 Programmer
 Puppy Linux
 PureOS
 Q4OS
 Qubes OS
-RISC-V
 ROSA Linux
 Raspberry Pi OS
 Red Hat Enterprise Linux
@@ -182,11 +168,9 @@ Red Hat Linux
 Red Star OS
 Remix OS
 Replicant (operating system)
-Repository (version control)
 Resurrection Remix OS
 Rocks Cluster Distribution
 Rocky Linux
-Rolling release
 SUSE Linux
 SUSE Linux Enterprise
 SUSE Studio
@@ -209,7 +193,6 @@ Sunwah Linux
 SystemRescue
 T2 SDE
 Tails (operating system)
-The Register
 Think Blue Linux
 Tiny Core Linux
 Tizen
@@ -217,7 +200,6 @@ TopologiLinux
 Trisquel
 Turbolinux
 Turkix
-Tweakers
 Ubuntu
 Ubuntu Budgie
 Ubuntu Cinnamon
@@ -229,9 +211,6 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Upstream (software development)
-Uruk GNU/Linux
 User interface
 User space and kernel space
 VectorLinux
@@ -239,7 +218,6 @@ Vine Linux
 Void Linux
 Whonix
 Wubuntu
-X86-64
 XB Machine
 Xubuntu
 Yellow Dog Linux

@@ -1,169 +1,66 @@
-Aequationes Mathematicae
 Algorithm
-Banach space
-Basic Linear Algebra Subprograms
 Basis (linear algebra)
 Bilinear map
-Bivector
 Block matrix
-Bounded linear operator
 Bounded operator
 Cauchy–Schwarz inequality
-Centering matrix
-Change of basis
 Characteristic polynomial
-Closed graph theorem
-Commuting matrices
-Comparison of linear algebra libraries
-Complemented subspace
-Complete metric space
 Complex number
-Condition number
-Conjugate transpose
 Converse (logic)
 Cramer's rule
-Cross product
 Determinant
-Diagonalizable
-Diagonalizable matrix
 Dimension (vector space)
-Direct sum of modules
-Direct sum of vector spaces
 Doi (identifier)
 Domain of a function
 Dot product
 Dual space
-Dykstra's projection algorithm
-Eigenspace
 Eigenvalue
-Eigenvalue algorithm
 Eigenvalues and eigenvectors
-Einstein notation
-Endomorphism
-Euclidean space
-Euclidean vector
 Exterior algebra
 Field (mathematics)
-Floating-point arithmetic
-Frame of a vector space
-Function space
 Functional analysis
 Gaussian elimination
 Geometric algebra
 Glossary of linear algebra
-Gram–Schmidt decomposition
-Gram–Schmidt process
-Graphical projection
 Hadamard product (matrices)
-Hahn–Banach theorem
-Hermitian transpose
-Hessenberg matrix
-Hilbert projection theorem
 Hilbert space
-Householder transformation
 ISBN (identifier)
-Idempotent
 Identity matrix
-Identity operator
 If and only if
 Image (mathematics)
 Inner product
 Inner product space
-Instrumental variable
 Integer
-Invariant subspace
-Invertible matrix
-Kernel (linear algebra)
 Kronecker product
 Lattice (order)
-Least-squares spectral analysis
 Line (geometry)
 Linear algebra
-Linear combination
-Linear functional
-Linear independence
-Linear least squares (mathematics)
 Linear map
-Linear regression
-Linear span
 Linear subspace
-Linear transformation
 Machine learning
 Matrix (mathematics)
 Matrix addition
 Matrix decomposition
 Matrix multiplication
-Matrix norm
-Measurable set
-Measure theory
-Minimal polynomial (linear algebra)
-Minor (linear algebra)
-Moore–Penrose inverse
-Moore–Penrose pseudoinverse
 Multilinear algebra
 Multilinear map
 Multivector
 Normed vector space
-Null space
-Numerical linear algebra
-Numerical stability
-OSTI (identifier)
-Oblique projection
-Open map
-Open set
-Operator K-theory
-Operator algebra
-Ordinary least squares
 Orthogonal complement
-Orthogonal distance
-Orthogonal projection
 Orthogonality
-Orthogonalization
-Orthographic projection
 Orthonormal basis
-Outer product
-Outermorphism
-Outline of linear algebra
-Partial isometry
-Pavel Grinfeld
-Point (geometry)
-Positive definite
-Positive semi-definite matrix
-Productive matrix
-QR decomposition
-Quotient space (linear algebra)
 Rank (linear algebra)
-Rank of a linear operator
-Rank of a linear transformation
 Real number
-Riemannian geometry
-Riemannian submersion
-Row and column spaces
-Row and column vectors
 S2CID (identifier)
 Scalar (mathematics)
 Scalar multiplication
-Self-adjoint operator
-Semisimple algebra
-Seven-dimensional cross product
 Singular value decomposition
-Sparse matrix
-Spectrum (functional analysis)
-Spherical trigonometry
 Square matrix
-Standard inner product
-Subspace topology
 Surjective function
 System of linear equations
 Tensor
 Tensor product
 Trace (linear algebra)
-Transformation matrix
 Transpose
-Triple product
-Unit vector
-Vector projection
 Vector space
-Von Neumann algebra
 YouTube video (identifier)
-Zero matrix

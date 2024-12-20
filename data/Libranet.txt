@@ -1,4 +1,3 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
 AlmaLinux
@@ -41,7 +40,6 @@ ColorOS
 Commodore OS
 Comparison of Linux distributions
 Container Linux
-Corel
 Corel Linux
 CrDroid
 CrunchBang Linux
@@ -50,7 +48,6 @@ CyanogenMod
 Damn Small Linux
 Damn Vulnerable Linux
 Debian
-Debian-Installer
 Deepin
 DemoLinux
 Devuan
@@ -67,7 +64,6 @@ Endless OS
 EulerOS
 Familiar Linux
 Feather Linux
-Fedora (operating system)
 Fedora Linux
 Fire OS
 Firefox OS
@@ -86,8 +82,6 @@ GoboLinux
 Gobuntu
 GrapheneOS
 HandyLinux
-Hyperbola GNU/Linux-libre
-IceWM
 Immunix
 IodéOS
 Jurix
@@ -119,7 +113,6 @@ Linux for PlayStation 2
 List of Linux distributions
 Lubuntu
 MCC Interim Linux
-MEPIS
 MIUI
 MX Linux
 MacOS
@@ -132,7 +125,6 @@ Mer (software distribution)
 Microsoft Windows
 Miracle Linux
 Mobilinux
-Musix GNU+Linux
 Network Security Toolkit
 NimbleX
 Nitix
@@ -148,7 +140,6 @@ Open Enterprise Server
 Operating system
 Oracle Linux
 PCLinuxOS
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
@@ -206,7 +197,6 @@ Trisquel
 Turbolinux
 Turkix
 Ubuntu
-Ubuntu (operating system)
 Ubuntu Budgie
 Ubuntu Cinnamon
 Ubuntu GNOME
@@ -217,8 +207,6 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 User interface
 VectorLinux
 Vine Linux
@@ -227,7 +215,6 @@ Wayback Machine
 Whonix
 Wubuntu
 XB Machine
-Xandros
 Xubuntu
 Yellow Dog Linux
 Zenwalk

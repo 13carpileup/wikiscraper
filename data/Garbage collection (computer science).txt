@@ -1,178 +1,41 @@
-.NET Micro Framework
 ALGOL 60
-APL (programming language)
-ARM64
-Ada (programming language)
-Altair 8800
 App Store (iOS)
-Apple, Inc.
 Apple Inc.
-Applesoft BASIC
 Artificial intelligence
-Atomic operation
-Automatic Reference Counting
 Automatic variable
 BASIC
-Big O notation
-Boehm garbage collector
-Buffer over-read
-Buffer overflow
-Bug (software)
 C++
-C++/CLI
-CPU cache
-CPython
 CRC Press
 C (programming language)
 C Sharp (programming language)
 C dynamic memory allocation
-Call-A.P.P.L.E.
-Chapman and Hall
-Cheney's algorithm
-Circumscription (logic)
-CiteSeerX (identifier)
-Class (computer programming)
 Communications of the ACM
-Compare-and-swap
 Compiler
-Computer performance
 Computer science
-Concurrent mark sweep collector
 D (programming language)
-Dangling pointer
-Dartmouth workshop
-Delphi (programming language)
-Demand paging
-Dereference operator
-Destructor (computer programming)
-Dlmalloc
 Doi (identifier)
-Dr. Dobbs
-Dynamic dead-code elimination
 ECMAScript
-Electronic Notes in Theoretical Computer Science
-Embedded computing
-Erez Petrank
-Escape analysis
-File (computing)
-Finalizer
-Fragmentation (computing)
-Frame problem
-Functional programming language
-Garbage-first collector
-Garbage (computer science)
-Garbage collection (SSD)
 Go (programming language)
-Handle (computing)
-Hard real-time
 Haskell
 Hdl (identifier)
-Heap (data structure)
-Heap allocation
-Heise.de
-Henry Baker (computer scientist)
-Henry Lieberman
-High-level language computer architecture
-High-level programming language
-Hoard memory allocator
 IOS
-IOS 7
 ISBN (identifier)
-Input–output memory management unit
 International Business Times
-International Symposium on Memory Management
 JavaScript
 Java (programming language)
-Java Platform, Micro Edition
-Jemalloc
-John McCarthy (computer scientist)
 John Wiley & Sons
-Julia (programming language)
-Katholieke Universiteit Leuven
-LLVM
 Lambda calculus
-Language specification
-Libumem
 Lisp (programming language)
 Logo (programming language)
-MIT Press
-ML (programming language)
-Manual memory management
-Mark–compact algorithm
-McCarthy 91 function
-McCarthy Formalism
-Memory allocator
 Memory hierarchy
-Memory leak
-Memory management
-Memory management (operating systems)
-Memory management unit
-Memory paging
-Memory pool
-Memory safety
-Memory segmentation
-Mercury (programming language)
-Method (computer programming)
 Microsoft
-Mimalloc
-Modula-3
-Network socket
-New and delete (C++)
-OOPSLA
-OS X 10.5
-OS X 10.7
-OS X 10.8
 Object-oriented programming
-Object REXX
 Objective-C
-Oracle machine
-Overhead (computing)
 PHP
-Page table
 Perl
-Pointer (computer programming)
-ProDOS
-Profiling (computer programming)
 Programming language
-Protected mode
-Ptmalloc
-RPL (programming language)
-Randy Wigginton
 Real-time computing
-Real mode
-Reference counting
-Region-based memory management
-Region inference
 Ruby (programming language)
-Runtime system
 S2CID (identifier)
 Scripting language
-Session (computer science)
-Short-circuit evaluation
-Situation calculus
-Smalltalk
-Smart pointer
-Space fountain
-Springer-Verlag
-Stack-based memory allocation
-Stack allocation
-Stack overflow
-Static program analysis
-Static variable
-Tagged pointer
-Taylor & Francis Ltd
 Thread (computing)
-Tracing garbage collection
-Transaction processing
-Translation lookaside buffer
-University of Colorado Boulder
-Unreachable
-Unreachable memory
-Virtual 8086 mode
-Virtual memory
-Virtual memory compression
-WWDC
-Weak reference
-Wiley (publisher)
-Window (computing)
-X86 memory segmentation

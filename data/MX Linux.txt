@@ -1,7 +1,5 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
-APT (software)
 AlmaLinux
 Alpine Linux
 Android-x86
@@ -53,9 +51,7 @@ Damn Vulnerable Linux
 Debian
 Deepin
 DemoLinux
-Desktop environment
 Devuan
-DistroWatch
 DivestOS
 DoudouLinux
 Dreamlinux
@@ -73,12 +69,10 @@ Fedora Linux
 Fire OS
 Firefox OS
 Floppyfw
-Fluxbox
 Foresight Linux
 FreedomBox
 Freespire
 Frugalware Linux
-GNU GRUB
 GNU Guix System
 GNewSense
 GOS (operating system)
@@ -89,16 +83,11 @@ GoboLinux
 Gobuntu
 GrapheneOS
 Graphical user interface
-Graphics card
 HandyLinux
 Hard disk drive
-Hyperbola GNU/Linux-libre
 Immunix
-Init
 IodéOS
 Jurix
-KDE
-KDE Plasma 5
 KDE neon
 KaOS
 KaiOS
@@ -129,7 +118,6 @@ Linux kernel
 List of Linux distributions
 Lubuntu
 MCC Interim Linux
-MEPIS
 MIUI
 Mageia
 Mandrake Linux
@@ -140,7 +128,6 @@ Mer (software distribution)
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Musix GNU+Linux
 Natural language
 Network Security Toolkit
 NimbleX
@@ -155,12 +142,9 @@ OpenELEC
 OpenMandriva Lx
 OpenSUSE
 Open Enterprise Server
-Optical disc image
 Oracle Linux
-P6 (microarchitecture)
 PCLinuxOS
 Package manager
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
@@ -178,8 +162,6 @@ PureOS
 Q4OS
 Qubes OS
 ROSA Linux
-Radeon
-Random-access memory
 Raspberry Pi OS
 Red Hat Enterprise Linux
 Red Hat Linux
@@ -189,7 +171,6 @@ Replicant (operating system)
 Resurrection Remix OS
 Rocks Cluster Distribution
 Rocky Linux
-Ryzen
 SUSE Linux
 SUSE Linux Enterprise
 SUSE Studio
@@ -203,18 +184,15 @@ Slax
 Softlanding Linux System
 Software license
 Software release life cycle
-Software remastering
 Solid-state drive
 Solus (operating system)
 SolydXK
-Sound card
 Source Mage
 SparkyLinux
 Splashtop OS
 SteamOS
 Sunwah Linux
 SystemRescue
-Systemd
 T2 SDE
 Tails (operating system)
 Think Blue Linux
@@ -224,7 +202,6 @@ TopologiLinux
 Trisquel
 Turbolinux
 Turkix
-UEFI
 Ubuntu
 Ubuntu Budgie
 Ubuntu Cinnamon
@@ -236,18 +213,13 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 User interface
 VectorLinux
 Vine Linux
 Void Linux
 Whonix
-Window manager
 Wubuntu
-X86-64
 XB Machine
-Xfce
 Xubuntu
 Yellow Dog Linux
 Zenwalk

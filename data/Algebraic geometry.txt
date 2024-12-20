@@ -1,317 +1,130 @@
-Abelian integral
-Abelian variety
-Absolute geometry
 Abstract algebra
 Addition
-Affine geometry
 Affine space
-Affine variety
-Ahmes
-Alexander Grothendieck
 Algebra
-Algebraic Geometry (book)
-Algebraic Geometry (journal)
 Algebraic expression
-Algebraic function field
-Algebraic geometric code
-Algebraic geometry of projective spaces
 Algebraic number theory
-Algebraic space
-Algebraic stack
-Algebraic statistics
-Algebraic surface
 Algebraic topology
 Algebraic variety
 Algebraically closed field
 Algorithm
-Alhazen
-Alicia Dickenstein
-Allen Tannenbaum
-Altitude (triangle)
-American Mathematical Society
-Analytic function
 Analytic geometry
 Analytic number theory
-Analytic variety
-André Weil
-Angle
-Annales de l'Institut Fourier
-Apollonius of Perga
 Applied mathematics
 ArXiv (identifier)
-Arakelov's geometry
-Archimedes
-Area
-Area of a circle
 Arithmetic
 Arithmetic geometry
-Arthur Cayley
-Artin stack
-Aryabhata
 Atomic formula
-B. L. van der Waerden
-Barry Arthur Cipra
 Basis (linear algebra)
-Baudhayana
-Before Common Era
-Bernhard Riemann
-Bertrand Toën
 Bibcode (identifier)
 Bijection
 Binomial (polynomial)
-Birational isomorphism
-Birational transformation
 Bivariate polynomial
-Blaise Pascal
 Brahmagupta
-Bruno Buchberger
-Bézout's theorem
 Calculus
 Cambridge University Press
 Carl Friedrich Gauss
-Carlos Simpson
-Cassini oval
 Category theory
-Christiaan Huygens
-Circle
 Circumference
-Closure operator
 Combinatorics
 Commutative algebra
 Complement (set theory)
 Complex analysis
-Complex geometry
-Complex manifold
 Composition algebra
 Computational complexity
 Computational complexity theory
 Computational geometry
 Computational mathematics
-Computational phylogenetics
 Computer algebra
 Computer science
-Congruence (geometry)
-Conic sections
 Constant function
-Continuous function
 Control theory
-Convex geometry
-Coordinate geometry
-Coordinate ring
 Coordinate vector
-Critical point (mathematics)
-Cube
-Cubic curve
 Cubic equation
 Cubic function
-Cuboid
-Curve
-Cusp (singularity)
-Cylinder (geometry)
-Cylindrical algebraic decomposition
-Daniel Lazard
-Daniel Pedoe
-David A. Cox
-David Eisenbud
 David Hilbert
-David Mumford
-Deformation theory
 Degree of a polynomial
-Degree of an algebraic variety
-Delian problem
-Deligne–Mumford stack
-Derived affine scheme
-Derived algebraic geometry
 Determinant
-Diagonal
 Diameter
-Differentiable manifold
 Differential equation
 Differential geometry
-Differential graded commutative algebra
-Differential manifold
 Differential topology
-Digital geometry
-Dimension (geometry)
-Dimension of an algebraic variety
-Diophantine equations
 Diophantine geometry
-Discrete differential geometry
 Discrete geometry
 Discrete mathematics
 Discriminant
-Dodecahedron
 Doi (identifier)
 Domain of a function
 Dot product
-Dover
-Dual (category theory)
-Econometrica
-Edmond Laguerre
 Eigenvalues and eigenvectors
 Elementary algebra
-Elimination theory
-Ellipse
-Elliptic-curve cryptography
-Elliptic curve
-Elliptic geometry
 Engineering mathematics
 Equation
 Equation solving
-Equivalence of categories
 Equivalence relation
-Euclid
 Euclidean geometry
 Euclidean norm
-Euclidean space
 Exterior algebra
 Factorization of polynomials
-Faugère's F4 and F5 algorithms
-Faugère F5 algorithm
-Felix Klein
 Fermat's Last Theorem
 Field (mathematics)
-Field of fractions
-Field theory (mathematics)
 Finite field
 Finite geometry
 First-order logic
-Floating point
-Formal moduli
-Formal scheme
 Foundations of mathematics
-Four-dimensional space
-Fractal
-Francis Sowerby Macaulay
-Franciscus Vieta
 Free group
 Free object
 Function (mathematics)
-Function field of an algebraic variety
-Function inverse
 Functional analysis
 Future of mathematics
-GAGA
-Gabriele Vezzosi
-Galois connection
 Game theory
 General topology
-Generic point
 Geometric algebra
-Geometric modelling
 Geometric topology
 Geometry
-George E. Collins
 Gerolamo Cardano
-Gersonides
-Glossary of classical algebraic geometry
 Glossary of field theory
 Glossary of linear algebra
 Glossary of mathematical symbols
 Glossary of order theory
 Glossary of ring theory
-Gottfried Wilhelm Leibniz
 Graph theory
-Grothendieck
-Grothendieck site
-Grothendieck topology
 Group (mathematics)
 Group theory
 Gröbner basis
-Gérard Desargues
-Hal Schenck
 Harmonic analysis
-Harold Scott MacDonald Coxeter
-Heisuke Hironaka
-Hellenistic Greece
-Henri Poincaré
-Hermann Minkowski
 Higher category theory
 Hilbert's Nullstellensatz
 Hilbert's basis theorem
-Hilbert's sixteenth problem
-Hilbert series
 Hilbert space
 History of algebra
-History of geometry
 History of mathematics
-Homogeneous coordinate ring
-Homogeneous coordinates
-Homogeneous ideal
 Homogeneous polynomial
 Homological algebra
-Homological mirror symmetry
-Homotopy continuation
 Homotopy theory
 Horner's method
-Hyperbola
-Hyperbolic geometry
 Hypercomplex analysis
-Hypersphere
-Hypotenuse
 ISBN (identifier)
 ISSN (identifier)
-Ibn al-Yasamin
-Icosahedron
 Ideal (ring theory)
-Igor Shafarevich
 Image (mathematics)
-Incidence geometry
-Ind-scheme
 Inequality (mathematics)
-Inflection point
 Informal mathematics
 Information theory
 Inner product space
-Integer programming
-Integral domain
-Intersection theory
-Irreducible component
 Irreducible polynomial
-Isaac Newton
-Italian school of algebraic geometry
 JSTOR (identifier)
-Jacob Lurie
-Jean-Pierre Serre
-Jean Dieudonné
-Joe Harris (mathematician)
-Joseph Louis Lagrange
-Jyeṣṭhadeva
-János Bolyai
 K-theory
-Kite (geometry)
-Kleinian geometry
-Kātyāyana
-LCCN (identifier)
-Lemniscate of Bernoulli
-Length
-Leonardo of Pisa
-Leonhard Euler
 Lie group
 Line (geometry)
-Line at infinity
-Line segment
 Linear algebra
 Linear equation
 Linear function (calculus)
 Linear inequality
 Linear map
 Linear subspace
-List of algebraic surfaces
-List of differential geometry topics
 List of films about mathematicians
-List of geometers
-List of geometry topics
-List of mathematicians
-List of publications in mathematics
-Lists of geometry topics
 Lists of mathematics topics
-Lists of shapes
-Locus (mathematics)
-MR (identifier)
-Manava
-Marseille
-Matching (graph theory)
 Mathematical analysis
 Mathematical and theoretical biology
 Mathematical chemistry
@@ -321,180 +134,70 @@ Mathematical logic
 Mathematical optimization
 Mathematical physics
 Mathematical psychology
-Mathematical singularity
 Mathematical sociology
 Mathematical statistics
-Mathematicians
 Mathematics
 Mathematics and art
 Mathematics education
 Matrix (mathematics)
-Maxim Kontsevich
-Maximal ideal
 Measure (mathematics)
-Menaechmus
-Michael Atiyah
-Middle Ages
-Mikhail Leonidovich Gromov
-Miles Reid
-Minggatu
 Module (mathematics)
-Moduli space
 Monomial
-Monomial order
-Morphism
-Morphism of algebraic varieties
 Multilinear algebra
 Multiplication
 Multivariate polynomial
-Multivariate resultant
 Multivector
-N-sphere
-Nasir al-Din al-Tusi
-Niccolò Fontana Tartaglia
-Nicole Oresme
-Nikolai Durov
-Nikolai Lobachevsky
-Nisnevich topology
-Non-Archimedean geometry
 Non-Euclidean geometry
-Noncommutative algebra
-Noncommutative algebraic geometry
-Noncommutative geometry
 Norm (mathematics)
-Normal space
-Number field
 Number theory
-Numerical algebraic geometry
 Numerical analysis
-Octahedron
 Omar Khayyam
-Omar Khayyám
-One-dimensional space
 Operation (mathematics)
 Operations research
 Order theory
-Ordered field
 Orthogonal complement
 Orthogonality
-Oscar Zariski
-Oswald Veblen
 Outline of algebra
-P-adic number
-Parabola
-Parallel (geometry)
-Parallelogram
-Parameshvara
-Parametric equation
-Parametrization (geometry)
 Perpendicular
-Persian people
-Phillip Griffiths
 Philosophy of mathematics
-Pierre de Fermat
-Plane (geometry)
-Plane algebraic curve
-Plane curve
-Platonic Solid
-Point (geometry)
-Point at infinity
-Polyform
-Polygon
 Polynomial
-Polynomial equation
-Polynomial function
 Polynomial greatest common divisor
 Polynomial identity testing
 Polynomial long division
-Polynomial resultant
 Polynomial ring
-Prime ideal
 Probability theory
-Projective geometry
-Projective plane
-Projective space
-Publications Mathématiques de l'IHÉS
-Pyramid (geometry)
 Pythagoras
-Pythagorean theorem
 Quadratic equation
-Quadratic form
 Quadratic function
-Quadrilateral
-Quantifier elimination
 Quartic equation
 Quartic function
 Quasi-homogeneous polynomial
-Quasicategory
-Quillen model category
 Quintic function
 Quotient group
 Quotient object
-Radical of an ideal
 Rank (linear algebra)
 Rational function
-Rational mapping
-Rational number
-Rational variety
-Real algebraic geometry
 Real analysis
 Recreational mathematics
 Rectangle
-Reduced ring
-Regular chain
-Regular function
-Regular point of an algebraic variety
 Relation (mathematics)
 Renaissance
 René Descartes
 Representation theory
-Resolution of singularities
-Resultant
-Rhomboid
-Rhombus
-Riemann-Roch theorem for algebraic curves
-Riemann surface
-Riemannian geometry
-Rigid analytic space
 Ring (mathematics)
-Ring homomorphism
 Ring theory
-Robin Hartshorne
 Robotics
 S2CID (identifier)
-Sakabe Kōhan
 Scheme (mathematics)
 Scheme theory
 Septic equation
 Set theory
 Sextic equation
-Shape
-Sheaf theory
-Shiing-Shen Chern
-Sijzi
-Similarity (geometry)
-Singular point of a curve
-Singularity theory
-Smooth completion
-Smooth function
 Software
-Solid geometry
-Soliton
-Solution set
 Sphere
-Spherical geometry
 Springer Science+Business Media
-Square
 Square-free polynomial
 Statistics
-Straightedge and compass construction
 Symmetric algebra
-Symmetry
-Symplectic geometry
-Synthetic geometry
-Systems of polynomial equations
 Systems science
-Tangent
-Tarski–Seidenberg theorem
 Tensor algebra
-Tesseract

@@ -13,8 +13,6 @@ Axiom
 Axiom of choice
 Axiom schema
 Axiomatic system
-Axiomatization of Boolean algebras
-Backus–Naur form
 Banach–Tarski paradox
 Bijection
 Binary operation
@@ -44,7 +42,6 @@ Computable function
 Computable set
 Computably enumerable set
 Concrete category
-Conduit metaphor
 Conservative extension
 Consistency
 Constructible universe
@@ -54,7 +51,6 @@ Continuum hypothesis
 Countable set
 Decidability (logic)
 Decision problem
-Deductive system
 Diagram (mathematical logic)
 Domain of a function
 Douglas Hofstadter
@@ -83,7 +79,6 @@ Forcing (mathematics)
 Formal grammar
 Formal language
 Formal proof
-Formal semantics (logic)
 Formal system
 Formation rule
 Foundations of geometry
@@ -95,13 +90,10 @@ Functional predicate
 Fuzzy set
 General set theory
 Geoffrey Hunter (logician)
-George Ritzer
 Grothendieck universe
 Ground expression
-Ground formula
 Gödel's completeness theorem
 Gödel's incompleteness theorems
-Gödel, Escher, Bach
 Gödel numbering
 Halting problem
 Hereditary set
@@ -109,7 +101,6 @@ Higher-order logic
 Hilbert's axioms
 Hilbert system
 History of logic
-History of mathematical logic
 ISBN (identifier)
 Image (mathematics)
 Inaccessible cardinal
@@ -122,22 +113,16 @@ Inhabited set
 Injective function
 Interpretation (logic)
 Interpretation (model theory)
-Interpretation function
 Intersection (set theory)
 Isomorphism
-J. A. Cuddon
-Jakobson's functions of language
 Kolmogorov complexity
-Kripke's theory of truth
 Kripke–Platek set theory
 Lambda calculus
-Language-oriented programming
 Large cardinal
 Lemma (mathematics)
 Lindström's theorem
 Linguistics
 Lisp (programming language)
-List of Hilbert systems
 List of axioms
 List of first-order theories
 List of formal systems
@@ -156,29 +141,14 @@ Logical equivalence
 Logical truth
 Logicism
 Löwenheim–Skolem theorem
-M4 (computer language)
-ML (programming language)
 Many-valued logic
 Map (mathematics)
 Material conditional
 Mathematical logic
 Mathematical object
-Mental content
-Meta-communication
-Metaethics
-Metafiction
-Metagraphy
-Metalinguistic abstraction
-Metalinguistic awareness
-Metalinguistics
-Metalocutionary act
 Metamathematics
-Metaphilosophy
 Metaprogramming
-Metasyntax
 Metatheorem
-Metatheory
-Metavariable (logic)
 Minimal axioms for Boolean algebra
 Model complete theory
 Model theory
@@ -188,9 +158,7 @@ Morse–Kelley set theory
 NP (complexity)
 Naive set theory
 Natural deduction
-Natural semantic metalanguage
 Negation
-Nested quotation
 New Foundations
 Non-Euclidean geometry
 Non-logical symbol
@@ -200,22 +168,17 @@ Number theory
 OCLC (identifier)
 Open formula
 Operation (mathematics)
-Ordered logic
 Ordinal analysis
 Ordinal number
 Oxford University Press
 P (complexity)
 P versus NP problem
-Paradigmatic
 Paradoxes of set theory
-Paralanguage
 Partition of a set
 Peano axioms
-Penguin Books
 Philosophy of mathematics
 Power set
 Predicate (mathematical logic)
-Predicate logic
 Predicate variable
 Primitive recursive arithmetic
 Primitive recursive function
@@ -232,17 +195,14 @@ Quantifier (logic)
 Quantifier rank
 Quotation mark
 Recursion
-Recursive set
 Relation (mathematics)
 Reverse mathematics
 Robinson arithmetic
 Rule of inference
-Rules of inference
 Russell's paradox
 Satisfiability
 Saturated model
 Schröder–Bernstein theorem
-Scientific classification
 Second-order arithmetic
 Second-order logic
 Self-reference
@@ -262,7 +222,6 @@ Spectrum of a theory
 Square of opposition
 Statement (logic)
 Strength (mathematical logic)
-String (formal languages)
 Structure (mathematical logic)
 Substitution (logic)
 Substructure (mathematics)
@@ -274,15 +233,12 @@ Syntax (logic)
 T-schema
 Tarski's axiomatization of the reals
 Tarski's axioms
-Tarski's theory of truth
 Tarski's undefinability theorem
 Tarski–Grothendieck set theory
 Tautology (logic)
 Term (logic)
 Term logic
-The Oxford Companion to Philosophy
 Theorem
-Theories of truth
 Theory
 Theory (mathematical logic)
 Three-valued logic
@@ -297,7 +253,6 @@ Truth value
 Turing machine
 Type (model theory)
 Type theory
-Ultrafilter (set theory)
 Ultraproduct
 Uncountable set
 Undecidable problem
@@ -308,16 +263,10 @@ Universal quantification
 Universal set
 Universe (mathematics)
 Urelement
-Use–mention distinction
 Validity (logic)
-Valuation (logic)
 Variable (mathematics)
 Venn diagram
 Von Neumann universe
 Von Neumann–Bernays–Gödel set theory
 Well-formed formula
-Word
-Yacc
-Zellig Harris
 Zermelo–Fraenkel set theory
-Émile Borel

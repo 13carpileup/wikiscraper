@@ -1,5 +1,3 @@
-4-Hexylresorcinol
-9-Aminoacridine
 ACE inhibitor
 ATC code A
 ATC code B
@@ -13,283 +11,92 @@ ATC code L
 ATC code M
 ATC code N
 ATC code P
-ATC code P02
 ATC code R
 ATC code S
 ATC code V
 ATCvet code QI
-ATCvet code QP54
-Abamectin
-Acetylcholinesterase inhibitor
 Addiction medicine
-Agonist
-Albendazole
 Alkylating antineoplastic agent
 Anabolic steroid
 Analgesic
 Anatomical Therapeutic Chemical Classification System
 Anesthetic
-Angiotensin II receptor antagonist
 Anorectic
 Antacid
 Anti-inflammatory
 Anti-obesity medication
 Antianginal
 Antiarrhythmic agent
-Antibacterial
-Anticestodal agent
 Anticoagulant
 Anticonvulsant
-Antidementia drug
 Antidepressant
-Antidiarrhoeal
 Antidote
 Antiemetic
 Antifibrinolytic
-Antifungal drug
 Antihemorrhagic
-Antihyperkinetic
-Antihypertensive drug
 Antimetabolite
 Antimicrobial
 Antimigraine drug
-Antimony
 Antimycobacterial
-Antinematodal agent
 Antineoplastic
 Antiparasitic
 Antiplatelet drug
-Antiplatyhelmintic agent
 Antipropulsive
-Antiprotozoal agent
 Antipruritic
-Antipsoriatic
 Antipsychotic
 Antithrombotic
 Antithyroid agent
 Antiviral drug
 Anxiolytic
 Aphrodisiac
-Arpraziquantel
-Artemisinin
-Ascaricides
-Ascaridole
-Ascaris lumbricoides
-Avermectin
-Avermectins
-Benzimidazole
-Benzimidazoles
-Benzylammonium
-Bephenium hydroxynaphthoate
 Beta blocker
 Bile acid sequestrant
 Bisphosphonate
-Bithionol
 Blood
 Bone
 Bronchodilator
-Brugia malayi
-Brugia timori
-Butyrophenone
 Calcium channel blocker
-Carbantel
 Cardiac glycoside
 Cardiac stimulant
 Chemotherapy
-Chenopodium
-Chloride channel
-Chlorophenol
-Cicatrizant
-Ciclobendazole
 Circulatory system
-Clinical trial
 Coagulation
-Contrast medium
-Cooperia (nematode)
 Corticosteroid
-Cough medicine
-Cytoskeleton
 Decongestant
 Deliriant
 Depressant
-Desaspidin
 Diabetes medication
-Dichlorophen
-Dietary mineral
-Diethylcarbamazine
 Disease-modifying antirheumatic drug
 Dissociative
 Diuretic
 Doi (identifier)
-Doramectin
 Dressing (medicine)
-Drug design
 Drug resistance
-Dysphania ambrosioides
 Ectoparasiticide
-Emamectin
-Emodepside
-Emollient
-Endectocides
 Endocrine system
-Entactogen
 Entheogen
-Eprinomectin
-Esafoxolaner/eprinomectin/praziquantel
 Euphoria
-Faecal egg count reduction test
-Febantel
-Felsantel
-Fenbendazole
 Fertility medication
 Fibrate
-Flatworms
-Flubendazole
-Fluralaner/moxidectin
-GABA receptor
-Gastrointestinal tract
 General anaesthetic
 Genitourinary system
 Glucocorticoid
-Glutamate-gated chloride channel
-Glutamic acid
-Goat
 H1 antagonist
-H2 antagonist
-Heligmosomoides bakeri
-Helminthiasis
-Helminths
-Hexylresorcinol
-Hookworms
 Hormonal contraception
 Human brain
-Human gastrointestinal tract
 Human skin
-Hycanthone
 Hypnotic
-Hypolipidemic agent
 Hypothalamic–pituitary hormone
 ISBN (identifier)
 ISSN (identifier)
-Imidazothiazoles
 Immune system
-Immunomodulator
 Immunostimulant
 Immunosuppressive drug
 Infection
-Intravenous immunoglobulin
-Ivermectin
 Joint
-Laxative
-Levamisole
-List of withdrawn drugs
-Liver fluke
-Loa loa
-Local anesthetic
-Lucanthone
-Macrofilaricide
-Malignant
-Management of Parkinson's disease
-Mass deworming
-Mebendazole
 Medical Subject Headings
 Metabolism
-Metrifonate
-Microtubule
-Milbemycin
-Milbemycin oxime
-Mineralocorticoid
-Mood stabilizer
-Morantel
-Motivation-enhancing drug
-Moxidectin
-Muscle
-Muscle relaxant
-Naphthalenesulfonate
-Nematodes
 Nervous system
-Neuromuscular depolarizing agent
-Neuroprotective
-Neurotoxin
-Niclosamide
-Nicotinic acetylcholine receptor
-Niridazole
-Nitazoxanide
-Non-steroidal anti-inflammatory drug
-Nootropic
-Open access
-Ophthalmology
-Orexigenic
-Ostertagia
-Otology
-Oxamniquine
-Oxantel
-Oxyclozanide
 PMC (identifier)
 PMID (identifier)
-Papain
-Phases of clinical research
 Phenol
-Phosphonic acid
-Piperazine
-Platelet
-Polymerase chain reaction
-Praziquantel
-Proton-pump inhibitor
-Psychedelic drug
-Psychedelics, dissociatives and deliriants
-Pyrantel
-Pyrantel pamoate
-Pyrvinium
-Quinacrine
-Quinoline
-Quinolinium
-Radiopharmacology
-Renin inhibitor
-Renin–angiotensin system
-Respiratory system
-Roundworms
-Ruminant
-Salicylanilide
-Santonin
-Schistosoma
-Schistosomiasis
-Schistosomicide
-Sedative
-Selamectin
-Selective estrogen receptor modulator
-Senotherapeutics
-Sense
-Serenic
-Sex steroid
-Sheep
-Spindle poison
-Statin
-Stibophen
-Stimulant
-Strongyloides stercoralis
-Suramin
-Taeniacide
-Tapeworm
-Tapeworms
-Tartar emetic
-Tetrachloroethylene
-Tetrahydropyrimidine
-Thiabendazole
-Thiazole
-Thioxanthone
-Thrombolytic drug
-Thyroid hormone
-Tiabendazole
-Topoisomerase inhibitor
-Trematoda
-Tribendimidine
-Triclabendazole
-Tubulin
-Vaccine
-Vasodilation
-Vitamin
-WHO Model List of Essential Medicines
-Wakefulness-promoting agent
-Whipworms
-Wuchereria bancrofti

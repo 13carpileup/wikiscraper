@@ -1,207 +1,87 @@
-.NET Compact Framework
-.NET Framework
-.mov
-3GP and 3G2
 AOL
-Acer Inc.
-Action Center
-Advanced Audio Coding
-Alcatel Mobile Phones
 Amazon Kindle
 American Airlines
 Android (operating system)
 Android Go
 Apple Inc.
-Apple iOS
 Ars Technica
-Assembly Language
-Avatar (Xbox 360)
 B2G OS
 BBC News Online
 Bada (operating system)
 Binary Runtime Environment for Wireless
-Bing (search engine)
-Bing Audio
-Bing Maps
-Bing Mobile
-Bing Vision
 BlackBerry
 BlackBerry 10
 BlackBerry OS
 BlackBerry Tablet OS
-Bluetooth profile
 BridgeOS
 C++
-C++/CX
 CBS Interactive
 CNET
 CNN
 C (programming language)
 C Sharp (programming language)
-Cairo (operating system)
-Celkon Mobiles
-Channel 9 (Microsoft)
 ChromeOS
 ChromeOS Flex
 Closed-source
-Commercial software
-Common Language Runtime
-Comparison of Microsoft Windows versions
-Comparison of Windows Vista and Windows XP
 Comparison of mobile operating systems
 Computer multitasking
-Condé Nast Publications
-Condé Nast Publishing
-Consumer Electronics Show
-Cortana (virtual assistant)
-Criticism of Microsoft Windows
-Criticism of Windows 10
-Criticism of Windows Vista
-Criticism of Windows XP
 DOS
-Design language
-Development of Windows 95
-Development of Windows Vista
-Development of Windows XP
 Digital rights management
 DivX
-Docking station
 EMI
 EMUI
 EPOC (operating system)
 EWeek
-Emoticons
-End-of-life (product)
-End user
 Engadget
 Enterprise software
-Expression Blend
 Facebook
-Features new to Windows 10
-Features new to Windows 11
-Features new to Windows 7
-Features new to Windows 8
-Features new to Windows Vista
-Features new to Windows XP
 Fedora Linux
 Firefox OS
-Firmware over the air
 FreeBSD
 FreeRTOS
 Fuchsia (operating system)
-Fujitsu
 Future plc
 GEOS (16-bit operating system)
 GNU
-Gartner
 Gawker Media
-Gionee
 Gizmodo
-Gmail
 Google
-Google Android
-Google Now
-Groove Music
 HMD Global
 HTC
 HTML5
 HarmonyOS
 HarmonyOS NEXT
-Here Maps
-Huawei
-Hybrid kernel
-IBM Notes Traveler
-ICloud
 IHeartRadio
 IOS
 IOS (Apple)
 IPadOS
 IPhone
-InformationWeek
 Intel Management Engine
-Internet Explorer 11
-Internet Explorer 9
-Internet Explorer Mobile
-Internet Message Access Protocol
-JPEG
 JavaScript
-Java programming language
-Jo Harlow
-Joe Belfiore
-Joshua Topolsky
 KaiOS
-Karbonn
 Kernel (operating system)
-LG
-Lenovo
-LinkedIn
 Linux
 Linux Kernel
-List of Microsoft Windows components
-List of Microsoft Windows versions
-List of Windows 10 Mobile devices
-List of Windows Phone 7 devices
-List of Windows Phone 8.1 devices
-List of Windows Phone 8 devices
-List of Windows Phone devices
-List of Xbox Live games on Windows Phone
 List of Xbox games on Windows Phone
 List of custom Android distributions
-List of features removed in Windows 10
-List of features removed in Windows 11
-List of features removed in Windows 7
-List of features removed in Windows 8
-List of features removed in Windows Phone
-List of features removed in Windows Vista
-List of features removed in Windows XP
 List of mobile app distribution platforms
 List of open-source mobile phones
 LiteOS
-Longcheer
-Lumia 520
-Lumia 610
-Lumia 620
-Lumia 710
-Lumia 800
-Lumia 900
-Lumia Software Recovery Tool
 LuneOS
-MSN Mobile
 Mac OS X
 Maemo
 Magic Cap
-Mail (Windows)
-Managed code
 Manjaro
 MeeGo
 Mer (software distribution)
-Metro Design Language
-Metro design language
-Micromax Mobile
 Microsoft
-Microsoft Cortana
 Microsoft Developer Network
-Microsoft Edge
-Microsoft Exchange Server
-Microsoft Language Portal
-Microsoft Lumia
-Microsoft Mobile
-Microsoft Movies & TV
 Microsoft Office
-Microsoft Office Mobile
-Microsoft Outlook
-Microsoft Pay
-Microsoft Plus!
-Microsoft PowerToys
-Microsoft Silverlight
 Microsoft Windows
-Microsoft Windows version history
 Microsoft XNA
 Microsoft account
-Microsoft mobile services
 Middleware
 Minix 3
-MixRadio
 Mobian
 Mobile World Congress
 Mobile app development
@@ -212,13 +92,9 @@ Monolithic kernel
 MontaVista
 MotoMagx
 Multi-touch
-My Windows Phone
 NBC
 Natural language
-Near field communication
-Neowin
 NetBSD
-New York Police Department
 Nielsen Company
 Nintendo
 Nintendo 3DS system software
@@ -226,36 +102,21 @@ Nintendo DSi system software
 Nintendo Switch system software
 Nokia
 Nokia Asha platform
-Nokia Lumia 520
-Nokia X family
-Nokia phones beta labs
-OBEX
-OEM
 OLED
 Objective-C
-Office 365
-OneDrive
 OpenEZX
 OpenEmbedded
 OpenHarmony
 Open Handset Alliance
 Open Mobile Alliance
 Openmoko Linux
-Outlook.com
-Ovi (Nokia)
 Package manager
 PalmDOS
 Palm OS
 Parallax scrolling
 Paramount Pictures
-Paul Thurrott
-Pinterest
 PlayStation Portable system software
 PlayStation Vita system software
-Pocket PC 2000
-Pocket PC 2002
-Podcasts
-Post Office Protocol
 PostmarketOS
 Programmer
 Programming language
@@ -263,12 +124,8 @@ Proprietary software
 PureOS
 QNX
 QtMoko
-Qualcomm Snapdragon
-Release to web
-Remote Desktop Services
 S60 (software platform)
 SHR (operating system)
-SQL Server Compact
 Sailfish OS
 Samsung Electronics
 Series 30
@@ -276,34 +133,19 @@ Series 30+
 Series 40
 Series 80 (software platform)
 Series 90 (software platform)
-Silverlight
-Siri
-Skype
-Smartphones
 Snapchat
-Social network service
 Software license
 Software release life cycle
 Sony
-Sony BMG
 Sony Ericsson Java Platform
 Spotify
 SteamOS
-Stephen Elop
 Steve Ballmer
-Surface Duo
-SwiftKey
-Swype
 Symbian
-Terry Myerson
 The Verge
 The Verge (website)
-Third-party software component
 ThreadX
 Tizen
-Toast (computing)
-Toshiba
-Turn-by-turn navigation
 Twitter
 UBports
 UIQ
@@ -311,127 +153,35 @@ Ubuntu Touch
 United States
 United States dollar
 Universal Music Group
-Universal Pictures
 User interface
 Vevo
 Video game
-Virtual assistant
-Virtual keyboard
-Visual Basic.NET
-Visual Basic .NET
 Vox Media
-Warner Brothers
-Warner Music Group
 WatchOS
 Wayback Machine
 Wear OS
 WebOS
-Web search engine
 Windows
-Windows 1.0
 Windows 10
-Windows 10X
 Windows 10 Mobile
-Windows 10 Mobile version history
-Windows 10 editions
-Windows 10 version history
 Windows 11
-Windows 11 editions
-Windows 11 version history
-Windows 2.0
-Windows 2.1
-Windows 2000
-Windows 3.0
-Windows 3.1
-Windows 7
-Windows 7 editions
 Windows 8
 Windows 8.1
-Windows 8 editions
 Windows 95
-Windows 98
-Windows 9x
-Windows App Studio
-Windows CE
-Windows CE 5.0
-Windows Embedded Automotive
-Windows Embedded CE 6.0
-Windows Embedded Compact
-Windows Embedded Compact 7
-Windows Embedded Industry
-Windows Essential Business Server 2008
-Windows Fundamentals for Legacy PCs
-Windows HPC Server 2008
-Windows Home Server
-Windows Home Server 2011
-Windows IoT
-Windows Live
-Windows Live Contacts
-Windows Live SkyDrive
-Windows Me
 Windows Mobile
-Windows Mobile 2003
-Windows Mobile 5.0
-Windows Mobile 6.0
-Windows Mobile 6.1
-Windows Mobile 6.5
-Windows MultiPoint Server
 Windows NT
-Windows NT 3.1
-Windows NT 3.5
-Windows NT 3.51
-Windows NT 4.0
-Windows Nashville
-Windows Neptune
-Windows Odyssey
 Windows Phone 7
 Windows Phone 8
 Windows Phone 8.1
-Windows Phone App
-Windows Phone Recovery Tool
 Windows Phone Store
-Windows Phone version history
-Windows Polaris
-Windows Preinstallation Environment
 Windows RT
-Windows Runtime
-Windows Server
-Windows Server 2003
-Windows Server 2008
-Windows Server 2008 R2
-Windows Server 2012
-Windows Server 2012 R2
-Windows Server 2016
-Windows Server 2019
-Windows Server 2022
-Windows Server 2025
-Windows Server Essentials
 Windows Store
-Windows Vista
-Windows Vista SP2
-Windows Vista editions
-Windows XP
-Windows XP Media Center Edition
-Windows XP Professional x64 Edition
 Windows XP editions
-Windows for Pen Computing
-Wireless carrier
-World music market
-Write-off
 XNU
 Xbox Live
-Xbox Music
-Xbox Video
-Xolo (company)
-Xvid
-Yahoo! Mail
 YouTube
 ZDNet
-ZTE
 Ziff Davis
 Zircon (microkernel)
-Zune
 Zune HD
-Zune Software
-Zune software
 Ångström distribution

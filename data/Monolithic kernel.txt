@@ -1,97 +1,26 @@
-AIX
 API
 Booting
-Bus error
-Command-line interface
-Comparison of operating systems
-Comparison of user features of operating systems
 Computer architecture
 Computer hardware
 Computer multitasking
 Computer network
 Concurrency (computer science)
-Context switch
-Cooperative multitasking
-Defragmentation
 Device driver
-Device file
-Disk operating system
 Disk partitioning
-Distributed operating system
-DragonFly BSD
-Embedded operating system
-Exokernel
-File attribute
 File system
-Fixed-priority pre-emptive scheduling
-Forensic software engineering
 FreeBSD
-General protection fault
-Hardware abstraction
-History of operating systems
-Hobbyist operating system
-Hybrid kernel
-Inode
 Inter-process communication
-Interrupt
-Journaling file system
-Just enough operating system
 Kernel (operating system)
-Kernel space
 Linux kernel
-List of operating systems
-Live CD
-Live USB
-Loadable kernel module
 MS-DOS
-Memory management
-Memory management (operating systems)
-Memory paging
-Memory protection
-Microkernel
 Mobile operating system
-Multics
-Multikernel
-Multilevel feedback queue
-Nanokernel
 NetBSD
-Network operating system
-Non-volatile memory
-OS-9
-Object-oriented operating system
-OpenBSD
 OpenVMS
 Operating system
-Oracle Solaris
-Preboot Execution Environment
 Preemption (computing)
 Process (computing)
-Process control block
 Process management (computing)
-Protection ring
-Random access memory
-Real-time operating system
-Round-robin scheduling
-Rump kernel
-Scheduling (computing)
-Segmentation fault
-Shell (computing)
-Shortest job next
-Software architecture
-Supercomputer operating system
 System call
-System resource
-Tanenbaum–Torvalds debate
 Thread (computing)
-Time-sharing
-Timeline of operating systems
-Unikernel
-Unix-like
-Usage share of operating systems
 User interface
 User space and kernel space
-Virtual file system
-Virtual memory
-Virtual tape library
-Vkernel
-Windows 9x

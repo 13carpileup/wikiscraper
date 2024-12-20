@@ -1,4 +1,3 @@
-2,4-Oxazolidinedione
 ACE inhibitor
 ATC code A
 ATC code B
@@ -11,31 +10,17 @@ ATC code J
 ATC code L
 ATC code M
 ATC code N
-ATC code N03
 ATC code P
 ATC code R
 ATC code S
 ATC code V
 ATCvet code QI
-Absence seizures
-Acetazolamide
-Acetylpheneturide
-Acylurea
 Addiction medicine
-Albutoin
-Aldehyde
 Alkylating antineoplastic agent
-Allosteric modulator
-American Academy of Neurology
-American Epilepsy Society
-Amide
-Amnesia
 Anabolic steroid
 Analgesic
 Anatomical Therapeutic Chemical Classification System
-Anesthesia
 Anesthetic
-Angiotensin II receptor antagonist
 Anorectic
 Antacid
 Anthelmintic
@@ -43,18 +28,12 @@ Anti-inflammatory
 Anti-obesity medication
 Antianginal
 Antiarrhythmic agent
-Antibacterial
 Anticoagulant
-Antidementia drug
 Antidepressant
-Antidiarrhoeal
 Antidote
 Antiemetic
 Antifibrinolytic
-Antifungal drug
 Antihemorrhagic
-Antihyperkinetic
-Antihypertensive drug
 Antimetabolite
 Antimicrobial
 Antimigraine drug
@@ -63,9 +42,7 @@ Antineoplastic
 Antiparasitic
 Antiplatelet drug
 Antipropulsive
-Antiprotozoal agent
 Antipruritic
-Antipsoriatic
 Antipsychotic
 Antithrombotic
 Antithyroid agent
@@ -73,280 +50,59 @@ Antiviral drug
 Anxiolytic
 Aphrodisiac
 Apoptosis
-Article review
-Azobenzene
-Barbexaclone
-Barbiturate
-Beclamide
-Benzodiazepine
 Beta blocker
 Bibcode (identifier)
 Bile acid sequestrant
-Biological target
-Bipolar disorder
-Birth defect
 Bisphosphonate
 Blood
 Bone
-Borderline personality disorder
-Brivaracetam
-Bromide
 Bronchodilator
-Buccal mucosa
 Calcium channel blocker
-Calcium channels
-Cannabidiol
-Carbamate
-Carbamazepine
-Carbonic anhydrase inhibitor
-Carboxamide
 Cardiac glycoside
 Cardiac stimulant
-Carisbamate
-Catamenial epilepsy
-Cenobamate
 Central nervous system
-Channel modulator
-Charles Locock
 Chemotherapy
-Chlorphenacemide
-Cicatrizant
 Circulatory system
-Clinical trial
-Clobazam
-Clonazepam
-Clorazepate
 Coagulation
-Cognitive deficit
-Congenital physical anomalies
-Contrast medium
-Convulsion
 Corticosteroid
-Cough medicine
 Decongestant
 Deliriant
 Depressant
 Diabetes medication
-Diazepam
-Dietary mineral
 Disease-modifying antirheumatic drug
 Dissociative
 Diuretic
-Divalproex sodium
 Doi (identifier)
 Dressing (medicine)
-Drug class
-Drug tolerance
 Ectoparasiticide
-Emollient
 Endocrine system
-Entactogen
 Entheogen
-Epilepsia (journal)
-Epilepsy
-Epilepsy and pregnancy
-Epileptogenesis
-Erectile dysfunction
-Eslicarbazepine
-Eslicarbazepine acetate
-Ethadione
-Ethosuximide
-Ethotoin
-Ethoxzolamide
-Etiracetam
 Euphoria
-European Medicines Agency
 Everolimus
-Fatty acid
-Felbamate
-Fenfluramine
 Fertility medication
 Fibrate
-Fibromyalgia
-Focal seizure
 Food and Drug Administration
-Fosphenytoin
-Fructose
-GABA
-GABAA receptor
-GABA receptor agonist
-GABA reuptake inhibitor
-GABA transaminase
-GABA transaminase inhibitor
-GABA transporter type 1
-GABAergic
-Gabapentin
-Gabapentin enacarbil
-Gabapentin extended release
-Gabapentinoid
-Ganaxolone
 General anaesthetic
-Generalized anxiety disorder
 Genitourinary system
 Glucocorticoid
-Glutamate (neurotransmitter)
-H. Houston Merritt
 H1 antagonist
-H2 antagonist
 Hdl (identifier)
-Hemorrhagic disease of the newborn
 Hormonal contraception
 Human brain
-Human gastrointestinal tract
 Human skin
-Hydantoin
 Hypnotic
-Hypolipidemic agent
 Hypothalamic–pituitary hormone
 ISBN (identifier)
 ISSN (identifier)
-Imepitoin
 Immune system
-Immunomodulator
 Immunostimulant
 Immunosuppressive drug
 Infection
-Intelligence quotient
-Intravenous immunoglobulin
 Joint
-Ketogenic diet
-Lacosamide
-Lamotrigine
-Laxative
-Levetiracetam
-List of withdrawn drugs
-Local anesthetic
-Lorazepam
-Malignant
-Management of Parkinson's disease
-Medication
-Mephenytoin
-Mesuximide
 Metabolism
-Metharbital
-Methazolamide
-Methsuximide
-Methylphenobarbital
-Midazolam
-Mineralocorticoid
-Mirogabalin
-Mixed seizures
-Monotherapy
-Mood stabilizer
-Mood stabilizers
-Motivation-enhancing drug
-Muscle
-Muscle relaxant
-N-type calcium channel
-National Institutes of Health
 Nervous system
-Neurodevelopmental disorder
-Neuron
-Neuropathic pain
-Neuroprotective
-Neurotoxin
-Nimetazepam
-Nitrazepam
-Non-steroidal anti-inflammatory drug
-Nootropic
-Ophthalmology
-Opioid withdrawal
-Orexigenic
-Otology
-Oxcarbazepine
-P-type calcium channel
 PMC (identifier)
 PMID (identifier)
-Paraldehyde
-Paramethadione
-Partial seizures
-Pentobarbital
-Perampanel
-Peroxisome proliferator-activated receptor alpha
-Pharmacological
-Phases of clinical research
-Phenacemide
-Pheneturide
-Phenobarbital
-Phensuximide
-Phenytoin
-Piracetam
-Placebo
-Platelet
-Potassium bromide
-Potassium channel opener
-Pregabalin
-Pregnancy
-Primidone
-Progabide
-Propionate
-Proton-pump inhibitor
-Psychedelic drug
-Psychedelics, dissociatives and deliriants
-Pyridoxine
-Pyrimidinedione
-Pyrrolidine
-Radiopharmacology
-Renin inhibitor
-Renin–angiotensin system
-Respiratory system
-Restless leg syndrome
-Resuscitation
-Retigabine
-Rufinamide
 S2CID (identifier)
-SV2A
-Sedation
-Sedative
-Seizure
-Selective estrogen receptor modulator
-Seletracetam
-Senotherapeutics
-Sense
-Serenic
-Severe myoclonic epilepsy of infancy
-Sex steroid
-Sodium bromide
-Sodium channel
-Sodium channel blocker
-Sodium valproate
-Spindle poison
-Statin
-Status epilepticus
-Stimulant
-Stiripentol
-Substance use disorder
-Succinimide
-Sulfonamide (medicine)
-Sultiame
-Susan McElroy
 Synonym
-Temazepam
-Thrombolytic drug
-Thyroid hormone
-Tiagabine
-Topiramate
-Topoisomerase inhibitor
-Tracy Putnam
-Traumatic brain injury
-Triazine
-Trimethadione
-Urea
-Vaccine
-Vagus nerve stimulation
-Valnoctamide
-Valproate
-Valproate pivoxil
-Valproate semisodium
-Valproic acid
-Valpromide
-Vasodilation
-Vigabatrin
-Vitamin
-Voltage-gated calcium channel
-Voltage gated sodium channels
-WHO Model List of Essential Medicines
-Wakefulness-promoting agent
 Wayback Machine
-Ziconotide
-Zonisamide

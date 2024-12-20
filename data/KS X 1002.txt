@@ -5,16 +5,12 @@ ARIB STD B24 character set
 ASCII
 ASMO 449
 ATASCII
-A (hangul)
-Ae (hangul)
-Amstrad CP/M Plus character set
 Amstrad CPC character set
 Apple II character set
 ArmSCII
 Atari ST character set
 BCD (character encoding)
 Baudot code
-Bieup
 Big5
 Binary Ordered Compression for Unicode
 Bitstream International Character Set
@@ -24,9 +20,6 @@ CCSID
 CDC display code
 CER-GS
 CESU-8
-CJK
-CJK Unified Ideographs
-CJK Unified Ideographs (Unicode block)
 CNS 11643
 CSX+ Indic character set
 CSX Indic character set
@@ -37,10 +30,7 @@ Character encoding
 Character encodings in HTML
 Character set
 Charset detection
-Chieut
 Chinese Character Code for Information Interchange
-Chinese character encoding
-Chinese input methods
 Chinese telegraph code
 Code page
 Code page 1006
@@ -58,17 +48,10 @@ Code page 1019
 Code page 1020
 Code page 1021
 Code page 1023
-Code page 1034
 Code page 1040
 Code page 1042
 Code page 1043
-Code page 1044
 Code page 1046
-Code page 1052
-Code page 1053
-Code page 1054
-Code page 1055
-Code page 1056
 Code page 1058
 Code page 1098
 Code page 1101
@@ -107,7 +90,6 @@ Code page 853
 Code page 855
 Code page 856
 Code page 857
-Code page 858
 Code page 859
 Code page 860
 Code page 861
@@ -124,7 +106,6 @@ Code page 896
 Code page 897
 Code page 899
 Code page 903
-Code page 904
 Code page 912
 Code page 915
 Code page 921
@@ -142,7 +123,6 @@ Compucolor II character set
 Control character
 Cooke and Wheatstone telegraph
 Cork encoding
-DBCS
 DEC Hebrew
 DEC RADIX 50
 DEC Special Graphics
@@ -152,14 +132,10 @@ DIN 66003
 DIN 91379
 DKOI
 Diacritic
-Digeut
 Digital Equipment Corporation
 Digital encoding of APL symbols
 EBCDIC
 ELOT 927
-E (hangul)
-Eo (hangul)
-Eu (hangul)
 Extended Latin-8
 Extended Unix Code
 FOCAL character set
@@ -173,61 +149,24 @@ GEM character set
 GOST 10859
 GSM 03.38
 Galaksija (computer)
-Giyeok
 Greek alphabet
 HP Roman
 HZ (character encoding)
-Halfwidth and Fullwidth Forms (Unicode block)
 Han unification
 Hangul
-Hangul (obsolete Unicode block)
-Hangul Compatibility Jamo
-Hangul Jamo (Unicode block)
-Hangul Jamo Extended-A
-Hangul Jamo Extended-B
-Hangul Syllables
-Hangul consonant and vowel tables
 Hanja
 Hardware code page
-Hieut
 Hong Kong Supplementary Character Set
 IBM AIX
-IEC-P27-1
 INIS-8
 INIS character set
 ISBN (identifier)
-ISO-2022-CN
-ISO-2022-JP
-ISO-2022-KR
-ISO-IR
 ISO-IR-111
-ISO-IR-165
 ISO-IR-169
 ISO-IR-182
 ISO-IR-197
 ISO-IR-200
 ISO-IR-68
-ISO/IEC 10367
-ISO/IEC 2022
-ISO/IEC 646
-ISO/IEC 8859
-ISO/IEC 8859-1
-ISO/IEC 8859-10
-ISO/IEC 8859-11
-ISO/IEC 8859-12
-ISO/IEC 8859-13
-ISO/IEC 8859-14
-ISO/IEC 8859-15
-ISO/IEC 8859-16
-ISO/IEC 8859-2
-ISO/IEC 8859-3
-ISO/IEC 8859-4
-ISO/IEC 8859-5
-ISO/IEC 8859-6
-ISO/IEC 8859-7
-ISO/IEC 8859-8
-ISO/IEC 8859-9
-ISO 2022
 ISO 2033
 ISO 5426
 ISO 5427
@@ -235,10 +174,7 @@ ISO 5428
 ISO 6438
 ISO 6862
 ITU T.61
-I (hangul)
-Ieung
 Indian Script Code for Information Interchange
-Intecolor/Compucolor 8001 character set
 Iran System encoding
 JIS X 0201
 JIS X 0208
@@ -246,10 +182,7 @@ JIS X 0211
 JIS X 0212
 JIS X 0213
 JIS encoding
-Japanese input methods
 Japanese language in EBCDIC
-Jeju language
-Jieut
 KOI-7
 KOI8-R
 KOI8-RU
@@ -258,17 +191,10 @@ KOI character encodings
 KPS 9566
 KS X 1001
 Kamenický encoding
-Ken Lunde
-Kieuk
-Korean language
-Korean language and computers
 LST 1564
 LST 1590-4
 LY1 encoding
 Latin alphabet
-List of CJK fonts
-List of Hangul jamo
-List of modern Hangul characters in ISO/IEC 2022–compliant national character set standards
 Lotus International Character Set
 Lotus Multi-Byte Character Set
 MARC-8
@@ -292,7 +218,6 @@ Mac OS Hebrew
 Mac OS Icelandic encoding
 Mac OS Inuit
 Mac OS Keyboard encoding
-Mac OS Maltese/Esperanto encoding
 Mac OS Ogham
 Mac OS Roman
 Mac OS Romanian encoding
@@ -304,7 +229,6 @@ Macintosh Font X encoding
 Macintosh Latin encoding
 Magnetic ink character recognition
 Mazovia encoding
-Mieum (hangul)
 Mojibake
 Mojikyō
 Morse code
@@ -313,39 +237,27 @@ Multinational Character Set
 NEC APC character set
 National Replacement Character Set
 NeXT character set
-Nieun
-O'Reilly Media
 OML encoding
 OMS encoding
 OT1 encoding
-O (hangul)
-Oe (hangul)
 PETSCII
 Perso-Arabic Script Code for Information Interchange
-Pieup
 PostScript Latin 1 Encoding
 PostScript Standard Encoding
 Prosigns for Morse code
 RISC OS character set
 RPL character set
-Rieul (hangul)
 Russian Morse code
-SAM Coupé character set
 SI 960
 SQUOZE
-Sebastopol, California
 Sega SC-3000 character set
 Sharp MZ character set
 Sharp pocket computer character sets
-Shift-JIS
 Shift JIS
 Sinclair QL character set
-Siot
 Standard Compression Scheme for Unicode
-Stanford/ITS character set
 Stanford Extended ASCII
 Symbol (typeface)
-T.51/ISO/IEC 6937
 TI calculator character sets
 TRON (encoding)
 TRS-80 character set
@@ -357,7 +269,6 @@ Teletex
 Teletext
 Teletext character set
 Thai Industrial Standard 620-2533
-Tieut
 Transcode (character encoding)
 UTF-1
 UTF-16
@@ -365,12 +276,9 @@ UTF-32
 UTF-7
 UTF-8
 UTF-EBCDIC
-U (hangul)
-Ui (hangul)
 Unicode
 Unicode control characters
 Unified Hangul Code
-Unihan
 Universal Coded Character Set
 VISCII
 VSCII
@@ -380,13 +288,9 @@ Variable-width encoding
 Ventura International
 Videotex
 Videotex character set
-Wa (hangul)
 Wabun code
-Wae (hangul)
 Wang International Standard Code for Information Interchange
-We (hangul)
 Whitespace character
-Wi (hangul)
 Windows-1250
 Windows-1251
 Windows-1252
@@ -397,104 +301,11 @@ Windows-1256
 Windows-1257
 Windows-1258
 Windows-1270
-Windows Cyrillic + Finnish
-Windows Cyrillic + French
-Windows Cyrillic + German
 Windows Polytonic Greek
 Windows code page
-Wo (hangul)
 World System Teletext
 Xerox Character Code Standard
 YUSCII
-Ya (hangul)
-Yae (hangul)
-Ye (hangul)
-Yeo (hangul)
-Yo (hangul)
-Yu (hangul)
 ZX80 character set
 ZX81 character set
 ZX Spectrum character set
-ᄓ
-ᄖ
-ᄗ
-ᄘ
-ᄙ
-ᄛ
-ᄟ
-ᄤ
-ᄥ
-ᄦ
-ᄨ
-ᄪ
-ᄰ
-ᄱ
-ᄳ
-ᄴ
-ᄵ
-ᄷ
-ᄸ
-ᄹ
-ᄺ
-ᄻ
-ᄼ
-ᄽ
-ᄾ
-ᄿ
-ᅁ
-ᅂ
-ᅃ
-ᅄ
-ᅅ
-ᅆ
-ᅇ
-ᅈ
-ᅉ
-ᅊ
-ᅋ
-ᅍ
-ᅎ
-ᅏ
-ᅐ
-ᅑ
-ᅒ
-ᅓ
-ᅔ
-ᅕ
-ᅖ
-ᅚ
-ᅶ
-ᅷ
-ᅸ
-ᅹ
-ᅺ
-ᅻ
-ᅼ
-ᅽ
-ᅾ
-ᅿ
-ᆀ
-ᆁ
-ᆂ
-ᆃ
-ᆆ
-ᆇ
-ᆉ
-ᆊ
-ᆋ
-ᆌ
-ᆍ
-ᆎ
-ᆏ
-ᆐ
-ᆓ
-ᆕ
-ᆖ
-ᆗ
-ᆘ
-ᆙ
-ᆚ
-ᆛ
-ᆜ
-ᆝ
-ᆟ

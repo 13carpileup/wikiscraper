@@ -1,4 +1,3 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
 AlmaLinux
@@ -51,7 +50,6 @@ Debian
 Deepin
 DemoLinux
 Devuan
-DistroWatch
 DivestOS
 DoudouLinux
 Dreamlinux
@@ -84,7 +82,6 @@ GoboLinux
 Gobuntu
 GrapheneOS
 HandyLinux
-Hyperbola GNU/Linux-libre
 Immunix
 IodéOS
 Jurix
@@ -106,7 +103,6 @@ Libranet
 LinHES
 LineageOS
 Linpus Linux
-Linspire
 Linux
 LinuxTLE
 Linux Caixa Mágica
@@ -130,7 +126,6 @@ Mer (software distribution)
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Musix GNU+Linux
 Network Security Toolkit
 NimbleX
 Nitix
@@ -145,7 +140,6 @@ OpenSUSE
 Open Enterprise Server
 Oracle Linux
 PCLinuxOS
-Parabola GNU/Linux-libre
 Parallel computing
 Paranoid Android (operating system)
 Parrot OS
@@ -157,7 +151,6 @@ PixelExperience
 Platypux
 Pop! OS
 Porteus (operating system)
-PowerPC
 Programmer
 Puppy Linux
 PureOS
@@ -214,18 +207,13 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 User interface
 VectorLinux
 Vine Linux
 Void Linux
 Whonix
 Wubuntu
-X86-64
 XB Machine
-Xandros
-Xfce
 Xubuntu
 Yellow Dog Linux
 Zenwalk

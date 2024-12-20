@@ -1,6 +1,3 @@
-4K Disk Monitor System
-ADM-3
-ANSI X3.64
 ANSI escape code
 AdvFS
 Alpha 21064
@@ -10,10 +7,7 @@ Alpha 21364
 Alpha 21464
 AltaVista
 BASIC-8
-Backwards compatibility
-Box-drawing characters
 Bus (computing)
-CP/M
 CPU
 CPU Wars
 CVAX
@@ -30,7 +24,6 @@ Computer memory
 Computer terminal
 DECUS
 DEC Alpha
-DEC BATCH-11/DOS-11
 DEC GT40
 DEC Hebrew
 DEC J-11
@@ -42,20 +35,16 @@ DEC Systems Research Center
 DEC T-11
 DEC Technical Character Set
 DEC V-11
-DECmate
 DECnet
 DECtalk
 DECtape
 DECwriter
 DIBOL
 DIGITAL Command Language
-De facto standard
 Digital Equipment Corporation
 Digital Federal Credit Union
 Digital Linear Tape
 Digital Storage Systems Interconnect
-Digital UNIX
-Digital current loop interface
 Dynamic debugging technique
 Dynamically Redefined Character Set
 FOCAL (programming language)
@@ -66,15 +55,11 @@ Gold key (DEC)
 Gordon Bell
 HP-Interex
 Harlan Anderson
-IBM 3270
 Instruction set architecture
-Intel 8080
 Interactive Application System
 Ken Olsen
 LK201
 LK421
-LSI-11
-Living Computer Museum
 Local Area Transport
 MACRO-10
 MACRO-11
@@ -87,17 +72,13 @@ Microprocessor
 Minicomputer
 Multinational Character Set
 NVAX
-NVRAM
 National Replacement Character Set
-Non-volatile memory
-OS/8
 On-line Debugging Tool
 OpenVMS
 Operating system
 PALcode
 PDP-11 architecture
 PDP-7
-PDP-8
 Processor (computing)
 Programming language
 Q-Bus
@@ -105,29 +86,21 @@ RA90
 RK05
 RL02
 RS-232
-RSTS/E
 RSX-11
-RSX-15
 RT-11
 ReGIS
 Record Management Services
-Reverse video
 Rigel (microprocessor)
 Robert Palmer (computer businessman)
 Server (computing)
 Sixel
 Standard Disk Interconnect
 Star coupler
-State of the art
 StrongARM
 Synchronous Backplane Interconnect
 System Module
-System Reference Manual
-TD/SMP
 TOPS-10
 TOPS-20
-TSS/8
-TU58
 TU81
 TURBOchannel
 Terminal emulator
@@ -140,31 +113,12 @@ VAXELN
 VAX MACRO
 VT05
 VT1000
-VT101
-VT102
-VT103
-VT105
-VT131
 VT180
-VT1XX-AA
-VT1XX-AB
 VT220
-VT240
-VT241
 VT320
-VT330
-VT340
 VT420
-VT50
-VT510
 VT52
 VT520
-VT525
-VT55
-VT62
 VT640
-Vermont Route 102
-Vermont Route 103
 WPS-8
-Waveform graphics
 Zilog Z80

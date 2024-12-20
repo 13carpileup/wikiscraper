@@ -1,223 +1,26 @@
-*-algebra
-Abstract index group
-Adjoint of an operator
-Adjoint operator
-Alain Connes
 Algebra over a field
-Almost Mathieu operator
-Alon–Boppana bound
-Amenable Banach algebra
-Approximate identity
-Approximately finite dimensional C*-algebra
-Approximation property
-Artin–Wedderburn theorem
-Balanced set
-Banach *-algebra
-Banach algebra
-Banach algebra cohomology
-Banach function algebra
-Banach space
-Banach–Alaoglu theorem
-Banach–Mazur distance
-Barrelled space
-Bauer–Fike theorem
-Besov space
-Borel functional calculus
-Bounded linear map
 Bounded operator
-Calculus of variations
-Calkin algebra
-Canonical form
 Character (mathematics)
-Characteristic velocity
-Charles Earl Rickart
-Choquet theory
-Closed graph theorem (functional analysis)
-Closed set
-Cohen–Hewitt factorization theorem
 Compact operator
-Compact operator on Hilbert space
-Complete topological vector space
 Complex number
-Conjugate transpose
-Continuous functional calculus
-Continuous linear operator
-Continuous spectrum (functional analysis)
-Contraction (operator theory)
-Convex cone
-Corona theorem
-Dagger (typography)
-Decomposition of spectrum (functional analysis)
-Dirac spectrum
-Direct integral
-Direct sum of modules
-Dirichlet eigenvalue
-Discrete spectrum (mathematics)
-Disk algebra
-Distribution (mathematics)
 Doi (identifier)
 Dual space
 Encyclopedia of Mathematics
-Essential spectrum
 European Mathematical Society
-Extensions of symmetric operators
-Fredholm theory
-Fréchet space
 Functional analysis
-Functional calculus
-GNS construction
-Gelfand isomorphism
-Gelfand representation
-Gelfand–Mazur theorem
-Gelfand–Naimark theorem
-Gelfand–Naimark–Segal construction
-Generalized function
-Glossary of functional analysis
-Group C^*-algebra
-Group algebra of a locally compact group
-Hahn–Banach theorem
-Hardy space
 Harmonic analysis
-Hausdorff space
-Hearing the shape of a drum
-Heat kernel
-Hereditary C*-subalgebra
-Hermitian adjoint
-Hilbert C*-module
 Hilbert space
 Hilbert–Schmidt operator
-Homeomorphism
-Hölder space
 ISBN (identifier)
 Ideal (ring theory)
-Index theorem
-Integral linear operator
-Invariant subspace problem
 Involution (mathematics)
-Irving Segal
-Isometry
 Isomorphism
-Isospectral
-Israel Gelfand
-Jacques Dixmier
-James Glimm
-John von Neumann
-Jones polynomial
-Jordan operator algebra
-Kakutani fixed-point theorem
-Krein–Milman theorem
-Krein–Rutman theorem
-Kuznetsov trace formula
-Lax pair
-Limiting absorption principle
-Linear operator
-List of functional analysis topics
-Local quantum field theory
-Locally compact
-Locally compact group
-Locally convex topological vector space
-Mahler's conjecture
 Map (mathematics)
-Mark Naimark
 Matrix (mathematics)
-Matrix mechanics
-Min-max theorem
-Minkowski spacetime
-Model (abstract)
-Noncommutative geometry
-Noncommutative topology
-Norm closed
-Norm topology
-Normal eigenvalue
-Normal element
-Normal operator
-Nuclear C*-algebra
-Nuclear operator
-Nuclear space
-Numerical range
-Observable
-Operator K-theory
-Operator algebra
-Operator norm
-Operator space
-Operator system
-Ordered group
-Orlicz space
-Partial order
-Pascual Jordan
 Physics
-Point spectrum
-Polar decomposition
-Positive linear functional
-Positive operator-valued measure
-Projection-valued measure
-Proto-value function
-Pseudospectrum
-Quantum information science
 Quantum mechanics
-Quotient
-Ramanujan graph
-Rayleigh–Faber–Krahn inequality
-Reflexive space
-Riemann hypothesis
-Riesz projector
-Riesz representation theorem
-Rigged Hilbert space
 Ring (mathematics)
-Robert S. Doran
-Schröder–Bernstein theorems for operator algebras
-Schur–Horn theorem
-Schwartz space
-Self-adjoint
-Self-adjoint operator
-Semigroup with involution
-Semisimple algebra
-Separable space
-Sherman–Takeda theorem
-Shilov boundary
-Shoichiro Sakai
 Singular value decomposition
-Sobolev space
-Spectral abscissa
-Spectral asymmetry
-Spectral gap
-Spectral geometry
-Spectral method
-Spectral radius
-Spectral theorem
 Spectral theory
-Spectral theory of compact operators
-Spectral theory of normal C*-algebras
-Spectral theory of ordinary differential equations
-Spectrum (functional analysis)
-Spectrum of a C*-algebra
-Star-algebra
-State (functional analysis)
-Structure space
-Sturm–Liouville theory
-Superstrong approximation
-Tietze extension theorem
-Tomita–Takesaki theory
-Topological quantum field theory
-Topological vector space
 Trace class
-Transfer operator
-Transform theory
-Transpose of a linear map
-Unbounded operator
-Uniform algebra
-Uniform boundedness principle
-Unit (ring theory)
-Unitary element
-Unitary operator
-Unitary representation
-Universal morphism
 Vector space
-Von Neumann algebra
-Weak operator topology
-Weak topology
-Werner Heisenberg
-Weyl law
-Wiener algebra
-Wiener–Khinchin theorem
-William Arveson

@@ -1,132 +1,14 @@
-Active learning (machine learning)
-Anomaly detection
 ArXiv (identifier)
-Artificial neural network
-Automatic differentiation
-Backpropagation
-Bayesian statistics
-Bias–variance tradeoff
 Bioinformatics
-Boosting (meta-algorithm)
-Case-based reasoning
-Cheminformatics
-CiteSeerX (identifier)
-Class membership probabilities
-Computational learning theory
 Computer vision
-Conditional probability
-Conditional random field
 Cross-validation (statistics)
 Curse of dimensionality
-Data pre-processing
-Database marketing
-Decision tree
-Decision tree learning
-Deterministic noise
-Differentiable function
-Differentiable programming
-Dimensionality reduction
-Discriminative model
 Doi (identifier)
-Downward causation
-Early stopping
-Empirical risk minimization
-Ensembles of classifiers
 Euclidean norm
-Feature (machine learning)
-Feature selection
-Feature vector
-Flux (machine-learning framework)
-Gaussian process regression
-Generalization (learning)
-Generalization error
-Generative model
 Genetic programming
-Google JAX
-Graphcore
-Group method of data handling
-Handwriting analysis
-Handwriting recognition
-Hyperparameter (machine learning)
 ISBN (identifier)
-Independent and identically-distributed random variables
-Inductive bias
-Inductive logic programming
-Information extraction
-Information geometry
 Information retrieval
-Joint probability
-Joint probability distribution
-K-nearest neighbors algorithm
-Keras
-L0 "norm"
-Learning automaton
-Learning classifier system
-Learning to rank
-Learning vector quantization
-Linear discriminant analysis
-Linear regression
-List of datasets for machine learning research
-Logistic regression
-Loss function
 Machine learning
-Maximum entropy classifier
-Maximum likelihood
-Mehryar Mohri
-Memristor
-MindSpore
-Minimum message length
-Multilayer perceptron
-Multilinear subspace learning
-Naive Bayes classifier
-Nearest neighbor (pattern recognition)
-Neural network (machine learning)
-Neuromorphic computing
-No free lunch in search and optimization
-Occam's razor
-Optical character recognition
-Optimization (mathematics)
-Ordinal classification
-Overfitting
-Parse tree
-Pattern recognition
-Posterior probability
-Proaftn
 Probably approximately correct learning
-Procurement
-PyTorch
-Quantitative structure–activity relationship
-Random forest
-Regularization (mathematics)
-Ricci calculus
-Ripple down rules
-Satellite imagery
-Scikit-learn
-Scoring function
-Semi-supervised learning
-Similarity learning
 Spamming
-Speech recognition
-SpiNNaker
-Statistical manifold
-Statistical model
-Statistical relational learning
-Statistical significance
-Structural risk minimization
-Structured prediction
-Subject-matter expert
-Support-vector machine
-Support Vector Machines
-Support vector machine
-Target variable
-TensorFlow
-Tensor Processing Unit
-Test set
-Theano (software)
-Training, validation, and test data sets
 Unsupervised learning
-Validation set
-Variable kernel density estimation
-Version space
-Vision processing unit
-Weak supervision

@@ -1,116 +1,62 @@
 ANSI C
-AT&T Bell Laboratories
 Alef (programming language)
 Amsterdam Compiler Kit
 Anjuta
-Assert.h
-Bell Labs
 Bibcode (identifier)
 Bionic (software)
-Borland Turbo C
-Brian Kernighan
 Byte
 C++
 C11 (C standard revision)
 C17 (C standard revision)
 C23 (C standard revision)
 C99
-CLion
 C (programming language)
 C POSIX library
 C Sharp (programming language)
-C alternative tokens
 C character classification
 C data types
 C date and time functions
 C dynamic memory allocation
-C localization functions
 C mathematical functions
 C preprocessor
-C process control
-C signal handling
 C standard library
 C string handling
 C syntax
-Callback function
-CiteSeerX (identifier)
 Clang
 CodeLite
 Comparison of Pascal and C
-Compatibility of C and C++
 Computer file
 D (programming language)
-David Korn (computer scientist)
 Dennis Ritchie
 Dietlibc
-Doug McIlroy
 Eclipse (software)
 Embedded C
-Embedded GLIBC
-End-of-file
-Englewood Cliffs
-Errno.h
-File descriptor
-Fseek
 GNOME Builder
 GNU Compiler Collection
 Geany
 Glibc
 Go (programming language)
-Handle (computing)
-Header file
-Hybris (software)
-ISO C++
 Include directive
-Input/output
-Input/output (C++)
 Integrated development environment
-Intel C++ Compiler
 KDevelop
 Klibc
 LCC (compiler)
 Limbo (programming language)
-List of C compilers
 MISRA C
 Microsoft Visual C++
 Microsoft Visual Studio Express
 Microsoft Windows library files
-Mike Lesk
 Musl
-Namespace
 NetBeans
 Newlib
 Norcroft C compiler
-Null pointer
 Objective-C
-Opaque pointer
-Operators in C and C++
 PHP
 POSIX
 Portable C Compiler
-Prentice Hall
-Printf format string
-Random access
-Rename (computing)
-Rob Pike
-Scanf format string
-Setjmp.h
-Sfio
-Single Unix Specification
-Sizeof
 Small Device C Compiler
-Standard library
-Standard streams
 Stdarg.h
-Stream (computing)
-Subroutine
-The Open Group
-The UNIX Programming Environment
 Tiny C Compiler
 UClibc
-Unix
-Unsigned integer
 Vala (programming language)
-Version 7 Unix
 Visual Studio
-Watcom C/C++

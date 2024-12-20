@@ -1,48 +1,26 @@
 AC motor
 A Treatise on Electricity and Magnetism
-Abraham Pais
-Acoustics
 Albert Einstein
 Alessandro Volta
 Alfred-Marie Liénard
 Alternating current
 Ampère's circuital law
-Analytical mechanics
 André-Marie Ampère
-Applied physics
-Astrophysics
-Atmospheric physics
-Atomic, molecular, and optical physics
-Atomic physics
 Basic research
-Biophysics
 Biot–Savart law
-Branches of physics
 Bremsstrahlung
 Capacitance
 Carl Friedrich Gauss
-Celestial mechanics
 Charge density
 Charles-Augustin de Coulomb
 Charles Proteus Steinmetz
-Chemical physics
-Classical Electrodynamics (book)
-Classical Newtonian model
-Classical electrodynamics
 Classical electromagnetism and special relativity
-Classical field theory
-Classical mechanics
-Classical optics
 Classical physics
 Computational electromagnetics
 Computational physics
-Condensed matter physics
-Continuum mechanics
 Coulomb
 Coulomb's law
-Course of Theoretical Physics
 Covariant formulation of classical electromagnetism
-Cross product
 Crystallography
 Current density
 Cyclotron radiation
@@ -51,12 +29,9 @@ Del
 Differential equation
 Direct current
 Displacement current
-Dover Publications
-E. T. Whittaker
 Eddy current
 Electret
 Electric charge
-Electric constant
 Electric current
 Electric dipole moment
 Electric field
@@ -67,17 +42,14 @@ Electric potential
 Electric potential energy
 Electric power
 Electrical conductor
-Electrical current
 Electrical impedance
 Electrical network
 Electrical resistance and conductance
 Electricity
-Electricity and Magnetism (book)
 Electrolysis
 Electromagnetic field
 Electromagnetic four-potential
 Electromagnetic induction
-Electromagnetic interaction
 Electromagnetic pulse
 Electromagnetic radiation
 Electromagnetic spectrum
@@ -87,13 +59,11 @@ Electromagnetic waves
 Electromagnetism
 Electromotive force
 Electrostatic discharge
-Electrostatic force
 Electrostatic induction
 Electrostatics
 Emil Lenz
 Emil Wiechert
 Engineering physics
-Experimental physics
 Faraday's law of induction
 Four-current
 Franz Ernst Neumann
@@ -101,9 +71,6 @@ Félix Savart
 Gamma rays
 Gauss's law
 Gauss's law for magnetism
-General relativity
-Geometrical optics
-Geophysics
 Georg Ohm
 George Singer
 Gustav Kirchhoff
@@ -114,16 +81,12 @@ Hendrik Lorentz
 Hermann von Helmholtz
 Hippolyte Fizeau
 History of electromagnetic theory
-History of electromagnetism
-History of optics
-History of physics
 Humphry Davy
 ISBN (identifier)
 Inductance
 Induction motor
 Infrared
 Insulator (electricity)
-Introduction to Electrodynamics
 J. J. Thomson
 James Clerk Maxwell
 James Prescott Joule
@@ -136,10 +99,8 @@ Joseph Larmor
 Joule heating
 Kirchhoff's circuit laws
 Larmor formula
-Length scale
 Lenz's law
 Light
-Line integral
 Linear motor
 List of electrical phenomena
 List of textbooks in electromagnetism
@@ -166,18 +127,11 @@ Mathematical physics
 Maxwell's equations
 Maxwell's equations in curved spacetime
 Maxwell stress tensor
-Medical physics
-Melba Phillips
 Michael Faraday
 Microwave
-Modern physics
-Molecular physics
 Network analysis (electrical circuits)
-Newton's laws of motion
 Newton (unit)
 Nikola Tesla
-Nobel Prize in Physics
-Non-equilibrium thermodynamics
 Nuclear physics
 Ohm's law
 Oleg D. Jefimenko
@@ -187,56 +141,31 @@ Particle physics
 Permeability (electromagnetism)
 Permeance
 Permittivity
-Philosophy of physics
-Physical oceanography
-Physical optics
-Physics education
-Pief Panofsky
 Polarization density
 Poynting vector
 Quantum electrodynamics
-Quantum field theory
-Quantum information science
 Quantum mechanical
 Quantum mechanics
 Radio wave
 Relativistic electromagnetism
-Relativistic mechanics
 Resonator
-Retarded time
 Right-hand rule
 Rotor (electric)
-Rudolf Peierls
-Scalar potential
 Series and parallel circuits
 Siméon Denis Poisson
-Solid-state physics
-Special relativity
 Speed of light
 Static electricity
-Statistical mechanics
 Stator
 Synchrotron radiation
-The Feynman Lectures on Physics
-The Maxwellians
 Theoretical physics
-Thermodynamics
-Timeline of fundamental physics discoveries
 Transformer
 Triboelectric effect
 Ultraviolet
-Vector (geometric)
-Vector potential
-Visible light
 Volt
 Voltage
 Watt
-Wave
 Waveguide (radio frequency)
 Wavelength
-Weber electrodynamics
-Wheeler–Feynman absorber theory
 Wilhelm Eduard Weber
 William Ritchie (physicist)
-Wolfgang Pauli
 X-ray

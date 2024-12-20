@@ -1,394 +1,106 @@
 Abelian group
-Abraham Fraenkel
-Absorbing element
 Addition
-Additive functor
-Additive identity
-Additive inverse
-Adele ring
-Affine algebraic variety
-Algebra over a commutative ring
 Algebra over a field
-Algebra over a ring
-Algebra representation
 Algebraic closure
 Algebraic combinatorics
 Algebraic geometry
-Algebraic integer
-Algebraic integers
-Algebraic number field
 Algebraic number theory
 Algebraic structure
 Algebraic topology
 Algebraic variety
 Algebraically closed field
-American Mathematical Monthly
-American Mathematical Society
-Annals of Mathematics
 ArXiv (identifier)
-Artinian ring
-Artin–Wedderburn theorem
 Associative algebra
 Associative property
-Associativity
 Axiom
-Azumaya algebra
-Banach algebra
-Bartel Leendert van der Waerden
 Basis (linear algebra)
-Bialgebra
 Bijection
 Binary operation
-Binomial coefficient
-Binomial formula
-Birational geometry
-Bjorn Poonen
 Boolean algebra (structure)
-Boolean ring
-Brauer group
-Bronshtein and Semendyayev
-Burnside ring
 Cambridge University Press
-Cartan–Brauer–Hua theorem
 Cartesian product
-Categorical ring
 Category (mathematics)
-Category of abelian groups
-Category of rings
 Category theory
-Center (ring theory)
-Center of a ring
-Central idempotent
-Central simple algebra
-Centralizer (ring theory)
-Centrally primitive
-Change of rings
-Character theory
-Characteristic (algebra)
-Characteristic class
-Chinese remainder theorem
 Clifford algebra
-Cohen structure theorem
-Cohomology group
-Cohomology ring
-Commutative
 Commutative algebra
-Commutative law
 Commutative ring
-Commutativity
-Commutator (ring theory)
-Complemented lattice
-Complete ring
-Completion (ring theory)
 Complex number
 Composition algebra
-Composition of functions
-Continuous function
-Continuous function (topology)
-Convolution
-Coordinate ring
-Coset
-Cup product
-Cyclic algebra
-Cyclic module
-David Eisenbud
 David Hilbert
-Dedekind domain
-Dedekind ring
-Differential operator
-Differential ring
 Dimension (vector space)
-Dirac delta function
-Direct product
-Direct product of rings
-Discrete valuation ring
-Distributive law
 Distributive property
-Division ring
 Doi (identifier)
-Domain (ring theory)
-Donald Knuth
 Element (mathematics)
-Elemente der Mathematik
 Emmy Noether
 Encyclopedia of Mathematics
-Endomorphism
-Endomorphism algebra
-Endomorphism ring
-Endomorphism ring of an elliptic curve
-Epimorphism
 Equivalence relation
-Ernst Kummer
-Euclidean domain
-Euclidean topology
-Even integer
-Excellent ring
-Exponential field
-Exterior power
-Fiber bundle
 Field (mathematics)
 Field extension
-Field of fractions
-Filtered colimit
-Filtered limit
 Finite field
-Finite ring
-Finitely generated ring
-Forgetful functor
-Formal Laurent series
-Formal power series
-Formal power series ring
-Fractional ideal
-Free abelian group
 Free algebra
-Free module
-Free product of associative algebras
-Free ring
-Frobenius endomorphism
-Frobenius homomorphism
-Frobenius theorem (real division algebras)
 Function (mathematics)
-Function field of an algebraic variety
 Functional analysis
-Functor
-GCD domain
-Galois group
 Garrett Birkhoff
-General linear group
-Generic point
 Geometric algebra
 Geometry
 Glossary of ring theory
-Graded ring
 Graduate Texts in Mathematics
-Grothendieck group
 Group (mathematics)
-Group action (mathematics)
-Group homomorphism
-Group ring
 Group theory
-Group with operators
 Gröbner basis
-Hasse invariant of an algebra
 Hdl (identifier)
-Hecke algebra
-Hensel's lemma
 Heyting algebra
 Hilbert's Nullstellensatz
-Homology group
 Hopf algebra
-Hopkins–Levitzki theorem
 ISBN (identifier)
 ISSN (identifier)
-Ian G. Macdonald
 Ideal (ring theory)
-Idempotent element (ring theory)
 Identity element
-Inner automorphism
 Integer
-Integers modulo n
-Integral closure
-Integral domain
-Integrally closed domain
 Intersection (set theory)
-Invariant theory
 Inverse element
-Inverse function
-Involutive ring
-Irving Kaplansky
 Isomorphism
-Israel Kleiner (mathematician)
-Israel Nathan Herstein
 JSTOR (identifier)
-Jean-Pierre Serre
-Jordan canonical form
-Jordan matrix
-Jordan ring
-Kernel (algebra)
-Kernel of a ring homomorphism
-Krull's intersection theorem
-L. E. Dickson
 Lattice (order)
-Left module
 Lie algebra
 Lie group
-Lie ring
 Linear algebra
-Local field
-Local ring
-Localization of a category
-Localization of a ring
-MIT Press
-MR (identifier)
 Magma (algebra)
-Map of lattices
-Martin Isaacs
-Masayoshi Nagata
-Maschke's theorem
 Mathematical analysis
 Mathematical object
 Mathematics
 Matrix (mathematics)
 Matrix multiplication
-Matrix ring
-Maximal ideal
-Metric space
-Michael Artin
-Michael Atiyah
-Moderne Algebra
-Modular arithmetic
 Module (mathematics)
 Monoid
-Monoid (category theory)
-Monoid object
-Monoidal category
-Morita equivalent
-Morphism
-Multilinear form
 Multiplication
-Multiplicative identity
 Multiplicative inverse
-Nathan Jacobson
-Natural number
-Near-ring
-Nicolas Bourbaki
-Nilpotent element
 Nilpotent matrix
-Noetherian ring
 Non-associative algebra
-Non-associative ring
-Nonassociative ring
-Noncommutative algebra
-Noncommutative algebraic geometry
-Noncommutative ring
-Novikov ring
 Number
-Number field
 Number theory
 Operation (mathematics)
-Operator algebra
-Order (algebra)
-Ordered ring
-Oscar Zariski
-P-adic absolute value
-P-adic integer
-P-adic number
-Paul Cohn
-Pierre Samuel
-Point-set topology
-Pointwise
-Poisson ring
 Polynomial
-Polynomial function
 Polynomial ring
-Power series
 Power set
-Preadditive category
-Prime element
-Prime ideal
-Principal ideal
-Principal ideal domain
-Product (category theory)
-Product of rings
-Product topology
-Profinite integer
 Projection (linear algebra)
-Projective limit
-Prüfer group
-Quadratic integers
-Quasi-algebraically closed field
-Quasigroup
 Quaternion
-Quaternion algebra
 Quotient group
 Quotient ring
-Racks and quandles
 Rational function
-Reduced ring
-Regular local ring
-Regular ring
-Representation ring
 Representation theory
-Restricted function
-Restricted product
-Richard Dedekind
-Riemann–Roch theorem
-Ring homomorphism
-Ring of differential operators
 Ring of integers
-Ring of periods
-Ring of sets
-Ring spectrum
 Ring theory
 Rng (algebra)
 S2CID (identifier)
-SBI ring
-Saunders Mac Lane
 Scalar multiplication
 Scheme (mathematics)
-Schubert calculus
-Schur's lemma
-Semifield
 Semigroup
-Semilattice
-Semiprimitive ring
-Semiring
-Semisimple module
-Semisimple ring
-Separable algebra
-Separable extension
-Serge Lang
 Set (mathematics)
-Simple ring
-Simplicial commutative ring
-Simplicial complex
-Simplicial polytope
-Skolem–Noether theorem
-Spectrum (topology)
-Spectrum of a ring
 Sphere
-Sphere spectrum
-Square matrices
 Square matrix
-Stalk (mathematics)
-Stanley–Reisner ring
-Structure theorem for finitely generated modules over a principal ideal domain
-Subclass (set theory)
 Subring
-Substitution (algebra)
 Symmetric algebra
-Symmetric difference
-Symmetric spectrum
-Tensor product of abelian groups
-Tensor product of algebras
-Terminal object
-Theresa M. Korn
-Topological ring
 Topological space
 Topology
-Torus
-Total order
-Total ordering
-Total ring of fractions
-Totally ordered ring
-Tropical semiring
-Tsen's theorem
-Tsit Yuen Lam
-Unique factorization domain
-Uniserial ring
-Unit (ring theory)
-Universal coefficient theorem
-University of Chicago Press
-Valuation (algebra)
-Valuation ring
 Vector space
-Wedderburn's little theorem
-Well ordered
-Weyl algebra
-Witt vector
-Zariski topology
-Zbl (identifier)
-Zero-divisor
-Zero divisor
-Zero ring
-Λ-ring

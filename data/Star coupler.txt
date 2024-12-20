@@ -1,4 +1,3 @@
-4K Disk Monitor System
 AdvFS
 Alpha 21064
 Alpha 21164
@@ -21,7 +20,6 @@ Computer terminal
 Copyright status of works by the federal government of the United States
 DECUS
 DEC Alpha
-DEC BATCH-11/DOS-11
 DEC GT40
 DEC Hebrew
 DEC J-11
@@ -43,22 +41,16 @@ Digital Equipment Corporation
 Digital Federal Credit Union
 Digital Linear Tape
 Digital Storage Systems Interconnect
-Digital UNIX
-Directional coupler
 Dynamic debugging technique
 Dynamically Redefined Character Set
-FAA
 FOCAL (programming language)
 FX!32
-Fiber optics
 Firefly (cache coherence protocol)
 Flip-Chip module
-General Services Administration
 Gold key (DEC)
 Gordon Bell
 HP-Interex
 Harlan Anderson
-Hewlett-Packard
 Instruction set architecture
 Interactive Application System
 Ken Olsen
@@ -71,13 +63,10 @@ MUMPS
 Maintenance Operations Protocol
 Mass Storage Control Protocol
 Massbus
-Maynard, Massachusetts
-Megabit
 MicroVAX 78032
 Multinational Character Set
 NVAX
 National Replacement Character Set
-OS/8
 On-line Debugging Tool
 OpenVMS
 Operating system
@@ -90,30 +79,22 @@ Q-Bus
 RA90
 RK05
 RL02
-RSTS/E
 RSX-11
-RSX-15
 RT-11
 ReGIS
 Record Management Services
-Redundancy (engineering)
 Rigel (microprocessor)
 Robert Palmer (computer businessman)
-Signal
 Sixel
 Standard Disk Interconnect
 StrongARM
 Synchronous Backplane Interconnect
 System Module
-System Reference Manual
-TD/SMP
 TOPS-10
 TOPS-20
-TSS/8
 TU81
 TURBOchannel
 Telecommunications
-Telecommunications network
 The Ultimate Entrepreneur
 Ultrix
 Unibus
@@ -124,24 +105,11 @@ VAX MACRO
 VT05
 VT100
 VT1000
-VT101
-VT102
-VT103
-VT105
-VT131
 VT180
 VT220
-VT240
-VT241
 VT320
-VT330
-VT340
 VT420
-VT510
 VT52
 VT520
-VT525
-VT55
-VT62
 VT640
 WPS-8

@@ -1,160 +1,25 @@
-0/1 knapsack problem
-A* search
-A* search algorithm
-Active-set method
-Affine scaling
-Ailsa Land
 Algorithm
-Algorithmic paradigm
-Alison Harcourt
-Alpha–beta pruning
 Anonymous function
-Approximation algorithm
 ArXiv (identifier)
-Arc routing problem
-Augmented Lagrangian method
-B*
-BP
-Backtracking
-Barrier function
 Bellman–Ford algorithm
-Berndt–Hall–Hall–Hausman algorithm
-Best-first search
-Borůvka's algorithm
-Branch and cut
 Breadth-first search
-Broyden–Fletcher–Goldfarb–Shanno algorithm
-Brute-force search
 C++
-Callable object
-Candidate solution
-Carnegie Mellon University
-CiteSeerX (identifier)
-Combinatorial optimization
-Comparison of optimization software
-Computational phylogenetics
 Computer vision
-Convex hull
-Convex minimization
-Convex optimization
-Criss-cross algorithm
-Cutting-plane method
-Cutting plane
-Cutting stock problem
-Cynthia A. Phillips
 Data structure
-Davidon–Fletcher–Powell formula
-Depth-first search
 Dijkstra's algorithm
-Dinic's algorithm
-Discrete optimization
-Disjoint sets
 Doi (identifier)
 Dynamic programming
-Edmonds–Karp algorithm
-Ellipsoid method
-Evolutionary algorithm
-Exchange algorithm
-FIFO (computing and electronics)
-Feasible region
-Feature selection
 Flow network
-Flow shop scheduling
-Floyd–Warshall algorithm
-Ford–Fulkerson algorithm
-Frank–Wolfe algorithm
 Function (mathematics)
-Function object
-Function pointer
-Gauss–Newton algorithm
-Golden-section search
 Gradient
-Gradient descent
-Graph algorithm
-Greedy algorithm
 Hdl (identifier)
-Hessian matrix
-Heuristic
-Heuristic algorithm
-Higher-order function
-Hill climbing
 ISBN (identifier)
-Integer linear programs
-Integer programming
-Interval arithmetic
-Interval contractor
-Iterative method
 JSTOR (identifier)
-Karmarkar's algorithm
-Keinosuke Fukunaga
-Kruskal's algorithm
-Kurt Mehlhorn
-Lemke's algorithm
-Levenberg–Marquardt algorithm
-Limited-memory BFGS
-Line search
 Linear programming
-Local convergence
-Local search (optimization)
-London School of Economics
 Machine learning
 Mathematical optimization
-Matroid
-Maximum satisfiability problem
-Metaheuristic
 Minimum spanning tree
-Mirror descent
-NP-hard
-Nearest neighbor search
-Nelder–Mead method
-Newton's method in optimization
 Noise
-Nonlinear conjugate gradient method
-Nonlinear programming
-Optimization algorithm
-Parallel metaheuristic
-Penalty method
-Peter Sanders (computer scientist)
-Powell's dog leg method
-Powell's method
-Prim's algorithm
-Priority queue
 Probability
-Pruning (decision trees)
-Push–relabel maximum flow algorithm
-Quadratic assignment problem
-Quadratic programming
-Quasi-Newton method
-Queue (abstract data type)
-Revised simplex method
-Richard W. Conway
 S2CID (identifier)
-Search tree
-Sequential quadratic programming
-Set cover problem
-Set estimation
-Set inversion
-Shortest Path Faster Algorithm
-Shortest path problem
-Simplex algorithm
-Simulated annealing
-Spiral optimization algorithm
-Stack (data structure)
-State space search
 Statistics
-Structured prediction
-Subgradient method
-Successive linear programming
-Successive parabolic interpolation
-Symmetric rank-one
-Tabu search
-Talent Scheduling
-Traveling salesman problem
-Travelling salesman problem
-Tree (graph theory)
-Truncated Newton method
-Trust region
-University of Copenhagen
-William L. Maxwell
-Without loss of generality
-Wolfe conditions

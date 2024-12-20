@@ -1,378 +1,82 @@
 8-bit clean
-8BITMIME
-ALL-IN-1
 ARPANET
 ASCII
-Airmail (email client)
-Alpine (email client)
 Android (operating system)
-Anonymous remailer
-Anti-spam techniques
-Anti-spam techniques (email)
-Apple Mail
 ArXiv (identifier)
-Arachne (web browser)
-Asynchronous conferencing
-At sign
-Axigen
-BINARY
-Backscatter (email)
-Balsa (email client)
-Base64
-Becky!
-Beonex Communicator
 Bibcode (identifier)
-Biff (Unix)
-Blind carbon copy
-BlitzMail
-Block quote
 Blog
-Bloomba
-Bounce message
-Bulletin board system
-Bynari
-CAN-SPAM Act of 2003
 CNN
-Carbon copy
 Character set
-Characters per line
-Chicago Manual of Style
-Citadel/UX
-Claris Emailer
-Classilla
-Claws Mail
-Cleancode eMail
 Client (computing)
-Cloudflare
-Collaborative software
-Columbia MM
-Communication software
-Comparison of email clients
-Comparison of webmail providers
-Compatible Time-Sharing System
 CompuServe
-Computer-mediated communication
 Computer network
 Computer virus
 Computer worm
 Computerworld
-Conference call
-Content-Type
 Corporation
-Courier (email client)
 Cryptography
-Cyberdog
-Cyberjack
-DNS server
-Dark Mail Alliance
-Data conferencing
-Delivery Status Notification
 Digital media
-Disposable email address
 Doi (identifier)
-DomainKeys Identified Mail
 Domain Name System
-Domain name
-E-COM
-E-card
-E-mail client
-E-mail subject abbreviations
-EM Client
-Electronic mailing list
 Electronics
-Electronics (magazine)
-Elm (email client)
-EmailTray
-Email Limited
-Email Mailbox
-Email address
-Email apnea
-Email art
-Email attachment
-Email authentication
-Email bankruptcy
-Email bomb
-Email client
-Email digest
-Email encryption
-Email hosting service
-Email hub
-Email marketing
-Email privacy
 Email spam
-Email spoofing
-Email storm
-Email tracking
-Embrowser
-End-to-end principle
-Eudora (email client)
 FBI
 Facebook
-Fdm (software)
-Fetchmail
 FidoNet
 Field (computer science)
-File Transfer Protocol
-File hosting service
 Filename extension
 Flaming (Internet)
-Font
-Forté Agent
-Foxmail
-Fully qualified domain address
-Fully qualified domain name
-GNOME Evolution
-GNUMail
-GNU Privacy Guard
-Geary (e-mail client)
-Getmail
-Gmail
-Gnus
-Gnuzilla
-Government Open Systems Interconnection Profile
-GroupWise
-Guestbook
-GyazMail
-HCL Domino
-HP OpenMail
 HTML
-HTML email
 Harvard University
 Header (computing)
-Heirloom Project
-Hewlett-Packard
-Hiri (email client)
-History of email
-Huffington Post
-Hula (software)
 IBM
-IBM Lotus Notes
-IBM OfficeVision
-IETF
-IMAP
 ISBN (identifier)
 ISSN (identifier)
-Imageboard
-Indiana University
-Information overload
 Information technology
 Instant messaging
-International email
 Internet
-Internet Assigned Numbers Authority
-Internet Engineering Task Force
-Internet Mail Consortium
-Internet Message Access Protocol
-Internet Messaging Program
 Internet Relay Chat
-Internet access
-Internet fax
 Internet forum
-Italics
-JSON Meta Application Protocol
-Jeffrey Heer
-John Klensin
-K-9 Mail
-KMail
-Kerio Connect
-Kontact
-LAN messenger
-Lawrence Lessig
-Lightweight markup language
-List of email subject abbreviations
-Local Mail Transfer Protocol
 Local area network
-Long distance telephone call
-Lotus Notes
-Lotus notes
-MAPI
-MCI Mail
-MH Message Handling System
-MIME
-MX record
-Mahogany (email client)
 Mail
-Mail (Windows)
-Mail delivery agent
-Mail submission agent
-Mail transfer agent
-Mail transport agent
-Mail user agent
-Mailbird
-Mailbox (application)
-Maildir
-Mailing list
-Mailody
-Mailpile
-Mailto
-Mailx
-Mainframe
 Malware
-Markdown
 Massachusetts Institute of Technology
-Mbox
-Message-ID
-Message delivery agent
-Message transfer agent
 Microblogging
 Microsoft
 Microsoft Docs
-Microsoft Entourage
-Microsoft Exchange Server
-Microsoft Internet Mail and News
-Microsoft Mail
-Microsoft Outlook
-Microsoft Outlook Express
-Microsoft Word
 Minicomputer
-Minnesota Internet Users Essential Tool
 Mobile app
-Modest (email client)
-Mozilla Mail & Newsgroups
-Mozilla Thunderbird
-Mulberry (email client)
-Multipurpose Internet Mail Extensions
-Mutt (email client)
-NeXTMail
-Netiquette
-Netscape Mail & Newsgroups
-Netscape Messenger 9
-Newton (app)
-Novell GroupWise
-Novell Groupwise
-Nylas N1
-O'Reilly Media
 OCLC (identifier)
-OfficeLogic
-OfflineIMAP
 Online chat
-Online discussion
-Open mail relay
-Opera Mail
-Opt-in email
-Outlook Express
-Outlook for Windows
 Oxford University Press
 PDF
-POP3
-POPmail
-Pale Moon (web browser)
 Peer-to-peer
-Pegasus Mail
 Personal computer
 Phishing
-Pine (email client)
-Placeholder names in cryptography
-Plain text
-Pocomail
-Post Office Protocol
-Postbox (email client)
 Posting style
-Pretty Good Privacy
-Printable characters
-Privacy-enhanced Electronic Mail
 Productivity
 Proprietary software
-Protocol Wars
-Push-IMAP
-Push email
-Quoted printable
-RFC (identifier)
 RSS
-Ransomware
 Real-time computing
-Reply All (podcast)
-Reply all
-Request for Comments
-Return receipt
-Rich Text Format
-Roundcube
-S/MIME
 S2CID (identifier)
 SSRN (identifier)
-Samsung Email
-Scalix
-Scribe Mail
-SeaMonkey
-Sender Policy Framework
-Sendmail
 Server (computing)
-Setext
-Signature block
-Simple Authentication and Security Layer
-Simple Mail Access Protocol
-Simple Mail Transfer Protocol
 Smartphone
 Social media
-Social network service
-Social norms
-Spark (application)
-Sparrow (email client)
-Spike (application)
-SquirrelMail
-Still camera
-Store-and-forward
-Style guide
-Sylpheed
-Synchronous conferencing
-Syntax
 Talker
-TechNet Magazine
-Telegrams
-Telegraphy
-Telephone call
 Telex
-Textboard
-Texting
 The Atlantic
-The Bat!
 The New York Times
-Time-sharing
-Tor (network)
-TouchMail
 Transport Layer Security
 Trojan horse (computing)
-Trojitá
-Turnpike (software)
-URI scheme
 US-ASCII
 UTF-8
-UUCP
-Underline
 Unicode
 Unicode and email
-United States Postal Service
 Usenet
-Usenet quoting
-User agent string
-Username
-VCR
-Videoconferencing
-Vinyl record
-Virtual Private Network
-Virtual learning environment
-Vivaldi (web browser)
 Voice chat in online gaming
-Voice over IP
-Vouch by Reference
 Wayback Machine
-WebSpyder
 Web browser
-Web bug
-Web chat
-Web conferencing
-Webmail
 Whitespace character
 Wiki
-Wikipedia
-Windows Live Mail
-Windows Mail
-Windows Messaging
 Wired (magazine)
-X-Originating-IP
-X.400
-Xerox Star
-YAM (Yet Another Mailer)
-Yahoo! Mail
-Zarafa (software)
-Zimbra

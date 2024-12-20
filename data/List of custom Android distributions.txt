@@ -1,180 +1,79 @@
-/e/ (operating system)
-AOKP
 API
-AdMob
-AliOS
-Alibaba Cloud
 Amazon (company)
 Amazon Kindle
 Android-x86
 Android (operating system)
-Android 10
 Android 11
-Android 12
-Android 13
-Android 14
-Android 15
-Android 16
-Android App Bundle
-Android Automotive
-Android Cupcake
-Android Debug Bridge
-Android Developer Challenge
-Android Developer Lab
-Android Donut
-Android Eclair
-Android Froyo
 Android Gingerbread
 Android Go
-Android Honeycomb
 Android Ice Cream Sandwich
 Android Jelly Bean
 Android KitKat
 Android Lollipop
-Android Marshmallow
-Android NDK
 Android Nougat
-Android One
-Android Open Accessory Development Kit
-Android Open Source Project
-Android Oreo
 Android Pie
-Android Runtime
-Android SDK
-Android Studio
-Android TV
-Android Things
-Android lawn statues
-Android recovery mode
-Android software development
-Android version history
-Androidland
-Apache Harmony
-Apk (file format)
-App Inventor for Android
-Asus ZenUI
 B2G OS
 Bada (operating system)
-Baidu
-Baidu Yi
-Barnes & Noble Nook
-BharOS
 Binary Runtime Environment for Wireless
 Bionic (software)
 BlackBerry 10
 BlackBerry OS
 BlackBerry Tablet OS
-BlueStacks
-Booting process of Android devices
 BridgeOS
 C++
 C (programming language)
 CalyxOS
-Calyx Institute
 ChromeOS
 ChromeOS Flex
-Chromecast
-ClockworkMod
 ColorOS
-Community of practice
-Comparison of Android Go products
-Comparison of Java and Android API
 Comparison of mobile operating systems
-CopperheadOS
 CrDroid
-Custom Firmware
 CyanogenMod
-Dalvik (software)
 Database
 DivestOS
-Droid (typeface)
 EMUI
 EPOC (operating system)
 Eclipse (software)
-Emteria.OS
 F-Droid
-Fastboot
 Fedora Linux
 Fire OS
-Firebase
-Firebase Cloud Messaging
 Firefox OS
-Font
 FreeBSD
 FreeRTOS
 Fuchsia (operating system)
 GEOS (16-bit operating system)
 GNU
-Galaxy Nexus
 Google
 Google Cardboard
-Google Cloud Messaging
 Google Daydream
-Google Developers
-Google I/O
-Google LLC v. Oracle America, Inc.
 Google Maps
 Google Mobile Services
-Google Nexus
-Google Pixel
-Google Play Services
-Google Search
-Gradle
 GrapheneOS
 HMD Global
-HTC One (M7)
-HTC One (M8)
-HTC Sense
 HarmonyOS
 HarmonyOS NEXT
-Hive UI
-Honor (brand)
-Huawei
-IIT Madras
 IOS
 IPadOS
-Index of Android OS articles
-Indus OS
 Integrated development environment
 Intel Management Engine
-IntelliJ IDEA
 IodéOS
 Java (programming language)
 KaiOS
-Kali NetHunter
-Kingo Root
-Kotlin (programming language)
-LG Electronics
-LG G Pad 8.3
-LG UX
-LeWa OS
-Lenovo smartphones
 LineageOS
 Linux
 Linux Kernel
-List of Android TV devices
-List of Android apps by Google
 List of Android launchers
-List of Android smartphones
-List of Google Play edition devices
-List of features in Android
-List of free and open-source Android applications
 List of mobile app distribution platforms
 List of open-source mobile phones
 LiteOS
 LuneOS
 MIUI
 Maemo
-MagicOS
 Magic Cap
-Magisk (software)
 Manjaro
-Material Design
 MeeGo
-Meizu
 Mer (software distribution)
 Meta Horizon OS
-MicroG
 Microsoft Windows
 Minix 3
 Mobian
@@ -184,69 +83,25 @@ Mobilinux
 Moblin
 MontaVista
 MotoMagx
-Moto G (1st generation)
-Motoblur
 NetBSD
-Nexus 10
-Nexus 4
-Nexus 5
-Nexus 5X
-Nexus 6
-Nexus 6P
-Nexus 7 (2012)
-Nexus 7 (2013)
-Nexus 9
-Nexus One
 Nexus Player
-Nexus Q
-Nexus S
 Nintendo
 Nintendo 3DS system software
 Nintendo DSi system software
 Nintendo Switch system software
 Nokia Asha platform
-Nokia X family
-Noto fonts
-OPhone
-Offensive Security
 OmniROM
-OnePlus
 One UI
-OpenBinder
 OpenEZX
 OpenEmbedded
 OpenHarmony
-OpenJDK
 Open Handset Alliance
 Open Mobile Alliance
 Openmoko Linux
 Operating system
-Oppo
-Optimus UI
-OxygenOS
-POCO (company)
 PalmDOS
 Palm OS
-Paranoid Android (software)
 PixelExperience
-Pixel (1st generation)
-Pixel 2
-Pixel 3
-Pixel 3a
-Pixel 4
-Pixel 4a
-Pixel 5
-Pixel 5a
-Pixel 6
-Pixel 6a
-Pixel 7
-Pixel 7a
-Pixel 8
-Pixel 8a
-Pixel 9 Pro Fold
-Pixel C
-Pixel Fold
-Pixel Tablet
 PlayStation Portable system software
 PlayStation Vita system software
 PostmarketOS
@@ -255,48 +110,27 @@ Programming tool
 PureOS
 QNX
 QtMoko
-Realme
-Realme UI
 Remix OS
-RenderScript
 Replicant (operating system)
 Resurrection Remix OS
-Roboto
-Rooting (Android)
 S60 (software platform)
 SHR (operating system)
-SQLite
-SafetyNet API
 Sailfish OS
 Samsung Electronics
-Samsung Experience
-Samsung Galaxy S4
 Series 30
 Series 30+
 Series 40
 Series 80 (software platform)
 Series 90 (software platform)
-Shiftphone
-Skia Graphics Engine
-SlimRoms
-Smartisan
-Smartisan OS
-Smartphone patent wars
 Software repository
 Sony Ericsson Java Platform
-Sony Xperia Z Ultra
 SteamOS
-SuperSU
 Symbian
-TCL Technology
-TWRP (software)
 ThreadX
 Tizen
-TouchWiz
 UBports
 UIQ
 Ubuntu Touch
-Ubuntu for Android
 User interface
 Virtual reality
 WatchOS
@@ -316,8 +150,5 @@ Windows RT
 Windows XP editions
 XML
 XNU
-Xiaomi
-Xiaomi HyperOS
-XobotOS
 Zircon (microkernel)
 Ångström distribution

@@ -6,14 +6,10 @@ Array (data structure)
 Asymmetric multiprocessing
 Ateji PX
 Automatic parallelization
-Axum (programming language)
-BMDFM
 Barrier (computer science)
 Beowulf cluster
 Bit-level parallelism
-Boost (C++ libraries)
 Bulldozer (microarchitecture)
-C++ AMP
 CUDA
 Cache-only memory architecture
 Cache coherence
@@ -55,16 +51,12 @@ HPX
 Hardware acceleration
 Hardware scout
 High-performance computing
-High Performance Fortran
 ISBN (identifier)
-Id (programming language)
-Implicit Parallel Programming in pH
 Instruction-level parallelism
 Instruction pipelining
 Instruction window
 Interpreter (computing)
 Karp–Flatt metric
-LabVIEW
 List comprehension
 Logarithm
 Loop-level parallelism
@@ -78,19 +70,16 @@ Multiple instruction, multiple data
 Multiple instruction, single data
 Multiprocessing
 Multithreading (computer architecture)
-NESL
 Non-blocking algorithm
 Non-uniform memory access
 OpenACC
 OpenCL
 OpenHMPP
 OpenMP
-Oz programming language
 Parallel Extensions
 Parallel RAM
 Parallel Virtual Machine
 Parallel computing
-Parallel efficiency
 Parallel external memory
 Parallel programming model
 Parallel slowdown
@@ -101,14 +90,11 @@ Pthreads
 ROCm
 Race condition
 RaftLib
-SAC programming language
-SISAL
 Scalability
 Semiconductor memory
 Shared memory
 Simultaneous and heterogeneous multithreading
 Simultaneous multithreading
-Sine
 Single instruction, multiple data
 Single instruction, multiple threads
 Single instruction, single data
@@ -128,5 +114,3 @@ Threading Building Blocks
 Unified Parallel C
 Uniform memory access
 Vector processor
-ZPL (programming language)
-ZPL programming language

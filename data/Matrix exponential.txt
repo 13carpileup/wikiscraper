@@ -1,255 +1,41 @@
-Adjacency matrix
 Adjugate matrix
-Advances in Mathematics
-Algebraic curve
-Algebraically closed
-Alston Scott Householder
-Alternant matrix
-Alternating sign matrix
-Ansatz
-Anti-diagonal matrix
 ArXiv (identifier)
-Arrowhead matrix
-Augmented matrix
-Axis–angle representation
-Baker–Campbell–Hausdorff formula
-Band matrix
-Biadjacency matrix
 Bibcode (identifier)
-Bidiagonal matrix
-Bisymmetric matrix
-Block-diagonal matrix
 Block matrix
-Block tridiagonal matrix
-Boolean matrix
-Bézout matrix
-C0-semigroup
-Cabibbo–Kobayashi–Maskawa matrix
 Cambridge University Press
-Carleman matrix
-Cartan matrix
-Cauchy matrix
-Cayley–Hamilton theorem
-Centering matrix
-Centrosymmetric matrix
 Characteristic polynomial
-Charles F. Van Loan
-Circulant matrix
-CiteSeerX (identifier)
-Cleve Moler
-Cofactor matrix
-Commutation matrix
-Commutative
-Commutativity
 Commutator
-Compact set
-Companion matrix
-Complex Hadamard matrix
 Complex number
-Conference matrix
-Confusion matrix
-Conjugate transpose
-Continuity (mathematics)
-Convergent matrix
-Copositive matrix
-Correlation matrix
-Cosmas Zachos
-Covariance matrix
-Coxeter matrix
-DFT matrix
-David Fairlie
-Defective matrix
-Definite matrix
-Degree matrix
-Density matrix
-Derivative of the exponential map
-Design matrix
 Diagonal matrix
-Diagonalizable matrix
-Diagonally dominant matrix
-Directional derivative
-Distance matrix
 Doi (identifier)
-Doubly stochastic matrix
-Duplication and elimination matrices
-Edmonds matrix
 Eigenvalues and eigenvectors
-Elementary matrix
-Elliott H. Lieb
-Entire function
-Equivalent matrix
 Eric W. Weisstein
-Euclidean distance matrix
-Euler's formula
-Euler's rotation theorem
-Exchange matrix
-Exponential function
-Exponential map (Lie theory)
-Fisher information matrix
-Frobenius covariant
-Frobenius matrix
-Fundamental matrix (computer vision)
-Fundamental matrix (linear differential equation)
-Fuzzy associative matrix
-GNU Octave
-Gamma matrices
-Gell-Mann matrices
-General linear group
-Generalized permutation matrix
-Generator matrix
 Golden–Thompson inequality
-Gram matrix
 Graph theory
 Group (mathematics)
-Hadamard matrix
-Hamiltonian matrix
-Hankel matrix
 Hermitian matrix
-Hessenberg matrix
-Hessian matrix
-Hilbert matrix
-Hollow matrix
-Householder transformation
-Hurwitz-stable matrix
 ISBN (identifier)
 ISSN (identifier)
-Idempotent
 Idempotent matrix
 Identity matrix
-Incidence matrix
-Integer matrix
-Integrating factor
-Interpolation
-Inverse of a matrix
-Invertible matrix
-Involutory matrix
-Irregular matrix
 Jacobi's formula
-Jacobian matrix and determinant
-Jordan block
-Jordan form
-Jordan normal form
-Jordan–Chevalley decomposition
-Lagrange interpolation
-Laplace transform
-Laplacian matrix
-Laurent series
-Lehmer matrix
 Lie algebra
 Lie group
-Lie product formula
-Linear differential equation
-Linear independence
-Lipschitz continuous
-List of matrices
-Logical matrix
-Magnus expansion
-Magnus series
 MathWorld
 Mathematics
-Matlab
 Matrix (mathematics)
-Matrix congruence
-Matrix differential equation
-Matrix function
-Matrix logarithm
-Matrix norm
-Matrix of ones
-Matrix product
-Matrix representation of conic sections
-Matrix trace
-Matrix unit
-Meromorphic function
-Metzler matrix
-Minimal polynomial (linear algebra)
-Moment matrix
-Moore matrix
 Nilpotent matrix
-Nonnegative matrix
-Normal matrix
-One-parameter subgroup
-Ordinary differential equation
-Ordinary differential equations
-Orthogonal matrix
-Overlap matrix
-Padé approximant
-Pascal matrix
 Pauli matrices
-Pauli spin matrices
-Payoff matrix
-Pentadiagonal matrix
-Perfect matrix
 Permutation matrix
-Persymmetric matrix
-Phase-type distribution
-Pick matrix
 Polynomial evaluation
-Polynomial matrix
-Positive-definite matrix
-Power series
-Precision (statistics)
 Projection (linear algebra)
-Projection matrix
-Pseudoinverse
-Quaternionic matrix
-R (programming language)
-Random matrix
 Real number
-Redheffer matrix
-Resolvent formalism
-Rodrigues' rotation formula
-Rotation matrix
-Routh–Hurwitz matrix
-Row echelon form
-S-matrix
 S2CID (identifier)
-SU(2)
-SciPy
-Seidel adjacency matrix
-Seifert matrix
 Shear matrix
-Shift matrix
-Signature matrix
-Similarity matrix
-Skew-Hermitian matrix
-Skew-symmetric matrix
-Skyline matrix
-Smooth function
-Sparse matrix
 Square matrix
-State-transition matrix
 Statistics
-Stieltjes matrix
-Stochastic matrix
-Substitution matrix
-Surjective
 Surjective function
-Sylvester's formula
-Sylvester matrix
 Symmetric matrix
-Symplectic matrix
-Tangent vector
-Thomas Curtright
-Time-evolving block decimation
-Toeplitz matrix
-Totally positive matrix
-Totally unimodular matrix
 Trace identity
-Transformation matrix
 Transpose
 Triangular matrix
-Tridiagonal matrix
-Trigonometric functions of matrices
-Tutte matrix
-Unimodular matrix
-Unipotent
-Unitary matrix
-Vandermonde matrix
-Variation of parameters
-Vector flow
-Walsh matrix
-Weighing matrix
-Wronskian
-Z-matrix (chemistry)
-Z-matrix (mathematics)
-Zero matrix

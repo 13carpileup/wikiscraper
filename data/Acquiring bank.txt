@@ -1,7 +1,6 @@
 American Express
 Bank
 Chargeback
-China UnionPay
 Credit card
 Debit card
 Discover Card
@@ -9,13 +8,7 @@ Financial institution
 Interchange fee
 Issuing bank
 Line of credit
-MasterCard
 Mastercard
 Merchant account
 Payment Card Industry Data Security Standard
-Payment gateway
 Payment processor
-Payment service provider
-Point-of-sale terminal
-Solvency
-Visa Inc.

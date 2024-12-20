@@ -1,44 +1,25 @@
 AC motor
-Acoustics
-Air-core transformer
 Albert Einstein
 Alessandro Volta
 Alfred-Marie Liénard
 Alternating current
-Amikam Aharoni
 Ampère's circuital law
-Ampère's law
-Analytical mechanics
 André-Marie Ampère
-Applied physics
-Astrophysics
-Atmospheric physics
-Atomic, molecular, and optical physics
-Atomic physics
 Basic research
 Bibcode (identifier)
-Biophysics
 Biot–Savart law
-Branches of physics
 Bremsstrahlung
 Capacitance
 Carl Friedrich Gauss
-Celestial mechanics
 Charge density
 Charles-Augustin de Coulomb
 Charles Proteus Steinmetz
-Chemical physics
-Clarendon Press
 Classical electromagnetism
 Classical electromagnetism and special relativity
-Classical mechanics
-Classical optics
 Classical physics
 Computational electromagnetics
 Computational physics
 Computer memory
-Condensed matter physics
-Continuum mechanics
 Coulomb's law
 Covariant formulation of classical electromagnetism
 Crystallography
@@ -46,8 +27,6 @@ Curl (mathematics)
 Current density
 Cyclotron radiation
 DC motor
-Darwin Lagrangian
-Demagnetizing field
 Direct current
 Displacement current
 Divergence
@@ -56,7 +35,6 @@ Eddy current
 Electret
 Electric charge
 Electric current
-Electric currents
 Electric dipole moment
 Electric field
 Electric flux
@@ -86,19 +64,12 @@ Electrostatics
 Emil Lenz
 Emil Wiechert
 Engineering physics
-Experimental physics
 Faraday's law of induction
-Ferrimagnetism
-Ferromagnetism
-Finite element
 Four-current
 Franz Ernst Neumann
 Félix Savart
 Gauss's law
 Gauss's law for magnetism
-General relativity
-Geometrical optics
-Geophysics
 Georg Ohm
 George Singer
 Gustav Kirchhoff
@@ -109,7 +80,6 @@ Hendrik Lorentz
 Hermann von Helmholtz
 Hippolyte Fizeau
 History of electromagnetic theory
-History of physics
 Humphry Davy
 ISBN (identifier)
 Inductance
@@ -140,20 +110,14 @@ Lord Kelvin
 Lorentz force
 Magnetic circuit
 Magnetic complex reluctance
-Magnetic core
 Magnetic field
-Magnetic field intensity
 Magnetic flux
-Magnetic flux density
-Magnetic fringing
 Magnetic moment
 Magnetic reluctance
 Magnetic scalar potential
-Magnetic storage
 Magnetic vector potential
 Magnetism
 Magnetization
-Magnetization reversal
 Magnetomotive force
 Materials science
 Mathematical descriptions of the electromagnetic field
@@ -161,59 +125,35 @@ Mathematical physics
 Maxwell's equations
 Maxwell's equations in curved spacetime
 Maxwell stress tensor
-Medical physics
 Michael Faraday
-Micromagnetics
-Modern physics
-Molecular physics
 Network analysis (electrical circuits)
-Newton's laws of motion
 Nikola Tesla
-Nobel Prize in Physics
-Non-equilibrium thermodynamics
 Nuclear physics
-Numerical integration
 Ohm's law
 Oleg D. Jefimenko
 Oliver Heaviside
 Optics
-Paramagnetism
 Partial differential equation
 Particle physics
 Permeability (electromagnetism)
 Permeance
 Permittivity
-Philosophy of physics
-Physical Review B
-Physical oceanography
-Physical optics
-Physics education
 Polarization density
-Potential
 Poynting vector
-Quantum information science
 Quantum mechanics
 Relativistic electromagnetism
-Relativistic mechanics
 Resonator
 Right-hand rule
 Rotor (electric)
 Series and parallel circuits
 Siméon Denis Poisson
-Solid-state physics
-Special relativity
 Spin (physics)
 Static electricity
-Statistical mechanics
 Stator
-Steady current
 Synchrotron radiation
 Theoretical physics
-Thermodynamics
-Timeline of fundamental physics discoveries
 Transformer
 Triboelectric effect
-Vacuum
 Voltage
 Watt
 Waveguide (radio frequency)

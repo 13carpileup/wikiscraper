@@ -1,13 +1,3 @@
-1G
-2G
-3G
-3G adoption
-4G
-5G
-6G
-ARM architecture
-Airplane mode
-Almquist shell
 Amazon Kindle
 Android (operating system)
 Android Go
@@ -17,277 +7,115 @@ Binary Runtime Environment for Wireless
 BlackBerry 10
 BlackBerry OS
 BlackBerry Tablet OS
-Booting process of Linux
-Box breaker
 BridgeOS
-Camera phone
-Car phone
-Carrier IQ
-Cell phone novel
-Cellular frequencies
 Cellular network
-Channel capacity
 ChromeOS
 ChromeOS Flex
-Clamshell design
-Common external power supply
-CompTIA Linux+
 Comparison of Linux distributions
-Comparison of Symbian devices
 Comparison of mobile operating systems
-Comparison of mobile phone standards
-Comparison of netbook-oriented Linux distributions
-Comparison of smartphones
 Contactless payment
-Criticism of Linux
-Criticism of desktop Linux
-De Quervain syndrome
-Digital media use and mental health
-DistroWatch
-Dual SIM
 EMUI
 EPOC (operating system)
-ESIM
 Electronic waste
-Enlightenment (window manager)
-Feature phone
 Fedora Linux
 Firefox OS
-Foldable smartphone
-Form factor (mobile phones)
 FreeBSD
 FreeRTOS
-Free Software Magazine
 Fuchsia (operating system)
-Full Circle (magazine)
 GEOS (16-bit operating system)
 GNU
-GNU/Linux naming controversy
 GNU Core Utilities
-GNU GPL
-GSM
-GSM services
-GTA04
-GTK+
 HMD Global
-HTC Dream
-Hacker Public Radio
 HarmonyOS
 HarmonyOS NEXT
-High Speed Packet Access
-History of Linux
-History of mobile phones
 IOS
-IOS jailbreaking
 IPadOS
 IPhone
 Instant messaging
 Intel Management Engine
-Japanese mobile phone culture
 KaiOS
 Kernel (operating system)
-LTE Advanced Pro
-LWN.net
-Law
-Legality of recording by civilians
-Light-weight Linux distribution
-Linus's law
 Linux
-Linux-libre
-Linux.com
-LinuxChix
-LinuxUser
-Linux Counter
-Linux Documentation Project
-Linux Format
-Linux Foundation
-Linux Foundation Linux Certification
-Linux Gazette
-Linux Journal
 Linux Kernel
-Linux Magazine
-Linux Mark Institute
-Linux Outlaws
-Linux Voice
-Linux adoption
-Linux desktop environments
 Linux distribution
-Linux for mobile devices
-Linux gaming
 Linux kernel
-Linux kernel oops
-Linux malware
-Linux on embedded systems
-Linux range of use
-Linux user group
 List of 3D-enabled mobile phones
-List of Linux adopters
 List of Linux distributions
-List of Linux distributions that run from RAM
-List of Windows phones
-List of computer security certifications
 List of custom Android distributions
 List of mobile app distribution platforms
-List of mobile network operators
-List of mobile phone generations
 List of open-source mobile phones
-List of software package management systems
 LiteOS
-LugRadio
 LuneOS
-M-learning
-MHealth
-MPlayer
 Maemo
 Magic Cap
 Manjaro
 MeeGo
 Mer (software distribution)
 Microsoft Windows
-Midori (web browser)
 Minix 3
 Mobian
-Mobile VoIP
-Mobile advertising
 Mobile app
 Mobile app development
-Mobile application management
 Mobile banking
 Mobile blogging
-Mobile campaign
-Mobile cloud computing
 Mobile comic
-Mobile commerce
-Mobile content
-Mobile dating
 Mobile device
-Mobile donating
-Mobile gambling
 Mobile game
-Mobile local search
-Mobile marketing
-Mobile music
-Mobile news
 Mobile operating system
 Mobile payment
 Mobile phone
-Mobile phone charm
-Mobile phone feature
 Mobile phone operator
-Mobile phone recycling
-Mobile phone signal
-Mobile phone spam
-Mobile phone tracking
-Mobile phones and driving safety
-Mobile phones in prison
-Mobile radio telephone
-Mobile search
-Mobile security
-Mobile social address book
-Mobile social network
-Mobile telephony
-Mobile television
-Mobile ticketing
-Mobile web
 Mobilinux
 Moblin
 Monolithic kernel
 MontaVista
 MotoMagx
-Multi-band device
-Multimedia Messaging Service
 Natural language
-Neo 1973
-Neo FreeRunner
 NetBSD
-Nexus S
 Nintendo
 Nintendo 3DS system software
 Nintendo DSi system software
 Nintendo Switch system software
 Nokia Asha platform
-Nokia N900
 Open-source software
 OpenEZX
 OpenEmbedded
 OpenHarmony
 Open Handset Alliance
 Open Mobile Alliance
-Openmoko
 Openmoko Linux
-Opkg
-Package format
 Package manager
 PalmDOS
 Palm OS
-Palm Pre
 Phablet
-Phantom vibration syndrome
-Phone cloning
-Phoronix Test Suite
-Photography and the law
-Pidgin (software)
-Pixel density
 PlayStation Portable system software
 PlayStation Vita system software
 PostmarketOS
 Programmer
-Projector phone
 PureOS
-Push email
 QNX
 QtMoko
-Qt (toolkit)
-Red Hat Certification Program
 Replicant (operating system)
-Restrictions on cell phone use while driving in the United States
-Revolution OS
-Rich Communication Services
-Ringtone
-Roaming
-Rooting (Android)
-Rooting (Android OS)
 S60 (software platform)
-SCO–Linux disputes
-SIM card
-SIM lock
-SMS language
 Sailfish OS
-Satellite phone
-Security-focused operating system
-Selfie
 Series 30
 Series 30+
 Series 40
 Series 80 (software platform)
 Series 90 (software platform)
-Short Message Service
-Silent mode
 Smartphone
-Smartwatch
 Software
 Software license
 Sony Ericsson Java Platform
 SteamOS
 Symbian
-Tanenbaum–Torvalds debate
-Telephone tapping
-Tethering
-Text messaging
-Texting while driving
-The Code (2001 film)
 ThreadX
 Tizen
-Tux (mascot)
 UBports
 UIQ
-Ubuntu Professional Certification
 Ubuntu Touch
-Ubuntu User
-Unix-like
 User interface
 User space and kernel space
-Wallpaper (computing)
 WatchOS
 Wear OS
 WebOS
@@ -303,10 +131,7 @@ Windows Phone 8
 Windows Phone 8.1
 Windows RT
 Windows XP editions
-Wireless Application Protocol
 Wireless device radiation and health
-X.Org Server
-XHTML Mobile Profile
 XNU
 Zircon (microkernel)
 Ångström distribution

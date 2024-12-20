@@ -1,223 +1,73 @@
 Abel–Ruffini theorem
-Additive polynomial
-Adjoint functor
-Adjoint functors
 Affine transformation
 Algebra
-Algebra homomorphism
-Algebra isomorphism
-Algebraic element
 Algebraic expression
 Algebraic geometry
-Algebraic number field
 Algebraic number theory
 Algebraic structure
-Algebraic varieties
 Algebraic variety
-Algebraically closed extension
 Algebraically closed field
 Algorithm
-Associate elements
-Associated element
 Associative algebra
-Associativity
-Birkhäuser
 Bivariate polynomial
-Bézout's identity
-Bézout's theorem
-Canonical commutation relation
 Category (mathematics)
-Category of rings
-Cayley–Hamilton theorem
 Characteristic polynomial
 Clifford algebra
 Coefficient
 Commutative algebra
-Commutative algebra (structure)
 Commutative ring
-Commutativity
-Commutator (ring theory)
-Completion of a ring
 Complex number
 Computational complexity
 Computer algebra
-Computer algebra system
-Coprime
-Crossed product
 Cyclotomic polynomial
 David Hilbert
-Derivation (abstract algebra)
-Derivation (differential algebra)
 Derivative
-Differential algebra
-Differential operator
-Direct sum
-Distributive law
-Division ring
 Doi (identifier)
-Effective proof
-Endomorphism
-Endomorphism ring
 Equivalence class
-Euclid's lemma
-Euclidean algorithm for polynomials
-Euclidean division of polynomials
-Euclidean domain
 Exponentiation
 Expression (mathematics)
-Extended Euclidean algorithm
-Extension field
 Factorization of polynomials
 Field (mathematics)
-Field theory (mathematics)
 Finite field
-First ring isomorphism theorem
-Forgetful functor
-Formal derivative
-Formal power series
-Formal power series ring
-Fractional ideal
 Free algebra
-Free commutative algebra
-Free module
-Free monoid
 Free object
-Free product of associative algebras
-Frobenius endomorphism
 Function composition
 Fundamental theorem of algebra
-Fundamental theorem of arithmetic
-GCD domain
-Gauss's lemma (polynomial)
 Geometric algebra
-Global dimension
-Graded ring
 Graduate Texts in Mathematics
-Group ring
 Hilbert's Nullstellensatz
 Hilbert's basis theorem
 Hilbert's syzygy theorem
-Homogeneous coordinates
 Homogeneous polynomial
-Howard Eves
 ISBN (identifier)
 ISSN (identifier)
 Ideal (ring theory)
-Identity function
 Image (mathematics)
-Implicit equation
-Indeterminate (variable)
-Inner automorphism
 Integer
-Integer factorization
-Integers modulo n
-Integral domain
-Integrally closed domain
-Invariant theory
-Involutive ring
 Irreducible polynomial
 Isomorphism
-Jacobian conjecture
-Jordan ring
-Kernel (algebra)
-Krull dimension
-Lagrange polynomial
-Laurent polynomial
-Lie ring
-Like terms
-Limit (mathematics)
 Linear algebra
-Linear combination
-Long division
-MR (identifier)
 Mathematical induction
 Mathematics
-Maximal ideal
-Minimal polynomial (field theory)
-Minimal polynomial (linear algebra)
 Module (mathematics)
-Monic polynomial
 Monoid
-Monoid ring
 Monomial
 Multiplicative inverse
-Multiplicity (mathematics)
-Natural number
-Noetherian ring
-Non-associative ring
-Noncommutative algebra
-Noncommutative algebraic geometry
-Noncommutative polynomial ring
-Noncommutative ring
-Nonnegative integer
 Number theory
-Operator algebra
-Ore extension
-Ore polynomial
-P-adic integer
-P-adic number
-Point at infinity
 Polynomial
-Polynomial complexity
-Polynomial decomposition
 Polynomial evaluation
-Polynomial factorization
-Polynomial function
 Polynomial greatest common divisor
 Polynomial long division
-Polynomial notation
-Polynomial time
-Power series ring
-Preorder
-Principal ideal domain
-Product of rings
-Projective space
-Projective transformation
-Prüfer group
-Puiseux series
-Quadratic time
 Quotient ring
-RSA cryptosystem
-Rational number
 Real number
-Regular ring
-Rig (mathematics)
 Ring (mathematics)
-Ring homomorphism
 Ring of integers
-Ring of polynomial functions
-Ring of regular functions
-Ring of symmetric functions
 Ring theory
-Root finding of polynomials
-Root of a function
-Roots of unity
 S2CID (identifier)
 Scalar multiplication
-Semifield
-Semiprimitive ring
-Semiring
 Sequence
-Serge Lang
 Set (mathematics)
-Simple extension
-Simple ring
-Skew polynomial ring
-Springer-Verlag
 Square-free polynomial
-Square matrices
-Structure theorem for finitely generated modules over a principal ideal domain
 Subring
-Tensor product of algebras
-Total ring of fractions
-Tsit Yuen Lam
-Tuple
-Unique factorization
-Unique factorization domain
-Unit (ring theory)
-Universal property
 Variable (mathematics)
 Vector space
-Weyl algebra
-Zero divisor
-Zero ring

@@ -1,26 +1,12 @@
-Abstract data type
 Abstraction (computer science)
-Algebraic data type
-Algebraic datatype
 Alternative media
 Anonymous blog
-Application-Level Profile Semantics (ALPS)
-Arbitrary-precision arithmetic
-Argument (computer science)
-Array data structure
-Array data type
-Array index
 Art blog
 Assembly language
-Assignment (computer science)
 Associative array
 Astroturfing
 Atom (Web standard)
 Atom (web standard)
-Autovivification
-Bfloat16 floating-point format
-Binary tree
-Bit
 BitTorrent
 Bit array
 Blawg
@@ -28,209 +14,107 @@ Blog
 Blog carnival
 Blog fiction
 Blogosphere
-Boolean data type
 Bottom type
-Bounded pointer
-Boxing (computer science)
 Broadcatching
 Byte
 C++
-C++ standard library
 C Sharp (programming language)
-Call-by-reference
-Cast (computer science)
-Character (computing)
 Citizen journalism
-Class (computer programming)
 Classical music blog
-Code
-Collective intelligence
 Columnist
 Common Logic
 Communication
 Comparison of feed aggregators
-Complex data type
-Composite data type
 Computer
 Computer programming
-Cons
-Container (abstract data type)
 Corporate blog
-DOAP
-Dangling pointer
-Dangling reference
 Data feed
 Data storage device
 Data structure
 Data type
 Database
 Database journalism
-Dataspaces
-Datatype
-Datum
-Decimal data type
 Dependent type
-Dereference operator
-Description logic
-Digital humanities
 Digital library
-Directed graph
 Distributed computing
-Double-precision floating-point format
 Dream diary
 Dublin Core
-Dynamic memory allocation
 Edublog
 Eiffel (programming language)
 Electronic journal
-Embedded RDF
-Empty type
 Enhanced podcast
-Enumerated type
 Escribitionist
-Evaluation strategy
 Exception handling
-Extended precision
-FOAF
-Facebook Platform
 Fashion blog
 FeedSync
 Feed URI scheme
-File handle
-Fixed-point arithmetic
-Floating-point arithmetic
-Folksonomy
 Food blogging
-Fortran
-Function type
-GRDDL
 Garbage collection (computer science)
 Generalized algebraic data type
-Generic programming
 GeoRSS
 Geotagging
 Glossary of blogging
-HAtom
-HCalendar
-HCard
-HProduct
-HRecipe
-HReview
-HTTP
 Half-precision floating-point format
-Handle (computing)
 Hashtag
 Health blog
 History of blogging
 History of podcasting
 History of web syndication technology
-Hyperdata
-Hypertext
 ISBN (identifier)
-IXBRL
 Identifier
-Indirect addressing
-Inductive type
-Information architecture
 Instant messaging
-Integer (computer science)
 Inter-process communication
 Interface (object-oriented programming)
-Internationalized Resource Identifier
 Internet
-Intersection type
-Interval arithmetic
 Intuitionistic type theory
-JSON-LD
 Java (programming language)
 Journalism
-Kind (type theory)
-Knowledge extraction
 Knowledge management
 Knowledge representation and reasoning
-Library 2.0
 Lifelog
 Linkback
 Linked data
-Linked data structure
 Linked list
 Lisp (programming language)
-List (abstract data type)
 List of family-and-homemaking blogs
 List of search engines
-Live distributed object
 Liveblogging
-Locality of reference
 Lock (computer science)
-Long double
-Lookup
 MP3 blog
-Magic cookie
 Mashup (web application hybrid)
 Media RSS
 Memetics
-Memory (computing)
-Memory address
 Metaclass
 Metadata
-Metaobject
-Method (computer programming)
 Microblogging
-Microdata (HTML)
-Microformat
-Minifloat
 Mobile blogging
 Mobilecast
 Mormon blogosphere
 Motovlog
-Mutable
-N-Triples
 Narrowcasting
 NewsML
 NewsML-G2
 NewsML 1
 News aggregator
 Niche blogging
-Notation3
-Null-terminated string
-Nullable type
-OCaml
 OPML
-Object (computer science)
-Object composition
-Octuple-precision floating-point format
 Online diary
-Ontology (computer science)
-Opaque data type
-Opaque pointer
-Option type
-Out-degree
 PHP
-Parametric polymorphism
 Pay-per-click
 Peercasting
 Perl
 Permalink
 Photoblog
 Photofeed
-Physical address
 Ping (blogging)
 Pingback
-Plain text
-Pointer (computer programming)
-Pointer arithmetic
 Police blog
 Poll aggregator
-Polymorphism (computer science)
 Posting style
 Primitive data type
 Product feed
-Product type
 Project diary
 Python (programming language)
-Quadruple-precision floating-point format
-RDF/XML
-RDF Schema
 RDFa
 RSS
 RSS Advisory Board
@@ -239,121 +123,49 @@ RSS editor
 RSS enclosure
 RSS tracking
 Rational data type
-Reachability graph
 Reblogging
 Record (computer science)
-Recursive data type
 Refback
-Reference (C++)
-Reference counting
-Reference type
-Refinement type
-Research Resource Identifier
 Resource Description Framework
 Reverse blog
 Review aggregator
 Rollback (data management)
-Rule-based system
-Rule Interchange Format
-SAWSDL
-SHACL
-SPARQL
 Schema.org
-Scheme (programming language)
 Screencast
 Search aggregator
-Semantic HTML
-Semantic Web
-Semantic Web Rule Language
-Semantic analytics
-Semantic broker
-Semantic computing
-Semantic mapper
-Semantic matching
-Semantic network
-Semantic publishing
-Semantic reasoner
-Semantic search
-Semantic service-oriented architecture
-Semantic triple
-Semantic wiki
-Semantically Interlinked Online Communities
 Semantics (computer science)
 Semaphore (programming)
-Set (abstract data type)
 Sideblog
-Signedness
-Simple Knowledge Organization System
-Single-precision floating-point format
 Slashdot effect
 Slidecasting
-Smalltalk
-Smart pointer
 Social software
-Solid (web decentralization project)
 Spam blog
 Spam in blogs
-Standard ML
-Stdio
-Stream (computing)
 Streaming media
 String (computer science)
-Strongly typed identifier
-Subroutine
-Subtyping
-Table (database)
-Tagged union
-Ternary numeral system
 Thread (Internet)
-Top type
 Topic map
 Topology
 Trackback
 Travel blog
-TriG (syntax)
-TriX (serialization format)
-Turtle (syntax)
-Type class
 Type constructor
-Type conversion
 Type safety
-Type system
 Type theory
-URL
-Undefined behavior
-Uniform Resource Identifier
-Union type
-Unit type
-Units of information
-Unreachable object
 Usenet
 Uses of podcasting
 Variable (computer science)
 Video aggregator
 Video blog
 Videocast
-Virtual address space
-Visual Basic
 Vlog
-Void type
 Warblog
-Weak reference
-Weak typing
-Web 2.0
-Web Ontology Language
-Web Science Trust
 Web Slice
 Web directory
-Web engineering
 Web feed
 Web series
-Web service
-Web services description language
 Web syndication
 Webcomic
 Webtoon
-Wild pointer
-Wild reference
 Word (computer architecture)
 World Wide Web
 XBEL

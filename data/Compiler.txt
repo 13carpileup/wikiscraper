@@ -1,80 +1,31 @@
-.NET Framework
-A-0 System
 ACM Computing Classification System
-ALGOL
 ALGOL 60
-APL (programming language)
-Abstract interpretation
-Abstract syntax tree
-Ada (programming language)
-Addison-Wesley
-Addressing mode
-Ahead-of-time compilation
-Alfred V. Aho
-Algol 58
-Algol 60
 Algorithm
 Algorithm design
 Algorithmic efficiency
-Alias analysis
-Alick Glennie
 Amsterdam Compiler Kit
 Analysis of algorithms
-Andrew Appel
-Android Runtime
-Application-specific integrated circuit
 Application security
 Artificial intelligence
 Assembly language
-Association for Computing Machinery
-Atlas Autocode
-Attribute grammar
-Autocode
 Automata theory
 Automated planning and scheduling
 Automatic parallelization
 BASIC
-BCPL
-BEAM (Erlang virtual machine)
-BLISS
 B (programming language)
-Backus–Naur form
-Basic block
-Bell Labs
-Binary recompiler
-Block (programming)
-Bootstrap compiler
-Bottom-up parsing
 Bytecode
 C++
 COBOL
-CPython
 CRC Press
 C (programming language)
 C preprocessor
 C syntax
-Call graph
 Cambridge University Press
 Central processing unit
-Cfront
 Clang
-Code generation (compiler)
-Code optimization
 Common Intermediate Language
-Common Language Runtime
-Common Lisp
-Compile
-Compile (company)
-Compile and go system
-Compile farm
-Compile time
-Compiled language
-Compiler-compiler
-Compiler (manga)
-Compiler analysis
 Compiler construction
 Compiler correctness
-Compiler optimization
 Compiling
 Computability theory
 Computational biology
@@ -86,7 +37,6 @@ Computational geometry
 Computational mathematics
 Computational physics
 Computational social science
-Computer Science Press, Inc.
 Computer accessibility
 Computer animation
 Computer architecture
@@ -102,33 +52,18 @@ Computing
 Computing platform
 Concurrency (computer science)
 Concurrent computing
-Conditional compilation
-Constant propagation
-Context-free grammar
 Control-flow graph
 Control theory
 Control variable (programming)
-Coral 66
-Cross-compiler
 Cross-validation (statistics)
-Cross compiler
-Crt0
 Cryptography
 Cyberwarfare
-DARPA
-Data-flow analysis
 Data mining
 Database
-David Gries
-Dead-code elimination
-Debugging
 Decision support system
 Decompiler
-Definite assignment analysis
-Delay slot
 Dennis Ritchie
 Dependability
-Dependence analysis
 Digital art
 Digital library
 Digital marketing
@@ -139,141 +74,69 @@ Distributed computing
 Document management system
 Doi (identifier)
 Domain-specific language
-Dynamic recompilation
 E-commerce
-Edinburgh IMP
 Edsger W. Dijkstra
 Educational technology
 Electronic design automation
 Electronic publishing
 Electronic voting
-Ellis Horowitz
 Embedded system
-Englewood Cliffs, NJ
 Enterprise information system
 Enterprise software
-Escape analysis
-Eval
-Executable
-Execution (computing)
-Execution unit
-Expression (computer science)
-FLOW-MATIC
-FORTRAN
-Fernando J. Corbató
 Field-programmable gate array
-Finite state automaton
 Form factor (design)
 Formal grammar
 Formal language
 Formal methods
-Fortran
-Frances E. Allen
 Free software
-Friedrich L. Bauer
-GNAT
 GNU Compiler Collection
 General Electric
 Geographic information system
-Gesellschaft für Informatik
-Grace Hopper
 Graphics processing unit
 Green computing
 Hardware acceleration
-Hardware description language
 Hardware security
 Health informatics
-Heinz Rutishauser
-Heuristic (computer science)
-Hewlett-Packard
-High-level programming language
-History of compiler construction
-Honeywell
 Human–computer interaction
 IBM
 ISBN (identifier)
 ISSN (identifier)
 Image compression
-Indent style
 Information retrieval
 Information security
 Information system
 Information theory
 Inline expansion
-Instruction scheduling
-Instruction selection
 Integrated circuit
 Integrated development environment
 Intel
 Interaction design
-Intermediate representation
-Interpreted language
 Interpreter (computing)
-Interprocedural optimization
 Intrusion detection system
 JavaScript
 Java (programming language)
-Java virtual machine
-Jeffrey D. Ullman
-Jim Horning
-John Backus
-John McCarthy (computer scientist)
-Just-in-time compilation
-Ken Kennedy (computer scientist)
-Ken Thompson
-Klaus Samelson
 Knowledge representation and reasoning
-Konrad Zuse
-LCCN (identifier)
-LISP
-LLVM
-Lexical analysis
-Lexical analyzer
-Lexical scope
 Library (computing)
-Linker (computing)
 Lisp (programming language)
-List of compilers
 List of computer size categories
 Logic in computer science
-Lookup table
-Loop transformation
-Lower level language
-LuaJIT
-MIT
-Machine code
 Machine language
 Machine learning
-Macmillan Publishing
 Macro (computer science)
-Main memory
-Manchester Mark I
-Martin Richards (computer scientist)
 Mathematical analysis
 Mathematical optimization
 Mathematical software
-Metacompilation
-Michael L. Scott
-Microcode
 Microsoft
 Microsoft Visual C++
 Middleware
 Mixed reality
 Model of computation
 Modeling language
-Mono (software)
-Morgan Kaufmann
-Morgan Kaufmann Publishers
-Multi-pass compiler
 Multi-task learning
-Multics
 Multimedia database
 Multiprocessing
 Multithreading (computer architecture)
-NP-hardness
 Natural language processing
-Nested function
-Netlist
 Network architecture
 Network performance
 Network protocol
@@ -281,87 +144,44 @@ Network scheduler
 Network security
 Network service
 Networking hardware
-Niklaus Wirth
 Noam Chomsky
-Node.js
 Numerical analysis
 OCLC (identifier)
 Object-oriented programming
-Object binding
-Object code
 Objective-C
-One-pass compiler
 Open-source software
-Open64
 OpenMP
 Operating system
 Operations research
-Optimizing compiler
 Outline of computer science
-PL/I
-PQCC
 Parallel computing
-Parse tree
-Parser
-Parsing
 Pascal (programming language)
-Peephole optimization
 Peripheral
 Philosophy of artificial intelligence
 Photograph manipulation
-Plankalkül
-Pointer analysis
-Precompilation
-Prentice-Hall
-Preprocessor
 Printed circuit board
 Probability
 Process control
 Processor (computing)
-Program transformation
 Programming language
 Programming language theory
 Programming paradigm
 Programming team
 Programming tool
 Prolog
-Punched film stock
-PyPy
 Python (programming language)
 Quantum Computing
 Randomized algorithm
-Ravi Sethi
-Reachability analysis
 Real-time computing
 Recursion
-Recursive descent parser
-Register allocation
 Regular expression
-Regular grammar
-Regular language
 Reinforcement learning
-Remington Rand
 Rendering (computer graphics)
 Requirements analysis
-Rewriting
-Richard Bornat
-Runtime library
-Runtime system
 S2CID (identifier)
-SNOBOL4
-Scannerless parser
-Scannerless parsing
-Scheme (programming language)
 Security hacker
 Security service (telecommunication)
-Semantic analysis (compilers)
 Semantics (computer science)
-Separation of concerns
-Sethi–Ullman algorithm
-Silicon Graphics
-Silicon compiler
-Simula
-Smalltalk
 Social computing
 Social software
 Software configuration management
@@ -376,48 +196,22 @@ Software maintenance
 Software quality
 Software repository
 Solid modeling
-Source-to-source compiler
 Source code
-Springer-Verlag
 Statistics
-Steven Muchnick
 Stochastic computing
-Stropping (syntax)
-Structured programming
 Sun Microsystems
-Superplan
 Supervised learning
-Swift (programming language)
-Symbol table
-Syntax-directed translation
-Syntax analysis
 System on a chip
 Theoretical computer science
 Theory of computation
-Tony Hoare
-Top-down parsing
-Tracing just-in-time compilation
-Transistor
-Translator (computing)
-Type checking
-Type system
 Ubiquitous computing
-United States Department of Defense
-Unix
 Unsupervised learning
-Use-define chain
-V8 (JavaScript engine)
 Very Large Scale Integration
 Video game
 Virtual machine
 Virtual reality
 Visualization (graphics)
-Warren Abstract Machine
 Wayback Machine
-William M. McKeeman
 Word processor
 World Wide Web
-Yacc
 YouTube video (identifier)
-Zeitschrift für Angewandte Mathematik und Mechanik
-Zend Engine

@@ -1,36 +1,25 @@
-/e/ (operating system)
 32-bit
 4MLinux
 64-bit computing
 ALT Linux
-APK file
-ARM architecture
-Alcatel One Touch Idol 3
-Alien Dalvik
 AlmaLinux
-Alpha test
 Alpine Linux
 Amazon Kindle
-Anbox
 Android-x86
 Android (operating system)
 Android Go
 Antergos
 AntiX
-Aqua Fish
 ArchBang
 ArchLabs
 Arch Linux
 Artix Linux
 Asahi Linux
-AsteroidOS
 Astra Linux
 Asturix
-Aurora OS (Russian Open mobile platform)
 Austrumi Linux
 B2G OS
 BLAG Linux and GNU
-BRICS
 BackBox
 BackTrack
 Bada (operating system)
@@ -89,15 +78,10 @@ Edubuntu
 Elementary OS
 Elive
 Emmabuntüs
-Emulator
 EndeavourOS
 Endless OS
 EulerOS
-F(x)tec Pro1
-FOSDEM
-Fairphone 2
 Familiar Linux
-FeatherPad
 Feather Linux
 Fedora Linux
 Finland
@@ -108,7 +92,6 @@ Floppyfw
 Foresight Linux
 FreeBSD
 FreeRTOS
-Free and open-source graphics device driver
 Free software
 FreedomBox
 Freespire
@@ -121,47 +104,28 @@ GNU Core Utilities
 GNU Guix System
 GNewSense
 GOS (operating system)
-Gambas
 Garuda Linux
 GeckoLinux
-Gecko (software)
-Gemini (PDA)
 Gentoo Linux
 German language
 GitHub
 GoboLinux
 Gobuntu
 GrapheneOS
-Graphical shell
 HMD Global
-HP TouchPad
 HandyLinux
 HarmonyOS
 HarmonyOS NEXT
-Harmony OS
-Helsinki
-Hong Kong Cantonese
-Huawei
-Hybris (software)
-Hyperbola GNU/Linux-libre
 IOS
 IPadOS
 Immunix
-In car entertainment
 Intel
 Intel Management Engine
-Intex Technologies
 IodéOS
 Italian language
 Jolla
-Jolla (mobile phone)
-Jolla (smartphone)
-Jolla phone
-Jolla smartphone
 Jurix
-KDE
 KDE Partition Manager
-KDE Plasma
 KDE neon
 KaOS
 KaiOS
@@ -169,16 +133,13 @@ Kaisen Linux
 Kali Linux
 Kanotix
 KateOS
-Kdenlive
 Kernel (operating system)
 Knoppix
 Kongoni (operating system)
 Korora (operating system)
 Kubuntu
 Kwort Linux
-LXC
 LXLE Linux
-LXQt
 Latency (engineering)
 Libranet
 LinHES
@@ -195,18 +156,11 @@ Linux distribution
 Linux for PlayStation 2
 Linux kernel
 List of Linux distributions
-List of World Heritage Sites in Finland
 List of custom Android distributions
-List of lakes of Finland
-List of language bindings for Qt 4
-List of language bindings for Qt 5
 List of mobile app distribution platforms
-List of national parks of Finland
 List of open-source mobile phones
-List of rivers of Finland
 LiteOS
 Lubuntu
-Lumina (desktop environment)
 LuneOS
 MCC Interim Linux
 MIUI
@@ -220,8 +174,6 @@ Mandriva Linux
 Manjaro
 MeeGo
 Mer (software distribution)
-Meritocracy
-Meta-object System
 Microsoft Windows
 Minix 3
 Miracle Linux
@@ -233,21 +185,9 @@ Mobilinux
 Moblin
 MontaVista
 MotoMagx
-Moto G4
-Moto G (2nd generation)
-Moto G (3rd generation)
-Moto X (2nd generation)
-Moto X Force
-Motorola Moto Z Play
-Motorola Photon Q
-Musix GNU+Linux
 Natural language
-Nemo Mobile
 NetBSD
 Network Security Toolkit
-Nexus 4
-Nexus 5
-Nexus 7 (2012)
 NimbleX
 Nintendo
 Nintendo 3DS system software
@@ -257,22 +197,10 @@ Nitix
 NixOS
 Nobara Linux
 Nokia
-Nokia 3310 (2017)
 Nokia Asha platform
-Nokia N9
-Nokia N950
-Nokia X platform
-Norwegian language
 Nova (operating system)
-OEM
 OS X
 OmniROM
-OnePlus 3
-OnePlus 3T
-OnePlus 5
-OnePlus 5T
-OnePlus One
-OnePlus X
 One UI
 OpenELEC
 OpenEZX
@@ -287,92 +215,61 @@ Open source
 Openmoko Linux
 Operating system
 Oracle Linux
-Original design manufacturer
 Original equipment manufacturer
 PCLinuxOS
 Package manager
 PalmDOS
 Palm OS
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
 Pentoo
 Peppermint OS
-PinePhone
 Pinguy OS
 PixelExperience
-Plasma Active
 Platypux
 PlayStation Portable system software
 PlayStation Vita system software
-Polish language
 Pop! OS
 Porteus (operating system)
-Portuguese language
 PostmarketOS
 Programmer
 Programming language
 Proprietary software
 Puppy Linux
 PureOS
-PyQt
-PySide
 Q4OS
-QML
 QNX
-Qbs (build tool)
-Qmake
 QtMoko
-QtRuby
-QtScript
-Qt (software)
-Qt Creator
-Qt Jambi
-Qt Project
-Qt Quick
 Qubes OS
 ROSA Linux
-RPM Package Manager
 Raspberry Pi OS
 Red Hat Enterprise Linux
 Red Hat Linux
 Red Star OS
-Redmi 2
 Remix OS
 Replicant (operating system)
-Repository (version control)
 Resurrection Remix OS
 Rocks Cluster Distribution
 Rocky Linux
 Russian language
 S60 (software platform)
 SHR (operating system)
-SSH Communications Security
 SUSE Linux
 SUSE Linux Enterprise
 SUSE Studio
 Sabayon Linux
 Sabily
-Sailfish Alliance
 Salix OS
-Samsung Galaxy A5 (2015)
-Samsung Galaxy S3
 Scientific Linux
-Secure Shell
 Series 30
 Series 30+
 Series 40
 Series 80 (software platform)
 Series 90 (software platform)
-Siemens GigaSet GX290
-Signals and slots
 Simulation
-Skanlite
 Slackware
 Slax
-Slush (event)
-Slush Helsinki
 Smartphone
 Softlanding Linux System
 Software development kit
@@ -381,28 +278,16 @@ Software release life cycle
 Solus (operating system)
 SolydXK
 Sony Ericsson Java Platform
-Sony Xperia
-Sony Xperia 10
-Sony Xperia 10 II
-Sony Xperia 10 III
-Sony Xperia 10 Plus
-Sony Xperia X
-Sony Xperia XA2
-Sony Xperia X Compact
 Source Mage
 Spanish language
 SparkyLinux
 Splashtop OS
 SteamOS
 Sunwah Linux
-Swedish language
 Symbian
 SystemRescue
 T2 SDE
-TCL Corporation
-Tablet computer
 Tails (operating system)
-The Qt Company
 Think Blue Linux
 ThreadX
 Tiny Core Linux
@@ -416,7 +301,6 @@ Twitter
 UBports
 UIQ
 Ubuntu
-Ubuntu (operating system)
 Ubuntu Budgie
 Ubuntu Cinnamon
 Ubuntu GNOME
@@ -427,19 +311,13 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 User interface
 User space and kernel space
-VLC media player
 VectorLinux
 Vine Linux
-VirtualBox
 Virtual machine
 Void Linux
-VxWorks
 WatchOS
-Wayland (display server protocol)
 Wear OS
 WebOS
 Whonix
@@ -458,14 +336,7 @@ Windows XP editions
 Wubuntu
 X86
 XB Machine
-XDA Developers
 XNU
-Xiaomi Mi 2
-Xiaomi Redmi 5
-Xiaomi Redmi Note 3
-Xiaomi Redmi Note 4
-Xperia X
-Xperia XA2
 Xubuntu
 Yellow Dog Linux
 ZDNet

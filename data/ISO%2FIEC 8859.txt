@@ -13,29 +13,21 @@ ANSI escape code
 ARIB STD B24 character set
 ASCII
 ASMO 449
-ASMO 708
 ATASCII
 A (Cyrillic)
 Accuracy and precision
 Ada Semantic Interface Specification
 Adlam script
-Advanced Intelligent Tape
 Advanced Video Coding
-Afrikaans language
 Ahom script
-Albanian language
-Amstrad CP/M Plus character set
 Amstrad CPC character set
 Anatolian hieroglyphs
 Ancient North Arabian
 Ancient South Arabian script
-Anne van Kesteren
 Antimagnetic watch
 Apostrophe
 Apple II character set
-Application Programming Interface for Windows
 Arabic alphabet
-Arabic language
 Arabic script
 Aramaic alphabet
 ArmSCII
@@ -45,7 +37,6 @@ Avestan alphabet
 BCD (character encoding)
 Balinese script
 Bamum script
-Bassa Vah alphabet
 Batak script
 Battery nomenclature
 Baudot code
@@ -53,16 +44,11 @@ Baybayin
 Be (Cyrillic)
 Belarusian language
 Bengali–Assamese script
-Beta (letter)
 Bhaiksuki script
-BiDi
-Bidirectional text
 Big5
 Binary Ordered Compression for Unicode
-Binary numeral system
 Bitstream International Character Set
 Bopomofo
-Bosnian language
 BraSCII
 Brahmi script
 Braille
@@ -72,19 +58,14 @@ Buhid script
 Bulgarian language
 Business Process Model and Notation
 Byte
-Byte order mark
 C++
-C++/CLI
 C0 and C1 control codes
-CAN bus
 CCSID
 CD-ROM
 CDC display code
 CER-GS
 CESU-8
 CHILL
-CJK Unified Ideographs
-CJK characters
 CNS 11643
 COBOL
 COLLADA
@@ -96,9 +77,7 @@ C Sharp (programming language)
 Canadian Aboriginal syllabics
 Carian alphabets
 Casio calculator character sets
-Catalan language
 Caucasian Albanian script
-Cedilla
 Celtic languages
 Chakma script
 Cham script
@@ -126,17 +105,10 @@ Code page 1019
 Code page 1020
 Code page 1021
 Code page 1023
-Code page 1034
 Code page 1040
 Code page 1042
 Code page 1043
-Code page 1044
 Code page 1046
-Code page 1052
-Code page 1053
-Code page 1054
-Code page 1055
-Code page 1056
 Code page 1058
 Code page 1098
 Code page 1101
@@ -175,7 +147,6 @@ Code page 853
 Code page 855
 Code page 856
 Code page 857
-Code page 858
 Code page 859
 Code page 860
 Code page 861
@@ -192,7 +163,6 @@ Code page 896
 Code page 897
 Code page 899
 Code page 903
-Code page 904
 Code page 912
 Code page 915
 Code page 921
@@ -206,7 +176,6 @@ Code page 949 (IBM)
 Code page 950
 Code page 951
 Code point
-Combining character
 Combining grapheme joiner
 Comma (punctuation)
 Common Criteria
@@ -219,27 +188,17 @@ Comparative Tracking Index
 Comparison of Unicode encodings
 Compucolor II character set
 Computer Graphics Metafile
-ConScript Unicode Registry
-Control Pictures
 Control character
 Cooke and Wheatstone telegraph
-Coptic script
 Cork encoding
-Croatian language
 Cuneiform
-Currency sign (generic)
 Currency symbol
-Cursive
 Cypriot syllabary
 Cypro-Minoan syllabary
 Cyrillic alphabets
 Cyrillic script
 Cyrillic script in Unicode
-Czech language
 DEC Hebrew
-DEC MCS
-DEC Multinational Character Set
-DEC National Replacement Character Set
 DEC RADIX 50
 DEC Special Graphics
 DEC Technical Character Set
@@ -249,7 +208,6 @@ DIN 66003
 DIN 91379
 DKOI
 Danish language
-Dart (programming language)
 De (Cyrillic)
 Decimal
 Delivery Multimedia Integration Framework
@@ -258,35 +216,24 @@ Devanagari
 Dhives Akuru
 Diacritic
 Digital Addressable Lighting Interface
-Digital Data Storage
 Digital Equipment Corporation
 Digital Linear Tape
 Digital encoding of APL symbols
 Digital object identifier
-Division sign
 Dje
 Document Style Semantics and Specification Language
 Dogri script
 Doi (identifier)
 Dotted I (Cyrillic)
-Duplicate characters in Unicode
 Duployan shorthand
 Dutch language
 Dynamic Adaptive Streaming over HTTP
 Dze
 Dzhe
 EBCDIC
-ECMA-113
-ECMA-114
-ECMA-118
-ECMA-121
-ECMA-128
-ECMA-144
-ECMA-94
 ECMAScript
 ECMAScript for XML
 ELOT 927
-ELOT 928
 EN 62262
 EXPRESS (data modeling language)
 E (Cyrillic)
@@ -296,7 +243,6 @@ Ef (Cyrillic)
 Egyptian hieroglyphs
 Eiffel (programming language)
 El (Cyrillic)
-Elbasan
 Elymaic
 Em (Cyrillic)
 Emoji
@@ -305,17 +251,12 @@ English language
 Equal-loudness contour
 Er (Cyrillic)
 Es (Cyrillic)
-Esperanto
 Essential Video Coding
-Estonian language
-Euro sign
-European Computer Manufacturers Association
 Extended ASCII
 Extended Latin-8
 Extended Unix Code
 FAT12
 FAT16
-FAT16B
 FDI World Dental Federation notation
 FOCAL character set
 FTAM
@@ -328,12 +269,10 @@ Film speed
 Finnish language
 Floppy disk
 Flowchart
-Fraction
 Fraser script
 French language
 Fuel oil
 Full BASIC
-Fuse (automotive)
 GBK (character encoding)
 GB 12052
 GB 12345
@@ -358,17 +297,14 @@ Gondi writing
 Gothic alphabet
 Grantha script
 Graph Query Language
-Graphic character
 Graphical Kernel System
 Greek alphabet
 Greek language
-Greek script in Unicode
 Greenlandic language
 Guidelines for the Definition of Managed Objects
 Gujarati script
 Gunjala Gondi script
 Gurmukhi
-Gurung Khema
 HP Roman
 HTML
 HTML5
@@ -381,22 +317,16 @@ Hanifi Rohingya script
 Hanja
 Hanunoo script
 Hardware code page
-Hatran alphabet
 Hazard symbol
 Hebrew alphabet
-Hexadecimal
 Hiragana
 Hole punch
-Holographic Versatile Disc
-Homoglyph
 Hong Kong Supplementary Character Set
 Horsepower
 Hot shoe
-Hungarian language
 I
 IATF 16949
 IBM AIX
-IEC-P27-1
 IEC 60027
 IEC 60034
 IEC 60038
@@ -413,7 +343,6 @@ IEC 60870-5
 IEC 60870-6
 IEC 60906-1
 IEC 60929
-IEC 60980-344
 IEC 61030
 IEC 61131
 IEC 61131-3
@@ -436,7 +365,6 @@ IEC 62196
 IEC 62264
 IEC 62304
 IEC 62325
-IEC 62351
 IEC 62366
 IEC 62379
 IEC 62455
@@ -447,7 +375,6 @@ IEC 63119
 IEC 63382
 IEC 81346
 IEEE 754
-IJ (digraph)
 INIS-8
 INIS character set
 IO-Link
@@ -456,7 +383,6 @@ IS-IS
 ISBN
 ISBN (identifier)
 ISLISP
-ISO
 ISO-8859-8-I
 ISO-IR-111
 ISO-IR-169
@@ -465,36 +391,3 @@ ISO-IR-197
 ISO-IR-200
 ISO-IR-68
 ISO-TimeML
-ISO/IEC 10021
-ISO/IEC 10116
-ISO/IEC 10367
-ISO/IEC 10646
-ISO/IEC 10967
-ISO/IEC 11179
-ISO/IEC 11404
-ISO/IEC 11801
-ISO/IEC 12207
-ISO/IEC 14443
-ISO/IEC 14651
-ISO/IEC 15288
-ISO/IEC 15504
-ISO/IEC 15693
-ISO/IEC 15897
-ISO/IEC 17024
-ISO/IEC 17025
-ISO/IEC 18014
-ISO/IEC 19752
-ISO/IEC 19770
-ISO/IEC 19788
-ISO/IEC 19794-5
-ISO/IEC 20000
-ISO/IEC 2022
-ISO/IEC 21827
-ISO/IEC 24727
-ISO/IEC 24744
-ISO/IEC 27000
-ISO/IEC 27000-series
-ISO/IEC 27001
-ISO/IEC 27002
-ISO/IEC 27005
-ISO/IEC 27006

@@ -1,61 +1,18 @@
-3-D computer graphics
 3D computer graphics
 ACM Computing Classification System
-ACM SIGGRAPH
 Aaron Koblin
-Academic Press
-Ade Olufeko
-Adolphe Quetelet
-Alan MacEachren
-Alfred Inselberg
 Algorithm
 Algorithm design
 Algorithmic efficiency
-Alphanumeric
-Alphanumeric keyboard
-American and British English spelling differences
 Analysis of algorithms
-André-Michel Guerry
 Animation
 Application security
 Art
-Arthur H. Robinson
-Arthur Lyon Bowley
 Artificial intelligence
-Astrophysical visualization
-Atomic structure
-Attitude (psychology)
-August Kekulé
 Automata theory
 Automated planning and scheduling
 Bandwidth (computing)
-Bang Wong
-Ben Fry
-Ben Shneiderman
-Biological data visualization
-Boom arm
-Borden Dent
-Bruce H. McCormick
-CPK coloring
-Cartography
-Catherine Plaisant
-Cave painting
-Charles-René de Fourcroy
-Charles Booth (social reformer)
-Charles Dupin
-Charles Joseph Minard
-Charles Minard
-Chart
-Chartjunk
-Chemical imaging
 China
-Christopher R. Johnson
-Chroma subsampling
-Claudio Silva (computer scientist)
-Cleveland, William S.
-Clifford A. Pickover
-Cognition
-Color coding in data visualization
 Communication
 Compiler construction
 Computability theory
@@ -70,15 +27,12 @@ Computational physics
 Computational social science
 Computer
 Computer-aided design
-Computer-generated images
 Computer accessibility
 Computer animation
 Computer architecture
 Computer data storage
 Computer graphics
-Computer graphics (computer science)
 Computer hardware
-Computer monitor
 Computer network
 Computer science
 Computer security
@@ -89,44 +43,26 @@ Concurrency (computer science)
 Concurrent computing
 Control theory
 Control variable (programming)
-Crime mapping
 Cross-validation (statistics)
 Cryptography
 Cyberwarfare
-Cynthia Brewer
-Data and information visualization
 Data mining
-Data transformation
-Data visualization
 Database
-Dataflow
-David Goodsell
-David McCandless
 Decision support system
 Dependability
-Depth buffer
-Diagram
 Digital art
 Digital library
 Digital marketing
-Digital photo
 Discrete mathematics
 Distributed artificial intelligence
 Distributed computing
 Document management system
 Doi (identifier)
 Domain-specific language
-Drawing board
 E-commerce
-Edgar Anderson
-Edmond Halley
 Educational animation
 Educational technology
-Edward R. Tufte
-Edward Tufte
-Edward Walter Maunder
 Egyptian hieroglyphs
-Ejnar Hertzsprung
 Electronic design automation
 Electronic publishing
 Electronic voting
@@ -135,148 +71,55 @@ Embedded system
 Engineering drawing
 Enterprise information system
 Enterprise software
-Erwin Raisz
-Expectation (epistemic)
-Experience
-Fact
-Feedback loop
-Fernanda Viégas
-Finite difference
-Finite element analysis
-Florence Nightingale
-Flow visualization
-Fluid
 Form factor (design)
 Formal language
 Formal methods
-Framerate
-Francis Amasa Walker
-Francis Galton
-French invasion of Russia
-Fritz Kahn
-Gaspard Monge
-Geographia (Ptolemy)
 Geographic information system
 Geometry
-Georg von Mayr
-George Furnas
-George G. Robertson
-Geospatial data
-Geovisualization
-Gordon Kindlmann
-Graph drawing
 Graph of a function
 Graphic design
-Graphic organizer
-Graphical perception
 Graphics processing unit
-Graphics tablet
 Green computing
-Group (sociology)
-Hadley Wickham
-Hans Rosling
-Hanspeter Pfister
 Hardware acceleration
 Hardware security
-Harry Beck
 Health informatics
-Henry Gantt
-Henry Norris Russell
-Howard G. Funkhouser
-Howard T. Fisher
-Howard Wainer
 Human–computer interaction
-Hypothesis
-IEEE Computer Society
-IPv4
-IRC
 ISBN (identifier)
 ISSN (identifier)
-Idea
 Ideogram
-Image
 Image compression
-Image scaling
-Imaging science
-Infographic
-Infographics
 Information
-Information art
 Information retrieval
 Information science
 Information security
-Information sign
 Information system
 Information theory
-Information visualization
-Insight
 Integrated circuit
 Integrated development environment
 Interaction design
-Interactive data visualization
-Interactive visualization
-Interactive whiteboard
 Interpreter (computing)
 Intrusion detection system
-Isosurface
-Jacques Bertin
-Jeffrey Heer
-Jessica Hullman
-Jock D. Mackinlay
-John B. Peddle
-John Maeda
-John Snow
 John Tukey
-John Venn
-Joseph Priestley
-Karl Wilhelm Pohlke
-Knowledge
-Knowledge representation
 Knowledge representation and reasoning
-Kwan-Liu Ma
 Latency (engineering)
 Lawrence J. Rosenblum
-Leland Wilkinson
-Leonardo da Vinci
-Level of detail (computer graphics)
 Library (computing)
 List of computer size categories
 Logic in computer science
-Luigi Perozzo
-MRI scan
 Machine learning
-Manuel Lima
 Map
-Martin Krzywinski
-Martin M. Wattenberg
-Mary Eleanor Spear
 Mathematical analysis
-Mathematical diagram
 Mathematical optimization
 Mathematical software
-Matthew Henry Phineas Riall Sankey
-Mauro Martino
-Max O. Lorenz
 Medical imaging
-Medical visualization
-Meteorological
-Michael Friendly
-Michael Maltz
 Middleware
-Millisecond
-Miriah Meyer
-Misleading graph
 Mixed reality
 Model of computation
 Modeling language
-Molecular graphics
-Moritz Stefaner
-Mouse (computing)
 Multi-task learning
 Multimedia database
 Multiprocessing
 Multithreading (computer architecture)
-Napoleon
 Narrative
 Natural language processing
 Network architecture
@@ -286,34 +129,18 @@ Network scheduler
 Network security
 Network service
 Networking hardware
-Neuroimaging
-Nigel Holmes
 Numerical analysis
-Oliver Byrne (mathematician)
 Omnidirectional treadmill
 Open-source software
 Operating system
 Operations research
-Opinion
-Otto Neurath
 Outline of computer science
 PHIGS
 Parallel computing
-Parallel rendering
-Pat Hanrahan
-Patent drawing
 Peripheral
-Perspective (cognitive)
-Perspective projection
 Philosophy of artificial intelligence
 Photograph
 Photograph manipulation
-Pictogram
-Picture dictionary
-Planet
-Plot (graphics)
-Polo Chau
-Prediction
 Printed circuit board
 Probability
 Process control
@@ -325,39 +152,21 @@ Programming paradigm
 Programming team
 Programming tool
 Proprietary software
-Ptolemy world map
 Quantum Computing
 Randomized algorithm
-Rapid prototyping
 Real-time computing
-Reasoning
 Reinforcement learning
 Renaissance
 Rendering (computer graphics)
 Requirements analysis
-Robert Spence (engineer)
-Roberto Battiti
-Rudolf Modley
 S2CID (identifier)
-Sankey diagram
-Satellite photo
-Scalar field
-Schematic
 Science
-Scientific modelling
-Scientific visualization
 Security hacker
 Security service (telecommunication)
 Semantics (computer science)
-Serica
-Sheelagh Carpendale
 Simulation
-Skeletal formula
-Sketch (drawing)
 Social computing
 Social software
-Social visualization
-Soft real-time
 Software
 Software configuration management
 Software construction
@@ -370,60 +179,26 @@ Software framework
 Software maintenance
 Software quality
 Software repository
-Software visualization
 Solid modeling
-Southeast Asia
 Spacecraft
-Spatial analysis
-Spatial visualization ability
-Sri Lanka
-Statistical graphics
 Statistics
 Stereoscopy
 Stochastic computing
-Stuart Card
-Stuart K. Card
 Supervised learning
 System on a chip
-Table (information)
-Tamara Munzner
-Technical drawing
-Technical illustration
 Television
-The Visualization Handbook
-Thematic map
 Theoretical computer science
 Theory of computation
 Thomas A. DeFanti
-Timeline
 Topology
-Touchpad
-Toussaint Loua
-Trackball
-Two dimensional
 Ubiquitous computing
 Unsupervised learning
 Usability
-User interface design
-VTK
-Value (personal and cultural)
 Very Large Scale Integration
 Video game
 Virtual machine
 Virtual reality
-Visual analytics
-Visual communication
-Visual culture
-Visual dictionary
 Visual perception
-Visualization (computer graphics)
-Volume cartography
-Volume rendering
-W. E. B. Du Bois
-Web design
-Wilkinson, Leland
-William Playfair
-William S. Cleveland
 Wired glove
 Word processor
 World Wide Web

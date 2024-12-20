@@ -1,165 +1,63 @@
-.NET Gadgeteer
 360-degree video
 3D audio effect
-6LoWPAN
-ANT+
 API
 ARCore
 ARKit
 ARToolKit
 Accel World
-ActiveX
-Active Server Pages
-ActivityPub
-Activity Streams (format)
-Adam Dunkels
-Add-on (Mozilla)
-Agora (web browser)
-Ajax (programming)
-Alliance for Open Media
 AltspaceVR
-Amaya (web editor)
-AmbieSense
-Ambient Devices
-Ambient IoT
-Ambient device
-Ambient intelligence
 Android XR
 AntVR
-Apache HTTP Server
-Apache JServ Protocol
 Apple Inc.
 Apple Vision Pro
 Application programming interface
-Application server
-Arduino
-Arena (web browser)
-Argo (web browser)
-Asm.js
-Asynchronous Server Gateway Interface
 Asynchronous reprojection
 Attack of the Killer App
 Augmented reality
 Avatar (computing)
-Basilisk (web browser)
-Beonex Communicator
 Black Mirror
 Bob Sproull
 Boštjan Burger
 Brain–computer interface
 Brenda Laurel
 Brendan Bradley (actor)
-Brendan Eich
 Brendan Iribe
 Brilliant Labs
-Browser Helper Object
 Browser extension
-Bruce Sterling
-Bugzilla
-C-HTML
-CERN httpd
 CSS
-CSS Flexible Box Layout
-CSS Working Group
 CSS animations
-CSS grid layout
-CURIE
-Call Control eXtensible Markup Language
-Camino (web browser)
-Canonical XML
-Canvas element
 Carolina Cruz-Neira
 CastAR
-CeNSE
 Char Davies
-ChatZilla
 Cinematic virtual reality
-Classilla
-Client-side
-Client-side persistent data
 Code Lyoko
-Code Rush
-Common Gateway Interface
-Common Voice
 Communication protocol
-Compound Document Format
 Computer-mediated reality
-Connected car
-Context awareness
-Contiki
-Cross-origin resource sharing
-Cross-site scripting
 Cyberith Virtualizer
-DASH7
-DOM event
-DOM events
-Daala
 Daniel J. Sandin
-David Baron (computer scientist)
-Debian–Mozilla trademark dispute
 Den-noh Coil
-Device ecology
 Dieter Schmalstieg
 Digimon
-Document Object Model
-Don Norman
-Doug Turner (Mozilla)
-Dynamic HTML
-Dynamic web page
 ECMAScript
-Efficient XML Interchange
 Ela Darling
 Elia Petridis
-Emotion Markup Language
-Encrypted Media Extensions
 Eric Howlett
 Extended reality
-Extensible Forms Description Language
-Extensible User Interface Protocol
 EyeTap
 Eye tracking
 Face tracking
-FastCGI
 Finger tracking
-Fira (typeface)
-Firefox
-Firefox 2
-Firefox 3.0
-Firefox 3.5
-Firefox 3.6
-Firefox 4
-Firefox Focus
-Firefox Lockwise
-Firefox Monitor
 Firefox OS
-Firefox Portable
-Firefox Send
-Firefox Sync
-Firefox early version history
-Firefox for Android
-Firefox version history
-First International Conference on the World-Wide Web
-Flock (web browser)
 Foveated rendering
-Framework Programmes for Research and Technological Development
 Fred Brooks
 Free viewpoint television
-Frontend and backend
 Futurama
-GNU IceCat
-Gaetano Borriello
-Gears (software)
-Gecko (software)
-Goanna (software)
 Godot (game engine)
 Golden-i
 Google
 Google Cardboard
-Google Chrome
 Google Daydream
 Google Glass
-Google Native Client
-GraphQL
 Gundam Build Divers
 Gundam Build Metaverse
 Gunpei Yokoi
@@ -167,163 +65,61 @@ HTC
 HTC Vive
 HTML
 HTML5
-HTML5 File API
-HTML Working Group
-HTML audio
-HTML video
-HTTP
-HTTP/2
-HTTP/3
-HTTPS
-HTTP handler
-Handheld Device Markup Language
 Haptic suit
 Head-mounted display
 Head-up display
 Henry Fuchs
 HoloLens 2
 Holodeck
-HomeOS
-Home automation
 Horizon Worlds
-Hydration (web development)
 IEEE 802.15.4
-IPSO Alliance
 Image-based modeling and rendering
 Immersion (virtual reality)
-Improving Web Advertising Business Group
-Indexed Database API
-IndieAuth
-InkML
 Interactive art
-International World Wide Web Conference
-International World Wide Web Conferences Steering Committee
-Internationalization Tag Set
-Internet 0
-Internet Server Application Programming Interface
-Internet of things
-Internet refrigerator
-IoBridge
 Ivan Sutherland
-JSGI
-JSON-LD
-Jakarta Servlet
 Jaron Lanier
-JavaScript Style Sheets
-Java Portlet Specification
 Jerome Foster II
-Jetpack (Firefox project)
 Jetpack Compose
 John Carmack
-John Hammink
-John Seely Brown
-Johnny Stenbäck
-Josef Preishuber-Pflügl
-Kevin Ashton
 Khronos Group
 Kiss Me First (TV series)
-Laura Chambers
 Lawrence J. Rosenblum
 Leap Motion
-LibreWolf
-Libwww
-Lightning (software)
-Line Mode Browser
-Linked Data Notifications
 Liquid Image
-List of Apache modules
 List of HTC Vive games
 List of Meta Quest games
-List of Mozilla products
 List of Oculus Rift games
 List of PlayStation VR2 games
 List of PlayStation VR games
-List of application servers
 List of software related to augmented reality
 List of virtual reality headsets
-MDN Web Docs
-Machine to machine
 Magic Leap
 Mark Bolas
 Mark Stephen Meadows
-Mark Weiser
 Mark Zuckerberg
 Mashup (web application hybrid)
-MathML
 Maurice Benayoun
-Media Source Extensions
 Meta Horizon OS
 Meta Platforms
-Meta Quest
 Meta Quest 3
 Meta Quest 3S
 Meta Quest Pro
 Metaverse
 Michelle and Uri Kranot
-Micropub (protocol)
-Microservices
 Microsoft
 Microsoft Corporation
 Microsoft HoloLens
 Ming C. Lin
-Minimo
-Miro (video software)
-Mitchell Baker
 Mixed reality
-Mod jk
-Mod lisp
-Mod mono
-Mod parrot
-Mod perl
-Mod proxy
-Mod python
-Mod ruby
-Mod wsgi
 Morton Heilig
-Mozdev.org
-Mozilla
-MozillaZine
-Mozilla (mascot)
-Mozilla Application Suite
-Mozilla Calendar Project
-Mozilla China
-Mozilla Composer
-Mozilla Corporation
-Mozilla Europe
-Mozilla Foundation
-Mozilla Japan
-Mozilla Location Service
-Mozilla Manifesto
-Mozilla Messaging
-Mozilla Persona
-Mozilla Prism
-Mozilla Public License
-Mozilla Raindrop
-Mozilla Skywriter
-Mozilla Sunbird
-Mozilla Thunderbird
-Mozilla VPN
-Mozilla application framework
 Myron W. Krueger
-NPAPI
-Nabaztag
 NeosVR
-Netduino
 Netrunner
-Netscape
-Netscape Communicator
-Netscape Navigator
-Netscape Navigator 9
-Netscape Portable Runtime
-Netscape Server Application Programming Interface
-Network Security Services
 Neuromancer
 Niantic, Inc.
 Nicole Stenger
-NodeMCU
 Nonny de la Peña
 Nosedive (Black Mirror)
-Object hyperlinking
 Oculus Go
 Oculus Quest
 Oculus Rift
@@ -333,46 +129,29 @@ Oculus Touch
 Omnidirectional (360-degree) camera
 Omnidirectional treadmill
 On-set virtual production
-OpenFlint
 OpenVR
 OpenXR
-Open API
 Open Source Virtual Reality
-Open Web Interface for .NET
 Optical head-mounted display
-P3P
-PDF.js
 PHP
-Pale Moon
 Palmer Luckey
 Pancake lens
 Persistent world
 Pervasive game
 Philippe Bekaert
-Phusion Passenger
 Pico 4
 Pimax
-Plack (software)
 PlayStation Move
 PlayStation VR
 PlayStation VR2
 Playtest (Black Mirror)
 Plug-in (computing)
-Pocket (service)
 Pose tracking
-Precision Graphics Markup Language
-Profiling (information science)
-Progressive web app
 Project Iris
 Projection augmented model
-Pronunciation Lexicon Specification
-Push technology
 Quantified self
 Quest 2
 R. Bowen Loftin
-RDF Schema
-REST
-Rack (web server interface)
 Radio-frequency identification
 Raspberry Pi
 Razer Hydra
@@ -382,102 +161,49 @@ Ready Player Two
 Real life
 Reality Labs
 Rec Room (video game)
-Remote scripting
 Resonite
-Resource-oriented architecture
 Resource Description Framework
-Rhino (JavaScript engine)
-Rich Internet Application
-Roel Pieper
 Rokoko (company)
 Room-scale
-Rule Interchange Format
-Rust (programming language)
-SCXML
-SHACL
-SMIL Timesheets
-SOAP
-SPARQL
 SSSS.Gridman
-SVG
-SVG Working Group
-SVG filter effects
-SXBL
-Safari (web browser)
-Samsung
 Samsung Electronics
 Samsung Gear VR
 Sansar (video game)
 Satya Nadella
-Scalable Vector Graphics
 Scott Fisher (technologist)
 Screen-door effect
-SeaMonkey
 Sega VR
-Semantic Interpretation for Speech Recognition
 Sensorama
 Sensorium Corporation
-Server-sent events
-Server-side
-Server-side scripting
-Server Side Includes
-Server application programming interface
-Shumway (software)
 Simon Birrell
-Simple Common Gateway Interface
-Simple Knowledge Organization System
 Simulation hypothesis
 Simultaneous localization and mapping
 Sinespace
-Single-page application
 Six degrees of freedom
 SixthSense
 Smart TV
-Smart city
-Smartdust
-Smarter Planet
 Smartglasses
 Snow Crash
-Solution stack
 Spatial computing
-Speech Recognition Grammar Specification
-Speech Synthesis Markup Language
-SpiderMonkey
-Spime
-Static web page
-Stefano Marzano
 Steven K. Feiner
-Subresource Integrity
 Sundar Pichai
 Superhot
 Superhuman Samurai Syber-Squad
-Supranet
 Susumu Tachi
 SwiftUI
-Swiftfox
-Swiftweasel
 Sword Art Online
-Synchronized Multimedia Integration Language
-Tamarin (software)
-Tantek Çelik
-Technical Architecture Group
 Telepresence
-The Book of Mozilla
 The Dreamland Chronicles
 The Entire History of You
 The Matrix
 The Matrix (franchise)
 The Sword of Damocles (virtual reality)
-Thing Description
 Thomas A. DeFanti
 Thomas A. Furness III
 Tim Cook
-Timed text
-TinyOS
 Tony Parisi (software developer)
 Transhumanism
 Ubiquitous computing
-Ubiquity (Firefox)
 Unity (game engine)
 Unreal Engine
 VFX1 Headgear
@@ -489,7 +215,6 @@ VTime XR
 VTuber
 Valve Index
 Varjo
-Vector Markup Language
 Virtual Boy
 Virtual fixture
 Virtual graffiti
@@ -504,107 +229,19 @@ Virtuality (product)
 Virtuix Omni
 VisionOS
 VisionOS 2
-Vladimir Vukićević
-VoiceXML
 Vuforia Augmented Reality SDK
 Vuzix
-W3C
-W3C Advisory Board
-W3C Board
-W3C Device Description Working Group
-W3C Geolocation API
-W3C MMI
-W3C Markup Validation Service
-WAI-ARIA
-WHATWG
 Warren Robinett
-Waterfox
 Wearable computer
-Web-oriented architecture
 WebAssembly
-WebAuthn
-WebCL
-WebDAV
 WebGL
 WebGPU
-WebPlatform.org
-WebRTC
-WebSocket
-WebSub
-WebUSB
-WebVTT
 Web API
-Web API security
-Web Accessibility Initiative
-Web Authentication Working Group
-Web Components
 Web Content Accessibility Guidelines
-Web IDL
-Web Messaging
-Web Ontology Language
-Web Open Font Format
-Web SQL Database
-Web Server Gateway Interface
-Web Services Description Language
-Web Services for Remote Portlets
-Web application
 Web browser
-Web container
-Web framework
-Web of Things
-Web page
-Web resource
-Web service
-Web standards
-Web storage
-Web worker
-Webhook
-Webmention
 White Christmas (Black Mirror)
 Windows Mixed Reality
 Wired glove
-Wireless sensor network
-Wiring (development platform)
 Wizdish ROVR
 World Wide Web
-World Wide Web Consortium
-World Wide Web Foundation
-XAML Browser Applications
-XAdES
-XBL
-XB Browser
-XBee
-XForms
-XFrames
-XHTML
-XHTML+MathML+SVG
-XHTML+RDFa
-XHTML+SMIL
-XInclude
-XLink
 XML
-XML-binary Optimized Packaging
-XMLHttpRequest
-XML Base
-XML Encryption
-XML Events
-XML Information Set
-XML Schema (W3C)
-XML Signature
-XML namespace
-XPCOM
-XPInstall
-XPath
-XPath 2.0
-XPath 3
-XPointer
-XProc
-XQuery
-XSL
-XSLT
-XSLT elements
-XSL Formatting Objects
-XUL
-XULRunner
-Xively
-Zilla Slab

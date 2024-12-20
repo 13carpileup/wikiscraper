@@ -1,127 +1,66 @@
 Abstraction (computer science)
-Actor model
-Adriaan van Wijngaarden
-Algol 60
 Alternative semantics
 Ambiguity
-Anaphora (linguistics)
-Anne Hartheimer
 Antecedent-contained deletion
-Association for Computing Machinery
 Autonomy of syntax
-Backtracking
 Binding (linguistics)
-COMEFROM
 C (programming language)
 C Sharp (programming language)
-Call-with-current-continuation
-Call stack
-Carl Bruggeman
-Carl Hewitt
 Cataphora
 Categorial grammar
-Chris Barker (linguist)
-Christian Queinnec
-Christopher P. Wadsworth
-Christopher Strachey
-Closure (computer science)
 Coercion (linguistics)
 Cognitive semantics
 Combinatory categorial grammar
-Common Lisp
 Computational semantics
 Computer multitasking
 Computer program
 Computer science
 Conditional sentence
 Conservativity
-Context set
-Continuation-passing style
-Control flow
 Conversational scoreboard
-Coroutine
-Coroutines
-Counterfactuals
 Crossover effects
 Cumulativity (linguistics)
-Daniel Bobrow
 De dicto and de re
 De se
 Definiteness
-Delimited continuation
 Denotation
-Denotational semantics
 Deontic modality
-Dependency Injection
 Discourse relation
 Discourse representation theory
-Disjunction
 Distributional semantics
-Donkey anaphora
 Downward entailing
-Drew McDermott
-Dynamic memory allocation
 Dynamic semantics
-Entailment
 Epistemic modality
-Eric Ost
-Esoteric programming language
 Evidentiality
 Exception handling
 Exhaustivity
-Existential closure
 Extension (semantics)
-Factor (programming language)
 Faultless disagreement
 Fiber (computer science)
 Focus (linguistics)
 Formal grammar
 Formal semantics (natural language)
 Free choice inference
-Function (computer science)
 Function application
-Functional programming
-GOTO
 Generalized quantifier
 Generative grammar
-Generator (computer science)
-Gerald Sussman
-Gerry Sussman
 Givenness
 Glue semantics
-Green thread
-Guy Steele
-HTTP
-Haskell (programming language)
-Haxe
-Homogeneity (linguistics)
 Hurford disjunction
-IBM 704
-ICFP
-Icon (programming language)
 Inalienable possession
 Indexicality
-Inferentialism
 Inquisitive semantics
 Intension
 Intensional logic
 Intersective modifier
-Inversion of control
 Java (programming language)
-John C. Reynolds
-Kotlin (programming language)
-LISP and Symbolic Computation
 Lambda calculus
 Lexical semantics
-Linguistic modality
 Linguistics wars
 Lisp (programming language)
 Logic translation
 Logical form (linguistics)
 Logophoricity
-Longjmp
-Lua (programming language)
-Meaning postulate
 Mereology
 Mirativity
 Modal subordination
@@ -129,14 +68,9 @@ Monad (functional programming)
 Montague grammar
 Negation
 Opaque context
-Parrot virtual machine
 Performative utterance
 Perl
-Peter Bishop
-Peter J. Landin
-Peter Landin
 Philosophy of language
-Pico (programming language)
 Plural quantification
 Polarity item
 Possible world
@@ -144,78 +78,26 @@ Pragmatics
 Presupposition
 Principle of compositionality
 Privative adjective
-Process calculi
-Process image
 Programming language
 Prolog
 Proposition
-Propositional attitudes
-PyPy
 Python (programming language)
-Quaject
 Quantificational variability effect
 Quantifier (logic)
-Quantifier raising
 Quantization (linguistics)
 Question under discussion
-R. Kent Dybvig
-Racket (programming language)
-Reference
-Reification (computer science)
 Responsive predicate
-Rhino (JavaScript engine)
-Richard Steiger
-Rising declarative
-Robert Hieb
 Ruby (programming language)
-Run-time system
-SIGPLAN
-Scala (programming language)
 Scalar implicature
-Scheme (programming language)
 Scope (formal semantics)
-Seaside (software)
-Segmented discourse representation theory
 Semantic parsing
 Semantics of logic
-Setjmp/longjmp
-Simula
 Situation semantics
-Sloppy identity
-Smalltalk
-Software design pattern
-Spaghetti stack
-Speech act
-Squiggle operator
-Stack unwinding
-Stackless Python
-Standard ML
-Standard ML of New Jersey
-Stateless server
 Steve Russell (computer scientist)
 Strawson entailment
 Strict conditional
 Subsective modifier
-Subtrigging
 Supervaluationism
-Syntax–semantics interface
-Tail call elimination
-Tail recursion
-Telicity
-Temperature paradox
-Tense–aspect–mood
-Thread (computer science)
 Thread (computing)
-Truth-conditional semantics
-Type shifter
 Type theory
-Type theory with records
-Unicon (programming language)
-Universal grinder
-Unlambda
-VB.NET
-Vagueness
-Veridicality
 Wayback Machine
-Web programming
-Will Clinger

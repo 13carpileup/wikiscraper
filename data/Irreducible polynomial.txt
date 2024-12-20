@@ -1,9 +1,4 @@
-Abel's irreducibility theorem
-Absolutely irreducible
-Alfred Menezes
 Algebraic expression
-Algebraic extension
-Algebraic field extension
 Algebraically closed field
 Algorithm
 ArXiv (identifier)
@@ -11,110 +6,54 @@ Binomial (polynomial)
 Bivariate polynomial
 CRC Press
 Cambridge University Press
-Casus irreducibilis
 Coefficient
-Cohn's irreducibility criterion
-Complex field
 Complex number
-Computer algebra system
 Constant function
-Constant polynomial
 Cubic equation
 Cubic function
-Decision procedure
-Dedekind zeta function
 Degree of a polynomial
 Discriminant
 Doi (identifier)
-Eisenstein's criterion
 Eric W. Weisstein
-Factored
 Factorization of polynomials
-Factorization of polynomials over finite fields
-Fermat curve
 Field extension
-Field of fractions
 Finite field
-Finitely generated field extension
 Fundamental theorem of algebra
 Garrett Birkhoff
-Gauss's lemma (polynomial)
 Graduate Texts in Mathematics
-Greatest common divisor
 Gröbner basis
-Harald Niederreiter
-Hilbert's irreducibility theorem
 Homogeneous polynomial
 Horner's method
 ISBN (identifier)
 ISSN (identifier)
 Ideal (ring theory)
-Implementation
-Indecomposable polynomial
-Independent and identically distributed random variables
-Indeterminate (variable)
 Integer
-Integral domain
-Irreducible component
-Irreducible element
-Joseph Gallian
-Leading coefficient
 Linear equation
 Linear function (calculus)
-MR (identifier)
 MathWorld
 Mathematics
-Minimal polynomial (field theory)
-Monic polynomial
 Monomial
 Multivariate polynomial
-Möbius function
-Nathan Jacobson
-Necklace polynomial
-Paul van Oorschot
-Perron's irreducibility criterion
 PlanetMath
 Polynomial
-Polynomial factorization
-Polynomial function
 Polynomial greatest common divisor
 Polynomial identity testing
 Polynomial long division
-Polynomial resultant
 Polynomial ring
-Prime element
-Prime ideal
-Prime number
-Primitive polynomial (ring theory)
-Pseudorandom binary sequence
 Quadratic equation
 Quadratic function
-Quadratic polynomial
 Quartic equation
 Quartic function
 Quasi-homogeneous polynomial
 Quintic function
 Quotient ring
-Rational number
-Rational root theorem
 Real number
-Riemann hypothesis
 Ring (mathematics)
-Ring isomorphism
 S2CID (identifier)
-Saunders Mac Lane
-Scott Vanstone
 Septic equation
-Serge Lang
 Sextic equation
-Splitting field
 Square-free polynomial
-Subroutine
 Topological space
 Trinomial
-Unique factorization domain
-Unit (ring theory)
-Univariate polynomial
 Up to
 Zero of a function
-Zero polynomial

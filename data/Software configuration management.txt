@@ -1,97 +1,20 @@
-100BaseVG
-10BASE5
-802.3a
-802.3ab
-802.3ac
-802.3ad
-802.3ae
-802.3af
-802.3ah
-802.3ak
-802.3an
-802.3aq
-802.3at
-802.3au
-802.3av
-802.3az
-802.3b
-802.3ba
-802.3bt
-802.3bu
-802.3by
-802.3bz
-802.3ca
-802.3cb
-802.3cc
-802.3cd
-802.3ce
-802.3cg
-802.3ch
-802.3ck
-802.3cm
-802.3cn
-802.3cp
-802.3cq
-802.3cr
-802.3cs
-802.3ct
-802.3cu
-802.3cv
-802.3cw
-802.3cx
-802.3cy
-802.3cz
-802.3d
-802.3da
-802.3db
-802.3dd
-802.3de
-802.3df
-802.3e
-802.3i
-802.3j
-802.3u
-802.3y
-802.3z
 ACM Computing Classification System
 Abstraction (computer science)
-Acceptance test–driven development
-Adaptive software development
-Advanced Library Format
 Agile software development
 Algorithm
 Algorithm design
 Algorithmic efficiency
 Analysis of algorithms
-Ansible (software)
-Application-release automation
 Application lifecycle management
 Application security
 Artificial intelligence
-Aspect-oriented programming
-Audio Video Bridging
 Automata theory
 Automated planning and scheduling
 Backward compatibility
-Baseline (configuration management)
-Behavior-driven development
 Bluetooth
-Build automation
-Build management
-CFEngine
-CI/CD
-Cable modem
-Capability Maturity Model
 Capability Maturity Model Integration
 Change control
-Change control board
-Chef (software)
-Cleanroom software engineering
 Cloud computing
-Comparison of open source configuration management software
-Comparison of version control software
-Compatibility layer
-Compatibility mode
 Compiler
 Compiler construction
 Component-based software engineering
@@ -120,13 +43,9 @@ Computer security
 Computer vision
 Computing
 Computing platform
-Concept of operations
 Concurrency (computer science)
 Concurrent computing
-Configuration item
 Configuration management
-Continuous configuration automation
-Continuous delivery
 Continuous integration
 Control theory
 Control variable (programming)
@@ -134,60 +53,34 @@ Cross-validation (statistics)
 Cryptography
 Cyberwarfare
 DNP3
-Data center bridging
 Data mining
-Data model
-Data modeling
 Database
-Debugger
-Debugging
 Decision support system
 Dependability
-Deployment management
-DevOps
 Digital art
 Digital library
 Digital marketing
-Disciplined agile delivery
 Discrete mathematics
-Distributed Interactive Simulation
 Distributed artificial intelligence
 Distributed computing
 Document management system
 Doi (identifier)
-Domain-driven design
 Domain-specific language
-DySPAN
-Dynamic systems development method
 E-commerce
 Educational technology
 Electronic design automation
 Electronic publishing
 Electronic voting
 Embedded system
-Empirical software engineering
 Enterprise architecture
 Enterprise information system
 Enterprise software
-Enterprise unified process
-Entity–relationship model
 Essential systems analysis
 Ethernet
-Executable UML
-Experimental software engineering
-Extreme programming
-Extreme programming practices
-Feature-driven development
 Form factor (design)
 Formal language
 Formal methods
-Forward compatibility
-Function model
-Functional specification
-Futurebus
 Geographic information system
-Glossary of artificial intelligence
-Glossary of computer science
 Glossary of electrical and electronics engineering
 Graphical user interface builder
 Graphics processing unit
@@ -195,173 +88,57 @@ Green computing
 Hardware acceleration
 Hardware security
 Health informatics
-High-level architecture
-History of software configuration management
 Human–computer interaction
-IDEF
 IEEE
-IEEE-488
-IEEE 1164
-IEEE 1219
-IEEE 1284
-IEEE 1355
-IEEE 1394
-IEEE 1451
-IEEE 1471
-IEEE 1541-2002
-IEEE 1547
-IEEE 1584
-IEEE 1613
-IEEE 1619
-IEEE 1667
-IEEE 1675-2008
-IEEE 1722
-IEEE 1733
-IEEE 1849
-IEEE 1855
-IEEE 1901
-IEEE 1905
 IEEE 2030
-IEEE 693
 IEEE 754
-IEEE 754-1985
-IEEE 754-2008 revision
 IEEE 802
-IEEE 802.1
-IEEE 802.10
-IEEE 802.11
-IEEE 802.11-1997
-IEEE 802.11 (legacy mode)
-IEEE 802.11a-1999
-IEEE 802.11ac
-IEEE 802.11ad
-IEEE 802.11af
-IEEE 802.11ah
-IEEE 802.11ai
-IEEE 802.11aj
-IEEE 802.11ax
-IEEE 802.11ay
 IEEE 802.11b-1999
-IEEE 802.11bb
-IEEE 802.11be
-IEEE 802.11bn
-IEEE 802.11c
-IEEE 802.11d-2001
 IEEE 802.11e-2005
-IEEE 802.11g-2003
-IEEE 802.11h-2003
 IEEE 802.11i-2004
-IEEE 802.11j-2004
 IEEE 802.11k-2008
-IEEE 802.11n-2009
-IEEE 802.11p
 IEEE 802.11r-2008
-IEEE 802.11s
 IEEE 802.11u
-IEEE 802.11v
 IEEE 802.11w-2009
 IEEE 802.11y-2008
-IEEE 802.11z
-IEEE 802.15
-IEEE 802.15.1
-IEEE 802.15.2
-IEEE 802.15.3
 IEEE 802.15.4
 IEEE 802.15.4a
-IEEE 802.15.4b
-IEEE 802.15.4c
-IEEE 802.15.4d
-IEEE 802.15.4e
-IEEE 802.15.4f
-IEEE 802.15.4g
-IEEE 802.15.4z
-IEEE 802.15.5
-IEEE 802.15.6
-IEEE 802.15.7
-IEEE 802.16
-IEEE 802.18
-IEEE 802.1AE
-IEEE 802.1AS
-IEEE 802.1D
-IEEE 802.1Q
-IEEE 802.1Qav
-IEEE 802.1Qbb
-IEEE 802.1X
 IEEE 802.1ad
-IEEE 802.1ag
-IEEE 802.1ah-2008
-IEEE 802.1aq
-IEEE 802.2
 IEEE 802.20
-IEEE 802.21
-IEEE 802.22
-IEEE 802.24
 IEEE 802.3
-IEEE 802.3x
-IEEE 802.6
-IEEE 802.7
-IEEE 802.8
-IEEE 802.9
 IEEE 854-1987
-IEEE P1363
-IEEE P1619
 IEEE P1906.1
-IEEE P802.1p
-IEEE Standards Association
 IP-XACT
 ISBN (identifier)
-ISO/IEC 12207
-ISO/IEC 15504
-ISO/IEC 42010
-ISO/IEC JTC 1/SC 7
-ISO/IEEE 11073
-ISO 9001
 ITIL
 Image compression
 Incremental build model
-Information model
 Information retrieval
 Information science
 Information security
 Information system
 Information theory
-Infrastructure as code
 Integrated circuit
 Integrated development environment
-Inter-Access Point Protocol
 Interaction design
-International Requirements Engineering Board
 Interpreter (computing)
 Intrusion detection system
 Iterative and incremental development
 JTAG
-Kanban (development)
 Knowledge representation and reasoning
-LCFG
-Lean software development
 Library (computing)
-Link Aggregation Control Protocol
-Link Layer Discovery Protocol
-Link aggregation
 List of computer size categories
-List of revision control software
 Logic in computer science
 Machine learning
 Mathematical analysis
 Mathematical optimization
 Mathematical software
-Metamodeling
-Micro T-Kernel
-Microsoft Solutions Framework
 Middleware
 Mixed reality
-Model-driven development
-Model-driven engineering
 Model of computation
 Modeling language
 Multi-task learning
 Multimedia database
-Multiple Registration Protocol
 Multiprocessing
 Multithreading (computer architecture)
 Natural language processing
@@ -376,159 +153,78 @@ NixOS
 Numerical analysis
 Object-oriented programming
 Object Management Group
-Object model
-Ontology (information science)
 Open-source software
-OpenMake Software
-Open Firmware
 Operating system
 Operations research
-Otter (software)
 Outline of computer science
-Outline of software development
-PILOT
-Pair programming
 Parallel computing
 Peripheral
-Personal software process
 Philosophy of artificial intelligence
 Photograph manipulation
-Precision Time Protocol
 Printed circuit board
 Probability
 Process control
 Process management (computing)
 Processor (computing)
-Profiling (computer programming)
 Programming language
 Programming language theory
 Programming paradigm
 Programming team
 Programming tool
-Project Management Body of Knowledge
 Project management
-Property Specification Language
-Provider Backbone Bridge Traffic Engineering
-Punched card
-Punched tape
-Puppet (software)
 Quantum Computing
 Randomized algorithm
-Rapid application development
-Rational Unified Process
 Real-time computing
 Reinforcement learning
 Rendering (computer graphics)
 Requirements analysis
 Requirements engineering
 Requirements management
-Resilient Packet Ring
-Revision Control System
-Rex (software)
 Risk management
-Rosetta-lang
 Round-trip engineering
-RuBee
-SEMAT
-Salt (software)
-Scalable Coherent Interface
-Scaled agile framework
-Scrum (software development)
-Search-based software engineering
 Security hacker
 Security service (telecommunication)
 Semantics (computer science)
-Service-oriented architecture
-Service Interoperability in Ethernet Passive Optical Networks
-Single UNIX Specification
-Site reliability engineering
 Social computing
 Social software
-Social software engineering
 Software
-Software Engineering Body of Knowledge
 Software Engineering Institute
 Software archaeology
-Software architecture
 Software construction
 Software deployment
 Software design
-Software design description
 Software development
-Software development methodology
 Software development process
-Software documentation
 Software engineering
 Software framework
-Software incompatibility
 Software maintenance
 Software project management
-Software prototyping
 Software quality
 Software quality assurance
 Software repository
-Software requirements specification
-Software reviews and audit
-Software system
-Software test documentation
 Software testing
-Software user documentation
-Software verification and validation
 Solid modeling
-Spanning Tree Protocol
-Specification by example
-Spiral model
-Stand-up meeting
-Standard Delay Format
 Statistics
 Stochastic computing
-Stream Reservation Protocol
-Structured analysis
 Supervised learning
 SystemC
-SystemVerilog
 System on a chip
 Systems analysis
-Systems development life cycle
 Systems engineering
-Systems modeling
-Systems modeling language
-Team software process
-Teamwork
 Test-driven development
 Theoretical computer science
 Theory of computation
-Token Ring
 Token bus network
-UML tool
 Ubiquitous computing
 Unified Modeling Language
-Unified Power Format
-Unified Process
-Universal Power Adapter for Mobile Devices
-Universal Systems Language
 Unsupervised learning
 User experience
-V-model (software development)
 VHDL
-VMEbus
-Verilog
-Version control
 Very Large Scale Integration
 Video game
-View model
 Virtual machine
 Virtual reality
 Visualization (graphics)
 Waterfall model
-Wi-Fi
-Wi-Fi 4
-Wi-Fi 5
-Wi-Fi 6
-Wi-Fi 7
-Wi-Fi 8
-WiGig
-WiMAX
 Word processor
 World Wide Web
-Zigbee

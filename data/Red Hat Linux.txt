@@ -1,16 +1,11 @@
-/e/ (operating system)
 4MLinux
-A.out
 ALT Linux
 AlmaLinux
 Alpine Linux
-Anaconda (installer)
 Android-x86
 Android (operating system)
-Ansible (software)
 Antergos
 AntiX
-Application binary interface
 ArchBang
 ArchLabs
 Arch Linux
@@ -23,16 +18,12 @@ BLAG Linux and GNU
 BackBox
 BackTrack
 Bharat Operating System Solutions
-Bi-directional text
 BioSLAX
 BlackArch
 Black Lab Linux
 BlankOn Linux
-Bluecurve
-Bob Young (businessman)
 Bodhi Linux
 C++
-C2Net
 CHAOS (operating system)
 CRUX
 Calculate Linux
@@ -40,7 +31,6 @@ Caldera OpenLinux
 CalyxOS
 CentOS
 CentOS Stream
-Ceph (software)
 Chakra (operating system)
 Character encoding
 Chimera Linux
@@ -49,10 +39,8 @@ ChromiumOS
 ClearOS
 Clear Linux OS
 ColorOS
-Commercial software
 Commodore OS
 Comparison of Linux distributions
-Complex text layout
 Container Linux
 Copyright
 Corel Linux
@@ -60,7 +48,6 @@ CrDroid
 CrunchBang Linux
 Cub Linux
 CyanogenMod
-Cygnus Solutions
 DEC Alpha
 Damn Small Linux
 Damn Vulnerable Linux
@@ -68,7 +55,6 @@ Debian
 Deepin
 DemoLinux
 Devuan
-DistroWatch
 DivestOS
 DoudouLinux
 Dreamlinux
@@ -79,33 +65,19 @@ Elive
 Emmabuntüs
 EndeavourOS
 Endless OS
-English Language
-Enhanced GNU Compiler System
 EulerOS
-Executable and Linkable Format
 Familiar Linux
 Feather Linux
-Fedora Core Linux
-Fedora Legacy
 Fedora Linux
-Fedora Linux release history
-Fedora Project
 File system
 Fire OS
 Firefox OS
-Firewall (networking)
 Floppyfw
 Foresight Linux
-FreeOTP
 Free software
 FreedomBox
 Freespire
 Frugalware Linux
-GFS2
-GNOME
-GNOME 1
-GNOME 2
-GNU C Library
 GNU Core Utilities
 GNU Guix System
 GNewSense
@@ -113,20 +85,14 @@ GOS (operating system)
 Garuda Linux
 GeckoLinux
 Gentoo Linux
-Gluster
 GoboLinux
 Gobuntu
 GrapheneOS
 HandyLinux
-Hyperbola GNU/Linux-libre
 IBM
-ISO/IEC 8859
 Ideogram
 Immunix
-Inktank Storage
-Internationalization and localization
 IodéOS
-Jim Whitehurst
 Jurix
 KDE neon
 KaOS
@@ -140,19 +106,15 @@ Knoppix
 Kongoni (operating system)
 Korora (operating system)
 Kubuntu
-Kudzu (computer daemon)
 Kwort Linux
 LXLE Linux
-Languages of Europe
 Libranet
 LinHES
 LineageOS
 Linpus Linux
-Linus Torvalds
 Linux
 LinuxTLE
 Linux Caixa Mágica
-Linux Journal
 Linux Lite
 Linux Mint
 Linux Router Project
@@ -169,21 +131,13 @@ Mageia
 Mandrake Linux
 Mandriva Linux
 Manjaro
-Marc Ewing
-Matthew Szulik
 MeeGo
 Mer (software distribution)
-MetaMatrix
-Michael Tiemann
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Mozilla
 Mugshot (website)
-Musix GNU+Linux
 NTFS
-Native POSIX Thread Library
-Netscape Communicator
 Network Security Toolkit
 NimbleX
 Nitix
@@ -197,17 +151,14 @@ OpenELEC
 OpenMandriva Lx
 OpenOffice.org
 OpenSUSE
-OpenShift
 Open Enterprise Server
 Oracle Linux
 PCLinuxOS
 Package manager
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
 Patent
-Paul Cormier (engineer)
 Pentoo
 Peppermint OS
 Pinguy OS
@@ -220,24 +171,14 @@ Puppy Linux
 PureOS
 Q4OS
 Qubes OS
-Qumranet
-RHL
 ROSA Linux
-RPM Package Manager
 Raspberry Pi OS
 Red Hat
-Red Hat Certification Program
-Red Hat Cluster Suite
 Red Hat Enterprise Linux
-Red Hat Enterprise Linux derivatives
-Red Hat Network
-Red Hat Tower
-Red Hat Virtualization
 Red Star OS
 Remix OS
 Replicant (operating system)
 Resurrection Remix OS
-Rhythmbox
 Rocks Cluster Distribution
 Rocky Linux
 SUSE Linux
@@ -247,9 +188,7 @@ Sabayon Linux
 Sabily
 Sailfish OS
 Salix OS
-Satellite (software)
 Scientific Linux
-Simple Protocol for Independent Computing Environments
 Slackware
 Slax
 Softlanding Linux System
@@ -258,10 +197,8 @@ Software release life cycle
 Solus (operating system)
 SolydXK
 Source Mage
-Spacewalk (software)
 SparkyLinux
 Splashtop OS
-StarOffice
 SteamOS
 Sunwah Linux
 SystemRescue
@@ -287,21 +224,13 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 User space and kernel space
 VectorLinux
 Vine Linux
-Virtual Machine Manager
-Virtual community
 Void Linux
-Vorbis
-Western Europe
 Whonix
-WildFly
 Wubuntu
 XB Machine
-XMMS
 Xubuntu
 Yellow Dog Linux
 Zenwalk

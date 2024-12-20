@@ -1,31 +1,22 @@
 2.5D
 2D computer graphics
 3D computer graphics
-3D graphics software
 3D projection
-3D rendering
 ACM Computing Classification System
-Adobe Photoshop
 Affine transformation
 Algorithm
 Algorithm design
 Algorithmic efficiency
-Aliasing
 Alpha compositing
 Analysis of algorithms
-Animation software
 Anisotropic filtering
 Application security
 Artificial intelligence
 Automata theory
 Automated planning and scheduling
 Back-face culling
-Beam tracing
-Cel shading
-Checkerboard rendering
 Clipping (computer graphics)
 Collision detection
-Comparison of raster graphics editors
 Comparison of vector graphics editors
 Compiler construction
 Computability theory
@@ -44,7 +35,6 @@ Computer animation
 Computer architecture
 Computer data storage
 Computer graphics
-Computer graphics (computer science)
 Computer graphics lighting
 Computer hardware
 Computer network
@@ -59,7 +49,6 @@ Concurrent computing
 Cone tracing
 Control theory
 Control variable (programming)
-CorelDRAW
 Cross-validation (statistics)
 Cryptography
 Cyberwarfare
@@ -89,11 +78,9 @@ Fluid animation
 Form factor (design)
 Formal language
 Formal methods
-GIMP
 Geographic information system
 Global illumination
 Graphic art software
-Graphics file formats
 Graphics processing unit
 Green computing
 Hardware acceleration
@@ -103,10 +90,6 @@ Hidden-surface determination
 Human–computer interaction
 Image-based modeling and rendering
 Image compression
-Image conversion
-Image manipulation
-Image morphing software
-Imc FAMOS
 Information retrieval
 Information security
 Information system
@@ -120,22 +103,16 @@ Isometric video game graphics
 Knowledge representation and reasoning
 Layers (digital image editing)
 Library (computing)
-List of 2D animation software
-List of 2D graphics software
-List of 3D animation software
 List of 3D computer graphics software
 List of 3D modeling software
 List of 3D rendering software
 List of computer graphics algorithms
 List of computer size categories
-List of raster graphics editors
 Logic in computer science
 Machine learning
-Macromedia xRes
 Mathematical analysis
 Mathematical optimization
 Mathematical software
-Microsoft Publisher
 Middleware
 Mixed reality
 Mode 7
@@ -164,7 +141,6 @@ Path tracing
 Peripheral
 Philosophy of artificial intelligence
 Photograph manipulation
-Picasa
 Pixel
 Planar projection
 Polygon mesh
@@ -181,7 +157,6 @@ Quantum Computing
 Randomized algorithm
 Raster graphics
 Raster graphics editor
-Ray casting
 Ray tracing (graphics)
 Real-time computing
 Reflection (computer graphics)
@@ -197,7 +172,6 @@ Semantics (computer science)
 Shader
 Shading
 Shadow mapping
-Shadow volume
 Shear matrix
 Skybox (video games)
 Social computing
@@ -217,28 +191,21 @@ Solid modeling
 Spectral rendering
 Statistics
 Stochastic computing
-SuperPaint
 Supervised learning
 Surface triangulation
 System on a chip
 Texel (graphics)
-Text-to-image model
 Theoretical computer science
 Theory of computation
-Translation (geometry)
 Triangle mesh
 Ubiquitous computing
 Unbiased rendering
 Unsupervised learning
-Vector graphics
-Vector graphics editor
 Very Large Scale Integration
-Video editing software
 Video game
 Virtual machine
 Virtual reality
 Visualization (graphics)
-Volume rendering
 Voxel
 Wayback Machine
 Wire-frame model

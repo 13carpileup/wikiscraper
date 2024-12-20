@@ -9,11 +9,8 @@ Ateji PX
 Automatic parallelization
 Barrier (computer science)
 Beowulf cluster
-Big O notation
 Bit-level parallelism
-Boost (C++ libraries)
 Bulldozer (microarchitecture)
-C++ AMP
 CUDA
 Cache-only memory architecture
 Cache coherence
@@ -52,7 +49,6 @@ HPX
 Hardware acceleration
 Hardware scout
 High-performance computing
-Human services
 Implicit parallelism
 Instruction-level parallelism
 Instruction pipelining
@@ -112,4 +108,3 @@ Threading Building Blocks
 Unified Parallel C
 Uniform memory access
 Vector processor
-ZPL (programming language)

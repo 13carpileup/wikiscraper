@@ -1,537 +1,217 @@
-.rpm
-/e/ (operating system)
 4MLinux
 ALT Linux
-APT (software)
-Absolute Linux
-Academic Free License
-Adobe Flash Player
-Agence nationale de la sécurité des systèmes d'information
 AlmaLinux
 Alpine Linux
-Alternative terms for free software
 Amazon (company)
-Amazon Linux AMI
 Android-x86
 Android (operating system)
 Antergos
 AntiX
 Apache License
-Apple Public Source License
-Apple silicon
-Aptitude (software)
 ArchBang
 ArchLabs
 Arch Linux
-Arch Linux ARM
-Artistic License
 Artix Linux
 Asahi Linux
-Asianux
 Astra Linux
 Asturix
 Austrumi Linux
-Autonomic system (computing)
-Awesome (window manager)
 BLAG Linux and GNU
 BSD
-BSD licenses
 BackBox
 BackTrack
-Beerware
-Berry Linux
 Bharat Operating System Solutions
-Binary blob
 BioSLAX
 BlackArch
 Black Lab Linux
 BlankOn Linux
-Bleeding edge
-Blue Systems
 Bodhi Linux
-Booting process of Linux
-Budgie (desktop environment)
-BusyBox
-CERN
 CHAOS (operating system)
-CLIP OS
 CRUX
 Calculate Linux
-Caldera (company)
-Caldera International
 Caldera OpenLinux
-Caldera Smallfoot
-Caldera Systems
 CalyxOS
-Calyx Institute
-Canaima (operating system)
-Canonical Ltd.
-Castile-La Mancha
 CentOS
 CentOS Stream
 Chakra (operating system)
-Chakra Linux
 Chimera Linux
 ChromeOS
-Chromebook
-Chromebox
 ChromiumOS
-Cinnamon (desktop environment)
-Cinnamon (software)
 Clang
 ClearOS
 Clear Linux OS
-Cloud application
-Codec
 ColorOS
-Commercial products based on Red Hat Enterprise Linux
 Commodore OS
-Common Development and Distribution License
-Community of practice
-CompTIA Linux+
 Comparison of Linux distributions
-Comparison of free and open-source software licenses
-Comparison of free software for audio
-Comparison of netbook-oriented Linux distributions
-Comparison of open-source and closed-source software
-Comparison of open-source configuration management software
-Comparison of open-source operating systems
-Comparison of open-source wireless drivers
-Comparison of shopping cart software
-Comparison of source-code-hosting facilities
 Computer cluster
-Concurrent Versions System
 Container Linux
-Container Linux by CoreOS
-Contributor License Agreement
-CopperheadOS
-Copyleft
-CoreOS
 Corel Linux
 CrDroid
-Creative Commons license
-Criticism of Linux
-Criticism of desktop Linux
 CrunchBang Linux
 Cub Linux
 Cuba
 CyanogenMod
-DD-WRT
 Damn Small Linux
 Damn Vulnerable Linux
-Deb (file format)
 Debian
-Debian Free Software Guidelines
-Debian Live
 Deepin
-Definition of Free Cultural Works
 DemoLinux
-Desktop environment
-Desktop metaphor
 Device driver
 Devuan
 Digital rights management
-Dinit
-DistroWatch
 DivestOS
 DoudouLinux
-Dpkg
-Dragora GNU/Linux-Libre
 Dreamlinux
-Dwm
-ELinOS
 EMUI
-EasyPeasy
-Eclipse Public License
 Edubuntu
-Eeebuntu OS
-Element OS
-Elementary (operating system)
 Elementary OS
 Elive
 Embedded system
-Emdebian Grip
 Emmabuntüs
-Emmaus (charity)
-EnGarde Secure Linux
 EndeavourOS
 Endless OS
-Enlightenment (software)
 EulerOS
 Familiar Linux
 Feather Linux
-Feature (software design)
-Fedora (operating system)
 Fedora Linux
-Fermi Linux LTS
-Fermilab
 File system
-Finnix
 Fire OS
-Firefox
 Firefox OS
-Fli4l
 Floppyfw
-Fluxbox
 Forbes
 Foresight Linux
 Fork (software development)
 France
-Free-software license
 FreeBSD
-Free Software
-Free Software Foundation
-Free Software Magazine
-Free Software Movement of India
-Free and open-source graphics device driver
-Free and open-source software
-Free license
 Free software
-Free software movement
 FreedomBox
 Freespire
 Frugalware Linux
-Fuduntu
-Full Circle (magazine)
-GLinux
-GNOME
-GNOME Shell
-GNU/Linux naming controversy
-GNU Affero General Public License
 GNU General Public License
-GNU Guix
 GNU Guix System
-GNU Lesser General Public License
-GNU Manifesto
 GNewSense
 GOS (operating system)
-GTK
-GTK+
-GUI
-GalliumOS
 Garuda Linux
-Gaël Duval
 GeckoLinux
-GeeXboX
-GendBuntu
-Generalitat Valenciana
 Gentoo Linux
 Germany
 GoboLinux
 Gobuntu
-Goobuntu
 Google
-Google Apps
-Google Chrome
-Google Gadgets
 GrapheneOS
 Graphical user interface
-Gratis versus Libre
-Gratis versus libre
-Grml
-Haansoft
-Hacker Public Radio
 HandyLinux
-Hanthana (operating system)
-Havana
-Hewlett-Packard
-Hildon
-History of Linux
-History of free and open-source software
-Home theater PC
-Hyperbola GNU/Linux-libre
-I3 (window manager)
-IBM mainframe
-ISC license
 ISO 9241
 ISSN (identifier)
 Immunix
-Init
 Intel
-Intel Atom
 Intrusion detection system
 IodéOS
-Jlime
-Joli OS
 Jolla
-Jornada (PDA)
-Judd Vinet
 Jurix
-KDE
-KDE Plasma
-KDE Plasma 5
-KDE Plasma Workspaces
 KDE neon
-KISS principle
 KaOS
 KaiOS
 Kaisen Linux
 Kali Linux
-Kali NetHunter
 Kanotix
-Karoshi (operating system)
 KateOS
-Klaus Knopper
 Knoppix
 Kongoni (operating system)
 Korora (operating system)
 Kubuntu
-Kwort
 Kwort Linux
-LAMP (software bundle)
-LEAF Project
-LLVM
-LWN.net
-LXDE
 LXLE Linux
-LXQt
-LiMux
 Libranet
-License proliferation
-Light-weight Linux distribution
-Lightweight Portable Security
 LinHES
 LineageOS
 Linpus Linux
-Linus's law
 Linux
-Linux-libre
-Linux.com
-LinuxChix
-LinuxConsole
-LinuxMCE
 LinuxTLE
-LinuxUser
 Linux Caixa Mágica
-Linux Counter
-Linux Documentation Project
-Linux Format
-Linux Foundation
-Linux Foundation Linux Certification
-Linux Gazette
-Linux Journal
 Linux Lite
-Linux Magazine
-Linux Mark Institute
 Linux Mint
-Linux Mint Debian Edition
-Linux Outlaws
 Linux Router Project
-Linux Voice
-Linux XP
-Linux adoption
-Linux desktop environments
 Linux distribution
 Linux for PlayStation 2
-Linux for mobile devices
-Linux gaming
 Linux kernel
-Linux kernel oops
-Linux malware
-Linux on IBM Z
-Linux on embedded systems
-Linux range of use
-Linux user group
-List of Gentoo Linux derivatives
-List of Linux adopters
-List of Linux distributions that run from RAM
-List of commercial open-source applications and services
-List of computer security certifications
-List of formerly free and open-source software
-List of formerly proprietary software
-List of free-software events
-List of free and open-source Android applications
-List of free and open-source iOS applications
-List of free and open-source software organizations
-List of free and open-source software packages
-List of free and open-source web applications
-List of free software project directories
-List of free television software
-List of live CDs
-List of office suites
-List of open-source bioinformatics software
-List of open-source codecs
-List of open-source health software
-List of open-source routing platforms
-List of open-source software for mathematics
-List of open-source video games
-List of router and firewall distributions
-List of software package management systems
-Live CD
-Live DVD
-LliureX
-Long-term support
 Lubuntu
-LugRadio
-MATE (software)
-MAX (operating system)
 MCC Interim Linux
-MEPIS
-MIT License
 MIUI
 MX Linux
 MacOS
 Mac OS X
-Mach microkernel
 Macintosh
 Maemo
 Mageia
 Mandrake Linux
-Mandriva
 Mandriva Linux
 Manjaro
-Maya (operating system)
 MeeGo
 Mer (software distribution)
-Microsoft Open Specification Promise
 Microsoft Windows
-Ministry of Defence (India)
-MintPPC
 Miracle Linux
-MkLinux
-MobilePro
 Mobile device
 Mobilinux
 Moblin
-Molinux
 MontaVista
-MontaVista Linux
-Mozilla Corporation
-Mozilla Public License
-Mozilla software rebranded by Debian
-MuLinux
-Multimedia
-Munich
-Musix GNU+Linux
 Musl
-MythTV
-Mythbuntu
 NEC
-National Gendarmerie
-NepaLinux
-Netbook
-Netrunner (operating system)
 Network Security Toolkit
-Nguni people
 NimbleX
 Nitix
 NixOS
-Nix package manager
 Nobara Linux
 Nokia
-Nokia N800
-Nokia N810
-Nokia N9
-Nokia N900
 Nova (operating system)
-Offensive Security
 OmniROM
-One Laptop per Child
 One UI
-Open-core model
-Open-source-software movement
-Open-source hardware
-Open-source license
 Open-source software
-Open-source software advocacy
-Open-source software development
-Open-source software security
 OpenELEC
-OpenGEU
-OpenMandriva
 OpenMandriva Lx
-OpenRC
 OpenSUSE
-OpenWrt
-OpenZaurus
 Open Enterprise Server
-Openbox
 Operating system
-Opkg
-Oracle Corporation
 Oracle Linux
-Outline of free software
 PCLinuxOS
-Package format
-Package management system
 Package manager
-Pacman (Arch Linux)
-Pacman (software)
-Paldo (operating system)
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
-Paranoid Android (software)
-Pardus (operating system)
 Parrot OS
 Parsix
-Pay what you want
-PelicanHPC
 Pentoo
 Peppermint OS
-Permissive software license
-Personal digital assistant
-Phoronix Test Suite
-Picasa
 Pinguy OS
 PixelExperience
 Platypux
 PlayStation 2
 Pop! OS
-Portage (software)
 Porteus (operating system)
 Portmanteau
-Portugal
-Poseidon Linux
 PostmarketOS
-PowerLinux
-PowerPC
-Prevas
 Primary education
-Programmers
-Proprietary device driver
-Proprietary firmware
 Proprietary software
 Public domain
 Puppy Linux
 PureOS
 Pure function
-Python License
-Python Software Foundation License
 Q4OS
 Qubes OS
 ROSA Linux
-RPath
-Random Access Memory
 Raspberry Pi
-Raspberry Pi Foundation
 Raspberry Pi OS
-Ratpoison
 Real-time computing
-Red Flag Linux
 Red Hat
-Red Hat Certification Program
 Red Hat Enterprise Linux
-Red Hat Enterprise Linux derivatives
 Red Hat Linux
 Red Star OS
 Remix OS
 Replicant (operating system)
-Repo
 Resurrection Remix OS
-Revolution OS
-Rockchip
 Rocks Cluster Distribution
 Rocky Linux
-Rolling release
-Runit
-Russian Fedora Remix
-S6 (software)
-SCO–Linux disputes
 SUSE Linux
 SUSE Linux Enterprise
-SUSE S.A.
 SUSE Studio
-SYSGO
 Sabayon Linux
 Sabily
 Sailfish OS
@@ -539,138 +219,60 @@ Salix OS
 Samsung Electronics
 Scientific Linux
 Secondary education
-Security-focused operating system
-Senior citizen
-Sentry Firewall
-Set-top box
-Shared Source Initiative
-Sharp Zaurus
-Slackintosh
 Slackware
 Slax
-Sleepycat License
-SliTaz GNU/Linux
 Smart TV
 Smartphone
-Smartphones
-SmoothWall
 Softlanding Linux System
-Software bugs
-Software patents and free software
-Software suite
 Solus (operating system)
-Solus project
 SolydXK
 Sony Computer Entertainment
-Source-available software
 Source Mage
 SparkyLinux
 Splashtop OS
 SteamOS
 Steam (service)
 Steam Deck
-Sugar (software)
 Sunwah Linux
-SuperGamer
-System76
 SystemRescue
-SystemRescueCD
-Systemd
 T2 SDE
-Tablet computer
 Tails (operating system)
-Tanenbaum–Torvalds debate
-Tar.xz
-Tar (file format)
 TechCrunch
-The Cathedral and the Bazaar
-The Code (2001 film)
-The Free Software Definition
-The Open Source Definition
-The SCO Group
 Think Blue Linux
-Timeline of free and open-source software
-Tinfoil Hat Linux
 Tiny Core Linux
-Tivoization
 Tizen
-Tomsrtbt
 TopologiLinux
-Topologilinux
-Tor (anonymity network)
-Trinity Desktop Environment
 Trisquel
-Trisquel GNU/Linux
-Trusted Computing
 Turbolinux
-Turkish National Research Institute of Electronics and Cryptology
 Turkix
-TurnKey Linux Virtual Appliance Library
-Tux (mascot)
-Twister OS
 USB flash drive
-UberStudent
 Ubuntu
-Ubuntu (operating system)
 Ubuntu Budgie
 Ubuntu Cinnamon
 Ubuntu GNOME
-Ubuntu JeOS
 Ubuntu Kylin
 Ubuntu MATE
-Ubuntu Mobile
-Ubuntu Netbook Edition
-Ubuntu Professional Certification
-Ubuntu Server
 Ubuntu Studio
-Ubuntu TV
 Ubuntu Touch
 Ubuntu Unity
-Ubuntu User
-Ubuntu linux
-Ubuntu philosophy
-Ubuntu version history
 Ultramarine Linux
-United States Department of Defense
-Unity (user interface)
 Unity Operating System
-Univention Corporate Server
-University of Information Science
-Unix
-Unlicense
-Uruk GNU/Linux
-Ututo
 Valve Corporation
 VectorLinux
 Video game
 Vine Linux
-Vinux
-Virtual appliance
 Virtual machine
-Visual impairment
 Void Linux
-VyOS
-Vyatta
-WTFPL
 Wayback Machine
-Webconverger
 Whonix
 Windows
 Windows 11
 Wine (software)
 Wubuntu
-X86-64
 XB Machine
-XZ Utils
-Xandros
-Xfce
 Xubuntu
-YUM (software)
 Yellow Dog Linux
-Yggdrasil Linux/GNU/X
 ZDNet
 Zenwalk
-ZipSlack
-Zlib License
 Zorin OS
 Ångström distribution

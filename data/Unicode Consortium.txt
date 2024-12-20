@@ -1,15 +1,9 @@
-501(c)(3)
-501(c)(3) organization
-Addendum
-Addison-Wesley
 Adlam script
 Adobe Inc.
 Ahom script
-Airbnb
 Anatolian hieroglyphs
 Ancient North Arabian
 Ancient South Arabian script
-Apple Color Emoji
 Apple Inc.
 Arabic script
 Aramaic alphabet
@@ -17,23 +11,16 @@ Armenian alphabet
 Avestan alphabet
 Balinese script
 Bamum script
-Bangladesh Computer Council
-Bassa Vah alphabet
 Batak script
 Baybayin
-Benefit corporation
 Bengali–Assamese script
 Bhaiksuki script
-Bidirectional text
 Binary Ordered Compression for Unicode
-Blob emoji
 Bopomofo
 Brahmi script
 Braille
 Buhid script
-Byte order mark
 CESU-8
-CJK Unified Ideographs
 California
 Canadian Aboriginal syllabics
 Carian alphabets
@@ -41,17 +28,10 @@ Caucasian Albanian script
 Chakma script
 Cham script
 Cherokee syllabary
-Choijinzhab
 Code point
-Combining character
 Combining grapheme joiner
 Common Locale Data Repository
 Comparison of Unicode encodings
-ConScript Unicode Registry
-Consensus decision-making
-Consortium
-Control Pictures
-Coptic script
 Cuneiform
 Currency symbol
 Cypriot syllabary
@@ -59,29 +39,15 @@ Cypro-Minoan syllabary
 Cyrillic script in Unicode
 DIN 91379
 Deseret alphabet
-Deutsche Welle
 Devanagari
 Dhives Akuru
 Diacritic
-Dingbats (Unicode block)
 Dogri script
 Doi (identifier)
-Duplicate characters in Unicode
 Duployan shorthand
-Eggplant emoji
 Egyptian hieroglyphs
-Elbasan
 Elymaic
-Emogenius
 Emoji
-EmojiGrid
-Emoji domain
-Emojipedia
-Emojli
-Emoticons (Unicode block)
-En banc
-Face with Heart Eyes emoji
-Face with Tears of Joy emoji
 Fraser script
 GB 18030
 Garay alphabet
@@ -94,45 +60,24 @@ Gondi writing
 Google
 Gothic alphabet
 Grantha script
-Greek script in Unicode
 Gujarati script
 Gunjala Gondi script
 Gurmukhi
-Gurung Khema
 Halfwidth and fullwidth forms
 Han unification
 Hangul
 Hanifi Rohingya script
 Hanja
 Hanunoo script
-Harvey Ball
-Hatran alphabet
-Hearts in Unicode
 Hebrew alphabet
 Hiragana
-Homoglyph
 IBM
 ISBN (identifier)
-ISO/IEC 14651
-ISO/IEC 8859
-ISO/IEC JTC 1/SC 2
 ISO 15924
 ISSN (identifier)
-Ideographic Research Group
-Impact of the COVID-19 pandemic on tourism
-Implementation of emojis
 Internal Revenue Service
-International Components for Unicode
-International Ideographs Core
-International Standards Organization
-Internationalization and localization
-Internationalized domain name
-Internet Engineering Task Force
 Java (programming language)
 Javanese script
-Jeremy Burge
-Joe Becker (Unicode)
-Josh Gare
 Kaithi
 Kanji
 Kannada script
@@ -144,33 +89,20 @@ Khitan small script
 Khmer script
 Khojki script
 Khudabadi script
-Khwarezmian language
-Kirat Rai
 Lao script
-Latin script in Unicode
-Lee Collins (Unicode)
-Left-to-right mark
 Lepcha script
 Limbu script
-Linear A
 Linear B
-List of Unicode characters
 List of XML and HTML character entity references
-List of emoji
-List of precomposed Latin characters in Unicode
 Lontara script
 Los Angeles Times
 Lycian alphabet
 Lydian alphabet
 Mahajani
-Makassarese language
 Malayalam script
-Man in Business Suit Levitating emoji
 Mandaic alphabet
 Manichaean script
 Marchen script
-Mark Davis (Unicode)
-Mathematical operators and symbols in Unicode
 Medefaidrin
 Meitei script
 Mende Kikakui script
@@ -178,30 +110,19 @@ Meroitic script
 Meta Platforms
 Michael Everson
 Microsoft
-Ministry of Endowments and Religious Affairs (Oman)
-Miscellaneous Symbols
-Miscellaneous Symbols and Pictographs
 Modi script
 Mongolian script
-Monotype Imaging
 Mon–Burmese script
-Mountain View, California
 Mru language
 Multani script
-Multilingualism
 N'Ko script
 Nabataean script
-Nag Mundari
 Nandinagari
 Netflix
 New Tai Lue alphabet
 Nonprofit organization
-Noto fonts
-Numerals in Unicode
 Numeric character reference
-Nyiakeng Puachue Hmong
 Nüshu
-O'Reilly Media, Inc.
 Odia script
 Ogham
 Ol Chiki script
@@ -211,49 +132,25 @@ Old Italic scripts
 Old Permic script
 Old Persian cuneiform
 Old Turkic script
-Old Uyghur
 Operating system
 Osage script
-Osmanya alphabet
 Pahawh Hmong
 Pahlavi scripts
-Palmyrene alphabet
-Parthian language
 Pau Cin Hau script
-Peach emoji
-Person with Headscarf emoji
 Phoenician alphabet
-Phonetic symbols in Unicode
-Pineapple emoji
-Pistol emoji
-Plane (Unicode)
 Pollard script
-Poop emoji
 Pracalit script
-Precomposed character
-Private Use Areas
-Punctuation
-Punycode
 Ranjana script
 Regional indicator symbol
-Rejang alphabet
-Religious and political symbols in Unicode
-Right-to-left mark
-Rune
 S2CID (identifier)
-SAP
-Salesforce
 Samaritan script
 Saurashtra script
 Script (Unicode)
-Segoe
 Sharada script
 Shavian alphabet
-Shigetaka Kurita
 Siddhaṃ script
 SignWriting
 Sinhala script
-Smile (Doctor Who)
 Soft hyphen
 Software
 Sogdian alphabet
@@ -261,75 +158,30 @@ Sorang Sompeng script
 Soyombo script
 Space (punctuation)
 Standard Compression Scheme for Unicode
-Standards organization
 Sundanese script
 Sunwar language
-Supplemental Symbols and Pictographs
-Swift (programming language)
 Sylheti Nagri
 Syriac alphabet
 Tagbanwa script
-Tai Dam language
 Tai Le script
 Tai Tham script
 Takri script
-Tamil Virtual Academy
 Tamil script
-Tangsa language
 Tangut script
-Taxpayer Identification Number
 Telugu script
 Thaana
 Thai script
-The Emoji Movie
-Tibetan script
-Tifinagh
-Tigalari script
-Tirhuta script
-Todhri alphabet
-Toto language
-Transport and Map Symbols
 UTF-1
 UTF-16
 UTF-32
 UTF-7
 UTF-8
 UTF-EBCDIC
-Ugaritic alphabet
 Unicode
-Unicode Standard
-Unicode alias names and abbreviations
-Unicode and HTML
 Unicode and email
-Unicode anomaly
 Unicode block
-Unicode character property
-Unicode collation algorithm
-Unicode compatibility characters
-Unicode equivalence
-Unicode font
-Unicode input
-Unicode symbol
-Universal Character Set characters
 Universal Coded Character Set
 University of California, Berkeley
-Vai syllabary
-Variant form (Unicode)
-Vithkuqi alphabet
-W3C
-Wancho script
-Warang Citi
 Wayback Machine
 Whitespace character
-Word joiner
-World Emoji Day
 XML
-Yezidi (script)
-Yi script
-Z-variant
-Zanabazar square script
-Zero-width joiner
-Zero-width non-joiner
-Zero-width space
-Zoom (software)
-ʼPhags-pa script

@@ -1,313 +1,50 @@
-Bin packing problem
 Wayback Machine
-Linear programming relaxation
-TOMLAB
-OptimJ
-LP-type problem
-Dominating set problem
-Limited-memory BFGS
-Vertex cover problem
-MR (identifier)
-Branch and cut
-Observable universe
-Job shop scheduling
 Microsoft Excel
-Cutting-plane method
-Strongly-polynomial time
-Leonid Kantorovich
-Nonlinear programming
 P (complexity)
-Polygon
-Feasible region
 Dynamic programming
-Fractional coloring
-Polyhedron
-Gekko (optimization software)
-Interior-point method
 Mathematical model
-GLOP
-Stochastic programming
-John von Neumann
-Affine function
-Trust region
-Gauss–Newton algorithm
-Revised simplex algorithm
-Ford–Fulkerson algorithm
-BSD licenses
-Barrier function
 Minimum spanning tree
-Convex set
-Dual problem
-Graph diameter
-Variable (programming)
-Unit cube
-Set cover problem
-Spiral optimization algorithm
-Simulated annealing
-Floyd–Warshall algorithm
-Least absolute deviations
-Levenberg–Marquardt algorithm
-Independent set problem
-David S. Johnson
-Worst-case complexity
-Set packing
-Simplex method
 ISBN (identifier)
-Canonical form
-Shortest path problem
-Quasi-Newton method
-Level set
-Metaheuristic
-Convex minimization
-Broadcast programming
-Newton's method in optimization
-Bin covering problem
 Algebraic modeling language
-Lemke's algorithm
-Michael R. Garey
 Yinyu Ye
 Matrix multiplication
 Branch and bound
-Hirsch conjecture
 Linear inequality
 Bellman–Ford algorithm
-Mixed integer programming
 Flow network
-Line search
-Rectangle packing
-Karp's 21 NP-complete problems
-Mixed-integer programming
-Borůvka's algorithm
-Iterative method
-Push–relabel maximum flow algorithm
-Linear equality
-Berndt–Hall–Hall–Hausman algorithm
-Abundance of the chemical elements
-Linear functional
-Augmented Lagrangian method
-LINDO
-R-Project
-MPS (format)
-List of numerical analysis topics
-MPL License
-AMPL
-Vertex cover
-Matroid
-Linear production game
 OCLC (identifier)
-Local minimum
-Mirror descent
-Approximation algorithms
-Hessian matrix
-Linear-fractional programming (LFP)
-Submodular flow
-Soft O notation
-Local convergence
-XPRESS
 Game theory
-Independent set (graph theory)
 Gradient
-SuanShu numerical library
 Matrix (mathematics)
-Artelys Knitro
-Symmetric rank-one
-Semidefinite programming
-Local search (optimization)
-Dinic's algorithm
 Linear
-General Algebraic Modeling System
-Leonid Khachiyan
-Graph algorithm
-Combinatorial optimization
 Apache License
 Albert W. Tucker
-Nobel Memorial Prize in Economic Sciences
-Global minimum
 ISSN (identifier)
-Simplex algorithm
-Traveling salesman problem
-Matching (graph theory)
-Half-space (geometry)
 Dynamical system
-CPLEX
-Polygon covering
-MIT License
-Linear function
-Heuristic algorithm
-Totally unimodular
-Objective function
-Odysseus
-Least-squares spectral analysis
 ArXiv (identifier)
-Input–output model
 George Dantzig
-Fourier–Motzkin elimination
-Assignment problem
-Christos H. Papadimitriou
-Affine scaling
-Optimization Toolbox
-Qoca
-Scheduling (production processes)
-GNU Linear Programming Kit
-Polytope
-Polynomial-time
 Manfred W. Padberg
-Copyleft
 Economics
 Vector space
-COIN-OR CLP
-Total dual integrality
-Lp solve
-Shortest Path Faster Algorithm
-Covering problem
-VisSim
-SCIP (optimization software)
-Block diagram
 Operations research
-Covering problems
-Dantzig–Wolfe decomposition
-MOSEK
 Proprietary software
 Dijkstra's algorithm
-Joseph Fourier
-Packing problem
-Dual linear program
-CiteSeerX (identifier)
-Permissive free software licence
-Nonlinear conjugate gradient method
-Oriented matroid
-SOCP
-Expected shortfall
-Sequential quadratic programming
-Truncated Newton method
-Polynomial time
 Constraint (mathematics)
-Karmarkar's algorithm
-Routing
-Concave function
-Mark Overmars
-FortMP
-List of unsolved problems in computer science
-Active-set method
-Edmonds–Karp algorithm
-AIMMS
-George B. Dantzig
-Maple (software)
-Frank–Wolfe algorithm
-NP-hard
-Mathematica
-Subgradient method
 Gilbert Strang
-Revised simplex method
-Edge cover
 Function (mathematics)
-Frank Lauren Hitchcock
 Vijay Vazirani
-Lingo (programming language)
-Tjalling Koopmans
-Odds algorithm
-Time complexity
-Quadratic programming
-NAG Numerical Library
 Algorithm
-Jiří Matoušek (mathematician)
-Mathcad
-Hill climbing
-Weak duality
-Successive parabolic interpolation
-Cassowary constraint solver
 Automated planning and scheduling
 API
 S2CID (identifier)
-GNU MathProg
-What'sBest
-Gradient descent
-Mixed linear complementarity problem
-Parallel metaheuristic
-IMSL Numerical Libraries
-Analytica (software)
-USSR
-Gurobi Optimizer
-Kruskal's algorithm
-Powell's dog leg method
-JuMP
-Local maximum
-Intersection (mathematics)
-Broyden–Fletcher–Goldfarb–Shanno algorithm
 Real number
-FICO Xpress
-Packing problems
-Penalty method
-Stephen Smale
-Linear complementarity problem
 Linear algebra
-Totally unimodular matrix
-Wassily Leontief
-Springer-Verlag
-Convex polytope
-Second-order cone programming
-Greedy algorithm
-Slack variable
 Graph (discrete mathematics)
-Komei Fukuda
-Proceedings of the USSR Academy of Sciences
-Branch and price
 Mathematical optimization
-APMonitor
-Numerical Algorithms Group
-Optimization algorithm
 JSTOR (identifier)
-Wolfe conditions
-Multi-commodity flow problem
-Global maximum
-Convex function
-Narendra Karmarkar
-Katta G. Murty
-Nelder–Mead method
-Prim's algorithm
-Benders' decomposition
-Integral polytope
-Successive linear programming
-Tabu search
-Interior point method
-Plane (geometry)
 Profit maximization
-The Mathematical Intelligencer
-Davidon–Fletcher–Powell formula
-Golden-section search
-Ellipsoid method
-Delayed column generation
-Criss-cross algorithm
-MINTO
-Klee–Minty cube
-Convex optimization
-Exchange algorithm
-Pyomo
-Nonlinear complementarity problem
-Simple polygon
-Convex programming
-SAS System
 Doi (identifier)
-Projective method
-Network flow problem
-Naum Z. Shor
-Mixed complementarity problem
-ALGLIB
-Günter M. Ziegler
-Maximum principle
 Block matrix
 MATLAB
-Shadow price
 Microeconomics
-Mathematical programming
-Quadratically constrained quadratic program
-Integer programming
-Smale's problems
-Evolutionary algorithm
-Tamás Terlaky
 Hectare
-Approximation algorithm
-Strong duality
-Comparison of optimization software
-Optimization (mathematics)
-Powell's method

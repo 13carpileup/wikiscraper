@@ -1,87 +1,38 @@
-Adjacency matrix
-Amy Langville
 ArXiv (identifier)
-Associativity
 Axiom of choice
-Basic Linear Algebra Subprograms
 Basis (linear algebra)
 Bibcode (identifier)
 Bilinear map
-Bilinear operator
-Bilinearity
-Bivector
 Block matrix
-Cartesian product of graphs
 Category theory
-Change of basis
 Charles Royal Johnson
-CiteSeerX (identifier)
-Column vector
-Commutation matrix
-Commutative operation
-Comparison of linear algebra libraries
-Conjugate transpose
-Convolution
 Cooley–Tukey FFT algorithm
-Count sketch
 Cramer's rule
-Cross product
-DFT matrix
 Determinant
-Direct sum of modules
 Doi (identifier)
 Dot product
 Dual space
 Eigenvalue
-Eigenvalues
 Eigenvalues and eigenvectors
 Encyclopedia of Mathematics
-Equivalence of categories
-Euclidean space
-Euclidean vector
 European Mathematical Society
 Exterior algebra
-Fast Walsh–Hadamard transform
 Field (mathematics)
-Floating-point arithmetic
-Function space
 Gaussian elimination
-Generalized linear array model
 Geometric algebra
 Glossary of linear algebra
-Gram–Schmidt process
 Graph (discrete mathematics)
-Graph product
 Hadamard product (matrices)
-Hand–eye calibration problem
 Hdl (identifier)
 ISBN (identifier)
 ISSN (identifier)
-Identity arrows
-Identity matrices
 Identity matrix
 If and only if
-Image processing
 Inner product space
-Invertible matrix
-Johann Georg Zehfuss
-Journal of Computational and Applied Mathematics
-Kernel (linear algebra)
-Khatri–Rao product
-Kronecker coefficient
-Kurt Hensel
-Least squares
-Leopold Kronecker
 Lie algebra
-Lie algebra homomorphism
 Linear algebra
-Linear combination
-Linear independence
 Linear map
-Linear span
 Linear subspace
-Linear transformations
-Lyapunov equation
 MATLAB
 Mathematics
 Matrix (mathematics)
@@ -89,66 +40,25 @@ Matrix addition
 Matrix decomposition
 Matrix exponential
 Matrix multiplication
-Matrix normal distribution
-Matrix product
-Minor (linear algebra)
-Monoidal category
-Moore–Penrose pseudoinverse
 Multilinear algebra
 Multilinear map
-Multiplicity (mathematics)
-Multivariate normal distribution
 Multivector
-Numerical linear algebra
-Numerical stability
 Operation (mathematics)
-Orthogonal matrix
 Orthogonality
-Outer Product
-Outer product
-Outermorphism
-Outline of linear algebra
 Permutation matrix
-Physical system
 Physics
 PlanetMath
-Productive matrix
 Projection (linear algebra)
-Quotient space (linear algebra)
-Radioelectronics and Communications Systems
 Rank (linear algebra)
-Rank of a matrix
-Rasmus Pagh
-Remainder
-ResearchGate
 Roger Horn
-Row and column spaces
-Row and column vectors
 S2CID (identifier)
-SIAM Journal on Applied Mathematics
 Scalar (mathematics)
 Scalar multiplication
-Science of Computer Programming
-Seven-dimensional cross product
 Similar matrix
 Singular value decomposition
-Skeleton (category theory)
-SourceForge
-Sparse matrix
-Spectrum (functional analysis)
-Statistica Neerlandica
 System of linear equations
 Tensor
 Tensor product
-Tensor product of graphs
-The Art of Computer Programming
-Trace (matrix)
-Transformation matrix
 Transpose
-Triple product
-Truncating integer division
-Unitary matrix
-Vector (mathematics and physics)
-Vector projection
 Vector space
 Vectorization (mathematics)

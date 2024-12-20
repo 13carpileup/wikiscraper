@@ -1,141 +1,20 @@
-.dwg
-3D Manufacturing Format
-ABViewer
-ACIS
-Additive manufacturing file format
-Alibre Design
-Allegro (CAD software)
-Altium Designer
-ArchiCAD
-AutoCAD
-AutoCAD DXF
-AutoCAD Electrical
-AutoTURN
 Autodesk Alias
-Autodesk Inventor
-Autodesk Revit
-Autotrax
-BRL-CAD
-BoardStation
 Boundary representation
-BricsCAD
 C++
-C3D Toolkit
-CADKEY
-CADSTAR
-CATIA
-CR-2000
-CR-3000
-CR-5000
-CR-8000
-Cimatron
-CircuitMaker
-Cobalt (CAD program)
-Comparison of computer-aided design software
 Computer-aided design
-DAC-1
-Delta Design
-DesignSpark Mechanical
-DesignSpark PCB
-Design Web Format
-DipTrace
 Doi (identifier)
-EAGLE (program)
-EasyCAD
-EasyEDA
-Easytrax
-Electric (software)
 Electronic design automation
-FINE MEP
-FORAN System
-FastCAD
-File format
 FreeCAD
-FreePCB
-FreeStyle (CAD software)
-Free and open-source software
-Fritzing
-Fusion 360
-GEDA
-Geometric modeling kernel
-Grasshopper 3D
-GstarCAD
-HeeksCAD
-History of CAD software
-Horizon EDA
-IGES
-IRONCAD
 ISO 10303
-IntegraStation
 IntelliCAD
-KTechLab
 KernelCAD
-KeyCreator
-KiCad
-LTspice
-LibreCAD
 Linux
-MEDUSA4
-Magic (software)
-Mechanical systems drawing
-Micro-Cap
-MicroStation
-NI Multisim
-NI Ultiboard
-NURBS
-Ngspice
-Onshape
-OpenSCAD
 Open Cascade Technology
-Open Design Alliance
-Open Packaging Conventions
-OrCAD
-Oregano (software)
-P-CAD
-PADS (CAD software)
-PCB (software)
-PDMS (software)
-PLY (file format)
-PSpice circuit file
-PTC Creo Elements/Direct Drafting
-PTC Creo Elements/Pro
 Parasolid
-Pro/DESKTOP
 Proprietary software
-Protel (CAD software)
-Proteus Design Suite
-Pulsonix
-QCAD
-Quite Universal Circuit Simulator
-RUCAPS
-RattleCAD
-Rhinoceros 3D
-Romulus (modelling kernel)
 S2CID (identifier)
-STANKIN
-STL (file format)
-Salome (software)
 ShapeManager
 Siemens NX
-Sketchpad
 Software
-SolidWorks
-Solid Edge
-Solid Modeling Solutions
-SolveSpace
-SpaceClaim
-Specctra
-T-FLEX CAD
-TARGET (CAD software)
-TangoPCB
 Teigha
-Tinkercad
-TopoR
-TurboCAD
-UNISURF
-Upverter
-VariCAD
-Wavefront .obj file
 Windows
-XCircuit
-Xpedition (CAD software)

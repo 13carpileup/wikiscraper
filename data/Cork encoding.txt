@@ -17,9 +17,7 @@ ARIB STD B24 character set
 ASCII
 ASMO 449
 ATASCII
-Acute accent
 Ampersand
-Amstrad CP/M Plus character set
 Amstrad CPC character set
 Apple II character set
 ArmSCII
@@ -32,10 +30,8 @@ Baudot code
 Big5
 Binary Ordered Compression for Unicode
 Bitstream International Character Set
-Bosnian language
 BraSCII
 Bracket
-Breve
 C
 C0 and C1 control codes
 CCSID
@@ -47,9 +43,7 @@ CSX+ Indic character set
 CSX Indic character set
 CS Indic character set
 CWI-2
-Caron
 Casio calculator character sets
-Cedilla
 Character encoding
 Character encodings in HTML
 Charset detection
@@ -72,17 +66,10 @@ Code page 1019
 Code page 1020
 Code page 1021
 Code page 1023
-Code page 1034
 Code page 1040
 Code page 1042
 Code page 1043
-Code page 1044
 Code page 1046
-Code page 1052
-Code page 1053
-Code page 1054
-Code page 1055
-Code page 1056
 Code page 1058
 Code page 1098
 Code page 1101
@@ -121,7 +108,6 @@ Code page 853
 Code page 855
 Code page 856
 Code page 857
-Code page 858
 Code page 859
 Code page 860
 Code page 861
@@ -138,7 +124,6 @@ Code page 896
 Code page 897
 Code page 899
 Code page 903
-Code page 904
 Code page 912
 Code page 915
 Code page 921
@@ -152,15 +137,11 @@ Code page 949 (IBM)
 Code page 950
 Code page 951
 Colon (punctuation)
-Combining character
 Comma (punctuation)
 Comparison of Unicode encodings
 Compucolor II character set
-ConTeXt
 Control character
 Cooke and Wheatstone telegraph
-Cork (city)
-Croatian language
 D
 DEC Hebrew
 DEC RADIX 50
@@ -170,27 +151,19 @@ DG International
 DIN 66003
 DIN 91379
 DKOI
-D with stroke
 Digital Equipment Corporation
 Digital encoding of APL symbols
 Dollar sign
-Dot (diacritic)
-Dotless I
-Dotless j
-Double acute accent
 E
 EBCDIC
 ELOT 927
 Equals sign
-Esperanto
-Eth
 Exclamation mark
 Extended Latin-8
 Extended Unix Code
 F
 FOCAL character set
 Fieldata
-Font
 Full stop
 G
 GBK (character encoding)
@@ -202,7 +175,6 @@ GEM character set
 GOST 10859
 GSM 03.38
 Galaksija (computer)
-Galician language
 Glyph
 Grave accent
 Greater-than sign
@@ -213,10 +185,8 @@ HZ (character encoding)
 Han unification
 Hardware code page
 Hong Kong Supplementary Character Set
-Hyphenation algorithm
 I
 IBM AIX
-IEC-P27-1
 INIS-8
 INIS character set
 ISO-IR-111
@@ -225,26 +195,6 @@ ISO-IR-182
 ISO-IR-197
 ISO-IR-200
 ISO-IR-68
-ISO/IEC 10367
-ISO/IEC 2022
-ISO/IEC 646
-ISO/IEC 8859
-ISO/IEC 8859-1
-ISO/IEC 8859-10
-ISO/IEC 8859-11
-ISO/IEC 8859-12
-ISO/IEC 8859-13
-ISO/IEC 8859-14
-ISO/IEC 8859-15
-ISO/IEC 8859-16
-ISO/IEC 8859-2
-ISO/IEC 8859-3
-ISO/IEC 8859-4
-ISO/IEC 8859-5
-ISO/IEC 8859-6
-ISO/IEC 8859-7
-ISO/IEC 8859-8
-ISO/IEC 8859-9
 ISO 2033
 ISO 5426
 ISO 5427
@@ -253,7 +203,6 @@ ISO 6438
 ISO 6862
 ITU T.61
 Indian Script Code for Information Interchange
-Intecolor/Compucolor 8001 character set
 Iran System encoding
 Ireland
 J
@@ -279,12 +228,9 @@ LST 1590-4
 LY1 encoding
 LaTeX
 Latin alphabet
-Latvian language
 Less-than sign
-Lithuanian language
 Lotus International Character Set
 Lotus Multi-Byte Character Set
-LuaTeX
 M
 MARC-8
 MIK (character set)
@@ -307,7 +253,6 @@ Mac OS Hebrew
 Mac OS Icelandic encoding
 Mac OS Inuit
 Mac OS Keyboard encoding
-Mac OS Maltese/Esperanto encoding
 Mac OS Ogham
 Mac OS Roman
 Mac OS Romanian encoding
@@ -317,7 +262,6 @@ Mac OS Turkish encoding
 Mac OS Ukrainian encoding
 Macintosh Font X encoding
 Macintosh Latin encoding
-Macron (diacritic)
 Magnetic ink character recognition
 Maltese language
 Mazovia encoding
@@ -335,14 +279,11 @@ O
 OML encoding
 OMS encoding
 OT1 encoding
-Ogonek
 P
 PETSCII
-Per mil
 Percent sign
 Perso-Arabic Script Code for Information Interchange
 Plus and minus signs
-Portuguese language
 PostScript Latin 1 Encoding
 PostScript Standard Encoding
 Prosigns for Morse code
@@ -352,10 +293,8 @@ Quotation mark
 R
 RISC OS character set
 RPL character set
-Ring (diacritic)
 Russian Morse code
 S
-SAM Coupé character set
 SI 960
 SQUOZE
 Sega SC-3000 character set
@@ -369,20 +308,16 @@ Slash (punctuation)
 Soft hyphen
 Space (punctuation)
 Spanish language
-Square bracket
 Standard Compression Scheme for Unicode
-Stanford/ITS character set
 Stanford Extended ASCII
 Symbol (typeface)
 T
-T.51/ISO/IEC 6937
 TI calculator character sets
 TRON (encoding)
 TRS-80 character set
 Tamil All Character Encoding
 Tamil Script Code for Information Interchange
 TeX
-TeX Users Group
 Telegraph code
 Teletex
 Teletext
@@ -390,8 +325,6 @@ Teletext character set
 Thai Industrial Standard 620-2533
 Tilde
 Transcode (character encoding)
-Turkish language
-Typographic ligature
 U
 UTF-1
 UTF-16
@@ -429,14 +362,10 @@ Windows-1256
 Windows-1257
 Windows-1258
 Windows-1270
-Windows Cyrillic + Finnish
-Windows Cyrillic + French
-Windows Cyrillic + German
 Windows Polytonic Greek
 Windows code page
 World System Teletext
 X
-XeTeX
 Xerox Character Code Standard
 Y
 YUSCII
@@ -444,57 +373,18 @@ Z
 ZX80 character set
 ZX81 character set
 ZX Spectrum character set
-Zero-width space
-¡
 £
 §
-¨
-ª
-º
-¿
 À
 Á
 Â
-Ã
-Ä
-Å
-Æ
 Ç
 È
 É
 Ê
-Ë
-Ì
-Í
 Î
 Ï
-Ð
-Ñ
-Ò
-Ó
-Ô
-Õ
-Ö
-Ø
-Ù
-Ú
 Û
-Ü
-Ý
-Þ
 ß
-Ă
-Ą
 Ć
 Č
-Ď
-Đ
-Ę
-Ě
-Ğ
-Ī
-İ
-Ĳ
-Ĺ
-Ľ
-Ł

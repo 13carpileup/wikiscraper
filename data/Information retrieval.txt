@@ -1,195 +1,30 @@
-1890 US Census
-3D retrieval
-Adversarial information retrieval
-Allen Kent
-Alvin Weinberg
-Apache Lucene
-Apache Solr
-As We May Think
-Association for Computing Machinery
-Atlantic Monthly
-Automatic summarization
-Bayes' theorem
-Bibliometrics
-Bill Maron
-Binary Independence Model
-C. J. van Rijsbergen
-CERN
-Calvin Mooers
-Case Western Reserve University
-Categorization
-Censorship
-Citation index
-CiteSeerX (identifier)
-Co-occurrence
-Collaborative information seeking
 Communications of the ACM
-Compound term processing
 Computational linguistics
 Computer data storage
 Computer memory
 Computing
-Conference on Information and Knowledge Management
-Controlled vocabulary
-Cornelis J. van Rijsbergen
-Cross-language information retrieval
-Cultural studies
-Cyril W. Cleverdon
 Data mining
-Data modeling
-Data retrieval
 Database
-Desk Set
-Desktop search
-Digital libraries
-Dimension reduction
-Divergence-from-randomness model
-Document classification
 Doi (identifier)
-Don Swanson
-Donald B. Crouch
-Elasticsearch
-Emanuel Goldberg
-Enterprise search
-Eugene Garfield
-European Conference on Information Retrieval
-European Summer School in Information Retrieval
-Evaluation measures (information retrieval)
-Extended Boolean model
-F. Wilfrid Lancaster
-Federated search
-Full-text search
-Fuzzy retrieval
-Generalized vector space model
-Geographic information retrieval
-Gerard Salton
-Gerard Salton Award
-Ground truth
-Hans Peter Luhn
 Hdl (identifier)
-Herman Hollerith
-Hierarchic clustering
-Human–computer information retrieval
-Hypertext
 ISBN (identifier)
-Ill-posed
-Image retrieval
 Independence (mathematical logic)
 Informatics
-Information Retrieval Facility
-Information access
-Information architecture
-Information behavior
-Information extraction
-Information filtering
 Information management
-Information needs
-Information overload
-Information retrieval applications
 Information science
-Information seeking
-Information society
 Information system
 Information technology
-Intellectual freedom
 Intellectual property
-International World Wide Web Conference
-J. C. R. Licklider
-JASIS
-Jacquard loom
-Joseph Marie Jacquard
-Karen Spärck Jones
-Karen Spärck Jones Award
-Keypunch
 Knowledge organization
-Knowledge visualization
-Language model
-Latent Dirichlet allocation
-Latent semantic analysis
-Latent semantic indexing
-Learning to rank
-Legal information retrieval
-Lemur Project
-Library and information science
 Library classification
-MEDLARS
-MIT
-Melvin Earl Maron
-Memory
 Metadata
-Mind maps
-Mobile search
-Multi-document summarization
-Multimedia information retrieval
-Music information retrieval
-National Bureau of Standards
 National Institute of Standards and Technology
-Natural language user interface
-Nearest centroid classifier
-Nicholas J. Belkin
-Nicholas Jardine
-Ontology (information science)
 Orthogonality
-Outline of information science
-Pearl growing
-Personal information management
-Philosophy of information
-Precision and recall
-Preservation (library and archival science)
-Privacy
-Probabilistic relevance model
-Probabilistic relevance model (BM25)
-Punched cards
-Quantum information science
-Query understanding
 Question answering
-Ranking (information retrieval)
-Recommender systems
-Relevance (information retrieval)
-Relevance feedback
-Ricardo Baeza-Yates
-Robert M. Hayes (information scientist)
-Robert R. Korfhage
 S2CID (identifier)
-SMART Information Retrieval System
 Scalability
 Science
-Science and technology studies
-Search engine indexing
-Search engines
 Set (mathematics)
-Site search
-Sketch Engine
-Social information seeking
-Social search
 Software engineering
-Spam filtering
-Special Interest Group on Information Retrieval
-Sphinx (search engine)
-Standard Boolean model
-Subject indexing
-Tabulating machine
-Taxonomy
-Temporal information retrieval
-Term Discrimination
-Terrier Search Engine
-Text Retrieval Conference
-Text corpora
-Tf–idf
-Theodor Nelson
-Tim Berners-Lee
-Tony Kent Strix award
-Topic-based vector space model
-Uncertain inference
-Univac
-Vannevar Bush
-Vector space model
-Vertical search
-Video retrieval
 Wayback Machine
-Web mining
-Web search engine
-Whoosh
 World Wide Web
-XML retrieval
-Xapian

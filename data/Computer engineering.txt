@@ -1,31 +1,22 @@
-ABET
 AI
 Academic certificate
 Academic degree
 Academic tenure
 Acoustical engineering
 Ad eundem degree
-Adaptive management
 Aerospace engineering
 Agricultural engineering
 Algorithm
-Analog device
 Architectural engineering
-Arithmetic logic unit
-Artificial Intelligence (AI)
 Artificial intelligence engineering
 Artist diploma
 Associate degree
-Association for Computing Machinery
-Atanasoff–Berry computer
 Audio engineer
 Automation engineering
 Automotive engineering
 Bachelor's degree
 Bachelor of Engineering
 Bachelor of Science
-Bell Labs
-Big data
 Biochemical engineering
 Bioinformatics
 Biological engineering
@@ -34,45 +25,30 @@ Biomechanical engineering
 Biomedical engineering
 Bioresource engineering
 Broadcast engineering
-Bug (programming)
 Building services engineering
-Bureau of Labor Statistics
-CPU design
 C (programming language)
 Cache (computing)
-Cache hierarchy
 Calculus
 Candidate of Sciences
-Carl Frosch
-Case Western Reserve University
 Central processing unit
 Ceramic engineering
 Certificate of Higher Education
 Chemical engineering
 Chemical reaction engineering
-Circuit board
-Circuit design
 Civil engineering
 Cleveland
-Clifford Berry
 Climate engineering
 Clinical engineering
 Coastal engineering
-Communications networks
 Compiler
-Computational science and engineering
-Computer-mediated communication
 Computer History Museum
-Computer Science and Engineering
 Computer architecture
 Computer hardware
 Computer memory
 Computer network
 Computer network engineering
-Computer performance
 Computer programming
 Computer science
-Computer science and engineering
 Computer vision
 Computing
 Construction engineering
@@ -81,17 +57,10 @@ Copyright infringement
 Corrosion engineering
 Cybersecurity engineering
 Data engineering
-Datapath
 Dependability
 Design engineer
-Difference engine
 Differential equation
-Digital Music
-Digital computer
 Digital image
-Digital image processing
-Digital systems
-Digital watermarking
 Diplom
 Diploma of Higher Education
 Distributed computing
@@ -99,20 +68,15 @@ Docent
 Doctor of Sciences
 Doctorate
 Doi (identifier)
-ENIAC
-EQANIE
 Earthquake engineering
 Ecological engineering
-Edge computing
 Education in Russia
 Electric motor
 Electrical engineering
-Electrical systems
 Electrochemical engineering
 Electromagnetism
 Electromechanics
 Electronic engineering
-Electronics engineering
 Embedded system
 Energy engineering
 Engineer
@@ -123,21 +87,13 @@ Engineering education
 Engineering management
 Engineering mathematics
 Engineering physics
-Engineering student
 Environmental engineering
-Environmental protection
 Ethernet
 Explosives engineering
 External degree
-FM radio
-Face recognition
 Facilities engineering
-Fairchild Semiconductor
-Fault-tolerant system
-Federico Faggin
 Fellow
 Fire protection engineering
-Firmware
 Food engineering
 Forensic engineering
 Foundation degree
@@ -154,21 +110,15 @@ Glossary of structural engineering
 Graduate certificate
 Graduate diploma
 Habilitation
-Hardware architect
-Hardware engineering
 Health technology
 Higher National Diploma
 Higher diploma
-Higher doctorate
 History of engineering
 Honorary degree
 Honours degree
-Humanoid
 Hydraulic engineering
-IEEE Computer Society
 ISBN (identifier)
 Industrial engineering
-Information access
 Information engineering
 Information security
 Instruction set architecture
@@ -176,27 +126,16 @@ Instrumentation and control engineering
 Instrumentation engineering
 Integrated circuit
 Intel
-Intel 4004
 Interdisciplinarity
 International Standard Classification of Education
-Internet of things
-Iowa State University
-Jean Hoerni
-John Bardeen
-John Vincent Atanasoff
-Johns Hopkins University Press
 Laurea
 Licentiate (degree)
 Linear algebra
 List of engineering branches
-Load balancing (computing)
 Logistics engineering
-MOSFET
 Magister degree
 Manufacturing engineering
-Marcian Hoff
 Marine engineering
-Masatoshi Shima
 Master's degree
 Master of Arts (Oxford, Cambridge, and Dublin)
 Materials science
@@ -204,7 +143,6 @@ Mathematics
 Mechanical, electrical, and plumbing
 Mechanical engineering
 Mechatronics
-Memory organization
 Metallurgy
 Microarchitecture
 Microcontroller
@@ -213,18 +151,11 @@ Microprocessor
 Microwave engineering
 Military engineering
 Mining engineering
-Mixed-signal integrated circuit
-Mobile computing
-Mobile technology
 Molecular engineering
-Monolithic integrated circuit
-Motherboard
 Multithreading (computer architecture)
 Municipal or urban engineering
 Nanotechnology
-National Council of Examiners for Engineering and Surveying
 Naval architecture
-Network planning and design
 Nuclear engineering
 Offshore engineering
 Ohio
@@ -236,36 +167,24 @@ Outline of engineering
 Packaging engineering
 Paper engineering
 Parallel computing
-Parallel processing (computing)
 Personal computer
 Petroleum engineering
 Pharmaceutical engineering
 Physics
 Pipeline (computing)
-Planar process
 Polymer engineering
 Postgraduate certificate
 Postgraduate diploma
 Postgraduate education
 Power engineering
-Principles and Practice of Engineering Examination
 Privacy engineering
 Process engineering
 Processor (computing)
-Processor design
 Professional degree
-Professional engineer
-Quantum algorithm
-Quantum computing
-Quantum cryptography
-Quantum entanglement
 Quantum mechanics
-Quantum simulator
 Quantum superposition
-RISC
 Radio-frequency engineering
 Railway engineering
-Register file
 Regulation and licensure in engineering
 Rehabilitation engineering
 River engineering
@@ -276,27 +195,18 @@ S2CID (identifier)
 Safety engineering
 Sanitary engineering
 Security engineering
-Semiconductor
 Semiconductor device
-Sensor
 Signal processing
 Software
 Software design
 Software development
 Software engineering
-Software programming
 Source code
 Specialist degree
-Speech processing
-Speech recognition
 Sports engineering
-Springer Science & Business Media
-Stanley Mazor
 Structural engineering
-Supercomputer
 Surface engineering
 Survey engineering
-Sustainable development
 Sustainable engineering
 System on a chip
 Systems engineering
@@ -305,21 +215,11 @@ Telecommunications engineering
 Terminal degree
 Textile engineering
 Thermal engineering
-Thermodynamics
 Tissue engineering
 Traffic engineering (transportation)
-Transistor
 Transportation engineering
 Tribology
 Undergraduate degree
 VHDL
-VLIW
-VLSI
-Verilog
-Very-large-scale integration
-Visual sensor network
-Walter Brattain
-Wave interference
 William Shockley
 Wireless network
-World Scientific

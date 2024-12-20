@@ -1,41 +1,5 @@
-6502
-68000
-A86 (software)
-ARM architecture
 Assembly language
-Branch (computer science)
 CPU
-Call stack
-Carry flag
-Compare instruction
-Comparison of assemblers
-Direction flag
 Disassembler
-FASM
-FLAGS register
-Flag register
-GNU Assembler
-High Level Assembly
-Instruction set
-International Code of Signals
-Interrupt flag
-Low-level programming language
 MIPS architecture
-Machine code
-Memory address
-Microassembler
-Microsoft Macro Assembler
-Netwide Assembler
-Opcode
-Open Watcom Assembler
-Overflow flag
-PDP-11
-Processor register
-Program counter
-Sign flag
-Status register
-Turbo Assembler
 X86
-X86 assembly language
-X86 calling conventions
-X86 instruction listings

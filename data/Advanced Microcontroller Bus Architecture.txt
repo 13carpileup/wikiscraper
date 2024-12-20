@@ -1,158 +1,21 @@
-1-Wire
-ACCESS.bus
-ADAT Lightpipe
 AES3
-AMD
-Accelerated Graphics Port
-Accellera
-Address bus
-Advanced Host Controller Interface
-Advanced eXtensible Interface
-Altera
-Amiga Zorro II
-Amiga Zorro III
-Apple Desktop Bus
-Application-specific integrated circuit
-Arm Cortex-A15 MPCore
-Arm Cortex-A7 MPCore
-Arm Limited
-Arm Ltd
-Atari SIO
-Back-side bus
-Big.LITTLE
 Bus (computing)
-Bus and Tag
-Bus contention
-Bus mastering
-Camera Link
-Coherent Accelerator Processor Interface
-Commodore bus
-Compute Express Link
-Computer Automated Measurement and Control
-Control bus
-CoreConnect
-Cortex-A9
-DMX512
-Daisy chain (electrical engineering)
-De facto standard
-Digital Control Bus
 Digital Storage Systems Interconnect
-Direct Media Interface
-Direct memory access
-ESCON
-Enhanced Small Disk Interface
 Ethernet
-Europe Card Bus
-ExpressCard
-Extended Industry Standard Architecture
-FASTBUS
-Fibre Channel
-Front-side bus
-Functional specification
-Functional unit
-GSC bus
-HIL bus
-HIPPI
-HP-IL
-HP Precision Bus
-HyperTransport
-I3C (bus)
 IBM
 IEC 61030
-IEEE-488
-IEEE 1284
-IEEE 1394
-IP core
 ISBN (identifier)
-Industry Standard Architecture
-Infineon Technologies
-InfiniBand
-Infinity Fabric
-Integrated Device Technology
 Intel
-Intel High Definition Audio
-Intel QuickPath Interconnect
-Intel Ultra Path Interconnect
-Intelligent Peripheral Interface
 I²C
-I²S
-Lightning (connector)
-List of interface bit rates
-Low Pin Count
-MADI
-MBus (SPARC)
 MIDI
 MIPS architecture
-Master/slave (technology)
-McASP
-MicroBlaze
-Micro Channel architecture
 Multibus
-Multidrop bus
-Multiplexer
-NVLink
-NVM Express
-Network on a chip
-Nios II
-NuBus
-OpenCores
-Open Core Protocol
-PCI-X
-PCI Express
-PCI eXtensions for Instrumentation
-PC Card
-Parallel ATA
-Parallel SCSI
-Peripheral Component Interconnect
-Plug and play
-PowerPC
-Power Management Bus
-Profibus
 Q-Bus
-QuickPath Interconnect
 RS-232
-RS-422
-RS-423
-RS-485
-RapidIO
-S-100 bus
-S/PDIF
-SATA
-SATA Express
-SBus
-SCSI
-SDRAM
-SLIMbus
-SS-50 bus
-ST-506/ST-412
-STD Bus
-STEbus
-Semiconductor intellectual property core
-Serial Attached SCSI
-Serial Peripheral Interface
-Serial Storage Architecture
-Smartphones
-SpaceWire
-Storage Module Device
 System-on-a-chip
-System Management Bus
-System bus
 System on a chip
-TOSLINK
 TURBOchannel
-Technical standard
-Thunderbolt (interface)
-UNI/O
 USB
-Ultra Port Architecture
 Unibus
 VAXBI bus
-VESA Local Bus
-VME eXtensions for Instrumentation
-VMEbus
-VPX
-VXS
 Voltage
-Wired communication
-Wishbone (computer bus)
-Xilinx

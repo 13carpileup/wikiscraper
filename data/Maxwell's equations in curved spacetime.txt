@@ -1,89 +1,41 @@
 AC motor
-Abstract index notation
-Acoustics
-Addison-Wesley
-Affine connection
-Aharonov–Bohm effect
 Albert Einstein
 Alessandro Volta
 Alfred-Marie Liénard
 Alternating current
-Ampere's law
 Ampère's circuital law
-Analytical mechanics
 André-Marie Ampère
-Angular momentum
-Antisymmetric tensor
-Applied physics
-Astrophysics
-Atmospheric physics
-Atomic, molecular, and optical physics
-Atomic physics
-Augustin-Louis Cauchy
-Auxiliary magnetic field
-Background-independent
 Basic research
 Basis (linear algebra)
-Bernhard Riemann
-Bianchi identity
 Bibcode (identifier)
-Biophysics
 Biot–Savart law
-Branches of physics
 Bremsstrahlung
 Capacitance
 Carl Friedrich Gauss
-Cartan formalism (physics)
 Cartesian coordinate system
-Cauchy stress tensor
-Celestial mechanics
-Chain rule
 Charge density
 Charles-Augustin de Coulomb
 Charles Proteus Steinmetz
-Charles W. Misner
-Chemical physics
-Christoffel symbol
 Classical electromagnetism
 Classical electromagnetism and special relativity
-Classical mechanics
-Classical optics
 Classical physics
-Classical treatment of tensors
 Commutative property
 Computational electromagnetics
 Computational physics
 Computer vision
-Condensed matter physics
-Conformally invariant
-Connection (vector bundle)
-Connection form
-Continuum mechanics
 Coordinate system
 Coulomb's law
-Covariance and contravariance of vectors
-Covariant derivative
 Covariant formulation of classical electromagnetism
 Crystallography
 Current density
-Curvature
-Curvature 2-form
 Cyclotron radiation
-D'Alembertian
 DC motor
 Determinant
-Differential form
 Differential geometry
-Dimension
 Direct current
 Displacement current
 Doi (identifier)
-Dyadics
 Eddy current
-Einstein field equation
-Einstein field equations
-Einstein notation
-Einstein tensor
 Electret
 Electric charge
 Electric current
@@ -93,7 +45,6 @@ Electric field
 Electric flux
 Electric machine
 Electric motor
-Electric polarization
 Electric potential
 Electric potential energy
 Electric power
@@ -116,101 +67,54 @@ Electromotive force
 Electrostatic discharge
 Electrostatic induction
 Electrostatics
-Electrovacuum solution
-Elwin Bruno Christoffel
 Emil Lenz
 Emil Wiechert
 Energy
 Engineering
 Engineering physics
 Euclidean geometry
-Evgeny Lifshitz
-Experimental physics
-Exterior calculus
-Exterior covariant derivative
-Exterior derivative
-Exterior form
-Exterior product
 Faraday's law of induction
-Fiber bundle
-Flat spacetime
-Formulation of Maxwell's equations in special relativity
 Four-current
-Four-potential
 Franz Ernst Neumann
 Félix Savart
 Gauss's law
 Gauss's law for magnetism
-General relativity
-Geodesic
-Geometrical optics
-Geophysics
 Georg Ohm
 George Singer
-Glossary of tensor theory
-Gluon field strength tensor
-Gravitation (book)
-Gregorio Ricci-Curbastro
 Gustav Kirchhoff
 Gyrator–capacitor model
 Hans Christian Ørsted
 Heinrich Hertz
 Hendrik Lorentz
-Hermann Grassmann
-Hermann Weyl
 Hermann von Helmholtz
 Hippolyte Fizeau
 History of electromagnetic theory
-History of physics
-Hodge star
-Hodge star operator
-Holonomy
-Homology class
 Humphry Davy
 ISBN (identifier)
-Index notation
 Inductance
 Induction motor
-Inhomogeneous electromagnetic wave equation
 Insulator (electricity)
-Introduction to the mathematics of general relativity
-Invariant speed
-Inverse functions and differentiation
 J. J. Thomson
-Jacobian determinant
 James Clerk Maxwell
 James Prescott Joule
-Jan Arnoldus Schouten
 Jean-Baptiste Biot
 Jefimenko's equations
-John Archibald Wheeler
 John Henry Poynting
 John Hopkinson
 Joseph Henry
 Joseph Larmor
 Joule heating
-Kip Thorne
 Kirchhoff's circuit laws
-Kronecker delta
-Lagrangian (field theory)
 Larmor formula
 Lenz's law
-Leonhard Euler
-Lev Landau
-Levi-Civita connection
-Levi-Civita symbol
-Lie derivative
 Linear map
 Linear motor
 List of electrical phenomena
 List of textbooks in electromagnetism
 Liénard–Wiechert potential
-Local coordinates
 London equations
 Lord Kelvin
 Lorentz force
-Lorenz gauge
-Macroscopic
 Magnetic circuit
 Magnetic complex reluctance
 Magnetic field
@@ -223,128 +127,58 @@ Magnetism
 Magnetization
 Magnetomotive force
 Magnetostatics
-Manifest covariance
-Manifold
 Materials science
 Mathematical descriptions of the electromagnetic field
 Mathematical physics
 Mathematician
 Mathematics
 Matrix (mathematics)
-Matter
 Maxwell's equations
 Maxwell stress tensor
-Medical physics
-Metric tensor
-Metric tensor (general relativity)
 Michael Faraday
-Microscopic
-Minkowski metric
-Minkowski space
-Mixed tensor
-Modern physics
-Molecular physics
-Moment of inertia
-Multi-index notation
 Multilinear algebra
 Multivector
 Network analysis (electrical circuits)
-Newton's laws of motion
-Newtonian constant of gravitation
 Nikola Tesla
-Nobel Prize in Physics
-Non-equilibrium thermodynamics
-Nonhomogeneous electromagnetic wave equation
-Nonmetricity tensor
 Nuclear physics
 Ohm's law
 Oleg D. Jefimenko
 Oliver Heaviside
 Operation (mathematics)
 Optics
-Paradox of radiation of charged particles in a gravitational field
-Partial derivative
 Particle physics
-Penrose graphical notation
 Permeability (electromagnetism)
 Permeance
 Permittivity
-Philosophy of physics
-Physical oceanography
-Physical optics
 Physics
-Physics education
-Poincaré lemma
 Polarization density
 Poynting vector
-Principal bundle
-Pseudotensor
-Quantum information science
 Quantum mechanics
-Raising and lowering indices
 Relativistic electromagnetism
-Relativistic mechanics
 Resonator
-Ricci calculus
-Ricci curvature
-Ricci curvature tensor
 Richard Feynman
-Riemann curvature tensor
-Riemann tensor
 Right-hand rule
 Rotor (electric)
 S2CID (identifier)
 Scalar curvature
 Series and parallel circuits
 Siméon Denis Poisson
-Solid-state physics
-Spacetime
-Special case
-Special relativity
 Speed of light
-Spherical coordinates
-Spin tensor
-Spinor
 Static electricity
-Statistical mechanics
 Stator
-Stress–energy tensor
-Symmetric tensor
-Symmetrization
 Synchrotron radiation
 Tensor
-Tensor (intrinsic definition)
 Tensor algebra
-Tensor bundle
-Tensor calculus
 Tensor contraction
-Tensor density
-Tensor field
-Tensor operator
 Tensor product
-Tensors in curvilinear coordinates
-Tetrad (index notation)
-Theoretical motivation for general relativity
 Theoretical physics
-Thermodynamics
-Timeline of fundamental physics discoveries
-Torsion tensor
 Transformer
-Transport phenomena
 Transpose
 Triboelectric effect
-Tullio Levi-Civita
-Two-point tensor
-Van der Waerden notation
-Vector (mathematics and physics)
 Vector space
-Voigt notation
 Voltage
 W. H. Freeman
 Watt
 Waveguide (radio frequency)
-Weyl tensor
 Wilhelm Eduard Weber
 William Ritchie (physicist)
-Woldemar Voigt
-Élie Cartan

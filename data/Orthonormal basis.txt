@@ -1,209 +1,61 @@
-2-norm
-Addison–Wesley
-Adjoint operator
 Affine space
-Almost everywhere
-Approximation property
 Axiom of choice
-Axiom of countable choice
-Balanced set
-Banach algebra
-Banach space
-Banach–Alaoglu theorem
-Banach–Mazur distance
-Barrelled space
-Basic Linear Algebra Subprograms
 Basis (linear algebra)
-Besov space
-Bessel's inequality
 Bijective
 Bilinear map
-Bivector
 Block matrix
 Bounded operator
-Brooks Cole
 C*-algebra
-Calculus of variations
-Cardinal number
 Cartesian product
 Cauchy–Schwarz inequality
-Change of basis
-Choquet theory
-Closed graph theorem (functional analysis)
-Column vectors
 Compact operator
-Compact operator on Hilbert space
-Comparison of linear algebra libraries
-Complete topological vector space
-Coordinate frame
-Countable
 Cramer's rule
-Cross product
-Dense set
-Densely defined operator
 Determinant
-Dimension (linear algebra)
 Dimension (vector space)
-Dimension theorem for vector spaces
-Direct sum of modules
-Distribution (mathematics)
 Doi (identifier)
 Dot product
 Dual space
-Eigenfunction
 Eigenvalues and eigenvectors
-Euclidean space
-Euclidean vector
-Exponential function
 Exterior algebra
-Floating-point arithmetic
-Fourier series
-Fréchet space
-Function space
 Functional analysis
-Functional calculus
 Gaussian elimination
-Gelfand–Naimark theorem
-Generalized Fourier series
-Generalized function
 Geometric algebra
 Gilbert Strang
-Glossary of functional analysis
 Glossary of linear algebra
 Graduate Texts in Mathematics
-Gram–Schmidt process
-Group algebra of a locally compact group
 Hadamard product (matrices)
-Hahn–Banach theorem
-Hamel basis
-Hardy space
-Heat kernel
-Hermitian adjoint
-Hilbert projection theorem
 Hilbert space
 Hilbert–Schmidt operator
-Hölder space
 ISBN (identifier)
 Image (mathematics)
-Index theorem
-Infinite linear combination
 Inner product space
-Integral linear operator
-Invariant subspace problem
-Invertible matrix
-Jones polynomial
-K-frame
-Kakutani fixed-point theorem
-Kernel (linear algebra)
-Krein–Milman theorem
-Kronecker delta
 Kronecker product
-L-semi-inner product
-Legendre polynomials
 Linear algebra
-Linear combination
-Linear independence
 Linear map
-Linear operator
-Linear span
 Linear subspace
-List of functional analysis topics
-Locally convex topological vector space
-Mahler's conjecture
 Mathematics
 Matrix (mathematics)
 Matrix decomposition
 Matrix multiplication
-McGraw-Hill
-McGraw-Hill Science/Engineering/Math
-Metric tensor
-Min-max theorem
-Minor (linear algebra)
 Monomial
 Multilinear algebra
 Multilinear map
 Multivector
-Noncommutative geometry
 Norm (mathematics)
-Normal operator
-Normalize (linear algebra)
-Nuclear operator
-Nuclear space
-Numerical linear algebra
-Numerical stability
 OCLC (identifier)
-Operator algebra
 Origin (mathematics)
-Orlicz space
-Orthogonal basis
 Orthogonal complement
-Orthogonal coordinates
-Orthogonal group
-Orthogonal matrix
-Orthogonal transformation
 Orthogonality
-Orthonormal
-Outer product
-Outermorphism
-Outline of linear algebra
-Parallelogram law
-Parseval's identity
-Polarization identity
-Prehilbert space
-Principal homogeneous space
-Productive matrix
 Projection (linear algebra)
-Pseudo-Euclidean space
-Quotient space (linear algebra)
 Rank (linear algebra)
-Reflection (mathematics)
-Reflexive space
-Riemann hypothesis
-Riesz representation theorem
 Rotation (mathematics)
-Row and column spaces
-Row and column vectors
 Scalar (mathematics)
 Scalar multiplication
-Schauder basis
-Schwartz space
-Segal–Bargmann space
-Self-adjoint operator
-Separable metric space
-Separable space
-Sesquilinear form
-Seven-dimensional cross product
-Sobolev space
-Sparse matrix
-Spectral theory of ordinary differential equations
-Spectrum of a C*-algebra
 Springer Science+Business Media
-Square-integrable function
-Standard basis
-Steven Roman
-Stiefel manifold
-Sturm–Liouville eigenproblem
-Symmetric bilinear form
 System of linear equations
 Tensor
 Tensor product
-Tomita–Takesaki theory
-Topological quantum field theory
-Topological vector space
-Total set
 Trace class
-Transformation matrix
 Transpose
-Transpose of a linear map
-Triple product
-Unbounded operator
 Uncountable set
-Uniform boundedness principle
-Unit vector
-Unitary operator
-Vector projection
 Vector space
-Von Neumann algebra
-Walter Rudin
-Weak topology
-Zorns lemma

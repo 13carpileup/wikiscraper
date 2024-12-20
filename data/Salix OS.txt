@@ -1,4 +1,3 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
 AlmaLinux
@@ -7,8 +6,6 @@ Android-x86
 Android (operating system)
 Antergos
 AntiX
-Apache Subversion
-Apt-get
 ArchBang
 ArchLabs
 Arch Linux
@@ -27,7 +24,6 @@ BlackArch
 Black Lab Linux
 BlankOn Linux
 Bodhi Linux
-Bootloader
 CHAOS (operating system)
 CRUX
 Calculate Linux
@@ -57,7 +53,6 @@ Deepin
 DemoLinux
 Devuan
 Disk partitioning
-DistroWatch
 DivestOS
 DoudouLinux
 Dreamlinux
@@ -75,7 +70,6 @@ Fedora Linux
 Fire OS
 Firefox OS
 Floppyfw
-Fluxbox
 Foresight Linux
 FreedomBox
 Freespire
@@ -91,13 +85,10 @@ Gobuntu
 GrapheneOS
 Graphical user interface
 HandyLinux
-Hyperbola GNU/Linux-libre
 Immunix
 IodéOS
 Jurix
-KDE
 KDE neon
-KISS principle
 KaOS
 KaiOS
 Kaisen Linux
@@ -109,8 +100,6 @@ Kongoni (operating system)
 Korora (operating system)
 Kubuntu
 Kwort Linux
-LILO (boot loader)
-LXDE
 LXLE Linux
 Libranet
 LinHES
@@ -125,9 +114,7 @@ Linux Router Project
 Linux distribution
 Linux for PlayStation 2
 List of Linux distributions
-Livecd
 Lubuntu
-MATE (desktop environment)
 MCC Interim Linux
 MIUI
 MX Linux
@@ -139,8 +126,6 @@ MeeGo
 Mer (software distribution)
 Miracle Linux
 Mobilinux
-Musix GNU+Linux
-Ncurses
 Network Security Toolkit
 NimbleX
 Nitix
@@ -150,16 +135,12 @@ Nova (operating system)
 OmniROM
 One UI
 Open-source software
-OpenBox
 OpenELEC
 OpenMandriva Lx
 OpenSUSE
 Open Enterprise Server
-Openbox
 Oracle Linux
 PCLinuxOS
-Package management
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
@@ -177,7 +158,6 @@ Q4OS
 Qubes OS
 ROSA Linux
 Raspberry Pi OS
-Ratpoison
 Red Hat Enterprise Linux
 Red Hat Linux
 Red Star OS
@@ -186,7 +166,6 @@ Replicant (operating system)
 Resurrection Remix OS
 Rocks Cluster Distribution
 Rocky Linux
-Runlevel
 SUSE Linux
 SUSE Linux Enterprise
 SUSE Studio
@@ -195,17 +174,14 @@ Sabily
 Sailfish OS
 Scientific Linux
 Slackware
-Slapt-get
 Slax
 Softlanding Linux System
 Software license
 Software release life cycle
 Solus (operating system)
 SolydXK
-SourceForge
 Source Mage
 SparkyLinux
-Spkg
 Splashtop OS
 SteamOS
 Sunwah Linux
@@ -216,7 +192,6 @@ Think Blue Linux
 Tiny Core Linux
 Tizen
 TopologiLinux
-Transifex
 Trisquel
 Turbolinux
 Turkix
@@ -231,19 +206,14 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 User interface
-Vanilla (software)
 VectorLinux
 Vine Linux
 Void Linux
 Wayback Machine
 Whonix
 Wubuntu
-X86-64
 XB Machine
-Xfce
 Xubuntu
 Yellow Dog Linux
 Zenwalk

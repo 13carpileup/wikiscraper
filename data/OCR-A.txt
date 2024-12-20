@@ -1,38 +1,25 @@
 Advanced Video Coding
 4 (number)
 ISO 2788
-Cascadia Code
 ISO 10628
 Asterisk
 ISO 10303-21
 Agate (typography)
-ISO/IEC 11179
-Cicero (typography)
 ISO 3864
-ISO/IEC 80000
-ISO/IEC 8859-4
 1 (number)
 ISO 10006
-Chandas (typeface)
 ISO 9564
 ISO 11170
-&
-Gentium
 ISO 50001
 ISO 31-0
-ISO/IEC JTC 1/SC 2
-ISO/IEC 8859-15
 International Standard Musical Work Code
-International Components for Unicode
 Hyphen-minus
 =
-ISO/IEC 646
 ISO 10218
 EXPRESS (data modeling language)
 ISO 7002
 !
 2 (number)
-Intellectual property protection of typefaces
 ISO 21001
 Fuel oil
 ISO 843
@@ -40,40 +27,29 @@ Fiber Distributed Data Interface
 ISO 7001
 135 film
 ISO 657
-ISO/IEC 42010
 ISO 5428
 3 (number)
 Computer Graphics Metafile
-Hyphen
 ISO 732
 Graph Query Language
-ISO 2047
 7 (number)
 ISO 13584
 Backslash
 Character encoding
 5 (number)
-ISO 9000
-HyperFont
 Apache License
 Full stop
-CAN bus
 ISO 7736
-Cap height
 ISO 13406-2
 ISO 31-11
 ISO 2848
-ISO/IEC 14651
 C++
 C
 ISO 639
-FreeMono
 ISO 14644
 Full BASIC
 C Sharp (programming language)
 ISO 15926
-ISO 19092-1
-Bézier curve
 Geography Markup Language
 ISO 8601
 A440 (pitch standard)
@@ -81,68 +57,39 @@ ISO 14031
 ISO 1000
 @
 ISO 28000
-ISO/IEC 12207
-Computer font
 ISBN
-DejaVu fonts
 International Standard Identifier for Libraries and Related Organizations
 '
 FTAM
 ISO 20022
 ISO 14698
 COLLADA
-Capitalization
 ISO 31-8
-Counter (typography)
 B
-FontForge
 ISLISP
-En (typography)
-Behdad Esfahbod
-Bitmap font
 CHILL
 Common Criteria
-E-13B
-Arabic typography
-ISO/IEC 27006
-ISO-IR
 ISO 31
 ISO 9660
-Didone (typography)
-Figure space
 ISO 8178
-Dash
-ISO/IEC 8859-3
 ISO 15189
-American Type Founders
 Insular script
-American Standard Code for Information Interchange
-Breeze Sans
 ISO 2033
-Body height (typography)
-Em (typography)
 COBOL
 ISO 9
 International Standard Text Code
-Fixedsys
 ISO 3103
 ISO 22395
 ISO 16750
 Go (programming language)
-ISO 10646
 9 (number)
-ISO/IEC 27001
-Greek Font Society
 Isofix
-E-Ukraine
 ISO base media file format
 ISO 11783
 Delivery Multimedia Integration Framework
 Film speed
-BSD licenses
 Glyph
 Blackletter
-Even working
 $
 ISO 259
 ISO 13485
@@ -150,107 +97,53 @@ ISO 11940-2
 International Organization for Standardization
 ISO 19114
 Common Object Request Broker Architecture
-Everson Mono
-ISO/IEC 20000
-ISO/IEC 19752
-Fat face
-ISO 19092-2
-GNU FreeFont
 IATF 16949
 ISO 639-1
 ISO 31-4
-Antykwa Półtawskiego
 ISO 25964
-Envy Code R
-Ghostscript
 ISO 31-1
-Bullet (typography)
 Gaelic type
-ISO/IEC 14443
-Hanging punctuation
 ISO 19011
-Italic type
 Document Style Semantics and Specification Language
 ISO 2146
 Hot shoe
 ISO 20121
 ISO 10007
-Baskerville
-Handwriting script
 ISO 10962
-International Standard Serial Number
-Droid (typeface)
 ISO 25178
 International Standard Recording Code
-ISO/IEC 38500
-Fuse (automotive)
 ISO 4157
-ISO/IEC 27005
-ISO/IEC 4909
-Creative Commons license
 ISO 15686
 (
-ISO/IEC 8859-1
 Guidelines for the Definition of Managed Objects
 Colon (punctuation)
 ISO 10160
 ISO 1745
-Crimson Tide (film)
 British Standard Pipe
 ISO 22000
 110 film
-ISO/IEC 7812
-ISO/IEC 27000-series
-ISO/IEC 27002
 ISO 999
-Donald Knuth
 ISO 14617
-%
-Bitstream Vera
-ISO/IEC 8859
-ISO/IEC 8652
 ISO 5426
-ISO/IEC 8859-13
 ISO 26262
-Canons of page construction
-Blackboard bold
-ISO/IEC 15897
-For position only
 ISO 56000
-ISO 7027
 ISO 18245
-ISO/IEC 8859-5
-Concrete Roman
 International Standard Audiovisual Number
 File Allocation Table
 ISO 668
-Hack (typeface)
-ISO/IEC 19770
-ISO/IEC 7064
-IBM Plex
 A
 ISO 639-2
 Flowchart
 ISO 2015
 ISO 690
-ISO/IEC 21827
 ISO 6943
-GNU Unifont
 ISO 1
-ISO/IEC 8859-14
-Hershey fonts
 ECMAScript
-)
 ISO 11784 and ISO 11785
 ISO 4217
 Greater-than sign
-ISO/IEC 8859-7
-Andalé Mono
-Asana-Math
 Cloud Infrastructure Management Interface
 ISO 8000
-Garamond
-ISO 31-13
 ISO 9241
 ISO 15398
 ISO 13399
@@ -259,241 +152,131 @@ ISO 2014
 F
 ISO 9362
 ANSI escape code
-ISO/IEC 7816
 ISO 17100
 ISO 7010
 ISO 14971
-Inconsolata
 ANSI C
 ISO 3166
 ISO 19439
-Courier Prime
 ISO 31-5
--
 ISO 2145
 ISO 31-6
-ISO/IEC 10967
 ISO 3166-3
 Common Language Infrastructure
-Fontmatrix
 Equal-loudness contour
 Han Xin code
 H
 DICOM
 ISO 4
-ISO/IEC 7811
-Font catalog
 ISO 31-10
 Code point
-Ink trap
-ISO 14000
-,
 Essential Video Coding
-+
-Dingbat
 ISO 8691
-Font Awesome
 ISO 6346
-ISO/IEC 27000
 Hole punch
 ISO 4031
 Dynamic Adaptive Streaming over HTTP
 I
 ISO 20400
-ISO 646
-Font
-BSI Group
-Font rasterization
-Calligraphy
 ISO 8501-1
 Character set
-ISO/IEC 11801
 ISO 4165
-CTAN
 FDI World Dental Federation notation
-ISO/IEEE 11073
-Font hinting
-Emphasis (typography)
-ISO/IEC 7810
 ISO 55000
-Bitstream Charter
 ISO 13567
 ISO metric screw thread
 ISO 3166-1
-Bank Gothic
 D
-ISO/IEC TR 12182
-Input (typeface)
 ISO 965
 Information Processing Society of Japan
-Computer Modern
-Croscore fonts
 American National Standards Institute
-Handwriting
-Descender
-DeepMind
 ECMAScript for XML
 ISO-8859-8-I
-DejaVu Sans Mono
 International Standard Music Number
-GNU Lesser General Public License
-Doulos SIL
 ISO 6344
 ISO 704
 ISO 11940
 ISO 1629
-ISO/IEC 9529
-ISO/IEC 8859-6
-Cousine
 Fraktur
-Fixed (typeface)
 International Standard Atmosphere
 ALGOL 60
-EB Garamond
 ISO 10161
 ISO 5964
 ISO 31-7
-ISO/IEC 9797-1
 ArmSCII
 ISO 10303-22
 ISO 217
 ISO 13490
 International Bank Account Number
-ISO
 ISO 639-6
 8 (number)
-Andika (typeface)
 ISO 19600
 E
-Free and open-source software
 G
 ISO 26000
-Glyphs
 ISO 21500
 0 (number)
-ISO/IEC 8859-11
 ISO 639-3
-ISO/IEC 17025
-Baseline (typography)
 Horsepower
 Geospatial metadata
-ISO 31-12
-Antiqua (typeface class)
 ISO 5775
 ISO 31-3
 All caps
 Hazard symbol
-Consolas
-Initial
-ISO/IEC 10116
-ISO/IEC 19794-5
-Camel case
 Cheque
-Amiri (typeface)
-Font Library
 ISO-TimeML
 ISO 2711
-Google Fonts
-GPL font exception
-History of Western typography
 ISO 216
-Cantarell (typeface)
-ISO/IEC 17024
 ISO 639-5
 ISO 15924
-ISO/IEC 6523
 ISO 22301
 ISO 5427
 Interpunct
-ISO/IEC 5218
-ISO/IEC 18014
 ISO 15022
-ISO/IEC 11404
 6 (number)
-ISO/IEC 15288
-ISO 8373
 ISO 2
-FreeType
-ISO/IEC 9126
 Digital object identifier
 ASMO 449
 ISO 37001
 126 film
 ISO 3977
-Fira Mono
-ISO/IEC 8859-12
-ISO/IEC 8859-8
 IS-IS
 ISO 11992
-HarfBuzz
-Bembo
 International Committee for Information Technology Standards
 ?
-ISO/IEC 15504
 ISO 2852
 ISO 233
 ISO 2709
-ISO/IEC 8859-2
 Debian
-Droid Sans Mono
-Etaoin shrdlu
 International Securities Identification Number
 ISO 8583
-Comic Neue
 ISO 3166-2
 HTML
 ISO 45001
-ISO/IEC 2022
-ISO/IEC 9995
-ISO/IEC 7813
 ISO 5776
 ISO 9897
-ISO/IEC 8859-9
 Ada Semantic Interface Specification
-Courier (typeface)
-Arial
-Ascender (typography)
-"
-East Asian typography
 Antimagnetic watch
 ISO 2921
 ISO 6385
 ISO 14224
 ISO 3307
-ISO/IEC 8859-10
 Common Logic
 ISO 31000
-ISO 31-9
 ISO 10303-28
 ISO 10303
-Graphite (smart font technology)
 ISO 898
 ISO 15919
-Cyrillic typography
-Iosevka
-ISO/TR 11941
-ISO/IEC 8859-16
-Charis SIL
-Braces (punctuation)
 ISO 128
-Color printing
 Diacritic
 ISO 22300
-Desktop publishing
 ISO 860
-ISO/IEC 15693
 ISO 6438
 Business Process Model and Notation
-Fira (typeface)
 ISO 7200
 GNU General Public License
-Intentionally blank page
 ISO 6709
 Accuracy and precision
 International Standard Name Identifier
-Atkinson Hyperlegible
 Graphical Kernel System
 ISO 15926 WIP
-Column (typography)
-ISO 12006
-Display typeface

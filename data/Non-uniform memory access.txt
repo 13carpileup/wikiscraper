@@ -1,4 +1,3 @@
-AMD Opteron
 API
 Advanced Micro Devices
 Alpha 21364
@@ -12,22 +11,15 @@ Automatic parallelization
 Barrier (computer science)
 Beowulf cluster
 Bit-level parallelism
-Boost (C++ libraries)
 Bulldozer (microarchitecture)
-C++ AMP
-CPU cache
 CUDA
 Cache-only memory architecture
 Cache coherence
 Cache invalidation
-Cache memory
-Cache miss
 Chapel (programming language)
 Charm++
-Chipset
 Cilk
 Cloud computing
-Cluster computing
 Coarray Fortran
 Compaq
 Computer cluster
@@ -35,98 +27,61 @@ Computer hardware
 Computer multitasking
 Computer network
 Computer programming
-Computer storage
 Concurrency (computer science)
-Convex Computer
 Cost efficiency
-DIMM
-Data General
 Data parallelism
 Dataflow architecture
 Dataflow programming
 Deadlock (computer science)
-Dell Technologies
 Deterministic algorithm
 Digital Equipment Corporation
-Directory-based cache coherence
 Distributed computing
 Distributed memory
 Distributed shared memory
 Dryad (programming)
-EMC Corporation
 Embarrassingly parallel
 Explicit parallelism
 Fiber (computer science)
 Flynn's taxonomy
 FreeBSD
-Free On-line Dictionary of Computing
-GNU Free Documentation License
 GPUOpen
 Garbage collection (computer science)
 General-purpose computing on graphics processing units
 Global Arrays
 Grid computing
-Groupe Bull
 Gustafson's law
 HPX
-HP Z
 Hardware acceleration
 Hardware scout
-Hewlett-Packard
-Hewlett Packard Enterprise
 High-performance computing
-HiperDispatch
-Honeywell
-Honeywell Information Systems
-Huge page
-HyperTransport
 IBM
 IEEE
-IRIX
 Implicit parallelism
 Instruction-level parallelism
 Instruction pipelining
 Instruction window
 Intel
-Intel QuickPath Interconnect
-Intel UltraPath Interconnect
-International Computers Limited
-Itanium
-Itanium Processor Family
-Java 7
 Karp–Flatt metric
-Kernel.org
 Kilobyte
-LWN.net
 Linux kernel
-Local memory
-Locality of reference
-Lock contention
 Loop-level parallelism
-MESIF protocol
 MIPS architecture
 Manycore processor
 Massively parallel
 Memory-level parallelism
 Memory coherence
-Memory page
 Message Passing Interface
 Microsoft
-Multi-channel memory architecture
 Multiple instruction, multiple data
 Multiple instruction, single data
 Multiprocessing
 Multithreading (computer architecture)
-Nehalem (microarchitecture)
-Nodal architecture
 Non-blocking algorithm
 OpenACC
 OpenCL
 OpenHMPP
 OpenMP
-OpenSolaris
 Operating system
-Opteron
 Parallel Extensions
 Parallel RAM
 Parallel Virtual Machine
@@ -134,7 +89,6 @@ Parallel computing
 Parallel external memory
 Parallel programming model
 Parallel slowdown
-Partitioned global address space
 Pipeline (computing)
 Preemption (computing)
 Process (computing)
@@ -143,45 +97,28 @@ ROCm
 Race condition
 RaftLib
 Scalability
-Scalable Coherent Interface
-Scratchpad memory
 Semiconductor memory
-Sequent Computer Systems
 Server (computing)
 Shared memory
-Silicon Graphics
-Silicon Graphics International
 Simultaneous and heterogeneous multithreading
 Simultaneous multithreading
 Single instruction, multiple data
 Single instruction, multiple threads
 Single instruction, single data
-Skylake microarchitecture
 Software lockout
 Speculative multithreading
 Speedup
-Stanford Linear Accelerator Center
 Starvation (computer science)
 Stream processing
-Supercomputer
 Superscalar processor
 Symmetric multiprocessing
 Synchronization (computer science)
-Sysctl
 Systolic array
 Task parallelism
 Temporal multithreading
 Thread (computing)
 Threading Building Blocks
-Tukwila (processor)
 Unified Parallel C
 Uniform memory access
-Unisys
-Unix-like
 Vector processor
-Virtual memory
-Von Neumann architecture
-Windows 7
 Windows NT
-Windows Server 2008 R2
-ZPL (programming language)

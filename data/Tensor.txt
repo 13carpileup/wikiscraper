@@ -1,310 +1,79 @@
-1-form
-2-form
-Absolute differential calculus
 Abstract algebra
-Abstract index notation
-Addison-Wesley
-Advances in Mathematics
-Affine connection
 Albert Einstein
-Albert Nijenhuis
-Algebraic dual
-Algebraic form
 Algebraic topology
-Angular momentum
-Angular momentum operator
 Anisotropic
-Antisymmetric tensor
-Application of tensor theory in engineering
 ArXiv (identifier)
-Array data structure
-Array data type
-Artificial neural networks
-Augustin-Louis Cauchy
-Banach manifold
-Banach space
 Basis (linear algebra)
-Basis of a vector space
-Basis vectors
-Bernhard Riemann
 Bibcode (identifier)
 Bijection
 Bilinear form
-Bivector
 Carl Friedrich Gauss
-Cartan formalism (physics)
-Cartesian tensor
 Category theory
-Cauchy stress tensor
-Change of basis
-Change of variables formula
 Classical electromagnetism
-Classical group
-Coherent sheaves
-Commutativity
 Complex number
-Component-free treatment of tensors
 Computer vision
-Connection form
-Continuous dual
-Continuum mechanics
-Coordinate basis
 Coordinate system
-Covariance and contravariance of vectors
-Covariant derivative
-Covariant transformation
-Covector
-Cross product
 Current density
-Curvature
-Curvilinear coordinates
-Density on a manifold
 Determinant
-Differential form
 Differential geometry
-Diffusion MRI
-Diffusion tensor imaging
-Dimension
 Dimension (vector space)
 Doi (identifier)
-Donald A. Danielson
 Dot product
-Double dual
 Dual space
-Dual vector
-Dyadic tensor
-Dyadics
-Einstein field equations
-Einstein notation
-Einstein summation convention
-Einstein tensor
-Elasticity (physics)
-Elasticity tensor
 Electric field
-Electric susceptibility
 Electromagnetic tensor
 Electromagnetism
-Ellipsoid
-Elwin Bruno Christoffel
 Encyclopedia of Mathematics
 Engineering
-Equivariant map
 Eric W. Weisstein
 Euclidean geometry
-Euclidean vector
 European Mathematical Society
 Exterior algebra
-Exterior calculus
-Exterior covariant derivative
-Exterior derivative
-Exterior form
-Exterior product
-Fiber bundle
-Fibre bundle
 Field (mathematics)
-Finite deformation tensors
-Fluid
-Fluid mechanics
-Flux
-Foundations of Differential Geometry
-Four-tensors
-Fréchet manifold
-Functor
-Fundamental matrix (computer vision)
-General linear group
-General relativity
-Geodesic
-Gerard Laman
-Glossary of tensor theory
-Gluon field strength tensor
 Gradient
-Gravity
-Gregorio Ricci-Curbastro
-Group action (mathematics)
-Group homomorphism
-Hassler Whitney
 Hdl (identifier)
-Hermann Grassmann
-Hermann Weyl
 Hilbert space
-Hodge star operator
 Homological algebra
-Hypervolume
 ISBN (identifier)
 ISSN (identifier)
 Identity matrix
-Indeterminate (variable)
-Index notation
 Inner product
 JSTOR (identifier)
-Jacobian matrix and determinant
-Jan Arnoldus Schouten
-Jet (mathematics)
-Journal of Differential Geometry
-Judith R. Goodstein
-Kerr effect
-Kronecker delta
-Künneth theorem
-Leonhard Euler
-Leslie Hogben
-Levi-Civita connection
-Levi-Civita symbol
-Lie derivative
-Linear elasticity
-Linear functional
 Linear map
-Linear operator
-Linear transformation
-Local diffeomorphism
 Machine learning
-Magnetic susceptibility
-Manifold
-Marcel Grossmann
 MathWorld
 Mathematical object
 Mathematician
 Mathematics
-Mathematische Annalen
 Matrix (mathematics)
-Matrix inverse
 Maxwell stress tensor
 Mechanics
-Metric tensor
-Metric tensor (general relativity)
-Mixed tensor
-Module over a ring
-Moment of inertia
-Momentum
-Monoidal category
-Multi-index notation
-Multidimensional array
 Multilinear algebra
 Multilinear map
-Multilinear subspace learning
-Multipole expansion
-Multipole moment
 Multivector
 NASA
-Natural bundle
-Naturally isomorphic
-Nondegenerate bilinear form
-Nonlinear optics
-Nonlinear system
-Nonmetricity tensor
 Norm (mathematics)
 OCLC (identifier)
-One-form
 Operation (mathematics)
-Ordered basis
-Orientation (vector space)
-Orientation entanglement
 Orthonormal basis
-Outer product
-Parallelepiped
-Partial derivative
-Penrose graphical notation
 Permittivity
-Philosophical Magazine
 Physics
 PlanetMath
-Plate trick
-Pockels effect
-Poisson structure
 Polarization density
-Polyadic algebra
-Principal homogeneous space
-Pseudotensor
-Quadratic form
-Quadrupole moment
-Quantum computing
 Quantum mechanics
-Raising and lowering indices
-Rational representation
-Ray M. Bowen
 Real number
 Representation theory
-Ricci calculus
-Ricci curvature
 Richard Feynman
-Richard L. Bishop
-Riemann curvature tensor
-Riemannian geometry
 Ring (mathematics)
-Roger Penrose
 S2CID (identifier)
-SIAM J. Matrix Anal. Appl.
-SIAM Review
-Saunders Mac Lane
 Scalar (mathematics)
-Scalar (physics)
 Scalar curvature
-Scalar density
-Scalar field
 Scalar multiplication
-Second harmonic generation
-Semisimple
-Serge Lang
-Simply connected
-Spherical coordinates
-Spin representation
-Spin tensor
-Spinor
-Strain (materials science)
-Strain tensor
-Stress (mechanics)
-Stress–energy tensor
-Structure tensor
-Subscript and superscript
-Summation
-Summation sign
-Symmetric monoidal category
-Symmetric tensor
-Symmetrization
-Symplectic form
-Tangent space
-Taylor series
-Tensor (intrinsic definition)
-Tensor (machine learning)
-Tensor Contraction Engine
 Tensor algebra
-Tensor bundle
-Tensor calculus
 Tensor contraction
-Tensor decomposition
-Tensor density
-Tensor derivative
-Tensor field
-Tensor operator
 Tensor product
-Tensor product of Hilbert spaces
-Tensor product of modules
-Tensor rank
-Tensor representation
-Tensor software
-Tensors in curvilinear coordinates
-Tetrad (index notation)
-The Road to Reality
-Thomas W. Hungerford
-Topological tensor product
-Torsion tensor
 Trace (linear algebra)
-Transactions of the American Mathematical Society
-Transport phenomena
 Transpose
-Trifocal tensor
-Tullio Levi-Civita
-Two-point tensor
-Type of a tensor
-Universal property
-Van der Waerden notation
-Vector (mathematics and physics)
-Vector bundle
 Vector field
 Vector space
-Voigt notation
-Volume form
-Weyl tensor
-Wiley Interscience
 William Rowan Hamilton
-Woldemar Voigt
-Élie Cartan

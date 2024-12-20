@@ -1,98 +1,30 @@
-MTConnect
-List of automation protocols
-EtherNet/IP
-EnOcean
-OPC Data Access
-OPC Historical Data Access
 Meter-Bus
 DNP3
 Optomux
-Automatic meter reading
-Industrial control system
-SENT (protocol)
-Factory Instrumentation Protocol
-CEBus
-PROFINET
 Keyword Protocol 2000
 MelsecNet
-RS-485
 IEC 60870
-SDS Protocol
-MECHATROLINK
 Modbus
-European Installation Bus
-KNX
-Smart meter
-BACnet
-Very Simple Control Protocol
 PieP
-Digital Serial Interface
-SERCOS interface
 Power-system automation
-FOUNDATION fieldbus
-AS-Interface
-DyNet
-OpenTherm
-EtherCAT
-1-Wire
-Fleet Management System
 Factory Interface Network Service
-OBIX
-C-Bus (protocol)
-ARINC 825
-ControlNet
-Vehicle bus
 Wireless
-Ethernet Global Data Protocol
-SAE J1587
-Cyphal
 Ethernet
-CAN bus
-DF-1 Protocol
 IO-Link
 IEC 62056
-Avionics Full-Duplex Switched Ethernet
-PROFIBUS
-INTERBUS
-RAPIEnet
-SAE J1939
-Unified Diagnostic Services
 IEC 60870-5
-Common Industrial Protocol
-Foundation Fieldbus H1
 IEC 61850
-CANopen
-XPL Protocol
-TTEthernet
-X10 (industry standard)
 Local Interconnect Network
-Higher Speed Ethernet
 ARINC 429
-LonTalk
 SERCOS III
-HostLink Protocol
 FlexRay
-SynqNet
-IEC 62351
-Zigbee
-OPC Unified Architecture
-CC-Link Industrial Networks
 Digital Addressable Lighting Interface
-Building automation
 Vehicle Area Network
-Service Request Transport Protocol
-NMEA 2000
 IEC 60870-6
 Ethernet Powerlink
-BatiBUS
-Bristol Standard Asynchronous Protocol
-DirectNET Protocol
 Highway Addressable Remote Transducer Protocol
 DeviceNet
 RS-232
-European Home Systems Protocol
 Sinec H1
 Z-Wave
-SAE J1708
 IEBus
-MOST Bus

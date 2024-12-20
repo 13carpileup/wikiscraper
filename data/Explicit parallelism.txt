@@ -1,5 +1,4 @@
 API
-Ada programming language
 Amdahl's law
 Analysis of parallel algorithms
 Application checkpointing
@@ -10,9 +9,7 @@ Automatic parallelization
 Barrier (computer science)
 Beowulf cluster
 Bit-level parallelism
-Boost (C++ libraries)
 Bulldozer (microarchitecture)
-C++ AMP
 CUDA
 Cache-only memory architecture
 Cache coherence
@@ -40,10 +37,8 @@ Distributed memory
 Distributed shared memory
 Doi (identifier)
 Dryad (programming)
-Ease programming language
 Edsger W. Dijkstra
 Embarrassingly parallel
-Erlang (programming language)
 Fiber (computer science)
 Flynn's taxonomy
 GPUOpen
@@ -59,7 +54,6 @@ Implicit parallelism
 Instruction-level parallelism
 Instruction pipelining
 Instruction window
-JavaSpaces
 Java (programming language)
 Karp–Flatt metric
 Loop-level parallelism
@@ -74,7 +68,6 @@ Multiprocessing
 Multithreading (computer architecture)
 Non-blocking algorithm
 Non-uniform memory access
-Occam (programming language)
 OpenACC
 OpenCL
 OpenHMPP
@@ -84,7 +77,6 @@ Parallel RAM
 Parallel Virtual Machine
 Parallel computing
 Parallel external memory
-Parallel programming
 Parallel programming model
 Parallel slowdown
 Pipeline (computing)
@@ -118,4 +110,3 @@ Threading Building Blocks
 Unified Parallel C
 Uniform memory access
 Vector processor
-ZPL (programming language)

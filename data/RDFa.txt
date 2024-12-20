@@ -1,120 +1,20 @@
-Alchemy API
-Application-Level Profile Semantics (ALPS)
-Assistive Technology Service Provider Interface
-AutôMeta
-Boilerplate (text)
-CURIE
-Collective intelligence
-Command-line interface
 Common Logic
-DBpedia Spotlight
-DOAP
 Database
-Dataspaces
-Datatype
-Description logic
-Digital humanities
 Digital library
-Document Type Definition
-Domain name
 Dublin Core
-Embedded RDF
-FOAF
-FOAF (software)
-Facebook Platform
-Folksonomy
-GRDDL
-GUI
 Geotagging
-HAtom
-HCalendar
-HCard
-HProduct
-HRecipe
-HReview
 HTML5
-HTML attribute
-HTTP
-Href
-Hyperdata
-Hypertext
-IXBRL
-Information architecture
-Internationalized Resource Identifier
 Internet
-JSON-LD
-Knowledge extraction
 Knowledge management
 Knowledge representation and reasoning
-Library 2.0
 Linked data
-Machine-readable data
-Mark Birbeck
 Metadata
-Microdata (HTML)
-Microformat
-Microformats
-N-Triples
-Notation3
-Ontology (computer science)
-OpenCalais
-Open Graph protocol
 Organization
-Person
-RDF/XML
-RDF Schema
-RDFaCE
 Reference (computer science)
-Research Resource Identifier
 Resource Description Framework
-Rule-based system
-Rule Interchange Format
-SAWSDL
-SHACL
-SPARQL
 Schema.org
-Semantic HTML
-Semantic Web
-Semantic Web Rule Language
-Semantic analytics
-Semantic broker
-Semantic computing
-Semantic mapper
-Semantic matching
-Semantic network
-Semantic publishing
-Semantic reasoner
-Semantic search
-Semantic service-oriented architecture
-Semantic triple
-Semantic wiki
-Semantically Interlinked Online Communities
 Semantics (computer science)
-Simple Knowledge Organization System
-Solid (web decentralization project)
-Steven Pemberton
-TinyMCE
 Topic map
-TriG (syntax)
-TriX (serialization format)
-Turtle (syntax)
-URI
-Uniform Resource Identifier
-User agent
-VCard
-W3C
-WYSIWYM
-Web 2.0
-Web Ontology Language
-Web Science Trust
-Web accessibility
-Web engineering
-Webpages
 Wiki
 World Wide Web
-World Wide Web Consortium
-XHTML
-XHTML+RDFa
-XHTML Modularization
 XML
-XML namespaces

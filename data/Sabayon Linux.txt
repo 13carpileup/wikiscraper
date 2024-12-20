@@ -1,17 +1,9 @@
-/e/ (operating system)
-3D graphics card
 4MLinux
 ALT Linux
-AMD
-AMSN
 ARMv7
-ATI (brand)
 ATI Technologies
-Adobe Reader
 AlmaLinux
 Alpine Linux
-Amarok (software)
-Anaconda (installer)
 Android-x86
 Android (operating system)
 Antergos
@@ -19,63 +11,39 @@ AntiX
 ArchBang
 ArchLabs
 Arch Linux
-Archive Manager
-Ark (software)
 Artix Linux
 Asahi Linux
 Astra Linux
 Asturix
-Athlon
-Audacious (software)
-Audacity (audio editor)
 Austrumi Linux
 BLAG Linux and GNU
 BackBox
 BackTrack
-BeagleBone
 Bharat Operating System Solutions
-Binary file
 BioSLAX
-BitTorrent (protocol)
 BlackArch
 Black Lab Linux
 BlankOn Linux
 Bodhi Linux
-Booting process of Linux
-Brasero (software)
 CHAOS (operating system)
 CRUX
-Calamares (software)
 Calculate Linux
 Caldera OpenLinux
 CalyxOS
-Celeron
-Celestia
 CentOS
 CentOS Stream
 Chakra (operating system)
-Chicken
 Chimera Linux
 ChromeOS
 ChromiumOS
-Chromium (browser)
-Cinnamon (user interface)
 ClearOS
 Clear Linux OS
-Clementine (software)
 ColorOS
 Commodore OS
-Common Unix Printing System
-CompTIA Linux+
 Comparison of Linux distributions
-Comparison of netbook-oriented Linux distributions
-Compiz Fusion
-Compositing window manager
 Container Linux
 Corel Linux
 CrDroid
-Criticism of Linux
-Criticism of desktop Linux
 CrunchBang Linux
 Cub Linux
 CyanogenMod
@@ -85,160 +53,74 @@ Debian
 Deepin
 DemoLinux
 Devuan
-Display Data Channel
-DistroWatch
 DivestOS
-Doom 3
 DoudouLinux
 Dreamlinux
-Duron
-E-mail
 EMUI
-Ebuild
 Eclipse (software)
 Edubuntu
 Elementary OS
 Elive
 Emmabuntüs
-Empathy (software)
 EndeavourOS
 Endless OS
 EulerOS
-Evince
-Evolution (software)
-Exaile
 Familiar Linux
 Feather Linux
 Fedora Linux
-FileZilla
 Fire OS
 Firefox OS
 Floppyfw
-Fluxbox
 Foresight Linux
-Free Software Magazine
 FreedomBox
 Freespire
 Frugalware Linux
-Full Circle (magazine)
-Funtoo Linux
-GIMP
-GNOME
-GNOME 3
-GNOME Terminal
-GNU/Linux naming controversy
 GNU Core Utilities
 GNU Guix System
 GNewSense
 GOS (operating system)
 GPL
-GUI
 Garuda Linux
 GeckoLinux
-Gedit
 Gentoo Linux
-GnuCash
 GoboLinux
 Gobuntu
-Google Earth
 GrapheneOS
-Guake
-Gwenview
-Hacker Public Radio
 HandyLinux
-HexChat
-History of Linux
-Hyperbola GNU/Linux-libre
-I686
-IA-32
-ISO image
-Image processing
 Immunix
-Inkscape
 Intel
-Intel GMA
 Internet Relay Chat
 IodéOS
 Jurix
-K3b
-KDE
 KDE neon
-KMail
-KNetworkManager
-KWin
-KWrite
 KaOS
 KaiOS
 Kaisen Linux
 Kali Linux
 Kanotix
 KateOS
-Kdenlive
 Kernel (operating system)
 Knoppix
-Kodi (software)
 Kongoni (operating system)
-Konsole
-Konversation
-Kopete
 Korora (operating system)
 Kubuntu
 Kwort Linux
-LWN.net
-LXDE
 LXLE Linux
-Leafpad
 Libranet
-LibreOffice
-Light-weight Linux distribution
 LinHES
 LineageOS
 Linpus Linux
-Linus's law
 Linux
-Linux-libre
-Linux.com
-LinuxChix
 LinuxTLE
-LinuxUser
 Linux Caixa Mágica
-Linux Counter
-Linux Documentation Project
-Linux Format
-Linux Foundation
-Linux Foundation Linux Certification
-Linux Gazette
-Linux Journal
 Linux Lite
-Linux Magazine
-Linux Mark Institute
 Linux Mint
-Linux Outlaws
 Linux Router Project
-Linux Voice
-Linux adoption
-Linux desktop environments
 Linux distribution
 Linux for PlayStation 2
-Linux for mobile devices
-Linux gaming
 Linux kernel
-Linux kernel oops
-Linux malware
-Linux on embedded systems
-Linux range of use
-Linux user group
-List of Linux adopters
 List of Linux distributions
-List of Linux distributions that run from RAM
-List of computer security certifications
-List of software package management systems
-LiveCD
-LiveDistro
-Long-term support
 Lubuntu
-LugRadio
-MATE (software)
 MCC Interim Linux
 MIUI
 MX Linux
@@ -246,91 +128,54 @@ Mageia
 Mandrake Linux
 Mandriva Linux
 Manjaro
-Media player (application software)
 MeeGo
 Mer (software distribution)
 Microsoft Windows
-Midori (web browser)
 Miracle Linux
 Mobilinux
-MocaccinoOS
 Monolithic kernel
-Mozilla Firefox
-Mozilla Sunbird
-Mozilla Thunderbird
-Musix GNU+Linux
-Mutter (window manager)
-Nero Burning ROM
-NetworkManager
 Network Security Toolkit
-Nexuiz
 NimbleX
 Nitix
 NixOS
 Nobara Linux
 Nova (operating system)
 Nvidia
-Office suite
-Okular
 OmniROM
 One UI
-OpenArena
 OpenELEC
-OpenGL
 OpenMandriva Lx
 OpenSUSE
-OpenVZ
 Open Enterprise Server
-Opera (browser)
 Oracle Linux
-Out of the box (feature)
 PCLinuxOS
-Package format
-Package management system
 Package manager
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
-Pentium II
-Pentium III
 Pentoo
 Peppermint OS
-Phoronix Test Suite
-Picasa
-Pidgin (software)
 Pinguy OS
 PixelExperience
 Platypux
 Pop! OS
-Portable Document Format
-Portage (software)
 Porteus (operating system)
 Programmer
 Puppy Linux
 PureOS
 Q4OS
 Quake (video game)
-Quake 2
-Quake 3
-Quake 4
 Qubes OS
 ROSA Linux
 Raspberry Pi OS
-Razor-qt
-Red Hat Certification Program
 Red Hat Enterprise Linux
 Red Hat Linux
 Red Star OS
 Remix OS
 Replicant (operating system)
 Resurrection Remix OS
-Revolution OS
 Rocks Cluster Distribution
 Rocky Linux
-Rolling Release
-Rolling release
-SCO–Linux disputes
 SUSE Linux
 SUSE Linux Enterprise
 SUSE Studio
@@ -338,10 +183,7 @@ Sabily
 Sailfish OS
 Salix OS
 Scientific Linux
-Security-focused operating system
-Shotwell (software)
 Sic
-Skype
 Slackware
 Slax
 Softlanding Linux System
@@ -350,83 +192,45 @@ Software release life cycle
 Software repository
 Solus (operating system)
 SolydXK
-Source-code
 Source Mage
 SparkyLinux
 Splashtop OS
 SteamOS
 Sunwah Linux
 SystemRescue
-Systemd
 T2 SDE
 Tails (operating system)
-Tanenbaum–Torvalds debate
-Tar (computing)
-Teamviewer
-Terminal (Xfce)
-The Battle for Wesnoth
-The Code (2001 film)
 Think Blue Linux
 Tiny Core Linux
 Tizen
 TopologiLinux
-Totem (media player)
-Transmission (BitTorrent client)
-Tremulous
 Trisquel
 Turbolinux
 Turkix
-Tux (mascot)
 Ubuntu
 Ubuntu Budgie
 Ubuntu Cinnamon
 Ubuntu GNOME
 Ubuntu Kylin
 Ubuntu MATE
-Ubuntu Professional Certification
 Ubuntu Studio
 Ubuntu Touch
 Ubuntu Unity
-Ubuntu User
 Ultramarine Linux
-Unetbootin
 Unity Operating System
-Unix-like
-Unreal (video game series)
-Unreal Tournament
-Urban Terror
-Uruk GNU/Linux
 User interface
 User space and kernel space
-VIA Technologies
-VLC media player
 VectorLinux
-Vendetta Online
 Vine Linux
-VirtualBox
-Virtual terminal
 Void Linux
-Vuze
-Warsow (video game)
-Warzone 2100
 Wayback Machine
 Web browser
 Whonix
 Wine (software)
-Wireshark
-World of Padman
 Wubuntu
 X86
-X86-64
-XBMC
 XB Machine
-X Window System
-Xfce
-Xfwm
-Xonotic
 Xubuntu
-Yakuake
 Yellow Dog Linux
-Zabaione
 Zenwalk
 Zorin OS

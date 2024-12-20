@@ -1,230 +1,86 @@
 AOL Explorer
-Accelerator (Internet Explorer)
-ActiveMovie
-ActiveX
-Active Channel
-Active Desktop
-Add-on (Mozilla)
-Adobe Media Player
 Alternative media
-Amarok (software)
 Anonymous blog
-Apple Mail
-Apple Podcasts
 Art blog
 Astroturfing
 Atom (Web standard)
 Atom (web standard)
-BitLord
 BitTorrent
-BitTorrent (software)
 Blawg
 Blog
-BlogBridge
 Blog carnival
 Blog fiction
-Bloglines
 Blogosphere
 Broadcatching
-Browser Helper Object
-Browser wars
-CSS box model
-Camino (web browser)
-Chakra (JScript engine)
-Channel Definition Format
 Citizen journalism
 Classical music blog
-Claws Mail
 Client (computing)
 Columnist
-CommaFeed
 Communication
 Comparison of feed aggregators
-Content aggregator
-Cooliris (plugin)
 Corporate blog
-Cybernetnews
 Data feed
 Database journalism
-Daylife
-Dean Hachamovitch
-Deluge (software)
-Digg Reader
-DirectX Media
-DotCMS
-Download.ject
 Dream diary
-Drupal
 Edublog
 Electronic journal
 Enhanced podcast
-Eolas
 Escribitionist
 Fashion blog
-Favicon
 FeedSync
 Feed URI scheme
-Feedbin
-Feedly
-Feedreader (Windows Application)
-Firefox
-Flipboard
-Flock (web browser)
 Food blogging
-FriendFeed
-GNOME Web
-Genieo
 GeoRSS
 Geotagging
 Glossary of blogging
-Gnus
-Google Chrome
-Google Chrome Extensions
-Google Currents (news app)
-Google News
-Google Reader
-Greasemonkey
-HAtom Microformat
-HCL Domino
 HTML
-HTML+TIME
-HTML Application
-HTML Components
 Hashtag
 Health blog
-History of Internet Explorer
 History of blogging
 History of podcasting
 History of web syndication technology
-ICab
-IEs4Linux
-IGoogle
-Imooty.eu
-Index.dat
-Inoreader
-Inori Aizawa
 Instant messaging
-Integrated Windows Authentication
 Inter-process communication
-Internet Explorer
-Internet Explorer 1
-Internet Explorer 10
-Internet Explorer 11
-Internet Explorer 2
-Internet Explorer 3
-Internet Explorer 4
-Internet Explorer 5
-Internet Explorer 6
-Internet Explorer 7
-Internet Explorer 8
-Internet Explorer 9
-Internet Explorer Administration Kit
-Internet Explorer Developer Tools
-Internet Explorer Mobile
-Internet Explorer for Mac
-Internet Explorer for UNIX
-Internet Explorer shell
-Internet Explorer version history
-JScript
 Journalism
-Juice (aggregator)
-K-Meleon
-Kazehakase
-Kontact
 Lifehacker
 Lifelog
-Liferea
 Linkback
-LinkedIn Pulse
-List of Internet Explorer add-ons
-List of Internet Explorer extensions
 List of family-and-homemaking blogs
-List of podcast clients
 List of search engines
-Live bookmarks
 Liveblogging
-MHTML
 MP3 blog
-MSDN
-MSN Explorer
-MSN for Mac OS X
-MSXML
-Magnolia (CMS)
 Mashup (web application hybrid)
-Maxthon
-MediaMonkey
 Media RSS
 Memetics
 Microblogging
 Microsoft
-Microsoft Comic Chat
-Microsoft Edge
-Microsoft Internet Mail and News
-Microsoft Java Virtual Machine
-Microsoft NetMeeting
-Microsoft Open Specification Promise
-Microsoft Outlook
-Mint (newspaper)
-Miro (video software)
 Mobile app
 Mobile blogging
 Mobilecast
 Mormon blogosphere
 Motovlog
-Mozilla
-Mozilla Firefox
-Mozilla Firefox 3
-Mozilla Thunderbird
-My Yahoo!
 Narrowcasting
-NetNewsWire
-NetShow
-Netscape Browser
-Netscape Navigator 9
-Netvibes
-News360
-NewsBlur
-NewsFire
 NewsML
 NewsML-G2
 NewsML 1
 News aggregator
-Newsbeuter
-Newsknowledge
 Niche blogging
 OPML
-OmniWeb
 Online diary
-Open file format
-Opera (web browser)
-Opera 10
-Opera Mail
-Otter Browser
-Outlook Express
-Pageflakes
-Pale Moon
 Pay-per-click
 Peercasting
-Pegasus Mail
 Permalink
 Photoblog
 Photofeed
 Ping (blogging)
 Pingback
-Planet (software)
 Police blog
 Poll aggregator
 Posting style
-Prismatic (app)
 Product feed
 Project diary
-QBittorrent
-QuiteRSS
 RSS
-RSSOwl
 RSS Advisory Board
-RSS Bandit
-RSS Guard
 RSS TV
 RSS editor
 RSS enclosure
@@ -232,86 +88,40 @@ RSS tracking
 Reblogging
 Refback
 Reference (computer science)
-Removal of Internet Explorer
 Resource Description Framework
 Reverse blog
 Review aggregator
-Rhythmbox
 Rollback (data management)
-Safari (web browser)
-Sage (Mozilla Firefox extension)
-Screen scraping
 Screencast
-SeaMonkey
 Search aggregator
-Seattle Post-Intelligencer
-Seesmic
-Server gated cryptography
-Shiira
 Sideblog
-Six Apart
 Slashdot effect
-Sleipnir (web browser)
 Slidecasting
-Slideshare
-Smart tag (Microsoft)
 Social software
 Software release life cycle
-Songbird (software)
 Spam blog
 Spam in blogs
-Spokeo
-Spyglass, Inc.
 Streaming media
-Tantek Çelik
-Tasman (browser engine)
-Temporary Internet Files
 Tencent
-The Bat!
-The Old Reader
-Thomas Reardon
 Thread (Internet)
-Tiny Tiny RSS
 Trackback
 Travel blog
-Tribler
-Trident (software)
-TweetDeck
-United States v. Microsoft Corp.
 Usenet
 Uses of podcasting
-Vector Markup Language
 Video aggregator
 Video blog
 Videocast
-Vivaldi (web browser)
 Vlog
-Vuze
 Warblog
-Waterfox
 Wayback Machine
-WebGUI
-Web Proxy Autodiscovery Protocol
-Web application
 Web directory
 Web feed
 Web series
 Web syndication
 Webcomic
 Webtoon
-Winamp
-Windows Address Book
-Windows Desktop Update
-Windows Live Mail
-Windows Live Personalized Experience
-Windows RSS Platform
-WinnowTag
 World Wide Web
 XBEL
-XMLHttpRequest
 XOXO (microformat)
 YouTube
 ZDNet
-Zimbra
-Zune
-ΜTorrent

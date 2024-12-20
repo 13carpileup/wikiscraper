@@ -1,16 +1,11 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
-APT (Package Manager)
-APT (software)
-ARM architecture
 AlmaLinux
 Alpine Linux
 Android-x86
 Android (operating system)
 Antergos
 AntiX
-Application software
 ArchBang
 ArchLabs
 Arch Linux
@@ -32,11 +27,9 @@ C++
 CHAOS (operating system)
 CRUX
 C (programming language)
-Calamares (software)
 Calculate Linux
 Caldera OpenLinux
 CalyxOS
-Canonical (company)
 CentOS
 CentOS Stream
 Chakra (operating system)
@@ -60,7 +53,6 @@ Debian
 Deepin
 DemoLinux
 Devuan
-DistroWatch
 DivestOS
 DoudouLinux
 Dreamlinux
@@ -86,7 +78,6 @@ Frugalware Linux
 GNU Core Utilities
 GNU General Public License
 GNU Guix System
-GNU Lesser General Public License
 GNewSense
 GOS (operating system)
 Garuda Linux
@@ -97,13 +88,9 @@ Gobuntu
 GrapheneOS
 Graphical user interface
 HandyLinux
-Hyperbola GNU/Linux-libre
 Immunix
 IodéOS
 Jurix
-KDE
-KDE Plasma 5
-KDE Plasma 6
 KaOS
 KaiOS
 Kaisen Linux
@@ -130,7 +117,6 @@ Linux Router Project
 Linux distribution
 Linux for PlayStation 2
 List of Linux distributions
-Long-term support
 Lubuntu
 MCC Interim Linux
 MIUI
@@ -144,7 +130,6 @@ Mer (software distribution)
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Musix GNU+Linux
 Natural language
 Network Security Toolkit
 NimbleX
@@ -162,9 +147,7 @@ Open Enterprise Server
 Operating system
 Oracle Linux
 PCLinuxOS
-PackageKit
 Package manager
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
@@ -180,7 +163,6 @@ Programming language
 Puppy Linux
 PureOS
 Q4OS
-Qt (software)
 Quality assurance
 Qubes OS
 ROSA Linux
@@ -190,11 +172,9 @@ Red Hat Linux
 Red Star OS
 Remix OS
 Replicant (operating system)
-Repository (version control)
 Resurrection Remix OS
 Rocks Cluster Distribution
 Rocky Linux
-Root user
 SUSE Linux
 SUSE Linux Enterprise
 SUSE Studio
@@ -205,7 +185,6 @@ Salix OS
 Scientific Linux
 Slackware
 Slax
-Snap (package manager)
 Softlanding Linux System
 Software license
 Software release life cycle
@@ -214,7 +193,6 @@ SolydXK
 Source Mage
 SparkyLinux
 Splashtop OS
-Stable release
 SteamOS
 Sunwah Linux
 SystemRescue
@@ -227,9 +205,7 @@ TopologiLinux
 Trisquel
 Turbolinux
 Turkix
-Ubiquity (software)
 Ubuntu
-Ubuntu (operating system)
 Ubuntu Budgie
 Ubuntu Cinnamon
 Ubuntu GNOME
@@ -240,18 +216,13 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Upgrade
-Uruk GNU/Linux
 User interface
 User space and kernel space
 VectorLinux
-Vice versa
 Vine Linux
 Void Linux
 Whonix
 Wubuntu
-X86-64
 XB Machine
 Xubuntu
 Yellow Dog Linux

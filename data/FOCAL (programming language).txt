@@ -1,5 +1,3 @@
-12-bit computing
-4K Disk Monitor System
 ASCII
 AdvFS
 Alpha 21064
@@ -8,28 +6,20 @@ Alpha 21264
 Alpha 21364
 Alpha 21464
 AltaVista
-Altair 8800
 BASIC
 BASIC-8
-BASIC-PLUS
-Boolean logic
-Branch (computer science)
 Bus (computing)
 CPU Wars
 CVAX
 Character encoding
 Code page 1287
 Code page 1288
-Command line interface
 Commercial Operating System
 Compaq
-Computed goto
 Computer hardware
 Computer terminal
-Conditional (computer programming)
 DECUS
 DEC Alpha
-DEC BATCH-11/DOS-11
 DEC GT40
 DEC Hebrew
 DEC J-11
@@ -47,107 +37,67 @@ DECtape
 DECwriter
 DIBOL
 DIGITAL Command Language
-David H. Ahl
 Digital Equipment Corporation
 Digital Federal Credit Union
 Digital Linear Tape
 Digital Storage Systems Interconnect
-Digital UNIX
-Direct mode
-Division by zero
 Dynamic debugging technique
 Dynamically Redefined Character Set
-Electronika BK
-FOCAL (Hewlett-Packard)
-FORTRAN
 FX!32
 Firefly (cache coherence protocol)
 Flip-Chip module
-Floating-point arithmetic
 For loop
 Gold key (DEC)
 Gordon Bell
 HP-Interex
-HP 2100
-HP Time-Shared BASIC
-Hamurabi (video game)
 Harlan Anderson
 Home computer
 ISBN (identifier)
 Imperative programming
-Input/output
 Instruction set architecture
-Intel 8080
 Interactive Application System
 Interpreter (computing)
-JOHNNIAC
-JOSS
 Ken Olsen
 Kilobyte
-Kludge
 LK201
 LK421
-LSI-11
-Line editor
 Local Area Transport
 Lunar Lander (video game genre)
 MACRO-10
 MACRO-11
 MUMPS
-Magnetic-core memory
-Mainframe
 Maintenance Operations Protocol
 Mass Storage Control Protocol
 Massbus
 MicroVAX 78032
 Microsoft
 Microsoft BASIC
-Microsoft Binary Format
 Minicomputer
-Minnesota Educational Computing Consortium
 Multinational Character Set
 NVAX
-Napierian logarithm
 National Replacement Character Set
-OS/8
 On-line Debugging Tool
 OpenVMS
 Operating system
 PALcode
-PDP-11
 PDP-11 architecture
-PDP-12
-PDP-5
-PDP-6
 PDP-7
-PDP-8
-Parser
-Parsing
 Processor (computing)
-Processor Technology
-Programmed Data Processor
 Programming language
 Programming paradigm
-Punched tape
 Q-Bus
 RA90
 RAND Corporation
 RK05
 RL02
 ROM cartridge
-RSTS/E
 RSX-11
-RSX-15
 RT-11
-Range (computer programming)
 ReGIS
 Record Management Services
-Reserved word
-Richard Merrill (computer scientist)
 Rigel (microprocessor)
 Robert Palmer (computer businessman)
 Russia
-Six-bit character code
 Sixel
 Software design
 Software developer
@@ -155,53 +105,31 @@ Source code
 Soviet Union
 Standard Disk Interconnect
 Star coupler
-State (computer science)
 String (computer science)
 StrongARM
-Subroutine
 Synchronous Backplane Interconnect
-Syntax (programming languages)
 System Module
-System Reference Manual
-TD/SMP
 TOPS-10
 TOPS-20
-TSS/8
 TU81
 TURBOchannel
 The Ultimate Entrepreneur
-Time-sharing
 Time (magazine)
 Ultrix
 Unibus
-User-defined function
 VAX
-VAX-11
 VAXBI bus
 VAXELN
 VAX MACRO
 VT05
 VT100
 VT1000
-VT101
-VT102
-VT103
-VT105
-VT131
 VT180
 VT220
-VT240
-VT241
 VT320
-VT330
-VT340
 VT420
-VT510
 VT52
 VT520
-VT525
-VT55
-VT62
 VT640
 Video game
 WPS-8

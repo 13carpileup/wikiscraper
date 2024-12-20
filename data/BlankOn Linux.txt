@@ -1,7 +1,5 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
-AMD64
 AlmaLinux
 Alpine Linux
 Android-x86
@@ -84,8 +82,6 @@ GoboLinux
 Gobuntu
 GrapheneOS
 HandyLinux
-Hyperbola GNU/Linux-libre
-I386
 Immunix
 Indonesia
 IodéOS
@@ -125,13 +121,11 @@ Mageia
 Mandrake Linux
 Mandriva Linux
 Manjaro
-Manokwari (tampilan antarmuka)
 MeeGo
 Mer (software distribution)
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Musix GNU+Linux
 Network Security Toolkit
 NimbleX
 Nitix
@@ -146,7 +140,6 @@ OpenSUSE
 Open Enterprise Server
 Oracle Linux
 PCLinuxOS
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
@@ -213,8 +206,6 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 User interface
 VectorLinux
 Vine Linux

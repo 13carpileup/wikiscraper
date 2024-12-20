@@ -1,7 +1,5 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
-Advanced Packaging Tool
 AlmaLinux
 Alpine Linux
 Android-x86
@@ -40,9 +38,7 @@ ClearOS
 Clear Linux OS
 ColorOS
 Commodore 64
-Commodore USA
 Comparison of Linux distributions
-Compiz
 Container Linux
 Corel Linux
 CrDroid
@@ -55,10 +51,8 @@ Debian
 Deepin
 DemoLinux
 Devuan
-DistroWatch
 DivestOS
 DoudouLinux
-Dpkg
 Dreamlinux
 EMUI
 Edubuntu
@@ -79,8 +73,6 @@ FreedomBox
 Freespire
 Freeware
 Frugalware Linux
-GNOME
-GNOME 2
 GNU Core Utilities
 GNU General Public License
 GNU Guix System
@@ -93,7 +85,6 @@ GoboLinux
 Gobuntu
 GrapheneOS
 HandyLinux
-Hyperbola GNU/Linux-libre
 Immunix
 IodéOS
 Jurix
@@ -139,7 +130,6 @@ Mer (software distribution)
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Musix GNU+Linux
 Network Security Toolkit
 NimbleX
 Nitix
@@ -156,7 +146,6 @@ Open Enterprise Server
 Oracle Linux
 PCLinuxOS
 Package manager
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
@@ -209,7 +198,6 @@ Think Blue Linux
 Tiny Core Linux
 Tizen
 TopologiLinux
-Torrent file
 Trisquel
 Turbolinux
 Turkix
@@ -224,17 +212,13 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 User interface
 User space and kernel space
-VICE
 VectorLinux
 Vine Linux
 Void Linux
 Whonix
 Wubuntu
-X86-64
 XB Machine
 Xubuntu
 Yellow Dog Linux

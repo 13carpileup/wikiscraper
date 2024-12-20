@@ -1,280 +1,43 @@
-1-Wire
-8086
-ACCESS.bus
-ADAT Lightpipe
 AES3
 ARINC 429
-ARINC 629
-Accelerated Graphics Port
-Address bus
-Address decoder
-Advanced Host Controller Interface
 Advanced Microcontroller Bus Architecture
-Advanced eXtensible Interface
-Altair 8800
-Amiga
-Amiga Zorro II
-Amiga Zorro III
-Apple Desktop Bus
-Asus
-Asus Media Bus
-Atari SIO
-Avionics
-Back-side bus
-Backplane
-Bus and Tag
-Bus contention
-Bus encoding
-Bus error
-Bus mastering
-Bus network
-Busbar
-Busy waiting
-CAN bus
 CPU
-CSIRAC
 Cache (computing)
-Camera Link
 Central processing unit
-Centronics
-Channel controller
-Coherent Accelerator Processor Interface
-Commodore bus
-Communication endpoint
 Communication protocol
-Compute Express Link
 Computer
-Computer Automated Measurement and Control
 Computer architecture
 Computer hardware
 Computer memory
 Computer network
-Computer systems
-Computer word
-Control Data Corporation
-Control bus
-Controller (computing)
-Conventional PCI
-CoreConnect
-Cross-bar switch
-Crossbar switch
-Crosstalk
-DMX512
-DRAM
-Daisy chain (electrical engineering)
-Daisy chain (information technology)
-Data (computing)
 Data center
-Data structure alignment
-De facto standard
-Differential signaling
-Digital Control Bus
 Digital Equipment Corporation
 Digital Storage Systems Interconnect
-Direct Media Interface
-Direct memory access
-Disk drive
 Distributed computing
-Double Data Rate
-Double pump
-Duplex (telecommunications)
-ESATA
-ESCON
 Embedded systems
-Enhanced Small Disk Interface
 Ethernet
-Europe Card Bus
-Expansion bus
-Expansion card
-ExpressCard
-Extended ISA
-Extended Industry Standard Architecture
-External Bus Interface
-FASTBUS
-Fibre Channel
-Field bus
-FireWire
-Front-side bus
-Fully Buffered DIMM
-Futurebus
-GSC bus
-HIL bus
-HIPPI
-HP-IL
-HP Precision Bus
-Half duplex
 Hard disk drive
-Harvard architecture
-HyperTransport
-I/O
-I3C (bus)
 IBM
-IBM 709
 IBM PC
 IEC 61030
-IEEE-488
-IEEE 1284
-IEEE 1355
-IEEE 1394
-IEEE 1394 interface
 ISBN (identifier)
-Industry Standard Architecture
-InfiniBand
-Infinity Fabric
-Integrated Drive Electronics
-Intel 80486
-Intel High Definition Audio
-Intel QuickPath Interconnect
-Intel Ultra Path Interconnect
-Intelligent Peripheral Interface
-Interconnect
-Interrupt
 I²C
-I²S
-JEDEC
-Jumper (computing)
 Latency (engineering)
-Lightning (connector)
-Line-replaceable unit
-List of device bandwidths
-List of interface bit rates
-List of network buses
-Local bus
-Low Pin Count
-M-PHY
-MADI
-MBus (SPARC)
 MIDI
-MIL-STD-1553
-MIL-STD-1553B
-Main memory
-Master/slave (technology)
-McASP
-Media (communication)
-Memory-mapped I/O
-Memory address
-Memory controller
-MicroChannel
-Micro Channel architecture
-Microcomputer
 Minicomputer
 Modbus
 Modem
-Moore's law
-Mostek
 Multibus
-Multidrop
-Multidrop bus
-Multiplexer
-NVLink
-NVM Express
-Network on a chip
-Network on chip
-NuBus
-OPTi local bus
-Open source hardware
-Open standard
-Optical disc drive
-Optical disk drive
 Optical fiber
-PAM4
-PC/104
-PCI-104
-PCI-X
-PCI/104-Express
-PCI Express
-PCI Express External Cabling
-PCI Local Bus
-PCI eXtensions for Instrumentation
-PCIe
-PC Card
-PDP-11
-Parallel ATA
-Parallel SCSI
-Parallel bus
-Parallel communication
-Peripheral Component Interconnect
-Peripheral bus
-Physical address
-Pixar Image Computer
 Plain old telephone service
-Plug-n-play
-Plug and play
-Power Management Bus
-Profibus
-Programmed Data Processor
 Q-Bus
-QuickRing
-RDRAM
-RJ11
 RS-232
-RS-422
-RS-423
-RS-485
-RapidIO
-Runway bus
-S-100 bus
-S/PDIF
-SATA
-SATA Express
-SBus
-SCSI
-SDRAM
-SLDRAM
-SLIMbus
-SMBus
-SS-50 Bus
-SS-50 bus
-ST-506/ST-412
-STANAG 3910
-STD Bus
-STEbus
-Scalable Coherent Interface
-SerDes
 Serial ATA
-Serial Attached SCSI
-Serial Peripheral Interface
-Serial SCSI buses
-Serial Storage Architecture
-Serial bus
-Serial communication
-Simplex communication
-Single Data Rate
-Small Computer System Interface
-Socket 7
 Software
-Software bus
 Solid-state drive
-SpaceWire
-Storage Module Device
-System Management Bus
-System bus
-TOSLINK
 TURBOchannel
-TV Typewriter
-Tape drive
-Technical standard
-Telephone exchange
-Thunderbolt (interface)
-Timing skew
-UNI/O
 USB
-Ultra Port Architecture
 Unibus
-Universal Serial Bus
 VAX
 VAXBI bus
-VESA Local Bus
-VME eXtensions for Instrumentation
-VMEbus
-VPX
-VXS
-Video card
-Wait state
 Wayback Machine
-Wired communication
-Wishbone (computer bus)
-Word (data type)
-Word machine
-Zorro II
-Zorro III

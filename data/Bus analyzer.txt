@@ -1,67 +1,7 @@
-AFDX
 ARINC 429
-AT Attachment
-Ammeter
-Arbitrary waveform generator
-Avionics
 Bluetooth
 Bus (computing)
-CANbus
-Capacitance meter
-Chirp
-CompactPCI
-Data logger
-Digital pattern generator
-Distortionmeter
 Electricity meter
-Frequency counter
-Function generator
-Galvanometer
-Human-readable
 JTAG
-LCR meter
-LINbus
-List of electrical and electronic measuring equipment
 Logic analyzer
-MIL-STD-1553
-Mass storage
-Megohmmeter
-Microwave power meter
-Multimeter
-Network analyzer (electrical)
-Ohmmeter
-Oscilloscope
-PCI Express
-PCI Mezzanine Card
-Parallel communications
-Peak meter
-Peak programme meter
-Peripheral Component Interconnect
-Protocol analyzer
-Psophometer
-Q meter
-SCSI
 Serial ATA
-Serial Attached SCSI
-Serial communications
-Signal analyzer
-Signal generator
-Spectrum analyzer
-Sweep generator
-Time-domain reflectometer
-Time-to-digital converter
-Transformer ratio arm bridge
-Transistor tester
-Tube tester
-Universal Serial Bus
-VMEbus
-VU meter
-Vectorscope
-Video-signal generator
-Video borescope
-Voltmeter
-Wattmeter
-Waveform monitor
-Wi-Fi
-Wireless LAN
-Wireless USB

@@ -1,324 +1,74 @@
-1C Company
-3D GameStudio
-3D Realms
 3D computer graphics
-4A Engine
-Action Quake 2
 Action game
 Activision
-Adaptive tile refresh
-Adrian Carmack
-Adventure Game Studio
 Algorithm
-Alien Arena
 Amazon Lumberyard
-American McGee
-AmigaOS
-Apache Subversion
 Assembly language
-Av3k
-Away3D
-BFG (weapon)
 Beat 'em up
 Bethesda Softworks
-Binary space partitioning
-Bitsquid
-Blahbalicious
-Blender Game Engine
-Blood (video game)
 Boing Boing
-Bork3D Game Engine
-Build (game engine)
-Buildbox
-C4 Engine
 C (programming language)
-Catacomb 3-D
-Challenge ProMode Arena
-Chrome Engine
-Clickteam
-Cobra (game engine)
-Cocos2d
 Commander Keen
 Computing platform
-Construct (game engine)
 Counter-Strike
-Creation Engine
-CryEngine
-Crystal Space
-Crystal Tools
-Cypher (Quake player)
 DOS
-Dangerous Dave
-Dark Engine
-Dave Taylor (game programmer)
-DeFRaG
-Decima (game engine)
-Defold
-Delta3D
-Dennis Fong
-Diary of a Camper
-Diesel (game engine)
-Dim3
-Distortion (optics)
 Doom (franchise)
-Doom engine
 Edge (magazine)
 Ego (game engine)
-Essence Engine
-Euphoria (software)
-Family tree
-Fast inverse square root
-Felgo
 Fighting game
-Filmation (game engine)
-First-person shooter engine
-First person shooter engine
-Fisheye lens
-Flare3D
 Fork (software development)
-FormGen
-Fox Engine
-Free and open-source software
-Freescape
 Frostbite (game engine)
-GDevelop
-GLQuake
 GNU General Public License
-GPLv2
 GPUOpen
-GT Interactive
-Game-Maker
-GameMaker
-GameSalad
-Game Editor
 Game Revolution
-Game creation system
 Game engine
-Game engine recreation
-Game integrated development environment
-Gamebryo
 Genie Engine
-Git
 GitHub
 Godot (game engine)
 GoldSrc
-Gold Box
-Gouraud shading
-Graeme Devine
-Gravity Bone
-Half-Life series
-Heretic (video game)
-HeroEngine
-Hexen II
-Hipnotic Interactive
-Horde3D
-Hovertank 3D
-IW (game engine)
-Icculus.org
 Id Software
-Id Tech
 Id Tech 3
-Id Tech 4
-Id Tech 5
-Id Tech 6
-Id Tech 7
 Ignite (game engine)
 Inside Mac Games
-Irrlicht Engine
-JMonkeyEngine
-Jedi (game engine)
-Jennell Jaquays
 John Carmack
 John D. Carmack
 John Romero
-Johnathan Wendel
-Katherine Anna Kang
-Kevin Cloud
-Kynapse
-Laser Arena
-Leadwerks
-LibGDX
-Lightmap
-Lightweight Java Game Library
 Linux
-List of first-person shooter engines
-List of game engine recreations
-List of game engines
-List of id Software games
-List of visual novel engines
-LithTech
-Loki's Minions Capture the Flag
-Luminous Engine
-Löve (game engine)
-MT Framework
 MacOS
 Mac OS X
 Machinima
-Malice (1997 video game)
-Mark Rein (software executive)
-Marmalade (software)
-Masters of Doom
-Matthew Costello
 Michael Abrash
 Microsoft Windows
-Mike Wilson (executive)
-Moai (software)
-ModDB
-Mugen (game engine)
 Next Generation (magazine)
-Nexuiz
 Nintendo 64
-Nvidia GameWorks
-OGRE
-OHRRPGCE
-ORX
-OpenArena
-OpenFL
-Open 3D Engine
-Open Wonderland
-Operation Bayshield
-Optimization (computer science)
-Orcs & Elves
 PC Gamer
-Panda3D
-Panta Rhei (game engine)
-Papervision3D
-Paul Steed
-Phoronix
-PhyreEngine
-Pie in the Sky (game engine)
-Pixel Game Maker MV
-Plasma (game engine)
-Platinum Arts Sandbox
-PlayCanvas
 PlayStation 4
 PlayStation 5
-Portal of Praevus
 Programmer
 Proprietary software
-Pygame
-Q (game engine)
-Quad God
-QuakeC
-QuakeCon
-QuakeNet
-QuakeWorld
 Quake (series)
-Quake (soundtrack)
 Quake (video game)
-Quake 4
-Quake Army Knife
-Quake Champions
-Quake II
-Quake III Arena
-Quake II engine
-Quake Live
-Quake done Quick
-Quake modding
-RE Engine
-RPG Maker
 Rage (video game)
-Rage 2
-Rapha (video gamer)
-Ratloop
 Raven Software
-Raylib
-Real-time rendering
-Reality Lab
-Ren'Py
 RenderWare
-Repository (version control)
-Rescue Rover
-Retro Engine
-Robert Duffy (programmer)
 Rock Paper Shotgun
-Rocket Arena (mod)
-Rockstar Advanced Game Engine
-Rogue Entertainment
-SAGE (game engine)
-SCUMM
-Sander Kaasjager
-Sandy Petersen
-Scratch (programming language)
 Sega AM2
 Shacknews
-Shadow Knights
 Shark 3D
-Silent Storm engine
-Siliconera
-Sim RPG Maker
-Simple DirectMedia Layer
-Smokin' Guns
-Snap! (programming language)
-Snowdrop (game engine)
-Softdisk
 Software license
 Software release life cycle
-Solar2D
-SourceForge
 Source (game engine)
 Source 2
 Source code
-Source engine
-Source port
-Speedrunner
-Spring Engine
-Steel Storm
-Stencyl
-Stevie Case
-Stratagus
-Stride (game engine)
-Sujoy Roy
-Surface caching
 Team Fortress
 Team Fortress Classic
-The Seal of Nehahra
-Thirty Flights of Loving
-Thousand Parsec
-Tiles of the Dragon
-Tim Willits
-Timothee Besset
-Titan (game engine)
-Todd Hollenshead
-Tom Hall
-Torque (game engine)
-Trainwreck Studios
-Tremulous
-Trent Reznor
-True 3D
 Twitter
 UbiArt Framework
-Ubisoft Anvil
-Unigine
 Unity (game engine)
-Unreal Engine 1
-Unreal Engine 2
 Unreal Engine 3
-Unreal Engine 4
 Unreal Engine 5
-Unvanquished (video game)
-Urban Terror
-ValuSoft
 Valve Corporation
-Vassal Engine
-Vicious Engine
-Virtua Fighter
-Virtual Theatre
-Vision (game engine)
-Visual3D Game Engine
-Voxel Space
-Vulkan (API)
-Warsow (video game)
-WinQuake
-Wintermute Engine
-WizardWorks
 Wolfenstein
-World of Padman
 Xbox One
-Xbox Series X/S
-Xonotic
-Z-machine
 Zeebo
 ZeniMax Media
-Zero (game engine)
-Zillions of Games

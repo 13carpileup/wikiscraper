@@ -2,122 +2,63 @@
 2D computer graphics
 3D computer graphics
 3D projection
-3D rendering
-Academy Award
 Affine transformation
 Algorithm
-Aliasing
 Alpha compositing
 Ambient occlusion
 Anisotropic filtering
-Arithmetic mean
 Arnold (software)
-BRDF
 Back-face culling
-Beam tracing
-Bidirectional reflectance distribution function
-Bidirectional scattering distribution function
 Big Hero 6 (film)
 Blender (software)
-Blue Sky Studios
-Bunny (1998 film)
 CPU
 CUDA
-Caustic (optics)
-Cel shading
-Checkerboard rendering
-Chromatic aberration
-CiteSeerX (identifier)
 Clipping (computer graphics)
 Collision detection
 Comparison of vector graphics editors
 Computer graphics
-Computer graphics (computer science)
 Computer graphics lighting
 Cone tracing
 Deferred shading
-Depth of field
 Diffusion curve
 Fluid animation
 Fluorescence
-GPGPU
-GPU
 Global illumination
 Graphics software
 Hidden-surface determination
-Illuminance
-Image
 Image-based modeling and rendering
-Image noise
-Importance sampling
 Iridescence
 Isometric video game graphics
-James Kajiya
-Lambert's cosine law
-Lambertian reflectance
 Layers (digital image editing)
-Leonidas J. Guibas
-Light scattering
-List of 3D animation software
 List of 3D computer graphics software
 List of 3D modeling software
 List of 3D rendering software
 List of computer graphics algorithms
-Luminance
-LuxRender
-Metropolis light transport
 Mode 7
-Monster House (film)
-Monte Carlo integration
-Monte Carlo method
-Motion blur
 Nvidia
 Octane Render
 OpenCL
-OptiX
 Parallax scrolling
-Pathological (mathematics)
 Physically based rendering
-Pixar Animation Studios
-Pixar RenderMan
 Pixel
 Planar projection
 Polygon mesh
-Probability density function
-Pseudocode
-Radiance
-Radiosity (computer graphics)
 Raster graphics editor
-Ray casting
 Ray tracing (graphics)
 Reflection (computer graphics)
-RenderMan
 Rendering (computer graphics)
-Rendering equation
 Rotation (mathematics)
 Scaling (geometry)
 Scanline rendering
 Shader
 Shading
 Shadow mapping
-Shadow volume
-Shadows
 Shear matrix
-Simulate
 Skybox (video games)
-Sony Pictures Imageworks
 Spectral rendering
-Subsurface scattering
 Surface triangulation
 Texel (graphics)
-Text-to-image model
-Traceroute
-Translation (geometry)
 Triangle mesh
 Unbiased rendering
-Vector graphics
-Volume rendering
-Volumetric path tracing
 Voxel
-Walt Disney Animation Studios
 Wire-frame model

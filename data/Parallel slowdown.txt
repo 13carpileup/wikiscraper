@@ -9,9 +9,7 @@ Automatic parallelization
 Barrier (computer science)
 Beowulf cluster
 Bit-level parallelism
-Boost (C++ libraries)
 Bulldozer (microarchitecture)
-C++ AMP
 CUDA
 Cache-only memory architecture
 Cache coherence
@@ -39,7 +37,6 @@ Distributed memory
 Distributed shared memory
 Dryad (programming)
 Embarrassingly parallel
-Embarrassingly parallel problem
 Explicit parallelism
 Fiber (computer science)
 Flynn's taxonomy
@@ -67,7 +64,6 @@ Multiple instruction, multiple data
 Multiple instruction, single data
 Multiprocessing
 Multithreading (computer architecture)
-Mythical man month
 Non-blocking algorithm
 Non-uniform memory access
 OpenACC
@@ -77,14 +73,12 @@ OpenMP
 Parallel Extensions
 Parallel RAM
 Parallel Virtual Machine
-Parallel algorithm
 Parallel computing
 Parallel external memory
 Parallel programming model
 Pipeline (computing)
 Preemption (computing)
 Process (computing)
-Processor node
 Pthreads
 ROCm
 Race condition
@@ -113,4 +107,3 @@ Threading Building Blocks
 Unified Parallel C
 Uniform memory access
 Vector processor
-ZPL (programming language)

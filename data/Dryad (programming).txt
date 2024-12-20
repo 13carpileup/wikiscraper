@@ -1,67 +1,28 @@
-.NET
-.NET Foundation
-.NET Framework
-.NET Gadgeteer
-.NET MAUI
-.NET Micro Framework
 3D Movie Maker
 API
-ASP.NET
-ASP.NET AJAX
-ASP.NET Core
-ASP.NET MVC
-ASP.NET Razor
-ASP.NET Web Forms
-Accelerator (library)
-AirSim
-AjaxView
-Allegiance (video game)
 Amdahl's law
 Analysis of parallel algorithms
-Apache Hadoop
-Apache License 2.0
 Application checkpointing
 Array (data structure)
 Asymmetric multiprocessing
 Ateji PX
-Atom (text editor)
 Automatic parallelization
-Avalanche (P2P)
-Avalonia (software framework)
-Azure Linux
-Babylon.js
-Barrelfish (operating system)
 Barrier (computer science)
-Bartok (compiler)
 Beowulf cluster
 Bit-level parallelism
-BitFunnel
-BitVault
-Blazor
-Boost (C++ libraries)
-Bosque (programming language)
 Bulldozer (microarchitecture)
 C++
-C++/WinRT
-C++ AMP
-CLR Profiler
 CUDA
 C (programming language)
 C Sharp (programming language)
 Cache-only memory architecture
 Cache coherence
 Cache invalidation
-Chakra (JavaScript engine)
 Chapel (programming language)
 Charm++
-ChronoZoom
 Cilk
-Class (computing)
-ClearType
 Cloud computing
-Cluster computing
 Coarray Fortran
-CodePlex
 Computer cluster
 Computer hardware
 Computer multitasking
@@ -70,165 +31,60 @@ Computer programming
 Computing platform
 Concurrency (computer science)
 Concurrent computing
-Conference XP
-Confidential Consortium Framework
 Cost efficiency
-Cω
-Dafny
-Dapr
-Data parallel
 Data parallelism
 Data structure
-Dataflow
 Dataflow architecture
 Dataflow programming
 Deadlock (computer science)
-DeepSpeed
-Deep Zoom
 Deterministic algorithm
-Directed acyclic graph
-DiskSpd
 Distributed computing
 Distributed memory
 Distributed shared memory
-Docs.com
 Domain-specific language
-Dynamic Language Runtime
-EBPF on Windows
-Electron (software framework)
 Embarrassingly parallel
-Entity Framework
 Explicit parallelism
-Extensible Storage Engine
-F* (programming language)
 F Sharp (programming language)
-F Sharp Software Foundation
-Family.Show
 Fiber (computer science)
-File (computing)
-File Manager (Windows)
-FlexWiki
-Fluent Design System
-Fluid Framework
 Flynn's taxonomy
-Forge (software)
-FourQ
-Free and open-source software
 GPUOpen
-GW-BASIC
-Gazelle (web browser)
 General-purpose computing on graphics processing units
 GitHub
 Global Arrays
-Gollum (software)
 Grid computing
-Group Shot
 Gustafson's law
 HPX
 Hardware acceleration
 Hardware scout
 High-performance computing
-HomeOS
-HoneyMonkey
-IllumiRoom
-Image Composite Editor
 Implicit parallelism
-Infer.NET
-Inheritance
 Instruction-level parallelism
 Instruction pipelining
 Instruction window
 Internet
-IronPython
-IronRuby
-Joins (concurrency library)
 Karp–Flatt metric
-Kernel-Mode Driver Framework
 Kinect
-Kodu Game Lab
-Lean (proof assistant)
-LightGBM
-LiveStation
-Live Clipboard
 Loop-level parallelism
-ML.NET
 MS-DOS
-MSBuild
-Managed Extensibility Framework
-Managed code
 Manycore processor
 Massively parallel
 Memory-level parallelism
 Memory coherence
 Message Passing Interface
-Metro (design language)
 Microsoft
-Microsoft Academic Search
-Microsoft Automatic Graph Layout
-Microsoft C++ Standard Library
-Microsoft Cognitive Toolkit
-Microsoft Comic Chat
-Microsoft Detours
-Microsoft Enterprise Library
-Microsoft FUSE Labs
-Microsoft Holoportation
-Microsoft Live Labs
-Microsoft Live Labs Deepfish
-Microsoft Live Labs Listas
-Microsoft Live Labs Pivot
-Microsoft Live Labs Volta
 Microsoft Office
-Microsoft Open Specification Promise
-Microsoft Phoenix
-Microsoft PixelSense
-Microsoft PowerToys
-Microsoft Power Fx
-Microsoft Public License
-Microsoft Reciprocal License
-Microsoft Research
-Microsoft SEAL
-Microsoft SenseCam
-Microsoft Small Basic
-Microsoft Songsmith
 Microsoft Windows
-Microsoft adCenter Labs
-Microsoft and open source
-Midori (operating system)
-Mimalloc
-Mixed Reality Toolkit
-Mod mono
-MonoDevelop
-Mono (software)
-MsQuic
 Multiple instruction, multiple data
 Multiple instruction, single data
 Multiprocessing
 Multithreading (computer architecture)
-Mutual exclusion
-MyLifeBits
-Neural Network Intelligence
-NodeXL
 Non-blocking algorithm
 Non-uniform memory access
-Npm
-NuGet
-OneFuzz
-Open-source license
 OpenACC
 OpenCL
 OpenHMPP
 OpenMP
-Open Letter to Hobbyists
-Open Live Writer
-Open Management Infrastructure
-Open Neural Network Exchange
-Open Service Mesh
-Open Source Security Foundation
-Open XML SDK
 Operating system
-Orleans (software framework)
-Outercurve Foundation
-P (programming language)
 Parallel Extensions
 Parallel RAM
 Parallel Virtual Machine
@@ -236,53 +92,22 @@ Parallel computing
 Parallel external memory
 Parallel programming model
 Parallel slowdown
-Penny Black (research project)
-PhotoDNA
-Photosynth
 Pipeline (computing)
-Playwright (software)
-Polyphonic C Sharp
-PowerShell
 Preemption (computing)
-ProcDump
 Process (computing)
-Process Monitor
 Programmer
-Project Digits
-Project Mu
-Project Verona
 Pthreads
-Python Tools for Visual Studio
-Q Sharp
 ROCm
-R Tools for Visual Studio
 Race condition
 RaftLib
-ReactiveX
-RecursiveExtractor
-Repository (version control)
-Roslyn (compiler)
-SILK
-SLAM project
-SONiC (operating system)
-SVNBridge
-SXM (transactional memory)
-Sandcastle (software)
 Scalability
-Scope (programming language)
-Seadragon Software
-SecPAL
 Semiconductor memory
-Shared Source Initiative
 Shared memory
-Shared memory (interprocess communication)
-SignalR
 Simultaneous and heterogeneous multithreading
 Simultaneous multithreading
 Single instruction, multiple data
 Single instruction, multiple threads
 Single instruction, single data
-Singularity (operating system)
 Software categories
 Software framework
 Software license
@@ -292,60 +117,16 @@ Speculative multithreading
 Speedup
 Starvation (computer science)
 Stream processing
-StyleCop
 Superscalar processor
 Symmetric multiprocessing
 Synchronization (computer science)
 Systolic array
-T2 Temporal Prover
-TCP/IP
-TLA+ Toolbox
-TLAPS
-TPM 2.0 Reference Implementation
 Task parallelism
 Temporal multithreading
-Text Template Transformation Toolkit
 Thread (computing)
 Threading Building Blocks
-TouchLight
-TrueSkill
-TypeScript
-U-Prove
 Unified Parallel C
 Uniform memory access
-User-Mode Driver Framework
-Vcpkg
 Vector processor
-Verve (operating system)
-Virtual File System for Git
-Visual Basic .NET
-VoTT
-Voldemort (distributed data store)
-Vowpal Wabbit
-Wallop
 Wayback Machine
-WiX
-WikiBhasha
-WinJS
-WinObjC
-Windows App SDK
-Windows Calculator
-Windows Communication Foundation
-Windows Console
-Windows Desktop Gadgets
-Windows Driver Frameworks
-Windows Forms
-Windows HPC Server 2008 R2
-Windows Package Manager
-Windows Presentation Foundation
-Windows Template Library
-Windows Terminal
-Windows UI Library
-WorldWide Telescope
-XDP for Windows
-XML Notepad
-XSP (software)
-XUnit.net
 Xbox
-Z3 Theorem Prover
-ZPL (programming language)

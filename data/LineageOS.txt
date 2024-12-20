@@ -1,67 +1,22 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
-AOKP
 API
-ARM architecture
-AdMob
-AliOS
 AlmaLinux
 Alpine Linux
 Amazon Kindle
-Anbox
 Android-x86
 Android (operating system)
-Android 10
 Android 11
-Android 12
-Android 13
-Android 14
-Android 15
-Android 16
-Android App Bundle
-Android Automotive
-Android Cupcake
-Android Debug Bridge
-Android Developer Challenge
-Android Developer Lab
-Android Donut
-Android Eclair
-Android Froyo
 Android Gingerbread
 Android Go
-Android Honeycomb
 Android Ice Cream Sandwich
 Android Jelly Bean
 Android KitKat
 Android Lollipop
-Android Marshmallow
-Android NDK
 Android Nougat
-Android One
-Android Open Accessory Development Kit
-Android Open Source Project
-Android Oreo
 Android Pie
-Android Runtime
-Android SDK
-Android Studio
-Android TV
-Android Things
-Android application package
-Android lawn statues
-Android recovery mode
-Android rooting
-Android software development
-Android version history
-Androidland
 Antergos
 AntiX
-Apache 2.0
-Apache Harmony
-Apk (file format)
-App Inventor for Android
-April Fools' Day
 Arabic
 ArchBang
 ArchLabs
@@ -70,17 +25,12 @@ Artix Linux
 Asahi Linux
 Astra Linux
 Asturix
-Asus ZenUI
 Austrumi Linux
 B2G OS
 BLAG Linux and GNU
 BackBox
 BackTrack
 Bada (operating system)
-Bahasa
-Baidu Yi
-Bangla language
-Barnes & Noble Nook
 Belarusian language
 Bharat Operating System Solutions
 Binary Runtime Environment for Wireless
@@ -92,13 +42,8 @@ BlackBerry OS
 BlackBerry Tablet OS
 Black Lab Linux
 BlankOn Linux
-Bloatware
-BlueStacks
 Bodhi Linux
-Booting process of Android devices
-Boy Genius Report
 BridgeOS
-Burmese language
 C++
 CHAOS (operating system)
 CRUX
@@ -106,7 +51,6 @@ C (programming language)
 Calculate Linux
 Caldera OpenLinux
 CalyxOS
-Catalan language
 CentOS
 CentOS Stream
 Chakra (operating system)
@@ -114,31 +58,19 @@ Chief executive officer
 Chimera Linux
 ChromeOS
 ChromeOS Flex
-Chromecast
 ChromiumOS
 ClearOS
 Clear Linux OS
-ClockworkMod
-Code review
 ColorOS
 Commodore OS
-Community of practice
-Comparison of Android Go products
-Comparison of Java and Android API
 Comparison of Linux distributions
 Comparison of mobile operating systems
-Compatibility layer
 Container Linux
-CopperheadOS
 Corel Linux
 CrDroid
-Crowdin
 CrunchBang Linux
 Cub Linux
 CyanogenMod
-Cyanogen OS
-Czech language
-Dalvik (software)
 Damn Small Linux
 Damn Vulnerable Linux
 Danish language
@@ -150,7 +82,6 @@ Devuan
 DivestOS
 DoudouLinux
 Dreamlinux
-Droid (typeface)
 Dutch language
 EMUI
 EPOC (operating system)
@@ -164,23 +95,15 @@ Endless OS
 English language
 EulerOS
 Familiar Linux
-Fastboot
 Feather Linux
 Fedora Linux
-Filipino language
 Finnish language
 Fire OS
-Firebase
-Firebase Cloud Messaging
 Firefox OS
 Floppyfw
-Font
 Foresight Linux
-Fork (software)
 FreeBSD
 FreeRTOS
-Free Software Foundation
-Free and open-source software
 FreedomBox
 Freespire
 French language
@@ -191,54 +114,31 @@ GNU
 GNU Guix System
 GNewSense
 GOS (operating system)
-Galaxy Nexus
 Garuda Linux
-Gaël Duval
 GeckoLinux
 GeekWire
 Gentoo Linux
 German language
-Gerrit (software)
 GitHub
-GitLab
 GoboLinux
 Gobuntu
 Google
 Google Cardboard
-Google Cloud Messaging
 Google Daydream
-Google Developers
-Google I/O
-Google LLC v. Oracle America, Inc.
 Google Maps
 Google Mobile Services
-Google Nexus
-Google Pixel
-Google Play Services
-Google Search
-Gradle
 GrapheneOS
 HMD Global
-HTC One (M7)
-HTC One (M8)
-HTC Sense
 HandyLinux
 HarmonyOS
 HarmonyOS NEXT
 Hebrew language
-Hindi language
-Hive UI
-Honor (brand)
-Hungarian language
-Hyperbola GNU/Linux-libre
 IOS
 IPadOS
 Immunix
-Index of Android OS articles
 Indonesian language
 Integrated development environment
 Intel Management Engine
-IntelliJ IDEA
 Internet Relay Chat
 IodéOS
 Italian language
@@ -250,25 +150,15 @@ KaOS
 KaiOS
 Kaisen Linux
 Kali Linux
-Kali NetHunter
-Kannada language
 Kanotix
 KateOS
 Kernel (operating system)
-Kingo Root
 Knoppix
 Kongoni (operating system)
-Korean language
 Korora (operating system)
-Kotlin (programming language)
 Kubuntu
 Kwort Linux
-LG G Pad 8.3
-LG UX
 LXLE Linux
-LeWa OS
-Lenovo smartphones
-Libera.chat
 Libranet
 Library (computing)
 LinHES
@@ -283,19 +173,12 @@ Linux Router Project
 Linux distribution
 Linux for PlayStation 2
 Linux kernel
-List of Android TV devices
-List of Android apps by Google
 List of Android launchers
-List of Android smartphones
-List of Google Play edition devices
 List of Linux distributions
 List of custom Android distributions
-List of features in Android
-List of free and open-source Android applications
 List of mobile app distribution platforms
 List of open-source mobile phones
 LiteOS
-Lithuanian language
 Lubuntu
 LuneOS
 MCC Interim Linux
@@ -304,18 +187,13 @@ MX Linux
 Maemo
 Mageia
 Magic Cap
-Magisk (software)
-Malayalam language
 Malware
 Mandrake Linux
 Mandriva Linux
 Manjaro
-Material Design
 MeeGo
-Meizu
 Mer (software distribution)
 Meta Horizon OS
-MicroG
 Microsoft Windows
 Minix 3
 Miracle Linux
@@ -327,26 +205,10 @@ Moblin
 Monolithic kernel
 MontaVista
 MotoMagx
-Moto G (1st generation)
-Motoblur
-Musix GNU+Linux
 Natural language
-Near-field communication
 NetBSD
 Network Security Toolkit
-Nexus 10
-Nexus 4
-Nexus 5
-Nexus 5X
-Nexus 6
-Nexus 6P
-Nexus 7 (2012)
-Nexus 7 (2013)
-Nexus 9
-Nexus One
 Nexus Player
-Nexus Q
-Nexus S
 NimbleX
 Nintendo
 Nintendo 3DS system software
@@ -356,21 +218,14 @@ Nitix
 NixOS
 Nobara Linux
 Nokia Asha platform
-Nokia X family
-Norwegian language
-Noto fonts
 Nova (operating system)
-OPhone
 OmniROM
-OnePlus One
 One UI
 Open-source software
-OpenBinder
 OpenELEC
 OpenEZX
 OpenEmbedded
 OpenHarmony
-OpenJDK
 OpenMandriva Lx
 OpenSUSE
 Open Enterprise Server
@@ -378,16 +233,11 @@ Open Handset Alliance
 Open Mobile Alliance
 Openmoko Linux
 Operating system
-Optimus UI
 Oracle Linux
-Over-the-air programming
-OxygenOS
 PCLinuxOS
-POCO (company)
 Package manager
 PalmDOS
 Palm OS
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
@@ -396,38 +246,16 @@ Peppermint OS
 Personal identification number
 Pinguy OS
 PixelExperience
-Pixel (1st generation)
-Pixel 2
-Pixel 3
-Pixel 3a
-Pixel 4
-Pixel 4a
-Pixel 5
-Pixel 5a
-Pixel 6
-Pixel 6a
-Pixel 7
-Pixel 7a
-Pixel 8
-Pixel 8a
-Pixel 9 Pro Fold
-Pixel C
-Pixel Fold
-Pixel Tablet
 Platypux
 PlayStation Portable system software
 PlayStation Vita system software
-Poco X3
-Polish language
 Pop! OS
 Porteus (operating system)
-Portuguese language
 PostmarketOS
 Programmer
 Programming language
 Programming tool
 Proprietary software
-Punjabi language
 Puppy Linux
 PureOS
 Q4OS
@@ -436,57 +264,40 @@ QtMoko
 Qubes OS
 ROSA Linux
 Raspberry Pi OS
-Realme
 Red Hat Enterprise Linux
 Red Hat Linux
 Red Star OS
 Reddit
 Remix OS
-RenderScript
 Replicant (operating system)
-Restructuring
 Resurrection Remix OS
-Roboto
 Rocks Cluster Distribution
 Rocky Linux
-Rooting (Android)
 Russian language
 S60 (software platform)
 SHR (operating system)
-SMS
-SQLite
 SUSE Linux
 SUSE Linux Enterprise
 SUSE Studio
 Sabayon Linux
 Sabily
-SafetyNet API
 Sailfish OS
 Salix OS
-Samsung Experience
-Samsung Galaxy S4
 Scientific Linux
 Series 30
 Series 30+
 Series 40
 Series 80 (software platform)
 Series 90 (software platform)
-Set-top box
-Simplified Chinese language
-Sinhala language
-Skia Graphics Engine
 Slackware
 Slax
-SlimRoms
 Smartphone
-Smartphone patent wars
 Softlanding Linux System
 Software license
 Software release life cycle
 Solus (operating system)
 SolydXK
 Sony Ericsson Java Platform
-Sony Xperia Z Ultra
 Source Mage
 Source code
 Spanish language
@@ -494,29 +305,19 @@ SparkyLinux
 Splashtop OS
 SteamOS
 Sunwah Linux
-SuperSU
 Superuser
-Swedish language
 Symbian
 SystemRescue
 T2 SDE
-TCL Technology
-TWRP (software)
-Tablet computer
 Tails (operating system)
-Tamil language
 TechCrunch
-Thai language
 Think Blue Linux
 ThreadX
 Tiny Core Linux
 Tizen
 TopologiLinux
-TouchWiz
-Traditional Chinese language
 Trisquel
 Turbolinux
-Turkish language
 Turkix
 Tweet (social media)
 Twitter
@@ -531,21 +332,17 @@ Ubuntu MATE
 Ubuntu Studio
 Ubuntu Touch
 Ubuntu Unity
-Ubuntu for Android
 Ukrainian language
 Ultramarine Linux
 Unity Operating System
-Uruk GNU/Linux
 User interface
 VectorLinux
-Venture funding
 Vietnamese language
 Vine Linux
 Virtual reality
 Void Linux
 WatchOS
 Wayback Machine
-Waydroid
 Wear OS
 WebOS
 Whonix
@@ -563,17 +360,12 @@ Windows RT
 Windows XP editions
 Wubuntu
 X86
-X86-64
 XB Machine
-XDA Developers
 XML
 XNU
-Xiaomi HyperOS
-XobotOS
 Xubuntu
 Yellow Dog Linux
 Zenwalk
-Zip (file format)
 Zircon (microkernel)
 Zorin OS
 Ångström distribution

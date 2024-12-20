@@ -1,212 +1,39 @@
-Adjacency matrix
 Adjugate matrix
-Alternant matrix
-Alternating sign matrix
-American Mathematical Monthly
-Anti-diagonal matrix
-Arrowhead matrix
-Augmented matrix
-Band matrix
 Basis (linear algebra)
-Biadjacency matrix
-Bidiagonal matrix
-Bisymmetric matrix
-Block-diagonal matrix
 Block matrix
-Block tridiagonal matrix
-Boolean matrix
-Bézout matrix
-Cabibbo–Kobayashi–Maskawa matrix
-Carleman matrix
-Cartan matrix
-Cauchy matrix
-Centering matrix
-Centrosymmetric matrix
-Characteristic (algebra)
-Charles F. Van Loan
-Cholesky decomposition
-Circulant matrix
-Cofactor matrix
-Commutation matrix
-Commutativity
-Companion matrix
-Complex Hadamard matrix
 Complex number
-Conference matrix
-Confusion matrix
-Conic section
-Conjugate transpose
-Convergent matrix
-Copositive matrix
-Correlation matrix
-Covariance matrix
-Coxeter matrix
-DFT matrix
-Defective matrix
-Definite matrix
-Definiteness of a matrix
-Degree matrix
-Density matrix
-Design matrix
 Diagonal matrix
-Diagonalizable
-Diagonalizable matrix
-Diagonally dominant matrix
 Differential geometry
-Direct sum of modules
-Distance matrix
 Doi (identifier)
-Doubly stochastic matrix
-Duplication and elimination matrices
-Edmonds matrix
-Eigenvalues
 Eigenvalues and eigenvectors
-Eigenvector
-Elementary matrix
 Encyclopedia of Mathematics
-Equivalent matrix
-Euclidean distance matrix
 European Mathematical Society
-Exchange matrix
 Field (mathematics)
-Fisher information matrix
-Frobenius matrix
-Fundamental matrix (computer vision)
-Fundamental matrix (linear differential equation)
-Fuzzy associative matrix
-GCD matrix
-Gamma matrices
-Gell-Mann matrices
-Gene H. Golub
-Generalized permutation matrix
-Generator matrix
-Gram matrix
 Graph theory
-Hadamard matrix
-Hamiltonian matrix
-Hankel matrix
 Hermitian matrix
-Hessenberg matrix
-Hessian matrix
-Hilbert matrix
 Hilbert space
-Hollow matrix
-Householder transformation
-Hurwitz-stable matrix
 ISBN (identifier)
 Idempotent matrix
 Identity matrix
-Incidence matrix
 Inner product
 Inner product space
-Integer matrix
-Inverse of a matrix
-Invertible matrix
-Involutory matrix
-Irregular matrix
 JSTOR (identifier)
-Jacobian matrix and determinant
-Jordan normal form
-Laplacian matrix
-Lehmer matrix
 Linear algebra
-Linear independence
-Linear operator
-List of matrices
-Logical matrix
-Léon Autonne
 Main diagonal
-Manifold
 Matrix (mathematics)
-Matrix congruence
 Matrix exponential
 Matrix multiplication
-Matrix of ones
-Matrix product
-Matrix representation of conic sections
-Matrix unit
-Metzler matrix
-Moment matrix
-Moore matrix
 Nilpotent matrix
-Non-singular matrix
-Nonnegative matrix
-Normal matrix
 OCLC (identifier)
-Orthogonal matrix
 Orthonormal basis
-Overlap matrix
-Pascal matrix
 Pauli matrices
-Payoff matrix
-Pentadiagonal matrix
-Perfect matrix
 Permutation matrix
-Persymmetric matrix
-Pick matrix
-Pivot element
-Polar decomposition
-Polynomial matrix
-Positive-definite matrix
 Positive definite matrix
-Precision (statistics)
 Projection (linear algebra)
-Projection matrix
-Pseudoinverse
-Quadratic form
-Quaternionic matrix
-Random matrix
 Real number
-Redheffer matrix
-Riemannian manifold
-Rotation matrix
-Routh–Hurwitz matrix
-Row echelon form
-S-matrix
-Seidel adjacency matrix
-Seifert matrix
-Self-adjoint operator
 Shear matrix
-Shift matrix
-Signature matrix
-Similarity matrix
-Singular value
-Skew-Hermitian matrix
-Skew-symmetric matrix
-Skyline matrix
-Sparse matrix
-Spectral theorem
 Square matrix
-State-transition matrix
 Statistics
-Stieltjes matrix
-Stochastic matrix
-Substitution matrix
-Sylvester's law of inertia
-Sylvester matrix
-Symmetry
-Symmetry in mathematics
-Symplectic matrix
-Tangent space
-Taylor's theorem
-Teiji Takagi
-Toeplitz matrix
-Totally positive matrix
-Totally unimodular matrix
-Transformation matrix
 Transpose
-Transpositions matrix
 Triangular matrix
-Tridiagonal matrix
-Tutte matrix
-Unimodular matrix
-Unipotent
-Unitary matrix
 Up to
-Vandermonde matrix
-Walsh matrix
-Weighing matrix
-Wronskian
-Z-matrix (chemistry)
-Z-matrix (mathematics)
-Zero matrix

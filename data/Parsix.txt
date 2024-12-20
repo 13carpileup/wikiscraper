@@ -1,8 +1,5 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
-AMD64
-Advanced Packaging Tool
 AlmaLinux
 Alpine Linux
 Android-x86
@@ -54,7 +51,6 @@ Debian
 Deepin
 DemoLinux
 Devuan
-DistroWatch
 DivestOS
 DoudouLinux
 Dreamlinux
@@ -76,7 +72,6 @@ Foresight Linux
 FreedomBox
 Freespire
 Frugalware Linux
-GNOME
 GNU Guix System
 GNewSense
 GOS (operating system)
@@ -87,10 +82,7 @@ GoboLinux
 Gobuntu
 GrapheneOS
 HandyLinux
-Happy Feet
 Hard disk drive
-Hyperbola GNU/Linux-libre
-I386
 Immunix
 IodéOS
 Jurix
@@ -122,8 +114,6 @@ Linux distribution
 Linux for PlayStation 2
 Linux kernel
 List of Linux distributions
-Live CD
-Live USB
 Lubuntu
 MCC Interim Linux
 MIUI
@@ -137,7 +127,6 @@ Mer (software distribution)
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Musix GNU+Linux
 Natural language
 Network Security Toolkit
 NimbleX
@@ -153,12 +142,10 @@ OpenSUSE
 Open Enterprise Server
 Oracle Linux
 PCLinuxOS
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Pentoo
 Peppermint OS
-Persepolis
 Pinguy OS
 PixelExperience
 Platypux
@@ -220,8 +207,6 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 User interface
 VectorLinux
 Vine Linux

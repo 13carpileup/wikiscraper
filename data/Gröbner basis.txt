@@ -1,184 +1,66 @@
-Aequationes Mathematicae
-Affine algebraic set
 Algebraic closure
-Algebraic curve
 Algebraic geometry
-Algebraic set
 Algebraic variety
 Algebraically closed field
-American Mathematical Society
 ArXiv (identifier)
-Associated element
-Association for Computing Machinery
 Basis (linear algebra)
-Bergman's diamond lemma
-Bernd Sturmfels
 Bibcode (identifier)
 Binomial (polynomial)
 Bivariate polynomial
-Bruno Buchberger
-Buchberger's algorithm
-Canonical form
-Chinese remainder theorem
-CoCoA
 Coding theory
 Commutative algebra
-Complex field
 Computational complexity
 Computer algebra
-Computer algebra system
 Constant function
-Coprime
 Cryptography
 Cubic equation
 Cubic function
-Daniel Lazard
-David A. Cox
 Degree of a polynomial
-Dickson's lemma
-Dimension of an algebraic variety
-Direct sum
 Discriminant
 Doi (identifier)
-Donal O'Shea
-EXPSPACE
-Elimination theory
 Empty set
 Encyclopedia of Mathematics
 Eric W. Weisstein
-Ernst Wilhelm Mayr
-Euclidean division
-Euclidean division of polynomials
 European Mathematical Society
-FGLM algorithm
 Factorization of polynomials
-Faugère's F4 and F5 algorithms
 Field (mathematics)
-Field of rationals
-Free module
-Full rank
-GAP computer algebra system
-GMP (library)
 Gaussian elimination
-General position
 GitHub
-Graduate Studies in Mathematics
-Graver basis
-HFE (cryptosystem)
-Heisuke Hironaka
-Hensel lifting
-Heuristic
 Hilbert's Nullstellensatz
 Hilbert's basis theorem
-Hilbert series
-Homogeneous ideal
 Homogeneous polynomial
 Horner's method
-Hyperplane
-Hypersurface
-IEEE Transactions on Information Theory
 ISBN (identifier)
 Ideal (ring theory)
-Ideal membership problem
 If and only if
-Implicit function
-Implicitization
-Inconsistent equations
 Integer
-Integers modulo n
-Irreducible component
 Irreducible polynomial
-Janet basis
-Jean-Charles Faugère
-Journal of Complexity
-Journal of Symbolic Computation
-Julia (programming language)
-Krull dimension
 Library (computing)
 Linear algebra
 Linear equation
 Linear function (calculus)
-Little o notation
-Localization of a ring
-Macaulay computer algebra system
-Magma computer algebra system
-Maple (software)
 MathWorld
-Mathematica
 Mathematics
-Matthias Aschenbrenner
-Memory management
-Merge algorithm
-Modular arithmetic
-Monic polynomial
 Monomial
-Monomial order
-Monomial ordering
-Multiplication algorithm
 Multivariate polynomial
-Nikolai Günther
-Noetherian ring
-Notices of the American Mathematical Society
-Ordered pairs
-Ore algebra
-Parametric equation
-Paris Kanellakis Theory and Practice Award
 Polynomial
-Polynomial complexity
-Polynomial factorization
-Polynomial function
 Polynomial greatest common divisor
 Polynomial identity testing
 Polynomial long division
-Polynomial resultant
 Polynomial ring
-Power series
-Primary decomposition
-Primitive polynomial (ring theory)
-Principal ideal ring
-Projection (mathematics)
 Quadratic equation
 Quadratic function
 Quartic equation
 Quartic function
 Quasi-homogeneous polynomial
 Quintic function
-Rational curve
-Rational map
-Rational number
-Rational variety
-Real-root isolation
-Regular chain
-Regular sequence
-Resultant
-Row reduction
 S2CID (identifier)
-SINGULAR
-SageMath
-Scholarpedia
 Septic equation
 Sequence
 Sextic equation
 Singleton (mathematics)
-Sparse matrix
 Springer Science+Business Media
 Square-free polynomial
-Submodule
-SymPy
-System of polynomial equations
-Systems of polynomial equations
-Total order
-Transactions of the American Mathematical Society
-Triangle
 Trinomial
-Unit ideal
-Univariate polynomial
 Up to
 Vector space
-Well-order
-Weyl algebra
-Wolfgang Gröbner
-World Scientific
-Zariski closure
-Zero ideal
-Zero polynomial

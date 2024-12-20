@@ -1,41 +1,20 @@
 ACM Computing Classification System
-AIMMS
-AMPL
 Abstraction (computer science)
 Agile software development
 Algebraic modeling language
 Algorithm
 Algorithm design
 Algorithmic efficiency
-AltaRica
-Analogical models
 Analysis of algorithms
-Anthropomorphism
 Application security
 ArXiv (identifier)
-Architecture Analysis & Design Language
-Architecture Description Language
-Architecture description language
 Artificial intelligence
-Artificial language
-Aspect-oriented programming
-Attribute (computing)
 Automata theory
 Automated planning and scheduling
-Automatic programming
 Backward compatibility
-Behavior Trees
-Bipartite graph
-Business Process Modeling Notation
-Business process modeling
 C++
-C-K theory
-CI/CD
 C Sharp (programming language)
 Capability Maturity Model Integration
-CiteSeerX (identifier)
-Compatibility layer
-Compatibility mode
 Compiler construction
 Component-based software engineering
 Computability theory
@@ -72,90 +51,49 @@ Control variable (programming)
 Cross-validation (statistics)
 Cryptography
 Cyberwarfare
-DRAKON
 Data
-Data exchange
 Data mining
-Data model
-Data modeling
 Database
 Decision support system
 Dependability
-Design patterns
-DevOps
-Diagramming technique
 Digital art
 Digital library
 Digital marketing
 Discrete mathematics
 Distributed artificial intelligence
 Distributed computing
-Distributed system
 Document management system
 Doi (identifier)
-Domain-Specific Modeling
 Domain-specific language
-Domain-specific modeling
 E-commerce
-EAST-ADL
 EXPRESS (data modeling language)
 Educational technology
 Electronic design automation
 Electronic publishing
 Electronic voting
 Embedded system
-Empirical software engineering
-Energy Systems Language
 Enterprise architecture
 Enterprise information system
 Enterprise software
-Enterprise unified process
-Entity–relationship model
 Essential systems analysis
-Executable UML
-Experimental software engineering
-Extended Enterprise Modeling Language
-Extreme programming
-FICO Xpress
-Face Modeling Language
 Flowchart
 Form factor (design)
 Formal language
 Formal methods
-Formal specification
-Forward compatibility
-Framework-specific modeling language
-Function model
-Functional specification
-Fundamental Modeling Concepts
-Gekko (optimization software)
-Gellish English
-General-purpose modeling
-General Algebraic Modeling System
-Generative Modelling Language
 Geographic information system
 Graphics processing unit
 Green computing
 Hardware acceleration
-Hardware description language
 Hardware security
 Health informatics
 Higher-order logic
 Human–computer interaction
-IDEF
-IDEF0
-IDEF1X
-IDEF3
-IDEF4
-IDEF5
 IEC 61499
 ISBN (identifier)
-ISO/IEC 15504
 Image compression
 Incremental build model
 Information
 Information management
-Information model
 Information retrieval
 Information science
 Information security
@@ -167,38 +105,20 @@ Interaction design
 Interpreter (computing)
 Intrusion detection system
 Iterative and incremental development
-JSON-LD
-Jackson Structured Programming
 Java (programming language)
-Java Modeling Language
-John Krogstie
-Knowledge
 Knowledge representation and reasoning
-Knowledge representation language
-Lepus3
 Library (computing)
-Lifecycle Modeling Language
 Linked data
 List of computer size categories
-List of programming languages by type
 Logic in computer science
 Machine learning
-Markup language
 Mathematical analysis
 Mathematical optimization
 Mathematical software
 Metadata
-Metamodeling
 Middleware
-MiniZinc
 Mixed reality
-Model-based testing
-Model-driven architecture
-Model-driven engineering
 Model of computation
-Model transformation
-Modeling languages
-Modeling perspective
 Multi-task learning
 Multimedia database
 Multiprocessing
@@ -213,30 +133,18 @@ Network security
 Network service
 Networking hardware
 Numerical analysis
-OPL Development Studio
-Object-Role Modeling
-Object-oriented
 Object-oriented programming
-Object model
-Object modeling language
-Ontology (information science)
 Ontology engineering
-Ontology language
 Open-source software
 Operating system
 Operations research
-OptimJ
 Outline of computer science
 Parallel computing
 Peripheral
-Petri net
 Philosophy of artificial intelligence
 Photograph manipulation
 Printed circuit board
 Probability
-Process Modeling
-Process algebra
-Process calculus
 Process control
 Processor (computing)
 Programming language
@@ -245,15 +153,9 @@ Programming paradigm
 Programming team
 Programming tool
 Project management
-Project stakeholder
-Promela
-Pseudocode
 Quantum Computing
-Query language
 Randomized algorithm
-Rapid application development
 Real-time computing
-Rebeca Modeling Language
 Reinforcement learning
 Rendering (computer graphics)
 Requirements analysis
@@ -262,25 +164,14 @@ Resource Description Framework
 Risk management
 Round-trip engineering
 S2CID (identifier)
-SEQUAL framework
-Scientific modelling
-Scrum (software development)
-Search-based software engineering
 Security hacker
 Security service (telecommunication)
 Semantics (computer science)
-Service-oriented architecture
-Service-oriented modeling
-Service Modeling Language
-Shading language
 Simulation
-Site reliability engineering
 Social computing
 Social software
-Social software engineering
 Software
 Software archaeology
-Software architecture
 Software configuration management
 Software construction
 Software deployment
@@ -289,60 +180,32 @@ Software development
 Software development process
 Software engineering
 Software framework
-Software incompatibility
 Software maintenance
-Software prototyping
 Software quality
 Software quality assurance
 Software repository
-Software system
 Software testing
-Software verification and validation
 Solid modeling
-Southbeach Notation
-Specification and Description Language
-Specification language
-Spiral model
 Statistics
 Stochastic computing
-Structure
-Structured analysis
-Style sheet language
 Supervised learning
-Syntax
-SysML
 System
-System lifecycle
 System on a chip
 Systems analysis
-Systems architecture
-Systems development life cycle
 Systems engineering
-Systems modeling
-Systems modeling language
-Technical Drawing
 Theoretical computer science
 Theory of computation
-Transformation language
 Ubiquitous computing
 Unified Modeling Language
-Unified Process
-Universal Systems Language
 Unsupervised learning
-V-model (software development)
 VRML
 Verification and validation
 Very Large Scale Integration
 Video game
-View model
 Virtual machine
 Virtual reality
-Visual language
-Visual modeling
-Visual programming language
 Visualization (graphics)
 Waterfall model
-Web Services Modeling Language
 Word processor
 World Wide Web
 X3D

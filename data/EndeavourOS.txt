@@ -1,8 +1,6 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
 ARMv7
-ARMv8
 AlmaLinux
 Alpine Linux
 Android-x86
@@ -26,10 +24,8 @@ BlackArch
 Black Lab Linux
 BlankOn Linux
 Bodhi Linux
-Budgie (desktop environment)
 CHAOS (operating system)
 CRUX
-Calamares (software)
 Calculate Linux
 Caldera OpenLinux
 CalyxOS
@@ -39,7 +35,6 @@ Chakra (operating system)
 Chimera Linux
 ChromeOS
 ChromiumOS
-Cinnamon (desktop environment)
 ClearOS
 Clear Linux OS
 ColorOS
@@ -56,9 +51,7 @@ Damn Vulnerable Linux
 Debian
 Deepin
 DemoLinux
-Desktop environment
 Devuan
-DistroWatch
 DivestOS
 DoudouLinux
 Dreamlinux
@@ -79,7 +72,6 @@ Foresight Linux
 FreedomBox
 Freespire
 Frugalware Linux
-GNOME
 GNU Guix System
 GNewSense
 GOS (operating system)
@@ -91,13 +83,9 @@ Gobuntu
 GrapheneOS
 Graphical user interface
 HandyLinux
-Hyperbola GNU/Linux-libre
-I3 (window manager)
 Immunix
 IodéOS
 Jurix
-KDE Plasma 5
-KDE Plasma 6
 KDE neon
 KaOS
 KaiOS
@@ -111,9 +99,7 @@ Kongoni (operating system)
 Korora (operating system)
 Kubuntu
 Kwort Linux
-LXDE
 LXLE Linux
-LXQt
 Libranet
 LinHES
 LineageOS
@@ -129,7 +115,6 @@ Linux for PlayStation 2
 Linux kernel
 List of Linux distributions
 Lubuntu
-MATE (desktop environment)
 MCC Interim Linux
 MIUI
 MX Linux
@@ -142,7 +127,6 @@ Mer (software distribution)
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Musix GNU+Linux
 Network Security Toolkit
 NimbleX
 Nitix
@@ -156,13 +140,9 @@ OpenELEC
 OpenMandriva Lx
 OpenSUSE
 Open Enterprise Server
-Openbox
-Optical disc image
 Oracle Linux
 PCLinuxOS
 Package manager
-Pacman (package manager)
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
@@ -189,7 +169,6 @@ Replicant (operating system)
 Resurrection Remix OS
 Rocks Cluster Distribution
 Rocky Linux
-Rolling release
 SUSE Linux
 SUSE Linux Enterprise
 SUSE Studio
@@ -209,9 +188,7 @@ SparkyLinux
 Splashtop OS
 SteamOS
 Sunwah Linux
-Sway (window manager)
 SystemRescue
-System installer
 T2 SDE
 Tails (operating system)
 Think Blue Linux
@@ -232,19 +209,13 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 User interface
 VectorLinux
 Vine Linux
 Void Linux
-Wayland (protocol)
 Whonix
-Window manager
 Wubuntu
-X86-64
 XB Machine
-Xfce
 Xubuntu
 Yellow Dog Linux
 Zenwalk

@@ -1,90 +1,41 @@
-Algebraic extension
 Binomial (polynomial)
 Bivariate polynomial
-Bézout's identity
-Chinese remainder theorem
-Coefficients
 Computer algebra
-Computer algebra system
 Constant function
-Content (algebra)
 Cubic equation
 Cubic function
 Degree of a polynomial
 Discriminant
-Donald E. Knuth
-Euclid's algorithm
-Euclidean algorithm
-Euclidean division
-Euclidean domain
 Factorization
 Factorization of polynomials
 Field (mathematics)
-Field of fractions
 Finite field
-Finite ring
-Finitely generated field extension
-Floating-point numbers
-Formal derivative
-Gauss's lemma (polynomial)
-Greatest common divisor
 Gröbner basis
-Hadamard inequality
 Homogeneous polynomial
 Horner's method
 ISBN (identifier)
 Identity matrix
 Integer
-Integral domain
 Irreducible polynomial
-James H. Davenport
 Linear equation
 Linear function (calculus)
-List of polynomial topics
-Modular arithmetic
-Monic polynomial
 Monomial
-Multiple root
-Multiplicity (mathematics)
-Multivariate division algorithm
 Multivariate polynomial
-Numerically stable
 Polynomial
-Polynomial factorization
-Polynomial function
 Polynomial identity testing
 Polynomial long division
-Polynomial resultant
-Principal ideal domain
 Quadratic equation
 Quadratic function
 Quartic equation
 Quartic function
 Quasi-homogeneous polynomial
 Quintic function
-Rational number
-Rational reconstruction (mathematics)
 Real number
 Recursion
-Resultant
-Root-finding algorithm
-Root of a function
 Septic equation
 Sextic equation
 Singular value decomposition
 Springer Science+Business Media
-Square-free factorization
 Square-free polynomial
-Sturm's theorem
-Sturm sequence
-Subresultant
-Sylvester matrix
-Symbolic computation
-Total order
 Trinomial
-Unique factorization domain
-Unit (ring theory)
-Univariate
-Univariate polynomial
 Up to
-Zero polynomial

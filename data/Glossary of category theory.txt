@@ -1,349 +1,36 @@
-(infinity,1)-category
-(∞, n)-category
-2-category
-2-functor
-2-group
-2-ring
-3-category
-Abelian category
 Abelian group
-Accessible category
-Accessible object
 Addition
-Additive category
-Adjoint functor
-Adjoint functors
-Alexandre Grothendieck
-Algebra for a monad
-Algebraic category
-André Joyal
 ArXiv (identifier)
 Associative algebra
 Axiom of choice
-Balanced category
-Barry Mazur
-Beck's monadicity theorem
 Bibcode (identifier)
-Bicategory
-Bifunctor
-Bimorphism
-Bousfield localization
-Calculus of functors
 Cambridge University Press
-Cardinal number
-Cartesian closed category
-Cartesian morphism
-Cartesian square
-Categorical logic
-Categorical probability
-Categories for the Working Mathematician
-Categorification
 Category (mathematics)
-Category enriched
-Category of abelian groups
-Category of categories
-Category of groups
-Category of magmas
-Category of metric spaces
-Category of modules
-Category of relations
-Category of rings
 Category of sets
-Category of topological spaces
-Category of vector spaces
 Category theory
-Classifying space of a category
-Codensity monad
-Coequalizer
-Cofibration
-Coherence theorem
-Coherent category
-Coherent isomorphism
-Coherent topos
-Cohesive category
-Coimage
-Cokernel
-Colimit
-Colored operad
-Combinatorial species
-Comma category
-Commutative diagram
 Commutative ring
-Comonad
-Comonoid
-Complete category
-Composition series
-Computad
 Concrete category
-Cone (category theory)
-Conglomerate (mathematics)
-Connected category
-Conservative functor
-Constant functor
-Contractible space
-Contravariant functor
-Coproduct
-Core (category theory)
-Day convolution
-Deligne's completeness theorem
-Dendroidal set
-Density theorem (category theory)
-Derived algebraic geometry
-Derived category
 Determinant
-Diagonal functor
-Diagram (category theory)
-Differential graded category
-Differential graded module
-Direct limit
-Direct system
-Discrete category
 Doi (identifier)
-Dwyer–Kan equivalence
-Eilenberg–Moore category
-Eilenberg–Steenrod axioms
-Elementary Theory of the Category of Sets
-Empty category (category theory)
 Empty set
-En-ring
-End (category theory)
-Enriched category
-Epimorphism
-Equaliser (mathematics)
-Equalizer (mathematics)
-Equivalence of categories
-Essentially surjective
-Evaluation (category theory)
-Exact category
-Exact functor
-Exact sequence
-Exponential object
-Faithful functor
-Fiber product
-Fibered category
-Fibrant object
-Filtered category
-Finitary monad
-Flat topology
-Forgetful functor
-Free category
-Free cocompletion
-Free completion
-Free functor
-Free module
-Free product
-Free vector space
-Frobenius category
-Fukaya category
-Full functor
-Full subcategory
 Function (mathematics)
-Functor
-Functor category
-Fundamental category functor
-Fundamental groupoid
-Gabriel–Popescu theorem
-Galois category
 Galois theory
-Generalized metric space
-Generator (category theory)
-Glossary of algebraic topology
 Graduate Texts in Mathematics
-Gray category
-Gray tensor product
-Gros topos
-Grothendieck's Galois theory
-Grothendieck category
-Grothendieck construction
-Grothendieck fibration
-Grothendieck topology
 Grothendieck universe
-Group action (mathematics)
-Groupoid
-Heart (category theory)
-Higher-dimensional algebra
-Higher Topos Theory
 Higher category theory
-History of topos theory
-Hom-set
-Homological dimension
-Homotopy category
-Homotopy hypothesis
 ISBN (identifier)
-Idempotent (category theory)
-Identity functor
-Identity morphism
-Identity natural transformation
-Image of a morphism
-Inductive limit
-Initial and terminal objects
-Initial object
 Injective function
-Injective object
-Internal Hom
-Inverse function
-Inverse limit
-Inverse system
-Isbell completion
-Isbell conjugacy
-Isbell duality
-Isbell envelop
-Isomorphic
 Isomorphism
-Jacob Lurie
-Jacobson density theorem
-Jean-Louis Verdier
-Jean Giraud
-Kan complex
-Kan extension
-Kan fibration
-Ken Brown's lemma
-Kernel (category theory)
-Kleisli category
-Lax functor
-Limit (category theory)
-Localization of a category
-Locally presentable category
-MR (identifier)
-Mapping object
-Masaki Kashiwara
 Mathematical logic
 Mathematics
-Michael Artin
-Mittag-Leffler condition
-Model category
 Module (mathematics)
-Monad (category theory)
-Monadic adjunction
-Monadic functor
-Monoid action
-Monoid object
-Monoidal category
-Monomorphism
-Morphism
-Multicategory
-N-category
-N-group (category theory)
-N-monoid
 Natural isomorphism
-Natural transformation
-Nerve functor
-Nerve of a category
-Normal category
-Op-fibration
-Opposite category
-Outline of category theory
-PROP (category theory)
-Partially ordered set
-Perfect complex
-Pierre Schapira (mathematician)
-Polygraph (mathematics)
-Polynomial functor
 Power set
-Pre-abelian category
-Preadditive category
-Presentabl category
-Presheaf (category theory)
-Prestack
-Product (category theory)
-Product category
-Product of categories
-Profunctor
-Projective limit
-Projective object
-Proper class
-Pseudo-functor
-Pseudoalgebra
-Pullback (category theory)
-Pushout (category theory)
-Q-category
-Quasi-abelian category
-Quasi-category
-Quasitopos
-Quillen’s theorem A
-Quotient category
-Regular cardinal
-Regular category
-Representable functor
-Rig category
-Ringel–Hall algebra
-SGA 1
-Saunders Mac Lane
-Schur functor
-Section (category theory)
-Segal condition
-Segal space
-Semi-abelian category
-Semisimple category
-Semisimple ring
-Serre functor
-Serre quotient category
 Set (mathematics)
-Simple module
-Simplex category
-Simplicial localization
-Simplicial object
-Simplicial presheaf
-Simplicial set
-Simpson's semi-strictification conjecture
 Singleton (mathematics)
-Skeleton (category theory)
-Slice category
-Small category
-Small object
-Small object argument
-Springer-Verlag
 Springer Science+Business Media
-Stable ∞-category
-Stacks project
-Steve Awodey
-Strict 2-category
-Strict morphism
-Strict n-category
-Strictification
-String diagram
-Strongly inaccessible cardinal
-Subcanonical
-Subcategory
-Subdivision category
-Subobject
-Subquotient
-Subterminal object
-Symmetric group
-Symmetric monoidal category
-Symmetric sequence
-T-structure
-Tannakian duality
-Taylor series
-Tensor product of modules
-Tensor triangulated category
-Terminal object
-Tetracategory
-Thick subcategory
-Thin category
-Tiny object
-Topological topos
 Topos
 Traced monoidal category
-Triangulated category
-Tricategory
-Trivial group
-Universal construction
-Universal morphism
-Universal property
-Waldhausen category
 Wayback Machine
-Weak n-category
-William Lawvere
-Yoneda embedding
-Yoneda extension
-Yoneda lemma
-Zbl (identifier)
-Zero
-Zero object
-Γ-object
-Γ (category theory)
-∞-categories
-∞-category
 ∞-groupoid
 ∞-topos

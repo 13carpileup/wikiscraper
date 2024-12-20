@@ -1,423 +1,63 @@
-100BaseVG
-10BASE5
-16-bit computing
-32-bit computing
 4-bit computing
 64-bit computing
-78K
-8-bit computing
-802.3a
-802.3ab
-802.3ac
-802.3ad
-802.3ae
-802.3af
-802.3ah
-802.3ak
-802.3an
-802.3aq
-802.3at
-802.3au
-802.3av
-802.3az
-802.3b
-802.3ba
-802.3bt
-802.3bu
-802.3by
-802.3bz
-802.3ca
-802.3cb
-802.3cc
-802.3cd
-802.3ce
-802.3cg
-802.3ch
-802.3ck
-802.3cm
-802.3cn
-802.3cp
-802.3cq
-802.3cr
-802.3cs
-802.3ct
-802.3cu
-802.3cv
-802.3cw
-802.3cx
-802.3cy
-802.3cz
-802.3d
-802.3da
-802.3db
-802.3dd
-802.3de
-802.3df
-802.3e
-802.3i
-802.3j
-802.3u
-802.3y
-802.3z
-80486
-ADSL modem
-AMD Am2900
-AMD Am29000
-ARC (processor)
-ARM11
-ARM7
-ARM9
-ARM Cortex-M
-ARM Cortex-R
-ARM architecture
-ARM architecture family
-ASIC
-AVR32
-AVR microcontrollers
-Acceptance testing
-Advanced Library Format
 Advanced Microcontroller Bus Architecture
-Altera
-Atmel
-Atmel ARM-based processors
-Atmel AVR
-Audio Video Bridging
-Automated optical inspection
-Automated x-ray inspection
 BIOS
-Ball grid array
-Bed of nails tester
-Bit banging
 Bluetooth
 Booting
-Bootloader
-Boundary scan
-Boundary scan description language
-Built-in self-test
-C166 family
-COP400
-COP8
-CPLD
 CPU
-Cable modem
 Central processing unit
-Circuit board
-CompactRISC
-Complex programmable logic device
-Concept of operations
-CoreSight
 DNP3
-Daisy chain (electrical engineering)
-Data center bridging
-Debug
-DebugWIRE
-Debug port
-Debugging
-Design For Test
-Diagnosis
-Distributed Interactive Simulation
-DySPAN
-EFM32
 Eclipse (software)
 Electronic design automation
 Electronics
 Embedded system
 Embedded systems
 Ethernet
-FPGA
-FR-V (microprocessor)
-Firewall (computing)
-Firmware
-Flash memory
-Freescale
-Freescale 68HC12
-Freescale 68HC16
-Freescale RS08
-Freescale S08
-Fujitsu FR
-Futurebus
-GDB
 GNU Compiler Collection
-Galvanic isolation
-General Purpose Input/Output
-H8 Family
-High-level architecture
 Homebrew (video games)
-I.MX31
 IEEE
-IEEE-488
-IEEE 1164
-IEEE 1219
-IEEE 1284
-IEEE 1355
-IEEE 1394
-IEEE 1451
-IEEE 1471
-IEEE 1541-2002
-IEEE 1547
-IEEE 1584
-IEEE 1613
-IEEE 1619
-IEEE 1667
-IEEE 1675-2008
-IEEE 1722
-IEEE 1733
-IEEE 1849
-IEEE 1855
-IEEE 1901
-IEEE 1905
 IEEE 2030
-IEEE 693
 IEEE 754
-IEEE 754-1985
-IEEE 754-2008 revision
 IEEE 802
-IEEE 802.1
-IEEE 802.10
-IEEE 802.11
-IEEE 802.11-1997
-IEEE 802.11 (legacy mode)
-IEEE 802.11a-1999
-IEEE 802.11ac
-IEEE 802.11ad
-IEEE 802.11af
-IEEE 802.11ah
-IEEE 802.11ai
-IEEE 802.11aj
-IEEE 802.11ax
-IEEE 802.11ay
 IEEE 802.11b-1999
-IEEE 802.11bb
-IEEE 802.11be
-IEEE 802.11bn
-IEEE 802.11c
-IEEE 802.11d-2001
 IEEE 802.11e-2005
-IEEE 802.11g-2003
-IEEE 802.11h-2003
 IEEE 802.11i-2004
-IEEE 802.11j-2004
 IEEE 802.11k-2008
-IEEE 802.11n-2009
-IEEE 802.11p
 IEEE 802.11r-2008
-IEEE 802.11s
 IEEE 802.11u
-IEEE 802.11v
 IEEE 802.11w-2009
 IEEE 802.11y-2008
-IEEE 802.11z
-IEEE 802.15
-IEEE 802.15.1
-IEEE 802.15.2
-IEEE 802.15.3
 IEEE 802.15.4
 IEEE 802.15.4a
-IEEE 802.15.4b
-IEEE 802.15.4c
-IEEE 802.15.4d
-IEEE 802.15.4e
-IEEE 802.15.4f
-IEEE 802.15.4g
-IEEE 802.15.4z
-IEEE 802.15.5
-IEEE 802.15.6
-IEEE 802.15.7
-IEEE 802.16
-IEEE 802.18
-IEEE 802.1AE
-IEEE 802.1AS
-IEEE 802.1D
-IEEE 802.1Q
-IEEE 802.1Qav
-IEEE 802.1Qbb
-IEEE 802.1X
 IEEE 802.1ad
-IEEE 802.1ag
-IEEE 802.1ah-2008
-IEEE 802.1aq
-IEEE 802.2
 IEEE 802.20
-IEEE 802.21
-IEEE 802.22
-IEEE 802.24
 IEEE 802.3
-IEEE 802.3x
-IEEE 802.6
-IEEE 802.7
-IEEE 802.8
-IEEE 802.9
 IEEE 854-1987
-IEEE P1363
-IEEE P1619
 IEEE P1906.1
-IEEE P802.1p
-IEEE Standards Association
-INT3
 IP-XACT
-ISO/IEC 12207
-ISO/IEC 42010
-ISO/IEEE 11073
 In-circuit emulation
-In-circuit emulator
-In-circuit test
-In-system programming
-In-target probe
-Infineon
-Infineon TriCore
-Infineon XMC
 Institute of Electrical and Electronics Engineers
 Integrated circuit
-Integrated receiver/decoder
 Intel
-Intel 80186
-Intel 8051
-Intel MCS-48
-Intel microprocessor
-Inter-Access Point Protocol
-JEDEC
-Link Aggregation Control Protocol
-Link Layer Discovery Protocol
-Link aggregation
-List of Freescale products
-List of Wi-Fi microcontrollers
-List of applications of ARM cores
-List of common microcontrollers
-List of microprocessors
 Logic analyzer
-Logic simulation
-M32R
-MICTOR
-MIPI Debug Architecture
-MIPS Technologies
 MIPS architecture
-MN103
-MOS Technology 6502
-MPC5xx
-Micro T-Kernel
 Microarchitecture
 Microcontroller
-Mitsubishi 740
-Motorola 6800
-Motorola 68000
-Motorola 68000 series
-Motorola 68HC05
-Motorola 68HC08
-Motorola 68HC11
-Multiple Registration Protocol
-NXP ColdFire
-NXP LPC
-Netgear
-Nexus (standard)
 Non-disclosure agreement
-OMAP
-Open Firmware
-PCI Express
-PIC microcontroller
-PIC microcontrollers
-PILOT
-Parallax Propeller
-Parallel port
-Peripheral Component Interconnect
-Pin header
-PowerPC
-Precision Time Protocol
 Printed circuit board
-Programmable logic controller
-Programmer (hardware)
 Project management
-Property Specification Language
-Prototyping
-Provider Backbone Bridge Traffic Engineering
-R8C
-RISC-V
-RL78
-RX microcontroller family
-Rabbit 2000
-Renesas Electronics
 Requirements engineering
-Resilient Packet Ring
 Reverse engineering
 Risk management
-Rockwell PPS-4
-Rosetta-lang
-RuBee
-S1C6x
-ST6 and ST7
-STM32
-STM8
-Satellite television
-Scalable Coherent Interface
-Serial Peripheral Interface Bus
-Serial Vector Format
-Serial Wire Debug
-Serial communication
-Serial communications
 Serial port
-Service Interoperability in Ethernet Passive Optical Networks
-Single-board microcontroller
-Single UNIX Specification
 Software configuration management
-Software design description
 Software maintenance
 Software quality assurance
-Software requirements specification
-Software test documentation
-Solder
-Spanning Tree Protocol
-Special function register
-Spy-Bi-Wire
-Standard Delay Format
-Standard Test and Programming Language
-Star topology
-State machine
-Stateful protocol
-Stream Reservation Protocol
-SuperH
 SystemC
-SystemVerilog
-TI MSP430
-Tcl
-Technical standard
-Tensilica
-Test case
-Test probe
-Texas Instruments
-Texas Instruments OMAP
-Texas Instruments TMS1000
-Texas Instruments TMS320
-Token Ring
 Token bus network
-Toshiba TLCS
-Tracing (software)
-UART
 USB
-Unified Power Format
-Universal Power Adapter for Mobile Devices
-V850
 VHDL
-VMEbus
-Verilog
-WDC 65C134
-WDC 65C265
-WDC 65C816
 Wayback Machine
-Wi-Fi
-Wi-Fi 4
-Wi-Fi 5
-Wi-Fi 6
-Wi-Fi 7
-Wi-Fi 8
-WiGig
-WiMAX
 Word (computer architecture)
 X86
-XC800 family
-Xilinx
-Zigbee
-Zilog Z8
 Zilog Z80
-Zilog Z8000
-Zilog Z80000
-Zilog eZ80
-ΜCOM-4

@@ -1,30 +1,20 @@
-4000 series
 AND gate
-ANSI
 Boolean algebra
 Boolean function
-CMOS
 Complement (set theory)
 Contradiction
 Converse (logic)
 Converse nonimplication
 DIN
-Datasheet
 De Morgan's laws
-Depletion-load NMOS logic
 Digital buffer
-Digital electronics
-Dual in-line package
 Exclusive or
-Extrinsic semiconductor
 False (logic)
-Flash memory
 Functional completeness
 IMPLY gate
 Integrated circuit
 International Electrotechnical Commission
 Inverter (logic gate)
-Logic family
 Logic gate
 Logical NOR
 Logical biconditional
@@ -35,20 +25,11 @@ Logical equivalence
 Logical truth
 Material conditional
 Material nonimplication
-NAND logic
 NIMPLY gate
-NOR Gate
 NOR gate
-NOR logic
 Negation
 OR gate
-Pull-up resistor
 Sheffer stroke
-Small Outline Integrated Circuit
 Statement (logic)
 Tautology (logic)
-Transistors
-Transistor–transistor logic
 Truth table
-XNOR gate
-XOR gate

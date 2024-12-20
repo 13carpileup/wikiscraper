@@ -23,20 +23,15 @@ Algerian Braille
 American Braille
 American Printing House for the Blind
 Ampersand
-Amstrad CP/M Plus character set
 Amstrad CPC character set
-Apache OpenOffice
 Apostrophe
 Apple II character set
-Apple Pages
 Arabic Braille
 Arabic script
 ArmSCII
 Armenian Braille
 Asterisk
-At sign
 Atari ST character set
-Azeri Braille
 B
 BCD (character encoding)
 Backslash
@@ -53,8 +48,6 @@ Braigo
 Braille
 Braille Institute of America
 Braille Patterns
-Braille Patterns (Unicode)
-Braille Unicode block
 Braille Without Borders
 Braille e-book
 Braille embosser
@@ -80,10 +73,8 @@ CWI-2
 Canadian currency tactile feature
 Cantonese Braille
 Caret
-Carriage Return
 Casio calculator character sets
 Catalan Braille
-Character (computing)
 Character encoding
 Character encodings in HTML
 Character set
@@ -107,17 +98,10 @@ Code page 1019
 Code page 1020
 Code page 1021
 Code page 1023
-Code page 1034
 Code page 1040
 Code page 1042
 Code page 1043
-Code page 1044
 Code page 1046
-Code page 1052
-Code page 1053
-Code page 1054
-Code page 1055
-Code page 1056
 Code page 1058
 Code page 1098
 Code page 1101
@@ -156,7 +140,6 @@ Code page 853
 Code page 855
 Code page 856
 Code page 857
-Code page 858
 Code page 859
 Code page 860
 Code page 861
@@ -173,7 +156,6 @@ Code page 896
 Code page 897
 Code page 899
 Code page 903
-Code page 904
 Code page 912
 Code page 915
 Code page 921
@@ -227,7 +209,6 @@ F
 FOCAL character set
 Faroese Braille
 Fieldata
-Form Feed
 French Braille
 Full stop
 G
@@ -241,7 +222,6 @@ GOST 10859
 GSM 03.38
 Galaksija (computer)
 Gardner–Salinas braille codes
-Ge'ez Braille
 Georgian Braille
 German Braille
 Ghanaian braille
@@ -257,13 +237,10 @@ Hardware code page
 Harris Mowbray
 Hawaiian Braille
 Hebrew Braille
-Hexadecimal
 Hong Kong Supplementary Character Set
 Hungarian Braille
-Hyphen
 I
 IBM AIX
-IEC-P27-1
 INIS-8
 INIS character set
 IPA Braille
@@ -273,26 +250,6 @@ ISO-IR-182
 ISO-IR-197
 ISO-IR-200
 ISO-IR-68
-ISO/IEC 10367
-ISO/IEC 2022
-ISO/IEC 646
-ISO/IEC 8859
-ISO/IEC 8859-1
-ISO/IEC 8859-10
-ISO/IEC 8859-11
-ISO/IEC 8859-12
-ISO/IEC 8859-13
-ISO/IEC 8859-14
-ISO/IEC 8859-15
-ISO/IEC 8859-16
-ISO/IEC 8859-2
-ISO/IEC 8859-3
-ISO/IEC 8859-4
-ISO/IEC 8859-5
-ISO/IEC 8859-6
-ISO/IEC 8859-7
-ISO/IEC 8859-8
-ISO/IEC 8859-9
 ISO 2033
 ISO 5426
 ISO 5427
@@ -302,7 +259,6 @@ ISO 6862
 ITU T.61
 Icelandic Braille
 Indian Script Code for Information Interchange
-Intecolor/Compucolor 8001 character set
 International uniformity of braille alphabets
 Inuktitut Braille
 Iran System encoding
@@ -339,13 +295,10 @@ LST 1590-4
 LY1 encoding
 Latvian Braille
 Less-than sign
-Line Feed
-List of binary codes
 Lithuanian Braille
 Lotus International Character Set
 Lotus Multi-Byte Character Set
 Louis Braille
-Lower-case
 Luxembourgish Braille
 M
 MARC-8
@@ -369,7 +322,6 @@ Mac OS Hebrew
 Mac OS Icelandic encoding
 Mac OS Inuit
 Mac OS Keyboard encoding
-Mac OS Maltese/Esperanto encoding
 Mac OS Ogham
 Mac OS Roman
 Mac OS Romanian encoding
@@ -381,11 +333,9 @@ Macintosh Font X encoding
 Macintosh Latin encoding
 Magnetic ink character recognition
 Mainland Chinese Braille
-Majuscule
 Malayalam Braille
 Maltese Braille
 Mazovia encoding
-Microsoft Word
 Mojibake
 Mojikyō
 Mongolian Braille
@@ -421,12 +371,10 @@ Perkins Brailler
 Persian Braille
 Perso-Arabic Script Code for Information Interchange
 Philippine Braille
-Plus sign
 Polish Braille
 Portuguese Braille
 PostScript Latin 1 Encoding
 PostScript Standard Encoding
-Printable character
 Prosigns for Morse code
 Punjabi Braille
 Q
@@ -442,13 +390,11 @@ Russian Braille
 Russian Morse code
 Róża Czacka
 S
-SAM Coupé character set
 SI 960
 SQUOZE
 Sabriye Tenberken
 Samoan Braille
 Scandinavian Braille
-Screen reader
 Sega SC-3000 character set
 Semicolon
 Sharp MZ character set
@@ -463,12 +409,9 @@ South African braille
 Space (punctuation)
 Spanish Braille
 Standard Compression Scheme for Unicode
-Stanford/ITS character set
 Stanford Extended ASCII
-String literal
 Symbol (typeface)
 T
-T.51/ISO/IEC 6937
 TI calculator character sets
 TRON (encoding)
 TRS-80 character set
@@ -486,12 +429,7 @@ Teletext character set
 Telugu Braille
 Thai Industrial Standard 620-2533
 Thai and Lao Braille
-Thakur Vishva Narain Singh
-Tibetan Braille
 Transcode (character encoding)
-Turkish Braille
-Two-cell Chinese Braille
-Typeface
 U
 UTF-1
 UTF-16

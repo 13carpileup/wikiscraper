@@ -1,90 +1,41 @@
-ANXA2
 ATC code L01
-AUNP12
-Abagovomab
 Abdominal pain
 Abemaciclib
-Abituzumab
-Abrilumab
 Acalabrutinib
 Acute kidney injury
 Adagrasib
-Adalimumab
-Adecatumumab
-Adipotide
-Adrenal insufficiency
 Adverse effect
 Afatinib
-Afelimomab
 Aflibercept
 Alectinib
 Alemtuzumab
-Alkaline phosphatase
 Alpelisib
-Amatuximab
 American Society of Health-System Pharmacists
 Amivantamab
 Anaplastic lymphoma kinase
 Anatomical Therapeutic Chemical Classification System
-Anatumomab mafenatox
-Andecaliximab
 Anemia
-Anifrolumab
-Anrukinzumab
-Anti-cancer medication
-Antigen
 Antineoplastic
-Apolizumab
 Asciminib
-Ascites
-Ascrinvacumab
-Aselizumab
-Asthenia
 Atezolizumab
-Atezolizumab/hyaluronidase
-Atorolimumab
 Aumolertinib
 Avapritinib
-Avdoralimab
 Avelumab
 Axatilimab
 Axitinib
-BMS-202
-BMS-986189
 BRAF (gene)
-Balstilimab
 Baricitinib
-Basal-cell carcinoma
-Basiliximab
-Bavituximab
-Bcr-abl fusion protein
-Bectumomab
 Belantamab mafodotin
-Belimumab
-Benralizumab
 Bermekimab
-Bertilimumab
-Besilesomab
 Bevacizumab
-Bimekizumab
 Binimetinib
-Bivatuzumab mertansine
-Bleselumab
 Blinatumomab
 Bosutinib
-Botensilimab
-Brazikumab
 Breast cancer
 Brentuximab vedotin
-Briakinumab
 Brigatinib
-Brodalumab
-Brontictuzumab
 Bruton's tyrosine kinase
-C-Met
-CA-170
 CAS Registry Number
-CD117
 CD135
 CD20
 CD30
@@ -93,408 +44,83 @@ CD3 (immunology)
 CD52
 CDK inhibitor
 Cabozantinib
-Camidanlumab tesirine
-Camrelizumab
-Canakinumab
 Cancer immunotherapy
-Cantuzumab mertansine
-Cantuzumab ravtansine
 Capmatinib
 Carboplatin
 Carcinoma
-Carlumab
-Carotuximab
 Catumaxomab
-Cedelizumab
 Cediranib
 Cemiplimab
 Ceritinib
-Certolizumab pegol
 Cetuximab
 Chemical formula
-Chimeric antibody
-Cirmtuzumab
 Cisplatin
-Citatuzumab bogatox
-Cixutumumab
-Clazakizumab
-Clenoliximab
-ClinicalTrials.gov
-Clinical trial
 Cobimetinib
-Cofetuzumab pelidotin
-Colitis
 Colorectal cancer
-Committee for Medicinal Products for Human Use
-Complementarity-determining region
-Conatumumab
 Copanlisib
 Cosibelimab
-Crizanlizumab
 Crizotinib
 Cyst
-DNA mismatch repair
 Dabrafenib
-Dacetuzumab
-Daclizumab
 Dacomitinib
 DailyMed
-Dalotuzumab
 Dalpiciclib
 Daratumumab
 Dasatinib
-Demcizumab
 Denileukin diftitox
-Denintuzumab mafodotin
-Depatuxizumab mafodotin
-Dermatology
-Detumomab
-Dinutuximab
-Dinutuximab beta
 Doi (identifier)
-Dostarlimab (data page)
-Drozitumab
-DrugBank
-Drug class
-Drug nomenclature
-Drugs.com
-Duligotumab
-Dupilumab
 Durvalumab
-Dusigitumab
 Duvelisib
-Duvortuxizumab
 EML4
-Ecromeximab
-Eculizumab
 Edrecolomab
-Efalizumab
-Eldelumab
 Elotuzumab
 Elranatamab
-Elsilimomab
-Emactuzumab
-Emapalumab
-Emibetuzumab
 Encorafenib
-Endocrine disease
-Endometrial cancer
 Enfortumab vedotin
-Enoblituzumab
-Enoticumab
-Ensituximab
 Entrectinib
-EpCAM
 Epcoritamab
 Epidermal growth factor receptor
-Epratuzumab
 ErbB
 Erdafitinib
-Erlizumab
 Erlotinib
-Ertumaxomab
-Etaracizumab
-Etrolizumab
-European Medicines Agency
 Everolimus
 Exotoxin
-Faralimomab
-Farletuzumab
-Fatigue
 Fedratinib
 Fever
-Fezakinumab
 Fibroblast growth factor receptor
-Ficlatuzumab
-Figitumumab
 Filgotinib
-Flanvotumab
-Fletikumab
-Flotetuzumab
-Fontolizumab
 Food and Drug Administration
-Fresolimumab
-Frexalimab
 Fruquintinib
 Fusion protein
 Futibatinib
-Futuximab
-Galiximab
-Ganitumab
-Gavilimomab
 Gefitinib
 Gemtuzumab ozogamicin
-Gevokizumab
 Gilteritinib
-Girentuximab
 Glasdegib
-Glembatumumab vedotin
 Glofitamab
-Golimumab
-Gomiliximab
-Guselkumab
-Gynecologic oncology
-HER2/neu
 Half-life
 Hdl (identifier)
 Hedgehog signaling pathway
-Hepatitis
-Hodgkin lymphoma
-Humanized
-Humanized antibody
-Hypophysitis
-Hypothyroidism
 ISSN (identifier)
-Ianalumab
-Ibalizumab
 Ibritumomab tiuxetan
 Ibrutinib
 Icotinib
-Icrucumab
 Idelalisib
 Imatinib
-Imgatuzumab
-Immune-mediated
 Immune system
-Immunoglobulin G
 Immunosuppression
 Inavolisib
-Indatuximab ravtansine
-Indium (111In) altumomab pentetate
-Indium (111In) capromab pendetide
-Indium (111In) igovomab
-Indium (111In) satumomab pendetide
-Inebilizumab
 Infigratinib
-Infliximab
-Inolimomab
 Inotuzumab ozogamicin
-Interleukin
 Interleukin 2
-International nonproprietary name
-Intetumumab
-Intravenous
-Iodine (131 I) derlotuximab biotin
 Ipilimumab
-Iratumumab
 Isatuximab
-Istiratumab
-Itolizumab
-Ixekizumab
 Janus kinase
-Jaundice
-KEGG
-KN035
 KRAS
-Keliximab
-Labetuzumab
-Lampalizumab
-Lanadelumab
 Lapatinib
-Larotrectinib
-Lazertinib
-Lebrikizumab
-Lemalesomab
-Lenvatinib
-Lenzilumab
-Lerdelimumab
-Lesion
-Lestaurtinib
-Letolizumab
-Leukemia
-Lexatumumab
-Lifastuzumab vedotin
-Ligelizumab
-Lilotomab
-Lintuzumab
-Lirentelimab
-Lirilumab
-List of withdrawn drugs
-Liver function tests
-Lokivetmab
-Loncastuximab tesirine
-Lorlatinib
-Lorvotuzumab mertansine
-Lucatumumab
-Lulizumab pegol
-Lumiliximab
-Lumretuzumab
-Lymphatic system
-Lymphoma
-MEN1
-MTOR inhibitor
-Mapatumumab
-Margetuximab
-Masitinib
-Maslimomab
-Matuzumab
-Mavrilimumab
 Medicaid
-MedlinePlus
-Mepolizumab
-Metelimumab
-Microsatellite instability
-Midostaurin
-Milatuzumab
-Minretumomab
-Mirikizumab
-Mirvetuximab soravtansine
-Mitogen-activated protein kinase kinase
-Mitumomab
-Mobocertinib
-Mogamulizumab
 Molar mass
-Momelotinib
-Monoclonal antibodies
-Monoclonal antibody
-Monoclonal antibody therapy
-Monotherapy
-Morolimumab
-Mosunetuzumab
-Moxetumomab pasudotox
-Myeloid
-Nacolomab tafenatox
-Namilumab
-Naptumomab estafenatox
-Narnatumab
-Natalizumab
-Naxitamab
-Necitumumab
-Neoplasm
-Nephritis
-Neratinib
-Nerelimomab
-Nesvacumab
-Nilotinib
-Nimotuzumab
-Nintedanib
-Nivolumab
-Nivolumab/relatlimab
-Non-receptor tyrosine kinase
-Non-small-cell lung carcinoma
-Obinutuzumab
-Ocaratuzumab
-Ocrelizumab
-Ocrelizumab/hyaluronidase
-Odronextamab
-Odulimomab
-Ofatumumab
-Olaratumab
-Oleclumab
-Olmutinib
-Olokizumab
-Omalizumab
-Onartuzumab
-Ontamalimab
-Ontuxizumab
-Open-label trial
-Oportuzumab monatox
-Oregovomab
-Orelabrutinib
-Osimertinib
-Otelixizumab
-Otlertuzumab
-Oxaliplatin
-Oxelumab
-Ozoralizumab
-PD-1 and PD-L1 inhibitors
-PD-L1
 PMC (identifier)
 PMID (identifier)
-PRO 140
-Paclitaxel
-Pacritinib
-Palbociclib
-Pamrevlumab
-Panitumumab
-Parsaclisib
-Parsatuzumab
-Pascolizumab
-Pateclizumab
-Patritumab
-Pazopanib
-Pembrolizumab
-Pemigatinib
-Pemtumomab
-Perakizumab
-Pertuzumab
-Pexelizumab
-Pexidartinib
-Phases of clinical research
-Pi3K inhibitor
-Pidilizumab
-Pinatuzumab vedotin
-Pirtobrutinib
-Placebo-controlled trial
-Placulumab
-Platelet-derived growth factor receptor
-Platinum-based antineoplastic
-Plozalizumab
-Pneumonitis
-Polatuzumab vedotin
-Ponatinib
-Pralsetinib
-Pregnancy category
-Prescription drug
-Priliximab
-Pritumumab
-Proapoptotic
-Programmed cell death protein 1
-Programmed death-ligand 1
-Prohibitin
-Prolgolimab
-PubChem
 Public domain
-Quilizumab
-Quizartinib
-RET proto-oncogene
-RTK class III
-Racotumomab
-Radotinib
-Radretumab
-Ramucirumab
-Ravulizumab
-Receptor tyrosine kinase
-Regorafenib
-Regulation of therapeutic goods
-Relatlimab
-Renal cell carcinoma
-Repotrectinib
-Reslizumab
-Retifanlimab
-Revumenib
-Ribociclib
-Ridaforolimus
-Rilotumumab
-Ripretinib
-Risankizumab
-Rituximab
-Robatumumab
-Rociletinib
-Rontalizumab
-Rosmantuzumab
-Route of administration
-Rovalpituzumab tesirine
-Rovelizumab
-Rozanolixizumab
-Ruplizumab
-Ruxolitinib
 S2CID (identifier)
-Sabatolimab
-Sacituzumab govitecan
-Samalizumab
-Sarcoma
-Sarilumab
-Satralizumab
-Secukinumab
-Selpercatinib
-Selumetinib
-Semaxanib
-Sepsis
-Seribantumab
-Serplulimab
-Shortness of breath
-Sibrotuzumab
-Sifalimumab
-Siltuximab
-Simtuzumab

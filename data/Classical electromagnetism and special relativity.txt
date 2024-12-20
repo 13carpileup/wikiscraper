@@ -1,52 +1,36 @@
-4-potential
 AC motor
 Albert Einstein
 Alessandro Volta
 Alfred-Marie Liénard
 Alternating current
-Ampère's Law
 Ampère's circuital law
 André-Marie Ampère
-Annus Mirabilis Papers
-Antisymmetric tensor
 Arnold Sommerfeld
-Bernhard Riemann
 Biot–Savart law
-Bivector
 Bremsstrahlung
 Capacitance
 Carl Friedrich Gauss
 Charge density
-Charge invariance
 Charles-Augustin de Coulomb
 Charles Proteus Steinmetz
 Classical electromagnetism
 Computational electromagnetics
-Constitutive relations
 Coulomb's law
-Course of Theoretical Physics
-Covariance and contravariance of vectors
 Covariant formulation of classical electromagnetism
 Current density
-Cyclic permutation
 Cyclotron radiation
-D'Alembertian
 DC motor
 Direct current
 Displacement current
 Eddy current
-Einstein notation
-Einstein summation convention
 Electret
 Electric charge
 Electric current
 Electric dipole moment
-Electric displacement
 Electric field
 Electric flux
 Electric machine
 Electric motor
-Electric permittivity
 Electric potential
 Electric potential energy
 Electric power
@@ -57,13 +41,10 @@ Electrical resistance and conductance
 Electricity
 Electrolysis
 Electromagnetic field
-Electromagnetic field tensor
 Electromagnetic four-potential
 Electromagnetic induction
-Electromagnetic potential
 Electromagnetic pulse
 Electromagnetic radiation
-Electromagnetic stress-energy tensor
 Electromagnetic stress–energy tensor
 Electromagnetic tensor
 Electromagnetism
@@ -75,11 +56,7 @@ Emil Lenz
 Emil Wiechert
 Faraday's law of induction
 Four-current
-Four-gradient
-Four-potential
-Four-vector
 Franz Ernst Neumann
-Free space
 Félix Savart
 Gauss's Law
 Gauss's law
@@ -94,14 +71,10 @@ Hendrik Lorentz
 Hermann von Helmholtz
 Hippolyte Fizeau
 History of electromagnetic theory
-History of special relativity
-Hodge dual
 Humphry Davy
 ISBN (identifier)
 Inductance
 Induction motor
-Inertial frame
-Inertial frames
 Insulator (electricity)
 J. J. Thomson
 James Clerk Maxwell
@@ -116,7 +89,6 @@ Joule heating
 Kirchhoff's circuit laws
 Larmor formula
 Lenz's law
-Levi-Civita symbol
 Linear motor
 List of electrical phenomena
 List of textbooks in electromagnetism
@@ -125,12 +97,9 @@ London equations
 Lord Kelvin
 Lorentz factor
 Lorentz force
-Lorentz transformation
-Lorenz gauge
 Magnetic circuit
 Magnetic complex reluctance
 Magnetic field
-Magnetic field strength
 Magnetic flux
 Magnetic moment
 Magnetic reluctance
@@ -140,16 +109,12 @@ Magnetism
 Magnetization
 Magnetomotive force
 Magnetostatics
-Manifestly covariant
 Mathematical descriptions of the electromagnetic field
 Maxwell's equations
 Maxwell's equations in curved spacetime
 Maxwell stress tensor
-Metric signature
 Michael Faraday
-Minkowski metric tensor
 Moving magnet and conductor problem
-Natural units
 Network analysis (electrical circuits)
 Nikola Tesla
 Ohm's law
@@ -161,27 +126,19 @@ Permeance
 Permittivity
 Polarization density
 Poynting vector
-Raising and lowering indices
 Relativistic electromagnetism
 Resonator
-Ricci calculus
 Right-hand rule
 Rotor (electric)
-SI units
 Series and parallel circuits
 Siméon Denis Poisson
-Special relativity
 Speed of light
 Static electricity
 Stator
 Synchrotron radiation
-System of measurement
 Tensor
-Tensors
-The Feynman Lectures on Physics
 Transformer
 Triboelectric effect
-Unit vector
 Voltage
 Watt
 Waveguide (radio frequency)

@@ -1,13 +1,8 @@
-Abraham Fraenkel
 Abstract logic
 Ackermann set theory
 Aleph number
-Algebra of sets
 Algebraic logic
-Almost
 Alphabet (formal languages)
-Alternative set theory
-Amorphous set
 Argument
 Arity
 Associative
@@ -16,26 +11,9 @@ Atomic sentence
 Automata theory
 Automated theorem proving
 Axiom
-Axiom of adjunction
 Axiom of choice
-Axiom of constructibility
-Axiom of countable choice
-Axiom of dependent choice
-Axiom of determinacy
-Axiom of extensionality
-Axiom of global choice
-Axiom of infinity
-Axiom of limitation of size
-Axiom of pairing
-Axiom of power set
-Axiom of projective determinacy
-Axiom of regularity
-Axiom of union
 Axiom schema
-Axiom schema of replacement
-Axiom schema of specification
 Axiomatic system
-Axiomatization of Boolean algebras
 Banach–Tarski paradox
 Bertrand Russell
 Bijection
@@ -43,12 +21,9 @@ Binary operation
 Boolean algebra
 Boolean algebras canonically defined
 Boolean function
-Burali-Forti paradox
 Cantor's diagonal argument
 Cantor's paradox
 Cantor's theorem
-Capital-sigma notation
-Cardinal number
 Cardinality
 Cartesian product
 Categorical theory
@@ -80,24 +55,18 @@ Cyrillic script
 De Morgan's laws
 Decidability (logic)
 Decision problem
-Dedekind-infinite set
-Deductive system
 Diagram (mathematical logic)
-Disjoint sets
-Disjoint union
 Distributive property
 Domain of a function
 Element (mathematics)
 Elementary diagram
 Elementary equivalence
 Elementary function arithmetic
-Empty product
 Empty set
 Enumeration
 Equiconsistency
 Equivalence relation
 Eric W. Weisstein
-Ernst Zermelo
 Euclid's Elements
 Euclidean geometry
 Existential quantification
@@ -105,8 +74,6 @@ Expression (mathematics)
 Extension by definitions
 Extension by new constant and function names
 Extensionality
-Family of sets
-Filter (set theory)
 Finitary relation
 Finite-valued logic
 Finite model theory
@@ -117,7 +84,6 @@ Forcing (mathematics)
 Formal grammar
 Formal language
 Formal proof
-Formal semantics (logic)
 Formal system
 Formation rule
 Foundations of geometry
@@ -128,61 +94,41 @@ Function (mathematics)
 Functional predicate
 Fuzzy set
 General set theory
-Georg Cantor
 Graduate Texts in Mathematics
 Greek alphabet
 Grothendieck universe
 Ground expression
-Ground formula
 Gödel's completeness theorem
 Gödel's incompleteness theorems
 Gödel numbering
 Halting problem
-Hereditarily finite set
 Hereditary set
 Higher-order logic
 Hilbert's axioms
 Hilbert system
 History of logic
-History of mathematical logic
 ISBN (identifier)
-Idempotence
 Identity element
 If and only if
 Image (mathematics)
 Inaccessible cardinal
 Independence (mathematical logic)
-Index set
 Inference
 Infinite-valued logic
-Infinite product
 Infinite set
-Infix notation
 Information theory
 Inhabited set
 Injective function
 Interpretation (logic)
 Interpretation (model theory)
-Interpretation function
-Intersection (Euclidean geometry)
-Intersection (mathematics)
-Intersection graph
-Intersection theory
 Isomorphism
-Iterated binary operation
-James Munkres
-John von Neumann
-Keith J. Devlin
 Kolmogorov complexity
-Kripke's theory of truth
 Kripke–Platek set theory
-Kurt Gödel
 Lambda calculus
 Large cardinal
 Latin script
 Lemma (mathematics)
 Lindström's theorem
-List of Hilbert systems
 List of axioms
 List of first-order theories
 List of formal systems
@@ -203,49 +149,39 @@ Logicism
 Löwenheim–Skolem theorem
 Many-valued logic
 Map (mathematics)
-Martin's axiom
 Material conditional
 MathWorld
 Mathematical logic
 Mathematical object
 Metalanguage
-MinHash
 Minimal axioms for Boolean algebra
 Model complete theory
 Model theory
 Monadic predicate calculus
 Monadic second-order logic
 Morse–Kelley set theory
-Multiple (mathematics)
 NP (complexity)
 Naive set theory
 Natural deduction
-Natural number
 Negation
 New Foundations
 Non-Euclidean geometry
 Non-logical symbol
 Non-standard model
 Non-standard model of arithmetic
-Odd numbers
 Open formula
 Operation (mathematics)
-Ordered pair
 Ordinal analysis
 Ordinal number
 P (complexity)
 P versus NP problem
 Paradoxes of set theory
 Partition of a set
-Paul Bernays
-Paul Cohen
 Peano axioms
 Philosophy of mathematics
 Power set
 Predicate (mathematical logic)
-Predicate logic
 Predicate variable
-Prime number
 Primitive recursive arithmetic
 Primitive recursive function
 Principia Mathematica
@@ -258,11 +194,8 @@ Propositional variable
 Quantifier (logic)
 Quantifier rank
 Recursion
-Recursive set
 Relation (mathematics)
 Reverse mathematics
-Richard Dedekind
-Robert Megginson
 Robinson arithmetic
 Rule of inference
 Russell's paradox
@@ -276,10 +209,8 @@ Semantic theory of truth
 Semantics of logic
 Sentence (mathematical logic)
 Sequent calculus
-Set-builder notation
 Set (mathematics)
 Set theory
-Sigma algebra
 Signature (logic)
 Singleton (mathematics)
 Skolem arithmetic
@@ -288,48 +219,35 @@ Spectrum of a sentence
 Spectrum of a theory
 Square of opposition
 Strength (mathematical logic)
-String (formal languages)
 Structure (mathematical logic)
-Subset
 Substitution (logic)
 Substructure (mathematics)
 Supertask
 Surjective function
-Suslin's problem
 Syllogism
 Symbol (formal)
-Symmetric difference
 Syntax (logic)
 T-schema
-Table of mathematical symbols
 Tarski's axiomatization of the reals
 Tarski's axioms
-Tarski's theory of truth
 Tarski's undefinability theorem
 Tarski–Grothendieck set theory
 Tautology (logic)
 Term (logic)
 Term logic
 Theorem
-Theories of truth
 Theory (mathematical logic)
-Thomas Jech
-Thoralf Skolem
 Three-valued logic
 Timeline of mathematical logic
 Transfer principle
-Transfinite induction
 Transitive set
 True arithmetic
 Truth predicate
 Truth table
 Truth value
-Tuple
 Turing machine
 Type (model theory)
 Type theory
-Ultrafilter (set theory)
-Ultrafilter on a set
 Ultraproduct
 Uncountable set
 Undecidable problem
@@ -339,15 +257,12 @@ Uniqueness quantification
 Universal quantification
 Universal set
 Universe (mathematics)
-Universe (set theory)
 Urelement
-Vacuous truth
 Validity (logic)
 Variable (mathematics)
 Venn diagram
 Von Neumann universe
 Von Neumann–Bernays–Gödel set theory
 Well-formed formula
-Willard Van Orman Quine
 Zermelo set theory
 Zermelo–Fraenkel set theory

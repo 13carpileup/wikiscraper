@@ -1,7 +1,3 @@
-4-Aminoquinoline
-8-Aminoquinoline
-8-Hydroxyquinoline
-9-Aminoacridine
 ACE inhibitor
 ATC code A
 ATC code B
@@ -15,35 +11,16 @@ ATC code L
 ATC code M
 ATC code N
 ATC code P
-ATC code P01
-ATC code P02
 ATC code R
 ATC code S
 ATC code V
 ATCvet code QI
-ATCvet code QP54
-Abamectin
-Acanthamoeba keratitis
-Acetylcholinesterase inhibitor
-Aconoidasida
 Addiction medicine
-African trypanosomiasis
-Albendazole
 Alkylating antineoplastic agent
-Alveolate
-Amebicide
-Aminoglycoside
-Aminoquinoline
-Amodiaquine
-Amoeba
-Amoebiasis
-Amoebozoa
-Amphotericin B
 Anabolic steroid
 Analgesic
 Anatomical Therapeutic Chemical Classification System
 Anesthetic
-Angiotensin II receptor antagonist
 Anorectic
 Antacid
 Anthelmintic
@@ -51,380 +28,76 @@ Anti-inflammatory
 Anti-obesity medication
 Antianginal
 Antiarrhythmic agent
-Antibacterial
-Antibiotics
-Anticestodal agent
 Anticoagulant
 Anticonvulsant
-Antidementia drug
 Antidepressant
-Antidiarrhoeal
 Antidote
 Antiemetic
 Antifibrinolytic
 Antifolate
-Antifungal
-Antifungal drug
-Antihelminthic
 Antihemorrhagic
-Antihyperkinetic
-Antihypertensive drug
-Antimalarial drug
 Antimetabolite
 Antimicrobial
-Antimicrobial resistance
 Antimigraine drug
-Antimony
 Antimycobacterial
-Antinematodal agent
 Antineoplastic
 Antiplatelet drug
-Antiplatyhelmintic agent
 Antipropulsive
-Antiprotozoal
-Antiprotozoal agent
 Antipruritic
-Antipsoriatic
 Antipsychotic
 Antithrombotic
 Antithyroid agent
-Antitrichomonal agent
 Antiviral drug
 Anxiolytic
 Aphrodisiac
-Apicomplexa
-Arpraziquantel
-Arsanilic acid
-Arsenic
-Arsenical
-Arsthinol
-Artemether
-Artemether/lumefantrine
-Artemisinin
-Artemotil
-Arterolane
-Artesunate
-Artesunate/amodiaquine
-Artesunate/mefloquine
-Artesunate/pyronaridine
-Ascaridole
-Atovaquone
-Atovaquone/proguanil
-Avermectin
-Azanidazole
-Babesiosis
-Bacteria
-Balamuthia mandrillaris
-Balantidiasis
-Balsam of Peru
-Benzamidine
-Benzimidazole
-Benznidazole
-Benzylammonium
-Bephenium hydroxynaphthoate
 Beta blocker
 Bibcode (identifier)
-Biguanide
 Bile acid sequestrant
-Bill and Melinda Gates Foundation
 Bisphosphonate
-Bithionol
-Blastocystosis
 Blood
 Bone
-Broad-spectrum antibiotic
 Bronchodilator
-Broxyquinoline
-Butyrophenone
 Calcium channel blocker
-Carbantel
-Carbarsone
 Cardiac glycoside
 Cardiac stimulant
-Carnidazole
-Chagas disease
 Chemotherapy
-Chiniofon
-Chlorhexidine
-Chlorophenol
-Chloroquine
-Chlorproguanil
-Chlorquinaldol
-Chromalveolata
-Cicatrizant
-Ciclobendazole
-Ciliate
 Circulatory system
-Clefamide
-Clindamycin
-Clinical trial
-Clioquinol
 Coagulation
-Coccidiostat
-Conoidasida
-Contrast medium
 Corticosteroid
-Cough medicine
-Cryptosporidiosis
-Cycloguanil
 Decongestant
-Dehydroemetine
 Deliriant
 Depressant
-Desaspidin
 Diabetes medication
-Dichloroacetamide
-Dichlorophen
-Dientamoebiasis
-Dietary mineral
-Diethylcarbamazine
-Difetarsone
-Dihydroartemisinin
-Dihydrofolate reductase inhibitor
-Diiodohydroxyquinoline
-Diloxanide
-Discicristata
 Disease-modifying antirheumatic drug
 Dissociative
 Diuretic
 Doi (identifier)
-Doramectin
-Doxycycline
 Dressing (medicine)
 Ectoparasiticide
-Eflornithine
-Egg hatch assay
-Emamectin
-Emetine
-Emollient
-Endectocides
 Endocrine system
-Entactogen
-Entamoeba
 Entheogen
-Eprinomectin
-Esafoxolaner/eprinomectin/praziquantel
-Etofamide
 Euphoria
-Excavata
-Febantel
-Felsantel
-Fenbendazole
 Fertility medication
-Fexinidazole
 Fibrate
-Flubendazole
-Fluralaner/moxidectin
-Fumagillin
-Fungi
-Furazolidone
-GABA receptor
 General anaesthetic
 Genitourinary system
-Giardia lamblia
-Giardiasis
 Glucocorticoid
-Glutamate-gated chloride channel
-Glycobiarsol
 H1 antagonist
-H2 antagonist
-Halofantrine
-Helminths
-Hemozoin
-Hexylresorcinol
-Hookworm
 Hormonal contraception
 Human brain
-Human gastrointestinal tract
 Human skin
-Hycanthone
-Hydroxychloroquine
 Hypnotic
-Hypolipidemic agent
 Hypothalamic–pituitary hormone
 ISBN (identifier)
 ISSN (identifier)
 Immune system
-Immunomodulator
 Immunostimulant
 Immunosuppressive drug
 Infection
-Intravenous immunoglobulin
-Intravenously
-Isoquinoline
-Isosporiasis
-Ivermectin
 Joint
-Laxative
-Leishmaniasis
-Levamisole
-List of human parasitic diseases
-List of withdrawn drugs
-Local anesthetic
-Lucanthone
-Lumefantrine
-Lymphatic filariasis
-Macrofilaricide
-Malignant
-Management of Parkinson's disease
-Mebendazole
-Medications
-Mefloquine
-Meglumine antimoniate
-Melarsoprol
-Mepacrine
 Metabolism
-Metrifonate
-Metronidazole
-Microsporidiosis
-Microsporum
-Milbemycin
-Milbemycin oxime
-Miltefosine
-Mineralocorticoid
-Mood stabilizer
-Morantel
-Motivation-enhancing drug
-Moxidectin
-Muscle
-Muscle relaxant
-Naegleria fowleri
-Naphthalenesulfonate
-Neomycin
 Nervous system
-Neuromuscular depolarizing agent
-Neuroprotective
-Neurotoxin
-Niclosamide
-Nifurtimox
-Nimorazole
-Niridazole
-Nitazoxanide
-Nitrofuran
-Nitroimidazole
-Non-steroidal anti-inflammatory drug
-Nootropic
-Ophthalmology
-Oral administration
-Orexigenic
-Ornidazole
-Ornithine
-Otology
-Oxamniquine
-Oxantel
-Oxyquinoline
 PMC (identifier)
 PMID (identifier)
-Pamaquine
-Parasite
-Parasitic disease
-Parasitic nutrition
-Paromomycin
-Paromomycin sulfate
-Pentamidine
-Pentavalent antimonial
-Phanquinone
-Pharmaceutical drug
-Phases of clinical research
-Phenanthroline
 Phenol
-Phosphonic acid
-Phosphorylcholine
-Piperaquine
-Piperaquine/dihydroartemisinin
-Piperazine
-Platelet
-Polyene antimycotic
-Praziquantel
-Primaquine
-Primary amoebic meningoencephalitis
-Proguanil
-Propamidine
-Propenidazole
-Proton-pump inhibitor
-Protozoa
-Psychedelic drug
-Psychedelics, dissociatives and deliriants
-Public-private partnership
-Pyrantel
-Pyrantel pamoate
-Pyrimethamine
-Pyronaridine
-Pyrvinium
-Quinacrine
-Quinazoline
-Quinidine
-Quinine
-Quinoline
-Quinolinium
-Radiopharmacology
-Renin inhibitor
-Renin–angiotensin system
-Respiratory system
-Rifampin
-River blindness
-Roundworm
 S2CID (identifier)
-Salicylanilide
-Santonin
-Schistosomicide
-Secnidazole
-Sedative
-Selamectin
-Selective estrogen receptor modulator
-Senotherapeutics
-Sense
-Serenic
-Sesquiterpene
-Sesquiterpene lactones
-Sex steroid
-Sodium stibogluconate
-Spindle poison
-Statin
-Stibophen
-Stimulant
-Stramenopile
-Sulfadiazine
-Sulfadoxine
-Sulfadoxine/pyrimethamine
-Sulfalene
-Sulfonamide (medicine)
-Suramin
-Taeniacide
-Tafenoquine
-Tapeworm
-Tartar emetic
-Teclozan
-Tenonitrozole
-Tetrachloroethylene
-Tetracycline
-Tetrahydropyrimidine
-Thiabendazole
-Thiazole
-Thiazolide
-Thioxanthone
-Thrombolytic drug
-Thyroid hormone
-Tiabendazole
-Tilbroquinol
-Tinidazole
-Topically
-Topoisomerase inhibitor
-Toxoplasmosis
-Trematoda
-Tribendimidine
-Trichomonas
-Trichozoa
-Triclabendazole
-Trimethoprim/sulfamethoxazole
-Trimetrexate
-Trypanocidal agent
-Trypanosoma brucei
-Tryparsamide
-Tubulin
-Vaccine
-Vaginitis
-Vasodilation
-Vitamin
-WHO Model List of Essential Medicines
-Wakefulness-promoting agent

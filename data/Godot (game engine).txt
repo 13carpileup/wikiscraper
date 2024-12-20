@@ -1,328 +1,104 @@
-"Hello, World!" program
-2012 fiscal austerity in Argentina
 2D computer graphics
-3D GameStudio
-3D rendering
-4A Engine
 ARKit
-ARM architecture family
-Adventure Game Studio
 Amazon Lumberyard
 Android (operating system)
-Android App Bundle
 Application programming interface
 Augmented reality
-Away3D
-Backporting
-Berkeley Software Distribution
-Bitsquid
 Blender (software)
-Blender Game Engine
-Blind Squirrel Games
-Bloom (shader effect)
-Bork3D Game Engine
-Breakpoint
-Brotato
 Browser game
-Buckshot Roulette
 Buenos Aires
-Build (game engine)
-Buildbox
-Bullet (software)
 C++
-C4 Engine
 COLLADA
 C (programming language)
 C Sharp (programming language)
-Carol Reed Mysteries
-Cassette Beasts
-Chrome Engine
-Clickteam
-Clojure
-Cobra (game engine)
-Cocos2d
-Code folding
-Codenix
-Commander Keen in Keen Dreams
 Computing platform
-Construct (game engine)
-Core engine
-Creation Engine
-Cross-platform
-Cruelty Squad
-CryEngine
-Crystal Space
-Crystal Tools
 D (programming language)
-Daedalic Entertainment
-Dark Engine
 Database
-Debugger
-Decima (game engine)
-Defold
-Delta3D
-Deponia (video game)
-Depth of field
-Diesel (game engine)
-Dim3
 Doi (identifier)
-Dome Keeper
-Doom engine
 Ego (game engine)
 Epic Games
 Epic Games Store
-Essence Engine
-Euphoria (software)
 Eurogamer
 Extended reality
-FBX
-Felgo
-Fibonacci number
-FidelityFX
-File size
 File system
 Filename extension
-Filmation (game engine)
-First-person shooter engine
-Flare3D
-Fox Engine
 FreeBSD
-Free and open-source software
-Freescape
 Frostbite (game engine)
-GDevelop
 GPUOpen
-Game-Maker
-GameMaker
-GameSalad
-Game Editor
-Game creation system
 Game engine
-Game engine recreation
-Game integrated development environment
-Gamebryo
-Gamma correction
 Genie Engine
 GitHub
-GlTF
 Global illumination
 GoldSrc
-Gold Box
-Gradual typing
 Graphical user interface
-Graphics API
 HTC Vive
 HTML5
-Hardcoded (video game)
-Haskell (programming language)
-HeroEngine
-High-dynamic-range rendering
-High-level programming language
-Horde3D
 IOS
 ISBN (identifier)
-IW (game engine)
 Id Software
-Id Tech
 Id Tech 3
-Id Tech 4
-Id Tech 5
-Id Tech 6
-Id Tech 7
 Ignite (game engine)
-Indentation style
-Inheritance (object-oriented programming)
-Instance (computer science)
-Intelligent code completion
-Irrlicht Engine
 Itch.io
-JMonkeyEngine
 JavaScript
-Jedi (game engine)
-Kynapse
-Leadwerks
-LibGDX
-Lightmap
-Lightweight Java Game Library
 Linux
-List of first-person shooter engines
-List of game engine recreations
-List of game engines
-List of visual novel engines
-LithTech
-Long-term support
-Lua (programming language)
-Luck Be a Landlord
-Luminous Engine
-Löve (game engine)
-MIT License
-MIT license
-MT Framework
 MacOS
-Marmalade (software)
-Megabyte
-Meta Quest
-Metal (API)
 Microsoft
 Microsoft Windows
-Miguel de Icaza
 Mixed reality
-Moai (software)
 Mobile device
-MoltenVK
-Mono (software)
 Morph target animation
-Mozilla
-Mugen (game engine)
-Navigation mesh
 NetBSD
-Nim (programming language)
 Nintendo
 Nintendo Switch
 Normal mapping
-Nvidia GameWorks
-OGRE
-OHRRPGCE
-ORX
 Object-oriented programming
 Oculus Go
 Oculus Rift
-Open-source license
-OpenBSD
-OpenFL
-OpenGL ES
-OpenGL Shading Language
-Open 3D Engine
-Open Wonderland
 Operating system
-Panda3D
-Panta Rhei (game engine)
-Papervision3D
 Parallax scrolling
-Permissive software license
 Personal computer
-Phoronix
-PhyreEngine
 Physically based rendering
-Pie in the Sky (game engine)
-Pixel Game Maker MV
-Plasma (game engine)
-Platform-specific
-Platinum Arts Sandbox
-PlayCanvas
 PlayStation 4
-Polygon
-Power ISA
-Program animation
 Programmer
 Programming language
 Programming paradigm
 Proprietary software
-Pygame
 Python (programming language)
-Q (game engine)
-Quake II engine
 Quake engine
-RE Engine
-RISC-V
-RPG Maker
-Raylib
-Re-Logic
-Reality Lab
 Reality Labs
-Ren'Py
 RenderWare
-Repository (version control)
-Retro Engine
-Rockstar Advanced Game Engine
-Rust (programming language)
-SAGE (game engine)
-SCUMM
-Samuel Beckett
-Scratch (programming language)
 Scripting language
 Shader
-Shader language
 Shadow mapping
 Shark 3D
-Silent Storm engine
-Sim RPG Maker
 Skeletal animation
-Slay the Spire 2
-Snap! (programming language)
-Snowdrop (game engine)
-Software Freedom Conservancy
 Software categories
 Software developer
 Software license
 Software release life cycle
-Solar2D
-Sonic Team
 Sony
 Source (game engine)
 Source 2
 Source code
-Source port
 Spatial computing
-Specularity
-Spring Engine
-Square Enix
-Squirrel (programming language)
 Steam (service)
-Stencyl
-Stratagus
-Stride (game engine)
-Swift (programming language)
-Syntax highlighting
-Texture compression
 Texture mapping
-The Adventures of Dog Mendonça & Pizzaboy
-The Case of the Golden Idol
-Thousand Parsec
 Three-dimensional
-Tile set
-Titan (game engine)
-Torque (game engine)
 Tweet (social media)
 Twitter
-Two-dimensional
-Type system
 UbiArt Framework
-Ubisoft Anvil
-Unigine
 Unity (game engine)
-Unity Technologies
-Unreal Engine 1
-Unreal Engine 2
 Unreal Engine 3
-Unreal Engine 4
 Unreal Engine 5
-Until Then
 Valve Index
-Vassal Engine
-Version control
-Vicious Engine
 Video game console
 Video game developer
 Video game development
-Virtual Theatre
 Virtual reality
-Vision (game engine)
-Visual3D Game Engine
-Visual programming language
-Voxel Space
-Vulkan (API)
-Waiting for Godot
 Wayback Machine
 WebAssembly
 WebGL
-WebSocket
 WebXR
-Webfishing
 West Virginia
 Windows Mixed Reality
-Wintermute Engine
 X86
-Z-machine
-Zero (game engine)
-Zillions of Games

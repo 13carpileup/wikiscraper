@@ -1,12 +1,6 @@
-5α-Reductase inhibitor
-ACEI
-ACE inhibitor and thiazide combination
-ACE inhibitors drug design
 ATC code A
 ATC code B
 ATC code C
-ATC code C09
-ATC code C09A
 ATC code D
 ATC code D09
 ATC code G
@@ -20,39 +14,12 @@ ATC code R
 ATC code S
 ATC code V
 ATCvet code QI
-Abitesartan
-Acetylcholinesterase inhibitor
 Addiction medicine
-Adrenal cortex
-Alacepril
-Aldose reductase inhibitor
-Aldosterone
-Aliskiren
-Aliskiren/amlodipine
-Aliskiren/amlodipine/hydrochlorothiazide
-Aliskiren/hydrochlorothiazide
 Alkylating antineoplastic agent
-Alpha-glucosidase inhibitor
-Amino acid
-Amlodipine/olmesartan
-Amlodipine/valsartan
-Amlodipine/valsartan/hydrochlorothiazide
 Anabolic steroid
 Analgesic
 Anatomical Therapeutic Chemical Classification System
 Anesthetic
-Angioedema
-Angiotensin
-Angiotensin-converting enzyme
-Angiotensin I
-Angiotensin II
-Angiotensin III
-Angiotensin II receptor antagonist
-Angiotensin II receptor blocker
-Angiotensin IV
-Angiotensin converting enzyme
-Angiotensin receptor
-Angiotensinogen
 Anorectic
 Antacid
 Anthelmintic
@@ -60,438 +27,89 @@ Anti-inflammatory
 Anti-obesity medication
 Antianginal
 Antiarrhythmic agent
-Antibacterial
 Anticoagulant
-Anticoagulants
 Anticonvulsant
-Antidementia drug
 Antidepressant
-Antidiarrhoeal
 Antidote
 Antiemetic
 Antifibrinolytic
-Antifungal drug
 Antihemorrhagic
-Antihyperkinetic
-Antihypertensive drug
 Antimetabolite
 Antimicrobial
 Antimigraine drug
 Antimycobacterial
 Antineoplastic
-Antioxidative
 Antiparasitic
 Antiplatelet drug
 Antipropulsive
-Antiprotozoal agent
 Antipruritic
-Antipsoriatic
 Antipsychotic
 Antithrombotic
 Antithyroid agent
 Antiviral drug
 Anxiolytic
-Aortic valve stenosis
 Aphrodisiac
-Arfalasin
-Aromatase inhibitor
-Arteriole
-Australian Drug Evaluation Committee
-Australian Medicines Handbook
-Azilsartan
-Benazepril
-Benazepril/amlodipine
-Benazepril/pimobendan
-Beta-lactamase inhibitor
 Beta blocker
 Bibcode (identifier)
 Bile acid sequestrant
-Biological target
-Birth defect
-Bis in die
 Bisphosphonate
 Blood
-Blood plasma
-Blood pressure
-Blood volume
 Blood–brain barrier
 Bone
-Bothrops jararaca
-Boxed warning
-Bradykinin
 Bronchodilator
-C-fos
-C-jun
-C-myc
-COMT inhibitor
-COX-2 inhibitor
-Cachexia
 Calcium channel blocker
-Candesartan
-Candesartan/amlodipine
-Candesartan/amlodipine/hydrochlorothiazide
-Captopril
-Carbonic anhydrase inhibitor
-Carboxyl
 Cardiac glycoside
-Cardiac index
-Cardiac output
 Cardiac stimulant
-Casein
 Central nervous system
-Ceronapril
 Chemotherapy
-Chronic kidney failure
-Cicatrizant
-Cilazapril
-Ciprokiren
 Circulatory system
-Clinical trial
 Coagulation
-Combination drugs
-Competitive inhibition
-Congenital malformation
-Congenital malformations
-Congestive heart failure (CHF)
-Consumer Reports
-Contrast medium
 Corticosteroid
-Cough
-Cough medicine
-Creatinine
-Cultured milk
-Cyclooxygenase inhibitor
-Cyclosporine
-DPP-4 inhibitors
-David Cushman
 Decongestant
 Dehydration
-Delapril
-Delapril/manidipine
 Deliriant
 Depressant
 Diabetes medication
-Diabetes mellitus
-Diabetic nephropathy
-Dietary mineral
-Dihydrofolate reductase inhibitor
-Dihydropteroate synthase inhibitor
-Dipeptidyl peptidase-4 inhibitor
-Discovery and development of angiotensin receptor blockers
 Disease-modifying antirheumatic drug
 Dissociative
-Distal convoluted tubule
-Ditekiren
 Diuretic
-Diuretics
 Doi (identifier)
-Dopa decarboxylase inhibitor
 Dressing (medicine)
-Drug class
-Drugs.com
-EXP-3174
 Ectoparasiticide
-Efferent arteriole
-Elisartan
-Embusartan
-Emollient
-Enalapril
-Enalapril/lercanidipine
-Enalapril/nitrendipine
-Enalaprilat
-Enalkiren
 Endocrine system
-Endopeptidase inhibitor
-Endothelium
-Enkephalinase inhibitor
-Entactogen
 Entheogen
-Enzyme binding site
-Enzyme inhibitor
-Epidemiology
-Eprosartan
-Erythrocytosis
 Erythropoietin
-Essential hypertension
 Euphoria
-European Heart Journal
-Exopeptidase inhibitor
-Farnesyltransferase inhibitor
-Fatigue (physical)
 Fertility medication
 Fibrate
-Fimasartan
 Food and Drug Administration
-Forasartan
-Fosinopril
-Fosinopril/hydrochlorothiazide
-GABA transaminase inhibitor
-Gemopatrilat
 General anaesthetic
 Genitourinary system
-Glomerular filtration rate
-Glomerulus (kidney)
 Glucocorticoid
-Goodman & Gilman's The Pharmacological Basis of Therapeutics
 H1 antagonist
-H2 antagonist
 Hdl (identifier)
-Headache
 Heart
-Heart failure
 Hematocrit
-Hemodialysis
-Histone deacetylase inhibitor
 Hormonal contraception
 Human brain
-Human gastrointestinal tract
 Human skin
-Hydrolase
 Hyperkalemia
-Hypertension
 Hypnotic
-Hypolipidemic agent
-Hyponatremia
-Hypotension
 Hypothalamic–pituitary hormone
-Hypovolemia
 ISBN (identifier)
 ISSN (identifier)
-IgA nephropathy
-Ilepatril
-Imarikiren
-Imidapril
 Immune system
-Immunomodulator
 Immunostimulant
 Immunosuppressive drug
 Infection
-Integrase inhibitor
-Intrauterine growth retardation
-Intravenous immunoglobulin
-Irbesartan
-Irbesartan/amlodipine
-Irbesartan/amlodipine/hydrochlorothiazide
-Irbesartan/hydrochlorothiazide
-Isoleucine
-Janus kinase inhibitor
-John R. Vane
-John Vane
 Joint
-Journal of Dairy Science
-Juxtaglomerular apparatus
-Kevin K. F. Ng
-Kidney
-Kinin
-L-163,491
-LCCN (identifier)
-Lactobacillus helveticus
-Lactotripeptides
-Laxative
-Leonard T. Skeggs
-Lipoxygenase inhibitor
-Lisinopril
-Lisinopril/amlodipine
-Lisinopril/hydrochlorothiazide
-List of withdrawn drugs
-Local anesthetic
-Loop diuretic
-Losartan
-Losartan/amlodipine
-Losartan/hydrochlorothiazide
-Lyase
-Malignant
-Management of Parkinson's disease
-Matrix metalloproteinase inhibitor
 Medical Subject Headings
-Medication
-Meta-analysis
-Metabolic acidosis
 Metabolism
-Miguel Ondetti
-Milfasartan
-Milk
-Mineralocorticoid
-Mixed inhibition
-Moexipril
-Monoamine oxidase inhibitor
-Mood stabilizer
-Morbidity
-Motivation-enhancing drug
-Muscle
-Muscle relaxant
-Myocardial infarction
-Natriuresis
-Nausea
-Nebivolol/valsartan
-Neonatal death
-Nephropathy
-Neprilysin
 Nervous system
-Neuraminidase inhibitor
-Neuroprotective
-Neurotoxin
-Non-competitive inhibition
-Non-steroidal anti-inflammatory drug
-Nootropic
-Norepinephrine
-Norman Shumway
-Nucleotidyltransferase
-Oligohydramnios
-Olmesartan
-Olmesartan/amlodipine
-Olmesartan/amlodipine/hydrochlorothiazide
-Olmesartan/hydrochlorothiazide
-Olodanrigan
-Omapatrilat
-Ophthalmology
-Orexigenic
-Otology
 Oxford University Press
-Oxidoreductase
-Oxygen
-Oxytocinase inhibitor
-PARP inhibitor
-PD123319
 PMC (identifier)
 PMID (identifier)
 Parasympathetic nervous system
-Patent ductus arteriosus
-Pepstatin
-Peptide
-Perindopril
-Perindopril/amlodipine
-Perindopril/amlodipine/indapamide
-Perindopril/bisoprolol
-Perindopril/bisoprolol/amlodipine
-Perindopril/bisoprolol/amlodipine/indapamide
-Perindopril/indapamide
-Pharmacology
-Phases of clinical research
-Phosphinyl
-Phosphodiesterase inhibitor
-Pit viper
-Platelet
-Pneumonia
-Polygalacturonase inhibitor
-Pomisartan
-Potassium supplements
-Pratosartan
-Pregnancy category
-Probiotic
-Prohormone
-Proline
-Protease inhibitor (pharmacology)
-Protein kinase inhibitor
-Proteinuria
-Proto-oncogene
-Proton-pump inhibitor
-Psychedelic drug
-Psychedelics, dissociatives and deliriants
-Psychogenic polydipsia
-Pulmonary circulation
-Pulmonary hypoplasia
-Quinapril
-Quinapril/hydrochlorothiazide
-Quinaprilat
-Radiopharmacology
-Ramipril
-Ramipril/amlodipine
-Ramipril/amlodipine/hydrochlorothiazide
-Ramipril/bisoprolol
-Ramipril/felodipine
-Receptor modulator
-Remikiren
-Renal dysplasia
-Renal failure
-Renal function
-Renal impairment
-Renin
-Renin inhibitor
-Renin–angiotensin system
-Rentiapril
-Rescinnamine
-Respiratory system
-Reverse-transcriptase inhibitor
-Ribonuclease inhibitor
-Ribonucleotide reductase inhibitor
-Ripisartan
 S2CID (identifier)
-Sacubitril
-Sacubitril/valsartan
-Sampatrilat
-Saprisartan
-Saralasin
-Schizophrenia
-Sedative
-Selective estrogen receptor modulator
-Senotherapeutics
-Sense
-Serenic
-Sex steroid
-Skin eruption
-Sodium in biology
-Sparsentan
-Spindle poison
-Spirapril
-Spiraprilat
-Statin
-Steroidogenesis inhibitor
-Stillbirth
-Stimulant
-Stroke volume
-Suicide inhibition
-Sulfhydryl
-Sympathetic nervous system
-Systemic sclerosis
-Sérgio Henrique Ferreira
-Tasosartan
-Telmisartan
-Telmisartan/amlodipine
-Telmisartan/amlodipine/hydrochlorothiazide
-Telmisartan/hydrochlorothiazide
-Temocapril
-Teprotide
-Ter in die
-Terlakiren
-The BMJ
-Thrombolytic drug
-Thymidylate synthase inhibitor
-Thyroid hormone
-Topoisomerase inhibitor
-Trandolapril
-Trandolapril/verapamil
-Transferase
-Transforming growth factor beta
-Trip (search engine)
-Tripeptide
-Trypsin inhibitor
-Tyrosine kinase inhibitor
-Uncompetitive inhibitor
 United States
-Vaccine
-Valine
-Valsartan
-Valsartan/aliskiren
-Valsartan/hydrochlorothiazide
-Valsartan/hydrochlorothiazide/amlodipine
-Valsartan/lercanidipine
-Vasoconstrictor
-Vasodilation
-Vasodilator
-Vasopressin
-Ventricular hypertrophy
-Ventricular remodeling
-Vertigo (medical)
-Vitamin
-WHO Model List of Essential Medicines
-Wakefulness-promoting agent
 Wayback Machine
-WebMD
-Whey
-Xanthine oxidase inhibitor
-Zankiren
-Zofenopril
-Zofenopril/nebivolol
-Zofenoprilat
-Zolasartan

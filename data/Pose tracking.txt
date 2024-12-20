@@ -1,6 +1,5 @@
 360-degree video
 3D audio effect
-3D pose estimation
 ARCore
 ARKit
 ARToolKit
@@ -9,7 +8,6 @@ Accelerometer
 Alternating current
 AltspaceVR
 Android XR
-Angular velocity
 Animal echolocation
 AntVR
 Apple Inc.
@@ -18,7 +16,6 @@ Asynchronous reprojection
 Attack of the Killer App
 Augmented reality
 Avatar (computing)
-Base station
 Black Mirror
 Bob Sproull
 Boštjan Burger
@@ -36,7 +33,6 @@ Computer-mediated reality
 Computer vision
 Cyberith Virtualizer
 Daniel J. Sandin
-Dead reckoning
 Den-noh Coil
 Dieter Schmalstieg
 Digimon
@@ -45,7 +41,6 @@ Doi (identifier)
 Ela Darling
 Elia Petridis
 Eric Howlett
-Euclidean space
 Extended reality
 EyeTap
 Eye tracking
@@ -54,7 +49,6 @@ Finger tracking
 Foveated rendering
 Frame rate
 Fred Brooks
-FreeTrack
 Free viewpoint television
 Futurama
 Godot (game engine)
@@ -71,20 +65,15 @@ HTC
 HTC Vive
 Haptic suit
 Head-mounted display
-Head-mounted displays
 Head-up display
 Henry Fuchs
 HoloLens 2
 Holodeck
 Horizon Worlds
-Hybrid positioning system
 ISBN (identifier)
 ISSN (identifier)
 Image-based modeling and rendering
 Immersion (virtual reality)
-Incremental encoder
-Indoor positioning system
-Inertial measurement unit
 Infrared
 Interactive art
 Ivan Sutherland
@@ -97,7 +86,6 @@ Kiss Me First (TV series)
 Latency (engineering)
 Lawrence J. Rosenblum
 Leap Motion
-Lighthouse tracking
 Liquid Image
 List of HTC Vive games
 List of Meta Quest games
@@ -106,10 +94,8 @@ List of PlayStation VR2 games
 List of PlayStation VR games
 List of software related to augmented reality
 List of virtual reality headsets
-Local positioning system
 Magic Leap
 Magnetic field
-Magnetometer
 Mark Bolas
 Mark Stephen Meadows
 Mark Zuckerberg
@@ -121,7 +107,6 @@ Meta Quest 3S
 Meta Quest Pro
 Metaverse
 Michelle and Uri Kranot
-Microelectromechanical systems
 Microsoft Corporation
 Microsoft HoloLens
 Ming C. Lin
@@ -129,7 +114,6 @@ Mixed reality
 Morton Heilig
 Motion capture
 Myron W. Krueger
-Navigation system
 NeosVR
 Netrunner
 Neuromancer
@@ -165,9 +149,6 @@ PlayStation Move
 PlayStation VR
 PlayStation VR2
 Playtest (Black Mirror)
-Pose (computer vision)
-Positional tracking
-Positioning system
 Project Iris
 Projection augmented model
 QR code
@@ -179,27 +160,21 @@ Razer Hydra
 Ready Player One
 Ready Player One (film)
 Ready Player Two
-Real-time locating system
 Real life
 Reality Labs
 Rec Room (video game)
 Resonite
-Retroreflector
-Robot navigation
 Rokoko (company)
 Room-scale
 S2CID (identifier)
 SSSS.Gridman
-Samsung
 Samsung Electronics
 Samsung Gear VR
 Sansar (video game)
-Satellite navigation
 Satya Nadella
 Scott Fisher (technologist)
 Screen-door effect
 Sega VR
-Sensor fusion
 Sensorama
 Sensorium Corporation
 Simon Birrell
@@ -232,9 +207,6 @@ Tony Parisi (software developer)
 Tracking system
 Transhumanism
 Transmitter
-Triangulation
-Triangulation (computer vision)
-Underwater acoustic positioning system
 Unity (game engine)
 Unreal Engine
 VFX1 Headgear
@@ -260,15 +232,12 @@ Virtuality (product)
 Virtuix Omni
 VisionOS
 VisionOS 2
-Visual-inertial odometry
-Visual odometry
 Vuforia Augmented Reality SDK
 Vuzix
 Warren Robinett
 Wearable computer
 WebXR
 White Christmas (Black Mirror)
-Wi-Fi positioning system
 Windows Mixed Reality
 Wired glove
 Wizdish ROVR

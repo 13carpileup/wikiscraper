@@ -1,10 +1,7 @@
 ARIB STD B24 character set
-Akita Prefecture
 Akita dialect
 Amami Japanese
 Amami Ōshima language
-Aomori Prefecture
-Ashiro, Iwate
 Ateji
 Awaji dialect
 Bamboo English
@@ -13,35 +10,26 @@ Bingo dialect
 Bonin English
 Braille kanji
 Chikuzen dialect
-Chūgoku dialect
 Classical Japanese
 Cyrillization of Japanese
-Date clan
 Diphthong
 Early Middle Japanese
 Early Modern Japanese
-Eastern Japanese
 Eastern Old Japanese
-Edo period
 Enclosed CJK Letters and Months
 Enclosed Ideographic Supplement
 Engrish
 Extended Unix Code
 Extended shinjitai
 Furigana
-Gairaigo
 Gender differences in Japanese
 Glossary of Japanese words of Dutch origin
 Glossary of Japanese words of Portuguese origin
-Glottolog
 Go-on
-Godan verb
 Gojūon
 Gunma dialect
 Hachijō grammar
 Hachijō language
-Hachinohe
-Hachinohe Domain
 Hakata dialect
 Halfwidth and fullwidth forms
 Hentaigana
@@ -52,17 +40,10 @@ Hiragana
 Hiragana (Unicode block)
 Historical kana orthography
 Hokkaido dialects
-Hokuriku dialect
 Honorific speech in Japanese
-Hōnichi dialect
-ISO/IEC 2022
 ISO 639-3
-I adjective
 Ibaraki dialect
-Ichinoseki Domain
-Inflection
 Inshū dialect
-Iwate Prefecture
 Iyo dialect
 JIS X 0201
 JIS X 0208
@@ -74,7 +55,6 @@ Japan
 Japanese-based creole languages
 Japanese Braille
 Japanese adjectives
-Japanese books
 Japanese counter word
 Japanese dialects
 Japanese dictionary
@@ -95,13 +75,11 @@ Japanese pronouns
 Japanese punctuation
 Japanese script reform
 Japanese sound symbolism
-Japanese verb conjugation
 Japanese writing system
 Japonic languages
 Jōdai Tokushu Kanazukai
 Kaga dialect
 Kagoshima dialect
-Kamikita District, Aomori
 Kan-on
 Kana
 Kana Extended-A
@@ -113,42 +91,33 @@ Kanazukai
 Kanbun
 Kanji
 Kansai dialect
-Kantō dialect
 Katakana
 Katakana (Unicode block)
 Katakana Phonetic Extensions
-Kazuno, Akita
 Kesen dialect
 Kikai language
 Kishū dialect
 Kokuji
-Kosaka, Akita
 Kumamoto dialect
 Kunigami language
 Kunrei-shiki romanization
 Kyowa-go
-Language family
 Late Middle Japanese
 List of Japanese speculative fiction writers
 List of Japanese writers
 List of classical Japanese texts
-List of kanji by stroke count
 List of kanji radicals by frequency
 List of kanji radicals by stroke count
-Lists of ISO 639 codes
 Logogram
 Man'yōgana
 Mikawa dialect
 Mino dialect
 Miyakoan language
 Modern kana usage
-Morioka Domain
-Mutsu Bay
 Nagaoka dialect
 Nagasaki dialect
 Nagoya dialect
 Nairiku dialect
-Nanbu clan
 Narada dialect
 Nihon-shiki romanization
 Northern Izu Archipelago dialects
@@ -156,11 +125,9 @@ Northern Ryukyuan languages
 Nyōbō kotoba
 Okinawan Japanese
 Okinawan language
-Okinoerabu language
 Okurigana
 Okuyoshino dialect
 Old Japanese
-Phonology
 Polivanov system
 Pseudo-Chinese
 Rendaku
@@ -168,12 +135,9 @@ Romanization of Japanese
 Ryakuji
 Ryukyuan languages
 Saga dialect
-Sannohe District, Aomori
 Sanuki dialect
-Sendai Domain
 Shift JIS
 Shikoku dialect
-Shimokita District, Aomori
 Shizuoka dialect
 Sino-Japanese vocabulary
 Small Kana Extension
@@ -188,21 +152,16 @@ Topic marker
 Tosa dialect
 Transcription into Japanese
 Transcription of the Japanese language in Esperanto
-Tsugaru clan
 Tsugaru dialect
 Tsushima dialect
 Tō-on
 Tōhoku dialect
-Tōhoku region
-Tōkai–Tōsan dialect
 Umpaku dialect
-Vocabulary
 Wasei-eigo
 Wasei-kango
 Wāpuro rōmaji
 Yaeyama language
 Yakuwarigo
-Yamato kotoba
 Yilan Creole Japanese
 Yokohama Pidgin Japanese
 Yonaguni language

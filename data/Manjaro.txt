@@ -1,10 +1,5 @@
-/e/ (operating system)
-1073 Gellivara
-1160 Illyria
 4MLinux
-709 Fringilla
 ALT Linux
-ARM architecture
 AlmaLinux
 Alpine Linux
 Android-x86
@@ -13,46 +8,35 @@ Antergos
 AntiX
 ArchBang
 ArchLabs
-Arch Build System
 Arch Linux
-Arch Linux 32
-Arch User Repository
 Artix Linux
 Asahi Linux
-Ascella
 Astra Linux
 Asturix
 Austrumi Linux
 BLAG Linux and GNU
 BackBox
 BackTrack
-Bellatrix
 Bharat Operating System Solutions
 BioSLAX
 BlackArch
 Black Lab Linux
 BlankOn Linux
-Bleeding edge
-Blue Systems
 Bodhi Linux
 CHAOS (operating system)
 CRUX
-Calamares (software)
 Calculate Linux
 Caldera OpenLinux
 CalyxOS
-Capella
 CentOS
 CentOS Stream
 Chakra (operating system)
 Chimera Linux
 ChromeOS
 ChromiumOS
-Cinnamon (desktop environment)
 ClearOS
 Clear Linux OS
 ColorOS
-Command-line interface
 Commodore OS
 Comparison of Linux distributions
 Container Linux
@@ -68,7 +52,6 @@ Deepin
 DemoLinux
 Device driver
 Devuan
-DistroWatch
 DivestOS
 DoudouLinux
 Dreamlinux
@@ -76,7 +59,6 @@ EMUI
 Edubuntu
 Elementary OS
 Elive
-Emerging technologies
 Emmabuntüs
 EndeavourOS
 Endless OS
@@ -88,39 +70,24 @@ Fire OS
 Firefox OS
 Floppyfw
 Foresight Linux
-FreeOffice
-Free and open-source software
 Free software
 FreedomBox
 Freespire
 Frugalware Linux
-GNOME
-GNOME Shell
-GNOME desktop
 GNU Core Utilities
-GNU GPL
 GNU Guix System
 GNewSense
 GOS (operating system)
-GTK
-GUI
 Garuda Linux
 GeckoLinux
 Gentoo Linux
-Git (software)
 GoboLinux
 Gobuntu
 GrapheneOS
 HandyLinux
-Hyperbola GNU/Linux-libre
-I3 (window manager)
-I686 architecture
 Immunix
 IodéOS
 Jurix
-KDE Plasma 4
-KDE Plasma 5
-KDE Plasma 6
 KDE neon
 KaOS
 KaiOS
@@ -136,7 +103,6 @@ Kubuntu
 Kwort Linux
 LXLE Linux
 Libranet
-LibreOffice
 LinHES
 LineageOS
 Linpus Linux
@@ -147,29 +113,22 @@ Linux Kernel
 Linux Lite
 Linux Mint
 Linux Router Project
-Linux Unified Key Setup
 Linux distribution
 Linux for PlayStation 2
 Linux kernel
 List of Linux distributions
-Logical Volume Manager (Linux)
 Lubuntu
-MATE (software)
 MCC Interim Linux
 MIUI
 MX Linux
 Mageia
 Mandrake Linux
 Mandriva Linux
-Manjaro, Tanzania
-Manjarocomputer.eu
 MeeGo
 Mer (software distribution)
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Musix GNU+Linux
-Netrunner (operating system)
 Network Security Toolkit
 NimbleX
 Nitix
@@ -183,27 +142,17 @@ OpenELEC
 OpenMandriva Lx
 OpenSUSE
 Open Enterprise Server
-Openbox
 Operating system
 Oracle Linux
-P6 (microarchitecture)
 PCLinuxOS
 Package manager
-Pacman (package manager)
-Pacman package manager
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
 Pentoo
 Peppermint OS
-Phosh
-Pine64
-PinePhone
-Pinebook
 Pinguy OS
 PixelExperience
-Plasma Mobile
 Platypux
 Pop! OS
 Porteus (operating system)
@@ -212,7 +161,6 @@ Proprietary software
 Puppy Linux
 PureOS
 Q4OS
-Qt (software)
 Qubes OS
 ROSA Linux
 Raspberry Pi OS
@@ -221,11 +169,9 @@ Red Hat Linux
 Red Star OS
 Remix OS
 Replicant (operating system)
-Repository (version control)
 Resurrection Remix OS
 Rocks Cluster Distribution
 Rocky Linux
-Rolling release
 SUSE Linux
 SUSE Linux Enterprise
 SUSE Studio
@@ -234,7 +180,6 @@ Sabily
 Sailfish OS
 Salix OS
 Scientific Linux
-Single-board computer
 Slackware
 Slax
 Softlanding Linux System
@@ -243,26 +188,21 @@ Software release life cycle
 Software repository
 Solus (operating system)
 SolydXK
-SourceForge
 Source Mage
 SparkyLinux
 Splashtop OS
-StarLabs Systems
 SteamOS
 Sunwah Linux
-Sway (window manager)
 SystemRescue
 T2 SDE
 Tails (operating system)
 Think Blue Linux
 Tiny Core Linux
-Tirzepatide
 Tizen
 TopologiLinux
 Trisquel
 Turbolinux
 Turkix
-Tuxedo Computers
 Ubuntu
 Ubuntu Budgie
 Ubuntu Cinnamon
@@ -273,11 +213,7 @@ Ubuntu Studio
 Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
-Unified Extensible Firmware Interface
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
-User-friendliness
 User interface
 User space and kernel space
 VectorLinux
@@ -286,9 +222,7 @@ Void Linux
 Wayback Machine
 Whonix
 Wubuntu
-X86-64
 XB Machine
-Xfce
 Xubuntu
 Yellow Dog Linux
 ZDNet

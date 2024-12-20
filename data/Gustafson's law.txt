@@ -8,13 +8,10 @@ Ateji PX
 Automatic parallelization
 Axiom
 Barrier (computer science)
-Bell's law of computer classes
 Beowulf cluster
 Bit-level parallelism
-Boost (C++ libraries)
 Brooks's law
 Bulldozer (microarchitecture)
-C++ AMP
 CUDA
 Cache-only memory architecture
 Cache coherence
@@ -22,7 +19,6 @@ Cache invalidation
 Chapel (programming language)
 Charm++
 Cilk
-CiteSeerX (identifier)
 Cloud computing
 Coarray Fortran
 Communications of the ACM
@@ -46,8 +42,6 @@ Distributed shared memory
 Doi (identifier)
 Dryad (programming)
 Edholm's law
-Edwin H. Barsis
-Efficient energy use
 Embarrassingly parallel
 Explicit parallelism
 Fiber (computer science)
@@ -56,9 +50,7 @@ GPUOpen
 General-purpose computing on graphics processing units
 Global Arrays
 Grid computing
-Grosch's law
 HPX
-Haitz's law
 Hardware acceleration
 Hardware scout
 High-performance computing
@@ -68,20 +60,13 @@ Implicit parallelism
 Instruction-level parallelism
 Instruction pipelining
 Instruction window
-Jevons paradox
-John L. Gustafson
 Karp–Flatt metric
-Koomey's law
-Linus's law
 Loop-level parallelism
 Manycore processor
 Massively parallel
 Memory-level parallelism
 Memory coherence
 Message Passing Interface
-Metcalfe's law
-Moore's law
-Moore's second law
 Multiple instruction, multiple data
 Multiple instruction, single data
 Multiprocessing
@@ -99,11 +84,8 @@ Parallel computing
 Parallel external memory
 Parallel programming model
 Parallel slowdown
-Parkinson's law
 Pipeline (computing)
-Pollack's rule
 Preemption (computing)
-Problem size
 Process (computing)
 Pthreads
 ROCm
@@ -112,7 +94,6 @@ RaftLib
 Rule of thumb
 S2CID (identifier)
 Scalability
-Scalable parallelism
 Semiconductor memory
 Shared memory
 Simultaneous and heterogeneous multithreading
@@ -136,5 +117,3 @@ Threading Building Blocks
 Unified Parallel C
 Uniform memory access
 Vector processor
-Wirth's law
-ZPL (programming language)

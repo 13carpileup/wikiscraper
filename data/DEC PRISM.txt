@@ -1,116 +1,35 @@
-1-bit computing
-12-bit computing
-128-bit computing
-16-bit computing
-24-bit computing
-256-bit computing
 32-bit
-32-bit computing
 4-bit computing
-48-bit computing
-4K Disk Monitor System
-512-bit computing
-64-bit
 64-bit computing
-8-bit computing
-ACPI
-AI accelerator
-AMD Am29000
-ARC (processor)
-ARM architecture family
-AT&T Hobbit
-AVR32
-AVR microcontrollers
 Abstract machine
-Adapteva
-Adder (electronics)
-Address decoder
-Address generation unit
-Addressing mode
 AdvFS
-Advanced Power Management
-Alan Kotok
 Alpha 21064
 Alpha 21164
 Alpha 21264
 Alpha 21364
 Alpha 21464
 AltaVista
-Alternating Turing machine
-Analog Devices
-Analogue electronics
-Apollo Guidance Computer
-Apollo PRISM
-Application-specific instruction set processor
-Application-specific integrated circuit
-Application Binary Interface
-Arithmetic logic unit
-Atmel
 BASIC-8
-Barrel processor
-Barrel shifter
-Baseband processor
-Berkeley RISC
-Binary decoder
-Binary multiplier
-Bit
 Bit-level parallelism
-Bit-serial architecture
-Bit slicing
-Blackfin
-Boolean circuit
-Branch predictor
-Branch target predictor
 Bus (computing)
-CMOS
 CPU Wars
-CPU cache
-CPU multiplier
 CVAX
 Cache (computing)
 Cache coherence
-Cache hierarchy
-Cache performance measurement and metric
-Cache replacement policies
-Cellular architecture
 Cellular automaton
 Central processing unit
 Character encoding
-Chip carrier
-Circuit (computer science)
-Classic RISC pipeline
-Clipper architecture
-Clock gating
-Clock rate
-Clock signal
 Code page 1287
 Code page 1288
-Cognitive computing
-Combinational logic
 Commercial Operating System
-CompactRISC
 Compaq
-Comparison of instruction set architectures
-Complex instruction set computer
-Complex programmable logic device
 Computer architecture
 Computer data storage
 Computer hardware
-Computer performance
-Computer performance by orders of magnitude
 Computer terminal
-Constant (programming)
-Control hazard
-Control unit
-Cooperative multitasking
 Coprocessor
-Counter (digital)
-Counter machine
-Cycles per instruction
-Cypress PSoC
 DECUS
 DEC Alpha
-DEC BATCH-11/DOS-11
 DEC GT40
 DEC Hebrew
 DEC J-11
@@ -122,125 +41,53 @@ DEC T-11
 DEC Technical Character Set
 DEC V-11
 DECnet
-DECstation 3100
 DECtalk
 DECtape
 DECwriter
 DIBOL
 DIGITAL Command Language
-Dan Dobberpuhl
-Data buffer
-Data cache
 Data dependency
 Data parallelism
 Dataflow architecture
-Datapath
-Dave Cutler
-David Patterson (computer scientist)
-Demultiplexer
-Deterministic finite automaton
 Digital Equipment Corporation
 Digital Federal Credit Union
 Digital Linear Tape
 Digital Storage Systems Interconnect
-Digital UNIX
-Digital electronics
-Digital signal processor
-Distributed architecture
 Doi (identifier)
 Dynamic debugging technique
-Dynamic frequency scaling
-Dynamic voltage scaling
 Dynamically Redefined Character Set
-ESi-RISC
-ETRAX CRIS
-Electronic circuit
 Embedded system
-Emitter-coupled logic
-Emitter coupled logic
-Endianness
-Execution unit
-Explicit data graph execution
-Explicitly parallel instruction computing
-FIFO (computing and electronics)
-FLOPS
 FOCAL (programming language)
 FX!32
-Fabric computing
-False sharing
 Field-programmable gate array
-Field-programmable object array
 Finite-state machine
-Finite-state machine with datapath
 Firefly (cache coherence protocol)
 Flip-Chip module
-Floating-point unit
-Floating point unit
 Flynn's taxonomy
-Gate array
 General-purpose computing on graphics processing units
-Glue logic
 Gold key (DEC)
 Gordon Bell
 Graphics processing unit
 HP-Interex
 Hardware acceleration
-Hardware register
 Hardware security module
-Hardwired control unit
 Harlan Anderson
-Harvard architecture
-Hazard (computer architecture)
-Heterogeneous System Architecture
-Heterogeneous computing
-Hierarchical state machine
-History of general-purpose CPUs
-Hudson, MA
-Hyper-threading
-Hypercomputation
-IA-64
 IBM
-IBM 801
-IBM POWER architecture
-IBM ROMP
-IBM System/360 architecture
-IBM System/370
-IBM System/390
 ISBN (identifier)
-Image processor
-Imagination META
 Instruction-level parallelism
-Instruction (computer science)
-Instruction cache
-Instruction cycle
-Instruction decoder
 Instruction pipelining
-Instruction set
 Instruction set architecture
-Instruction unit
 Instructions per cycle
-Instructions per second
 Integer
 Integrated circuit
-Intel i860
-Intel i960
 Interactive Application System
-Interrupt
 Ken Olsen
 LK201
 LK421
-LatticeMico32
-LatticeMico8
-Little man computer
-Load–store architecture
-Load–store unit
 Local Area Transport
 Logic gate
-M32R
 MACRO-10
 MACRO-11
-MIPS-X
-MIPS Technologies
 MIPS architecture
 MUMPS
 Maintenance Operations Protocol
@@ -248,246 +95,93 @@ Manycore processor
 Mass Storage Control Protocol
 Massbus
 Memory-level parallelism
-Memory address register
-Memory buffer register
-Memory controller
-Memory dependence prediction
 Memory hierarchy
-Memory management unit
-Memory paging
-MicroBlaze
 MicroVAX 78032
 Microarchitecture
-Microcode
 Microcontroller
 Microprocessor
-Microprocessor chronology
 Microsoft
-Minimal instruction set computer
-Mixed-signal integrated circuit
-Mobile processor
 Model of computation
-Modified Harvard architecture
-Moore's Law
-Motorola 68000 series
-Motorola 68020
-Motorola 88000
-Multi-chip module
-Multi-core processor
 Multinational Character Set
 Multiple instruction, multiple data
 Multiple instruction, single data
-Multiplexer
 Multiprocessing
-Multiprocessor system on a chip
 Multithreading (computer architecture)
-M·CORE
 NVAX
 National Replacement Character Set
-Network on a chip
-Network processor
-Neuromorphic engineering
-No instruction set computing
 Non-uniform memory access
-Nondeterministic Turing machine
-OS/8
 On-line Debugging Tool
-One-instruction set computer
-OpenRISC
 OpenVMS
-Operand forwarding
 Operating system
-Orthogonal instruction set
-Out-of-order execution
-PA-RISC
 PALcode
 PDP-11 architecture
 PDP-7
-Package on a package
-Palo Alto
-Palo Alto, California
 Parallel computing
-Performance per watt
-Physics processing unit
-PicoBlaze
-Pin grid array
-Pipeline stall
-Pizza box form factor
-Pointer machine
-Post–Turing machine
-PowerPC
-Power ISA
-Power Management Unit
 Power management
-Power management integrated circuit
 Preemption (computing)
-Price-performance ratio
-Price/performance ratio
-Probabilistic Turing machine
 Process (computing)
 Processor (computing)
-Processor design
-Processor register
-Program counter
-Programmable Array Logic
 Programming language
 Q-Bus
-Quantum Turing machine
-Quantum cellular automaton
-Quantum circuit
-Quantum computing
-Quantum logic gate
-Queue automaton
-R2000 (microprocessor)
 RA90
-RAD750
-RISC
-RISC-V
 RK05
 RL02
-ROM image
-RSTS/E
 RSX-11
-RSX-15
 RT-11
 Random-access machine
-Random-access stored-program machine
-Re-order buffer
 ReGIS
 Record Management Services
 Reduced instruction set computer
-Register file
-Register machine
-Register renaming
-Register window
-Register–memory architecture
-Renesas Electronics
-Reservation station
 Rigel (microprocessor)
 Robert Palmer (computer businessman)
 SPARC
-SUPS
-SWAR
-Sabbatical
-Scalar processor
 Scoreboarding
-Scratchpad memory
-Secondary storage
-Secure cryptoprocessor
-Semiconductor device fabrication
-Semiconductor manufacturing
-Sequential logic
 Simultaneous and heterogeneous multithreading
 Simultaneous multithreading
-Single-core
 Single instruction, multiple data
 Single instruction, multiple threads
 Single instruction, single data
-Single program, multiple data
 Sixel
-Skunkworks project
-Soft microprocessor
 Spacewar!
-Speculative execution
 Speculative multithreading
-Stack machine
-Stack register
 Standard Disk Interconnect
-Stanford MIPS
 Star coupler
-Status register
-Stored-program computer
 Stream processing
 StrongARM
-Structural hazard
-Sum-addressed decoder
-Sun-4
 Sun Microsystems
-Sunway (processor)
-SuperH
 Superscalar processor
-Switch
 Synchronous Backplane Interconnect
 System Module
-System Reference Manual
-System in a package
 System on a chip
-TD/SMP
 TOPS-10
 TOPS-20
-TRIPS architecture
-TSS/8
 TU81
 TURBOchannel
-Taped out
 Task parallelism
 Temporal multithreading
-Tensor Processing Unit
 The Ultimate Entrepreneur
 Thread (computing)
-Three-dimensional integrated circuit
-Tick–tock model
-Tile processor
-Tomasulo's algorithm
-Transactions per second
-Transistor count
-Translation lookaside buffer
-Transport triggered architecture
 Turing machine
-ULTRIX
-Ultra-low-voltage processor
 Ultrix
 Unibus
-Unicore
 Uniform memory access
-Universal Turing machine
 University of California, Berkeley
-Unix
-Unix workstation
-V850
 VAX
 VAXBI bus
 VAXELN
-VAX 8800
-VAX 9000
 VAX MACRO
-VAXcluster
-VISC architecture
 VT05
 VT100
 VT1000
-VT101
-VT102
-VT103
-VT105
-VT131
 VT180
 VT220
-VT240
-VT241
 VT320
-VT330
-VT340
 VT420
-VT510
 VT52
 VT520
-VT525
-VT55
-VT62
 VT640
 Vector processor
-Very long instruction word
-Virtual memory
-Vision processing unit
-Von Neumann architecture
 WPS-8
-Wide-issue
 Windows NT
 Word (computer architecture)
-Write buffer
 X86
-Xilinx
-Z/Architecture
-Zeno machine
-Zero instruction set computer

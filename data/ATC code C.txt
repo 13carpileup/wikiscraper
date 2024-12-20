@@ -1,28 +1,6 @@
-1,10-Phenanthroline
-1,7-Phenanthroline
-12-O-Tetradecanoylphorbol-13-acetate
-3,4-Diaminopyridine
-3-(p-Fluorobenzoyloxy)tropane
-4,7-Phenanthroline
-4-Aminopyridine
-4-Methylpregabalin
-7,8-Benzoquinoline
-A-317567
-ABT-639
 ACE inhibitor
-AH-1058
-ANGPTL3
 ATC code A
 ATC code B
-ATC code C01
-ATC code C02
-ATC code C03
-ATC code C04
-ATC code C05
-ATC code C07
-ATC code C08
-ATC code C09
-ATC code C10
 ATC code D
 ATC code D09
 ATC code G
@@ -35,71 +13,15 @@ ATC code P
 ATC code R
 ATC code S
 ATC code V
-ATCvet code
 ATCvet code QI
-ATP-sensitive potassium channel
-ATP citrate lyase
-AZD-3161
-AZD1305
-Acebutolol
-Acetazolamide
-Acetohexamide
-Acetyldigitoxin
-Acetyldigoxin
-Acetylpheneturide
-Acid-sensing ion channel
-Acipimox
-Aconitine
 Addiction medicine
-Adekalant
 Adenosine
-Adenosine A1 receptor
-Adrenergic agonist
-Adrenergic receptor
-Adrenergic release inhibitor
-Agonist
-Ajmaline
-Alacepril
 Alcohol (drug)
-Alfuzosin
-Alipogene tiparvovec
-Alirocumab
-Aliskiren
-Aliskiren/amlodipine
-Aliskiren/amlodipine/hydrochlorothiazide
-Aliskiren/hydrochlorothiazide
 Alkylating antineoplastic agent
-Almokalant
-Alpha-1 adrenergic receptor
-Alpha-1 blocker
-Alpha-adrenergic agonist
-Alpha blocker
-Alprenolol
-Altizide
-Aluminium clofibrate
-Aluminium nicotinate
-Ambrisentan
-Ambrisentan/tadalafil
-Amezinium metilsulfate
-Amiloride
-Amiodarone
-Amlodipine
-Amlodipine/atorvastatin
-Amlodipine/olmesartan
-Amlodipine/valsartan
-Amlodipine/valsartan/hydrochlorothiazide
-AmmTX3
-Amrinone
-Amylocaine
 Anabolic steroid
-Anacetrapib
 Analgesic
 Anatomical Therapeutic Chemical Classification System
 Anesthetic
-Angiotensin-converting enzyme
-Angiotensin II receptor antagonist
-Angiotensinamide
-Anipamil
 Anorectic
 Antacid
 Anthelmintic
@@ -107,394 +29,61 @@ Anti-inflammatory
 Anti-obesity medication
 Antianginal
 Antiarrhythmic agent
-Antibacterial
 Anticoagulant
 Anticonvulsant
-Antidementia drug
 Antidepressant
-Antidiarrhoeal
 Antidote
 Antiemetic
 Antifibrinolytic
-Antifungal drug
 Antihemorrhagic
-Antihyperkinetic
-Antihypertensive
-Antihypertensive drug
-Antihypertensives
 Antimetabolite
 Antimicrobial
 Antimigraine drug
-Antimineralocorticoid
 Antimycobacterial
 Antineoplastic
 Antiparasitic
 Antiplatelet drug
 Antipropulsive
-Antiprotozoal agent
 Antipruritic
-Antipsoriatic
 Antipsychotic
 Antithrombotic
 Antithyroid agent
-Antivaricose
 Antiviral drug
 Anxiolytic
 Aphrodisiac
-Aprikalim
-Aprindine
-Aprocitentan
-Arachidonic acid
-Aranidipine
-Arbaclofen
-Arbaclofen placarbil
-Arbutamine
 Arenobufagin
-Arotinolol
-Articaine
-Arylalkylamine
-Aspirin
-Astemizole
-Atagabalin
-Atenolol
-Atorvastatin
-Atropine
-Azacosterol
-Azalanstat
-Azapetine
-Azaspiracid
-Azelnidipine
-Azilsartan
-Azimilide
-Azosemide
-BK channel
-BRL-32872
-Baclofen
-Bamethan
-Barbiturate
-Barium
-Barnidipine
 Batrachotoxin
-Bay K8644
-BeKm-1 toxin
-Bedaquiline
-Bempedoic acid
-Bempedoic acid/ezetimibe
-Benazepril
-Benazepril/amlodipine
-Benazepril/pimobendan
-Bencyclane
-Bendroflumethiazide
-Benfluorex
-Benidipine
-Benzamil
-Benziodarone
-Benzocaine
-Benzodiazepine
-Bepridil
-Berbamine
-Beta-1 adrenergic receptor
-Beta-2 adrenergic receptor
-Beta adrenergic receptor
 Beta blocker
-Beta blocking agents
-Betamethasone
-Betaxolol
-Bethanidine
-Bevantolol
-Bezafibrate
-Bietaserpine
 Bile acid sequestrant
-Bimakalim
-Bisoprolol
 Bisphosphonate
 Blood
 Blood vessel
-BmTx3
-Bococizumab
 Bone
-Bopindolol
-Bosentan
-Bretylium
-Brinazarone
 Bronchodilator
-Bucladesine
-Budiodarone
-Bufadienolide
-Buflomedil
-Bufo
 Bufotalin
-Bumetanide
-Bunaftine
-Buphenine
-Bupivacaine
-Bupranolol
-Buprenorphine
-Butacaine
-Butalamine
-Butamben
-Butaxamine
-Butizide
-CETP inhibitor
-Cadralazine
-Cafedrine
-Calcium-activated chloride channel
-Calcium-activated potassium channel
-Calcium channel
 Calcium channel blocker
-Calcium channel blockers
-Calcium channel opener
-Calcium dobesilate
-Canadine
-Candesartan
-Candesartan/amlodipine
-Candesartan/amlodipine/hydrochlorothiazide
-Canrenone
-Captopril
-Caramiphen
-Carbachol
-Carbamazepine
-Carbocromen
-Carbonic anhydrase inhibitor
-Carboxyamidotriazole
-Carbutamide
-Cardenolide
-Cardiac
-Cardiac action potential
-Cardiac disease
 Cardiac glycoside
 Cardiac stimulant
-Cardiovascular system
-Caroverine
-Carteolol
-Carvedilol
-Celiprolol
-Celivarone
-Cenobamate
-Cerivastatin
-Ceronapril
-Cetiedil
-Channel blocker
-Channel modulator
 Charybdotoxin
 Chemotherapy
-Chloride channel
-Chloride channel blocker
-Chloride channel opener
-Chlormerodrin
-Chloroprocaine
-Chlorothiazide
-Chlorphenacemide
-Chlorpromazine
-Chlorpropamide
-Chlortalidone
-Cholesterol absorption inhibitor
-Choline fenofibrate
-Cicatrizant
-Cicletanine
-Ciclonicate
 Ciguatoxin
-Cilazapril
-Cilnidipine
-Cinchocaine
-Cinepazet
-Cinepazide
-Cinnarizine
 Cinobufagin
-Ciprofibrate
 Circulatory system
-Cisapride
-Clamikalant
-Clarithromycin
-Clentiazem
-Clevidipine
-Clinical trial
-Clinofibrate
-Clofenamide
-Clofibrate
-Clofibride
-Clonidine
-Clopamide
-Cloperastine
-Cloranolol
-Clorexolone
-Cloridarol
-Clozapine
 Coagulation
-Cocaine
-Colesevelam
-Colestilan
-Colestipol
-Colestyramine
-Colextran
-Collecting duct
-Collecting duct system
-Conivaptan
 Conotoxin
-Contrast medium
 Corticosteroid
-Cortisol
-Cough medicine
-Crofelemer
-Cromakalim
-Cronidipine
-Cyclandelate
-Cycleanine
-Cyclomethycaine
-Cyclopenthiazide
-Cyclothiazide
-Cymarin
-Cyproheptadine
-Cystic fibrosis transmembrane conductance regulator
-DIDS
-DSP-2230
-Dagapamil
-Daigremontianin
-Dalazatide
-Dalcetrapib
-Darapladib
-Darifenacin
-Darodipine
-Dauricine
-Debrisoquine
 Decongestant
-Delapril
-Delapril/manidipine
 Deliriant
-Demeclocycline
-Dendrotoxin
-Denopamine
 Depressant
-Descending limb of loop of Henle
-Deserpidine
-Deslanoside
-Devapamil
 Dexamethasone
-Dexniguldipine
-Dextromethorphan
-Dextropropoxyphene
-Dextrothyroxine
-Dexverapamil
 Diabetes medication
-Diallyl trisulfide
-Diazoxide
-Dietary fiber
-Dietary mineral
-Digitalis
-Digitoxin
-Digoxin
-Dihydralazine
-Dihydroergocristine
-Dihydropyridine
-Dihydroquinidine
-Dilazep
-Diltiazem
-Dimeditiapramine
-Dimethocaine
-Dimetofrine
-Diosmin
-Diphenhydramine
-Diproteverine
-Dirlotapide
 Disease-modifying antirheumatic drug
-Disopyramide
 Dissociative
-Distal convoluted tubule
 Diuretic
-Diuretics
-Dobutamine
-Docarpamine
-Dofetilide
-Domperidone
-Dopamine
-Dopamine agonist
-Dopaminergic
-Dopexamine
-Dotarizine
-Doxazosin
 Dressing (medicine)
-Dronedarone
-Droxidopa
-E-4031
 Ectoparasiticide
-Efloxate
-Efonidipine
-Elgodipine
-Elnadipine
-Elpetrigine
-Emakalim
-Emollient
-Emopamil
-Enalapril
-Enalapril/lercanidipine
-Enalapril/nitrendipine
-Encainide
 Endocrine system
-Endothelin receptor antagonist
-Endralazine
-Enoximone
-Enpiperate
-Entactogen
-Enteral
 Entheogen
-Epanolol
-Eperisone
-Epinephrine
-Epithelial sodium channel
-Epithelial sodium channel blocker
-Epitizide
-Eplerenone
-Eprosartan
-Ergoloid
-Ergot
-Ergtoxin
-Erythromycin
-Eslicarbazepine acetate
-Esmolol
-Etacrynic acid
-Etafenone
-Etamsylate
-Ethacizine
-Ethacrynic acid
-Ethadione
-Ethanol
-Ethosuximide
-Ethotoin
-Etidocaine
-Etilefrine
-Etofibrate
-Etofylline nicotinate
-Etozolin
-Etripamil
 Euphoria
-Evacetrapib
-Evenamide
-Evinacumab
-Evolocumab
-Ezetimibe
-Ezetimibe/atorvastatin
-Ezetimibe/rosuvastatin
-Ezetimibe/simvastatin
-Falipamil
-Fantofarone
-Fasudil
-Felodipine
-Fendiline
-Fenofibrate
-Fenofibrate/pravastatin
-Fenofibrate/simvastatin
-Fenoldopam
-Fenquizone
 Fertility medication
 Fibrate
-Fimasartan
-Finerenone
-Flavonoid
-Flecainide
-Flordipine
-Flosequinan
-Flufenamic acid
-Flunarizine
-Fluocinolone acetonide
-Fluocinonide
-Fluocortolone

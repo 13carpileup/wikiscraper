@@ -1,138 +1,31 @@
 ANSI escape code
 ASCII
 Acronym
-ActionScript
-Advanced Intelligent Tape
-AppJet
-Application Programming Interface for Windows
-Asm.js
-Asynchronous module definition
-Backbone.js
-Brendan Eich
-Browser speed test
-Bun (software)
-C++/CLI
 CD-ROM
 C Sharp (programming language)
-Caja project
-Chakra (JScript engine)
-Chakra (JavaScript engine)
-Client-side JavaScript
-CommonJS
 Common Language Infrastructure
-Comparison of JavaScript frameworks
-Comparison of server-side JavaScript solutions
-Consensus decision-making
-Dart (programming language)
-Deno (software)
-Digital Data Storage
 Digital Linear Tape
-Dojo Toolkit
-Douglas Crockford
-Dynamic HTML
-ECMA-107
-ECMA-119
-ECMA-130
-ECMA-262
-ECMA-334
-ECMA-335
-ECMA-341
-ECMA-35
-ECMA-363
-ECMA-367
-ECMA-372
-ECMA-376
-ECMA-377
-ECMA-378
-ECMA-388
-ECMA-402
-ECMA-404
-ECMA-408
-ECMA-48
-ECMA-6
 ECMAScript
 ECMAScript for XML
-Echo (framework)
-Ecma
 Eiffel (programming language)
 European Committee for Standardization
-Ext JS
 FAT12
 FAT16
-FAT16B
 File Allocation Table
 Floppy disk
 Full BASIC
-Geneva
-Google Web Toolkit
-Holographic Versatile Disc
-ISO/IEC 2022
-ISO/IEC 29500
 ISO 9660
-InScript (JavaScript engine)
-InfoWorld
 International Electrotechnical Commission
 International Organization for Standardization
-JQuery
-JSDoc
-JSGI
-JSHint
-JSLint
-JSON
-JScript
-JScript .NET
 JavaScript
-JavaScript Style Sheets
-JavaScript engine
-JavaScript library
 Java (programming language)
-Jaxer
-John Resig
-KJS (software)
-Linear Tape-Open
-List of Ajax frameworks
-List of ECMAScript engines
-List of Ecma standards
-List of JavaScript libraries
-Lively Kernel
 Microsoft
 Minimal BASIC
-MochiKit
-MooTools
-Nashorn (JavaScript engine)
-Near-field communication
-Node.js
 Nonprofit organization
 Office Open XML
-Open XML Paper Specification
-Presto (layout engine)
-Prototype JavaScript Framework
-Pyjs
-Qooxdoo
-QtScript
-Rhino (JavaScript engine)
-SWFObject
-Server-side JavaScript
 Software framework
-SpiderMonkey
-SproutCore
-Spry framework
-Sputnik (JavaScript conformance test)
 Standardization
-Standards organization
 Sun Microsystems
 Switzerland
-Tamarin (software)
-Technical report
-TypeScript
-Ultra-wideband
-Ultra Density Optical
-Underscore.js
-Universal 3D
 Universal Disk Format
-Universal Media Disc
-V8 (JavaScript engine)
-VXA
-WMLScript
-WebKit
 XML

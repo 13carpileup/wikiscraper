@@ -1,7 +1,3 @@
-AltGr
-Byte order mark
-CSC – IT Center for Science Ltd.
-Cascading Style Sheets
 Code page
 Code page 437
 Code page 850
@@ -11,7 +7,6 @@ Code page 853
 Code page 855
 Code page 856
 Code page 857
-Code page 858
 Code page 859
 Code page 860
 Code page 861
@@ -23,52 +18,26 @@ Code page 866
 Code page 867
 Code page 869
 DOS
-Digital typesetting
 Doi (identifier)
 EBCDIC
-ECMA-94
-Figure space
-Form feed
 French language
 German language
-HP Roman-8
-HP Roman-9
 HTML
 Hdl (identifier)
-Hyphen
 IBM
-ISO/IEC 8859
 KOI8-R
 KOI8-U
-Keyboard layout
-Keyboard shortcut
 LaTeX
-Line wrap and word wrap
 List of XML and HTML character entity references
 Lotus International Character Set
-Monospaced font
-Non-printing character in word processors
 Numeric character reference
-Plain text
-Punctuation
-SI standard
-Sentence spacing in digital media
 Space (punctuation)
-Space bar
 Standard Generalized Markup Language
-Style guide
 TeX
-Thin space
-Typeface
-Typesetting
-Typographic alignment
 UTF-8
 Unicode
 Unicode Consortium
-Unicode input
-Whitespace (computer science)
 Whitespace character
-Widows and orphans
 Windows-1250
 Windows-1251
 Windows-1252
@@ -79,10 +48,4 @@ Windows-1256
 Windows-1257
 Windows-1258
 Windows code page
-Word joiner
-Word processing
 Word processor
-Zero-width space
-⌴
-⍽
-␣

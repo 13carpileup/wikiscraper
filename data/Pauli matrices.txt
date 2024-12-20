@@ -1,286 +1,56 @@
-2-sphere
-Adjacency matrix
 Adjugate matrix
 Albert Einstein
-Algebra of physical space
 Algebra over a field
-Alternant matrix
-Alternating sign matrix
-Angular momentum
-Angular momentum operator
-Anti-diagonal matrix
-Anticommutator
 ArXiv (identifier)
-Arrowhead matrix
 Associative algebra
-Augmented matrix
-Baker–Campbell–Hausdorff formula
-Band matrix
 Basis (linear algebra)
-Biadjacency matrix
 Bibcode (identifier)
-Bidiagonal matrix
-Bisymmetric matrix
-Bloch sphere
-Block-diagonal matrix
 Block matrix
-Block tridiagonal matrix
-Boolean matrix
-Bézout matrix
-Cabibbo–Kobayashi–Maskawa matrix
-Carleman matrix
-Cartan decomposition
-Cartan matrix
-Cauchy matrix
-Cayley table
-Centering matrix
-Centrosymmetric matrix
-Circulant matrix
-Classical mechanics
 Clifford algebra
-Cofactor matrix
-Commutation matrix
 Commutator
-Companion matrix
-Complex Hadamard matrix
 Complex number
-Conference matrix
-Confusion matrix
-Convergent matrix
-Copositive matrix
-Correlation matrix
-Cosmas Zachos
-Covariance matrix
-Coxeter matrix
-Cross-product
-Cross product
-Cyclic permutation
-DFT matrix
-David Fairlie
-Defective matrix
-Definite matrix
-Degree matrix
-Density matrix
-Design matrix
 Determinant
 Diagonal matrix
-Diagonalizable matrix
-Diagonally dominant matrix
-Dirac equation
-Distance matrix
 Doi (identifier)
 Dot product
-Double covering group
-Doubly stochastic matrix
-Duplication and elimination matrices
-Edmonds matrix
-Eigenvalues
 Eigenvalues and eigenvectors
-Eigenvectors
-Einstein notation
 Electromagnetic field
-Elementary matrix
-Equivalent matrix
-Euclidean distance matrix
-Euclidean space
-Euler's formula
-Euler's four-square identity
-Exchange interaction
-Exchange matrix
-Exponential map (Lie theory)
-Fisher information matrix
-Four-tensor
-Frobenius matrix
-Fundamental matrix (computer vision)
-Fundamental matrix (linear differential equation)
-Fundamental representation
-Fuzzy associative matrix
-Gamma matrices
-Gell-Mann matrices
-Generalizations of Pauli matrices
-Generalized permutation matrix
-Generator matrix
-Gram matrix
 Graph theory
-Greek (alphabet)
 Group (mathematics)
-Hadamard matrix
-Hamiltonian matrix
-Hankel matrix
-Hermitian
 Hermitian matrix
-Hermitian operator
-Hessenberg matrix
-Hessian matrix
-Hilbert matrix
 Hilbert space
 Hilbert–Schmidt operator
-Hollow matrix
-Householder transformation
-Hurwitz-stable matrix
 ISBN (identifier)
-Idempotent
 Idempotent matrix
 Identity matrix
-Imaginary unit
-Incidence matrix
-Integer matrix
-Inverse of a matrix
-Invertible matrix
-Involutory matrix
-Irregular matrix
-Isaac Chuang
-Isomorphic
 Isomorphism
-Isospin
-J. Math. Pures Appl.
-J. W. Gibbs
-Jacobian matrix and determinant
-Jordan normal form
 Killing form
-Kronecker delta
 Kronecker product
-Ladder operator
-Laplacian matrix
-Lehmer matrix
-Levi-Civita symbol
-Liboff, Richard L.
 Lie algebra
 Lie group
-Linear combination
-Linear independence
-Linear span
-List of matrices
-Logical matrix
-Lorentz group
-Mathematical formulation of quantum mechanics
 Mathematical physics
 Mathematics
 Matrix (mathematics)
-Matrix congruence
 Matrix exponential
-Matrix of ones
-Matrix product
-Matrix representation of conic sections
-Matrix unit
-Metzler matrix
-Michael Nielsen
-Minkowski metric
-Mixed state (physics)
-Moment matrix
-Moore matrix
 Nilpotent matrix
 Nobel Prize in physics
-Nonnegative matrix
-Normal matrix
-Normalisable wavefunction
 OCLC (identifier)
-Observable
-Olinde Rodrigues
-Orthogonal
-Orthogonal matrix
-Overlap matrix
-Pascal matrix
-Pauli equation
-Pauli exclusion principle
-Pauli group
-Payoff matrix
-Pentadiagonal matrix
-Perfect matrix
 Permutation matrix
-Persymmetric matrix
-Pick matrix
-Poincaré group
-Polynomial matrix
-Positive-definite matrix
-Positive semidefinite matrix
-Precision (statistics)
 Projection (linear algebra)
-Projection matrix
-Projective representation
-Pseudoinverse
-Q.E.D.
-Quantum gate
-Quantum information
 Quantum mechanics
 Quaternion
-Quaternionic matrix
-Quaternions
-Quaternions and spatial rotation
-Qubit
-Random matrix
 Real number
-Redheffer matrix
-Relativistic angular momentum
-Relativistic quantum mechanics
-Representation theory of SU(2)
-Representation theory of the Lorentz group
-Rodrigues' rotation formula
 Rotation
-Rotation formalisms in three dimensions
-Rotation group SO(3)
-Rotation matrix
-Routh–Hurwitz matrix
-Row echelon form
-S-matrix
 S2CID (identifier)
-SU(2)
-Seidel adjacency matrix
-Seifert matrix
 Shear matrix
-Shift matrix
 Sigma
-Signature matrix
-Similarity matrix
-Skew-Hermitian
-Skew-Hermitian matrix
-Skew-symmetric matrix
-Skyline matrix
-Sparse matrix
-Spherical law of cosines
-Spin-1/2
 Spin (physics)
-Spin operator
-Spinor
-Spinors in three dimensions
-Split-quaternion
-State-transition matrix
 Statistics
-Stieltjes matrix
-Stochastic matrix
-Substitution matrix
-Sylvester's formula
-Sylvester matrix
 Symmetric matrix
-Symplectic matrix
 Tau
-Taylor series
 Tensor
 Tensor contraction
 Tensor product
-Theory of relativity
-Thomas Curtright
-Toeplitz matrix
-Totally positive matrix
-Totally unimodular matrix
 Trace (linear algebra)
-Trace of a matrix
-Transformation matrix
-Transposition (mathematics)
 Triangular matrix
-Tridiagonal matrix
-Tutte matrix
-Unimodular matrix
-Unipotent
-Unitary matrices
-Unitary matrix
-Vandermonde matrix
 Vector space
-Versor
-Walsh matrix
-Weighing matrix
-Wolfgang Pauli
-Wronskian
-Z-matrix (chemistry)
-Z-matrix (mathematics)
-Zero matrix

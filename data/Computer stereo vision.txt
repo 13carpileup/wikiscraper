@@ -4,127 +4,71 @@
 3D camcorder
 3D display
 3D film
-3D object recognition
-3D pose estimation
-3D reconstruction
-3D reconstruction from multiple images
 3D scanner
 3D stereo view
 3D television
 4D film
-4D reconstruction
 AMD HD3D
 Active shutter 3D system
-Activity recognition
-Aerial survey
 Anaglyph 3D
 ArXiv (identifier)
-Artificial intelligence for video surveillance
-Audio-visual speech recognition
 Augmented reality
-Automated species identification
-Automatic image annotation
-Automatic number-plate recognition
 Autostereogram
 Autostereoscopy
-Barrel distortion
 Bibcode (identifier)
-Binocular disparity
 Binocular rivalry
 Binocular vision
-Bioimage informatics
-Blob detection
 Blu-ray 3D
 Bubblegram
-CCD camera
 Chromostereopsis
-CiteSeerX (identifier)
-Color difference
-Computer-aided diagnosis
 Computer vision
-Content-based image retrieval
 Convergence insufficiency
 Correspondence problem
 Depth perception
 Digital 3D
-Digital geometry
-Distortion (optics)
 Doi (identifier)
 Dolby 3D
 Epipolar geometry
 Eye tracking
-Facial recognition system
-Foreground detection
 Free viewpoint television
 Fujifilm FinePix Real 3D
-Gaussian splatting
-Gesture recognition
 Head-mounted display
-Heliography
-Heuristics
-Hidden surface determination
 Holography
 ISBN (identifier)
-Image denoising
-Image rectification
-Image restoration by artificial intelligence
 Infitec
 Integral imaging
 Kinetic depth effect
-Landmark detection
-Least squares
 Lenticular lens
 List of 3D-enabled mobile phones
 MasterImage 3D
-Mathematical morphology
-Medical image computing
-Minimum message length
 Motion capture
-Moving object detection
 Multiscopy
 Multiview Video Coding
 NP-complete
-Neural network
-Neural radiance field
 New Nintendo 3DS
 Nintendo 3DS
 Nvidia 3D Vision
-Object detection
-Object recognition
-Optical character recognition
-Outline of object recognition
 Panavision 3D
 Parallax barrier
 Parallax scanning
 Parallax scrolling
 Peripheral vision
-Pinhole camera
 Point cloud
 Polarized 3D system
 Pose tracking
 Pseudoscope
 RealD 3D
-Remote sensing
-Reverse image search
-Robotic mapping
 Robotics
 S2CID (identifier)
-STEREO
-Self-driving car
-Semi-global matching
-Shape from focus
 Sharp Actius RD3D Notebook
 Simultaneous localization and mapping
-Small object detection
 Specular holography
 Stereo camera
-Stereo display
 Stereo microscope
 Stereo photography techniques
 Stereoautograph
 Stereoblindness
 Stereographer
-Stereophotogrammetry
 Stereopsis
 Stereopsis recovery
 Stereoscope
@@ -136,23 +80,11 @@ Stereoscopic spectroscopy
 Stereoscopic video coding
 Stereoscopic video game
 Stereoscopy
-Stixel
-Structure from motion
-Structured light
-Triangulation (computer vision)
-Trifocal tensor
 Vectograph
 Vergence-accommodation conflict
-Video content analysis
-Video motion analysis
-Video tracking
 View-Master
-View synthesis
 Virtual reality headset
 Virtual retinal display
-Visual hull
-Volumetric capture
 Volumetric display
-Voxels
 Wiggle stereoscopy
 XpanD 3D

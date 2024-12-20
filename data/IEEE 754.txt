@@ -1,173 +1,48 @@
-100BaseVG
-10BASE5
 19-inch rack
-2Sum
-802.3a
-802.3ab
-802.3ac
-802.3ad
-802.3ae
-802.3af
-802.3ah
-802.3ak
-802.3an
-802.3aq
-802.3at
-802.3au
-802.3av
-802.3az
-802.3b
-802.3ba
-802.3bt
-802.3bu
-802.3by
-802.3bz
-802.3ca
-802.3cb
-802.3cc
-802.3cd
-802.3ce
-802.3cg
-802.3ch
-802.3ck
-802.3cm
-802.3cn
-802.3cp
-802.3cq
-802.3cr
-802.3cs
-802.3ct
-802.3cu
-802.3cv
-802.3cw
-802.3cx
-802.3cy
-802.3cz
-802.3d
-802.3da
-802.3db
-802.3dd
-802.3de
-802.3df
-802.3e
-802.3i
-802.3j
-802.3u
-802.3y
-802.3z
-80x87
-ACM Computing Surveys
-ACM Transactions on Programming Languages and Systems
 AES3
 AES47
 ANSI C
 ANSI escape code
 Ada Semantic Interface Specification
-Advanced Library Format
-Algorism
 ArXiv (identifier)
-Arbitrary-precision arithmetic
-Arccos (trigonometry)
-Arcosh
-Arcsin (trigonometry)
-Arctan (trigonometry)
-Ariane flight V88
-Arithmetic underflow
-Arsinh
-Artanh
 Associative property
-Atan2
-Audio Video Bridging
 Battery nomenclature
-Bfloat16 floating-point format
-Binade
-Binary32
-Binary64
-Binary code
-Binary integer decimal
-Binary logarithm
-Birkhäuser
 Bluetooth
 C++
 C99
 CHILL
 COBOL
 C Sharp (programming language)
-Cable modem
-Charles Severance (computer scientist)
 Chris Hecker
-CiteSeerX (identifier)
 Common Criteria
 Common Logic
-Common logarithm
 Compact Disc Digital Audio
 Comparative Tracking Index
 Computer Graphics Metafile
-Computer number format
-Concept of operations
-Control Data Corporation
 Coprocessor
-Cos (trigonometry)
-Cosh (mathematical function)
-Courant Institute of Mathematical Sciences
 Cray
 DNP3
-Data center bridging
 Decimal
-Decimal128 floating-point format
-Decimal32 floating-point format
-Decimal64 floating-point format
-Densely packed decimal
-Deprecation
 Digital Addressable Lighting Interface
-Directed rounding
-Discontinuous function
-Distributed Interactive Simulation
-Division by zero
 Document Style Semantics and Specification Language
 Doi (identifier)
 Dot product
-Double-precision floating-point format
-DySPAN
 ECMAScript
 ECMAScript for XML
 EN 62262
 E series of preferred numbers
 Ethernet
 Exclusive or
-Exp(x)
-Exp(x)−1
-Exponent bias
-Exponential growth
 Exponentiation
-Extended precision
-Extended real number line
 Fieldbus
 File Allocation Table
-Financial calculator
-Fixed-point arithmetic
-Floating-point arithmetic
-Floating-point unit
-Floating point
 Full BASIC
-Futurebus
-G.711
-Gamma function
 GitHub
 Graph Query Language
 Graphical Kernel System
 Guidelines for the Definition of Managed Objects
 HTML
 Half-precision floating-point format
-Hewlett-Packard
-High-level architecture
-Hypot
-IBM System z9
-IBM hexadecimal floating-point
-IBM z10
-IBM z13 (microprocessor)
-IBM z196
-IBM zEC12 (microprocessor)
 IEC 60027
 IEC 60034
 IEC 60038
@@ -184,7 +59,6 @@ IEC 60870-5
 IEC 60870-6
 IEC 60906-1
 IEC 60929
-IEC 60980-344
 IEC 61030
 IEC 61131
 IEC 61131-3
@@ -207,7 +81,6 @@ IEC 62196
 IEC 62264
 IEC 62304
 IEC 62325
-IEC 62351
 IEC 62366
 IEC 62379
 IEC 62455
@@ -218,188 +91,39 @@ IEC 63119
 IEC 63382
 IEC 81346
 IEEE
-IEEE-488
-IEEE 1164
-IEEE 1219
-IEEE 1284
-IEEE 1355
-IEEE 1394
-IEEE 1451
-IEEE 1471
-IEEE 1541-2002
-IEEE 1547
-IEEE 1584
-IEEE 1613
-IEEE 1619
-IEEE 1667
-IEEE 1675-2008
-IEEE 1722
-IEEE 1733
-IEEE 1849
-IEEE 1855
-IEEE 1901
-IEEE 1905
 IEEE 2030
-IEEE 693
-IEEE 754-1985
-IEEE 754-2008 revision
 IEEE 802
-IEEE 802.1
-IEEE 802.10
-IEEE 802.11
-IEEE 802.11-1997
-IEEE 802.11 (legacy mode)
-IEEE 802.11a-1999
-IEEE 802.11ac
-IEEE 802.11ad
-IEEE 802.11af
-IEEE 802.11ah
-IEEE 802.11ai
-IEEE 802.11aj
-IEEE 802.11ax
-IEEE 802.11ay
 IEEE 802.11b-1999
-IEEE 802.11bb
-IEEE 802.11be
-IEEE 802.11bn
-IEEE 802.11c
-IEEE 802.11d-2001
 IEEE 802.11e-2005
-IEEE 802.11g-2003
-IEEE 802.11h-2003
 IEEE 802.11i-2004
-IEEE 802.11j-2004
 IEEE 802.11k-2008
-IEEE 802.11n-2009
-IEEE 802.11p
 IEEE 802.11r-2008
-IEEE 802.11s
 IEEE 802.11u
-IEEE 802.11v
 IEEE 802.11w-2009
 IEEE 802.11y-2008
-IEEE 802.11z
-IEEE 802.15
-IEEE 802.15.1
-IEEE 802.15.2
-IEEE 802.15.3
 IEEE 802.15.4
 IEEE 802.15.4a
-IEEE 802.15.4b
-IEEE 802.15.4c
-IEEE 802.15.4d
-IEEE 802.15.4e
-IEEE 802.15.4f
-IEEE 802.15.4g
-IEEE 802.15.4z
-IEEE 802.15.5
-IEEE 802.15.6
-IEEE 802.15.7
-IEEE 802.16
-IEEE 802.18
-IEEE 802.1AE
-IEEE 802.1AS
-IEEE 802.1D
-IEEE 802.1Q
-IEEE 802.1Qav
-IEEE 802.1Qbb
-IEEE 802.1X
 IEEE 802.1ad
-IEEE 802.1ag
-IEEE 802.1ah-2008
-IEEE 802.1aq
-IEEE 802.2
 IEEE 802.20
-IEEE 802.21
-IEEE 802.22
-IEEE 802.24
 IEEE 802.3
-IEEE 802.3x
-IEEE 802.6
-IEEE 802.7
-IEEE 802.8
-IEEE 802.9
 IEEE 854-1987
-IEEE Computer
-IEEE P1363
-IEEE P1619
 IEEE P1906.1
-IEEE P802.1p
-IEEE Standards Association
 IO-Link
 IP-XACT
 ISBN (identifier)
 ISLISP
-ISO/IEC 10021
-ISO/IEC 10116
-ISO/IEC 10967
-ISO/IEC 11179
-ISO/IEC 11404
-ISO/IEC 11801
-ISO/IEC 12207
-ISO/IEC 14443
-ISO/IEC 14651
-ISO/IEC 15288
-ISO/IEC 15504
-ISO/IEC 15693
-ISO/IEC 15897
-ISO/IEC 17024
-ISO/IEC 17025
-ISO/IEC 18014
-ISO/IEC 19752
-ISO/IEC 19770
-ISO/IEC 19788
-ISO/IEC 20000
-ISO/IEC 2022
-ISO/IEC 21827
-ISO/IEC 24727
-ISO/IEC 24744
-ISO/IEC 27000
-ISO/IEC 27000-series
-ISO/IEC 27002
-ISO/IEC 27040
-ISO/IEC 29119
-ISO/IEC 33001
-ISO/IEC 38500
-ISO/IEC 42010
-ISO/IEC 4909
-ISO/IEC 5218
-ISO/IEC 646
-ISO/IEC 6523
-ISO/IEC 7810
-ISO/IEC 7811
-ISO/IEC 7812
-ISO/IEC 7813
-ISO/IEC 7816
-ISO/IEC 80000
-ISO/IEC 8652
-ISO/IEC 8859
-ISO/IEC 9126
-ISO/IEC 9529
-ISO/IEC 9995
-ISO/IEC JTC 1
-ISO/IEEE 11073
 ISSN (identifier)
-Infinity
 Institute of Electrical and Electronics Engineers
-Inter-Access Point Protocol
 International Electrotechnical Commission
 International Organization for Standardization
 International Standard Identifier for Libraries and Related Organizations
-Interval arithmetic
 JBIG
 JPEG 2000
 JPEG XL
 JTAG
 Java (programming language)
-Kahan summation algorithm
-LCCN (identifier)
-Link Aggregation Control Protocol
-Link Layer Discovery Protocol
-Link aggregation
 Linux Standard Base
 List of IEC standards
-Ln(1+x)
 MHEG-5
 MPEG-1
 MPEG-2
@@ -409,92 +133,27 @@ MPEG-7
 MPEG-A
 MPEG-D
 MPEG-H
-Micro T-Kernel
-Microsoft Binary Format
-Mike Cowlishaw
-Minifloat
 Mixed raster content
-Motorola 68881
-Multiple Registration Protocol
-Multiples of π
-Multiply–accumulate operation
-NaN
-Nathalie Revol
-Natural logarithm
 New York University
 Nth root
-Numerical analyst
-Octuple-precision floating-point format
-Ones' complement
 OpenDocument
 Open Data Protocol
 Open Document Architecture
-Open Firmware
-Optimizing compiler
 PHIGS
-PILOT
 POSIX
-POWER6
-POWER7
-POWER8
-Power Management Bus
-Precision Time Protocol
 Project management
-Property Specification Language
-Provider Backbone Bridge Traffic Engineering
 QR code
-Quadruple-precision floating-point format
 RELAX NG
 RKM code
-Reciprocal square root
 Requirements engineering
-Resilient Packet Ring
 Risk management
-Rosetta-lang
 Rounding
-RuBee
-Run-time environment
-Runtime system
 S2CID (identifier)
-Scalable Coherent Interface
-Scientific calculator
-Service Interoperability in Ethernet Passive Optical Networks
-Sign-magnitude
-Signed zero
-Significand
-Significant figures
-Sin (trigonometry)
-Single-precision floating-point format
-Single UNIX Specification
-Sinh (mathematical function)
-Society for Industrial and Applied Mathematics
 Software configuration management
-Software design description
 Software maintenance
 Software portability
 Software quality assurance
-Software requirements specification
-Software test documentation
-Spanning Tree Protocol
-Springer International Publishing AG
-Square root
-Standard Apple Numerics Environment
-Standard Delay Format
-Stream Reservation Protocol
-Strictfp
-Subnormal number
-Subnormal numbers
 SystemC
-SystemVerilog
-Table-maker's dilemma
-Tan (trigonometry)
 Tanh (mathematical function)
-Tapered floating point
-Technical standard
-TensorFloat-32
-Token Ring
 Token bus network
 Topic map
-Total order
-Trigonometric functions
-Two's-complement

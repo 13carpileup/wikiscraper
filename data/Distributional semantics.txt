@@ -1,163 +1,22 @@
-AI-complete
 ArXiv (identifier)
-Argument mining
-Automated essay scoring
 Automatic identification and data capture
-Automatic summarization
-BERT (language model)
-BabelNet
-Bag-of-words model
-Bank of English
-Bigram
-Bob Coecke
 Chatbot
-CiteSeerX (identifier)
-Co-occurrence
-Cognitive science
-Collocation extraction
-Compositional distributional semantics
-Compound-term processing
 Computational linguistics
-Computer-assisted reviewing
-Computer-assisted translation
-Concept mining
-Conceptual space
-Concordancer
-Construction grammar
-Context (language use)
-Coreference
-Corpus linguistics
-Cosine similarity
-DBpedia
-Data-sparsity
 Data mining
-Deep linguistic processing
-Distant reading
-Distributionalism
-Distributional–relational database
-Document-term matrix
-Document classification
-Document clustering
 Doi (identifier)
 Entropy (information theory)
-Example-based machine translation
-Explicit semantic analysis
-FastText
 Formal semantics (natural language)
-FrameNet
-Gensim
-George Furnas
-GloVe
-Google Ngram Viewer
-Grammar checker
 Hallucination (artificial intelligence)
-Hyperspace Analogue to Language
 ISBN (identifier)
-Information extraction
 Information retrieval
 Interactive fiction
-J. R. Firth
-Keyword clustering
-Language model
-Language resource
-Large language model
-Latent Dirichlet allocation
-Latent semantic analysis
-Lemmatisation
-Lexical analysis
-Lexical resource
 Lexical semantics
-Linguistic Linked Open Data
 Linguistics
-Machine-readable dictionary
-Machine translation
-Magnus Sahlgren
-Mehrnoosh Sadrzadeh
-Minkowski distance
-Multi-document summarization
-N-gram
-Named-entity recognition
-Named entities recognition
-Natural-language user interface
-Natural Language Toolkit
-Natural language generation
 Natural language processing
-Natural language understanding
-Neural machine translation
-Ontology learning
-Optical character recognition
-Pachinko allocation
-Parallel text
-Paraphrasing (computational linguistics)
-Parsing
-Part-of-speech tagging
-Phraseme
-Pointwise mutual information
-Poverty of the stimulus
-Predictive text
-Pronunciation assessment
-PropBank
 Question answering
-Random indexing
-Rule-based machine translation
 S2CID (identifier)
-Scott Deerwester
-SemEval
-Semantic analysis (machine learning)
-Semantic decomposition (natural language processing)
-Semantic folding
-Semantic mapping (literacy)
-Semantic network
 Semantic parsing
-Semantic role labeling
-Semantic similarity
-Semantic theory
-Sentence embedding
-Sentence extraction
-Sentiment analysis
-Seq2seq
-Shallow parsing
-Similarity-based generalization
-Similarity measure
-Simple Knowledge Organization System
 Singular value decomposition
-SpaCy
-Speech corpus
-Speech recognition
-Speech segmentation
-Speech synthesis
-Spell checker
-Statistical machine translation
-Statistical semantics
-Stemming
-Stop word
-Susan Dumais
-Syntactic parsing (computational linguistics)
-Syntax guessing
-Terminology extraction
-Text corpus
 Text mining
-Text processing
-Text segmentation
-Text simplification
-Textual entailment
-Thesauri
-Thesaurus (information retrieval)
-Thomas Landauer
-Topic model
-Transfer-based machine translation
-Treebank
-Trigram
-Truecasing
-UBY
-Universal Dependencies
 University of Oxford
-Virtual assistant
-Voice user interface
 Wikidata
-Word
-Word-sense induction
-Word2vec
-WordNet
-Word embedding
-Zellig Harris

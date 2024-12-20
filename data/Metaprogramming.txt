@@ -1,258 +1,69 @@
-.NET
 Abductive logic programming
-Action language
-Actor model
-Agent-oriented programming
 Algebraic modeling language
 Anonymous function
-Answer set programming
 Application programming interface
-Applicative programming language
-Array programming
 Artificial intelligence
-Aspect-oriented programming
-Aspect weaver
 Assembly language
-Attribute-oriented programming
-Automata-based programming
 Automatic mutual exclusion
-Automatic programming
-Bayesian program synthesis
-Block (programming)
-C++ Templates
-CICS
 COBOL
 C (programming language)
 C Sharp (programming language)
-Charles Simonyi
-Choreographic programming
-Class-based programming
-Clojure (programming language)
-Command language
 Common Intermediate Language
-Common Lisp
-Common Lisp Object System
-Comparison of code generation tools
-Comparison of functional programming languages
-Comparison of multi-paradigm programming languages
 Comparison of programming languages (object-oriented programming)
-Compile-time function execution
-Compile time
-Compiled language
 Compiler
 Component-based software engineering
 Computer program
 Computer programming
-Concatenative programming language
 Concurrent computing
-Concurrent constraint logic programming
-Concurrent logic programming
-Concurrent object-oriented programming
-Constraint logic programming
-Constraint programming
-Context-free grammar
 D (programming language)
 Data
 Data-driven programming
-Data-oriented design
 Dataflow programming
 Declarative programming
 Dependent type
 Design by contract
-Differentiable programming
 Distributed computing
 Doi (identifier)
 Domain-specific language
-Dynamic program analysis
-Dynamic programming language
-Elixir (programming language)
-End-user development
-Esoteric programming language
-Event-driven programming
-Expression-oriented programming language
-Extensible programming
-Feature-oriented programming
-Fifth-generation programming language
-Filter (software)
-First-class object
-First-generation programming language
-Flow-based programming
-Forth (programming language)
-Fourth-generation programming language
-Frink (programming language)
-Function-level programming
-Functional logic programming
-Functional programming
-Functional reactive programming
 Generalized algebraic data type
-Generative programming
-Generic programming
 Genetic programming
-Grammar-oriented programming
-Graph rewriting
-Groovy (programming language)
 Halting problem
-Haxe
-High-level programming language
-Higher-order programming
-Homoiconicity
-Hygienic macro
 IBM
-IBM/360
 ISBN (identifier)
 ISSN (identifier)
-Immutable object
 Imperative programming
-Inductive logic programming
-Inductive programming
-Inferential programming
-Instruction set simulator
-Intentional Programming
-Intentional programming
-Interactive programming
-Interface description language
-Interpreted language
-Invariant-based programming
-Jackson structured programming
 JavaScript
-Julia (programming language)
-Krzysztof Czarnecki
-Language-oriented programming
-Lex programming tool
-Lexical analysis
 Lisp (programming language)
-Lisp machine
 List comprehension
-List of object-oriented programming languages
-List of program transformation systems
 Literate programming
-Logic programming
-Low-code development platform
-Low-level programming language
-Lua (programming language)
-MASM
-Machine code
 Machine learning
-MacroML
 Macro (computer science)
-Macro assembler
-Macroprogramming
 Metaclass
-Metacompiler
 Metalanguage
-Metalinguistic abstraction
-Metaobject
 Modeling language
 Modular programming
 Multi-stage programming
-Multitier programming
-NIL (programming language)
 Natural-language programming
-Nested function
-Nim (programming language)
-Non-English-based programming languages
 Non-structured programming
-Nondeterministic programming
-OCaml
-Object-based language
 Object-oriented programming
-Object Pascal
-Ontology language
-Organic computing
-Out-of-order execution
 PHP
-Page description language
-Paradigm
 Parallel computing
 Parallel programming model
 Parameter (computer programming)
-Parsing
 Partial application
 Partial evaluation
-Partitioned global address space
-Pascal Script
 Pattern matching
 Perl
-Persistent programming language
-Pipeline (software)
-Probabilistic logic programming
-Probabilistic programming
 Procedural programming
-Process-oriented programming
-Production system (computer science)
-Program synthesis
-Program transformation
-Programming by demonstration
-Programming by example
-Programming in the large and programming in the small
 Programming language
-Programming language generations
 Programming paradigm
 Prolog
-Prototype-based programming
-Purely functional programming
 Python (programming language)
-Quantum programming
-Query language
-Quine (computing)
-R (programming language)
-Racket (programming language)
-Reactive programming
-Rebol
-Recursion (computer science)
-Reflective programming
 Regular expression
-Relativistic programming
-RemObjects
-Role-oriented programming
 Ruby (programming language)
-Runtime (program lifecycle phase)
-Runtime system
-Rust (programming language)
 S2CID (identifier)
-SAS (software)
-SNOBOL
-Scala (programming language)
-Scheme (programming language)
 Scientific programming language
-Script (computer programming)
 Scripting language
-Second-generation programming language
-Self-interpreter
 Self-modifying code
-Separation of concerns
-Service-oriented programming
-Set theoretic programming
-Signal programming
-Simulation language
-Smalltalk
-Source code generation
 Spacecraft command language
-Stack-oriented programming
 Stream processing
-Strict programming language
-Structured concurrency
-Structured programming
-Subject-oriented programming
-Symbolic programming
-Synchronous programming language
-System programming language
-Tacit programming
-Tactile programming language
-Tcl
-Template Haskell
-Template metaprogramming
-Template processor
-Third-generation programming language
-Total functional programming
-Transaction processing
-Transcompiler
-Transformation language
-Uniform Function Call Syntax
-Unix shell
-Value-level programming
-Very-large-scale integration
-Very high-level programming language
-Visual programming language
-X Macro
-Yacc

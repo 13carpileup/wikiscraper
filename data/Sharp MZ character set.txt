@@ -17,7 +17,6 @@ ASCII
 ASMO 449
 ATASCII
 Ampersand
-Amstrad CP/M Plus character set
 Amstrad CPC character set
 Apostrophe
 Apple II character set
@@ -33,7 +32,6 @@ Big5
 Binary Ordered Compression for Unicode
 Bitstream International Character Set
 BraSCII
-Break key
 C
 C0 and C1 control codes
 CCSID
@@ -52,8 +50,6 @@ Character encodings in HTML
 Charset detection
 Chinese Character Code for Information Interchange
 Chinese telegraph code
-Circumflex accent
-Clear screen
 Code page
 Code page 1006
 Code page 1008
@@ -70,17 +66,10 @@ Code page 1019
 Code page 1020
 Code page 1021
 Code page 1023
-Code page 1034
 Code page 1040
 Code page 1042
 Code page 1043
-Code page 1044
 Code page 1046
-Code page 1052
-Code page 1053
-Code page 1054
-Code page 1055
-Code page 1056
 Code page 1058
 Code page 1098
 Code page 1101
@@ -119,7 +108,6 @@ Code page 853
 Code page 855
 Code page 856
 Code page 857
-Code page 858
 Code page 859
 Code page 860
 Code page 861
@@ -136,7 +124,6 @@ Code page 896
 Code page 897
 Code page 899
 Code page 903
-Code page 904
 Code page 912
 Code page 915
 Code page 921
@@ -151,14 +138,11 @@ Code page 950
 Code page 951
 Colon (punctuation)
 Comma
-Commercial at
 Comparison of Unicode encodings
 Compucolor II character set
 Control character
 Cooke and Wheatstone telegraph
 Cork encoding
-Cursor key
-Cursor keys
 D
 DEC Hebrew
 DEC RADIX 50
@@ -168,7 +152,6 @@ DG International
 DIN 66003
 DIN 91379
 DKOI
-Delete character
 Digital Equipment Corporation
 Digital encoding of APL symbols
 Dollar sign
@@ -183,7 +166,6 @@ F
 FOCAL character set
 Fieldata
 Full stop
-Function key
 G
 GBK (character encoding)
 GB 12052
@@ -202,12 +184,10 @@ HZ (character encoding)
 Han unification
 Hardware code page
 Hiragana
-Home key
 Hong Kong Supplementary Character Set
 Hyphen-minus
 I
 IBM AIX
-IEC-P27-1
 INIS-8
 INIS character set
 ISO-IR-111
@@ -216,26 +196,6 @@ ISO-IR-182
 ISO-IR-197
 ISO-IR-200
 ISO-IR-68
-ISO/IEC 10367
-ISO/IEC 2022
-ISO/IEC 646
-ISO/IEC 8859
-ISO/IEC 8859-1
-ISO/IEC 8859-10
-ISO/IEC 8859-11
-ISO/IEC 8859-12
-ISO/IEC 8859-13
-ISO/IEC 8859-14
-ISO/IEC 8859-15
-ISO/IEC 8859-16
-ISO/IEC 8859-2
-ISO/IEC 8859-3
-ISO/IEC 8859-4
-ISO/IEC 8859-5
-ISO/IEC 8859-6
-ISO/IEC 8859-7
-ISO/IEC 8859-8
-ISO/IEC 8859-9
 ISO 2033
 ISO 5426
 ISO 5427
@@ -244,10 +204,7 @@ ISO 6438
 ISO 6862
 ITU T.61
 Indian Script Code for Information Interchange
-Insert key
-Intecolor/Compucolor 8001 character set
 Intellectual property
-Inverse video
 Iran System encoding
 J
 JIS X 0201
@@ -281,8 +238,6 @@ M
 MARC-8
 MIK (character set)
 MSX character set
-MZ-700
-MZ-800
 MacArabic encoding
 MacFarsi encoding
 MacGreek encoding
@@ -301,7 +256,6 @@ Mac OS Hebrew
 Mac OS Icelandic encoding
 Mac OS Inuit
 Mac OS Keyboard encoding
-Mac OS Maltese/Esperanto encoding
 Mac OS Ogham
 Mac OS Roman
 Mac OS Romanian encoding
@@ -331,18 +285,13 @@ OMS encoding
 OT1 encoding
 Overline
 P
-PEEK and POKE
 PETSCII
 Pac-Man
-Percent
 Percent sign
 Perso-Arabic Script Code for Information Interchange
 Pi (letter)
-Plus sign
 PostScript Latin 1 Encoding
 PostScript Standard Encoding
-Pound sign
-Private Use Area
 Prosigns for Morse code
 Q
 Question mark
@@ -355,26 +304,19 @@ Right parenthesis
 Right square bracket
 Russian Morse code
 S
-SAM Coupé character set
 SI 960
 SQUOZE
 Sega SC-3000 character set
 Semicolon
-Sharp Corporation
-Sharp MZ
 Sharp pocket computer character sets
 Shift JIS
-Shift Lock
 Sinclair QL character set
 Slash (punctuation)
 Space character
-Specials (Unicode block)
 Standard Compression Scheme for Unicode
-Stanford/ITS character set
 Stanford Extended ASCII
 Symbol (typeface)
 T
-T.51/ISO/IEC 6937
 TI calculator character sets
 TRON (encoding)
 TRS-80 character set
@@ -401,7 +343,6 @@ Unicode control characters
 Unified Hangul Code
 Universal Coded Character Set
 V
-V-RAM
 VISCII
 VSCII
 VT100 encoding
@@ -424,9 +365,6 @@ Windows-1256
 Windows-1257
 Windows-1258
 Windows-1270
-Windows Cyrillic + Finnish
-Windows Cyrillic + French
-Windows Cyrillic + German
 Windows Polytonic Greek
 Windows code page
 World System Teletext
@@ -441,18 +379,10 @@ ZX Spectrum character set
 £
 ©
 ±
-Ä
-Ö
-Ü
 ß
-™
 ≠
 ⌠
 ⌡
-♠
 ♣
 ♥
 ♦
-🐍
-😐
-🛸

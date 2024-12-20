@@ -1,315 +1,136 @@
 AOL
 AOL Explorer
-ASN.1
-Aaron Swartz
-Action Message Format
-Adobe Media Player
 Alternative media
-Amarok (software)
 Android (operating system)
 Anonymous blog
-Apache Avro
-Apache Thrift
-Apple Advanced Technology Group
 Apple Inc.
-Apple Mail
-Apple Podcasts
-Application software
-Apress
 Art blog
-Ascii85
 Asterisk
 Astroturfing
 Atom (Web standard)
-Atom (standard)
 Atom (web standard)
-BSON
-Backward-compatible
-Base32
-Base64
-Bencode
-Berkman Klein Center for Internet & Society
-Binary file
-BitLord
 BitTorrent
-BitTorrent (software)
 Blawg
 Blog
-BlogBridge
 Blog carnival
 Blog fiction
-Bloglines
 Blogosphere
-Brent Simmons
 Broadcatching
-CBOR
-Camino (web browser)
-Cap'n Proto
 Citizen journalism
 Classical music blog
-Claws Mail
 Client (computing)
 Columnist
-Comma-separated values
-CommaFeed
 Communication
-Comparison of data-serialization formats
 Comparison of feed aggregators
-Computer icon
-Container format
-Content aggregator
-Cooliris (plugin)
 Corporate blog
-Cyphal
-Dan Libby
-Data exchange
 Data feed
-Data portability
 Database journalism
-Dave Winer
-Daylife
 De facto
-Deluge (software)
-Digg Reader
-DotCMS
 Dream diary
-Drupal
 Dublin Core
-EDIFACT
-Eckart Walther
 Edublog
 Electronic journal
-Email client
 Enhanced podcast
 Escribitionist
-External Data Representation
 Facebook
 Fashion blog
 FeedSync
 Feed URI scheme
-Feed icon
-Feedbin
-Feedly
-Feedreader (Windows Application)
 Filename extension
-Firefox
-FlatBuffers
-Flipboard
-Flock (web browser)
 Food blogging
-FriendFeed
-GNOME Web
-Genieo
 GeoRSS
 Geotagging
 Glossary of blogging
-Gmane
-Gnus
-Google Chrome
-Google Currents (news app)
-Google News
-Google Reader
-HAtom
-HCL Domino
 HTML
 Hashtag
 Health blog
 History of blogging
 History of podcasting
 History of web syndication technology
-Human-readable medium and data
 IANA
-ICab
-IETF
-IFTTT
-IGoogle
 ISBN (identifier)
 ITunes
-Imooty.eu
-Inoreader
 Instant messaging
 Inter-process communication
-Internet Explorer
 Interoperability
-JSON
-JSON Feed
-JSON Web Encryption
-JSON Web Signature
-JSON Web Token
-Jon Udell
 Journalism
-Juice (aggregator)
-K-Meleon
-Kazehakase
-Kontact
 Lifelog
-Liferea
 Linkback
-LinkedIn Pulse
 List of family-and-homemaking blogs
-List of podcast clients
 List of search engines
 Liveblogging
-MIME type
 MP3 blog
-Mac Publishing
-Macworld
-Magnolia (CMS)
-Mark Pilgrim
 Mashup (web application hybrid)
-Maxthon
-MediaMonkey
 Media RSS
 Media type
 Memetics
-MessagePack
-Meta Content Framework
 Metadata
 Microblogging
 Microsoft
-Microsoft Edge
-Microsoft Outlook
-Miro (video software)
 Mobile app
 Mobile blogging
 Mobilecast
-Moreover Technologies
 Mormon blogosphere
 Motovlog
-Mozilla
-Mozilla Firefox
-Mozilla Thunderbird
-My Yahoo!
-NNTP
 Narrowcasting
-NetNewsWire
-Netscape
-Netscape Browser
-Netscape Communications
-Netscape Navigator 9
-Netvibes
-News360
-NewsBlur
-NewsFire
 NewsML
 NewsML-G2
 NewsML 1
 News aggregator
-News aggregators
-Newsbeuter
-Newsknowledge
 Niche blogging
-O'Reilly Media
 OPML
-OS X Mountain Lion
-OmniWeb
 Online diary
-Open file format
-Opera (web browser)
-Opera Mail
-Opera Software
-Otter Browser
-Pageflakes
-Pale Moon
 Pay-per-click
 Peercasting
-Pegasus Mail
 Permalink
 Photoblog
 Photofeed
 Ping (blogging)
 Pingback
-Planet (software)
 Podcast
 Police blog
 Poll aggregator
 Posting style
-Prismatic (app)
 Product feed
 Project diary
-Property list
-Protocol Buffers
-QBittorrent
-QuiteRSS
 RELAX NG
-RFC (identifier)
-RSS-DEV Working Group
-RSSOwl
 RSS Advisory Board
-RSS Bandit
-RSS Guard
 RSS TV
 RSS editor
 RSS enclosure
 RSS tracking
-Ramanathan V. Guha
-Rashtriya Swayamsevak Sangh
 Reblogging
-Rebol
 Refback
 Reference (computer science)
 Resource Description Framework
 Reverse blog
 Review aggregator
-Rhythmbox
-Rogers Cadenhead
 Rollback (data management)
-Safari (web browser)
-Sage (Mozilla Firefox extension)
 Screencast
-SeaMonkey
 Search aggregator
 Search engine
-Seesmic
-Shelley Powers
-Shiira
 Sideblog
-Six Apart
 Slashdot effect
-Sleipnir (web browser)
 Slidecasting
 Social software
 Software release life cycle
-Songbird (software)
 Spam blog
 Spam in blogs
-Spokeo
-Standardized
 Streaming media
-Structure of Management Information
-TOML
 Tencent
-The Bat!
-The Old Reader
 Thread (Internet)
-Time to live
-Tiny Tiny RSS
 Trackback
 Travel blog
-Tribler
-TweetDeck
 Twitter
-UBJSON
-URI
-USPTO
 Usenet
-UserLand Software
 Uses of podcasting
-Uuencoding
 Video aggregator
 Video blog
 Videocast
-Vivaldi (web browser)
 Vlog
-Vuze
 Warblog
-Waterfox
 Wayback Machine
-WebGUI
-WebSub
-Web Browser
 Web Slice
-Web application
 Web browser
 Web directory
 Web feed
@@ -317,20 +138,9 @@ Web series
 Web syndication
 Webcomic
 Webtoon
-Winamp
 Windows
-Windows Live Mail
-Windows Live Personalized Experience
-WinnowTag
 Wired (magazine)
 World Wide Web
 XBEL
 XML
-XML namespace
 XOXO (microformat)
-YAML
-YEnc
-Zapier
-Zimbra
-Zune
-ΜTorrent

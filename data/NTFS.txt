@@ -1,660 +1,79 @@
-.NET
-.exe
-7-Zip
-8.3 filename
-9P (protocol)
 API
-AXFS
-Access-control list
-Access Control List
-Access control list
-Action Center
-ActiveMovie
-ActiveX
-ActiveX Document
-Active Directory
-Active Directory Rights Management Services
-Active Scripting
 AdvFS
-Advanced Disc Filing System
-Advanced Encryption Standard
-Ahead Software
-Amiga Fast File System
-Amiga Old File System
-Andrew File System
-Apache Hadoop
-AppLocker
-App Installer
-Apple File System
-Apple Filing Protocol
-Apple Partition Map
-Application software
-ArcaOS
-Architecture of Windows 9x
-Architecture of Windows NT
-Asymmetric key algorithm
-AtheOS File System
-Aufs
-AutoPlay
-AutoRun
-Avira
-B-tree
 BIOS
-BIOS parameter block
 BSD
-BSoD
-Background Intelligent Transfer Service
-Backup and Restore
 Backward compatibility
 Bad sector
-Basic Data Partition
-Bcachefs
-Be File System
-BeeGFS
-Berkeley Software Distribution
-BiglyBT
-Bit
-BitLocker
-Boot File System
-Booting process of Windows
 Bootstrapping
-Btrfs
 Byte
-CD Player (Windows)
-CDfs
-CHFS
 CHKDSK
-COMMAND.COM
-COM Structured Storage
-CXFS
-Calendar (Windows)
-Captive NTFS
-Cardfile
-Case preservation
-Ceph (software)
-Character Map (Windows)
-Chess Titans
-Chmod
 ChromeOS
-Chromium (browser)
-City Art Search
 Classic Mac OS
-ClearType
-Client/Server Runtime Subsystem
-Clipchamp
-Clustered file system
-Cmd.exe
-Coda (file system)
-Common Log File System
-Compact Disc File System
-Comparison of distributed file systems
 Comparison of file systems
-Component Object Model
-Computer access control
-Computer forensics
-Configfs
-Control Panel (Windows)
-Convert (command)
-Copy-on-write
-Cortana (virtual assistant)
-Cramfs
-Credential Guard
-Cryptographic Application Programming Interface
-DESX
-DISM
-DR-DOS
-DVD Player (Windows)
-Data Execution Prevention
-Data cluster
 Data compression
-Data deduplication
 Data scrubbing
-Datalight
-Davfs2
 Daylight saving time
-Debugfs
-Defragmentation
-Desktop Cleanup Wizard
-Desktop Window Manager
-Device Manager
-Device file
 DirectX
-DirectX Diagnostic Tool
-Disc Filing System
-Discretionary access control
-Disk Cleanup
-Disk partition
 Disk partitioning
-Disk quota
-Distributed Component Object Model
-Distributed File System (Microsoft)
-Distributed Transaction Coordinator
 Doi (identifier)
-DriveSpace
-Driver Verifier
-Dynamic-link library
-EComStation
-ECryptfs
-EROFS
-Elliptics
-EncFS
-Encrypting File System
-Endianness
-Enhanced Write Filter
-Episode filesystem
-Event Viewer
-ExFAT
-Exabyte
-Execute in place
-Ext2
-Ext3
-Ext3cow
-Ext4
-Extended file attributes
-Extended file system
-Extent (file systems)
-Extent File System
-External hard drives
-F2FS
 FAT12
 FAT16
 FAT32
-FAT filesystem and Linux
-FTPFS
-Feedback Hub
-File-system permissions
 File Allocation Table
-File Explorer
-File Replication Service
-File attribute
-File change log
-File compression
-File manager
 File system
-File system API
-File system fragmentation
-File system permissions
-Files-11
-Filesystem-level encryption
-Filesystem in Userspace
-Firefox
-Flash file system
-Flash memory
-Folder redirection
-Fork (file system)
-Forward compatibility
-Fossil (file system)
-Fragmentation (computing)
 FreeBSD
-Full Tilt! Pinball
-GFS2
 GNU General Public License
-GPFS
-GUI
-GUID Partition Table
 Games for Windows
-Get Help
-Gigabyte
-Global file system
-Google Chrome
-Google File System
-Graphics Device Interface
-Grid file system
-Groove Music
-GroupLogic
-Group Policy
-HAMMER2
-HAMMER (file system)
-HFS Plus
-HPFS (file system)
-Haiku (operating system)
-Hard disk drive performance characteristics
 Hard disk drives
-Hard link
 Hdl (identifier)
-Help and Support Center
-Hierarchical File System (Apple)
-Hierarchical File System (IBM MVS)
-Hierarchical file system
-High Performance File System
-High Sierra Format
-High Throughput File System
-Hover!
-Huffman encoding
-Hyper-V
-HyperACCESS
-I/O request packet
 IBM
-IExpress
-IFilter
-INI file
 ISBN (identifier)
 ISO 13490
 ISO 9660
 ISSN (identifier)
-Imaging for Windows
-Indexing Service
-InkBall
-Inode
-Inode number
-Installable File System
-Integer (computer science)
 Interface (computing)
-Interix
-Internet Explorer
-Internet Information Services
-JFFS
-JFFS2
-JFS (file system)
-JMP (x86 instruction)
-JScript
-Journaling file system
-Kernel Patch Protection
-Kernel Transaction Manager
-Kernel panic
-Kernfs (BSD)
-Key-value store
 Kilobyte
-LZ77
-LZX
-Linear Tape File System
 Linux
 Linux kernel
-List of Microsoft Windows application programming interfaces and frameworks
-List of Microsoft Windows components
-List of cryptographic file systems
-List of default file systems
 List of file systems
 List of games included with Windows
-List of log-structured file systems
-Lnfs
-Local Security Authority Subsystem Service
-Log-structured File System (BSD)
-Log-structured file system
-LogFS
-Logical Disk Manager
-Logical block addressing
-Lustre (file system)
-MINIX file system
 MS-DOS
-MS-DOS 7
-MSConfig
-MSDN
-MSDN Library
 MSN
-MSN Dial-up
-MSN Food & Drink
-MSN Health & Fitness
 MVS
 MacOS
-Mac OS X 10.3
-Mac OS X Panther
-Mac OS X Snow Leopard
-Macintosh File System
-Magnifier (Windows)
-Mail (Windows)
-Make Compatible
 Malware
-Mandatory Integrity Control
-Mandatory access control
-Mark Russinovich
-Master Boot Record
-Master boot record
-Media Control Interface
-Megabyte
 Metadata
 Microsoft
-Microsoft 3D Viewer
-Microsoft Copilot
-Microsoft DNS
-Microsoft Defender Antivirus
 Microsoft Developer Network
-Microsoft Diagnostics
-Microsoft Distributed Transaction Coordinator
 Microsoft Docs
-Microsoft Drive Optimizer
-Microsoft Edge
-Microsoft Fax
-Microsoft FreeCell
-Microsoft Hearts
-Microsoft Learn
-Microsoft Mahjong
-Microsoft Management Console
-Microsoft Mesh
-Microsoft Message Queuing
-Microsoft Messaging
-Microsoft Minesweeper
-Microsoft Movies & TV
-Microsoft NetMeeting
-Microsoft OneNote
-Microsoft POSIX subsystem
-Microsoft Paint
-Microsoft Pay
-Microsoft Personal Web Server
-Microsoft Press
-Microsoft ScanDisk
-Microsoft Solitaire
-Microsoft Solitaire Collection
-Microsoft Spider Solitaire
-Microsoft Start
 Microsoft Store
-Microsoft TechNet
-Microsoft Tinker
-Microsoft Tips
-Microsoft Transaction Server
 Microsoft Windows library files
-Microsoft Write
-Microsoft family features
-MinWin
-Multi-boot
-Multi-core processor
-Multimedia Class Scheduler Service
-NILFS
-NOP (code)
-NOVA (filesystem)
-NTBackup
-NTFS-3G
-NTFS3
-NTFSDOS
-NTFS junction point
-NTFS links
-NTFS reparse point
-NTFS symbolic link
-NTFS volume mount point
-NTLDR
-Narrator (Windows)
-Nero Burning ROM
 NetBSD
-NetWare Core Protocol
-NetWare File System
-Netsh
-Network-attached storage
-Network Access Protection
-Network File System
-Next-Generation Secure Computing Base
-Next3
-Non-Volatile File System
-Novell Storage Services
-Ntfsresize
-Ntoskrnl.exe
 Null character
-O'Reilly Media
-OCFS2
-OEM
-OLE Automation
-OS/2
-Object Linking and Embedding
-Object Manager
-Object Manager (Windows)
-Object storage
-OneDrive
-OneFS distributed file system
-OpenAFS
-OpenBSD
-OpenBSD Journal
-OpenZFS
-Open XML Paper Specification
 Operating system
 Optical disc
-Oracle Solaris
-Oracle ZFS
-OrangeFS
-Outlook Express
-OverlayFS
 POSIX
-Pagefile
-Paint 3D
-Paragon Software Group
-Parallel Virtual File System
-Partition type
-People (Windows)
-Performance Monitor
-Petabyte
-Phone Companion
-Phone Link
-Photos (Windows)
-Portable Executable
-PowerShell
-Previous Versions
-Print Services for UNIX
-Private key
-Problem Steps Recorder
-Procfs
-Professional File System
-Program Manager
-Protected Media Path
-Public key cryptography
-Purble Place
-QFS
 QNX
-QNX4FS
-Quantcast File System
-Quick Assist
-Range coding
-Rational MultiVersion File System
-ReFS
 ReactOS
-Record-oriented filesystem
-Recovery Console
-Reflection (programming)
-Reiser4
-ReiserFS
-Remote Desktop Connection
-Remote Desktop Services
-Remote Differential Compression
-Remote File Sharing
-Remote Installation Services
-Reparse point
-Resource Monitor
-Resource fork
-Roaming user profile
-Root directory
-Rubberhose (file system)
 S2CID (identifier)
 SD Card
-SSD
-SSHFS
 Seagate Technology
-Security Account Manager
-Security Descriptor
-Security and Maintenance
-Security descriptor
-Security identifier
-Self-certifying File System
-Semantic file system
 Server (computing)
-Server Core
-Server Message Block
-Service Control Manager
-Session Manager Subsystem
-Settings (Windows)
-Shadow Copy
-Shadow copy
-SharePoint
-Skype
-Smart File System
-Snipping Tool
-Soft updates
-Software architecture
 Software developer
 Solid-state drive
-Sound Recorder (Windows)
-Soup (Apple)
-Sparse file
-Special folder
-Spoofing (anti-piracy measure)
-SquashFS
-Standard time
-Start menu
-Steganographic file system
-Sticky Notes
-Sticky bit
-StorNext File System
-Stream (computing)
 Sun Microsystems
-Surf (video game)
-Symbolic link
-Symmetric key algorithm
-Synthetic file system
-Sysfs
-Syskey
-Sysprep
-System File Checker
-System Idle Process
-System Information (Windows)
-System Policy Editor
-System Restore
-Task Manager (Windows)
-Task View
-Taskbar
-Telemetry
-Terabyte
-TiVo Media File System
-Timestamp
-Tmpfs
-Tom Miller (computer programmer)
-Transaction-Safe FAT File System
-Transactional NTFS
-Travel (Windows)
-Triple DES
-Tux3
-Tuxera
-UBIFS
 USB
-USN Journal
-UTC
 UTF-16
-Unified Extensible Firmware Interface
-UnionFS
 Universal Disk Format
-Universal Windows Platform
 University of Cambridge
-Unix File System
-Unix filesystem
-User Account Control
-User Interface Privilege Isolation
-VBScript
 VM (operating system)
-Veritas File System
-Versioning file system
-Video for Windows
 Video game
-Virtual DOS machine
-Virtual file system
-Virtual folder
-Volume Shadow Copy
-Volume boot record
-Volume label
-Volume serial number
-Wear leveling
-Win32
-WinFS
-WinHelp
-WinRE
-WinUSB
 Windows
 Windows 10
 Windows 11
-Windows 2000
-Windows 7
 Windows 8
 Windows 8.1
-Windows 9x
 Windows API
-Windows Address Book
-Windows Aero
-Windows Anytime Upgrade
-Windows Assessment and Deployment Kit
-Windows Boot Manager
-Windows Calculator
-Windows Camera
-Windows CardSpace
-Windows Chat
-Windows Clock
-Windows Console
-Windows Contacts
-Windows DVD Maker
-Windows Deployment Services
-Windows Desktop Gadgets
-Windows Easy Transfer
-Windows Error Reporting
-Windows Fax and Scan
-Windows File Manager
-Windows File Protection
-Windows Firewall
-Windows Hardware Error Architecture
-Windows Imaging Format
-Windows Ink
-Windows Insider
-Windows Installer
-Windows Journal
-Windows Management Instrumentation
-Windows Maps
-Windows Media Center
-Windows Media Player
-Windows Media Player (2022)
-Windows Media Services
-Windows Meeting Space
-Windows Messaging
-Windows Messenger
 Windows Mixed Reality
-Windows Mobile Device Center
-Windows Mobility Center
-Windows Movie Maker
 Windows NT
-Windows NT 3.1
-Windows NT 3.5
-Windows NT 3.51
-Windows NT 4.0
-Windows Native API
-Windows Notepad
-Windows Photo Gallery
-Windows Photo Viewer
-Windows PowerShell
-Windows Preinstallation Environment
-Windows Registry
-Windows Resource Protection
-Windows Runtime
-Windows Script Host
-Windows Search
-Windows Server 2003
-Windows Server 2008 R2
-Windows Server 2012
-Windows Server 2016
-Windows Server 2019
-Windows Server Update Services
-Windows Services for UNIX
-Windows Shell namespace
-Windows SideShow
-Windows Speech Recognition
-Windows Spotlight
-Windows Subsystem for Linux
-Windows System Assessment Tool
-Windows System Resource Manager
-Windows Task Scheduler
-Windows To Go
-Windows USER
-Windows Ultimate Extras
-Windows Update
-Windows Vista
-Windows XP
-Windows XP visual styles
-Windows domain
-Windows on Windows
-Windows service
-Windows shell
-Winlogon
-Wireless Zero Configuration
-WoW64
-WordPad
-Write Ahead Physical Block Logging
-Write Anywhere File Layout
-XFS
 Xbox (app)
-Xiafs
-Xsan
-YAFFS
-Z/OS
-Z/VM
-ZFS
-ZFS (z/OS file system)

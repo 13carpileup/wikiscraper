@@ -1,19 +1,10 @@
-2-EXPTIME
-AC0
-ACC0
-ALL (complexity)
-APX
 Abstract logic
 Ackermann set theory
 Aleph number
 Algebraic logic
 Alphabet (formal languages)
-American Scientist
-Approximation algorithm
 Argument
-Arithmetical hierarchy
 Arity
-Arthur–Merlin protocol
 Atomic formula
 Atomic sentence
 Automata theory
@@ -22,21 +13,12 @@ Axiom
 Axiom of choice
 Axiom schema
 Axiomatic system
-Axiomatization of Boolean algebras
-BPP (complexity)
-BQP
 Banach–Tarski paradox
-Big-O notation
 Bijection
 Binary operation
-Binary search
 Boolean algebra
 Boolean algebras canonically defined
 Boolean function
-Boolean hierarchy
-Boolean satisfiability problem
-Boolean variable
-CC (complexity)
 Cantor's diagonal argument
 Cantor's paradox
 Cantor's theorem
@@ -46,29 +28,20 @@ Categorical theory
 Category (mathematics)
 Category of sets
 Category theory
-Certificate (complexity)
-Charles E. Leiserson
 Church encoding
 Church–Turing thesis
 Class (set theory)
 Classical logic
-Clifford Stein
-Co-NP
-Co-NP-complete
 Codomain
 Compactness theorem
 Complement (set theory)
 Complete theory
-Complexity Zoo
-Complexity class
 Computability theory
 Computable function
 Computable set
 Computably enumerable set
-Computation tree
 Computational complexity theory
 Computer science
-Concatenation
 Concrete category
 Conservative extension
 Consistency
@@ -77,21 +50,11 @@ Construction of the real numbers
 Constructive set theory
 Continuum hypothesis
 Countable set
-DLOGTIME
-DSPACE
-DTIME
-David Harel
 Decidability (logic)
 Decision problem
-Deductive system
-Descriptive complexity theory
-Deterministic Turing machine
 Diagram (mathematical logic)
 Doi (identifier)
 Domain of a function
-ELEMENTARY
-EXPSPACE
-EXPTIME
 Element (mathematics)
 Elementary diagram
 Elementary equivalence
@@ -102,17 +65,11 @@ Equiconsistency
 Equivalence relation
 Euclid's Elements
 Euclidean geometry
-Euler diagram
 Existential quantification
-Exponential hierarchy
 Expression (mathematics)
 Extension by definitions
 Extension by new constant and function names
 Extensionality
-FL (complexity)
-FNP (complexity)
-FP (complexity)
-Fagin's theorem
 Finitary relation
 Finite-valued logic
 Finite model theory
@@ -120,11 +77,9 @@ Finite set
 First-order logic
 Fixed-point logic
 Forcing (mathematics)
-Fork (system call)
 Formal grammar
 Formal language
 Formal proof
-Formal semantics (logic)
 Formal system
 Formation rule
 Foundations of geometry
@@ -137,8 +92,6 @@ Fuzzy set
 General set theory
 Grothendieck universe
 Ground expression
-Ground formula
-Grzegorczyk hierarchy
 Gödel's completeness theorem
 Gödel's incompleteness theorems
 Gödel numbering
@@ -148,8 +101,6 @@ Higher-order logic
 Hilbert's axioms
 Hilbert system
 History of logic
-History of mathematical logic
-IP (complexity)
 ISBN (identifier)
 Image (mathematics)
 Inaccessible cardinal
@@ -161,35 +112,22 @@ Information theory
 Inhabited set
 Injective function
 Integer
-Integer factorization problem
-Interactive proof system
 Interpretation (logic)
 Interpretation (model theory)
-Interpretation function
-Intersection
 Intersection (set theory)
-Introduction to Algorithms
 Isomorphism
-Kleene star
 Kolmogorov complexity
-Kripke's theory of truth
 Kripke–Platek set theory
-L (complexity)
-Ladner's theorem
 Lambda calculus
 Large cardinal
 Lemma (mathematics)
 Lindström's theorem
-List of Hilbert systems
-List of NP-complete problems
 List of axioms
-List of complexity classes
 List of first-order theories
 List of formal systems
 List of mathematical theories
 List of set identities and relations
 List of statements independent of ZFC
-List of unsolved problems in computer science
 Logic
 Logical biconditional
 Logical conjunction
@@ -209,23 +147,13 @@ Mathematical logic
 Mathematical object
 Mathematical proof
 Metalanguage
-Michael Sipser
 Minimal axioms for Boolean algebra
 Model complete theory
 Model theory
 Monadic predicate calculus
 Monadic second-order logic
 Morse–Kelley set theory
-NC (complexity)
-NEXPTIME
-NL-complete
-NL (complexity)
 NP-complete
-NP-completeness
-NP-hard
-NP-hardness
-NSPACE
-NTIME
 Naive set theory
 Natural deduction
 Negation
@@ -234,66 +162,40 @@ Non-Euclidean geometry
 Non-logical symbol
 Non-standard model
 Non-standard model of arithmetic
-Nondeterministic Turing machine
-Nondeterministic algorithm
 Open formula
 Operation (mathematics)
 Ordinal analysis
 Ordinal number
-P-complete
-P/poly
-PH (complexity)
-PP (complexity)
-PR (complexity)
-PSPACE
-PSPACE-complete
 P (complexity)
 P versus NP problem
 Paradoxes of set theory
-Parity P
 Partition of a set
 Peano axioms
 Philosophy of mathematics
-Polynomial hierarchy
-Polynomial time
 Power set
 Predicate (mathematical logic)
-Predicate logic
 Predicate variable
-Primality test
 Primitive recursive arithmetic
 Primitive recursive function
 Principia Mathematica
-Probabilistically checkable proof
 Proof of impossibility
 Proof theory
 Proposition
 Propositional calculus
 Propositional formula
-Propositional logic
 Propositional variable
-QMA
 Quantifier (logic)
 Quantifier rank
-RE (complexity)
-RL (complexity)
-RP (complexity)
-R (complexity)
 Recursion
-Recursive set
 Relation (mathematics)
 Reverse mathematics
 Robinson arithmetic
-Ronald L. Rivest
 Rule of inference
 Russell's paradox
 S2CID (identifier)
-SC (complexity)
-SL (complexity)
 Satisfiability
 Saturated model
 Schröder–Bernstein theorem
-Search problem
 Second-order arithmetic
 Second-order logic
 Self-verifying theories
@@ -307,45 +209,32 @@ Signature (logic)
 Singleton (mathematics)
 Skolem arithmetic
 Soundness
-Space hierarchy theorem
 Spectrum of a sentence
 Spectrum of a theory
 Square of opposition
 Strength (mathematical logic)
-String (formal languages)
 Structure (mathematical logic)
-Subgraph isomorphism problem
-Subset
-Subset sum problem
 Substitution (logic)
 Substructure (mathematics)
-Super-polynomial time
 Supertask
 Surjective function
 Syllogism
 Symbol (formal)
 Syntax (logic)
 T-schema
-TC0
-TFNP
 Tarski's axiomatization of the reals
 Tarski's axioms
-Tarski's theory of truth
 Tarski's undefinability theorem
 Tarski–Grothendieck set theory
 Tautology (logic)
 Term (logic)
 Term logic
 Theorem
-Theories of truth
 Theory (mathematical logic)
-Thomas H. Cormen
 Three-valued logic
-Time hierarchy theorem
 Timeline of mathematical logic
 Transfer principle
 Transitive set
-Travelling salesman problem
 True arithmetic
 Truth predicate
 Truth table
@@ -353,8 +242,6 @@ Truth value
 Turing machine
 Type (model theory)
 Type theory
-UP (complexity)
-Ultrafilter (set theory)
 Ultraproduct
 Uncountable set
 Undecidable problem
@@ -371,10 +258,4 @@ Venn diagram
 Von Neumann universe
 Von Neumann–Bernays–Gödel set theory
 Well-formed formula
-William Gasarch
-Witness (mathematics)
-Yishai Feldman
-ZPP (complexity)
 Zermelo–Fraenkel set theory
-♯P
-♯P-complete

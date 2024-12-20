@@ -1,278 +1,77 @@
-.NET
-.NET Framework
-.NET MAUI
-.NET Remoting
-.exe
 3D audio effect
-3D rendering
-ADO.NET
-AMD CrossFireX
-AMD Radeon Rx 200 series
 API
-ASP.NET
-ASP.NET AJAX
-ASP.NET Core
-ASP.NET Dynamic Data
-ASP.NET MVC
-ASP.NET Razor
-ASP.NET Web Forms
-Access Database Engine
-Action Center
-ActiveMovie
-ActiveX
-ActiveX Data Objects
-ActiveX Document
-Active Directory
-Active Directory Rights Management Services
-Active Scripting
-Active Setup
-Active Template Library
 Activision
 Activision Blizzard
 Activision Blizzard worker organization
-Addison-Wesley
-Alex St. John
-Allegro (software library)
 Alpha Dog Games
-AnandTech
 Ancient Rome
-AppLocker
-App Installer
 Application programming interface
-Application software
-Architecture of Windows 9x
-Architecture of Windows NT
 Arkane Austin
 Arkane Studios
 Ars Technica
-Ashes of the Singularity
-Asteroid field
-Audio signal processing
-AutoPlay
-AutoRun
 Avatar (Xbox)
-Azure DevOps Server
 BIOS
-Background Intelligent Transfer Service
-Backport
-Backup and Restore
 Beenox
 Bethesda Game Studios
 Bethesda Game Studios Austin
 Bethesda Game Studios Dallas
 Bethesda Softworks
-Bill Gates
-BitLocker
 Blizzard Albany
 Blizzard Entertainment
-Booting process of Windows
-Bosque (programming language)
-Brad Silverberg
-Broadcast Driver Architecture
-Browser Helper Object
-Build (developer conference)
-Business Intelligence Development Studio
-C++/CLI
-C++/CX
-C++/WinRT
-C/AL
-CAPICOM
-CD Player (Windows)
-CLR Profiler
-COMMAND.COM
-COM Structured Storage
 CRC Press
 C Sharp (programming language)
-Calendar (Windows)
-Cardfile
-Channel 9 (Microsoft)
-Character Map (Windows)
-Chess Titans
-City Art Search
-ClearType
-ClickOnce
-Client/Server Runtime Subsystem
-Clipchamp
-Cmd.exe
-CodeView
-Common Log File System
 Compaq
 Component-based software engineering
-Component Object Model
-Composite UI Application Block
 Compulsion Games
-Computer games
 Computer hardware
 Computer keyboard
-Computer mouse
-Control Panel (Windows)
-Cortana (virtual assistant)
-Credential Guard
-Cross-platform Audio Creation Tool
-D3DX
-DVD Player (Windows)
-DX9
-DXGI
-DXVA
-Dafny
-Data Execution Prevention
-Data Protection API
 Demonware
-Desktop Cleanup Wizard
-Desktop Window Manager
-Device Manager
 Device driver
-Dexterity (programming language)
-Direct2D
-Direct3D
-Direct3D 10.1
-Direct3D 11
-Direct3D 11.1
-Direct3D 12
-DirectCompute
-DirectDraw
-DirectInput
-DirectML
-DirectMusic
-DirectPlay
-DirectSR
-DirectShow
-DirectSound
-DirectSound3D
-DirectStorage
-DirectWrite
-DirectX Diagnostic Tool
-DirectX Graphics Infrastructure
-DirectX Media
-DirectX Media Objects
-DirectX Raytracing
-DirectX Video Acceleration
-DirectX plugin
-Disk Cleanup
-Disney's Animated Storybook
-Distributed Component Object Model
-Distributed File System (Microsoft)
 Doom (1993 video game)
-Doom 2
 Double Fine
-Dr. Dobb's Journal
 Dreamcast
-DriveSpace
-Driver Verifier
-DxDiag
-Dynamic-link library
-Dynamic Data Exchange
-Encrypting File System
-Enhanced Write Filter
-Entity Framework
-Eric Engstrom
-Event Viewer
-ExFAT
-Extensible Application Markup Language
-Extensible Storage Engine
-F* (programming language)
-FMOD
 F Sharp (programming language)
-Feature levels in Direct3D
-Features new to Windows Vista
-Feedback Hub
-Fermi (microarchitecture)
 File Allocation Table
-File Explorer
-File Replication Service
 File system
-Folder redirection
-Framework Class Library
-Full Tilt! Pinball
-FxCop
-GPGPU
-GW-BASIC
 Gabe Newell
 Gamasutra
-Game Developer Magazine
 Game Developers Conference
 Game Room
-Game controller
-Game programming
 Games for Windows
-Games for Windows Live
 Games for Windows – Live
-GeForce 900 series
 Geek.com
 General-purpose computing on graphics processing units
-Get Help
-Graphics Core Next
-Graphics Device Interface
-Graphics pipeline
 Graphics processing unit
-Groove Music
-Group Policy
 Halo Studios
-Hard link
-Hardware abstraction
 Hardware acceleration
-Haswell (microarchitecture)
-Help and Support Center
-High-Level Shader Language
-High Level Shader Language
 High Moon Studios
-High Performance File System
-Hover!
-Hyper-V
-HyperACCESS
-I/O request packet
 ID@Xbox
-IExpress
-IFilter
-ILAsm
 ISBN (identifier)
 ISO 9660
 Id Software
-Image Mastering API
-Imaging for Windows
 InXile Entertainment
 Include directive
 Index of DOS games
 Index of Windows games
-Indexing Service
 Infinity Ward
-InkBall
-Input method
-Installable File System
 Intel
 Inter-process communication
-Interix
-Internet Explorer
-Internet Information Services
-IronPython
-IronRuby
-JScript
 JavaScript
 Java (programming language)
 John Carmack
 Joystick
-Kernel-Mode Driver Framework
-Kernel Patch Protection
-Kernel Transaction Manager
 Khronos Group
 Kinect
 Kinect Fun Labs
 King (company)
-Language Integrated Query
-Language Interface Pack
-Layered Service Provider
-Lean (proof assistant)
 Library (computing)
 Linux
-Lion
 List of Activision video games
 List of Bethesda Softworks video games
 List of Blizzard Entertainment games
 List of Games for Windows titles
 List of Games for Windows – Live titles
 List of Microsoft Gaming video games
-List of Microsoft Windows application programming interfaces and frameworks
-List of Microsoft Windows components
 List of Windows 3.x games
 List of Windows Games on Demand
 List of Xbox 360 accessories
@@ -281,8 +80,6 @@ List of Xbox 360 games
 List of Xbox Game Studios video games
 List of Xbox Live games on Windows 10
 List of Xbox One X enhanced games
-List of Xbox One and Series X/S accessories
-List of Xbox One and Series X/S applications
 List of Xbox One games
 List of Xbox Series X and Series S games
 List of Xbox Wireless Controller special editions
@@ -290,458 +87,89 @@ List of Xbox games
 List of Xbox games compatible with Xbox 360
 List of Xbox games on Windows Phone
 List of Zune applications
-List of backward-compatible games for Xbox One and Series X/S
 List of best-selling Xbox One video games
 List of games included with Windows
 Live Anywhere
-Local Security Authority Subsystem Service
-Logical Disk Manager
-Low-level programming language
-MAPI
 MS-DOS
-MS-DOS 7
-MSBuild
-MSConfig
-MSDE
 MSN
-MSN Dial-up
-MSN Food & Drink
 MSN Games
-MSN Health & Fitness
-MSXML
 MachineGames
-Magnifier (Windows)
-Mail (Windows)
-Make Compatible
-Managed DirectX
-Managed Extensions for C++
-Managed code
-Mandatory Integrity Control
 Manhattan Project
-Mantle (API)
-MechWarrior 2
-Media Control Interface
-Media Foundation
-Media Foundation Transform
-Metal (API)
 Microsoft
-Microsoft 3D Viewer
-Microsoft Access
-Microsoft Active Accessibility
-Microsoft Analysis Services
 Microsoft BASIC
-Microsoft Blend
-Microsoft Connected Services Framework
-Microsoft Copilot
-Microsoft CryptoAPI
-Microsoft Customer Care Framework
-Microsoft DNS
-Microsoft Data Access Components
-Microsoft Defender Antivirus
 Microsoft Developer Network
-Microsoft Diagnostics
-Microsoft Distributed Transaction Coordinator
 Microsoft Docs
-Microsoft Drive Optimizer
-Microsoft Dynamics AX
-Microsoft Edge
-Microsoft Enterprise Library
-Microsoft Expression Web
-Microsoft Fax
-Microsoft Foundation Class Library
-Microsoft FreeCell
-Microsoft FrontPage
-Microsoft Gadgets
 Microsoft Gaming
-Microsoft Hearts
-Microsoft MACRO-80
-Microsoft Macro Assembler
-Microsoft Mahjong
-Microsoft Management Console
-Microsoft Mesh
-Microsoft Message Queuing
-Microsoft Messaging
-Microsoft Messaging Passing Interface
-Microsoft Minesweeper
-Microsoft Movies & TV
-Microsoft NetMeeting
-Microsoft OneNote
-Microsoft POSIX subsystem
-Microsoft Paint
-Microsoft Pascal
-Microsoft Pay
-Microsoft Personal Web Server
-Microsoft Platform SDK
-Microsoft Power Fx
-Microsoft RPC
-Microsoft Robotics Developer Studio
-Microsoft SQL Server
-Microsoft ScanDisk
-Microsoft Script Debugger
-Microsoft SharePoint Designer
 Microsoft SideWinder
-Microsoft Silverlight
-Microsoft Small Basic
-Microsoft Solitaire
-Microsoft Solitaire Collection
-Microsoft Speech API
-Microsoft Spider Solitaire
-Microsoft Start
 Microsoft Store
-Microsoft Sync Framework
-Microsoft Tinker
-Microsoft Tips
-Microsoft Transaction Server
-Microsoft UI Automation
 Microsoft Visual C++
-Microsoft Visual Programming Language
-Microsoft Visual SourceSafe
-Microsoft Visual Studio
 Microsoft Visual Studio Express
-Microsoft WebMatrix
 Microsoft Windows
-Microsoft Windows SDK
 Microsoft Windows library files
-Microsoft Write
 Microsoft XNA
 Microsoft XNA Game Studio
 Microsoft and unions
-Microsoft family features
-MinWin
 Mixer (service)
 Mojang Studios
-Multi-core
-Multilingual User Interface
-Multimedia
-Multimedia Class Scheduler Service
-NTBackup
 NTFS
-NTFS links
-NTFS reparse point
-NTFS volume mount point
-NTLDR
-Narrator (Windows)
-Native Image Generator
-Netsh
-Network Access Protection
-Network Driver Interface Specification
-Next-Generation Secure Computing Base
 Ninja Theory
-Npm (software)
-Ntoskrnl.exe
-NuGet
 Nvidia
-ODBC
-OLE Automation
-OLE DB
-Object Linking and Embedding
-Object Manager
 Obsidian Entertainment
 Official Xbox Magazine
-OneDrive
-OneFuzz
-OpenAL
 OpenCL
-OpenGL
-OpenMAX
-Open Packaging Conventions
-Open XML Paper Specification
 Operating system
 OurColony
-Outlook Express
 PC Gamer
 PC Magazine
-P (programming language)
-Paint 3D
 Parallel computing
-People (Windows)
-Performance Monitor
-Phone Companion
-Phone Link
-Photos (Windows)
 Platinum Hits
 Playground Games
-Playwright (software)
-Portable Executable
-PowerShell
-Print Services for UNIX
-Problem Steps Recorder
-Program Manager
 Programmer
-Project Verona
 Proletariat (company)
-Protected Media Path
-Purble Place
-QBasic
-Q Sharp
-QuickBASIC
-QuickC
-Quick Assist
-Radiation symbol
 Rare (company)
 Raven Software
 Ray tracing (graphics)
-ReFS
 ReactOS
-Recovery Console
-Remote Desktop Connection
-Remote Desktop Services
-Remote Differential Compression
-Remote Installation Services
-Resource Monitor
-Roaming user profile
-Roslyn (compiler)
 Roundhouse Studios
-Runtime library
 SIGGRAPH
-SQL Server Compact
-SQL Server Express
-SQL Server Integration Services
-SQL Server Management Studio
-SQL Server Notification Services
-SQL Server Reporting Services
-Scalable Link Interface
-Security Account Manager
-Security Support Provider Interface
-Security and Maintenance
 Server (computing)
-Server Core
-Server Message Block
-Service Control Manager
-Session Manager Subsystem
-Settings (Windows)
 Shacknews
 Shader
-Shadow Copy
-SharePoint
-Silicon Graphics
-Simple DirectMedia Layer
-Simple and Fast Multimedia Library
-Skype
 Sledgehammer Games
-SlideShare
-Snipping Tool
 Software
-Software Factory (Microsoft .NET)
-Software architecture
 Software categories
 Software development kit
 Software release life cycle
-Sound Recorder (Windows)
-Special folder
-Standard Portable Intermediate Representation
-Start menu
 Stereoscopy
-Sticky Notes
 Streaming media
 Summer of Arcade
-Surf (video game)
-Syskey
-Sysprep
-System File Checker
-System Idle Process
-System Information (Windows)
-System Policy Editor
-System Restore
 Tango Gameworks
-Task Manager (Windows)
-Task Parallel Library
-Task View
-Taskbar
-Telephony Application Programming Interface
-Tessellation (computer graphics)
-Text Object Model
-Text Services Framework
 The Coalition (company)
 The Initiative (company)
 The Wall Street Journal
-Thread (computer science)
-Timeout Detection and Recovery
 Toys for Bob
-Transactional NTFS
-Travel (Windows)
 Treyarch
-Trident (software)
 Turn 10 Studios
-TypeScript
 Undead Labs
-Uniscribe
-Universal Audio Architecture
 Universal Disk Format
-Universal Windows Platform
-User-Mode Driver Framework
-User Account Control
-User Interface Privilege Isolation
-VBScript
-VSTS Profiler
-Vcpkg
-Video for Windows
 Video game
 Video game console
 Video game programmer
-Virtual DOS machine
-Virtual folder
 Visual Basic (classic)
-Visual Basic .NET
-Visual Basic for Applications
-Visual FoxPro
-Visual J++
-Visual J Sharp
-Visual Studio Code
-Visual Studio Tools for Applications
-Visual Studio Tools for Office
-Vulkan
-Vulkan (API)
-VxD
-Walt Disney Computer Software
 Wayback Machine
-Web Platform Installer
-WiX
-Win32 console
-WinDbg
-WinDiff
-WinFS
-WinG
-WinHelp
-WinUI
-WinUSB
-Windowing system
 Windows 10
 Windows 11
-Windows 2000
-Windows 3.1
-Windows 7
-Windows 7 SP1
-Windows 7 platform update
 Windows 8
 Windows 8.1
 Windows 95
-Windows 98
-Windows 98 SE
 Windows API
-Windows Address Book
-Windows Advanced Rasterization Platform
-Windows Aero
-Windows Anytime Upgrade
-Windows App SDK
-Windows App Studio
-Windows Boot Manager
-Windows CE
-Windows Calculator
-Windows Camera
-Windows CardSpace
-Windows Chat
-Windows Clock
-Windows Color System
-Windows Communication Foundation
-Windows Console
-Windows Contacts
-Windows DVD Maker
-Windows Deployment Services
-Windows Desktop Gadgets
-Windows Display Driver Model
-Windows Driver Frameworks
-Windows Driver Kit
-Windows Driver Model
-Windows Easy Transfer
-Windows Error Reporting
-Windows Fax and Scan
-Windows File Manager
-Windows File Protection
-Windows Filtering Platform
-Windows Firewall
-Windows Hardware Error Architecture
-Windows Hardware Lab Kit
-Windows Identity Foundation
-Windows Image Acquisition
-Windows Imaging Component
-Windows Imaging Format
-Windows Ink
-Windows Insider
-Windows Installer
-Windows Journal
-Windows Management Instrumentation
-Windows Maps
-Windows Me
-Windows Media
-Windows Media Center
-Windows Media Player
-Windows Media Player (2022)
-Windows Media Services
-Windows Meeting Space
-Windows Messaging
-Windows Messenger
 Windows Mixed Reality
-Windows Mobile Device Center
-Windows Mobility Center
-Windows Movie Maker
 Windows NT
-Windows NT 4.0
-Windows Native API
-Windows Notepad
-Windows Package Manager
 Windows Phone 8
-Windows Photo Gallery
-Windows Photo Viewer
-Windows Preinstallation Environment
-Windows Presentation Foundation
-Windows RSS Platform
 Windows RT
-Windows Rally
-Windows Registry
-Windows Resource Protection
-Windows Runtime
-Windows Script Host
-Windows Search
-Windows Server 2003
-Windows Server 2008
-Windows Server 2008 R2
-Windows Server 2008 SP2
-Windows Server 2012
-Windows Server 2012 R2
-Windows Server Update Services
-Windows Services for UNIX
-Windows Shell namespace
-Windows SideShow
-Windows Speech Recognition
-Windows Spotlight
-Windows Subsystem for Linux
-Windows System Assessment Tool
-Windows System Resource Manager
-Windows Task Scheduler
-Windows Template Library
-Windows To Go
-Windows UI Library
-Windows USER
-Windows Ultimate Extras
-Windows Update
-Windows Vista
-Windows Vista I/O technologies
-Windows Vista SP1
-Windows Vista SP2
-Windows Vista Service Pack 1
-Windows Vista audio architecture
-Windows Vista networking technologies
-Windows Workflow Foundation
-Windows XP
-Windows XP visual styles
-Windows domain
-Windows on Windows
-Windows service
-Windows shell
 Wine (software)
-Winlogon
-Winsock
-Wireless Zero Configuration
-WoW64
-WordPad
 World's Edge
 World Collection
-XAMLPad
-XAudio2
-XInput
-XMLHttpRequest
-XUnit.net
 X (Xbox show)
 Xbox
 Xbox (app)
@@ -766,14 +194,11 @@ Xbox Live Arcade
 Xbox Live Indie Games
 Xbox Live Vision
 Xbox One
-Xbox Series X
 Xbox Series X and Series S
 Xbox Wireless Controller
 Xbox controller
 Xbox network
 Xbox system software
 Xbox technical specifications
-Xinput
-Yamaha DX9
 ZeniMax Media
 ZeniMax Online Studios

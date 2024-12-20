@@ -1,58 +1,35 @@
-/e/ (operating system)
 32-bit
 4MLinux
-64-bit
 ALT Linux
-AMD
-APT (Package Manager)
-Abiword
-Academic Free License
-Advanced Packaging Tool
 AlmaLinux
-Almquist shell
 Alpine Linux
-Alternative terms for free software
 Android-x86
 Android (operating system)
 Antergos
 AntiX
 Apache License
-AppArmor
-Apple Public Source License
-Aptitude (software)
 ArchBang
 ArchLabs
 Arch Linux
-Artistic License
 Artix Linux
 Asahi Linux
-Ask Ubuntu
 Astra Linux
 Asturix
-Atril
 Austrumi Linux
-Avant Window Navigator
 BLAG Linux and GNU
-BSD licenses
 BackBox
 BackTrack
-BeOS
-Beerware
-Benjamin Mako Hill
 Bharat Operating System Solutions
 BioSLAX
 BlackArch
 Black Lab Linux
 BlankOn Linux
 Bodhi Linux
-Brasero (software)
 CHAOS (operating system)
 CRUX
 Calculate Linux
 Caldera OpenLinux
 CalyxOS
-Canonical (company)
-Canonical Ltd
 CentOS
 CentOS Stream
 Chakra (operating system)
@@ -61,143 +38,64 @@ ChromeOS
 ChromiumOS
 ClearOS
 Clear Linux OS
-Code name
 ColorOS
 Commodore OS
-Common Development and Distribution License
-Community of practice
 Comparison of Linux distributions
-Comparison of free and open-source software licenses
-Comparison of free software for audio
-Comparison of open-source and closed-source software
-Comparison of open-source configuration management software
-Comparison of open-source operating systems
-Comparison of open-source wireless drivers
-Comparison of shopping cart software
-Comparison of source-code-hosting facilities
 Container Linux
-Contributor License Agreement
-Copyleft
 Corel Linux
 CrDroid
-Creative Commons license
 CrunchBang Linux
 Cub Linux
 CyanogenMod
 Damn Small Linux
 Damn Vulnerable Linux
-Deb (file format)
 Debian
-Debian Free Software Guidelines
-Debian configuration system
 Deepin
-Definition of Free Cultural Works
 DemoLinux
-Desktop environment
 Device driver
 Devuan
 Digital rights management
-DistroWatch
-Distrowatch
 DivestOS
 DoudouLinux
-Dpkg
 Dreamlinux
-Droid (font)
 EMUI
-EasyPeasy
-Eclipse Public License
 Edubuntu
-Element OS
 Elementary OS
 Elive
 Emmabuntüs
-Emmaus (charity)
 EndeavourOS
 Endless OS
-Enlightenment (window manager)
 EulerOS
-Evince
-Exaile
-Ext3
-Ext4
 Familiar Linux
 Feather Linux
 Fedora Linux
 Fire OS
-Firefox
-Firefox 2
-Firefox 3
 Firefox OS
 Floppyfw
 Foresight Linux
 Fork (software development)
-Free-software license
-Free Software Foundation
-Free Software Movement of India
-Free and open-source graphics device driver
-Free and open-source software
-Free license
 Free software
-Free software movement
 FreedomBox
 Freespire
 Frugalware Linux
-Full Circle (magazine)
-GDebi
-GIMP
-GNOME
-GNOME Calculator
-GNOME Files
-GNU Affero General Public License
-GNU Bazaar
 GNU Core Utilities
 GNU General Public License
 GNU Guix System
-GNU Lesser General Public License
-GNU Manifesto
 GNewSense
 GOS (operating system)
 GPL
-GRUB 2
-GTK
-GTK3
-GThumb
-Gaim
-GalliumOS
 Garuda Linux
 GeckoLinux
 Gentoo Linux
-GetDeb
-Gigolo
 GitHub
-Gnome Software
-Gnumeric
 GoboLinux
 Gobuntu
-Google Chrome
 GrapheneOS
-Gratis versus libre
-Gxine
 HandyLinux
-HexChat
-HiDPI
-History of free and open-source software
-Home theater PC
-Hyperbola GNU/Linux-libre
 IBM
-IRC client
-ISC license
-ISO image
-Ian Jackson
-Image scanner
 Immunix
 Intel
 IodéOS
-Jane Silber
-Jeff Waugh
-Jono Bacon
-Juju (software)
 Jurix
 KDE neon
 KaOS
@@ -213,17 +111,8 @@ Korora (operating system)
 Kubuntu
 Kwort Linux
 LXLE Linux
-Landscape (software)
-Launchpad (website)
-Leafpad
 Libranet
-LibreOffice
 LibreOffice Calc
-LibreOffice Draw
-LibreOffice Impress
-LibreOffice Writer
-License proliferation
-LightDM
 LinHES
 LineageOS
 Linpus Linux
@@ -231,59 +120,25 @@ Linux
 LinuxTLE
 Linux Caixa Mágica
 Linux Lite
-Linux Magazine
 Linux Mint
 Linux Router Project
 Linux distribution
 Linux for PlayStation 2
 Linux kernel
 List of Linux distributions
-List of Ubuntu-based distributions
-List of commercial open-source applications and services
-List of formerly free and open-source software
-List of formerly proprietary software
-List of free-software events
-List of free and open-source Android applications
-List of free and open-source iOS applications
-List of free and open-source software organizations
-List of free and open-source software packages
-List of free and open-source web applications
-List of free software project directories
-List of free television software
-List of office suites
-List of open-source bioinformatics software
-List of open-source codecs
-List of open-source health software
-List of open-source routing platforms
-List of open-source software for mathematics
-List of open-source video games
-Long-term support
-Long term support
 Lubuntu
-MATE (software)
 MCC Interim Linux
-MIT License
 MIUI
 MX Linux
 Mageia
 Mandrake Linux
 Mandriva Linux
 Manjaro
-Mark Shuttleworth
-Medibuntu
 MeeGo
 Mer (software distribution)
-Microsoft Open Specification Promise
-Mir (software)
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Mousepad (software)
-Mozilla Public License
-Mozilla Thunderbird
-Mozilla software rebranded by Debian
-Musix GNU+Linux
-Mythbuntu
 Natural language
 Network Security Toolkit
 NimbleX
@@ -293,63 +148,34 @@ Nobara Linux
 Nova (operating system)
 OmniROM
 One UI
-Open-core model
-Open-source-software movement
-Open-source hardware
-Open-source license
 Open-source software
-Open-source software advocacy
-Open-source software development
-Open-source software security
-OpenCD
 OpenELEC
 OpenMandriva Lx
 OpenSUSE
 Open Enterprise Server
 Operating system
 Oracle Linux
-Outline of free software
 PCLinuxOS
-PC User
 Package manager
-Paper cut bug
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
-Pastebinit
 Pentoo
 Peppermint OS
-Permissive software license
-Personal Package Archive
-Phoronix Test Suite
-Physical Address Extension
-Pidgin (software)
 Pinguy OS
-PipeWire
 PixelExperience
 Platypux
-Plymouth (software)
-PolicyKit
 Pop! OS
 Porteus (operating system)
 Portmanteau
-PowerPC
 Programmer
-Proprietary device driver
-Proprietary firmware
 Proprietary software
 Public domain
-PulseAudio
 Puppy Linux
 PureOS
-Python 2
-Python License
-Python Software Foundation License
 Q4OS
 Qubes OS
 ROSA Linux
-Random-access memory
 Raspberry Pi OS
 Red Hat Enterprise Linux
 Red Hat Linux
@@ -357,11 +183,8 @@ Red Star OS
 Remix OS
 Replicant (operating system)
 Resurrection Remix OS
-Revolution OS
-Rhythmbox
 Rocks Cluster Distribution
 Rocky Linux
-SCO–Linux disputes
 SUSE Linux
 SUSE Linux Enterprise
 SUSE Studio
@@ -370,117 +193,51 @@ Sabily
 Sailfish OS
 Salix OS
 Scientific Linux
-Scott James Remnant
-Screensaver
-Sempron
-Shared Source Initiative
-Side Stage
-Simple Scan
 Slackware
 Slax
-Sleepycat License
-Snap (software)
-Snappy (package manager)
 Softlanding Linux System
-Software Updater
 Software license
-Software patents and free software
 Software release life cycle
-Software versioning
 Solus (operating system)
 SolydXK
-Source-available software
 Source Mage
 SparkyLinux
 Splashtop OS
-StartUp-Manager
-Startup Disk Creator
 SteamOS
 Sunwah Linux
-Swap file
-Synaptic (software)
-Synaptic Package Manager
-System76
 SystemRescue
 T2 SDE
 Tails (operating system)
 Terminal emulator
-Text editor
-The Cathedral and the Bazaar
-The Free Software Definition
-The Open Source Definition
 Think Blue Linux
-Thunar
-Timeline of free and open-source software
 Tiny Core Linux
-Tivoization
 Tizen
 TopologiLinux
-Totem (software)
 Trisquel
-Trusted Computing
 Turbolinux
 Turkix
-Tuxedo Computers
-UEFI Secure Boot
-UberStudent
-Ubiquity (software)
 Ubuntu
-Ubuntu-restricted-extras
-Ubuntu (typeface)
-Ubuntu 22.04 LTS
 Ubuntu Budgie
 Ubuntu Cinnamon
-Ubuntu Edge
-Ubuntu Forums
 Ubuntu GNOME
-Ubuntu JeOS
 Ubuntu Kylin
 Ubuntu MATE
-Ubuntu Netbook Edition
-Ubuntu One
-Ubuntu Professional Certification
-Ubuntu Single Sign On
 Ubuntu Software Center
 Ubuntu Studio
-Ubuntu Titling
 Ubuntu Touch
 Ubuntu Unity
-Ubuntu User
-Ubuntu for Android
-Ubuntu philosophy
-Ubuntu version history
 Ultramarine Linux
-Uncomplicated Firewall
-Unity (user interface)
 Unity Operating System
-Unix-like
-Unlicense
-Upstart (software)
-Uruk GNU/Linux
 User interface
 User space and kernel space
-Usplash
 VectorLinux
 Vine Linux
 Void Linux
-WTFPL
 Whonix
 Windows 8
-Wubi (Ubuntu installer)
-Wubi (software)
 Wubuntu
-X.Org Server
 X86
 XB Machine
-XSplash
-Xarchiver
-Xfburn
-Xfce
-Xfmedia (software)
-Xsane
 Yellow Dog Linux
-ZFS
 Zenwalk
-Zlib License
 Zorin OS

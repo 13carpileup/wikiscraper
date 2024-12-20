@@ -1,19 +1,16 @@
 MP4 file format
 Digital object identifier
 International Standard Identifier for Libraries and Related Organizations
-Ministry of Education, Science, Sports and Culture
 ISO 16750
 JPEG XL
 ISO 259
 JIS X 0212
 ISO 2145
 MaxiCode
-ISO/IEC 7811
 ISO 2852
 List of ISO romanizations
 List of classical Japanese texts
 Longitudinal redundancy check
-List of jōyō kanji
 Kishū dialect
 Hot shoe
 ISO 10161
@@ -28,7 +25,6 @@ ISO 7001
 ISO 15022
 Kesen dialect
 MPEG-4
-ISO/IEC 8859-12
 ISO 860
 Hazard symbol
 ISO 15919
@@ -40,20 +36,15 @@ ISO 5775
 IATF 16949
 ISO 20121
 ECMAScript for XML
-ISO/IEC 17024
-ISO/IEC 8859-2
-ISO/IEC 8859-13
 Japanese counter word
 Geography Markup Language
 ISO 2033
 ISO 55000
 Advanced Video Coding
-ISO 9000
 Linux Standard Base
 List of ISO standards
 ISO 233
 Extended shinjitai
-Gairaigo
 Bamboo English
 ISO 15686
 MPEG-D
@@ -62,26 +53,15 @@ CHILL
 Kaga dialect
 DICOM
 Dynamic Adaptive Streaming over HTTP
-CAN bus
 ISO 5427
 ISO 25964
-ISO/IEC 12207
 Minimal BASIC
-ISO/TR 11941
 ISO 11783
-ISO/IEC 7810
-Cambridge Journals
 Katakana (Unicode block)
-ISO/IEC 27006
 ISO 10303
-ISO/IEC 8859-7
 ISO 2
 International Securities Identification Number
-Jinmeiyō kanji
-List of Japanese typographic symbols
 ISO 898
-ISO/IEC 8859-1
-Journal of the Royal Asiatic Society
 ISO 668
 ISO 1629
 Japanese loanwords in Hawaii
@@ -97,32 +77,25 @@ ANSI C
 ISO 2146
 ISO 31-7
 Inshū dialect
-Kantō dialect
 CRC Press
 ISO 19114
 ISO 31-6
 Hentaigana
-ISO 19092-1
 Engrish
-ISO/IEC 8652
 ISO 13406-2
 ISO 31-8
 ISO 14698
 HTML
 ISO 216
 Enclosed CJK Letters and Months
-ISO/IEC 8859-16
 British Standard Pipe
 ISO 31
 ISO 6344
 Chikuzen dialect
 ISO 13490
-ISO/IEC 5218
-International Map of the World
 ISO 5776
 ISO 50001
 ISO 2014
-ISO/IEC 19794-5
 Hiragana
 Common Criteria
 Gender differences in Japanese
@@ -130,56 +103,41 @@ ISO 10303-21
 ISO 2709
 ISO 2848
 ISO 56000
-ISO/IEC 14651
 IS-IS
 110 film
 JSL romanization
-ISO/IEC 19752
 International Standard Atmosphere
 ISO 7010
 Japanese adjectives
 Historical kana orthography
 Japanese grammar
 ISO 10160
-ISO/IEC 7812
 Horsepower
-Cultural Affairs Agency
-ISO/IEC 2022
 ISO 2921
-ISO/IEC 80000
 Delivery Multimedia Integration Framework
 ISO 11992
 ANSI escape code
 ISO 31-3
 Hokkaido dialects
-ISO/IEC 8859-3
-ISO/IEC 10116
 ISO 690
-List of kanji by stroke count
 ISO 1745
 Fiber Distributed Data Interface
 ISO 14617
-Croom Helm
 ISO-TimeML
 ARIB STD B24 character set
 C++
-ISO/IEC 8859-4
-ISO/IEC 4909
 Go-on
 MicroPDF417
 135 film
 American National Standards Institute
-ISO/IEC 27000
 COBOL
 Flowchart
-ISO/IEC 15897
 Early Middle Japanese
 Kunigami language
 ISO 37001
 ECMAScript
 ISO 639-6
 ISO 15189
-ISO/IEC 8859-11
 ISO 657
 ISO 3166-2
 Han Xin code
@@ -191,12 +149,9 @@ Linguistics
 ISO 3166
 List of Japanese speculative fiction writers
 Hiragana (Unicode block)
-ISO/IEC 10967
 ISO 26000
 Extended Unix Code
-Geospatial Information Authority of Japan
 Japanese honorifics
-ISO/IEC 17025
 Hakata dialect
 ISO 7200
 Kanbun
@@ -204,7 +159,6 @@ Eastern Old Japanese
 ISO 10303-28
 MPEG-4 Part 2
 Japanese poetry
-ISO/IEC 20000
 Antimagnetic watch
 ISO 20022
 ISO 843
@@ -219,12 +173,8 @@ ISO 22395
 Enclosed Ideographic Supplement
 Hole punch
 ISO 10303-22
-ISO/IEEE 11073
 Kagoshima dialect
-Hokuriku dialect
-Chūgoku dialect
 ISO 3166-3
-ISO/IEC 18014
 Kana Extended-B
 Classical Japanese
 Kana Extended-A
@@ -237,7 +187,6 @@ Japanese irregular verbs
 ISO 15398
 ISO 19600
 Cyrillization of Japanese
-LCCN (identifier)
 ISO 22301
 Hyōgai kanji
 Market Identifier Code
@@ -245,46 +194,35 @@ Lexical Markup Framework
 MPEG-4 Part 3
 Linguistic categories
 ISO 217
-ISO/IEC 8859-9
 JPEG XR
 ISO 704
 Japanese Braille
-ISO/IEC 8859-5
 ISO 9564
 Kansai dialect
 ISO 6943
 ISO 17100
 Japanese-based creole languages
 ISO 9660
-ISO 14000
 ISO 639-1
 Magnetic ink character recognition
-Geographical Survey Institute
 Common Language Infrastructure
 EXPRESS (data modeling language)
 ISO-8859-8-I
 ISLISP
 ISBN (identifier)
 Kanji
-ISO/IEC 7064
 Japanese pronouns
-ISO 31-9
 FTAM
 ISO base media file format
 Kan-on
 JIS X 0208
 Graphical Kernel System
 ISO 5426
-Japanese books
-ISO/IEC 42010
 Gojūon
-ISO/IEC 11404
 ISO 13485
-ISO/IEC 27002
 Logogram
 International Standard Text Code
 Man'yōgana
-Geminate
 Japanese literature
 JIS X 0211
 ISO 11940-2
@@ -295,7 +233,6 @@ ISO 4031
 Mino dialect
 ISO 3103
 Katakana Phonetic Extensions
-Ministry of Foreign Affairs (Japan)
 ISO 639
 MPEG-7
 MPEG-4 Part 11
@@ -305,20 +242,11 @@ Japanese possessives
 ISO 6709
 ISO 3166-1
 ISO 9
-ISO 31-12
-ISO/IEC 27000-series
-Cabinet of Japan
-ISO 19092-2
-ISO/IEC 15693
 Early Modern Japanese
-Fuse (automotive)
 ISO 14031
-List of ISO transliterations
 ISO 7736
-Eleanor Jorden
 Essential Video Coding
 ISO metric screw thread
-ISO 12006
 Japanese dialects
 JIS X 0201
 Banshū dialect
@@ -334,58 +262,40 @@ Hachijō grammar
 ISO 22000
 MPEG-H
 Iyo dialect
-ISO/IEC 15504
-Iteration mark
 Honorific speech in Japanese
 ISO 11940
 Braille kanji
-ISO/IEC 6523
 ISO 31-4
-ISO/IEC 8859-6
 Japanese writing system
-Hōnichi dialect
 ISO 21500
 ISO 31-11
 MPEG-21
-ISO/IEC 7813
 Ada Semantic Interface Specification
-ISO/IEC 8859-14
 Knowledge Discovery Metamodel
 Japanese punctuation
 Kokuji
-ISO/IEC 646
 FDI World Dental Federation notation
 ISO 8178
 ISO 25178
 Legal Entity Identifier
 ISO 2711
 Full BASIC
-Ministry of International Trade and Industry
-Jōyō kanji
 Japanese numerals
 Japonic languages
 ISO 5964
-ISO/IEC 27001
 ISO 5428
 Japanese phonology
 ISO 26262
 Katakana
-James Marshall Unger
 Kikai language
 ISO 45001
 Gunma dialect
-ISO 31-13
 ISO 3977
 ISO 13567
 ISO 18245
-ISO/IEC 15288
 ISO 1000
-ISO 8373
-ISO/IEC 11801
 ISO 2788
-International Standard Serial Number
 ISO 10218
-Dakuten
 ISO 10006
 Business Process Model and Notation
 ISO 7637
@@ -395,13 +305,9 @@ ISO 7002
 ArmSCII
 Glossary of Japanese words of Dutch origin
 ISO 732
-ISO/IEC 7816
-Kyōiku kanji
 Fuel oil
 Kyodo News
 Geospatial metadata
-Language Of Temporal Ordering Specification
-ISO/IEC 8859-10
 Kana
 Bonin English
 Meta-Object Facility
@@ -412,48 +318,35 @@ ISO 9897
 Accuracy and precision
 Japanese sound symbolism
 JPEG XS
-ISO/IEC 9126
 ISO 14971
 ISO 4157
 ISO 20400
 Graph Query Language
 Common Object Request Broker Architecture
 ISO 6346
-John Marshall Unger
 ISO 999
 ISO 10628
 List of kanji radicals by stroke count
 International Standard Audiovisual Number
-ISO/IEC 9529
 International Standard Recording Code
 MPEG-2
-ISO/IEC 14443
 Amami Ōshima language
 Ateji
 ISO 128
 Kanagawa dialect
-ISO/IEC 8859-8
 ISO 14644
 ISO 31-10
-ISO/IEC 19770
 Kana ligature
 Hepburn romanization
-ISO/IEC TR 12182
 Amami Japanese
 Guidelines for the Definition of Managed Objects
-ISO/IEC 9995
 MPEG-1
 List of kanji radicals by frequency
-ISO/IEC 27005
 ISBN
 ISO 6438
-Ministry of Education, Culture, Sports, Science and Technology
-ISO 7027
 Akita dialect
 Furigana
 ISO 4165
-ISO/IEC 38500
-ISO/IEC 8859-15
 File Allocation Table
 ISO 31-1
 Japanese godan and ichidan verbs
@@ -471,8 +364,6 @@ Hichiku dialect
 International Organization for Standardization
 Kumamoto dialect
 ISO 10007
-ISO 2047
-ISO/IEC 8859
 A440 (pitch standard)
 Manufacturing Message Specification
 ISO 4217
@@ -481,10 +372,8 @@ Halfwidth and fullwidth forms
 Japanese dictionary
 Kana Supplement
 ISO 639-3
-JTB Corporation
 ISO 9241
 ISO 8583
-ISO/IEC 9797-1
 JPEG 2000
 ISO 3307
 ISO 13399
@@ -492,8 +381,5 @@ Japanese particles
 ISO 28000
 Mikawa dialect
 ISO 8501-1
-ISO/IEC 21827
 Japanese pitch accent
-ISO/IEC 11179
-Japanese verb conjugation
 LCEVC

@@ -1,483 +1,93 @@
-AC-to-AC converter
 AC motor
 Acceleration
-Actuator
-Adaptive control
-Adolphe Ganot
-Air gap (magnetic)
-Alcohol fuel
 Alessandro Volta
-Allen Kent
-Alloy wheel
 Alternating current
-Alternative fuel vehicle
 Alternator
-American Institute of Electrical Engineers
-American Petroleum Institute
-Amplidyne
-Ampère's force law
-Andrew Gordon (Benedictine)
 André-Marie Ampère
 Angular frequency
-Antonio Pacinotti
-Arago's rotations
-Armature (electrical)
-Armature (electrical engineering)
-Artificial neural network
-Autogas
-Automated manual transmission
-Automatic transmission
-Automation and Remote Control
-Automotive engine
-Axial flux motor
-Ball bearing motor
-Barlow's wheel
-Battery (electricity)
-Battery electric bus
-Battery electric multiple unit
-Battery electric vehicle
 Bearing (mechanical)
-Benjamin Franklin
-Benjamin G. Lamme
-Bi-fuel vehicle
 Bibcode (identifier)
 Biodiesel
-Biofuel
 Biogas
-Biogasoline
-Block diagram
-Blocked rotor test
-Bode plot
-Braking chopper
 Brine
-Brush (electric)
-Brushed DC electric motor
-Brushed motor
-Brushless AC electric motor
-Brushless DC electric motor
-Brushless DC motor
-Brushless motor
-Butanol fuel
-Capstan (tape recorder)
-Car
-Carbon
-Chain drive
 Charles-Augustin de Coulomb
 Charles Eugene Lancelot Brown
-Charles F. Scott (engineer)
 Charles Proteus Steinmetz
-Chicago "L"
-Chronographs
-Circle diagram
-Closed-loop controller
-Closed-loop transfer function
-Clutch
-Coefficient diagram method
-Cogging torque
-Coil winding technology
-Coilgun
-Common ethanol fuel mixtures
 Commutator (electric)
-Compensation winding
-Compressed-air car
-Compressed-air vehicle
-Constant-velocity joint
-Continuously variable transmission
-Control reconfiguration
 Control theory
-Controllability
 Coulomb's law
-Counter-electromotive force
 Coupling
-Cross product
-Current (electricity)
-Current source
-Cycloconverter
-DC injection braking
 DC motor
-Dahlander pole changing motor
-Damper winding
-Dictionary of National Biography
-Diesel engine
-Differential (mechanical device)
-Digital control
-Digital signal processing
-Direct-drive mechanism
-Direct-shift gearbox
 Direct current
-Direct torque control
-Discrete-time signal
-Distributed control system
-Distributed parameter systems
 Doi (identifier)
-Donald G. Fink
-Doubly-fed electric machine
-Doubly fed electric machine
-Doubly fed induction generator
-Drive shaft
-Drive wheel
-Dual-clutch transmission
-Dual-rotor permanent magnet induction motor
-Dynamo
-E85
 Eddy current
-Electric aircraft
 Electric battery
-Electric bicycle
-Electric boat
-Electric bus
-Electric car
 Electric current
-Electric engine
 Electric field
 Electric generator
-Electric kick scooter
-Electric locomotive
 Electric machine
-Electric motorcycles and scooters
-Electric platform truck
 Electric power distribution
-Electric truck
-Electric vehicle
-Electrical contacts
 Electrical energy
-Electrical noise
-Electrical steel
-Electrically powered spacecraft propulsion
-Electrodynamic tether
-Electromagnet
-Electromagnetic coil
 Electromagnetic induction
-Electromagnetically induced acoustic noise and vibration
 Electromagnetism
 Electromotive force
-Electrorheological clutch
-Electrostatic motor
 Embedded system
 Emil Lenz
-Emily Davenport
-Energy-shaping control
-Energy conversion efficiency
-Energy recovery
-Epicyclic gearing
-Eric Laithwaite
-Ethanol fuel
 Fan (machine)
-Ferromagnetic
-Ferromagnetism
-Field coil
-Flexible-fuel vehicle
-Fluid coupling
-Flux switching alternator
-Fourier transform
-Fractional-horsepower motor
-Fractional-order control
-Frank J. Sprague
-Frank Julian Sprague
-François Arago
-Frequency response
-Friction drive
-Friedrich von Hefner-Alteneck
 Fuel cell
-Fuel cell vehicle
-Fuzzy control
-Fuzzy logic
 Galileo Ferraris
-Gear stick
-General Electric Company
-George Westinghouse
-Giubo
-Giuseppe Domenico Botto
-Goodness factor
-H-infinity loop-shaping
-Hall effect
-Hall effect sensor
-Hammond organ
-Hamster wheel
-Hankel singular value
 Hans Christian Ørsted
 Hard disk drive
 Hdl (identifier)
-Henry Cavendish
 Hippolyte Pixii
-History of steam road vehicles
-History of the electric motor
-Homopolar motor
 Horsepower
-Hotchkiss drive
-Hubcap
-Human power
 Hungary
-Hybrid computer
-Hybrid electric vehicle
-Hybrid train
-Hybrid vehicle
-Hybrid vehicle drivetrain
 Hydrogen
-Hydrogen-powered aircraft
-Hydrogen-powered ship
-Hydrogen economy
-Hydrogen internal combustion engine vehicle
-Hydrogen train
-Hydrogen vehicle
 ISBN (identifier)
-Imperial units
-Inchworm motor
-Indian Standard
 Inductance
-Induction generator
 Induction motor
-Industrial control systems
-Inkjet printers
 Institute of Electrical and Electronics Engineers
-Intelligent control
-Internal combustion engine
 International Electrotechnical Commission
-Inverter (electrical)
 James Clerk Maxwell
-James Joule
 Jonas Wenström
 Joseph Henry
-Joseph Saxton
 Joule heating
-Kalman filter
-Krener's theorem
-Laplace transform
-Lead-lag compensator
-Least squares
 Limited-slip differential
 Linear alternator
-Linear induction motor
 Linear motor
-Liquid nitrogen engine
-List of battery electric vehicles
-List of prototype solar-powered cars
-List of solar-powered boats
-Locking differential
 Lord Kelvin
 Lorentz force
-Lorentz force law
-Losses in electrical systems
 Loudspeaker
-Lyapunov stability
-Lynch motor
-MEMS
-Maglev
-Maglev train
-Magnet
-Magnet motor
 Magnetic circuit
-Magnetic core
 Magnetic field
-Magnetic motor
 Magnetism
-Magneto
-Magnetosphere
-Magnetostriction
-Manual transmission
-Manumatic
-Maschinenfabrik Oerlikon
 Maxwell stress tensor
-Mechanical energy
 Mechatronics
-Mendocino motor
-Metadyne
-Methanol economy
-Methanol fuel
 Michael Faraday
 Mikhail Dolivo-Dobrovolsky
-Minor loop feedback
 Model aircraft
-Model predictive control
-Moritz von Jacobi
 Motion control
-Motor capacitor
-Motor controller
-Motor drive
-Motor soft starter
-Mouse mill motor
-Multifuel
-Multivariable
-National Electrical Manufacturers Association
-Natural gas vehicle
 Nature (journal)
 Negative feedback
-Neighborhood Electric Vehicle
-Neodymium
-Neural
 Nikola Tesla
-Nonlinear control
 Numerical control
-OEM
-Observability
-Off-road tire
-Open-circuit test
-Open-loop controller
-Operating temperature
 Optimal control
-PID controller
-Park by wire
-Parking pawl
-Pedelec
-Perceptual control theory
-Performance
-Permanent-magnet electric motor
-Permanent magnet
-Permanent magnet motor
-Permanent magnet synchronous generator
-Permanent magnet synchronous motor
-Peter Barlow (mathematician)
-Petrol engine
 Physicist
-Piezoelectric motor
-Piezoelectricity
-Platen
-Plug-in electric vehicle
-Plug-in hybrid
-Pneumatic motor
 Positive feedback
-Potting (electronics)
-Power-to-weight ratio
-Power inverter
-Powertrain
-Preselector gearbox
 Process control
-Programmable logic controller
 Propane
-Propulsion transmission
-Pulse-width modulation
-Pumped-storage hydroelectricity
-Quantization (signal processing)
-Quarterly Journal of Science
-Racing slick
-Radial flux motor
-Radial tire
-Radio frequency interference
-Railgun
-Railway electrification system
-Rain tyre
-Ram air turbine
 Real-time computing
-Real-time control
-Reciprocating electric motor
-Rectifiers
-Regenerative brake
-Regenerative braking
-Reluctance motor
-Repulsion motor
-Resin
 Resistivity
-Revenge of the Electric Car
-Revolutions per minute
-Richmond, Virginia
-Rim (wheel)
-Robert Davidson (inventor)
-Robert H. Park
 Robotics
-Robust control
-Root locus analysis
-Rotating magnetic field
 Rotor (electric)
-Royal Institution
-Run-flat tire
 S2CID (identifier)
-SCADA
-Samarium
-Sample (statistics)
-Saturation (magnetic)
 Scalar (mathematics)
-Scalar control
-Semi-automatic transmission
-Sentinel Waggon Works
-Servomechanism
-Servomotor
-Shaded-pole motor
-Shift-by-wire
-Short circuits
-Signal-flow graph
-Silvanus Phillips Thompson
 Single-phase electric power
-Single-phase generator
-Singly-fed electric machine
-Slip ring
-Snow tire
-Soft magnetic material
-Solar-powered aircraft
-Solar bus
-Solar car
-Solar power
-Solar vehicle
-Solenoid
-South Side Elevated Railroad
-Spare tire
-Squirrel-cage rotor
-Stability theory
-Stall torque
-Starter (engine)
-State observer
-State space representation
 Stator
-Steady state
-Stepper motor
-Stochastic control
-Superconducting electric machine
-Switch
-Switched reluctance motor
-Synchronous motor
 System dynamics
-System identification
-TEFC motor
-TRIAC
-Tachometer
-Telechron
-Tesla turbine
-Thomas Davenport (inventor)
 Thomas Edison
 Three-phase electric power
-Time constant
-Timeline of the electric motor
-Tire
-Torque
-Torque angle
-Torque converter
-Torque motor
 Traction motor
-Transaxle
-Transfer box
-Transfer function
 Transformer
-Transmission control unit
-Tubeless tire
-Two-phase electric power
-Ultrasonic motor
-Underwriters Laboratories
-Unipolar motor
-Universal joint
-Universal motor
-University of Regensburg
 Utility frequency
-Vactrain
-Variable-frequency drive
-Vector control
-Vector control (motor)
-Vibrating alert
-Voltage controller
-Voltage source
-Ward Leonard control
 Watt
-Wave power ship
-Werner Siemens
-Werner von Siemens
-What Is the Electric Car?
-Wheel
-Wheel hub assembly
-Who Killed the Electric Car?
-William Sturgeon
-Wind-powered vehicle
-Windmill ship
-Wood gas
-Wound rotor motor
-Z-transform
-Zero-emissions vehicle
-Zénobe Gramme
-Ányos Jedlik

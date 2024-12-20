@@ -1,100 +1,29 @@
-128-bit
-180 nanometer
-250 nanometer
-4D vector
-Alchemy (processor)
-Arithmetic logic unit
 Ars Technica
-Associative cache
-Ball grid array
-Ben NanoNote
 BigHit Series
-Binary prefix
-Branch history table
-Branch prediction
-Broadcom Corporation
-Bézier curve
-CPU cache
-Cavium
-Cell microprocessor
 Central Station (online service)
 Central processing unit
-Clock frequency
-Codec
-Complementary metal–oxide–semiconductor
 Computer graphics
-DRDRAM
-David Patterson (scientist)
-Die (integrated circuit)
-Digital signal processor
-Dingoo A320
-Direct memory access
-Display list
 Essentials (PlayStation)
 EyeToy
-FeRAM
-Floating-point
-Floating-point operations per second
-Floating-point unit
-Floating point
-Floating point multiply-accumulate
-Fog
-Free Software Foundation
-Full motion video
 Game Gadget
-Graphics Synthesizer
-Graphics card
 Graphics processing unit
 Greatest Hits (PlayStation)
-HD Loader
 ISBN (identifier)
-Ikanos Communications
-Image processor
-Ingenic Semiconductor
-Instruction cache
-Instruction set
 Instruction set architecture
 Integrated circuit
-John L. Hennessy
-Keith Diefendorff
-Lantiq
 Lighting
 Linux for PlayStation 2
-List of MIPS architecture processors
 List of PlayStation 2 games (A–K)
 List of PlayStation 2 games (L–Z)
 List of PlayStation 2 online games
 List of best-selling PlayStation 2 video games
-List of computer graphics and descriptive geometry topics
-List of games compatible with EyeToy
-List of semiconductor scale examples
-Load–store unit
-Loongson
-MIPS II
-MIPS III
-MIPS IV
-MIPS Technologies
-MIPS V
 MIPS architecture
-MIPS architecture processors
 MPEG-2
-MPEG2
-Macroblock
-Marvell Technology Group
 MediaTek
 Megahertz
-Memory controller
-Metal–oxide–semiconductor
-Microchip Technology
-Microcode
 Microcontroller
-Microprocessor Report
 Mountain (advertisement)
-NOVO7
 Nintendo 64
-Out-of-order execution
-PCSX2
-PIC microcontrollers
 PSX (digital video recorder)
 Perspective (graphical)
 Pipeline (computing)
@@ -109,50 +38,15 @@ PlayStation 2 technical specifications
 PlayStation 3
 PlayStation Broadband Navigator
 PlayStation Portable
-Power consumption
-Processor register
-Processor registers
-Qualcomm Atheros
-R10000
-R2000 (microprocessor)
-R3000
-R4000
-R4200
-R4600
-R5000
-R6000
-R8000
-RDRAM
-RISC
-RMI Corporation
-Random-access memory
 Read-only memory
-Realtek
 S2CID (identifier)
-Scratchpad RAM
-Scratchpad memory
 Shader
-SiCortex
-Single-precision
 Single instruction, multiple data
-Single precision
-Skytone Alpha-400
-Software emulation
 Sony Computer Entertainment
 Sony Interactive Entertainment
-Springer Science & Business Media
-Streaming SIMD Extensions
-Supercomputer
-Superscalar
-Texas Instruments
 The Best (PlayStation)
-Toshiba
-Transformation (mathematics)
-Translation lookaside buffer
 Vector processor
 Video game console
-Virtual addressing
 Voltage
 Watt
 X86
-Xilleon

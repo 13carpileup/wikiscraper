@@ -1,159 +1,54 @@
 ARIB STD B24 character set
-Adoption of Chinese literary culture
 Akita dialect
-Alay
 Amami Japanese
 Amami Ōshima language
-Amoy dialect
-Arabic chat alphabet
 Ateji
 Awaji dialect
-Badong Yao language
-Bai language
-Baidu
 Bamboo English
-Banqiao dialect
 Banshū dialect
-Ba–Shu Chinese
-Beijing Mandarin (division of Mandarin)
-Beijing dialect
-Biaoxingma method
 Bingo dialect
 Bonin English
 Bopomofo
 Braille
 Braille kanji
-Brushtalk
-CKC Chinese Input System
-Caijia language
-Cai–Long languages
-Cangjie input method
 Cantonese
-Cantonese Bopomofo
 Cantonese Braille
-Cantonese grammar
-Cantonese phonology
-Central Min
-Central News Agency (Taiwan)
-Central Plains Mandarin
-Changchun dialect
-Changle dialect
-Changsha dialect
-Changting dialect
-Changzhou dialect
-Chang–Du Gan
-Chawan dialect
-Chengdu-Chongqing dialect
-Chengyu
 Chikuzen dialect
 Chinese bronze inscriptions
 Chinese characters
-Chinese classifier
-Chinese grammar
-Chinese honorifics
-Chinese input methods for computers
 Chinese language
-Chinese numerals
-Chinese postal romanization
-Chinese punctuation
-Chuanqing people
-Chu–Qu Wu
-Chūgoku dialect
-Classical Chinese
-Classical Chinese grammar
 Classical Japanese
-Clerical script
-Comparison of national standards of Chinese
-Cursive script (East Asia)
-Cyrillization of Chinese
 Cyrillization of Japanese
-Dalian dialect
-Danzhou dialect
-Dapeng dialect
-Dayi method
-Da–Tong Gan
-Denglisch
-Doge (meme)
-DoggoLingo
-Dongping dialect
-Dungan alphabets
-Dungan language
-EFEO Chinese transcription
 Early Middle Japanese
 Early Modern Japanese
-Eastern Han Chinese
-Eastern Min
 Eastern Old Japanese
 Enclosed CJK Letters and Months
 Enclosed Ideographic Supplement
 Engrish
 Extended Unix Code
 Extended shinjitai
-Fingilish
-Fu'an dialect
-Fuqing dialect
 Furigana
-Fuzhou dialect
-Fu–Ning language group
-Gairaigo
-Gan Chinese
-Gangou language
-Gao–Yang Yue
 Gender differences in Japanese
 Glossary of Japanese words of Dutch origin
 Glossary of Japanese words of Portuguese origin
 Go-on
 Gojūon
-Google Pinyin
-Goulou Yue
-Greeklish
-Guandao dialect
-Guangdong Romanization
-Guanzhong dialect
-Gui–Liu Mandarin
 Gunma dialect
-Gutian dialect
-Gwoyeu Romatzyh
-Gyami language
-Gyaru-moji
 Hachijō grammar
 Hachijō language
-Haikou dialect
-Hailu dialect
-Hainanese
 Hakata dialect
-Hakka
-Hakka Chinese
-Haklau Min
 Halfwidth and fullwidth forms
-Hangzhou dialect
-Hanyu Pinyin
-Harbin dialect
 Hentaigana
 Hepburn romanization
 Hichiku dialect
 Hida dialect
 Hiragana
 Hiragana (Unicode block)
-Historical Chinese phonology
 Historical kana orthography
-History of Gan Chinese
-History of the Chinese language
 Hokkaido dialects
-Hokkien
-Hokkien phonology
-Hokuriku dialect
-Hong Kong Cantonese
 Honorific speech in Japanese
-Houguan language group
-Huizhou Chinese
-Huizhou dialect
-Hōnichi dialect
-ISO/IEC 2022
 Ibaraki dialect
 Inshū dialect
-Intensifier
-Internet slang
 Iyo dialect
 JIS X 0201
 JIS X 0208
@@ -165,7 +60,6 @@ Japan
 Japanese-based creole languages
 Japanese Braille
 Japanese adjectives
-Japanese books
 Japanese counter word
 Japanese dialects
 Japanese dictionary
@@ -186,26 +80,8 @@ Japanese pronouns
 Japanese punctuation
 Japanese script reform
 Japanese sound symbolism
-Japanese verb conjugation
 Japanese writing system
 Japonic languages
-Jejemon
-Ji-She
-Jian'ou dialect
-Jiangshan dialect
-Jiangyin dialect
-Jianyang dialect
-Jiaoliao Mandarin
-Jilu Mandarin
-Jin Chinese
-Jinan dialect
-Jing-Zhan
-Jinhua dialect
-Jinxiang dialect
-Jiujiang dialect
-Ji–Xu Xiang
-Junjiahua
-Jyutping
 Jōdai Tokushu Kanazukai
 Kaga dialect
 Kagoshima dialect
@@ -220,7 +96,6 @@ Kanazukai
 Kanbun
 Kanji
 Kansai dialect
-Kantō dialect
 Katakana
 Katakana (Unicode block)
 Katakana Phonetic Extensions
@@ -230,55 +105,19 @@ Kishū dialect
 Kokuji
 Kumamoto dialect
 Kunigami language
-Kunming dialect
 Kunrei-shiki romanization
 Kyowa-go
-Kyūjitai
-Lanyin Mandarin
-Lanzhou dialect
 Late Middle Japanese
-Leet
-Leizhou Min
-Leshan dialect
-Lessing-Othmer
 List of Japanese speculative fiction writers
 List of Japanese writers
 List of classical Japanese texts
-List of kanji by stroke count
 List of kanji radicals by frequency
 List of kanji radicals by stroke count
-List of varieties of Chinese
-Literary Chinese in Vietnam
-Literary and colloquial readings of Chinese characters
 Logogram
-Logographic
-Lolcat
-Longdu dialect
-Longjia language
-Longyan Min
-Lower Yangtze Mandarin
-Luoyang dialect
-Luo–Guang Yue
-Luren language
-Mai Chinese
 Mainland Chinese Braille
-Malaysian Cantonese
-Malaysian Mandarin
 Man'yōgana
-Mandarin (late imperial lingua franca)
 Mandarin Chinese
-Mandarin Phonetic Symbols II
-Manjiang dialect
-Martian language
-Matsu dialect
-Medan Hokkien
-Meixian dialect
-Microsoft Pinyin IME
-Middle Chinese
-Miguxês
 Mikawa dialect
-Min Chinese
-Minjiang dialect
 Mino dialect
 Miyakoan language
 Modern kana usage
@@ -287,214 +126,61 @@ Nagasaki dialect
 Nagoya dialect
 Nairiku dialect
 Nanbu dialect
-Nanchang dialect
-Nanjing dialect
-Nanlang dialect
-Nanping dialect
-Nantong dialect
 Narada dialect
-New Xiang
 Nihon-shiki romanization
-Ningbo dialect
-Ningde dialect
-Northeastern Mandarin
 Northern Izu Archipelago dialects
-Northern Min
 Northern Ryukyuan languages
-Northern Wu phonology
 Nyōbō kotoba
 Nüshu
 Okinawan Japanese
 Okinawan language
-Okinoerabu language
 Okurigana
 Okuyoshino dialect
-Old Chinese
-Old Chinese phonology
 Old Japanese
-Old Mandarin
-Old National Pronunciation
-Old Xiang
 Oracle bone script
-Padonkaffsky jargon
-Penang Hokkien
-Pe̍h-ōe-jī
-Pha̍k-fa-sṳ
-Philippine Hokkien
-Philippine Mandarin
-Pinghua
 Pinyin
-Pinyin method
 Polivanov system
-Proto-Hakka
-Proto-Min
-Pu–Xian Min
-Qi-De
-Qingdao dialect
-Qingtian dialect
-Qinjiang Mandarin
-Qin–Lian Yue
-Qiyang dialect
-Quanzhou dialect
-Quzhou dialect
-Raoping Hakka
 Rendaku
-Renshou–Fushun Mandarin
-Romanization of Chinese
 Romanization of Japanese
-Romanization of Wu Chinese
-Rongjiang dialect
-Rui'an dialect
 Ryakuji
 Ryukyuan languages
-SMS language
 Saga dialect
 Sanuki dialect
-Sanxiang dialect
-Script styles
 Seal script
-Semi-cursive script
-Shadi dialect
-Shanghainese
-Shaoxing dialect
-Shaozhou Tuhua
-Shao–Jiang Min
-She Chinese
-Shenyang Mandarin
 Shift JIS
 Shikoku dialect
-Shinjitai
-Shiqi dialect
 Shizuoka dialect
-Shuangfeng dialect
-Sichuanese Standard Chinese
-Sichuanese characters
-Sichuanese dialects
-Simplified Cangjie
 Simplified Chinese characters
-Simplified characters
-Singaporean Hokkien
-Singaporean Mandarin
-Singdarin
-Sinitic languages
 Sino-Japanese vocabulary
-Sixian dialect
-Siyi Yue
 Small Kana Extension
-Sogou Pinyin
 Southern Amami Ōshima language
-Southern Min
-Southern Peninsular Malaysian Hokkien
 Southern Ryukyuan languages
-Southwestern Mandarin
-Spelling in Gwoyeu Romatzyh
 Standard Chinese
-Standard Chinese phonology
-Standard Singaporean Mandarin
-Stroke count method
-Suzhou dialect
-Swatow dialect
 Sōgana
-Taihu Wu
-Taishanese
 Taiwanese Braille
-Taiwanese Hakka
-Taiwanese Hangul
 Taiwanese Hokkien
-Taiwanese Mandarin
-Taiwanese Phonetic Symbols
 Taiwanese kana
-Taizhou Wu
-Taizhou dialect
 Tarama language
-Taz dialect
-Teochew Min
-Tianjin dialect
-Tiantai dialect
-Tingzhou dialect
 Tochigi dialect
 Tokunoshima language
 Tokyo dialect
-Tongdao Pinghua
-Tongyong Pinyin
 Topic marker
 Tosa dialect
-Traditional Chinese characters
-Traditional characters
 Transcription into Japanese
 Transcription of the Japanese language in Esperanto
 Tsugaru dialect
 Tsushima dialect
-Two-cell Chinese Braille
 Tō-on
 Tōhoku dialect
-Tōkai–Tōsan dialect
 Umpaku dialect
-Urumqi dialect
-Varieties of Chinese
-Wade–Giles
 Wasei-eigo
 Wasei-kango
-Waxiang Chinese
-Weihai dialect
-Weitou dialect
-Wenchang dialect
-Wencheng dialect
-Wenzhounese
-Written Cantonese
-Written Chinese
-Written Hokkien
-Written vernacular Chinese
-Wu Chinese
-Wubi method
-Wugang dialect
-Wuhan dialect
-Wuhua dialect
-Wuming Mandarin
-Wuxi dialect
-Wuzhou Wu
-Wu–Hua Yue
 Wāpuro rōmaji
-Xi'an dialect
-Xiang Chinese
-Xiangnan Tuhua
-Xiangxiang dialect
-Xiao'erjing
-Xiehouyu
-Xiguan dialect
-Xinhui dialect
-Xinjiang Mandarin
-Xiu-Yi
-Xuancheng dialect
-Xuanzhou Wu dialects
-Xuzhou dialect
 Yaeyama language
 Yakuwarigo
-Yale romanization of Cantonese
-Yale romanization of Mandarin
-Yamato kotoba
-Yaminjeongeum
-Yanzhou dialect
-Yeheni language
 Yilan Creole Japanese
-Ying–Yi Gan
-Yi–Liu Gan
 Yokohama Pidgin Japanese
 Yonaguni language
-Yongjiang dialect
-Yong–Quan Xiang
-Yong–Xun Yue
 Yoron language
 Yotsugana
-Younian dialect
-Yue Chinese
-Yuehai dialects
-Zhangjiakou–Hohhot dialect
-Zhangzhou dialect
-Zhanjiang dialect
-Zhenan Min
-Zhengma method
-Zhi-Yan dialect
-Zhongshan Min
-Zigong dialect
 Ōita dialect

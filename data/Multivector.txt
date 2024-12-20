@@ -1,195 +1,56 @@
-Abstract index notation
-Affine connection
 Affine space
 Albert Einstein
-Algebra of physical space
-Alternating algebra
-Angular momentum
-Antisymmetric tensor
 Associative algebra
-Augustin-Louis Cauchy
-Basic Linear Algebra Subprograms
 Basis (linear algebra)
-Bernhard Riemann
 Bilinear map
-Bivector
-Blade (geometry)
 Block matrix
 Cambridge University Press
 Carl Friedrich Gauss
-Cartan formalism (physics)
-Cauchy stress tensor
-Change of basis
-Classification of electromagnetic fields
 Clifford algebra
-Comparison of linear algebra libraries
 Computer vision
-Connection form
-Continuum mechanics
 Coordinate system
-Covariance and contravariance of vectors
-Covariant derivative
 Cramer's rule
-Cross product
-D. Reidel
-David Hestenes
 Determinant
-Differential form
 Differential geometry
-Dimension
-Direct sum of modules
 Dot product
-Dover Books
 Dual space
-Duality (projective geometry)
-Dyadics
 Eigenvalues and eigenvectors
-Einstein notation
-Einstein summation convention
-Einstein tensor
 Electromagnetic tensor
 Electromagnetism
-Ellipsoid
-Elwin Bruno Christoffel
 Engineering
 Euclidean geometry
-Euclidean space
-Euclidean vector
 Exterior algebra
-Exterior calculus
-Exterior covariant derivative
-Exterior derivative
-Exterior form
-Exterior product
-Fiber bundle
-Floating-point arithmetic
-Function space
 Gaussian elimination
-General relativity
-Geodesic
 Geometric algebra
 Glossary of linear algebra
-Glossary of tensor theory
-Gluon field strength tensor
-Graded algebra
-Gram–Schmidt process
-Grassmann coordinates
-Gregorio Ricci-Curbastro
 Hadamard product (matrices)
-Harley Flanders
-Hermann Grassmann
-Hermann Weyl
-Hodge star operator
-Hypervolume
 ISBN (identifier)
-Index notation
 Inner product
 Inner product space
-Invertible matrix
-Jan Arnoldus Schouten
-Kernel (linear algebra)
-Kronecker delta
 Kronecker product
-Leonhard Euler
-Levi-Civita connection
-Levi-Civita symbol
-Lie derivative
 Linear algebra
-Linear combination
-Linear independence
 Linear map
-Linear span
 Linear subspace
-Manifold
 Mathematician
 Mathematics
 Matrix (mathematics)
 Matrix decomposition
 Matrix multiplication
-Metric tensor
-Metric tensor (general relativity)
-Minor (linear algebra)
-Mixed tensor
-Moment of inertia
-Multi-index notation
 Multilinear algebra
 Multilinear map
-N choose k
-Nonmetricity tensor
 Norm (mathematics)
-Numerical linear algebra
-Numerical stability
 Operation (mathematics)
-Orientation (vector space)
 Orthogonality
-Outer product
-Outermorphism
-Outline of linear algebra
-P-vector
-Parallelepiped
-Paravector
-Penrose graphical notation
-Peter J. Olver
 Physics
-Plücker coordinates
-Productive matrix
 Projection (linear algebra)
-Projective space
-Pseudoscalar
-Pseudotensor
-Pseudovector
 Quaternion
-Quotient space (linear algebra)
-Raising and lowering indices
 Rank (linear algebra)
-Ricci calculus
-Ricci curvature
-Riemann curvature tensor
-Row and column spaces
-Row and column vectors
 Scalar (mathematics)
 Scalar multiplication
-Seven-dimensional cross product
-Sparse matrix
-Spin tensor
-Spinor
-Stress–energy tensor
-Symmetric tensor
-Symmetrization
 System of linear equations
-Tangent space
-Tangent vector
 Tensor
-Tensor (intrinsic definition)
 Tensor algebra
-Tensor bundle
-Tensor calculus
 Tensor contraction
-Tensor density
-Tensor field
-Tensor operator
 Tensor product
-Tensors in curvilinear coordinates
-Tetrad (index notation)
-The Road to Reality
-Torsion tensor
-Transformation matrix
-Transport phenomena
 Transpose
-Triple product
-Tullio Levi-Civita
-Two-point tensor
-Van der Waerden notation
-Vector (geometric)
-Vector (mathematics and physics)
-Vector calculus
-Vector projection
 Vector space
-Voigt notation
-Volume form
-Wedge product
-Wendell Fleming
-Weyl tensor
-William Kingdon Clifford
-Woldemar Voigt
-Élie Cartan

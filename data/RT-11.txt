@@ -1,10 +1,3 @@
-16-bit computing
-4680 OS
-4690 Operating System
-4K Disk Monitor System
-ANDOS
-AO-DOS
-Adam Dunkels
 AdvFS
 Alpha 21064
 Alpha 21164
@@ -12,45 +5,24 @@ Alpha 21264
 Alpha 21364
 Alpha 21464
 AltaVista
-Apache Mynewt
 Assembly language
-Assign (command)
 BASIC
 BASIC-8
-BASIS
-BeRTOS
 Bus (computing)
 CPU Wars
-CSI-DOS
 CVAX
 C (programming language)
-CalComp plotter
-Capability-based security
 Character encoding
-ChibiOS/RT
-ChorusOS
-Closed source
-Cls (command)
 Code page 1287
 Code page 1288
-Command-line argument
-Command-line interface
 Commercial Operating System
 Compaq
-Comparison of real-time operating systems
-Computer display
 Computer hardware
 Computer multitasking
 Computer terminal
 Computerworld
-Concurrent DOS
-Contiki
-Control flow
-Copy (command)
-DECNET
 DECUS
 DEC Alpha
-DEC BATCH-11/DOS-11
 DEC GT40
 DEC Hebrew
 DEC J-11
@@ -68,190 +40,78 @@ DECtape
 DECwriter
 DIBOL
 DIGITAL Command Language
-DNIX
 DOS
-DOSB10
-DSOS
-DVK
-DX-DOS
-Dan Dodge
-Data acquisition
-Dave Cutler
-David Cheriton
-Del (command)
 Device driver
 Digital Equipment Corporation
 Digital Federal Credit Union
 Digital Linear Tape
 Digital Storage Systems Interconnect
-Digital UNIX
-DioneOS
-Dir (command)
 Doi (identifier)
 Dynamic debugging technique
 Dynamically Redefined Character Set
-ECos
-EIA-422
-EKA2
-ERIKA Enterprise
-EROS (microkernel)
-Elektronika 60
-Elektronika BK
 EulerOS
-FOBOS
 FOCAL (programming language)
-FODOS
 FX!32
 File system
-File system fragmentation
-Filename
 Filename extension
 Firefly (cache coherence protocol)
-FlexOS
 Flip-Chip module
 Floppy disk
 Format (command)
-Fortran
 FreeRTOS
-Fuzzball router
-Gamma camera
-Gas chromatograph
 Gold key (DEC)
-Google Scholar
 Gordon Bell
-Gordon Bell (QNX)
-Green Hills Software
-HC-DOS
 HP-Interex
-Hardcopy (magazine)
 Harlan Anderson
-Harmony (operating system)
-Help (command)
 IBM
-ITRON project
 Instruction set architecture
-Integrity (operating system)
 Interactive Application System
-Internet Protocol
-Internet protocol suite
-JavaOS
-Java virtual machine
-Junos OS
-KMON (operating system)
 Ken Olsen
-Ken Sakamura
 Kernel (operating system)
-L4Linux
-L4 microkernel family
 LK201
 LK421
-Light pen
 LiteOS
 Local Area Transport
-Lunar Lander (1979 video game)
-LynxOS
 MACRO-10
 MACRO-11
-MASTER-11
-MK-DOS
-MQX
 MUMPS
 Magnetic tape
 Maintenance Operations Protocol
 Mass Storage Control Protocol
 Massbus
-Mentec PDP-11
-Micro-Controller Operating Systems
-MicroDOS
 MicroVAX 78032
-Micro T-Kernel
-Microkernel
 Microsoft
-Microware
 Monolithic kernel
-Multi-Environment Real-Time
 Multinational Character Set
-Multiuser DOS
-NORD (operating system)
-NORTON-BK
 NVAX
-Nano-RK
 National Replacement Character Set
 Natural language
-Nuclear medicine
-Nucleus RTOS
-NuttX
-OS-9
-OS/8
-OS/A WASP
-OS2000
-OS BK-11
-OS DVK
-Octal Debugging Technique
 On-line Debugging Tool
 Open-source software
-OpenComRTOS
 OpenVMS
-Operating System Embedded
 Operating system
 PALcode
-PDP-11
-PDP-11/73
 PDP-11 architecture
 PDP-7
 POSIX
-PSOS (real-time operating system)
-PX5 RTOS
-PascalDOS
 Pascal (programming language)
-Peripheral Interchange Program
-Phantom OS
-PikeOS
 Process control
 Processor (computing)
 Programmer
 Programming language
 Proprietary software
-Psion (company)
-Punched tape
 Q-Bus
 QNX
 RA90
-RAFOS (operating system)
-RAMON
-REAL/32
-REX OS
-RIOT (operating system)
 RK05
 RL02
-RMX (operating system)
 RS-232
-RSTS/E
 RSX-11
-RSX-15
-RT-Thread
-RTAI
-RTEMS
-RTLinux
-RUDOS
 ReGIS
-Real-Time Linux
-Real-time clock
 Real-time computing
-Real-time operating system
 Record Management Services
-Ren (command)
 Rigel (microprocessor)
 Robert Palmer (computer businessman)
-Robot Operating System
-Run-time system
-Runoff (program)
-SM EVM
-Scheduling (computing)
-ScreenOS
-SeL4
-Segger Microcontroller Systems
-Sintran III
 Sixel
 Software development kit
 Software framework
@@ -261,43 +121,18 @@ Source code
 Spacewar!
 Standard Disk Interconnect
 Star coupler
-Start (command)
 StrongARM
 Symbian
 Synchronous Backplane Interconnect
 System Module
-System Reference Manual
-System console
-System generation
-T-Engine Forum
-T-Kernel
-T-License
-TD/SMP
-TECO (text editor)
-THEOS
-TI-RTOS
 TOPS-10
 TOPS-20
-TRON project
-TSS/8
-TSX-32
-TU58
 TU81
 TURBOchannel
-TYPE (DOS command)
-Tektronix 4010
-Teleprinter
-Texas Instruments
 The Ultimate Entrepreneur
-Thoth (operating system)
 ThreadX
-Transaction Processing Facility
-Turbo-DOS
-UNOS (operating system)
 Ultrix
 Unibus
-Unix
-Unix-like
 User interface
 VAX
 VAXBI bus
@@ -306,33 +141,11 @@ VAX MACRO
 VT05
 VT100
 VT1000
-VT101
-VT102
-VT103
-VT105
-VT131
 VT180
 VT220
-VT240
-VT241
 VT320
-VT330
-VT340
 VT420
-VT510
 VT52
 VT520
-VT525
-VT55
-VT62
 VT640
-Vector graphics
-Versatile Real-Time Executive
-Visual editor
-VxWorks
 WPS-8
-Wildcard character
-Windows Embedded Compact
-Wombat (operating system)
-Xenomai
-Zephyr (operating system)

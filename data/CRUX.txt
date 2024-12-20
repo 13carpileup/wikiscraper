@@ -1,4 +1,3 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
 AlmaLinux
@@ -32,7 +31,6 @@ Caldera OpenLinux
 CalyxOS
 CentOS
 CentOS Stream
-Cfdisk
 Chakra (operating system)
 Chimera Linux
 ChromeOS
@@ -40,11 +38,8 @@ ChromiumOS
 ClearOS
 Clear Linux OS
 ColorOS
-Command-line interface
 Commodore OS
-Compact Disc
 Comparison of Linux distributions
-Compiled
 Container Linux
 Corel Linux
 CrDroid
@@ -58,8 +53,6 @@ Deepin
 DemoLinux
 Devuan
 Disk partitioning
-Distributed file system
-DistroWatch
 DivestOS
 DoudouLinux
 Dreamlinux
@@ -97,9 +90,7 @@ GrapheneOS
 Graphical user interface
 HandyLinux
 Hard disk drive
-Hyperbola GNU/Linux-libre
 IBM AIX
-IRIX
 Immunix
 IodéOS
 Jurix
@@ -140,14 +131,11 @@ Mageia
 Mandrake Linux
 Mandriva Linux
 Manjaro
-Md5sum
 MeeGo
 Mer (software distribution)
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Mount (Unix)
-Musix GNU+Linux
 Network Security Toolkit
 NimbleX
 Nitix
@@ -161,12 +149,10 @@ OpenELEC
 OpenMandriva Lx
 OpenSUSE
 Open Enterprise Server
-Openbox
 Operating system
 Oracle Linux
 PCLinuxOS
 Package manager
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
@@ -178,7 +164,6 @@ PixelExperience
 Platypux
 Pop! OS
 Porteus (operating system)
-Ports system
 Programmer
 Puppy Linux
 PureOS
@@ -202,7 +187,6 @@ Sabily
 Sailfish OS
 Salix OS
 Scientific Linux
-Shell script
 Slackware
 Slax
 Softlanding Linux System
@@ -238,9 +222,6 @@ Ubuntu Unity
 Ultramarine Linux
 Ultrix
 Unity Operating System
-Unix
-Unix-like
-Uruk GNU/Linux
 User interface
 User space and kernel space
 VectorLinux
@@ -249,7 +230,6 @@ Void Linux
 Wayback Machine
 Whonix
 Wubuntu
-X86-64
 XB Machine
 Xubuntu
 Yellow Dog Linux

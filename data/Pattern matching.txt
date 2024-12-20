@@ -1,140 +1,21 @@
 AT&T Corporation
-AWK
-Abstract data type
-Abstract syntax tree
-Aho–Corasick algorithm
-Algebraic data type
-Alternation (formal language theory)
-Apostolico–Giancarlo algorithm
-Approximate string matching
-Artificial Intelligence Markup Language
-Awk
-BLAST (biotechnology)
-Backtracking
-Backus–Naur form
 Bell Laboratories
-Bitap algorithm
-Boyer–Moore string-search algorithm
-Boyer–Moore–Horspool algorithm
-COMIT
 C Sharp (programming language)
-Caml
-Coccinelle (software)
-Commentz-Walter algorithm
-Comparison of regular-expression engines
-Compressed pattern matching
-Compressed suffix array
-Computer algebra system
 Computer science
-Concatenation
-Conditional (computer programming)
-Context-free grammar
 Curry–Howard correspondence
-Damerau–Levenshtein distance
 Data structure
-David J. Farber
 Dennis Ritchie
-Deterministic acyclic finite state automaton
-Edit distance
-Erlang (programming language)
-F* (programming language)
-FM-index
 F Sharp (programming language)
-Fibonacci number
-First-class object
-Function (programming)
-Functional programming
-Generalized suffix tree
-Gestalt pattern matching
-Glob (programming)
-Graph matching
-Guard (computer science)
-Hamming distance
 Haskell
-Hirschberg's algorithm
-Hope (programming language)
-Humanities
 Integer
-Interface (computer science)
-Jaro–Winkler distance
 Java (programming language)
-Kent Recursive Calculator
-Knuth–Morris–Pratt algorithm
-LCP array
-Language construct
-Lee distance
-Levenshtein automaton
-Levenshtein distance
-Lexical analysis
-List (computing)
 List comprehension
-Longest common subsequence
-Longest common substring
-ML (programming language)
-Matching wildcards
-Mathematica
-NPL (programming language)
-Needleman–Wunsch algorithm
-Nondeterministic finite automaton
-OCaml
-PCRE
-Parsing
-Pattern
-Pattern calculus
-Pattern language
-Pattern recognition
 Perl
 Programming language
 Prolog
-Proof by cases
-Proof by exhaustion
-Pure (programming language)
 Python (programming language)
-QED (text editor)
-REBOL
-Rabin–Karp algorithm
-Raita algorithm
-Ralph E. Griswold
 Record (computer science)
 Recursion
-Red–black tree
-Refal
 Regular expression
-Regular grammar
-Rope (data structure)
 Ruby (programming language)
-Rust (programming language)
-SASL (programming language)
-SNOBOL
-SPITBOL
-Scala (programming language)
-Semi-Thue system
-Sequence alignment
-Sequential pattern mining
-Smith–Waterman algorithm
-Standard ML
-String-searching algorithm
 String (computer science)
-String matching
-String metric
-String operations
-Substring index
-Suffix array
-Suffix automaton
-Suffix tree
-Swift (programming language)
-Symbolic integration
-Syntax (programming languages)
-TECO (text editor)
-Tagged union
-Ternary search tree
-Text editor
-Thompson's construction
-Tom (pattern matching language)
-Tree (data structure)
-Tree structure
-Trie
-Trigram search
-Two-way string-matching algorithm
-Wagner–Fischer algorithm
-Zhu–Takaoka string matching algorithm

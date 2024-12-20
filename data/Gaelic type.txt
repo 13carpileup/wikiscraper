@@ -1,4 +1,3 @@
-&
 1829 braille
 ASCII
 ASLwrite
@@ -7,59 +6,35 @@ Abjad numerals
 Abugida
 Accessible publishing
 Act for the Settlement of Ireland 1652
-Acute accent
 Adinkra symbols
 Adlam script
 Afaka syllabary
 Agate (typography)
 Ahom script
-Airgíalla
-Akkadian cuneiform
-Alasdair mac Mhaighstir Alasdair
 Albanian Braille
 Algerian Braille
 All caps
 Alphabet
 American Braille
 American Printing House for the Blind
-An Caighdeán Oifigiúil
-An Coimisinéir Teanga
-An Comunn Gàidhealach
-An Gael
-An Gúm
-An Post
-An tUltach
 Anatolian hieroglyphs
 Ancient North Arabian
 Ancient South Arabian script
 Anglo-Saxon runes
-Antiqua (typeface class)
 Arabic Braille
 Arabic script
-Arabic typography
 Aramaic alphabet
 Archaic Greek alphabets
-Archæologia Britannica
 Ariyaka script
 Armenian Braille
 Armenian alphabet
-Arthur Baker (calligrapher)
-Ascender (typography)
-Asomtavruli
-Assyrian cuneiform
 Attic numerals
 Avestan alphabet
 Avoiuli
-Azeri Braille
 Aztec script
-BBC Alba
-BBC Radio Ulster
-BBC Two Northern Ireland
 Bagam script
 Balinese script
 Bamum script
-Baseline (typography)
-Bassa Vah script
 Batak script
 Baybayin
 Belarusian Braille
@@ -72,17 +47,11 @@ Bharati script
 Bhattiprolu script
 Bhujimol script
 Bird-worm seal script
-Blackboard bold
 Blackfoot language
 Blackletter
-Blas (Radio Ulster)
 Blissymbols
-Body height (typography)
-Book Pahlavi
-Book of Kells
 Bopomofo
 Bosnian Cyrillic
-Bowen script
 Boyd's syllabic shorthand
 Brahmi script
 Brahmic scripts
@@ -103,20 +72,12 @@ Braille watch
 Buda script
 Buhid script
 Bulgarian Braille
-Bullet (typography)
 Burmese Braille
 Byblos syllabary
 Bété syllabary
-Bézier curve
-Bòrd na Gàidhlig
-Calligraphy
-Camel case
 Canadian Aboriginal syllabics
 Canadian currency tactile feature
-Canons of page construction
 Cantonese Braille
-Cap height
-Capitalization
 Carian alphabets
 Carolingian minuscule
 Carrier syllabics
@@ -124,9 +85,6 @@ Catalan Braille
 Catechism
 Caucasian Albanian script
 Celtiberian script
-Celtic Christianity
-Celtic language
-Celts
 Chakma script
 Cham script
 Character encoding
@@ -136,152 +94,66 @@ Chinese bronze inscriptions
 Chinese characters
 Chinese family of scripts
 Chữ Nôm
-Cicero (typography)
 Cipher runes
 Cirth
-City Hall, Dublin
-Clan Donald
-Clan MacLeod
-Clans of Ireland
-Classical Gaelic
 Clear Script
-Cló Iar-Chonnacht
 Coelbren y Beirdd
-Coiscéim
-Color printing
-Columba Project
-Column (typography)
-Comhar
 Computer Braille Code
-Computer font
-Comunn na Gàidhlig
-Conmaicne
-Connacht Irish
-Connachta
-Conradh na Gaeilge
 Coorgi–Cox alphabet
-Coptic alphabet
-Corcu Loígde
-Cork (city)
 Cornish language
-Counter (typography)
-County Kerry
 Cretan hieroglyphs
-Culture Vannin
 Cuneiform
-Cuneiform Luwian
 Cursive Hebrew
 Cypriot syllabary
 Cypro-Minoan syllabary
 Cyrillic alphabets
 Cyrillic script
-Cyrillic typography
 Czech Braille
-Cíarraige
-Cúla 4
-Dalcassians
 Dalecarlian runes
-Dash
 Decapoint
 Demotic (Egyptian)
-Dependent and independent verb forms
-Descender
 Deseret alphabet
-Desktop publishing
 Devanagari
 Devanagari Braille
 Dham script
 Dhives Akuru
 Diacritic
-Didone (typography)
-Dingbat
-Display typeface
 Ditema tsa Dinoko
 Dogri script
 Dongba symbols
-Dot above
 Dotless i
-Dublin Castle
 Dunging script
 Duployan shorthand
 Dutch Braille
 Dzongkha Braille
-Dál Fiatach
-Dál Riata
-Dál nAraidi
-Déisi
 Early Cyrillic alphabet
-Early Irish astrology
-Early Irish law
-Early Irish literature
-Early Modern Irish
-East Asian typography
 Eclectic shorthand
-Edward Lhuyd
 Egyptian hieroglyphs
 Elamite cuneiform
-Elbasan script
 Elder Futhark
 Elifba alphabet
-Elizabeth I
 Elymaic
-Em (typography)
 Emoji
-Emphasis (typography)
-En (typography)
 English Braille
-English loanwords in Irish
 Enochian
 Ersu Shaba script
 Eskayan script
 Espanca script
 Esperanto Braille
 Estonian Braille
-Etaoin shrdlu
 Etruscan alphabet
-Even working
-Evenki alphabet
-Eveyla Akuru
-Eóganachta
 Fakkham script
 Faroese Braille
-Fat face
-Feasta
-Figure space
 Flag semaphore
-Flight of the Earls
-Font
-Font catalog
-Font hinting
-Font rasterization
-For position only
-Foras na Gaeilge
 Fox language
 Fraktur
 Fraser script
 French Braille
-Fáinne
 Gabelsberger shorthand
-Gadabuursi Somali script
-Gael Linn
-Gaelic Athletic Association
-Gaelic Ireland
-Gaelic folk music
-Gaelic games
-Gaelic literature
-Gaelic nobility of Ireland
-Gaelic revival
-Gaelic warfare
-Gaelicisation
-Gaels
-Gaeltacht
 Galik alphabet
 Garay alphabet
-Garda Síochána
 Gardner–Salinas braille codes
-Ge'ez Braille
 Geba syllabary
-Genetic history of the British Isles
 George Psalmanazar
 Georgian Braille
 Georgian scripts
@@ -290,16 +162,12 @@ Geʽez script
 Ghanaian braille
 Glagolitic script
 Glyph
-Glór na nGael
-Goidelic languages
-Golmol script
 Gondi writing
 Gothic alphabet
 Gothic runic inscriptions
 Goykanadi
 Grantha script
 Grapheme
-Great Famine (Ireland)
 Great Lakes Algonquian syllabics
 Greco-Iberian alphabet
 Greek Braille
@@ -311,63 +179,34 @@ Gujarati script
 Gunjala Gondi script
 Gupta script
 Gurmukhi
-Gàidhealtachd
-Handwriting
-Handwriting script
-Hanging punctuation
 Hangul
 Hanifi Rohingya script
 Hanja
 Hanunoo script
-Haplogroup R-M269
 Harris Mowbray
-Hatran alphabet
 Hawaiian Braille
 Hebrew Braille
 Hebrew alphabet
 Hentaigana
-Hiberno-Scottish mission
 Hieratic
-High King of Ireland
-Highland Clearances
-Highland games
-Himmol script
 Hindu–Arabic numeral system
 Hiragana
-History of Western typography
-History of the Irish language
 History of writing
 History of writing in Vietnam
 Hittite cuneiform
 Hungarian Braille
-Hyphen
 Hyphen-minus
 IPA Braille
 ISBN (identifier)
-ISO/IEC 8859-14
 ISO 15924
 ISSN (identifier)
 Iban language
 Icelandic Braille
 Ideogram
 Idu script
-Incung script
-Initial
-Ink trap
 Inscriptional Pahlavi
 Inscriptional Parthian
-Insular Celtic
-Insular D
-Insular F
-Insular G
-Insular R
-Insular S
-Insular T
-Insular g
 Insular script
-Intellectual property protection of typefaces
-Intentionally blank page
-Interlac
 International Phonetic Alphabet
 International maritime signal flags
 International uniformity of braille alphabets
@@ -375,44 +214,18 @@ Interpunct
 Inuktitut Braille
 Irish Braille
 Irish Independent
-Irish Rebellion of 1641
-Irish Texts Society
-Irish bardic poetry
-Irish clans
-Irish conjugation
-Irish declension
-Irish diaspora
-Irish genealogy
-Irish grammar
-Irish initial mutations
-Irish kinship
 Irish language
-Irish language in Newfoundland
-Irish language in Northern Ireland
-Irish language outside Ireland
-Irish lexicography
-Irish medical families
-Irish mythology
-Irish name
-Irish orthography
 Irish phonology
-Irish royal families
-Irish syntax
 Isotype (picture language)
 Isthmian script
 Italian Braille
-Italic type
-Iverni
 Iñupiaq Braille
-Jacobite rising of 1745
-Jacobitism
 Japan Braille Library
 Japanese Braille
 Javanese script
 Jindai moji
 Jurchen script
 Kadamba script
-Kaddare script
 Kaidā glyphs
 Kaithi
 Kalinga script
@@ -425,7 +238,6 @@ Katakana
 Kawi script
 Kayah Li alphabet
 Kazakh Braille
-Kerning
 Kharosthi
 Khema script
 Khitan large script
@@ -436,24 +248,16 @@ Khojki script
 Khom Thai script
 Khom script (Ong Kommadam)
 Khudabadi script
-Kingdom of Alba
-Kingdom of Munster
-Kingdom of the Isles
 Klingon scripts
-Kolezhuthu
 Korean Braille
 Kpelle syllabary
 Ktav Ashuri
 Kulitan
-Kummol script
 Kurdish alphabets
 Kurrent
 Kurukh language
-Kvemmol script
 Kyrgyz Braille
 Lai Tay script
-Laigin
-Lampung script
 Langdi
 Lao script
 Large seal script
@@ -461,40 +265,17 @@ Latin alphabet
 Latin script
 Latvian Braille
 Laṇḍā scripts
-Leading
-Leaving Certificate (Ireland)
-Lebor Gabála Érenn
-Leinster Irish
 Leke script
-Lembak script
 Lepcha script
-Letter-spacing
-Letter case
-Letterpress printing
-Ligature (typography)
-Ligature (writing)
 Limbu script
-Line length
 Linear B
 Linear Elamite
-List of Irish-language given names
-List of Irish-speaking people
-List of Irish clans
-List of Irish clans in Ulster
-List of Irish kingdoms
-List of Irish language media
-List of Scottish clans
 List of constructed scripts
 List of creators of writing systems
-List of languages by first written accounts
-List of typefaces
 List of typographic features
-List of typographical symbols and punctuation marks
 List of writing systems
-Lists of Irish kings
 Lisu language
 Lithuanian Braille
 Logogram
 Loma language
-Long s
 Lontara Bilang-bilang script

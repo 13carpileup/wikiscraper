@@ -1,23 +1,15 @@
 AND gate
-Absorption Law
-Abstract algebraic logic
 Abstract logic
 Ackermann set theory
 Affine transformation
 Aleph number
 Algebraic logic
 Alphabet (formal languages)
-Alternative question
 Alternative semantics
 Ambiguity
-Anaphora (linguistics)
 Antecedent-contained deletion
-Antecedent (logic)
-Arend Heyting
 Argument
-Arithmetices principia, nova methodo exposita
 Arity
-Associativity
 Atomic formula
 Atomic sentence
 Automata theory
@@ -25,29 +17,19 @@ Automated theorem proving
 Autonomy of syntax
 Axiom
 Axiom of choice
-Axiom of extensionality
 Axiom schema
-Axiomatic set theory
 Axiomatic system
-Axiomatization of Boolean algebras
 Banach–Tarski paradox
-Begriffsschrift
 Bertrand Russell
 Bijection
-Binary numeral system
 Binary operation
-Binary relation
 Binding (linguistics)
 Bit array
 Bitwise operation
-Boolean-valued function
 Boolean algebra
 Boolean algebra (structure)
 Boolean algebras canonically defined
-Boolean domain
 Boolean function
-Boolean logic
-Boolean ring
 Cantor's diagonal argument
 Cantor's paradox
 Cantor's theorem
@@ -59,7 +41,6 @@ Categorical theory
 Category (mathematics)
 Category of sets
 Category theory
-Catuṣkoṭi
 Charles Sanders Peirce
 Church encoding
 Church–Turing thesis
@@ -69,10 +50,8 @@ Codomain
 Coercion (linguistics)
 Cognitive semantics
 Combinatory categorial grammar
-Commutativity
 Compactness theorem
 Complement (set theory)
-Complementizer
 Complete theory
 Computability theory
 Computable function
@@ -82,53 +61,39 @@ Computational semantics
 Computer programming
 Computer science
 Concrete category
-Conditional (programming)
-Conditional operator
 Conditional sentence
 Conservative extension
 Conservativity
 Consistency
 Constructible universe
 Construction of the real numbers
-Constructive mathematics
 Constructive set theory
-Context set
 Continuation
 Continuum hypothesis
 Contradiction
 Conversational scoreboard
 Converse (logic)
-Converse implication
 Converse nonimplication
 Countable set
-Counterfactual conditionals
-Counterfactuals
 Crossover effects
 Cumulativity (linguistics)
-DRAM
 David Hilbert
 De dicto and de re
 De se
 Decidability (logic)
 Decision problem
-Deductive system
 Definiteness
 Denotation
 Deontic modality
 Diagram (mathematical logic)
-Dialetheism
 Digital buffer
-Digital circuit
 Discourse relation
 Discourse representation theory
-Disjunction
 Distributional semantics
 Distributivity
 Doi (identifier)
 Domain of a function
-Donkey anaphora
 Downward entailing
-Duality (mathematics)
 Dynamic semantics
 Element (mathematics)
 Elementary algebra
@@ -138,20 +103,16 @@ Elementary function arithmetic
 Empty set
 Encyclopedia of Mathematics
 English language
-Entailment
 Enumeration
 Epistemic modality
-Equality (mathematics)
 Equiconsistency
 Equivalence relation
 Euclid's Elements
 Euclidean geometry
 European Mathematical Society
 Evidentiality
-Exclusive disjunction
 Exclusive or
 Exhaustivity
-Existential closure
 Existential quantification
 Expression (mathematics)
 Extension (semantics)
@@ -171,13 +132,11 @@ Forcing (mathematics)
 Formal grammar
 Formal language
 Formal proof
-Formal semantics (logic)
 Formal semantics (natural language)
 Formal system
 Formation rule
 Foundations of geometry
 Foundations of mathematics
-Four-valued logic
 Free choice inference
 Free logic
 Free variables and bound variables
@@ -190,40 +149,29 @@ General set theory
 Generalized quantifier
 Generative grammar
 George Boole
-Gerhard Gentzen
-Giuseppe Peano
 Givenness
 Glue semantics
 Gottlob Frege
-Grammatical conjunction
-Grammatical particle
 Grothendieck universe
 Ground expression
-Ground formula
 Gödel's completeness theorem
 Gödel's incompleteness theorems
 Gödel numbering
 Halting problem
-Hasse diagram
-Herbert Enderton
 Hereditary set
 Higher-order logic
 Hilbert's axioms
 Hilbert system
 History of logic
-History of mathematical logic
-Homogeneity (linguistics)
 Hurford disjunction
 IMPLY gate
 ISBN (identifier)
-Idempotence
 Image (mathematics)
 Inaccessible cardinal
 Inalienable possession
 Independence (mathematical logic)
 Indexicality
 Inference
-Inferentialism
 Infinite-valued logic
 Infinite set
 Information theory
@@ -234,29 +182,20 @@ Intension
 Intensional logic
 Interpretation (logic)
 Interpretation (model theory)
-Interpretation function
 Intersection (set theory)
 Intersective modifier
 Intuitionistic logic
 Inverter (logic gate)
 Involution (mathematics)
 Isomorphism
-Jan Łukasiewicz
-Józef Maria Bocheński
 Kolmogorov complexity
-Kripke's theory of truth
 Kripke–Platek set theory
-L. T. F. Gamut
 Lambda calculus
 Large cardinal
-Lazy evaluation
 Lemma (mathematics)
 Lexical semantics
 Lindström's theorem
-Linguistic modality
 Linguistics wars
-List of Boolean algebra topics
-List of Hilbert systems
 List of axioms
 List of first-order theories
 List of formal systems
@@ -267,7 +206,6 @@ List of statements independent of ZFC
 Logic
 Logic gate
 Logic translation
-Logical NAND
 Logical NOR
 Logical biconditional
 Logical conjunction
@@ -287,22 +225,18 @@ Material conditional
 Material nonimplication
 Mathematical logic
 Mathematical object
-Meaning postulate
 Mereology
 Metalanguage
 Minimal axioms for Boolean algebra
 Mirativity
-Modal operator
 Modal subordination
 Model complete theory
 Model theory
 Monad (functional programming)
 Monadic predicate calculus
 Monadic second-order logic
-Monotonicity
 Montague grammar
 Morse–Kelley set theory
-Moses Schönfinkel
 NAND gate
 NIMPLY gate
 NOR gate
@@ -312,13 +246,10 @@ Natural deduction
 Negation
 New Foundations
 New York City
-Nicolas Bourbaki
 Non-Euclidean geometry
 Non-logical symbol
 Non-standard model
 Non-standard model of arithmetic
-Nonclassical logic
-Nullary
 OCLC (identifier)
 OR gate
 Opaque context
@@ -328,9 +259,7 @@ Ordinal analysis
 Ordinal number
 P (complexity)
 P versus NP problem
-Paradoxes of material implication
 Paradoxes of set theory
-Partial order
 Partition of a set
 Peano axioms
 Performative utterance
@@ -342,12 +271,9 @@ Polarity item
 Possible world
 Power set
 Pragmatics
-Precedence rule
 Predicate (mathematical logic)
-Predicate logic
 Predicate variable
 Presupposition
-Prime (symbol)
 Primitive recursive arithmetic
 Primitive recursive function
 Principia Mathematica
@@ -357,24 +283,18 @@ Programming language
 Proof of impossibility
 Proof theory
 Proposition
-Propositional attitudes
 Propositional calculus
 Propositional formula
-Propositional logic
 Propositional variable
 Quantificational variability effect
 Quantifier (logic)
-Quantifier raising
 Quantifier rank
 Quantization (linguistics)
 Question under discussion
 Recursion
-Recursive set
-Reference
 Relation (mathematics)
 Responsive predicate
 Reverse mathematics
-Rising declarative
 Robinson arithmetic
 Rule of inference
 Russell's paradox
@@ -386,108 +306,74 @@ Scope (formal semantics)
 Scope (logic)
 Second-order arithmetic
 Second-order logic
-Segmented discourse representation theory
 Self-verifying theories
 Semantic parsing
 Semantic theory of truth
-Semantics (natural language)
 Semantics of logic
 Sentence (mathematical logic)
 Sequent calculus
 Set (mathematics)
 Set theory
 Sheffer stroke
-Side effect (computer science)
 Signature (logic)
 Singleton (mathematics)
 Situation semantics
 Skolem arithmetic
-Sloppy identity
 Soundness
 Spectrum of a sentence
 Spectrum of a theory
-Speech act
 Springer Science+Business Media
 Square of opposition
-Squiggle operator
-Stanford Encyclopedia of Philosophy
 Statement (logic)
 Strawson entailment
 Strength (mathematical logic)
 Strict conditional
-String (formal languages)
 Structure (mathematical logic)
 Subsective modifier
-Subset
 Substitution (logic)
 Substructure (mathematics)
-Subtrigging
-Suffix
 Supertask
 Supervaluationism
 Surjective function
 Syllogism
 Symbol (formal)
-Syntactic sugar
 Syntax (logic)
-Syntax–semantics interface
 T-schema
 Tarski's axiomatization of the reals
 Tarski's axioms
-Tarski's theory of truth
 Tarski's undefinability theorem
 Tarski–Grothendieck set theory
 Tautology (logic)
-Telicity
-Temperature paradox
-Tense–aspect–mood
 Term (logic)
 Term logic
-Tetralemma
 Theorem
-Theories of truth
 Theory (mathematical logic)
 Three-valued logic
 Timeline of mathematical logic
 Transfer principle
 Transitive set
-Triviality (mathematics)
 True arithmetic
 Truth
-Truth-conditional semantics
-Truth function
 Truth predicate
 Truth table
 Truth value
 Turing machine
-Two-element Boolean algebra
 Type (model theory)
-Type shifter
 Type theory
-Type theory with records
-Ultrafilter (set theory)
 Ultraproduct
 Uncountable set
 Undecidable problem
 Uninterpreted function
 Union (set theory)
 Uniqueness quantification
-Universal grinder
 Universal quantification
 Universal set
 Universe (mathematics)
 Urelement
-Vagueness
 Validity (logic)
 Variable (mathematics)
-Variably strict conditional
 Venn diagram
-Verb
-Veridicality
 Von Neumann universe
 Von Neumann–Bernays–Gödel set theory
 Well-formed formula
-Wolfgang Rautenberg
-XNOR gate
-XOR gate
 Zermelo–Fraenkel set theory

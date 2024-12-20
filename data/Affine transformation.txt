@@ -2,166 +2,79 @@
 2D computer graphics
 3D computer graphics
 3D projection
-3D rendering
-Affine geometry
-Affine group
 Affine space
-Affine subspace
-Aliasing
 Alpha compositing
-Anamorphosis
-Angle
 Anisotropic filtering
-Area
-Augmented matrix
-August Ferdinand Möbius
-Automorphism
 Back-face culling
-Barnsley fern
-Barycenter
-Beam tracing
-Bent function
 Bijection
 Carl Friedrich Gauss
-Cel shading
-Checkerboard rendering
 Clipping (computer graphics)
-Collinearity
-Collineation
 Collision detection
 Comparison of vector graphics editors
-Composition of functions
 Computer graphics
-Computer graphics (computer science)
 Computer graphics lighting
 Computer vision
 Cone tracing
-Convex set
-Cross product
 Deferred shading
 Determinant
 Diffusion curve
-Digital image processing
-Dimension
-Distortion (optics)
 Encyclopedia of Mathematics
-Equiareal map
 Eric W. Weisstein
-Euclidean distance
 Euclidean geometry
 Euclidean plane
-Euclidean space
 European Mathematical Society
-Extreme point
-Felix Klein
 Field (mathematics)
-Flat (geometry)
 Fluid animation
-Fractal
-Free vector
 Function (mathematics)
 Function composition
-General linear group
-Generalization
 Geometric transformation
-Glide reflection
 Global illumination
 Graphics software
 Group (mathematics)
 Hidden-surface determination
-Homogeneous coordinates
-Homography
-Homothetic transformation
-Hyperbolic rotation
-Hyperplane at infinity
 ISBN (identifier)
-Identity operation
 If and only if
 Image-based modeling and rendering
-Image registration
-Image stitching
-Improper rotation
-Interpolation
-Introductio in analysin infinitorum
 Invariant (mathematics)
-Inverse function
-Invertible function
-Invertible matrix
 Isometric video game graphics
-Isometry
-Katsumi Nomizu
 Layers (digital image editing)
-Leonhard Euler
 Line (geometry)
 Linear map
-Linear transformation
-List of 3D animation software
 List of 3D computer graphics software
 List of 3D modeling software
 List of 3D rendering software
 List of computer graphics algorithms
 Map (mathematics)
-Marcel Berger
 MathWorld
 Matrix multiplication
 Mode 7
-Orientability
-Orthogonal matrix
-Oswald Veblen
 Parallax scrolling
-Parallel (geometry)
-Parallelism (geometry)
-Parallelogram
 Path tracing
 Pixel
 Planar projection
 Polygon mesh
 Projection (linear algebra)
-Projective space
-Projective transformation
-Projective transformations
 Raster graphics editor
-Ray casting
 Ray tracing (graphics)
-Real line
-Real projective space
 Reflection (computer graphics)
-Reflection (mathematics)
 Rendering (computer graphics)
-Rigid transformation
 Robotics
-Rotate
 Rotation
 Rotation (mathematics)
 Scaling (geometry)
 Scanline rendering
-Self-similarity
-Semidirect product
 Set (mathematics)
 Shader
 Shading
 Shadow mapping
-Shadow volume
-Shear mapping
 Shear matrix
-Similarity transformation (geometry)
-Simplex
 Skybox (video games)
 Spectral rendering
 Square matrix
-Squeeze mapping
 Surface triangulation
 Texel (graphics)
-Text-to-image model
-Transformation matrix
-Translation (geometry)
 Triangle mesh
 Unbiased rendering
-Vector addition
-Vector graphics
 Vector space
-Volume rendering
 Voxel
-Well-defined
 Wire-frame model
-Wolfram Demonstrations Project

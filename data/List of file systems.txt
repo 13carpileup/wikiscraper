@@ -1,514 +1,89 @@
 16-bit
 32-bit
-4680 OS
-4690 OS
 64-bit computing
-8.3 filename
-9P (protocol)
-AIX operating system
-APFS
-AXFS
-Access-control list
-Access control lists
-Access methods
-Access token manager
-Acorn Computers Ltd
 AdvFS
-Advanced Disc Filing System
-Alluxio
 Amazon S3
-Amiga
-Amiga Fast File System
-Amiga Old File System
-Andrew File System
 Android (operating system)
-Apache Hadoop
-Apache Kafka
-Apache License 2.0
-Apache Software Foundation
-Apple DOS
-Apple File System
-Apple Filing Protocol
 Apple II
-Apple IIGS
 Apple Inc.
-Apple Partition Map
-Apple ProDOS
 Asymmetry
-AtheOS
-AtheOS File System
-Aufs
-Automotive SPICE
-Avere Systems
-B-Tree
 BSD
-BSD 3-Clause
-Barracuda Networks
-Basic Partitioned Access Method
-Basic Sequential Access Method
-Bcache
-Bcachefs
-BeOS
-Be File System
-BeeGFS
-Berkeley Fast File System
 Block (data storage)
-Blue Whale Clustered file system
-Boot File System
-Btrfs
 CD-ROM
-CDfs
-CFS (Compact File Set file format)
-CHFS
 CMS file system
-CP/M
-CRFS
-CXFS
 Cache (computing)
-Carnegie Mellon University
-Case preservation
-Ceph (software)
-Chiron FS
-Chmod
-Chord (peer-to-peer)
 Classic Mac OS
-CloudStore
-Cluster (computing)
-Cluster File Systems
-Clustered file system
-Coda (file system)
-CompactFlash
-Compact Disc File System
-Comparison of distributed file systems
 Comparison of file systems
-Computer access control
 Computer cluster
 Computer data storage
-Configfs
-Conversational Monitor System
-Cooperative cache
-Cooperative storage cloud
-Copy-on-write
-Core Technology
-Cramfs
-Cross-platform
 Cyclic redundancy check
-DASD
-DCE Distributed File System
-DCache
 DECnet
-DESY
 DOS
 DVD
-DataPlow
-DataPlow SAN File System
-Data Access Protocol
-Data deduplication
-Data integrity
 Data scrubbing
 Data set (IBM mainframe)
 Database
-Datalight
-Davfs2
-Debugfs
 Dell
-Dell Fluid File System
-Design of the FAT file system
 Deterministic algorithm
-Devfs
-Device file
 Digital Equipment Corporation
-Direct-access storage device
-Disc Filing System
-Disk encryption software
-Distributed File System (Microsoft)
-Distributed computing environment
-Distributed data store
-Distributed file system
-Distributed transactions
-Docker (software)
 Doi (identifier)
-DragonFly BSD
-ECryptfs
-EMC Celerra HighRoad
-EMC Corporation
-EROFS
-Elliptics
 Embedded system
-EncFS
-Encrypting File System
-Episode filesystem
-Erasure code
 Error detection and correction
 EulerOS
-ExFAT
-Execute in place
-Ext2
-Ext3
-Ext3cow
-Ext4
-Extended file attributes
-Extended file system
-Extent (file systems)
-Extent File System
-ExtremeFFS
-F2FS
 FAT12
 FAT16
 FAT32
-FATX
-FAT filesystem and Linux
-FTPFS
-FUSE (Linux)
-FUSE (filesystem)
-FUSE (linux)
-Failover
-Fault-tolerance
-Fault-tolerant
 Fault tolerance
-Fault tolerant
-File-system permissions
-File Access Listener
 File Allocation Table
-File attribute
-File change log
-File manager
 File system
-File system API
-Files-11
-Filesystem
-Filesystem-level encryption
-Filesystem in Userspace
-Filing Open Service Interface Definition
-Flash file system
-Flash memory
-FlexOS
-Flex machine
-Fork (file system)
-Fossil (file system)
-Fraunhofer Society
 FreeBSD
-Freenet
-GDLM
-GEC 4000 series
-GFS2
 GNU General Public License
-GPFS
-GPL v2
-GPL v3
-GUID Partition Table
-GULM
-General Parallel File System
-Gfarm file system
 GitHub
-Global file system
-GlusterFS
 Google
-Google File System
-Grid file system
-HAMMER2
-HAMMER (file system)
-HFS Plus
-HP-UX
-HTTP
-Hadoop Distributed File System
-Haiku (operating system)
-Hard link
 HarmonyOS
 HarmonyOS NEXT
-Hewlett-Packard
-Hierarchical File System (Apple)
-Hierarchical File System (IBM MVS)
-High-availability cluster
 High-performance computing
-High Performance Computing
-High Performance File System
-High Sierra Format
-High Throughput File System
-High availability
-Highroad
-Huawei
 IBM
-IBM Cloud Object Storage
-IBM DevOps Code ClearCase
-IBM General Parallel File System
-IBM Journaled File System 2 (JFS2)
-IBRIX
-IBRIX Fusion
-IPFS
-IRIX
 ISO 13490
 ISO 9660
 ISSN (identifier)
-Inferno (operating system)
-Information dispersal algorithms
-Inktank Storage
-Installable File System
-InterMezzo (file system)
 Interface (computing)
-Isilon
-Isilon Systems
-JFFS
-JFFS2
-JFS (file system)
-JesFS
-Joliet (file system)
-Journaling file system
-Kerberos (protocol)
-Kernfs (BSD)
-Kosmix
-LGPL
-LSFS
-LTFS
-LWN.net
-Leader election
-Linear Tape File System
 Linux
-Linux Userland Filesystem
 Linux kernel
-List of cryptographic file systems
-List of default file systems
-List of log-structured file systems
-LizardFS
-Lnfs
-Log-structured File System (BSD)
-Log-structured file system
-LogFS
-Lustre (file system)
-MINIX file system
 MISRA C
 MVS
 MacOS
-Macintosh File System
-MagmaFS
 Mainframe computer
-MapR
-MapR FS
-Master Boot Record
-Matt Dillon (computer scientist)
 Metadata
-Michigan Terminal System
 Microsoft
-Microsoft Office Groove
 Microsoft Windows
 Minicomputer
-Minix
-Minix file system
-Mojette Transform
-MongoDB
-MooseFS
-Moose File System
-MultiMediaCard
-MultiVersion File System
-Multitenancy
-NAND flash
-NILFS
-NOR flash
-NOVA (filesystem)
 NTFS
-Nasan
-NeXT
-NeXTcube
-NeXTstation
 NetApp
 NetBSD
-NetWare Core Protocol
-NetWare File System
-Network-attached storage
-Network File System
-Network File System (protocol)
-Network protocols
-Newton (platform)
-Next3
-Non-Volatile File System
 Non-standard RAID levels
-NortonLifeLock
-Novell
-Novell NetWare
-Novell Storage Services
-OCFS2
-OS-9
-OS/2
-OS4000
-Object storage
-Object storage device
-ObjectiveFS
-Offline
-OneFS distributed file system
-One File System
 Open-source software
-OpenAFS
 OpenHarmony
-OpenIO
-OpenSolaris
 OpenVMS
-OpenZFS
 Operating system
 Optical disc
-Oracle ACFS
-Oracle Corporation
-Oracle Enterprise Linux
-Oracle ZFS
-OrangeFS
-OverlayFS
-PDP-11
-PNFS
 POSIX
-Palm, Inc.
-Panasas
-Parallel File System
-Parallel Virtual File System
 Parallel computing
-Pass-to-Userspace Framework File Fystem
-Paxos (computer science)
 Peer-to-peer
-Pick Operating System
-Plan 9 from Bell Labs
-PostgreSQL
-Procfs
-Professional File System
 Proprietary software
-QFS
 QNX
-QNX4FS
-Qnx4fs
-Quantcast File System
-Quantcast File System (QFS)
-Quantum Corporation
-Queued Sequential Access Method
-RAID
-RHEL
-RTEMS
-Rational MultiVersion File System
-ReFS
-Real-time operating system
-Record-oriented filesystem
 Record (computer science)
 Red Hat
-Redis
-Reed–Solomon error correction
-Reiser4
-ReiserFS
-Reliable autonomic distributed object store
-Reliance (file system)
-Reliance Nitro
-Remote File Sharing
-Remote File System
-Remote direct memory access
-Replication (computer science)
-Replication (computing)
-Rock Ridge
-Romfs
-RozoFS
-Rubberhose (file system)
 S2CID (identifier)
-SAN file system
-SCO OpenServer
 SD card
-SPIFFS
-SSHFS
-Samsung
 Scalability
-Scale out
-Scality
-ScoutFS
-Secure shell
-Segger Microcontroller Systems
-Self-certifying File System
-Semantic file system
-Server Message Block
-Shared resource
-Silicon Graphics
-SkyFS
-SkyOS
-Smart File System
-Soft updates
-Solaris (operating system)
 Solid-state drive
-Soup (Apple)
-Split-brain (computing)
-SquashFS
-StarWind Software
-Steganographic file system
-Sticky bit
-StorNext File System
-Storage area network
-Striping
 Sun Microsystems
-Syllable Desktop (operating system)
-Symbolic link
-Symmetric
-Synthetic file system
-Sysctl
-Sysctlfs
-Sysfs
-Tahoe-LAFS
-Throughput
-TiVo
-TiVo Media File System
-Tianjin Zhongke Blue Whale Information Technologies Co., Ltd.
-Tmpfs
-Top-500
-Transaction-Safe FAT File System
-Transarc
 Transport Layer Security
-Tru64 UNIX
-TrueFFS
-Tux3
-Tuxera
-UBIFS
-UC Berkeley
-UMSDOS
-UNIX
-UVFAT
-UnionFS
-Union mount
 Universal Disk Format
-Universal Flash Storage
-UnixWare
-Unix File System
-Unix filesystem
-V9fs
-VFAT
-VM/370
-VMScluster
 VM (operating system)
-VMware
-VMware ESX Server
-VMware VMFS
-Venti (software)
-Veritas Cluster File System
-Veritas File System
-Veritas Software
-Veritas Storage Foundation
-Versioning file system
-Versity
 Virtual Storage Access Method
-Virtual file system
 Volume Table of Contents
-VxWorks
-Wear leveling
-WebDAV
 Wiki
-Wikifs
-WinFS
-Wind River Systems
 Windows NT
-Write Ahead Physical Block Logging
-Write Anywhere File Layout
-X.509
-X11 License
-XCFiles
-XFS
-XIP
 Xbox (console)
-Xiafs
-Xsan
-XtreemFS
-YAFFS
-Z/OS
-Z/VM
-Z/VSE
-ZFS
-ZFS (IBM file system project)
-ZFS (z/OS file system)

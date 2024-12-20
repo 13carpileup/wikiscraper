@@ -2,7 +2,6 @@ Abstract logic
 Ackermann set theory
 Age of Enlightenment
 Aleph number
-Alfred Tarski
 Algebraic logic
 Algebraic structure
 Algorithm
@@ -10,7 +9,6 @@ Alphabet (formal languages)
 ArXiv (identifier)
 Argument
 Aristotle
-Aristotle's logic
 Arity
 Atomic formula
 Atomic sentence
@@ -20,18 +18,14 @@ Axiom
 Axiom of choice
 Axiom schema
 Axiomatic system
-Axiomatization of Boolean algebras
 Banach–Tarski paradox
 Bibcode (identifier)
 Bijection
 Binary operation
-Biophysics
-Boolean-valued model
 Boolean algebra
 Boolean algebras canonically defined
 Boolean function
 Brain
-CMOS
 Cantor's diagonal argument
 Cantor's paradox
 Cantor's theorem
@@ -43,7 +37,6 @@ Category of sets
 Category theory
 Church encoding
 Church–Turing thesis
-CiteSeerX (identifier)
 Class (set theory)
 Classical logic
 Codomain
@@ -63,24 +56,17 @@ Consistency
 Constructible universe
 Construction of the real numbers
 Constructive set theory
-Continuous or discrete variable
 Continuum hypothesis
 Countable set
 Decidability (logic)
 Decision problem
-Deductive system
-Defuzzification
-Degree of truth
-Description logic
 Diagram (mathematical logic)
 Doi (identifier)
 Domain of a function
-Electronic circuit design
 Element (mathematics)
 Elementary diagram
 Elementary equivalence
 Elementary function arithmetic
-Emil Leon Post
 Empty set
 Enumeration
 Equiconsistency
@@ -101,7 +87,6 @@ Forcing (mathematics)
 Formal grammar
 Formal language
 Formal proof
-Formal semantics (logic)
 Formal system
 Formation rule
 Foundations of geometry
@@ -110,13 +95,11 @@ Free logic
 Free variables and bound variables
 Function (mathematics)
 Functional predicate
-Fuzzy logic
 Fuzzy set
 General set theory
 George Boole
 Grothendieck universe
 Ground expression
-Ground formula
 Gödel's completeness theorem
 Gödel's incompleteness theorems
 Gödel numbering
@@ -127,7 +110,6 @@ Higher-order logic
 Hilbert's axioms
 Hilbert system
 History of logic
-History of mathematical logic
 ISBN (identifier)
 Image (mathematics)
 Inaccessible cardinal
@@ -140,23 +122,16 @@ Inhabited set
 Injective function
 Interpretation (logic)
 Interpretation (model theory)
-Interpretation function
 Intersection (set theory)
 Isomorphism
 JSTOR (identifier)
-Jan Łukasiewicz
-Jon Michael Dunn
 Kolmogorov complexity
-Kripke's theory of truth
 Kripke–Platek set theory
-Kurt Gödel
 Lambda calculus
 Large cardinal
-Law of the excluded middle
 Lemma (mathematics)
 Lindström's theorem
 Linguistics
-List of Hilbert systems
 List of axioms
 List of first-order theories
 List of formal systems
@@ -172,7 +147,6 @@ Logical constant
 Logical disjunction
 Logical equality
 Logical equivalence
-Logical intuition
 Logical truth
 Logicism
 Löwenheim–Skolem theorem
@@ -192,22 +166,18 @@ Monadic second-order logic
 Morse–Kelley set theory
 NP (complexity)
 Naive set theory
-Natural-language processing
 Natural deduction
 Natural language
 Negation
-Neuron
 New Foundations
 Non-Euclidean geometry
 Non-logical symbol
 Non-standard model
 Non-standard model of arithmetic
-Nuel Belnap
 Open formula
 Operation (mathematics)
 Ordinal analysis
 Ordinal number
-Organon
 PMID (identifier)
 P (complexity)
 P versus NP problem
@@ -217,14 +187,10 @@ Peano axioms
 Philosophy of mathematics
 Power set
 Predicate (mathematical logic)
-Predicate logic
 Predicate variable
-Presuppositions
 Primitive recursive arithmetic
 Primitive recursive function
 Principia Mathematica
-Principle of bivalence
-Probability distribution
 Probability theory
 Proof of impossibility
 Proof theory
@@ -234,9 +200,7 @@ Propositional formula
 Propositional variable
 Quantifier (logic)
 Quantifier rank
-Random variable
 Recursion
-Recursive set
 Relation (mathematics)
 Reverse mathematics
 Robinson arithmetic
@@ -245,7 +209,6 @@ Russell's paradox
 S2CID (identifier)
 Satisfiability
 Saturated model
-Saul Kripke
 Schröder–Bernstein theorem
 Second-order arithmetic
 Second-order logic
@@ -259,15 +222,12 @@ Set theory
 Signature (logic)
 Singleton (mathematics)
 Skolem arithmetic
-Sorites paradox
 Soundness
 Spectrum of a sentence
 Spectrum of a theory
 Square of opposition
-Steady state (electronics)
 Stephen Cole Kleene
 Strength (mathematical logic)
-String (formal languages)
 Structure (mathematical logic)
 Substitution (logic)
 Substructure (mathematics)
@@ -275,20 +235,16 @@ Supertask
 Surjective function
 Syllogism
 Symbol (formal)
-Synapse
 Syntax (logic)
-T-norm fuzzy logics
 T-schema
 Tarski's axiomatization of the reals
 Tarski's axioms
-Tarski's theory of truth
 Tarski's undefinability theorem
 Tarski–Grothendieck set theory
 Tautology (logic)
 Term (logic)
 Term logic
 Theorem
-Theories of truth
 Theory (mathematical logic)
 Three-valued logic
 Timeline of mathematical logic
@@ -297,13 +253,10 @@ Transitive set
 True arithmetic
 Truth predicate
 Truth table
-Truth tables
 Truth value
-Truth values
 Turing machine
 Type (model theory)
 Type theory
-Ultrafilter (set theory)
 Ultraproduct
 Uncountable set
 Undecidable problem

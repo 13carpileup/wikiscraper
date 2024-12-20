@@ -1,15 +1,5 @@
-/e/ (operating system)
-1-Click-Install
-32-bit computing
-42 (answer)
 4MLinux
-AArch64
 ALT Linux
-AMD
-AMD64
-ARM architecture family
-Advanced Configuration and Power Interface
-Agama (lizard)
 AlmaLinux
 Alpine Linux
 Android-x86
@@ -21,15 +11,12 @@ ArchLabs
 Arch Linux
 Artix Linux
 Asahi Linux
-Asparagus
 Astra Linux
 Asturix
 Austrumi Linux
 BLAG Linux and GNU
 BackBox
 BackTrack
-Banshee (music player)
-Basiliscus (lizard)
 Bharat Operating System Solutions
 BioSLAX
 BlackArch
@@ -38,29 +25,24 @@ BlankOn Linux
 Bluetooth
 Bodhi Linux
 Booting
-Btrfs
 CHAOS (operating system)
 CRUX
 Calculate Linux
 Caldera OpenLinux
 CalyxOS
-Celadon
 CentOS
 CentOS Stream
 Chakra (operating system)
 Chimera Linux
 ChromeOS
 ChromiumOS
-Cinnamon (desktop environment)
 ClearOS
 Clear Linux OS
 ColorOS
 Commodore OS
 Comparison of Linux distributions
-Compiz
 Computer architecture
 Container Linux
-Container virtualization
 Corel Linux
 CrDroid
 CrunchBang Linux
@@ -70,113 +52,66 @@ Damn Small Linux
 Damn Vulnerable Linux
 Debian
 Deepin
-Delta RPM
 DemoLinux
 Devuan
-Digital camera
-DistroWatch
 DivestOS
-Do-ocracy
 DoudouLinux
 Dreamlinux
 EMUI
-EQT AB
-Edge computing
 Edubuntu
-Electronic mailing list
 Elementary OS
 Elive
-Emerald
 Emmabuntüs
 EndeavourOS
 Endless OS
-Enlightenment (software)
 EulerOS
-Evolution (software)
-Ext3
-Ext4
-F-Spot
 Familiar Linux
 Feather Linux
 Fedora Linux
 File system
 Fire OS
 Firefox OS
-Firewall (networking)
 Floppyfw
-Fluendo
 Foresight Linux
-Foundation (nonprofit)
-Free and open-source software
 Free software
 FreedomBox
 Freespire
 Frugalware Linux
-GNOME
-GNOME Classic
 GNU Core Utilities
-GNU GPL
 GNU General Public License
 GNU Guix System
 GNewSense
 GOS (operating system)
-GPLv2
 Garuda Linux
 GeckoLinux
 Gentoo Linux
-Gibux
 GoboLinux
 Gobuntu
 GrapheneOS
 HandyLinux
-Harlequin
-Hitchhiker's Guide to the Galaxy
-Hyper-V
-Hyperbola GNU/Linux-libre
-I586
-I686
-IA-32
-IBM Z
-ISO image
-IceWM
 Immunix
 Internet Relay Chat
 IodéOS
 Jurix
-KDE
-KDEBase
-KDE Plasma 4
-KDE Plasma 5
-KDE Plasma 6
 KDE neon
-KIWI (openSUSE)
-K Desktop Environment 3
 KaOS
 KaiOS
 Kaisen Linux
 Kali Linux
 Kanotix
 KateOS
-Kdelibs
-Kernel-based Virtual Machine
 Kernel (operating system)
 Knoppix
 Kongoni (operating system)
-Kontact
 Korora (operating system)
-Kubernetes
 Kubuntu
 Kwort Linux
-LXDE
 LXLE Linux
-LXQt
 Libranet
-LibreOffice
 LinHES
 LineageOS
 Linpus Linux
 Linux
-Linux.com
 LinuxTLE
 Linux Caixa Mágica
 Linux Lite
@@ -185,62 +120,39 @@ Linux Router Project
 Linux distribution
 Linux for PlayStation 2
 Linux kernel
-Linux on IBM Z
 List of Linux distributions
-List of free-software events
-Live CD
-Long-term support
 Lubuntu
-MATE (software)
 MCC Interim Linux
 MIUI
 MX Linux
 Mageia
-Malachite
 Mandrake Linux
 Mandriva Linux
 Manjaro
-Mantis
 MeeGo
 Mer (software distribution)
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Mozilla Firefox
-Mozilla Firefox 3.5
-Mozilla Firefox 3.6
-Mozilla Firefox 4
-Musix GNU+Linux
 Natural language
-NetworkManager
 Network Security Toolkit
 NimbleX
 Nitix
 NixOS
 Nobara Linux
 Nova (operating system)
-Novell
 OmniROM
 One UI
 Open-source software
 OpenELEC
 OpenMandriva Lx
 OpenOffice.org
-OpenQA
-OpenSUSE Project
-Open Build Service
 Open Enterprise Server
-Open Network Install Environment
 Open source
 Operating system
-Optical disc image
 Oracle Linux
 PCLinuxOS
-POWER8
-Package management system
 Package manager
-Pantheon (desktop environment)
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
@@ -248,23 +160,17 @@ Pentoo
 Peppermint OS
 Pinguy OS
 PixelExperience
-Plasma 5
 Platypux
 Pop! OS
 Porteus (operating system)
-PowerPC
 Power management
-Prague
-Program package
 Programmer
 Puppy Linux
 PureOS
 Python (programming language)
 Q4OS
 Qubes OS
-RISC-V
 ROSA Linux
-RPM Package Manager
 Raspberry Pi
 Raspberry Pi OS
 Red Hat Enterprise Linux
@@ -272,33 +178,24 @@ Red Hat Linux
 Red Star OS
 Remix OS
 Replicant (operating system)
-Repository (version control)
 Resurrection Remix OS
 Rocks Cluster Distribution
 Rocky Linux
-Rolling release
 SUSE Linux
 SUSE Linux Enterprise
-SUSE Linux Enterprise Server
-SUSE S.A.
 SUSE Studio
 Sabayon Linux
 Sabily
 Sailfish OS
 Salix OS
 Scientific Linux
-Secure Digital card
 Server (computing)
-Shutdown (computing)
 Slackware
 Slax
-Snapshot (computer storage)
-Social network service
 Softlanding Linux System
 Software license
 Software release life cycle
 Software repository
-Software update
 Solus (operating system)
 SolydXK
 Source Mage
@@ -306,19 +203,15 @@ SparkyLinux
 Splashtop OS
 SteamOS
 Sunwah Linux
-System/390
 SystemRescue
 T2 SDE
 Tails (operating system)
-Teal
-The answer to life, the universe and everything
 Think Blue Linux
 Tiny Core Linux
 Tizen
 TopologiLinux
 Trisquel
 Turbolinux
-Turkish Revenue Administration
 Turkix
 Ubuntu
 Ubuntu Budgie
@@ -331,39 +224,17 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 User interface
 User space and kernel space
-VMware
-Vagrant (software)
 VectorLinux
 Vine Linux
-VirtualBox
-Virtualization
 Void Linux
 Wayback Machine
-Wayland (display server protocol)
-WebYaST
-Whole-disk encryption
 Whonix
 Wiki
-Workstations
 Wubuntu
-X.Org Server
-X64
-X86-64
 XB Machine
-XFCE
-Xen
-Xgl
-Ximian
-Xserver
 Xubuntu
-YaST
 Yellow Dog Linux
-ZYpp
 Zenwalk
 Zorin OS
-Zypp
-Zypper

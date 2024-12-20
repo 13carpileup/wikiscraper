@@ -1,7 +1,5 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
-AWK
 AlmaLinux
 Alpine Linux
 Android-x86
@@ -19,14 +17,12 @@ Austrumi Linux
 BLAG Linux and GNU
 BackBox
 BackTrack
-Bash (shell)
 Bharat Operating System Solutions
 BioSLAX
 BlackArch
 Black Lab Linux
 BlankOn Linux
 Bodhi Linux
-CFLAGS
 CHAOS (operating system)
 CRUX
 Calculate Linux
@@ -38,7 +34,6 @@ Chakra (operating system)
 Chimera Linux
 ChromeOS
 ChromiumOS
-Clarke's three laws
 ClearOS
 Clear Linux OS
 ColorOS
@@ -53,12 +48,9 @@ CyanogenMod
 Damn Small Linux
 Damn Vulnerable Linux
 Debian
-Debian Social Contract
 Deepin
 DemoLinux
 Devuan
-Distribution commitments
-DistroWatch
 DivestOS
 DoudouLinux
 Dreamlinux
@@ -73,7 +65,6 @@ EulerOS
 Familiar Linux
 Feather Linux
 Fedora Linux
-Filesystem Hierarchy Standard
 Fire OS
 Firefox OS
 Floppyfw
@@ -93,7 +84,6 @@ Gobuntu
 GrapheneOS
 Grimoire
 HandyLinux
-Hyperbola GNU/Linux-libre
 Immunix
 IodéOS
 Jurix
@@ -110,7 +100,6 @@ Kongoni (operating system)
 Korora (operating system)
 Kubuntu
 Kwort Linux
-LWN.net
 LXLE Linux
 Libranet
 LinHES
@@ -139,7 +128,6 @@ Mer (software distribution)
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Musix GNU+Linux
 Network Security Toolkit
 NimbleX
 Nitix
@@ -151,13 +139,11 @@ One UI
 Open-source software
 OpenELEC
 OpenMandriva Lx
-OpenSSH
 OpenSUSE
 Open Enterprise Server
 Oracle Linux
 PCLinuxOS
 POSIX
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
@@ -194,12 +180,10 @@ Sabily
 Sailfish OS
 Salix OS
 Scientific Linux
-Sed
 Slackware
 Slax
 Softlanding Linux System
 Software license
-Software package (installation)
 Software release life cycle
 Solus (operating system)
 SolydXK
@@ -218,7 +202,6 @@ Trisquel
 Turbolinux
 Turkix
 Ubuntu
-Ubuntu (operating system)
 Ubuntu Budgie
 Ubuntu Cinnamon
 Ubuntu GNOME
@@ -229,14 +212,11 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 VectorLinux
 Vine Linux
 Void Linux
 Whonix
 Wubuntu
-X11
 XB Machine
 Xubuntu
 Yellow Dog Linux

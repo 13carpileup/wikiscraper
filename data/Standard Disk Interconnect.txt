@@ -1,4 +1,3 @@
-4K Disk Monitor System
 AdvFS
 Alpha 21064
 Alpha 21164
@@ -7,11 +6,9 @@ Alpha 21364
 Alpha 21464
 AltaVista
 BASIC-8
-Bit
 Bus (computing)
 CPU Wars
 CVAX
-Capacitive coupling
 Character encoding
 Code page 1287
 Code page 1288
@@ -21,7 +18,6 @@ Computer hardware
 Computer terminal
 DECUS
 DEC Alpha
-DEC BATCH-11/DOS-11
 DEC GT40
 DEC Hebrew
 DEC J-11
@@ -44,22 +40,17 @@ Digital Equipment Corporation
 Digital Federal Credit Union
 Digital Linear Tape
 Digital Storage Systems Interconnect
-Digital UNIX
-Disk read-and-write head
 Disk sector
 Dynamic debugging technique
 Dynamically Redefined Character Set
-External memory interface
 FOCAL (programming language)
 FX!32
 Firefly (cache coherence protocol)
 Flip-Chip module
 Gold key (DEC)
 Gordon Bell
-Ground loop (electricity)
 HP-Interex
 Harlan Anderson
-Host controller
 Instruction set architecture
 Interactive Application System
 Ken Olsen
@@ -71,13 +62,11 @@ MACRO-11
 MUMPS
 Maintenance Operations Protocol
 Mass Storage Control Protocol
-Mass storage
 Massbus
 MicroVAX 78032
 Multinational Character Set
 NVAX
 National Replacement Character Set
-OS/8
 On-line Debugging Tool
 OpenVMS
 Operating system
@@ -90,30 +79,22 @@ Q-Bus
 RA90
 RK05
 RL02
-RSTS/E
 RSX-11
-RSX-15
 RT-11
 ReGIS
 Record Management Services
 Rigel (microprocessor)
 Robert Palmer (computer businessman)
-Serial communication
-Signal
 Sixel
 Solid-state drive
 Star coupler
 StrongARM
 Synchronous Backplane Interconnect
 System Module
-System Reference Manual
-TD/SMP
 TOPS-10
 TOPS-20
-TSS/8
 TU81
 TURBOchannel
-Tape drive
 The Ultimate Entrepreneur
 Ultrix
 Unibus
@@ -124,24 +105,11 @@ VAX MACRO
 VT05
 VT100
 VT1000
-VT101
-VT102
-VT103
-VT105
-VT131
 VT180
 VT220
-VT240
-VT241
 VT320
-VT330
-VT340
 VT420
-VT510
 VT52
 VT520
-VT525
-VT55
-VT62
 VT640
 WPS-8

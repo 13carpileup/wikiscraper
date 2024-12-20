@@ -1,31 +1,16 @@
-.NET Framework
 ACM Computing Classification System
-APT (software)
-ActiveState
 Algorithm
 Algorithm design
 Algorithmic efficiency
-Anaconda (Python distribution)
 Analysis of algorithms
-Antivirus software
-Apache Maven
 Application security
 Arch Linux
 Artificial intelligence
 Automata theory
 Automated planning and scheduling
-Automated testing
-Boost (C++ libraries)
 C++
-CPAN
-CRAN (R programming language)
-CTAN
 C (programming language)
-Cabal (software)
-Cloudsmith
-Common Lisp
 Compiler construction
-Composer (software)
 Computability theory
 Computational biology
 Computational chemistry
@@ -56,28 +41,22 @@ Control variable (programming)
 Cross-validation (statistics)
 Cryptography
 Cyberwarfare
-DNF (software)
 D (programming language)
-Dart (programming language)
 Data mining
 Database
 Debian
 Decision support system
-Definitive media library
 Dependability
 Digital art
 Digital library
 Digital marketing
-Digitally signed
 Discrete mathematics
 Distributed artificial intelligence
 Distributed computing
 Document management system
 Doi (identifier)
 Domain-specific language
-Dpkg
 E-commerce
-EasyInstall
 Educational technology
 Electronic design automation
 Electronic publishing
@@ -86,23 +65,18 @@ Embedded system
 Enterprise information system
 Enterprise software
 Fedora Linux
-File system permissions
 Form factor (design)
 Formal language
 Formal methods
-Fortran
-FreeBSD Ports
 Geographic information system
 GitHub
 Go (programming language)
 Graphics processing unit
 Green computing
-Hackage
 Hardware acceleration
 Hardware security
 Haskell
 Health informatics
-Homebrew (package manager)
 Human–computer interaction
 ISBN (identifier)
 Image compression
@@ -116,9 +90,6 @@ Interaction design
 Internet
 Interpreter (computing)
 Intrusion detection system
-JFrog Artifactory
-Java (software platform)
-Julia (programming language)
 Knowledge representation and reasoning
 LaTeX
 Library (computing)
@@ -140,7 +111,6 @@ Multimedia database
 Multiprocessing
 Multithreading (computer architecture)
 Natural language processing
-Netlib
 Network architecture
 Network performance
 Network protocol
@@ -148,32 +118,19 @@ Network scheduler
 Network security
 Network service
 Networking hardware
-Node.js
-Npm
-Npm (software)
-NuGet
 Numerical analysis
 Open-source software
 OpenSUSE
 Operating system
 Operations research
 Outline of computer science
-PEAR
 PHP
-PHP Extension Community Library
-Package development process
-Package format
-Package management system
 Package manager
-Packagist
-Pacman package manager
 Parallel computing
 Peripheral
 Perl
-Perl package manager
 Philosophy of artificial intelligence
 Photograph manipulation
-Pip (package manager)
 Printed circuit board
 Probability
 Process control
@@ -184,29 +141,20 @@ Programming paradigm
 Programming team
 Programming tool
 Python (programming language)
-Python Package Index
 Quantum Computing
-Quicklisp
-RPM Package Manager
-R (programming language)
 Randomized algorithm
 Real-time computing
 Red Hat
 Red Hat Enterprise Linux
 Reinforcement learning
 Rendering (computer graphics)
-Repository (version control)
 Requirements analysis
-RubyGems
 Ruby (programming language)
-Rust (programming language)
 S2CID (identifier)
 Sabayon Linux
 Security hacker
 Security service (telecommunication)
 Semantics (computer science)
-Setuptools
-Simtel
 Social computing
 Social software
 Software configuration management
@@ -220,21 +168,15 @@ Software framework
 Software maintenance
 Software quality
 Solid modeling
-Sonatype Nexus Repository
-Stack Overflow
 Statistics
 Stochastic computing
 Supervised learning
-Synaptic (software)
 System on a chip
 TeX
 Theoretical computer science
 Theory of computation
 Ubiquitous computing
-Unit testing
 Unsupervised learning
-Vcpkg
-Version control
 Very Large Scale Integration
 Video game
 Virtual machine
@@ -243,6 +185,3 @@ Visualization (graphics)
 Wayback Machine
 Word processor
 World Wide Web
-Yarn (package manager)
-Yum (software)
-ZYpp

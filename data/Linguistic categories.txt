@@ -1,24 +1,15 @@
-ISO/IEC 7064
 Longitudinal redundancy check
 International Standard Recording Code
 QR code
-ISO/IEC 7816
 ISO 2921
-Grammatical aspect
-Fuse (automotive)
-Lexical resource
 ALGOL 60
-ISO/IEC 17024
 ISO 21500
 ISO 15926 WIP
-Coreference
-ISO 19092-1
 ISO 9241
 ISO 1000
 ISO 860
 ISO 11992
 OCR-B
-Corpus linguistics
 ISO 2015
 Latin
 ISO 25964
@@ -28,54 +19,34 @@ ISO 11784 and ISO 11785
 MPEG-7
 File Allocation Table
 Quality function deployment
-Technical standard
 ISO 31-6
-ISO 9000
-OntoLex
 SQL
 RM-ODP
 Open Virtualization Format
 ISO 657
-Part-of-speech tagging
 Prontor-Compur
-ISO/IEC 10116
 ISO 10007
-ISO/IEC 20000
-ISO/IEC 4909
-ISO/IEC 14443
-ISO/IEC 9797-1
-ISO/IEC 19752
 ISO 5775
 ISO 8000
 ISO 999
 ISO 7200
-ISO/IEC 80000
-ISO/IEC 7810
 List of ISO romanizations
 ISO 13485
-ISO/IEC 8859-11
-ISO/IEC 15288
 ISO 8601
-ISO/IEC 38500
 Natural language processing
 ISO 3166-2
 ISO 1
 ISO 2711
-Lexicon
 XML Metadata Interchange
-Operationalization
 Hazard symbol
-ISO/IEC 19794-5
 ISO 668
 ANSI C
 Web Content Accessibility Guidelines
 SDMX
 International Standard Atmosphere
-Dependency grammar
 ISO 4165
 ISO 1629
 JPEG XL
-ISO/IEEE 11073
 ISO 9897
 ISO 8501-1
 FTAM
@@ -86,76 +57,50 @@ OpenDocument
 Full BASIC
 ECMAScript for XML
 ISO 45001
-Terminology management
-Lexicography
-ISO/IEC 17025
 MPEG-4 Part 11
 ISO 50001
-LINGUIST List
-OSI model
-Preposition and postposition
 ISO 13567
 Software maintenance
 International Standard Music Number
 Magnetic ink character recognition
 Film speed
-ISO 31-9
 Object Constraint Language
 ISO 3166-1
-Inflection
 MPEG-H
 MP4 file format
 ISO 7637
-Quantitative linguistics
 JPEG XS
-Stochastic
 ISO 217
 ISO 4217
-Linguistic theory
 RELAX NG
-ISO/IEC 27002
 Prolog
-Descriptive linguistics
 ISLISP
 Topic map
 European Commission
 ISO 5776
-Treebank
 ASMO 449
 JPEG 2000
 ISO 19600
-ISO 12006
 Mixed raster content
 JPEG XR
 Accuracy and precision
 ISO 28000
 ISO 13399
-Prototype theory
 Antimagnetic watch
-ISO/IEC 8859
-Universal grammar
 Power take-off
-Linked open data
 POSIX
 ECMAScript
 Requirements engineering
 ISO 22301
 ISO 19011
-Language
 IS-IS
-ISO/IEC 8859-8
 Fiber Distributed Data Interface
-Frame semantics (linguistics)
 Kappa number
 JPIP
 ISO 11940-2
-ISO 31-13
 Versatile Video Coding
-Ontology (information science)
 ISO 3307
 International Standard Identifier for Libraries and Related Organizations
-ISO/IEC 2022
-Text corpora
 ISO 31-11
 ISO 10303-21
 ISO 11783
@@ -163,58 +108,35 @@ MPEG-4
 110 film
 C++
 Common Object Request Broker Architecture
-ISO/IEC 8859-10
 Graphical Kernel System
 Legal Entity Identifier
 Hot shoe
-Phrase structure grammar
-ISO/IEC 12207
 ISO 19439
 ISO metric screw thread
 ISO 2033
-Machine translation
 MPEG-A
 Geospatial metadata
 International Standard Musical Work Code
 Knowledge Discovery Metamodel
-International Standard Serial Number
-Markup language
-OLiA
 EXPRESS (data modeling language)
-Language Of Temporal Ordering Specification
 ISO 2146
 On-board diagnostics
-Grammatical category
 ISO 732
-Agglutinative language
 ISO 2014
 Romanization of Georgian
-Verb
 ISO 14644
-ISO/IEC 19770
-CiteSeerX (identifier)
 COBOL
 Standard Generalized Markup Language
-ISO/IEC 27000
 ISO 14698
 MPEG-1
 ISO 843
-ISO 19092-2
 ArmSCII
 ISO 17100
 Flowchart
-Interjection
 Salt spray test
 Horsepower
 ISO 15926
-ISO/IEC 18014
-ISO/TR 11941
 JBIG
-ISO/IEC 8859-6
-ISO/IEC 9995
-ISO/IEC 27005
-ISO/IEC 21827
-Endangered language
 ISO 19114
 ISO 10628
 Pinyin
@@ -223,10 +145,8 @@ ISO 15924
 Noun
 PDF
 Meta-Object Facility
-ISO 31-12
 ISO 6709
 ISO 6344
-Localization Industry Standards Association
 Computer Graphics Metafile
 ISO 5427
 List of IEC standards
@@ -234,16 +154,12 @@ ISO 31-7
 Vicat softening point
 Multibus
 ISO 4
-Syntactic category
 Delivery Multimedia Integration Framework
 International Standard Name Identifier
-ISO/IEC 27000-series
 ISO 8178
 ISO 31-1
 ISO 2852
 ISO 898
-Gloss (annotation)
-PDF/X
 ISO 22000
 ISO 13406-2
 ISO 15919
@@ -252,31 +168,20 @@ ISO 9660
 FDI World Dental Federation notation
 Minimal BASIC
 Photographic Activity Test
-ISO 14000
-ISO/IEC 7811
-Feature (linguistics)
-Article (grammar)
 Advanced Video Coding
 ISO 4031
-ISO/IEC 15693
 Whirlpool (hash function)
 Common Language Infrastructure
 ISO-TimeML
-TIFF/EP
-List of glossing abbreviations
-ISO/IEC 9126
 X3D
 PDF417
-ISO/IEC 6523
 ISO 9
 Cloud Infrastructure Management Interface
 ISO 25178
-ISO/IEC 8859-7
 ISO 26262
 ISO 31-0
 Guidelines for the Definition of Managed Objects
 MPEG-D
-ISO/IEC 8859-3
 Equal-loudness contour
 ISO 233
 STEP-NC
@@ -284,32 +189,23 @@ ISO 7736
 ISO 31000
 ISO 56000
 ISO 20400
-ISO/IEC 8652
-ISO/IEC 8859-14
 ISO 639-1
 O-ring
 Han Xin code
 ISO 3103
 Z notation
 MPEG-21
-Grammatical gender
 Geography Markup Language
-PDF/A
 ISO 20121
 ISO base media file format
-Interlinear gloss
-PDF/E
 Market Identifier Code
 Digital object identifier
 Dynamic Adaptive Streaming over HTTP
-Brown Corpus
 ISO 639-5
 ISO 2788
 ISO 9362
 ISO 639-2
-Universal Dependencies
 ISO 13490
-Translation
 ISO 7002
 ISO 6943
 Simple Features
@@ -317,91 +213,56 @@ ISO 10218
 ISO 55000
 Water Resistant mark
 Unified Modeling Language
-Adverb
 ISO 10303-22
-ISO/IEC 8859-9
 Office Open XML
 Open Document Architecture
 ISO 11940
 Lexical Markup Framework
 ISO 6385
 ISO 10962
-Grammatical tense
-Linguistic Linked Open Data
-ISO/IEC 11404
-ISO/IEC 8859-13
-PDF/VT
-Speech corpora
 COLLADA
 Ada Semantic Interface Specification
 DICOM
-ISO/IEC 8859-12
-ISO/TC 37
-ISO 2047
 ISO 8583
 135 film
-ISO 8373
-CAN bus
 International Standard Text Code
 Torx
 Adjective
 ISO 5964
-Lexical category
-Ambiguous
 Renard series
 OCR-A
-ISO/IEC 8859-16
 ISO 15189
 Open Data Protocol
-Grammatical conjunction
 Interoperability
 MicroPDF417
 ISO 2709
-LLOD
 ISO 14031
 Business Process Model and Notation
 MPEG-4 Part 2
 ISO 965
-Text processing
 ISO 22300
-Inuit languages
-Source text
 Pascal (programming language)
-ISO/IEC 8859-2
 ISO 31-10
 MPEG-2
-ISO/IEC 15504
 Shoe size
-PDF/UA
 ISO 15398
 ISO 690
 International Standard Audiovisual Number
 MPEG-4 Part 3
-Grammatical case
-ISO/IEC 5218
 International Securities Identification Number
 ISO 14617
-ISO/IEC 10967
 Cognitive linguistics
-National Corpus of Polish
-Linguistic typology
 ISO 18245
 ISBN
-ISO/IEC 42010
 IATF 16949
 ISO 10303
 ISO 14224
 Motion JPEG 2000
-ISO/IEC 15897
 ISO-8859-8-I
-Penn Treebank
 ISO 31
 ISO 3166
 ISO 31-5
 PHIGS
-ISO/IEC 7813
-ISO/IEC 11179
-ISO/IEC 646
 Common Logic
 ISO 13584
 ISO 639-6
@@ -409,7 +270,6 @@ ISO 10303-28
 ISO 5426
 ISO 21001
 Computational linguistics
-ISO/IEC 8859-15
 ISO 7010
 ANSI escape code
 Process Specification Language
@@ -418,25 +278,17 @@ ISO 639
 ISO 3864
 X.500
 British Standard Pipe
-ISO/IEC 14651
 ISO 2
-ISO 7027
 ISO 31-3
 ISO 6346
 Doi (identifier)
 126 film
-ISO/IEC TR 12182
 ISO 639-3
-Machine-readable dictionary
-Koine Greek
 ISO 7001
 Common Criteria
 Isofix
-John R Taylor
 International Bank Account Number
-ISO/IEC 11801
 Rectangular Micro QR Code
-ISO/IEC 27006
 C Sharp (programming language)
 ISO 20022
 ISO 259
@@ -452,10 +304,8 @@ Kunrei-shiki romanization
 ISO 10006
 ISO 2848
 ISO 128
-Pronoun
 ISO 31-4
 List of ISO standards
-ISO/IEC 8859-4
 Fuel oil
 ISO 22395
 ISO 3977
@@ -464,32 +314,23 @@ ISO 704
 ISO 10161
 LCEVC
 Trusted Platform Module
-Parts of speech
-Linguistic Annotation
 ISO 1745
-ISO/IEC 8859-5
 ISO 26000
 ISO 14971
 ISO 31-8
 Linguistics
-ISO/IEC 7812
 Document Style Semantics and Specification Language
 Romanization of Armenian
-ISO/IEC 9529
 ISO 9564
-ISO/IEC 27001
 ISO 4157
 ISO 37001
 ISO 11170
-ISO/IEC 8859-1
-ISO 12620
 ISO 3166-3
 Ruby (programming language)
 ArXiv (identifier)
 Universal Coded Character Set
 ISO 10160
 ISO 2145
-Uniform Resource Identifier
 CHILL
 ISO 15686
 ISO 5428

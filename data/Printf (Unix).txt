@@ -1,127 +1,24 @@
-Touch (command)
-Find (Unix)
-Fold (Unix)
-Troff
-Cksum
 Ar (Unix)
-Du (Unix)
 GNU
 Logname
-Time (Unix)
-Exit (command)
-Alias (command)
-Iconv
-Escape sequence
-Bc (programming language)
-Shell (computing)
 Printer (computing)
-Mkdir
-Head (Unix)
-Grep
 Tput
-Uname
-Commercial software
 Software license
-Mesg
-Uniq
-Make (software)
 Printf
-Coreutils
-Environment variable
-Chattr
-Strings (Unix)
-Cat (Unix)
 Computer program
-Unix-like
-Talk (software)
-Command-line interface
-Chgrp
-Echo (command)
-Cron
-Shell builtin
-Kill (command)
-Nm (Unix)
-System V printing system
-Join (Unix)
-Split (Unix)
-Chmod
-More (command)
 Dd (Unix)
-Xargs
-Sort (Unix)
-Single Unix Specification
 Operating system
-Type (Unix)
-Read (Unix)
-X/Open
-Strip (Unix)
-Empty string
 Programmer
-List of POSIX commands
-Patch (Unix)
-Comm
-Tr (Unix)
-Ls
-True and false (commands)
-Cal (command)
-Cmp (Unix)
-Mv (Unix)
-Df (Unix)
-Who (Unix)
 Job control (Unix)
-Berkeley Software Distribution
-Newline
 Env
-Ps (Unix)
 Linux
-Vi (text editor)
-Csplit
-Nl (Unix)
-Ed (text editor)
 Computing platform
 Software categories
-Test (Unix)
-Rm (Unix)
 Man page
 Command (computing)
-Ex (text editor)
 Od (Unix)
 Open-source software
 FreeBSD
-Sed
 Software development
-At (command)
-Ln (Unix)
-Expr
-Nice (Unix)
-Tee (command)
-Diff
-Rmdir
-Cut (Unix)
-Chown
 Cp (Unix)
 Wc (Unix)
-M4 (computer language)
-Write (Unix)
-Fuser (Unix)
-Pax (command)
-Character (computing)
-Pwd
-Tail (Unix)
-Dirname
-Cross-platform
-Ctags
-Yacc
-Wait (command)
-Umask
-File (command)
-Unix
-Sleep (command)
-Basename
-Paste (Unix)
-AWK
-Cd (command)
-The Open Group
-Standard output
-Lex (software)
-GPLv3+

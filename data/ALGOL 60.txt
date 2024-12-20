@@ -1,67 +1,36 @@
-C. A. R. Hoare
 ISO 20022
-F. G. Duncan
-Electrologica X8
 ISO 10006
 ISO 5426
-ISO/IEC 7812
 135 film
-ISO 9000
 Geospatial metadata
 ISO 14971
 ISLISP
 ISO 50001
-ALGOL/ZAM
-Friedrich L. Bauer
-MALGOL
-ISO/IEC 21827
 ISO 898
 ISO metric screw thread
 ISO 6385
 ISO 8691
 Business Process Model and Notation
 ISO 2848
-ISO 8373
-Dartmouth ALGOL 30
 Jeffrey Ullman
 ISO 6346
 ISO 5964
 C Sharp (programming language)
-ISO/IEC 8859-5
 Ada Semantic Interface Specification
 ISO 13485
 ISO 2015
 ISO 4165
 HTML
-Jorge LLacer
-ISWIM
-ISO/IEC 8859-4
-Conor McBride
-ISO/IEC 17024
 ISO 15189
 Isofix
 Full BASIC
 ISO 860
-Bruce Arden
-ISO/IEC 10967
-Call-by-reference
-David Turner (computer scientist)
-Edinburgh IMP
-ISO/IEC 15693
 ISO 9241
 ISO 8501-1
-ALGOL X
 ISO 2921
-ELLA (programming language)
-ISO/IEC 8859-8
-Jeremy Gibbons
-ISO 31-12
 Cloud Infrastructure Management Interface
 ISO 3103
 Antimagnetic watch
-Call-by-value
-ALCOR
-ISO/IEC 27002
 Delivery Multimedia Integration Framework
 ISO 31000
 ISO 26262
@@ -69,12 +38,9 @@ ISO 26000
 ISO 1
 FTAM
 EXPRESS (data modeling language)
-John Backus
 COBOL
 ISO 10007
 ISO 31-0
-Carroll Morgan (computer scientist)
-Charles H. Lindsey
 ISO 10303
 International Standard Text Code
 ISO 28000
@@ -82,156 +48,88 @@ International Organization for Standardization
 C (programming language)
 ISO 15924
 ISO 3307
-Lexical scope
 ISO 31-8
 ISO 6438
 ISO 3166
 ISO 128
-ISO/IEC 80000
 ISO 7002
-ISO/IEC 7816
-Eric Hehner
 ISO 20400
-ALGOL N
 CHILL
-Atlas Autocode
 ISO 259
-ISO/IEC 27000
 JPEG 2000
-John Barnes (computer scientist)
-Bernard Vauquois
 ISO 14698
 ISO 37001
-Alan Jay Perlis
 ISO 7200
 Longitudinal redundancy check
-ISO 14000
-Lund University
-John C. Reynolds
-Julien Green (computer scientist)
-Jacob T. Schwartz
 Common Criteria
 Common Language Infrastructure
 ISO 639-6
 IATF 16949
 ISO 4157
 ISO 5775
-Burroughs MCP
 Italy
 ISO 6709
-David Gries
-BESM
 ISO 2
-Language Of Temporal Ordering Specification
 Advanced Video Coding
-Ada (programming language)
-ISO/IEC 646
 MPEG-21
-Dragon Book (computer science)
 ISO 16750
-ISO/IEC 15504
 ISO 2146
 ISO 1745
 Geography Markup Language
 ISO 31-7
 DICOM
 Knowledge Discovery Metamodel
-Call-by-name
 C++
 ISO 2709
 List of IEC standards
-Hal Abelson
 JPEG XS
 ISO 639-3
-ISO 12006
 Doi (identifier)
 ISO 13490
 ISO 15398
 Horsepower
 ISO 31-5
-Edsger Dijkstra
 ISO 217
-BSI Group
 ISO 45001
 ISO 20121
-John Warner Backus
 JPIP
-ISO/IEC 15288
 ISO 5427
 ISO 31-4
 Common Logic
 ECMAScript for XML
 ISO 639
-ISO/IEC 18014
 ISO 2852
-ISO/IEC 9797-1
-Institut d'informatique et mathématiques appliquées de Grenoble
 Fuel oil
-Gesellschaft für Angewandte Mathematik und Mechanik
-ISO/IEC 15897
 Lexical Markup Framework
-Coral 66
 Linguistic categories
-Edgar T. Irons
-John E. L. Peck
-ISO 7027
-META II
 ISO 10628
-Adriaan van Wijngaarden
-LGP-30
 ISO 3864
-Estonian Soviet Socialist Republic
 JPEG XL
 ISO 14031
 ISO 31-6
 ISO-TimeML
-ISO/IEC 8859-11
 Kunrei-shiki romanization
 ISO 22395
-Elliott 803
 MPEG-4 Part 11
-Kristen Nygaard
 ISO 233
-ALGOL
-ISO 19092-2
-ISO/IEC 7064
 Film speed
 ISO 25964
-Ferranti Pegasus
-GE-200 series
 ISO 14644
-ISO/IEEE 11073
 ISO 11783
-ISO/IEC 19770
 ISO 668
 ISO 9
-ALGAMS
-Combined Programming Language
 ISO 10303-22
-IBM 7090
 Kappa number
-Claude Pair
-ISO/IEC 42010
-Alan Perlis
-Andrey Ershov
 ISO 22301
-Datasaab
 ISO 216
-ISO/IEC 8859-12
 Legal Entity Identifier
-ALGOL 68
 MP4 file format
-German Academy of Sciences at Berlin
 ISO 31
-Carl-Erik Fröberg
 International Standard Audiovisual Number
-ISO/IEC 4909
 Imperative programming
-Klaus Samelson
 ISO 8583
 International Standard Recording Code
 ISO 21001
-IFIP Working Group 2.1
 Equal-loudness contour
 ISO 2033
 ISO 15022
@@ -239,33 +137,16 @@ ISO 3977
 ISO 8601
 ISO 31-11
 ISO 55000
-Fortran
-ISO/IEC 10116
 ISO 3166-1
-Ferranti-Packard 6000
 ISO 639-2
 ISO 10962
-FLACC
 Linux Standard Base
 ISO 3166-3
-Joseph Henry Wegstein
 Hot shoe
-ISO 31-9
-ISO/IEC 27005
-English Electric DEUCE
-ISO/IEC 7813
-DASK
 ISO 14224
-Comecon
-ISO/IEC 7810
-Block (programming)
-BCPL
 IS-IS
-ALGO
 ISO 13406-2
-Comparison of ALGOL 68 and C++
 ISO 843
-English Electric KDF9
 Eric S. Raymond
 ISO 15919
 ISO 1000
@@ -273,29 +154,19 @@ Han Xin code
 MPEG-1
 International Standard Atmosphere
 EBCDIC
-Charles Katz
 Denmark
 ISO 8178
-CDC 1604
-ISO/IEC 12207
 International Standard Name Identifier
 Guidelines for the Definition of Managed Objects
 Hole punch
 Accuracy and precision
-MAD (programming language)
-Case Western Reserve University
 ISO 10161
-ALGOL 68S
-ISO/IEC 8859-13
 ISO 15926 WIP
 ISO 4
-ISO/IEC 27000-series
 ISO 7637
 China
 MPEG-2
-ISO/IEC 8859-14
 ANSI escape code
-L. Petrone
 ISO 2711
 ?
 Essential Video Coding
@@ -306,194 +177,99 @@ COLLADA
 ISO 10303-28
 ISO 9897
 ISBN
-ISO/IEC 11404
 Flowchart
 JPEG XR
-ISO/IEC 17025
-DG/L
 ISO 13584
 ISO 11940
 ISO 25178
-Cornelis H. A. Koster
-Lambert Meertens
 Canada
-Barry J. Mailloux
 ISO 19011
-IBM 1620
-CAN bus
 ISO 15686
 ISO 3166-2
 ISO 5776
 ISO 31-10
-Bernard Galler
-ISO/IEC 14443
 ISO 5428
-Jensen's device
 MPEG-4
 ISO 7010
 Edsger W. Dijkstra
-ISO 31-13
-Automatic Computing Engine
 B (programming language)
-ISO/IEC 38500
 ISO 17100
-ISO/IEC 8859-10
-Alfred V. Aho
 International Bank Account Number
 ECMAScript
-GOST
 LCEVC
 ISO 1629
 ISO 965
-ISO/IEC 9529
-Anthony W. Knapp
-ISO/IEC 8859-9
 ISO 19600
-IMP (programming language)
-ISO/IEC 11801
-ISO/IEC 8859
 ISO 2014
-Evaluation strategy
-Elliott Brothers (computer company)
 Fiber Distributed Data Interface
-ISO/IEC 8859-15
 International Standard Identifier for Libraries and Related Organizations
-Brian Randell
-ISO/IEC 8859-3
-ISO/IEC 8859-7
 International Standard Music Number
-Dialect (computing)
-Friedrich Ludwig Bauer
-ISO/TR 11941
 ISO 999
-Burroughs Corporation
-ISO/IEC 11179
-ISO/IEC TR 12182
 ISO 13399
 File Allocation Table
-Community of practice
 ISO 22300
 ISO 18245
 ISO 8000
-ISO/IEC 14651
-GIER ALGOL
 ISO 14617
 ISO 11992
-ISO/IEC 5218
 ISBN (identifier)
-DASK ALGOL
-ISO/IEC 8652
-ALGOL Bulletin
-Kidsgrove Algol
 ISO 31-3
 ISO 13567
-Dartmouth Time-Sharing System
 ISO 11784 and ISO 11785
 ISO 9564
 ISO 732
 Formalism (philosophy of mathematics)
-CORAL
 ISO 19439
 ISO 2788
 ISO 31-1
 ISO 10160
 ISO 11940-2
-Eiiti Wada
 FDI World Dental Federation notation
-Douglas T. Ross
-Elliott ALGOL
-Jensen's Device
 ICT 1900 series
 ISO base media file format
 Hazard symbol
-ISO/IEC 6523
 ASMO 449
-Electrologica X1
-ES EVM
-ISO/IEC 9126
-ALGOL 68-R
-ISO 19092-1
-ISO/IEC 20000
 France
-ISO/IEC 27006
 ISO 9660
 ISO 11170
-ISO/IEC 27001
 Dynamic Adaptive Streaming over HTTP
 Common Object Request Broker Architecture
-JOVIAL
-Burroughs Large Systems
 126 film
 ISO 10303-21
 ISO 704
-Donald Knuth
-ALGOL 68RS
 East Germany
-ALGOL 68C
 ISO 2145
 ISO-8859-8-I
 ISO 639-1
 ISO 10218
 A440 (pitch standard)
-ISO 2047
-ISO/IEC 7811
-Jørn Jensen
-International Standard Serial Number
 List of ISO romanizations
 International Standard Musical Work Code
-ISO/IEC 8859-1
-ISO/IEC 9995
 ISO 19114
-Hermann Bottenbruch
 ISO 4217
-Executive Systems Problem Oriented Language
 ISSN (identifier)
 ISO 639-5
-Heinz Rutishauser
-Case ALGOL
 Graph Query Language
-Hello world program
 ISO 7736
-Legal successor (organization)
 Compiler
 JBIG
-ALGOL W
-Input/output
-ISO/IEC 19752
 ISO 21500
 ISO 690
-ISO/IEC 19794-5
 ISO 9362
-ISO/IEC 8859-16
 ISO 56000
 ArmSCII
 ISO 4031
 ANSI C
-ISO/IEC 8859-6
 ISO 7001
 ISO 15926
-CPL (programming language)
 List of ISO standards
 MPEG-4 Part 2
-English Electric
-Backus–Naur form
 Graphical Kernel System
 Document Style Semantics and Specification Language
 Germany
 International Securities Identification Number
-Bull Gamma 60
 ISO 22000
-Data General Eclipse
 110 film
-Fuse (automotive)
-ISO/IEC 2022
-GOGOL
-John McCarthy (computer scientist)
-ISO/IEC 8859-2
-Karlsruhe Institute of Technology
-ALGOL 58
 Computer Graphics Metafile
-Association for Computing Machinery
-International Federation for Information Processing
 Digital object identifier
 British Standard Pipe

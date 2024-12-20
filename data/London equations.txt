@@ -1,19 +1,11 @@
 AC motor
-Abrikosov vortex
 Albert Einstein
 Alessandro Volta
 Alfred-Marie Liénard
 Alternating current
-Ampere's law
 Ampère's circuital law
-Andreev reflection
 André-Marie Ampère
-BCS theory
-BSCCO
-Bcs theory
-Bean's critical state model
 Bibcode (identifier)
-Bilayer graphene
 Biot–Savart law
 Bremsstrahlung
 Capacitance
@@ -24,19 +16,11 @@ Charles Proteus Steinmetz
 Classical electromagnetism
 Classical electromagnetism and special relativity
 Computational electromagnetics
-Constitutive relation
-Conventional superconductor
-Cooper pair
 Coulomb's law
-Covalent superconductor
 Covariant formulation of classical electromagnetism
-Critical field
-Cryotron
-Cuprate superconductor
 Current density
 Cyclotron radiation
 DC motor
-David Mermin
 Direct current
 Displacement current
 Doi (identifier)
@@ -59,7 +43,6 @@ Electrical resistance and conductance
 Electricity
 Electrolysis
 Electromagnetic field
-Electromagnetic fields
 Electromagnetic four-potential
 Electromagnetic induction
 Electromagnetic pulse
@@ -74,39 +57,26 @@ Electrostatics
 Emil Lenz
 Emil Wiechert
 Faraday's law of induction
-Ferromagnetic superconductor
-Flux pinning
-Flux pumping
 Four-current
 Franz Ernst Neumann
-Fritz London
 Félix Savart
-Gauge fixing
 Gauss's law
 Gauss's law for magnetism
 Georg Ohm
 George Singer
-Ginzburg–Landau theory
 Gustav Kirchhoff
 Gyrator–capacitor model
 Hans Christian Ørsted
-Heavy fermion superconductor
 Heinrich Hertz
-Heinz London
-Helmholtz equation
 Hendrik Lorentz
 Hermann von Helmholtz
-High-temperature superconductivity
 Hippolyte Fizeau
 History of electromagnetic theory
-Homes's law
 Humphry Davy
 ISBN (identifier)
 Inductance
 Induction motor
 Insulator (electricity)
-Introduction to Solid State Physics
-Iron-based superconductor
 J. J. Thomson
 James Clerk Maxwell
 James Prescott Joule
@@ -116,32 +86,22 @@ John Henry Poynting
 John Hopkinson
 Joseph Henry
 Joseph Larmor
-Josephson effect
 Joule heating
 Kirchhoff's circuit laws
-Kohn–Luttinger superconductivity
-Lanthanum barium copper oxide
-Laplacian
 Larmor formula
 Lenz's law
 Linear motor
 List of electrical phenomena
-List of superconductors
 List of textbooks in electromagnetism
-Little–Parks effect
 Liénard–Wiechert potential
-London penetration depth
 Lord Kelvin
 Lorentz force
-Lorentz force law
-Magnesium diboride
 Magnetic circuit
 Magnetic complex reluctance
 Magnetic field
 Magnetic flux
 Magnetic moment
 Magnetic reluctance
-Magnetic resonance imaging
 Magnetic scalar potential
 Magnetic vector potential
 Magnetism
@@ -149,74 +109,35 @@ Magnetization
 Magnetomotive force
 Magnetostatics
 Mathematical descriptions of the electromagnetic field
-Matthias rules
-Mattis–Bardeen theory
 Maxwell's equations
 Maxwell's equations in curved spacetime
 Maxwell stress tensor
-Meissner effect
 Michael Faraday
-Nanometers
-Neil Ashcroft
 Network analysis (electrical circuits)
 Nikola Tesla
-Niobium–tin
-Niobium–titanium
-Normal vector
-Nuclear magnetic resonance
-Number density
 Ohm's law
 Oleg D. Jefimenko
 Oliver Heaviside
 Optics
-Organic superconductor
-Oxypnictide
 Permeability (electromagnetism)
 Permeance
 Permittivity
-Persistent current
 Polarization density
 Poynting vector
-Proximity effect (superconductivity)
-Reentrant superconductivity
 Relativistic electromagnetism
-Resonating valence bond theory
 Resonator
 Right-hand rule
-Room-temperature superconductor
 Rotor (electric)
-Rutherford cable
 S2CID (identifier)
-SQUID
-SU(2) color superconductivity
 Series and parallel circuits
-Silsbee effect
 Siméon Denis Poisson
 Static electricity
 Stator
-Superconducting coherence length
-Superconducting magnet
-Superconducting quantum computing
-Superconducting wire
-Superconductivity
-Superconductor
-Superconductor classification
-Supercurrent
-Superdiamagnetism
-Superstripes
 Synchrotron radiation
-Technological applications of superconductivity
-Thallium barium calcium copper oxide
 Transformer
 Triboelectric effect
-Type-1.5 superconductor
-Type-II superconductor
-Type-I superconductor
-Unconventional superconductor
 Voltage
 Watt
 Waveguide (radio frequency)
-Werthamer–Helfand–Hohenberg theory
 Wilhelm Eduard Weber
 William Ritchie (physicist)
-YBCO

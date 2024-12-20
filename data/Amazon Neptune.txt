@@ -6,9 +6,7 @@ AWS Elastic Beanstalk
 AWS Glue
 AWS Lambda
 AbeBooks
-Abiquo Enterprise Edition
 Alexa Internet
-Alibaba Cloud
 Amapedia
 Amazon's Best Books of the Year
 Amazon.com
@@ -26,7 +24,6 @@ Amazon Breakthrough Novel Award
 Amazon China
 Amazon Clinic
 Amazon CloudFront
-Amazon CloudWatch
 Amazon Dash
 Amazon Digital Game Store
 Amazon Drive
@@ -95,126 +92,61 @@ American International Pictures
 Amie Street
 Andy Jassy
 Annapurna Labs
-Apache CloudStack
-AppScale
-Asia-Pacific
 Askville
 AstraZeneca
 Audible (service)
-Backend as a service
-Backup
 Bahrain
 Bellevue 600
-Blazegraph
 Blink Home
 Body Labs
 BookFinder.com
 Book Depository
-Box (company)
 Box Office Mojo
 Brian Valentine
 CDNow
 Canada
 China
 Christopher North (businessman)
-Citrix Cloud
-Cloud-based integration
-Cloud-native computing
-CloudBolt
-Cloud Foundry
 Cloud computing
-Cloud computing security
-Cloud database
-Cloud storage
-Cloud storage gateway
-Cocaine (PaaS)
 ComiXology
 Community Banana Stand
-Comparison of structured storage software
 Computer network
 Congress of Essential Workers
-Content as a service
 Criticism of Amazon
-Cypher (query language)
-Data as a service
 Data center
-Data cluster
-Data set
 Day 1 (building)
-Deft (company)
-Desktop as a service
-Dew computing
 Diapers.com
-DigitalOcean
 Digital Photography Review
-Distributed file system for cloud
 Doppler (building)
 Double Helix Games
-Dropbox
 Dynamo (storage system)
-EMC Atmos
 East Coast of the United States
 Encryption
 Endless.com
-Engine Yard
-Eucalyptus (software)
 Europe
-FINRA
 FTC v. Amazon
-FUJITSU Cloud IaaS Trusted Public S5
 Fire HD
 Fire HDX
 Fire OS
 Fire Phone
-Firewall (computing)
 Frankfurt
 Fraud
-Function as a service
 Goodreads
 Goodreads Choice Awards
 Google
-Google App Engine
-Google Cloud Platform
-Google Drive
-Google Workspace
 Graph database
 Graphiq
-GreenButton
-GreenQloud
-Gremlin (programming language)
-HIPAA
-HPE Helion
-HP Cloud
-HTTPS
-Hardware virtualization
-Heroku
 History of Amazon
-IBM Cloud
 IMDb
-ISO 27001
-ISO 27017
-ISO 27018
-ISO 9001
-Iland
-Infrastructure as a service
-Inktank Storage
-Input/output
 International Organization for Standardization
 Internet
-Intuit
 Ireland
 Jeff Bezos
-Jelastic
-Joyent
 Kindle Direct Publishing
 Kindle Store
-Knowledge graph
 Kuiper Systems
 Lexcycle
-Libguestfs
 LibraryThing
-Libvirt
-Linode
 Liquavista
 List of Amazon brands
 List of Amazon locations
@@ -223,103 +155,49 @@ List of mergers and acquisitions by Amazon
 LivingSocial
 London
 LoveFilm
-Lunacloud
 MGM+
 MGM Holdings
 MX Player
 MacKenzie Scott
 Metro-Goldwyn-Mayer
 Microsoft
-Microsoft 365
-Microsoft Azure
-Middle-East
-MindSphere
-Mirantis
-Mobile cloud computing
 Mobipocket
 Mumbai
-Native cloud application
 Neighbors (app)
-Netlify
-Network as a service
 Network security
-Nextcloud
-Nimbula
-Nimbus (cloud computing)
-Ningxia
 NoSQL
 Northern Virginia
-OVirt
 Obidos (software)
 Ohio
-OneDrive
-OpenIO
-OpenNebula
-OpenQRM
-OpenShift
-OpenStack
-Oracle Cloud
 Oregon
-OrionVM
 Orion Pictures
-OutSystems
-Owncloud
-PCI DSS
 Paris
 Paul Davis (programmer)
 Payment Card Industry Data Security Standard
-Pearson plc
 Perfect 10, Inc. v. Amazon.com, Inc.
-Personal cloud
 PillPack
 PlanetAll
-PlateSpin
-Platform as a service
-Predix (software)
 Prime Now
 Principal Place
-Private network
-Protected health information
-Proton Drive
-PythonAnywhere
-Query language
-Rackspace Cloud
-Rackspace Technology
 Ram Shriram
 Recommendation engine
 Reflexive Entertainment
 Resource Description Framework
 Rick Dalzell
-RightScale
 Ring (company)
-SAP Cloud Platform
-SPARQL
-SSAE 16
-Safe Swiss Cloud
-Salesforce
 Samsung Electronics
-Scalr
-Seafile
-Security as a service
 Sellaband
-Seoul
-Serverless computing
-Service-level agreement
 Shelfari
 Shopbop
 Siemens
 Singapore
-Snapshot (computer storage)
 Social networking service
-Software as a service
 Solid-state drive
 Songza
 Souq.com
-Splunk
 Sports on Amazon Prime Video
 Statistically improbable phrase
 Stockholm
-Structured storage
 Sydney
 TenMarks Education, Inc.
 Tokyo
@@ -327,30 +205,14 @@ Tom Szkutak
 Tony Hsieh
 Transport Layer Security
 Treasure Truck
-Triplestore
 Twitch (service)
 United Artists
-VCloud Air
-Vercel
-Virt-manager
-Virtual Private Cloud OnDemand
-Virtual appliance
-Virtual private cloud
-W3C
-Wakame-vdc
-WaveMaker
 Web API
-Web service
 Werner Vogels
-Western United States
 Whole Foods Market
 Withoutabox
 Wondery
 Woot
-Workday, Inc.
-World Wide Web Consortium
 YES Network
-Zadara
 Zappos
-Zoho Corporation
 Zoox (company)

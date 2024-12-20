@@ -1,134 +1,69 @@
-3D Touch
-64-bit
 API
-ARM architecture
-Accessibility
-ActiveSync
-Ad blocker
-AirDrop
-AirPlay
-AirPrint
-Alarm clock
 Alpine Linux
 Amazon Kindle
 Android (operating system)
 Android Go
-AppGallery
 App Store (iOS)
 App store
 Apple Inc.
-Apple Pay
-Apple Push Notification Service
-Apple Watch
-ArkTS
 Ars Technica
-Aurora OS (Russian Open mobile platform)
 B2G OS
 Bada (operating system)
-Baidu
 Binary Runtime Environment for Wireless
-Bing (search engine)
-Bixby Vision
 BlackBerry 10
 BlackBerry OS
 BlackBerry Tablet OS
-Blink (layout engine)
 Bloomberg News
-Blue Systems
 Bluetooth
 BridgeOS
-Brute-force attack
 C++
 C (programming language)
-Canonical Ltd.
 ChromeOS
 ChromeOS Flex
-Clipboard (computing)
-Comparison of open-source mobile phones
-Comparison of satellite navigation software
 Computer multitasking
 Computerworld
-Control Center (iOS)
-Cut, copy, and paste
-Darwin (operating system)
 Debian
-Digital Living Network Alliance
-Digital restrictions management
-DuckDuckGo
 EMUI
 EPOC (operating system)
-Ecosia
 Emoji
 Encryption
-End-to-end encryption
 Engadget
 European Union
-Exif
-FLAC
-FOTA (technology)
-FaceTime
-FairPlay
-Feature phones
 Fedora Linux
-File manager
 Firefox OS
 Forbes
-Force Touch
 FreeBSD
 FreeRTOS
-Free and open-source
 Fuchsia (operating system)
 GEOS (16-bit operating system)
 GNU
 GPL
 Go (programming language)
 Google
-Google Chrome for Android
-Google Cloud Print
-Google Lens
 Google Maps
-Google Messages
 Google Play
-Google Search
-Google Wallet
 Graphical user interface
 Graphics processing unit
 H.263
-H.264
 HMD Global
-HTC Sense
 HTML5
-HTTP Live Streaming
 HarmonyOS
 HarmonyOS NEXT
 Here WeGo
-High dynamic range imaging
-Huawei
-ICalendar
-ICloud
-IMAP
-IMessage
-IMore
 IOS
-IOS SDK
 IPad
 IPadOS
 IPhone 5
-IPhone 6
 ITunes
-Input method
 Intel
 Intel Management Engine
 JavaScript
 Java (programming language)
 Jolla
-KDE
 KDE neon
 KaiOS
-Kotlin (programming language)
 LineageOS
 Linux
-Linux Foundation
 Linux Kernel
 Linux kernel
 List of custom Android distributions
@@ -136,7 +71,6 @@ List of mobile app distribution platforms
 List of open-source mobile phones
 LiteOS
 LuneOS
-MAPI
 MacRumors
 Maemo
 Magic Cap
@@ -145,7 +79,6 @@ MeeGo
 Mer (software distribution)
 Microsoft Windows
 Minix 3
-Miracast
 Mobian
 Mobile app development
 Mobile banking
@@ -154,115 +87,59 @@ Mobilinux
 Moblin
 MontaVista
 MotoMagx
-Mozilla Public License
-Multi-user
-Near field communication
 NetBSD
 Nintendo
 Nintendo 3DS system software
 Nintendo DSi system software
 Nintendo Switch system software
 Nokia Asha platform
-Notes (software)
-Notification Center
 OS X
 Objective-C
 OpenDocument
 OpenEZX
 OpenEmbedded
 OpenHarmony
-OpenVPN
 Open Handset Alliance
 Open Mobile Alliance
 Open source
 Openmoko Linux
-Optical character recognition
-Opus (audio format)
-OwnCloud
-POP3
-PRISM (surveillance program)
 PalmDOS
 Palm OS
 Parental controls
-Plasma Mobile
 PlayStation Portable system software
 PlayStation Vita system software
 Podcast
 PostmarketOS
 Proprietary software
-Protected Extensible Authentication Protocol
-Proxy server
 PureOS
-Purism (company)
-Python (scripting language)
-QML
 QNX
 QtMoko
-Qt WebEngine
-Qualcomm
-Quick Share
-Qwant
-RFB protocol
-RISC-V
-Random-access memory
-Rich Communication Services
 S60 (software platform)
 SHR (operating system)
-Safari
-Sailfish Alliance
 Sailfish OS
-Samsung
-Samsung Pay
 Screencast
-Screenshot
-Searx
-Secure Shell
 Series 30
 Series 30+
 Series 40
 Series 80 (software platform)
 Series 90 (software platform)
-Servo (software)
-Session Initiation Protocol
-Shell script
-Siri (software)
-Smart phones
 Software development kit
 Software release life cycle
 Sony Ericsson Java Platform
-Spell checker
 SteamOS
-SwiftKey
-Swift (programming language)
 Symbian
-TCL Technology
 The Verge
 The Washington Post
 ThreadX
 Tizen
-Tizen Association
-TouchWiz
-Turn-by-turn navigation
 UBports
 UIQ
-USB On-The-Go
 Ubuntu
 Ubuntu Touch
-Undo
-VLC media player
-VPN
-Visual voicemail
-Voice over IP
 WatchOS
 Wayback Machine
 Wear OS
-WebKit
 WebOS
-WebRTC
-Wi-Fi
-Wi-Fi Direct
-Wi-Fi Protected Access
-Wikipedia
 Windows 10
 Windows 10 Mobile
 Windows 11
@@ -275,11 +152,7 @@ Windows Phone 8
 Windows Phone 8.1
 Windows RT
 Windows XP editions
-X64
 X86
-X86-64
 XNU
-Yahoo! Search
-Yandex Search
 Zircon (microkernel)
 Ångström distribution
