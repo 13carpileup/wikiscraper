@@ -34,7 +34,7 @@ class PathFinderService {
                         await DBCache.addCache(initial, target, fullNewPath);
                         foundPaths.push(fullNewPath);
                         foundLength = fullNewPath.length;
-                        if (foundLength != -1 && foundLength < currentPath.length || foundPaths.length >= pathCount) break;
+                        if (foundLength != -1 && foundLength < currentPath.length || foundPaths.length >= pathCount) return foundPaths;
                     };
 
                     foundLength = res[0].length;
@@ -56,7 +56,7 @@ class PathFinderService {
                     foundPaths.push(currentPath.concat([con, target]));
                     await DBCache.addCache(initial, target, currentPath.concat([con, target]));
                     foundLength = currentPath.length;
-                    if (foundLength != -1 && foundLength < currentPath.length || foundPaths.length >= pathCount) break;
+                    if (foundLength != -1 && foundLength < currentPath.length || foundPaths.length >= pathCount) return foundPaths;
                 }
             }
         }
