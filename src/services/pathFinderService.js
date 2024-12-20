@@ -24,7 +24,7 @@ class PathFinderService {
             const currentPath = next[0];
             const connections = next[1];
 
-            if (foundLength != -1 && foundLength < currentPath.length || foundPaths.length > pathCount) break;
+            if (foundLength != -1 && foundLength < currentPath.length || foundPaths.length >= pathCount) break;
 
             for (const con of connections) {
                 let res = await DBCache.checkCache(con, target);
