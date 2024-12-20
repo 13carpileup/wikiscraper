@@ -34,7 +34,7 @@ router.get('/philo/results', async (req, res) => {
 router.post('/philo', async (req, res) => {
     const initial = req.body.from;
 
-    const initialExists = FileService.checkFile(initial);
+    const initialExists = await FileService.checkFile(initial);
 
     if (!initialExists) {
         return res.send("Invalid page!");
