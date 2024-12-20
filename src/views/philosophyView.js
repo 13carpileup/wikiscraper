@@ -149,6 +149,16 @@ function renderPhilosophyPage() {
                     color: #ef4444;
                     padding: 1rem;
                 }
+
+                .note {
+                    background-color: #fff3cd;
+                    border-left: 4px solid #ffc107;
+                    padding: 1rem;
+                    margin: 1.5rem 0;
+                    font-size: 0.9rem;
+                    color: #856404;
+                    border-radius: 4px;
+                }
             </style>
         </head>
         <body>
@@ -179,7 +189,9 @@ function renderPhilosophyPage() {
                     <h2>Longest Paths Found</h2>
                     <div id="leaderboardContent"></div>
                 </div>
-                <i>NOTE: Some very obscure paths will throw 502 errors because my droplet isn't powerful enough to search for a complete path. Forgive me!</i>
+                <div class="note">
+                    <i>NOTE: Some very obscure paths may result in 504 errors due to server limitations. mb!! i will upgrade my droplet when i'm rich.</i>
+                </div>
                 <a href="/" class="back-link">← Return to main page</a>
             </div>
 
