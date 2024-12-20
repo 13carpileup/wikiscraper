@@ -42,7 +42,7 @@ function setupAutocomplete(inputId, autocompleteId) {
             } catch (error) {
                 console.error('Error fetching autocomplete suggestions:', error);
             }
-        }, 150); // 150ms debounce
+        }, 10); // 150ms debounce
     });
 
 
