@@ -51,16 +51,33 @@ router.get('/search', (req, res) => {
 router.post('/', async (req, res) => {
     const initial = req.body.from;
     const target = req.body.to;
+    const through = req.body.through;
 
     const targetExists = await FileService.checkFile(target);
     const initialExists = await FileService.checkFile(initial);
+    const throughExists = await FileService.checkFile(through);
 
-    if (!initialExists || !targetExists) {
-        return res.send('One or both of your provided pages does not exist. Sorry! It is possible that the page does exist on the real wikipedia, but that my app does not recognize this. If you would like me to add your page, please reach out.');
+    if (!initialExists || !targetExists || !throughExists) {
+        return res.send('One or all of your provided pages does not exist. Sorry! It is possible that the page does exist on the real wikipedia, but that my app does not recognize this. If you would like me to add your page, please reach out.');
     }
 
-    const foundPaths = await PathFinderService.findPaths(initial, target);
-    res.send(renderResultsPage(foundPaths));
+    if (!through) {
+        const foundPaths = await PathFinderService.findPaths(initial, target);
+        res.send(renderResultsPage(foundPaths));
+        return;
+    }
+
+    const firstPaths = await PathFinderService.findPaths(initial, through);
+    const secondPaths = await PathFinderService.findPaths(through, target);
+    let finalPaths = []
+    firstPaths.forEach(p1 => {
+        secondPaths.forEach(p2 => {
+            p2 = p2.slice(1, p2.length  );
+            finalPaths.push(p1.concat(p2));
+        })
+    });
+
+    return res.send(renderResultsPage(finalPaths.slice(0, 10)));
 });
 
 module.exports = router;

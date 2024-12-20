@@ -83,3 +83,4 @@ document.addEventListener('click', function(e) {
 
 setupAutocomplete('fromInput', 'fromAutocomplete');
 setupAutocomplete('toInput', 'toAutocomplete');
+setupAutocomplete('throughInput', 'throughAutocomplete');

@@ -17,6 +17,11 @@ function renderMainPage() {
                     <input type="text" name="to" id="toInput" placeholder="To" required autocomplete="off">
                     <div id="toAutocomplete" class="autocomplete-items"></div>
                 </div>
+                <p>Optional: Include a intermediate page that must be visited before reaching the end page.</p>
+                <div class="input-container">
+                    <input type="text" name="through" id="throughInput" placeholder="Through" autocomplete="off">
+                    <div id="throughAutocomplete" class="autocomplete-items"></div>
+                </div>
                 <button type="submit">Find Path</button>
                 <i>NOTE: Some very obscure paths will throw 502 errors because my droplet isn't powerful enough to search for a complete path. Forgive me!</i>
             </form>
