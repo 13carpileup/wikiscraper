@@ -6,9 +6,10 @@ for file in allFiles:
     f = open(f'data/{file}', 'r')
     cons = f.read().split('\n')
 
-
-    if (len(cons)==0 or not cons[0]):
-        print(file)
+    for i in cons:
+        fname = i + '.txt'
+        if (not fname in allFiles):
+            print(i)
 
 
 # Visual J++.txt
