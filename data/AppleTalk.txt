@@ -1,169 +1,29 @@
-10BASE-T
-3Com
-A/UX
-AAUI
-ARCNET
-Active Directory
-Address Resolution Protocol
-AirPort
-AppleShare
-AppleTalk Echo Protocol
-Apple Computer
-Apple Filing Protocol
 Apple II
-Apple IIGS
 Apple III
-Apple Lisa
-Application layer
-Attachment Unit Interface
 BSD
-Banyan VINES
-Berkeley Macintosh Users Group
-Binary Synchronous Communications
-Bonjour (software)
-Bus network
-Chooser (Mac OS)
-Cisco
 Classic Mac OS
-Clock
 Coaxial cable
-Copland (operating system)
-Creative Computing (magazine)
 DECnet
-Data Stream Interface
-Data link layer
-Datagram
-Datagram Delivery Protocol
-David Ahl
 Doi (identifier)
 Domain Name System
-Dual simplex
-Duplex (telecommunications)
-Econet
-Electrical ground
-Electrical termination
 Ethernet
-Expansion slot
-ExtremeZ-IP
-FDDI
-File server
-Flow control (data)
-GroupLogic
-HELIOS UB2
 Hard drive
-Hayes Microcomputer Products
-Hierarchical File System (Apple)
 IBM
 IBM PC
-IPX
-IRIX
 ISBN (identifier)
-Idempotent
-InfoWorld
-Internet protocol suite
-John Markoff
-Kerberos (protocol)
-LaserWriter
 Laser printer
-Link-local address
-Link layer
 Linux
-LocalTalk
-LocalTalk-to-Ethernet bridge
-LocalTalk Link Access Protocol
 Local area network
-MS-Net
-MacIP
-MacTCP
-MacWEEK
-MacX
 Mac OS X
-Mac OS X v10.2
-Mac OS X v10.3
-Mac OS X v10.4
-Mac OS X v10.6
-Mac Plus
 Macintosh
-Macintosh II
-Macintosh Office
-Macworld
 Microsoft Windows
-Modular connector
-Motorola
-Multicast DNS
-NCSA Mosaic
-NVRAM
-Name Binding Protocol
-National Computer Conference
-NeXT
-Netatalk
-Netopia
-Netscape Navigator
-Network File System
-Network World
-Network layer
-Network operating system
-Networking stack
-Novell NetWare
-NuBus
-OSI model
-Open Transport
 Operating system
 Peripheral
-PhoneNET
-Physical layer
-Point-to-Point Protocol
-PostScript
-PowerBook 3400c
-PowerBook G3
-PowerPC
-Power Macintosh
-Power Macintosh 7300
-Power Macintosh 8600
-Power Macintosh 9600
-Power Macintosh G3
-Presentation layer
-Proprietary protocol
-Protocol stack
-Quadra 700
-Quadra 900
 RAM
-RS-422
-Remote File Sharing
-Request for Comments
 Router (computing)
-SCSI
-SNMP
-SRV record
-STREAMS
-Samba (software)
 Serial port
-Server Message Block
-Session layer
 Stanford University
 Steve Jobs
-Stuart Cheshire
-SunOS
-Switch
-System Settings
-TCP/IP
-TOPS (file server)
-Telephone jack and plug
-Token Ring
-Transmission Control Protocol
-Transport layer
-UART
 Ultrix
-Universal Plug and Play
-Universal Serial Bus
 Windows NT
-Windows Server 2003
-Windows Server 2008
-Windows Vista
 Wired (magazine)
-X.25
-Xerox XNS
-Zero-configuration networking
-Zilog
-Zilog SCC
-Zone Information Protocol

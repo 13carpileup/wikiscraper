@@ -2,237 +2,96 @@
 2D computer graphics
 3D computer graphics
 3D projection
-3D rendering
-3D rotation group
 Abelian group
-Active and passive transformation
-Affine geometry
 Affine space
 Affine transformation
-Aircraft principal axes
-Albuquerque
 Algebra
-Aliasing
 Alpha
 Alpha compositing
-Angle
 Anisotropic filtering
-Axis of rotation
-Axis–angle representation
 Back-face culling
-Beam tracing
 Beta
-Bivector
-CORDIC
 Cambridge University Press
-Cel shading
-Celestial sphere
-Center (geometry)
-Change of basis
-Charts on SO(3)
-Checkerboard rendering
-Circle group
-Circular symmetry
 Clifford algebra
 Clipping (computer graphics)
-Clockwise
 Collision detection
-Column vector
-Commutative
 Commutative ring
 Comparison of vector graphics editors
 Complex number
-Computer graphics (computer science)
 Computer graphics lighting
 Cone tracing
-Conformal map
-Coordinate transformation
-Counterclockwise
-Covering group
-David Hestenes
 Deferred shading
-Degrees of freedom (mechanics)
 Determinant
 Diffusion curve
-Dimension (mathematics)
-Dordrecht
-Elliptic geometry
 Equivalence relation
-Euclidean distance
 Euclidean geometry
-Euclidean group
 Euclidean norm
-Euclidean plane isometry
-Euclidean space
-Euclidean vector
-Euler's formula
-Euler angles
-Even number
-Exponential map (Lie theory)
-Flat (geometry)
 Fluid animation
-Four-dimensional space
-Frame of reference
 Function composition
 Gamma
-General position
 Geometric algebra
 Geometry
 Global illumination
 Graphics software
 Group (mathematics)
-Group action (mathematics)
 Group representation
 Group theory
 Hidden-surface determination
-Homogeneous coordinates
-Hyperbolic rotation
-Hyperbolic space
 ISBN (identifier)
-Identity component
 Image-based modeling and rendering
-Improper rotation
-Infinitesimal rotation matrix
 Invariant (mathematics)
-Irrational rotation
 Isometric video game graphics
-Isometry
 Layers (digital image editing)
-Left and right (algebra)
 Lie group
 Line (geometry)
-Line of nodes
 Linear map
-Linear operator
-List of 3D animation software
 List of 3D computer graphics software
 List of 3D modeling software
 List of 3D rendering software
 List of computer graphics algorithms
-Lorentz group
-Lorentz transformation
 Map (mathematics)
-Mathematical structure
 Mathematics
 Matrix multiplication
 Mechanics
-Minkowski diagram
-Minkowski space
 Mode 7
-Modular arithmetic
-Motion (geometry)
 Multilinear algebra
 Multiplicative inverse
 Möbius transformation
-N-sphere
 Normed vector space
-Numerical stability
-Odd number
-One-dimensional space
-One-to-one correspondence
-Orientation (geometry)
-Orientation (vector space)
 Origin (mathematics)
-Orthogonal
-Orthogonal matrix
 Orthonormal basis
-Orthonormality
 Parallax scrolling
-Parity (physics)
 Path tracing
 Phi
 Physics
 Pixel
 Planar projection
-Plane (geometry)
 Plane (mathematics)
-Plane of rotation
-Point (geometry)
-Point group
-Point reflection
-Point–vector distinction
 Polygon mesh
-Position (vector)
-Projective geometry
-Projective transformation
-Pseudo-Euclidean space
-Pseudovector
-Psi (letter)
-Quadratic form
 Quaternion
-Quaternions and spatial rotation
 Raster graphics editor
-Ray casting
 Ray tracing (graphics)
-Real coordinate space
-Reference frames
 Reflection (computer graphics)
-Reflection (mathematics)
 Rendering (computer graphics)
-Representation theory of SU(2)
-Rigid body
-Rigid body dynamics
-Rodrigues' rotation formula
 Rotation
-Rotation formalisms in three dimensions
-Rotation group SO(3)
-Rotation matrix
-Rotation of axes
-Rotation of axes in two dimensions
-Rotational symmetry
-Rotations and reflections in two dimensions
-Rotations in 4-dimensional Euclidean space
-Sandia National Laboratories
 Scaling (geometry)
 Scanline rendering
-Screw axis
 Shader
 Shading
 Shadow mapping
-Shadow volume
 Shear matrix
-Sign (mathematics)
 Skybox (video games)
-Space (mathematics)
-Spacetime
-Spacetime interval
-Special orthogonal group
-Special relativity
-Special unitary group
 Spectral rendering
 Sphere
-Spherical geometry
 Spin (physics)
-Spin group
-Spinor
 Springer Science+Business Media
-Squeeze mapping
-Summation
 Surface triangulation
-Symmetry
-Symmetry (physics)
-Tesseract
 Texel (graphics)
-Text-to-image model
 Theta
-Three-dimensional rotation operator
 Three-dimensional space
-Translation (geometry)
 Triangle mesh
-Triviality (mathematics)
-Turn (geometry)
 Unbiased rendering
-Unit vector
-Unitary group
-Unitary matrix
 Up to
-Vector calculus
-Vector graphics
 Vector space
-Versor
-Volume rendering
-Vortex
 Voxel
-William Kingdon Clifford
 Wire-frame model
-−1 (number)

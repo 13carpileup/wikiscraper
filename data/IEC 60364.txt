@@ -4,52 +4,29 @@ AES3
 AES47
 ANSI C
 ANSI escape code
-AS/NZS 3000
 Ada Semantic Interface Specification
-Arc-fault circuit interrupter
-Armoured cable
-BS 7671
 Battery nomenclature
 C++
 CHILL
 COBOL
 C Sharp (programming language)
-Cable tray
-Canadian Electrical Code
-Circuit breaker
 Common Criteria
 Common Logic
 Compact Disc Digital Audio
 Comparative Tracking Index
 Computer Graphics Metafile
-Consumer unit
 Digital Addressable Lighting Interface
-Disconnector
-Distribution board
 Document Style Semantics and Specification Language
 ECMAScript
 ECMAScript for XML
 EN 62262
 E series of preferred numbers
-Earth leakage circuit breaker
-Earthing arrangements
-Earthing system
-Earthing systems
 Electric shock
-Electrical busbar system
-Electrical code
-Electrical conduit
-Electrical safety
 Electrical wiring
-Electrical wiring in North America
-Electrical wiring in the United Kingdom
 Electromagnetic interference
-European Committee for Electrotechnical Standardization
-Extra-low voltage
 Fieldbus
 File Allocation Table
 Full BASIC
-Fuse (electrical)
 Graph Query Language
 Graphical Kernel System
 Guidelines for the Definition of Managed Objects
@@ -69,7 +46,6 @@ IEC 60870-5
 IEC 60870-6
 IEC 60906-1
 IEC 60929
-IEC 60980-344
 IEC 61030
 IEC 61131
 IEC 61131-3
@@ -92,7 +68,6 @@ IEC 62196
 IEC 62264
 IEC 62304
 IEC 62325
-IEC 62351
 IEC 62366
 IEC 62379
 IEC 62455
@@ -106,53 +81,6 @@ IEEE 754
 IO-Link
 IP-XACT
 ISLISP
-ISO/IEC 10021
-ISO/IEC 10116
-ISO/IEC 10967
-ISO/IEC 11179
-ISO/IEC 11404
-ISO/IEC 11801
-ISO/IEC 12207
-ISO/IEC 14443
-ISO/IEC 14651
-ISO/IEC 15288
-ISO/IEC 15504
-ISO/IEC 15693
-ISO/IEC 15897
-ISO/IEC 17024
-ISO/IEC 17025
-ISO/IEC 18014
-ISO/IEC 19752
-ISO/IEC 19770
-ISO/IEC 19788
-ISO/IEC 20000
-ISO/IEC 2022
-ISO/IEC 21827
-ISO/IEC 24727
-ISO/IEC 24744
-ISO/IEC 27000
-ISO/IEC 27000-series
-ISO/IEC 27002
-ISO/IEC 27040
-ISO/IEC 29119
-ISO/IEC 33001
-ISO/IEC 38500
-ISO/IEC 42010
-ISO/IEC 4909
-ISO/IEC 5218
-ISO/IEC 646
-ISO/IEC 6523
-ISO/IEC 7810
-ISO/IEC 7811
-ISO/IEC 7812
-ISO/IEC 7813
-ISO/IEC 7816
-ISO/IEC 80000
-ISO/IEC 8652
-ISO/IEC 8859
-ISO/IEC 9126
-ISO/IEC 9529
-ISO/IEC 9995
 International Electrotechnical Commission
 International Standard Identifier for Libraries and Related Organizations
 International standard
@@ -170,26 +98,15 @@ MPEG-7
 MPEG-A
 MPEG-D
 MPEG-H
-Mineral-insulated copper-clad cable
 Mixed raster content
-Multiway switching
-National Electrical Code
-National Electrical Code (US)
-National Electrical Manufacturers Association
 OpenDocument
 Open Data Protocol
 Open Document Architecture
-Overcurrent
 PHIGS
 POSIX
 QR code
 RELAX NG
 RKM code
-Residual-current device
-Ring circuit
-Ring main unit
-Switch
-Thermoplastic-sheathed cable
 Topic map
 USB
 Universal Coded Character Set

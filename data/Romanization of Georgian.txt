@@ -1,206 +1,123 @@
-ISO/IEC 15288
 Georgian Braille
 ISO 20022
-ISO/IEC 8652
 ISO 4165
 ISO 8000
-ISO/IEC 4909
-ISO/IEC 9797-1
 PDF
 Cloud Infrastructure Management Interface
 QR code
 Romanization of Japanese
-Georgian language
 MPEG-D
-Ani (letter)
 ISO 2014
 Multibus
 Manufacturing Message Specification
-Laz language
-Ghani (letter)
-International Standard Serial Number
-Georgian keyboard
 ISO 13399
 POSIX
-Georgian grammar
-Nari (letter)
 COLLADA
 Kappa number
 Dynamic Adaptive Streaming over HTTP
 ISO 37001
-ISO/IEC 6523
 Ada Semantic Interface Specification
 Kunrei-shiki romanization
-ISO/IEC 9529
 Berber Latin alphabet
 ISO 10962
 Equal-loudness contour
-ISO/IEC 8859-13
 MPEG-4 Part 3
-ISO/IEC 9126
-Bani (letter)
 SQL
 Essential Video Coding
 Shock-resistant watch
-ISO/IEC 8859-5
 ISO 2
 ISO 11783
-CAN bus
-ISO/IEC 27006
-K'ani
-Khari (letter)
 MPEG-4
 ISO 14617
-ISO/IEC 19752
 JPIP
 ISO 2146
 Fuel oil
 ISO 15686
-ISO/IEC 7812
 ISO 13490
 JBIG
-Judaeo-Georgian
 ANSI C
-ISO/IEC 12207
-Mingrelian grammar
 Internet forum
-ISO 12006
-ISO/IEC TR 12182
 International Standard Audiovisual Number
 SDMX
 ISO 15022
 ISO 639-3
-PDF/A
 ISO 22301
 ISO 19600
 ISO 55000
 Lexical Markup Framework
-Roman Urdu
 ALGOL 60
-ISO/IEC 8859-15
-ISO 31-9
 ISO 56000
-ISO/IEC 8859-11
 Renard series
 ISO 639-6
 Business Process Model and Notation
-BGN/PCGN romanization
-Chinese language romanisation in Singapore
-ISO/IEC 11801
-Shini
 ISO 9
 ISO 15926 WIP
 ISO 9660
 ISO 50001
 ISO 2015
 ISO 4217
-Language Of Temporal Ordering Specification
 ISO 128
 ISO 9362
 International Standard Text Code
 ISO 10218
 ISO 6438
-Romanization of Ukrainian
-Eni (letter)
 OpenDocument
-Romanization of Cyrillic
 ISO 4157
 ISO 31-0
-ALA-LC romanization
-Ch'ari
 ISO 216
-Romanization of Belarusian
-Romanisation of Malayalam
 British Standard Pipe
 Georgian scripts
-Ini (Georgian letter)
-ISO/IEC 8859-16
-Hae (letter)
 ISO 9241
-Romanization of Persian
-Georgian numerals
 ISO 31
-ISO/IEC 27000
 MPEG-H
 JPEG XR
 ISO 3307
-ISO/IEC 8859-4
 Antimagnetic watch
-ISO/IEC 8859
-ISO/IEC 38500
-ISO 7027
-Romanization of Kyrgyz
-PDF/UA
 ISO 13485
 ISO 2711
 ISO 690
-Mtskheta
 Digraph (orthography)
 Geography Markup Language
 ISO 26000
 Magnetic ink character recognition
-ISO/IEC 646
 Geʽez script
-Rae (letter)
 MaxiCode
 MPEG-A
-Romanization of Arabic
 EXPRESS (data modeling language)
-Georgian calligraphy
 ISO 15398
 Hot shoe
-Romanisation of Maldivian
 ISO 22395
 International Standard Music Number
-Jani (letter)
-Kartvelian languages
 Knowledge Discovery Metamodel
 MPEG-G
 ISO 7002
 Object Constraint Language
 Quality function deployment
-Romanisation of Telugu
 ISO 7001
 Hazard symbol
-ISO/IEC 5218
 Prontor-Compur
-Proto-Georgian–Zan language
-Romanization of Greek
 HTML
-Oni (letter)
 FTAM
 List of ISO romanizations
-ISO/IEEE 11073
 ISO 28000
 ISO 5964
-Georgian script
 Linguistic categories
 Geospatial metadata
-ISO 14000
-ISO/IEC 8859-1
 Linux Standard Base
 ISO 10160
 ISO 7010
 ISO 19439
 ISO 31-1
 Advanced Video Coding
-Pari (letter)
 ISO 14224
-Lasi (letter)
-Sani (letter)
-ISO/IEC 17024
 ISO 11992
 Rectangular Micro QR Code
-Romanization of Thai
 International Bank Account Number
 ISO 10006
 ISO 25178
-ISO/IEC 8859-6
 Delivery Multimedia Integration Framework
-PDF/VT
 ISO 6344
 Motion JPEG 2000
-ISO/IEC 8859-3
 Open Data Protocol
 Photographic Activity Test
 ISO 6385
@@ -208,64 +125,43 @@ ISO 217
 ISO 16750
 135 film
 ISO 2033
-Old Georgian
 ISO 10303-21
 ISO 2145
 Open Virtualization Format
 PHIGS
-ISO 31-13
 ISO 639-1
 126 film
 ISO 5775
 ISO 31-6
-Khani (letter)
 ISO 2788
-ISO/IEC 80000
-ISO/IEC 7810
 LCEVC
 Common Language Infrastructure
 MPEG-4 Part 2
 ISO 10303-28
 JPEG XL
 MPEG-21
-Screeve
 Common Object Request Broker Architecture
 ISO 4031
-Proto-Kartvelian language
 International Phonetic Alphabet
-ISO/IEC 8859-7
-Romanization of Korean
-GOST 16876-71
-ISO/IEC 7811
 ISO 1
 ISO 3166
-ISO/IEC 8859-9
 ISO 22000
-Romanization
 ISO 2921
-Romanization of Russian
 Han Xin code
 ISO 21500
-Fi (letter)
 Document Style Semantics and Specification Language
-ISO/IEC 20000
 ISO 10161
-ISO 31-12
 ISO 2848
 ISO 7200
 ISO 21001
 International Standard Recording Code
-ISO/IEC 17025
-Romanization of Macedonian
 ISO 10007
 Open Document Architecture
 International Standard Name Identifier
 ISO 5776
 ISO 19011
 ISO 9897
-Adjaran dialect
 Flowchart
-Mani (letter)
 ISO 259
 Guidelines for the Definition of Managed Objects
 Digital object identifier
@@ -273,27 +169,20 @@ ISO 8501-1
 ISO 9564
 ISO 22300
 ISO-TimeML
-Romanization of Khmer
 ISO 732
 Legal Entity Identifier
-Romanisation of Bengali
 ISO 4
 DICOM
 Fiber Distributed Data Interface
 International Organization for Standardization
 Meta-Object Facility
-Romanization of Hebrew
 ISO 13567
 ISO 3103
 FDI World Dental Federation notation
 ISO 15926
 Mixed raster content
 ISO 3977
-Romanization of Burmese
-ISO/IEC 14651
-ISO/IEC 18014
 JPEG 2000
-ISO/IEC 7816
 File Allocation Table
 Shoe size
 ISO 1629
@@ -301,118 +190,81 @@ RELAX NG
 ISLISP
 ISO 31-4
 International Securities Identification Number
-PDF/E
 ISO 3166-3
 On-board diagnostics
 MPEG-2
 ISO 19114
-Doni (letter)
 ECMAScript
 MPEG-4 Part 11
 Office Open XML
-ISO/IEC 8859-2
-Kazakh alphabets
 ISO 5426
 Romanization of Armenian
-ISO/IEC 21827
 ArmSCII
 Horsepower
-Georgian dialects
 Longitudinal redundancy check
 ISO 3864
 ISO 898
 STEP-NC
 ISO 7736
 ISO 2709
-Romanization of Chinese
 Common Logic
-Gani (letter)
-PDF/X
 Simple Features
 ISO 8691
 ANSI escape code
 ISO 999
 ISBN
 C Sharp (programming language)
-P'ari
 ASMO 449
 ISO 639-2
 ISO 11940
-Georgian National Academy of Sciences
 ISO metric screw thread
-ISO/IEC 19770
 Graphical Kernel System
 MicroPDF417
 ISO 1745
 ISO base media file format
 ISBN (identifier)
 ISO 8178
-Georgian Wikipedia
 ISO 704
-ISO 19092-2
 ISO 31-10
 List of ISO standards
-ISO/IEC 27005
-Chinese language romanization in Taiwan
 Isofix
 Hole punch
 ISO 860
-Ie (letter)
 ISO-8859-8-I
 Salt spray test
 COBOL
 ISO 14644
-ISO/IEC 15504
 ISO 15919
 Latin script
 ISO 10628
 Minimal BASIC
 ISO 10303
-Kani (letter)
 ISO 5427
 A440 (pitch standard)
 ISO 639-5
 ISO 1000
-Hoe (letter)
-Romanization of Lao
-ISO/IEC 8859-12
-ISO/IEC 27000-series
 ISO 3166-1
 ISO 45001
-ISO/IEC 27001
 ISO 233
-Chini (letter)
 ISO 965
-ISO/IEC 19794-5
 ISO 2852
 ISO 10303-22
 ISO 14031
 ISO 31-8
-Georgian keyboard layout
-Romanization of Bulgarian
 ISO 6943
 ISO 8583
-ISO/IEC 10116
 Graph Query Language
 IS-IS
-Inuktitut syllabics
-ISO/TR 11941
 International Standard Atmosphere
 Power take-off
-He (Georgian letter)
 Market Identifier Code
 Romanization of Serbian
 ISO 20400
-ISO 9000
 JPEG XS
-ISO/IEC 8859-14
-ISO/IEC 9995
 Software maintenance
 ISO 31000
 Pinyin
 ECMAScript for XML
-ISO/IEC 7813
-Georgian conjugation
 ISO 11784 and ISO 11785
 ISO 25964
 ISO 5428
@@ -420,40 +272,27 @@ ISO 31-7
 ISO 639
 Computer Graphics Metafile
 ISO 657
-ISO/IEC 14443
 ISO 8601
 ISO 843
 ISO 13406-2
-ISO/IEC 8859-8
 International Standard Musical Work Code
 ISO 11170
-Laz grammar
 ISO 14971
-Ejectives
 List of IEC standards
 ISO 20121
 Common Criteria
 ISO 31-3
-Dzili
 Film speed
 RM-ODP
-Fuse (automotive)
-Georgian (Unicode block)
 ISO 18245
 ISO 7637
 C++
-Google translate
-ISO 19092-1
 ISO 668
 Ruby (programming language)
 MPEG-7
 CHILL
-ISO/IEC 8859-10
-Mingrelian language
 Aspirated consonant
 Prolog
-Caron
-Karto-Zan languages
 OCR-B
 110 film
 ISO 14698
@@ -461,40 +300,23 @@ ISO 3166-2
 MP4 file format
 ISO 11940-2
 MPEG-1
-Georgian Supplement
 ISO 31-11
-ISO/IEC 10967
-ISO/IEC 27002
-ISO 2047
-Social networks
-ISO/IEC 11404
-ISO/IEC 42010
 PDF417
-ISO/IEC 7064
-Q'ari
 Pascal (programming language)
 ISO 13584
-ISO/IEC 11179
-ISO/IEC 15693
 Requirements engineering
 ISO 6346
-Georgian Extended
 ISO 15189
 O-ring
 ISO 6709
-ISO/IEC 15897
-Devanagari transliteration
 Accuracy and precision
 ISO 17100
 ISO 26262
 Mac OS Georgian
 ISO 31-5
 ISO 15924
-OSI model
 Process Specification Language
-ISO/IEC 2022
 IATF 16949
 OCR-A
 Full BASIC
-ISO 8373
 International Standard Identifier for Libraries and Related Organizations

@@ -1,13 +1,8 @@
 Algebra
-Bernd Sturmfels
-Binomial coefficient
-Binomial distribution
-Binomial theorem
 Bivariate polynomial
 Completing the square
 Complex number
 Constant function
-Cube (algebra)
 Cubic equation
 Cubic function
 Degree of a polynomial
@@ -15,33 +10,24 @@ Difference of two squares
 Discriminant
 Eric W. Weisstein
 Exponentiation
-Factored
 Factorization of polynomials
 Gröbner basis
 Homogeneous polynomial
 Horner's method
 ISBN (identifier)
-Indeterminate (variable)
 Integer
 Irreducible polynomial
-Laurent polynomial
-Linda Bostock
 Linear equation
 Linear function (calculus)
-List of factorial and binomial topics
 MathWorld
 Monomial
 Multivariate polynomial
 Number
 Oxford University Press
-Pascal's triangle
 Polynomial
-Polynomial function
 Polynomial greatest common divisor
 Polynomial identity testing
 Polynomial long division
-Polynomial resultant
-Pythagorean triple
 Quadratic equation
 Quadratic function
 Quartic equation
@@ -50,13 +36,6 @@ Quasi-homogeneous polynomial
 Quintic function
 Septic equation
 Sextic equation
-Sparse polynomial
-Special case
 Square-free polynomial
-Square (algebra)
-Sue Chandler
 Trinomial
-Univariate
-Univariate polynomial
 Variable (mathematics)
-Zero polynomial

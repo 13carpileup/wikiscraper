@@ -1,51 +1,8 @@
-AFDX
-ARINC
-ARINC 615
-ARINC 629
-ARINC 664.7
-ARINC 708
-ARINC 828
-Actel
-Air data computer
-Airbus A380
-Avionics
 Balanced line
-Binary-coded decimal
-Binary Coded Decimal
-Binary number
-Bit-field
 Bit numbering
-Boeing 787
-CAN bus
-Data bus
-Data word
-EDN (magazine)
 Electromagnetic interference
 Electronic flight bag
-Endianness
-Flight management computer
-Frame (networking)
-GPS
-Inertial reference system
 Local area network
-MIL-STD-1553
-Most significant bit
-Octal
-Octet (computing)
-Ohm
-Parity bit
-Protocol analyzer
-Protocol data unit
-Radar altimeter
 Radio
-Return-to-zero
-Shift register
-Signal crosstalk
 Signed number representations
-Time-division multiple access
-Transceiver
 Twisted pair
-Two's-complement
-Two's complement
-Universal asynchronous receiver/transmitter
-Weather radar

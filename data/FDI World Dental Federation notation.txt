@@ -1,70 +1,50 @@
 ISO 56000
 Trusted Platform Module
-ISO/IEC 27000-series
-ISO/IEC 19794-5
 EXPRESS (data modeling language)
 DICOM
 Common Language Infrastructure
-Fuse (automotive)
 Unified Modeling Language
 ISO 22395
 Mixed raster content
 ISO 6346
 ISO 16750
-Mandibular third molar
 SQL
 ISO 55000
 ISO 657
 IATF 16949
 ISO 2709
-ISO/IEC 9797-1
 Shoe size
 Delivery Multimedia Integration Framework
-Maxillary canine
-ISO/IEC 7816
 ISO 7637
 ISO 14617
 ISO 2146
 CHILL
 Lexical Markup Framework
-Maxillary first premolar
-ISO/IEC 8859-11
 ISO 9564
 ISO 14971
 ISO 3864
 MPEG-D
 ISO 3166-3
 ISO 31-8
-ISO/IEC 11801
 ISO 50001
 ISO 15022
 ISO 28000
-ISO/IEC 27000
-ISO/IEC 20000
 PDF
-ISO/IEC 27002
-ISO/IEC 10967
 Equal-loudness contour
-PDF/X
 Kunrei-shiki romanization
-ISO/IEC 8859-3
 ISO 3166-2
 ISO 965
 ISO base media file format
 ISO 5428
 IS-IS
-Maxillary third molar
 ISO 14224
 Fiber Distributed Data Interface
 OCR-A
-ISO/IEC 15693
 ISO 233
 Pascal (programming language)
-ISO/IEC 8859-13
 Photographic Activity Test
 ISO 2852
 Accuracy and precision
-ISO/IEC 8859-8
 ISO 5427
 ISO 639-5
 MPEG-4 Part 2
@@ -75,7 +55,6 @@ ISO metric screw thread
 ISO 7001
 International Standard Musical Work Code
 ALGOL 60
-ISO 8373
 ISO 128
 ISO 1745
 International Standard Identifier for Libraries and Related Organizations
@@ -87,7 +66,6 @@ ISO 22000
 Essential Video Coding
 ISO 3166
 ISO 3307
-PDF/VT
 Salt spray test
 ISO 999
 ISO 8583
@@ -101,32 +79,23 @@ Vicat softening point
 Open Virtualization Format
 List of ISO romanizations
 ISO-TimeML
-ISO 9000
 ISO 10160
 135 film
 Renard series
 ISO 5964
 Topic map
-ISO/TR 11941
 United States
 JPIP
-ISO/IEC 8652
 ISO 19600
 International Standard Name Identifier
-ISO/IEC 17024
-ISO/IEC 6523
 International Standard Audiovisual Number
 Kappa number
-ISO/IEC 27006
 ISO 898
-ISO/IEC 14651
 ISO 4
 ISO 11940
 ISO 10161
 Standard Generalized Markup Language
 Common Object Request Broker Architecture
-ISO/IEC 19752
-ISO/IEC 9995
 MaxiCode
 ISO 2015
 MicroPDF417
@@ -136,65 +105,42 @@ Antimagnetic watch
 ISO 1000
 Open Data Protocol
 ISO 15919
-ISO/IEC 8859-15
 Z notation
 Linux Standard Base
 Advanced Video Coding
 Common Criteria
-ISO/IEC 38500
 Horsepower
 Computer Graphics Metafile
 ISO 4217
 Document Style Semantics and Specification Language
 Isofix
-ISO 31-13
-ISO/IEC 9529
-Universal numbering system (dental)
 ISO 5775
 List of ISO standards
 ISO 31-0
-ISO/IEC 15504
-ISO/IEC 8859-14
 MPEG-G
 ISLISP
-Palmer notation
 PDF417
 MPEG-4 Part 3
 ISO 31-3
-PDF/A
-Maxillary first molar
 ISO 2848
-ISO/IEC 27001
 ANSI C
-Dental notation
 ISO 14698
 ISO 10303-28
 COLLADA
 Longitudinal redundancy check
-Mandibular canine
 ISO 10006
 ISO 7736
 ECMAScript for XML
-ISO/IEC 8859-10
 POSIX
 PHIGS
 ISO 31
 ISO 216
-Language Of Temporal Ordering Specification
-ISO 19092-2
-ISO/IEC 17025
 QR code
 ISO 19114
 ISO 10303
-ISO 31-12
 Geography Markup Language
-ISO/IEC 5218
-Mandibular second molar
-ISO/IEC TR 12182
 ISO 31-6
-ISO/IEC 21827
 MPEG-A
-ISO/IEC 7064
 Guidelines for the Definition of Managed Objects
 O-ring
 MP4 file format
@@ -209,12 +155,9 @@ Magnetic ink character recognition
 ISO 2921
 Quality function deployment
 MPEG-1
-ISO/IEC 12207
-Maxillary second molar
 RELAX NG
 X.500
 ISO 860
-Maxillary lateral incisor
 Torx
 ISO 45001
 ISO 8501-1
@@ -222,24 +165,16 @@ ISO 639-2
 ISO 13399
 ISO 639-3
 Flowchart
-ISO/IEC 7811
-Mandibular second premolar
-World Health Organization
 ISO 31-4
 OCR-B
 ISO 9241
 ISO 13584
-ISO/IEC 15897
 Process Specification Language
-ISO/IEC 8859-12
 Hazard symbol
 ISO 15924
 ISO 14644
 Market Identifier Code
 ISO 21500
-Maxillary central incisor
-Mandibular first molar
-ISO/IEC 8859-7
 ISO 4031
 ISO 639
 ISO 4165
@@ -248,8 +183,6 @@ Simple Features
 MPEG-4
 RM-ODP
 ISO 217
-ISO/IEC 42010
-TIFF/EP
 List of IEC standards
 ECMAScript
 STEP-NC
@@ -262,15 +195,11 @@ ISO 31-1
 ISO 639-6
 On-board diagnostics
 ISO 31-11
-ISO 14000
 ISO 3977
-ISO/IEC 7812
 ISO 11992
 Romanization of Armenian
 ISO 10303-21
-FDI World Dental Federation
 File Allocation Table
-CAN bus
 ISO 31000
 126 film
 ISO 7200
@@ -285,30 +214,21 @@ ISO 22300
 ISO 1629
 ASMO 449
 Legal Entity Identifier
-ISO/IEC 15288
-ISO/IEC 9126
 ISO 11783
-Deciduous teeth
-OSI model
-ISO/IEC 10116
 ISO 2014
 LCEVC
 Web Content Accessibility Guidelines
-ISO/IEC 7813
 Business Process Model and Notation
 ISO 10303-22
 ISO 31-5
 Graph Query Language
 ISO 9
 ISO 9362
-Mandibular central incisor
 Motion JPEG 2000
 Multibus
 A440 (pitch standard)
 ISO 13406-2
-ISO/IEC 11179
 Common Logic
-Universal Numbering System
 Cloud Infrastructure Management Interface
 ISBN
 MPEG-H
@@ -323,16 +243,11 @@ ISO 2788
 ISO 843
 Requirements engineering
 MPEG-2
-ISO 7027
 Shock-resistant watch
-ISO/IEC 18014
 Whirlpool (hash function)
 ISO 7002
 ISO 4157
-ISO/IEC 8859-1
 ISO 15398
-ISO/IEC 8859-4
-PDF/UA
 JBIG
 Rectangular Micro QR Code
 JPEG XL
@@ -342,7 +257,6 @@ ISO 10628
 Universal Coded Character Set
 ISO 18245
 Software maintenance
-Mandibular lateral incisor
 ISO 20022
 ISO 639-1
 ISO 21001
@@ -351,27 +265,21 @@ ISO 9897
 ISO 704
 ISO 11170
 Full BASIC
-Hermann–Mauguin notation
 Prontor-Compur
 ISO 5776
 ISO 2145
 Dynamic Adaptive Streaming over HTTP
-ISO/IEC 19770
 Minimal BASIC
 Ada Semantic Interface Specification
 ISO 10218
 Graphical Kernel System
-ISO 12006
 OpenDocument
 ISO 668
 Han Xin code
 International Bank Account Number
 ISO-8859-8-I
-ISO/IEC 8859-16
 ISO 19011
 ISO 3166-1
-ISO 2047
-ISO/IEC 11404
 Geospatial metadata
 Hot shoe
 ISO 17100
@@ -379,52 +287,34 @@ ISO 7010
 Knowledge Discovery Metamodel
 MPEG-7
 ISO 19439
-ISO/IEC 8859-2
 International Standard Recording Code
 Water Resistant mark
-PDF/E
 COBOL
-Mandibular first premolar
 JPEG XS
 ISO 2033
 Office Open XML
 ISO 15686
-ISO/IEC 80000
 ISO 2711
 ISO 10962
-ISO/IEC 8859-5
-Permanent teeth
-International Standard Serial Number
 Prolog
 ISO 6344
-ISO 31-9
-ISO/IEC 646
 Romanization of Georgian
 ISO 13490
-ISO/IEC 2022
 Meta-Object Facility
 ISO 6385
 FTAM
 Object Constraint Language
-ISO/IEC 8859-6
 Ruby (programming language)
 SDMX
-ISO/IEC 7810
-ISO/IEC 27005
 ISO 31-7
-ISO/IEC 14443
-ISO/IEC 8859
 ISO 15926
 ISO 25178
 ISO 11784 and ISO 11785
 Linguistic categories
-ISO/IEC 8859-9
-ISO 19092-1
 Hole punch
 ISO 1
 HTML
 ISO 15189
-ISO/IEC 4909
 ISO 3103
 ISO 26262
 Pinyin
@@ -433,6 +323,4 @@ Film speed
 ISO 2
 C++
 ISO 10007
-ISO/IEEE 11073
 ISO 14031
-Maxillary second premolar

@@ -1,5 +1,3 @@
-/e/ (operating system)
-10-foot user interface
 4MLinux
 ALT Linux
 ATI Technologies
@@ -8,7 +6,6 @@ Alpine Linux
 Amazon Fire TV
 Android-x86
 Android (operating system)
-Android TV
 Antergos
 AntiX
 Apple TV
@@ -23,14 +20,12 @@ Austrumi Linux
 BLAG Linux and GNU
 BackBox
 BackTrack
-Beyond TV
 Bharat Operating System Solutions
 BioSLAX
 BlackArch
 Black Lab Linux
 BlankOn Linux
 Bodhi Linux
-Boxee Box
 CD-ROM
 CHAOS (operating system)
 CRUX
@@ -42,50 +37,35 @@ CentOS Stream
 Chakra (operating system)
 Chimera Linux
 ChromeOS
-Chromecast
 ChromiumOS
 ClearOS
 Clear Linux OS
 ColorOS
 Commodore OS
 Comparison of Linux distributions
-Comparison of USB tv tuner sticks
-Comparison of audio player software
-Comparison of streaming media systems
-Comparison of video player software
 Container Linux
 Corel Linux
 CrDroid
-Cross-platform
 CrunchBang Linux
 Cub Linux
 CyanogenMod
-DBox2
-DVBViewer
-DVB Dream
 Damn Small Linux
 Damn Vulnerable Linux
 Debian
 Deepin
 DemoLinux
 Devuan
-Digital Living Network Alliance
-Digital media player
 DivestOS
 DoudouLinux
-Dreambox
 Dreamlinux
 EMUI
 Edubuntu
 Elementary OS
 Elive
-Emby
 Emmabuntüs
 EndeavourOS
 Endless OS
-Enlightenment (software)
 EulerOS
-EyeTV
 Familiar Linux
 Feather Linux
 Fedora Linux
@@ -95,58 +75,38 @@ Floppyfw
 Foresight Linux
 FreedomBox
 Freespire
-Front Row (software)
-Front and back ends
 Frugalware Linux
-GB-PVR
 GNU Guix System
 GNewSense
 GOS (operating system)
 Garuda Linux
 GeckoLinux
-GeeXboX
 Gentoo Linux
 GoboLinux
 Gobuntu
-Google TV (operating system)
 GrapheneOS
 Graphical user interface
-HDHomeRun
-HP MediaSmart Connect
 HandyLinux
-Hauppauge Computer Works
-Hauppauge MediaMVP
-High-definition television
-Home cinema
-Home theater PC
-Hybrid Broadcast Broadband TV
-Hyperbola GNU/Linux-libre
 Immunix
 IodéOS
-JRiver Media Center
-Jellyfin
 Jurix
 KDE neon
 KaOS
 KaiOS
 Kaisen Linux
-Kaleidescape
 Kali Linux
 Kanotix
 KateOS
 Knoppix
-Kodi (software)
 Kongoni (operating system)
 Korora (operating system)
 Kubuntu
 Kwort Linux
 LXLE Linux
 Libranet
-LibreELEC
 LineageOS
 Linpus Linux
 Linux
-LinuxMCE
 LinuxTLE
 Linux Caixa Mágica
 Linux Lite
@@ -155,31 +115,21 @@ Linux Router Project
 Linux distribution
 Linux for PlayStation 2
 List of Linux distributions
-List of free television software
 Lubuntu
 MCC Interim Linux
 MIUI
 MX Linux
 MacOS
-Mac Mini
 Mageia
 Mandrake Linux
 Mandriva Linux
 Manjaro
-MediaPortal
-Media server
-Mediaroom
 MeeGo
 Mer (software distribution)
 Microsoft Windows
 Miracle Linux
 Mobilinux
-Monsoon HAVA
-Musix GNU+Linux
-MythTV
-Mythbuntu
 Natural language
-Netgear Digital Entertainer
 Network Security Toolkit
 NimbleX
 Nitix
@@ -196,18 +146,14 @@ Open Enterprise Server
 Oracle Linux
 PCLinuxOS
 Package manager
-Pacman (package manager)
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
 Pentoo
 Peppermint OS
-Personal video recorder
 Pinguy OS
 PixelExperience
 Platypux
-Plex (software)
 Pop! OS
 Porteus (operating system)
 Programmer
@@ -215,14 +161,12 @@ Puppy Linux
 PureOS
 Q4OS
 Qubes OS
-Quiet PC
 ROSA Linux
 Raspberry Pi OS
 Red Hat Enterprise Linux
 Red Hat Linux
 Red Star OS
 Remix OS
-ReplayTV
 Replicant (operating system)
 Resurrection Remix OS
 Rocks Cluster Distribution
@@ -233,16 +177,11 @@ SUSE Linux Enterprise
 SUSE Studio
 Sabayon Linux
 Sabily
-SageTV
 Sailfish OS
 Salix OS
 Scientific Linux
-Serviio
-Set-top box
-ShowShifter
 Slackware
 Slax
-Slingbox
 Smart TV
 Softlanding Linux System
 Software release life cycle
@@ -251,23 +190,18 @@ SolydXK
 Source Mage
 SparkyLinux
 Splashtop OS
-Standard-definition television
 SteamOS
-Streaming television
 Sunwah Linux
 SystemRescue
 T2 SDE
 Tails (operating system)
 Think Blue Linux
-TiVo
 Tiny Core Linux
 Tizen
 TopologiLinux
-Touchscreen remote control
 Trisquel
 Turbolinux
 Turkix
-Tvheadend
 Ubuntu
 Ubuntu Budgie
 Ubuntu Cinnamon
@@ -278,23 +212,13 @@ Ubuntu Studio
 Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
-Unibox
 Unity Operating System
-Universal Media Server
-Unix-like
-Uruk GNU/Linux
 User interface
-VBox Home TV Gateway
 VectorLinux
-Video Disk Recorder
 Video game console
-Video player (software)
 Vine Linux
 Void Linux
-WD TV
 Whonix
-Windows Media Center
-Windows Media Center Extender
 Wubuntu
 XB Machine
 Xubuntu

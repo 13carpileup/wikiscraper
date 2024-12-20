@@ -1,48 +1,25 @@
-.NET Framework
-ABC 80
 ACM Computing Classification System
-ALGOL
-Abstract syntax tree
 Abstraction (computer science)
-Adaptive optimization
-Ahead-of-time compilation
 Algorithm
 Algorithm design
 Algorithmic efficiency
 Analysis of algorithms
-Android Runtime
 Application security
 Ars Technica
 Artificial intelligence
-Assembler (computing)
 Assembly language
 Automata theory
 Automated planning and scheduling
 BASIC
-BASIC interpreter
-BASIC programming language
-BEAM (Erlang virtual machine)
-Bootstrapping (compilers)
-Branch (computer science)
 Byte
 Bytecode
 C++
 COBOL
 CPU
-CPython
 C (programming language)
 Central processing unit
-Channel I/O
-CiteSeerX (identifier)
 Clang
-Closure (computer science)
-Command-line interpreter
 Command (computing)
-Command language
-Common Language Runtime
-Compile and go system
-Compile time
-Compiled language
 Compiler
 Compiler construction
 Computability theory
@@ -70,29 +47,20 @@ Computing
 Computing platform
 Concurrency (computer science)
 Concurrent computing
-Control flow
-Control table
 Control theory
 Control variable (programming)
 Copyright
 Cross-validation (statistics)
-Cross compiler
-Crt0
 Cryptography
 Cyberwarfare
 Data mining
 Database
-Debugger
 Decision support system
 Decompiler
-Denotational semantics
 Dependability
-Development speed
 Digital art
 Digital library
 Digital marketing
-Digital processing
-Digital signal processor
 Disassembler
 Discrete mathematics
 Disk controller
@@ -101,48 +69,29 @@ Distributed computing
 Document management system
 Doi (identifier)
 Domain-specific language
-Donald Knuth
-Dynamic compilation
-Dynamic recompilation
 E-commerce
 Educational technology
 Electronic design automation
 Electronic publishing
 Electronic voting
 Electronics
-Emacs Lisp
 Embedded system
 Embedded systems
-Emulator
 Encryption
 Enterprise information system
 Enterprise software
-Executable
-Execution (computers)
-Execution (computing)
-Execution unit
 Form factor (design)
 Formal language
 Formal methods
-Forth (programming language)
-Fortran
-Free On-line Dictionary of Computing
 GNU Compiler Collection
-GNU Free Documentation License
 Garbage collection (computer science)
 Geographic information system
-Glue language
 Graphics processing unit
 Green computing
-Hackers & Painters
 Hardware acceleration
 Hardware security
 Health informatics
-High-level language
-High-level programming language
-Homoiconicity
 Human–computer interaction
-IBM 704
 ISBN (identifier)
 ISSN (identifier)
 Image compression
@@ -150,95 +99,58 @@ Information retrieval
 Information security
 Information system
 Information theory
-Instruction (computer science)
 Integrated circuit
 Integrated development environment
 Interaction design
-Intermediate representation
-Interpreted language
 Intrusion detection system
 JavaScript
 Java (programming language)
 Java platform
-Java virtual machine
-John McCarthy (computer scientist)
-Jump table
-Just-in-time compilation
-Keyword (computer programming)
 Knowledge representation and reasoning
-LLVM
-Lexical analysis
 Library (computing)
-Linker (computing)
 Lisp (programming language)
-Lisp programming language
 List of computer size categories
 Logic in computer science
-LuaJIT
 MATLAB
-Machine code
 Machine language
 Machine learning
-Make (software)
 Mathematical analysis
 Mathematical optimization
 Mathematical software
-Matlab
-Memory management
-Meta-circular evaluator
 Metaprogramming
-Michael Franz
 Microarchitecture
-Microcode
 Microcontroller
 Microsoft Visual C++
 Middleware
-Militärverlag der Deutschen Demokratischen Republik
 Mixed reality
 Model of computation
 Modeling language
-Mono (software)
 Multi-task learning
 Multimedia database
 Multiprocessing
 Multithreading (computer architecture)
-NOR flash
 Natural language processing
 Network architecture
-Network interface controller
 Network performance
-Network processor
 Network protocol
 Network scheduler
 Network security
 Network service
 Networking hardware
-Node.js
 Numerical analysis
-Obfuscation
-Object code
 Objective-C
 Open-source software
-Open Firmware
 Operating system
 Operation (mathematics)
-Operational semantics
 Operations research
-Optimizing compiler
 Outline of computer science
-PBASIC
 Parallel computing
-Parse
-Parse tree
-Parser
 Partial evaluation
 Pascal (programming language)
-Paul Graham (computer programmer)
 Peripheral
 Perl
 Philosophy of artificial intelligence
 Photograph manipulation
-Precompilation
 Printed circuit board
 Probability
 Process control
@@ -249,30 +161,20 @@ Programming paradigm
 Programming team
 Programming tool
 Prolog
-PyPy
 Python (programming language)
 Quantum Computing
-Radio-fernsehn-elektronik
-Raku (programming language)
 Randomized algorithm
-Read–eval–print loop
 Real-time computing
 Reinforcement learning
 Rendering (computer graphics)
 Requirements analysis
 Ruby (programming language)
-Run time (program lifecycle phase)
-Runtime system
 S2CID (identifier)
-Sandbox (computer security)
-Scheme (programming language)
 Scripting language
 Security hacker
 Security service (telecommunication)
-Self-hosting (compilers)
 Self-modifying code
 Semantics (computer science)
-Smalltalk
 Social computing
 Social software
 Software bug
@@ -281,7 +183,6 @@ Software construction
 Software deployment
 Software design
 Software development
-Software development cycle
 Software development process
 Software engineering
 Software framework
@@ -290,48 +191,25 @@ Software portability
 Software quality
 Software repository
 Solid modeling
-Source-to-source compiler
 Source code
-Stack machine
-State machine
-Statement (computer science)
-Static library
 Statistics
 Steve Russell (computer scientist)
 Stochastic computing
-Structure and Interpretation of Computer Programs
 Supervised learning
-Swift (programming language)
-Symbol table
 System on a chip
 TeX
 Theoretical computer science
 Theory of computation
-Threaded code
-Three-address code
-Token threading
-Tracing just-in-time compilation
-Translator (computing)
-Turing completeness
-Type checking
-Typesetting
-UCSD Pascal
 Ubiquitous computing
 Unified Modeling Language
 Unsupervised learning
-V8 (JavaScript engine)
 VHDL
-Variable-length code
 Variable (computer science)
 Very Large Scale Integration
 Video game
 Virtual machine
 Virtual reality
-Virtualization
 Visualization (graphics)
-WEB
 Wayback Machine
-Word length
 Word processor
 World Wide Web
-Zend Engine

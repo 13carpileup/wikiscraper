@@ -1,263 +1,118 @@
 Abel–Ruffini theorem
 Absolute value
-Addison-Wesley
 Addition
 Algebra
-Algebra (ring theory)
-Algebraic element
 Algebraic equation
 Algebraic expression
-Algebraic fraction
-Algebraic function
 Algebraic geometry
 Algebraic variety
 Algorithm
-Allyn and Bacon
-Analysis (mathematics)
-Analytic function
-Antiderivative
-Argument of a function
 Associative algebra
-Associative law
 Associative property
-Asymptote
-B-spline
 Bijection
-Binary relation
 Binomial (polynomial)
 Bivariate polynomial
-Boolean-valued function
 Boolean function
 Calculus
-Calculus with polynomials
 Cambridge University Press
 Characteristic polynomial
 Chemistry
-Chromatic polynomial
 Coefficient
-Commutative law
 Commutative property
 Commutative ring
-Compact space
-Complex-valued function
 Complex number
 Computational complexity theory
 Computer
-Computer algebra system
 Constant (mathematics)
 Constant function
-Constant term
-Continuous function
 Cubic equation
 Cubic function
 Decimal
 Degree of a polynomial
 Derivative
-Differentiable function
 Diophantine equation
-Discrete Fourier transform
 Discriminant
-Distributive law
 Distributive property
 Doi (identifier)
-Domain (function)
 Domain of a function
 Economics
 Eigenvalue
-Eisenstein's criterion
 Encyclopedia of Mathematics
-Entire function
-Equality (mathematics)
 Equation
 Equation solving
 Eric W. Weisstein
-Euclidean division
-Euclidean division of polynomials
-Euclidean domain
 European Mathematical Society
-Exponential polynomial
 Exponentiation
 Expression (mathematics)
 Factorization of polynomials
 Fermat's Last Theorem
-Fermat's little theorem
 Field (mathematics)
 Finite field
-Formal power series
-Fourier series
 Function (mathematics)
 Function composition
-Function of a complex variable
-Function of a real variable
-Function of several complex variables
-Function of several real variables
-Function space
-Functional notation
-Functor
 Fundamental theorem of algebra
 Galois theory
 Gaussian elimination
-Golden ratio
 Graduate Texts in Mathematics
 Graph (discrete mathematics)
 Graph of a function
 Group theory
 Gröbner basis
-Higher-order function
-Hilbert's tenth problem
-History of mathematical notation
-History of the function concept
-Homogeneous function
 Homogeneous polynomial
 Horner's method
-Houghton Mifflin Company
-Hybrid word
 ISBN (identifier)
 Ideal (ring theory)
 Identity (mathematics)
-Identity function
 Identity matrix
 Image (mathematics)
-Implicit function
-Indeterminate (variable)
-Infinity
 Injective function
 Integer
-Integer-valued function
-Integral domain
-Interpolation
-Interval (mathematics)
-Inverse function
-Irrational number
 Irreducible polynomial
-LCCN (identifier)
 Lambda calculus
-Laurent polynomial
-Linear combination
 Linear equation
 Linear function (calculus)
 Linear map
-List of mathematical functions
-List of polynomial topics
-List of trigonometric identities
-MR (identifier)
 MathWorld
 Mathematical object
 Mathematics
-Matrix polynomial
-Matrix ring
-Measurable function
-Michael J. D. Powell
-Michael Stifel
-Michiel Hazewinkel
-Minimal polynomial (field theory)
-Modular arithmetic
-Monic polynomial
 Monomial
-Morphism
 Multiplication
-Multiplicity (mathematics)
-Multivalued function
 Multivariate polynomial
-Natural number
 Niels Henrik Abel
-Non-negative integer
-Nonnegative integer
 Number
 Numerical analysis
-Numerical approximation
-OpenStax
-Ordered pair
-Orthogonal polynomials
-Parabola
-Parabolic branch
-Partial function
-Pearson Prentice Hall
-Periodic function
 Physics
-Polynomial equation
 Polynomial evaluation
-Polynomial expansion
-Polynomial function
 Polynomial greatest common divisor
 Polynomial identity testing
-Polynomial interpolation
 Polynomial long division
-Polynomial remainder theorem
-Polynomial resultant
 Polynomial ring
-Polynomial time
-Positional notation
-Power series
-Prime number
-Prindle, Weber and Schmidt
 Product (mathematics)
-Properties of polynomial roots
 Quadratic equation
 Quadratic formula
 Quadratic function
-Quadratic polynomial
 Quartic equation
 Quartic function
 Quasi-homogeneous polynomial
 Quintic function
-Quotient
-Radix
-Rational fraction
 Rational function
-Rational number
-Real-valued function
-Real function
 Real number
 Relation (mathematics)
 René Descartes
-Restriction (mathematics)
-Restriction of a function
 Ring (mathematics)
-Ring homomorphism
-Ring of polynomial functions
-Robert Recorde
-Root-finding algorithm
-Root-finding of polynomials
-Root of a function
 Ruffini's rule
 S2CID (identifier)
 Septic equation
 Sequence
-Serge Lang
-Set-valued function
 Sextic equation
-Slope
-Smooth function
-Social science
-Society for Industrial and Applied Mathematics
-Spline (mathematics)
-Spline interpolation
 Square-free polynomial
 Square matrix
-Stone–Weierstrass theorem
-Substitution (algebra)
 Subtraction
-Summand
-Summation
 Surjective function
-Synthetic division
 System of linear equations
-System of polynomial equations
-Taylor's theorem
 The Nine Chapters on the Mathematical Art
-The Whetstone of Witte
-Trigonometric interpolation
-Trigonometric polynomial
 Trinomial
-Unique factorization domain
-Unit (ring theory)
-Unital algebra
-Univariate polynomial
 Variable (mathematics)
-Vieta's formulas
 Word problem (mathematics education)
-Zbl (identifier)
 Zero of a function
-Zero polynomial
 Évariste Galois

@@ -1,500 +1,147 @@
-1-bit computing
-12-bit computing
-128-bit computing
-16-bit computing
-18-bit computing
-24-bit computing
-256-bit computing
-32-bit computing
-36-bit computing
-3DNow!
 4-bit computing
-48-bit computing
-4K Disk Monitor System
-512-bit computing
 64-bit computing
-8-bit computing
-AArch64
-ACPI
-AES instruction set
-AI accelerator
-AMD Am29000
-API NetWorks
-ARC (processor)
-ARM architecture family
-ASCI Q
-AT&T Hobbit
-AVR32
-AVR microcontrollers
-AVX-512
-AVX10
-AVX2
 Abstract machine
-Adapteva
-Adder (electronics)
-Address decoder
-Address generation unit
-Addressing mode
 AdvFS
-Advanced Matrix Extensions
-Advanced Power Management
-Advanced Synchronization Facility
-Advanced Vector Extensions
-Alan Eustace
-AlphaServer
-AlphaStation
 Alpha 21064
 Alpha 21164
 Alpha 21264
 Alpha 21364
 Alpha 21464
-Alpha and Omega
 AltaVista
-Alternating Turing machine
-AltiVec
-Analog Devices
-Analogue electronics
-Apollo Guidance Computer
-Apollo PRISM
-Application-specific instruction set processor
-Application-specific integrated circuit
-Arithmetic logic unit
-Arithmetic shift
-Atmel
 BASIC-8
-Barrel processor
-Barrel shifter
-Baseband processor
-Benjamin M. Rosen
-Berkeley RISC
-Berkeley Software Distribution
 Bibcode (identifier)
-Bill Murto
-Binary decoder
-Binary multiplier
 Bit-level parallelism
-Bit-serial architecture
-Bit Manipulation Instruction Sets
-Bit manipulation
-Bit slicing
 Bitwise operation
-Blackfin
-Boolean circuit
-Branch delay slot
-Branch predictor
-Branch target predictor
-Brian Reid (computer scientist)
 Bus (computing)
 Byte
-CLMUL instruction set
-CMOS
 CPU Wars
-CPU cache
-CPU multiplier
 CVAX
 Cache (computing)
 Cache coherence
-Cache hierarchy
-Cache performance measurement and metric
-Cache replacement policies
-Cellular architecture
 Cellular automaton
 Central processing unit
 Character encoding
-Chip carrier
-Circuit (computer science)
-CiteSeerX (identifier)
-Classic RISC pipeline
-Clipper architecture
-Clock gating
-Clock rate
-Clock signal
 Code page 1287
 Code page 1288
-Cognitive computing
-Combinational logic
 Commercial Operating System
-CompactRISC
 Compaq
-Compaq Aero
-Compaq Armada
-Compaq C series
-Compaq Concerto
-Compaq Contura
-Compaq Deskpro
-Compaq Deskpro 386
-Compaq Evo
-Compaq LTE
-Compaq LTE (1st generation)
-Compaq LTE 5000 series
-Compaq LTE Elite
-Compaq LTE Lite
-Compaq Portable
-Compaq Portable 286
-Compaq Portable 386
-Compaq Portable 486
-Compaq Portable II
-Compaq Portable III
-Compaq Portable Plus
-Compaq Portable series
-Compaq Presario
-Compaq Presario 1200
-Compaq Presario R3000
-Compaq ProLinea
-Compaq ProSignia
-Compaq Professional Workstation
-Compaq SLT
-Compaq SystemPro
-Compaq tc1000
-Comparison of instruction set architectures
-Complex instruction set computer
-Complex programmable logic device
 Computer architecture
 Computer data storage
 Computer hardware
-Computer performance
-Computer performance by orders of magnitude
 Computer terminal
-Conditional move
-Control flow
-Control hazard
-Control unit
-Cooperative multitasking
 Coprocessor
-Counter (digital)
-Counter machine
 Cray
-Cray T3D
-Cray T3E
-Cryptographic accelerator
-Cycles per instruction
-Cypress PSoC
-DECSYSTEM-20
 DECUS
-DEC 3000 AXP
-DEC 4000 AXP
-DEC 7000/10000 AXP
-DEC 7000 AXP and DEC 10000 AXP
-DEC BATCH-11/DOS-11
-DEC Firefly
 DEC GT40
 DEC Hebrew
 DEC J-11
 DEC MICA
-DEC Multia
 DEC PRISM
-DEC Professional
 DEC RADIX 50
 DEC Special Graphics
 DEC Systems Research Center
 DEC T-11
 DEC Technical Character Set
 DEC V-11
-DECmate
 DECnet
-DECpc
-DECpc AXP 150
-DECstation
-DECsystem
 DECtalk
 DECtape
 DECwriter
 DIBOL
 DIGITAL Command Language
 DVD
-Data (computing)
-Data buffer
-Data cache
 Data dependency
 Data parallelism
 Dataflow architecture
-Datapath
 Debian
-Demultiplexer
-Deterministic finite automaton
 Device driver
-Die (integrated circuit)
 Digital Equipment Corporation
 Digital Federal Credit Union
-Digital HiNote
 Digital Linear Tape
-Digital Personal Workstation
 Digital Storage Systems Interconnect
-Digital UNIX
-Digital electronics
-Digital signal processor
-Distributed architecture
 Doi (identifier)
-Due diligence
 Dynamic debugging technique
-Dynamic frequency scaling
-Dynamic voltage scaling
 Dynamically Redefined Character Set
-ESi-RISC
-ETRAX CRIS
-Electronic circuit
 Embedded system
-Emitter coupled logic
-Endianness
-Execution unit
-Explicit data graph execution
-Explicitly parallel instruction computing
-Extended Industry Standard Architecture
-F16C
-FIFO (computing and electronics)
-FLOPS
-FMA instruction set
 FOCAL (programming language)
 FX!32
-Fabric computing
-False sharing
 Field-programmable gate array
-Field-programmable object array
 Finite-state machine
-Finite-state machine with datapath
 Firefly (cache coherence protocol)
 Flip-Chip module
-Floating-point unit
-Floating point
 Flynn's taxonomy
-Frame buffer
 FreeBSD
-Futurebus
-Gate array
 General-purpose computing on graphics processing units
-General-purpose register
 Gentoo Linux
-Glowing pickle demonstration
-Glue logic
 Gold key (DEC)
 Gordon Bell
 Graphics processing unit
 HP-Interex
-HP 9000
-HP Compaq
-HP Compaq Elite
-HP Compaq Pro
-HP Compaq tc1100
-HP Inc.
-Hardware-assisted virtualization
 Hardware acceleration
-Hardware register
 Hardware security module
-Hardwired control unit
 Harlan Anderson
-Harvard architecture
-Hazard (computer architecture)
-Heterogeneous System Architecture
-Heterogeneous computing
-Hewlett-Packard
-Hewlett Packard Enterprise
-Hierarchical state machine
-History of general-purpose CPUs
-Hyper-threading
-Hypercomputation
-IA-64
-IBM 801
-IBM POWER architecture
-IBM ROMP
-IBM System/360 architecture
-IBM System/370
-IBM System/390
 IEEE 754
-IEEE Spectrum
-IPAQ
-IPAQ (desktop computer)
 ISBN (identifier)
 ISSN (identifier)
-Image processor
-Imagination META
 Instruction-level parallelism
-Instruction cache
-Instruction cycle
-Instruction decoder
 Instruction pipelining
-Instruction set
 Instruction set architecture
-Instruction unit
 Instructions per cycle
-Instructions per second
 Integrated circuit
 Intel
-Intel ADX
-Intel MPX
-Intel SHA extensions
-Intel XScale
-Intel i860
-Intel i960
 Intellectual property
 Interactive Application System
-Interrupt
-Itanium
-Itsy Pocket Computer
-Jim Harris (entrepreneur)
-Joel Emer
-Jupiter project
 Ken Olsen
 Kernel (operating system)
-L4 microkernel family
-LINC
-LINC-8
 LK201
 LK421
-LatticeMico32
-LatticeMico8
-Least significant bit
 Linux
-List of VAX computers
-Little man computer
-Load–store
-Load–store architecture
-Load–store unit
 Local Area Transport
 Logic gate
 Logical NOR
 Logical conjunction
 Logical disjunction
-Logical shift
-Longword
-M32R
 MACRO-10
 MACRO-11
-MDMX
-MIPS-3D
-MIPS-X
 MIPS architecture
-MMX (instruction set)
 MPEG-2
-MSN Companion
 MUMPS
 Maintenance Operations Protocol
 Manycore processor
 Mass Storage Control Protocol
 Massbus
 Massively parallel
-Media Extension Unit
 Memory-level parallelism
-Memory address register
-Memory buffer register
-Memory controller
-Memory dependence prediction
 Memory hierarchy
-Memory management unit
-Michael Capellas
-MicroBlaze
-MicroVAX
 MicroVAX 78032
 Microarchitecture
-Microcode
-Microcom
 Microcontroller
 Microprocessor
-Microprocessor Report
-Microprocessor chronology
-Microway
-Minimal instruction set computer
-Mixed-signal integrated circuit
-Mobile processor
 Model of computation
-Modified Harvard architecture
-Motherboard
-Motorola 68000 series
-Motorola 68020
-Motorola 88000
-Multi-chip module
-Multi-core processor
-Multimedia Acceleration eXtensions
 Multinational Character Set
 Multiple instruction, multiple data
 Multiple instruction, single data
-Multiplexer
 Multiprocessing
-Multiprocessor
-Multiprocessor system on a chip
 Multithreading (computer architecture)
-M·CORE
 NVAX
 National Replacement Character Set
 NetApp
 NetBSD
-Network-attached storage
-Network on a chip
-Network processor
-Neuromorphic engineering
-No instruction set computing
 Non-uniform memory access
-NonStop (server computers)
-Nondeterministic Turing machine
-OS/8
-Octaword
 On-line Debugging Tool
-One-instruction set computer
-OpenBSD
-OpenRISC
 OpenVMS
-Operand forwarding
 Operating system
-Original Intel Pentium (P5 microarchitecture)
 Original equipment manufacturer
-Orthogonal instruction set
-Out-of-order execution
-PA-8000
-PA-8600
-PA-RISC
 PALcode
-PC motherboard form factor
 PDF
-PDP-1
-PDP-10
-PDP-11
 PDP-11 architecture
-PDP-12
-PDP-14
-PDP-15
-PDP-4
-PDP-5
-PDP-6
 PDP-7
-PDP-8
-PDP-8/e
-PDP-9
-PS/2 connector
-Package on a package
 Parallel computing
-Pentium II
-Pentium III
-Pentium Pro
-Performance per watt
-Peripheral Component Interconnect
 Personal computer
-Physics processing unit
-PicoBlaze
-Pin grid array
-Pipeline stall
-Plan 9 from Bell Labs
 Pocket PC
-Pointer machine
-Post–Turing machine
-PowerPC
-Power ISA
-Power Management Unit
 Power management
-Power management integrated circuit
 Preemption (computing)
-ProLiant
-Probabilistic Turing machine
 Process (computing)
 Processor (computing)
-Processor design
-Processor register
-Processor supplementary capability
-Program counter
-Programmable Array Logic
-Programmed Data Processor
 Programming language
 Q-Bus
-Quadword
-Quantum Turing machine
-Quantum cellular automaton
-Quantum circuit
-Quantum computing

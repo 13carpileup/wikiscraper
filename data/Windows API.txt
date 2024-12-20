@@ -1,724 +1,83 @@
-.NET
-.NET Framework
-.NET Remoting
-.exe
-16-bit computing
-32-bit computing
 64-bit computing
-AArch64
-ADO.NET
 API
-ASP.NET
-Abstract Window Toolkit
-Access Database Engine
-Action Center
-ActiveMovie
-ActiveX
-ActiveX Data Objects
-ActiveX Document
-Active Directory
-Active Directory Rights Management Services
-Active Scripting
-Active Template Library
 Adobe Flash
-Allegro Common Lisp
-AmigaOS
 Android (operating system)
-Android Studio
-Android software development
-Apache Flex
-AppLocker
-App Installer
-Application Programming Interface for Windows
-Application framework
-Application software
-Architecture of Windows 9x
-Architecture of Windows NT
-Architecture of the Windows NT operating system line
-AutoPlay
-AutoRun
-Axure RP
-BOOPSI
-Background Intelligent Transfer Service
-Backup and Restore
 Backward compatibility
-BeOS
-BeOS API
-Bedrock (framework)
-BitLocker
-Booting process of Windows
-Borland
-Borland Kylix
-Broadcast Driver Architecture
-Browser Helper Object
-Button (computing)
 C++
-C++/WinRT
-C++Builder
-CA-Realizer
-CAPICOM
-CDK (programming library)
-CD Player (Windows)
-CEGUI
-COMMAND.COM
-COM Structured Storage
 C (programming language)
-Calendar (Windows)
-Callback (computer programming)
-Calling convention
-Carbon (API)
-Cardfile
-Character Map (Windows)
-Charles Petzold
-Chess Titans
-City Art Search
-Clarion (programming language)
-Class (computer science)
 Classic Mac OS
-ClearType
-Client/Server Runtime Subsystem
-Clipchamp
-Cmd.exe
-Cocoa (API)
-Cocoa Touch
 CodeLite
-Codebase
 Common Language Infrastructure
-Common Lisp
-Common Lisp Interface Manager
-Common Log File System
-Compatibility layer
 Component-based software engineering
-Component Library for Cross Platform
-Component Object Model
-Composite UI Application Block
-Computer display
 Computer hardware
 Computer network
-Computer printer
 Computer program
-Control Panel (Windows)
-Cortana (virtual assistant)
-Credential Guard
-Cross-platform Audio Creation Tool
-Cygwin
-D3DX
 DOS
-DOS API
-DVD Player (Windows)
-Dart (programming language)
-Data Execution Prevention
-Data Protection API
-Delphi (programming language)
-Delphi (software)
-Desktop Cleanup Wizard
-Desktop Window Manager
-Device Manager
 Device driver
-Dialog (software)
-Dialog box
-Digital Mars
-Direct2D
-Direct3D
-DirectInput
-DirectMusic
-DirectPlay
-DirectShow
-DirectSound
-DirectWrite
 DirectX
-DirectX Diagnostic Tool
-DirectX Graphics Infrastructure
-DirectX Media Objects
-DirectX Video Acceleration
-DirectX plugin
-Disk Cleanup
-Distributed Component Object Model
-Distributed File System (Microsoft)
-Dojo Toolkit
-DosWin32
-DriveSpace
-Driver Verifier
-Dynamic-link library
-Dynamic Data Exchange
-ECMA-234
-Echo (framework)
 Eclipse (software)
 Ecma International
-Embedded Wizard
-Encrypting File System
-Enhanced Write Filter
-Enlightenment Foundation Libraries
-Entity Framework
-Error handling
-Event Viewer
-ExFAT
 Exception handling
-Ext JS
-Extensible Application Markup Language
-Extensible Storage Engine
-FASM
-FLTK
-FLUID
-FXML
-Feedback Hub
 File Allocation Table
-File Explorer
-File Replication Service
-File extension
 File system
-FireMonkey
-Flutter (software)
-Folder redirection
-Fox toolkit
-FpGUI
-Framework Class Library
-FreeBASIC
-Free Pascal
-Free and open-source software
 Free software
 Freeware
-Full Tilt! Pinball
-Function call
-Fyne (software)
-GDI+
-GDK
 GNU Compiler Collection
-GNUstep
-GTK
-Gambas
 Games for Windows
-Gdi32.dll
-Get Help
-Glade Interface Designer
 Go (programming language)
-Google Closure Tools
-Google Web Toolkit
-Gorm (computing)
 Graphical user interface
 Graphical user interface builder
-Graphics Device Interface
-Groove Music
-Group Policy
-Gtk Sharp
-Gtkmm
-HX DOS Extender
-Haiku (operating system)
-Hard link
 Haskell
-Hello world program
-Help and Support Center
-High Performance File System
-Hover!
-Hyper-V
-HyperACCESS
-I/O request packet
-IA-64
-IExpress
-IFilter
-IP Pascal
 ISBN (identifier)
 ISO 9660
-IUP (software)
-Image Mastering API
-Imaging for Windows
-Indexing Service
-InkBall
-Input method
-Installable File System
 Integrated development environment
-IntelliJ IDEA
 Inter-process communication
-Interface Builder
-Interface description language
-Interix
-Internet Explorer
-Internet Information Services
-Intuition (Amiga)
-Itanium
-JDeveloper
-JQuery UI
-JScript
-JUCE
-JavaFX
 JavaScript
 Java (programming language)
-Java OpenGL
 KDevelop
-Kernel-Mode Driver Framework
-Kernel32.dll
-Kernel Patch Protection
-Kernel Transaction Manager
-Kivy (framework)
-LANSA (development environment)
-LCC-Win32
-LLP64
-Language Interface Pack
-Layered Service Provider
-Lazarus (IDE)
-Lazarus Component Library
-LessTif
-Liberty BASIC
 Library (computing)
-Lightweight Java Game Library
-Lightweight User Interface Toolkit
 Linux
-Linux kernel API
-LispWorks
-List of Microsoft Windows application programming interfaces and frameworks
-List of Microsoft Windows components
 List of games included with Windows
-List of platform-independent GUI libraries
-List of widget toolkits
-Lively Kernel
-Local Security Authority Subsystem Service
-Logical Disk Manager
-Lua (programming language)
-MAPI
-MS-DOS 7
-MSConfig
 MSN
-MSN Dial-up
-MSN Food & Drink
-MSN Health & Fitness
-MSXML
-MXML
-MacApp
 MacOS
 Macintosh
-Macintosh Toolbox
-Magic User Interface
-Magnifier (Windows)
-Mail (Windows)
-Make Compatible
-Managed DirectX
-Mandatory Integrity Control
-Mark Russinovich
-Media Control Interface
-Media Foundation
-Mendix
 Microsoft
-Microsoft-specific exception handling mechanisms
-Microsoft 3D Viewer
-Microsoft Active Accessibility
-Microsoft Blend
-Microsoft Connected Services Framework
-Microsoft Copilot
-Microsoft CryptoAPI
-Microsoft Customer Care Framework
-Microsoft DNS
-Microsoft Data Access Components
-Microsoft Defender Antivirus
 Microsoft Developer Network
-Microsoft Diagnostics
-Microsoft Distributed Transaction Coordinator
 Microsoft Docs
-Microsoft Drive Optimizer
-Microsoft Edge
-Microsoft Enterprise Library
-Microsoft Fax
-Microsoft Foundation Class Library
-Microsoft FreeCell
-Microsoft Gadgets
-Microsoft Hearts
-Microsoft Macro Assembler
-Microsoft Mahjong
-Microsoft Management Console
-Microsoft Mesh
-Microsoft Message Queuing
-Microsoft Messaging
-Microsoft Messaging Passing Interface
-Microsoft Minesweeper
-Microsoft Movies & TV
-Microsoft NetMeeting
-Microsoft OneNote
-Microsoft POSIX subsystem
-Microsoft Paint
-Microsoft Pay
-Microsoft Personal Web Server
-Microsoft Platform SDK
-Microsoft RPC
-Microsoft ScanDisk
-Microsoft Silverlight
-Microsoft Solitaire
-Microsoft Solitaire Collection
-Microsoft Speech API
-Microsoft Spider Solitaire
-Microsoft Start
 Microsoft Store
-Microsoft Sync Framework
-Microsoft Tinker
-Microsoft Tips
-Microsoft Transaction Server
-Microsoft UI Automation
-Microsoft Visual Studio
 Microsoft Windows
-Microsoft Windows SDK
 Microsoft Windows library files
-Microsoft Write
 Microsoft XNA
-Microsoft family features
-MinGW
-MinWin
-MonoDevelop
-MonoGame
-Mono (software)
-Moonlight (runtime)
-Morphic (software)
-Motif (software)
-Multilingual User Interface
-Multimedia Class Scheduler Service
-NS Basic
-NTBackup
 NTFS
-NTFS links
-NTFS reparse point
-NTFS volume mount point
-NTLDR
-Narrator (Windows)
-NetBIOS
 NetBeans
-NetDDE
-Netsh
-Network Access Protection
-Network Driver Interface Specification
-Newt (programming library)
-Next-Generation Secure Computing Base
-NortonLifeLock
-Ntoskrnl.exe
-ODBC
-OLE Automation
-OLE DB
-OLIT
-OS/2
-OS/2 subsystem
 Object-oriented programming
-Object Linking and Embedding
-Object Manager
-Object Pascal
-Object Windows Library
 Objective-C
-Odin (code conversion software)
-OneDrive
 Open-source software
-OpenGL User Interface Library
-OpenTK
-OpenUI5
-Open Packaging Conventions
-Open XML Paper Specification
 Operating system
-Operating system shell
-OutSystems
-Outlook Express
-Output device
 PHP
-PHP-GTK
-Paint 3D
-PascalABC.NET
 Pascal (programming language)
-Pascal calling convention
-Pelles C
-People (Windows)
-Performance Monitor
 Perl
-Phone Companion
-Phone Link
-Photos (Windows)
-Pointer (computer programming)
-Pointer arithmetic
-Portable Executable
-PowerBuilder
-PowerPlant
-PowerShell
-Print Services for UNIX
-Problem Steps Recorder
 Process (computing)
-Program Manager
 Programmer
 Programming language
-Progress bar
 Proprietary software
-Protected Media Path
-Public Windows Interface
-Purble Place
-PureBasic
-PyGTK
-PyQt
-PySide
-Pyjs
 Python (programming language)
-QB64
-Qooxdoo
-QtRuby
-Qt (software)
-Qt Creator
-Qt Jambi
-Quick Assist
-RadPHP
-RapidQ
-Raymond Chen (Microsoft)
-ReAction GUI
-ReFS
 ReactOS
-Recovery Console
-Remote Desktop Connection
-Remote Desktop Services
-Remote Differential Compression
-Remote Installation Services
-Remote procedure call
-Resource Monitor
-Resource construction set
-Roaming user profile
-Rogue Wave Software
 Ruby (programming language)
-Scrollbar
-Security Account Manager
-Security Support Provider Interface
-Security and Maintenance
 Server (computing)
-Server Core
-Server Message Block
-Service Control Manager
-Session Manager Subsystem
-Settings (Windows)
-Shadow Copy
-SharePoint
-SharpDevelop
-Shoes (GUI toolkit)
-Simple DirectMedia Layer
-Simple and Fast Multimedia Library
-Skype
-Snipping Tool
-Software Factory (Microsoft .NET)
-Software architecture
 Software categories
 Software development kit
 Software license
-Softwell Maker
-Sound Recorder (Windows)
-Special folder
-Stack unwinding
-Standard Widget Toolkit
-Start menu
-Status bar
-Sticky Notes
-Subroutine
-Subset
-Surf (video game)
-Swift (programming language)
-Swing (Java)
-Syskey
-Sysprep
-System File Checker
-System Idle Process
-System Information (Windows)
-System Policy Editor
-System Restore
-THINK C
-Tab (GUI)
-Tao Framework
-Task Manager (Windows)
-Task Parallel Library
-Task View
-Taskbar
-Tcl
-Telephony Application Programming Interface
-Template (programming)
-Text Object Model
-Text Services Framework
-Thread-local storage
-Thread (computer science)
-Thunk (compatibility mapping)
-Tk (software)
-Tkinter
-TnFOX
-Toolbar
-Topincs
-Transactional NTFS
-Travel (Windows)
-Trident (software)
-TypeScript
-UIML
-Ultimate++
-Uniscribe
-Universal Audio Architecture
 Universal Disk Format
-Universal Windows Platform
-Unix
-Unix-like
-Unix shell
-User-Mode Driver Framework
-User32.dll
-User Account Control
-User Interface Privilege Isolation
-VBScript
-Video for Windows
 Video game
-Virtual DOS machine
-Virtual folder
 Visual Basic (classic)
-Visual Component Library
 Visual Studio
-VxD
-Wabi (software)
-Watcom
-WaveMaker
 Wayback Machine
-Widget toolkit
-Willows TWIN
-Win32
-Win32 console
-Win32s
-Win64
-WinFS
-WinG
-WinHelp
-WinRT
-WinUSB
-Window (computing)
 Windows
-Windows.h
-Windows 1.0
-Windows 2000
-Windows 3.1x
 Windows 8
 Windows 95
-Windows 95 OSR2
-Windows 98
-Windows Address Book
-Windows Advanced Rasterization Platform
-Windows Aero
-Windows Anytime Upgrade
-Windows Boot Manager
-Windows CE
-Windows Calculator
-Windows Camera
-Windows CardSpace
-Windows Chat
-Windows Clock
-Windows Color System
-Windows Communication Foundation
-Windows Console
-Windows Contacts
-Windows DVD Maker
-Windows Deployment Services
-Windows Desktop Gadgets
-Windows Display Driver Model
-Windows Driver Frameworks
-Windows Driver Model
-Windows Easy Transfer
-Windows Error Reporting
-Windows Fax and Scan
-Windows File Manager
-Windows File Protection
-Windows Filtering Platform
-Windows Firewall
-Windows Forms
-Windows Hardware Error Architecture
-Windows Image Acquisition
-Windows Imaging Component
-Windows Imaging Format
-Windows Ink
-Windows Insider
-Windows Installer
-Windows Interface Source Environment
-Windows Journal
-Windows Libraries for OS/2
-Windows Management Instrumentation
-Windows Maps
-Windows Media
-Windows Media Center
-Windows Media Player
-Windows Media Player (2022)
-Windows Media Services
-Windows Meeting Space
-Windows Messaging
-Windows Messenger
 Windows Mixed Reality
-Windows Mobile Device Center
-Windows Mobility Center
-Windows Movie Maker
 Windows NT
-Windows NT 3.1
-Windows NT startup process
-Windows Native API
-Windows Notepad
-Windows Photo Gallery
-Windows Photo Viewer
-Windows Preinstallation Environment
-Windows Presentation Foundation
-Windows RSS Platform
-Windows Rally
-Windows Registry
-Windows Resource Protection
-Windows Runtime
-Windows Script Host
-Windows Search
-Windows Server Update Services
-Windows Services for UNIX
-Windows Shell namespace
-Windows SideShow
-Windows Speech Recognition
-Windows Spotlight
-Windows Subsystem for Linux
-Windows System Assessment Tool
-Windows System Resource Manager
-Windows Task Scheduler
-Windows Template Library
-Windows To Go
-Windows UI Library
-Windows USER
-Windows Ultimate Extras
-Windows Update
-Windows User
-Windows Vista I/O technologies
-Windows Vista networking technologies
-Windows Workflow Foundation
-Windows XP
-Windows XP 64-bit Edition
-Windows XP Professional x64 Edition
-Windows XP visual styles
-Windows domain
-Windows legacy audio components
-Windows on Windows
-Windows registry
-Windows service
-Windows shell
 Wine (software)
-Winlogon
-Winsock
-Wireless Zero Configuration
-WoW64
-WordPad
-Wrapper library
-Wt (web toolkit)
-WxFormBuilder
-WxHaskell
-WxPHP
-WxPerl
-WxPython
-WxWidgets
-X86-64
-X86 assembly
-XAudio2
-XBasic
-XCB
-XForms (toolkit)
 XML
-XMLHttpRequest
-XUL
-XVT
-XView
-XWT (Mono)
-X Athena Widgets
-X Toolkit Intrinsics
-X Window System
-Xamarin
 Xbox (app)
-Xcode
-Xinput
-Xlib
-Xojo
-YUI Library
-Zinc Application Framework
-Zune (widget toolkit)

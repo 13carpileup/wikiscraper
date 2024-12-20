@@ -1,45 +1,18 @@
-ACM Computing Surveys
 API
-Abraham Silberschatz
-Abstraction layer
-Access control
-Address space
-Amiga
-AmigaOS
 Andrew S. Tanenbaum
 Apple Inc.
-Application software
-Architecture of Windows NT
 BIOS
 BSD
-Bare machine
-Berkeley Software Distribution
 Booting
-Bootloader
-Boston, Massachusetts
-Brinch Hansen
-Bus error
 Bytecode
-CPU modes
 C (programming language)
 C standard library
 Cache (computing)
-Call-by-value
-Call gate (Intel)
-Capability-based addressing
-Carnegie Mellon University
 Central processing unit
-CiteSeerX (identifier)
 Classic Mac OS
-Command-line interface
 Commodore International
 Communications of the ACM
-Comparison of operating system kernels
-Comparison of operating systems
-Comparison of user features of operating systems
-Compile time
 Compiler
-Computation
 Computer
 Computer architecture
 Computer memory
@@ -48,231 +21,70 @@ Computer network
 Computer program
 Computer security
 Computer terminal
-Context switch
-Cooperative multitasking
 Cryptography
-Daemon (computing)
-Darwin (operating system)
-Data processing
-Data transformation (computing)
-David Patterson (computer scientist)
-Debugger
-Defragmentation
-Demand paging
 Device driver
-Device file
-Disk operating system
 Disk partitioning
 Display device
 Distributed computing
-Distributed operating system
 Doi (identifier)
-DragonFly BSD
-EISSN (identifier)
-Edsger Dijkstra
-Embedded operating system
 Embedded system
-Englewood Cliffs
-Englewood Cliffs, New Jersey
-Everything is a file
 Exception handling
-Exokernel
 Fault tolerance
-Fernando J. Corbató
-File attribute
-File manager
 File system
-Filesystem
-Fixed-priority pre-emptive scheduling
-Forensic software engineering
-Frank Soltis
 FreeBSD
-Full virtualization
 GNU
-GNU Debugger
-GNU Hurd
-General protection fault
 Graphical user interface
-HP-UX
-Hacker (computer security)
-Hank Levy (computer scientist)
 Hard disk drive
-Hardware abstraction
 Hdl (identifier)
-High- and low-level
-High-level programming language
-High availability
-History of operating systems
-Hobbyist operating system
-Hybrid kernel
-Hypervisor
 IBM
 IBM AIX
 ISBN (identifier)
 ISSN (identifier)
-Inode
-Input/output
-Intel Corporation
 Inter-process communication
-Interrupt
-JX (operating system)
-Jochen Liedtke
-John L. Hennessy
-Journaling file system
-Just enough operating system
-Ken Thompson
-Kernel (computer science)
-L4 microkernel family
-Language-based security
-Language-based system
-Linearizability
-Linus Torvalds
 Linux
 Linux distribution
 Linux kernel
-List of operating systems
-Live CD
-Live USB
-Loadable kernel module
-Loader (computing)
 Lock (computer science)
-MINIX
-MINIX 3
 MS-DOS
 MacOS
-Mach (kernel)
-Machine code
 Macintosh
 Mainframe computer
-Memory footprint
 Memory hierarchy
-Memory management
-Memory management (operating systems)
-Memory management unit
-Memory paging
-Memory protection
-Memory segmentation
-Message passing
-Michael Schroeder
-Microkernel
 Microsoft
 Microsoft Windows
-Microsoft Windows version history
-MkLinux
 Mobile operating system
 Modular programming
 Monolithic kernel
-Morgan Kaufmann
-MuLinux
-Multi-core processor
-Multics
-Multikernel
-Multilevel feedback queue
-Nanokernel
 NetBSD
-Network operating system
-Network stack
-Non-volatile memory
-O'Reilly Media
-OS/360
-OSF/1
-Object-oriented operating system
 Open-source software
-OpenBSD
-Operating environment
 Operating system
-Oracle Solaris
-P. J. Denning
-Page table
-Pennsylvania State University
-Per Brinch Hansen
 Peripheral
-Peripheral Component Interconnect
-Peripheral bus
 Personal computer
-Peter J. Denning
-Pipeline (Unix)
-Plug and play
-Port (computer networking)
-PostScript
-Preboot Execution Environment
 Preemption (computing)
 Printer (computing)
 Process (computing)
-Process control block
 Process management (computing)
-Programmable interrupt controller
-Protection ring
 QNX
-RC 4000 Multiprogramming System
-Random-access memory
 Read-only memory
 Real-time computing
-Real-time operating system
-Redox (operating system)
-Remote procedure call
-Resource management (computing)
-Richard Rashid
-Round-robin scheduling
-Rump kernel
-Runtime (program lifecycle phase)
 S2CID (identifier)
-Sandbox (computer security)
-Scheduling (computing)
-Security token
-Segmentation fault
-Self-healing (computer science)
 Semaphore (programming)
-Separation of mechanism and policy
-Separation of protection and security
 Server (computing)
 Shared memory
-Shell (computing)
-Shortest job next
 Sic
-Singularity (operating system)
 Software
 Source lines of code
-State (computer science)
-Subroutine
-Supercomputer operating system
 Synchronization (computer science)
 System call
-System resource
-TWAIN
-Tanenbaum–Torvalds debate
-The Open Group
 Thread (computing)
-Time-sharing
-Timeline of operating systems
-Timer
-Trusted computing base
 Type safety
-Type system
 USB
-Unikernel
-Unix
-Unix-like
-Usage share of operating systems
 User interface
 User space and kernel space
 VM (operating system)
 Video game console
-Virtual address space
-Virtual file system
-Virtual memory
-Virtual tape library
-Virtualization
-Vkernel
 Wayback Machine
-William Wulf
 Windows 11
-Windows 9x
-Windows Me
 Windows NT
-Windows NT 3.1
-Windows XP
-Wrapper function
 X86
 XNU
-Xen

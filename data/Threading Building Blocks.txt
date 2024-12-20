@@ -1,9 +1,6 @@
 API
-Algorithmic Skeletons
-Algorithmic skeleton
 Amdahl's law
 Analysis of parallel algorithms
-Apache 2.0
 Application checkpointing
 Array (data structure)
 Asymmetric multiprocessing
@@ -12,10 +9,8 @@ Automatic parallelization
 Barrier (computer science)
 Beowulf cluster
 Bit-level parallelism
-Boost (C++ libraries)
 Bulldozer (microarchitecture)
 C++
-C++ AMP
 CUDA
 Cache-only memory architecture
 Cache coherence
@@ -32,11 +27,8 @@ Computer multitasking
 Computer network
 Computer programming
 Concurrency (computer science)
-Container (data structure)
 Cost efficiency
-Data Analytics Library
 Data parallelism
-Data race
 Dataflow architecture
 Dataflow programming
 Deadlock (computer science)
@@ -54,75 +46,47 @@ GPUOpen
 General-purpose computing on graphics processing units
 GitHub
 Global Arrays
-Grand Central Dispatch
 Grid computing
 Gustafson's law
 HPX
 Hardware acceleration
 Hardware scout
-Havok (company)
-Havok (software)
 High-performance computing
-INTERP/80
 ISBN (identifier)
 Implicit parallelism
-Indeterminacy in concurrent computation
 Instruction-level parallelism
 Instruction pipelining
 Instruction window
-Integrated Performance Primitives
 Intel
-Intel Advisor
-Intel C++ Compiler
-Intel Concurrent Collections
-Intel Developer Zone
-Intel Fortran Compiler
-Intel Inspector
-Intel Parallel Advisor
-Intel Parallel Inspector
-Intel Parallel Studio
-Intel Research
-Intel VTune Amplifier
 Karp–Flatt metric
-Library (computer science)
 Library (computing)
-List of C++ multi-threading libraries
-List of C++ template libraries
 Loop-level parallelism
 Manycore processor
 Massively parallel
-Math Kernel Library
 Memory-level parallelism
 Memory coherence
 Message Passing Interface
 Microsoft
-Multi-core processor
 Multiple instruction, multiple data
 Multiple instruction, single data
 Multiprocessing
 Multithreading (computer architecture)
-Mutual exclusion
 Non-blocking algorithm
 Non-uniform memory access
-OneAPI (compute acceleration)
 Open-source software
 OpenACC
 OpenCL
 OpenHMPP
 OpenMP
-OpenVINO
 Operating system
 Parallel Extensions
-Parallel Patterns Library
 Parallel RAM
 Parallel Virtual Machine
 Parallel computing
 Parallel external memory
-Parallel programming
 Parallel programming model
 Parallel slowdown
 Pipeline (computing)
-Polymorphism in object-oriented programming
 Preemption (computing)
 Princeton University
 Process (computing)
@@ -131,10 +95,8 @@ Pthreads
 ROCm
 Race condition
 RaftLib
-Repository (version control)
 S2CID (identifier)
 Scalability
-Scheduling (computing)
 Semiconductor memory
 Shared memory
 Simultaneous and heterogeneous multithreading
@@ -149,7 +111,6 @@ Software lockout
 Software release life cycle
 Speculative multithreading
 Speedup
-Standard Template Library
 Starvation (computer science)
 Stream processing
 Superscalar processor
@@ -157,15 +118,9 @@ Symmetric multiprocessing
 Synchronization (computer science)
 Systolic array
 Task parallelism
-Template (C++)
 Temporal multithreading
 Thread (computing)
 Tizen
-USENIX
 Unified Parallel C
 Uniform memory access
-VTune
 Vector processor
-Vision (game engine)
-Work stealing
-ZPL (programming language)

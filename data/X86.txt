@@ -1,500 +1,61 @@
-1-bit computing
-12-bit computing
-128-bit computing
-16-bit computing
-24-bit computing
-256-bit computing
-29K
-32-bit computing
-386BSD
-3DNow!
-3D XPoint
 3D computer graphics
-3Dlabs
 4-bit computing
-48-bit computing
-512-bit computing
-5k86
 64-bit computing
-680x0
-6x86
-7400 series
-8-bit computing
-80186
-80188
-80286
-80387
-80486
-8086
-8087
-8088
-8089
-A86 (software)
-AArch64
-ACPI
-AES-NI
-AES instruction set
-AI accelerator
-AM2+
-AM3
-AMD
-AMD-V
-AMD-Vi
-AMD64
-AMD Accelerated Processing Unit
-AMD Am386
-AMD Am486
-AMD Am5x86
-AMD Athlon II
-AMD FX
-AMD K5
-AMD K6
-AMD K6-2
-AMD K6-III
-AMD K8
-AMD Matisse
-AMD Opteron
-AMD Phenom
-AMD Phenom II
-AMD Raphael
-AMD Turion
-AMD Vermeer
-ARM architecture
-ARM architecture family
-ASCI Red
-AVX-512
-AVX-VNNI
-AVX10
-AVX2
-AVX512
 Abstract machine
-Accounts & SSO
-Accumulator (computing)
-Adapteva
-Adder (electronics)
-Address decoder
-Address generation unit
-Address register
-Address space
-Addressing mode
-Advanced Configuration and Power Interface
-Advanced Matrix Extensions
 Advanced Micro Devices
-Advanced Micro Devices, Inc. v. Intel Corp.
-Advanced Performance Extensions
-Advanced Power Management
-Advanced Programmable Interrupt Controller
-Advanced Synchronization Facility
-Advanced Vector Extensions
-Advanced Vector Extensions 2
-Alder Lake (microarchitecture)
-Altera
-Alternating Turing machine
-AltiVec
-Am386
-Amplify Tablet
-Analogue electronics
 Andrew Grove
-Apollo Guidance Computer
-Application-specific instruction set processor
-Application-specific integrated circuit
-Arithmetic logic unit
 Assembly language
-Athlon
-Athlon 64
-Athlon 64 FX
-Athlon 64 X2
-Athlon MP
-Athlon Neo
-Athlon XP
-Atom (system on a chip)
-Atom (system on chip)
 BIOS
 BSD
 Backward compatibility
-Backward compatible
-Barrel processor
-Barrel shifter
-Base address
-Baseband processor
-Berkeley Software Distribution
-BiiN
-Binary-coded decimal
-Binary decoder
-Binary multiplier
-Bit
 Bit-level parallelism
-Bit-serial architecture
-Bit Manipulation Instruction Sets
-Bit manipulation
-Bit slicing
-Bob Swan
-Bobcat (processor)
-Bonnell (microarchitecture)
-Boolean circuit
-Boot loader
 Booting
-Branch (computer science)
-Branch prediction
-Branch predictor
-Branch target predictor
-Brian Krzanich
-Bristol Ridge
-Broadwell (microarchitecture)
-Buffer overrun
 Bulldozer (microarchitecture)
-Bulldozer (processor)
 Bus (computing)
-CLMUL instruction set
-CPUID
-CPU cache
-CPU multiplier
 Cache (computing)
-Cache Acceleration Software
 Cache coherence
-Cache hierarchy
-Cache performance measurement and metric
-Cache replacement policies
-Call stack
-Cannon Lake (microarchitecture)
-Cannon Lake (microprocessor)
-Carry flag
-Celeron
-Celeron D
-Celeron Dual-Core
-Cellular architecture
 Cellular automaton
-Centaur Technology
 Central processing unit
-Chip carrier
-Chips and Technologies
-Circuit (computer science)
-CiteSeerX (identifier)
-Clarkdale (microprocessor)
-Classic RISC pipeline
-Classmate PC
-Client Initiated Remote Access
-Clipper architecture
-Clock gating
-Clock rate
-Clock signal
 Cloud computing
-Co-processor
-Code Morphing Software
-Coffee Lake (microarchitecture)
-Cognitive computing
-Combinational logic
-Comparison of assemblers
-Comparison of instruction set architectures
-Complex instruction set computer
-Complex programmable logic device
 Computer architecture
 Computer cluster
 Computer data storage
 Computer hardware
 Computer multitasking
-Computer performance
-Computer performance by orders of magnitude
 Computer security
-Control hazard
-Control register
-Control unit
-Convera Corporation
-Cooperative multitasking
 Coprocessor
-Copy Exactly!
-Core i3
-Core i5
-Core i7
-Core i9
-Counter (digital)
-Counter machine
-Craig Barrett (chief executive)
-Cryptographic accelerator
-Cycles per instruction
-Cypress Cove (microarchitecture)
-Cypress PSoC
-Cyrix
-Cyrix 6x86
-Cyrix Cx486DLC
-Cyrix Cx486SLC
-Cyrix Cx5x86
-Cyrix MII
 DEC Alpha
-Data buffer
-Data cache
 Data dependency
 Data parallelism
-Database engine
 Dataflow architecture
-Datapath
 De facto
-Debug register
-Demultiplexer
-Desktop computer
-Deterministic finite automaton
-Digital electronics
-Digital signal processor
-Direct Media Interface
-Direction flag
 Disassembler
-Distributed architecture
 Doi (identifier)
-Double precision
-Duron
-Dynamic execution
-Dynamic frequency scaling
-Dynamic video memory technology
-Dynamic voltage scaling
-EM64T
-ETRAX CRIS
-EVEX prefix
 EWeek
-Electronic circuit
 Embedded system
 Embedded systems
-Emulator
-Endianness
-Epyc
-Exbibyte
-Execution (computers)
-Execution unit
-Execution units
-Explicit data graph execution
-Explicitly parallel instruction computing
-F16C
-FASM
-FIFO (computing and electronics)
-FLAGS register
-FLAGS register (computing)
-FLOPS
-FMA instruction set
-Fabless
-Fabric computing
-False sharing
 Field-programmable gate array
-Field-programmable object array
 Finite-state machine
-Finite-state machine with datapath
-Flag (computing)
-Flexible Display Interface
-Floating-point
-Floating-point arithmetic
-Floating-point unit
-Floating point
 Flynn's taxonomy
-Frame pointer
-Free and open-source
-Fujitsu
-GNU Assembler
 GNU Compiler Collection
-GRID Compass
-Gate array
-Gather-scatter (vector addressing)
 General-purpose computing on graphics processing units
-General-purpose register
-Geode (processor)
-Gerald J. Popek
-Gigabyte
-Global Descriptor Table
-Glue logic
-Golden Cove
-Goldmont
-Goldmont Plus
-Gordon Moore
-Gracemont (microarchitecture)
 Graphics processing unit
-Hardware-assisted virtualization
-Hardware-based encryption
 Hardware acceleration
-Hardware register
 Hardware security module
-Hardwired control unit
-Harvard architecture
-Haswell (microarchitecture)
-Hazard (computer architecture)
-Hella Zippy
-Heterogeneous System Architecture
-Heterogeneous computing
-Hierarchical state machine
-High-Tech Employee Antitrust Litigation
 High-performance computing
-High Level Assembly
-History of general-purpose CPUs
 Home appliance
-Hyper-Threading
-Hyper-V
-Hyper-threading
-HyperThreading
-HyperTransport
-Hyper Transport
-Hypercomputation
-I/O
-I/O Acceleration Technology
-I/O Controller Hub
-I286
-I386
-I486
-I486SL
-I486SX
-I486 OverDrive
-I686
-IA-32
-IA-32 Execution Layer
-IA-64
-IAPX
-IAPX 432
 IBM
 IBM PC
-IBM PC/XT
 IBM PC compatible
-IBM POWER architecture
-IBM Personal Computer/AT
 IBM Personal Computer XT
-IBM Personal System/2
-IBM Power microprocessors
-IBM System/360 architecture
-IBM System/370
-IBM System/390
-IEEE floating-point standard
-IM Flash Technologies
 ISBN (identifier)
 ISSN (identifier)
-ITT Corporation
-IXP1200
-Ice Lake (microprocessor)
-Image processor
-InTru3D
-Influence of the IBM PC on the personal computer market
-Inside (2011 film)
-Inside Films
 Instruction-level parallelism
-Instruction cache
-Instruction cycle
-Instruction decoder
 Instruction pipelining
-Instruction pointer
-Instruction set
 Instruction set architecture
-Instruction unit
 Instructions per cycle
-Instructions per second
-Integer (computer science)
-Integer (computing)
-Integrated Device Technology
 Integrated circuit
 Intel
-Intel740
-Intel 1103
-Intel 386
-Intel 4004
-Intel 4040
-Intel 486
-Intel 64
-Intel 8008
-Intel 80186
-Intel 80188
-Intel 80286
-Intel 80287
-Intel 80376
-Intel 80386
-Intel 80386EX
-Intel 80386SX
-Intel 80387
-Intel 80387SX
-Intel 80486
-Intel 80487
-Intel 8080
-Intel 8085
-Intel 8086
-Intel 8087
-Intel 8088
-Intel 80C187
-Intel 860
-Intel 960
-Intel ADX
-Intel AZ210
-Intel Arc
-Intel Architecture Labs
-Intel Atom
-Intel Capital
-Intel Clear Video
-Intel Cluster Ready
-Intel Compute Stick
-Intel Core
-Intel Core (microarchitecture)
-Intel Core 2
-Intel Core i3
-Intel Core i7
-Intel Corp. v. Advanced Micro Devices, Inc.
-Intel Corp. v. Hamidi
-Intel Corporation Inc. v CPM United Kingdom Ltd
-Intel DX2
-Intel DX4
-Intel Developer Forum
-Intel Display Power Saving Technology
-Intel Extreme Masters
-Intel Foundation Achievement Award
-Intel GMA
-Intel Graphics Technology
-Intel International Science and Engineering Fair
-Intel Ireland
-Intel MPX
-Intel Mobile Communications
-Intel Modular Server System
-Intel Museum
-Intel Outstanding Researcher Award
-Intel PRO/Wireless
-Intel Prescott
-Intel Quark
-Intel Quick Sync Video
-Intel Reader
-Intel SHA extensions
-Intel Security
-Intel Teach
-Intel Tera-Scale
-Intel Upgrade Service
-Intel VT
-Intel Xe
-Intel Xeon
-Intel i860
-Intel i960
-Intel iAPX 432
-Intel system development kit
-Interrupt
-Interrupt descriptor table
-Interrupt flag
-Interrupt request
-Intersil
-Itanium
-Ivy Bridge (microarchitecture)
-Jaguar (microarchitecture)
-Just-in-time compilation
-Kaby Lake
-Kernel-based Virtual Machine
-Knights Corner
-Knights Landing (microarchitecture)
-L2 cache
-LGA 1150
-LGA 1155
-LGA 775
 Laptop
-Larrabee (microarchitecture)
-Linear address space
 Linux
 Linux distribution
-List of AMD processors
-List of Intel Atom processors
-List of Intel CPU microarchitectures
-List of Intel Celeron processors
-List of Intel Core-based Xeon microprocessors
-List of Intel Core 2 processors
-List of Intel Core M microprocessors
-List of Intel Core M processors
-List of Intel Core i3 processors
-List of Intel Core i5 processors
-List of Intel Core i7 processors
-List of Intel Core i9 processors
-List of Intel Core processors
-List of Intel Itanium processors
-List of Intel NetBurst-based Xeon microprocessors

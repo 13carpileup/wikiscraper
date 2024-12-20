@@ -1,13 +1,7 @@
 !
-"
 $
-&
 '
 (
-)
-+
-,
--
 0
 1
 2
@@ -29,7 +23,6 @@ ARIB STD B24 character set
 ASCII
 ASMO 449
 ATASCII
-Amstrad CP/M Plus character set
 Amstrad CPC character set
 Apple II character set
 Arabic diacritics
@@ -76,17 +69,10 @@ Code page 1019
 Code page 1020
 Code page 1021
 Code page 1023
-Code page 1034
 Code page 1040
 Code page 1042
 Code page 1043
-Code page 1044
 Code page 1046
-Code page 1052
-Code page 1053
-Code page 1054
-Code page 1055
-Code page 1056
 Code page 1058
 Code page 1098
 Code page 1101
@@ -124,7 +110,6 @@ Code page 853
 Code page 855
 Code page 856
 Code page 857
-Code page 858
 Code page 859
 Code page 860
 Code page 861
@@ -141,7 +126,6 @@ Code page 896
 Code page 897
 Code page 899
 Code page 903
-Code page 904
 Code page 912
 Code page 915
 Code page 921
@@ -169,7 +153,6 @@ DG International
 DIN 66003
 DIN 91379
 DKOI
-Dammatan
 Digital Equipment Corporation
 Digital encoding of APL symbols
 E
@@ -179,8 +162,6 @@ Extended Latin-8
 Extended Unix Code
 F
 FOCAL character set
-Fathatan
-Fatḥa
 Fieldata
 Full stop
 G
@@ -203,7 +184,6 @@ Hong Kong Supplementary Character Set
 I
 IBM
 IBM AIX
-IEC-P27-1
 INIS-8
 INIS character set
 ISO-IR-111
@@ -212,26 +192,6 @@ ISO-IR-182
 ISO-IR-197
 ISO-IR-200
 ISO-IR-68
-ISO/IEC 10367
-ISO/IEC 2022
-ISO/IEC 646
-ISO/IEC 8859
-ISO/IEC 8859-1
-ISO/IEC 8859-10
-ISO/IEC 8859-11
-ISO/IEC 8859-12
-ISO/IEC 8859-13
-ISO/IEC 8859-14
-ISO/IEC 8859-15
-ISO/IEC 8859-16
-ISO/IEC 8859-2
-ISO/IEC 8859-3
-ISO/IEC 8859-4
-ISO/IEC 8859-5
-ISO/IEC 8859-6
-ISO/IEC 8859-7
-ISO/IEC 8859-8
-ISO/IEC 8859-9
 ISO 2033
 ISO 5426
 ISO 5427
@@ -240,7 +200,6 @@ ISO 6438
 ISO 6862
 ITU T.61
 Indian Script Code for Information Interchange
-Intecolor/Compucolor 8001 character set
 Iran System encoding
 J
 JIS X 0201
@@ -259,7 +218,6 @@ KPS 9566
 KS X 1001
 KS X 1002
 Kamenický encoding
-Kasratan
 L
 LST 1564
 LST 1590-4
@@ -291,7 +249,6 @@ Mac OS Hebrew
 Mac OS Icelandic encoding
 Mac OS Inuit
 Mac OS Keyboard encoding
-Mac OS Maltese/Esperanto encoding
 Mac OS Ogham
 Mac OS Roman
 Mac OS Romanian encoding
@@ -333,12 +290,10 @@ Right curly bracket
 Right square bracket
 Russian Morse code
 S
-SAM Coupé character set
 SI 960
 SQUOZE
 Sega SC-3000 character set
 Semicolon
-Shadda
 Sharp MZ character set
 Sharp pocket computer character sets
 Shift JIS
@@ -347,12 +302,9 @@ Slash (punctuation)
 Soft hyphen
 Space character
 Standard Compression Scheme for Unicode
-Stanford/ITS character set
 Stanford Extended ASCII
-Sukūn
 Symbol (typeface)
 T
-T.51/ISO/IEC 6937
 TI calculator character sets
 TRON (encoding)
 TRS-80 character set
@@ -401,9 +353,6 @@ Windows-1256
 Windows-1257
 Windows-1258
 Windows-1270
-Windows Cyrillic + Finnish
-Windows Cyrillic + French
-Windows Cyrillic + German
 Windows Polytonic Greek
 Windows code page
 World System Teletext
@@ -432,65 +381,11 @@ ZX Spectrum character set
 Ê
 Î
 Ï
-Ô
 ×
-Ù
 Û
 ÷
-،
-؛
-؟
-ء
-آ
-أ
-ؤ
-إ
-ئ
-ب
-ة
-ت
-ث
-ج
-ح
-خ
-د
-ذ
-ر
-ز
-س
-ش
-ص
-ض
-ط
-ظ
-ع
-غ
-ـ
-ف
-ق
-ك
-ل
-م
-ن
-ه
-و
 ى
-ي
-٠
-١
-٢
-٣
-٤
-٥
-٦
-٧
-٨
-٩
-٪
-٭
-Ḍamma
 •
-─
 │
 ┌
 ┐

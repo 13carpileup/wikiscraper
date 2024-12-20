@@ -1,14 +1,11 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
 AlmaLinux
 Alpine Linux
-Amd64
 Android-x86
 Android (operating system)
 Antergos
 AntiX
-Apt-rpm
 ArchBang
 ArchLabs
 Arch Linux
@@ -76,7 +73,6 @@ Foresight Linux
 FreedomBox
 Freespire
 Frugalware Linux
-GNOME
 GNU Guix System
 GNewSense
 GOS (operating system)
@@ -87,8 +83,6 @@ GoboLinux
 Gobuntu
 GrapheneOS
 HandyLinux
-Hyperbola GNU/Linux-libre
-I386
 Immunix
 IodéOS
 Japanese language
@@ -133,7 +127,6 @@ Mer (software distribution)
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Musix GNU+Linux
 Natural language
 Network Security Toolkit
 NimbleX
@@ -151,7 +144,6 @@ Open Enterprise Server
 Oracle Linux
 PCLinuxOS
 Package manager
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
@@ -177,7 +169,6 @@ Replicant (operating system)
 Resurrection Remix OS
 Rocks Cluster Distribution
 Rocky Linux
-Rolling release
 SUSE Linux
 SUSE Linux Enterprise
 SUSE Studio
@@ -219,11 +210,8 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 User interface
 VectorLinux
-Vine Seed
 Void Linux
 Whonix
 Wubuntu

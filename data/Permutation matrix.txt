@@ -1,209 +1,36 @@
-Adjacency matrix
 Adjugate matrix
-Alternant matrix
-Alternating sign matrix
-Anti-diagonal matrix
 ArXiv (identifier)
-Arrowhead matrix
-Ashkan Nikeghbali
-Augmented matrix
-Band matrix
-Biadjacency matrix
 Bibcode (identifier)
-Bidiagonal matrix
-Binary matrix
-Birkhoff polytope
-Birkhoff–von Neumann theorem
-Bisymmetric matrix
-Block-diagonal matrix
 Block matrix
-Block tridiagonal matrix
-Boolean matrix
-Bézout matrix
-Cabibbo–Kobayashi–Maskawa matrix
 Cambridge University Press
-Carleman matrix
-Cartan matrix
-Cauchy matrix
-Centering matrix
-Centrosymmetric matrix
-Chaim Goodman-Strauss
-Characterization (mathematics)
-Circulant matrix
-CiteSeerX (identifier)
-Cofactor matrix
-Commutation matrix
-Companion matrix
-Complex Hadamard matrix
-Conference matrix
-Confusion matrix
-Convergent matrix
-Convex combination
-Convex hull
-Copositive matrix
-Correlation matrix
-Costas array
-Covariance matrix
-Coxeter matrix
-Cyclic permutation
-DFT matrix
-Defective matrix
-Definite matrix
-Degree matrix
-Density matrix
-Design matrix
 Determinant
 Diagonal matrix
-Diagonalizable matrix
-Diagonally dominant matrix
-Distance matrix
 Doi (identifier)
-Doubly stochastic matrix
-Duplication and elimination matrices
-Edmonds matrix
 Eigenvalue
 Eigenvalues and eigenvectors
-Eigenvector
-Eight queens puzzle
-Elementary matrix
-Equivalent matrix
-Euclidean distance matrix
-Exchange matrix
-Extreme point
-Faithful representation
 Field (mathematics)
-Fisher information matrix
 Fixed point (mathematics)
-Frobenius matrix
-Fundamental matrix (computer vision)
-Fundamental matrix (linear differential equation)
-Fuzzy associative matrix
-Gamma matrices
-Gell-Mann matrices
-General linear group
-Generalized permutation matrix
-Generator matrix
-Gram matrix
 Graph theory
 Group (mathematics)
 Group theory
-Hadamard matrix
-Hamiltonian matrix
-Hankel matrix
 Hermitian matrix
-Hessenberg matrix
-Hessian matrix
-Hilbert matrix
-Hollow matrix
-Householder transformation
-Hurwitz-stable matrix
 ISBN (identifier)
 Idempotent matrix
 Identity element
 Identity matrix
-Incidence matrix
-Integer matrix
-Inverse of a matrix
-Invertible matrix
-Involutory matrix
-Irregular matrix
-Jacobian matrix and determinant
-John H. Conway
-Jordan normal form
-Laplacian matrix
-Lehmer matrix
-Linear independence
-List of matrices
-Logical matrix
 Mathematics
 Matrix (mathematics)
-Matrix congruence
 Matrix exponential
 Matrix multiplication
-Matrix of ones
-Matrix product
-Matrix representation of conic sections
-Matrix unit
-Metzler matrix
-Michael Artin
-Moment matrix
-Moore matrix
-Multiset
 Nilpotent matrix
-Non-negative
-Nonnegative matrix
-Normal matrices
-Normal matrix
 OCLC (identifier)
-Opposite group
-Orthogonal matrix
-Overlap matrix
-Parity of a permutation
-Pascal matrix
 Pauli matrices
-Payoff matrix
-Pentadiagonal matrix
-Perfect matrix
-Permanent (mathematics)
-Permutation
-Permutation group
-Persymmetric matrix
-Pick matrix
-Polynomial matrix
-Positive-definite matrix
-Precision (statistics)
 Projection (linear algebra)
-Projection matrix
-Pseudoinverse
-Quaternionic matrix
-Random matrix
-Redheffer matrix
-Reverse Polish notation
-Rook polynomial
 Root of unity
-Rotation matrix
-Routh–Hurwitz matrix
-Row echelon form
-S-matrix
 S2CID (identifier)
-Seidel adjacency matrix
-Seifert matrix
 Shear matrix
-Shift matrix
-Signature matrix
-Similarity matrix
-Skew-Hermitian matrix
-Skew-symmetric matrix
-Skyline matrix
-Sparse matrix
-Standard basis
-State-transition matrix
 Statistics
-Stieltjes matrix
-Stochastic matrix
-Substitution matrix
-Sylvester matrix
-Symmetric group
 Symmetric matrix
-Symplectic matrix
-Toeplitz matrix
-Totally positive matrix
-Totally unimodular matrix
 Trace (linear algebra)
-Transformation matrix
 Transpose
-Transposition (mathematics)
 Triangular matrix
-Tridiagonal matrix
-Tutte matrix
-Unimodular matrix
-Unipotent
-Unitary matrix
-Vandermonde matrix
-Walsh matrix
-Weighing matrix
-Wronskian
-Z-matrix (chemistry)
-Z-matrix (mathematics)
-Zbl (identifier)
-Zero matrix

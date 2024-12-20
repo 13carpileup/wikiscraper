@@ -14,7 +14,6 @@ Axiom
 Axiom of choice
 Axiom schema
 Axiomatic system
-Axiomatization of Boolean algebras
 Banach–Tarski paradox
 Bijection
 Binary operation
@@ -31,7 +30,6 @@ Categorical theory
 Category (mathematics)
 Category of sets
 Category theory
-Chen Chung Chang
 Church encoding
 Church–Turing thesis
 Class (set theory)
@@ -55,7 +53,6 @@ Continuum hypothesis
 Countable set
 Decidability (logic)
 Decision problem
-Deductive system
 Diagram (mathematical logic)
 Domain of a function
 Domain of discourse
@@ -64,7 +61,6 @@ Elementary diagram
 Elementary equivalence
 Elementary function arithmetic
 Empty set
-Encompassment ordering
 Enumeration
 Equation
 Equiconsistency
@@ -88,39 +84,28 @@ Forcing (mathematics)
 Formal grammar
 Formal language
 Formal proof
-Formal semantics (logic)
 Formal system
 Formation rule
-Formula (mathematical logic)
 Foundations of geometry
 Foundations of mathematics
-Franz Baader
 Free logic
 Free object
 Free variables and bound variables
 Function (mathematics)
-Function symbol (logic)
 Functional predicate
 Fuzzy set
 General set theory
-Grammar formalism
 Grothendieck universe
 Ground expression
-Ground formula
-Ground term
 Gödel's completeness theorem
 Gödel's incompleteness theorems
 Gödel numbering
-H. Jerome Keisler
 Halting problem
-Hans Hermes
-Herbrand universe
 Hereditary set
 Higher-order logic
 Hilbert's axioms
 Hilbert system
 History of logic
-History of mathematical logic
 ISBN (identifier)
 ISSN (identifier)
 Image (mathematics)
@@ -129,26 +114,19 @@ Independence (mathematical logic)
 Inference
 Infinite-valued logic
 Infinite set
-Infix notation
 Information theory
 Inhabited set
-Initial algebra
 Injective function
-Integer division
 Interpretation (logic)
 Interpretation (model theory)
-Interpretation function
 Intersection (set theory)
 Isomorphism
 Kolmogorov complexity
-Kripke's theory of truth
 Kripke–Platek set theory
 Lambda calculus
-Lambda term
 Large cardinal
 Lemma (mathematics)
 Lindström's theorem
-List of Hilbert systems
 List of axioms
 List of first-order theories
 List of formal systems
@@ -167,7 +145,6 @@ Logical equivalence
 Logical truth
 Logicism
 Löwenheim–Skolem theorem
-Many-sorted logic
 Many-valued logic
 Map (mathematics)
 Material conditional
@@ -189,7 +166,6 @@ Non-Euclidean geometry
 Non-logical symbol
 Non-standard model
 Non-standard model of arithmetic
-Noun phrase
 Open formula
 Operation (mathematics)
 Ordinal analysis
@@ -197,38 +173,28 @@ Ordinal number
 P (complexity)
 P versus NP problem
 Paradoxes of set theory
-Partial order
 Partition of a set
 Peano axioms
 Philosophy of mathematics
 Polish notation
 Power set
-Predicate (logic)
 Predicate (mathematical logic)
-Predicate logic
 Predicate variable
 Primitive recursive arithmetic
 Primitive recursive function
 Principia Mathematica
-Principle of bivalence
 Proof of impossibility
 Proof theory
 Proposition
 Propositional calculus
 Propositional formula
 Propositional variable
-Quantifier-free formula
 Quantifier (logic)
 Quantifier rank
-Rational number
 Real number
 Recursion
-Recursive definition
-Recursive set
-Reflexive relation
 Relation (mathematics)
 Reverse mathematics
-Rewriting system
 Robinson arithmetic
 Rule of inference
 Russell's paradox
@@ -240,7 +206,6 @@ Second-order logic
 Self-verifying theories
 Semantic theory of truth
 Semantics of logic
-Sentence (linguistics)
 Sentence (mathematical logic)
 Sequence
 Sequent calculus
@@ -254,7 +219,6 @@ Spectrum of a sentence
 Spectrum of a theory
 Square of opposition
 Strength (mathematical logic)
-String (formal languages)
 Structure (mathematical logic)
 Substitution (logic)
 Substructure (mathematics)
@@ -266,37 +230,28 @@ Syntax (logic)
 T-schema
 Tarski's axiomatization of the reals
 Tarski's axioms
-Tarski's theory of truth
 Tarski's undefinability theorem
 Tarski–Grothendieck set theory
 Tautology (logic)
-Term algebra
 Term logic
-Term rewriting
 Ternary operation
 Theorem
-Theories of truth
 Theory (mathematical logic)
 Three-valued logic
 Timeline of mathematical logic
-Tobias Nipkow
 Transfer principle
 Transitive set
-Tree (data structure)
 True arithmetic
 Truth
 Truth predicate
 Truth table
 Truth value
-Tuple
 Turing machine
 Type (model theory)
 Type theory
-Ultrafilter (set theory)
 Ultraproduct
 Uncountable set
 Undecidable problem
-Unification (computer science)
 Uninterpreted function
 Union (set theory)
 Uniqueness quantification

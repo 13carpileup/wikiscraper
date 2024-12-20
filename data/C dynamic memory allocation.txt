@@ -1,207 +1,75 @@
 ANSI C
-Address space
-Address space layout randomization
 Alef (programming language)
-Alloca
 Amsterdam Compiler Kit
 Anjuta
-Array data structure
-Assert.h
-Automatic Reference Counting
-Automatic memory allocation
 Automatic variable
-Bin (computational geometry)
 Bionic (software)
-Bjarne Stroustrup
-Boehm garbage collector
-Borland Turbo C
-Buffer over-read
-Buffer overflow
 C++
 C11 (C standard revision)
 C17 (C standard revision)
 C23 (C standard revision)
 C99
-CLion
 C (programming language)
 C POSIX library
 C Sharp (programming language)
-C alternative tokens
 C character classification
 C data types
 C date and time functions
-C file input/output
-C localization functions
 C mathematical functions
 C preprocessor
-C process control
-C signal handling
 C standard library
 C string handling
 C syntax
-Call stack
 Central processing unit
-Cheney's algorithm
-CiteSeerX (identifier)
 Clang
 CodeLite
-Coding best practices
 Comparison of Pascal and C
-Compatibility of C and C++
-Compile-time
-Concurrent mark sweep collector
-Cruft
 D (programming language)
-Dangling pointer
-Data segment
 Data structure
-Data structure alignment
-Demand paging
 Dennis Ritchie
 Dietlibc
-Direct memory access
-Dlmalloc
 Doi (identifier)
-Dope vector
-Doug Lea
-Dynamic array
-Dynamic memory allocation
 Eclipse (software)
 Embedded C
-Embedded GLIBC
-Errno.h
-Finalizer
-Fragmentation (computer)
-Fragmentation (computing)
 FreeBSD
-Function prototype
 GNOME Builder
 GNU
-GNU C library
 GNU Compiler Collection
-Garbage-first collector
-Garbage (computer science)
 Garbage collection (computer science)
 Geany
 Glibc
 Go (programming language)
-Heap memory
-Hoard memory allocator
-Hybris (software)
 ISBN (identifier)
 Include directive
-Initialization (programming)
-Input–output memory management unit
 Integrated development environment
-Intel C++ Compiler
-International Conference on Architectural Support for Programming Languages and Operating Systems
-International Symposium on Memory Management
-Intrinsic function
-Jemalloc
-John R. Levine
 KDevelop
-Kathryn S. McKinley
 Kernel (operating system)
 Klibc
 LCC (compiler)
-Libumem
 Limbo (programming language)
-Lines of code
 Linux
-List of C compilers
 MISRA C
-Malloc
-Mallock
 Man page
-Manual memory management
-Mark–compact algorithm
-Memory allocator
-Memory debugger
-Memory leak
-Memory management
-Memory management (operating systems)
-Memory management unit
-Memory paging
-Memory pool
-Memory protection
-Memory safety
-Memory segmentation
-Microsoft Research
 Microsoft Visual C++
 Microsoft Visual Studio Express
 Microsoft Windows library files
-Mimalloc
-Mmap
-Morgan Kaufmann
 Musl
 NetBSD
 NetBeans
-New and delete (C++)
 Newlib
 Norcroft C compiler
-Null pointer
 OCLC (identifier)
 Objective-C
-OpenBSD
 Open source
-Operators in C and C++
 POSIX
-Page (computer memory)
-Page table
-Phrack
-Pointer (computer programming)
 Portable C Compiler
-Poul-Henning Kamp
-Protected mode
-Ptmalloc
 Public domain
-Real mode
-Reference counting
-Region-based memory management
-Run time (program lifecycle phase)
-Sbrk
-Segmentation fault
-Setjmp.h
-Single Unix Specification
-Size t
-Sizeof
 Small Device C Compiler
-Stack overflow
-Stack smashing
-Static memory allocation
-Static variable
 Stdarg.h
-Stdint.h
-Subroutine
 System call
-The Open Group
-Thread-local storage
 Tiny C Compiler
-Tracing garbage collection
-Translation lookaside buffer
-Trie
 Tweet (social media)
 Twitter
-Type conversion
 UClibc
-UNIX/32V
-UNIX System V
-Undefined behavior
-Uninitialized variable
-Unix
-Unreachable memory
 Vala (programming language)
-Variable-length array
-Variable-length arrays
-Version 6 Unix
-Version 7 Unix
-Virtual 8086 mode
-Virtual memory
-Virtual memory compression
 Visual Studio
-Void pointer
-Watcom C/C++
-Weak reference
-WhatsApp
-Wild pointer
-X86 memory segmentation

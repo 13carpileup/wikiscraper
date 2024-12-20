@@ -1,81 +1,40 @@
-0-ary function
 Abelian group
 Absolute value
 Algebra
-Algebra homomorphism
 Algebra over a field
 Algebraic geometry
 Algebraic structure
-American Mathematical Society
-Ancient Greek language
 Arity
-Automorphism
-Automorphism group
-Basis (vector space)
-Bicontinuous function
 Bijective
 Binary operation
-Cancellation property
-Categories for the Working Mathematician
 Category (mathematics)
 Category theory
 Codomain
-Cokernel
 Commutative algebra
 Complex number
 Composition algebra
-Concatenation
-Congruence relation
-Continuous map
-Diffeomorphism
 Dimension (vector space)
 Doi (identifier)
 Domain of a function
-Endomorphism
-Epimorphism
 Equivalence class
 Equivalence relation
-Exponential function
-Felix Klein
 Field (mathematics)
 Formal language
-Free module
-Free monoid
 Free object
 Galois theory
-General linear group
 Graduate Texts in Mathematics
-Graph homomorphism
 Group (mathematics)
-Group homomorphism
-Group homomorphisms
-Gunther Schmidt
-Holomorphism
-Homeomorphism
 Homological algebra
-Homomorphic encryption
-Homomorphic secret sharing
 ISBN (identifier)
 Ideal (ring theory)
 Identity (mathematics)
 Identity element
-Identity function
-Infinite cyclic group
-Injective
 Injective function
-Inner automorphism
 Integer
 Inverse element
-Inverse function
-Isomorphic
 Isomorphism
-Isomorphism theorem
-Kernel (algebra)
-Kleene star
 Linear algebra
 Linear map
-Localization of a ring
-MR (identifier)
 Magma (algebra)
 Map (mathematics)
 Matrix (mathematics)
@@ -83,51 +42,24 @@ Matrix addition
 Matrix multiplication
 Model theory
 Module (mathematics)
-Module homomorphism
 Monoid
-Monoid homomorphism
-Monomorphism
-Morphism
-Multiplicative group
-Multiplicative identity
 Multiplicative inverse
-Natural logarithm
-Normal subgroup
 OCLC (identifier)
 Operation (mathematics)
 Polynomial
 Polynomial ring
-Quadratic form
-Quasimorphism
-Quotient set
-Rational number
 Real number
 Ring (mathematics)
-Ring homomorphism
-Ring isomorphism
 Rng (algebra)
-Root of a polynomial
 S2CID (identifier)
-Saunders Mac Lane
 Scalar multiplication
 Semigroup
-Semigroup homomorphism
 Set (mathematics)
-Seymour Ginsburg
-Split epimorphism
-Split monomorphism
-Springer-Verlag
-Square matrices
-Surjective
 Surjective function
 Topological space
-Two-sided ideal
 Unary operation
 Universal algebra
-Universal property
 Variety (universal algebra)
 Vector space
 Well-formed formula
-Zbl (identifier)
-Zero map
 Évariste Galois

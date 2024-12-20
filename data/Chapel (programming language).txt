@@ -1,14 +1,7 @@
-ADMB
-ALGOL
 API
-APL (programming language)
-Ada (programming language)
-Advanced Simulation Library
 Amazon Web Services
 Amdahl's law
 Analysis of parallel algorithms
-Apache License 2.0
-Apache license
 Application checkpointing
 Array (data structure)
 Assembly language
@@ -19,11 +12,8 @@ BASIC
 Barrier (computer science)
 Beowulf cluster
 Bit-level parallelism
-Boost (C++ libraries)
 Bulldozer (microarchitecture)
 C++
-C++14
-C++ AMP
 COBOL
 CUDA
 C (programming language)
@@ -35,9 +25,6 @@ Charm++
 Cilk
 Cloud computing
 Coarray Fortran
-Code reuse
-Comparison of numerical-analysis software
-Comparison of programming languages
 Computer cluster
 Computer hardware
 Computer multitasking
@@ -47,12 +34,6 @@ Computing platform
 Concurrency (computer science)
 Cost efficiency
 Cray
-Cray MTA
-Cray MTA-2
-Cray XMT
-Cygwin
-DADiSP
-DARPA
 Data-driven programming
 Data parallelism
 Data structure
@@ -66,44 +47,23 @@ Distributed shared memory
 Doi (identifier)
 Dryad (programming)
 Embarrassingly parallel
-Erlang (programming language)
-Euler Mathematical Toolbox
 Explicit parallelism
-FEATool Multiphysics
 Fiber (computer science)
 Filename extension
 Flynn's taxonomy
-Forth (programming language)
-Fortran
-Fortress (programming language)
-FreeFem++
-FreeMat
-GAUSS (software)
-GNU Octave
 GPUOpen
 General-purpose computing on graphics processing units
-Generational list of programming languages
-Generic programming
-Genius (mathematics software)
 GitHub
 Global Arrays
-Gmsh
 Go (programming language)
-Gretl
 Grid computing
 Gustafson's law
-HPE Cray EX
 HPX
 Hardware acceleration
 Hardware scout
 Haskell
-Hewlett Packard Enterprise
 High-performance computing
-High Performance Fortran
-High Productivity Computing Systems
-History of programming languages
 IEEE
-IPython
 ISBN (identifier)
 Implicit parallelism
 Instruction-level parallelism
@@ -111,49 +71,28 @@ Instruction pipelining
 Instruction window
 JavaScript
 Java (programming language)
-Julia (programming language)
 Karp–Flatt metric
-Kotlin (programming language)
-LLVM
-LabVIEW
-Language binding
 Linux
 Lisp (programming language)
-List of numerical-analysis software
-List of programming languages
-List of programming languages by type
-Locale (computer hardware)
-Locality of data
 Loop-level parallelism
-Lua (programming language)
 MATLAB
-MFEM
-ML (programming language)
 Mac OS
 Manycore processor
-Maple (software)
 Massively parallel
-Mathcad
 Memory-level parallelism
 Memory coherence
 Message Passing Interface
-Message passing interface
 Multiple instruction, multiple data
 Multiple instruction, single data
 Multiprocessing
 Multithreading (computer architecture)
-Nested parallelism
 NetBSD
-Non-English-based programming languages
 Non-blocking algorithm
 Non-uniform memory access
-Object-oriented
 Object-oriented programming
-Object Pascal
 Open-source software
 OpenACC
 OpenCL
-OpenFOAM
 OpenHMPP
 OpenMP
 Operating system
@@ -162,62 +101,44 @@ POSIX
 Parallel Extensions
 Parallel RAM
 Parallel Virtual Machine
-Parallel computer
 Parallel computing
 Parallel external memory
-Parallel programming language
 Parallel programming model
 Parallel slowdown
-Partitioned global address space
 Pascal (programming language)
 Perl
 Pipeline (computing)
 Preemption (computing)
-Procedural code
 Process (computing)
 Programming language
 Programming paradigm
-Project Jupyter
 Prolog
 Pthreads
 Python (programming language)
 ROCm
-R (programming language)
 Race condition
 RaftLib
 Ruby (programming language)
-Rust (programming language)
 S2CID (identifier)
 SQL
-SageMath
-Salome (software)
 Scalability
-ScicosLab
-Scilab
-Scratch (programming language)
 Semiconductor memory
 Shared memory
-Shell script
-Simula
 Simultaneous and heterogeneous multithreading
 Simultaneous multithreading
 Single instruction, multiple data
 Single instruction, multiple threads
 Single instruction, single data
-Smalltalk
 Software design
 Software developer
 Software license
 Software lockout
 Software release life cycle
-Speakeasy (computational environment)
 Speculative multithreading
 Speedup
 Starvation (computer science)
 Stream processing
-Supercomputer
 Superscalar processor
-Swift (programming language)
 Symmetric multiprocessing
 Synchronization (computer science)
 Systolic array
@@ -225,18 +146,8 @@ Task parallelism
 Temporal multithreading
 Thread (computing)
 Threading Building Blocks
-Timeline of programming languages
-Type inference
-Type system
 Unified Parallel C
 Uniform memory access
 Vector processor
-VisSim
-Visual Basic
-Visual Basic (.NET)
 Visual Basic (classic)
-Weka (software)
 Windows
-Wolfram Mathematica
-X10 (programming language)
-ZPL (programming language)

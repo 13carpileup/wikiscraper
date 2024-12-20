@@ -6,7 +6,6 @@ ARIB STD B24 character set
 ASCII
 ASMO 449
 ATASCII
-Amstrad CP/M Plus character set
 Amstrad CPC character set
 Apple II character set
 ArmSCII
@@ -50,17 +49,10 @@ Code page 1019
 Code page 1020
 Code page 1021
 Code page 1023
-Code page 1034
 Code page 1040
 Code page 1042
 Code page 1043
-Code page 1044
 Code page 1046
-Code page 1052
-Code page 1053
-Code page 1054
-Code page 1055
-Code page 1056
 Code page 1058
 Code page 1098
 Code page 1101
@@ -99,7 +91,6 @@ Code page 853
 Code page 855
 Code page 856
 Code page 857
-Code page 858
 Code page 859
 Code page 861
 Code page 862
@@ -115,7 +106,6 @@ Code page 896
 Code page 897
 Code page 899
 Code page 903
-Code page 904
 Code page 912
 Code page 915
 Code page 921
@@ -165,7 +155,6 @@ Han unification
 Hardware code page
 Hong Kong Supplementary Character Set
 IBM AIX
-IEC-P27-1
 INIS-8
 INIS character set
 ISO-IR-111
@@ -174,26 +163,6 @@ ISO-IR-182
 ISO-IR-197
 ISO-IR-200
 ISO-IR-68
-ISO/IEC 10367
-ISO/IEC 2022
-ISO/IEC 646
-ISO/IEC 8859
-ISO/IEC 8859-1
-ISO/IEC 8859-10
-ISO/IEC 8859-11
-ISO/IEC 8859-12
-ISO/IEC 8859-13
-ISO/IEC 8859-14
-ISO/IEC 8859-15
-ISO/IEC 8859-16
-ISO/IEC 8859-2
-ISO/IEC 8859-3
-ISO/IEC 8859-4
-ISO/IEC 8859-5
-ISO/IEC 8859-6
-ISO/IEC 8859-7
-ISO/IEC 8859-8
-ISO/IEC 8859-9
 ISO 2033
 ISO 5426
 ISO 5427
@@ -204,8 +173,6 @@ ITU T.61
 Identity (mathematics)
 Indian Script Code for Information Interchange
 Inequality (mathematics)
-Intecolor/Compucolor 8001 character set
-Internet Assigned Numbers Authority
 Iran System encoding
 Italian language
 JIS X 0201
@@ -249,7 +216,6 @@ Mac OS Hebrew
 Mac OS Icelandic encoding
 Mac OS Inuit
 Mac OS Keyboard encoding
-Mac OS Maltese/Esperanto encoding
 Mac OS Ogham
 Mac OS Roman
 Mac OS Romanian encoding
@@ -261,7 +227,6 @@ Macintosh Font X encoding
 Macintosh Latin encoding
 Magnetic ink character recognition
 Mazovia encoding
-Miscellaneous Technical (Unicode block)
 Mojibake
 Mojikyō
 Morse code
@@ -277,15 +242,12 @@ OT1 encoding
 PETSCII
 Perso-Arabic Script Code for Information Interchange
 Pi (letter)
-Portugal
-Portuguese language
 PostScript Latin 1 Encoding
 PostScript Standard Encoding
 Prosigns for Morse code
 RISC OS character set
 RPL character set
 Russian Morse code
-SAM Coupé character set
 SI 960
 SQUOZE
 Sega SC-3000 character set
@@ -295,12 +257,9 @@ Shift JIS
 Sigma
 Sinclair QL character set
 Spanish language
-Spanish peseta
 Standard Compression Scheme for Unicode
-Stanford/ITS character set
 Stanford Extended ASCII
 Symbol (typeface)
-T.51/ISO/IEC 6937
 TI calculator character sets
 TRON (encoding)
 TRS-80 character set
@@ -344,9 +303,6 @@ Windows-1256
 Windows-1257
 Windows-1258
 Windows-1270
-Windows Cyrillic + Finnish
-Windows Cyrillic + French
-Windows Cyrillic + German
 Windows Polytonic Greek
 Windows code page
 World System Teletext
@@ -355,57 +311,24 @@ YUSCII
 ZX80 character set
 ZX81 character set
 ZX Spectrum character set
-¡
 ¢
 £
-ª
-«
 ¬
 °
 ±
-²
 ·
-º
-»
 ½
-¿
 À
 Á
 Â
-Ã
 Ç
 È
 É
 Ê
-Ì
-Í
-Ñ
-Ò
-Ó
-Ô
-Õ
-Ù
-Ú
-Ü
 ß
 ÷
-Α
-Γ
-Δ
-Ε
-Θ
-Μ
-Τ
-Φ
-Ω
-ⁿ
-∙
 √
 ∞
-∩
-≈
-≥
-─
 │
 ┌
 ┐
@@ -416,41 +339,8 @@ ZX Spectrum character set
 ┬
 ┴
 ┼
-═
-║
-╒
-╓
-╔
-╕
-╖
-╗
-╘
-╙
-╚
-╛
-╜
-╝
-╞
-╟
-╠
-╡
-╢
-╣
-╤
-╥
-╦
-╧
-╨
-╩
-╪
-╫
-╬
-▀
 ▄
 █
 ▌
 ▐
-░
 ▒
-▓
-■

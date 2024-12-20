@@ -1,18 +1,12 @@
 ISO 15926 WIP
-Style sheet language
-ISO/IEC 8859-9
-ISO/IEC 8859-16
 IEC 61400
 ISO 31-4
 ISO 31-3
 Standard Generalized Markup Language
 ISLISP
 Business Process Model and Notation
-S-expression
-ISO/IEC 8859-3
 Ada Semantic Interface Specification
 ISO 259
-ISO 31-12
 MPEG-4
 MPEG-G
 Film speed
@@ -25,7 +19,6 @@ ISO 15022
 Common Criteria
 POSIX
 ISO 2848
-Human-readable
 Linux Standard Base
 HTML
 ISO 898
@@ -37,9 +30,7 @@ Prolog
 List of ISO romanizations
 ISO 9
 International Organization for Standardization
-Syntax highlighting
 ISO 15924
-ISO/IEC 8859-4
 IEC 61162
 International Bank Account Number
 IEC 61030
@@ -53,10 +44,8 @@ Antimagnetic watch
 ISO 13584
 ISO 31-8
 ISO 2709
-ISO/IEC 27040
 19-inch rack
 ISO 13406-2
-Rich Text Format
 ISO 14224
 ISO 31-1
 ISO 6385
@@ -66,47 +55,33 @@ ECMAScript
 Shoe size
 ISO 55000
 ISO 4165
-ISO 31-9
 ISO 15926
 DICOM
 ISO 2033
 Quality function deployment
 ISO 1000
-Sass (style sheet language)
 ISO 13399
-File format
 ISO 860
 ISO 7637
 IEEE 754
 Equal-loudness contour
 IEC 62056
-ISO/IEC 27006
-ISO/IEC 19770
 ISO 1745
 Programming paradigm
 MPEG-4 Part 2
-PDF/VT
 RKM code
 Lexical Markup Framework
-ISO/IEC 8652
 ISO base media file format
 Pascal (programming language)
 Minimal BASIC
 ISO 657
 ISO 31-6
-ISO/IEC 8859-8
-ISO/IEC 8859-1
-ISO/IEC 5218
-ISO/IEC 8859-5
 British Standard Pipe
 ANSI escape code
 Comparative Tracking Index
 IEC 60870-5
-Style language
 List of IEC standards
 ISO 128
-ISO/IEC 7813
-ISO/IEC 7064
 Meta-Object Facility
 MPEG-7
 135 film
@@ -116,7 +91,6 @@ International Standard Audiovisual Number
 ISO 20400
 110 film
 ISO 15686
-ISO/IEC 27000-series
 JPIP
 ISO 13567
 IEC 62325
@@ -124,46 +98,29 @@ ISO 3103
 IEC 60068
 ISO 19011
 IEC 60364
-ISO/IEC 7810
-Stylus (style sheet language)
 IEC 61360
 ISO 5775
-ISO/IEC 8859-14
 ISO 3307
 ISO 5428
 ISO 19114
-ISO 8373
 ISO 2788
 ISO 7200
 ISO 704
-Opera Software
-ISO/IEC 9529
 Open Data Protocol
-PDF/A
-Qt (software)
 ISO 639
 ISO 965
 CSS
-ISO/IEC 10967
-ISO 12006
 IEC 61131-3
 ISO 22000
 International Standard Atmosphere
 ISO 17100
-ISO/IEC 29119
 IP-XACT
-ISO/IEC 19788
 Legal Entity Identifier
 ISO 9897
 Isofix
-ISO/IEC 10116
 ISO 31-5
 MPEG-1
-ISO/IEC 17024
-ISO/IEC 17025
-ISO/IEC 8859-10
 IEC 60027
-ISO/IEC 8859-6
 Common Logic
 ISO 31-10
 ISO-TimeML
@@ -172,14 +129,10 @@ ISO-8859-8-I
 ISO 9564
 Simple Features
 MPEG-H
-ISO/IEC 21827
 IEC 60269
 Common Object Request Broker Architecture
 IEC 61970
 ISO 20022
-JavaScript Style Sheets
-ISO/IEC 42010
-ISO/IEC 7811
 ISO 11940
 ISO 639-3
 ISO 11170
@@ -191,15 +144,12 @@ JPEG XR
 JPEG 2000
 Hole punch
 ISO 16750
-Scheme (programming language)
 International Standard Recording Code
 ISO 19439
 Linguistic categories
 ISBN
 ISO 8601
-Less (style sheet language)
 ISO 4
-PostScript
 IEC 60601
 ISO 11940-2
 ISO 999
@@ -211,30 +161,21 @@ Accuracy and precision
 ISO 7002
 ECMAScript for XML
 Digital object identifier
-ISO/IEC 15897
 ISO 15919
 ISO 2146
 ISO 11783
-ISO/IEC 15504
 Rectangular Micro QR Code
 File Allocation Table
-ISO/IEC 2022
 ISO 639-2
 IEC 61511
-ISO/IEC 8859-15
 Computer Graphics Metafile
-ISO/IEC 7816
 IEC 61131
 ISO 3166
 Full BASIC
 ANSI C
-OSI model
 ISO 50001
 ISO 7010
 ISO 11784 and ISO 11785
-ISO/IEC TR 12182
-OASIS (organization)
-ISO/IEC 8859-2
 ISO 217
 QR code
 ISO 10303-21
@@ -247,40 +188,27 @@ IEC 60929
 ISO 13490
 Geospatial metadata
 ISO 690
-Comparison of stylesheet languages
-ISO 31-13
 ISO 10303-28
 Prontor-Compur
-ISO/IEC 9995
 Digital Addressable Lighting Interface
 EN 62262
 ISO 26000
-ISO 2047
 Fiber Distributed Data Interface
 Requirements engineering
 ISO 2145
-ISO/IEC 27001
 RM-ODP
 IEC 61355
-ISO/IEEE 11073
-ISO/IEC 19794-5
 IEC 61334
 ISO 10962
 Multibus
 ISO 639-5
-ISO/IEC 14651
 Hazard symbol
 MPEG-21
 IEC 62061
-DocBook
-ISO/IEC 33001
-ISO/IEC 7812
 ISO 2015
 MHEG-5
-ISO 14000
 ISO 2852
 ISO 19600
-ISO/IEC JTC 1/SC 34
 ISO 14644
 ISO 10161
 ISO 10628
@@ -288,22 +216,15 @@ A440 (pitch standard)
 Knowledge Discovery Metamodel
 ISO 668
 ISO 3864
-PostCSS
 OCR-A
-Fuse (automotive)
 ISO 7736
-ISO/IEC 6523
-ISO/IEC 8859-11
 IEC 60038
 ISO 6346
 ISO 4157
-ISO/IEC 9126
 ISO 14031
-List of style sheet languages
 LCEVC
 Advanced Video Coding
 ISO 31000
-ISO 7027
 International Standard Identifier for Libraries and Related Organizations
 ISO 22395
 IEC 60228
@@ -311,33 +232,25 @@ International Standard Music Number
 Hot shoe
 Han Xin code
 Longitudinal redundancy check
-ISO/TR 11941
 Open Document Architecture
-ISO/IEC 15693
 Market Identifier Code
 IEC 61883
 ISO 31-0
-ISO/IEC 27000
 IEC 63110
 ISO 3166-1
 IEC 60870
 IEC 61968
 ISO metric screw thread
-IEC 60980-344
 IEC 62304
-CAN bus
 International Standard Text Code
 Office Open XML
 ISO 10007
 Renard series
 Graph Query Language
 ISO 56000
-International Standard Serial Number
 Compact Disc Digital Audio
-ISO/IEC 15288
 Power take-off
 IEC 60906-1
-PDF/UA
 International Standard Musical Work Code
 OpenDocument
 STEP-NC
@@ -349,7 +262,6 @@ Photographic Activity Test
 IEC 62700
 ISO 2921
 ISO 15398
-ISO/IEC 646
 ISO 5427
 IEC 60870-6
 Guidelines for the Definition of Managed Objects
@@ -359,9 +271,7 @@ Computer file
 ISO 15189
 MP4 file format
 ISO 5964
-ISO/IEC 8859-13
 EXPRESS (data modeling language)
-ISO/IEC 19752
 ISO 732
 ISO 5426
 ISO 10006
@@ -371,16 +281,13 @@ Dynamic Adaptive Streaming over HTTP
 ISO 10160
 Cloud Infrastructure Management Interface
 IEC 61508
-ISO/IEC 18014
 ISO 8583
-IEC 62351
 ISO 14617
 ISO 3977
 ISO 14971
 ISO 9660
 Pinyin
 MPEG-4 Part 3
-ISO/IEC 11404
 JBIG
 ISO 9241
 PHIGS
@@ -391,25 +298,17 @@ AES3
 IEC 62455
 ISO 9362
 Kappa number
-ISO/IEC 20000
 ISO 5776
-ISO/IEC 8859-12
-ISO/IEC 11179
 IEC 60446
 Geography Markup Language
 On-board diagnostics
 Common Language Infrastructure
 ISO 10303-22
-ISO/IEC 27002
-ISO/IEC 27005
 ISO 31-7
 IEC 63382
-ISO/IEC 10021
 IEC 62196
 C++
 ISO 8501-1
-Language Of Temporal Ordering Specification
-ISO/IEC 8859
 IEC 60034
 ISO 639-1
 ISO 22300
@@ -417,34 +316,24 @@ ISO 45001
 ISO 25964
 ISO 1629
 IEC 81346
-ISO/IEC 80000
-Style sheet (desktop publishing)
 ISO 6709
 S2CID (identifier)
 IATF 16949
 Graphical Kernel System
-SMIL Timesheets
 COLLADA
-Formatting Output Specification Instance
 Motion JPEG 2000
 C Sharp (programming language)
 Fuel oil
-ISO 9000
 List of ISO standards
-ISO/IEC 4909
 ISO 233
 126 film
 ISO 13485
-ISO/IEC 38500
-ISO/IEC 11801
 CHILL
 ISO 6943
 ISO 2
 PDF417
-ISO/IEC 8859-7
 ISO 4217
 Kunrei-shiki romanization
-Style sheet (web development)
 Battery nomenclature
 ISO 2711
 ISO 3166-2
@@ -454,18 +343,13 @@ Open Virtualization Format
 JPEG XS
 ISO 216
 LaTeX
-ISO/IEC 9797-1
 Magnetic ink character recognition
 RELAX NG
-PDF/E
 Romanization of Armenian
 International Electrotechnical Commission
-ISO/IEC 14443
 SDMX
 ISO 21500
 FDI World Dental Federation notation
-ISO/IEC 24744
-PDF/X
 ISO 31-11
 IEC 61850
 ISO 8000
@@ -473,7 +357,6 @@ PDF
 IEC 61499
 MaxiCode
 MPEG-2
-KEDIT
 ISO 25178
 Shock-resistant watch
 Delivery Multimedia Integration Framework
@@ -488,12 +371,8 @@ International Standard Name Identifier
 ISO 14698
 International Securities Identification Number
 ISO 26262
-ISO/IEC 24727
 Fieldbus
-ISO 19092-1
-ISO 19092-2
 ISO 10303
-ISO/IEC 12207
 Ruby (programming language)
 ISO 8691
 Romanization of Georgian

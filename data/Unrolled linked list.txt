@@ -1,62 +1,12 @@
-AA tree
-AVL tree
-Abstract data type
 Array (data structure)
-Array data structure
-Association list
 Associative array
-B-tree
-Binary decision diagram
-Binary heap
-Binary search tree
-Binomial heap
 Bit array
-CDR coding
-CPU cache
-Cache line
-Circular buffer
-Collection (abstract data type)
-Container (abstract data type)
 Data structure
-Deterministic acyclic finite state automaton
-Directed acyclic graph
-Disjoint-set data structure
 Doi (identifier)
-Double-ended priority queue
-Double-ended queue
-Doubly linked list
-Dynamic array
-Fibonacci heap
 Graph (abstract data type)
-Hash table
-Hash tree (persistent data structure)
-Hashed array tree
-Heap (data structure)
 Hilbert R-tree
 ISBN (identifier)
-Linked data structure
 Linked list
-List (abstract data type)
-List of data structures
-Multimap
-Pat Morin
-Priority queue
-Queue (abstract data type)
-R* tree
-R+ tree
-R-tree
 Record (computer science)
-Red–black tree
-Reference
-Retrieval Data Structure
 S2CID (identifier)
-Self-balancing binary search tree
-Set (abstract data type)
 Skip list
-Sparse matrix
-Splay tree
-Stack (abstract data type)
-T-tree
-Tree (data structure)
-Trie
-XOR linked list

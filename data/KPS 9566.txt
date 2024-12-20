@@ -1,13 +1,6 @@
 !
 $
-%
-&
 (
-)
-*
-+
-,
--
 0
 1
 2
@@ -18,7 +11,6 @@ $
 7
 8
 9
-;
 =
 ?
 @
@@ -26,53 +18,31 @@ A
 ABICOMP character set
 ANSEL
 ANSI escape code
-ANSI escape sequence
 ARIB STD B24 character set
 ASCII
 ASMO 449
 ATASCII
-A (hangul)
-Act on Product Safety of Electrical Appliances and Materials
-Adobe Inc
-Ae (hangul)
 Alphabet
 Ampersand
-Amstrad CP/M Plus character set
 Amstrad CPC character set
-Andrew West (linguist)
 Android (operating system)
-Apple, Inc
 Apple II character set
 ArmSCII
 Atari ST character set
 B
 BCD (character encoding)
 Backslash
-Basic Latin (Unicode block)
-Basic Multilingual Plane
 Baudot code
-Bieup
 Big5
 Binary Ordered Compression for Unicode
 Bitstream International Character Set
-Box-drawing character
 BraSCII
-Brace (punctuation)
-Bulgarian alphabet
 C
 C0 and C1 control codes
 CCSID
 CDC display code
 CER-GS
 CESU-8
-CJK Compatibility
-CJK Compatibility Ideographs
-CJK Compatibility Ideographs Supplement
-CJK Unified Ideographs
-CJK Unified Ideographs (Unicode block)
-CJK Unified Ideographs Extension A
-CJK Unified Ideographs Extension B
-CJK characters
 CNS 11643
 CSX+ Indic character set
 CSX Indic character set
@@ -81,17 +51,10 @@ CWI-2
 Casio calculator character sets
 Character encoding
 Character encodings in HTML
-Character sets
 Charset detection
-Chieut
 Chinese Character Code for Information Interchange
-Chinese character encoding
 Chinese characters
-Chinese input methods
 Chinese telegraph code
-Chosŏn'gŭl
-Chōonpu
-Circled cross
 Code page
 Code page 1006
 Code page 1008
@@ -108,17 +71,10 @@ Code page 1019
 Code page 1020
 Code page 1021
 Code page 1023
-Code page 1034
 Code page 1040
 Code page 1042
 Code page 1043
-Code page 1044
 Code page 1046
-Code page 1052
-Code page 1053
-Code page 1054
-Code page 1055
-Code page 1056
 Code page 1058
 Code page 1098
 Code page 1101
@@ -157,7 +113,6 @@ Code page 853
 Code page 855
 Code page 856
 Code page 857
-Code page 858
 Code page 859
 Code page 860
 Code page 861
@@ -174,7 +129,6 @@ Code page 896
 Code page 897
 Code page 899
 Code page 903
-Code page 904
 Code page 912
 Code page 915
 Code page 921
@@ -187,7 +141,6 @@ Code page 942
 Code page 949 (IBM)
 Code page 950
 Code page 951
-Coded character set
 Colon (punctuation)
 Comparison of Unicode encodings
 Compucolor II character set
@@ -196,7 +149,6 @@ Cooke and Wheatstone telegraph
 Cork encoding
 Cyrillic script
 D
-DBCS
 DEC Hebrew
 DEC RADIX 50
 DEC Special Graphics
@@ -205,37 +157,21 @@ DG International
 DIN 66003
 DIN 91379
 DKOI
-Delete character
-Digeut
 Digital Equipment Corporation
 Digital encoding of APL symbols
-Dingbats (Unicode block)
 Doi (identifier)
-Double-byte character set
 E
 EBCDIC
-ECMA-35
 ELOT 927
-EUC-CN
-EUC-KP
-EUC-KR
-E (hangul)
 East Asia
 Ecma International
-Electrical appliance
 Emoji
-Emojipedia
 English language
-Eo (hangul)
-Eu (hangul)
-Euro sign
-Ewellic alphabet
 Extended Latin-8
 Extended Unix Code
 F
 FOCAL character set
 Fieldata
-Final sigma
 Fraction (mathematics)
 Full stop
 G
@@ -248,110 +184,51 @@ GEM character set
 GOST 10859
 GSM 03.38
 Galaksija (computer)
-Giyeok
 Glyph
-Greater than
 Greek alphabet
 Greek language
 H
 HP Roman
 HZ (character encoding)
-Halfwidth and Fullwidth Forms (Unicode block)
 Halfwidth and fullwidth forms
 Han unification
 Hangul
-Hangul (obsolete Unicode block)
-Hangul Compatibility Jamo
-Hangul Jamo (Unicode block)
-Hangul Jamo Extended-A
-Hangul Jamo Extended-B
-Hangul Syllables
-Hangul consonant and vowel tables
-Hangul jamo
 Hanja
 Hardware code page
-Hieut
 Hiragana
 Hong Kong Supplementary Character Set
 I
 IBM AIX
-IEC-P27-1
-IETF
 INIS-8
 INIS character set
 ISBN (identifier)
-ISO
-ISO-2022
-ISO-2022-CN
-ISO-2022-JP
-ISO-2022-KR
-ISO-IR
 ISO-IR-111
-ISO-IR-165
 ISO-IR-169
 ISO-IR-182
 ISO-IR-197
 ISO-IR-200
 ISO-IR-68
-ISO/IEC 10367
-ISO/IEC 10646
-ISO/IEC 14651
-ISO/IEC 2022
-ISO/IEC 646
-ISO/IEC 8859
-ISO/IEC 8859-1
-ISO/IEC 8859-10
-ISO/IEC 8859-11
-ISO/IEC 8859-12
-ISO/IEC 8859-13
-ISO/IEC 8859-14
-ISO/IEC 8859-15
-ISO/IEC 8859-16
-ISO/IEC 8859-2
-ISO/IEC 8859-3
-ISO/IEC 8859-4
-ISO/IEC 8859-5
-ISO/IEC 8859-6
-ISO/IEC 8859-7
-ISO/IEC 8859-8
-ISO/IEC 8859-9
-ISO/IEC JTC 1
-ISO/IEC JTC 1/SC 2
-ISO 2022
 ISO 2033
 ISO 5426
 ISO 5427
 ISO 5428
 ISO 6438
-ISO 646
 ISO 6862
-ISO 8859-1
-ISO Basic Latin alphabet
 ITU T.61
-I (hangul)
-Ideographic Research Group
-Ieung
 Indian Script Code for Information Interchange
 Information Processing Society of Japan
-Intecolor/Compucolor 8001 character set
 International Organization for Standardization
 Iran System encoding
 J
 JIS X 0201
-JIS X 0202
 JIS X 0208
 JIS X 0211
 JIS X 0212
 JIS X 0213
 JIS encoding
 Japan
-Japanese input methods
 Japanese language
 Japanese language in EBCDIC
-Japanese postal mark
-Jeju language
-Jieut
-Johab
 K
 KOI-7
 KOI8-R
@@ -363,26 +240,11 @@ KS X 1002
 Kamenický encoding
 Kana
 Katakana
-Kelvin
-Kelvin scale
-Ken Lunde
-Kieuk
-Kim Il Sung
-Kim Jong Il
 Kim Jong Un
-Korean language
-Korean language and computers
-Kuten
 L
 LST 1564
 LST 1590-4
 LY1 encoding
-Latin-1 Supplement
-Less than
-Lexicographical order
-List of CJK fonts
-List of Hangul jamo
-List of modern Hangul characters in ISO/IEC 2022–compliant national character set standards
 Lotus International Character Set
 Lotus Multi-Byte Character Set
 M
@@ -407,7 +269,6 @@ Mac OS Hebrew
 Mac OS Icelandic encoding
 Mac OS Inuit
 Mac OS Keyboard encoding
-Mac OS Maltese/Esperanto encoding
 Mac OS Ogham
 Mac OS Roman
 Mac OS Romanian encoding
@@ -418,83 +279,54 @@ Mac OS Ukrainian encoding
 Macintosh Font X encoding
 Macintosh Latin encoding
 Magnetic ink character recognition
-Manicule
 Mazovia encoding
-Mieum (hangul)
 Mojibake
 Mojikyō
 Morse code
 Morse code for non-Latin alphabets
 Multinational Character Set
-Musical note
 N
-NCITS
 NEC APC character set
 National Replacement Character Set
 NeXT character set
-Nieun
-North Korea
-Not sign
 Number sign
 O
-O'Reilly Media
 OML encoding
 OMS encoding
 OT1 encoding
-O (hangul)
-Oe (hangul)
 OpenOffice.org
 P
 PETSCII
 Perso-Arabic Script Code for Information Interchange
 Pi (letter)
-Pieup
-Pilcrow
 PostScript Latin 1 Encoding
 PostScript Standard Encoding
-Private Use Area
 Prosigns for Morse code
 Q
 R
 RISC OS character set
 RPL character set
 Red Star OS
-Required space
-Rieul (hangul)
 Roman numerals
 Russian Morse code
-Russian alphabet
 Russian language
 S
-SAM Coupé character set
-SBCS
 SI 960
 SQUOZE
-Sebastopol, CA
 Sega SC-3000 character set
 Sharp MZ character set
 Sharp pocket computer character sets
-Shift-JIS
 Shift JIS
-Shift Out
 Sinclair QL character set
-Siot
 Slash (punctuation)
 Soft hyphen
 South Korea
 Space character
-Square bracket
 Standard Compression Scheme for Unicode
-Stanford/ITS character set
 Stanford Extended ASCII
-Subscript
-Superscript
-Supplementary Ideographic Plane
 Sweden
 Symbol (typeface)
-Symmetric difference
 T
-T.51/ISO/IEC 6937
 TI calculator character sets
 TRON (encoding)
 TRS-80 character set

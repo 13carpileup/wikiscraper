@@ -1,104 +1,31 @@
-180 nm
-1T-SRAM
 32-bit
-3D graphics
 480i
-480p
-576i
 64DD
-AMD
-AMDGPU
-AMD APP SDK
-AMD Catalyst
-AMD CodeAnalyst
-AMD CrossFire
-AMD Eyefinity
-AMD FireMV
-AMD FirePro
 AMD FireStream
-AMD GPU PerfStudio
 AMD HD3D
-AMD Hybrid Graphics
-AMD PowerTune
-AMD Radeon Software
-AMD TrueAudio
-ASIC
-ATI Mach
-ATI Rage
 ATI Technologies
-ATI Wonder
-Access time
-Adaptive differential pulse-code modulation
-All-in-Wonder
-Alpha blending
 Amiibo
 Anisotropic filtering
-Anti-aliasing
-Arithmetic logic unit
-ArtX
 Atari VCS (2021 console)
-Ball grid array
-Bilinear filtering
-Bloom (shader effect)
-Bounding box
 Broadway (processor)
-Bump mapping
-CAS latency
 CIC (Nintendo)
-CPU cache
-Capcom Five
-Cel shading
 Central processing unit
 Classic Controller
 Clipping (computer graphics)
-Close to Metal
-CodeXL
 Color TV-Game
-Color depth
 Computer graphics lighting
-Constant angular velocity
 Coprocessor
-D-Terminal
-DMIPS
-DRAM
-Data Compression
-Depth of field
-Die (integrated circuit)
-Digital-to-analog converter
 Direct current
-Direct memory access
-Display list
-Distance fog
-Dither
-Dolphin (emulator)
-Double-precision floating-point format
-EDRAM
-EE Times
-Environment mapping
 Espresso (processor)
 Famicom 3D System
 Famicom Data Recorder
 Famicom Disk System
 Family BASIC
 Family Computer Network System
-Fillrate
-Flipper (graphics chip)
-Floating-point
-Floating-point arithmetic
-Floating Point Unit
-Framebuffer
-FreeSync
-Front-side bus
-GB/s
-GFLOPS
 GPUOpen
-GPU cache
 GameCube
-GameCube Game Disc
-GameCube Memory Card
 GameCube accessories
 GameCube controller
-GameCube online functionality
 GameCube – Game Boy Advance link cable
 Game & Watch
 Game Boy
@@ -115,59 +42,26 @@ Game Boy Printer
 Game Boy accessories
 Game Link Cable
 Game Pak
-Gekko (microprocessor)
 Gekko (processor)
-Gouraud shading
-Graphics Core Next
 Graphics processing unit
-HLSL2GLSL
-Handheld PC
-Heat haze
-Heterogeneous System Architecture
-Hidden surface removal
 Hollywood (graphics chip)
-HyperMemory
-HyperZ
-I/O
 IBM
 IEEE 754
 IGN
 IQue Player
-Input/output
-Integer (computer science)
-I²S
 Joy-Con
-Level of detail (computer graphics)
-Lightmap
-List of AMD graphics processing units
-List of AMD processors with 3D graphics
-List of GameCube games
 List of Nintendo DS accessories
 List of Nintendo Entertainment System accessories
 List of Nintendo controllers
 List of Nintendo products
 List of Super NES enhancement chips
 List of Super Nintendo Entertainment System accessories
-List of best-selling GameCube video games
-List of cancelled GameCube games
-Macronix
-Mantle (API)
-Mebibyte
-Megapixel
-Memory bandwidth
-Memory bus
-Mipmap
-MoSys
-Motion blur
 NEC
 NES Advantage
 NES Classic Edition
 NES Four Score
 NES Satellite
 NES Zapper
-NGC Magazine
-NTSC
-Nanosecond
 New Nintendo 2DS XL
 New Nintendo 3DS
 Nintendo
@@ -183,8 +77,6 @@ Nintendo DSi
 Nintendo Entertainment System
 Nintendo Entertainment System Game Pak
 Nintendo Entertainment System models
-Nintendo GameCube Broadband Adapter and Modem Adapter
-Nintendo GameCube technical specifications
 Nintendo Game Card
 Nintendo Mini Classics
 Nintendo Power (cartridge)
@@ -197,78 +89,26 @@ Nintendo e-Reader
 Nintendo optical discs
 Nintendo video game consoles
 Normal mapping
-Out-of-order execution
-PAL
 PICA200
-Parallel port
-Per-vertex lighting
-Pixel pipeline
 Play-Yan
 PlayChoice-10
 PlayStation 4
-PlayStation 4 Pro
 PlayStation 5
 Poké Ball Plus
 Pokémon Mini
 Pokémon Pikachu
 Polygon (computer graphics)
-PowerPC
-PowerPC 600
-PowerPC 750CXe
-PowerPC 750FX
 Power supply
-Pro Logic
 R.O.B.
-RCA connector
-RDNA (microarchitecture)
 RDNA 2
-RDNA 3
-RDNA 4
-RGBA color space
-RGB color model
 ROCm
-Radeon
-Radeon 200 series
-Radeon 300 series
-Radeon 400 series
-Radeon 500 series
-Radeon 600 series
-Radeon HD 2000 series
-Radeon HD 3000 series
-Radeon HD 4000 series
-Radeon HD 5000 series
-Radeon HD 6000 series
-Radeon HD 7000 series
-Radeon HD 8000 series
-Radeon Instinct
-Radeon Pro
-Radeon R100 series
-Radeon R200 series
-Radeon R300 series
-Radeon R400 series
-Radeon RX 5000 series
-Radeon RX 6000 series
-Radeon RX 7000 series
-Radeon RX Vega series
-Radeon X1000 series
-Random-access memory
 Read-only memory
-Render output unit
 Ricoh 2A03
 Ricoh 5A22
 Rumble Pak
-S-Video
-S3 Texture Compression
-SCART
-SIMD
 Satellaview
 Serial port
-Shadow map
-Shadow volume
-Single-precision floating-point format
-Smash Box controller
 Steam Deck
-Stencil buffer
 Stereophonic sound
 Super FX
 Super Game Boy
@@ -278,29 +118,13 @@ Super NES Mouse
 Super Nintendo Entertainment System
 Super Nintendo Entertainment System Game Pak
 Super Scope
-Supercomputer
-Superscalar
 Tegra X1
-TeraScale (microarchitecture)
-Texture cache
 Texture mapping
-Texture mapping unit
-Texture memory
 Third-party accessories for the Wii Remote
 Transfer Pak
-Transform and lighting
-Transistor
-TressFX
-Trilinear filtering
-Unified Memory Architecture
-Unified Video Decoder
-Unified shader model
-Video Coding Engine
-Video Core Next
 Video game console
 Virtual Boy
 Volt
-Volumetric lighting
 WaveBird Wireless Controller
 Wii
 Wii Balance Board
@@ -311,13 +135,6 @@ Wii U
 Wii U GamePad
 Wii U Pro Controller
 Wii Zapper
-Workstation
 Xbox 360
 Xbox One
-Xbox One X
 Xbox Series X and Series S
-Xenos (graphics chip)
-YCbCr
-YPbPr
-Z-buffer
-Z-buffering

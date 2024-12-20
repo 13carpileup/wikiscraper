@@ -6,15 +6,12 @@ Application checkpointing
 Array (data structure)
 Asymmetric multiprocessing
 Ateji PX
-Auto-parallelization
 Automatic parallelization
 Barrier (computer science)
 Beowulf cluster
 Bit-level parallelism
-Boost (C++ libraries)
 Bulldozer (microarchitecture)
 C++
-C++ AMP
 CUDA
 Cache-only memory architecture
 Cache coherence
@@ -119,4 +116,3 @@ Unified Parallel C
 Uniform memory access
 Vector processor
 Windows
-ZPL (programming language)

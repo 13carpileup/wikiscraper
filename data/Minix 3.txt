@@ -1,386 +1,93 @@
-386BSD
-A.out
-A/UX
-AIM alliance
-AMD64
 API
-ARM architecture
-AROS Research Operating System
-ARX (operating system)
-Adaptive Domain Environment for Operating Systems
-Advanced Configuration and Power Interface
-Advanced Host Controller Interface
-Advanced Programmable Interrupt Controller
-Almquist shell
-Amiga
-AmigaOS
-Amoeba (operating system)
 Amsterdam Compiler Kit
 Andrew S. Tanenbaum
 Android (operating system)
 Application programming interface
 Arch Linux
 Assembly language
-Association for Computing Machinery
 Atari ST
-AudioOS
-Avie Tevanian
-BSD licenses
-Bash (Unix shell)
-BeRTOS
-Berkeley Software Distribution
 BlackBerry 10
-Bochs
 Booting
 BridgeOS
-Buffer overflow
-Bus error
 C (programming language)
-Capability-based security
-ChibiOS/RT
-ChorusOS
 ChromeOS
 Clang
-Coherent (operating system)
-Command-line interface
 Commodore International
-Comparison of operating system kernels
-Comparison of operating systems
-Comparison of user features of operating systems
-Compatibility layer
 Computer architecture
 Computer multitasking
 Computer network
-Context switch
-Cooperative multitasking
-Copland (operating system)
-Cosmos (operating system)
-Cross-compilation
-Cygwin
-DYNIX
-Dan Dodge
-Darling (software)
-Darwin (operating system)
-David Cheriton
 Debian
-Defragmentation
-Device Driver Environment kit
 Device driver
-Device file
-Disk operating system
 Disk partitioning
-Distributed operating system
-Domain/OS
-DragonFly BSD
-EKA1
-EKA2
 EPOC (operating system)
-EROS (microkernel)
 Education
-Emacs
-Embedded operating system
 Embedded system
-Emulator
-Eumel
-Eunice (software)
-Exec (Amiga)
-Executable and Linkable Format
-Executable space protection
-Exokernel
-Ext2
-Ext2fs
-Fault-tolerant
 Fedora Linux
-File Transfer Protocol
-File attribute
 File system
-Filesystem in Userspace
-Fixed-priority pre-emptive scheduling
-Floating-point unit
-Forensic software engineering
 FreeBSD
 FreeRTOS
-GNOSIS
 GNU
 GNU Compiler Collection
-GNU Debugger
-GNU Hurd
-GNU Mach
-General protection fault
-Genode
 Gentoo Linux
-Gernot Heiser
 GitHub
-Gordon Bell (QNX)
-Green Hills Software
-HP-UX
-Hardware abstraction
 HarmonyOS
 HarmonyOS NEXT
-Harmony (operating system)
-HelenOS
-History of Unix
-History of operating systems
-Hobbyist operating system
-Hybrid kernel
-Hydra (operating system)
-I/O port
-IA-32
 IBM AIX
 IBM PC
-IBM PC/AT
-IBM PS/2
-IBM i
 IOS
 IPadOS
-IRIX
 ISBN (identifier)
 ISO 9660
-Ike Nassi
-Illumos
-Infinite loop
-Inode
-Input/output
-Integrity (operating system)
 Intel Management Engine
 Inter-process communication
-Interix
-Interrupt
-JX (operating system)
-James G. Mitchell
-JavaOS
-Java virtual machine
-Jochen Liedtke
-Journaling file system
-Just enough operating system
-K42
 KOI8-U
-Kaby Lake
 Kernel (operating system)
-Kernel service
-KeyKOS
-L3 microkernel
-L4Linux
-L4 microkernel family
-LLVM
-Libc
 Library (computing)
 Linux
 List of Linux distributions
-List of Unix systems
-List of computing mascots
-List of operating systems
-Lites
-Live CD
-Live USB
-Loadable kernel module
-LynxOS
-MINIX file system
-MKS Toolkit
-MOS (operating system)
-MQX
-MacMach
 MacOS
-Mac OS 8
-Mac OS nanokernel
-MachTen
-Mach (kernel)
 Macintosh
-Meiko Scientific
-Memory management
-Memory management (operating systems)
-Memory paging
-Memory protection
-Memory segmentation
-Micro-Controller Operating Systems
-MicroChannel
-MicroEmpix
-Microcomputer
-Microkernel
 Microsoft
-Microsoft POSIX subsystem
-Microsoft Virtual PC
 Microsoft Windows
-Midori (operating system)
-Minix
-Minix-vmd
-MkLinux
 Mobile operating system
 Monolithic kernel
-MorphOS
-Motorola 68000
-Multi-Environment Real-Time
-Multikernel
-Multilevel feedback queue
-NLTSS
-NTFS-3G
-Native Command Queuing
 Natural language
-NeXTSTEP
 NetBSD
-Network operating system
-Non-volatile memory
-NuKernel
-Nucleus RTOS
-NuttX
-OS2000
-OSF/1
-Object-oriented operating system
-Open-source model
 Open-source software
-OpenBSD
-OpenComRTOS
 OpenHarmony
-OpenServer
-OpenSolaris
 OpenVMS
-Open Kernel Labs
-Open Sound System
-Operating System Embedded
 Operating system
-Oracle Solaris
-P.I.P.S.
-PCI card
 POSIX
-PWS/VSE-AF
-Page table
-Per Brinch Hansen
 Perl
-Phantom OS
-PikeOS
-Pine (email client)
-Pkgin
-Pkgsrc
-Platform Controller Hub
-Pointer (computer programming)
-PowerPC
-PowerUP (accelerator)
-Preboot Execution Environment
 Preemption (computing)
-Prentice Hall
 Process (computing)
-Process control block
 Process management (computing)
-Procfs
 Programmer
 Programming language
-Protection ring
-Psion (company)
-Ptrace
 Python (programming language)
-QEMU
 QNX
-Quark (kernel)
-RC 4000 multiprogramming system
-REX OS
-RIOT (operating system)
-RTLinux
-Random-access memory
-Real-time operating system
 Red Hat Enterprise Linux
-Redox (operating system)
-Repository (version control)
-Research Unix
-Return-oriented programming
-Return-to-libc
-Richard Rashid
-Round-robin scheduling
-Rump kernel
 SPARC
-SPARCstation
-SPIN (operating system)
 SUSE Linux
-Scheduling (computing)
-Secure Shell
-Segmentation fault
-SerenityOS
 Server (computing)
-Shared memory (interprocess communication)
-SharpOS
-Shell (computing)
-Shortest job next
-Singularity (operating system)
-Skylake (microarchitecture)
 Software development kit
 Software framework
 Software license
 Software release life cycle
-Solaris (operating system)
-Spring (operating system)
-Sticky bit
-SunOS
 Sun Microsystems
-Supercomputer operating system
 Symbian
 Symmetric multiprocessing
 System call
-System resource
-TI-RTOS
-Taligent
-Telnet
-Thomas Bushnell
-Thoth (operating system)
 ThreadX
 Thread (computing)
-Time-sharing
-Timeline of operating systems
-Tinix
-Tru64 UNIX
-Trusted computing base
 TvOS
-Twm
-UNICOS
 UNIX System Services
-UNIX System V
 Ubuntu
 Ultrix
-Unikernel
-Unix
-Unix-like
-UnixWare
-Unix architecture
-Unix domain socket
-Unix filesystem
-Unix philosophy
-Unix security
-Unix shell
-Usage share of operating systems
-UserLAnd Technologies
 User interface
-User space
 User space and kernel space
-Utility software
-VMware Workstation
-VSTa
-V (operating system)
-Vanguard (microkernel)
-Versatile Real-Time Executive
-Verve (operating system)
-Vi (text editor)
-VirtualBox
-Virtual file system
-Virtual filesystem
 Virtual machine
-Virtual memory
-Virtual tape library
-Vkernel
-Vrije Universiteit
-WarpOS
 WatchOS
 Wayback Machine
-William Wulf
 Windows-1251
-Windows 3.1
-Windows Services for UNIX
-Windows Subsystem for Linux
-Windows XP
-Wombat (operating system)
-Workplace OS
-X11
 X86
-X Window System
-Xenix
-Xinu
-Xv6
-Z shell
-Zephyr (operating system)

@@ -1,6 +1,5 @@
 Abstract logic
 Ackermann set theory
-Aczel's anti-foundation axiom
 Aleph number
 Algebraic logic
 Alphabet (formal languages)
@@ -12,14 +11,8 @@ Automata theory
 Automated theorem proving
 Axiom
 Axiom of choice
-Axiom of extensionality
-Axiom of infinity
-Axiom of regularity
-Axiom of superuniversality
 Axiom schema
-Axiomatic set theory
 Axiomatic system
-Axiomatization of Boolean algebras
 Banach–Tarski paradox
 Bijection
 Binary operation
@@ -57,11 +50,9 @@ Continuum hypothesis
 Countable set
 Decidability (logic)
 Decision problem
-Deductive system
 Diagram (mathematical logic)
 Doi (identifier)
 Domain of a function
-Duality (mathematics)
 Element (mathematics)
 Elementary diagram
 Elementary equivalence
@@ -82,15 +73,12 @@ Finitary relation
 Finite-valued logic
 Finite model theory
 Finite set
-Finitist set theory
 First-order logic
-First-order theory
 Fixed-point logic
 Forcing (mathematics)
 Formal grammar
 Formal language
 Formal proof
-Formal semantics (logic)
 Formal system
 Formation rule
 Foundations of geometry
@@ -104,7 +92,6 @@ General set theory
 German language
 Grothendieck universe
 Ground expression
-Ground formula
 Gödel's completeness theorem
 Gödel's incompleteness theorems
 Gödel numbering
@@ -114,7 +101,6 @@ Higher-order logic
 Hilbert's axioms
 Hilbert system
 History of logic
-History of mathematical logic
 ISBN (identifier)
 ISSN (identifier)
 Image (mathematics)
@@ -128,20 +114,15 @@ Inhabited set
 Injective function
 Interpretation (logic)
 Interpretation (model theory)
-Interpretation function
 Intersection (set theory)
 Isomorphism
 JSTOR (identifier)
-Jon Barwise
 Kolmogorov complexity
-Kripke's theory of truth
 Kripke–Platek set theory
-Kripke–Platek set theory with urelements
 Lambda calculus
 Large cardinal
 Lemma (mathematics)
 Lindström's theorem
-List of Hilbert systems
 List of axioms
 List of first-order theories
 List of formal systems
@@ -160,7 +141,6 @@ Logical equivalence
 Logical truth
 Logicism
 Löwenheim–Skolem theorem
-MR (identifier)
 Many-valued logic
 Map (mathematics)
 Material conditional
@@ -170,7 +150,6 @@ Mathematical object
 Mathematics
 Metalanguage
 Minimal axioms for Boolean algebra
-Minimal element
 Model complete theory
 Model theory
 Monadic predicate calculus
@@ -185,7 +164,6 @@ Non-Euclidean geometry
 Non-logical symbol
 Non-standard model
 Non-standard model of arithmetic
-Non-well-founded set theory
 Open formula
 Operation (mathematics)
 Ordinal analysis
@@ -194,23 +172,16 @@ P (complexity)
 P versus NP problem
 Paradoxes of set theory
 Partition of a set
-Patrick Suppes
-Peano arithmetic
 Peano axioms
-Peter Aczel
 Philosophy of mathematics
 Power set
 Predicate (mathematical logic)
-Predicate logic
 Predicate variable
 Primitive recursive arithmetic
 Primitive recursive function
 Principia Mathematica
-Principle of explosion
 Proof of impossibility
 Proof theory
-Proper class
-Proper classes
 Proposition
 Propositional calculus
 Propositional formula
@@ -218,11 +189,9 @@ Propositional variable
 Quantifier (logic)
 Quantifier rank
 Recursion
-Recursive set
 Relation (mathematics)
 Reverse mathematics
 Robinson arithmetic
-Ronald Jensen
 Rule of inference
 Russell's paradox
 S2CID (identifier)
@@ -246,7 +215,6 @@ Spectrum of a sentence
 Spectrum of a theory
 Square of opposition
 Strength (mathematical logic)
-String (formal languages)
 Structure (mathematical logic)
 Substitution (logic)
 Substructure (mathematics)
@@ -258,16 +226,13 @@ Syntax (logic)
 T-schema
 Tarski's axiomatization of the reals
 Tarski's axioms
-Tarski's theory of truth
 Tarski's undefinability theorem
 Tarski–Grothendieck set theory
 Tautology (logic)
 Term (logic)
 Term logic
 Theorem
-Theories of truth
 Theory (mathematical logic)
-Thomas Jech
 Three-valued logic
 Timeline of mathematical logic
 Transfer principle
@@ -279,9 +244,7 @@ Truth value
 Turing machine
 Type (model theory)
 Type theory
-Ultrafilter (set theory)
 Ultraproduct
-Unary relation
 Uncountable set
 Undecidable problem
 Uninterpreted function
@@ -297,7 +260,5 @@ Venn diagram
 Von Neumann universe
 Von Neumann–Bernays–Gödel set theory
 Well-formed formula
-Willard Van Orman Quine
-ZFC
 Zermelo set theory
 Zermelo–Fraenkel set theory

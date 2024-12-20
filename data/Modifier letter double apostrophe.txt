@@ -1,7 +1,6 @@
 A
 AZERTY
 A (Cyrillic)
-A with acute (Cyrillic)
 A with breve (Cyrillic)
 A with circumflex (Cyrillic)
 A with diaeresis (Cyrillic)
@@ -12,185 +11,97 @@ A with ogonek (Cyrillic)
 A with ring above (Cyrillic)
 A with tilde (Cyrillic)
 Abkhazian Che
-Abkhazian Che with breve
 Abkhazian Che with descender
 Abkhazian Dze
 Aleut Ka
 B
-Bashkir Ha
 Bashkir Qa
 Be (Cyrillic)
 Be with dot below
-Be with grave
-Be with macron
 Broad On
-BÉPO
 C
-Cche
-Cche with breve
-Ch (digraph)
-Char (Cyrillic)
-Char with high right breve serif
 Che (Cyrillic)
 Che Sha
-Che with acute
-Che with breve
-Che with comma
 Che with descender
 Che with descender and dot below
 Che with diaeresis
-Che with dot above
 Che with dot below
-Che with grave
 Che with hook
-Che with inverted breve
 Che with vertical stroke
-Cil (Cyrillic)
-Cil with bar
-Classical Latin alphabet
-Colemak
-Cyrillic o variants
 Cyrillic script
 D
 DIN 91379
-Dan language
 Dche
 De (Cyrillic)
-De with acute
 De with breve
 De with caron
-De with comma
-De with diaeresis
-De with dot below
-De with grave
-De with ogonek
 Dhe (Cyrillic)
 Diacritic
 Dje
-Dje with high right breve serif
 Djerv
 Dotted I (Cyrillic)
 Dotted I with acute
-Dotted I with circumflex
-Dotted I with curve at bottom
-Dotted I with dot below
-Dotted I with ogonek
 Dvorak keyboard layout
 Dwe (Cyrillic)
-Dz (digraph)
 Dze
 Dzhe
-Dzhe with breve
 Dzwe
 Dzze
 Dzzhe
-Dž
 E
 E (Cyrillic)
-E with acute (Cyrillic)
 E with breve (Cyrillic)
-E with circumflex (Cyrillic)
 E with diaeresis (Cyrillic)
-E with diaeresis and acute
-E with diaeresis and macron
 E with dot above (Cyrillic)
 E with macron (Cyrillic)
-E with ogonek (Cyrillic)
 Early Cyrillic alphabet
-Eau (trigraph)
 Ef (Cyrillic)
-Ef with comma
-Ef with inverted breve
 El (Cyrillic)
-El Er
-El with acute
 El with descender
-El with diaeresis
-El with dot above
-El with grave
 El with hook
-El with inverted breve
 El with middle hook
-El with retroflex hook
 El with tail
 Em (Cyrillic)
-Em with grave
 Em with tail
-Em with tilde
 En-ge
 En (Cyrillic)
-En with acute
-En with cedilla
 En with descender
-En with grave
 En with hook
 En with left hook
 En with macron
 En with middle hook
-En with palatal hook
 En with tail
-En with tilde (Cyrillic)
-Enets language
 Er (Cyrillic)
-Er with acute
 Er with caron
-Er with grave
 Er with tick
-Er with tilde
 Es (Cyrillic)
-Es with caron
 Es with diaeresis
-Es with dot below (Cyrillic)
-Es with grave
-Es with macron below
 F
 Fita
 G
 Ge (Cyrillic)
-Ge split by middle ring
 Ge with breve
 Ge with caron
 Ge with cedilla
-Ge with circumflex
-Ge with comma
 Ge with descender
-Ge with diaeresis
-Ge with dot above
 Ge with dot below
-Ge with grave
 Ge with hook
 Ge with inverted breve
 Ge with macron
 Ge with middle hook
-Ge with middle hook and breve
-Ge with middle hook and grave
-Ge with ring above
 Ge with stroke
 Ge with stroke and caron
 Ge with stroke and descender
-Ge with stroke and hook
-Ge with stroke and ring above
-Gh (digraph)
 Ghe with upturn
 Gje
-Glottal stop
 Glyph
 H
 Hard sign
-Hard sign with diaresis
-Hard sign with diaresis and macron
 Hard sign with grave
-Hard sign with macron
-History of the Latin script
-Hungarian dzs
 Hungarian ly
 Hwe (Cyrillic)
 I
-IJ (digraph)
-ISO/IEC 646
-ISO basic Latin alphabet
 I (Cyrillic)
-I with acute (Cyrillic)
 I with circumflex (Cyrillic)
 I with diaeresis (Cyrillic)
 I with grave (Cyrillic)
@@ -200,51 +111,27 @@ International Phonetic Alphabet
 Iota (Cyrillic)
 Iotated A
 Iotated E
-Iotated uk
-Iotated uk with breve
 Izhitsa
 J
 Je (Cyrillic)
 Je with belt
 Je with stroke (Cyrillic)
-Je with tilde
 K
 Ka (Cyrillic)
 Ka with ascender
-Ka with breve
 Ka with circumflex
-Ka with comma
 Ka with descender
-Ka with diaeresis
-Ka with dot above
-Ka with dot below
 Ka with grave
 Ka with hook
-Ka with hook and breve
-Ka with inverted breve
-Ka with loop
 Ka with macron
-Ka with ring above
 Ka with stroke
 Ka with vertical stroke
 Kazakh Short U
 Kha (Cyrillic)
-Kha with acute
-Kha with breve
-Kha with caron
-Kha with cedilla
-Kha with comma
 Kha with descender
-Kha with dot above
-Kha with dot below
-Kha with grave
 Kha with hook
 Kha with inverted breve
-Kha with inverted breve below
-Kha with macron below
-Kha with ring above
 Kha with stroke
-Kha with stroke and ring above
 Kha with vertical tilde
 Khakassian Che
 Kje
@@ -260,241 +147,138 @@ Koppa (Cyrillic)
 Ksi (Cyrillic)
 L
 Latin-script alphabet
-Latin-script multigraph
-Latin letters used in mathematics
 Latin script
-Latin script in Unicode
 Lha (Cyrillic)
-Ligature (writing)
 List of Cyrillic letters
 List of Cyrillic multigraphs
-List of Latin-script alphabets
-List of Latin-script digraphs
-List of Latin-script keyboard layouts
-List of Latin-script letters
-List of Latin-script pentagraphs
-List of Latin-script tetragraphs
-List of Latin-script trigraphs
-List of precomposed Latin characters in Unicode
-List of typographical symbols and punctuation marks
-Lj (digraph)
 Lje
-Ll
-Long Es
 M
 Modifier letter apostrophe
 N
-Neo (keyboard layout)
 Neutral Yer
-Nganasan language
 Nh (digraph)
-Nj (digraph)
 Nje
 Ny (digraph)
 O
 O-hook
 O (Cyrillic)
-O with acute (Cyrillic)
 O with breve (Cyrillic)
 O with circumflex (Cyrillic)
 O with diaeresis (Cyrillic)
-O with diaeresis and macron (Cyrillic)
 O with grave (Cyrillic)
 O with left notch
 O with macron (Cyrillic)
-O with open bottom
-O with open top
 O with tilde (Cyrillic)
 Oe (Cyrillic)
-Oe with acute
 Oe with breve
 Oe with diaeresis
 Oe with macron
-Old Serbian Ha
 Omega (Cyrillic)
 Ot (Cyrillic)
-Ough (orthography)
 P
-Palaeography
 Palochka
 Pe (Cyrillic)
-Pe with acute
-Pe with cedilla
-Pe with comma
 Pe with descender
-Pe with diaeresis
-Pe with grave
-Pe with inverted breve
 Pe with middle hook
 Psi (Cyrillic)
 Q
-QWERTY
-QWERTZ
 Qa (Cyrillic)
-Qa with breve
-Qaf with ring above
 Quotation mark
 R
 Reversed Tse
-Reversed Yu
 Reversed Ze
 Reversed Ze with diaeresis
 Rha (Cyrillic)
 Roman numerals
-Romanization
 S
 Schwa (Cyrillic)
 Schwa with acute
 Schwa with diaeresis
 Schwa with tilde
-Script A
-Script U
 Semisoft sign
-Sh (digraph)
 Sha (Cyrillic)
 Sha with breve
-Sha with dot below
-Sha with grave
-Sha with inverted breve
 Shcha
-Shcha with breve
 Shha
-Shha with Cil top
 Shha with descender
-Shha with diaeresis
-Shha with high right breve serif
 Shha with hook
-Shha with macron below
 Short I (Cyrillic)
 Short I with tail
 Short U (Cyrillic)
 Shwe (Cyrillic)
-Shwe with breve
 Sje
 Slavic languages
 Soft De
 Soft El
 Soft Em
 Soft sign
-Spelling alphabet
-Split at right Er
-Spread of the Latin script
 Superscript En
-Sz (digraph)
 T
 Tche
 Te (Cyrillic)
-Te El
-Te El with retroflex hook
 Te Tse (Cyrillic)
-Te with acute
 Te with caron
-Te with cedilla
-Te with comma
 Te with descender
-Te with diaeresis
-Te with dot above
-Te with dot below
-Te with grave
-Te with inverted breve
 Te with middle hook
-Th (digraph)
 The (Cyrillic)
-The with comma
 Tje
 Tse (Cyrillic)
-Tse with acute
-Tse with caron
-Tse with comma
-Tse with diaeresis
-Tse with grave
 Tse with long left leg
 Tshe
 Tsse (Cyrillic)
 Tswe
-Tswe with breve
-Tundra Nenets language
 Twe
-Twe with breve
-Tzsch
 U
 U (Cyrillic)
-U with acute (Cyrillic)
 U with circumflex (Cyrillic)
 U with diaeresis (Cyrillic)
-U with diaeresis and macron (Cyrillic)
-U with dot above (Cyrillic)
 U with double acute (Cyrillic)
 U with grave (Cyrillic)
 U with macron (Cyrillic)
-U with ogonek (Cyrillic)
 U with ring above (Cyrillic)
 U with tilde (Cyrillic)
 Ue (Cyrillic)
 Ue with acute (Cyrillic)
 Uk (Cyrillic)
-Uk with acute
 Ukrainian Ye
-Ukrainian Ye with acute
 Ukrainian Ye with diaeresis
-Unicode superscripts and subscripts
 V
 Ve (Cyrillic)
 Ve with caron
-Ve with grave
-Voiceless El
-Voiceless El with comma
 W
 We (Cyrillic)
-Western Latin character sets (computing)
 X
-X-SAMPA
 Y
 Ya (Cyrillic)
-Ya with acute
 Ya with breve
-Ya with circumflex
 Ya with diaeresis
 Ya with grave
 Ya with macron
-Ya with ogonek
 Yae (Cyrillic)
 Yat
-Yat with acute
-Yat with breve
 Yat with diaeresis
 Ye (Cyrillic)
 Ye with acute
 Ye with breve
 Ye with circumflex
-Ye with dot above
 Ye with grave
 Ye with macron
-Ye with ogonek
 Ye with tilde
 Yery
-Yery with acute
 Yery with breve
-Yery with circumflex
-Yery with connecting stroke
 Yery with diaeresis
 Yery with macron
-Yery with tilde
 Yi (Cyrillic)
 Yn
 Yo (Cyrillic)
 Yo with macron
 Yu (Cyrillic)
-Yu with acute
 Yu with breve
 Yu with diaeresis
 Yu with grave
 Yu with macron
-Yu wth circumflex
 Yus
 Z
 Ze (Cyrillic)
-Ze with breve
 Ze with caron
 Ze with diaeresis
-Ze with dot below

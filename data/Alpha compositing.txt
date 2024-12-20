@@ -2,131 +2,61 @@
 2D computer graphics
 3D computer graphics
 3D projection
-3D rendering
-APNG
 Affine transformation
-Aliasing
-Alpha to coverage
-Alvy Ray Smith
 Anisotropic filtering
-Apple Intermediate Codec
-Apple ProRes
 Back-face culling
-Beam tracing
-Bit blit
-Blend modes
-Cel shading
-Checkerboard rendering
-Chromium (web browser)
-CiteSeerX (identifier)
 Clipping (computer graphics)
-Clipping path
 Collision detection
 Comparison of vector graphics editors
-Compositing
 Computer-generated imagery
 Computer graphics
-Computer graphics (computer science)
 Computer graphics lighting
 Cone tracing
-Convex combination
 Data compression
 Deferred shading
 Diffusion curve
-Digital compositing
-Dither
 Doi (identifier)
-Ed Catmull
-File format
 Film
-Filter (signal processing)
 Fluid animation
-GIF
-Gamma correction
 Global illumination
-Graphics Interchange Format
 Graphics software
-H.264
-HTML video
 Hidden-surface determination
-High Efficiency Video Coding
-High color
 ISBN (identifier)
 Image-based modeling and rendering
-Image file format
-Interpolation
 Isometric video game graphics
 JPEG XL
 Layers (digital image editing)
-List of 3D animation software
 List of 3D computer graphics software
 List of 3D modeling software
 List of 3D rendering software
 List of computer graphics algorithms
-List of monochrome and RGB color formats
-Live footage
-Magic Pink
-Mask (computing)
-Matte (filmmaking)
 Mode 7
-New York Institute of Technology Computer Graphics Lab
-OpenEXR
-Order-independent transparency
-PNG
-Painter's algorithm
-Palette (computing)
 Parallax scrolling
 Path tracing
-Picture element
 Pixel
 Planar projection
 Polygon mesh
-Portable Network Graphics
-RGBA color space
-RGB color model
 Raster graphics editor
-Rasterized
-Ray casting
 Ray tracing (graphics)
-Reflectance
 Reflection (computer graphics)
 Rendering (computer graphics)
 Rotation (mathematics)
 S2CID (identifier)
-SVG
-Safari (web browser)
 Scaling (geometry)
 Scanline rendering
 Shader
 Shading
 Shadow mapping
-Shadow volume
 Shear matrix
 Skybox (video games)
 Spectral rendering
 Stained glass
 Surface triangulation
-TARGA
-TIFF
-Tagged Image File Format
 Texel (graphics)
-Text-to-image model
-Texture splatting
-Thomas Porter (Pixar)
-Tom Duff
-Translation (geometry)
-Transmittance
-Transparency (graphic)
 Transparency and translucency
 Triangle mesh
-Truevision TGA
-Tuple
 Unbiased rendering
-Vector graphics
 Visible spectrum
-Volume rendering
 Voxel
-WebM
-Windows bitmap
 Wire-frame model
 YouTube

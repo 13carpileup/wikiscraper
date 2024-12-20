@@ -1,39 +1,7 @@
 API
-Chew's second algorithm
 Computer graphics
-Delaunay triangulation
 DirectX
-Edge (geometry)
 Graphics software
-Hypergraph
-Image-based meshing
-Implicit surface
-Laplacian smoothing
-Marching cubes
-Marching tetrahedra
-Mesh generation
-Möller-Trumbore algorithm
-Nonobtuse mesh
 Nonuniform rational B-spline
-OpenGL
-Parallel mesh generation
 Point cloud
 Polygon mesh
-Principles of Grid Generation
-Regular grid
-Ruppert's algorithm
-Stretched grid method
-Tessellation (computer graphics)
-Three dimensions
-Triangle
-Triangle fan
-Triangle strip
-Triangulated irregular network
-Triangulation (geometry)
-Triangulation (topology)
-Types of mesh
-Unstructured grid
-Vertex (computer graphics)
-Vertex (geometry)
-Vertex Buffer Object
-Volume mesh

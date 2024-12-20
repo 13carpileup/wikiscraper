@@ -1,8 +1,5 @@
-3D user interface
 ACM Computing Classification System
 API
-Accessibility
-Adaptive user interfaces
 Aesthetics
 Algorithm
 Algorithm design
@@ -10,29 +7,15 @@ Algorithmic efficiency
 Analysis of algorithms
 Apple Inc.
 Application security
-Application software
 Artificial intelligence
 Attention
-Attentive user interface
 Augmented reality
 Automata theory
 Automated planning and scheduling
-Batch processing
-Bell Labs
-Blit (computer terminal)
 Booting
 Brain–computer interface
-Brain–machine interface
-Bus error
 Chatbot
-Cochlear implants
-Command-line interface
 Command (computing)
-Command line interface
-Command verb
-Comparison of operating systems
-Comparison of user features of operating systems
-Compile and go system
 Compiler construction
 Computability theory
 Computational biology
@@ -50,28 +33,18 @@ Computer architecture
 Computer data storage
 Computer graphics
 Computer hardware
-Computer monitor
-Computer mouse
 Computer multitasking
 Computer network
-Computer numerical control
 Computer science
 Computer security
-Computer user satisfaction
 Computer vision
 Computing
 Computing platform
-Concision
 Concurrency (computer science)
 Concurrent computing
-Context switch
 Control theory
 Control variable (programming)
-Conversational interfaces
-Conversational user interface
-Cooperative multitasking
 Cross-validation (statistics)
-Crossing-based interface
 Cryptography
 Cyberwarfare
 DOS
@@ -79,219 +52,112 @@ Data mining
 Database
 Decision-making
 Decision support system
-Defragmentation
 Dependability
-Desktop metaphor
-Deutsche Bahn
 Device driver
-Device file
-Dialogue system
 Digital Research
 Digital art
 Digital library
 Digital marketing
-Direct manipulation
-Direct manipulation interface
-Direct neural interface
-Direct voice input
 Discrete mathematics
-Disk operating system
 Disk partitioning
-Distinguishable interfaces
 Distributed artificial intelligence
 Distributed computing
-Distributed operating system
 Document management system
 Doi (identifier)
 Domain-specific language
-Douglas Engelbart
 E-commerce
 Educational technology
-Efficiency
 Electronic design automation
 Electronic publishing
 Electronic voting
 Electronics
-Embedded operating system
 Embedded system
 Enterprise information system
 Enterprise software
-Ergonomics
-Exokernel
 Eye tracking
-File attribute
 File system
 Finger tracking
-Fixed-priority pre-emptive scheduling
-Flat design
-Forensic software engineering
-Forgiveness
 Form factor (design)
 Formal language
 Formal methods
-GSM Man-Machine Interface
-GUI
-General protection fault
 Geographic information system
-Gesture
-Gesture recognition
 Google
 Google Glass
-Graphical
 Graphical user interface
-Graphical widget
-Graphics
 Graphics processing unit
 Green computing
-Habit
-Haptic communication
-Hardware abstraction
 Hardware acceleration
 Hardware security
 Health informatics
 Hearing
-Heavy machinery
-History of operating systems
-History of the GUI
-Hobbyist operating system
-Human factors
-Human factors engineering
-Human interface device
 Human–computer interaction
-Hybrid kernel
-Hypertext
-IBM Common User Access
-IBM Systems Application Architecture
 ISBN (identifier)
 ISSN (identifier)
-Icon design
 Image compression
-Immersive digital environment
 Industrial design
-Industry (manufacturing)
-Information architecture
-Information overload
 Information retrieval
 Information security
 Information system
 Information theory
-Information visualization
-Inode
-Input device
 Integrated circuit
 Integrated development environment
-Intelligent user interfaces
 Inter-process communication
 Interaction design
-Interaction protocol
-Interaction technique
-Intercity-Express
 Interface (computing)
 Interpreter (computing)
-Interrupt
 Intrusion detection system
-Jakob Nielsen (usability consultant)
-Journaling file system
-Just enough operating system
 Kernel (operating system)
-Keypunch
-Kinetic user interface
 Knowledge representation and reasoning
-Knowledge visualization
 Library (computing)
-Line printer
 List of computer size categories
-List of operating systems
-Live CD
-Live USB
-Loadable kernel module
 Logic in computer science
-MIT
 Machine
 Machine learning
-Macintosh 128K
-Magnetic tape data storage
-Man–machine interface
 Mathematical analysis
 Mathematical optimization
 Mathematical software
-Memory management (operating systems)
-Memory paging
-Memory protection
-Microkernel
 Microsoft Windows
 Middleware
 Mixed reality
 Mnemonic
 Mobile device
 Mobile operating system
-Modality (human–computer interaction)
 Model of computation
 Modeling language
 Monolithic kernel
 Motion capture
-Mouse gesture
 Multi-task learning
 Multi-touch
-Multikernel
-Multilevel feedback queue
 Multimedia database
-Multimodal interaction
-Multimodal interface
-Multiple frames interface
 Multiprocessing
 Multithreading (computer architecture)
-NLS (computer system)
-Natural-language user interface
 Natural language processing
-Natural language user interface
-Natural user interface
 Network architecture
-Network operating system
 Network performance
 Network protocol
 Network scheduler
 Network security
 Network service
 Networking hardware
-Non-volatile memory
 Numerical analysis
-OS/2
-Object-oriented operating system
 Object-oriented programming
-Object-oriented user interface
-Olfaction
 Open-source software
 Operating system
-Operating systems
 Operations research
-Organic user interface
 Outline of computer science
-PARC (company)
 PMC (identifier)
 PMID (identifier)
-Paper tape
 Parallel computing
 Peripheral
-Persona
-Peter Morville
 Philosophy of artificial intelligence
 Photograph manipulation
-Pirates of Silicon Valley
-Plugboard
 Point of sale
-Pointer (user interface)
-Positional tracking
-Post-WIMP
-Preboot Execution Environment
 Preemption (computing)
-Principle of least astonishment
 Printed circuit board
 Printer (computing)
 Probability
 Process (computing)
 Process control
-Process control block
 Process management (computing)
 Processor (computing)
 Programming language
@@ -299,38 +165,18 @@ Programming language theory
 Programming paradigm
 Programming team
 Programming tool
-Prostheses
-Protection ring
 Psychology
-Punched card
-Qualia
 Quantum Computing
 Randomized algorithm
-Reactable
 Real-time computing
-Real-time operating system
 Reinforcement learning
 Rendering (computer graphics)
 Requirements analysis
-Resident monitor
-Responsiveness
-Rob Pike
-Rogue (video game)
-Round-robin scheduling
-Rump kernel
 S2CID (identifier)
-SRI International
-Scheduling (computing)
 Science fiction
 Security hacker
 Security service (telecommunication)
-Segmentation fault
 Semantics (computer science)
-Sense of balance
-Shell (computing)
-Shortest job next
-Simulator
-Smell-O-Vision
 Social computing
 Social software
 Software configuration management
@@ -345,85 +191,30 @@ Software maintenance
 Software quality
 Software repository
 Solid modeling
-Somatosensory system
 Statistics
 Steam locomotive
 Steve Jobs
 Stochastic computing
-Stylus
 Stylus (computing)
-Super Bowl commercials
-Supercomputer operating system
 Supervised learning
-System console
 System on a chip
-System resource
 Systems engineering
-Tangible user interface
-Task-focused interface
-Taste
-Teleprinter
-Teletype
-Text-based user interface
 Theoretical computer science
 Theory of computation
 Thread (computing)
-Time-sharing
-Timeline of operating systems
-Tool
-Touch user interface
-Touchpad
-Touchscreen
-Turnaround time
 Ubiquitous computing
-Unified Code for Units of Measure
-Unikernel
-Unit operation
-Unix
 Unsupervised learning
 Usability
-Usability engineering
-Usage share of operating systems
-Use cases
-User-centered design
-User assistance
 User experience
-User experience design
-User interface design
-User interface specification
 User space and kernel space
-Useware
 Very Large Scale Integration
-Vi (text editor)
 Video game
-Video production
-Virtual artifact
-Virtual assistant
-Virtual file system
 Virtual machine
-Virtual memory
 Virtual reality
-Virtual tape library
-Virtual user interface
 Visual perception
 Visualization (graphics)
-Vkernel
-Voice search
-Voice user interface
-WIMP (computing)
-WYSIWYG
 Wayback Machine
 Wearable computer
-Web application
 Web browser
-Web page
-Window (computing)
-Windows 1.0
-Windows 2.0
 Word processor
 World Wide Web
-X Window System
-Xerox Alto
-Xerox Star
-Xfce
-Zooming user interface

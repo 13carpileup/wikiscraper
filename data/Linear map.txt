@@ -1,197 +1,61 @@
-Abstract index notation
 Addition
-Additive map
-Affine connection
 Affine transformation
 Albert Einstein
-Albert Wilansky
-Algebraic function
-American Mathematical Society
-Analytic function
-Angular momentum
-Antiderivative
-Antilinear map
-Antisymmetric tensor
 Associative algebra
-Atiyah–Singer index theorem
-Augustin-Louis Cauchy
-Automorphism
-Automorphism group
-Balanced set
-Basic Linear Algebra Subprograms
 Basis (linear algebra)
-Basis of a vector space
-Bent function
-Bernhard Riemann
 Bijection
 Bilinear map
-Bimorphism
-Binary relation
-Bivector
 Block matrix
-Boolean-valued function
 Boolean function
 Bounded operator
-Bronshtein and Semendyayev
 Cambridge University Press
-Cardinal number
 Carl Friedrich Gauss
-Cartan formalism (physics)
 Category (mathematics)
-Category of matrices
 Category theory
-Cauchy's functional equation
-Cauchy stress tensor
-Change of basis
 Class (set theory)
 Codomain
-Cokernel
-Column vector
-Comparison of linear algebra libraries
-Compiler optimizations
-Complex-valued function
-Composition of maps
 Computer graphics
 Computer vision
-Conformal linear transformation
-Connection form
 Constant function
-Continuous function
-Continuous function (topology)
-Continuous linear operator
-Continuum mechanics
-Convex set
 Coordinate system
-Covariance and contravariance of vectors
-Covariant derivative
 Cramer's rule
-Cross product
-Degrees of freedom
 Derivative
 Determinant
-Differential form
 Differential geometry
-Dimension
 Dimension (vector space)
-Direct sum of modules
-Discontinuous linear map
-Discontinuous linear operator
 Domain of a function
 Dot product
 Dual space
-Dyadics
 Eigenvalues and eigenvectors
-Einstein notation
-Einstein tensor
 Electromagnetic tensor
 Electromagnetism
-Elwin Bruno Christoffel
 Encyclopedia of Mathematics
-Endomorphism
-Endomorphisms
 Engineering
-Epimorphism
-Equivalence of categories
-Eric Schechter
 Euclidean geometry
-Euclidean space
-Euclidean vector
-Euler characteristic
 European Mathematical Society
-Exact sequence
-Expected value
-Extension of a function
 Exterior algebra
-Exterior calculus
-Exterior covariant derivative
-Exterior derivative
-Exterior form
-Exterior product
-Fiber bundle
 Field (mathematics)
-Finite-dimensional
-Floating-point arithmetic
-Fredholm operator
 Function (mathematics)
 Function composition
-Function of a complex variable
-Function of a real variable
-Function of several complex variables
-Function of several real variables
-Function space
 Functional analysis
-Functor
 Gaussian elimination
-General linear group
-General relativity
-Geodesic
 Geometric algebra
 Geometric transformation
 Glossary of linear algebra
-Glossary of tensor theory
-Gluon field strength tensor
 Graduate Texts in Mathematics
-Gram–Schmidt process
 Graph of a function
-Gregorio Ricci-Curbastro
-Group (math)
-Group isomorphism
 Hadamard product (matrices)
-Hahn–Banach theorem
-Helmut H. Schaefer
-Hermann Grassmann
-Hermann Weyl
-Higher-order function
-History of the function concept
-Hodge star operator
-Homogeneous function
-Homothety
 ISBN (identifier)
-Idempotent
-Identity function
 Image (mathematics)
-Implicit function
-Index notation
-Injective
 Injective function
 Inner product space
-Integer-valued function
 Integral
-Interval (mathematics)
-Inverse (ring theory)
-Inverse function
-Invertible matrix
-Isometry
 Isomorphism
-Jan Arnoldus Schouten
-Kernel (linear algebra)
-Kernel (linear operator)
-Kernel (matrix)
-Kronecker delta
 Kronecker product
 Lambda calculus
-Leonhard Euler
-Levi-Civita connection
-Levi-Civita symbol
-Lie derivative
 Line (geometry)
-Linear Operators
-Linear Operators (book)
 Linear algebra
-Linear combination
-Linear endomorphism
-Linear function
-Linear functional
-Linear independence
-Linear isometry
-Linear isomorphism
-Linear operator
-Linear span
 Linear subspace
-Linear transformation
-List of mathematical functions
-Loring W. Tu
-Manifold
 Map (mathematics)
 Mathematical analysis
 Mathematician
@@ -200,130 +64,34 @@ Matrix (mathematics)
 Matrix addition
 Matrix decomposition
 Matrix multiplication
-McGraw-Hill Science/Engineering/Math
-Measurable function
-Metric tensor
-Metric tensor (general relativity)
-Minor (linear algebra)
-Mixed tensor
 Module (mathematics)
-Module homomorphism
-Moment of inertia
-Monic morphism
-Monomorphism
-Morphism
-Multi-index notation
 Multilinear algebra
 Multilinear map
-Multivalued function
 Multivector
 Möbius transformation
-Nilpotent
-Nonmetricity tensor
-Normed space
-Numerical linear algebra
-Numerical stability
 OCLC (identifier)
 Operation (mathematics)
-Operator theory
-Ordered pair
-Origin (geometry)
 Orthogonality
-Outer product
-Outermorphism
-Outline of linear algebra
-Parallelizing compiler
-Partial function
-Paul Halmos
-Penrose graphical notation
 Physics
-Plane (geometry)
-Pointwise
 Polynomial
-Productive matrix
 Projection (linear algebra)
-Pseudotensor
-Quasilinearization
-Quotient space (linear algebra)
-Raising and lowering indices
-Random variable
-Range of a function
 Rank (linear algebra)
-Rank of a matrix
-Rank–nullity theorem
 Rational function
-Real-valued function
-Real matrix
 Real number
-Reflection (mathematics)
 Relation (mathematics)
-Relation composition
-Restriction (mathematics)
-Ricci calculus
-Ricci curvature
-Riemann curvature tensor
-Ring (algebra)
 Ring (mathematics)
 Rotation (mathematics)
-Rotations and reflections in two dimensions
-Row and column spaces
-Row and column vectors
 Scalar (mathematics)
-Scalar matrix
 Scalar multiplication
 Scaling (geometry)
-Seminorm
 Sequence
-Serge Lang
-Set-valued function
 Set (mathematics)
-Seven-dimensional cross product
-Shear mapping
-Sheldon Axler
-Smooth function
-Sparse matrix
-Spin tensor
-Spinor
-Springer-Verlag
 Springer Science+Business Media
-Squeeze mapping
-Stress–energy tensor
-Surjective
 Surjective function
-Symmetric tensor
-Symmetrization
 System of linear equations
 Tensor
-Tensor (intrinsic definition)
 Tensor algebra
-Tensor bundle
-Tensor calculus
 Tensor contraction
-Tensor density
-Tensor field
-Tensor operator
 Tensor product
-Tensors in curvilinear coordinates
-Tetrad (index notation)
-Topological vector space
-Torsion tensor
-Transformation matrix
-Transport phenomena
 Transpose
-Triple product
-Tullio Levi-Civita
-Two-point tensor
-Unit (ring theory)
-Van der Waerden notation
-Variance
-Vector (mathematics and physics)
-Vector addition
-Vector projection
 Vector space
-Vector subspace
-Voigt notation
-Walter Rudin
-Weyl tensor
-Woldemar Voigt
-Yitzhak Katznelson
-Élie Cartan

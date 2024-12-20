@@ -5,22 +5,17 @@ Application checkpointing
 ArXiv (identifier)
 Array (data structure)
 Asymmetric multiprocessing
-Asynchronous I/O
 Ateji PX
 Automatic parallelization
 Barrier (computer science)
 Beowulf cluster
 Bit-level parallelism
-Boost (C++ libraries)
-Boost Software License
 Bulldozer (microarchitecture)
 C++
-C++ AMP
 CUDA
 Cache-only memory architecture
 Cache coherence
 Cache invalidation
-Center for Computation and Technology
 Chapel (programming language)
 Charm++
 Cilk
@@ -46,7 +41,6 @@ Dryad (programming)
 Embarrassingly parallel
 Explicit parallelism
 Fiber (computer science)
-Fine-grained
 Flynn's taxonomy
 GPUOpen
 General-purpose computing on graphics processing units
@@ -55,7 +49,6 @@ Grid computing
 Gustafson's law
 Hardware acceleration
 Hardware scout
-Hemopexin
 High-performance computing
 ISBN (identifier)
 ISSN (identifier)
@@ -66,7 +59,6 @@ Instruction window
 Karp–Flatt metric
 Linux
 Loop-level parallelism
-Louisiana State University
 Mac OS X
 Manycore processor
 Massively parallel
@@ -78,11 +70,9 @@ Multiple instruction, multiple data
 Multiple instruction, single data
 Multiprocessing
 Multithreading (computer architecture)
-N-body problem
 Neutron star
 Non-blocking algorithm
 Non-uniform memory access
-OSTI (identifier)
 OpenACC
 OpenCL
 OpenHMPP
@@ -95,8 +85,6 @@ Parallel computing
 Parallel external memory
 Parallel programming model
 Parallel slowdown
-Partitioned global address space
-Peridynamics
 Pipeline (computing)
 Preemption (computing)
 Process (computing)
@@ -105,11 +93,8 @@ Pthreads
 ROCm
 Race condition
 RaftLib
-Repository (version control)
-Run-time system
 S2CID (identifier)
 Scalability
-Scientific computing
 Semiconductor memory
 Shared memory
 Simultaneous and heterogeneous multithreading
@@ -125,7 +110,6 @@ Speculative multithreading
 Speedup
 Starvation (computer science)
 Stream processing
-Supercomputer
 Superscalar processor
 Symmetric multiprocessing
 Synchronization (computer science)
@@ -138,4 +122,3 @@ Unified Parallel C
 Uniform memory access
 Vector processor
 Wayback Machine
-ZPL (programming language)

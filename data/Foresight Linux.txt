@@ -1,4 +1,3 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
 AlmaLinux
@@ -18,7 +17,6 @@ Austrumi Linux
 BLAG Linux and GNU
 BackBox
 BackTrack
-Banshee (media player)
 Bharat Operating System Solutions
 BioSLAX
 BlackArch
@@ -55,7 +53,6 @@ DemoLinux
 Devuan
 DivestOS
 DoudouLinux
-Dpkg
 Dreamlinux
 EMUI
 Edubuntu
@@ -75,8 +72,6 @@ Free software
 FreedomBox
 Freespire
 Frugalware Linux
-GNOME
-GNOME Do
 GNU Guix System
 GNewSense
 GOS (operating system)
@@ -87,13 +82,9 @@ GoboLinux
 Gobuntu
 GrapheneOS
 HandyLinux
-Hyperbola GNU/Linux-libre
-IA-32
-ISO image
 Immunix
 IodéOS
 Jurix
-KDE
 KDE neon
 KaOS
 KaiOS
@@ -107,7 +98,6 @@ Kongoni (operating system)
 Korora (operating system)
 Kubuntu
 Kwort Linux
-LXDE
 LXLE Linux
 Libranet
 LinHES
@@ -136,7 +126,6 @@ Mer (software distribution)
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Musix GNU+Linux
 Network Security Toolkit
 NimbleX
 Nitix
@@ -151,9 +140,7 @@ OpenSUSE
 Open Enterprise Server
 Oracle Linux
 PCLinuxOS
-PackageKit
 Package manager
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
@@ -171,8 +158,6 @@ PureOS
 Q4OS
 Qubes OS
 ROSA Linux
-RPM Package Manager
-RPath
 Raspberry Pi OS
 Red Hat Enterprise Linux
 Red Hat Linux
@@ -182,7 +167,6 @@ Replicant (operating system)
 Resurrection Remix OS
 Rocks Cluster Distribution
 Rocky Linux
-Rolling release
 SUSE Linux
 SUSE Linux Enterprise
 SUSE Studio
@@ -191,10 +175,8 @@ Sabily
 Sailfish OS
 Salix OS
 Scientific Linux
-Shuttle Inc.
 Slackware
 Slax
-Snapshot (computer storage)
 Softlanding Linux System
 Software release life cycle
 Software repository
@@ -226,17 +208,13 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 User interface
 VectorLinux
 Vine Linux
 Void Linux
 Whonix
 Wubuntu
-X86-64
 XB Machine
-Xfce
 Xubuntu
 Yellow Dog Linux
 Zenwalk

@@ -1,297 +1,32 @@
-Academic Free License
-Adriaan de Groot (software developer)
-Akademy
-Akonadi
-Alternative terms for free software
-Amarok (software)
 Android (operating system)
-Angelfish (web browser)
 Apache License
-AppStream
-Apple Public Source License
-Ark (software)
-Artistic License
-AsteroidOS
-BSD licenses
-Beerware
-Btrfs
 C++
-Calligra Flow
-Calligra Plan
-Calligra Sheets
-Calligra Stage
-Calligra Suite
-Calligra Words
-Cantor (mathematics software)
-Celeste Lyn Paul
-Cervisia
-Common Development and Distribution License
-Community of practice
-Comparison of free and open-source software licenses
-Comparison of free software for audio
-Comparison of open-source and closed-source software
-Comparison of open-source configuration management software
-Comparison of open-source operating systems
-Comparison of open-source wireless drivers
-Comparison of shopping cart software
-Comparison of source-code-hosting facilities
-Contributor License Agreement
-Copyleft
-Cornelius Schumacher
-Creative Commons license
-D-Bus
-David Vignoni
-Debian Free Software Guidelines
-Definition of Free Cultural Works
-Desktop communication protocol
 Device driver
-DigiKam
 Digital rights management
-Discover (software)
 Disk partitioning
-Dolphin (file manager)
-Dragon Player
-Eclipse Public License
-ExFAT
-Ext4
-F2FS
-Falkon
-FeatherPad
 File system
-Filelight
-Flake (KDE)
 Fork (software development)
-Frank Karlitschek
-Free-software license
-Free Software Foundation
-Free Software Movement of India
-Free and open-source graphics device driver
-Free and open-source software
-Free license
 Free software
-Free software movement
-Freedesktop.org
-GCompris
-GNU Affero General Public License
 GNU General Public License
-GNU Lesser General Public License
-GNU Manifesto
-GStreamer
-GUID Partition Table
-Gambas
-Gratis versus libre
-Gwenview
-History of free and open-source software
 IOS
-ISC license
-JuK
-K3b
-KAlarm
-KAlgebra
-KBibTeX
-KCalc
-KColorEdit
-KDE
-KDE Applications
-KDE Connect
-KDE Display Manager
-KDE Education Project
-KDE Frameworks
-KDE Frameworks 5
-KDE Image Plugin Interface
-KDE Plasma
-KDE Plasma 4
-KDE Plasma 5
-KDE Plasma 6
-KDE Platform
-KDE Platform 4
-KDE Software Compilation
-KDE Software Compilation 4
-KDE System Guard
-KDE e.V.
-KDesktop
 KDevelop
-KGPG
-KGeography
-KGet
-KHTML
-KHangMan
-KIO
-KImageMapEditor
-KJS (software)
-KLettres
-KMyMoney
-KOffice
-KParts
-KPhotoAlbum
-KPilot
-KRename
-KSnapshot
-KStars
-KTorrent
-KTouch
-KTurtle
-KWallet
-KWin
-KWord
-KWordQuiz
-KWrite
-K Desktop Environment 1
-K Desktop Environment 2
-K Desktop Environment 3
-Kaffeine
-Kanagram
-Karbon (software)
-Kate (text editor)
-Kdenlive
-Kexi
-Kicker (KDE)
-Kig (software)
-Kile
-Kinfocenter
-Kiten (program)
-Klipper
-KmPlot
-KolourPaint
-Konqi
-Konqueror
-Konsole
-Kontact
-Konversation
-Kopete
-Krita
-Kross (software)
-Krusader
-Kugar
-LXQt
-LabPlot
-License proliferation
 Linux
-Linux Unified Key Setup
-List of KDE applications
-List of commercial open-source applications and services
-List of disk partitioning software
-List of formerly free and open-source software
-List of formerly proprietary software
-List of free-software events
-List of free and open-source Android applications
-List of free and open-source iOS applications
-List of free and open-source software organizations
-List of free and open-source software packages
-List of free and open-source web applications
-List of free software project directories
-List of free television software
-List of language bindings for Qt 4
-List of language bindings for Qt 5
-List of office suites
-List of open-source bioinformatics software
-List of open-source codecs
-List of open-source health software
-List of open-source routing platforms
-List of open-source software for mathematics
-List of open-source video games
-Logical volume management
-Long-term support
 Lubuntu
-Lumina (desktop environment)
-MIT License
 MacOS
-Marble (software)
-Matthias Ettrich
-Matthias Kalle Dalheimer
 MeeGo
 Mer (software distribution)
-Meta-object System
-Microsoft Open Specification Promise
 Microsoft Windows
-Mozilla Public License
-Mozilla software rebranded by Debian
-NEPOMUK (framework)
-NILFS
-NetworkManager
-Nuno Pinheiro (artist)
-Okular
-Open-core model
-Open-source-software movement
-Open-source hardware
-Open-source license
 Open-source software
-Open-source software advocacy
-Open-source software development
-Open-source software security
-Outline of free software
-Oxygen Project
 Partition editor
-Permissive software license
-Phonon (software)
-Plasma Bigscreen
-Plasma Mobile
-Poppler (software)
 Programmer
 Programming language
-Proprietary device driver
-Proprietary firmware
 Proprietary software
 Public domain
-PulseAudio
-PyQt
-PySide
-Python License
-Python Software Foundation License
-QML
 QNX
-Qbs (build tool)
-Qmake
-QtRuby
-QtScript
-Qt (software)
-Qt Creator
-Qt Jambi
-Qt Project
-Qt Quick
-RKWard
-Repository (version control)
-Revolution OS
-SCO–Linux disputes
 Sailfish OS
-Shared Source Initiative
-Signals and slots
-Simple Desktop Display Manager
-Skanlite
-Sleepycat License
-Softpedia
 Software categories
 Software license
-Software patents and free software
 Software release life cycle
-Solid (KDE)
-Sonnet (software)
-Source-available software
-Spectacle (software)
-Step (software)
-Strigi
-SuperKaramba
-Tellico (software)
-The Cathedral and the Bazaar
-The Free Software Definition
-The Open Source Definition
-The Qt Company
-ThreadWeaver
-Timeline of free and open-source software
-Tivoization
-Trojitá
-Trusted Computing
-Umbrello UML Modeller
 Universal Disk Format
-Unlicense
-Util-linux
-VLC media player
-VxWorks
-WTFPL
-Wayland (display server protocol)
 Windows 10 Mobile
-X.Org Server
-XMLGUI
-Yakuake
 YouTube
-Zlib License

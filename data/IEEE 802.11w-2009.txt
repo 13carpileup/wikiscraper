@@ -1,238 +1,33 @@
-Unified Power Format
 DNP3
-IEEE 802.18
 IEEE 802.11y-2008
-802.3bt
 IEEE 2030
-Software test documentation
-802.3df
-802.3cd
-Link Aggregation Control Protocol
-IEEE 802.11be
-Link aggregation
-ISO/IEC 42010
 IEEE 802.20
-802.3db
-Futurebus
 IEEE 802.11r-2008
-IEEE 693
-Audio Video Bridging
-IEEE 802.11bb
-Micro T-Kernel
-IEEE 802.15.2
-802.3by
-IEEE 802.11s
-IEEE 1394
-IEEE 1722
-MPDU
-Rosetta-lang
-802.3ct
-802.3cx
-IEEE 1451
 Microsoft
-Advanced Library Format
-802.3ce
-IEEE 1541-2002
-802.3ch
 IEEE 802.15.4
-IEEE 802.1ah-2008
 IEEE 802.11e-2005
-IEEE 802.15.6
-802.3y
-802.3da
-Inter-Access Point Protocol
-IEEE 802.22
-IEEE 1849
-Resilient Packet Ring
-Wi-Fi
-802.3an
-IEEE 802.11ay
-IEEE 802.11 (legacy mode)
-802.3dd
-IEEE 802.11p
 Standardization
 Ethernet
-IEEE 1855
 IEEE 802.11u
 IEEE 802.11b-1999
-IEEE 802.6
-Data origin authenticity
-IEEE 1355
 VHDL
-802.3cn
-Wi-Fi 8
-IEEE 802.1Qav
-IEEE 1733
 SystemC
-Property Specification Language
-IEEE 1675-2008
-802.3ae
-Provider Backbone Bridge Traffic Engineering
-IEEE 802.15.4c
-IEEE 802.15
 IEEE 802.11i-2004
-IEEE 754-2008 revision
 Project management
-IEEE 1901
-IEEE 802.9
-IEEE 802.1AE
-IEEE 802.11h-2003
-802.3az
-Link Layer Discovery Protocol
-DySPAN
-IEEE 802.11ah
-802.3b
-10BASE5
-IEEE 802.15.4g
-IEEE 802.11d-2001
-IEEE 802.11c
 IEEE 754
-IEEE 802.11-1997
-Standard Delay Format
-IEEE 802.15.3
 IEEE 802.1ad
-IEEE-488
-Open Firmware
-IEEE 802.11i
-802.3cp
-IEEE 802.15.4z
-Distributed Interactive Simulation
-IEEE 802.11a-1999
-IEEE 802.1X
-IEEE 802.15.4f
 Bluetooth
-Evil twin (wireless networks)
-IEEE 802.15.4b
-802.3ad
-802.3ba
-802.3cv
-IEEE 1619
-IEEE 802.8
-Wi-Fi 6
-802.3cb
-IEEE 754-1985
-802.3bu
-802.11 frame types
-IEEE 1164
-VMEbus
 IEEE 802.15.4a
-IEEE 802.15.4e
-IEEE P1363
-802.3j
-IEEE 802.15.7
-IEEE 802.11
-Cable modem
-IEEE 802.11r
-802.3cz
-IEEE 802.3x
 Risk management
-IEEE 1471
-Stream Reservation Protocol
-Wi-Fi 7
-IEEE 802.11v
-Wi-Fi 4
 IEEE P1906.1
-802.3cc
-IEEE 802.15.4d
 IEEE 802
-High-level architecture
-PILOT
-802.3cs
-802.3ab
-802.3i
-IEEE 802.21
-802.3ak
-802.3av
-802.3ck
-IEEE 802.1
-IEEE 1584
 IEEE 802.3
-WiGig
-Concept of operations
-802.3au
-802.3cg
-IEEE P1619
-Software requirements specification
-RuBee
-Verilog
-802.3at
-IEEE 802.1ag
-802.3ca
-802.3aq
 Software maintenance
-IEEE 802.11ax
-Software design description
-100BaseVG
-Wireless LAN
-Single UNIX Specification
-802.3a
-Zigbee
-IEEE 802.11j-2004
-802.3cu
-Service Interoperability in Ethernet Passive Optical Networks
-IEEE 1667
-802.3cw
-OpenWrt
-IEEE 1613
-IEEE Standards Association
 Token bus network
-Universal Power Adapter for Mobile Devices
-IEEE 1905
-Precision Time Protocol
-IEEE 1547
-IEEE 802.11aj
-IEEE 802.1Q
-802.3de
-ISO/IEC 12207
-ISO/IEEE 11073
-IEEE 802.11z
-802.3e
-IEEE 1284
-IEEE P802.1p
-Spanning Tree Protocol
-SystemVerilog
-IEEE 802.16
-Scalable Coherent Interface
-802.3cm
-IEEE 1219
-IEEE 802.15.5
-IEEE 802.11ai
 Requirements engineering
-Token Ring
-IEEE 802.7
 Software quality assurance
-IEEE 802.24
 IEEE 802.11k-2008
-Data center bridging
-802.3z
-IEEE 802.1D
-802.3cq
-IEEE 802.15.1
-802.3u
-802.3d
-IEEE 802.11af
-Operating systems
 IP-XACT
-Multiple Registration Protocol
-IEEE 802.1aq
-IEEE 802.11ad
 Software configuration management
-IEEE 802.2
-IEEE 802.11bn
-802.3bz
-802.3af
-IEEE 802.11g-2003
-802.3ah
 IEEE 854-1987
-WiMAX
-802.3cy
-Wi-Fi deauthentication attack
-IEEE 802.1AS
 JTAG
-Wi-Fi 5
-802.3ac
-IEEE 802.11ac
-IEEE 802.10
-802.3cr
-IEEE 802.1Qbb
-IEEE 802.11n-2009

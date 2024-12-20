@@ -1,75 +1,25 @@
-/e/ (operating system)
 ANSI C
-AOKP
 API
-ARM architecture
-AdMob
 Alef (programming language)
-AliOS
 Amsterdam Compiler Kit
 Android-x86
 Android (operating system)
-Android 10
 Android 11
-Android 12
-Android 13
-Android 14
-Android 15
-Android 16
-Android App Bundle
-Android Automotive
-Android Cupcake
-Android Debug Bridge
-Android Developer Challenge
-Android Developer Lab
-Android Donut
-Android Eclair
-Android Froyo
 Android Gingerbread
 Android Go
-Android Honeycomb
 Android Ice Cream Sandwich
 Android Jelly Bean
 Android KitKat
 Android Lollipop
-Android Marshmallow
-Android NDK
-Android Native Development Kit
 Android Nougat
-Android One
-Android Open Accessory Development Kit
-Android Open Source Project
-Android Oreo
 Android Pie
-Android Runtime
-Android SDK
-Android Studio
-Android TV
-Android Things
-Android lawn statues
-Android recovery mode
-Android software development
-Android version history
-Androidland
 Anjuta
-Apache Harmony
-Apk (file format)
-App Inventor for Android
-Application binary interface
-Asus ZenUI
 BSD
-BSD license
-Baidu Yi
-Barnes & Noble Nook
-BlueStacks
-Booting process of Android devices
-Borland Turbo C
 C++
 C11 (C standard revision)
 C17 (C standard revision)
 C23 (C standard revision)
 C99
-CLion
 C (programming language)
 C POSIX library
 C Sharp (programming language)
@@ -77,233 +27,93 @@ C character classification
 C data types
 C date and time functions
 C dynamic memory allocation
-C file input/output
 C mathematical functions
 C preprocessor
 C standard library
 C string handling
 C syntax
 CalyxOS
-Chromecast
 Clang
-ClockworkMod
 Clone (computing)
 CodeLite
 ColorOS
-Community of practice
-Comparison of Android Go products
-Comparison of Java and Android API
 Comparison of Pascal and C
-Compatibility of C and C++
-CopperheadOS
-Copyleft
 CrDroid
 CyanogenMod
 D (programming language)
-Dalvik (software)
 Database
 Dennis Ritchie
 Dietlibc
 DivestOS
-Dlmalloc
-Droid (typeface)
 EMUI
 Eclipse (software)
 Embedded C
-Embedded GLIBC
-Fastboot
 Fire OS
-Firebase
-Firebase Cloud Messaging
-Font
 FreeBSD
 GNOME Builder
-GNU C Library
 GNU Compiler Collection
-GNU Lesser General Public License
-Galaxy Nexus
-Gdb
-Gdbserver
 Geany
 Glibc
 Go (programming language)
 Google
 Google Cardboard
-Google Cloud Messaging
 Google Daydream
-Google Developers
-Google I/O
-Google LLC v. Oracle America, Inc.
 Google Maps
 Google Mobile Services
-Google Nexus
-Google Pixel
-Google Play Services
-Google Search
-Gradle
 GrapheneOS
-HTC One (M7)
-HTC One (M8)
-HTC Sense
-Header file
-Hive UI
-Honor (brand)
-Hybris (software)
-ITworld
 Include directive
-Index of Android OS articles
 Integrated development environment
-Intel C++ Compiler
-IntelliJ IDEA
 IodéOS
 Java (programming language)
-Jemalloc
 KDevelop
-Kali NetHunter
 Kernel (operating system)
-Kingo Root
 Klibc
-Kotlin (programming language)
 LCC (compiler)
-LG G Pad 8.3
-LG UX
-LeWa OS
-Lenovo smartphones
-Libc
-Libdl
-Libm
-Libpthread
-License compatibility
 Limbo (programming language)
 LineageOS
-Linus Torvalds
 Linux
 Linux kernel
-List of Android TV devices
-List of Android apps by Google
 List of Android launchers
-List of Android smartphones
-List of C compilers
-List of Google Play edition devices
 List of custom Android distributions
-List of features in Android
-List of free and open-source Android applications
 LiteOS
 MISRA C
 MIUI
-Magisk (software)
-Material Design
-Meizu
 Meta Horizon OS
-MicroG
 Microsoft Visual C++
 Microsoft Visual Studio Express
 Microsoft Windows library files
-Moto G (1st generation)
-Motoblur
 Musl
 NetBSD
 NetBeans
 Newlib
-Nexus 10
-Nexus 4
-Nexus 5
-Nexus 5X
-Nexus 6
-Nexus 6P
-Nexus 7 (2012)
-Nexus 7 (2013)
-Nexus 9
-Nexus One
 Nexus Player
-Nexus Q
-Nexus S
-Nokia X family
 Norcroft C compiler
-Noto fonts
-OPhone
 Objective-C
 OmniROM
 One UI
-OpenBSD
-OpenBinder
-OpenJDK
 Operating system
-Operators in C and C++
-Optimus UI
-OxygenOS
-POCO (company)
 POSIX
-Passwd
-Permissive license
 PixelExperience
-Pixel (1st generation)
-Pixel 2
-Pixel 3
-Pixel 3a
-Pixel 4
-Pixel 4a
-Pixel 5
-Pixel 5a
-Pixel 6
-Pixel 6a
-Pixel 7
-Pixel 7a
-Pixel 8
-Pixel 8a
-Pixel 9 Pro Fold
-Pixel C
-Pixel Fold
-Pixel Tablet
 Portable C Compiler
 Printf
 Programming language
 Programming tool
 Proprietary software
-Pthread
-Realme
 Remix OS
-RenderScript
 Replicant (operating system)
 Resurrection Remix OS
-Roboto
-Rooting (Android)
-SQLite
-SafetyNet API
-Samsung Experience
-Samsung Galaxy S4
-Skia Graphics Engine
-SlimRoms
 Small Device C Compiler
-Smartphone patent wars
-Sony Xperia Z Ultra
-Standard Template Library
-Static library
 Stdarg.h
-Stdio
-Subroutine
-SuperH
-SuperSU
 System on a chip
-TCL Technology
-TWRP (software)
-Theregister.com
 Tiny C Compiler
-TouchWiz
 Toybox
 UClibc
-Ubuntu for Android
-University of Houston Law Center
-User-space
 User interface
 Vala (programming language)
 Virtual reality
 Visual Studio
-Watcom C/C++
 Wayback Machine
 Wear OS
 XML
-Xiaomi HyperOS
-XobotOS
 YouTube video (identifier)
 ZDNet

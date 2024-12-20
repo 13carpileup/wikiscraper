@@ -1,10 +1,5 @@
-Dataset
 Doi (identifier)
 ISBN (identifier)
 ISSN (identifier)
-Incremental learning
 Machine learning
-Online and offline
 Online machine learning
-Statistical inference
-Statistical model

@@ -2,62 +2,39 @@
 2D computer graphics
 3D computer graphics
 3D projection
-3D rendering
-Additive blending
 Affine transformation
-Aliasing
 Alpha compositing
 Anisotropic filtering
 Back-face culling
-Beam tracing
-Cel shading
-Checkerboard rendering
 Clipping (computer graphics)
 Collision detection
 Comparison of vector graphics editors
-Computer graphics (computer science)
 Computer graphics lighting
 Cone tracing
-Coordinate transformation
 Deferred shading
-Depth map
 Diffusion curve
-Direct3D
 Doi (identifier)
 Fluid animation
 Global illumination
 Graphics software
 Hidden-surface determination
-Homogeneous coordinates
 ISBN (identifier)
 Image-based modeling and rendering
 Isometric video game graphics
-Lance Williams (graphics researcher)
 Layers (digital image editing)
-List of 3D animation software
 List of 3D computer graphics software
 List of 3D modeling software
 List of 3D rendering software
 List of computer graphics algorithms
-Marco Corbetta
 Matrix multiplication
 Mode 7
-NVIDIA
-NVidia
-OpenGL
-Orthographic projection
 Parallax scrolling
 Path tracing
-Perspective projection
-Phong reflection model
-Photon mapping
 Pixel
 Planar projection
 Plane (mathematics)
 Polygon mesh
-Radiosity (3D computer graphics)
 Raster graphics editor
-Ray casting
 Ray tracing (graphics)
 Reflection (computer graphics)
 Rendering (computer graphics)
@@ -67,26 +44,15 @@ Scaling (geometry)
 Scanline rendering
 Shader
 Shading
-Shadow
-Shadow volume
 Shear matrix
 Skybox (video games)
 Spectral rendering
-Stencil buffer
 Sun
 Surface triangulation
 Texel (graphics)
-Text-to-image model
 Texture mapping
 Three-dimensional space
-Translation (geometry)
 Triangle mesh
-Umbra, penumbra and antumbra
 Unbiased rendering
-Vector graphics
-Video projector
-Volume rendering
 Voxel
 Wire-frame model
-Z-buffering
-Z-fighting

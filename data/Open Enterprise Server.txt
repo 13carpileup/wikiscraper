@@ -1,7 +1,5 @@
-/e/ (operating system)
 32-bit
 4MLinux
-64-bit
 ALT Linux
 AlmaLinux
 Alpine Linux
@@ -9,11 +7,6 @@ Android-x86
 Android (operating system)
 Antergos
 AntiX
-Apache HTTP Server
-Apache Tomcat
-Apple Filing Protocol
-Apress
-ArcSight
 ArchBang
 ArchLabs
 Arch Linux
@@ -21,7 +14,6 @@ Artix Linux
 Asahi Linux
 Astra Linux
 Asturix
-Attachmate
 Austrumi Linux
 BLAG Linux and GNU
 BackBox
@@ -33,13 +25,11 @@ BlackArch
 Black Lab Linux
 BlankOn Linux
 Bodhi Linux
-Borland
 CHAOS (operating system)
 CRUX
 Calculate Linux
 Caldera OpenLinux
 CalyxOS
-Carbonite, Inc.
 CentOS
 CentOS Stream
 Chakra (operating system)
@@ -48,15 +38,11 @@ ChromeOS
 ChromiumOS
 ClearOS
 Clear Linux OS
-Closed source
 ColorOS
 Commodore OS
 Comparison of Linux distributions
-Compatibility layer
-Computing (magazine)
 Container Linux
 Corel Linux
-Covisint
 CrDroid
 CrunchBang Linux
 Cub Linux
@@ -66,13 +52,10 @@ Damn Vulnerable Linux
 Debian
 Deepin
 DemoLinux
-Dennis Fairclough
 Devuan
 DivestOS
-Documentum
 DoudouLinux
 Dreamlinux
-Drew Major
 EMUI
 Edubuntu
 Elementary OS
@@ -81,7 +64,6 @@ Emmabuntüs
 EndeavourOS
 Endless OS
 Enterprise software
-Eric Schmidt
 EulerOS
 Familiar Linux
 Feather Linux
@@ -90,37 +72,22 @@ Fire OS
 Firefox OS
 Floppyfw
 Foresight Linux
-Fortify Software
-Frank Tompa
 FreedomBox
 Freespire
 Frugalware Linux
 GNU Guix System
 GNewSense
 GOS (operating system)
-GXS Inc.
 Garuda Linux
-Gaston Gonnet
 GeckoLinux
 Gentoo Linux
 GoboLinux
 Gobuntu
 GrapheneOS
-GroupWise
-Guidance Software
-HP Autonomy
-HP IT Management Software
 HandyLinux
-Harbinger Corporation
-Hardware virtualization
-Hummingbird Ltd.
-Hyperbola GNU/Linux-libre
-Hypervisor
-IPrint
 ISBN (identifier)
 Immunix
 IodéOS
-Jan Baan
 Jurix
 KDE neon
 KaOS
@@ -150,7 +117,6 @@ Linux distribution
 Linux for PlayStation 2
 Linux kernel
 List of Linux distributions
-LoadRunner
 Lubuntu
 MCC Interim Linux
 MIUI
@@ -161,61 +127,31 @@ Mandriva Linux
 Manjaro
 MeeGo
 Mer (software distribution)
-Mercury Interactive
-Micro Focus
 Miracle Linux
 Mobilinux
-Musix GNU+Linux
-NetIQ
-NetIQ eDirectory
-NetWare
-NetWare Core Protocol
-NetWare Loadable Module
-NetWars
 Network Security Toolkit
 NimbleX
 Nitix
 NixOS
 Nobara Linux
 Nova (operating system)
-Novell
-Novell Access Manager
-Novell BorderManager
-Novell BrainShare
-Novell Identity Manager
-Novell Press
-Novell Storage Services
-Novell eDirectory
 OmniROM
 One UI
 Open-source software
 OpenELEC
 OpenMandriva Lx
-OpenSSH
 OpenSUSE
-OpenText
-OpenText ALM
-OpenText Data Protector
-OpenText Quality Center
-OpenText SiteScope
-OpenText Together
 Operating system
-Opsware
 Oracle Linux
 PCLinuxOS
 Package manager
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
-Paravirtualization
 Parrot OS
 Parsix
 Pentoo
 Peppermint OS
-Peregrine Systems
-Personal NetWare
 Pinguy OS
 PixelExperience
-PlateSpin
 Platypux
 Pop! OS
 Porteus (operating system)
@@ -225,35 +161,24 @@ PureOS
 Q4OS
 Qubes OS
 ROSA Linux
-RPM Package Manager
 Raspberry Pi OS
-Ray Noorda
 Red Hat Enterprise Linux
 Red Hat Linux
 Red Star OS
 Remix OS
 Replicant (operating system)
 Resurrection Remix OS
-Robert Frankenberg
 Rocks Cluster Distribution
 Rocky Linux
-Ronald Hovsepian
-SCO Group, Inc. v. Novell, Inc.
 SUSE Linux
 SUSE Linux Enterprise
-SUSE Linux Enterprise Server
 SUSE Studio
 Sabayon Linux
 Sabily
 Sailfish OS
 Salix OS
 Scientific Linux
-Serena Software
 Server (computing)
-Service pack
-Silk Central
-Silk Performer
-Silk Test
 Slackware
 Slax
 Softlanding Linux System
@@ -263,24 +188,18 @@ SolydXK
 Source Mage
 SparkyLinux
 Splashtop OS
-StarTeam
-Star Trek project
 SteamOS
 Sunwah Linux
 SystemRescue
 T2 SDE
 Tails (operating system)
-The Attachmate Group
-The Register
 Think Blue Linux
-Tim Bray
 Tiny Core Linux
 Tizen
 TopologiLinux
 Trisquel
 Turbolinux
 Turkix
-UFT One
 Ubuntu
 Ubuntu Budgie
 Ubuntu Cinnamon
@@ -292,26 +211,13 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Univel
-Unix-like
-Unix System Laboratories
-Uruk GNU/Linux
-User space
 VectorLinux
-Vertica
-Vignette Corporation
 Vine Linux
-Visibroker
 Void Linux
-Webroot
 Whonix
-Windows domain
 Wubuntu
 XB Machine
-Xen
 Xubuntu
 Yellow Dog Linux
-ZENworks
 Zenwalk
 Zorin OS
-Zypper

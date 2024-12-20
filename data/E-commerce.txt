@@ -1,7 +1,6 @@
 ACM Computing Classification System
 ARPANET
 ATG Stores
-Access Intelligence, LLC
 Adware
 Algorithm
 Algorithm design
@@ -9,47 +8,19 @@ Algorithmic efficiency
 Alibaba Group
 Amazon (company)
 Analysis of algorithms
-AppStorey
 App store
 Application security
 Artificial intelligence
 Australia
 Australian Competition & Consumer Commission
-Australian Federal Government
 Automata theory
-Automated online assistant
 Automated planning and scheduling
-B2B e-commerce
 BBC News
-BHIM
-Bazaarvoice
 Bibcode (identifier)
-Blackwell publishing
-Book Stacks Unlimited
-Brainstorm Labs, LLC
-Brick and mortar
-Brushing (e-commerce)
-Bulletin board system
-Business-to-business
-Business-to-consumer
-Business.com
-CAN-SPAM Act of 2003
 CNN Business
-California Privacy Rights Act
-California State Assembly
-Call centre
-Cannabis
 Cardboard
-Cardboard box
 Chatbot
-China Internet Information Center
-CiteSeerX (identifier)
 Columbia University Press
-Commerce
-Comparison of free software e-commerce web application frameworks
-Comparison of shopping cart software
-Comparison shopping website
-Competera
 Compiler construction
 CompuServe
 Computability theory
@@ -76,208 +47,104 @@ Computing
 Computing platform
 Concurrency (computer science)
 Concurrent computing
-Consumer-to-business
-Consumer-to-consumer
-Consumer privacy
-Consumer protection
 Control theory
 Control variable (programming)
-Controlled Substances Act
-Convenience
-Conversational commerce
-Crop disease
-Crop pest
 Cross-validation (statistics)
-Crown Business
 Cryptography
-Customer
-Customer intelligence
 Customer service
-Customer to customer
 Cyberwarfare
-DHgate.com
 DOS
 DVD-by-mail
-Data collection
-Data integrity
 Data mining
 Data security
 Database
 Decision support system
 Dependability
-Digital Commerce 360
 Digital art
 Digital distribution
-Digital economy
 Digital library
 Digital marketing
-Digital wallet
-Direct selling
 Discrete mathematics
 Distributed artificial intelligence
 Distributed computing
-Dixons Retail
 Document automation
 Document management system
 Doi (identifier)
 Domain-specific language
-Domain Name Wire
-Dot-com bust
-Dot matrix printer
-Dotdash
-E-commerce credit card payment system
-E-commerce in China
-E-commerce in India
 E-procurement
 EBay
-EFileCabinet
-EISSN (identifier)
-EMarketer
 Ebook
-Ecommerce News
-Economic impact of the COVID-19 pandemic
 Educational technology
 Electronic bill payment
 Electronic business
-Electronic data interchange
 Electronic design automation
 Electronic funds transfer
-Electronic markets
-Electronic money
 Electronic publishing
-Electronic stamp
-Electronic ticket
 Electronic voting
 Electronics industry
 Email
-Email marketing
 Embedded system
-Embitel
-Encryption software
-Enterprise content management
 Enterprise information system
 Enterprise software
 European Commission
-European Union competition law
-Excalibur BBS
-Facebook 3D Posts
 Federal Trade Commission
-Federal Trade Commission Act
-Financial Conduct Authority
-Financial Services Authority
 Financial Times
-Firewall (computing)
 Forbes
 Form factor (design)
 Formal language
 Formal methods
-Forrester Research
-Fox Business
-GUS (retailer)
-Gateshead
 Geographic information system
 Goods and services
-Google Groups
-GovTrack
-Government of Australia
-Government of India
-Governor Technology
 Graphics processing unit
 Green computing
-Group buying
-Gulf Cooperation Council
-Hacker
-Hangzhou
-Hangzhou Internet Court
 Hardware acceleration
 Hardware security
-Harvard Business Review
 Hdl (identifier)
 Health informatics
-Help desk
 Human–computer interaction
-IGI Global
 ISBN (identifier)
 ISSN (identifier)
 ITunes Store
 Image compression
-Information Technology Act 2000
 Information retrieval
 Information security
 Information system
 Information theory
 Initial public offering
-Insider Intelligence Inc.
 Instant messaging
 Integrated circuit
 Integrated development environment
-Intellectual property in China
 Interaction design
-Interflora
-International Journal of Future Generation Communication and Networking
 Internet
-Internet of things
 Internet security
 Interpreter (computing)
 Intrusion detection system
 Invasive species
 Inventory management software
-Ipswitch, Inc.
-Ipswitch IMail Server
 JSTOR (identifier)
 Jeff Bezos
-John Markoff
 John Wiley & Sons
-Journal of Economic Perspectives
-KPMG
-Kaypro
-Kendall Ross Bean
 Knowledge representation and reasoning
-Legislation.gov.uk
 Library (computing)
 List of computer size categories
-Live chat
-LogForum
 Logic in computer science
-Long Range Planning
 Machine learning
-Management Information Systems Quarterly
 MarketWatch
 Massachusetts Institute of Technology
 Mathematical analysis
 Mathematical optimization
 Mathematical software
-Mayple
-McGraw Hill Education
-Michael Aldrich
-Michael Aldrich Archive
 Middleware
-Ministry of Industry and Information Technology
-Minitel
 Mixed reality
-Mobile apps
-Mobile commerce
 Mobile payment
-Mobile ticketing
 Model of computation
 Modeling language
-Mozilla
 Multi-task learning
-Multichannel Merchant
 Multimedia database
 Multiprocessing
 Multithreading (computer architecture)
 Music download
-Napster
-National Science Foundation
 Natural language processing
-NeXT
-NeXTSTEP
-NetMarket
-NetRadio
-NetShops
-Netscape
-Netscape Navigator
 Network architecture
 Network performance
 Network protocol
@@ -286,51 +153,26 @@ Network security
 Network service
 Networking hardware
 New York City
-Newsletter
-Non-store retailing
 Numerical analysis
 OCLC (identifier)
-Online advertising
 Online auction
 Online banking
 Online chat
-Online food ordering
-Online grocer
-Online marketplace
-Online office suite
-Online pharmacy
-Online retailing
 Online shopping
-Online trading community
-Online transaction processing
-Online wallet
 Open-source software
-OpenMarket
 Operating system
 Operations research
-Orange S.A.
-Our Price
 Outline of computer science
 Oxford University Press
-PC World (retailer)
 Parallel computing
 PayPal
 Payment Services Directive
-Payment system
-Payments as a service
-Pearson plc
 Peripheral
-Philip Kotler
 Philosophy of artificial intelligence
 Phishing
 Photograph manipulation
-Pierre Omidyar
-Prentice Hall
-Pretail
-Print on demand
 Printed circuit board
 Probability
-Proceedings of 3DBODY.TECH 2017
 Process control
 Processor (computing)
 Programming language
@@ -338,33 +180,19 @@ Programming language theory
 Programming paradigm
 Programming team
 Programming tool
-Prudential Regulation Authority (United Kingdom)
-Purchase-to-pay
 Quantum Computing
-R.H. Donnelley
 Randomized algorithm
 Real-time computing
 Reinforcement learning
 Rendering (computer graphics)
 Requirements analysis
-ResearchGate
-Retail
-Richmond Journal of Law and Technology
-Ridesharing company
-Routledge
 S2CID (identifier)
-SAGE Publishing
-SAP ERP
 SSRN (identifier)
 San Francisco Bay Area
 San Francisco Chronicle
 Security hacker
 Security service (telecommunication)
 Semantics (computer science)
-Semiconductor industry
-Shopping cart software
-Small Business Administration
-Social commerce
 Social computing
 Social networking service
 Social software
@@ -381,77 +209,32 @@ Software maintenance
 Software quality
 Software repository
 Solid modeling
-South Dakota v. Wayfair, Inc.
 Springer Science+Business Media
-Spyware
-Stanford University centers and institutes
-State Council of the People's Republic of China
-Statista
 Statistics
 Stochastic computing
 Streaming media
-StudyMode
-Sunday Business
-Super-app
 Supervised learning
 Supply chain
 Supply chain management
-Sysop
 System on a chip
-T-Commerce
-Taobao village
 TechCrunch
-Tech in Asia
-Teleconference
-Tesco
-The AMFITEATRU ECONOMIC Journal
-The Balance Small Business
 The Guardian
 The New York Times
-The Penguin Press
 The Wall Street Journal
 Theoretical computer science
 Theory of computation
-Tim Berners-Lee
-Timeline of e-commerce
-Tommy Hilfiger
-Toys "R" Us
 Track and trace
 Transport Layer Security
-Travel website
-Trustpilot
-Types of e-commerce
 USA Today
 Ubiquitous computing
-United Nations Commission on International Trade Law
-United Nations Conference on Trade and Development
 Unsupervised learning
-Upper Saddle River, New Jersey
-Urban Studies
-Usenet newsgroup
-Vandalism
 VentureBeat
-Vertical Web Media LLC
 Very Large Scale Integration
 Video game
-Virgin Megastores
-Virtual assistant
 Virtual machine
 Virtual reality
 Visualization (graphics)
-Voice assistants
-W H Smith
 Wayback Machine
-Wayfair
-Web sites
-Weed
-What the Dormouse Said
-Wire transfer
 Wired (magazine)
 Word processor
-WorldWideWeb
 World Wide Web
-World Wide Web Consortium
-Xero (software)
-Yellow pages
-Yelp

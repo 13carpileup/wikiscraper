@@ -1,11 +1,5 @@
 !
-"
 (
-)
-*
-,
--
-/
 1829 braille
 =
 ?
@@ -20,7 +14,6 @@ Apostrophe
 Arabic Braille
 Arabic script
 Armenian Braille
-Azeri Braille
 B
 Belarusian Braille
 Bengali Braille
@@ -64,7 +57,6 @@ Faroese Braille
 French Braille
 G
 Gardner–Salinas braille codes
-Ge'ez Braille
 Georgian Braille
 German Braille
 Ghanaian braille
@@ -97,7 +89,6 @@ L
 Latvian Braille
 Lithuanian Braille
 Louis Braille
-Lower case
 Luxembourgish Braille
 M
 Mainland Chinese Braille
@@ -120,7 +111,6 @@ Odia Braille
 Optical braille recognition
 P
 Perforation
-Period (punctuation)
 Perkins Brailler
 Persian Braille
 Philippine Braille
@@ -140,8 +130,6 @@ Scandinavian Braille
 Semicolon
 Sinhala Braille
 Slate and stylus
-Slovak alphabet
-Slovak language
 South African braille
 Spanish Braille
 T
@@ -151,40 +139,12 @@ Tamil Braille
 Tatar Braille
 Telugu Braille
 Thai and Lao Braille
-Thakur Vishva Narain Singh
-Tibetan Braille
-Turkish Braille
-Two-cell Chinese Braille
 U
-Ukrainian Braille
-Unified English Braille
-Urdu Braille
 V
-Valentin Haüy
-Vibratese
-Vietnamese Braille
-Welsh Braille
-William Bell Wait
 X
 Y
-Yugoslav Braille
 Z
-Zambian Braille
 Á
-Ä
 É
-Í
-Ó
-Ô
-Ú
-Ý
 Č
-Ď
-Ĺ
-Ľ
-Ň
-Ŕ
-Š
 Ť
-Ž
-−

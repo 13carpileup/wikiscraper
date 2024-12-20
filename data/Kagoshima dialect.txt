@@ -1,84 +1,44 @@
 ARIB STD B24 character set
-Adjectival noun (Japanese)
 Adjective
 Akita dialect
-Akune, Kagoshima
-Alveolar consonant
-Alveolo-palatal
-Amami Islands
 Amami Japanese
 Amami Ōshima language
-Anna of Russia
 Apical consonant
-Approximant consonant
-Archiphoneme
-Artificial language
-Asiatic Society of Japan
-Assimilation (linguistics)
 Ateji
 Awaji dialect
 Bamboo English
 Banshū dialect
-Bark (utterance)
-Bilabial consonant
 Bingo dialect
-Bombardment of Kagoshima
-Bon Festival
 Bonin English
-Boshin War
 Braille kanji
 Calque
-Cape Lopatka
 Chikuzen dialect
-Chūgoku dialect
 Classical Japanese
-Clitic
-Close-mid back rounded vowel
 Close back rounded vowel
 Close front unrounded vowel
-Compensatory lengthening
-Consonant voicing and devoicing
-Copula (linguistics)
-Cossacks
 Cryptography
-Cyrillic alphabet
 Cyrillization of Japanese
-Dative case
-De Gruyter
-Debuccalization
-Dialect
-Dialect continuum
 Doi (identifier)
 Early Middle Japanese
 Early Modern Japanese
 Eastern Old Japanese
-Edo period
 Enclosed CJK Letters and Months
 Enclosed Ideographic Supplement
 English language
 Engrish
 Extended Unix Code
 Extended shinjitai
-Flap consonant
-Fricative consonant
 Furigana
-Gairaigo
 Gender differences in Japanese
 Glossary of Japanese words of Dutch origin
 Glossary of Japanese words of Portuguese origin
-Glottal consonant
-Glottal stop
-Glottolog
 Go-on
 Gojūon
-Gonza
-Guanyin
 Gunma dialect
 Hachijō grammar
 Hachijō language
 Hakata dialect
 Halfwidth and fullwidth forms
-Han (administrative division)
 Hentaigana
 Hepburn romanization
 Hichiku dialect
@@ -87,21 +47,14 @@ Hiragana
 Hiragana (Unicode block)
 Historical kana orthography
 Hokkaido dialects
-Hokuriku dialect
 Honorific speech in Japanese
-Hyūga Province
-Hōnichi dialect
 ISBN (identifier)
-ISO/IEC 2022
 ISO 639-3
 ISSN (identifier)
 Ibaraki dialect
 Inshū dialect
 Internet Archive
-Invasion of Ryukyu
 Iyo dialect
-Izumi, Kagoshima
-Iōjima, Kagoshima
 JIS X 0201
 JIS X 0208
 JIS X 0211
@@ -112,7 +65,6 @@ Japan
 Japanese-based creole languages
 Japanese Braille
 Japanese adjectives
-Japanese books
 Japanese counter word
 Japanese dialects
 Japanese dictionary
@@ -133,14 +85,10 @@ Japanese pronouns
 Japanese punctuation
 Japanese script reform
 Japanese sound symbolism
-Japanese verb conjugation
 Japanese writing system
 Japonic languages
 Jōdai Tokushu Kanazukai
 Kaga dialect
-Kagoshima
-Kagoshima Prefecture
-Kagoshima verb conjugations
 Kan-on
 Kana
 Kana Extended-A
@@ -152,7 +100,6 @@ Kanazukai
 Kanbun
 Kanji
 Kansai dialect
-Kantō dialect
 Katakana
 Katakana (Unicode block)
 Katakana Phonetic Extensions
@@ -160,130 +107,66 @@ Kesen dialect
 Kikai language
 Kishū dialect
 Kokuji
-Koshikijima Islands
-Kuchinoerabu Island
-Kuchinoerabujima
-Kuchinoshima
-Kumamoto Prefecture
 Kumamoto dialect
 Kunigami language
 Kunrei-shiki romanization
 Kyowa-go
-Kyushu
-Kyūshū
-Labialized velar consonant
-Laminal consonant
-Language family
 Late Middle Japanese
 Lateral consonant
-Linguasphere Observatory
 List of Japanese speculative fiction writers
 List of Japanese writers
 List of classical Japanese texts
-List of kanji by stroke count
 List of kanji radicals by frequency
 List of kanji radicals by stroke count
 Logogram
-Mainland Japan
-Makurazaki, Kagoshima
 Man'yōgana
 Manga
-Matsumoto, Kagoshima
-Max Planck Institute for Evolutionary Anthropology
-Meiji Restoration
-Meiji government
-Mid front unrounded vowel
 Mikawa dialect
-Minamitane, Kagoshima
 Mino dialect
 Miyakoan language
-Miyazaki Prefecture
 Modern kana usage
 Monophthong
 Mora (linguistics)
-Mutual intelligibility
 Nagaoka dialect
 Nagasaki dialect
-Nagashima, Kagoshima
 Nagoya dialect
 Nairiku dialect
-Nakanoshima
-Nakanoshima (Kagoshima)
-Nakatane, Kagoshima
-Namamugi Incident
 Nanbu dialect
 Narada dialect
-Nasal consonant
-Nasal stop
 Nihon-shiki romanization
-Nishinoomote, Kagoshima
 Northern Izu Archipelago dialects
 Northern Ryukyuan languages
 Nyōbō kotoba
-Okinawa Prefecture
 Okinawan Japanese
 Okinawan language
-Okinoerabu language
 Okurigana
 Okuyoshino dialect
 Old Japanese
-Open front unrounded vowel
-Oral consonant
-Osaka
-Palatal approximant
 Palatal consonant
-Particles of the Kagoshima dialects
-Pitch accent
-Plosive consonant
 Polivanov system
-Prefectures of Japan
-Provinces of Japan
 Pseudo-Chinese
 Rendaku
-Romaji
 Romanization of Japanese
 Russia
-Russian Orthodox Church
 Ryakuji
-Ryukyu Islands
 Ryukyuan languages
-Ryūkyū Kingdom
-Rōmaji
 S2CID (identifier)
 Saga dialect
 Saint Petersburg
-Sakoku Edict of 1635
-Samurai
 Sanuki dialect
-Satsuma (fruit)
-Satsuma Domain
-Satsuma Peninsula
-Satsuma Province
-Satsuma Rebellion
-Satsuma ware
 Shift JIS
 Shikoku dialect
-Shimazu clan
 Shizuoka dialect
-Sibilant consonant
 Sino-Japanese vocabulary
 Small Kana Extension
 Southern Amami Ōshima language
 Southern Ryukyuan languages
-Soy
-Suwanosejima
-Syllable coda
 Sōgana
-Takarajima
-Tanegashima
 Tarama language
 Tochigi dialect
-Tokara Islands
-Tokugawa shogunate
 Tokunoshima language
 Tokyo dialect
 Topic marker
-Torii
 Tosa dialect
 Transcription into Japanese
 Transcription of the Japanese language in Esperanto
@@ -291,36 +174,19 @@ Tsugaru dialect
 Tsushima dialect
 Tō-on
 Tōhoku dialect
-Tōkai–Tōsan dialect
 Umpaku dialect
-Underlying representation
 United Kingdom
 United States
-Uvular nasal
-Velar consonant
 Voiceless alveolo-palatal fricative
-Voiceless bilabial fricative
-Voiceless palatal fricative
-Vowel coalescence
 Wasei-eigo
 Wasei-kango
 World War II
-Writing system
 Wāpuro rōmaji
 Yaeyama language
-Yakushima
-Yakushima, Kagoshima
 Yakuwarigo
-Yamato kotoba
 Yilan Creole Japanese
 Yokohama Pidgin Japanese
 Yonaguni language
 Yoron language
 Yotsugana
 Ōita dialect
-Ōsumi Islands
-Ōsumi Province
-ジ
-ズ
-ヂ
-ヅ

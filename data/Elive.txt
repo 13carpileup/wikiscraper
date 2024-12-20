@@ -1,16 +1,11 @@
-/e/ (operating system)
-0 A.D. (video game)
 4MLinux
 ALT Linux
-AMD64
-APT (software)
 AlmaLinux
 Alpine Linux
 Android-x86
 Android (operating system)
 Antergos
 AntiX
-Aptitude (software)
 ArchBang
 ArchLabs
 Arch Linux
@@ -22,15 +17,12 @@ Austrumi Linux
 BLAG Linux and GNU
 BackBox
 BackTrack
-Bdale Garbee
-Benjamin Mako Hill
 Bharat Operating System Solutions
 BioSLAX
 BlackArch
 Black Lab Linux
 BlankOn Linux
 Bodhi Linux
-Bruce Perens
 CHAOS (operating system)
 CRUX
 Calculate Linux
@@ -55,61 +47,33 @@ Cub Linux
 CyanogenMod
 Damn Small Linux
 Damn Vulnerable Linux
-Deb (file format)
-Debbugs
 Debian
-Debian-Installer
-Debian Bullseye
-Debian Conference
-Debian Free Software Guidelines
-Debian GNU/Hurd
-Debian GNU/kFreeBSD
-Debian Pure Blend
-Debian Social Contract
-Debian configuration system
-Debian version history
-Debian–Mozilla trademark dispute
 Deepin
 DemoLinux
 Devuan
-DistroWatch
-Distrowatch
 DivestOS
 DoudouLinux
-Dpkg
 Dreamlinux
-Drizzle (database server)
-Drupal
-Dynamic frequency scaling
 EMUI
 Edubuntu
 Elementary OS
 Emmabuntüs
 EndeavourOS
 Endless OS
-Enlightenment (Window Manager)
-Enlightenment (software)
-Enlightenment (window manager)
 EulerOS
-FFmpeg
 Familiar Linux
 Feather Linux
 Fedora Linux
 Fire OS
 Firefox OS
 Floppyfw
-Fluxbox
 Foresight Linux
-Freedesktop.org
 FreedomBox
 Freespire
 Frugalware Linux
 GNU Guix System
-GNU TeXmacs
-GNUstep
 GNewSense
 GOS (operating system)
-Gallery Project
 Garuda Linux
 GeckoLinux
 Gentoo Linux
@@ -117,14 +81,8 @@ GoboLinux
 Gobuntu
 GrapheneOS
 HandyLinux
-Hyperbola GNU/Linux-libre
-I386
-Ian Jackson
-Ian Murdock
 Immunix
 IodéOS
-Jenkins (software)
-Jonathan Oxer
 Jurix
 KDE neon
 KaOS
@@ -141,25 +99,19 @@ Kubuntu
 Kwort Linux
 LXLE Linux
 Libranet
-LibreOffice
 LinHES
 LineageOS
 Linpus Linux
 Linux
 LinuxTLE
 Linux Caixa Mágica
-Linux Format
-Linux Journal
 Linux Lite
-Linux Magazine
 Linux Mint
 Linux Router Project
 Linux distribution
 Linux for PlayStation 2
 Linux kernel
-List of Debian project leaders
 List of Linux distributions
-Live DVD
 Lubuntu
 MCC Interim Linux
 MIUI
@@ -168,14 +120,11 @@ Mageia
 Mandrake Linux
 Mandriva Linux
 Manjaro
-Martin Michlmayr
 MeeGo
 Mer (software distribution)
-MinGW
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Musix GNU+Linux
 Natural language
 Network Security Toolkit
 NimbleX
@@ -186,21 +135,14 @@ Nova (operating system)
 OmniROM
 One UI
 Open-source software
-Open64
 OpenELEC
 OpenEmbedded
 OpenMandriva Lx
 OpenSUSE
-OpenVAS
-OpenWrt
-OpenZFS
-Open Bioinformatics Foundation
 Open Enterprise Server
-Open and Free Technology Community
 Oracle Linux
 PCLinuxOS
 Package manager
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
@@ -211,8 +153,6 @@ PixelExperience
 Platypux
 Pop! OS
 Porteus (operating system)
-PostgreSQL
-Privoxy
 Programmer
 Puppy Linux
 PureOS
@@ -225,7 +165,6 @@ Red Hat Linux
 Red Star OS
 Remix OS
 Replicant (operating system)
-Repository (version control)
 Resurrection Remix OS
 Rocks Cluster Distribution
 Rocky Linux
@@ -236,13 +175,10 @@ Sabayon Linux
 Sabily
 Sailfish OS
 Salix OS
-Sam Hocevar
 Scientific Linux
-Scott James Remnant
 Slackware
 Slax
 Softlanding Linux System
-Software in the Public Interest
 Software license
 Software release life cycle
 Solus (operating system)
@@ -250,9 +186,7 @@ SolydXK
 Source Mage
 SparkyLinux
 Splashtop OS
-SproutCore
 SteamOS
-Stefano Zacchiroli
 Sunwah Linux
 SystemRescue
 T2 SDE
@@ -275,17 +209,12 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 User interface
 VectorLinux
 Vine Linux
 Void Linux
 Whonix
-Win32-loader
-Wired Equivalent Privacy
 Wubuntu
-X.Org Foundation
 XB Machine
 Xubuntu
 Yellow Dog Linux

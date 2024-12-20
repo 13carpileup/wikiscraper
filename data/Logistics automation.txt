@@ -1,17 +1,12 @@
 Skin pack
 Steel and tin cans
 Paper pallet
-Can collecting
 Kraft paper
-Commerce
 Toothpaste pump dispenser
 Packaging waste
 Extended core stretch wrapper
 Order fulfillment
-Plastic pallet
-Barcode printer
 Label
-Oyster pail
 Palletizer
 Molded pulp
 Container glass
@@ -19,7 +14,6 @@ Adhesive
 Susceptor
 Filler (packaging)
 Vacuum forming
-Mobile technology
 Industrial ecology
 Nonwoven fabric
 Injection molding machine
@@ -29,20 +23,14 @@ Time temperature indicator
 Box
 Aluminium bottle
 Low plastic water bottle
-Gel pack
 Meat absorbent pad
 Reusable packaging
-Sand bag
 Seed-counting machine
 Polyethylene
 Packet (container)
-Converting
 Packaging engineering
-Pharmaceutical packaging
 Insulated shipping container
 Orbital stretch wrapper
-Package pilferage
-Mobile data terminal
 Antistatic bag
 Automated storage and retrieval system
 Lid
@@ -57,7 +45,6 @@ Bail handle
 Induction sealing
 Material-handling equipment
 Automatic identification and data capture
-Autonomous logistics
 Packaging gas
 Padded envelope
 Environmental engineering
@@ -96,19 +83,16 @@ Authentication
 Production control
 Carton
 Industrial robot
-Wharton School
 Plastic bottle
 Humidity indicator card
 Linear low-density polyethylene
 Verification and validation
-Jar
 Jug
 Box wine
 Plastic recycling
 Self-heating food packaging
 Flip-top
 Waste management
-Modified atmosphere/modified humidity packaging
 Drum (container)
 Tub (container)
 Wine bottle
@@ -125,14 +109,10 @@ Resealable packaging
 Pail (container)
 Printing
 Aseptic processing
-Paper sack
 Paper recycling
-Closed-loop box reuse
 Laser cutting
 Blow molding
-Plastic-coated paper
 Alternative wine closure
-Tamper resistance
 Biodegradable bag
 Thermal bag
 Disposable cup
@@ -140,24 +120,18 @@ Purdue Improved Crop Storage bags
 Bag-in-box
 Water sachet
 Polypropylene
-KUKA
 Extrusion coating
 Shipping tube
 Strapping
 Container
-Liquid packaging board
 Shipping container
 Evidence packaging
 Milk bag
 Barcode
 Disposable food packaging
 Gas cylinder
-Workflow
 Biodegradable plastic
 Canning
-Juicebox (container)
-Stretch wrap
-Conveyor
 Heat sealer
 Shock and vibration data logger
 Unit load
@@ -169,10 +143,7 @@ Package theft
 Field ration
 Seasonal packaging
 Automated guided vehicle
-Coextrusion
 Screw cap
-Mesh bag
-Source reduction
 Contract packager
 PET bottle recycling
 Amazon Robotics
@@ -184,7 +155,6 @@ Flexible tank
 Cage
 Drink can
 Supply chain engineering
-Bubble wrap
 Aerosol spray dispenser
 Packaging machinery
 Plastic extrusion
@@ -200,7 +170,6 @@ Tube (container)
 Drum pump
 Security printing
 Tape dispenser
-Coating
 Die forming (plastics)
 Vial
 Life-cycle assessment
@@ -209,21 +178,17 @@ Plastic film
 Spray paint
 Radio
 Conveyor system
-RFID
 Cellophane
 Paperboard
 Barcode reader
 Blister pack
 Computer software
-Sortation
 Shock detector
 Flexible intermediate bulk container
 Graphic design
-Shearing (manufacturing)
 Case (goods)
 Glass recycling
 Screw cap (wine)
-Truck driver
 Check weigher
 Package handle
 Blow fill seal
@@ -232,36 +197,27 @@ Polyester
 Tamper-evident band
 Corrugated fiberboard
 Carboy
-Bar-code
 Sustainable packaging
 Bioplastic
 Package delivery
 Foam food container
 Gunny sack
-Labeling
 Supply chain
-Computer systems
 Molding (process)
 Case-ready meat
 Radio-frequency identification
 Optical disc packaging
 Metallised film
 Spray bottle
-Kitting
 Dosage form
 Tamper-evident technology
-Bottling line
-Bung
-Food packaging
 Shrink wrap
 Bulk box
 Roll slitting
 Folding carton
-Warehouse Management System
 Lamination
 Temperature data logger
 Multi-pack
-Package testing
 Paper
 Electronic article surveillance
 Pump dispenser
@@ -270,7 +226,6 @@ Quality assurance
 Overpackaging
 Papermaking
 Currency packaging
-Pallet inverter
 Plastic welding
 Coffee bag
 Rotary wheel blow molding systems
@@ -278,27 +233,21 @@ BoPET
 Stand-up pouch
 Automation
 Aluminium foil
-Paternoster lift
 Biodegradation
 Active packaging
 Hazard analysis and critical control points
 Endcap
 Flame treatment
-Curtain coating
 Bottle
 Fuel container
 Aluminum can
 Chain store
-Product development
 Label printer applicator
-Cushioning
-Living hinge
 Corona treatment
 Security tape
 ISBN (identifier)
 Boil-in-bag
 Inhaler
-Package format
 Ampoule
 Litter
 Cap torque tester
@@ -325,8 +274,5 @@ Staple gun
 Keg
 Corrugated plastic
 Multilayered packaging
-Distribution center
-Wholesale
-Material handling equipment
 Foam peanut
 Bag

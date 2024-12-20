@@ -1,26 +1,21 @@
 ARIB STD B24 character set
 Akita dialect
 Amami Japanese
-Amami Ōshima
 Amami Ōshima language
 American English
 Ateji
 Awaji dialect
 Bamboo English
 Banshū dialect
-Battle of Okinawa
 Bingo dialect
 Bonin English
 Braille kanji
 Chikuzen dialect
-Chūgoku dialect
 Classical Japanese
 Cyrillization of Japanese
-Demonstrative
 Doi (identifier)
 Early Middle Japanese
 Early Modern Japanese
-Eastern Japanese
 Eastern Old Japanese
 Empire of Japan
 Enclosed CJK Letters and Months
@@ -29,15 +24,11 @@ Engrish
 Extended Unix Code
 Extended shinjitai
 Furigana
-Gairaigo
 Gender differences in Japanese
 Glossary of Japanese words of Dutch origin
 Glossary of Japanese words of Portuguese origin
 Go-on
 Gojūon
-Grammatical aspect
-Grammatical mood
-Grammatical particle
 Gunma dialect
 Hachijō grammar
 Hachijō language
@@ -52,12 +43,8 @@ Hiragana
 Hiragana (Unicode block)
 Historical kana orthography
 Hokkaido dialects
-Hokuriku dialect
 Honorific speech in Japanese
-Hōnichi dialect
-IETF language tag
 ISBN (identifier)
-ISO/IEC 2022
 ISO 639-3
 Ibaraki dialect
 Inshū dialect
@@ -72,7 +59,6 @@ Japan
 Japanese-based creole languages
 Japanese Braille
 Japanese adjectives
-Japanese books
 Japanese counter word
 Japanese dialects
 Japanese dictionary
@@ -93,7 +79,6 @@ Japanese pronouns
 Japanese punctuation
 Japanese script reform
 Japanese sound symbolism
-Japanese verb conjugation
 Japanese writing system
 Japonic languages
 Jōdai Tokushu Kanazukai
@@ -110,7 +95,6 @@ Kanazukai
 Kanbun
 Kanji
 Kansai dialect
-Kantō dialect
 Katakana
 Katakana (Unicode block)
 Katakana Phonetic Extensions
@@ -122,14 +106,11 @@ Kumamoto dialect
 Kunigami language
 Kunrei-shiki romanization
 Kyowa-go
-Language family
 Language shift
 Late Middle Japanese
-Lexicon
 List of Japanese speculative fiction writers
 List of Japanese writers
 List of classical Japanese texts
-List of kanji by stroke count
 List of kanji radicals by frequency
 List of kanji radicals by stroke count
 Logogram
@@ -148,11 +129,7 @@ Nihon-shiki romanization
 Northern Izu Archipelago dialects
 Northern Ryukyuan languages
 Nyōbō kotoba
-Okinawa Islands
 Okinawan language
-Okinawan languages
-Okinawans
-Okinoerabu language
 Okurigana
 Okuyoshino dialect
 Old Japanese
@@ -162,9 +139,7 @@ Pseudo-Chinese
 Rendaku
 Romanization of Japanese
 Ryakuji
-Ryukyu Islands
 Ryukyuan languages
-Ryukyuan people
 Saga dialect
 Sanuki dialect
 Shift JIS
@@ -175,7 +150,6 @@ Small Kana Extension
 Southern Amami Ōshima language
 Southern Ryukyuan languages
 Sōgana
-Taco rice
 Tarama language
 Tochigi dialect
 Tokunoshima language
@@ -188,16 +162,12 @@ Tsugaru dialect
 Tsushima dialect
 Tō-on
 Tōhoku dialect
-Tōkai–Tōsan dialect
 Umpaku dialect
-United States Civil Administration of the Ryukyu Islands
 Wasei-eigo
 Wasei-kango
-Writing system
 Wāpuro rōmaji
 Yaeyama language
 Yakuwarigo
-Yamato kotoba
 Yilan Creole Japanese
 Yokohama Pidgin Japanese
 Yonaguni language

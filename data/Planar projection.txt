@@ -2,108 +2,62 @@
 2D computer graphics
 3D computer graphics
 3D projection
-3D rendering
 Affine transformation
-Aliasing
 Alpha compositing
-Anamorphosis
 Anisotropic filtering
-Axonometry
 Back-face culling
-Beam tracing
-Bird's-eye view
-Cel shading
-Checkerboard rendering
 Clipping (computer graphics)
 Collision detection
 Comparison of vector graphics editors
 Computer-aided design
 Computer graphics
-Computer graphics (computer science)
 Computer graphics lighting
 Cone tracing
-Cross section (geometry)
-Curvilinear perspective
 Cutaway drawing
 Deferred shading
-Descriptive geometry
 Diffusion curve
 Engineering drawing
-Exploded view drawing
-Fisheye lens
 Fluid animation
 Function composition
 Geometry
 Global illumination
-Graphical projection
 Graphics software
 Hidden-surface determination
-Image
 Image-based modeling and rendering
-Isometric projection
 Isometric video game graphics
 Layers (digital image editing)
 Line (geometry)
 Linear map
-Linear transformations
-List of 3D animation software
 List of 3D computer graphics software
 List of 3D modeling software
 List of 3D rendering software
 List of computer graphics algorithms
-Map projection
 Mode 7
-Multiview projection
-Oblique projection
-Orthographic projection
-Panorama
 Parallax scrolling
-Parallel projection
 Path tracing
 Perspective (graphical)
-Picture plane
 Pixel
-Plane (geometry)
-Plans (drawings)
 Polygon mesh
 Projection (linear algebra)
-Projection plane
-Projective geometry
-Projective transformation
 Raster graphics editor
-Ray casting
 Ray tracing (graphics)
 Reflection (computer graphics)
 Rendering (computer graphics)
-Reverse perspective
 Rotation (mathematics)
 Scaling (geometry)
 Scanline rendering
 Shader
 Shading
 Shadow mapping
-Shadow volume
-Shear mapping
 Shear matrix
 Skybox (video games)
 Spectral rendering
 Stereoscopy
 Surface triangulation
-Technical drawing
 Texel (graphics)
-Text-to-image model
 Three-dimensional space
-Translation (geometry)
 Triangle mesh
-True length
-Two-dimensional
 Unbiased rendering
-Vanishing point
-Vector graphics
 Video game graphics
-Viewing frustum
-Volume rendering
 Voxel
 Wire-frame model
-Worm's-eye view
-Zoom lens

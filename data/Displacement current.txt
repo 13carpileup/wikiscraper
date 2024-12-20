@@ -5,7 +5,6 @@ Alessandro Volta
 Alfred-Marie Liénard
 Alternating current
 Ampère's circuital law
-Ampère's law
 André-Marie Ampère
 Biot–Savart law
 Bremsstrahlung
@@ -18,34 +17,28 @@ Charles Proteus Steinmetz
 Classical electromagnetism
 Classical electromagnetism and special relativity
 Computational electromagnetics
-Constitutive relation
 Coulomb's law
 Covariant formulation of classical electromagnetism
 Current density
 Cyclotron radiation
 DC motor
 Dielectric
-Dielectric polarization
 Direct current
 Dispersion (optics)
 Dot product
 Eddy current
 Electret
 Electric charge
-Electric constant
 Electric current
 Electric dipole moment
 Electric displacement field
 Electric field
-Electric field intensity
 Electric flux
 Electric machine
 Electric motor
-Electric polarization
 Electric potential
 Electric potential energy
 Electric power
-Electric susceptibility
 Electrical conductor
 Electrical impedance
 Electrical network
@@ -69,7 +62,6 @@ Electrostatics
 Emil Lenz
 Emil Wiechert
 Faraday's law of induction
-Fizeau experiment
 Four-current
 Franz Ernst Neumann
 Félix Savart
@@ -89,7 +81,6 @@ Humphry Davy
 ISBN (identifier)
 Inductance
 Induction motor
-Infinitesimal
 Insulator (electricity)
 Isotropic
 J. J. Thomson
@@ -105,7 +96,6 @@ Joule heating
 Kirchhoff's circuit laws
 Larmor formula
 Lenz's law
-Line integral
 Linear motor
 List of electrical phenomena
 List of textbooks in electromagnetism
@@ -115,18 +105,14 @@ Lord Kelvin
 Lorentz force
 Magnetic circuit
 Magnetic complex reluctance
-Magnetic constant
-Magnetic displacement current
 Magnetic field
 Magnetic flux
 Magnetic moment
-Magnetic permeability
 Magnetic reluctance
 Magnetic scalar potential
 Magnetic vector potential
 Magnetism
 Magnetization
-Magnetization current
 Magnetomotive force
 Magnetostatics
 Mathematical descriptions of the electromagnetic field
@@ -141,36 +127,25 @@ Ohm's law
 Oleg D. Jefimenko
 Oliver Heaviside
 Optics
-Paul J. Nahin
 Permeability (electromagnetism)
 Permeance
 Permittivity
-Permittivity of free space
-Poisson's equation
-Polarization (electrostatics)
 Polarization density
 Poynting vector
-Relative permittivity
 Relativistic electromagnetism
 Resonator
 Right-hand rule
 Rotor (electric)
-Rudolf Kohlrausch
-Scalar (physics)
 Series and parallel circuits
 Siméon Denis Poisson
 Static electricity
 Stator
 Synchrotron radiation
 Tensor
-Tesla (unit)
 Transformer
 Triboelectric effect
-Vector calculus identities
-Vector potential
 Voltage
 Watt
-Wave equation
 Waveguide (radio frequency)
 Wilhelm Eduard Weber
 William Ritchie (physicist)

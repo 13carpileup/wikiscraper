@@ -1,4 +1,3 @@
-4K Disk Monitor System
 AdvFS
 Alpha 21064
 Alpha 21164
@@ -6,9 +5,7 @@ Alpha 21264
 Alpha 21364
 Alpha 21464
 AltaVista
-Asynchronous communication
 BASIC-8
-Bits per second
 Bus (computing)
 CPU Wars
 CVAX
@@ -16,7 +13,6 @@ Carriage return
 Cathode-ray tube
 Central processing unit
 Character encoding
-Characters per line
 Code page 1287
 Code page 1288
 Commercial Operating System
@@ -26,7 +22,6 @@ Computer terminal
 Control character
 DECUS
 DEC Alpha
-DEC BATCH-11/DOS-11
 DEC GT40
 DEC Hebrew
 DEC J-11
@@ -48,26 +43,21 @@ Digital Equipment Corporation
 Digital Federal Credit Union
 Digital Linear Tape
 Digital Storage Systems Interconnect
-Digital UNIX
-Discrete logic
 Dynamic debugging technique
 Dynamically Redefined Character Set
 FOCAL (programming language)
 FX!32
-Fill character
 Firefly (cache coherence protocol)
 Flip-Chip module
 Gold key (DEC)
 Gordon Bell
 HP-Interex
-Hard copy
 Harlan Anderson
 Instruction set architecture
 Interactive Application System
 Ken Olsen
 LK201
 LK421
-Line feed
 Local Area Transport
 MACRO-10
 MACRO-11
@@ -75,13 +65,10 @@ MUMPS
 Maintenance Operations Protocol
 Mass Storage Control Protocol
 Massbus
-Metal Oxide Semiconductor
 MicroVAX 78032
 Multinational Character Set
 NVAX
 National Replacement Character Set
-National Semiconductor
-OS/8
 On-line Debugging Tool
 OpenVMS
 Operating system
@@ -94,28 +81,20 @@ Q-Bus
 RA90
 RK05
 RL02
-RS-170
-RSTS/E
 RSX-11
-RSX-15
 RT-11
 ReGIS
 Record Management Services
 Rigel (microprocessor)
 Robert Palmer (computer businessman)
-Scientific pitch notation
-Shift register
 Sixel
 Standard Disk Interconnect
 Star coupler
 StrongARM
 Synchronous Backplane Interconnect
 System Module
-System Reference Manual
-TD/SMP
 TOPS-10
 TOPS-20
-TSS/8
 TU81
 TURBOchannel
 The Ultimate Entrepreneur
@@ -127,29 +106,11 @@ VAXELN
 VAX MACRO
 VT100
 VT1000
-VT101
-VT102
-VT103
-VT105
-VT131
 VT180
 VT220
-VT240
-VT241
 VT320
-VT330
-VT340
 VT420
-VT50
-VT510
 VT52
 VT520
-VT525
-VT55
-VT62
 VT640
-Vermont's 5th congressional district
-Video camera
-Video terminal
-Videotape recorder
 WPS-8

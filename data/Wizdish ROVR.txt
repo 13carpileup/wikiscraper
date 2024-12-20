@@ -1,6 +1,5 @@
 360-degree video
 3D audio effect
-5G
 ARCore
 ARKit
 ARToolKit
@@ -8,7 +7,6 @@ Accel World
 AltspaceVR
 Amusement arcade
 Android XR
-Animal locomotion
 AntVR
 Apple Inc.
 Apple Vision Pro
@@ -28,15 +26,11 @@ Brendan Iribe
 Brilliant Labs
 Carolina Cruz-Neira
 CastAR
-Central pattern generator
 Char Davies
 Cinematic virtual reality
 Code Lyoko
 Computer-mediated reality
-Computer mouse
-Contact microphone
 Cyberith Virtualizer
-Dance pad
 Daniel J. Sandin
 Den-noh Coil
 Dieter Schmalstieg
@@ -54,7 +48,6 @@ Foveated rendering
 Fred Brooks
 Free viewpoint television
 Futurama
-Gait (human)
 Godot (game engine)
 Golden-i
 Google
@@ -69,7 +62,6 @@ HTC Vive
 Haptic suit
 Head-mounted display
 Head-up display
-Head mounted displays
 Henry Fuchs
 HoloLens 2
 Holodeck
@@ -84,11 +76,9 @@ Jerome Foster II
 Jetpack Compose
 John Carmack
 Khronos Group
-King's College London
 Kiss Me First (TV series)
 Lawrence J. Rosenblum
 Leap Motion
-Liberty Global
 Liquid Image
 List of HTC Vive games
 List of Meta Quest games
@@ -120,8 +110,6 @@ Netrunner
 Neuromancer
 Niantic, Inc.
 Nicole Stenger
-Nissan
-Nissan Juke
 Nonny de la Peña
 Nosedive (Black Mirror)
 Oculus Go
@@ -137,16 +125,12 @@ OpenVR
 OpenXR
 Open Source Virtual Reality
 Optical head-mounted display
-Oxford Brookes University
 Palmer Luckey
 Pancake lens
-Paris Motor Show
 Patent
 Persistent world
 Pervasive game
-PhD
 Philippe Bekaert
-Physical metallurgy
 Pico 4
 Pimax
 PlayStation Move
@@ -156,7 +140,6 @@ Playtest (Black Mirror)
 Pose tracking
 Project Iris
 Projection augmented model
-Proprioception
 Quantified self
 Quest 2
 R. Bowen Loftin
@@ -167,18 +150,15 @@ Ready Player Two
 Real life
 Reality Labs
 Rec Room (video game)
-Reciprocating motion
 Resonite
 Rokoko (company)
 Room-scale
 S2CID (identifier)
 SSSS.Gridman
-Samsung
 Samsung Electronics
 Samsung Gear VR
 Sansar (video game)
 Satya Nadella
-Science of Materials
 Scott Fisher (technologist)
 Screen-door effect
 Sega VR
@@ -202,8 +182,6 @@ Superhuman Samurai Syber-Squad
 Susumu Tachi
 SwiftUI
 Sword Art Online
-Tab key
-Techstars
 Teleportation
 Telepresence
 The Dreamland Chronicles
@@ -216,9 +194,7 @@ Thomas A. Furness III
 Tim Cook
 Tony Parisi (software developer)
 Transhumanism
-Treadmill
 Unity (game engine)
-University College London
 Unreal Engine
 VFX1 Headgear
 VPL Research
@@ -229,7 +205,6 @@ VTime XR
 VTuber
 Valve Index
 Varjo
-Vestibular system
 Virtual Boy
 Virtual fixture
 Virtual graffiti
@@ -249,9 +224,7 @@ Vuzix
 Warren Robinett
 Wearable computer
 WebXR
-Wells Fargo
 White Christmas (Black Mirror)
 Wii Balance Board
 Windows Mixed Reality
 Wired glove
-Xbox One Controller

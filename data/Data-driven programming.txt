@@ -1,203 +1,46 @@
-AWK
 Abductive logic programming
-Abstract data type
-Action language
-Actor model
-Agent-oriented programming
 Algebraic modeling language
 Anonymous function
-Answer set programming
-Applicative programming language
-Array programming
-Aspect-oriented programming
 Assembly language
-Association for Computing Machinery
-Attribute-oriented programming
-Automata-based programming
 Automatic mutual exclusion
-Automatic programming
-Automotive navigation system
 BASIC
-Backus–Naur form
-Bayesian program synthesis
-Block (programming)
-Choreographic programming
-Class-based programming
-Clojure (programming language)
-Command language
-Comparison of functional programming languages
-Comparison of multi-paradigm programming languages
 Comparison of programming languages (object-oriented programming)
-Compiled language
 Component-based software engineering
-Computer data logging
 Computer programming
-Concatenative programming language
 Concurrent computing
-Concurrent constraint logic programming
-Concurrent logic programming
-Concurrent object-oriented programming
-Constraint logic programming
-Constraint programming
-DTrace
-Data-oriented design
-Data representation
 Dataflow programming
 Declarative programming
-Delimiter-separated values
 Dependent type
 Design by contract
-Differentiable programming
 Distributed computing
 Doi (identifier)
 Domain-specific language
-Dynamic programming language
-Email filtering
-End-user development
-Esoteric programming language
-Event-driven programming
-Expression-oriented programming language
-Extensible programming
-Fdm (software)
-Feature-oriented programming
-Fifth-generation programming language
-Filter (software)
-First-generation programming language
-Flow-based programming
-Fourth-generation programming language
-Function-level programming
-Functional logic programming
-Functional programming
-Functional reactive programming
 Generalized algebraic data type
-Generic programming
-Grammar-oriented programming
-Graph rewriting
-High-level programming language
-Higher-order programming
-Homoiconicity
-Hygienic macro
 IBM
 ISBN (identifier)
-Immutable object
 Imperative programming
-Inductive logic programming
-Inductive programming
-Inferential programming
-Input stream
-Intentional programming
-Interactive programming
-Interface description language
-Interpreted language
-Intersection (road)
-Invariant-based programming
-Jackson structured programming
-Join point
-Language-oriented programming
 List comprehension
-List of object-oriented programming languages
 Literate programming
-Logic programming
-Low-code development platform
-Low-level programming language
-Lua (programming language)
-Machine code
 Macro (computer science)
-Macroprogramming
-Maildrop
-Main loop
-Metalinguistic abstraction
 Metaprogramming
 Modeling language
 Modular programming
 Multi-stage programming
-Multitier programming
 Natural-language programming
-Nested function
-Non-English-based programming languages
 Non-structured programming
-Nondeterministic programming
-Object-based language
-Object-oriented design
 Object-oriented programming
-Ontology language
-Organic computing
-Oz (programming language)
-Page description language
 Parallel computing
 Parallel programming model
 Partial application
-Partitioned global address space
 Pattern matching
-Pcap
 Perl
-Persistent programming language
-Pipeline (software)
-Pointcut
-Probabilistic logic programming
-Probabilistic programming
 Procedural programming
-Process-oriented programming
-Procmail
-Production system (computer science)
-Program synthesis
-Programming by demonstration
-Programming by example
-Programming in the large and programming in the small
-Programming interface
-Programming language generations
 Programming paradigm
-Prototype-based programming
-Purely functional programming
-Quantum programming
-Query language
-Raku (programming language)
-Reactive programming
-Rebecca Wirfs-Brock
-Rebol
-Recursion (computer science)
-Red (programming language)
-Reflective programming
 Regular expression
-Relativistic programming
-Role-oriented programming
 S2CID (identifier)
 Scientific programming language
 Scripting language
-Second-generation programming language
-Sed
 Self-modifying code
-Separation of concerns
-Service-oriented programming
-Set theoretic programming
-Sieve (mail filtering language)
-Signal programming
-Simulation language
 Spacecraft command language
-Stack-oriented programming
 Stream processing
-Street name
-Strict programming language
-Structured concurrency
-Structured programming
-Subject-oriented programming
-Symbolic programming
-Synchronous programming language
-Sysadmin
-System programming language
-Tacit programming
-Tactile programming language
-Template metaprogramming
-Template processor
-Third-generation programming language
-Throttling process (computing)
-Total functional programming
-Tracing (software)
-Transformation language
-Turing-complete
-Uniform Function Call Syntax
-Value-level programming
-Very high-level programming language
-Visual programming language
-XSLT
 Zip code

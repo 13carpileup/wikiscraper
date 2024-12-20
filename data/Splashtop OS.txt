@@ -1,12 +1,7 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
-ASUS
-Adobe Flash Player
 AlmaLinux
 Alpine Linux
-AnandTech
-Anand Lal Shimpi
 Android-x86
 Android (operating system)
 Antergos
@@ -18,22 +13,18 @@ Artix Linux
 Asahi Linux
 Astra Linux
 Asturix
-Asus Eee
 Austrumi Linux
 BIOS
 BLAG Linux and GNU
 BackBox
 BackTrack
 Bharat Operating System Solutions
-Bing (search engine)
 BioSLAX
 BlackArch
 Black Lab Linux
-Blackbox
 BlankOn Linux
 Bodhi Linux
 Booting
-Bootsplash
 CHAOS (operating system)
 CRUX
 Calculate Linux
@@ -47,13 +38,11 @@ ChromeOS
 ChromiumOS
 ClearOS
 Clear Linux OS
-Closed source
 ColorOS
 Commodore OS
 Comparison of Linux distributions
 Computerworld
 Container Linux
-Coreboot
 Corel Linux
 CrDroid
 CrunchBang Linux
@@ -64,12 +53,10 @@ Damn Vulnerable Linux
 Debian
 Deepin
 DemoLinux
-DeviceVM
 Devuan
 DivestOS
 DoudouLinux
 Dreamlinux
-Dual booting
 EMUI
 Edubuntu
 Elementary OS
@@ -79,13 +66,11 @@ EndeavourOS
 Endless OS
 Engadget
 EulerOS
-Extensible Firmware Interface
 Familiar Linux
 Feather Linux
 Fedora Linux
 File Allocation Table
 Fire OS
-Firefox
 Firefox OS
 Floppyfw
 Foresight Linux
@@ -104,10 +89,7 @@ Google
 GrapheneOS
 Graphical user interface
 HandyLinux
-HyperSpace (software)
-Hyperbola GNU/Linux-libre
 Immunix
-Instant-on
 IodéOS
 Jurix
 KDE neon
@@ -125,13 +107,11 @@ Kubuntu
 Kwort Linux
 LXLE Linux
 Laptop
-Latitude ON
 Libranet
 LinHES
 LineageOS
 Linpus Linux
 Linux
-Linux.com
 LinuxTLE
 Linux Caixa Mágica
 Linux Lite
@@ -143,8 +123,6 @@ Linux kernel
 List of Linux distributions
 Lubuntu
 MCC Interim Linux
-MD5
-MIT Technology Review
 MIUI
 MX Linux
 Mageia
@@ -156,8 +134,6 @@ Mer (software distribution)
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Mozilla Firefox
-Musix GNU+Linux
 Network Security Toolkit
 NimbleX
 Nitix
@@ -166,27 +142,20 @@ Nobara Linux
 Nova (operating system)
 OmniROM
 One UI
-OpenBIOS
 OpenELEC
 OpenMandriva Lx
 OpenSUSE
 Open Enterprise Server
-Open Firmware
 Open source
 Operating system
 Oracle Linux
 PCLinuxOS
-PCManFM
-PCWorld
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
 Pentoo
 Peppermint OS
 Personal computer
-Phoronix
-Pidgin (software)
 Pinguy OS
 PixelExperience
 Platypux
@@ -207,7 +176,6 @@ Replicant (operating system)
 Resurrection Remix OS
 Rocks Cluster Distribution
 Rocky Linux
-SFGate
 SUSE Linux
 SUSE Linux Enterprise
 SUSE Studio
@@ -217,10 +185,8 @@ Sailfish OS
 Salix OS
 Scientific Linux
 Search engine
-Skype
 Slackware
 Slax
-Smart Common Input Method
 Softlanding Linux System
 Software license
 Solus (operating system)
@@ -228,8 +194,6 @@ SolydXK
 Sony
 Source Mage
 SparkyLinux
-Splashtop
-SquashFS
 SteamOS
 Sunwah Linux
 SystemRescue
@@ -238,7 +202,6 @@ Tails (operating system)
 Think Blue Linux
 Tiny Core Linux
 Tizen
-Tom's Guide
 TopologiLinux
 Trisquel
 Turbolinux
@@ -246,7 +209,6 @@ Turkix
 USA Today
 USB flash drive
 Ubuntu
-Ubuntu (operating system)
 Ubuntu Budgie
 Ubuntu Cinnamon
 Ubuntu GNOME
@@ -257,20 +219,13 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 User interface
-VAIO
 VectorLinux
 Vine Linux
-Voice over Internet Protocol
 Void Linux
 Wayback Machine
 Web browser
 Whonix
-Windows 7
-Windows Installer
-Windows Vista Startup Process
 Wubuntu
 X86
 XB Machine

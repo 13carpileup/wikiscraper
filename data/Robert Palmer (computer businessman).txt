@@ -1,22 +1,17 @@
-4K Disk Monitor System
 AdvFS
 Advanced Micro Devices
 Alpha 21064
-Alpha 21066
 Alpha 21164
 Alpha 21264
 Alpha 21364
 Alpha 21464
 AltaVista
 BASIC-8
-Boundless Technologies
 Bus (computing)
 CPU Wars
 CVAX
-Cabletron
 Chairman
 Character encoding
-Chief Executive Officer
 Code page 1287
 Code page 1288
 Commercial Operating System
@@ -25,7 +20,6 @@ Computer hardware
 Computer terminal
 DECUS
 DEC Alpha
-DEC BATCH-11/DOS-11
 DEC GT40
 DEC Hebrew
 DEC J-11
@@ -47,16 +41,12 @@ Digital Equipment Corporation
 Digital Federal Credit Union
 Digital Linear Tape
 Digital Storage Systems Interconnect
-Digital UNIX
 Dynamic debugging technique
 Dynamically Redefined Character Set
-E-2 Hawkeye
-Edison Awards
 FOCAL (programming language)
 FX!32
 Firefly (cache coherence protocol)
 Flip-Chip module
-GENICOM
 Gold key (DEC)
 Gordon Bell
 HP-Interex
@@ -64,7 +54,6 @@ Harlan Anderson
 ISSN (identifier)
 Instruction set architecture
 Intel
-Intel P5
 Interactive Application System
 Ken Olsen
 LK201
@@ -78,18 +67,12 @@ Mass Storage Control Protocol
 Massbus
 MicroVAX 78032
 Microprocessor
-Mitsubishi
-Mostek
 Multinational Character Set
 NVAX
 National Replacement Character Set
-Non-profit
-OS/8
 On-line Debugging Tool
 OpenVMS
 Operating system
-Oracle Corporation
-Oracle Rdb
 PALcode
 PDP-11 architecture
 PDP-7
@@ -99,38 +82,24 @@ Q-Bus
 RA90
 RK05
 RL02
-RSTS/E
 RSX-11
-RSX-15
 RT-11
-Raytheon
 ReGIS
 Record Management Services
 Rigel (microprocessor)
-SEMATECH
-Semiconductor
-Semiconductor Industry Association
-Semiconductor Research Corporation
 Sixel
 Standard Disk Interconnect
 Star coupler
 StrongARM
 Synchronous Backplane Interconnect
 System Module
-System Reference Manual
-TD/SMP
 TOPS-10
 TOPS-20
-TSS/8
 TU81
 TURBOchannel
-Texas Instruments
-Texas Tech University
-The Register
 The Ultimate Entrepreneur
 Ultrix
 Unibus
-United Technologies
 VAX
 VAXBI bus
 VAXELN
@@ -138,24 +107,11 @@ VAX MACRO
 VT05
 VT100
 VT1000
-VT101
-VT102
-VT103
-VT105
-VT131
 VT180
 VT220
-VT240
-VT241
 VT320
-VT330
-VT340
 VT420
-VT510
 VT52
 VT520
-VT525
-VT55
-VT62
 VT640
 WPS-8

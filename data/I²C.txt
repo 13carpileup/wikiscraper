@@ -1,288 +1,40 @@
-1-Wire
-6P6C
-ACCESS.bus
-ADAT Lightpipe
 AES3
-ASIC
-Accelerated Graphics Port
-Acknowledgement (data networks)
-Ad hoc
-Adafruit
-Address bus
-Address space
-AdvancedTCA
-Advanced Host Controller Interface
 Advanced Microcontroller Bus Architecture
-Advanced eXtensible Interface
-AmigaOS
-Amiga Zorro II
-Amiga Zorro III
-Analog-to-digital converter
-Apple Desktop Bus
 Application programming interface
-Arbiter (electronics)
-Arduino
-Asynchronous serial communication
-Atari SIO
-Atmel
-BJT
-Back-side bus
-Bit banging
 Bus (computing)
-Bus and Tag
-Bus contention
-Bus mastering
 C (programming language)
-Camera Link
 Capacitance
 Category 5 cable
-ChibiOS/RT
-CircuitPython
-Clock signal
-Codec
-Coherent Accelerator Processor Interface
-Colour space
 Commercial off-the-shelf
-Commodore bus
-Compute Express Link
-Computer Automated Measurement and Control
-Computer display
-Control bus
-CoreConnect
-Current source
-DDC2
-DFRobot
-DMX512
-DVI
-Daisy chain (electrical engineering)
-Data buffer
-De facto standard
-Digilent
-Digital-to-analog converter
-Digital Control Bus
 Digital Storage Systems Interconnect
-Digital signal
-Direct Media Interface
-Display Data Channel
-Dual in-line memory module
-ECos
-EEPROM
-EE Times
-ESCON
-Edge connector
-Enhanced Small Disk Interface
-Envsys
 Ethernet
-Ethernet physical layer
-Europe Card Bus
-ExpressCard
-Extended Display Identification Data
-Extended Industry Standard Architecture
-FASTBUS
-FPGA
-Farad
-Fibre Channel
 FreeBSD
-Front-side bus
-GPIO
-GSC bus
-General-purpose I/O
-General purpose technology
 GitHub
 Glitch
-HDMI
-HIL bus
-HIPPI
-HP-IL
-HP Precision Bus
-Half-duplex
 Hdl (identifier)
-High availability
-High impedance
-Human interface device
-Hw.sensors
-HyperTransport
-I3C (bus)
 IEC 61030
-IEEE-488
-IEEE 1284
-IEEE 1394
-IPMB
 ISBN (identifier)
-Idempotent
-Industry Standard Architecture
-InfiniBand
-Infinity Fabric
 Integrated circuits
-Intel High Definition Audio
-Intel QuickPath Interconnect
-Intel Ultra Path Interconnect
-Intelligent Peripheral Interface
-Intelligent Platform Management Interface
-InterChip USB
-Interrupt request
-Intersil
-I²S
-JST PH
-JST SH
-Kbit/s
-Kilobit
 Kilobyte
-LED display
 Lego Mindstorms NXT
-Lightning (connector)
 Linux
-Liquid crystal display
-List of interface bit rates
-List of network buses
-Logic analyzers
-Low Pin Count
-MADI
-MBus (SPARC)
 MIDI
-MIPI I3C sensor interface standard
-MOSFET
-Mac (computer)
 Mac OS X
-Master/slave (technology)
-Master of Mathematics
-Master–slave (technology)
-Maximite
-Mbit/s
-McASP
-Megabit
-MicroPython
-MicroTCA
-Micro Channel architecture
-Microchip Technology
 Microcontroller
 Microsoft Windows
-Minerva (QDOS reimplementation)
-MorphOS
-Most significant bit
-Motorola
 Multibus
-Multidrop bus
-Multiplexer
 NEC
-NVLink
-NVM Express
-NVRAM
-NXP Semiconductors
 NetBSD
-Network on a chip
-Nordic Semiconductor
-NuBus
-Olimex
-Open-collector
-Open-drain
-OpenBSD
-Open collector
-Operating systems
-Organic light-emitting diode
-PCI-X
-PCI Express
-PCI eXtensions for Instrumentation
-PC Card
-PICAXE
-PMBus
-Parallel ATA
-Parallel SCSI
-Parasitic capacitance
-Peripheral Component Interconnect
 Personal computer
-Phase locked loop
-Philips Semiconductors
-Physical layer
-Picofarad
-Pimoroni
-Plug and play
-Pmod Interface
-Pointing device
-Power Management Bus
-Profibus
-Property list
-Pseudo code
-Pull-up resistor
-Pull-up resistors
-Push–pull output
 Q-Bus
-RC time constant
-RISC OS
 RS-232
-RS-422
-RS-423
-RS-485
-RapidIO
 Raspberry Pi
-Real-time clock
-Resistor
-S-100 bus
-S/PDIF
-SATA
-SATA Express
-SBus
-SCSI
-SLIMbus
-SMBus
-SPI bus
-SS-50 bus
-ST-506/ST-412
-STD Bus
-STEbus
-STMicroelectronics
-Seeed Studio
-Serial Attached SCSI
-Serial Peripheral Interface
-Serial Peripheral Interface Bus
-Serial Presence Detect
-Serial Storage Architecture
-Serial communication
-Serial presence detect
 Siemens
-Simplex communication
-Sinclair QDOS
-Sinclair QL
-Single-ended signaling
-SpaceWire
-Sparkfun
-Start bit
-Stop bit
-Storage Module Device
-Synchronous circuit
-System Management Bus
-System bus
 System on a chip
-TOSLINK
 TURBOchannel
-Technical standard
-Texas Instruments
-Theo de Raadt
-Throughput
-Thunderbolt (interface)
-UART
-UEXT
-UNI/O
 USB
-Ultra Port Architecture
-Underclocking
 Unibus
-Universal Serial Bus
 University of Waterloo
 VAXBI bus
-VESA
-VESA Display Data Channel
-VESA Local Bus
-VGA
-VGA connector
-VME eXtensions for Instrumentation
-VMEbus
-VPX
-VXS
 Volt
-Voltages
 Wayback Machine
-Windows CE
-Wired communication
-Wishbone (computer bus)
-Zephyr (operating system)

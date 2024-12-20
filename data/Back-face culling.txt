@@ -2,27 +2,15 @@
 2D computer graphics
 3D computer graphics
 3D projection
-3D rendering
 Affine transformation
-Aliasing
 Alpha compositing
-Alpha composition
 Anisotropic filtering
-Anticommutative property
-Beam tracing
-Cel shading
-Checkerboard rendering
 Clipping (computer graphics)
-Closed set
 Collision detection
 Comparison of vector graphics editors
 Computer graphics
-Computer graphics (computer science)
 Computer graphics lighting
 Cone tracing
-Contour drawing
-Convex set
-Cross product
 Deferred shading
 Determinant
 Diffusion curve
@@ -30,15 +18,12 @@ Dot product
 Fluid animation
 Global illumination
 Graphics software
-Hidden-line removal
 Hidden-surface determination
-Homogeneous coordinates
 ISBN (identifier)
 Image-based modeling and rendering
 Involution (mathematics)
 Isometric video game graphics
 Layers (digital image editing)
-List of 3D animation software
 List of 3D computer graphics software
 List of 3D modeling software
 List of 3D rendering software
@@ -48,10 +33,8 @@ Parallax scrolling
 Path tracing
 Pixel
 Planar projection
-Polygon
 Polygon mesh
 Raster graphics editor
-Ray casting
 Ray tracing (graphics)
 Reflection (computer graphics)
 Rendering (computer graphics)
@@ -61,21 +44,13 @@ Scanline rendering
 Shader
 Shading
 Shadow mapping
-Shadow volume
 Shear matrix
 Skybox (video games)
 Spectral rendering
-Surface normal
 Surface triangulation
 Texel (graphics)
-Text-to-image model
-Toon shaders
-Translation (geometry)
 Triangle mesh
 Unbiased rendering
-Vector graphics
 Virtual camera system
-Visual artifact
-Volume rendering
 Voxel
 Wire-frame model

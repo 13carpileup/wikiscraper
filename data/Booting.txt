@@ -1,432 +1,77 @@
-/boot/
-2024 CrowdStrike incident
-36-bit
-8086
-8088
-A/UX
-ACPI
-AMIBIOS
-AMI Aptio
-ARCS (computing)
-ARC (specification)
-Aaron R. Reynolds
-Acronis OS Selector
-Active partition
-Adam Osborne
-Addison-Wesley
-Addison Wesley Publishing Company
-Advanced Active Partition
-Advanced Power Management
-Advanced RISC Computing
-Alberto Ciaramella
-Altair 8800
-Amdahl Corporation
-American Megatrends
 Android (operating system)
-Android 10
-Apache Kafka
-Apple Computer
-Apple DOS
-Apple I
 Apple II
 Apple Inc.
-Apple Partition Map
-Apple–Intel architecture
-Architecture of Windows 9x
 Assembly language
 Atari ST
-Atari TOS
-Atmel AVR
-Award Software
-B1700
 BIOS
-BIOS Setup
-BIOS boot partition
-BIOS interrupt call
-BOOT.LST
-BOOTMGR
 Backward compatibility
-Barebox
-BeOS
-Big-endian
-Bill Gates
-BleepingComputer
-Blue screen of death
-Bob O'Rear
-BootManager
-BootX (Apple)
-BootX (Linux)
-Boot ROM
-Boot disk
-Boot floppy
-Boot manager
 Boot sector
-Booting process of Android devices
-Booting process of Linux
-Booting process of Windows
-Booting process of Windows NT
-Bootkit
-Bootloader
-Bootloader unlocking
-Bootloaders
-Bootloop
 Bootstrapping
-Burroughs Corporation
-Bus Pirate
-Bytes
-CDC 6000 series
-CDC 6600
-COPY (DOS command)
-CSELT
-Call stack
 Central processing unit
-Chain load
-Chain loading
-Channel Command Word
-Charles Petzold
-Checksum
-Code optimization
-Common Firmware Environment
-Comparison of boot loaders
-Comparison of bootloaders
 Computer
 Computer hardware
 Computer keyboard
 Computer memory
-Computer mouse
 Computer network
 Computer security
 Computing
-Control Data Corporation
 Copy protection
-Coreboot
-CrowdStrike
 Cryptography
-Custom firmware
-Cylinder-head-sector
 DEC Alpha
-DR-DOS
-DR-DOS 7.05
-DR-DOS 7.07
-DRAM
-DRBIOS.SYS
-DR DOS 5.0
-Daemon (computing)
-Das U-Boot
-Data General
-Data General Nova
-David Wheeler (computer scientist)
-Debugging
-Default (computer science)
 Device driver
-Devicetree
 Digital Equipment Corporation
-Digital signal processors
-Diode matrix
-Disk Parameter Table
 Doi (identifier)
-Dual boot
-Dual booting
-EDSAC
-EEPROM
-EFI System Partition
-EFI system partition
-ENIAC
-EPROM
-El Torito (CD-ROM standard)
 Embedded system
 Embedded systems
-End user
-Entry point
-Execute in place
-Extended BIOS Parameter Block
 FAT12
 FAT16
 FAT32
-FDISK (DOS command)
-FORMAT (DOS command)
-FPGA
-FTDI
-Fastboot
-Firmware
-Fixed disk
-Flash memory
-Flashrom (utility)
-Floppy
-Fold (function)
-Forth (programming language)
 FreeBSD
-Front panel
-Fwupd
-GE-600 series
-GNU GRUB
-GPIO
-GPS navigation device
-GPU
-GPXE
-GUID Partition Table
 General Electric
-Google Nest
-Gordon Letwin
-HP 2100
 Hard disk drive
-Hex dump
-Hibernation (computing)
 IBM
-IBMBIO.COM
-IBMDOS.COM
-IBM 1130
-IBM 1401
-IBM 2250
-IBM 3270
-IBM 650
-IBM 701
-IBM 7030 Stretch
-IBM 704
-IBM 7040
-IBM 7090
-IBM 7094
 IBM PC
 IBM PC compatible
 IBM Personal Computer
-IBM System/360
-IBM System/360 Model 85
-IBM System/360 architecture
-IBM System/370 Model 165
-IBM System/370 Model 168
-IBM Z
-IBoot
 IEEE
-INT (x86 instruction)
-IPXE
 ISBN (identifier)
-Instant-on
-Instruction overlapping
-Insyde Software
 Intel
-Intel 8085
-Intel 8086
-Intel Corporation
-Intel Mac
-Intel x86
-Itanium
 JTAG
-Kickstart (Amiga)
-LCCN (identifier)
-LG smartphone bootloop issues
-LS-120
-LSI-11
-Latitude ON
-Legacy Plug and Play
-Libreboot
 Linux
-LinuxBoot
-Linux startup process
-List of PC Booter games
-Little-endian
-Live CD
-Live USB
-Loadlin
-Logical block addressing
-Luminance
-MBR boot signature
-MBR disk signature
-MBR disk timestamp
-MILO (bootloader)
 MIPS architecture
-MOS 6502
 MS-DOS
 Machine language
 Macintosh
-Macintosh startup
-Magnetic-core memory
-Magnetic drum
 Magnetic tape
-Main memory
-Marc McDonald
-Mark Zbikowski
-Martin Campbell-Kelly
-Mask ROM
-Mass storage
-Master Boot Record
-Master boot record
-Matthew Garrett
-Maurice Wilkes
-Memory card reader
-Memtest86+
-Michael Larabel
-Microcomputer
-Microreboot
-Microsoft Press
 Microsoft Windows
 Minicomputer
-Multi-boot
-Multi-booting
-MultiProcessor Specification
-Multi boot
-NEWLDR
-NOR flash
-NTLDR
-NetBoot
-Network booting
-Nexus 5X
-Non-volatile memory
 OCLC (identifier)
-OMAP
-OS kernel
-Odin (firmware flashing software)
-Offset (computer science)
-Opcode
-Open-source firmware
-OpenBIOS
-OpenBoot
-OpenWrt
-Open Firmware
-OpeniBoot
 Operating system
-Optical disc drive
-Option ROM
-Oxford University
 PC DOS
-PC DOS 5.0
 PC Magazine
-PDP-1
-PDP-10
-PDP-11
-PDP-15
-PDP-4
-PDP-5
 PDP-7
-PDP-8
-PDP-9
-Paper tape
-Partition Boot Record
-Partition table
-Paul Allen
 Personal computer
-Phoenix Technologies
-Phoronix
-Plop Boot Manager
-Power-on self-test
-Power-on self test
-PowerPC
-Preboot Execution Environment
 Printed circuit board
 ProQuest
-Program Status Word
-Programmable ROM
-Programmable read-only memory
-Proprietary firmware
-Pseudocode
-Punch card
-Punched card
-Punched card reader
-Punched tape
-Qualcomm EDL mode
-Quick boot
-Quickboot (QEMM)
 RAM
-REFInd
-REFIt
-RGB color spaces
 ROM hacking
-ROM image
-Random-access memory
 Raspberry Pi
 Read-only memory
-Real mode
-Reboot
-Reboot (computing)
-Recovery mode
-RedBoot
-Relocation (computing)
-Remote Initial Program Load
-Removable drive
-Reset vector
-Round-off error
-Run-Time Abstraction Services
-Runtime system
-SGI Visual Workstation
 SPARC
-SRGB
-SRM firmware
-SYSLINUX
-SYS (DOS command)
-Safe mode
-SeaBIOS
-Second-stage boot loader
-Security Assertion Markup Language
-Self-booting disk
 Self-modifying code
-Serial Peripheral Interface Bus
-Serial Presence Detect
 Server (computing)
-Side effect (computer science)
-Simple Firmware Interface
-Single sign-on
-Sleep mode
 Software
 Software cracking
 Solid-state drive
-Spectre GCR
 Splashtop OS
-Stanley Gill
-State machine
-Stepping switch
 Steve Ballmer
 Sun Microsystems
-Superfloppy
-Superminicomputer
-System/360
-System/370
-System of systems
-System partition and boot partition
-Systemd-boot
-TP-Link
-Tape drive
-Teleprinter
-Teletype Model 33
 Television set
-Texas Instruments
-The Free Dictionary
 The Verge
-TianoCore EDK II
-Tim Paterson
-Tom's Guide
-Trivial File Transfer Protocol
-UART
-UEFI
-UEFITool
-UNIVAC I
 USB
-USB disk
 USB flash drive
 Unibus
-Unified Extensible Firmware Interface
-Universal Serial Bus
-Unix workstation
-Unlocked bootloader
 VAX
-VAX-11/780
-Video BIOS
-Volume Boot Record
-Volume boot record
-Wake-on-LAN
-Wake-on-ring
-Werner Buchholz
 Windows 10
-Windows 2000
-Windows Boot Manager
-Windows NT 4.0
-Windows Server
-Windows To Go
-Windows startup process
 Word (computer architecture)
-Word (data type)
 X86
-X86 memory segmentation
-XOSL
-Yaboot
-Z/Architecture
-Zero trust security model
-Zip drive

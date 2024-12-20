@@ -1,9 +1,5 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
-AMD64
-ANDOS
-Adobe Flash Player
 AlmaLinux
 Alpine Linux
 Android-x86
@@ -49,16 +45,12 @@ CrDroid
 CrunchBang Linux
 Cub Linux
 CyanogenMod
-DEMOS
-DNF (software)
 DOS
 Damn Small Linux
 Damn Vulnerable Linux
 Debian
 Deepin
 DemoLinux
-Desktop computer
-Desktop environment
 Devuan
 DivestOS
 DoudouLinux
@@ -84,7 +76,6 @@ FreedomBox
 Freespire
 French language
 Frugalware Linux
-GNOME
 GNU Core Utilities
 GNU General Public License
 GNU Guix System
@@ -98,17 +89,10 @@ GoboLinux
 Gobuntu
 GrapheneOS
 HandyLinux
-Hyperbola GNU/Linux-libre
-IS-DOS
 Immunix
 IodéOS
 Italian language
 Jurix
-KDE
-KDE 4
-KDE 5
-KDE Plasma 4
-KDE Plasma 5
 KDE neon
 KaOS
 KaiOS
@@ -120,12 +104,9 @@ Kernel (operating system)
 Knoppix
 Kongoni (operating system)
 Korora (operating system)
-Kronos (computer)
 Kubuntu
 Kwort Linux
-LXDE
 LXLE Linux
-LXQt
 Libranet
 LinHES
 LineageOS
@@ -136,17 +117,13 @@ Linux Caixa Mágica
 Linux Lite
 Linux Mint
 Linux Router Project
-Linux XP
 Linux distribution
 Linux for PlayStation 2
 Linux kernel
 List of Linux distributions
 Lubuntu
-MATE (software)
 MCC Interim Linux
 MIUI
-MNOS (operating system)
-MOS (operating system)
 MX Linux
 Mageia
 Mandrake Linux
@@ -154,13 +131,10 @@ Mandriva Linux
 Manjaro
 MeeGo
 Mer (software distribution)
-Ministry of Defence (Russia)
 Miracle Linux
 Mobilinux
 Modular programming
 Monolithic kernel
-Multimedia codec
-Musix GNU+Linux
 Natural language
 Network Security Toolkit
 NimbleX
@@ -168,7 +142,6 @@ Nitix
 NixOS
 Nobara Linux
 Nova (operating system)
-OS2000
 OmniROM
 One UI
 Open-source software
@@ -178,44 +151,34 @@ OpenSUSE
 Open Enterprise Server
 Operating system
 Oracle Linux
-P5 (microarchitecture)
 PCLinuxOS
-PTS-DOS
 Package manager
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
 Pentoo
 Peppermint OS
-Persistent memory
-Phantom OS
 Pinguy OS
 PixelExperience
 Platypux
 Pop! OS
 Porteus (operating system)
-Portuguese language
 Programmer
 Proprietary software
 Puppy Linux
 PureOS
 Q4OS
 Qubes OS
-RPM Package Manager
 Raspberry Pi OS
 ReactOS
-Real-time operating system
 Red Hat Enterprise Linux
 Red Hat Linux
 Red Star OS
 Remix OS
 Replicant (operating system)
-Repository (version control)
 Resurrection Remix OS
 Rocks Cluster Distribution
 Rocky Linux
-Russian Fedora Remix
 Russian language
 SUSE Linux
 SUSE Linux Enterprise
@@ -260,9 +223,6 @@ Ubuntu Touch
 Ubuntu Unity
 Ultramarine Linux
 Unity Operating System
-Unix
-Unix-like
-Uruk GNU/Linux
 User interface
 User space and kernel space
 VectorLinux
@@ -271,7 +231,6 @@ Void Linux
 Whonix
 Wubuntu
 XB Machine
-Xfce
 Xubuntu
 Yellow Dog Linux
 Zenwalk

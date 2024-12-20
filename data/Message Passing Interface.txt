@@ -1,33 +1,18 @@
-"Hello, World!" program
-.NET Framework
 ANSI C
 API
-Actor model
 Amdahl's law
 Analysis of parallel algorithms
-Apache Flink
-Apache Hadoop
-Apache Spark
-Application binary interface
 Application checkpointing
-Argonne National Laboratory
 Array (data structure)
 Asymmetric multiprocessing
-Asynchronous i/o
 Ateji PX
 Automatic parallelization
 BSD
 Barrier (computer science)
 Beowulf cluster
-Bilateral synchronization
 Bit-level parallelism
-Blocking (computing)
-Boost (C++ libraries)
-Broadcasting (computing)
-Bulk synchronous parallel
 Bulldozer (microarchitecture)
 C++
-C++ AMP
 CPU
 CUDA
 C (programming language)
@@ -35,18 +20,11 @@ C Sharp (programming language)
 Cache-only memory architecture
 Cache coherence
 Cache invalidation
-Caltech Cosmic Cube
-Cartesian tree
-Cast (computer science)
 Chapel (programming language)
 Charm++
 Cilk
-CiteSeerX (identifier)
 Cloud computing
-Co-array Fortran
 Coarray Fortran
-Cohesion (computer science)
-Collective operation
 Common Language Infrastructure
 Communication
 Communication protocol
@@ -57,18 +35,11 @@ Computer multitasking
 Computer network
 Computer programming
 Concurrency (computer science)
-Concurrent computer
-Control Language
 Cost efficiency
-Coupling (computer science)
-DARPA
 Data parallelism
-Data pointer
-Data structure alignment
 Dataflow architecture
 Dataflow programming
 De facto
-De facto standard
 Deadlock (computer science)
 Deterministic algorithm
 Distributed computing
@@ -77,146 +48,76 @@ Distributed shared memory
 Doi (identifier)
 Dryad (programming)
 Embarrassingly parallel
-Endianness
 European Commission
-Exascale computing
 Explicit parallelism
 Fiber (computer science)
-Flat memory model
 Flynn's taxonomy
-Fortran
-Fortran 90
-Free On-line Dictionary of Computing
-French Alternative Energies and Atomic Energy Commission
-GNU Free Documentation License
 GPUOpen
 General-purpose computing on graphics processing units
 Global Arrays
-Graph (data structure)
 Grid computing
 Gustafson's law
-HDF5
 HPX
 Hardware acceleration
 Hardware scout
-Hewlett Packard Enterprise
-High-level programming language
 High-performance computing
 IBM
 ISBN (identifier)
 Implicit parallelism
-Indiana University
 Instruction-level parallelism
 Instruction pipelining
 Instruction window
 Intel
-Internet socket
-Jack Dongarra
 Java (programming language)
-Java Native Interface
-Julia (programming language)
 Karp–Flatt metric
-LAM/MPI
-Language Independent Specification
-Language binding
-Library routine
 Linux distribution
-Locality of reference
 Loop-level parallelism
-Low-level programming language
 MATLAB
-MIT Press
-MPICH
-MPICH2
-MVAPICH
 Manycore processor
 Massively parallel
-Master/slave (technology)
 Matrix multiplication
 Memory-level parallelism
 Memory coherence
 Memory hierarchy
-Memory segmentation
-Message-passing
 Microsoft
-Microsoft Messaging Passing Interface
-Mississippi State University
-Mono (software)
-Multi-core (computing)
-Multi-core processor
 Multiple instruction, multiple data
 Multiple instruction, single data
 Multiprocessing
 Multithreading (computer architecture)
-Myrinet
-NCUBE
 NEC
-National Science Foundation
-NetCDF
-NetPIPE
-Network interface controller
-Non-Uniform Memory Access
 Non-blocking algorithm
 Non-uniform memory access
-OCaml
-OSI Reference Model
-OSTI (identifier)
 Object-oriented programming
-Ohio Supercomputer Center
-Open-source
 OpenACC
 OpenCL
 OpenHMPP
 OpenMP
-Open MPI
-P2P-MPI
-PARI/GP
 Parallel Extensions
 Parallel RAM
 Parallel Virtual Machine
-Parallel computers
 Parallel computing
 Parallel external memory
-Parallel machine
-Parallel programming
 Parallel programming model
 Parallel slowdown
-Partitioned global address space
 Peer-to-peer
 Pipeline (computing)
 Preemption (computing)
-Private industry
 Process (computing)
-Processor-in-memory
-Programming language implementation
-Programming with Big Data in R
 Pthreads
-PyMPI
 Python (programming language)
 ROCm
-R (programming language)
 Race condition
 RaftLib
-Random-access memory
-Record locking
-Remote direct memory access
-Rmpi
-Runtime system
 S2CID (identifier)
-SPMD
 Scalability
-ScientificPython
 Semantics
 Semiconductor memory
-Serialization
 Shared memory
-Shared memory (interprocess communication)
 Simultaneous and heterogeneous multithreading
 Simultaneous multithreading
 Single instruction, multiple data
 Single instruction, multiple threads
 Single instruction, single data
-Software industry
 Software lockout
 Software portability
 Speculative multithreading
@@ -224,25 +125,15 @@ Speedup
 Starvation (computer science)
 Stream processing
 Sun Microsystems
-Supercomputer
 Superscalar processor
 Symmetric multiprocessing
 Synchronization
 Synchronization (computer science)
-Syntax (programming languages)
 Systolic array
-TOP-500
 Task parallelism
 Temporal multithreading
 Thread (computing)
-Thread safe
 Threading Building Blocks
-Tony Hey
-Transmission Control Protocol
 Unified Parallel C
 Uniform memory access
-University of Tennessee
 Vector processor
-Williamsburg, Virginia
-X10 (programming language)
-ZPL (programming language)

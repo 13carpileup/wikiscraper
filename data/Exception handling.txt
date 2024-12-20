@@ -1,132 +1,38 @@
-Abstract data type
-Ada (programming language)
-Algebraic data type
-Arbitrary-precision arithmetic
-Array data type
 Associative array
-Bfloat16 floating-point format
-Bit
 Bit array
-Boolean data type
 Bottom type
-Boxing (computer science)
 Byte
 C99
-Character (computing)
-CiteSeerX (identifier)
-Class (computer programming)
-Cluster (spacecraft)
-Complex data type
-Composite data type
 Computer hardware
 Computer program
 Computer programming
 Computing
-Container (abstract data type)
-DTIC (identifier)
 Data structure
 Data type
-Data validation
-Decimal data type
 Dependent type
 Doi (identifier)
 Domain of a function
-Double-precision floating-point format
-Empty type
-Enumerated type
-Errno
 Error detection and correction
-Error handling
-Exception handling (programming)
-Execution (computing)
-Extended precision
-Fact checking
-Fixed-point arithmetic
-Floating-point arithmetic
-Floating-point arithmetict
-Front-end web development
-Function type
 Generalized algebraic data type
-Generic programming
-Guy L. Steele, Jr.
 Half-precision floating-point format
 IEEE 754
 ISBN (identifier)
-Inductive type
-Integer (computer science)
 Interface (object-oriented programming)
-Interrupt
-Interrupt handler
-Interrupt vector table
-Intersection type
-Interval arithmetic
 Intuitionistic type theory
-Kind (type theory)
-List (abstract data type)
-Long double
-Matt Pietrek
-Memory address
 Metaclass
-Metaobject
-Minifloat
-Null-terminated string
 OCLC (identifier)
-Object (computer science)
-Octuple-precision floating-point format
-Opaque data type
 Operating system
-Option type
-Parametric polymorphism
-Physical address
-Plain text
-Pointer (computer programming)
-Precondition
 Primitive data type
-Problem solving
-Product type
 Programming language
-Quadruple-precision floating-point format
 Rational data type
-React (JavaScript library)
 Record (computer science)
-Recursive data type
 Reference (computer science)
-Refinement type
-Removable singularity
-Return code
-Richard P. Gabriel
 S2CID (identifier)
 Semaphore (programming)
-Semipredicate problem
-Set (abstract data type)
-Sherry Li
-Signal (IPC)
-Signedness
-Single-precision floating-point format
 Software
-Stream (computing)
 String (computer science)
-Strongly typed identifier
-Subjectivity
-Subroutine
-Subtyping
-Tagged union
-Ternary numeral system
-Top type
-Triple fault
-Type class
 Type constructor
-Type conversion
-Type system
 Type theory
-UNIVAC I
-Union type
-Unit type
-Units of information
 User interface
 Variable (computer science)
-Virtual address space
-Void type
-Vue.js
-William Kahan
 Word (computer architecture)

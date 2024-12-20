@@ -1,13 +1,9 @@
 AB5 toxin
-AB5 toxins
 Abrin
 Actinomycetota
 Aflatoxin
 Agitoxin
 Allopumiliotoxin 267A
-Alpha-Amanitin
-Alpha-Bungarotoxin
-Alpha-Latrotoxin
 Amatoxin
 Amphibian
 Amygdalin
@@ -17,11 +13,8 @@ Anthrax toxin
 Antiarin
 Arenobufagin
 Bacilli
-Bacteria
 Batrachotoxin
 Bestoxin
-Beta-Amanitin
-Beta-Bungarotoxin
 Beta-Nitropropionic acid
 Birtoxin
 BmKAEP
@@ -31,8 +24,6 @@ Bufotalin
 Bufotenin
 Bufotoxin
 Bungarotoxin
-C. botulinum
-C. perfringens
 CSTX
 Calcicludine
 Calciseptine
@@ -43,52 +34,38 @@ Cardiotoxin III
 Cell (biology)
 Chaconine
 Charybdotoxin
-Chimera (protein)
 Cholera toxin
 Cicutoxin
 Ciguatoxin
 Cinobufagin
 Citrinin
-Clostridioides difficile (bacteria)
 Clostridium
 Clostridium botulinum
-Clostridium difficile (bacteria)
-Clostridium difficile toxin A
-Clostridium difficile toxin B
 Clostridium enterotoxin
-Clostridium neurotoxins
 Clostridium perfringens
 Clostridium perfringens alpha toxin
 Clostridium tetani
 Clumping factor A
-Coccus
-Conformational change
 Coniine
 Conotoxin
 Cord factor
 Cry1Ac
 Cry34Ab1
-Cry3Bb1
 Cry6Aa
 Cupiennin
 Cytochalasin
 Cytotoxicity
 Daphnin
 Delphinine
-Delta endotoxin
 Diphtheria toxin
-Disulfide bond
 Divicine
 Djenkolic acid
 Doi (identifier)
-EEF2
 Eledoisin
-Endotoxin
 Enterotoxin
 Enterotoxin type B
 Enzyme
 Epibatidine
-Epsilon-Amanitin
 Ergotamine
 Exfoliatin
 Exotoxin
@@ -100,135 +77,17 @@ Fumonisin
 Fumonisin B1
 Fumonisin B2
 Fumonisin B4
-Gamma-Amanitin
 Gliotoxin
 Gossypol
 Gram-negative bacteria
 Gram-positive bacteria
 Hdl (identifier)
-Heat-labile enterotoxin
 Heat-stable enterotoxin
 Hefutoxin
-Helenalin
-Hemotoxin
-Hepatotoxin
-HgeTx1
-Histrionicotoxin
-HsTx1
-Huwentoxin
-Hyoscine hydrobromide
-Ibotenic acid
-Immunotoxins
-Imperatoxin
-InterPro
 Invertebrate
-Kaliotoxin
-Latrotoxin
-Ledol
-Leukocidin
-Linamarin
-Lipid A
-Lipopolysaccharide
-Listeriolysin O
-Lolitrem B
-Lotaustralin
-Lq2
-MAPKK
-Malignant
-Margatoxin
-Marinobufagenin
-Maurotoxin
-Mechanism of action
-Membrane-bound
-Microbial toxin
-Mimosine
-Moiety (chemistry)
-Mollusca
-Muscimol
-Mycotoxin
-Neurotoxin
-Ochratoxin
-Oenanthotoxin
-Oleandrin
-Onchidal
-Orellanine
-PDBsum
 PMC (identifier)
 PMID (identifier)
-Pandinus imperator (Pi3) toxin
-Panton–Valentine leukocidin
-Pathogenicity
-Patulin
-Perivitellin-2
-Persin
-Pertussis toxin
-Pfam
-Phaiodotoxin
-Phalloidin
-Phoneutria nigriventer toxin-3
-Phototoxin
 Plant
-Pore-forming toxin
 Protein
-Protein Data Bank
-Protoanemonin
-Pseudaconitine
-Pseudomonas aeruginosa
-Pseudomonas exotoxin
-Pumiliotoxin 251D
-Reptile
-Resiniferatoxin
-Retronecine
-Ricin
 S2CID (identifier)
-Samandaridine
-Samandarin
-Saxitoxin
-Scorpion
-Scyllatoxin
-Shiga toxin
-Slotoxin
-Snail
-Snake venom
-Solamargine
-Solanidine
-Solanine
-Solasodamine
-Solasodine
-Solasonine
-Solauricidine
-Solauricine
 Spider
-Staphylococcus
-Staphylococcus aureus alpha toxin
-Staphylococcus aureus beta toxin
-Staphylococcus aureus delta toxin
-Sterigmatocystin
-Streptolysin
-Stromatoxin
-Structural Classification of Proteins
-Strychnine
-Superantigen
-Swainsonine
-TCDB
-Tagetitoxin
-Taicatoxin
-Tetanolysin
-Tetanospasmin
-Tetanus toxin
-Tetrodotoxin
-Tinyatoxin
-Tomatine
-Toxalbumin
-Toxic shock syndrome toxin
-Toxin
-Transport
-Trichothecene
-Tutin (toxin)
-Vanillotoxin
-Vertebrate
-Virulence factor
-Vomitoxin
-Zearalenone
-Zeranol
-Zetekitoxin AB

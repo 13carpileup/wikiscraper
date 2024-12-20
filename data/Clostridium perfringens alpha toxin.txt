@@ -1,45 +1,23 @@
-4-hydroxybenzoyl-CoA thioesterase
-6-phosphogluconolactonase
 AB5 toxin
 AB toxin
-ALPI
-ALPL
 Abrin
-Acetylcholinesterase
-Acid phosphatase
 Actinomycetota
 Aflatoxin
 Agitoxin
-Alkaline phosphatase
 Allopumiliotoxin 267A
-Alpha-Amanitin
-Alpha-Bungarotoxin
-Alpha-Latrotoxin
 Amatoxin
 Amphibian
 Amygdalin
 Androctonus australis hector insect toxin
-Angiogenin
 Anisatin
 Anthrax toxin
 Antiarin
-Arachidonic acid
 Arenobufagin
-Arylsulfatase
-Arylsulfatase A
-Arylsulfatase B
-Arylsulfatase L
-Autotaxin
 Bacilli
-Bacillus cereus
 Bacterium
 Batrachotoxin
 Bestoxin
-Beta-Amanitin
-Beta-Bungarotoxin
 Beta-Nitropropionic acid
-Beta-propeller phytase
-Bile salt-dependent lipase
 Birtoxin
 BmKAEP
 Botulinum toxin
@@ -48,12 +26,8 @@ Bufotalin
 Bufotenin
 Bufotoxin
 Bungarotoxin
-Butyrylcholinesterase
-C2 domain
-CGMP-specific phosphodiesterase type 5
 CSTX
 Calcicludine
-Calcineurin
 Calciseptine
 Calcium
 Carboxylic acid
@@ -62,289 +36,54 @@ Cardiotoxin III
 Chaconine
 Charybdotoxin
 Cholera toxin
-Cholinesterase
 Cicutoxin
 Ciguatoxin
 Cinobufagin
 Citrinin
 Clostridium
 Clostridium botulinum
-Clostridium difficile (bacteria)
-Clostridium difficile toxin A
-Clostridium difficile toxin B
 Clostridium enterotoxin
 Clostridium perfringens
-Clostridium perfringens beta toxin
 Clostridium tetani
 Clumping factor A
-Coccus
 Coniine
 Conotoxin
 Cord factor
 Cry1Ac
 Cry34Ab1
-Cry3Bb1
 Cry6Aa
 Cupiennin
-Cutinase
-Cyclic nucleotide phosphodiesterase
 Cytochalasin
 Cytotoxicity
 Daphnin
 Delphinine
-Delta endotoxin
-Deoxyribonuclease
-Deoxyribonuclease I
-Deoxyribonuclease II
-Deoxyribonuclease IV
-Diacylglycerol lipase
-Dicer
-Diglyceride
 Diphtheria toxin
 Divicine
 Djenkolic acid
 Doi (identifier)
-Drosha
-Dual-specificity phosphatase
-Edema
 Eledoisin
-Endodeoxyribonuclease
-Endonuclease
-Endoribonuclease
-Endothelial lipase
-Endotoxin
 Enterotoxin
 Enterotoxin type B
-Entrez
-Enzyme Commission number
-Eosinophil-derived neurotoxin
-Eosinophil cationic protein
 Epibatidine
-Epsilon-Amanitin
 Ergotamine
-Esterase
 Exfoliatin
-Exodeoxyribonuclease
-Exonuclease
-Exoribonuclease
 Exotoxin
 Extracellular adenylate cyclase
 Falcarinol
 Fibronectin binding protein A
 Fish
-Fructose 1,6-bisphosphatase
 Fumonisin
 Fumonisin B1
 Fumonisin B2
 Fumonisin B4
-Galactosamine-6 sulfatase
-Gamma-Amanitin
-Gas gangrene
-Gastric lipase
 Gliotoxin
-Glucose 6-phosphatase
 Gossypol
 Gram-negative bacteria
 Gram-positive bacteria
-Heat-labile enterotoxin
 Heat-stable enterotoxin
 Hefutoxin
-Helenalin
-Hemolytic
-Hemotoxin
-Hepatic lipase
-Hepatotoxin
-HgeTx1
-Histrionicotoxin
-Hormone-sensitive lipase
-HsTx1
-Huwentoxin
-Hydrolase
-Hydrolysis
-Hyoscine hydrobromide
-Ibotenic acid
-Iduronate-2-sulfatase
-Imperatoxin
 Infection
-Inositol-phosphate phosphatase
-Inositol monophosphatase 1
-Inositol monophosphatase 2
-Inositol monophosphatase 3
-Interleukin 8
 Invertebrate
-Kaliotoxin
-Latrotoxin
-Lecithinase
-Ledol
-Leukocidin
-Linamarin
-Lingual lipase
-Lipase
-Lipid A
-Lipopolysaccharide
-Lipoprotein lipase
-List of EC numbers (EC 3)
-Listeria monocytogenes
-Listeriolysin O
-Lolitrem B
-Lotaustralin
-Lq2
-Lysosomal lipase
-Margatoxin
-Marinobufagenin
-Maurotoxin
-Metallophospholipase
-Microbial toxin
-Micrococcal nuclease
-Microprocessor complex
-Mimosine
-Mollusca
-Monoacylglycerol lipase
-Mung bean nuclease
-Muscimol
-Mycotoxin
-Myonecrosis
-N-acetylglucosamine-6-sulfatase
-Neurotoxin
-Nuclease
-Nuclease S1
-Nucleotidase
-OCRL
-Ochratoxin
-Oenanthotoxin
-Oleandrin
-Oligonucleotidase
-Onchidal
-Orellanine
-PAF acetylhydrolase
-PDE1
-PDE4A
-PDE4B
-PETase
-PLAT domain
 PMID (identifier)
-PP2A
-PTEN (gene)
-Palmitoyl protein thioesterase
-Pancreatic lipase
-Pandinus imperator (Pi3) toxin
-Panton–Valentine leukocidin
-Patulin
-Pectinesterase
-Persin
-Pertussis toxin
-Phaiodotoxin
-Phalloidin
-Phoneutria nigriventer toxin-3
-Phosphatase
-Phosphatidyl choline
-Phosphodiesterase
-Phosphodiesterase 2
-Phosphodiesterase 3
-Phosphofructokinase 2
-Phospholipase
-Phospholipase A1
-Phospholipase A2
-Phospholipase B
-Phospholipase C
-Phospholipase D
-Phospholipid
-Phospholipid bilayer
-Phototoxin
-Phytase
-Placental alkaline phosphatase
 Plant
-Platelet-activating factor
-Pore-forming toxin
-Prostatic acid phosphatase
-Protein Data Bank
-Protein phosphatase
-Protein serine/threonine phosphatase
-Protein tyrosine phosphatase
-Protoanemonin
-Pseudaconitine
-Pseudomonas exotoxin
-Pumiliotoxin 251D
-Purple acid phosphatases
-Pyruvate dehydrogenase phosphatase
-RNA-induced silencing complex
-RNASE1
-RNASEH1
-RNASEH2A
-RNASEH2B
-RNASEH2C
-RNase H
-RNase III
-RNase P
-RecBCD
-Reptile
-Resiniferatoxin
-Restriction enzyme
-Retronecine
-Ribonuclease
-Ribonuclease A
-Ribonuclease E
-Ribonuclease T1
-Ribonuclease Z
-Ricin
-Samandaridine
-Samandarin
-Saxitoxin
-Scorpion
-Scyllatoxin
-Second messenger
-Serratia marcescens nuclease
-Shiga toxin
-Slotoxin
-Snake venom
-Solamargine
-Solanidine
-Solanine
-Solasodamine
-Solasodine
-Solasonine
-Solauricidine
-Solauricine
-Sphingomyelin phosphodiesterase
-Sphingomyelin phosphodiesterase 1
 Spider
-Staphylococcus
-Staphylococcus aureus alpha toxin
-Staphylococcus aureus beta toxin
-Staphylococcus aureus delta toxin
-Sterigmatocystin
-Steroid sulfatase
-Streptolysin
-Stromatoxin
-Strychnine
-Sulfatase
-Superantigen
-Swainsonine
-Swiss-Prot
-Synaptotagmin
-Tagetitoxin
-Taicatoxin
-Tartrate-resistant acid phosphatase
-Tetanolysin
-Tetanospasmin
-Tetrodotoxin
-Thioesterase
-Thromboxane
-Tinyatoxin
-Tissue (biology)
-Tomatine
-Toxalbumin
-Toxic shock syndrome toxin
-Toxin
-Trichothecene
-Tutin (toxin)
-Ubiquitin carboxy-terminal hydrolase L1
-UvrABC endonuclease
-Vanillotoxin
-Vertebrate
-Virulence factor
-Vomitoxin
-Zearalenone
-Zeranol
-Zetekitoxin AB
-Zinc

@@ -1,32 +1,15 @@
 ANSI C
-AUTOSAR
-AbsInt
-Ada (programming language)
 Alef (programming language)
-Almquist shell
-Altium
 Amsterdam Compiler Kit
 Anjuta
-Application-specific integrated circuit
 Assembly language
-Astrée (static analysis)
-Austin Rover Group
-Axivion Bauhaus Suite
-Barebox
 Bionic (software)
-BitBake
-Board support package
 Booting
-Bootloader
-Borland Turbo C
-Buildroot
-BusyBox
 C++
 C11 (C standard revision)
 C17 (C standard revision)
 C23 (C standard revision)
 C99
-CLion
 C (programming language)
 C POSIX library
 C Sharp (programming language)
@@ -34,142 +17,63 @@ C character classification
 C data types
 C date and time functions
 C dynamic memory allocation
-C file input/output
 C mathematical functions
 C preprocessor
 C standard library
 C string handling
 C syntax
 Clang
-Closed platform
 CodeLite
-CodeSonar
-Communication Access Programming Language
 Comparison of Pascal and C
-Comparison of lightweight web browsers
-Compatibility of C and C++
 Computer security
 Consumer electronics
-Coverity
-Cppcheck
-Crippleware
-Cross compiler
-Custom firmware
 D (programming language)
-Das U-Boot
-Defective by Design
 Dennis Ritchie
 Dietlibc
-Dynamic code analysis
-ECLAIR
 Eclipse (software)
 Embedded C
-Embedded C++
-Embedded GLIBC
-Embedded Java
-Embedded database
-Embedded hypervisor
-Embedded operating system
-Embedded software
 Embedded system
 Embedded systems
 Field-programmable gate array
-Firmware
 GNOME Builder
 GNU Compiler Collection
 Geany
-GitLab
 Glibc
 Go (programming language)
-GrammaTech
-Green Hills Software
-Hacking of consumer electronics
-Helix QAC
 Homebrew (video games)
-Hybris (software)
-IAR Systems
-IOS jailbreaking
 ISO 26262
-ISO C
 Include directive
 Integrated development environment
-Intel C++ Compiler
-Internet of things
 Jet Propulsion Laboratory
-Joint Strike Fighter program
 KDevelop
 Klibc
-Klocwork
 LCC (compiler)
-LDRA Testbed
-Les Hatton
 Library (computing)
-Light-weight Linux distribution
 Limbo (programming language)
-Linux for mobile devices
-Linux on embedded systems
-List of C compilers
-List of open-source hardware
-List of tools for static code analysis
-Liverpool Data Research Associates
-LwIP
 MathWorks
-Memory footprint
-MicroPython
 Microcontroller
 Microsoft Visual C++
 Microsoft Visual Studio Express
 Microsoft Windows library files
-Motor Industry Software Reliability Association
 Musl
 NASA
 NetBeans
 Newlib
 Norcroft C compiler
 Objective-C
-Open-source robotics
 OpenEmbedded
 Open source
-Operators in C and C++
-PC-Lint
-PVS-Studio
-Parasoft C/C++test
-Perforce Software
-PlayStation 3 Jailbreak
-Polyspace
 Portable C Compiler
 Porting
 Programming language
-Programming style
 Programming tool
-Proprietary firmware
 Raspberry Pi
-Real-time operating system
-Rogue Wave Software
-Rooting (Android)
-SQuORE
 Safety
-Single-board computer
 Small Device C Compiler
-SonarQube
-SonarSource
-Stand-alone shell
-Static code analysis
 Stdarg.h
-Subroutine
-Synopsys
 System on a chip
-TU Delft
 Tiny C Compiler
 Toybox
-Translation unit (programming)
 UClibc
-UEFI
-Understand (software)
 Vala (programming language)
-Vendor lock-in
 Visual Studio
-Watcom C/C++
-Windows Embedded Compact
-Windows IoT
-Yocto Project

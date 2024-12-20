@@ -1,4 +1,3 @@
-/e/ (operating system)
 4MLinux
 ALT Linux
 AlmaLinux
@@ -25,7 +24,6 @@ BlackArch
 Black Lab Linux
 BlankOn Linux
 Bodhi Linux
-Booting process of Linux
 CHAOS (operating system)
 CRUX
 Calculate Linux
@@ -37,19 +35,14 @@ Chakra (operating system)
 Chimera Linux
 ChromeOS
 ChromiumOS
-Cicero
 ClearOS
 Clear Linux OS
 ColorOS
 Commodore OS
-CompTIA Linux+
 Comparison of Linux distributions
-Comparison of netbook-oriented Linux distributions
 Container Linux
 Corel Linux
 CrDroid
-Criticism of Linux
-Criticism of desktop Linux
 CrunchBang Linux
 Cub Linux
 CyanogenMod
@@ -59,7 +52,6 @@ Debian
 Deepin
 DemoLinux
 Devuan
-DistroWatch
 DivestOS
 DoudouLinux
 Dreamlinux
@@ -78,17 +70,11 @@ Fire OS
 Firefox OS
 Floppyfw
 Foresight Linux
-Free Software Foundation
-Free Software Magazine
 Free software
-Free software license
 FreedomBox
 Freespire
-Friedrich Nietzsche
 Frugalware Linux
-Full Circle (magazine)
 GNU
-GNU/Linux naming controversy
 GNU Guix System
 GNewSense
 GOS (operating system)
@@ -98,14 +84,10 @@ Gentoo Linux
 GoboLinux
 Gobuntu
 GrapheneOS
-Hacker Public Radio
 HandyLinux
-History of Linux
-Hyperbola GNU/Linux-libre
 Immunix
 IodéOS
 Jurix
-KDE Plasma Workspaces
 KDE neon
 KaOS
 KaiOS
@@ -118,54 +100,22 @@ Knoppix
 Korora (operating system)
 Kubuntu
 Kwort Linux
-LWN.net
 LXLE Linux
 Libranet
-Light-weight Linux distribution
 LinHES
 LineageOS
 Linpus Linux
-Linus's law
 Linux
-Linux-libre
-Linux.com
-LinuxChix
 LinuxTLE
-LinuxUser
 Linux Caixa Mágica
-Linux Counter
-Linux Documentation Project
-Linux Format
-Linux Foundation
-Linux Foundation Linux Certification
-Linux Gazette
-Linux Journal
 Linux Lite
-Linux Magazine
-Linux Mark Institute
 Linux Mint
-Linux Outlaws
 Linux Router Project
-Linux Voice
-Linux adoption
-Linux desktop environments
 Linux distribution
 Linux for PlayStation 2
-Linux for mobile devices
-Linux gaming
 Linux kernel
-Linux kernel oops
-Linux malware
-Linux on embedded systems
-Linux range of use
-Linux user group
-List of Linux adopters
 List of Linux distributions
-List of Linux distributions that run from RAM
-List of computer security certifications
-List of software package management systems
 Lubuntu
-LugRadio
 MCC Interim Linux
 MIUI
 MX Linux
@@ -178,7 +128,6 @@ Mer (software distribution)
 Miracle Linux
 Mobilinux
 Monolithic kernel
-Musix GNU+Linux
 Network Security Toolkit
 NimbleX
 Nitix
@@ -187,22 +136,18 @@ Nobara Linux
 Nova (operating system)
 OmniROM
 One UI
-Open-source model
 OpenELEC
 OpenMandriva Lx
 OpenSUSE
 Open Enterprise Server
 Oracle Linux
 PCLinuxOS
-Package format
 Package manager
-Parabola GNU/Linux-libre
 Paranoid Android (operating system)
 Parrot OS
 Parsix
 Pentoo
 Peppermint OS
-Phoronix Test Suite
 Pinguy OS
 PixelExperience
 Platypux
@@ -215,17 +160,14 @@ Q4OS
 Qubes OS
 ROSA Linux
 Raspberry Pi OS
-Red Hat Certification Program
 Red Hat Enterprise Linux
 Red Hat Linux
 Red Star OS
 Remix OS
 Replicant (operating system)
 Resurrection Remix OS
-Revolution OS
 Rocks Cluster Distribution
 Rocky Linux
-SCO–Linux disputes
 SUSE Linux
 SUSE Linux Enterprise
 SUSE Studio
@@ -234,8 +176,6 @@ Sabily
 Sailfish OS
 Salix OS
 Scientific Linux
-Security-focused operating system
-Shona language
 Slackware
 Slax
 Softlanding Linux System
@@ -243,8 +183,6 @@ Software license
 Software release life cycle
 Solus (operating system)
 SolydXK
-Sophocles
-SourceForge
 Source Mage
 SparkyLinux
 Splashtop OS
@@ -253,8 +191,6 @@ Sunwah Linux
 SystemRescue
 T2 SDE
 Tails (operating system)
-Tanenbaum–Torvalds debate
-The Code (2001 film)
 Think Blue Linux
 Tiny Core Linux
 Tizen
@@ -262,28 +198,22 @@ TopologiLinux
 Trisquel
 Turbolinux
 Turkix
-Tux (mascot)
 Ubuntu
 Ubuntu Budgie
 Ubuntu Cinnamon
 Ubuntu GNOME
 Ubuntu Kylin
 Ubuntu MATE
-Ubuntu Professional Certification
 Ubuntu Studio
 Ubuntu Touch
 Ubuntu Unity
-Ubuntu User
 Ultramarine Linux
 Unity Operating System
-Unix-like
-Uruk GNU/Linux
 User interface
 VectorLinux
 Vine Linux
 Void Linux
 Whonix
-Wildebeest
 Wubuntu
 X86
 XB Machine

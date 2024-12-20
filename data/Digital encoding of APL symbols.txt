@@ -1,24 +1,15 @@
-A+ (programming language)
 ABICOMP character set
 ANSEL
 ANSI escape code
-APL (programming language)
 APL syntax and symbols
 ARIB STD B24 character set
 ASCII
 ASMO 449
 ATASCII
-Acknowledge character
-Adin Falkoff
-Alan Perlis
-Ampere WS-1
-Amstrad CP/M Plus character set
 Amstrad CPC character set
 Apple II character set
 Arabic script
 ArmSCII
-Arthur Whitney (computer scientist)
-Association for Computing Machinery
 Atari ST character set
 BCD (character encoding)
 Backslash
@@ -29,7 +20,6 @@ Binary Ordered Compression for Unicode
 Bitstream International Character Set
 BraSCII
 C0 and C1 control codes
-C0 control codes
 CCSID
 CDC display code
 CER-GS
@@ -39,14 +29,11 @@ CSX+ Indic character set
 CSX Indic character set
 CS Indic character set
 CWI-2
-Canadian Standards Association
 Cancel character
-Carnegie Mellon University
 Carriage return
 Casio calculator character sets
 Character encoding
 Character encodings in HTML
-Charles Brenner (mathematician)
 Charset detection
 Chinese Character Code for Information Interchange
 Chinese telegraph code
@@ -66,17 +53,10 @@ Code page 1019
 Code page 1020
 Code page 1021
 Code page 1023
-Code page 1034
 Code page 1040
 Code page 1042
 Code page 1043
-Code page 1044
 Code page 1046
-Code page 1052
-Code page 1053
-Code page 1054
-Code page 1055
-Code page 1056
 Code page 1058
 Code page 1098
 Code page 1101
@@ -96,9 +76,6 @@ Code page 1133
 Code page 1169
 Code page 1287
 Code page 1288
-Code page 293
-Code page 310
-Code page 37
 Code page 3846
 Code page 437
 Code page 668
@@ -118,7 +95,6 @@ Code page 853
 Code page 855
 Code page 856
 Code page 857
-Code page 858
 Code page 859
 Code page 860
 Code page 861
@@ -135,7 +111,6 @@ Code page 896
 Code page 897
 Code page 899
 Code page 903
-Code page 904
 Code page 912
 Code page 915
 Code page 921
@@ -148,8 +123,6 @@ Code page 942
 Code page 949 (IBM)
 Code page 950
 Code page 951
-Combining Diacritical Marks
-Community of practice
 Comparison of Unicode encodings
 CompuServe
 Compucolor II character set
@@ -164,28 +137,15 @@ DG International
 DIN 66003
 DIN 91379
 DKOI
-Delete character
-Dialect (computing)
 Digital Equipment Corporation
-Direct function
 EBCDIC
-ELI (programming language)
 ELOT 927
-EUC-CN
-Edward H. Sussenguth
-Eight Ones
-End-of-text character
-End-of-transmission character
-End Transmission Block character
 Enquiry character
-Eugene McDonnell
 Exclamation mark
 Extended Latin-8
 Extended Unix Code
 FOCAL character set
 Fieldata
-File Separator
-Form feed
 Fred Brooks
 GBK (character encoding)
 GB 12052
@@ -196,77 +156,38 @@ GEM character set
 GOST 10859
 GSM 03.38
 Galaksija (computer)
-Group Separator
 HP Roman
 HZ (character encoding)
 Han unification
 Hardware code page
 Hong Kong Supplementary Character Set
-Horizontal Tab
 Hyphen-minus
-I. P. Sharp Associates
 IBM
-IBM 1050
-IBM 2741
-IBM 3270
 IBM AIX
-IBM Corporation
-IBM Selectric typewriter
-IEC-P27-1
 INIS-8
 INIS character set
-ISO-IR
 ISO-IR-111
 ISO-IR-169
 ISO-IR-182
 ISO-IR-197
 ISO-IR-200
 ISO-IR-68
-ISO/IEC 10367
-ISO/IEC 2022
-ISO/IEC 646
-ISO/IEC 8859
-ISO/IEC 8859-1
-ISO/IEC 8859-10
-ISO/IEC 8859-11
-ISO/IEC 8859-12
-ISO/IEC 8859-13
-ISO/IEC 8859-14
-ISO/IEC 8859-15
-ISO/IEC 8859-16
-ISO/IEC 8859-2
-ISO/IEC 8859-3
-ISO/IEC 8859-4
-ISO/IEC 8859-5
-ISO/IEC 8859-6
-ISO/IEC 8859-7
-ISO/IEC 8859-8
-ISO/IEC 8859-9
 ISO 2033
 ISO 5426
 ISO 5427
 ISO 5428
 ISO 6438
 ISO 6862
-ISO IR-68
-ISO basic Latin alphabet
 ITU T.61
 Indian Script Code for Information Interchange
 Information Processing Society of Japan
-Input method editor
-Intecolor/Compucolor 8001 character set
 Iran System encoding
-Iverson Award
-Iverson bracket
 JIS X 0201
 JIS X 0208
 JIS X 0211
 JIS X 0212
 JIS X 0213
-J (programming language)
 Japanese language in EBCDIC
-Jim Brown (computer scientist)
-John M. Scholes
 KOI-7
 KOI8-R
 KOI8-RU
@@ -275,21 +196,13 @@ KOI character encodings
 KPS 9566
 KS X 1001
 KS X 1002
-K (programming language)
 Kamenický encoding
-Kdb+
-Kenneth E. Iverson
-Kx Systems
 LST 1564
 LST 1590-4
 LY1 encoding
-Latin Extended Additional
-Lawrence M. Breed
-Line feed
 Lotus International Character Set
 Lotus Multi-Byte Character Set
 MARC-8
-MCM/70
 MIK (character set)
 MSX character set
 MacArabic encoding
@@ -310,7 +223,6 @@ Mac OS Hebrew
 Mac OS Icelandic encoding
 Mac OS Inuit
 Mac OS Keyboard encoding
-Mac OS Maltese/Esperanto encoding
 Mac OS Ogham
 Mac OS Roman
 Mac OS Romanian encoding
@@ -326,7 +238,6 @@ Mainframe computer
 Mathematical Alphanumeric Symbols
 Mathematical symbols
 Mazovia encoding
-Miscellaneous Technical
 Mojibake
 Mojikyō
 Morse code
@@ -335,59 +246,31 @@ Multinational Character Set
 NEC APC character set
 National Replacement Character Set
 NeXT character set
-Negative-acknowledge character
 Null character
 OML encoding
 OMS encoding
 OT1 encoding
-Oblique type
 Open-source software
-Overstrike
 PETSCII
 Perso-Arabic Script Code for Information Interchange
-Philip S. Abrams
-Pilcrow
-Polymorphic Programming Language
 PostScript Latin 1 Encoding
 PostScript Standard Encoding
-Private Use Areas
-Professional association
-Programming language implementation
 Prosigns for Morse code
-Q (programming language from Kx Systems)
 RISC OS character set
 RPL character set
-Rank (J programming language)
-Record Separator
-Richard H. Lathwell
-Robert Bernecky
-Rodnay Zaks
-Roger Hui
-Roger Moore (computer scientist)
 Russian Morse code
-SAM Coupé character set
 SI 960
 SQUOZE
-Science Research Associates
-Scientific Time Sharing Corporation
 Section sign
 Sega SC-3000 character set
-Shared Variables
 Sharp MZ character set
 Sharp pocket computer character sets
-Shift In
 Shift JIS
-Shift Out
 Sinclair QL character set
-Soliton Incorporated
 Standard Compression Scheme for Unicode
-Standards Council of Canada
-Stanford/ITS character set
 Stanford Extended ASCII
 Substitute character
 Symbol (typeface)
-Synchronous idle
-T.51/ISO/IEC 6937
 TI calculator character sets
 TRON (encoding)
 TRS-80 character set
@@ -395,7 +278,6 @@ Tamil All Character Encoding
 Tamil Script Code for Information Interchange
 TeX
 Telegraph code
-Teleprinter
 Teletex
 Teletext
 Teletext character set
@@ -407,27 +289,22 @@ UTF-32
 UTF-7
 UTF-8
 UTF-EBCDIC
-Underlining
 Unicode
 Unicode Consortium
 Unicode control characters
 Unified Hangul Code
-Unit Separator
 Universal Coded Character Set
-University of Maryland, College Park
 VISCII
 VSCII
 VT100 encoding
 VT220
 Variable-width encoding
 Ventura International
-Vertical Tab
 Videotex
 Videotex character set
 Wabun code
 Wang International Standard Code for Information Interchange
 Wayback Machine
-Western Arabic numerals
 Whitespace character
 Windows-1250
 Windows-1251
@@ -439,9 +316,6 @@ Windows-1256
 Windows-1257
 Windows-1258
 Windows-1270
-Windows Cyrillic + Finnish
-Windows Cyrillic + French
-Windows Cyrillic + German
 Windows Polytonic Greek
 Windows code page
 World System Teletext
@@ -450,5 +324,3 @@ YUSCII
 ZX80 character set
 ZX81 character set
 ZX Spectrum character set
-Ḏāl
-⍷

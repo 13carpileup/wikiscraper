@@ -1,55 +1,38 @@
-AI accelerator
 Allmyapps
 Amazon Appstore
 Amazon Digital Game Store
 Android (operating system)
-App (file format)
 App Store (Apple)
-App Store (iOS/iPadOS)
 App store
 Appland
 Aptoide
 Arcade video game
-ArkData
-ArkTS
-ArkUI
-Ark Compiler
-Base station subsystem
 Battle.net
-BiSheng Compiler
 Big Fish Games
 BlackBerry World
 CPU
 Cafe Bazaar
-Cangjie (programming language)
-Celia (virtual assistant)
 Chrome Web Store
 Cloud gaming
 Club Nokia
 Computing platform
 Content delivery network
-Criticism of Huawei
 Cydia
 DLsite
 DMM Games
 Desura
-DevEco Studio
 Digital River
 Digital distribution
 Digital distribution of video games
 Digital library
-Digital subscriber line
 Direct2Drive
 Discord (software)
 Download!
 EA (service)
 EMUI
-EROFS
-Entity List
 Epic Games Store
 EulerOS
 F-Droid
-Find Device
 Flathub
 GNOME Software
 GOG.com
@@ -62,197 +45,13 @@ Game Jolt
 GamersGate
 Games for Windows Marketplace
 Gamesplanet
-GaussDB
 GetJar
 Google Mobile Services
 Google Play
 Handango
 HarmonyOS
 HarmonyOS NEXT
-HarmonyOS Sans
-HarmonyOS kernel
-HarmonyOS version history
-Harmony Intelligent Mobility Alliance
-HiSilicon
-Honor (brand)
-Honor 4X
-Honor 5X
-Honor 6X
-Huawei
-Huawei 4G eLTE
-Huawei Ascend
-Huawei Ascend (phone)
-Huawei Ascend G300
-Huawei Ascend G330
-Huawei Ascend G600
-Huawei Ascend Mate
-Huawei Ascend Mate 2 4G
-Huawei Ascend Mate 7
-Huawei Ascend P1
-Huawei Ascend P2
-Huawei Ascend P6
-Huawei Ascend P7
-Huawei Ascend W1
-Huawei Ascend W2
-Huawei Ascend Y300
-Huawei Cloud Services
-Huawei Developer Conference
-Huawei E220
-Huawei E5
-Huawei FreeBuds
-Huawei G6600 Passport
-Huawei G8
-Huawei GR3
-Huawei GT3
-Huawei GameCenter
-Huawei Health
-Huawei HiCar
-Huawei Honor 3X
-Huawei Honor 4C
-Huawei Honor Tablet 5
-Huawei IDEOS U8150
-Huawei Ideos Tablet S7
-Huawei Intelligent Automotive Solution
-Huawei M835
-Huawei MateBook
-Huawei MateBook X Pro
-Huawei MateBook series
-Huawei MatePad Pro
-Huawei MateStation
-Huawei MateView
-Huawei Mate 10
-Huawei Mate 20
-Huawei Mate 30
-Huawei Mate 40
-Huawei Mate 50
-Huawei Mate 60
-Huawei Mate 70
-Huawei Mate 8
-Huawei Mate 9
-Huawei Mate S
-Huawei Mate X
-Huawei Mate X2
-Huawei Mate X3
-Huawei Mate X5
-Huawei Mate X6
-Huawei Mate XT
-Huawei Mate Xs 2
-Huawei Mate series
-Huawei Mediapad M5
-Huawei Mediapad M6
-Huawei Mobile Services
-Huawei Music
-Huawei Nova
-Huawei Nova 10
-Huawei Nova 10 Pro
-Huawei Nova 10 SE
-Huawei Nova 10z
-Huawei Nova 11
-Huawei Nova 11 Pro
-Huawei Nova 11 SE
-Huawei Nova 11i
-Huawei Nova 12
-Huawei Nova 12 Pro
-Huawei Nova 12 SE
-Huawei Nova 12i
-Huawei Nova 12s
-Huawei Nova 13
-Huawei Nova 13 Pro
-Huawei Nova 2
-Huawei Nova 2 Plus
-Huawei Nova 2 lite
-Huawei Nova 2s
-Huawei Nova 3
-Huawei Nova 3e
-Huawei Nova 3i
-Huawei Nova 4
-Huawei Nova 4e
-Huawei Nova 5
-Huawei Nova 5T
-Huawei Nova 5 Pro
-Huawei Nova 5i
-Huawei Nova 5i Pro
-Huawei Nova 5z
-Huawei Nova 6
-Huawei Nova 7
-Huawei Nova 7 Pro
-Huawei Nova 7 SE
-Huawei Nova 7 SE 5G Youth
-Huawei Nova 7i
-Huawei Nova 8
-Huawei Nova 8 Pro
-Huawei Nova 8 SE
-Huawei Nova 8 SE Youth
-Huawei Nova 8i
-Huawei Nova 9
-Huawei Nova 9 SE
-Huawei Nova Flip
-Huawei Nova Smart
-Huawei Nova Y60
-Huawei Nova Y61
-Huawei Nova Y70
-Huawei Nova Y90
-Huawei Nova Youth
-Huawei Nova lite
-Huawei Nova lite+
-Huawei Nova lite 2017
-Huawei Ox Horn Campus
-Huawei P10
-Huawei P20
-Huawei P30
-Huawei P40
-Huawei P50
-Huawei P50 Pocket
-Huawei P60
-Huawei P8
-Huawei P8 Max
-Huawei P8 lite 2017
-Huawei P9
-Huawei P9 Plus
-Huawei P9 lite
-Huawei PanGu
-Huawei Pocket 2
-Huawei Pocket S
-Huawei Premia
-Huawei Pura 70
-Huawei Pura series
-Huawei STREAM X GL07S
-Huawei SingleRAN
-Huawei Sonic
-Huawei Sound Joy
-Huawei Sound X
-Huawei Symantec
-Huawei T156
-Huawei T158
-Huawei T161L
-Huawei T201
-Huawei T208
-Huawei T211
-Huawei T261L
-Huawei T330
-Huawei Themes
-Huawei U1000
-Huawei U1100
-Huawei U120
-Huawei U121
-Huawei U1250
-Huawei U1270
-Huawei U2801
-Huawei U3300
-Huawei U7310
-Huawei U7510
-Huawei U8100
-Huawei U8110
-Huawei U8230
-Huawei U8800
-Huawei U9130 Compass
-Huawei U9150
-Huawei Video
-Huawei Vision
-Huawei Watch
 Humble Store
-Hürriyet
-IP Multimedia Subsystem
 Impulse (software)
 IndieGala
 Inside Mac Games
@@ -261,98 +60,63 @@ Itch.io
 KDE Gear
 Kartridge
 Kazaa
-Kirin 990
-Kunpeng 920
-Li Hongyuan incident
-Liang Hua
 List of Android app stores
-List of Huawei phones
 List of mobile app distribution platforms
 LiteOS
 MSN Games
 MacUpdate
 Mac App Store
-Meng Wanzhou
-MetaERP
 Meta Horizon Store
 MiKandi
 Microsoft Store
 Microsoft Windows
-MindSpore
 Mobile device
 Mobile game
 N-Gage (service)
 NESiCAxLive
-Nano Memory
-NearLink
-Network switch
-Network switching subsystem
-New IP
-Nexus 6P
 Nintendo eShop
 Nokia Store
 Nutaku
-Object storage
-OpenGauss
 OpenHarmony
 Opera Mobile Store
 Operating system
 Over-the-air update
 Package manager
-Passive optical network
 Personal computer
-Petal Maps
 PlayNow Arena
 PlayStation Store
 Playism
-Pocket-lint.com
 Pogo.com
 Pokki
 Programmer
 PureOS
-Ren Zhengfei
 Robot Cache
 Rockstar Games Social Club
-Service delivery platform
 SlideME
 Smart TV
 Snap Store
-Softswitch
 Software
 Software categories
 Software distribution
 Stardock Central
 Steam (service)
-Sun Yafang
-System integration
-T-Mobile Pulse
-T-Mobile Tap
 TapTap
 Triton (content delivery)
 Ubisoft Connect
 Ubuntu App Store
 Ubuntu Software Center
 Ubuntu Touch
-United States Department of Commerce
 Video game console
 Virtual reality headset
 Viveport
 Vodafone live!
-Watch Fit
-Watch GT 2
-Watch GT 2 Pro
-Watch GT 2e
 WeGame
 Wii Shop Channel
 WildTangent
 Windows Marketplace
 Windows Marketplace for Mobile
 Windows Phone Store
-XDA Developers
-X Gentle Monster Eyewear
-X Gentle Monster Eyewear II
 Xbox Games Store
 Xbox Live Arcade
-Xu Zhijun
 Yahoo! Games
 Zune Marketplace

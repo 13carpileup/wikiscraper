@@ -6,11 +6,8 @@ Engineering
 Software quality control
 Understandability
 Software sizing
-Software system safety
 Software portability
 Reusability
-ISO/IEC 9126
-Risks
 Algorithmic efficiency
 Uncertainty
 List of system quality attributes
@@ -24,11 +21,9 @@ Economics
 Reliability engineering
 Software testability
 Scalability
-Software development security
 Usability
 Software quality
 Software quality management
 Non-functional requirement
-Systems
 Biology
 Robustness (computer science)

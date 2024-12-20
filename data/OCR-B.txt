@@ -1,104 +1,61 @@
 ISO 2015
-Lucida
 8 (number)
-Creative Commons license
-ISO/IEC TR 12182
-International Civil Aviation Organization
 C
 ISO 10161
-ISO/IEC 19794-5
-Free and open-source software
 List of IEC standards
-Luxi fonts
 International Standard Recording Code
-Cousine
-Croscore fonts
 110 film
 ISO 13485
 ISO 15686
-Behdad Esfahbod
-Braces (punctuation)
 ISO 639-5
 ISO 898
 Apache License
-Ghostscript
 Knowledge Discovery Metamodel
-ISO/IEC 8859-13
-ISO/IEC 15897
-ISO/IEC 2022
 ISO 19600
 ISO 3103
-ISO/IEC 8859-14
 CHILL
 Hole punch
-ISO/IEC 12207
 Full stop
 Accuracy and precision
 International Securities Identification Number
 ISO 11784 and ISO 11785
 Graph Query Language
-ISO/IEC 14443
 ISO 10303-22
 MPEG-H
 ISO 20121
 ISO 10303-21
 MPEG-7
 B
-ISO/IEC 19770
 ISO 1000
-ISO/IEC 8859-3
 ISO 10628
 ArmSCII
 ISO 15022
 List of ISO standards
-Euro sign
-ISO/IEC 7810
-Fixedsys
 ISO base media file format
 ISO 4165
 MPEG-D
-Computer Modern
 ISO 26262
-ISO/IEC 42010
 Business Process Model and Notation
-DeepMind
-METAFONT
-Font Library
-Everson Mono
 ISO-TimeML
 H
-ISO/IEC 9529
-JetBrains
-Font Awesome
-EB Garamond
 ASCII
 Common Criteria
 Manufacturing Message Specification
-Lato (typeface)
-ISO/IEC 15504
 File Allocation Table
-Gentium
 ISO 22395
 IS-IS
-Andalé Mono
 COLLADA
-ISO/IEC 8859-5
-ISO/IEC 15288
 ISO 3977
 JBIG
 ISO 1
 ISO 9362
-Google Fonts
 Film speed
 MPEG-1
 ISO 2
 ISO 216
 ISO 10218
-FreeType
 ISO 6709
-Graphite (smart font technology)
 ISO 843
-ISO
 5 (number)
 ISO 19011
 ISO 11940
@@ -109,17 +66,11 @@ ISO 5428
 @
 C++
 Kappa number
--
-ISO/IEC 8859-11
 ISO 19114
-%
 ISO 28000
 ISO 704
-Hack (typeface)
-Chandas (typeface)
 ISO 15924
 Ada Semantic Interface Specification
-Droid Sans Mono
 Hot shoe
 A440 (pitch standard)
 ISO 10160
@@ -127,44 +78,31 @@ ISO 10160
 9 (number)
 ISO 55000
 ISO 3864
-ISO/IEC 8859-9
 ISO 11170
 ISBN (identifier)
 ISO 22301
 ISO 639-2
 F
-ISO 14000
 FTAM
 ASMO 449
 '
 Hazard symbol
-ISO 19092-1
 ECMAScript for XML
-Bitstream Charter
 ISO 5426
-ISO/IEC 27005
-ISO/IEC 17024
 Horsepower
-ISO/IEC 646
 ISO 128
 Equal-loudness contour
 ISO 19439
-Language Of Temporal Ordering Specification
 ISO 2033
 MPEG-2
 International Standard Music Number
 MPEG-4
-E-Ukraine
 ISO 31000
 ISO 31-10
 J
 Colon (punctuation)
-Kochi (font)
 Bank
-Consolas
-LaTeX Project Public License
 ISO 4157
-FreeMono
 ISO 8501-1
 Cloud Infrastructure Management Interface
 ISO 31-4
@@ -176,115 +114,71 @@ ISO 639-6
 ISO 14031
 Antimagnetic watch
 ISO 2146
-MetaPost
 Dynamic Adaptive Streaming over HTTP
 ISO 8583
 ISO 31-6
-ISO/IEC 9126
 Graphical Kernel System
 COBOL
-Comic Neue
-Fixed (typeface)
 ISO 14644
-ISO/IEC 6523
 ISO 7010
-ISO 31-12
 Linux Standard Base
 ISO 5964
-ISO/IEC 21827
-)
-Bank Gothic
-Andika (typeface)
 ISO 2852
-ISO/IEC 19752
-ISO/IEC 18014
 ISO 17100
 ISO 10303-28
 GNU General Public License
-Letter Gothic
 JPIP
 Essential Video Coding
 Guidelines for the Definition of Managed Objects
-Doulos SIL
 ISO 13584
 ISO 6385
 ISO 860
 Kunrei-shiki romanization
 ISO 37001
-ISO/IEC 8859-7
-ISO/IEC 20000
 ISO 3166
 Han Xin code
 ISO 7637
-GNU Lesser General Public License
 ISO 2014
-ISO 8373
 K
-Adrian Frutiger
 ISO 25964
 ISO 11783
 Magnetic ink character recognition
 ISO 2711
 ISO 6346
-Donald Knuth
-ISO/IEC 8859-8
-ISO/IEC 11801
 C Sharp (programming language)
 $
 ISO 6344
 (
-Amiri (typeface)
-Hershey fonts
-Cantarell (typeface)
 Legal Entity Identifier
 ISO 9
 IATF 16949
 Fiber Distributed Data Interface
 ISO 10007
-Concrete Roman
 E
 List of ISO romanizations
-ISO/IEC 7816
 Common Language Infrastructure
-ISO 19092-2
-ISO/IEC 27006
-ISO/IEC 15693
 ISO 2709
 ISO 50001
 Isofix
-Lohit fonts
-ISO/IEC 27000-series
 Computer Graphics Metafile
 ISO 7001
-International Components for Unicode
 G
 ISO 732
 ALGOL 60
-IBM Plex
 ISO 2921
-ISO/IEEE 11073
 International Bank Account Number
 ISO 15919
 ISO 3307
-ISO/IEC 7811
 ISBN
 ISO 15926 WIP
 ISO 45001
-HarfBuzz
 ISO 7002
-Menlo (typeface)
 ISO 999
-ISO/IEC 8652
-ISO/IEC 17025
 A
-+
-ISO/IEC 8859
 JPEG XL
 JPEG XR
-Cascadia Code
 MPEG-4 Part 11
 ISO 15926
-Charis SIL
 Full BASIC
 FDI World Dental Federation notation
 Asterisk
@@ -293,208 +187,126 @@ ISO 7736
 I
 ISO 10962
 ISO 15398
-BSD licenses
 ISO 259
 ISO 14698
 ISO 16750
 ISO 25178
 MPEG-A
-ISO/IEC 11404
 Lexical Markup Framework
 ISO 3166-1
-Impact printers
-Fontmatrix
-ISO/IEC 80000
 Common Object Request Broker Architecture
 ISO 11992
-Literata
 ISO 217
 ISO 13406-2
 JPEG 2000
 Fuel oil
 Geography Markup Language
 2 (number)
-ISO 7027
 Less-than sign
 Digital object identifier
 ISO 13399
 Document Style Semantics and Specification Language
 ISO 13490
 ECMAScript
-DejaVu fonts
 M
-Courier Prime
-ISO/IEC 8859-4
 ISO 56000
 MPEG-G
-ISO 12006
-Junicode
-International Article Number (EAN)
-Bitstream Vera
-Liberation fonts
 ISO 639-3
-CAN bus
 L
-ISO/IEC 27000
 ISO 20400
 ISO 668
 Linguistic categories
 ISO 8601
-Antykwa Półtawskiego
 Ecma International
 D
-,
 ISO 4217
-Arial
-ISO 9000
 ISO 9564
-Jomolhari (typeface)
 Common Logic
-ISO 2047
-Johnston (typeface)
 ISO 14224
 ISO 5776
-METATYPE1
-Fira Mono
 ISO 14971
 International Standard Name Identifier
 ISO 3166-2
 ISO 10006
 ISO 18245
 ISO 31-5
-ISO/IEC 8859-1
-ISO/IEC 8859-12
-MIT License
 ISO 4031
-ISO/IEC 7812
 MPEG-21
 ISO 639
-Linux Libertine
 ISO 31-3
 HTML
-ISO/IEC 4909
-ISO/IEC 27001
 ISO 8178
 4 (number)
-ISO/IEC 8859-10
-Machine-readable passport
-Asana-Math
 ISO 21001
-Input (typeface)
 ISO 7200
 MaxiCode
 ISO 31-1
-M+ FONTS
 ISO metric screw thread
 ISO 31
 ISO 31-11
-Breeze Sans
 ISO 14617
 ISO 6438
 ISO 5427
 ISO 4
-Bembo
 DICOM
-European Computer Manufacturers Association
 MPEG-4 Part 3
-ISO/IEC 7064
 ISO 31-0
 ISO 21500
 ISO 9660
-Bitmap font
 126 film
 ISO 26000
 1 (number)
-CC-BY 4.0
 EXPRESS (data modeling language)
 ISO-8859-8-I
-FontForge
-ISO/IEC 7813
 Advanced Video Coding
 ISO 639-1
-GNU FreeFont
 ISO 31-7
 ISO 233
 ISO 13567
-GPL font exception
-Envy Code R
-ISO/IEC 8859-6
 ISLISP
-Courier (typeface)
 ISO 1745
 International Organization for Standardization
 Backslash
 MPEG-4 Part 2
-"
 European Committee for Standardization
 ISO 31-8
 Finance
-Droid (typeface)
-&
-ISO/IEC 9797-1
 British Standard Pipe
 ISO 22000
-History of Western typography
-ISO/IEC 27002
-Atkinson Hyperlegible
 ANSI C
 International Standard Atmosphere
 Geospatial metadata
-ISO/TR 11941
-ISO/IEC 5218
 6 (number)
 ISO 690
-HyperFont
-ISO/IEC 38500
 JPEG XS
 ISO 6943
-GNU Unifont
 ISO 2145
-Fira (typeface)
 7 (number)
 3 (number)
 Greater-than sign
-ISO/IEC 10967
 ISO 2848
 International Standard Text Code
 ISO 9897
 Longitudinal redundancy check
 MP4 file format
 International Standard Audiovisual Number
-ISO/IEC 11179
 Human eye
-Greek Font Society
-ISO 31-9
 ISO 20022
 ISO 10303
 ISO 965
-Iosevka
 ANSI escape code
 Market Identifier Code
-DejaVu Sans Mono
 LCEVC
-ISO 31-13
-ISO/IEC 9995
 0 (number)
 ISO 8000
-Garamond
-International Standard Serial Number
 Delivery Multimedia Integration Framework
 =
-Inconsolata
-ISO/IEC 8859-2
 ISO 22300
 ISO 9241
-Baskerville
 International Standard Identifier for Libraries and Related Organizations
-ISO/IEC 8859-15
 ISO 2788
-ISO/IEC 10116
-ISO/IEC 8859-16
-Fuse (automotive)
 ISO 1629
 135 film
-ISO/IEC 14651
 Flowchart
 International Standard Musical Work Code
 Go (programming language)

@@ -1,7 +1,6 @@
 0 (number)
 Abelian Lie algebra
 Adjugate matrix
-Algebraic multiplicity
 Algebraically closed field
 Associative algebra
 Basis (linear algebra)
@@ -13,7 +12,6 @@ Cambridge University Press
 Categorical trace
 Category theory
 Cauchy–Schwarz inequality
-Cengage Learning
 Chapman & Hall
 Character (mathematics)
 Characteristic function (probability theory)
@@ -24,19 +22,12 @@ Circular shift
 Commutator
 Compact operator
 Complex conjugate
-Complex matrix
 Complex number
-Complex numbers
-Complex vector space
 Counit
 Derivative
-Derived algebra
 Determinant
 Diagonal matrix
-Differential (infinitesimal)
-Dimension (linear algebra)
 Dimension (vector space)
-Direct sum of Lie algebras
 Divergence
 Divergence theorem
 Doi (identifier)
@@ -52,13 +43,11 @@ Field trace
 Fixed point (mathematics)
 Flow network
 Frobenius inner product
-Frobenius norm
 Gilbert Strang
 Golden–Thompson inequality
 Graduate Texts in Mathematics
 Group representation
 Hadamard product (matrices)
-Hermitian inner product
 Hermitian matrix
 Hilbert space
 Hilbert–Schmidt operator
@@ -69,24 +58,15 @@ Identity matrix
 If and only if
 Inner product
 Jacobi's formula
-Jordan canonical form
-Jordan form
 Killing form
 Kronecker product
 Kurt Hirsch
 Lie algebra
-Lie algebras
 Lie group
 Linear algebra
-Linear functional
-Linear isomorphism
-Linear operator
-Linear transformation
-MR (identifier)
 Main diagonal
 Matrix calculus
 Matrix exponential
-Matrix product
 Matrix similarity
 Möbius transformation
 Natural isomorphism
@@ -107,9 +87,7 @@ Roger Horn
 S2CID (identifier)
 Scalar (mathematics)
 Scalar curvature
-Scalar transformation
 Semisimple Lie algebra
-Short exact sequence
 Similar matrix
 Similarity invariance
 Simple Lie algebra
@@ -117,18 +95,15 @@ Singular trace
 Specht's theorem
 Special linear Lie algebra
 Special linear group
-Springer-Verlag
 Square matrix
 Statistics
 Superalgebra
 Supertrace
 Symmetric matrix
 Tensor contraction
-Tensor notation
 Tensor product
 Trace class
 Trace identity
-Trace inequalities
 Traced monoidal category
 Transpose
 Triangular matrix
@@ -137,5 +112,3 @@ Vector field
 Vector space
 Vectorization (mathematics)
 Volume
-Von Neumann's trace inequality
-Zbl (identifier)

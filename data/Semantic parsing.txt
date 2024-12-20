@@ -1,21 +1,13 @@
-Abstract Meaning Representation
 Alternative semantics
 Amazon (company)
 Amazon Alexa
 Ambiguity
-Anaphora (linguistics)
 Antecedent-contained deletion
 ArXiv (identifier)
-Automated reasoning
-Automatic programming
 Autonomy of syntax
 Binding (linguistics)
 Cataphora
 Categorial grammar
-Chart parser
-Chatbots
-CiteSeerX (identifier)
-Class (philosophy)
 Coercion (linguistics)
 Cognitive semantics
 Combinatory categorial grammar
@@ -23,10 +15,8 @@ Computational semantics
 Computer vision
 Conditional sentence
 Conservativity
-Context set
 Continuation
 Conversational scoreboard
-Counterfactuals
 Crossover effects
 Cumulativity (linguistics)
 De dicto and de re
@@ -36,25 +26,18 @@ Denotation
 Deontic modality
 Discourse relation
 Discourse representation theory
-Disjunction
 Distributional semantics
-Django (web framework)
 Doi (identifier)
-Donkey anaphora
 Downward entailing
 Dynamic semantics
-Entailment
 Epistemic modality
 Evidentiality
 Exhaustivity
-Existential closure
 Extension (semantics)
 Faultless disagreement
 Focus (linguistics)
 Formal grammar
-Formal semantics (linguistics)
 Formal semantics (natural language)
-Frame semantics (linguistics)
 Free choice inference
 Function application
 Generalized quantifier
@@ -63,45 +46,29 @@ Geography of the United States
 Givenness
 Glue semantics
 Google
-Hearthstone (video game)
-Homogeneity (linguistics)
 Hurford disjunction
-IFTTT
-Image segmentation
 Inalienable possession
 Indexicality
-Inferentialism
-Information extraction
 Information retrieval
 Inquisitive semantics
 Intension
 Intensional logic
 Intersective modifier
 Java (programming language)
-Knowledge base
 Lambda calculus
-Large language model
 Lexical semantics
-Linguistic modality
 Linguistics wars
 Logic translation
-Logical Form (linguistics)
 Logical form (linguistics)
 Logophoricity
-Machine Translation
-Machine translation
-Meaning postulate
 Mereology
 Microsoft
-Minimal recursion semantics
 Mirativity
 Modal subordination
 Monad (functional programming)
 Montague grammar
-Natural Language Processing
 Natural language
 Negation
-Ontology induction
 Opaque context
 Performative utterance
 Philosophy of language
@@ -112,59 +79,24 @@ Pragmatics
 Presupposition
 Principle of compositionality
 Privative adjective
-Process philosophy
 Prolog
 Proposition
-Propositional attitudes
 Python (programming language)
 Quantificational variability effect
 Quantifier (logic)
-Quantifier raising
 Quantization (linguistics)
-Question Answering
 Question answering
 Question under discussion
-Recurrent neural network
-Reference
 Responsive predicate
-Rising declarative
-RoboCup Simulation League
 SQL
 Scalar implicature
 Scope (formal semantics)
-Segmented discourse representation theory
-Semantic analysis (linguistics)
-Semantic neural network
-Semantic parsers
-Semantic role labeling
 Semantics of logic
-Sentiment analysis
 Situation semantics
-Sloppy identity
-Speech act
-Squiggle operator
 Stanford University
-Statistical semantics
 Strawson entailment
 Strict conditional
 Subsective modifier
-Subtrigging
 Supervaluationism
-Syntax
-Syntax–semantics interface
-Telicity
-Temperature paradox
-Tense–aspect–mood
-Text to speech
-Trading card game
-Truth-conditional semantics
-Type shifter
 Type theory
-Type theory with records
 Type–token distinction
-Universal grinder
-Utterance
-Vagueness
-Veridicality
-Virtual assistant (artificial intelligence)
-Yorick Wilks

@@ -1,207 +1,47 @@
-3-clause BSD
-8½ (Plan 9)
-ALGOL
-APL (programming language)
-Accelerated Mobile Pages
-Acme (text editor)
-Active Oberon
-Actor model
-Ada (programming language)
-Addison-Wesley Professional
 Alef (programming language)
-Algebraic types
 Android (operating system)
-AngularJS
-Angular (web framework)
-Apache Beam
-Array data type
-Array slicing
 Assembly language
-Assertion (software development)
 Associative array
-Asynchronous I/O
 BASIC
-BCPL
 B (programming language)
-Base case (recursion)
-Bazel (software)
-Bell Labs
-Belle (chess machine)
-Blit (computer terminal)
-Blockly
-Boolean data type
-Bruce Eckel
-Build automation
 C++
-C. A. R. Hoare
 COBOL
 C (programming language)
 C Sharp (programming language)
-C file input/output
-Caddy (web server)
-Carbon (programming language)
-Channel (programming)
 Chapel (programming language)
-Charles Bigelow (type designer)
 ChromiumOS
-Chromium (web browser)
 Cilk
-CiteSeerX (identifier)
-CockroachDB
-Codebase
-Communicating sequential processes
-Comparison of programming languages
-Compiled language
 Compiler
-Component Developer Magazine
-Composition over inheritance
 Computer
 Computer network
 Concurrency (computer science)
-Concurrency control
-Concurrent programming
-Coroutine
-Cpplint
-Criticism of C++
-Crystal (programming language)
 DIN
-Dart (programming language)
-Data race
-Debugging
-Delegation (programming)
-Dialect (computing)
-Docker (software)
 Doi (identifier)
-Don't be evil
-DragonFly BSD
-Duck typing
-Dynamic array
-Dynamic dispatch
-Dynamic programming language
-Ed (text editor)
-Engine Yard
-Enumerated type
-Erlang (programming language)
 Exception handling
 Exclusive or
-FIFO (computing and electronics)
-Fat pointer
 Filename extension
-FlatBuffers
-Flutter (software)
-Fork–join model
-Forth (programming language)
-Fortran
 FreeBSD
-Front-end web development
 Fuchsia (operating system)
-Functional programming
-Fuzzing
-GLOP
-GLinux
 GNU Compiler Collection
-GRPC
-GVisor
-Ganeti
 Garbage collection (computer science)
-Gears (software)
-Gemini (language model)
-General purpose programming language
-Generational list of programming languages
-Generic programming
-Gerrit (software)
 GitHub
-Go! (programming language)
-Goobuntu
 Google
-Google Closure Tools
-Google Code-in
-Google Guava
-Google Guice
-Google Inc.
-Google LLC v. Oracle America, Inc.
-Google Native Client
-Google Summer of Code
-Gopher
-Green thread
-Grep
-Gson
-Guetzli
 Haskell
-High-level programming language
-History of programming languages
-Hugo (software)
-Humanist sans-serif
-IPv4
 ISBN (identifier)
 Imperative programming
-Inferno (operating system)
-Inheritance (object-oriented programming)
-Input/output
 Integrated development environment
-Intel Threading Building Blocks
-Intelligent code completion
-Iterator
-JSON
 JavaScript
 Java (programming language)
-Julia (programming language)
-Ken Thompson
-Kotlin (programming language)
-Kris Holmes
-Kubernetes
-LLVM
-Language Server Protocol
-Letterform
-LevelDB
-Libvpx
-Light-weight process
-Lighthouse (software)
 Limbo (programming language)
-Lines of code
 Linux
-Linux Magazine
 Lisp (programming language)
-List of programming languages
-List of programming languages by type
-Lua (programming language)
-Lucida Grande
 MATLAB
-ML (programming language)
 MacOS
-Mark V. Shaney
 Mascot
-Memory management
-Memory safety
-Message passing
-Method (computer programming)
 Microsoft Windows
-Modula
-Modula-2
-Monospaced
-Multi-core processor
-Multi-paradigm programming language
 Multiprocessing
-Mutex
-Namebench
 NetBSD
-Newsqueak
-Nominal type system
-Nominal typing
-Nomulus
-Non-English-based programming languages
-Null pointer
-O'Reilly Media
-OR-Tools
-Oberon-2
-Oberon (programming language)
 Object-oriented programming
-Object Pascal
-Object composition
-Occam (programming language)
-OpenBSD
-OpenRefine
-Open Source Security Foundation
 Open source
 Operating system
 PHP
@@ -210,91 +50,20 @@ Parallel computing
 Parameter (computer programming)
 Pascal (programming language)
 Perl
-Plan 9 from Bell Labs
-Pointer (computer programming)
-Pointer arithmetic
-Polymer (library)
-Profiling (computer programming)
 Programming language
-Programming language implementation
 Programming paradigm
 Programming productivity
 Prolog
-Protocol (object-oriented programming)
-Protocol Buffers
 Python (programming language)
-R (programming language)
-Readability
 Record (computer science)
-Renée French
-Return statement
-Rio (windowing system)
-Rob Pike
-Robert Griesemer
 Ruby (programming language)
-Run time (program lifecycle phase)
-Runtime polymorphism
-Russ Cox
-Rust (programming language)
-SIGMOD
 SQL
-Sam (text editor)
-Sawzall (programming language)
-Scala (programming language)
-Scratch (programming language)
-Self-hosting (compilers)
-SemVer
-Semipredicate problem
-Shared memory architecture
-Shell script
-Simula
-Smalltalk
 Software design
 Software developer
 Software license
-Software patents
 Software release life cycle
-Solaris (operating system)
-Source-to-source compiler
-Space Travel (video game)
-Standard ML
 Stanford University
-Static library
-Static program analysis
-Static typing
-Strong typing
-Structural type system
-Structural typing
-Subroutine
-Swift (programming language)
-Syntax (programming languages)
-TIOBE Programming Community Index
-Tagged union
-TensorFlow
-Tesseract (software)
-The Practice of Programming
-The Register
-The Unix Programming Environment
-Thompson shell
-Thread (computer science)
-Timeline of programming languages
-Toolchain
-Type conversion
-Type inference
-Type system
 UTF-8
-Union type
-Unit testing
-Unix
 Usability
-V8 (JavaScript engine)
-V (programming language)
-Virtual inheritance
-Visual Basic
-Visual Basic (.NET)
 Visual Basic (classic)
-WFMU
-WGL4
 Windows
-X-height
-YAML
