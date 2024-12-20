@@ -1,10 +1,12 @@
 const FileService = require('./fileService');
 const DBCache = require('./dbCache');
+const Graph = require('./graph');
 
 
 class PathFinderService {
     static async findPaths(initial, target, pathCount=3) {
         await DBCache.initDB();
+        if (Graph.connections.size < 10) await Graph.init();
 
         await FileService.logRequest(initial, target);
         let res = await DBCache.checkCache(initial, target);
@@ -13,7 +15,7 @@ class PathFinderService {
         if (res && res.length!=0) return res;
 
         const visited = new Map();
-        const queue = [[[initial], await FileService.readFile(initial)]];
+        const queue = [[[initial], Graph.get(initial)]];
         let foundPaths = [];
         let foundLength = -1;
 
@@ -45,9 +47,9 @@ class PathFinderService {
                 if (visited.has(con)) continue;
                 visited.set(con, true);
 
-                if (!(await FileService.checkFile(con))) continue;
+                if (!Graph.connections.get(con)) continue;
 
-                const newConnections = await FileService.readFile(con);
+                const newConnections = Graph.get(con);
                 queue.push([currentPath.concat([con]), newConnections]);
 
                 if (newConnections.includes(target)) {
