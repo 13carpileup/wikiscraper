@@ -57,7 +57,7 @@ router.post('/', async (req, res) => {
     const initialExists = await FileService.checkFile(initial);
     const throughExists = await FileService.checkFile(through);
 
-    if (!initialExists || !targetExists || !throughExists) {
+    if (!initialExists || !targetExists || (!throughExists && through)) {
         return res.send('One or all of your provided pages does not exist. Sorry! It is possible that the page does exist on the real wikipedia, but that my app does not recognize this. If you would like me to add your page, please reach out.');
     }
 
@@ -66,6 +66,7 @@ router.post('/', async (req, res) => {
         res.send(renderResultsPage(foundPaths));
         return;
     }
+
 
     const firstPaths = await PathFinderService.findPaths(initial, through);
     const secondPaths = await PathFinderService.findPaths(through, target);
