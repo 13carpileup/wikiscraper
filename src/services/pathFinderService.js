@@ -33,8 +33,8 @@ class PathFinderService {
                         let fullNewPath = currentPath.concat(p);
                         await DBCache.addCache(initial, target, fullNewPath);
                         foundPaths.push(fullNewPath);
-                        foundLength = fullNewPath.length;
                         if (foundLength != -1 && foundLength < currentPath.length || foundPaths.length >= pathCount) return foundPaths;
+                        foundLength = fullNewPath.length;
                     };
 
                     foundLength = res[0].length;
@@ -55,8 +55,9 @@ class PathFinderService {
                 if (newConnections.includes(target)) {
                     foundPaths.push(currentPath.concat([con, target]));
                     await DBCache.addCache(initial, target, currentPath.concat([con, target]));
-                    foundLength = currentPath.length;
                     if (foundLength != -1 && foundLength < currentPath.length || foundPaths.length >= pathCount) return foundPaths;
+                    foundLength = currentPath.length;
+
                 }
             }
         }
